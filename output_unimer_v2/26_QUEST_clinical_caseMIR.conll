@@ -1,0 +1,121 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	26_QUEST_clinical_caseMIR	SENT1	-	-
+2	estudiante	estudiante	NCCS000	C0038492	ocupación	4-14	26_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	26_QUEST_clinical_caseMIR	SENT1	-	-
+4	22	22		-	-	18-20	26_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	21-25	26_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332288	atributo	26-29	26_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	-	-	30-42	26_QUEST_clinical_caseMIR	SENT1	-	-
+8	patológicos	patológico	AQ0MP0	C1521733	calificador	43-54	26_QUEST_clinical_caseMIR	SENT1	-	-
+9	ni	ni	CC	-	-	55-57	26_QUEST_clinical_caseMIR	SENT1	-	-
+10	uso	uso	NCMS000	C0457083#C1947944	atributo#calificador	58-61	26_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	62-64	26_QUEST_clinical_caseMIR	SENT1	-	-
+12	medicamentos	medicamento	NCMP000	C0456386#C0013227	atributo#sustancia	65-77	26_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	salvo	salvo	SPS00	-	-	78-83	26_QUEST_clinical_caseMIR	SENT1	-	-
+14	anovulatorios	anovulatorios	NCMP000	-	-	84-97	26_QUEST_clinical_caseMIR	SENT1	-	-
+15	acude	acudir	VMIP3S0	-	-	98-103	26_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	104-105	26_QUEST_clinical_caseMIR	SENT1	-	-
+17	Urgencias	urgencia	NCFP000	C0439609	calificador	106-115	26_QUEST_clinical_caseMIR	SENT1	-	-
+18	por	por	SPS00	C0678226	atributo	116-119	26_QUEST_clinical_caseMIR	SENT1	-	-
+19	deterioro	deterioro	NCMS000	C1279889_1	calificador_1	120-129	26_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	del	del	SP+DA	C1279889_2	calificador_2	130-133	26_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	estado	estar	VAP00SM	C1279889_3	calificador_3	134-140	26_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	general	general	AQ0CS0	C0205246	calificador	141-148	26_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	y	y	CC	C1706368	calificador	149-150	26_QUEST_clinical_caseMIR	SENT1	-	-
+24	necesidad	necesidad	NCFS000	C0686904_1	calificador_1	151-160	26_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0686904_2	calificador_2	161-163	26_QUEST_clinical_caseMIR	SENT1	-	-
+26	respirar	respirar	VMN0000	-	-	164-172	26_QUEST_clinical_caseMIR	SENT1	-	-
+27	profundamente	profundamente	RG	-	-	173-186	26_QUEST_clinical_caseMIR	SENT1	-	-
+28	.	.	Fp	-	-	186-187	26_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	188-195	26_QUEST_clinical_caseMIR	SENT2	-	-
+2	haber	haber	VAN0000	-	-	196-201	26_QUEST_clinical_caseMIR	SENT2	-	-
+3	perdido	perder	VMP00SM	-	-	202-209	26_QUEST_clinical_caseMIR	SENT2	-	-
+4	peso	peso	NCMS000	C0043100	calificador	210-214	26_QUEST_clinical_caseMIR	SENT2	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	215-217	26_QUEST_clinical_caseMIR	SENT2	-	-
+6	los	el	DA0MP0	-	-	218-221	26_QUEST_clinical_caseMIR	SENT2	-	-
+7	2-3	2-3		-	-	222-225	26_QUEST_clinical_caseMIR	SENT2	-	-
+8	últimos	último	AO0MP0	-	-	226-233	26_QUEST_clinical_caseMIR	SENT2	-	-
+9	días	día	NCMP000	C0439228#C0332169	calificador	234-238	26_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	238-239	26_QUEST_clinical_caseMIR	SENT2	-	-
+11	polidipsia	polidipsia	NCFS000	C1994994#C0085602	hallazgo	240-250	26_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	250-251	26_QUEST_clinical_caseMIR	SENT2	-	-
+13	poliuria	poliuria	NCFS000	C0032617	hallazgo#trastorno	252-260	26_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	261-262	26_QUEST_clinical_caseMIR	SENT2	-	-
+15	náuseas	náusea	NCFP000	-	-	263-270	26_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	270-271	26_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	No	no	RN	C1298908	calificador	272-274	26_QUEST_clinical_caseMIR	SENT3	-	-
+2	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	275-278	26_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+3	ni	ni	CC	-	-	279-281	26_QUEST_clinical_caseMIR	SENT3	-	-
+4	sensación	sensación	NCFS000	C0036658#C1455667	calificador	282-291	26_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+5	febril	febril	AQ0CS0	C0015967	hallazgo	292-298	26_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+6	.	.	Fp	-	-	298-299	26_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Exploración	exploración	NCFS000	C1280903	procedimiento	300-311	26_QUEST_clinical_caseMIR	SENT4	-	-
+2	:	:	Fd	-	-	311-312	26_QUEST_clinical_caseMIR	SENT4	-	-
+3	aspecto	aspecto	NCMS000	C0700364#C0233426#C0332441	calificador#función	313-320	26_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	321-323	26_QUEST_clinical_caseMIR	SENT4	-	-
+5	gravedad	gravedad	NCFS000	C0282189#C0439793	fuerza_física#calificador	324-332	26_QUEST_clinical_caseMIR	SENT4	-	-
+6	,	,	Fc	-	-	332-333	26_QUEST_clinical_caseMIR	SENT4	-	-
+7	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	334-341	26_QUEST_clinical_caseMIR	SENT4	-	-
+8	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	342-350	26_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+9	100/60	100/60	Z	-	-	351-357	26_QUEST_clinical_caseMIR	SENT4	-	-
+10	mmHg	mmHg	NCMP000	-	-	358-362	26_QUEST_clinical_caseMIR	SENT4	-	-
+11	,	,	Fc	-	-	362-363	26_QUEST_clinical_caseMIR	SENT4	-	-
+12	respiración	respiración	NCFS000	C1328799#C0220854_1	hallazgo_1	364-375	26_QUEST_clinical_caseMIR	SENT4	-	-
+13	profunda	profundo	AQ0FS0	C1328799#C0220854_2	hallazgo_2	376-384	26_QUEST_clinical_caseMIR	SENT4	-	-
+14	y	y	CC	C1706368	calificador	385-386	26_QUEST_clinical_caseMIR	SENT4	-	-
+15	rápida	rápido	AQ0FS0	C0456962	calificador	387-393	26_QUEST_clinical_caseMIR	SENT4	-	-
+16	(	(	Fpa	-	-	394-395	26_QUEST_clinical_caseMIR	SENT4	-	-
+17	28	28		-	-	395-397	26_QUEST_clinical_caseMIR	SENT4	-	-
+18	rpm	r.p.m.	NCFN000	-	-	398-401	26_QUEST_clinical_caseMIR	SENT4	-	-
+19	)	)	Fpt	-	-	401-402	26_QUEST_clinical_caseMIR	SENT4	-	-
+20	,	,	Fc	-	-	402-403	26_QUEST_clinical_caseMIR	SENT4	-	-
+21	nivel	nivel	NCMS000	C0234425_1	entidad_observable_1	404-409	26_QUEST_clinical_caseMIR	SENT4	-	-
+22	de	de	SPS00	C0234425_2	entidad_observable_2	410-412	26_QUEST_clinical_caseMIR	SENT4	-	-
+23	conciencia	concienciar	VMM02S0	C0234425_3	entidad_observable_3	413-423	26_QUEST_clinical_caseMIR	SENT4	-	-
+24	conservado	conservar	VMP00SM	-	-	424-434	26_QUEST_clinical_caseMIR	SENT4	-	-
+25	,	,	Fc	-	-	434-435	26_QUEST_clinical_caseMIR	SENT4	-	-
+26	sequedad	sequedad	NCFS000	-	-	436-444	26_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+27	de	de	SPS00	C0332285	atributo	445-447	26_QUEST_clinical_caseMIR	SENT4	-	-
+28	mucosas	mucosa	NCFP000	C0026724	estructura_corporal	448-455	26_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+29	.	.	Fp	-	-	455-456	26_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	No	no	RN	C1298908	calificador	457-459	26_QUEST_clinical_caseMIR	SENT5	-	-
+2	fiebre	fiebre	NCFS000	C0015967	hallazgo	460-466	26_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+3	.	.	Fp	-	-	466-467	26_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Analítica	analítica	NCFS000	-	-	468-477	26_QUEST_clinical_caseMIR	SENT6	-	-
+2	:	:	Fd	-	-	477-478	26_QUEST_clinical_caseMIR	SENT6	-	-
+3	glucemia	glucemia	NCFS000	C2585282	entidad_observable	479-487	26_QUEST_clinical_caseMIR	SENT6	-	-
+4	420	420	Z	-	-	488-491	26_QUEST_clinical_caseMIR	SENT6	-	-
+5	mg	mg	NCMN000	-	-	492-494	26_QUEST_clinical_caseMIR	SENT6	-	-
+6	/	/	Fh	-	-	494-495	26_QUEST_clinical_caseMIR	SENT6	-	-
+7	dL	decilitro	NCMN000	C0439241	calificador	495-497	26_QUEST_clinical_caseMIR	SENT6	-	-
+8	,	,	Fc	-	-	497-498	26_QUEST_clinical_caseMIR	SENT6	-	-
+9	Na+	na+	VMIP3S0	-	-	499-502	26_QUEST_clinical_caseMIR	SENT6	-	-
+10	131	131		-	-	503-506	26_QUEST_clinical_caseMIR	SENT6	-	-
+11	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	507-510	26_QUEST_clinical_caseMIR	SENT6	-	-
+12	/	/	Fh	-	-	510-511	26_QUEST_clinical_caseMIR	SENT6	-	-
+13	L	l	NCFS000	-	-	511-512	26_QUEST_clinical_caseMIR	SENT6	-	-
+14	,	,	Fc	-	-	512-513	26_QUEST_clinical_caseMIR	SENT6	-	-
+15	K+	k+	NCMS000	-	-	514-516	26_QUEST_clinical_caseMIR	SENT6	-	-
+16	normal	normal	AQ0CS0	C0205307	calificador	517-523	26_QUEST_clinical_caseMIR	SENT6	-	-
+17	,	,	Fc	-	-	523-524	26_QUEST_clinical_caseMIR	SENT6	-	-
+18	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	525-527	26_QUEST_clinical_caseMIR	SENT6	-	-
+19	7,08	7,08		-	-	528-532	26_QUEST_clinical_caseMIR	SENT6	-	-
+20	,	,	Fc	-	-	532-533	26_QUEST_clinical_caseMIR	SENT6	-	-
+21	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	534-545	26_QUEST_clinical_caseMIR	SENT6	-	-
+22	8	8		-	-	546-547	26_QUEST_clinical_caseMIR	SENT6	-	-
+23	MQ	medicoquirúrgicos	NC00YL0	-	-	548-550	26_QUEST_clinical_caseMIR	SENT6	-	-
+24	/	/	Fh	-	-	550-551	26_QUEST_clinical_caseMIR	SENT6	-	-
+25	L	l	NCFS000	-	-	551-552	26_QUEST_clinical_caseMIR	SENT6	-	-
+26	y	y	CC	C1706368	calificador	553-554	26_QUEST_clinical_caseMIR	SENT6	-	-
+27	cetonuria	cetonuria	NCFS000	C0162275	hallazgo	555-564	26_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+28	(	(	Fpa	-	-	565-566	26_QUEST_clinical_caseMIR	SENT6	-	-
+29	+	+	Fz	-	-	566-567	26_QUEST_clinical_caseMIR	SENT6	-	-
+30	+	+	Fz	-	-	567-568	26_QUEST_clinical_caseMIR	SENT6	-	-
+31	+	+	Fz	-	-	568-569	26_QUEST_clinical_caseMIR	SENT6	-	-
+32	)	)	Fpt	-	-	569-570	26_QUEST_clinical_caseMIR	SENT6	-	-
+33	.	.	Fp	-	-	570-571	26_QUEST_clinical_caseMIR	SENT6	-	-
+

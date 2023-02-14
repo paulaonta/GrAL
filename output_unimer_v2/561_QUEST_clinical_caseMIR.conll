@@ -1,0 +1,78 @@
+1	¿	¿	Fia	-	-	337-338	561_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	338-342	561_QUEST_clinical_caseMIR	SENT1	-	-
+3	debe	deber	VMIP3S0	-	-	343-347	561_QUEST_clinical_caseMIR	SENT1	-	-
+4	ser	ser	VSN0000	-	-	348-351	561_QUEST_clinical_caseMIR	SENT1	-	-
+5	su	su	DP3CS0	-	-	352-354	561_QUEST_clinical_caseMIR	SENT1	-	-
+6	actitud	actitud	NCFS000	C0004271	entidad_observable	355-362	561_QUEST_clinical_caseMIR	SENT1	-	-
+7	?	?	Fit	-	-	362-363	561_QUEST_clinical_caseMIR	SENT1	-	-
+8	:	:	Fd	-	-	363-364	561_QUEST_clinical_caseMIR	SENT1	-	-
+9	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	561_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	7-9	561_QUEST_clinical_caseMIR	SENT1	-	-
+11	24	24		-	-	10-12	561_QUEST_clinical_caseMIR	SENT1	-	-
+12	años	año	NCMP000	C0439234	calificador	13-17	561_QUEST_clinical_caseMIR	SENT1	-	-
+13	que	que	PR0CN000	-	-	18-21	561_QUEST_clinical_caseMIR	SENT1	-	-
+14	acude	acudir	VMIP3S0	-	-	22-27	561_QUEST_clinical_caseMIR	SENT1	-	-
+15	a	a	SPS00	-	-	28-29	561_QUEST_clinical_caseMIR	SENT1	-	-
+16	urgencias	urgencia	NCFP000	C0439609	calificador	30-39	561_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	40-43	561_QUEST_clinical_caseMIR	SENT1	-	-
+18	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	44-50	561_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	y	y	CC	C1706368	calificador	51-52	561_QUEST_clinical_caseMIR	SENT1	-	-
+20	disfagia	disfagia	NCFS000	C0232520#C0011168	hallazgo#trastorno	53-61	561_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	.	.	Fp	-	-	61-62	561_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	63-65	561_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	66-68	561_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	69-80	561_QUEST_clinical_caseMIR	SENT2	-	-
+4	se	se	P00CN000	-	-	81-83	561_QUEST_clinical_caseMIR	SENT2	-	-
+5	objetiva	objetivar	VMIP3S0	-	-	84-92	561_QUEST_clinical_caseMIR	SENT2	-	-
+6	edema	edema	NCMS000	C0264315_1	trastorno_1	93-98	561_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0264315_2	trastorno_2	99-101	561_QUEST_clinical_caseMIR	SENT2	-	-
+8	glotis	glotis	NCFN000	C0264315_3	trastorno_3	102-108	561_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	,	,	Fc	-	-	108-109	561_QUEST_clinical_caseMIR	SENT2	-	-
+10	PA	pa	NC00YL0	-	-	110-112	561_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	113-115	561_QUEST_clinical_caseMIR	SENT2	-	-
+12	119/72	119/72	Z	-	-	116-122	561_QUEST_clinical_caseMIR	SENT2	-	-
+13	mm_de_Hg	mmHg	NCMN000	-	-	123-131	561_QUEST_clinical_caseMIR	SENT2	-	-
+14	,	,	Fc	-	-	131-132	561_QUEST_clinical_caseMIR	SENT2	-	-
+15	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	133-143	561_QUEST_clinical_caseMIR	SENT2	-	-
+16	cardiaca	cardiaco	AQ0FS0	-	-	144-152	561_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	de	de	SPS00	C0332285	atributo	153-155	561_QUEST_clinical_caseMIR	SENT2	-	-
+18	102	102		-	-	156-159	561_QUEST_clinical_caseMIR	SENT2	-	-
+19	lpm	lpm	NC00YL0	-	-	160-163	561_QUEST_clinical_caseMIR	SENT2	-	-
+20	,	,	Fc	-	-	163-164	561_QUEST_clinical_caseMIR	SENT2	-	-
+21	saturación	saturación	NCFS000	-	-	165-175	561_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0332285	atributo	176-178	561_QUEST_clinical_caseMIR	SENT2	-	-
+23	02	02		-	-	179-181	561_QUEST_clinical_caseMIR	SENT2	-	-
+24	91	91	Z	-	-	182-184	561_QUEST_clinical_caseMIR	SENT2	-	-
+25	%	%	Ft	-	-	184-185	561_QUEST_clinical_caseMIR	SENT2	-	-
+26	.	.	Fp	-	-	185-186	561_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	187-189	561_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	190-192	561_QUEST_clinical_caseMIR	SENT3	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	193-202	561_QUEST_clinical_caseMIR	SENT3	-	-
+4	,	,	Fc	-	-	202-203	561_QUEST_clinical_caseMIR	SENT3	-	-
+5	refiere	referir	VMIP3S0	-	-	204-211	561_QUEST_clinical_caseMIR	SENT3	-	-
+6	haber	haber	VAN0000	-	-	212-217	561_QUEST_clinical_caseMIR	SENT3	-	-
+7	comenzado	comenzar	VMP00SM	-	-	218-227	561_QUEST_clinical_caseMIR	SENT3	-	-
+8	hace	hacer	VMIP3S0	-	-	228-232	561_QUEST_clinical_caseMIR	SENT3	-	-
+9	unos	uno	DI0MP0	C0205447	calificador	233-237	561_QUEST_clinical_caseMIR	SENT3	-	-
+10	2	2		-	-	238-239	561_QUEST_clinical_caseMIR	SENT3	-	-
+11	años	año	NCMP000	C0439234	calificador	240-244	561_QUEST_clinical_caseMIR	SENT3	-	-
+12	con	con	SPS00	C0332287	atributo	245-248	561_QUEST_clinical_caseMIR	SENT3	-	-
+13	episodios	episodio	NCMP000	C0332189	atributo	249-258	561_QUEST_clinical_caseMIR	SENT3	-	-
+14	autolimitados	autolimitar	VMP00PM	-	-	259-272	561_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	273-275	561_QUEST_clinical_caseMIR	SENT3	-	-
+16	angioedema	angioedema	NCMS000	C0002994	trastorno	276-286	561_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+17	no	no	RN	C1298908	calificador	287-289	561_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+18	pruriginoso	pruriginoso	AQ0MS0	C0439707	calificador	290-301	561_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	302-304	561_QUEST_clinical_caseMIR	SENT3	-	-
+20	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	305-317	561_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+21	.	.	Fp	-	-	317-318	561_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Su	su	DP3CS0	-	-	319-321	561_QUEST_clinical_caseMIR	SENT4	-	-
+2	padre	padre	NCMS000	C0015671	persona	322-327	561_QUEST_clinical_caseMIR	SENT4	-	-
+3	presenta	presentar	VMIP3S0	-	-	328-336	561_QUEST_clinical_caseMIR	SENT4	-	-
+4	episodios	episodio	NCMP000	C0332189	atributo	337-346	561_QUEST_clinical_caseMIR	SENT4	-	-
+5	similares	similar	AQ0CP0	-	-	347-356	561_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	356-357	561_QUEST_clinical_caseMIR	SENT4	-	-
+

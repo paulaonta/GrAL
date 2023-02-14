@@ -1,0 +1,85 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	66_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	66_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	66_QUEST_clinical_caseMIR	SENT1	-	-
+4	36	36		-	-	15-17	66_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	66_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	22-23	66_QUEST_clinical_caseMIR	SENT1	-	-
+7	oriundo	oriundo	NCMS000	-	-	24-31	66_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	32-34	66_QUEST_clinical_caseMIR	SENT1	-	-
+9	otra	otro	DI0FS0	C0205394#C0449210	calificador#estructura_corporal	35-39	66_QUEST_clinical_caseMIR	SENT1	-	-
+10	cultura	cultura	NCFS000	-	-	40-47	66_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	48-51	66_QUEST_clinical_caseMIR	SENT1	-	-
+12	vive	vivir	VMIP3S0	-	-	52-56	66_QUEST_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	66_QUEST_clinical_caseMIR	SENT1	-	-
+14	España	españa	NC00SC0	C0037747	localización_geográfica	60-66	66_QUEST_clinical_caseMIR	SENT1	-	-
+15	desde	desde	SPS00	-	-	67-72	66_QUEST_clinical_caseMIR	SENT1	-	-
+16	hace	hacer	VMIP3S0	-	-	73-77	66_QUEST_clinical_caseMIR	SENT1	-	-
+17	4	4		-	-	78-79	66_QUEST_clinical_caseMIR	SENT1	-	-
+18	años	año	NCMP000	C0439234	calificador	80-84	66_QUEST_clinical_caseMIR	SENT1	-	-
+19	se	se	P00CN000	-	-	85-87	66_QUEST_clinical_caseMIR	SENT1	-	-
+20	presenta	presentar	VMIP3S0	-	-	88-96	66_QUEST_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	97-99	66_QUEST_clinical_caseMIR	SENT1	-	-
+22	una	una		C0205447_1	calificador_1	100-103	66_QUEST_clinical_caseMIR	SENT1	-	-
+23	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	104-112	66_QUEST_clinical_caseMIR	SENT1	-	-
+24	del	del	SP+DA	-	-	113-116	66_QUEST_clinical_caseMIR	SENT1	-	-
+25	S.N.	s.n.	NCFS000	-	-	117-121	66_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	122-124	66_QUEST_clinical_caseMIR	SENT1	-	-
+27	Salud	salud	NCFS000	C0018684	calificador	125-130	66_QUEST_clinical_caseMIR	SENT1	-	-
+28	.	.	Fp	-	-	130-131	66_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	132-139	66_QUEST_clinical_caseMIR	SENT2	-	-
+2	presentar	presentar	VMN0000	-	-	140-149	66_QUEST_clinical_caseMIR	SENT2	-	-
+3	desde	desde	SPS00	-	-	150-155	66_QUEST_clinical_caseMIR	SENT2	-	-
+4	hace	hacer	VMIP3S0	-	-	156-160	66_QUEST_clinical_caseMIR	SENT2	-	-
+5	10	10		-	-	161-163	66_QUEST_clinical_caseMIR	SENT2	-	-
+6	meses	mes	NCMP000	C0439231	calificador	164-169	66_QUEST_clinical_caseMIR	SENT2	-	-
+7	sintomatología	sintomatología	NCFS000	-	-	170-184	66_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	ansiosa	ansioso	AQ0FS0	-	-	185-192	66_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	193-194	66_QUEST_clinical_caseMIR	SENT2	-	-
+10	humor	humor	NCMS000	C0026516	entidad_observable	195-200	66_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	depresivo	depresivo	AQ0MS0	-	-	201-210	66_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+12	.	.	Fp	-	-	210-211	66_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Este	este	DD0MS0	-	-	212-216	66_QUEST_clinical_caseMIR	SENT3	-	-
+2	cuadro	cuadro	NCMS000	-	-	217-223	66_QUEST_clinical_caseMIR	SENT3	-	-
+3	interfiere	interferir	VMIP3S0	-	-	224-234	66_QUEST_clinical_caseMIR	SENT3	-	-
+4	moderadamente	moderadamente	RG	-	-	235-248	66_QUEST_clinical_caseMIR	SENT3	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	249-251	66_QUEST_clinical_caseMIR	SENT3	-	-
+6	su	su	DP3CS0	-	-	252-254	66_QUEST_clinical_caseMIR	SENT3	-	-
+7	actividad	actividad	NCFS000	C0441655	entidad_observable	255-264	66_QUEST_clinical_caseMIR	SENT3	-	-
+8	cotidiana	cotidiano	AQ0FS0	-	-	265-274	66_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	274-275	66_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	276-278	66_QUEST_clinical_caseMIR	SENT4	-	-
+2	tiene	tener	VMIP3S0	-	-	279-284	66_QUEST_clinical_caseMIR	SENT4	-	-
+3	antecedentes	antecedente	NCMP000	-	-	285-297	66_QUEST_clinical_caseMIR	SENT4	-	-
+4	psiquiátricos	psiquiátrico	AQ0MP0	C0205487	calificador	298-311	66_QUEST_clinical_caseMIR	SENT4	-	-
+5	previos	previo	AQ0MP0	C0205156	calificador	312-319	66_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	319-320	66_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Dicha	decir	VMP00SF	-	-	321-326	66_QUEST_clinical_caseMIR	SENT5	-	-
+2	situación	situación	NCFS000	-	-	327-336	66_QUEST_clinical_caseMIR	SENT5	-	-
+3	se	se	P00CN000	-	-	337-339	66_QUEST_clinical_caseMIR	SENT5	-	-
+4	produce	producir	VMIP3S0	-	-	340-347	66_QUEST_clinical_caseMIR	SENT5	-	-
+5	a	a	SPS00	-	-	348-349	66_QUEST_clinical_caseMIR	SENT5	-	-
+6	raíz	raíz	NCFS000	-	-	350-354	66_QUEST_clinical_caseMIR	SENT5	-	-
+7	del	del	SP+DA	-	-	355-358	66_QUEST_clinical_caseMIR	SENT5	-	-
+8	fallecimiento	fallecimiento	NCMS000	C1306577	hallazgo	359-372	66_QUEST_clinical_caseMIR	SENT5	-	-
+9	,	,	Fc	-	-	372-373	66_QUEST_clinical_caseMIR	SENT5	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	374-376	66_QUEST_clinical_caseMIR	SENT5	-	-
+11	un	un		C0205447_1	calificador_1	377-379	66_QUEST_clinical_caseMIR	SENT5	-	-
+12	accidente	accidente	NCMS000	C1290896#C1367973_1	hallazgo#evento_1	380-389	66_QUEST_clinical_caseMIR	SENT5	-	-
+13	automovilístico	automovilístico	AQ0MS0	C1290896#C1367973_2	hallazgo#evento_2	390-405	66_QUEST_clinical_caseMIR	SENT5	-	-
+14	,	,	Fc	-	-	405-406	66_QUEST_clinical_caseMIR	SENT5	-	-
+15	de	de	SPS00	C0332285	atributo	407-409	66_QUEST_clinical_caseMIR	SENT5	-	-
+16	un	un		C0205447_1	calificador_1	410-412	66_QUEST_clinical_caseMIR	SENT5	-	-
+17	hermano	hermano	NCMS000	C0337546#C0337537_1	hallazgo#persona_1	413-420	66_QUEST_clinical_caseMIR	SENT5	-	-
+18	mayor	mayor	NCCS000	C0337546#C0337537_2	hallazgo#persona_2	421-426	66_QUEST_clinical_caseMIR	SENT5	-	-
+19	con	con	SPS00	C0332287	atributo	427-430	66_QUEST_clinical_caseMIR	SENT5	-	-
+20	quien	quien	PR0CS000	-	-	431-436	66_QUEST_clinical_caseMIR	SENT5	-	-
+21	se	se	P00CN000	-	-	437-439	66_QUEST_clinical_caseMIR	SENT5	-	-
+22	encontraba	encontrar	VMII3S0	-	-	440-450	66_QUEST_clinical_caseMIR	SENT5	-	-
+23	muy	muy	RG	C0442824	calificador	451-454	66_QUEST_clinical_caseMIR	SENT5	-	-
+24	unido	unir	VMP00SM	-	-	455-460	66_QUEST_clinical_caseMIR	SENT5	-	-
+25	.	.	Fp	-	-	460-461	66_QUEST_clinical_caseMIR	SENT5	-	-
+

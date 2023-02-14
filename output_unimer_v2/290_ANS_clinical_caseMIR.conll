@@ -1,0 +1,34 @@
+1	Completar	completar	VMN0000	-	-	0-9	290_ANS_clinical_caseMIR	SENT1	-	-
+2	su	su	DP3CS0	-	-	10-12	290_ANS_clinical_caseMIR	SENT1	-	-
+3	historia	historia	NCFS000	-	-	13-21	290_ANS_clinical_caseMIR	SENT1	-	-
+4	tabáquica	tabáquico	AQ0FS0	-	-	22-31	290_ANS_clinical_caseMIR	SENT1	-	-
+5	.	.	Fp	-	-	31-32	290_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Indagar	indagar	VMN0000	-	-	0-7	290_ANS_clinical_caseMIR	SENT2	-	-
+2	sobre	sobre	SPS00	C1720294#C0205136	calificador	8-13	290_ANS_clinical_caseMIR	SENT2	-	-
+3	exposición	exposición	NCFS000	C0274281	trastorno	14-24	290_ANS_clinical_caseMIR	SENT2	-	-
+4	ocupacional	ocupacional	AQ0CS0	C0521127	calificador	25-36	290_ANS_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	36-37	290_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	0-9	290_ANS_clinical_caseMIR	SENT3	-	-
+2	analítica	analítica	NCFS000	-	-	10-19	290_ANS_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	290_ANS_clinical_caseMIR	SENT3	-	-
+4	sangre	sangre	NCFS000	C0005767	sustancia	23-29	290_ANS_clinical_caseMIR	SENT3	-	-
+5	para	para	SPS00	C0521125	calificador	30-34	290_ANS_clinical_caseMIR	SENT3	-	-
+6	descartar	descartar	VMN0000	C0332196	calificador	35-44	290_ANS_clinical_caseMIR	SENT3	-	-
+7	eosinofilia	eosinofilia	NCFS000	C0014457#C2240374#C0333929#C0311368	hallazgo#anomalía_morfológica#trastorno	45-56	290_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+8	.	.	Fp	-	-	56-57	290_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Hacer	hacer	VMN0000	-	-	0-5	290_ANS_clinical_caseMIR	SENT4	-	-
+2	pruebas	prueba	NCFP000	-	-	6-13	290_ANS_clinical_caseMIR	SENT4	-	-
+3	funcionales	funcional	AQ0CP0	C0205245	calificador	14-25	290_ANS_clinical_caseMIR	SENT4	-	-
+4	respiratorias	respiratorio	AQ0FP0	-	-	26-39	290_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	completas	completo	AQ0FP0	C0205197#C0439810#C0444868	calificador	40-49	290_ANS_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	49-50	290_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Proponer	proponer	VMN0000	-	-	0-8	290_ANS_clinical_caseMIR	SENT5	-	-
+2	una	una		C0205447_1	calificador_1	9-12	290_ANS_clinical_caseMIR	SENT5	-	-
+3	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	13-20	290_ANS_clinical_caseMIR	SENT5	-	-
+4	transbronquial	transbronquial	NC00SC0	C0442342	calificador	21-35	290_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	35-36	290_ANS_clinical_caseMIR	SENT5	-	-
+

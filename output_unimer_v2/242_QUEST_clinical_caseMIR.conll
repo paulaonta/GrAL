@@ -1,0 +1,41 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	242_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	242_QUEST_clinical_caseMIR	SENT1	-	-
+3	40	40		-	-	9-11	242_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	242_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	242_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	242_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	242_QUEST_clinical_caseMIR	SENT1	-	-
+8	aproximadamente	aproximadamente	RG	C0332232	calificador	34-49	242_QUEST_clinical_caseMIR	SENT1	-	-
+9	20	20		-	-	50-52	242_QUEST_clinical_caseMIR	SENT1	-	-
+10	episodios	episodio	NCMP000	C0332189	atributo	53-62	242_QUEST_clinical_caseMIR	SENT1	-	-
+11	al	al	SP+DA	-	-	63-65	242_QUEST_clinical_caseMIR	SENT1	-	-
+12	día	día	NCMS000	C0439228#C0332169	calificador	66-69	242_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	70-72	242_QUEST_clinical_caseMIR	SENT1	-	-
+14	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	73-78	242_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	79-86	242_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	,	,	Fc	-	-	86-87	242_QUEST_clinical_caseMIR	SENT1	-	-
+17	periocular	periocular	NCMS000	-	-	88-98	242_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	99-108	242_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	de	de	SPS00	C0332285	atributo	109-111	242_QUEST_clinical_caseMIR	SENT1	-	-
+20	15	15	Z	-	-	112-114	242_QUEST_clinical_caseMIR	SENT1	-	-
+21	minutos	min	NCMP000	-	-	115-122	242_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	123-125	242_QUEST_clinical_caseMIR	SENT1	-	-
+23	duración	duración	NCFS000	C0449238	atributo	126-134	242_QUEST_clinical_caseMIR	SENT1	-	-
+24	,	,	Fc	-	-	134-135	242_QUEST_clinical_caseMIR	SENT1	-	-
+25	acompañado	acompañar	VMP00SM	-	-	136-146	242_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	147-149	242_QUEST_clinical_caseMIR	SENT1	-	-
+27	intenso	intenso	AQ0MS0	C0205178	calificador	150-157	242_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	lagrimeo	lagrimeo	NCMS000	C2363241#C0152227	entidad_observable#trastorno	158-166	242_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	y	y	CC	C1706368	calificador	167-168	242_QUEST_clinical_caseMIR	SENT1	-	-
+30	rinorrea	rinorrea	NCFS000	C1260880_1	trastorno#hallazgo_1	169-177	242_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	.	.	Fp	-	-	177-178	242_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Su	su	DP3CS0	-	-	179-181	242_QUEST_clinical_caseMIR	SENT2	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	182-193	242_QUEST_clinical_caseMIR	SENT2	-	-
+3	y	y	CC	C1706368	calificador	194-195	242_QUEST_clinical_caseMIR	SENT2	-	-
+4	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	196-206	242_QUEST_clinical_caseMIR	SENT2	-	-
+5	magnética	magnético	AQ0FS0	-	-	207-216	242_QUEST_clinical_caseMIR	SENT2	-	-
+6	son	ser	VSIP3P0	-	-	217-220	242_QUEST_clinical_caseMIR	SENT2	-	-
+7	normales	normal	AQ0CP0	C0205307	calificador	221-229	242_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	229-230	242_QUEST_clinical_caseMIR	SENT2	-	-
+

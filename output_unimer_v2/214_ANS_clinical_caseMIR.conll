@@ -1,0 +1,58 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	214_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	214_ANS_clinical_caseMIR	SENT1	-	-
+3	metilprednisolona	metilprednisolona	NC00SC0	C0025815	sustancia	16-33	214_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	a	a	SPS00	-	-	34-35	214_ANS_clinical_caseMIR	SENT1	-	-
+5	dosis	dosis	NCFN000	-	-	36-41	214_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	42-44	214_ANS_clinical_caseMIR	SENT1	-	-
+7	1	1	Z	-	-	45-46	214_ANS_clinical_caseMIR	SENT1	-	-
+8	g	g	NCMN000	-	-	47-48	214_ANS_clinical_caseMIR	SENT1	-	-
+9	/	/	Fh	-	-	48-49	214_ANS_clinical_caseMIR	SENT1	-	-
+10	Kg	kilogramo	NCMN000	C0439209	calificador	49-51	214_ANS_clinical_caseMIR	SENT1	-	-
+11	/	/	Fh	-	-	51-52	214_ANS_clinical_caseMIR	SENT1	-	-
+12	día	día	NCMS000	C0439228#C0332169	calificador	52-55	214_ANS_clinical_caseMIR	SENT1	-	-
+13	durante	durante	SPS00	C1444752#C0347984	atributo	56-63	214_ANS_clinical_caseMIR	SENT1	-	-
+14	5	5	Z	-	-	64-65	214_ANS_clinical_caseMIR	SENT1	-	-
+15	días	d	NCMP000	-	-	66-70	214_ANS_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	70-71	214_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	214_ANS_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	214_ANS_clinical_caseMIR	SENT2	-	-
+3	hermanos	hermano	NCMP000	C0337527	persona	11-19	214_ANS_clinical_caseMIR	SENT2	-	-
+4	y	y	CC	C1706368	calificador	20-21	214_ANS_clinical_caseMIR	SENT2	-	-
+5	si	si	CS	-	-	22-24	214_ANS_clinical_caseMIR	SENT2	-	-
+6	alguno	alguno	PI0MS000	C0205392	calificador	25-31	214_ANS_clinical_caseMIR	SENT2	-	-
+7	es	ser	VSIP3S0	-	-	32-34	214_ANS_clinical_caseMIR	SENT2	-	-
+8	HLA	hla	NC00YL0	-	-	35-38	214_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	compatible	compatible	AQ0CS0	-	-	39-49	214_ANS_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	49-50	214_ANS_clinical_caseMIR	SENT2	-	-
+11	transplante	transplante	NCMS000	-	-	51-62	214_ANS_clinical_caseMIR	SENT2	-	-
+12	alogénico	alogénico	AQ0MS0	-	-	63-72	214_ANS_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	73-75	214_ANS_clinical_caseMIR	SENT2	-	-
+14	progenitores	progenitor	NCMP000	-	-	76-88	214_ANS_clinical_caseMIR	SENT2	-	-
+15	hemopoyeticos	hemopoyeticos	AQ0MP00	-	-	89-102	214_ANS_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	102-103	214_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Terapia	terapia	NCFS000	C0021079_1	procedimiento_1	0-7	214_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	inmunosupresora	inmunosupresor	AQ0FS0	C0021079_2	procedimiento_2	8-23	214_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+3	con	con	SPS00	C0332287	atributo	24-27	214_ANS_clinical_caseMIR	SENT3	-	-
+4	ciclosporína	ciclosporína	NCFS000	-	-	28-40	214_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+5	e	y	CC	C1706368	calificador	41-42	214_ANS_clinical_caseMIR	SENT3	-	-
+6	inmunoglobulina	inmunoglobulina	NCFS000	C0021027	sustancia	43-58	214_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+7	antitimocítica	antitimocítica	AQ0FS00	-	-	59-73	214_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+8	.	.	Fp	-	-	73-74	214_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Soporte	soporte	NCMS000	-	-	0-7	214_ANS_clinical_caseMIR	SENT4	-	-
+2	hemoterápico	hemoterápico	AQ0MS00	-	-	8-20	214_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	20-21	214_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	214_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+2	y	y	CC	C1706368	calificador	14-15	214_ANS_clinical_caseMIR	SENT5	-	-
+3	si	si	CS	-	-	16-18	214_ANS_clinical_caseMIR	SENT5	-	-
+4	respuesta	respuesta	NCFS000	-	-	19-28	214_ANS_clinical_caseMIR	SENT5	-	-
+5	trasplante	trasplante	NCMS000	C0040736_1	procedimiento_1	29-39	214_ANS_clinical_caseMIR	SENT5	-	-
+6	autólogo	autólogo	NC00SC0	C0040736_2	procedimiento_2	40-48	214_ANS_clinical_caseMIR	SENT5	-	-
+7	de	de	SPS00	C0332285	atributo	49-51	214_ANS_clinical_caseMIR	SENT5	-	-
+8	progenitores	progenitor	NCMP000	-	-	52-64	214_ANS_clinical_caseMIR	SENT5	-	-
+9	hemopoyeticos	hemopoyeticos	AQ0MP00	-	-	65-78	214_ANS_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	78-79	214_ANS_clinical_caseMIR	SENT5	-	-
+

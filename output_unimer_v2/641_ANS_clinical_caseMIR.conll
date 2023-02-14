@@ -1,0 +1,35 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	641_ANS_clinical_caseMIR	SENT1	-	-
+2	analítica	analítica	NCFS000	-	-	10-19	641_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	641_ANS_clinical_caseMIR	SENT1	-	-
+4	hemograma	hemograma	NCMS000	C0200631	procedimiento	24-33	641_ANS_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	33-34	641_ANS_clinical_caseMIR	SENT1	-	-
+6	ionograma	ionograma	NCMS000	-	-	35-44	641_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	44-45	641_ANS_clinical_caseMIR	SENT1	-	-
+8	función	función	NCFS000	C0232804_1	entidad_observable_1	46-53	641_ANS_clinical_caseMIR	SENT1	-	-
+9	renal	renal	AQ0CS0	C0232804_2	entidad_observable_2	54-59	641_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	y	y	CC	C1706368	calificador	60-61	641_ANS_clinical_caseMIR	SENT1	-	-
+11	hepática	hepática	NCFS000	-	-	62-70	641_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	.	.	Fp	-	-	70-71	641_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Exploración	exploración	NCFS000	C0436120_1	procedimiento_1	0-11	641_ANS_clinical_caseMIR	SENT2	-	-
+2	física	físico	NCFS000	C0436120_2	procedimiento_2	12-18	641_ANS_clinical_caseMIR	SENT2	-	-
+3	completa	completo	AQ0FS0	C0436120_3	procedimiento_3	19-27	641_ANS_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	27-28	641_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	641_ANS_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	641_ANS_clinical_caseMIR	SENT3	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	641_ANS_clinical_caseMIR	SENT3	-	-
+4	diazepam	diazepam	NC00SC0	C0012010	sustancia	24-32	641_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+5	para	para	SPS00	C0521125	calificador	33-37	641_ANS_clinical_caseMIR	SENT3	-	-
+6	control	control	NCMS000	C2587213	atributo	38-45	641_ANS_clinical_caseMIR	SENT3	-	-
+7	sintomático	sintomático	AQ0MS0	C0231220	calificador	46-57	641_ANS_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	57-58	641_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Evitar	evitar	VMN0000	-	-	0-6	641_ANS_clinical_caseMIR	SENT4	-	-
+2	restricciones	restricción	NCFP000	-	-	7-20	641_ANS_clinical_caseMIR	SENT4	-	-
+3	físicas	físico	AQ0FP0	C0221456#C0205485	ocupación#calificador	21-28	641_ANS_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	29-31	641_ANS_clinical_caseMIR	SENT4	-	-
+5	la	el	DA0FS0	-	-	32-34	641_ANS_clinical_caseMIR	SENT4	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	35-43	641_ANS_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	43-44	641_ANS_clinical_caseMIR	SENT4	-	-
+

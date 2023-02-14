@@ -1,0 +1,44 @@
+1	¿	¿	Fia	-	-	310-311	181_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	311-315	181_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	316-318	181_ANS_clinical_caseMIR	SENT1	-	-
+4	su	su	DP3CS0	-	-	319-321	181_ANS_clinical_caseMIR	SENT1	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	322-333	181_ANS_clinical_caseMIR	SENT1	-	-
+6	?	?	Fit	-	-	333-334	181_ANS_clinical_caseMIR	SENT1	-	-
+7	:	:	Fd	-	-	334-335	181_ANS_clinical_caseMIR	SENT1	-	-
+8	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	181_ANS_clinical_caseMIR	SENT1	-	-
+9	formol	formol	NCMS000	-	-	3-9	181_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	9-10	181_ANS_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	181_ANS_clinical_caseMIR	SENT2	-	-
+2	fresco	fresco	NCMS000	C0443224	calificador	3-9	181_ANS_clinical_caseMIR	SENT2	-	-
+3	.	.	Fp	-	-	9-10	181_ANS_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	181_ANS_clinical_caseMIR	SENT3	-	-
+2	un	un		C0205447_1	calificador_1	3-5	181_ANS_clinical_caseMIR	SENT3	-	-
+3	envase	envase	NCMS000	C1533148	calificador	6-12	181_ANS_clinical_caseMIR	SENT3	-	-
+4	lleno	lleno	AQ0MS0	C0443225	calificador	13-18	181_ANS_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	19-21	181_ANS_clinical_caseMIR	SENT3	-	-
+6	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	22-27	181_ANS_clinical_caseMIR	SENT3	-	-
+7	fisiológico	fisiológico	AQ0MS0	C0205463	calificador	28-39	181_ANS_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	39-40	181_ANS_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	181_ANS_clinical_caseMIR	SENT4	-	-
+2	alcohol	alcohol	NCMS000	C0001975	sustancia	3-10	181_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	10-11	181_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Da	da	NC00YL0	C0226032	estructura_corporal	0-2	181_ANS_clinical_caseMIR	SENT5	-	-
+2	igual	igual	AQ0CS0	C0205163	calificador	3-8	181_ANS_clinical_caseMIR	SENT5	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	9-11	181_ANS_clinical_caseMIR	SENT5	-	-
+4	que	que	CS	-	-	12-15	181_ANS_clinical_caseMIR	SENT5	-	-
+5	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	16-21	181_ANS_clinical_caseMIR	SENT5	-	-
+6	fijador	fijador	NCMS000	C0441254#C0599992	objeto_físico#ocupación	22-29	181_ANS_clinical_caseMIR	SENT5	-	-
+7	,	,	Fc	-	-	29-30	181_ANS_clinical_caseMIR	SENT5	-	-
+8	lo	el	DA0NS0	-	-	31-33	181_ANS_clinical_caseMIR	SENT5	-	-
+9	importante	importante	AQ0CS0	-	-	34-44	181_ANS_clinical_caseMIR	SENT5	-	-
+10	es	ser	VSIP3S0	-	-	45-47	181_ANS_clinical_caseMIR	SENT5	-	-
+11	que	que	CS	-	-	48-51	181_ANS_clinical_caseMIR	SENT5	-	-
+12	se	se	P00CN000	-	-	52-54	181_ANS_clinical_caseMIR	SENT5	-	-
+13	mande	mandar	VMSP3S0	-	-	55-60	181_ANS_clinical_caseMIR	SENT5	-	-
+14	inmediatamente	inmediatamente	RG	C0205548	calificador	61-75	181_ANS_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	75-76	181_ANS_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,29 @@
+1	Repetir	repetir	VMN0000	C0205341	calificador	0-7	413_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	8-10	413_ANS_clinical_caseMIR	SENT1	-	-
+3	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	11-20	413_ANS_clinical_caseMIR	SENT1	-	-
+4	al	al	SP+DA	-	-	21-23	413_ANS_clinical_caseMIR	SENT1	-	-
+5	cabo	cabo	NCMS000	-	-	24-28	413_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	29-31	413_ANS_clinical_caseMIR	SENT1	-	-
+7	6	6		-	-	32-33	413_ANS_clinical_caseMIR	SENT1	-	-
+8	meses	mes	NCMP000	C0439231	calificador	34-39	413_ANS_clinical_caseMIR	SENT1	-	-
+9	.	.	Fp	-	-	39-40	413_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Miomectomía	miomectomía	NCFS000	-	-	0-11	413_ANS_clinical_caseMIR	SENT2	-	-
+2	.	.	Fp	-	-	11-12	413_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Histerectomía	histerectomía	NCFS000	C0020699	procedimiento	0-13	413_ANS_clinical_caseMIR	SENT3	-	-
+2	conservando	conservar	VMG0000	-	-	14-25	413_ANS_clinical_caseMIR	SENT3	-	-
+3	los	el	DA0MP0	-	-	26-29	413_ANS_clinical_caseMIR	SENT3	-	-
+4	ovarios	ovario	NCMP000	C1278992#C0029939	estructura_corporal	30-37	413_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	37-38	413_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	413_ANS_clinical_caseMIR	SENT4	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	413_ANS_clinical_caseMIR	SENT4	-	-
+3	análogos	análogo	AQ0MP0	-	-	16-24	413_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	de	de	SPS00	C0332285	atributo	25-27	413_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+5	Gn-RH	gn-rh	NCMS000	-	-	28-33	413_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+6	durante	durante	SPS00	C1444752#C0347984	atributo	34-41	413_ANS_clinical_caseMIR	SENT4	-	-
+7	6	6		-	-	42-43	413_ANS_clinical_caseMIR	SENT4	-	-
+8	meses	mes	NCMP000	C0439231	calificador	44-49	413_ANS_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	49-50	413_ANS_clinical_caseMIR	SENT4	-	-
+

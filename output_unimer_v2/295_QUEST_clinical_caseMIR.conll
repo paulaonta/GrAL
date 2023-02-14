@@ -1,0 +1,65 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	295_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	295_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	295_QUEST_clinical_caseMIR	SENT1	-	-
+4	30	30		-	-	13-15	295_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	295_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	295_QUEST_clinical_caseMIR	SENT1	-	-
+7	previamente	previamente	RG	-	-	22-33	295_QUEST_clinical_caseMIR	SENT1	-	-
+8	sana	sano	AQ0FS0	-	-	34-38	295_QUEST_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	38-39	295_QUEST_clinical_caseMIR	SENT1	-	-
+10	presenta	presentar	VMIP3S0	-	-	40-48	295_QUEST_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	49-51	295_QUEST_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	52-54	295_QUEST_clinical_caseMIR	SENT1	-	-
+13	curso	curso	NCMS000	C0750729	atributo#calificador	55-60	295_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	61-63	295_QUEST_clinical_caseMIR	SENT1	-	-
+15	unas	uno	DI0FP0	C0205447	calificador	64-68	295_QUEST_clinical_caseMIR	SENT1	-	-
+16	20	20	Z	-	-	69-71	295_QUEST_clinical_caseMIR	SENT1	-	-
+17	horas	h	NCFP000	C0439227	calificador	72-77	295_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	78-80	295_QUEST_clinical_caseMIR	SENT1	-	-
+19	cuadro	cuadro	NCMS000	-	-	81-87	295_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	88-90	295_QUEST_clinical_caseMIR	SENT1	-	-
+21	debilidad	debilidad	NCFS000	C0427055_1	hallazgo_1	91-100	295_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	facial	facial	AQ0CS0	C0427055_2	hallazgo_2	101-107	295_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	108-115	295_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	,	,	Fc	-	-	115-116	295_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0332285	atributo	117-119	295_QUEST_clinical_caseMIR	SENT1	-	-
+26	forma	forma	NCFS000	C0348078	atributo	120-125	295_QUEST_clinical_caseMIR	SENT1	-	-
+27	que	que	PR0CN000	-	-	126-129	295_QUEST_clinical_caseMIR	SENT1	-	-
+28	no	no	RN	C1298908	calificador	130-132	295_QUEST_clinical_caseMIR	SENT1	-	-
+29	puede	poder	VMIP3S0	-	-	133-138	295_QUEST_clinical_caseMIR	SENT1	-	-
+30	cerrar	cerrar	VMN0000	-	-	139-145	295_QUEST_clinical_caseMIR	SENT1	-	-
+31	el	el	DA0MS0	-	-	146-148	295_QUEST_clinical_caseMIR	SENT1	-	-
+32	ojo	ojo	NCMS000	C1305216#C0229089_1	estructura_corporal_1	149-152	295_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+33	derecho	derecho	NCMS000	C1305216#C0229089_2	estructura_corporal_2	153-160	295_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+34	y	y	CC	C1706368	calificador	161-162	295_QUEST_clinical_caseMIR	SENT1	-	-
+35	se	se	P00CN000	-	-	163-165	295_QUEST_clinical_caseMIR	SENT1	-	-
+36	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	166-168	295_QUEST_clinical_caseMIR	SENT1	-	-
+37	ha	haber	VAIP3S0	-	-	169-171	295_QUEST_clinical_caseMIR	SENT1	-	-
+38	torcido	torcer	VMP00SM	-	-	172-179	295_QUEST_clinical_caseMIR	SENT1	-	-
+39	la	el	DA0FS0	-	-	180-182	295_QUEST_clinical_caseMIR	SENT1	-	-
+40	boca	boca	NCFS000	C0230028#C1267547	estructura_corporal	183-187	295_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+41	.	.	Fp	-	-	187-188	295_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	189-196	295_QUEST_clinical_caseMIR	SENT2	-	-
+2	ver	ver	VMN0000	-	-	197-200	295_QUEST_clinical_caseMIR	SENT2	-	-
+3	doble	doble	AQ0CS0	C0205173	calificador	201-206	295_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	207-210	295_QUEST_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	211-213	295_QUEST_clinical_caseMIR	SENT2	-	-
+6	mirada	mirada	NCFS000	C0553544	hallazgo	214-220	295_QUEST_clinical_caseMIR	SENT2	-	-
+7	lateral	lateral	AQ0CS0	C0205093	calificador	221-228	295_QUEST_clinical_caseMIR	SENT2	-	-
+8	derecha	derecha	NCFS000	-	-	229-236	295_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	236-237	295_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	238-239	295_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	239-243	295_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	244-246	295_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	247-250	295_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	251-261	295_QUEST_clinical_caseMIR	SENT3	-	-
+6	posibilidades	posibilidad	NCFP000	-	-	262-275	295_QUEST_clinical_caseMIR	SENT3	-	-
+7	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	276-288	295_QUEST_clinical_caseMIR	SENT3	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	289-291	295_QUEST_clinical_caseMIR	SENT3	-	-
+9	parece	parecer	VMIP3S0	-	-	292-298	295_QUEST_clinical_caseMIR	SENT3	-	-
+10	más	más	RG	C0205172	calificador	299-302	295_QUEST_clinical_caseMIR	SENT3	-	-
+11	probable	probable	AQ0CS0	C0332148	calificador	303-311	295_QUEST_clinical_caseMIR	SENT3	-	-
+12	?	?	Fit	-	-	311-312	295_QUEST_clinical_caseMIR	SENT3	-	-
+

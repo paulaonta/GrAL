@@ -1,0 +1,67 @@
+1	Síndrome	síndrome	NCMS000	C0085409_1	trastorno_1	0-8	547_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	poliglandular	poliglandular	NC00SC0	C0085409_2	trastorno_2	9-22	547_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	autoinmune	autoinmune	AQ0CS0	C0085409_3	trastorno_3	23-33	547_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+4	tipo	tipo	NCMS000	C0332307	calificador#atributo	34-38	547_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+5	I.	i.	AQ0CS00	-	-	39-41	547_QUEST_clinical_caseMIR	SENT1	-	-
+6	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	547_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	7-9	547_QUEST_clinical_caseMIR	SENT1	-	-
+8	67	67		-	-	10-12	547_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	13-17	547_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	547_QUEST_clinical_caseMIR	SENT1	-	-
+11	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	547_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	25-26	547_QUEST_clinical_caseMIR	SENT1	-	-
+13	diabético	diabético	AQ0MS0	-	-	27-36	547_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	37-38	547_QUEST_clinical_caseMIR	SENT1	-	-
+15	asmático	asmático	AQ0MS0	-	-	39-47	547_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	,	,	Fc	-	-	47-48	547_QUEST_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0332287	atributo	49-52	547_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	53-55	547_QUEST_clinical_caseMIR	SENT1	-	-
+19	glaucoma	glaucoma	NCMS000	C0339573_1	trastorno_1	56-64	547_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	primario	primario	NCMS000	C0339573_2	trastorno_2	65-73	547_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	de	de	SPS00	C0339573_3	trastorno_3	74-76	547_QUEST_clinical_caseMIR	SENT1	-	-
+22	ángulo	ángulo	NCMS000	C0339573_4	trastorno_4	77-83	547_QUEST_clinical_caseMIR	SENT1	-	-
+23	abierto	abrir	VMP00SM	C0339573_5	trastorno_5	84-91	547_QUEST_clinical_caseMIR	SENT1	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	92-94	547_QUEST_clinical_caseMIR	SENT1	-	-
+25	ambos	ambos	PI0MP000	C1456809#C0229118_1	estructura_corporal_1	95-100	547_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	ojos	ojo	NCMP000	C1456809#C0229118_2	estructura_corporal_2	101-105	547_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	.	.	Fp	-	-	105-106	547_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	107-115	547_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	116-119	547_QUEST_clinical_caseMIR	SENT2	-	-
+3	presión	presión	NCFS000	C0460139	hallazgo	120-127	547_QUEST_clinical_caseMIR	SENT2	-	-
+4	ocular	ocular	AQ0CS0	-	-	128-134	547_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	de	de	SPS00	C0332285	atributo	135-137	547_QUEST_clinical_caseMIR	SENT2	-	-
+6	34	34	Z	-	-	138-140	547_QUEST_clinical_caseMIR	SENT2	-	-
+7	mmHg	mmHg	NCMP000	-	-	141-145	547_QUEST_clinical_caseMIR	SENT2	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	146-148	547_QUEST_clinical_caseMIR	SENT2	-	-
+9	su	su	DP3CS0	-	-	149-151	547_QUEST_clinical_caseMIR	SENT2	-	-
+10	ojo	ojo	NCMS000	C1305216#C0229089_1	estructura_corporal_1	152-155	547_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	derecho	derecho	NCMS000	C1305216#C0229089_2	estructura_corporal_2	156-163	547_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	y	y	CC	C1706368	calificador	164-165	547_QUEST_clinical_caseMIR	SENT2	-	-
+13	31	31	Z	-	-	166-168	547_QUEST_clinical_caseMIR	SENT2	-	-
+14	mmHg	mmHg	NCMP000	-	-	169-173	547_QUEST_clinical_caseMIR	SENT2	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	174-176	547_QUEST_clinical_caseMIR	SENT2	-	-
+16	su	su	DP3CS0	-	-	177-179	547_QUEST_clinical_caseMIR	SENT2	-	-
+17	ojo	ojo	NCMS000	C1305218#C0229090_1	estructura_corporal_1	180-183	547_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	184-193	547_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+19	.	.	Fp	-	-	193-194	547_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	195-196	547_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	196-200	547_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	201-203	547_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	204-207	547_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	208-218	547_QUEST_clinical_caseMIR	SENT3	-	-
+6	grupos	grupo	NCMP000	C0441833#C1257890	atributo#contexto_social	219-225	547_QUEST_clinical_caseMIR	SENT3	-	-
+7	farmacológicos	farmacológico	AQ0MP0	C0205464	calificador	226-240	547_QUEST_clinical_caseMIR	SENT3	-	-
+8	es	ser	VSIP3S0	-	-	241-243	547_QUEST_clinical_caseMIR	SENT3	-	-
+9	el	el	DA0MS0	C0205393_1	calificador_1	244-246	547_QUEST_clinical_caseMIR	SENT3	-	-
+10	más	más	RG	C0205393_2	calificador_2	247-250	547_QUEST_clinical_caseMIR	SENT3	-	-
+11	indicado	indicar	VMP00SM	-	-	251-259	547_QUEST_clinical_caseMIR	SENT3	-	-
+12	como	como	CS	C0332257	calificador	260-264	547_QUEST_clinical_caseMIR	SENT3	-	-
+13	primera	1	AO0FS0	-	-	265-272	547_QUEST_clinical_caseMIR	SENT3	-	-
+14	elección	elección	NCFS000	-	-	273-281	547_QUEST_clinical_caseMIR	SENT3	-	-
+15	como	como	CS	C0332257	calificador	282-286	547_QUEST_clinical_caseMIR	SENT3	-	-
+16	tratamiento	tratamiento	NCMS000	C1319428_1	procedimiento_1	287-298	547_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+17	hipotensor	hipotensor		C1319428_2	procedimiento_2	299-309	547_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+18	?	?	Fit	-	-	309-310	547_QUEST_clinical_caseMIR	SENT3	-	-
+

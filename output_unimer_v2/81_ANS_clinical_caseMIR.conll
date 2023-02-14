@@ -1,0 +1,35 @@
+1	¿	¿	Fia	-	-	444-445	81_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	445-449	81_ANS_clinical_caseMIR	SENT1	-	-
+3	considera	considerar	VMIP3S0	-	-	450-459	81_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	460-462	81_ANS_clinical_caseMIR	SENT1	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	463-474	81_ANS_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	475-478	81_ANS_clinical_caseMIR	SENT1	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	479-487	81_ANS_clinical_caseMIR	SENT1	-	-
+8	?	?	Fit	-	-	487-488	81_ANS_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	488-489	81_ANS_clinical_caseMIR	SENT1	-	-
+10	Hormona	hormona	NCFS000	C0169964_1	sustancia_1	0-7	81_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0169964_2	sustancia_2	8-10	81_ANS_clinical_caseMIR	SENT1	-	-
+12	crecimiento	crecimiento	NCMS000	C0169964_3	sustancia_3	11-22	81_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	22-23	81_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	0-10	81_ANS_clinical_caseMIR	SENT2	-	-
+2	magnética	magnético	AQ0FS0	-	-	11-20	81_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	21-23	81_ANS_clinical_caseMIR	SENT2	-	-
+4	cráneo	cráneo	NCMS000	C0037303#C1279062	estructura_corporal	24-30	81_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	30-31	81_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Cariotipo	cariotipo	NCMS000	C0022526	procedimiento	0-9	81_ANS_clinical_caseMIR	SENT3	-	-
+2	.	.	Fp	-	-	9-10	81_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Hormona	hormona	NCFS000	C0019932#C0391835	sustancia	0-7	81_ANS_clinical_caseMIR	SENT4	-	-
+2	folículoestimulante	folículoestimulante	AQ0CS00	-	-	8-27	81_ANS_clinical_caseMIR	SENT4	-	-
+3	(	(	Fpa	-	-	28-29	81_ANS_clinical_caseMIR	SENT4	-	-
+4	FSH	follicle-stimulating_hormone_(hormona_folículoestimulante)	NC00YL0	-	-	29-32	81_ANS_clinical_caseMIR	SENT4	-	-
+5	)	)	Fpt	-	-	32-33	81_ANS_clinical_caseMIR	SENT4	-	-
+6	Hormona	hormona	NCFS000	C0023607_1	sustancia_1	0-7	81_ANS_clinical_caseMIR	SENT4	-	-
+7	luteinizante	luteinizante		C0023607_2	sustancia_2	8-20	81_ANS_clinical_caseMIR	SENT4	-	-
+8	(	(	Fpa	-	-	21-22	81_ANS_clinical_caseMIR	SENT4	-	-
+9	LH	luteinizing_hormone_(hormona_luteinizante)	NC00YL0	-	-	22-24	81_ANS_clinical_caseMIR	SENT4	-	-
+10	)	)	Fpt	-	-	24-25	81_ANS_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	25-26	81_ANS_clinical_caseMIR	SENT4	-	-
+

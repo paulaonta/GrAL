@@ -1,0 +1,57 @@
+1	Retrasar	retrasar	VMN0000	-	-	0-8	57_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	9-11	57_ANS_clinical_caseMIR	SENT1	-	-
+3	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	12-19	57_ANS_clinical_caseMIR	SENT1	-	-
+4	hasta	hasta	SPS00	-	-	20-25	57_ANS_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	26-29	57_ANS_clinical_caseMIR	SENT1	-	-
+6	haya	haber	VASP1S0	-	-	30-34	57_ANS_clinical_caseMIR	SENT1	-	-
+7	desaparecido	desaparecer	VMP00SM	-	-	35-47	57_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	48-50	57_ANS_clinical_caseMIR	SENT1	-	-
+9	cuadro	cuadro	NCMS000	-	-	51-57	57_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	confusional	confusional	AQ0CS00	-	-	58-69	57_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	.	.	Fp	-	-	69-70	57_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Retrasar	retrasar	VMN0000	-	-	0-8	57_ANS_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	9-11	57_ANS_clinical_caseMIR	SENT2	-	-
+3	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	12-19	57_ANS_clinical_caseMIR	SENT2	-	-
+4	y	y	CC	C1706368	calificador	20-21	57_ANS_clinical_caseMIR	SENT2	-	-
+5	realizar	realizar	VMN0000	-	-	22-30	57_ANS_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	31-33	57_ANS_clinical_caseMIR	SENT2	-	-
+7	ecocardiograma	ecocardiograma	NCMS000	-	-	34-48	57_ANS_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	48-49	57_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Retrasar	retrasar	VMN0000	-	-	0-8	57_ANS_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	9-11	57_ANS_clinical_caseMIR	SENT3	-	-
+3	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	12-19	57_ANS_clinical_caseMIR	SENT3	-	-
+4	hasta	hasta	SPS00	-	-	20-25	57_ANS_clinical_caseMIR	SENT3	-	-
+5	un	un		C0205447_1	calificador_1	26-28	57_ANS_clinical_caseMIR	SENT3	-	-
+6	buen	bueno	AQ0MS0	C0205170	calificador	29-33	57_ANS_clinical_caseMIR	SENT3	-	-
+7	control	control	NCMS000	C0026426_1	régimen/tratamiento_1	34-41	57_ANS_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0026426_2	régimen/tratamiento_2	42-44	57_ANS_clinical_caseMIR	SENT3	-	-
+9	la	lo	PP3FSA00	C0026426_3	régimen/tratamiento_3	45-47	57_ANS_clinical_caseMIR	SENT3	-	-
+10	tensión	tensión	NCFS000	C0026426_4	régimen/tratamiento_4	48-55	57_ANS_clinical_caseMIR	SENT3	-	-
+11	arterial	arterial	NC00SC0	C0026426_5	régimen/tratamiento_5	56-64	57_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+12	.	.	Fp	-	-	64-65	57_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	57_ANS_clinical_caseMIR	SENT4	-	-
+2	un	un		C0205447_1	calificador_1	8-10	57_ANS_clinical_caseMIR	SENT4	-	-
+3	betabloqueante	betabloqueante	NCMS000	-	-	11-25	57_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	y	y	CC	C1706368	calificador	26-27	57_ANS_clinical_caseMIR	SENT4	-	-
+5	realizar	realizar	VMN0000	-	-	28-36	57_ANS_clinical_caseMIR	SENT4	-	-
+6	la	el	DA0FS0	-	-	37-39	57_ANS_clinical_caseMIR	SENT4	-	-
+7	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	40-47	57_ANS_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	47-48	57_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	57_ANS_clinical_caseMIR	SENT5	-	-
+2	osteosíntesis	osteosíntesis	NCFN000	-	-	9-22	57_ANS_clinical_caseMIR	SENT5	-	-
+3	cerrada	cerrar	VMP00SF	-	-	23-30	57_ANS_clinical_caseMIR	SENT5	-	-
+4	,	,	Fc	-	-	30-31	57_ANS_clinical_caseMIR	SENT5	-	-
+5	evitado	evitar	VMP00SM	-	-	32-39	57_ANS_clinical_caseMIR	SENT5	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	40-42	57_ANS_clinical_caseMIR	SENT5	-	-
+7	todo	todo	RG	C0205197#C0439810#C0444868#C0444667	calificador	43-47	57_ANS_clinical_caseMIR	SENT5	-	-
+8	caso	caso	NCMS000	C0868928	calificador	48-52	57_ANS_clinical_caseMIR	SENT5	-	-
+9	la	el	DA0FS0	-	-	53-55	57_ANS_clinical_caseMIR	SENT5	-	-
+10	implantación	implantación	NCFS000	-	-	56-68	57_ANS_clinical_caseMIR	SENT5	-	-
+11	de	de	SPS00	C0332285	atributo	69-71	57_ANS_clinical_caseMIR	SENT5	-	-
+12	prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	72-80	57_ANS_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	80-81	57_ANS_clinical_caseMIR	SENT5	-	-
+

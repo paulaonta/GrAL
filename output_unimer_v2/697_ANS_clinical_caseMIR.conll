@@ -1,0 +1,38 @@
+1	Respecto	respecto	NCMS000	-	-	422-430	697_ANS_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	431-432	697_ANS_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	433-435	697_ANS_clinical_caseMIR	SENT1	-	-
+4	patología	patología	NCFS000	C0030664	calificador	436-445	697_ANS_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	446-449	697_ANS_clinical_caseMIR	SENT1	-	-
+6	padece	padecer	VMIP3S0	-	-	450-456	697_ANS_clinical_caseMIR	SENT1	-	-
+7	este	este	DD0MS0	-	-	457-461	697_ANS_clinical_caseMIR	SENT1	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	462-470	697_ANS_clinical_caseMIR	SENT1	-	-
+9	¿	¿	Fia	-	-	471-472	697_ANS_clinical_caseMIR	SENT1	-	-
+10	cuál	cuál	PT0CS000	-	-	472-476	697_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	477-479	697_ANS_clinical_caseMIR	SENT1	-	-
+12	las	el	DA0FP0	-	-	480-483	697_ANS_clinical_caseMIR	SENT1	-	-
+13	siguientes	siguiente	AQ0CP0	C0332282	atributo	484-494	697_ANS_clinical_caseMIR	SENT1	-	-
+14	afirmaciones	afirmación	NCFP000	-	-	495-507	697_ANS_clinical_caseMIR	SENT1	-	-
+15	es	ser	VSIP3S0	-	-	508-510	697_ANS_clinical_caseMIR	SENT1	-	-
+16	FALSA	falso	AQ0FS0	C0205237	calificador	511-516	697_ANS_clinical_caseMIR	SENT1	-	-
+17	?	?	Fit	-	-	516-517	697_ANS_clinical_caseMIR	SENT1	-	-
+18	:	:	Fd	-	-	517-518	697_ANS_clinical_caseMIR	SENT1	-	-
+19	Taponamiento	taponamiento	NCMS000	C0007177_1	trastorno_1	0-12	697_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	cardíaco	cardíaco	NCMS000	C0007177_2	trastorno_2	13-21	697_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	traumático	traumático	AQ0MS0	C0332663	calificador	22-32	697_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+22	.	.	Fp	-	-	32-33	697_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Neumotórax	neumotórax	NCMN000	C0264558_1	trastorno_1	0-10	697_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	a	a	SPS00	C0264558_2	trastorno_2	11-12	697_ANS_clinical_caseMIR	SENT2	-	-
+3	tensión	tensión	NCFS000	C0264558_3	trastorno_3	13-20	697_ANS_clinical_caseMIR	SENT2	-	-
+4	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	21-28	697_ANS_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	28-29	697_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Hemotórax	hemotórax	NC00SC0	C0019123	trastorno	0-9	697_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	masivo	masivo	AQ0MS0	C0522501	calificador	10-16	697_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	17-24	697_ANS_clinical_caseMIR	SENT3	I-Calificador	-
+4	.	.	Fp	-	-	24-25	697_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Contusión	contusión	NCFS000	C0347625_1	trastorno_1	0-9	697_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	pulmonar	pulmonar	NC00SC0	C0347625_2	trastorno_2	10-18	697_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	18-19	697_ANS_clinical_caseMIR	SENT4	-	-
+

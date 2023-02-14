@@ -1,0 +1,61 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	336_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	9-12	336_ANS_clinical_caseMIR	SENT1	-	-
+3	audiometría	audiometría	NCFS000	C0004286	procedimiento	13-24	336_ANS_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	25-27	336_ANS_clinical_caseMIR	SENT1	-	-
+5	el	el	DA0MS0	-	-	28-30	336_ANS_clinical_caseMIR	SENT1	-	-
+6	plazo	plazo	NCMS000	-	-	31-36	336_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	37-39	336_ANS_clinical_caseMIR	SENT1	-	-
+8	6	6		-	-	40-41	336_ANS_clinical_caseMIR	SENT1	-	-
+9	meses	mes	NCMP000	C0439231	calificador	42-47	336_ANS_clinical_caseMIR	SENT1	-	-
+10	para	para	SPS00	C0521125	calificador	48-52	336_ANS_clinical_caseMIR	SENT1	-	-
+11	confirmar	confirmar	VMN0000	-	-	53-62	336_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	63-65	336_ANS_clinical_caseMIR	SENT1	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	66-77	336_ANS_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	77-78	336_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	0-7	336_ANS_clinical_caseMIR	SENT2	-	-
+2	para	para	SPS00	C0521125	calificador	8-12	336_ANS_clinical_caseMIR	SENT2	-	-
+3	adaptar	adaptar	VMN0000	-	-	13-20	336_ANS_clinical_caseMIR	SENT2	-	-
+4	mi	mi	DP1CSS	-	-	21-23	336_ANS_clinical_caseMIR	SENT2	-	-
+5	implante	implante	NCMS000	C0021107#C0021102#C1704229	procedimiento#producto#calificador#objeto_físico	24-32	336_ANS_clinical_caseMIR	SENT2	-	-
+6	coclear	coclear	AQ0CS0	-	-	33-40	336_ANS_clinical_caseMIR	SENT2	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	336_ANS_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	44-46	336_ANS_clinical_caseMIR	SENT2	-	-
+9	oido	oido	NCMS000	-	-	47-51	336_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	52-59	336_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	59-60	336_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Esperar	esperar	VMN0000	-	-	0-7	336_ANS_clinical_caseMIR	SENT3	-	-
+2	hasta	hasta	SPS00	-	-	8-13	336_ANS_clinical_caseMIR	SENT3	-	-
+3	los	el	DA0MP0	-	-	14-17	336_ANS_clinical_caseMIR	SENT3	-	-
+4	3	3		-	-	18-19	336_ANS_clinical_caseMIR	SENT3	-	-
+5	años	año	NCMP000	C0439234	calificador	20-24	336_ANS_clinical_caseMIR	SENT3	-	-
+6	para	para	SPS00	C0521125	calificador	25-29	336_ANS_clinical_caseMIR	SENT3	-	-
+7	comprobar	comprobar	VMN0000	-	-	30-39	336_ANS_clinical_caseMIR	SENT3	-	-
+8	si	si	CS	-	-	40-42	336_ANS_clinical_caseMIR	SENT3	-	-
+9	desarrolla	desarrollar	VMIP3S0	-	-	43-53	336_ANS_clinical_caseMIR	SENT3	-	-
+10	el	el	DA0MS0	-	-	54-56	336_ANS_clinical_caseMIR	SENT3	-	-
+11	lenguaje	lenguaje	NCMS000	C0023008	función	57-65	336_ANS_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	65-66	336_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Adaptación	adaptación	NCFS000	C0392673	función	0-10	336_ANS_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	336_ANS_clinical_caseMIR	SENT4	-	-
+3	audioprótesis	audioprótesis	NCFN000	-	-	14-27	336_ANS_clinical_caseMIR	SENT4	-	-
+4	bilateral	bilateral	AQ0CS0	C0238767	calificador	28-37	336_ANS_clinical_caseMIR	SENT4	-	-
+5	y	y	CC	C1706368	calificador	38-39	336_ANS_clinical_caseMIR	SENT4	-	-
+6	rehabilitación	rehabilitación	NCFS000	C0034991	procedimiento	40-54	336_ANS_clinical_caseMIR	SENT4	-	-
+7	logopédica	logopédica	AQ0FS00	-	-	55-65	336_ANS_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	65-66	336_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	0-7	336_ANS_clinical_caseMIR	SENT5	-	-
+2	para	para	SPS00	C0521125	calificador	8-12	336_ANS_clinical_caseMIR	SENT5	-	-
+3	adaptar	adaptar	VMN0000	-	-	13-20	336_ANS_clinical_caseMIR	SENT5	-	-
+4	un	un		C0205447_1	calificador_1	21-23	336_ANS_clinical_caseMIR	SENT5	-	-
+5	implante	implante	NCMS000	C0021107#C0021102#C1704229	procedimiento#producto#calificador#objeto_físico	24-32	336_ANS_clinical_caseMIR	SENT5	-	-
+6	coclear	coclear	AQ0CS0	-	-	33-40	336_ANS_clinical_caseMIR	SENT5	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	336_ANS_clinical_caseMIR	SENT5	-	-
+8	el	el	DA0MS0	-	-	44-46	336_ANS_clinical_caseMIR	SENT5	-	-
+9	oído	oír	VMP00SM	C0229299_1	estructura_corporal_1	47-51	336_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+10	izquierdo	izquierdo	NC00SC0	C0229299_2	estructura_corporal_2	52-61	336_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	61-62	336_ANS_clinical_caseMIR	SENT5	-	-
+

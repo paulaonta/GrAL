@@ -1,0 +1,62 @@
+1	¿	¿	Fia	-	-	456-457	46_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cual	cual	PR0CS000	-	-	457-461	46_QUEST_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	462-464	46_QUEST_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	465-467	46_QUEST_clinical_caseMIR	SENT1	-	-
+5	opción	opción	NCFS000	-	-	468-474	46_QUEST_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	475-478	46_QUEST_clinical_caseMIR	SENT1	-	-
+7	apropiada	apropiar	VMP00SF	-	-	479-488	46_QUEST_clinical_caseMIR	SENT1	-	-
+8	para	para	SPS00	C0521125	calificador	489-493	46_QUEST_clinical_caseMIR	SENT1	-	-
+9	el	el	DA0MS0	-	-	494-496	46_QUEST_clinical_caseMIR	SENT1	-	-
+10	manejo	manejo	NCMS000	C1273870	procedimiento	497-503	46_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	504-506	46_QUEST_clinical_caseMIR	SENT1	-	-
+12	este	este	DD0MS0	-	-	507-511	46_QUEST_clinical_caseMIR	SENT1	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	512-520	46_QUEST_clinical_caseMIR	SENT1	-	-
+14	?	?	Fit	-	-	520-521	46_QUEST_clinical_caseMIR	SENT1	-	-
+15	:	:	Fd	-	-	521-522	46_QUEST_clinical_caseMIR	SENT1	-	-
+16	Un	Un		C0205447_1	calificador_1	0-2	46_QUEST_clinical_caseMIR	SENT1	-	-
+17	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	46_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	10-12	46_QUEST_clinical_caseMIR	SENT1	-	-
+19	78	78		-	-	13-15	46_QUEST_clinical_caseMIR	SENT1	-	-
+20	años	año	NCMP000	C0439234	calificador	16-20	46_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	46_QUEST_clinical_caseMIR	SENT1	-	-
+22	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	46_QUEST_clinical_caseMIR	SENT1	-	-
+23	consulta	consultar	VMM02S0	C1704447_1	calificador_1	29-37	46_QUEST_clinical_caseMIR	SENT1	-	-
+24	por	por	SPS00	C1704447_2	calificador_2	38-41	46_QUEST_clinical_caseMIR	SENT1	-	-
+25	presentar	presentar	VMN0000	-	-	42-51	46_QUEST_clinical_caseMIR	SENT1	-	-
+26	desde	desde	SPS00	-	-	52-57	46_QUEST_clinical_caseMIR	SENT1	-	-
+27	hace	hacer	VMIP3S0	-	-	58-62	46_QUEST_clinical_caseMIR	SENT1	-	-
+28	unas	uno	DI0FP0	C0205447	calificador	63-67	46_QUEST_clinical_caseMIR	SENT1	-	-
+29	semanas	semana	NCFP000	C0439230	calificador	68-75	46_QUEST_clinical_caseMIR	SENT1	-	-
+30	pérdida	pérdida	NCFS000	-	-	76-83	46_QUEST_clinical_caseMIR	SENT1	-	-
+31	de	de	SPS00	C0332285	atributo	84-86	46_QUEST_clinical_caseMIR	SENT1	-	-
+32	pequeñas	pequeño	AQ0FP0	C0700321#C1282918	calificador	87-95	46_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+33	cantidades	cantidad	NCFP000	C1265611#C0237753	hallazgo#atributo	96-106	46_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+34	de	de	SPS00	C0332285	atributo	107-109	46_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+35	orina	orina	NCFS000	C0042036	sustancia	110-115	46_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+36	sin	sin	SPS00	C0332288	atributo	116-119	46_QUEST_clinical_caseMIR	SENT1	-	-
+37	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	120-126	46_QUEST_clinical_caseMIR	SENT1	-	-
+38	tipo	tipo	NCMS000	C0332307	calificador#atributo	127-131	46_QUEST_clinical_caseMIR	SENT1	-	-
+39	de	de	SPS00	C0332285	atributo	132-134	46_QUEST_clinical_caseMIR	SENT1	-	-
+40	aviso	aviso	NCMS000	-	-	135-140	46_QUEST_clinical_caseMIR	SENT1	-	-
+41	previo	previo	AQ0MS0	C0205156	calificador	141-147	46_QUEST_clinical_caseMIR	SENT1	-	-
+42	.	.	Fp	-	-	147-148	46_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	149-151	46_QUEST_clinical_caseMIR	SENT2	-	-
+2	lo	lo	PP3CNA00	-	-	152-154	46_QUEST_clinical_caseMIR	SENT2	-	-
+3	relaciona	relacionar	VMIP3S0	-	-	155-164	46_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	165-168	46_QUEST_clinical_caseMIR	SENT2	-	-
+5	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	169-176	46_QUEST_clinical_caseMIR	SENT2	-	-
+6	posición	posición	NCFS000	C1262869_1	entidad_observable#hallazgo_1	177-185	46_QUEST_clinical_caseMIR	SENT2	-	-
+7	corporal	corporal	AQ0CS0	C1262869_2	entidad_observable#hallazgo_2	186-194	46_QUEST_clinical_caseMIR	SENT2	-	-
+8	ni	ni	CC	-	-	195-197	46_QUEST_clinical_caseMIR	SENT2	-	-
+9	actividad	actividad	NCFS000	C0441655	entidad_observable	198-207	46_QUEST_clinical_caseMIR	SENT2	-	-
+10	concreta	concreto	AQ0FS0	C0557857	sustancia	208-216	46_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	216-217	46_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	No	no	RN	C1298908	calificador	218-220	46_QUEST_clinical_caseMIR	SENT3	-	-
+2	presenta	presentar	VMIP3S0	-	-	221-229	46_QUEST_clinical_caseMIR	SENT3	-	-
+3	fiebre	fiebre	NCFS000	C0015967	hallazgo	230-236	46_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+4	ni	ni	CC	-	-	237-239	46_QUEST_clinical_caseMIR	SENT3	-	-
+5	disuria	disuria	NCFS000	C0013428	hallazgo	240-247	46_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+6	.	.	Fp	-	-	247-248	46_QUEST_clinical_caseMIR	SENT3	-	-
+

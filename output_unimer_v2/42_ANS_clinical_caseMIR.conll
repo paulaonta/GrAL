@@ -1,0 +1,45 @@
+1	Niveles	nivel	NCMP000	C0456079	atributo	0-7	42_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	42_ANS_clinical_caseMIR	SENT1	-	-
+3	anticomiciales	anticomicial	AQ0CP0	-	-	11-25	42_ANS_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	26-28	42_ANS_clinical_caseMIR	SENT1	-	-
+5	sangre	sangre	NCFS000	C0005767	sustancia	29-35	42_ANS_clinical_caseMIR	SENT1	-	-
+6	.	.	Fp	-	-	35-36	42_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Nivel	nivel	NCMS000	C0456079	atributo	0-5	42_ANS_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	42_ANS_clinical_caseMIR	SENT2	-	-
+3	creatinkinasa	creatinkinasa	NCFS000	-	-	9-22	42_ANS_clinical_caseMIR	SENT2	-	-
+4	(	(	Fpa	-	-	23-24	42_ANS_clinical_caseMIR	SENT2	-	-
+5	CPK	creatine_phosfhokinase_(creatinfosfocinasa)	NC00YL0	-	-	24-27	42_ANS_clinical_caseMIR	SENT2	-	-
+6	)	)	Fpt	-	-	27-28	42_ANS_clinical_caseMIR	SENT2	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	42_ANS_clinical_caseMIR	SENT2	-	-
+8	sangre	sangre	NCFS000	C0005767	sustancia	32-38	42_ANS_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	38-39	42_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Patrones	patrón	NCMP000	C0449774	atributo	0-8	42_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	42_ANS_clinical_caseMIR	SENT3	-	-
+3	citolisis	citolisis	NCFN000	-	-	12-21	42_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	y	y	CC	C1706368	calificador	22-23	42_ANS_clinical_caseMIR	SENT3	-	-
+5	colostasis	colostasis	NCMN000	-	-	24-34	42_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	hepática	hepático	AQ0FS0	-	-	35-43	42_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	43-44	42_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Hemoculüvos	hemoculüvos	NCMP000	-	-	0-11	42_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	seriados	seriar	VMP00PM	-	-	12-20	42_ANS_clinical_caseMIR	SENT4	-	-
+3	y	y	CC	C1706368	calificador	21-22	42_ANS_clinical_caseMIR	SENT4	-	-
+4	urocultivo	urocultivo	NC00SC0	C0430404	procedimiento	23-33	42_ANS_clinical_caseMIR	SENT4	-	-
+5	.	.	Fp	-	-	33-34	42_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	42_ANS_clinical_caseMIR	SENT5	-	-
+2	radiológico	radiológico	AQ0MS0	C0205483	calificador	8-19	42_ANS_clinical_caseMIR	SENT5	-	-
+3	vascular	vascular	AQ0CS0	-	-	20-28	42_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+4	,	,	Fc	-	-	28-29	42_ANS_clinical_caseMIR	SENT5	-	-
+5	tanto	tanto	RG	-	-	30-35	42_ANS_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	36-38	42_ANS_clinical_caseMIR	SENT5	-	-
+7	ríñones	ríñones	NCMP000	-	-	39-46	42_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+8	como	como	CS	C0332257	calificador	47-51	42_ANS_clinical_caseMIR	SENT5	-	-
+9	de	de	SPS00	C0332285	atributo	52-54	42_ANS_clinical_caseMIR	SENT5	-	-
+10	miembro	miembro	NCMS000	C1285000#C0230415_1	estructura_corporal_1	55-62	42_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+11	inferior	inferior	NCCS000	C1285000#C0230415_2	estructura_corporal_2	63-71	42_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+12	derecho	derecho	NCMS000	C1285000#C0230415_3	estructura_corporal_3	72-79	42_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+13	.	.	Fp	-	-	79-80	42_ANS_clinical_caseMIR	SENT5	-	-
+

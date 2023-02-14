@@ -1,0 +1,19 @@
+1	Cruzado	cruzado	NCMS000	C0205203	calificador	0-7	139_ANS_clinical_caseMIR	SENT1	-	-
+2	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	8-16	139_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	16-17	139_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Colateral	colateral	NCMS000	-	-	0-9	139_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+2	peroneo	peroneo	AQ0MS0	C0442035	calificador	10-17	139_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+3	.	.	Fp	-	-	17-18	139_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Rotuliano	rotuliano	AQ0MS0	-	-	0-9	139_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	9-10	139_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Colateral	colateral	NCMS000	-	-	0-9	139_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+2	tibial	tibial	AQ0CS0	-	-	10-16	139_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+3	.	.	Fp	-	-	16-17	139_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Cruzado	cruzado	NCMS000	C0205203	calificador	0-7	139_ANS_clinical_caseMIR	SENT5	-	-
+2	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	8-17	139_ANS_clinical_caseMIR	SENT5	-	-
+3	.	.	Fp	-	-	17-18	139_ANS_clinical_caseMIR	SENT5	-	-
+

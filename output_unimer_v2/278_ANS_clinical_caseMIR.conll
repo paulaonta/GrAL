@@ -1,0 +1,64 @@
+1	Repetir	repetir	VMN0000	C0205341	calificador	0-7	278_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	8-10	278_ANS_clinical_caseMIR	SENT1	-	-
+3	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	11-23	278_ANS_clinical_caseMIR	SENT1	-	-
+4	para	para	SPS00	C0521125	calificador	24-28	278_ANS_clinical_caseMIR	SENT1	-	-
+5	confirmar	confirmar	VMN0000	-	-	29-38	278_ANS_clinical_caseMIR	SENT1	-	-
+6	el	el	DA0MS0	-	-	39-41	278_ANS_clinical_caseMIR	SENT1	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	42-53	278_ANS_clinical_caseMIR	SENT1	-	-
+8	.	.	Fp	-	-	53-54	278_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	0-10	278_ANS_clinical_caseMIR	SENT2	-	-
+2	intensiva	intensivo	AQ0FS0	-	-	11-20	278_ANS_clinical_caseMIR	SENT2	-	-
+3	con	con	SPS00	C0332287	atributo	21-24	278_ANS_clinical_caseMIR	SENT2	-	-
+4	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	25-37	278_ANS_clinical_caseMIR	SENT2	-	-
+5	cada	cada	DI0CS0	C1457900	calificador	38-42	278_ANS_clinical_caseMIR	SENT2	-	-
+6	3	3		-	-	43-44	278_ANS_clinical_caseMIR	SENT2	-	-
+7	a	a	SPS00	-	-	45-46	278_ANS_clinical_caseMIR	SENT2	-	-
+8	6	6		-	-	47-48	278_ANS_clinical_caseMIR	SENT2	-	-
+9	meses	mes	NCMP000	C0439231	calificador	49-54	278_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	54-55	278_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Repetir	repetir	VMN0000	C0205341	calificador	0-7	278_ANS_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	8-10	278_ANS_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	11-22	278_ANS_clinical_caseMIR	SENT3	-	-
+4	y	y	CC	C1706368	calificador	23-24	278_ANS_clinical_caseMIR	SENT3	-	-
+5	realizar	realizar	VMN0000	-	-	25-33	278_ANS_clinical_caseMIR	SENT3	-	-
+6	una	una		C0205447_1	calificador_1	34-37	278_ANS_clinical_caseMIR	SENT3	-	-
+7	cromoendoscopia	cromoendoscopia	NCFS000	-	-	38-53	278_ANS_clinical_caseMIR	SENT3	-	-
+8	para	para	SPS00	C0521125	calificador	54-58	278_ANS_clinical_caseMIR	SENT3	-	-
+9	identificar	identificar	VMN0000	-	-	59-70	278_ANS_clinical_caseMIR	SENT3	-	-
+10	la	el	DA0FS0	-	-	71-73	278_ANS_clinical_caseMIR	SENT3	-	-
+11	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	74-80	278_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	y	y	CC	C1706368	calificador	81-82	278_ANS_clinical_caseMIR	SENT3	-	-
+13	realizar	realizar	VMN0000	-	-	83-91	278_ANS_clinical_caseMIR	SENT3	-	-
+14	una	una		C0205447_1	calificador_1	92-95	278_ANS_clinical_caseMIR	SENT3	-	-
+15	mucosectomía	mucosectomía	NCFS000	-	-	96-108	278_ANS_clinical_caseMIR	SENT3	-	-
+16	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	109-120	278_ANS_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	120-121	278_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Proctocolectomía	proctocolectomía	NC00SC0	C0400076	procedimiento	0-16	278_ANS_clinical_caseMIR	SENT4	-	-
+2	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	17-22	278_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	22-23	278_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	278_ANS_clinical_caseMIR	SENT5	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	278_ANS_clinical_caseMIR	SENT5	-	-
+3	mesalazina	mesalazina	NC00SC0	C0127615	producto#sustancia	16-26	278_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	a	a	SPS00	-	-	27-28	278_ANS_clinical_caseMIR	SENT5	-	-
+5	dosis	dosis	NCFN000	-	-	29-34	278_ANS_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	35-37	278_ANS_clinical_caseMIR	SENT5	-	-
+7	2-3	2-3	Z	-	-	38-41	278_ANS_clinical_caseMIR	SENT5	-	-
+8	gramos	g	NCMP000	-	-	42-48	278_ANS_clinical_caseMIR	SENT5	-	-
+9	al	al	SP+DA	-	-	49-51	278_ANS_clinical_caseMIR	SENT5	-	-
+10	día	día	NCMS000	C0439228#C0332169	calificador	52-55	278_ANS_clinical_caseMIR	SENT5	-	-
+11	y	y	CC	C1706368	calificador	56-57	278_ANS_clinical_caseMIR	SENT5	-	-
+12	repetir	repetir	VMN0000	C0205341	calificador	58-65	278_ANS_clinical_caseMIR	SENT5	-	-
+13	la	el	DA0FS0	-	-	66-68	278_ANS_clinical_caseMIR	SENT5	-	-
+14	exploración	exploración	NCFS000	C1280903	procedimiento	69-80	278_ANS_clinical_caseMIR	SENT5	-	-
+15	a	a	SPS00	-	-	81-82	278_ANS_clinical_caseMIR	SENT5	-	-
+16	los	el	DA0MP0	-	-	83-86	278_ANS_clinical_caseMIR	SENT5	-	-
+17	3	3		-	-	87-88	278_ANS_clinical_caseMIR	SENT5	-	-
+18	a	a	SPS00	-	-	89-90	278_ANS_clinical_caseMIR	SENT5	-	-
+19	6	6		-	-	91-92	278_ANS_clinical_caseMIR	SENT5	-	-
+20	meses	mes	NCMP000	C0439231	calificador	93-98	278_ANS_clinical_caseMIR	SENT5	-	-
+21	.	.	Fp	-	-	98-99	278_ANS_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,32 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	453_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	9-12	453_ANS_clinical_caseMIR	SENT1	-	-
+3	videotoracoscopia	videotoracoscopia	NC00SC0	-	-	13-30	453_ANS_clinical_caseMIR	SENT1	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	31-42	453_ANS_clinical_caseMIR	SENT1	-	-
+5	y	y	CC	C1706368	calificador	43-44	453_ANS_clinical_caseMIR	SENT1	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	45-56	453_ANS_clinical_caseMIR	SENT1	-	-
+7	.	.	Fp	-	-	56-57	453_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	453_ANS_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	9-12	453_ANS_clinical_caseMIR	SENT2	-	-
+3	toracocentesis	toracocentesis	NC00SC0	C0189477	procedimiento	13-27	453_ANS_clinical_caseMIR	SENT2	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	28-39	453_ANS_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	39-40	453_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Cambiar	cambiar	VMN0000	-	-	0-7	453_ANS_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	8-10	453_ANS_clinical_caseMIR	SENT3	-	-
+3	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	11-22	453_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	utilizado	utilizar	VMP00SM	-	-	23-32	453_ANS_clinical_caseMIR	SENT3	-	-
+5	hasta	hasta	SPS00	-	-	33-38	453_ANS_clinical_caseMIR	SENT3	-	-
+6	el	el	DA0MS0	-	-	39-41	453_ANS_clinical_caseMIR	SENT3	-	-
+7	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	42-49	453_ANS_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	49-50	453_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Colocar	colocar	VMN0000	-	-	0-7	453_ANS_clinical_caseMIR	SENT4	-	-
+2	un	un		C0205447_1	calificador_1	8-10	453_ANS_clinical_caseMIR	SENT4	-	-
+3	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	11-18	453_ANS_clinical_caseMIR	SENT4	-	-
+4	pleural	pleural	AQ0CS0	C1522720	calificador	19-26	453_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	de	de	SPS00	C0332285	atributo	27-29	453_ANS_clinical_caseMIR	SENT4	-	-
+6	forma	forma	NCFS000	C0348078	atributo	30-35	453_ANS_clinical_caseMIR	SENT4	-	-
+7	urgente	urgente	AQ0CS0	C0439609	calificador	36-43	453_ANS_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	43-44	453_ANS_clinical_caseMIR	SENT4	-	-
+

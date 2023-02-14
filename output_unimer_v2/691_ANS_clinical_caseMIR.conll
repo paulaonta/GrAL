@@ -1,0 +1,65 @@
+1	La	el	DA0FS0	-	-	0-2	691_ANS_clinical_caseMIR	SENT1	-	-
+2	causa	causa	NCFS000	-	-	3-8	691_ANS_clinical_caseMIR	SENT1	-	-
+3	más	más	RG	C0205172	calificador	9-12	691_ANS_clinical_caseMIR	SENT1	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	13-21	691_ANS_clinical_caseMIR	SENT1	-	-
+5	es	ser	VSIP3S0	-	-	22-24	691_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	25-27	691_ANS_clinical_caseMIR	SENT1	-	-
+7	origen	origen	NCMS000	C0439659	atributo	28-34	691_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	embolígeno	embolígeno	NCMS000	-	-	35-45	691_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+9	.	.	Fp	-	-	45-46	691_ANS_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	0-2	691_ANS_clinical_caseMIR	SENT2	-	-
+2	parálisis	parálisis	NCFN000	C0522224#C0553727	hallazgo	3-12	691_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	es	ser	VSIP3S0	-	-	13-15	691_ANS_clinical_caseMIR	SENT2	-	-
+4	un	un		C0205447_1	calificador_1	16-18	691_ANS_clinical_caseMIR	SENT2	-	-
+5	signo	signo	NCMS000	C0311392	hallazgo	19-24	691_ANS_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	25-27	691_ANS_clinical_caseMIR	SENT2	-	-
+7	aparición	aparición	NCFS000	-	-	28-37	691_ANS_clinical_caseMIR	SENT2	-	-
+8	tardía	tardío	AQ0FS0	C0205087#C1279941#C0547041	calificador	38-44	691_ANS_clinical_caseMIR	SENT2	-	-
+9	que	que	PR0CN000	-	-	45-48	691_ANS_clinical_caseMIR	SENT2	-	-
+10	indica	indicar	VMIP3S0	-	-	49-55	691_ANS_clinical_caseMIR	SENT2	-	-
+11	que	que	CS	-	-	56-59	691_ANS_clinical_caseMIR	SENT2	-	-
+12	el	el	DA0MS0	-	-	60-62	691_ANS_clinical_caseMIR	SENT2	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	63-74	691_ANS_clinical_caseMIR	SENT2	-	-
+14	revascularizador	revascularizador	AQ0MS00	-	-	75-91	691_ANS_clinical_caseMIR	SENT2	-	-
+15	debe	deber	VMIP3S0	-	-	92-96	691_ANS_clinical_caseMIR	SENT2	-	-
+16	realizar	realizar	VMN0000	-	-	97-105	691_ANS_clinical_caseMIR	SENT2	-	-
+17	se	se	PP3CN000	-	-	105-107	691_ANS_clinical_caseMIR	SENT2	-	-
+18	lo	el	DA0NS0	-	-	108-110	691_ANS_clinical_caseMIR	SENT2	-	-
+19	antes	antes	RG	C0332152	atributo	111-116	691_ANS_clinical_caseMIR	SENT2	-	-
+20	posible	posible	AQ0CS0	C0332149#C2362652	calificador	117-124	691_ANS_clinical_caseMIR	SENT2	-	-
+21	.	.	Fp	-	-	124-125	691_ANS_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	0-2	691_ANS_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	691_ANS_clinical_caseMIR	SENT3	-	-
+3	consiste	consistir	VMIP3S0	-	-	15-23	691_ANS_clinical_caseMIR	SENT3	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	691_ANS_clinical_caseMIR	SENT3	-	-
+5	embolectomía	embolectomía	NCFS000	C0397734#C1301167_1	procedimiento_1	27-39	691_ANS_clinical_caseMIR	SENT3	-	-
+6	arterial	arterial	NC00SC0	C0397734#C1301167_2	procedimiento_2	40-48	691_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	femoral	femoral	AQ0CS0	C0015811	calificador	49-56	691_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+8	con	con	SPS00	C0332287	atributo	57-60	691_ANS_clinical_caseMIR	SENT3	-	-
+9	sonda	sonda	NCFS000	C0182400	objeto_físico	61-66	691_ANS_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	67-69	691_ANS_clinical_caseMIR	SENT3	-	-
+11	Fogarty	fogarty	RG	-	-	70-77	691_ANS_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	77-78	691_ANS_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	691_ANS_clinical_caseMIR	SENT4	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	691_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	691_ANS_clinical_caseMIR	SENT4	-	-
+4	parálisis	parálisis	NCFN000	C0522224#C0553727	hallazgo	11-20	691_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+5	rígida	rígido	AQ0FS0	C0231517	calificador	21-27	691_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+6	con	con	SPS00	C0332287	atributo	28-31	691_ANS_clinical_caseMIR	SENT4	-	-
+7	anestesia	anestesiar	VMM02S0	C0475747_1	hallazgo_1	32-41	691_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+8	profunda	profundo	AQ0FS0	C0475747_2	hallazgo_2	42-50	691_ANS_clinical_caseMIR	SENT4	-	-
+9	y	y	CC	C1706368	calificador	51-52	691_ANS_clinical_caseMIR	SENT4	-	-
+10	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	53-61	691_ANS_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332197_2	calificador_2	62-64	691_ANS_clinical_caseMIR	SENT4	-	-
+12	señal	señal	NCFS000	-	-	65-70	691_ANS_clinical_caseMIR	SENT4	-	-
+13	Doppler	doppler	NCCS000	-	-	71-78	691_ANS_clinical_caseMIR	SENT4	-	-
+14	está	estar	VAIP3S0	-	-	79-83	691_ANS_clinical_caseMIR	SENT4	-	-
+15	indicada	indicar	VMP00SF	-	-	84-92	691_ANS_clinical_caseMIR	SENT4	-	-
+16	una	una		C0205447_1	calificador_1	93-96	691_ANS_clinical_caseMIR	SENT4	-	-
+17	arteriografía	arteriografía	NC00SC0	C0003844	procedimiento	97-110	691_ANS_clinical_caseMIR	SENT4	-	-
+18	urgente	urgente	AQ0CS0	C0439609	calificador	111-118	691_ANS_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	118-119	691_ANS_clinical_caseMIR	SENT4	-	-
+

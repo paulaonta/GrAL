@@ -1,0 +1,64 @@
+1	Se	se	P00CN000	-	-	0-2	321_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	321_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	321_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	321_ANS_clinical_caseMIR	SENT1	-	-
+5	espondiloartropatia	espondiloartropatia	NCFS000	-	-	16-35	321_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	,	,	Fc	-	-	35-36	321_ANS_clinical_caseMIR	SENT1	-	-
+7	iniciaría	iniciar	VMIC3S0	-	-	37-46	321_ANS_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	47-58	321_ANS_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	59-62	321_ANS_clinical_caseMIR	SENT1	-	-
+10	metotrexato	metotrexato	NCMS000	C0025677#C0949359	producto#sustancia	63-74	321_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	.	.	Fp	-	-	74-75	321_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Inmovilizar	inmovilizar	VMN0000	-	-	0-11	321_ANS_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	12-14	321_ANS_clinical_caseMIR	SENT2	-	-
+3	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	15-22	321_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	con	con	SPS00	C0332287	atributo	23-26	321_ANS_clinical_caseMIR	SENT2	-	-
+5	un	un		C0205447_1	calificador_1	27-29	321_ANS_clinical_caseMIR	SENT2	-	-
+6	vendaje	vendaje	NCMS000	C0013119#C0185014	objeto_físico#procedimiento	30-37	321_ANS_clinical_caseMIR	SENT2	-	-
+7	durante	durante	SPS00	C1444752#C0347984	atributo	38-45	321_ANS_clinical_caseMIR	SENT2	-	-
+8	15	15		-	-	46-48	321_ANS_clinical_caseMIR	SENT2	-	-
+9	dias	dias	NCFP000	-	-	49-53	321_ANS_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	54-55	321_ANS_clinical_caseMIR	SENT2	-	-
+11	dar	dar	VMN0000	C1947971	calificador	56-59	321_ANS_clinical_caseMIR	SENT2	-	-
+12	antiinflamatorios	antiinflamatorios	NC00AO0	-	-	60-77	321_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	no	no	RN	C1298908	calificador	78-80	321_ANS_clinical_caseMIR	SENT2	-	-
+14	esteroidéos	esteroidéos	AQ0MP00	-	-	81-92	321_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	.	.	Fp	-	-	92-93	321_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Practicar	practicar	VMN0000	-	-	0-9	321_ANS_clinical_caseMIR	SENT3	-	-
+2	una	una		C0205447_1	calificador_1	10-13	321_ANS_clinical_caseMIR	SENT3	-	-
+3	artrocentesis	artrocentesis	NC00SC0	C0204854	procedimiento	14-27	321_ANS_clinical_caseMIR	SENT3	-	-
+4	para	para	SPS00	C0521125	calificador	28-32	321_ANS_clinical_caseMIR	SENT3	-	-
+5	realizar	realizar	VMN0000	-	-	33-41	321_ANS_clinical_caseMIR	SENT3	-	-
+6	cultivo	cultivo	NCMS000	-	-	42-49	321_ANS_clinical_caseMIR	SENT3	-	-
+7	,	,	Fc	-	-	49-50	321_ANS_clinical_caseMIR	SENT3	-	-
+8	análisis	análisis	NCMN000	C0002778	calificador	51-59	321_ANS_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	60-62	321_ANS_clinical_caseMIR	SENT3	-	-
+10	microcristales	microcristal	NCMP000	-	-	63-77	321_ANS_clinical_caseMIR	SENT3	-	-
+11	y	y	CC	C1706368	calificador	78-79	321_ANS_clinical_caseMIR	SENT3	-	-
+12	recuento	recuento	NCMS000	C0729162_1	procedimiento_1	80-88	321_ANS_clinical_caseMIR	SENT3	-	-
+13	celular	celular	AQ0CS0	C0729162_2	procedimiento_2	89-96	321_ANS_clinical_caseMIR	SENT3	-	-
+14	del	del	SP+DA	C0729162_3	procedimiento_3	97-100	321_ANS_clinical_caseMIR	SENT3	-	-
+15	líquido	líquido	NCMS000	C0729162_4	procedimiento_4	101-108	321_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	sinovial	sinovial	AQ0CS0	C0729162_5	procedimiento_5	109-117	321_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	117-118	321_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	321_ANS_clinical_caseMIR	SENT4	-	-
+2	una	una		C0205447_1	calificador_1	9-12	321_ANS_clinical_caseMIR	SENT4	-	-
+3	artroscopia	artroscopia	NCFS000	C0003904	procedimiento	13-24	321_ANS_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	24-25	321_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	0-2	321_ANS_clinical_caseMIR	SENT5	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	321_ANS_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	321_ANS_clinical_caseMIR	SENT5	-	-
+4	una	una		C0205447_1	calificador_1	12-15	321_ANS_clinical_caseMIR	SENT5	-	-
+5	artritis	artritis	NCFN000	C0003868_1	trastorno_1	16-24	321_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+6	gotosa	gotoso	NCFS000	C0003868_2	trastorno_2	25-31	321_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+7	,	,	Fc	-	-	31-32	321_ANS_clinical_caseMIR	SENT5	-	-
+8	iniciaría	iniciar	VMIC3S0	-	-	33-42	321_ANS_clinical_caseMIR	SENT5	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	43-54	321_ANS_clinical_caseMIR	SENT5	-	-
+10	con	con	SPS00	C0332287	atributo	55-58	321_ANS_clinical_caseMIR	SENT5	-	-
+11	alopurinol	alopurinol	NC00SC0	C0002144	sustancia	59-69	321_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+12	.	.	Fp	-	-	69-70	321_ANS_clinical_caseMIR	SENT5	-	-
+

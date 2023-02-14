@@ -1,0 +1,23 @@
+1	Esquizofrenia	esquizofrenia	NCFS000	C0036349_1	trastorno_1	0-13	549_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	paranoide	paranoide		C0036349_2	trastorno_2	14-23	549_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	23-24	549_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Trastorno	trastorno	NCMS000	C1269683#C0011581#C0025193_1	trastorno_1	0-9	549_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	depresivo	depresivo	NCMS000	C1269683#C0011581#C0025193_2	trastorno_2	10-19	549_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	mayor	mayor	NCCS000	C1269683#C0011581#C0025193_3	trastorno_3	20-25	549_ANS_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	26-29	549_ANS_clinical_caseMIR	SENT2	-	-
+5	características	característica	NCFP000	-	-	30-45	549_ANS_clinical_caseMIR	SENT2	-	-
+6	psicóticas	psicótico	AQ0FP0	-	-	46-56	549_ANS_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	56-57	549_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Trastorno	trastorno	NCMS000	C1456784#C0011251_1	trastorno_1	0-9	549_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	paranoide	paranoide		C1456784#C0011251_2	trastorno_2	10-19	549_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	la	el	DA0FS0	-	-	20-22	549_ANS_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	549_ANS_clinical_caseMIR	SENT3	-	-
+5	personalidad	personalidad	NCFS000	C0031208	entidad_observable	26-38	549_ANS_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	38-39	549_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Trastorno	trastorno	NCMS000	C0011251#C1456784_1	trastorno_1	0-9	549_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	delirante	delirante	AQ0CS0	C0011251#C1456784_2	trastorno_2	10-19	549_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	19-20	549_ANS_clinical_caseMIR	SENT4	-	-
+

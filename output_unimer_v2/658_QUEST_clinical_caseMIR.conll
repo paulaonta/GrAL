@@ -1,0 +1,67 @@
+1	¿	¿	Fia	-	-	500-501	658_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	501-505	658_QUEST_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	506-508	658_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	509-511	658_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	512-523	658_QUEST_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	524-527	658_QUEST_clinical_caseMIR	SENT1	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	528-536	658_QUEST_clinical_caseMIR	SENT1	-	-
+8	?	?	Fit	-	-	536-537	658_QUEST_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	537-538	658_QUEST_clinical_caseMIR	SENT1	-	-
+10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	658_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	6-8	658_QUEST_clinical_caseMIR	SENT1	-	-
+12	30	30		-	-	9-11	658_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	12-16	658_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	17-20	658_QUEST_clinical_caseMIR	SENT1	-	-
+15	acude	acudir	VMIP3S0	-	-	21-26	658_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	27-28	658_QUEST_clinical_caseMIR	SENT1	-	-
+17	su	su	DP3CS0	-	-	29-31	658_QUEST_clinical_caseMIR	SENT1	-	-
+18	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	658_QUEST_clinical_caseMIR	SENT1	-	-
+19	porque	porque	CS	-	-	41-47	658_QUEST_clinical_caseMIR	SENT1	-	-
+20	se	se	P00CN000	-	-	48-50	658_QUEST_clinical_caseMIR	SENT1	-	-
+21	nota	notar	VMIP3S0	-	-	51-55	658_QUEST_clinical_caseMIR	SENT1	-	-
+22	un	un		C0205447_1	calificador_1	56-58	658_QUEST_clinical_caseMIR	SENT1	-	-
+23	bulto	bulto	NCMS000	C0577559	hallazgo#anomalía_morfológica	59-64	658_QUEST_clinical_caseMIR	SENT1	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	658_QUEST_clinical_caseMIR	SENT1	-	-
+25	la	el	DA0FS0	-	-	68-70	658_QUEST_clinical_caseMIR	SENT1	-	-
+26	mama	mamar	VMM02S0	C0222600#C1284138_1	estructura_corporal_1	71-75	658_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	derecha	derecho	AQ0FS0	C0222600#C1284138_2	estructura_corporal_2	76-83	658_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+28	de	de	SPS00	C0332285	atributo	84-86	658_QUEST_clinical_caseMIR	SENT1	-	-
+29	reciente	reciente	AQ0CS0	C0332185	calificador	87-95	658_QUEST_clinical_caseMIR	SENT1	-	-
+30	aparición	aparición	NCFS000	-	-	96-105	658_QUEST_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	105-106	658_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Su	su	DP3CS0	-	-	107-109	658_QUEST_clinical_caseMIR	SENT2	-	-
+2	abuela	abuelo	NCFS000	C0337475	persona	110-116	658_QUEST_clinical_caseMIR	SENT2	-	-
+3	tuvo	tener	VMIS3S0	-	-	117-121	658_QUEST_clinical_caseMIR	SENT2	-	-
+4	cáncer	cáncer	NCMS000	C0006142#C0678222_1	trastorno_1	122-128	658_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	de	de	SPS00	C0006142#C0678222_2	trastorno_2	129-131	658_QUEST_clinical_caseMIR	SENT2	-	-
+6	mama	mamar	VMM02S0	C0006142#C0678222_3	trastorno_3	132-136	658_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	136-137	658_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	138-139	658_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	140-142	658_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	143-154	658_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	155-157	658_QUEST_clinical_caseMIR	SENT3	-	-
+5	palpa	palpar	VMIP3S0	-	-	158-163	658_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	658_QUEST_clinical_caseMIR	SENT3	-	-
+7	cuadrante	cuadrante	NCMS000	-	-	167-176	658_QUEST_clinical_caseMIR	SENT3	-	-
+8	súpero-externo	súpero-externo	AQ0MS00	-	-	177-191	658_QUEST_clinical_caseMIR	SENT3	-	-
+9	un	un		C0205447_1	calificador_1	192-194	658_QUEST_clinical_caseMIR	SENT3	-	-
+10	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	195-201	658_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	202-204	658_QUEST_clinical_caseMIR	SENT3	-	-
+12	2,5	2.5	Z	-	-	205-208	658_QUEST_clinical_caseMIR	SENT3	-	-
+13	cm	cm	NCMN000	-	-	209-211	658_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332285	atributo	212-214	658_QUEST_clinical_caseMIR	SENT3	-	-
+15	bordes	borde	NCMP000	C0205154	calificador	215-221	658_QUEST_clinical_caseMIR	SENT3	-	-
+16	regulares	regular	AQ0CP0	C0205272	calificador	222-231	658_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	231-232	658_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	233-235	658_QUEST_clinical_caseMIR	SENT4	-	-
+2	tiene	tener	VMIP3S0	-	-	236-241	658_QUEST_clinical_caseMIR	SENT4	-	-
+3	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	242-249	658_QUEST_clinical_caseMIR	SENT4	-	-
+4	prueba	prueba	NCFS000	-	-	250-256	658_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	257-259	658_QUEST_clinical_caseMIR	SENT4	-	-
+6	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	260-266	658_QUEST_clinical_caseMIR	SENT4	-	-
+7	previa	previo	AQ0FS0	C0205156	calificador	267-273	658_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	273-274	658_QUEST_clinical_caseMIR	SENT4	-	-
+

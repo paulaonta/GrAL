@@ -1,0 +1,50 @@
+1	Requiere	requerir	VMIP3S0	-	-	0-8	752_ANS_clinical_caseMIR	SENT1	-	-
+2	transfusión	transfusión	NCFS000	C0199961#C0079026_1	procedimiento#trastorno_1	9-20	752_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0199961#C0079026_2	procedimiento#trastorno_2	21-23	752_ANS_clinical_caseMIR	SENT1	-	-
+4	sangre	sangre	NCFS000	C0199961#C0079026_3	procedimiento#trastorno_3	24-30	752_ANS_clinical_caseMIR	SENT1	-	-
+5	tipo-específica	tipo-específica	AQ0FS00	-	-	31-46	752_ANS_clinical_caseMIR	SENT1	-	-
+6	.	.	Fp	-	-	46-47	752_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Requiere	requerir	VMIP3S0	-	-	0-8	752_ANS_clinical_caseMIR	SENT2	-	-
+2	transfusión	transfusión	NCFS000	C0199961#C0079026_1	procedimiento#trastorno_1	9-20	752_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0199961#C0079026_2	procedimiento#trastorno_2	21-23	752_ANS_clinical_caseMIR	SENT2	-	-
+4	sangre	sangre	NCFS000	C0199961#C0079026_3	procedimiento#trastorno_3	24-30	752_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	31-33	752_ANS_clinical_caseMIR	SENT2	-	-
+6	emergencia	emergencia	NCFS000	C0175673	calificador	34-44	752_ANS_clinical_caseMIR	SENT2	-	-
+7	(	(	Fpa	-	-	45-46	752_ANS_clinical_caseMIR	SENT2	-	-
+8	O	o	CC	-	-	46-47	752_ANS_clinical_caseMIR	SENT2	-	-
+9	Rh	receptores_hormonales	NC00YL0	C0427630_1	hallazgo_1	48-50	752_ANS_clinical_caseMIR	SENT2	-	-
+10	negativo	negativo	NCMS000	C0427630_2	hallazgo_2	51-59	752_ANS_clinical_caseMIR	SENT2	-	-
+11	)	)	Fpt	-	-	59-60	752_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	60-61	752_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	752_ANS_clinical_caseMIR	SENT3	-	-
+2	preparar	preparar	VMN0000	-	-	5-13	752_ANS_clinical_caseMIR	SENT3	-	-
+3	se	se	PP3CN000	-	-	13-15	752_ANS_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	16-19	752_ANS_clinical_caseMIR	SENT3	-	-
+5	posible	posible	AQ0CS0	C0332149#C2362652	calificador	20-27	752_ANS_clinical_caseMIR	SENT3	-	-
+6	transfusión	transfusión	NCFS000	C0199961#C0079026_1	procedimiento#trastorno_1	28-39	752_ANS_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0199961#C0079026_2	procedimiento#trastorno_2	40-42	752_ANS_clinical_caseMIR	SENT3	-	-
+8	sangre	sangre	NCFS000	C0199961#C0079026_3	procedimiento#trastorno_3	43-49	752_ANS_clinical_caseMIR	SENT3	-	-
+9	con	con	SPS00	C0332287	atributo	50-53	752_ANS_clinical_caseMIR	SENT3	-	-
+10	pruebas	prueba	NCFP000	-	-	54-61	752_ANS_clinical_caseMIR	SENT3	-	-
+11	cruzadas	cruzar	VMP00PF	-	-	62-70	752_ANS_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	70-71	752_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	752_ANS_clinical_caseMIR	SENT4	-	-
+2	probar	probar	VMN0000	-	-	5-11	752_ANS_clinical_caseMIR	SENT4	-	-
+3	se	se	PP3CN000	-	-	11-13	752_ANS_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	14-16	752_ANS_clinical_caseMIR	SENT4	-	-
+5	infusión	infusión	NCFS000	C0574032	procedimiento	17-25	752_ANS_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	752_ANS_clinical_caseMIR	SENT4	-	-
+7	nuevo	nuevo	NC00SC0	C0205314	calificador	29-34	752_ANS_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	35-37	752_ANS_clinical_caseMIR	SENT4	-	-
+9	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	38-43	752_ANS_clinical_caseMIR	SENT4	-	-
+10	20	20	Z	-	-	44-46	752_ANS_clinical_caseMIR	SENT4	-	-
+11	ml	ml	NCMN000	C0439242	calificador	47-49	752_ANS_clinical_caseMIR	SENT4	-	-
+12	/	/	Fh	-	-	49-50	752_ANS_clinical_caseMIR	SENT4	-	-
+13	kg	kilogramo	NCMN000	C0439209	calificador	50-52	752_ANS_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	53-55	752_ANS_clinical_caseMIR	SENT4	-	-
+15	cristaloides	cristaloide	NCMP000	-	-	56-68	752_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+16	.	.	Fp	-	-	68-69	752_ANS_clinical_caseMIR	SENT4	-	-
+

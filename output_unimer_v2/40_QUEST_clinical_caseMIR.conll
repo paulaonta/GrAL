@@ -1,0 +1,70 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	40_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	40_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	40_QUEST_clinical_caseMIR	SENT1	-	-
+4	35	35		-	-	13-15	40_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	40_QUEST_clinical_caseMIR	SENT1	-	-
+6	diagnosticada	diagnosticar	VMP00SF	-	-	21-34	40_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	35-37	40_QUEST_clinical_caseMIR	SENT1	-	-
+8	Lupus	lupus	NCMS000	C0024141_1	trastorno_1	38-43	40_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	Eritematoso	Eritematoso		C0024141_2	trastorno_2	44-55	40_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	Sistémico	sistémico	NC00SC0	C0024141_3	trastorno_3	56-65	40_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	66-68	40_QUEST_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	69-80	40_QUEST_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	81-84	40_QUEST_clinical_caseMIR	SENT1	-	-
+14	corticoides	corticoide	NCMP000	-	-	85-96	40_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	a	a	SPS00	-	-	97-98	40_QUEST_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	99-102	40_QUEST_clinical_caseMIR	SENT1	-	-
+17	dosis	dosis	NCFN000	-	-	103-108	40_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	109-111	40_QUEST_clinical_caseMIR	SENT1	-	-
+19	0.5	0.5	Z	-	-	112-115	40_QUEST_clinical_caseMIR	SENT1	-	-
+20	mg	mg	NCMN000	-	-	116-118	40_QUEST_clinical_caseMIR	SENT1	-	-
+21	/	/	Fh	-	-	118-119	40_QUEST_clinical_caseMIR	SENT1	-	-
+22	kg	kilogramo	NCMN000	C0439209	calificador	119-121	40_QUEST_clinical_caseMIR	SENT1	-	-
+23	/	/	Fh	-	-	121-122	40_QUEST_clinical_caseMIR	SENT1	-	-
+24	día	día	NCMS000	C0439228#C0332169	calificador	122-125	40_QUEST_clinical_caseMIR	SENT1	-	-
+25	durante	durante	SPS00	C1444752#C0347984	atributo	126-133	40_QUEST_clinical_caseMIR	SENT1	-	-
+26	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	134-140	40_QUEST_clinical_caseMIR	SENT1	-	-
+27	meses	mes	NCMP000	C0439231	calificador	141-146	40_QUEST_clinical_caseMIR	SENT1	-	-
+28	,	,	Fc	-	-	146-147	40_QUEST_clinical_caseMIR	SENT1	-	-
+29	con	con	SPS00	C0332287	atributo	148-151	40_QUEST_clinical_caseMIR	SENT1	-	-
+30	buen	bueno	AQ0MS0	C0205170	calificador	152-156	40_QUEST_clinical_caseMIR	SENT1	-	-
+31	control	control	NCMS000	C2587213	atributo	157-164	40_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332285	atributo	165-167	40_QUEST_clinical_caseMIR	SENT1	-	-
+33	la	el	DA0FS0	-	-	168-170	40_QUEST_clinical_caseMIR	SENT1	-	-
+34	actividad	actividad	NCFS000	C0441655	entidad_observable	171-180	40_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	inflamatoria	inflamatorio	AQ0FS0	C0333348	calificador	181-193	40_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+36	,	,	Fc	-	-	193-194	40_QUEST_clinical_caseMIR	SENT1	-	-
+37	acude	acudir	VMIP3S0	-	-	195-200	40_QUEST_clinical_caseMIR	SENT1	-	-
+38	a	a	SPS00	-	-	201-202	40_QUEST_clinical_caseMIR	SENT1	-	-
+39	la	el	DA0FS0	-	-	203-205	40_QUEST_clinical_caseMIR	SENT1	-	-
+40	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	206-214	40_QUEST_clinical_caseMIR	SENT1	-	-
+41	por	por	SPS00	C1719974_2	procedimiento_2	215-218	40_QUEST_clinical_caseMIR	SENT1	-	-
+42	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	219-224	40_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+43	continuo	continuo	AQ0MS0	C0205322#C0549178	calificador	225-233	40_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+44	en	en	SPS00	C1720294#C0332285	calificador#atributo	234-236	40_QUEST_clinical_caseMIR	SENT1	-	-
+45	la	el	DA0FS0	-	-	237-239	40_QUEST_clinical_caseMIR	SENT1	-	-
+46	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	240-247	40_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+47	de	de	SPS00	C0332285	atributo	248-250	40_QUEST_clinical_caseMIR	SENT1	-	-
+48	3	3		-	-	251-252	40_QUEST_clinical_caseMIR	SENT1	-	-
+49	semanas	semana	NCFP000	C0439230	calificador	253-260	40_QUEST_clinical_caseMIR	SENT1	-	-
+50	de	de	SPS00	C0332285	atributo	261-263	40_QUEST_clinical_caseMIR	SENT1	-	-
+51	evolución	evolución	NCFS000	-	-	264-273	40_QUEST_clinical_caseMIR	SENT1	-	-
+52	,	,	Fc	-	-	273-274	40_QUEST_clinical_caseMIR	SENT1	-	-
+53	de	de	SPS00	C0332285	atributo	275-277	40_QUEST_clinical_caseMIR	SENT1	-	-
+54	inicio	inicio	NCMS000	C0332162	atributo	278-284	40_QUEST_clinical_caseMIR	SENT1	-	-
+55	brusco	brusco	AQ0MS0	C0443162	calificador	285-291	40_QUEST_clinical_caseMIR	SENT1	-	-
+56	sin	sin	SPS00	C0332288	atributo	292-295	40_QUEST_clinical_caseMIR	SENT1	-	-
+57	antecedente	antecedente	NCMS000	-	-	296-307	40_QUEST_clinical_caseMIR	SENT1	-	-
+58	traumático	traumático	AQ0MS0	C0332663	calificador	308-318	40_QUEST_clinical_caseMIR	SENT1	-	-
+59	.	.	Fp	-	-	318-319	40_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Aporta	aportar	VMIP3S0	-	-	320-326	40_QUEST_clinical_caseMIR	SENT2	-	-
+2	un	un		C0205447_1	calificador_1	327-329	40_QUEST_clinical_caseMIR	SENT2	-	-
+3	examen	examen	NCMS000	-	-	330-336	40_QUEST_clinical_caseMIR	SENT2	-	-
+4	radiográfico	radiográfico	AQ0MS0	C0444708	calificador	337-349	40_QUEST_clinical_caseMIR	SENT2	-	-
+5	dentro	dentro	RG	C0332285_1	atributo_1	350-356	40_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285_2	atributo_2	357-359	40_QUEST_clinical_caseMIR	SENT2	-	-
+7	la	el	DA0FS0	-	-	360-362	40_QUEST_clinical_caseMIR	SENT2	-	-
+8	normalidad	normalidad	NCFS000	-	-	363-373	40_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	373-374	40_QUEST_clinical_caseMIR	SENT2	-	-
+

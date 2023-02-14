@@ -1,0 +1,24 @@
+1	Ejercicios	ejercicio	NCMP000	C0015259	entidad_observable	0-10	672_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	672_ANS_clinical_caseMIR	SENT1	-	-
+3	natación	natación	NCFS000	-	-	14-22	672_ANS_clinical_caseMIR	SENT1	-	-
+4	.	.	Fp	-	-	22-23	672_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Ejercicios	ejercicio	NCMP000	C0015259	entidad_observable	0-10	672_ANS_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	672_ANS_clinical_caseMIR	SENT2	-	-
+3	reeducación	reeducación	NCFS000	-	-	14-25	672_ANS_clinical_caseMIR	SENT2	-	-
+4	postural	postural	AQ0CS0	C0205278	calificador	26-34	672_ANS_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	34-35	672_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Corsé	corsé	NCMS000	C0179188_1	objeto_físico_1	0-5	672_ANS_clinical_caseMIR	SENT3	-	-
+2	ortopédico	ortopédico	AQ0MS0	C0179188_2	objeto_físico_2	6-16	672_ANS_clinical_caseMIR	SENT3	-	-
+3	corrector	corrector	AQ0MS0	-	-	17-26	672_ANS_clinical_caseMIR	SENT3	-	-
+4	.	.	Fp	-	-	26-27	672_ANS_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	0-2	672_ANS_clinical_caseMIR	SENT4	-	-
+2	intervención	intervención	NCFS000	C0543467_1	procedimiento_1	3-15	672_ANS_clinical_caseMIR	SENT4	-	-
+3	quirúrgica	quirúrgico	AQ0FS0	C0543467_2	procedimiento_2	16-26	672_ANS_clinical_caseMIR	SENT4	-	-
+4	mediante	mediante	SPS00	-	-	27-35	672_ANS_clinical_caseMIR	SENT4	-	-
+5	artrodesis	artrodesis	NC00SC0	C0003881	procedimiento	36-46	672_ANS_clinical_caseMIR	SENT4	-	-
+6	espinal	espinal	AQ0CS0	-	-	47-54	672_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	54-55	672_ANS_clinical_caseMIR	SENT4	-	-
+

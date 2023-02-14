@@ -1,0 +1,42 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	5_ANS_clinical_caseMIR	SENT1	-	-
+2	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	12-22	5_ANS_clinical_caseMIR	SENT1	-	-
+3	(	(	Fpa	-	-	23-24	5_ANS_clinical_caseMIR	SENT1	-	-
+4	colecistectomía	colecistectomía	NC00SC0	C0008320	procedimiento	24-39	5_ANS_clinical_caseMIR	SENT1	-	-
+5	)	)	Fpt	-	-	39-40	5_ANS_clinical_caseMIR	SENT1	-	-
+6	urgente	urgente	AQ0CS0	C0439609	calificador	41-48	5_ANS_clinical_caseMIR	SENT1	-	-
+7	.	.	Fp	-	-	48-49	5_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Drenaje	drenaje	NCMS000	C0400745_1	procedimiento_1	0-7	5_ANS_clinical_caseMIR	SENT2	-	-
+2	biliar	biliar	AQ0CS0	C0400745_2	procedimiento_2	8-14	5_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	mediante	mediante	SPS00	-	-	15-23	5_ANS_clinical_caseMIR	SENT2	-	-
+4	colecistostomía	colecistostomía	NC00SC0	C0341073_1	procedimiento_1	24-39	5_ANS_clinical_caseMIR	SENT2	-	-
+5	percutánea	percutánea		C0341073_2	procedimiento_2	40-50	5_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	.	.	Fp	-	-	50-51	5_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Sustitiuir	sustitiuir	VMN0000	-	-	0-10	5_ANS_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	11-13	5_ANS_clinical_caseMIR	SENT3	-	-
+3	piperacilina	piperacilina	NC00SC0	C0031955	producto#sustancia	14-26	5_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	/	/	Fh	-	-	26-27	5_ANS_clinical_caseMIR	SENT3	-	-
+5	tazobactan	tazobactan	VMIP3P0	-	-	27-37	5_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	por	por	SPS00	C0678226	atributo	38-41	5_ANS_clinical_caseMIR	SENT3	-	-
+7	metronidazol+cefotaxima	metronidazol+cefotaxima	AQ0FS00	-	-	42-65	5_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	.	.	Fp	-	-	65-66	5_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Sustituir	sustituir	VMN0000	-	-	0-9	5_ANS_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	10-12	5_ANS_clinical_caseMIR	SENT4	-	-
+3	piperecilina	piperecilina	NCFS000	-	-	13-25	5_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	/	/	Fh	-	-	25-26	5_ANS_clinical_caseMIR	SENT4	-	-
+5	tazobactam	tazobactam	NC00SC0	C0075870	sustancia#producto	26-36	5_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+6	por	por	SPS00	C0678226	atributo	37-40	5_ANS_clinical_caseMIR	SENT4	-	-
+7	amikacina+clindamicina	amikacina+clindamicina	NCFS000	-	-	41-63	5_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+8	.	.	Fp	-	-	63-64	5_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Añadir	añadir	VMN0000	-	-	0-6	5_ANS_clinical_caseMIR	SENT5	-	-
+2	al	al	SP+DA	-	-	7-9	5_ANS_clinical_caseMIR	SENT5	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	10-21	5_ANS_clinical_caseMIR	SENT5	-	-
+4	un	un		C0205447_1	calificador_1	22-24	5_ANS_clinical_caseMIR	SENT5	-	-
+5	aminoglucósido	aminoglucósido	NC00SC0	C0002556	producto	25-39	5_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+6	como	como	CS	C0332257	calificador	40-44	5_ANS_clinical_caseMIR	SENT5	-	-
+7	acentamicina	acentamicina	NCFS000	-	-	45-57	5_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+8	.	.	Fp	-	-	57-58	5_ANS_clinical_caseMIR	SENT5	-	-
+

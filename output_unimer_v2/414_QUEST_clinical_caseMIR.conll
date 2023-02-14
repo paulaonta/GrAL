@@ -1,0 +1,74 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	414_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	414_QUEST_clinical_caseMIR	SENT1	-	-
+3	31	31		-	-	9-11	414_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	414_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	414_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	414_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	414_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	29-31	414_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	32-40	414_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	41-44	414_QUEST_clinical_caseMIR	SENT1	-	-
+11	reglas	regla	NCFP000	C0522637	objeto_físico	45-51	414_QUEST_clinical_caseMIR	SENT1	-	-
+12	abundantes	abundante	AQ0CP0	-	-	52-62	414_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	63-65	414_QUEST_clinical_caseMIR	SENT1	-	-
+14	5	5	Z	-	-	66-67	414_QUEST_clinical_caseMIR	SENT1	-	-
+15	días	d	NCMP000	-	-	68-72	414_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	73-75	414_QUEST_clinical_caseMIR	SENT1	-	-
+17	duración	duración	NCFS000	C0449238	atributo	76-84	414_QUEST_clinical_caseMIR	SENT1	-	-
+18	desde	desde	SPS00	-	-	85-90	414_QUEST_clinical_caseMIR	SENT1	-	-
+19	hace	hacer	VMIP3S0	-	-	91-95	414_QUEST_clinical_caseMIR	SENT1	-	-
+20	2	2		-	-	96-97	414_QUEST_clinical_caseMIR	SENT1	-	-
+21	años	año	NCMP000	C0439234	calificador	98-102	414_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	102-103	414_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Su	su	DP3CS0	-	-	104-106	414_QUEST_clinical_caseMIR	SENT2	-	-
+2	última	último	AO0FS0	-	-	107-113	414_QUEST_clinical_caseMIR	SENT2	-	-
+3	regla	regla	NCFS000	C0522637	objeto_físico	114-119	414_QUEST_clinical_caseMIR	SENT2	-	-
+4	fue	ser	VSIS3S0	-	-	120-123	414_QUEST_clinical_caseMIR	SENT2	-	-
+5	hace	hacer	VMIP3S0	-	-	124-128	414_QUEST_clinical_caseMIR	SENT2	-	-
+6	8	8	Z	-	-	129-130	414_QUEST_clinical_caseMIR	SENT2	-	-
+7	días	d	NCMP000	-	-	131-135	414_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	135-136	414_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	137-139	414_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	140-142	414_QUEST_clinical_caseMIR	SENT3	-	-
+3	valoración	valoración	NCFS000	-	-	143-153	414_QUEST_clinical_caseMIR	SENT3	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	154-161	414_QUEST_clinical_caseMIR	SENT3	-	-
+5	y	y	CC	C1706368	calificador	162-163	414_QUEST_clinical_caseMIR	SENT3	-	-
+6	al	al	SP+DA	-	-	164-166	414_QUEST_clinical_caseMIR	SENT3	-	-
+7	realizar	realizar	VMN0000	-	-	167-175	414_QUEST_clinical_caseMIR	SENT3	-	-
+8	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	176-185	414_QUEST_clinical_caseMIR	SENT3	-	-
+9	vaginal	vaginal	AQ0CS0	-	-	186-193	414_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	,	,	Fc	-	-	193-194	414_QUEST_clinical_caseMIR	SENT3	-	-
+11	se	se	P00CN000	-	-	195-197	414_QUEST_clinical_caseMIR	SENT3	-	-
+12	evidencia	evidenciar	VMIP3S0	-	-	198-207	414_QUEST_clinical_caseMIR	SENT3	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	208-210	414_QUEST_clinical_caseMIR	SENT3	-	-
+14	la	el	DA0FS0	-	-	211-213	414_QUEST_clinical_caseMIR	SENT3	-	-
+15	cavidad	cavidad	NCFS000	C1284520#C0227844_1	estructura_corporal_1	214-221	414_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	endometrial	endometrial		C1284520#C0227844_2	estructura_corporal_2	222-233	414_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+17	una	una		C0205447_1	calificador_1	234-237	414_QUEST_clinical_caseMIR	SENT3	-	-
+18	formación	formación	NCFS000	-	-	238-247	414_QUEST_clinical_caseMIR	SENT3	-	-
+19	redondeada	redondear	VMP00SF	-	-	248-258	414_QUEST_clinical_caseMIR	SENT3	-	-
+20	,	,	Fc	-	-	258-259	414_QUEST_clinical_caseMIR	SENT3	-	-
+21	de	de	SPS00	C0332285	atributo	260-262	414_QUEST_clinical_caseMIR	SENT3	-	-
+22	bordes	borde	NCMP000	C0205154	calificador	263-269	414_QUEST_clinical_caseMIR	SENT3	-	-
+23	bien	bien	RG	C0205170	calificador	270-274	414_QUEST_clinical_caseMIR	SENT3	-	-
+24	definidos	definir	VMP00PM	-	-	275-284	414_QUEST_clinical_caseMIR	SENT3	-	-
+25	,	,	Fc	-	-	284-285	414_QUEST_clinical_caseMIR	SENT3	-	-
+26	homogénea	homogéneo	AQ0FS0	-	-	286-295	414_QUEST_clinical_caseMIR	SENT3	-	-
+27	e	y	CC	C1706368	calificador	296-297	414_QUEST_clinical_caseMIR	SENT3	-	-
+28	hipoecogénica	hipoecogénica	AQ0FS00	-	-	298-311	414_QUEST_clinical_caseMIR	SENT3	-	-
+29	de	de	SPS00	C0332285	atributo	312-314	414_QUEST_clinical_caseMIR	SENT3	-	-
+30	25	25	Z	-	-	315-317	414_QUEST_clinical_caseMIR	SENT3	-	-
+31	mm	mm	NCMN000	-	-	318-320	414_QUEST_clinical_caseMIR	SENT3	-	-
+32	.	.	Fp	-	-	320-321	414_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	322-323	414_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	323-327	414_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	328-333	414_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	334-336	414_QUEST_clinical_caseMIR	SENT4	-	-
+5	pauta	pauta	NCFS000	-	-	337-342	414_QUEST_clinical_caseMIR	SENT4	-	-
+6	a	a	SPS00	-	-	343-344	414_QUEST_clinical_caseMIR	SENT4	-	-
+7	seguir	seguir	VMN0000	-	-	345-351	414_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	351-352	414_QUEST_clinical_caseMIR	SENT4	-	-
+

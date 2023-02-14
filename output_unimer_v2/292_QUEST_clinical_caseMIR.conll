@@ -1,0 +1,41 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	292_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	292_QUEST_clinical_caseMIR	SENT1	-	-
+3	68	68		-	-	12-14	292_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	292_QUEST_clinical_caseMIR	SENT1	-	-
+5	tiene	tener	VMIP3S0	-	-	20-25	292_QUEST_clinical_caseMIR	SENT1	-	-
+6	una	una		C0205447_1	calificador_1	26-29	292_QUEST_clinical_caseMIR	SENT1	-	-
+7	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	30-34	292_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	tumoral	tumoral	AQ0CS0	-	-	35-42	292_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	diagnosticada	diagnosticar	VMP00SF	-	-	43-56	292_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	57-59	292_QUEST_clinical_caseMIR	SENT1	-	-
+11	carcinoma	carcinoma	NCMS000	C0007097	anomalía_morfológica	60-69	292_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	70-78	292_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	no	no	RN	C1298908	calificador	79-81	292_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	82-89	292_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+15	pequeñas	pequeño	AQ0FP0	C0700321#C1282918	calificador	90-98	292_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	99-101	292_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	102-104	292_QUEST_clinical_caseMIR	SENT1	-	-
+18	bronquio	bronquio	NCMS000	C0225608#C1305712_1	estructura_corporal_1	105-113	292_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	principal	principal	NCMS000	C0225608#C1305712_2	estructura_corporal_2	114-123	292_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	derecho	derecho	NCMS000	C0225608#C1305712_3	estructura_corporal_3	124-131	292_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	a	a	SPS00	-	-	132-133	292_QUEST_clinical_caseMIR	SENT1	-	-
+22	1	1	Z	-	-	134-135	292_QUEST_clinical_caseMIR	SENT1	-	-
+23	cm	cm	NCMN000	-	-	136-138	292_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	139-141	292_QUEST_clinical_caseMIR	SENT1	-	-
+25	la	el	DA0FS0	-	-	142-144	292_QUEST_clinical_caseMIR	SENT1	-	-
+26	carina	carina	NCFS000	C1278906#C0225594	estructura_corporal	145-151	292_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	traqueal	traqueal	AQ0CS0	C2945595	calificador	152-160	292_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+28	.	.	Fp	-	-	160-161	292_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	162-164	292_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	165-167	292_QUEST_clinical_caseMIR	SENT2	-	-
+3	mediastinoscopia	mediastinoscopia	NC00SC0	C0025065#C1280604	procedimiento	168-184	292_QUEST_clinical_caseMIR	SENT2	-	-
+4	se	se	P00CN000	-	-	185-187	292_QUEST_clinical_caseMIR	SENT2	-	-
+5	aprecian	apreciar	VMIP3P0	-	-	188-196	292_QUEST_clinical_caseMIR	SENT2	-	-
+6	adenopatías	adenopatía	NCFP000	-	-	197-208	292_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	contralaterales	contralateral	AQ0CP0	C0441988	calificador	209-224	292_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	que	que	PR0CN000	-	-	225-228	292_QUEST_clinical_caseMIR	SENT2	-	-
+9	son	ser	VSIP3P0	-	-	229-232	292_QUEST_clinical_caseMIR	SENT2	-	-
+10	positivas	positivo	AQ0FP0	C1446409	calificador	233-242	292_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	242-243	292_QUEST_clinical_caseMIR	SENT2	-	-
+

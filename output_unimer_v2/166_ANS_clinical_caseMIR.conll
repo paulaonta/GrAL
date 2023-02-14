@@ -1,0 +1,23 @@
+1	Uveítis	uveítis	NCMN000	C0042166_1	trastorno_1	0-7	166_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	intermedia	intermedio	AQ0FS0	C0042166_2	trastorno_2	8-18	166_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	18-19	166_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	166_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	166_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	manchas	mancha	NCFP000	-	-	12-19	166_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+4	blancas	blanco	AQ0FP0	C0220938	calificador	20-27	166_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+5	.	.	Fp	-	-	27-28	166_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Neuritis	neuritis	NCFN000	C0029134_1	trastorno_1	0-8	166_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	óptica	óptico	AQ0FS0	C0029134_2	trastorno_2	9-15	166_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	.	.	Fp	-	-	15-16	166_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Uveítis	uveítis	NCMN000	C0022073#C0042165_1	trastorno_1	0-7	166_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	anterior	anterior	NC00SC0	C0022073#C0042165_2	trastorno_2	8-16	166_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	.	.	Fp	-	-	16-17	166_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Coroiditis	coroiditis	NCFN000	C0008526	trastorno	0-10	166_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	punteada	punteado	NCFS000	C0205330	calificador	11-19	166_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+3	interna	interno	AQ0FS0	C0205102	calificador	20-27	166_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+4	.	.	Fp	-	-	27-28	166_ANS_clinical_caseMIR	SENT5	-	-
+

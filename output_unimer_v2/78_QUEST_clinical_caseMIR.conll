@@ -1,0 +1,77 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	78_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	78_QUEST_clinical_caseMIR	SENT1	-	-
+3	30	30		-	-	9-11	78_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	78_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	78_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332288	atributo	18-21	78_QUEST_clinical_caseMIR	SENT1	-	-
+7	hijos	hijo	NCMP000	-	-	22-27	78_QUEST_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	27-28	78_QUEST_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	29-32	78_QUEST_clinical_caseMIR	SENT1	-	-
+10	consulta	consultar	VMM02S0	C1704447_1	calificador_1	33-41	78_QUEST_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C1704447_2	calificador_2	42-45	78_QUEST_clinical_caseMIR	SENT1	-	-
+12	dismenorrea	dismenorrea	NCFS000	C0013390	trastorno#hallazgo	46-57	78_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	58-60	78_QUEST_clinical_caseMIR	SENT1	-	-
+14	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	61-67	78_QUEST_clinical_caseMIR	SENT1	-	-
+15	años	año	NCMP000	C0439234	calificador	68-72	78_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	73-75	78_QUEST_clinical_caseMIR	SENT1	-	-
+17	evolución	evolución	NCFS000	-	-	76-85	78_QUEST_clinical_caseMIR	SENT1	-	-
+18	,	,	Fc	-	-	85-86	78_QUEST_clinical_caseMIR	SENT1	-	-
+19	aunque	aunque	CC	-	-	87-93	78_QUEST_clinical_caseMIR	SENT1	-	-
+20	el	el	DA0MS0	-	-	94-96	78_QUEST_clinical_caseMIR	SENT1	-	-
+21	dolor	dolor	NCMS000	C0030193	hallazgo	97-102	78_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	se	se	P00CN000	-	-	103-105	78_QUEST_clinical_caseMIR	SENT1	-	-
+23	ha	haber	VAIP3S0	-	-	106-108	78_QUEST_clinical_caseMIR	SENT1	-	-
+24	intensificado	intensificar	VMP00SM	-	-	109-122	78_QUEST_clinical_caseMIR	SENT1	-	-
+25	en	en	SPS00	C1720294#C0332285	calificador#atributo	123-125	78_QUEST_clinical_caseMIR	SENT1	-	-
+26	los	el	DA0MP0	-	-	126-129	78_QUEST_clinical_caseMIR	SENT1	-	-
+27	últimos	último	AO0MP0	-	-	130-137	78_QUEST_clinical_caseMIR	SENT1	-	-
+28	meses	mes	NCMP000	C0439231	calificador	138-143	78_QUEST_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	143-144	78_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	145-147	78_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	148-150	78_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	151-162	78_QUEST_clinical_caseMIR	SENT2	-	-
+4	se	se	P00CN000	-	-	163-165	78_QUEST_clinical_caseMIR	SENT2	-	-
+5	detecta	detectar	VMIP3S0	-	-	166-173	78_QUEST_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	174-177	78_QUEST_clinical_caseMIR	SENT2	-	-
+7	tumoración	tumoración	NCFS000	C0577559	hallazgo	178-188	78_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	189-191	78_QUEST_clinical_caseMIR	SENT2	-	-
+9	ovario	ovario	NCMS000	C1281196#C0227873_1	estructura_corporal_1	192-198	78_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	derecho	derecho	NCMS000	C1281196#C0227873_2	estructura_corporal_2	199-206	78_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	206-207	78_QUEST_clinical_caseMIR	SENT2	-	-
+12	con	con	SPS00	C0332287	atributo	208-211	78_QUEST_clinical_caseMIR	SENT2	-	-
+13	útero	útero	NCMS000	C1269032#C0042149	estructura_corporal	212-217	78_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	poco	poco	RG	C0700321#C1282918	-	218-222	78_QUEST_clinical_caseMIR	SENT2	-	-
+15	móvil	móvil	AQ0CS0	C0332254	calificador	223-228	78_QUEST_clinical_caseMIR	SENT2	-	-
+16	y	y	CC	C1706368	calificador	229-230	78_QUEST_clinical_caseMIR	SENT2	-	-
+17	doloroso	doloroso	AQ0MS0	-	-	231-239	78_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	.	.	Fp	-	-	239-240	78_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Ovario	ovario	NCMS000	C1281197#C0227874_1	estructura_corporal_1	241-247	78_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+2	izquierdo	izquierdo	NC00SC0	C1281197#C0227874_2	estructura_corporal_2	248-257	78_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+3	normal	normal	AQ0CS0	C0205307	calificador	258-264	78_QUEST_clinical_caseMIR	SENT3	-	-
+4	y	y	CC	C1706368	calificador	265-266	78_QUEST_clinical_caseMIR	SENT3	-	-
+5	doloroso	doloroso	AQ0MS0	-	-	267-275	78_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	.	.	Fp	-	-	275-276	78_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Por	por	SPS00	C0678226	atributo	277-280	78_QUEST_clinical_caseMIR	SENT4	-	-
+2	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	281-290	78_QUEST_clinical_caseMIR	SENT4	-	-
+3	se	se	P00CN000	-	-	291-293	78_QUEST_clinical_caseMIR	SENT4	-	-
+4	visualiza	visualizar	VMIP3S0	-	-	294-303	78_QUEST_clinical_caseMIR	SENT4	-	-
+5	una	una		C0205447_1	calificador_1	304-307	78_QUEST_clinical_caseMIR	SENT4	-	-
+6	formación	formación	NCFS000	-	-	308-317	78_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	quística	quístico	AQ0FS0	C0205207	calificador	318-326	78_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+8	homogénea	homogéneo	AQ0FS0	-	-	327-336	78_QUEST_clinical_caseMIR	SENT4	-	-
+9	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	337-347	78_QUEST_clinical_caseMIR	SENT4	-	-
+10	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	348-351	78_QUEST_clinical_caseMIR	SENT4	-	-
+11	endometrioma	endometrioma	NC00SC0	C0269102#C1536148	anomalía_morfológica#trastorno	352-364	78_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	365-367	78_QUEST_clinical_caseMIR	SENT4	-	-
+13	ovario	ovario	NCMS000	C1281196#C0227873_1	estructura_corporal_1	368-374	78_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+14	derecho	derecho	NCMS000	C1281196#C0227873_2	estructura_corporal_2	375-382	78_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+15	de	de	SPS00	C0332285	atributo	383-385	78_QUEST_clinical_caseMIR	SENT4	-	-
+16	7	7		-	-	386-387	78_QUEST_clinical_caseMIR	SENT4	-	-
+17	cms	cms	NCMP000	-	-	388-391	78_QUEST_clinical_caseMIR	SENT4	-	-
+18	de	de	SPS00	C0332285	atributo	392-394	78_QUEST_clinical_caseMIR	SENT4	-	-
+19	diámetro	diámetro	NCMS000	C1301886	calificador	395-403	78_QUEST_clinical_caseMIR	SENT4	-	-
+20	.	.	Fp	-	-	403-404	78_QUEST_clinical_caseMIR	SENT4	-	-
+

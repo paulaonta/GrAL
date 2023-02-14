@@ -1,0 +1,80 @@
+1	El	el	DA0MS0	-	-	0-2	120_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	120_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	120_ANS_clinical_caseMIR	SENT1	-	-
+4	esta	este	DD0FS0	-	-	18-22	120_ANS_clinical_caseMIR	SENT1	-	-
+5	afectación	afectación	NCFS000	-	-	23-33	120_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	se	se	P00CN000	-	-	34-36	120_ANS_clinical_caseMIR	SENT1	-	-
+7	basa	basar	VMIP3S0	-	-	37-41	120_ANS_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	120_ANS_clinical_caseMIR	SENT1	-	-
+9	criterios	criterio	NCMP000	-	-	45-54	120_ANS_clinical_caseMIR	SENT1	-	-
+10	clínicos	clínico	AQ0MP0	C0205210	calificador	55-63	120_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	63-64	120_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Habría	haber	VMIC1S0	-	-	0-6	120_ANS_clinical_caseMIR	SENT2	-	-
+2	que	que	CS	-	-	7-10	120_ANS_clinical_caseMIR	SENT2	-	-
+3	realizar	realizar	VMN0000	-	-	11-19	120_ANS_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	20-23	120_ANS_clinical_caseMIR	SENT2	-	-
+5	analítica	analítica	NCFS000	-	-	24-33	120_ANS_clinical_caseMIR	SENT2	-	-
+6	básica	básico	AQ0FS0	-	-	34-40	120_ANS_clinical_caseMIR	SENT2	-	-
+7	que	que	PR0CN000	-	-	41-44	120_ANS_clinical_caseMIR	SENT2	-	-
+8	incluyera	incluir	VMSI3S0	-	-	45-54	120_ANS_clinical_caseMIR	SENT2	-	-
+9	perfil	perfil	NCMS000	-	-	55-61	120_ANS_clinical_caseMIR	SENT2	-	-
+10	férrico	férrico	AQ0MS0	-	-	62-69	120_ANS_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	69-70	120_ANS_clinical_caseMIR	SENT2	-	-
+12	hormonas	hormona	NCFP000	C0040135_1	producto_1	71-79	120_ANS_clinical_caseMIR	SENT2	-	-
+13	tiroideas	tiroideo	AQ0FP0	C0040135_2	producto_2	80-89	120_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	90-91	120_ANS_clinical_caseMIR	SENT2	-	-
+15	B12	B12		-	-	92-95	120_ANS_clinical_caseMIR	SENT2	-	-
+16	y	y	CC	C1706368	calificador	96-97	120_ANS_clinical_caseMIR	SENT2	-	-
+17	ácido	ácido	NCMS000	C0016410_1	sustancia_1	98-103	120_ANS_clinical_caseMIR	SENT2	-	-
+18	fólico	fólico	AQ0MS0	C0016410_2	sustancia_2	104-110	120_ANS_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	110-111	120_ANS_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	0-2	120_ANS_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	120_ANS_clinical_caseMIR	SENT3	-	-
+3	estaría	estar	VAIC1S0	-	-	15-22	120_ANS_clinical_caseMIR	SENT3	-	-
+4	indicado	indicar	VMP00SM	-	-	23-31	120_ANS_clinical_caseMIR	SENT3	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	32-34	120_ANS_clinical_caseMIR	SENT3	-	-
+6	pacientes	paciente	NCCP000	C0030705	persona	35-44	120_ANS_clinical_caseMIR	SENT3	-	-
+7	que	que	PR0CN000	-	-	45-48	120_ANS_clinical_caseMIR	SENT3	-	-
+8	presentan	presentar	VMIP3P0	-	-	49-58	120_ANS_clinical_caseMIR	SENT3	-	-
+9	alteración	alteración	NCFS000	-	-	59-69	120_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	del	del	SP+DA	-	-	70-73	120_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+11	sueño	sueño	NCMS000	C0037313	entidad_observable	74-79	120_ANS_clinical_caseMIR	SENT3	I-Calificador	-
+12	o	o	CC	-	-	80-81	120_ANS_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	82-84	120_ANS_clinical_caseMIR	SENT3	-	-
+14	la	el	DA0FS0	-	-	85-87	120_ANS_clinical_caseMIR	SENT3	-	-
+15	calidad	calidad	NCFS000	C0332306	atributo	88-95	120_ANS_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	96-98	120_ANS_clinical_caseMIR	SENT3	-	-
+17	vida	vida	NCFS000	-	-	99-103	120_ANS_clinical_caseMIR	SENT3	-	-
+18	pero	pero	CC	-	-	104-108	120_ANS_clinical_caseMIR	SENT3	-	-
+19	no	no	RN	C1298908	calificador	109-111	120_ANS_clinical_caseMIR	SENT3	-	-
+20	altera	alterar	VMIP3S0	-	-	112-118	120_ANS_clinical_caseMIR	SENT3	-	-
+21	el	el	DA0MS0	-	-	119-121	120_ANS_clinical_caseMIR	SENT3	-	-
+22	curso	curso	NCMS000	C1292729_1	atributo_1	122-127	120_ANS_clinical_caseMIR	SENT3	-	-
+23	de	de	SPS00	C1292729_2	atributo_2	128-130	120_ANS_clinical_caseMIR	SENT3	-	-
+24	la	lo	PP3FSA00	C1292729_3	atributo_3	131-133	120_ANS_clinical_caseMIR	SENT3	-	-
+25	enfermedad	enfermedad	NCFS000	C1292729_4	atributo_4	134-144	120_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+26	.	.	Fp	-	-	144-145	120_ANS_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	0-2	120_ANS_clinical_caseMIR	SENT4	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	120_ANS_clinical_caseMIR	SENT4	-	-
+3	se	se	P00CN000	-	-	15-17	120_ANS_clinical_caseMIR	SENT4	-	-
+4	confirma	confirmar	VMIP3S0	-	-	18-26	120_ANS_clinical_caseMIR	SENT4	-	-
+5	con	con	SPS00	C0332287	atributo	27-30	120_ANS_clinical_caseMIR	SENT4	-	-
+6	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	31-38	120_ANS_clinical_caseMIR	SENT4	-	-
+7	muscular	muscular	AQ0CS0	C0442025	calificador	39-47	120_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	47-48	120_ANS_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	0-2	120_ANS_clinical_caseMIR	SENT5	-	-
+2	pramipexol	pramipexol	NC00SC0	C0074710	producto#sustancia	3-13	120_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+3	y	y	CC	C1706368	calificador	14-15	120_ANS_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	16-18	120_ANS_clinical_caseMIR	SENT5	-	-
+5	ropirinol	ropirinol	NCMS000	-	-	19-28	120_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+6	se	se	P00CN000	-	-	29-31	120_ANS_clinical_caseMIR	SENT5	-	-
+7	utilizan	utilizar	VMIP3P0	-	-	32-40	120_ANS_clinical_caseMIR	SENT5	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	120_ANS_clinical_caseMIR	SENT5	-	-
+9	el	el	DA0MS0	-	-	44-46	120_ANS_clinical_caseMIR	SENT5	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	47-58	120_ANS_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	58-59	120_ANS_clinical_caseMIR	SENT5	-	-
+

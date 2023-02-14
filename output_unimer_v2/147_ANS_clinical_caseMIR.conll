@@ -1,0 +1,25 @@
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	147_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	11-13	147_ANS_clinical_caseMIR	SENT1	-	-
+3	cambios	cambio	NCMP000	C0443172	calificador	14-21	147_ANS_clinical_caseMIR	SENT1	-	-
+4	mínimos	mínimo	AQ0MP0	C0547040#C1282907	calificador	22-29	147_ANS_clinical_caseMIR	SENT1	-	-
+5	.	.	Fp	-	-	29-30	147_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Glomerulonefritis	glomerulonefritis	NCFN000	C0017665_1	trastorno_1	0-17	147_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	membranosa	membranoso	AQ0FS0	C0017665_2	trastorno_2	18-28	147_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	.	.	Fp	-	-	28-29	147_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	147_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	Ig	ig	NC00YL0	-	-	11-13	147_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	A.	a.	AQ0CS00	-	-	14-16	147_ANS_clinical_caseMIR	SENT3	-	-
+4	Glomerulonefritis	glomerulonefritis	NCFN000	C0403416#C0235618_1	trastorno_1	0-17	147_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	proliferativa	proliferativo	AQ0FS0	C0403416#C0235618_2	trastorno_2	18-31	147_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+6	difusa	difuso	AQ0FS0	C0205219	calificador	32-38	147_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+7	.	.	Fp	-	-	38-39	147_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Glomeruloesclerosis	glomeruloesclerosis	NC00SC0	C0017668_1	trastorno_1	0-19	147_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	focal	focal	NC00SC0	C0017668_2	trastorno_2	20-25	147_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	y	y	CC	C1706368	calificador	26-27	147_ANS_clinical_caseMIR	SENT4	-	-
+4	segmentaria	segmentario	AQ0FS0	C0205122	calificador	28-39	147_ANS_clinical_caseMIR	SENT4	-	-
+5	primaria	primario	AQ0FS0	C0205225	calificador	40-48	147_ANS_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	48-49	147_ANS_clinical_caseMIR	SENT4	-	-
+

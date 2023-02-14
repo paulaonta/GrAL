@@ -1,0 +1,94 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	492_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	492_QUEST_clinical_caseMIR	SENT1	-	-
+3	65	65		-	-	9-11	492_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	492_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	492_QUEST_clinical_caseMIR	SENT1	-	-
+6	sometida	someter	VMP00SF	-	-	18-26	492_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	492_QUEST_clinical_caseMIR	SENT1	-	-
+8	trasplante	trasplante	NCMS000	C0040732#C1961139#C0332835	procedimiento#calificador#estructura_corporal	29-39	492_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	492_QUEST_clinical_caseMIR	SENT1	-	-
+10	precursores	precursor	NCMP000	-	-	43-54	492_QUEST_clinical_caseMIR	SENT1	-	-
+11	hematopoyéticos	hematopoyético	AQ0MP0	-	-	55-70	492_QUEST_clinical_caseMIR	SENT1	-	-
+12	hace	hacer	VMIP3S0	-	-	71-75	492_QUEST_clinical_caseMIR	SENT1	-	-
+13	30	30	Z	-	-	76-78	492_QUEST_clinical_caseMIR	SENT1	-	-
+14	días	d	NCMP000	-	-	79-83	492_QUEST_clinical_caseMIR	SENT1	-	-
+15	y	y	CC	C1706368	calificador	84-85	492_QUEST_clinical_caseMIR	SENT1	-	-
+16	neutropenia	neutropenia	NCFS000	C0027947#C0001824#C1534864#C1576411#C0853697	trastorno#hallazgo	86-97	492_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	grave	grave	AQ0CS0	C0439808#C0205082	calificador	98-103	492_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	.	.	Fp	-	-	103-104	492_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Comienza	comenzar	VMIP3S0	-	-	105-113	492_QUEST_clinical_caseMIR	SENT2	-	-
+2	con	con	SPS00	C0332287	atributo	114-117	492_QUEST_clinical_caseMIR	SENT2	-	-
+3	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	118-121	492_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	y	y	CC	C1706368	calificador	122-123	492_QUEST_clinical_caseMIR	SENT2	-	-
+5	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	124-137	492_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	hemoptoica	hemoptoica	AQ0FS00	-	-	138-148	492_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	además	además	RG	C0332287_1	atributo_1	149-155	492_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332287_2	atributo_2	156-158	492_QUEST_clinical_caseMIR	SENT2	-	-
+9	fiebre	fiebre	NCFS000	C0015967	hallazgo	159-165	492_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	166-167	492_QUEST_clinical_caseMIR	SENT2	-	-
+11	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	168-174	492_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0332285	atributo	175-177	492_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	moderados	moderar	VMP00PM	-	-	178-187	492_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+14	esfuerzos	esfuerzo	NCMP000	-	-	188-197	492_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+15	que	que	PR0CN000	-	-	198-201	492_QUEST_clinical_caseMIR	SENT2	-	-
+16	no	no	RN	C1298908	calificador	202-204	492_QUEST_clinical_caseMIR	SENT2	-	-
+17	mejora	mejorar	VMIP3S0	-	-	205-211	492_QUEST_clinical_caseMIR	SENT2	-	-
+18	a	a	SPS00	-	-	212-213	492_QUEST_clinical_caseMIR	SENT2	-	-
+19	pesar	pesar	VMN0000	C1879338#C0018235	hallazgo	214-219	492_QUEST_clinical_caseMIR	SENT2	-	-
+20	de	de	SPS00	C0332285	atributo	220-222	492_QUEST_clinical_caseMIR	SENT2	-	-
+21	cinco	cinco		-	-	223-228	492_QUEST_clinical_caseMIR	SENT2	-	-
+22	días	día	NCMP000	C0439228#C0332169	calificador	229-233	492_QUEST_clinical_caseMIR	SENT2	-	-
+23	de	de	SPS00	C0332285	atributo	234-236	492_QUEST_clinical_caseMIR	SENT2	-	-
+24	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	237-248	492_QUEST_clinical_caseMIR	SENT2	-	-
+25	con	con	SPS00	C0332287	atributo	249-252	492_QUEST_clinical_caseMIR	SENT2	-	-
+26	amoxicilina-clavulánico	amoxicilina-clavulánico	NCMS000	-	-	253-276	492_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+27	(	(	Fpa	-	-	277-278	492_QUEST_clinical_caseMIR	SENT2	-	-
+28	875/125	875/125		-	-	278-285	492_QUEST_clinical_caseMIR	SENT2	-	-
+29	mg/8	mg/8	Z	-	-	286-290	492_QUEST_clinical_caseMIR	SENT2	-	-
+30	h	h	NCMN000	C0439227	calificador	291-292	492_QUEST_clinical_caseMIR	SENT2	-	-
+31	)	)	Fpt	-	-	292-293	492_QUEST_clinical_caseMIR	SENT2	-	-
+32	y	y	CC	C1706368	calificador	294-295	492_QUEST_clinical_caseMIR	SENT2	-	-
+33	levofloxacino	levofloxacino	NC00SC0	C0282386	producto#sustancia	296-309	492_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+34	(	(	Fpa	-	-	310-311	492_QUEST_clinical_caseMIR	SENT2	-	-
+35	500	500		-	-	311-314	492_QUEST_clinical_caseMIR	SENT2	-	-
+36	mg/12	mg/12	Z	-	-	315-320	492_QUEST_clinical_caseMIR	SENT2	-	-
+37	h	h	NCMN000	C0439227	calificador	321-322	492_QUEST_clinical_caseMIR	SENT2	-	-
+38	)	)	Fpt	-	-	322-323	492_QUEST_clinical_caseMIR	SENT2	-	-
+39	.	.	Fp	-	-	323-324	492_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	325-327	492_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	328-330	492_QUEST_clinical_caseMIR	SENT3	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	331-342	492_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	343-345	492_QUEST_clinical_caseMIR	SENT3	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	346-351	492_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	se	se	P00CN000	-	-	352-354	492_QUEST_clinical_caseMIR	SENT3	-	-
+7	observan	observar	VMIP3P0	-	-	355-363	492_QUEST_clinical_caseMIR	SENT3	-	-
+8	múltiples	múltiple	AQ0CP0	C0748164_1	hallazgo_1	364-373	492_QUEST_clinical_caseMIR	SENT3	-	-
+9	nódulos	nódulo	NCMP000	C0748164_2	hallazgo_2	374-381	492_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	pulmonares	pulmonar	AQ0CP0	C0748164_3	hallazgo_3	382-392	492_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	mal	mal	RG	C0205169	calificador	393-396	492_QUEST_clinical_caseMIR	SENT3	-	-
+12	definidos	definir	VMP00PM	-	-	397-406	492_QUEST_clinical_caseMIR	SENT3	-	-
+13	,	,	Fc	-	-	406-407	492_QUEST_clinical_caseMIR	SENT3	-	-
+14	alguno	alguno	PI0MS000	C0205392	calificador	408-414	492_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	415-417	492_QUEST_clinical_caseMIR	SENT3	-	-
+16	ellos	ellos	PP3MP000	-	-	418-423	492_QUEST_clinical_caseMIR	SENT3	-	-
+17	cavitado	cavitado	VMP00SM	-	-	424-432	492_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	.	.	Fp	-	-	432-433	492_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	De	de	SPS00	C0332285	atributo	434-436	492_QUEST_clinical_caseMIR	SENT4	-	-
+2	entre	entre	SPS00	C0205103	calificador	437-442	492_QUEST_clinical_caseMIR	SENT4	-	-
+3	los	el	DA0MP0	-	-	443-446	492_QUEST_clinical_caseMIR	SENT4	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	447-457	492_QUEST_clinical_caseMIR	SENT4	-	-
+5	,	,	Fc	-	-	457-458	492_QUEST_clinical_caseMIR	SENT4	-	-
+6	¿	¿	Fia	-	-	459-460	492_QUEST_clinical_caseMIR	SENT4	-	-
+7	cuál	cuál	PT0CS000	-	-	460-464	492_QUEST_clinical_caseMIR	SENT4	-	-
+8	es	ser	VSIP3S0	-	-	465-467	492_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	468-470	492_QUEST_clinical_caseMIR	SENT4	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	471-482	492_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	483-485	492_QUEST_clinical_caseMIR	SENT4	-	-
+12	sospecha	sospecha	NCFS000	C0750491	calificador	486-494	492_QUEST_clinical_caseMIR	SENT4	-	-
+13	más	más	RG	C0205172	calificador	495-498	492_QUEST_clinical_caseMIR	SENT4	-	-
+14	probable	probable	AQ0CS0	C0332148	calificador	499-507	492_QUEST_clinical_caseMIR	SENT4	-	-
+15	?	?	Fit	-	-	507-508	492_QUEST_clinical_caseMIR	SENT4	-	-
+

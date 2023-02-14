@@ -1,0 +1,37 @@
+1	¿	¿	Fia	-	-	302-303	338_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	303-307	338_QUEST_clinical_caseMIR	SENT1	-	-
+3	sería	ser	VSIC1S0	-	-	308-313	338_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	314-316	338_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	317-328	338_QUEST_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	329-332	338_QUEST_clinical_caseMIR	SENT1	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	333-341	338_QUEST_clinical_caseMIR	SENT1	-	-
+8	?	?	Fit	-	-	341-342	338_QUEST_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	342-343	338_QUEST_clinical_caseMIR	SENT1	-	-
+10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	338_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	6-8	338_QUEST_clinical_caseMIR	SENT1	-	-
+12	30	30		-	-	9-11	338_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	12-16	338_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	17-20	338_QUEST_clinical_caseMIR	SENT1	-	-
+15	acude	acudir	VMIP3S0	-	-	21-26	338_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	27-28	338_QUEST_clinical_caseMIR	SENT1	-	-
+17	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	338_QUEST_clinical_caseMIR	SENT1	-	-
+18	por	por	SPS00	C0678226	atributo	39-42	338_QUEST_clinical_caseMIR	SENT1	-	-
+19	pérdida	pérdida	NCFS000	-	-	43-50	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	51-53	338_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	visión	visión	NCFS000	C0042789	calificador	54-60	338_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	,	,	Fc	-	-	60-61	338_QUEST_clinical_caseMIR	SENT1	-	-
+23	dolor	dolor	NCMS000	C0030193	hallazgo	62-67	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	,	,	Fc	-	-	67-68	338_QUEST_clinical_caseMIR	SENT1	-	-
+25	ojo	ojo	NCMS000	C0005858#C0235267_1	hallazgo#trastorno_1	69-72	338_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	rojo	rojo	NCMS000	C0005858#C0235267_2	hallazgo#trastorno_2	73-77	338_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	y	y	CC	C1706368	calificador	78-79	338_QUEST_clinical_caseMIR	SENT1	-	-
+28	fotofobia	fotofobia	NCFS000	C0085636	hallazgo	80-89	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	de	de	SPS00	C0332285	atributo	90-92	338_QUEST_clinical_caseMIR	SENT1	-	-
+30	OI	oi	NC00YL0	-	-	93-95	338_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	de	de	SPS00	C0332285	atributo	96-98	338_QUEST_clinical_caseMIR	SENT1	-	-
+32	5	5	Z	-	-	99-100	338_QUEST_clinical_caseMIR	SENT1	-	-
+33	días	d	NCMP000	-	-	101-105	338_QUEST_clinical_caseMIR	SENT1	-	-
+34	de	de	SPS00	C0332285	atributo	106-108	338_QUEST_clinical_caseMIR	SENT1	-	-
+35	evolución	evolución	NCFS000	-	-	109-118	338_QUEST_clinical_caseMIR	SENT1	-	-
+36	.	.	Fp	-	-	118-119	338_QUEST_clinical_caseMIR	SENT1	-	-
+

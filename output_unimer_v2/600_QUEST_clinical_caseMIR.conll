@@ -1,0 +1,104 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	600_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	600_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	9-11	600_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	600_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	600_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	600_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	24-25	600_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	26-29	600_QUEST_clinical_caseMIR	SENT1	-	-
+9	índice	índice	NCMS000	C1305855_1	entidad_observable_1	30-36	600_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C1305855_2	entidad_observable_2	37-39	600_QUEST_clinical_caseMIR	SENT1	-	-
+11	masa	masa	NCFS000	C1305855_3	entidad_observable_3	40-44	600_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	45-53	600_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	54-56	600_QUEST_clinical_caseMIR	SENT1	-	-
+14	38	38		-	-	57-59	600_QUEST_clinical_caseMIR	SENT1	-	-
+15	,	,	Fc	-	-	59-60	600_QUEST_clinical_caseMIR	SENT1	-	-
+16	con	con	SPS00	C0332287	atributo	61-64	600_QUEST_clinical_caseMIR	SENT1	-	-
+17	antecedente	antecedente	NCMS000	-	-	65-76	600_QUEST_clinical_caseMIR	SENT1	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	77-79	600_QUEST_clinical_caseMIR	SENT1	-	-
+19	los	el	DA0MP0	-	-	80-83	600_QUEST_clinical_caseMIR	SENT1	-	-
+20	últimos	último	AO0MP0	-	-	84-91	600_QUEST_clinical_caseMIR	SENT1	-	-
+21	diez	diez		-	-	92-96	600_QUEST_clinical_caseMIR	SENT1	-	-
+22	años	año	NCMP000	C0439234	calificador	97-101	600_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	102-104	600_QUEST_clinical_caseMIR	SENT1	-	-
+24	cinco	cinco		-	-	105-110	600_QUEST_clinical_caseMIR	SENT1	-	-
+25	episodios	episodio	NCMP000	C0332189	atributo	111-120	600_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	121-123	600_QUEST_clinical_caseMIR	SENT1	-	-
+27	cólicos	cólico	NCMP000	C0423605#C0232488#C3665357	hallazgo	124-131	600_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	renales	renal	AQ0CP0	-	-	132-139	600_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+29	expulsivos	expulsivo	NCMP000	-	-	140-150	600_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+30	y	y	CC	C1706368	calificador	151-152	600_QUEST_clinical_caseMIR	SENT1	-	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	153-155	600_QUEST_clinical_caseMIR	SENT1	-	-
+32	una	una		C0205447_1	calificador_1	156-159	600_QUEST_clinical_caseMIR	SENT1	-	-
+33	ocasión	ocasión	NCFS000	-	-	160-167	600_QUEST_clinical_caseMIR	SENT1	-	-
+34	tratada	tratar	VMP00SF	-	-	168-175	600_QUEST_clinical_caseMIR	SENT1	-	-
+35	con	con	SPS00	C0332287	atributo	176-179	600_QUEST_clinical_caseMIR	SENT1	-	-
+36	litotricia	litotricia	NCFS000	C0023878	procedimiento	180-190	600_QUEST_clinical_caseMIR	SENT1	-	-
+37	extracorpórea	extracorpóreo	AQ0FS0	C0442087	calificador	191-204	600_QUEST_clinical_caseMIR	SENT1	-	-
+38	por	por	SPS00	C0678226	atributo	205-208	600_QUEST_clinical_caseMIR	SENT1	-	-
+39	ondas	onda	NCFP000	-	-	209-214	600_QUEST_clinical_caseMIR	SENT1	-	-
+40	de	de	SPS00	C0332285	atributo	215-217	600_QUEST_clinical_caseMIR	SENT1	-	-
+41	choque	choque	NCMS000	C0036974	trastorno	218-224	600_QUEST_clinical_caseMIR	SENT1	-	-
+42	.	.	Fp	-	-	224-225	600_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	226-228	600_QUEST_clinical_caseMIR	SENT2	-	-
+2	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	229-238	600_QUEST_clinical_caseMIR	SENT2	-	-
+3	del	del	SP+DA	-	-	239-242	600_QUEST_clinical_caseMIR	SENT2	-	-
+4	análisis	análisis	NCMN000	C0002778	calificador	243-251	600_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	252-254	600_QUEST_clinical_caseMIR	SENT2	-	-
+6	los	el	DA0MP0	-	-	255-258	600_QUEST_clinical_caseMIR	SENT2	-	-
+7	cálculos	cálculo	NCMP000	C0006736	anomalía_morfológica	259-267	600_QUEST_clinical_caseMIR	SENT2	-	-
+8	ha	haber	VAIP3S0	-	-	268-270	600_QUEST_clinical_caseMIR	SENT2	-	-
+9	sido	ser	VSP00SM	-	-	271-275	600_QUEST_clinical_caseMIR	SENT2	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	276-278	600_QUEST_clinical_caseMIR	SENT2	-	-
+11	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	279-284	600_QUEST_clinical_caseMIR	SENT2	-	-
+12	los	el	DA0MP0	-	-	285-288	600_QUEST_clinical_caseMIR	SENT2	-	-
+13	casos	caso	NCMP000	C0868928	calificador	289-294	600_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	295-297	600_QUEST_clinical_caseMIR	SENT2	-	-
+15	oxalato	oxalato	NCMS000	C2939413#C0029988	sustancia	298-305	600_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	cálcico	cálcico	AQ0MS0	-	-	306-313	600_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+17	.	.	Fp	-	-	313-314	600_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	315-317	600_QUEST_clinical_caseMIR	SENT3	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	318-325	600_QUEST_clinical_caseMIR	SENT3	-	-
+3	metabólicomineral	metabólicomineral	AQ0CS00	-	-	326-343	600_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	344-346	600_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	347-349	600_QUEST_clinical_caseMIR	SENT3	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	350-358	600_QUEST_clinical_caseMIR	SENT3	-	-
+7	muestra	mostrar	VMIP3S0	-	-	359-366	600_QUEST_clinical_caseMIR	SENT3	-	-
+8	una	una		C0205447_1	calificador_1	367-370	600_QUEST_clinical_caseMIR	SENT3	-	-
+9	hipercalciuria	hipercalciuria	NC00SC0	C0020438	trastorno	371-385	600_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	(	(	Fpa	-	-	386-387	600_QUEST_clinical_caseMIR	SENT3	-	-
+11	280	280		-	-	387-390	600_QUEST_clinical_caseMIR	SENT3	-	-
+12	mg/24	mg/24	Z	-	-	391-396	600_QUEST_clinical_caseMIR	SENT3	-	-
+13	horas	h	NCFP000	C0439227	calificador	397-402	600_QUEST_clinical_caseMIR	SENT3	-	-
+14	)	)	Fpt	-	-	402-403	600_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332307_1	atributo_1	404-406	600_QUEST_clinical_caseMIR	SENT3	-	-
+16	tipo	tipo	NCMS000	C0332307_2	atributo_2	407-411	600_QUEST_clinical_caseMIR	SENT3	-	-
+17	mixto	mixto	AQ0MS0	C0205430	calificador	412-417	600_QUEST_clinical_caseMIR	SENT3	-	-
+18	(	(	Fpa	-	-	418-419	600_QUEST_clinical_caseMIR	SENT3	-	-
+19	absortiva	absortiva	AQ0FS00	-	-	419-428	600_QUEST_clinical_caseMIR	SENT3	-	-
+20	y	y	CC	C1706368	calificador	429-430	600_QUEST_clinical_caseMIR	SENT3	-	-
+21	excretora	excretor	AQ0FS0	-	-	431-440	600_QUEST_clinical_caseMIR	SENT3	-	-
+22	)	)	Fpt	-	-	440-441	600_QUEST_clinical_caseMIR	SENT3	-	-
+23	.	.	Fp	-	-	441-442	600_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	443-445	600_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	446-448	600_QUEST_clinical_caseMIR	SENT4	-	-
+3	prevención	prevención	NCFS000	-	-	449-459	600_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	460-462	600_QUEST_clinical_caseMIR	SENT4	-	-
+5	su	su	DP3CS0	-	-	463-465	600_QUEST_clinical_caseMIR	SENT4	-	-
+6	recidiva	recidiva	NCFS000	C0034897#C2945760#C0035020	calificador	466-474	600_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	litiásica	litiásico	AQ0FS0	-	-	475-484	600_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+8	,	,	Fc	-	-	484-485	600_QUEST_clinical_caseMIR	SENT4	-	-
+9	de	de	SPS00	C0332285	atributo	486-488	600_QUEST_clinical_caseMIR	SENT4	-	-
+10	las	el	DA0FP0	-	-	489-492	600_QUEST_clinical_caseMIR	SENT4	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	493-503	600_QUEST_clinical_caseMIR	SENT4	-	-
+12	medidas	medida	NCFP000	C0079809	atributo	504-511	600_QUEST_clinical_caseMIR	SENT4	-	-
+13	,	,	Fc	-	-	511-512	600_QUEST_clinical_caseMIR	SENT4	-	-
+14	¿	¿	Fia	-	-	513-514	600_QUEST_clinical_caseMIR	SENT4	-	-
+15	cuál	cuál	PT0CS000	-	-	514-518	600_QUEST_clinical_caseMIR	SENT4	-	-
+16	NO	no	RN	C1298908	calificador	519-521	600_QUEST_clinical_caseMIR	SENT4	-	-
+17	aconsejaría	aconsejar	VMIC3S0	C0150600	procedimiento	522-533	600_QUEST_clinical_caseMIR	SENT4	-	-
+18	?	?	Fit	-	-	533-534	600_QUEST_clinical_caseMIR	SENT4	-	-
+

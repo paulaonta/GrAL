@@ -1,0 +1,21 @@
+1	Tromboastenia	tromboastenia	NC00SC0	C0040015_1	trastorno_1	0-13	489_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0040015_2	trastorno_2	14-16	489_ANS_clinical_caseMIR	SENT1	-	-
+3	Glanzmann	Glanzmann		C0040015_3	trastorno_3	17-26	489_ANS_clinical_caseMIR	SENT1	-	-
+4	.	.	Fp	-	-	26-27	489_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	489_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	11-13	489_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	Von	Von		-	-	14-17	489_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+4	Willebrand	Willebrand		-	-	18-28	489_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+5	.	.	Fp	-	-	28-29	489_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Trombocitopenia	trombocitopenia	NC00SC0	C0040034_1	trastorno#hallazgo_1	0-15	489_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	inmune	inmune	AQ0CS0	C0205470	calificador	16-22	489_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	primaria	primario	AQ0FS0	C0205225	calificador	23-31	489_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	.	.	Fp	-	-	31-32	489_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	489_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	489_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+3	Bernard-Soulier	bernard-soulier	VMN0000	-	-	12-27	489_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	27-28	489_ANS_clinical_caseMIR	SENT4	-	-
+

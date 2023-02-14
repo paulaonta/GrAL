@@ -1,0 +1,20 @@
+1	Hipoglucorraquia	hipoglucorraquia	NCFS000	-	-	0-16	412_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	16-17	412_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Bandas	banda	NCFP000	C0175723#C0439645	objeto_físico#calificador	0-6	412_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	oligoclonales	oligoclonal	AQ0CP0	-	-	7-20	412_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	positivas	positivo	AQ0FP0	C1446409	calificador	21-30	412_ANS_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	30-31	412_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Aumento	aumento	NCMS000	C0442805	calificador	0-7	412_ANS_clinical_caseMIR	SENT3	-	-
+2	del	del	SP+DA	-	-	8-11	412_ANS_clinical_caseMIR	SENT3	-	-
+3	índice	índice	NCMS000	C0428636_1	procedimiento_1	12-18	412_ANS_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0428636_2	procedimiento_2	19-21	412_ANS_clinical_caseMIR	SENT3	-	-
+5	IgG	IgG		C0428636_3	procedimiento_3	22-25	412_ANS_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	25-26	412_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Proteína	proteína	NCFS000	C0090388_1	sustancia_1	0-8	412_ANS_clinical_caseMIR	SENT4	-	-
+2	14-3-3	14-3-3	Z	C0090388_2	sustancia_2	9-15	412_ANS_clinical_caseMIR	SENT4	-	-
+3	positiva	positivo	AQ0FS0	C1446409	calificador	16-24	412_ANS_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	24-25	412_ANS_clinical_caseMIR	SENT4	-	-
+

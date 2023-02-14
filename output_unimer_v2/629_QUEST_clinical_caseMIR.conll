@@ -1,0 +1,69 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	629_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	629_QUEST_clinical_caseMIR	SENT1	-	-
+3	40	40		-	-	10-12	629_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	629_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	629_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	629_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	26-29	629_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	30-38	629_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	39-42	629_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	43-45	629_QUEST_clinical_caseMIR	SENT1	-	-
+11	cuadro	cuadro	NCMS000	-	-	46-52	629_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	53-55	629_QUEST_clinical_caseMIR	SENT1	-	-
+13	3	3		-	-	56-57	629_QUEST_clinical_caseMIR	SENT1	-	-
+14	meses	mes	NCMP000	C0439231	calificador	58-63	629_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	64-66	629_QUEST_clinical_caseMIR	SENT1	-	-
+16	febrícula	febrícula	NCFS000	-	-	67-76	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	,	,	Fc	-	-	76-77	629_QUEST_clinical_caseMIR	SENT1	-	-
+18	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	78-85	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	,	,	Fc	-	-	85-86	629_QUEST_clinical_caseMIR	SENT1	-	-
+20	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	87-94	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	95-97	629_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	98-102	629_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	,	,	Fc	-	-	102-103	629_QUEST_clinical_caseMIR	SENT1	-	-
+24	secreción	secreción	NCFS000	C1260880_1	hallazgo_1	104-113	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	nasal	nasal	NCFS000	C1260880_2	hallazgo_2	114-119	629_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	purulenta	purulento	AQ0FS0	C0439665	anomalía_morfológica	120-129	629_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	,	,	Fc	-	-	129-130	629_QUEST_clinical_caseMIR	SENT1	-	-
+28	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	131-134	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	con	con	SPS00	C0332287	atributo	135-138	629_QUEST_clinical_caseMIR	SENT1	-	-
+30	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	139-152	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	hemoptoica	hemoptoica	AQ0FS00	-	-	153-163	629_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+32	y	y	CC	C1706368	calificador	164-165	629_QUEST_clinical_caseMIR	SENT1	-	-
+33	púrpura	púrpura	AQ0CS0	C0439542#C0034150	calificador#hallazgo#anomalía_morfológica	166-173	629_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+34	palpable	palpable	NC00SC0	C0522499	calificador	174-182	629_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+35	.	.	Fp	-	-	182-183	629_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	184-186	629_QUEST_clinical_caseMIR	SENT2	-	-
+2	las	el	DA0FP0	-	-	187-190	629_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploraciones	exploración	NCFP000	C1280903	procedimiento	191-204	629_QUEST_clinical_caseMIR	SENT2	-	-
+4	complementarias	complementario	AQ0FP0	-	-	205-220	629_QUEST_clinical_caseMIR	SENT2	-	-
+5	destacan	destacar	VMIP3P0	-	-	221-229	629_QUEST_clinical_caseMIR	SENT2	-	-
+6	creatinina	creatinina	NC00SC0	C0010294	sustancia	230-240	629_QUEST_clinical_caseMIR	SENT2	-	-
+7	2,2	2.2	Z	-	-	241-244	629_QUEST_clinical_caseMIR	SENT2	-	-
+8	mg	mg	NCMN000	-	-	245-247	629_QUEST_clinical_caseMIR	SENT2	-	-
+9	/	/	Fh	-	-	247-248	629_QUEST_clinical_caseMIR	SENT2	-	-
+10	dL	decilitro	NCMN000	C0439241	calificador	248-250	629_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	250-251	629_QUEST_clinical_caseMIR	SENT2	-	-
+12	hematuria	hematuria	NCFS000	C0239937_1	trastorno_1	252-261	629_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	microscópica	microscópico	AQ0FS0	C0239937_2	trastorno_2	262-274	629_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+14	con	con	SPS00	C0332287	atributo	275-278	629_QUEST_clinical_caseMIR	SENT2	-	-
+15	cilindros	cilindro	NCMP000	C0302143	anomalía_morfológica	279-288	629_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	hemáticos	hemático	AQ0MP0	-	-	289-298	629_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+17	,	,	Fc	-	-	298-299	629_QUEST_clinical_caseMIR	SENT2	-	-
+18	c	c	NC00YL0	C1673307	organismo	300-301	629_QUEST_clinical_caseMIR	SENT2	-	-
+19	­	­	Fz	-	-	301-302	629_QUEST_clinical_caseMIR	SENT2	-	-
+20	ANCA	anca	NCFS000	-	-	302-306	629_QUEST_clinical_caseMIR	SENT2	-	-
+21	positivos	positivo	AQ0MP0	C1446409	calificador	307-316	629_QUEST_clinical_caseMIR	SENT2	-	-
+22	con	con	SPS00	C0332287	atributo	317-320	629_QUEST_clinical_caseMIR	SENT2	-	-
+23	PR3	PR3		-	-	321-324	629_QUEST_clinical_caseMIR	SENT2	-	-
+24	y	y	CC	C1706368	calificador	325-326	629_QUEST_clinical_caseMIR	SENT2	-	-
+25	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	327-338	629_QUEST_clinical_caseMIR	SENT2	-	-
+26	de	de	SPS00	C0039985_2	procedimiento_2	339-341	629_QUEST_clinical_caseMIR	SENT2	-	-
+27	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	342-347	629_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+28	con	con	SPS00	C0332287	atributo	348-351	629_QUEST_clinical_caseMIR	SENT2	-	-
+29	nódulos	nódulo	NCMP000	C0028259	anomalía_morfológica	352-359	629_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+30	pulmonares	pulmonar	AQ0CP0	C2709248	calificador	360-370	629_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+31	cavitados	cavitados	NCMP000	-	-	371-380	629_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+32	.	.	Fp	-	-	380-381	629_QUEST_clinical_caseMIR	SENT2	-	-
+

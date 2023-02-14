@@ -1,0 +1,24 @@
+1	Gastritis	gastritis	NCFN000	C0017152	trastorno	0-9	33_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	tipo	tipo	NCMS000	C0332307	calificador#atributo	10-14	33_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	A.	a.	AQ0CS00	-	-	15-17	33_ANS_clinical_caseMIR	SENT1	-	-
+4	Aplasia	aplasia	NCFS000	C1368107_1	trastorno_1	0-7	33_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	medular	medular	AQ0CS0	C1368107_2	trastorno_2	8-15	33_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	.	.	Fp	-	-	15-16	33_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Síndrome	síndrome	NCMS000	C0026986_1	anomalía_morfológica_1	0-8	33_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	mielodisplásico	mielodisplásico		C0026986_2	anomalía_morfológica_2	9-24	33_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	24-25	33_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Leucemia	leucemia	NCFS000	C0023467_1	trastorno#anomalía_morfológica_1	0-8	33_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	mieloblástica	mieloblástico	AQ0FS0	C0023467_2	trastorno#anomalía_morfológica_2	9-22	33_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	aguda	agudo	AQ0FS0	C0023467_3	trastorno#anomalía_morfológica_3	23-28	33_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	.	.	Fp	-	-	28-29	33_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Leucemia	leucemia	NCFS000	C0023473_1	trastorno#anomalía_morfológica_1	0-8	33_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	mieloide	mieloide	NC00SC0	C0023473_2	trastorno#anomalía_morfológica_2	9-17	33_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	crónica	crónico	AQ0FS0	C0023473_3	trastorno#anomalía_morfológica_3	18-25	33_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+4	.	.	Fp	-	-	25-26	33_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Mielofibrosis	mielofibrosis	NCFN000	C0026987	trastorno	0-13	33_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	13-14	33_ANS_clinical_caseMIR	SENT5	-	-
+

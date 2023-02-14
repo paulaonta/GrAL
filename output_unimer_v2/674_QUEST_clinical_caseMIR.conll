@@ -1,0 +1,87 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	674_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	674_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	674_QUEST_clinical_caseMIR	SENT1	-	-
+4	58	58		-	-	13-15	674_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	674_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	674_QUEST_clinical_caseMIR	SENT1	-	-
+7	hipertenso	hipertenso	NCMS000	-	-	22-32	674_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	,	,	Fc	-	-	32-33	674_QUEST_clinical_caseMIR	SENT1	-	-
+9	acude	acudir	VMIP3S0	-	-	34-39	674_QUEST_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	40-41	674_QUEST_clinical_caseMIR	SENT1	-	-
+11	urgencias	urgencia	NCFP000	C0439609	calificador	42-51	674_QUEST_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C0678226	atributo	52-55	674_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	56-58	674_QUEST_clinical_caseMIR	SENT1	-	-
+14	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	59-66	674_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	de	de	SPS00	C0332285	atributo	67-69	674_QUEST_clinical_caseMIR	SENT1	-	-
+16	30	30		-	-	70-72	674_QUEST_clinical_caseMIR	SENT1	-	-
+17	segundos	segundo	NCMP000	C0205436	calificador	73-81	674_QUEST_clinical_caseMIR	SENT1	-	-
+18	mientras	mientras	CS	-	-	82-90	674_QUEST_clinical_caseMIR	SENT1	-	-
+19	corre	correr	VMIP3S0	-	-	91-96	674_QUEST_clinical_caseMIR	SENT1	-	-
+20	,	,	Fc	-	-	96-97	674_QUEST_clinical_caseMIR	SENT1	-	-
+21	con	con	SPS00	C0332287	atributo	98-101	674_QUEST_clinical_caseMIR	SENT1	-	-
+22	recuperación	recuperación	NCFS000	-	-	102-114	674_QUEST_clinical_caseMIR	SENT1	-	-
+23	espontánea	espontáneo	AQ0FS0	C0205359	calificador	115-125	674_QUEST_clinical_caseMIR	SENT1	-	-
+24	y	y	CC	C1706368	calificador	126-127	674_QUEST_clinical_caseMIR	SENT1	-	-
+25	sin	sin	SPS00	C0332288	atributo	128-131	674_QUEST_clinical_caseMIR	SENT1	-	-
+26	secuelas	secuela	NCFP000	C0543419#C1368999	hallazgo#trastorno	132-140	674_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+27	.	.	Fp	-	-	140-141	674_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	142-144	674_QUEST_clinical_caseMIR	SENT2	-	-
+2	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	145-152	674_QUEST_clinical_caseMIR	SENT2	-	-
+3	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	153-161	674_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	162-164	674_QUEST_clinical_caseMIR	SENT2	-	-
+5	135/65	135/65	Z	-	-	165-171	674_QUEST_clinical_caseMIR	SENT2	-	-
+6	mmHg	mmHg	NCMP000	-	-	172-176	674_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	176-177	674_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	178-180	674_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	181-183	674_QUEST_clinical_caseMIR	SENT3	-	-
+3	auscultación	auscultación	NCFS000	C0004339	procedimiento	184-196	674_QUEST_clinical_caseMIR	SENT3	-	-
+4	cardiaca	cardiaco	AQ0FS0	-	-	197-205	674_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	presenta	presentar	VMIP3S0	-	-	206-214	674_QUEST_clinical_caseMIR	SENT3	-	-
+6	un	un		C0205447_1	calificador_1	215-217	674_QUEST_clinical_caseMIR	SENT3	-	-
+7	soplo	soplo	NCMS000	C0232257_1	hallazgo_1	218-223	674_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	sistólico	sistólico	AQ0MS0	C0232257_2	hallazgo_2	224-233	674_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+9	rudo	rudo	AQ0MS0	-	-	234-238	674_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	,	,	Fc	-	-	238-239	674_QUEST_clinical_caseMIR	SENT3	-	-
+11	intenso	intenso	AQ0MS0	C0205178	calificador	240-247	674_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	247-248	674_QUEST_clinical_caseMIR	SENT3	-	-
+13	que	que	PR0CN000	-	-	249-252	674_QUEST_clinical_caseMIR	SENT3	-	-
+14	se	se	P00CN000	-	-	253-255	674_QUEST_clinical_caseMIR	SENT3	-	-
+15	reduce	reducir	VMIP3S0	-	-	256-262	674_QUEST_clinical_caseMIR	SENT3	-	-
+16	con	con	SPS00	C0332287	atributo	263-266	674_QUEST_clinical_caseMIR	SENT3	-	-
+17	maniobras	maniobra	NCFP000	-	-	267-276	674_QUEST_clinical_caseMIR	SENT3	-	-
+18	de	de	SPS00	C0332285	atributo	277-279	674_QUEST_clinical_caseMIR	SENT3	-	-
+19	Valsalva	valsalva	NCFS000	-	-	280-288	674_QUEST_clinical_caseMIR	SENT3	-	-
+20	y	y	CC	C1706368	calificador	289-290	674_QUEST_clinical_caseMIR	SENT3	-	-
+21	un	un		C0205447_1	calificador_1	291-293	674_QUEST_clinical_caseMIR	SENT3	-	-
+22	segundo	2	AO0MS0	-	-	294-301	674_QUEST_clinical_caseMIR	SENT3	-	-
+23	tono	tono	NCMS000	-	-	302-306	674_QUEST_clinical_caseMIR	SENT3	-	-
+24	atenuado	atenuar	VMP00SM	-	-	307-315	674_QUEST_clinical_caseMIR	SENT3	-	-
+25	.	.	Fp	-	-	315-316	674_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	317-319	674_QUEST_clinical_caseMIR	SENT4	-	-
+2	ECG	ecg	NC00YL0	C1623258	procedimiento	320-323	674_QUEST_clinical_caseMIR	SENT4	-	-
+3	muestra	mostrar	VMIP3S0	-	-	324-331	674_QUEST_clinical_caseMIR	SENT4	-	-
+4	un	un		C0205447_1	calificador_1	332-334	674_QUEST_clinical_caseMIR	SENT4	-	-
+5	ritmo	ritmo	NCMS000	C0232201_1	hallazgo_1	335-340	674_QUEST_clinical_caseMIR	SENT4	-	-
+6	sinusal	sinusal		C0232201_2	hallazgo_2	341-348	674_QUEST_clinical_caseMIR	SENT4	-	-
+7	a	a	SPS00	-	-	349-350	674_QUEST_clinical_caseMIR	SENT4	-	-
+8	72	72		-	-	351-353	674_QUEST_clinical_caseMIR	SENT4	-	-
+9	lpm	lpm	NC00YL0	-	-	354-357	674_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	357-358	674_QUEST_clinical_caseMIR	SENT4	-	-
+11	con	con	SPS00	C0332287	atributo	359-362	674_QUEST_clinical_caseMIR	SENT4	-	-
+12	criterios	criterio	NCMP000	-	-	363-372	674_QUEST_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C0332285	atributo	373-375	674_QUEST_clinical_caseMIR	SENT4	-	-
+14	hipertrofia	hipertrofiar	VMM02S0	C0149721_1	trastorno_1	376-387	674_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+15	ventricular	ventricular	AQ0CS0	C0149721_2	trastorno_2	388-399	674_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+16	izquierda	izquierdo	AQ0FS0	C0149721_3	trastorno_3	400-409	674_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+17	y	y	CC	C1706368	calificador	410-411	674_QUEST_clinical_caseMIR	SENT4	-	-
+18	ondas	onda	NCFP000	-	-	412-417	674_QUEST_clinical_caseMIR	SENT4	-	-
+19	T	t	NCFS000	-	-	418-419	674_QUEST_clinical_caseMIR	SENT4	-	-
+20	invertidas	invertir	VMP00PF	-	-	420-430	674_QUEST_clinical_caseMIR	SENT4	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	431-433	674_QUEST_clinical_caseMIR	SENT4	-	-
+22	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	434-438	674_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+23	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	439-447	674_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+24	.	.	Fp	-	-	447-448	674_QUEST_clinical_caseMIR	SENT4	-	-
+

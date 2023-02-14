@@ -1,0 +1,38 @@
+1	Parálisis	parálisis	NCFN000	C0376175_1	trastorno_1	0-9	295_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0376175_2	trastorno_2	10-12	295_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	Bell	Bell		C0376175_3	trastorno_3	13-17	295_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+4	.	.	Fp	-	-	17-18	295_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	295_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	295_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	Ramsay-Hunt	ramsay-hunt	NCMS000	-	-	12-23	295_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+4	(	(	Fpa	-	-	24-25	295_ANS_clinical_caseMIR	SENT2	-	-
+5	parálisis	parálisis	NCFN000	C0376175#C0015469_1	trastorno_1	25-34	295_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	facial	facial	AQ0CS0	C0376175#C0015469_2	trastorno_2	35-41	295_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	herpética	herpético	AQ0FS0	-	-	42-51	295_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+8	)	)	Fpt	-	-	51-52	295_ANS_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	52-53	295_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Sarcoidosis	sarcoidosis	NCFN000	C0036202_1	trastorno_1	0-11	295_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	11-12	295_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Infarto	infarto	NCMS000	C0021308	anomalía_morfológica	0-7	295_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	silviano	silviano	AQ0MS00	-	-	8-16	295_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	izquierdo	izquierdo	NC00SC0	C0205091	calificador	17-26	295_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+4	con	con	SPS00	C0332287	atributo	27-30	295_ANS_clinical_caseMIR	SENT4	-	-
+5	afectación	afectación	NCFS000	-	-	31-41	295_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	del	del	SP+DA	-	-	42-45	295_ANS_clinical_caseMIR	SENT4	-	-
+7	opérculo	opérculo	NCMS000	C1284610#C0228262	estructura_corporal	46-54	295_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	rolándico	rolándico	AQ0MS00	-	-	55-64	295_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+9	.	.	Fp	-	-	64-65	295_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Afectación	afectación	NCFS000	-	-	0-10	295_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	protuberancial	protuberancial	AQ0CS0	-	-	11-25	295_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	por	por	SPS00	C0678226	atributo	26-29	295_ANS_clinical_caseMIR	SENT5	-	-
+4	un	un		C0205447_1	calificador_1	30-32	295_ANS_clinical_caseMIR	SENT5	-	-
+5	brote	brote	NCMS000	-	-	33-38	295_ANS_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	39-41	295_ANS_clinical_caseMIR	SENT5	-	-
+7	esclerosis	esclerosis	NCFN000	C0026769_1	trastorno_1	42-52	295_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+8	múltiple	múltiple	NC00SC0	C0026769_2	trastorno_2	53-61	295_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+9	.	.	Fp	-	-	61-62	295_ANS_clinical_caseMIR	SENT5	-	-
+

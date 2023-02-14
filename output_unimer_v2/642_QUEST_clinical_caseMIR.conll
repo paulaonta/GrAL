@@ -1,0 +1,70 @@
+1	Entramos	entrar	VMIP1P0	-	-	0-8	642_QUEST_clinical_caseMIR	SENT1	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	9-11	642_QUEST_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	12-14	642_QUEST_clinical_caseMIR	SENT1	-	-
+4	habitación	habitación	NCFS000	-	-	15-25	642_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	26-28	642_QUEST_clinical_caseMIR	SENT1	-	-
+6	Pilar	pilar	VMN0000	-	-	29-34	642_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	34-35	642_QUEST_clinical_caseMIR	SENT1	-	-
+8	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	36-41	642_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	42-44	642_QUEST_clinical_caseMIR	SENT1	-	-
+10	92	92		-	-	45-47	642_QUEST_clinical_caseMIR	SENT1	-	-
+11	años	año	NCMP000	C0439234	calificador	48-52	642_QUEST_clinical_caseMIR	SENT1	-	-
+12	diagnosticada	diagnosticar	VMP00SF	-	-	53-66	642_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	67-69	642_QUEST_clinical_caseMIR	SENT1	-	-
+14	demencia	demencia	NCFS000	C0497327	trastorno	70-78	642_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	79-83	642_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	.	.	Fp	-	-	83-84	642_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	85-87	642_QUEST_clinical_caseMIR	SENT2	-	-
+2	está	estar	VAIP3S0	-	-	88-92	642_QUEST_clinical_caseMIR	SENT2	-	-
+3	incapacitada	incapacitar	VMP00SF	-	-	93-105	642_QUEST_clinical_caseMIR	SENT2	-	-
+4	legalmente	legalmente	RG	-	-	106-116	642_QUEST_clinical_caseMIR	SENT2	-	-
+5	y	y	CC	C1706368	calificador	117-118	642_QUEST_clinical_caseMIR	SENT2	-	-
+6	es	ser	VSIP3S0	-	-	119-121	642_QUEST_clinical_caseMIR	SENT2	-	-
+7	independiente	independiente	AQ0CS0	C1299583	calificador	122-135	642_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	135-136	642_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Ha	haber	VAIP3S0	-	-	137-139	642_QUEST_clinical_caseMIR	SENT3	-	-
+2	ingresado	ingresar	VMP00SM	-	-	140-149	642_QUEST_clinical_caseMIR	SENT3	-	-
+3	con	con	SPS00	C0332287	atributo	150-153	642_QUEST_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	154-157	642_QUEST_clinical_caseMIR	SENT3	-	-
+5	sospecha	sospechar	VMM02S0	C0581834_1	situación_1	158-166	642_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0581834_2	situación_2	167-169	642_QUEST_clinical_caseMIR	SENT3	-	-
+7	cáncer	cáncer	NCMS000	C0581834_3	situación_3	170-176	642_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+8	de	de	SPS00	C0581834_4	situación_4	177-179	642_QUEST_clinical_caseMIR	SENT3	-	-
+9	pulmón	pulmón	NCMS000	C0581834_5	situación_5	180-186	642_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	,	,	Fc	-	-	186-187	642_QUEST_clinical_caseMIR	SENT3	-	-
+11	por	por	SPS00	C0678226	atributo	188-191	642_QUEST_clinical_caseMIR	SENT3	-	-
+12	lo	el	DA0NS0	-	-	192-194	642_QUEST_clinical_caseMIR	SENT3	-	-
+13	que	que	PR0CN000	-	-	195-198	642_QUEST_clinical_caseMIR	SENT3	-	-
+14	habría	haber	VMIC1S0	-	-	199-205	642_QUEST_clinical_caseMIR	SENT3	-	-
+15	que	que	CS	-	-	206-209	642_QUEST_clinical_caseMIR	SENT3	-	-
+16	hacer	hacer	VMN0000	-	-	210-215	642_QUEST_clinical_caseMIR	SENT3	-	-
+17	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	215-217	642_QUEST_clinical_caseMIR	SENT3	-	-
+18	una	una		C0205447_1	calificador_1	218-221	642_QUEST_clinical_caseMIR	SENT3	-	-
+19	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	222-224	642_QUEST_clinical_caseMIR	SENT3	-	-
+20	y	y	CC	C1706368	calificador	225-226	642_QUEST_clinical_caseMIR	SENT3	-	-
+21	probablemente	probablemente	RG	C0332148	calificador	227-240	642_QUEST_clinical_caseMIR	SENT3	-	-
+22	una	una		C0205447_1	calificador_1	241-244	642_QUEST_clinical_caseMIR	SENT3	-	-
+23	broncoscopia	broncoscopia	NC00SC0	C0006290	procedimiento	245-257	642_QUEST_clinical_caseMIR	SENT3	-	-
+24	.	.	Fp	-	-	257-258	642_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Mantiene	mantener	VMIP3S0	-	-	259-267	642_QUEST_clinical_caseMIR	SENT4	-	-
+2	sin	sin	SPS00	C0332288	atributo	268-271	642_QUEST_clinical_caseMIR	SENT4	-	-
+3	problema	problema	NCMS000	C0033213	hallazgo	272-280	642_QUEST_clinical_caseMIR	SENT4	-	-
+4	una	una		C0205447_1	calificador_1	281-284	642_QUEST_clinical_caseMIR	SENT4	-	-
+5	conversación	conversación	NCFS000	-	-	285-297	642_QUEST_clinical_caseMIR	SENT4	-	-
+6	y	y	CC	C1706368	calificador	298-299	642_QUEST_clinical_caseMIR	SENT4	-	-
+7	está	estar	VAIP3S0	-	-	300-304	642_QUEST_clinical_caseMIR	SENT4	-	-
+8	orientada	orientar	VMP00SF	-	-	305-314	642_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	314-315	642_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Está	estar	VAM02S0	-	-	316-320	642_QUEST_clinical_caseMIR	SENT5	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	321-323	642_QUEST_clinical_caseMIR	SENT5	-	-
+3	la	el	DA0FS0	-	-	324-326	642_QUEST_clinical_caseMIR	SENT5	-	-
+4	habitación	habitación	NCFS000	-	-	327-337	642_QUEST_clinical_caseMIR	SENT5	-	-
+5	con	con	SPS00	C0332287	atributo	338-341	642_QUEST_clinical_caseMIR	SENT5	-	-
+6	su	su	DP3CS0	-	-	342-344	642_QUEST_clinical_caseMIR	SENT5	-	-
+7	hija	hijo	NCFS000	-	-	345-349	642_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	349-350	642_QUEST_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,37 @@
+1	Ante	ante	SPS00	-	-	596-600	550_ANS_clinical_caseMIR	SENT1	-	-
+2	estos	este	DD0MP0	-	-	601-606	550_ANS_clinical_caseMIR	SENT1	-	-
+3	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	607-616	550_ANS_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	616-617	550_ANS_clinical_caseMIR	SENT1	-	-
+5	todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	618-623	550_ANS_clinical_caseMIR	SENT1	-	-
+6	las	el	DA0FP0	-	-	624-627	550_ANS_clinical_caseMIR	SENT1	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	628-638	550_ANS_clinical_caseMIR	SENT1	-	-
+8	afirmaciones	afirmación	NCFP000	-	-	639-651	550_ANS_clinical_caseMIR	SENT1	-	-
+9	son	ser	VSIP3P0	-	-	652-655	550_ANS_clinical_caseMIR	SENT1	-	-
+10	ciertas	cierto	AQ0FP0	C0205423	calificador	656-663	550_ANS_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	663-664	550_ANS_clinical_caseMIR	SENT1	-	-
+12	EXCEPTO	excepto	SPS00	-	-	665-672	550_ANS_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	673-676	550_ANS_clinical_caseMIR	SENT1	-	-
+14	:	:	Fd	-	-	676-677	550_ANS_clinical_caseMIR	SENT1	-	-
+15	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	550_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	por	por	SPS00	C0678226	atributo	10-13	550_ANS_clinical_caseMIR	SENT1	-	-
+17	estrés	estrés	NCMS000	C0038435	hallazgo#calificador	14-20	550_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	anticipatorio	anticipatorio	AQ0MS00	-	-	21-34	550_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+19	.	.	Fp	-	-	34-35	550_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Fobia	fobia	NCFS000	C0349231#C0015726	hallazgo	0-5	550_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	6-8	550_ANS_clinical_caseMIR	SENT2	-	-
+3	impulsión	impulsión	NCFS000	-	-	9-18	550_ANS_clinical_caseMIR	SENT2	-	-
+4	evitativa	evitativa	AQ0FS00	-	-	19-28	550_ANS_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	28-29	550_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	550_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	obsesivo	obsesivo	AQ0MS0	-	-	10-18	550_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	18-19	550_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	550_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0678226	atributo	10-13	550_ANS_clinical_caseMIR	SENT4	-	-
+3	angustia	angustia	NCFS000	C0003467	hallazgo	14-22	550_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	con	con	SPS00	C0332287	atributo	23-26	550_ANS_clinical_caseMIR	SENT4	-	-
+5	agorafobia	agorafobia	NCFS000	C0001818	trastorno	27-37	550_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	.	.	Fp	-	-	37-38	550_ANS_clinical_caseMIR	SENT4	-	-
+

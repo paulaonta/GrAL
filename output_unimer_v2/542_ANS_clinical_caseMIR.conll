@@ -1,0 +1,53 @@
+1	Determinar	determinar	VMN0000	-	-	0-10	542_ANS_clinical_caseMIR	SENT1	-	-
+2	mutación	mutación	NCFS000	-	-	11-19	542_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	542_ANS_clinical_caseMIR	SENT1	-	-
+4	KRAS	kras	NCFP000	-	-	23-27	542_ANS_clinical_caseMIR	SENT1	-	-
+5	y	y	CC	C1706368	calificador	28-29	542_ANS_clinical_caseMIR	SENT1	-	-
+6	NRAS	nras	NCFP000	-	-	30-34	542_ANS_clinical_caseMIR	SENT1	-	-
+7	para	para	SPS00	C0521125	calificador	35-39	542_ANS_clinical_caseMIR	SENT1	-	-
+8	poder	poder	VMN0000	-	-	40-45	542_ANS_clinical_caseMIR	SENT1	-	-
+9	administrar	administrar	VMN0000	C1621583	calificador	46-57	542_ANS_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	58-60	542_ANS_clinical_caseMIR	SENT1	-	-
+11	anti-EFGR	anti-efgr	NCMS000	-	-	61-70	542_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	542_ANS_clinical_caseMIR	SENT1	-	-
+13	caso	caso	NCMS000	C0868928	calificador	74-78	542_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	79-81	542_ANS_clinical_caseMIR	SENT1	-	-
+15	no	no	RN	C1298908	calificador	82-84	542_ANS_clinical_caseMIR	SENT1	-	-
+16	ser	ser	VSN0000	-	-	85-88	542_ANS_clinical_caseMIR	SENT1	-	-
+17	mutado	mutar	VMP00SM	-	-	89-95	542_ANS_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	95-96	542_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Asociar	asociar	VMN0000	-	-	0-7	542_ANS_clinical_caseMIR	SENT2	-	-
+2	al	al	SP+DA	-	-	8-10	542_ANS_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	11-22	542_ANS_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	23-26	542_ANS_clinical_caseMIR	SENT2	-	-
+5	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	27-40	542_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	bevacizumab	bevacizumab	NC00SC0	C0796392	producto#sustancia	41-52	542_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	53-55	542_ANS_clinical_caseMIR	SENT2	-	-
+8	caso	caso	NCMS000	C0868928	calificador	56-60	542_ANS_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0332285	atributo	61-63	542_ANS_clinical_caseMIR	SENT2	-	-
+10	ser	ser	VSN0000	-	-	64-67	542_ANS_clinical_caseMIR	SENT2	-	-
+11	mutado	mutar	VMP00SM	-	-	68-74	542_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	74-75	542_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	542_ANS_clinical_caseMIR	SENT3	-	-
+2	una	una		C0205447_1	calificador_1	12-15	542_ANS_clinical_caseMIR	SENT3	-	-
+3	combinación	combinación	NCFS000	C0205195#C0453882	calificador#objeto_físico	16-27	542_ANS_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	28-30	542_ANS_clinical_caseMIR	SENT3	-	-
+5	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	31-44	542_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	con	con	SPS00	C0332287	atributo	45-48	542_ANS_clinical_caseMIR	SENT3	-	-
+7	fluorouracilo	fluorouracilo	NC00SC0	C0016360	sustancia	49-62	542_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	y	y	CC	C1706368	calificador	63-64	542_ANS_clinical_caseMIR	SENT3	-	-
+9	oxaliplatino	oxaliplatino	NC00SC0	C0069717	sustancia#producto	65-77	542_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	77-78	542_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	542_ANS_clinical_caseMIR	SENT4	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	9-20	542_ANS_clinical_caseMIR	SENT4	-	-
+3	con	con	SPS00	C0332287	atributo	21-24	542_ANS_clinical_caseMIR	SENT4	-	-
+4	radioterapia	radioterapia	NCFS000	C1522449	-	25-37	542_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+5	al	al	SP+DA	-	-	38-40	542_ANS_clinical_caseMIR	SENT4	-	-
+6	tener	tener	VMN0000	-	-	41-46	542_ANS_clinical_caseMIR	SENT4	-	-
+7	afectación	afectación	NCFS000	-	-	47-57	542_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	58-68	542_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	68-69	542_ANS_clinical_caseMIR	SENT4	-	-
+

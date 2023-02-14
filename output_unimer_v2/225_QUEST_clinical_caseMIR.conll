@@ -1,0 +1,54 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	225_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	225_QUEST_clinical_caseMIR	SENT1	-	-
+3	50	50		-	-	10-12	225_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	225_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	225_QUEST_clinical_caseMIR	SENT1	-	-
+6	bronquítico	bronquítico	AQ0MS00	-	-	19-30	225_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	crónico	crónico	NC00SC0	C0205191	calificador	31-38	225_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+8	que	que	PR0CN000	-	-	39-42	225_QUEST_clinical_caseMIR	SENT1	-	-
+9	ingresa	ingresar	VMIP3S0	-	-	43-50	225_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C0678226	atributo	51-54	225_QUEST_clinical_caseMIR	SENT1	-	-
+11	cuadro	cuadro	NCMS000	-	-	55-61	225_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	neumónico	neumónico	AQ0MS0	-	-	62-71	225_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+13	con	con	SPS00	C0332287	atributo	72-75	225_QUEST_clinical_caseMIR	SENT1	-	-
+14	hemocultivo	hemocultivo	NC00SC0	C0200949	procedimiento	76-87	225_QUEST_clinical_caseMIR	SENT1	-	-
+15	positivo	positivo	AQ0MS0	C1446409	calificador	88-96	225_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	97-98	225_QUEST_clinical_caseMIR	SENT1	-	-
+17	Streptococcus	Streptococcus		-	-	99-112	225_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	pneumoniae	pneumoniae		-	-	113-123	225_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+19	,	,	Fc	-	-	123-124	225_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	125-128	225_QUEST_clinical_caseMIR	SENT1	-	-
+21	una	una		C0205447_1	calificador_1	129-132	225_QUEST_clinical_caseMIR	SENT1	-	-
+22	CMI	cmi	NC00YL0	-	-	133-136	225_QUEST_clinical_caseMIR	SENT1	-	-
+23	a	a	SPS00	-	-	137-138	225_QUEST_clinical_caseMIR	SENT1	-	-
+24	la	el	DA0FS0	-	-	139-141	225_QUEST_clinical_caseMIR	SENT1	-	-
+25	penicilina	penicilina	NCFS000	-	-	142-152	225_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+26	de	de	SPS00	C0332285	atributo	153-155	225_QUEST_clinical_caseMIR	SENT1	-	-
+27	0,0125	0.0125	Z	-	-	156-162	225_QUEST_clinical_caseMIR	SENT1	-	-
+28	mg	mg	NCMN000	-	-	163-165	225_QUEST_clinical_caseMIR	SENT1	-	-
+29	/	/	Fh	-	-	165-166	225_QUEST_clinical_caseMIR	SENT1	-	-
+30	l	l	NCFS000	-	-	166-167	225_QUEST_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	167-168	225_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	169-171	225_QUEST_clinical_caseMIR	SENT2	-	-
+2	inicia	iniciar	VMIP3S0	-	-	172-178	225_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	179-190	225_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	191-194	225_QUEST_clinical_caseMIR	SENT2	-	-
+5	penicilina	penicilina	NCFS000	-	-	195-205	225_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	2	2		-	-	206-207	225_QUEST_clinical_caseMIR	SENT2	-	-
+7	millones	millones		-	-	208-216	225_QUEST_clinical_caseMIR	SENT2	-	-
+8	cada	cada	DI0CS0	C1457900	calificador	217-221	225_QUEST_clinical_caseMIR	SENT2	-	-
+9	4	4	Z	C1292426_1	calificador_1	222-223	225_QUEST_clinical_caseMIR	SENT2	-	-
+10	horas	hora	NCFP000	C1292426_2	calificador_2	224-229	225_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	229-230	225_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Al	al	SP+DA	-	-	231-233	225_QUEST_clinical_caseMIR	SENT3	-	-
+2	quinto	5	AO0MS0	-	-	234-240	225_QUEST_clinical_caseMIR	SENT3	-	-
+3	día	día	NCMS000	C0439228#C0332169	calificador	241-244	225_QUEST_clinical_caseMIR	SENT3	-	-
+4	sigue	seguir	VMIP3S0	-	-	245-250	225_QUEST_clinical_caseMIR	SENT3	-	-
+5	con	con	SPS00	C0332287	atributo	251-254	225_QUEST_clinical_caseMIR	SENT3	-	-
+6	fiebre	fiebre	NCFS000	C0015967	hallazgo	255-261	225_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	262-264	225_QUEST_clinical_caseMIR	SENT3	-	-
+8	38°C	38°C		-	-	265-269	225_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	269-270	225_QUEST_clinical_caseMIR	SENT3	-	-
+

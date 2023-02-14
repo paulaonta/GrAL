@@ -1,0 +1,48 @@
+1	Hasta	hasta	SPS00	-	-	307-312	360_ANS_clinical_caseMIR	SENT1	-	-
+2	tener	tener	VMN0000	-	-	313-318	360_ANS_clinical_caseMIR	SENT1	-	-
+3	los	el	DA0MP0	-	-	319-322	360_ANS_clinical_caseMIR	SENT1	-	-
+4	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	323-333	360_ANS_clinical_caseMIR	SENT1	-	-
+5	histológicos	histológico	AQ0MP0	C0205462	calificador	334-346	360_ANS_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	347-348	360_ANS_clinical_caseMIR	SENT1	-	-
+7	microbiológicos	microbiológico	AQ0MP0	-	-	349-364	360_ANS_clinical_caseMIR	SENT1	-	-
+8	definitivos	definitivo	AQ0MP0	C0443196	calificador	365-376	360_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	376-377	360_ANS_clinical_caseMIR	SENT1	-	-
+10	¿	¿	Fia	-	-	378-379	360_ANS_clinical_caseMIR	SENT1	-	-
+11	qué	qué	DE0CN0	-	-	379-382	360_ANS_clinical_caseMIR	SENT1	-	-
+12	antimicrobiano	antimicrobiano	AQ0MS0	-	-	383-397	360_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	añadiría	añadir	VMIC3S0	-	-	398-406	360_ANS_clinical_caseMIR	SENT1	-	-
+14	al	al	SP+DA	-	-	407-409	360_ANS_clinical_caseMIR	SENT1	-	-
+15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	410-421	360_ANS_clinical_caseMIR	SENT1	-	-
+16	?	?	Fit	-	-	421-422	360_ANS_clinical_caseMIR	SENT1	-	-
+17	:	:	Fd	-	-	422-423	360_ANS_clinical_caseMIR	SENT1	-	-
+18	Tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	0-15	360_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	pulmonar	pulmonar	NC00SC0	C2709248	calificador	16-24	360_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	.	.	Fp	-	-	24-25	360_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Accidente	accidente	NCMS000	C0038454#C1540600_1	trastorno_1	0-9	360_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	cerebrovascular	cerebrovascular	AQ0CS0	C0038454#C1540600_2	trastorno_2	10-25	360_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	agudo	agudo	AQ0MS0	C0205178	calificador	26-31	360_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+4	de	de	SPS00	C0332285	atributo	32-34	360_ANS_clinical_caseMIR	SENT2	-	-
+5	territorio	territorio	NCMS000	-	-	35-45	360_ANS_clinical_caseMIR	SENT2	-	-
+6	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	46-55	360_ANS_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	55-56	360_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Síndrome	síndrome	NCMS000	C0948089_1	trastorno_1	0-8	360_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	coronario	coronario	AQ0MS0	C0948089_2	trastorno_2	9-18	360_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	agudo	agudo	NC00SC0	C0948089_3	trastorno_3	19-24	360_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	.	.	Fp	-	-	24-25	360_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Shock	shock	NCMS000	C0020683_1	trastorno_1	0-5	360_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	hipovolémico	hipovolémico		C0020683_2	trastorno_2	6-18	360_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	.	.	Fp	-	-	18-19	360_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Edema	edema	NCMS000	C0155919_1	trastorno_1	0-5	360_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	agudo	agudo	NC00SC0	C0155919_2	trastorno_2	6-11	360_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+3	de	de	SPS00	C0155919_3	trastorno_3	12-14	360_ANS_clinical_caseMIR	SENT5	-	-
+4	pulmón	pulmón	NCMS000	C0155919_4	trastorno_4	15-21	360_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+5	secundario	secundario	NCMS000	C0175668_1	calificador_1	22-32	360_ANS_clinical_caseMIR	SENT5	-	-
+6	a	a	SPS00	C0175668_2	calificador_2	33-34	360_ANS_clinical_caseMIR	SENT5	-	-
+7	flutter	flutter	NC00KE0	-	-	35-42	360_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+8	auricular	auricular	NCMS000	-	-	43-52	360_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	52-53	360_ANS_clinical_caseMIR	SENT5	-	-
+

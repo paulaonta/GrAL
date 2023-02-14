@@ -1,0 +1,18 @@
+1	Tumor	tumor	NCMS000	C0027651	anomalía_morfológica	0-5	738_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	del	del	SP+DA	-	-	6-9	738_ANS_clinical_caseMIR	SENT1	-	-
+3	lecho	lecho	NCMS000	-	-	10-15	738_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	placentario	placentario	AQ0MS0	-	-	16-27	738_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	27-28	738_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Hiperplasia	hiperplasia	NCFS000	C0349579_1	trastorno_1	0-11	738_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	endometrial	endometrial		C0349579_2	trastorno_2	12-23	738_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	atípica	atípico	AQ0FS0	C0349579_3	trastorno_3	24-31	738_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+4	.	.	Fp	-	-	31-32	738_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pólipo	pólipo	NCMS000	C0156369#C1704273_1	trastorno_1	0-6	738_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	endometrial	endometrial		C0156369#C1704273_2	trastorno_2	7-18	738_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	18-19	738_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Coriocarcinoma	coriocarcinoma	NC00SC0	C0008497	trastorno#anomalía_morfológica	0-14	738_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	14-15	738_ANS_clinical_caseMIR	SENT4	-	-
+

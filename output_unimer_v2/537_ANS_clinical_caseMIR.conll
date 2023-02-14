@@ -1,0 +1,33 @@
+1	¿	¿	Fia	-	-	405-406	537_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	406-410	537_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	411-413	537_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	414-416	537_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	417-428	537_ANS_clinical_caseMIR	SENT1	-	-
+6	indicado	indicar	VMP00SM	-	-	429-437	537_ANS_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	438-440	537_ANS_clinical_caseMIR	SENT1	-	-
+8	esta	este	DD0FS0	-	-	441-445	537_ANS_clinical_caseMIR	SENT1	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	446-454	537_ANS_clinical_caseMIR	SENT1	-	-
+10	?	?	Fit	-	-	454-455	537_ANS_clinical_caseMIR	SENT1	-	-
+11	:	:	Fd	-	-	455-456	537_ANS_clinical_caseMIR	SENT1	-	-
+12	Hernia	herniar	VMM02S0	C0678212_1	trastorno_1	0-6	537_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	discal	discal	AQ0CS0	C0678212_2	trastorno_2	7-13	537_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	L1/L2	L1/L2		-	-	14-19	537_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+15	.	.	Fp	-	-	19-20	537_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	537_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	537_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	cola	cola	NCFS000	C0039259#C0017780	estructura_corporal#sustancia	12-16	537_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+4	de	de	SPS00	C0332285	atributo	17-19	537_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+5	caballo	caballo	NCMS000	C0019944#C3665359	organismo	20-27	537_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+6	.	.	Fp	-	-	27-28	537_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Hernia	herniar	VMM02S0	C0678212_1	trastorno_1	0-6	537_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	discal	discal	AQ0CS0	C0678212_2	trastorno_2	7-13	537_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	L4/L5	L4/L5		-	-	14-19	537_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	.	.	Fp	-	-	19-20	537_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Hernia	herniar	VMM02S0	C0678212_1	trastorno_1	0-6	537_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	discal	discal	AQ0CS0	C0678212_2	trastorno_2	7-13	537_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	L5/S1	L5/S1		-	-	14-19	537_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+4	.	.	Fp	-	-	19-20	537_ANS_clinical_caseMIR	SENT4	-	-
+

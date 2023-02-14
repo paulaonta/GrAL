@@ -1,0 +1,26 @@
+1	¿	¿	Fia	-	-	532-533	231_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	533-537	231_QUEST_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	538-540	231_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	541-543	231_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	544-555	231_QUEST_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	556-559	231_QUEST_clinical_caseMIR	SENT1	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	560-568	231_QUEST_clinical_caseMIR	SENT1	-	-
+8	?	?	Fit	-	-	568-569	231_QUEST_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	569-570	231_QUEST_clinical_caseMIR	SENT1	-	-
+10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	231_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	6-8	231_QUEST_clinical_caseMIR	SENT1	-	-
+12	72	72		-	-	9-11	231_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	12-16	231_QUEST_clinical_caseMIR	SENT1	-	-
+14	con	con	SPS00	C0332287	atributo	17-20	231_QUEST_clinical_caseMIR	SENT1	-	-
+15	diabetes	diabetes	NCFN000	-	-	21-29	231_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	tipo	tipo	NCMS000	C0332307	calificador#atributo	30-34	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	2	2	Z	-	-	35-36	231_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+18	e	y	CC	C1706368	calificador	37-38	231_QUEST_clinical_caseMIR	SENT1	-	-
+19	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	39-52	231_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	renal	renal	AQ0CS0	C0403447_2	trastorno_2	53-58	231_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	59-66	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	231_QUEST_clinical_caseMIR	SENT1	-	-
+23	estadio	estadio	NCMS000	C0441777_1	calificador_1	70-77	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	5	5	Z	C0441777_2	calificador_2	79-80	231_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+25	.	.	Fp	-	-	80-81	231_QUEST_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,43 @@
+1	Bajar	bajar	VMN0000	-	-	0-5	444_ANS_clinical_caseMIR	SENT1	-	-
+2	dosis	dosis	NCFN000	-	-	6-11	444_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	444_ANS_clinical_caseMIR	SENT1	-	-
+4	opioides	opioides	NC00AO0	-	-	15-23	444_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	a	a	SPS00	-	-	24-25	444_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	26-28	444_ANS_clinical_caseMIR	SENT1	-	-
+7	mitad	mitad	NCFS000	-	-	29-34	444_ANS_clinical_caseMIR	SENT1	-	-
+8	.	.	Fp	-	-	34-35	444_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Pautar	pautar	VMN0000	-	-	0-6	444_ANS_clinical_caseMIR	SENT2	-	-
+2	un	un		C0205447_1	calificador_1	7-9	444_ANS_clinical_caseMIR	SENT2	-	-
+3	laxante	laxante	NCMS000	C0304551#C0353980_1	sustancia_1	10-17	444_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	osmótico	osmótico	AQ0MS0	C0304551#C0353980_2	sustancia_2	18-26	444_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+5	y	y	CC	C1706368	calificador	27-28	444_ANS_clinical_caseMIR	SENT2	-	-
+6	comprobar	comprobar	VMN0000	-	-	29-38	444_ANS_clinical_caseMIR	SENT2	-	-
+7	mediante	mediante	SPS00	-	-	39-47	444_ANS_clinical_caseMIR	SENT2	-	-
+8	un	un		C0205447_1	calificador_1	48-50	444_ANS_clinical_caseMIR	SENT2	-	-
+9	tacto	tacto	NCMS000	C1384593_1	procedimiento_1	51-56	444_ANS_clinical_caseMIR	SENT2	-	-
+10	rectal	rectal	NC00SC0	C1384593_2	procedimiento_2	57-63	444_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	que	que	PR0CN000	-	-	64-67	444_ANS_clinical_caseMIR	SENT2	-	-
+12	no	no	RN	C1298908	calificador	68-70	444_ANS_clinical_caseMIR	SENT2	-	-
+13	exista	existir	VMSP3S0	-	-	71-77	444_ANS_clinical_caseMIR	SENT2	-	-
+14	impactación	impactación	NC00SC0	C0015734_1	anomalía_morfológica#trastorno_1	78-89	444_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+15	fecal	fecal	AQ0CS0	C0015734_2	anomalía_morfológica#trastorno_2	90-95	444_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	.	.	Fp	-	-	95-96	444_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pautar	pautar	VMN0000	-	-	0-6	444_ANS_clinical_caseMIR	SENT3	-	-
+2	un	un		C0205447_1	calificador_1	7-9	444_ANS_clinical_caseMIR	SENT3	-	-
+3	procinético	procinético	AQ0MS0	-	-	10-21	444_ANS_clinical_caseMIR	SENT3	-	-
+4	.	.	Fp	-	-	21-22	444_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	444_ANS_clinical_caseMIR	SENT4	-	-
+2	una	una		C0205447_1	calificador_1	9-12	444_ANS_clinical_caseMIR	SENT4	-	-
+3	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	13-15	444_ANS_clinical_caseMIR	SENT4	-	-
+4	urgente	urgente	AQ0CS0	C0439609	calificador	16-23	444_ANS_clinical_caseMIR	SENT4	-	-
+5	ante	ante	SPS00	-	-	24-28	444_ANS_clinical_caseMIR	SENT4	-	-
+6	la	el	DA0FS0	-	-	29-31	444_ANS_clinical_caseMIR	SENT4	-	-
+7	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	32-40	444_ANS_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332147_2	calificador_2	41-43	444_ANS_clinical_caseMIR	SENT4	-	-
+9	obstrucción	obstrucción	NCFS000	C0021843#C1258215_1	trastorno_1	44-55	444_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+10	intestinal	intestinal	NC00SC0	C0021843#C1258215_2	trastorno_2	56-66	444_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+11	.	.	Fp	-	-	66-67	444_ANS_clinical_caseMIR	SENT4	-	-
+

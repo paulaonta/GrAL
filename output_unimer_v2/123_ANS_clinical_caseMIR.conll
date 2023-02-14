@@ -1,0 +1,74 @@
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	0-2	123_ANS_clinical_caseMIR	SENT1	-	-
+2	colocaría	colocar	VMIC3S0	-	-	3-12	123_ANS_clinical_caseMIR	SENT1	-	-
+3	ventilación	ventilación	NCFS000	C1997883_1	procedimiento_1	13-24	123_ANS_clinical_caseMIR	SENT1	-	-
+4	no	no	RN	C1997883_2	procedimiento_2	25-27	123_ANS_clinical_caseMIR	SENT1	-	-
+5	invasiva	invasiva		C1997883_3	procedimiento_3	28-36	123_ANS_clinical_caseMIR	SENT1	-	-
+6	pues	pues	CS	-	-	37-41	123_ANS_clinical_caseMIR	SENT1	-	-
+7	mejora	mejora	NCFS000	-	-	42-48	123_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	49-51	123_ANS_clinical_caseMIR	SENT1	-	-
+9	oxigenación	oxigenación	NCFS000	-	-	52-63	123_ANS_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	63-64	123_ANS_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	65-67	123_ANS_clinical_caseMIR	SENT1	-	-
+12	función	función	NCFS000	C0542341	entidad_observable#atributo	68-75	123_ANS_clinical_caseMIR	SENT1	-	-
+13	cardiaca	cardiaco	AQ0FS0	-	-	76-84	123_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	85-86	123_ANS_clinical_caseMIR	SENT1	-	-
+15	reduce	reducir	VMIP3S0	-	-	87-93	123_ANS_clinical_caseMIR	SENT1	-	-
+16	la	el	DA0FS0	-	-	94-96	123_ANS_clinical_caseMIR	SENT1	-	-
+17	necesidad	necesidad	NCFS000	C0686904_1	calificador_1	97-106	123_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0686904_2	calificador_2	107-109	123_ANS_clinical_caseMIR	SENT1	-	-
+19	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	110-120	123_ANS_clinical_caseMIR	SENT1	-	-
+20	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	121-132	123_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	.	.	Fp	-	-	132-133	123_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	0-2	123_ANS_clinical_caseMIR	SENT2	-	-
+2	administraría	administrar	VMIC3S0	C1621583	calificador	3-16	123_ANS_clinical_caseMIR	SENT2	-	-
+3	morfina	morfina	NCFS000	C0026549	producto#sustancia	17-24	123_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	porque	porque	CS	-	-	25-31	123_ANS_clinical_caseMIR	SENT2	-	-
+5	reduce	reducir	VMIP3S0	-	-	32-38	123_ANS_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	39-41	123_ANS_clinical_caseMIR	SENT2	-	-
+7	precarga	precarga	NCFS000	-	-	42-50	123_ANS_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	51-52	123_ANS_clinical_caseMIR	SENT2	-	-
+9	mejora	mejora	NCFS000	-	-	53-59	123_ANS_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	60-62	123_ANS_clinical_caseMIR	SENT2	-	-
+11	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	63-69	123_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	y	y	CC	C1706368	calificador	70-71	123_ANS_clinical_caseMIR	SENT2	-	-
+13	la	el	DA0FS0	-	-	72-74	123_ANS_clinical_caseMIR	SENT2	-	-
+14	ansiedad	ansiedad	NCFS000	C0003467	hallazgo	75-83	123_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	.	.	Fp	-	-	83-84	123_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	0-2	123_ANS_clinical_caseMIR	SENT3	-	-
+2	administraría	administrar	VMIC3S0	C1621583	calificador	3-16	123_ANS_clinical_caseMIR	SENT3	-	-
+3	nitroglicerina	nitroglicerina	NCFS000	C0017887	producto#sustancia	17-31	123_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	32-43	123_ANS_clinical_caseMIR	SENT3	-	-
+5	por	por	SPS00	C0678226	atributo	44-47	123_ANS_clinical_caseMIR	SENT3	-	-
+6	sus	su	DP3CP0	-	-	48-51	123_ANS_clinical_caseMIR	SENT3	-	-
+7	efectos	efecto	NCMP000	C1704419#C1280500#C1280519	calificador	52-59	123_ANS_clinical_caseMIR	SENT3	-	-
+8	venodilatadores	venodilatadores	NCMP000	-	-	60-75	123_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+9	y	y	CC	C1706368	calificador	76-77	123_ANS_clinical_caseMIR	SENT3	-	-
+10	vasodilatadores	vasodilatador	NCMP000	C0042402	sustancia	78-93	123_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+11	coronarios	coronario	AQ0MP0	-	-	94-104	123_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+12	.	.	Fp	-	-	104-105	123_ANS_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	0-2	123_ANS_clinical_caseMIR	SENT4	-	-
+2	nitroprusiato	nitroprusiato	NCMS000	C0028193	sustancia	3-16	123_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+3	es	ser	VSIP3S0	-	-	17-19	123_ANS_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	20-22	123_ANS_clinical_caseMIR	SENT4	-	-
+5	vasodilatador	vasodilatador	NCMS000	C0042402	sustancia	23-36	123_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+6	recomendado	recomendar	VMP00SM	-	-	37-48	123_ANS_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	48-49	123_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Al	al	SP+DA	-	-	0-2	123_ANS_clinical_caseMIR	SENT5	-	-
+2	administrar	administrar	VMN0000	C1621583	calificador	3-14	123_ANS_clinical_caseMIR	SENT5	-	-
+3	furosemida	furosemida	NC00SC0	C0016860	producto#sustancia	15-25	123_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	se	se	P00CN000	-	-	26-28	123_ANS_clinical_caseMIR	SENT5	-	-
+5	reducirá	reducir	VMIF3S0	-	-	29-37	123_ANS_clinical_caseMIR	SENT5	-	-
+6	la	el	DA0FS0	-	-	38-40	123_ANS_clinical_caseMIR	SENT5	-	-
+7	precarga	precarga	NCFS000	-	-	41-49	123_ANS_clinical_caseMIR	SENT5	-	-
+8	antes	antes	RG	C0332152	atributo	50-55	123_ANS_clinical_caseMIR	SENT5	-	-
+9	de	de	SPS00	C0332285	atributo	56-58	123_ANS_clinical_caseMIR	SENT5	-	-
+10	iniciar	iniciar	VMN0000	-	-	59-66	123_ANS_clinical_caseMIR	SENT5	-	-
+11	su	su	DP3CS0	-	-	67-69	123_ANS_clinical_caseMIR	SENT5	-	-
+12	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	70-76	123_ANS_clinical_caseMIR	SENT5	-	-
+13	diurético	diurético	AQ0MS0	C0012798	sustancia	77-86	123_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	86-87	123_ANS_clinical_caseMIR	SENT5	-	-
+

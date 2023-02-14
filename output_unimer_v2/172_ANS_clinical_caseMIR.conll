@@ -1,0 +1,96 @@
+1	Indique	indicar	VMM03S0	-	-	262-269	172_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	270-272	172_ANS_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	273-282	172_ANS_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	283-291	172_ANS_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	291-292	172_ANS_clinical_caseMIR	SENT1	-	-
+6	Se	se	P00CN000	-	-	0-2	172_ANS_clinical_caseMIR	SENT1	-	-
+7	debe	deber	VMIP3S0	-	-	3-7	172_ANS_clinical_caseMIR	SENT1	-	-
+8	realizar	realizar	VMN0000	-	-	8-16	172_ANS_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	17-20	172_ANS_clinical_caseMIR	SENT1	-	-
+10	estimación	estimación	NCFS000	-	-	21-31	172_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	32-34	172_ANS_clinical_caseMIR	SENT1	-	-
+12	las	el	DA0FP0	-	-	35-38	172_ANS_clinical_caseMIR	SENT1	-	-
+13	pérdidas	pérdida	NCFP000	-	-	39-47	172_ANS_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	47-48	172_ANS_clinical_caseMIR	SENT1	-	-
+15	recomendar	recomendar	VMN0000	-	-	49-59	172_ANS_clinical_caseMIR	SENT1	-	-
+16	un	un		C0205447_1	calificador_1	60-62	172_ANS_clinical_caseMIR	SENT1	-	-
+17	ayuno	ayuno	NCMS000	-	-	63-68	172_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	69-71	172_ANS_clinical_caseMIR	SENT1	-	-
+19	4	4	Z	C1292426_1	calificador_1	72-73	172_ANS_clinical_caseMIR	SENT1	-	-
+20	horas	hora	NCFP000	C1292426_2	calificador_2	74-79	172_ANS_clinical_caseMIR	SENT1	-	-
+21	y	y	CC	C1706368	calificador	80-81	172_ANS_clinical_caseMIR	SENT1	-	-
+22	rehidratar	rehidratar	VMN0000	-	-	82-92	172_ANS_clinical_caseMIR	SENT1	-	-
+23	durante	durante	SPS00	C1444752#C0347984	atributo	93-100	172_ANS_clinical_caseMIR	SENT1	-	-
+24	este	este	DD0MS0	-	-	101-105	172_ANS_clinical_caseMIR	SENT1	-	-
+25	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	106-112	172_ANS_clinical_caseMIR	SENT1	-	-
+26	con	con	SPS00	C0332287	atributo	113-116	172_ANS_clinical_caseMIR	SENT1	-	-
+27	solución	solución	NCFS000	C0037633	sustancia	117-125	172_ANS_clinical_caseMIR	SENT1	-	-
+28	rehidratante	rehidratante	NCMS000	-	-	126-138	172_ANS_clinical_caseMIR	SENT1	-	-
+29	oral	oral	AQ0CS0	C0442027	calificador	139-143	172_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	.	.	Fp	-	-	143-144	172_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	0-2	172_ANS_clinical_caseMIR	SENT2	-	-
+2	aconsejable	aconsejable	AQ0CS0	-	-	3-14	172_ANS_clinical_caseMIR	SENT2	-	-
+3	la	el	DA0FS0	-	-	15-17	172_ANS_clinical_caseMIR	SENT2	-	-
+4	introducción	introducción	NCFS000	C1293116	procedimiento	18-30	172_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	31-33	172_ANS_clinical_caseMIR	SENT2	-	-
+6	cereales	cereal	NCMP000	C0007757	sustancia	34-42	172_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	43-45	172_ANS_clinical_caseMIR	SENT2	-	-
+8	arroz	arroz	NCMS000	C0035567	sustancia	46-51	172_ANS_clinical_caseMIR	SENT2	-	-
+9	por	por	SPS00	C0678226	atributo	52-55	172_ANS_clinical_caseMIR	SENT2	-	-
+10	su	su	DP3CS0	-	-	56-58	172_ANS_clinical_caseMIR	SENT2	-	-
+11	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	59-65	172_ANS_clinical_caseMIR	SENT2	-	-
+12	astringente	astringente	AQ0CS0	-	-	66-77	172_ANS_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	77-78	172_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	0-2	172_ANS_clinical_caseMIR	SENT3	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	172_ANS_clinical_caseMIR	SENT3	-	-
+3	realizar	realizar	VMN0000	-	-	8-16	172_ANS_clinical_caseMIR	SENT3	-	-
+4	coprocultivo	coprocultivo	NC00SC0	C0430414	procedimiento	17-29	172_ANS_clinical_caseMIR	SENT3	-	-
+5	tan	tan	RG	-	-	30-33	172_ANS_clinical_caseMIR	SENT3	-	-
+6	pronto	pronto	RG	-	-	34-40	172_ANS_clinical_caseMIR	SENT3	-	-
+7	como	como	SPS00	C0332257	calificador	41-45	172_ANS_clinical_caseMIR	SENT3	-	-
+8	sea	ser	VSSP1S0	-	-	46-49	172_ANS_clinical_caseMIR	SENT3	-	-
+9	posible	posible	AQ0CS0	C0332149#C2362652	calificador	50-57	172_ANS_clinical_caseMIR	SENT3	-	-
+10	para	para	SPS00	C0521125	calificador	58-62	172_ANS_clinical_caseMIR	SENT3	-	-
+11	excluir	excluir	VMN0000	C0332196	calificador	63-70	172_ANS_clinical_caseMIR	SENT3	-	-
+12	un	un		C0205447_1	calificador_1	71-73	172_ANS_clinical_caseMIR	SENT3	-	-
+13	origen	origen	NCMS000	C0439659	atributo	74-80	172_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+14	bacteriano	bacteriano	AQ0MS0	-	-	81-91	172_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+15	.	.	Fp	-	-	91-92	172_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	0-2	172_ANS_clinical_caseMIR	SENT4	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	172_ANS_clinical_caseMIR	SENT4	-	-
+3	recomendar	recomendar	VMN0000	-	-	8-18	172_ANS_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	19-21	172_ANS_clinical_caseMIR	SENT4	-	-
+5	empleo	empleo	NCMS000	C1524063_1	atributo_1	22-28	172_ANS_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C1524063_2	atributo_2	29-31	172_ANS_clinical_caseMIR	SENT4	-	-
+7	fórmula	fórmula	NCFS000	-	-	32-39	172_ANS_clinical_caseMIR	SENT4	-	-
+8	sin	sin	SPS00	C0332288	atributo	40-43	172_ANS_clinical_caseMIR	SENT4	-	-
+9	lactosa	lactosa	NCFS000	C0022949	producto#sustancia	44-51	172_ANS_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	51-52	172_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	0-2	172_ANS_clinical_caseMIR	SENT5	-	-
+2	ha	haber	VMIP3S0	-	-	3-5	172_ANS_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	6-8	172_ANS_clinical_caseMIR	SENT5	-	-
+4	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	9-18	172_ANS_clinical_caseMIR	SENT5	-	-
+5	reponer	reponer	VMN0000	-	-	19-26	172_ANS_clinical_caseMIR	SENT5	-	-
+6	las	el	DA0FP0	-	-	27-30	172_ANS_clinical_caseMIR	SENT5	-	-
+7	pérdidas	pérdida	NCFP000	-	-	31-39	172_ANS_clinical_caseMIR	SENT5	-	-
+8	tras	tras	SPS00	-	-	40-44	172_ANS_clinical_caseMIR	SENT5	-	-
+9	cada	cada	DI0CS0	C1457900	calificador	45-49	172_ANS_clinical_caseMIR	SENT5	-	-
+10	deposición	deposición	NCFS000	-	-	50-60	172_ANS_clinical_caseMIR	SENT5	-	-
+11	,	,	Fc	-	-	60-61	172_ANS_clinical_caseMIR	SENT5	-	-
+12	con	con	SPS00	C0332287	atributo	62-65	172_ANS_clinical_caseMIR	SENT5	-	-
+13	solución	solución	NCFS000	C0037633	sustancia	66-74	172_ANS_clinical_caseMIR	SENT5	-	-
+14	rehidratante	rehidratante	NCMS000	-	-	75-87	172_ANS_clinical_caseMIR	SENT5	-	-
+15	oral	oral	AQ0CS0	C0442027	calificador	88-92	172_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+16	,	,	Fc	-	-	92-93	172_ANS_clinical_caseMIR	SENT5	-	-
+17	y	y	CC	C1706368	calificador	94-95	172_ANS_clinical_caseMIR	SENT5	-	-
+18	continuar	continuar	VMN0000	-	-	96-105	172_ANS_clinical_caseMIR	SENT5	-	-
+19	con	con	SPS00	C0332287	atributo	106-109	172_ANS_clinical_caseMIR	SENT5	-	-
+20	su	su	DP3CS0	-	-	110-112	172_ANS_clinical_caseMIR	SENT5	-	-
+21	alimentación	alimentación	NCFS000	C2987508#C1286346	entidad_observable	113-125	172_ANS_clinical_caseMIR	SENT5	-	-
+22	habitual	habitual	AQ0CS0	C0205353	calificador	126-134	172_ANS_clinical_caseMIR	SENT5	-	-
+23	.	.	Fp	-	-	134-135	172_ANS_clinical_caseMIR	SENT5	-	-
+

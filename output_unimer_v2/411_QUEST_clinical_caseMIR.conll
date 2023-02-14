@@ -1,0 +1,89 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	411_QUEST_clinical_caseMIR	SENT1	-	-
+2	joven	joven	NCCS000	C0332239	calificador	3-8	411_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	411_QUEST_clinical_caseMIR	SENT1	-	-
+4	15	15		-	-	12-14	411_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	411_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	20-25	411_QUEST_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	26-28	411_QUEST_clinical_caseMIR	SENT1	-	-
+8	neurólogo	neurólogo	NCMS000	C0237426	ocupación	29-38	411_QUEST_clinical_caseMIR	SENT1	-	-
+9	refiriendo	referir	VMG0000	-	-	39-49	411_QUEST_clinical_caseMIR	SENT1	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	50-52	411_QUEST_clinical_caseMIR	SENT1	-	-
+11	los	el	DA0MP0	-	-	53-56	411_QUEST_clinical_caseMIR	SENT1	-	-
+12	meses	mes	NCMP000	C0439231	calificador	57-62	411_QUEST_clinical_caseMIR	SENT1	-	-
+13	previos	previo	AQ0MP0	C0205156	calificador	63-70	411_QUEST_clinical_caseMIR	SENT1	-	-
+14	sacudidas	sacudida	NCFP000	C0040822#C1527384	hallazgo	71-80	411_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	matutinas	matutino	AQ0FP0	C0332170	calificador	81-90	411_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	91-93	411_QUEST_clinical_caseMIR	SENT1	-	-
+17	ambos	ambos	PI0MP000	C0230348_1	estructura_corporal_1	94-99	411_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	brazos	brazo	NCMP000	C0230348_2	estructura_corporal_2	100-106	411_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	sin	sin	SPS00	C0332288	atributo	107-110	411_QUEST_clinical_caseMIR	SENT1	-	-
+20	afectación	afectación	NCFS000	-	-	111-121	411_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+21	del	del	SP+DA	-	-	122-125	411_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	nivel	nivel	NCMS000	C0234425_1	entidad_observable_1	126-131	411_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	de	de	SPS00	C0234425_2	entidad_observable_2	132-134	411_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+24	conciencia	concienciar	VMM02S0	C0234425_3	entidad_observable_3	135-145	411_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+25	.	.	Fp	-	-	145-146	411_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Además	además	RG	-	-	147-153	411_QUEST_clinical_caseMIR	SENT2	-	-
+2	,	,	Fc	-	-	153-154	411_QUEST_clinical_caseMIR	SENT2	-	-
+3	sus	su	DP3CP0	-	-	155-158	411_QUEST_clinical_caseMIR	SENT2	-	-
+4	padres	padre	NCMP000	C0015671	persona	159-165	411_QUEST_clinical_caseMIR	SENT2	-	-
+5	refieren	referir	VMIP3P0	-	-	166-174	411_QUEST_clinical_caseMIR	SENT2	-	-
+6	episodios	episodio	NCMP000	C0332189	atributo	175-184	411_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	185-187	411_QUEST_clinical_caseMIR	SENT2	-	-
+8	desconexión	desconexión	NCFS000	-	-	188-199	411_QUEST_clinical_caseMIR	SENT2	-	-
+9	con	con	SPS00	C0332287	atributo	200-203	411_QUEST_clinical_caseMIR	SENT2	-	-
+10	mirada	mirar	VMP00SF	C0423086_1	hallazgo_1	204-210	411_QUEST_clinical_caseMIR	SENT2	-	-
+11	fija	fijo	AQ0FS0	C0423086_2	hallazgo_2	211-215	411_QUEST_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	216-217	411_QUEST_clinical_caseMIR	SENT2	-	-
+13	automatismos	automatismo	NCMP000	C0004377	hallazgo	218-230	411_QUEST_clinical_caseMIR	SENT2	-	-
+14	orales	oral	AQ0CP0	C0442027	calificador	231-237	411_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+15	prácticamente	prácticamente	RG	-	-	238-251	411_QUEST_clinical_caseMIR	SENT2	-	-
+16	a	a	SPS00	-	-	252-253	411_QUEST_clinical_caseMIR	SENT2	-	-
+17	diario	diario	NCMS000	C0332173	calificador	254-260	411_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	260-261	411_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	262-264	411_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	265-268	411_QUEST_clinical_caseMIR	SENT3	-	-
+3	días	día	NCMP000	C0439228#C0332169	calificador	269-273	411_QUEST_clinical_caseMIR	SENT3	-	-
+4	previos	previo	AQ0MP0	C0205156	calificador	274-281	411_QUEST_clinical_caseMIR	SENT3	-	-
+5	ha	haber	VAIP3S0	-	-	282-284	411_QUEST_clinical_caseMIR	SENT3	-	-
+6	presentado	presentar	VMP00SM	-	-	285-295	411_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	296-299	411_QUEST_clinical_caseMIR	SENT3	-	-
+8	crisis	crisis	NCFN000	C0231224	hallazgo	300-306	411_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	tónico-clónica	tónico-clónica	AQ0FS00	-	-	307-321	411_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	generalizada	generalizar	VMP00SF	-	-	322-334	411_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	335-337	411_QUEST_clinical_caseMIR	SENT3	-	-
+12	un	un		C0205447_1	calificador_1	338-340	411_QUEST_clinical_caseMIR	SENT3	-	-
+13	contexto	contexto	NCMS000	C0449255	atributo	341-349	411_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332285	atributo	350-352	411_QUEST_clinical_caseMIR	SENT3	-	-
+15	privación	privación	NCFS000	C0037316_1	hallazgo_1	353-362	411_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	de	de	SPS00	C0037316_2	hallazgo_2	363-365	411_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+17	sueño	sueño	NCMS000	C0037316_3	hallazgo_3	366-371	411_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+18	e	y	CC	C1706368	calificador	372-373	411_QUEST_clinical_caseMIR	SENT3	-	-
+19	ingesta	ingesta	NCFS000	-	-	374-381	411_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+20	alcohólica	alcohólico	AQ0FS0	C0337678	hallazgo	382-392	411_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+21	.	.	Fp	-	-	392-393	411_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Existen	existir	VMIP3P0	-	-	394-401	411_QUEST_clinical_caseMIR	SENT4	-	-
+2	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	402-414	411_QUEST_clinical_caseMIR	SENT4	-	-
+3	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	415-425	411_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	426-428	411_QUEST_clinical_caseMIR	SENT4	-	-
+5	un	un		C0205447_1	calificador_1	429-431	411_QUEST_clinical_caseMIR	SENT4	-	-
+6	proceso	proceso	NCMS000	C1522240	entidad_observable	432-439	411_QUEST_clinical_caseMIR	SENT4	-	-
+7	similar	similar	AQ0CS0	-	-	440-447	411_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	447-448	411_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	449-450	411_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	450-454	411_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	455-457	411_QUEST_clinical_caseMIR	SENT5	-	-
+4	los	el	DA0MP0	-	-	458-461	411_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	462-472	411_QUEST_clinical_caseMIR	SENT5	-	-
+6	procesos	proceso	NCMP000	C1522240	entidad_observable	473-481	411_QUEST_clinical_caseMIR	SENT5	-	-
+7	sospechar	sospechar	VMN0000	-	-	482-491	411_QUEST_clinical_caseMIR	SENT5	-	-
+8	la	lo	PP3FSA00	-	-	491-493	411_QUEST_clinical_caseMIR	SENT5	-	-
+9	en	en	SPS00	C1279901_1	calificador_1	494-496	411_QUEST_clinical_caseMIR	SENT5	-	-
+10	primer	1	AO0MS0	C1279901_2	calificador_2	497-503	411_QUEST_clinical_caseMIR	SENT5	-	-
+11	lugar	lugar	NCMS000	C1279901_3	calificador_3	504-509	411_QUEST_clinical_caseMIR	SENT5	-	-
+12	?	?	Fit	-	-	509-510	411_QUEST_clinical_caseMIR	SENT5	-	-
+

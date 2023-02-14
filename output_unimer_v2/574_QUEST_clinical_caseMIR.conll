@@ -1,0 +1,113 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	574_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	574_QUEST_clinical_caseMIR	SENT1	-	-
+3	29	29		-	-	10-12	574_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	574_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	574_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	574_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	25-26	574_QUEST_clinical_caseMIR	SENT1	-	-
+8	tratado	tratar	VMP00SM	C0332293_1	atributo_1	27-34	574_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0332293_2	atributo_2	35-38	574_QUEST_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	39-42	574_QUEST_clinical_caseMIR	SENT1	-	-
+11	colitis	colitis	NCFN000	C0009324#C2919828_1	trastorno_1	43-50	574_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	ulcerosa	ulceroso	AQ0FS0	C0009324#C2919828_2	trastorno_2	51-59	574_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	desde	desde	SPS00	-	-	60-65	574_QUEST_clinical_caseMIR	SENT1	-	-
+14	hace	hacer	VMIP3S0	-	-	66-70	574_QUEST_clinical_caseMIR	SENT1	-	-
+15	2	2		-	-	71-72	574_QUEST_clinical_caseMIR	SENT1	-	-
+16	años	año	NCMP000	C0439234	calificador	73-77	574_QUEST_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	78-79	574_QUEST_clinical_caseMIR	SENT1	-	-
+18	sin	sin	SPS00	C0332288	atributo	80-83	574_QUEST_clinical_caseMIR	SENT1	-	-
+19	episodios	episodio	NCMP000	C0332189	atributo	84-93	574_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	94-96	574_QUEST_clinical_caseMIR	SENT1	-	-
+21	descompensación	descompensación	NCFS000	C0231187	hallazgo	97-112	574_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	113-115	574_QUEST_clinical_caseMIR	SENT1	-	-
+23	los	el	DA0MP0	-	-	116-119	574_QUEST_clinical_caseMIR	SENT1	-	-
+24	últimos	último	AO0MP0	-	-	120-127	574_QUEST_clinical_caseMIR	SENT1	-	-
+25	6	6		-	-	128-129	574_QUEST_clinical_caseMIR	SENT1	-	-
+26	meses	mes	NCMP000	C0439231	calificador	130-135	574_QUEST_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	135-136	574_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	137-144	574_QUEST_clinical_caseMIR	SENT2	-	-
+2	un	un		C0205447_1	calificador_1	145-147	574_QUEST_clinical_caseMIR	SENT2	-	-
+3	dolor	dolor	NCMS000	C0278144_1	hallazgo_1	148-153	574_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	sordo	sordo	NCMS000	C0278144_2	hallazgo_2	154-159	574_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	160-162	574_QUEST_clinical_caseMIR	SENT2	-	-
+6	hipocondrio	hipocondrio	NCMS000	C1284920#C0230186	estructura_corporal	163-174	574_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	175-182	574_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+8	y	y	CC	C1706368	calificador	183-184	574_QUEST_clinical_caseMIR	SENT2	-	-
+9	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	185-192	574_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	193-195	574_QUEST_clinical_caseMIR	SENT2	-	-
+11	el	el	DA0MS0	-	-	196-198	574_QUEST_clinical_caseMIR	SENT2	-	-
+12	último	último	AO0MS0	-	-	199-205	574_QUEST_clinical_caseMIR	SENT2	-	-
+13	mes	mes	NCMS000	C0439231	calificador	206-209	574_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	209-210	574_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	211-213	574_QUEST_clinical_caseMIR	SENT3	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	214-225	574_QUEST_clinical_caseMIR	SENT3	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	226-232	574_QUEST_clinical_caseMIR	SENT3	-	-
+4	no	no	RN	C1298908	calificador	233-235	574_QUEST_clinical_caseMIR	SENT3	-	-
+5	demuestra	demostrar	VMIP3S0	-	-	236-245	574_QUEST_clinical_caseMIR	SENT3	-	-
+6	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	246-253	574_QUEST_clinical_caseMIR	SENT3	-	-
+7	alteración	alteración	NCFS000	-	-	254-264	574_QUEST_clinical_caseMIR	SENT3	-	-
+8	significativa	significativo	AQ0FS0	C0750502	calificador	265-278	574_QUEST_clinical_caseMIR	SENT3	-	-
+9	y	y	CC	C1706368	calificador	279-280	574_QUEST_clinical_caseMIR	SENT3	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	281-283	574_QUEST_clinical_caseMIR	SENT3	-	-
+11	los	el	DA0MP0	-	-	284-287	574_QUEST_clinical_caseMIR	SENT3	-	-
+12	análisis	análisis	NCMN000	C0002778	calificador	288-296	574_QUEST_clinical_caseMIR	SENT3	-	-
+13	se	se	P00CN000	-	-	297-299	574_QUEST_clinical_caseMIR	SENT3	-	-
+14	observa	observar	VMIP3S0	-	-	300-307	574_QUEST_clinical_caseMIR	SENT3	-	-
+15	una	una		C0205447_1	calificador_1	308-311	574_QUEST_clinical_caseMIR	SENT3	-	-
+16	bilirrubinemia	bilirrubinemia	NCFS000	C0595865#C0020433	trastorno	312-326	574_QUEST_clinical_caseMIR	SENT3	-	-
+17	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	327-332	574_QUEST_clinical_caseMIR	SENT3	-	-
+18	de	de	SPS00	C0332285	atributo	333-335	574_QUEST_clinical_caseMIR	SENT3	-	-
+19	1,2	1.2	Z	-	-	336-339	574_QUEST_clinical_caseMIR	SENT3	-	-
+20	mg	mg	NCMN000	-	-	340-342	574_QUEST_clinical_caseMIR	SENT3	-	-
+21	/	/	Fh	-	-	342-343	574_QUEST_clinical_caseMIR	SENT3	-	-
+22	dL	decilitro	NCMN000	C0439241	calificador	343-345	574_QUEST_clinical_caseMIR	SENT3	-	-
+23	(	(	Fpa	-	-	346-347	574_QUEST_clinical_caseMIR	SENT3	-	-
+24	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	347-358	574_QUEST_clinical_caseMIR	SENT3	-	-
+25	directa	directo	AQ0FS0	C0439851	calificador	359-366	574_QUEST_clinical_caseMIR	SENT3	-	-
+26	0,7	0.7	Z	-	-	367-370	574_QUEST_clinical_caseMIR	SENT3	-	-
+27	mg	mg	NCMN000	-	-	371-373	574_QUEST_clinical_caseMIR	SENT3	-	-
+28	/	/	Fh	-	-	373-374	574_QUEST_clinical_caseMIR	SENT3	-	-
+29	dL	decilitro	NCMN000	C0439241	calificador	374-376	574_QUEST_clinical_caseMIR	SENT3	-	-
+30	)	)	Fpt	-	-	376-377	574_QUEST_clinical_caseMIR	SENT3	-	-
+31	,	,	Fc	-	-	377-378	574_QUEST_clinical_caseMIR	SENT3	-	-
+32	aspartato	aspartato	NC00SC0	C0004002_1	sustancia_1	379-388	574_QUEST_clinical_caseMIR	SENT3	-	-
+33	aminotransferasa	aminotransferasa	NC00SC0	C0004002_2	sustancia_2	389-405	574_QUEST_clinical_caseMIR	SENT3	-	-
+34	89	89		-	-	406-408	574_QUEST_clinical_caseMIR	SENT3	-	-
+35	UI	ui	NC00SC0	C0439453	calificador	409-411	574_QUEST_clinical_caseMIR	SENT3	-	-
+36	/	/	Fh	-	-	411-412	574_QUEST_clinical_caseMIR	SENT3	-	-
+37	L	l	NCFS000	-	-	412-413	574_QUEST_clinical_caseMIR	SENT3	-	-
+38	,	,	Fc	-	-	413-414	574_QUEST_clinical_caseMIR	SENT3	-	-
+39	alanino	alanino	AQ0MS00	-	-	415-422	574_QUEST_clinical_caseMIR	SENT3	-	-
+40	amino-transferasa	amino-transferasa	VMIP3S0	-	-	423-440	574_QUEST_clinical_caseMIR	SENT3	-	-
+41	101	101		-	-	441-444	574_QUEST_clinical_caseMIR	SENT3	-	-
+42	UI	ui	NC00SC0	C0439453	calificador	445-447	574_QUEST_clinical_caseMIR	SENT3	-	-
+43	/	/	Fh	-	-	447-448	574_QUEST_clinical_caseMIR	SENT3	-	-
+44	L	l	NCFS000	-	-	448-449	574_QUEST_clinical_caseMIR	SENT3	-	-
+45	,	,	Fc	-	-	449-450	574_QUEST_clinical_caseMIR	SENT3	-	-
+46	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	451-460	574_QUEST_clinical_caseMIR	SENT3	-	-
+47	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	461-469	574_QUEST_clinical_caseMIR	SENT3	-	-
+48	1.124	1.124		-	-	470-475	574_QUEST_clinical_caseMIR	SENT3	-	-
+49	UI	ui	NC00SC0	C0439453	calificador	476-478	574_QUEST_clinical_caseMIR	SENT3	-	-
+50	/	/	Fh	-	-	478-479	574_QUEST_clinical_caseMIR	SENT3	-	-
+51	L	l	NCFS000	-	-	479-480	574_QUEST_clinical_caseMIR	SENT3	-	-
+52	,	,	Fc	-	-	480-481	574_QUEST_clinical_caseMIR	SENT3	-	-
+53	gamma	gamma	NCFS000	-	-	482-487	574_QUEST_clinical_caseMIR	SENT3	-	-
+54	glutamiltransferasa	glutamiltransferasa	VMIP3S0	-	-	488-507	574_QUEST_clinical_caseMIR	SENT3	-	-
+55	345	345		-	-	508-511	574_QUEST_clinical_caseMIR	SENT3	-	-
+56	UI	ui	NC00SC0	C0439453	calificador	512-514	574_QUEST_clinical_caseMIR	SENT3	-	-
+57	/	/	Fh	-	-	514-515	574_QUEST_clinical_caseMIR	SENT3	-	-
+58	L	l	NCFS000	-	-	515-516	574_QUEST_clinical_caseMIR	SENT3	-	-
+59	,	,	Fc	-	-	516-517	574_QUEST_clinical_caseMIR	SENT3	-	-
+60	albuminemia	albuminemia	NCFS000	-	-	518-529	574_QUEST_clinical_caseMIR	SENT3	-	-
+61	38	38	Z	-	-	530-532	574_QUEST_clinical_caseMIR	SENT3	-	-
+62	g_/_L	g/l	NCMP000	C0439294	calificador	533-536	574_QUEST_clinical_caseMIR	SENT3	-	-
+63	y	y	CC	C1706368	calificador	537-538	574_QUEST_clinical_caseMIR	SENT3	-	-
+64	tasa	tasa	NCFS000	-	-	539-543	574_QUEST_clinical_caseMIR	SENT3	-	-
+65	de	de	SPS00	C0332285	atributo	544-546	574_QUEST_clinical_caseMIR	SENT3	-	-
+66	protrombina	protrombina	NCFS000	C0033706	sustancia	547-558	574_QUEST_clinical_caseMIR	SENT3	-	-
+67	100	100	Z	-	-	559-562	574_QUEST_clinical_caseMIR	SENT3	-	-
+68	%	%	Ft	-	-	562-563	574_QUEST_clinical_caseMIR	SENT3	-	-
+69	.	.	Fp	-	-	563-564	574_QUEST_clinical_caseMIR	SENT3	-	-
+

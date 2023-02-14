@@ -1,0 +1,106 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	682_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	682_QUEST_clinical_caseMIR	SENT1	-	-
+3	37	37		-	-	9-11	682_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	682_QUEST_clinical_caseMIR	SENT1	-	-
+5	sin	sin	SPS00	C0332288	atributo	17-20	682_QUEST_clinical_caseMIR	SENT1	-	-
+6	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	21-26	682_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	27-39	682_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	40-42	682_QUEST_clinical_caseMIR	SENT1	-	-
+9	interés	interés	NCMS000	-	-	43-50	682_QUEST_clinical_caseMIR	SENT1	-	-
+10	que	que	CS	-	-	51-54	682_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	55-58	682_QUEST_clinical_caseMIR	SENT1	-	-
+12	apendicectomía	apendicectomía	NC00SC0	C0003611	procedimiento	59-73	682_QUEST_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	73-74	682_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	75-80	682_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	81-82	682_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	83-92	682_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	93-96	682_QUEST_clinical_caseMIR	SENT2	-	-
+5	dolor	dolor	NCMS000	C0030193	hallazgo	97-102	682_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	103-105	682_QUEST_clinical_caseMIR	SENT2	-	-
+7	fosa	fosa	NCFS000	C0332471	anomalía_morfológica	106-110	682_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	renal	renal	AQ0CS0	-	-	111-116	682_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+9	derecha	derecha	NCFS000	-	-	117-124	682_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	de	de	SPS00	C0332285	atributo	125-127	682_QUEST_clinical_caseMIR	SENT2	-	-
+11	3	3	Z	-	-	128-129	682_QUEST_clinical_caseMIR	SENT2	-	-
+12	días	d	NCMP000	-	-	130-134	682_QUEST_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	135-137	682_QUEST_clinical_caseMIR	SENT2	-	-
+14	evolución	evolución	NCFS000	-	-	138-147	682_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	148-149	682_QUEST_clinical_caseMIR	SENT2	-	-
+16	fiebre	fiebre	NCFS000	C0015967	hallazgo	150-156	682_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0332285	atributo	157-159	682_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+18	39°C	39°C		-	-	160-164	682_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+19	.	.	Fp	-	-	164-165	682_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	166-168	682_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	169-171	682_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	172-181	682_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	182-189	682_QUEST_clinical_caseMIR	SENT3	-	-
+5	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	190-202	682_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	(	(	Fpa	-	-	203-204	682_QUEST_clinical_caseMIR	SENT3	-	-
+7	14	14		-	-	204-206	682_QUEST_clinical_caseMIR	SENT3	-	-
+8	x103/μL	x103/μL		-	-	207-214	682_QUEST_clinical_caseMIR	SENT3	-	-
+9	con	con	SPS00	C0332287	atributo	215-218	682_QUEST_clinical_caseMIR	SENT3	-	-
+10	neutrofilia	neutrofilia	NCFS000	C3665444#C1282609#C0151683	trastorno#hallazgo	219-230	682_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	)	)	Fpt	-	-	230-231	682_QUEST_clinical_caseMIR	SENT3	-	-
+12	y	y	CC	C1706368	calificador	232-233	682_QUEST_clinical_caseMIR	SENT3	-	-
+13	proteína	proteína	NCFS000	C0033621_1	sustancia_1	234-242	682_QUEST_clinical_caseMIR	SENT3	-	-
+14	C	c	NC00YL0	C0033621_2	sustancia_2	243-244	682_QUEST_clinical_caseMIR	SENT3	-	-
+15	reactiva	reactivo	AQ0FS0	C0183885#C0205332	objeto_físico#calificador	245-253	682_QUEST_clinical_caseMIR	SENT3	-	-
+16	15	15	Z	-	-	254-256	682_QUEST_clinical_caseMIR	SENT3	-	-
+17	mg	mg	NCMN000	-	-	257-259	682_QUEST_clinical_caseMIR	SENT3	-	-
+18	/	/	Fh	-	-	259-260	682_QUEST_clinical_caseMIR	SENT3	-	-
+19	dL	decilitro	NCMN000	C0439241	calificador	260-262	682_QUEST_clinical_caseMIR	SENT3	-	-
+20	.	.	Fp	-	-	262-263	682_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	264-266	682_QUEST_clinical_caseMIR	SENT4	-	-
+2	sistemático	sistemático	AQ0MS0	-	-	267-278	682_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	279-281	682_QUEST_clinical_caseMIR	SENT4	-	-
+4	orina	orina	NCFS000	C0042036	sustancia	282-287	682_QUEST_clinical_caseMIR	SENT4	-	-
+5	muestra	mostrar	VMIP3S0	-	-	288-295	682_QUEST_clinical_caseMIR	SENT4	-	-
+6	hematuria	hematuria	NCFS000	C0239937_1	trastorno_1	296-305	682_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	microscópica	microscópico	AQ0FS0	C0239937_2	trastorno_2	306-318	682_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+8	,	,	Fc	-	-	318-319	682_QUEST_clinical_caseMIR	SENT4	-	-
+9	leucocituria	leucocituria	NCFS000	-	-	320-332	682_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	333-334	682_QUEST_clinical_caseMIR	SENT4	-	-
+11	piuria	piuria	NC00SC0	C0034359	hallazgo	335-341	682_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+12	significativas	significativo	AQ0FP0	C0750502	calificador	342-356	682_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	356-357	682_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Ingresa	ingresar	VMIP3S0	-	-	358-365	682_QUEST_clinical_caseMIR	SENT5	-	-
+2	con	con	SPS00	C0332287	atributo	366-369	682_QUEST_clinical_caseMIR	SENT5	-	-
+3	el	el	DA0MS0	-	-	370-372	682_QUEST_clinical_caseMIR	SENT5	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	373-384	682_QUEST_clinical_caseMIR	SENT5	-	-
+5	de	de	SPS00	C0332285	atributo	385-387	682_QUEST_clinical_caseMIR	SENT5	-	-
+6	pielonefritis	pielonefritis	NC00SC0	C0520575_1	trastorno_1	388-401	682_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+7	aguda	agudo	AQ0FS0	C0520575_2	trastorno_2	402-407	682_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+8	y	y	CC	C1706368	calificador	408-409	682_QUEST_clinical_caseMIR	SENT5	-	-
+9	se	se	P00CN000	-	-	410-412	682_QUEST_clinical_caseMIR	SENT5	-	-
+10	inicia	iniciar	VMIP3S0	-	-	413-419	682_QUEST_clinical_caseMIR	SENT5	-	-
+11	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	420-431	682_QUEST_clinical_caseMIR	SENT5	-	-
+12	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	432-443	682_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+13	con	con	SPS00	C0332287	atributo	444-447	682_QUEST_clinical_caseMIR	SENT5	-	-
+14	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	448-459	682_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+15	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	460-471	682_QUEST_clinical_caseMIR	SENT5	-	-
+16	.	.	Fp	-	-	471-472	682_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Tres	Tres		-	-	473-477	682_QUEST_clinical_caseMIR	SENT6	-	-
+2	días	día	NCMP000	C0439228#C0332169	calificador	478-482	682_QUEST_clinical_caseMIR	SENT6	-	-
+3	después	después	RG	C0231290	atributo	483-490	682_QUEST_clinical_caseMIR	SENT6	-	-
+4	persiste	persistir	VMIP3S0	-	-	491-499	682_QUEST_clinical_caseMIR	SENT6	-	-
+5	fiebre	fiebre	NCFS000	C0015967	hallazgo	500-506	682_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0332285	atributo	507-509	682_QUEST_clinical_caseMIR	SENT6	-	-
+7	38,5°C	38,5°C		-	-	510-516	682_QUEST_clinical_caseMIR	SENT6	-	-
+8	,	,	Fc	-	-	516-517	682_QUEST_clinical_caseMIR	SENT6	-	-
+9	aumento	aumento	NCMS000	C0442805	calificador	518-525	682_QUEST_clinical_caseMIR	SENT6	-	-
+10	de	de	SPS00	C0332285	atributo	526-528	682_QUEST_clinical_caseMIR	SENT6	-	-
+11	la	el	DA0FS0	-	-	529-531	682_QUEST_clinical_caseMIR	SENT6	-	-
+12	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	532-544	682_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+13	y	y	CC	C1706368	calificador	545-546	682_QUEST_clinical_caseMIR	SENT6	-	-
+14	deterioro	deterioro	NCMS000	C1278220_1	hallazgo_1	547-556	682_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+15	de	de	SPS00	C1278220_2	hallazgo_2	557-559	682_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+16	la	lo	PP3FSA00	C1278220_3	hallazgo_3	560-562	682_QUEST_clinical_caseMIR	SENT6	I-Calificador	-
+17	función	función	NCFS000	C1278220_4	hallazgo_4	563-570	682_QUEST_clinical_caseMIR	SENT6	I-Calificador	-
+18	renal	renal	AQ0CS0	C1278220_5	hallazgo_5	571-576	682_QUEST_clinical_caseMIR	SENT6	I-Calificador	-
+19	.	.	Fp	-	-	576-577	682_QUEST_clinical_caseMIR	SENT6	-	-
+

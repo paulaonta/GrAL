@@ -1,0 +1,31 @@
+1	¿	¿	Fia	-	-	393-394	124_ANS_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	PT0CN000	-	-	394-397	124_ANS_clinical_caseMIR	SENT1	-	-
+3	pensaría	pensar	VMIC3S0	-	-	398-406	124_ANS_clinical_caseMIR	SENT1	-	-
+4	como	como	CS	C0332257	calificador	407-411	124_ANS_clinical_caseMIR	SENT1	-	-
+5	primera	1	AO0FS0	-	-	412-419	124_ANS_clinical_caseMIR	SENT1	-	-
+6	opción	opción	NCFS000	-	-	420-426	124_ANS_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	427-429	124_ANS_clinical_caseMIR	SENT1	-	-
+8	esta	este	DD0FS0	-	-	430-434	124_ANS_clinical_caseMIR	SENT1	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	435-443	124_ANS_clinical_caseMIR	SENT1	-	-
+10	?	?	Fit	-	-	443-444	124_ANS_clinical_caseMIR	SENT1	-	-
+11	:	:	Fd	-	-	444-445	124_ANS_clinical_caseMIR	SENT1	-	-
+12	Insuficiencia	insuficiencia	NCFS000	C0026266_1	trastorno_1	0-13	124_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	mitral	mitral	AQ0CS0	C0026266_2	trastorno_2	14-20	124_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	20-21	124_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Insuficiencia	insuficiencia	NCFS000	C0265833_1	trastorno_1	0-13	124_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	pulmonar	pulmonar	NC00SC0	C0265833_2	trastorno_2	14-22	124_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	22-23	124_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	0-13	124_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	tricúspide	tricúspide	AQ0CS0	-	-	14-24	124_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	24-25	124_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Insuficiencia	insuficiencia	NCFS000	C0344404_1	trastorno_1	0-13	124_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	aórtica	aórtico	AQ0FS0	C0344404_2	trastorno_2	14-21	124_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	21-22	124_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Estenosis	estenosis	NCFN000	C0345011_1	trastorno_1	0-9	124_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	aórtica	aórtico	AQ0FS0	C0345011_2	trastorno_2	10-17	124_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	17-18	124_ANS_clinical_caseMIR	SENT5	-	-
+

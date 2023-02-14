@@ -1,0 +1,28 @@
+1	¿	¿	Fia	-	-	0-1	319_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	1-5	319_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	6-8	319_QUEST_clinical_caseMIR	SENT1	-	-
+4	los	el	DA0MP0	-	-	9-12	319_QUEST_clinical_caseMIR	SENT1	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	13-23	319_QUEST_clinical_caseMIR	SENT1	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	24-32	319_QUEST_clinical_caseMIR	SENT1	-	-
+7	indicaría	indicar	VMIC3S0	-	-	33-42	319_QUEST_clinical_caseMIR	SENT1	-	-
+8	como	como	CS	C0332257	calificador	43-47	319_QUEST_clinical_caseMIR	SENT1	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	48-59	319_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	60-62	319_QUEST_clinical_caseMIR	SENT1	-	-
+11	primera	primero	NCFS000	C1279901#C0205435	calificador	63-70	319_QUEST_clinical_caseMIR	SENT1	-	-
+12	línea	líneo	AQ0FS0	-	-	71-76	319_QUEST_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	77-79	319_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	80-82	319_QUEST_clinical_caseMIR	SENT1	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	83-91	319_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	92-94	319_QUEST_clinical_caseMIR	SENT1	-	-
+17	53	53		-	-	95-97	319_QUEST_clinical_caseMIR	SENT1	-	-
+18	años	año	NCMP000	C0439234	calificador	98-102	319_QUEST_clinical_caseMIR	SENT1	-	-
+19	diagnosticado	diagnosticar	VMP00SM	-	-	103-116	319_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	117-119	319_QUEST_clinical_caseMIR	SENT1	-	-
+21	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	120-126	319_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	renal	renal	AQ0CS0	-	-	127-132	319_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	de	de	SPS00	C0332285	atributo	133-135	319_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	136-143	319_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+25	claras	claro	AQ0FP0	C2963144#C1306462#C0522503	calificador	144-150	319_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+26	metastásico	metastásico	AQ0MS0	-	-	151-162	319_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+27	?	?	Fit	-	-	162-163	319_QUEST_clinical_caseMIR	SENT1	-	-
+

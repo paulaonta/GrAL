@@ -1,0 +1,24 @@
+1	Ecografia	ecografia	NCFS000	-	-	0-9	274_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	10-12	274_ANS_clinical_caseMIR	SENT1	-	-
+3	troncos	tronco	NCMP000	C1280632#C0460005	estructura_corporal	13-20	274_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	supraaórticos	supraaórtico	AQ0MP0	-	-	21-34	274_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	34-35	274_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	0-10	274_ANS_clinical_caseMIR	SENT2	-	-
+2	magnética	magnético	AQ0FS0	-	-	11-20	274_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	21-23	274_ANS_clinical_caseMIR	SENT2	-	-
+4	cráneo	cráneo	NCMS000	C0037303#C1279062	estructura_corporal	24-30	274_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	30-31	274_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Electroencefalograma	electroencefalograma	NCMS000	C0013819	procedimiento	0-20	274_ANS_clinical_caseMIR	SENT3	-	-
+2	.	.	Fp	-	-	20-21	274_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	0-7	274_ANS_clinical_caseMIR	SENT4	-	-
+2	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	8-14	274_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	14-15	274_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Potenciales	potenciar	VMM02S0	C0015214#C0561862_1	entidad_observable_1	0-11	274_ANS_clinical_caseMIR	SENT5	-	-
+2	evocados	evocar	VMP00PM	C0015214#C0561862_2	entidad_observable_2	12-20	274_ANS_clinical_caseMIR	SENT5	-	-
+3	visuales	visual	AQ0CP0	C0234621	calificador	21-29	274_ANS_clinical_caseMIR	SENT5	-	-
+4	.	.	Fp	-	-	29-30	274_ANS_clinical_caseMIR	SENT5	-	-
+

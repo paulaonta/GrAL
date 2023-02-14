@@ -1,0 +1,25 @@
+1	Miastenia	miastenia	NCFS000	C0026896_1	trastorno_1	0-9	300_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	gravis	gravis		C0026896_2	trastorno_2	10-16	300_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	16-17	300_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Primer	1	AO0MS0	-	-	0-6	300_ANS_clinical_caseMIR	SENT2	-	-
+2	brote	brote	NCMS000	-	-	7-12	300_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	300_ANS_clinical_caseMIR	SENT2	-	-
+4	esclerosis	esclerosis	NCFN000	C0026769_1	trastorno_1	16-26	300_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	múltiple	múltiple	NC00SC0	C0026769_2	trastorno_2	27-35	300_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+6	.	.	Fp	-	-	35-36	300_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Polirradiculopatía	polirradiculopatía	NC00SC0	C0032586	trastorno	0-18	300_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	desmielinizante	desmielinizante	AQ0CS00	-	-	19-34	300_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	inflamatoria	inflamatorio	AQ0FS0	C0333348	calificador	35-47	300_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	aguda	agudo	AQ0FS0	C0205178	calificador	48-53	300_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+5	.	.	Fp	-	-	53-54	300_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Dermatomiositis	dermatomiositis	NC00SC0	C0011633#C0221056	trastorno	0-15	300_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	15-16	300_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Esclerosis	esclerosis	NCFN000	C0002736_1	trastorno_1	0-10	300_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	lateral	lateral	NCMS000	C0002736_2	trastorno_2	11-18	300_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+3	amiotrófica	amiotrófica		C0002736_3	trastorno_3	19-30	300_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+4	.	.	Fp	-	-	30-31	300_ANS_clinical_caseMIR	SENT5	-	-
+

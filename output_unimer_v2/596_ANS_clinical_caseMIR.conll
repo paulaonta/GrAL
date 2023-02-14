@@ -1,0 +1,40 @@
+1	El	el	DA0MS0	-	-	0-2	596_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	596_ANS_clinical_caseMIR	SENT1	-	-
+3	tiene	tener	VMIP3S0	-	-	12-17	596_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	18-21	596_ANS_clinical_caseMIR	SENT1	-	-
+5	alcalosis	alcalosis	NCFN000	C0220983_1	trastorno_1	22-31	596_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	metabólica	metabólico	AQ0FS0	C0220983_2	trastorno_2	32-42	596_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	.	.	Fp	-	-	42-43	596_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Los	el	DA0MP0	-	-	0-3	596_ANS_clinical_caseMIR	SENT2	-	-
+2	valores	valor	NCMP000	C0475208	calificador	4-11	596_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	596_ANS_clinical_caseMIR	SENT2	-	-
+4	pCO2	pCO2		-	-	15-19	596_ANS_clinical_caseMIR	SENT2	-	-
+5	reflejan	reflejar	VMIP3P0	-	-	20-28	596_ANS_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	29-32	596_ANS_clinical_caseMIR	SENT2	-	-
+7	acidosis	acidosis	NCFN000	C0001127_1	trastorno_1	33-41	596_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	respiratoria	respiratorio	AQ0FS0	C0001127_2	trastorno_2	42-54	596_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	compensadora	compensador	AQ0FS0	-	-	55-67	596_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+10	.	.	Fp	-	-	67-68	596_ANS_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	0-2	596_ANS_clinical_caseMIR	SENT3	-	-
+2	anión	anión	NCMS000	C0003074_1	entidad_observable_1	3-8	596_ANS_clinical_caseMIR	SENT3	-	-
+3	gap	gap	NCMS000	C0003074_2	entidad_observable_2	9-12	596_ANS_clinical_caseMIR	SENT3	-	-
+4	es	ser	VSIP3S0	-	-	13-15	596_ANS_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	16-18	596_ANS_clinical_caseMIR	SENT3	-	-
+6	17	17		-	-	19-21	596_ANS_clinical_caseMIR	SENT3	-	-
+7	mmol	milimol	NC00YL0	C0439190	calificador	22-26	596_ANS_clinical_caseMIR	SENT3	-	-
+8	/	/	Fh	-	-	26-27	596_ANS_clinical_caseMIR	SENT3	-	-
+9	L.	l.	NCFS000	-	-	27-29	596_ANS_clinical_caseMIR	SENT3	-	-
+10	La	el	DA0FS0	-	-	0-2	596_ANS_clinical_caseMIR	SENT3	-	-
+11	hipocloremia	hipocloremia	NC00SC0	C0085680	trastorno	3-15	596_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	e	y	CC	C1706368	calificador	16-17	596_ANS_clinical_caseMIR	SENT3	-	-
+13	hipokalemia	hipokalemia	NC00SC0	C0020621#C1971021#C0032827	trastorno	18-29	596_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	se	se	P00CN000	-	-	30-32	596_ANS_clinical_caseMIR	SENT3	-	-
+15	debe	deber	VMIP3S0	-	-	33-37	596_ANS_clinical_caseMIR	SENT3	-	-
+16	a	a	SPS00	-	-	38-39	596_ANS_clinical_caseMIR	SENT3	-	-
+17	las	el	DA0FP0	-	-	40-43	596_ANS_clinical_caseMIR	SENT3	-	-
+18	pérdidas	pérdida	NCFP000	-	-	44-52	596_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+19	gastrointestinales	gastrointestinal	AQ0CP0	-	-	53-71	596_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	.	.	Fp	-	-	71-72	596_ANS_clinical_caseMIR	SENT3	-	-
+

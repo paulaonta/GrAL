@@ -1,0 +1,66 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	137_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	137_QUEST_clinical_caseMIR	SENT1	-	-
+3	48	48		-	-	9-11	137_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	137_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	137_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	137_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	24-25	137_QUEST_clinical_caseMIR	SENT1	-	-
+8	conserje	conserje	NCCS000	C0402671	ocupación	26-34	137_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	35-37	137_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	38-40	137_QUEST_clinical_caseMIR	SENT1	-	-
+11	hotel	hotel	NCMS000	C0442514	medio_ambiente	41-46	137_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	46-47	137_QUEST_clinical_caseMIR	SENT1	-	-
+13	consulta	consultar	VMM02S0	C1704447_1	calificador_1	48-56	137_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C1704447_2	calificador_2	57-60	137_QUEST_clinical_caseMIR	SENT1	-	-
+15	cefalalgias	cefalalgia	NCFP000	C0018681	hallazgo	61-72	137_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	resistentes	resistente	AQ0CP0	C0332325	calificador	73-84	137_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	al	al	SP+DA	-	-	85-87	137_QUEST_clinical_caseMIR	SENT1	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	88-99	137_QUEST_clinical_caseMIR	SENT1	-	-
+19	analgésico	analgésico	AQ0MS0	C0002771	sustancia	100-110	137_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	habitual	habitual	AQ0CS0	C0205353	calificador	111-119	137_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	119-120	137_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	121-123	137_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	124-126	137_QUEST_clinical_caseMIR	SENT2	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	127-136	137_QUEST_clinical_caseMIR	SENT2	-	-
+4	se	se	P00CN000	-	-	137-139	137_QUEST_clinical_caseMIR	SENT2	-	-
+5	recoge	recoger	VMIP3S0	-	-	140-146	137_QUEST_clinical_caseMIR	SENT2	-	-
+6	que	que	CS	-	-	147-150	137_QUEST_clinical_caseMIR	SENT2	-	-
+7	desde	desde	SPS00	-	-	151-156	137_QUEST_clinical_caseMIR	SENT2	-	-
+8	hace	hacer	VMIP3S0	-	-	157-161	137_QUEST_clinical_caseMIR	SENT2	-	-
+9	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	162-168	137_QUEST_clinical_caseMIR	SENT2	-	-
+10	años	año	NCMP000	C0439234	calificador	169-173	137_QUEST_clinical_caseMIR	SENT2	-	-
+11	tiene	tener	VMIP3S0	-	-	174-179	137_QUEST_clinical_caseMIR	SENT2	-	-
+12	que	que	CS	-	-	180-183	137_QUEST_clinical_caseMIR	SENT2	-	-
+13	cambiar	cambiar	VMN0000	-	-	184-191	137_QUEST_clinical_caseMIR	SENT2	-	-
+14	su	su	DP3CS0	-	-	192-194	137_QUEST_clinical_caseMIR	SENT2	-	-
+15	gorra	gorra	NCFS000	C0179586	objeto_físico	195-200	137_QUEST_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332285	atributo	201-203	137_QUEST_clinical_caseMIR	SENT2	-	-
+17	trabajo	trabajo	NCMS000	C0028811	ocupación	204-211	137_QUEST_clinical_caseMIR	SENT2	-	-
+18	porque	porque	CS	-	-	212-218	137_QUEST_clinical_caseMIR	SENT2	-	-
+19	precisa	precisar	VMIP3S0	-	-	219-226	137_QUEST_clinical_caseMIR	SENT2	-	-
+20	cada	cada	DI0CS0	C1457900	calificador	227-231	137_QUEST_clinical_caseMIR	SENT2	-	-
+21	vez	vez	NCFS000	-	-	232-235	137_QUEST_clinical_caseMIR	SENT2	-	-
+22	tallas	talla	NCFP000	-	-	236-242	137_QUEST_clinical_caseMIR	SENT2	-	-
+23	mayores	mayor	AQ0CP0	C0205164#C1704243#C0549177	calificador	243-250	137_QUEST_clinical_caseMIR	SENT2	-	-
+24	.	.	Fp	-	-	250-251	137_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	252-254	137_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	255-257	137_QUEST_clinical_caseMIR	SENT3	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	258-265	137_QUEST_clinical_caseMIR	SENT3	-	-
+4	analítico	analítico	AQ0MS0	-	-	266-275	137_QUEST_clinical_caseMIR	SENT3	-	-
+5	tiene	tener	VMIP3S0	-	-	276-281	137_QUEST_clinical_caseMIR	SENT3	-	-
+6	una	una		C0205447_1	calificador_1	282-285	137_QUEST_clinical_caseMIR	SENT3	-	-
+7	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	286-295	137_QUEST_clinical_caseMIR	SENT3	-	-
+8	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	296-304	137_QUEST_clinical_caseMIR	SENT3	-	-
+9	con	con	SPS00	C0332287	atributo	305-308	137_QUEST_clinical_caseMIR	SENT3	-	-
+10	niveles	nivel	NCMP000	C0456079	atributo	309-316	137_QUEST_clinical_caseMIR	SENT3	-	-
+11	séricos	sérico	AQ0MP0	-	-	317-324	137_QUEST_clinical_caseMIR	SENT3	-	-
+12	cuatro	cuatro		-	-	325-331	137_QUEST_clinical_caseMIR	SENT3	-	-
+13	veces	vez	NCFP000	-	-	332-337	137_QUEST_clinical_caseMIR	SENT3	-	-
+14	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	338-343	137_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	344-346	137_QUEST_clinical_caseMIR	SENT3	-	-
+16	lo	el	DA0NS0	-	-	347-349	137_QUEST_clinical_caseMIR	SENT3	-	-
+17	normal	normal	AQ0CS0	C0205307	calificador	350-356	137_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	356-357	137_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,101 @@
+1	Señale	señalar	VMM03S0	-	-	328-334	591_QUEST_clinical_caseMIR	SENT1	-	-
+2	lo	lo	PP3CNA00	-	-	334-336	591_QUEST_clinical_caseMIR	SENT1	-	-
+3	:	:	Fd	-	-	336-337	591_QUEST_clinical_caseMIR	SENT1	-	-
+4	Un	Un		C0205447_1	calificador_1	0-2	591_QUEST_clinical_caseMIR	SENT1	-	-
+5	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	591_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	10-12	591_QUEST_clinical_caseMIR	SENT1	-	-
+7	45	45		-	-	13-15	591_QUEST_clinical_caseMIR	SENT1	-	-
+8	años	año	NCMP000	C0439234	calificador	16-20	591_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	591_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	30-33	591_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	34-36	591_QUEST_clinical_caseMIR	SENT1	-	-
+12	exantema	exantema	NCMS000	C0015230	anomalía_morfológica#trastorno	37-45	591_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	máculo-papular	máculo-papular	AQ0CS00	-	-	46-60	591_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	eritematoso	eritematoso	AQ0MS00	-	-	61-72	591_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	,	,	Fc	-	-	72-73	591_QUEST_clinical_caseMIR	SENT1	-	-
+16	no	no	RN	C1298908	calificador	74-76	591_QUEST_clinical_caseMIR	SENT1	-	-
+17	pruriginoso	pruriginoso	AQ0MS0	C0439707	calificador	77-88	591_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	,	,	Fc	-	-	88-89	591_QUEST_clinical_caseMIR	SENT1	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	90-92	591_QUEST_clinical_caseMIR	SENT1	-	-
+20	tronco	tronco	NCMS000	C1280632#C0460005	estructura_corporal	93-99	591_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	y	y	CC	C1706368	calificador	100-101	591_QUEST_clinical_caseMIR	SENT1	-	-
+22	raíz	raíz	NCFS000	-	-	102-106	591_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	de	de	SPS00	C0332285	atributo	107-109	591_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	110-122	591_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	,	,	Fc	-	-	122-123	591_QUEST_clinical_caseMIR	SENT1	-	-
+26	así	así	RG	-	-	124-127	591_QUEST_clinical_caseMIR	SENT1	-	-
+27	como	como	SPS00	C0332257	calificador	128-132	591_QUEST_clinical_caseMIR	SENT1	-	-
+28	alteraciones	alteración	NCFP000	-	-	133-145	591_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	visuales	visual	AQ0CP0	C0234621	calificador	146-154	591_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+30	del	del	SP+DA	-	-	155-158	591_QUEST_clinical_caseMIR	SENT1	-	-
+31	ojo	ojo	NCMS000	C1305218#C0229090_1	estructura_corporal_1	159-162	591_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	163-172	591_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+33	con	con	SPS00	C0332287	atributo	173-176	591_QUEST_clinical_caseMIR	SENT1	-	-
+34	una	una		C0205447_1	calificador_1	177-180	591_QUEST_clinical_caseMIR	SENT1	-	-
+35	exploración	exploración	NCFS000	C1280903	procedimiento	181-192	591_QUEST_clinical_caseMIR	SENT1	-	-
+36	oftalmológica	oftalmológico	AQ0FS0	C0205481	calificador	193-206	591_QUEST_clinical_caseMIR	SENT1	-	-
+37	con	con	SPS00	C0332287	atributo	207-210	591_QUEST_clinical_caseMIR	SENT1	-	-
+38	lámpara	lámpara	NCFS000	C0392223	objeto_físico	211-218	591_QUEST_clinical_caseMIR	SENT1	-	-
+39	de	de	SPS00	C0332285	atributo	219-221	591_QUEST_clinical_caseMIR	SENT1	-	-
+40	hendidura	hendidura	NCFS000	C0332469	anomalía_morfológica	222-231	591_QUEST_clinical_caseMIR	SENT1	-	-
+41	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	232-242	591_QUEST_clinical_caseMIR	SENT1	-	-
+42	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	243-246	591_QUEST_clinical_caseMIR	SENT1	-	-
+43	uveítis	uveítis	NCMN000	C0022073#C0042165_1	trastorno_1	247-254	591_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+44	anterior	anterior	NC00SC0	C0022073#C0042165_2	trastorno_2	255-263	591_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+45	.	.	Fp	-	-	263-264	591_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Seis	Seis		-	-	265-269	591_QUEST_clinical_caseMIR	SENT2	-	-
+2	semanas	semana	NCFP000	C0439230	calificador	270-277	591_QUEST_clinical_caseMIR	SENT2	-	-
+3	antes	antes	RG	C0332152	atributo	278-283	591_QUEST_clinical_caseMIR	SENT2	-	-
+4	había	haber	VAII3S0	-	-	284-289	591_QUEST_clinical_caseMIR	SENT2	-	-
+5	presentado	presentar	VMP00SM	-	-	290-300	591_QUEST_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	301-304	591_QUEST_clinical_caseMIR	SENT2	-	-
+7	úlcera	úlcera	NCFS000	C0268948_1	trastorno_1	305-311	591_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	escrotal	escrotal	NC00SC0	C0268948_2	trastorno_2	312-320	591_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	no	no	RN	C1298908	calificador	321-323	591_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	dolorosa	doloroso	AQ0FS0	-	-	324-332	591_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+11	,	,	Fc	-	-	332-333	591_QUEST_clinical_caseMIR	SENT2	-	-
+12	que	que	PR0CN000	-	-	334-337	591_QUEST_clinical_caseMIR	SENT2	-	-
+13	curó	curar	VMIS3S0	-	-	338-342	591_QUEST_clinical_caseMIR	SENT2	-	-
+14	espontáneamente	espontáneamente	RG	-	-	343-358	591_QUEST_clinical_caseMIR	SENT2	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	359-361	591_QUEST_clinical_caseMIR	SENT2	-	-
+16	el	el	DA0MS0	-	-	362-364	591_QUEST_clinical_caseMIR	SENT2	-	-
+17	curso	curso	NCMS000	C0750729	atributo#calificador	365-370	591_QUEST_clinical_caseMIR	SENT2	-	-
+18	de	de	SPS00	C0332285	atributo	371-373	591_QUEST_clinical_caseMIR	SENT2	-	-
+19	3	3		-	-	374-375	591_QUEST_clinical_caseMIR	SENT2	-	-
+20	semanas	semana	NCFP000	C0439230	calificador	376-383	591_QUEST_clinical_caseMIR	SENT2	-	-
+21	.	.	Fp	-	-	383-384	591_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Un	Un		C0205447_1	calificador_1	385-387	591_QUEST_clinical_caseMIR	SENT3	-	-
+2	título	título	NCMS000	C0475208	calificador	388-394	591_QUEST_clinical_caseMIR	SENT3	-	-
+3	elevado	elevar	VMP00SM	-	-	395-402	591_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	403-405	591_QUEST_clinical_caseMIR	SENT3	-	-
+5	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	406-417	591_QUEST_clinical_caseMIR	SENT3	-	-
+6	treponémicos	treponémicos	AQ0MP00	-	-	418-430	591_QUEST_clinical_caseMIR	SENT3	-	-
+7	y	y	CC	C1706368	calificador	431-432	591_QUEST_clinical_caseMIR	SENT3	-	-
+8	reaganínicos	reaganínicos	AQ0MP00	-	-	433-445	591_QUEST_clinical_caseMIR	SENT3	-	-
+9	confirma	confirmar	VMIP3S0	-	-	446-454	591_QUEST_clinical_caseMIR	SENT3	-	-
+10	el	el	DA0MS0	-	-	455-457	591_QUEST_clinical_caseMIR	SENT3	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	458-469	591_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	470-472	591_QUEST_clinical_caseMIR	SENT3	-	-
+13	sífilis	sífilis	NCFN000	C0039128	trastorno	473-480	591_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	.	.	Fp	-	-	480-481	591_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	482-484	591_QUEST_clinical_caseMIR	SENT4	-	-
+2	serología	serología	NCFS000	-	-	485-494	591_QUEST_clinical_caseMIR	SENT4	-	-
+3	para	para	SPS00	C0521125	calificador	495-499	591_QUEST_clinical_caseMIR	SENT4	-	-
+4	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	500-503	591_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+5	es	ser	VSIP3S0	-	-	504-506	591_QUEST_clinical_caseMIR	SENT4	-	-
+6	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	507-515	591_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	515-516	591_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	517-518	591_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	518-522	591_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	523-525	591_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	526-528	591_QUEST_clinical_caseMIR	SENT5	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	529-536	591_QUEST_clinical_caseMIR	SENT5	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	537-548	591_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205172	calificador	549-552	591_QUEST_clinical_caseMIR	SENT5	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	553-561	591_QUEST_clinical_caseMIR	SENT5	-	-
+9	?	?	Fit	-	-	561-562	591_QUEST_clinical_caseMIR	SENT5	-	-
+

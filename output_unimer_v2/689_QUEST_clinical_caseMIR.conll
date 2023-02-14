@@ -1,0 +1,44 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	689_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	689_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	689_QUEST_clinical_caseMIR	SENT1	-	-
+4	70	70		-	-	13-15	689_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	689_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	21-29	689_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1719974_2	procedimiento_2	30-33	689_QUEST_clinical_caseMIR	SENT1	-	-
+8	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	34-39	689_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	lumbar	lumbar	AQ0CS0	C0024090	calificador	40-46	689_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	no	no	RN	C1298908	calificador	47-49	689_QUEST_clinical_caseMIR	SENT1	-	-
+11	irradiado	irradiar	VMP00SM	-	-	50-59	689_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	60-62	689_QUEST_clinical_caseMIR	SENT1	-	-
+13	1	1		-	-	63-64	689_QUEST_clinical_caseMIR	SENT1	-	-
+14	semana	semana	NCFS000	C0439230	calificador	65-71	689_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	72-74	689_QUEST_clinical_caseMIR	SENT1	-	-
+16	duración	duración	NCFS000	C0449238	atributo	75-83	689_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	83-84	689_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	85-87	689_QUEST_clinical_caseMIR	SENT1	-	-
+19	intensidad	intensidad	NCFS000	-	-	88-98	689_QUEST_clinical_caseMIR	SENT1	-	-
+20	progresiva	progresivo	AQ0FS0	C0205329	calificador	99-109	689_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	109-110	689_QUEST_clinical_caseMIR	SENT1	-	-
+22	acompañado	acompañar	VMP00SM	-	-	111-121	689_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	122-124	689_QUEST_clinical_caseMIR	SENT1	-	-
+24	marcada	marcar	VMP00SF	-	-	125-132	689_QUEST_clinical_caseMIR	SENT1	-	-
+25	limitación	limitación	NCFS000	C0449295	atributo	133-143	689_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	144-146	689_QUEST_clinical_caseMIR	SENT1	-	-
+27	la	el	DA0FS0	-	-	147-149	689_QUEST_clinical_caseMIR	SENT1	-	-
+28	movilidad	movilidad	NCFS000	C0425245#C0449580	entidad_observable#atributo	150-159	689_QUEST_clinical_caseMIR	SENT1	-	-
+29	del	del	SP+DA	-	-	160-163	689_QUEST_clinical_caseMIR	SENT1	-	-
+30	raquis	raquis	NCMN000	C1267072	estructura_corporal	164-170	689_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	y	y	CC	C1706368	calificador	171-172	689_QUEST_clinical_caseMIR	SENT1	-	-
+32	febrícula	febrícula	NCFS000	-	-	173-182	689_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+33	.	.	Fp	-	-	182-183	689_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	184-186	689_QUEST_clinical_caseMIR	SENT2	-	-
+2	radiografía	radiografía	NCFS000	C1306645	procedimiento	187-198	689_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	199-201	689_QUEST_clinical_caseMIR	SENT2	-	-
+4	columna	columna	NCFS000	C0024091#C1269871_1	estructura_corporal_1	202-209	689_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	lumbar	lumbar	NC00SC0	C0024091#C1269871_2	estructura_corporal_2	210-216	689_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+6	no	no	RN	C1298908	calificador	217-219	689_QUEST_clinical_caseMIR	SENT2	-	-
+7	muestra	mostrar	VMIP3S0	-	-	220-227	689_QUEST_clinical_caseMIR	SENT2	-	-
+8	alteraciones	alteración	NCFP000	-	-	228-240	689_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	240-241	689_QUEST_clinical_caseMIR	SENT2	-	-
+

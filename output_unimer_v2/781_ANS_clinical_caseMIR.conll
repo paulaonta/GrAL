@@ -1,0 +1,22 @@
+1	Amiloidosis	amiloidosis	NCFN000	C0002726	trastorno	0-11	781_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	11-12	781_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	781_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	IgA	iga	NCFS000	-	-	11-14	781_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	o	o	CC	-	-	15-16	781_ANS_clinical_caseMIR	SENT2	-	-
+4	enfermedad	enfermedad	NCFS000	C3161650_1	trastorno_1	17-27	781_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	de	de	SPS00	C3161650_2	trastorno_2	28-30	781_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+6	Berger	Berger		C3161650_3	trastorno_3	31-37	781_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+7	.	.	Fp	-	-	37-38	781_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Síndrome	síndrome	NCMS000	C1567741#C1305904#C0027706_1	trastorno_1	0-8	781_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	de	de	SPS00	C1567741#C1305904#C0027706_2	trastorno_2	9-11	781_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	Alport	Alport		C1567741#C1305904#C0027706_3	trastorno_3	12-18	781_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	18-19	781_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	781_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	con	con	SPS00	C0332287	atributo	11-14	781_ANS_clinical_caseMIR	SENT4	-	-
+3	cambios	cambio	NCMP000	C0443172	calificador	15-22	781_ANS_clinical_caseMIR	SENT4	-	-
+4	mínimos	mínimo	AQ0MP0	C0547040#C1282907	calificador	23-30	781_ANS_clinical_caseMIR	SENT4	-	-
+5	.	.	Fp	-	-	30-31	781_ANS_clinical_caseMIR	SENT4	-	-
+

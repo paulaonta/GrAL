@@ -1,0 +1,89 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	402_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	402_QUEST_clinical_caseMIR	SENT1	-	-
+3	obesa	obeso	AQ0FS0	C0028754	hallazgo	13-18	402_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	,	,	Fc	-	-	18-19	402_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	20-22	402_QUEST_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	23-34	402_QUEST_clinical_caseMIR	SENT1	-	-
+7	antiagregante	antiagregante	AQ0CS00	-	-	35-48	402_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	con	con	SPS00	C0332287	atributo	49-52	402_QUEST_clinical_caseMIR	SENT1	-	-
+9	ácido	ácido	NCMS000	C0004057_1	sustancia_1	53-58	402_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	acetilsalicílico	acetilsalicílico	AQ0MS0	C0004057_2	sustancia_2	59-75	402_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+11	por	por	SPS00	C0678226	atributo	76-79	402_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	80-82	402_QUEST_clinical_caseMIR	SENT1	-	-
+13	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	83-91	402_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332189#C1455761_2	atributo_2	92-94	402_QUEST_clinical_caseMIR	SENT1	-	-
+15	ACV	acv	NC00SC0	C0038454#C1540600	trastorno	95-98	402_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	previo	previo	AQ0MS0	C0205156	calificador	99-105	402_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	105-106	402_QUEST_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	107-110	402_QUEST_clinical_caseMIR	SENT1	-	-
+19	HTA	hta	NC00YL0	-	-	111-114	402_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	mal	mal	RG	C0205169	calificador	115-118	402_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	controlada	controlar	VMP00SF	-	-	119-129	402_QUEST_clinical_caseMIR	SENT1	-	-
+22	presenta	presentar	VMIP3S0	-	-	130-138	402_QUEST_clinical_caseMIR	SENT1	-	-
+23	creatinina	creatinina	NC00SC0	C0010294	sustancia	139-149	402_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	150-152	402_QUEST_clinical_caseMIR	SENT1	-	-
+25	6	6	Z	-	-	153-154	402_QUEST_clinical_caseMIR	SENT1	-	-
+26	mg	mg	NCMN000	-	-	155-157	402_QUEST_clinical_caseMIR	SENT1	-	-
+27	/	/	Fh	-	-	157-158	402_QUEST_clinical_caseMIR	SENT1	-	-
+28	dL	decilitro	NCMN000	C0439241	calificador	158-160	402_QUEST_clinical_caseMIR	SENT1	-	-
+29	y	y	CC	C1706368	calificador	161-162	402_QUEST_clinical_caseMIR	SENT1	-	-
+30	potasio	potasio	NCMS000	C0032821	sustancia#producto	163-170	402_QUEST_clinical_caseMIR	SENT1	-	-
+31	de	de	SPS00	C0332285	atributo	171-173	402_QUEST_clinical_caseMIR	SENT1	-	-
+32	5,8	5,8		-	-	174-177	402_QUEST_clinical_caseMIR	SENT1	-	-
+33	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	178-181	402_QUEST_clinical_caseMIR	SENT1	-	-
+34	/	/	Fh	-	-	181-182	402_QUEST_clinical_caseMIR	SENT1	-	-
+35	L.	l.	NCFS000	-	-	182-184	402_QUEST_clinical_caseMIR	SENT1	-	-
+36	Su	su	DP3CS0	-	-	185-187	402_QUEST_clinical_caseMIR	SENT1	-	-
+37	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	188-194	402_QUEST_clinical_caseMIR	SENT1	-	-
+38	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	195-197	402_QUEST_clinical_caseMIR	SENT1	-	-
+39	indica	indicar	VMIP3S0	-	-	198-204	402_QUEST_clinical_caseMIR	SENT1	-	-
+40	una	una		C0205447_1	calificador_1	205-208	402_QUEST_clinical_caseMIR	SENT1	-	-
+41	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	209-218	402_QUEST_clinical_caseMIR	SENT1	-	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	219-221	402_QUEST_clinical_caseMIR	SENT1	-	-
+43	la	el	DA0FS0	-	-	222-224	402_QUEST_clinical_caseMIR	SENT1	-	-
+44	que	que	PR0CN000	-	-	225-228	402_QUEST_clinical_caseMIR	SENT1	-	-
+45	se	se	P00CN000	-	-	229-231	402_QUEST_clinical_caseMIR	SENT1	-	-
+46	aprecian	apreciar	VMIP3P0	-	-	232-240	402_QUEST_clinical_caseMIR	SENT1	-	-
+47	riñones	riñón	NCMP000	C0022646#C1278978	estructura_corporal	241-248	402_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+48	de	de	SPS00	C0332285	atributo	249-251	402_QUEST_clinical_caseMIR	SENT1	-	-
+49	pequeño	pequeño	AQ0MS0	C0700321#C1282918	calificador	252-259	402_QUEST_clinical_caseMIR	SENT1	-	-
+50	tamaño	tamaño	NCMS000	C3714679#C0456389	calificador#atributo	260-266	402_QUEST_clinical_caseMIR	SENT1	-	-
+51	y	y	CC	C1706368	calificador	267-268	402_QUEST_clinical_caseMIR	SENT1	-	-
+52	mala	malo	AQ0FS0	C0205169	calificador	269-273	402_QUEST_clinical_caseMIR	SENT1	-	-
+53	diferenciación	diferenciación	NCFS000	-	-	274-288	402_QUEST_clinical_caseMIR	SENT1	-	-
+54	cortico-medular	cortico-medular	AQ0CS00	-	-	289-304	402_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+55	.	.	Fp	-	-	304-305	402_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	306-308	402_QUEST_clinical_caseMIR	SENT2	-	-
+2	nefrólogo	nefrólogo	NCMS000	C0260039	ocupación	309-318	402_QUEST_clinical_caseMIR	SENT2	-	-
+3	decide	decidir	VMIP3S0	-	-	319-325	402_QUEST_clinical_caseMIR	SENT2	-	-
+4	remitir	remitir	VMN0000	C0439600	calificador	326-333	402_QUEST_clinical_caseMIR	SENT2	-	-
+5	a	a	SPS00	-	-	334-335	402_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	336-338	402_QUEST_clinical_caseMIR	SENT2	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	339-347	402_QUEST_clinical_caseMIR	SENT2	-	-
+8	a	a	SPS00	-	-	348-349	402_QUEST_clinical_caseMIR	SENT2	-	-
+9	la	el	DA0FS0	-	-	350-352	402_QUEST_clinical_caseMIR	SENT2	-	-
+10	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	353-361	402_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	362-364	402_QUEST_clinical_caseMIR	SENT2	-	-
+12	prediálisis	prediálisis	NC00SC0	C1264634	calificador	365-376	402_QUEST_clinical_caseMIR	SENT2	-	-
+13	sin	sin	SPS00	C0332288	atributo	377-380	402_QUEST_clinical_caseMIR	SENT2	-	-
+14	realizar	realizar	VMN0000	-	-	381-389	402_QUEST_clinical_caseMIR	SENT2	-	-
+15	una	una		C0205447_1	calificador_1	390-393	402_QUEST_clinical_caseMIR	SENT2	-	-
+16	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	394-401	402_QUEST_clinical_caseMIR	SENT2	-	-
+17	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	402-407	402_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	407-408	402_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	409-414	402_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	415-418	402_QUEST_clinical_caseMIR	SENT3	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	419-429	402_QUEST_clinical_caseMIR	SENT3	-	-
+4	son	ser	VSIP3P0	-	-	430-433	402_QUEST_clinical_caseMIR	SENT3	-	-
+5	argumentos	argumento	NCMP000	-	-	434-444	402_QUEST_clinical_caseMIR	SENT3	-	-
+6	para	para	SPS00	C0521125	calificador	445-449	402_QUEST_clinical_caseMIR	SENT3	-	-
+7	rechazar	rechazar	VMN0000	-	-	450-458	402_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	el	DA0FS0	-	-	459-461	402_QUEST_clinical_caseMIR	SENT3	-	-
+9	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	462-469	402_QUEST_clinical_caseMIR	SENT3	-	-
+10	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	470-475	402_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	EXCEPTO	excepto	SPS00	-	-	476-483	402_QUEST_clinical_caseMIR	SENT3	-	-
+12	uno	uno		C0205447_1	calificador_1	484-487	402_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	487-488	402_QUEST_clinical_caseMIR	SENT3	-	-
+

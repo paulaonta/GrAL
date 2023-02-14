@@ -1,0 +1,23 @@
+1	Beta-bloqueantcs	beta-bloqueantcs	NCMP000	-	-	0-16	284_ANS_clinical_caseMIR	SENT1	-	-
+2	.	.	Fp	-	-	16-17	284_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Digoxina	digoxina	NC00SC0	C0012265	sustancia	0-8	284_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	8-9	284_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Calcio-antagonistas	calcio-antagonistas	NCCP000	-	-	0-19	284_ANS_clinical_caseMIR	SENT3	-	-
+2	no	no	RN	C1298908	calificador	20-22	284_ANS_clinical_caseMIR	SENT3	-	-
+3	dihidropiridínicos	dihidropiridínicos	AQ0MP00	-	-	23-41	284_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	.	.	Fp	-	-	41-42	284_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Desfibrilador	desfibrilador	NC00SC0	C0180307	objeto_físico	0-13	284_ANS_clinical_caseMIR	SENT4	-	-
+2	automático	automático	AQ0MS0	C0205554	calificador	14-24	284_ANS_clinical_caseMIR	SENT4	-	-
+3	implantable	implantable	AQ0CS00	-	-	25-36	284_ANS_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	36-37	284_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Miomectomía	miomectomía	NCFS000	-	-	0-11	284_ANS_clinical_caseMIR	SENT5	-	-
+2	septal	septal	NC00SC0	C0442004	calificador	12-18	284_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	quirúrgica	quirúrgico	AQ0FS0	C0543467	calificador	19-29	284_ANS_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	30-32	284_ANS_clinical_caseMIR	SENT5	-	-
+5	Morrow	morrow	NCMS000	-	-	33-39	284_ANS_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	39-40	284_ANS_clinical_caseMIR	SENT5	-	-
+

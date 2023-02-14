@@ -1,0 +1,33 @@
+1	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	645_ANS_clinical_caseMIR	SENT1	-	-
+2	oxigeno	oxigenar	VMIP1S0	-	-	8-15	645_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	con	con	SPS00	C0332287	atributo	16-19	645_ANS_clinical_caseMIR	SENT1	-	-
+4	alto	alto	AQ0MS0	C0205250	calificador	20-24	645_ANS_clinical_caseMIR	SENT1	-	-
+5	flujo+	flujo+	NCMS000	-	-	25-31	645_ANS_clinical_caseMIR	SENT1	-	-
+6	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	32-43	645_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	IV.	iv.	VMIP3S0	-	-	44-47	645_ANS_clinical_caseMIR	SENT1	-	-
+8	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	645_ANS_clinical_caseMIR	SENT1	-	-
+9	oxigeno	oxigenar	VMIP1S0	-	-	8-15	645_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	con	con	SPS00	C0332287	atributo	16-19	645_ANS_clinical_caseMIR	SENT1	-	-
+11	alto	alto	AQ0MS0	C0205250	calificador	20-24	645_ANS_clinical_caseMIR	SENT1	-	-
+12	flujo	flujo	NCMS000	-	-	25-30	645_ANS_clinical_caseMIR	SENT1	-	-
+13	+	+	Fz	-	-	31-32	645_ANS_clinical_caseMIR	SENT1	-	-
+14	hidroxocobalamina	hidroxocobalamina	NC00SC0	C0020316#C0003663	sustancia#producto	33-50	645_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	.	.	Fp	-	-	50-51	645_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	645_ANS_clinical_caseMIR	SENT2	-	-
+2	oxigeno	oxigenar	VMIP1S0	-	-	8-15	645_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+3	con	con	SPS00	C0332287	atributo	16-19	645_ANS_clinical_caseMIR	SENT2	-	-
+4	alto	alto	AQ0MS0	C0205250	calificador	20-24	645_ANS_clinical_caseMIR	SENT2	-	-
+5	flujo+	flujo+	NCMS000	-	-	25-31	645_ANS_clinical_caseMIR	SENT2	-	-
+6	tiamina	tiamina	NCFS000	C0039840	sustancia	32-39	645_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	.	.	Fp	-	-	39-40	645_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	645_ANS_clinical_caseMIR	SENT3	-	-
+2	oxígeno	oxígeno	NCMS000	C0030054	sustancia	8-15	645_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+3	con	con	SPS00	C0332287	atributo	16-19	645_ANS_clinical_caseMIR	SENT3	-	-
+4	alto	alto	AQ0MS0	C0205250	calificador	20-24	645_ANS_clinical_caseMIR	SENT3	-	-
+5	flujo	flujo	NCMS000	-	-	25-30	645_ANS_clinical_caseMIR	SENT3	-	-
+6	+	+	Fz	-	-	31-32	645_ANS_clinical_caseMIR	SENT3	-	-
+7	naloxona	naloxona	NC00SC0	C0027358	producto#sustancia	33-41	645_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	.	.	Fp	-	-	41-42	645_ANS_clinical_caseMIR	SENT3	-	-
+

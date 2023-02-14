@@ -1,0 +1,106 @@
+1	Enfermedad	enfermedad	NCFS000	C0019202_1	trastorno_1	0-10	716_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0019202_2	trastorno_2	11-13	716_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	Wilson	Wilson		C0019202_3	trastorno_3	14-20	716_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	20-21	716_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	22-31	716_ANS_clinical_caseMIR	SENT2	-	-
+2	hemocultivos	hemocultivos	NCMP000	-	-	32-44	716_ANS_clinical_caseMIR	SENT2	-	-
+3	,	,	Fc	-	-	44-45	716_ANS_clinical_caseMIR	SENT2	-	-
+4	pautar	pautar	VMN0000	-	-	46-52	716_ANS_clinical_caseMIR	SENT2	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	53-64	716_ANS_clinical_caseMIR	SENT2	-	-
+6	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	65-76	716_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	empírico	empírico	AQ0MS0	-	-	77-85	716_ANS_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	86-87	716_ANS_clinical_caseMIR	SENT2	-	-
+9	dar	dolor_abdominal_recurrente	NC00YL0	-	-	88-91	716_ANS_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	92-94	716_ANS_clinical_caseMIR	SENT2	-	-
+11	alta	alto	AQ0FS0	C0205250	calificador	95-99	716_ANS_clinical_caseMIR	SENT2	-	-
+12	a	a	SPS00	-	-	100-101	716_ANS_clinical_caseMIR	SENT2	-	-
+13	domicilio	domicilio	NCMS000	C1442065	entidad_observable	102-111	716_ANS_clinical_caseMIR	SENT2	-	-
+14	tras	tras	SPS00	-	-	112-116	716_ANS_clinical_caseMIR	SENT2	-	-
+15	resolución	resolución	NCFS000	-	-	117-127	716_ANS_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332285	atributo	128-130	716_ANS_clinical_caseMIR	SENT2	-	-
+17	la	el	DA0FS0	-	-	131-133	716_ANS_clinical_caseMIR	SENT2	-	-
+18	fiebre	fiebre	NCFS000	C0015967	hallazgo	134-140	716_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	140-141	716_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Paraparesia	paraparesia	NC00SC0	C0037771_1	hallazgo_1	0-11	716_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	espástica	espástico	AQ0FS0	C0037771_2	hallazgo_2	12-21	716_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	tropical	tropical	AQ0CS0	-	-	22-30	716_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	.	.	Fp	-	-	30-31	716_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Administrar	administrar	VMN0000	C1621583	calificador	32-43	716_ANS_clinical_caseMIR	SENT4	-	-
+2	hidratación	hidratación	NCFS000	-	-	44-55	716_ANS_clinical_caseMIR	SENT4	-	-
+3	,	,	Fc	-	-	55-56	716_ANS_clinical_caseMIR	SENT4	-	-
+4	asegurar	asegurar	VMN0000	-	-	57-65	716_ANS_clinical_caseMIR	SENT4	-	-
+5	la	el	DA0FS0	-	-	66-68	716_ANS_clinical_caseMIR	SENT4	-	-
+6	ingesta	ingesta	NCFS000	-	-	69-76	716_ANS_clinical_caseMIR	SENT4	-	-
+7	oral	oral	AQ0CS0	C0442027	calificador	77-81	716_ANS_clinical_caseMIR	SENT4	-	-
+8	,	,	Fc	-	-	81-82	716_ANS_clinical_caseMIR	SENT4	-	-
+9	solicitar	solicitar	VMN0000	-	-	83-92	716_ANS_clinical_caseMIR	SENT4	-	-
+10	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	93-96	716_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	97-98	716_ANS_clinical_caseMIR	SENT4	-	-
+12	dar	dolor_abdominal_recurrente	NC00YL0	-	-	99-102	716_ANS_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C0332285	atributo	103-105	716_ANS_clinical_caseMIR	SENT4	-	-
+14	alta	alto	AQ0FS0	C0205250	calificador	106-110	716_ANS_clinical_caseMIR	SENT4	-	-
+15	a	a	SPS00	-	-	111-112	716_ANS_clinical_caseMIR	SENT4	-	-
+16	domicilio	domicilio	NCMS000	C1442065	entidad_observable	113-122	716_ANS_clinical_caseMIR	SENT4	-	-
+17	tras	tras	SPS00	-	-	123-127	716_ANS_clinical_caseMIR	SENT4	-	-
+18	resolución	resolución	NCFS000	-	-	128-138	716_ANS_clinical_caseMIR	SENT4	-	-
+19	de	de	SPS00	C0332285	atributo	139-141	716_ANS_clinical_caseMIR	SENT4	-	-
+20	la	el	DA0FS0	-	-	142-144	716_ANS_clinical_caseMIR	SENT4	-	-
+21	fiebre	fiebre	NCFS000	C0015967	hallazgo	145-151	716_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+22	.	.	Fp	-	-	151-152	716_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0025517_1	trastorno_1	0-10	716_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	metabólica	metabólico	AQ0FS0	C0025517_2	trastorno_2	11-21	716_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+3	congénita	congénito	AQ0FS0	C1744681	calificador	22-31	716_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+4	del	del	SP+DA	-	-	32-35	716_ANS_clinical_caseMIR	SENT5	-	-
+5	ciclo	ciclo	NCMS000	-	-	36-41	716_ANS_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	42-44	716_ANS_clinical_caseMIR	SENT5	-	-
+7	la	el	DA0FS0	-	-	45-47	716_ANS_clinical_caseMIR	SENT5	-	-
+8	urea	urea	NCFS000	C0041942	sustancia	48-52	716_ANS_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	52-53	716_ANS_clinical_caseMIR	SENT5	-	-
+
+1	Suspender	suspender	VMN0000	-	-	54-63	716_ANS_clinical_caseMIR	SENT6	-	-
+2	ingesta	ingesta	NCFS000	-	-	64-71	716_ANS_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	72-74	716_ANS_clinical_caseMIR	SENT6	-	-
+4	proteínas	proteína	NCFP000	C0033684	sustancia	75-84	716_ANS_clinical_caseMIR	SENT6	-	-
+5	,	,	Fc	-	-	84-85	716_ANS_clinical_caseMIR	SENT6	-	-
+6	administrar	administrar	VMN0000	C1621583	calificador	86-97	716_ANS_clinical_caseMIR	SENT6	-	-
+7	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	98-105	716_ANS_clinical_caseMIR	SENT6	-	-
+8	,	,	Fc	-	-	105-106	716_ANS_clinical_caseMIR	SENT6	-	-
+9	solicitar	solicitar	VMN0000	-	-	107-116	716_ANS_clinical_caseMIR	SENT6	-	-
+10	analítica	analítica	NCFS000	-	-	117-126	716_ANS_clinical_caseMIR	SENT6	-	-
+11	con	con	SPS00	C0332287	atributo	127-130	716_ANS_clinical_caseMIR	SENT6	-	-
+12	amonio	amonio	NCMS000	-	-	131-137	716_ANS_clinical_caseMIR	SENT6	B-Grp_Medicamento	-
+13	y	y	CC	C1706368	calificador	138-139	716_ANS_clinical_caseMIR	SENT6	-	-
+14	preparar	preparar	VMN0000	-	-	140-148	716_ANS_clinical_caseMIR	SENT6	-	-
+15	benzoato	benzoato	NCMS000	C0142805_1	producto_1	149-157	716_ANS_clinical_caseMIR	SENT6	B-Grp_Medicamento	-
+16	sódico	sódico	AQ0MS0	C0142805_2	producto_2	158-164	716_ANS_clinical_caseMIR	SENT6	I-Grp_Medicamento	-
+17	.	.	Fp	-	-	164-165	716_ANS_clinical_caseMIR	SENT6	-	-
+
+1	Déficit	déficit	NCMS000	C0011155_1	atributo_1	0-7	716_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0011155_2	atributo_2	8-10	716_ANS_clinical_caseMIR	SENT7	B-Calificador	-
+3	alfa-1	alfa-1		-	-	11-17	716_ANS_clinical_caseMIR	SENT7	I-Calificador	-
+4	antitripsina	antitripsina	NCFS000	-	-	18-30	716_ANS_clinical_caseMIR	SENT7	I-Calificador	-
+5	.	.	Fp	-	-	30-31	716_ANS_clinical_caseMIR	SENT7	-	-
+
+1	Realizar	realizar	VMN0000	-	-	32-40	716_ANS_clinical_caseMIR	SENT8	-	-
+2	punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	41-48	716_ANS_clinical_caseMIR	SENT8	-	-
+3	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	49-55	716_ANS_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+4	,	,	Fc	-	-	55-56	716_ANS_clinical_caseMIR	SENT8	-	-
+5	administrar	administrar	VMN0000	C1621583	calificador	57-68	716_ANS_clinical_caseMIR	SENT8	-	-
+6	aciclovir	aciclovir	NC00SC0	C0001367	sustancia	69-78	716_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	79-80	716_ANS_clinical_caseMIR	SENT8	-	-
+8	ácido	ácido	NCMS000	C0042291_1	sustancia_1	81-86	716_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-
+9	valproico	valproico		C0042291_2	sustancia_2	87-96	716_ANS_clinical_caseMIR	SENT8	I-Grp_Medicamento	-
+10	ante	ante	SPS00	-	-	97-101	716_ANS_clinical_caseMIR	SENT8	-	-
+11	la	el	DA0FS0	-	-	102-104	716_ANS_clinical_caseMIR	SENT8	-	-
+12	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	105-113	716_ANS_clinical_caseMIR	SENT8	-	-
+13	de	de	SPS00	C0332147_2	calificador_2	114-116	716_ANS_clinical_caseMIR	SENT8	-	-
+14	meningitis	meningitis	NCFN000	C0025289	trastorno	117-127	716_ANS_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Especulacion
+15	y	y	CC	C1706368	calificador	128-129	716_ANS_clinical_caseMIR	SENT8	-	-
+16	estatus	estatus	NCMN000	-	-	130-137	716_ANS_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-
+17	epiléptico	epiléptico	AQ0MS0	-	-	138-148	716_ANS_clinical_caseMIR	SENT8	I-Grp_Enfermedad	-
+18	.	.	Fp	-	-	148-149	716_ANS_clinical_caseMIR	SENT8	-	-
+

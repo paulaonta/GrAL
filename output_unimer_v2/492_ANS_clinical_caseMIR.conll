@@ -1,0 +1,28 @@
+1	¿	¿	Fia	-	-	301-302	492_ANS_clinical_caseMIR	SENT1	-	-
+2	Cómo	cómo	PT000000	-	-	302-306	492_ANS_clinical_caseMIR	SENT1	-	-
+3	tiene	tener	VMIP3S0	-	-	307-312	492_ANS_clinical_caseMIR	SENT1	-	-
+4	que	que	CS	-	-	313-316	492_ANS_clinical_caseMIR	SENT1	-	-
+5	enviar	enviar	VMN0000	-	-	317-323	492_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	324-326	492_ANS_clinical_caseMIR	SENT1	-	-
+7	muestra	muestra	NCFS000	C0370003	espécimen	327-334	492_ANS_clinical_caseMIR	SENT1	-	-
+8	?	?	Fit	-	-	334-335	492_ANS_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	335-336	492_ANS_clinical_caseMIR	SENT1	-	-
+10	Embolismos	embolismo	NCMP000	-	-	0-10	492_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	sépticos	séptico	AQ0MP0	-	-	11-19	492_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	.	.	Fp	-	-	19-20	492_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Aspergilosis	aspergilosis	NCFN000	C0276653_1	trastorno_1	0-12	492_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	pulmonar	pulmonar	NC00SC0	C0276653_2	trastorno_2	13-21	492_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	invasiva	invasiva		C0276653_3	trastorno_3	22-30	492_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+4	.	.	Fp	-	-	30-31	492_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	0-8	492_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0678226	atributo	9-12	492_ANS_clinical_caseMIR	SENT3	-	-
+3	Estafilococo	estafilococo	NCMS000	C0038170	organismo	13-25	492_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	aureus	aureus	NCMN000	-	-	26-32	492_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+5	.	.	Fp	-	-	32-33	492_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Candidiasis	candidiasis	NCFN000	C0153252_1	trastorno_1	0-11	492_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	sistémica	sistémico	AQ0FS0	C0153252_2	trastorno_2	12-21	492_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	.	.	Fp	-	-	21-22	492_ANS_clinical_caseMIR	SENT4	-	-
+

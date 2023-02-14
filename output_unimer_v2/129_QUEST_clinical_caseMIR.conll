@@ -1,0 +1,58 @@
+1	El	el	DA0MS0	-	-	156-158	129_QUEST_clinical_caseMIR	SENT1	-	-
+2	análisis	análisis	NCMN000	C0002778	calificador	159-167	129_QUEST_clinical_caseMIR	SENT1	-	-
+3	citológico	citológico	AQ0MS0	C0205471	calificador	168-178	129_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	179-181	129_QUEST_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	182-184	129_QUEST_clinical_caseMIR	SENT1	-	-
+6	muestra	muestra	NCFS000	C1277697_1	situación_1	185-192	129_QUEST_clinical_caseMIR	SENT1	-	-
+7	obtenida	obtener	VMP00SF	C1277697_2	situación_2	193-201	129_QUEST_clinical_caseMIR	SENT1	-	-
+8	tras	tras	SPS00	-	-	202-206	129_QUEST_clinical_caseMIR	SENT1	-	-
+9	la	el	DA0FS0	-	-	207-209	129_QUEST_clinical_caseMIR	SENT1	-	-
+10	punción	punción	NCFS000	C0033119	anomalía_morfológica	210-217	129_QUEST_clinical_caseMIR	SENT1	-	-
+11	podría	poder	VMIC3S0	-	-	218-224	129_QUEST_clinical_caseMIR	SENT1	-	-
+12	permitir	permitir	VMN0000	-	-	225-233	129_QUEST_clinical_caseMIR	SENT1	-	-
+13	nos	nos	PP1CP000	-	-	233-236	129_QUEST_clinical_caseMIR	SENT1	-	-
+14	:	:	Fd	-	-	236-237	129_QUEST_clinical_caseMIR	SENT1	-	-
+15	A	a	SPS00	-	-	0-1	129_QUEST_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	2-5	129_QUEST_clinical_caseMIR	SENT1	-	-
+17	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	6-11	129_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	12-14	129_QUEST_clinical_caseMIR	SENT1	-	-
+19	30	30		-	-	15-17	129_QUEST_clinical_caseMIR	SENT1	-	-
+20	años	año	NCMP000	C0439234	calificador	18-22	129_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	22-23	129_QUEST_clinical_caseMIR	SENT1	-	-
+22	asintomática	asintomático	AQ0FS0	-	-	24-36	129_QUEST_clinical_caseMIR	SENT1	-	-
+23	,	,	Fc	-	-	36-37	129_QUEST_clinical_caseMIR	SENT1	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	38-40	129_QUEST_clinical_caseMIR	SENT1	-	-
+25	un	un		C0205447_1	calificador_1	41-43	129_QUEST_clinical_caseMIR	SENT1	-	-
+26	examen	examen	NCMS000	-	-	44-50	129_QUEST_clinical_caseMIR	SENT1	-	-
+27	rutinario	rutinario	AQ0MS0	-	-	51-60	129_QUEST_clinical_caseMIR	SENT1	-	-
+28	se	se	P00CN000	-	-	61-63	129_QUEST_clinical_caseMIR	SENT1	-	-
+29	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	64-66	129_QUEST_clinical_caseMIR	SENT1	-	-
+30	detecta	detectar	VMIP3S0	-	-	67-74	129_QUEST_clinical_caseMIR	SENT1	-	-
+31	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	75-81	129_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+32	.	.	Fp	-	-	81-82	129_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	83-85	129_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	86-88	129_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	89-100	129_QUEST_clinical_caseMIR	SENT2	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	101-107	129_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	108-110	129_QUEST_clinical_caseMIR	SENT2	-	-
+6	aprecia	apreciar	VMIP3S0	-	-	111-118	129_QUEST_clinical_caseMIR	SENT2	-	-
+7	ictericia	ictericia	NCFS000	C0240962_1	hallazgo_1	119-128	129_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	conjuntival	conjuntival	AQ0CS0	C0240962_2	hallazgo_2	129-140	129_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	y	y	CC	C1706368	calificador	141-142	129_QUEST_clinical_caseMIR	SENT2	-	-
+10	esplenomegalia	esplenomegalia	NCFS000	C0038002	trastorno	143-157	129_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	157-158	129_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	159-161	129_QUEST_clinical_caseMIR	SENT3	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	162-170	129_QUEST_clinical_caseMIR	SENT3	-	-
+3	refiere	referir	VMIP3S0	-	-	171-178	129_QUEST_clinical_caseMIR	SENT3	-	-
+4	historia	historia	NCFS000	C0241889_1	categoría_dependiente_del_contexto_1	179-187	129_QUEST_clinical_caseMIR	SENT3	-	-
+5	familiar	familiar	NCMS000	C0241889_2	categoría_dependiente_del_contexto_2	188-196	129_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0332285	atributo	197-199	129_QUEST_clinical_caseMIR	SENT3	-	-
+7	litiasis	litiasis	NCFN000	C0242216_1	sustancia_1	200-208	129_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	biliar	biliar	AQ0CS0	C0242216_2	sustancia_2	209-215	129_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	216-218	129_QUEST_clinical_caseMIR	SENT3	-	-
+10	edades	edad	NCFP000	C0001779#C0439632	entidad_observable#calificador	219-225	129_QUEST_clinical_caseMIR	SENT3	-	-
+11	tempranas	temprano	AQ0FP0	C1279919#C2362777#C2363430#C1279930	calificador	226-235	129_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	235-236	129_QUEST_clinical_caseMIR	SENT3	-	-
+

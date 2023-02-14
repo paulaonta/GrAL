@@ -1,0 +1,58 @@
+1	Lactante	lactante	NCCS000	C0021270	persona	0-8	258_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	258_QUEST_clinical_caseMIR	SENT1	-	-
+3	1	1		-	-	12-13	258_QUEST_clinical_caseMIR	SENT1	-	-
+4	mes	mes	NCMS000	C0439231	calificador	14-17	258_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	18-20	258_QUEST_clinical_caseMIR	SENT1	-	-
+6	vida	vida	NCFS000	-	-	21-25	258_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	258_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	30-35	258_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	36-37	258_QUEST_clinical_caseMIR	SENT1	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	38-47	258_QUEST_clinical_caseMIR	SENT1	-	-
+11	del	del	SP+DA	-	-	48-51	258_QUEST_clinical_caseMIR	SENT1	-	-
+12	hospital	hospital	NCMS000	C1510665	medio_ambiente	52-60	258_QUEST_clinical_caseMIR	SENT1	-	-
+13	remitido	remitir	VMP00SM	C0439600	calificador	61-69	258_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	70-73	258_QUEST_clinical_caseMIR	SENT1	-	-
+15	su	su	DP3CS0	-	-	74-76	258_QUEST_clinical_caseMIR	SENT1	-	-
+16	pediatra	pediatra	NCCS000	C0237433	ocupación	77-85	258_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	86-89	258_QUEST_clinical_caseMIR	SENT1	-	-
+18	ictericia	ictericia	NCFS000	C0022346	hallazgo	90-99	258_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	99-100	258_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	101-108	258_QUEST_clinical_caseMIR	SENT2	-	-
+2	esta	este	DD0FS0	-	-	109-113	258_QUEST_clinical_caseMIR	SENT2	-	-
+3	desde	desde	SPS00	-	-	114-119	258_QUEST_clinical_caseMIR	SENT2	-	-
+4	hace	hacer	VMIP3S0	-	-	120-124	258_QUEST_clinical_caseMIR	SENT2	-	-
+5	10	10	Z	-	-	125-127	258_QUEST_clinical_caseMIR	SENT2	-	-
+6	días	d	NCMP000	-	-	128-132	258_QUEST_clinical_caseMIR	SENT2	-	-
+7	y	y	CC	C1706368	calificador	133-134	258_QUEST_clinical_caseMIR	SENT2	-	-
+8	ha	haber	VAIP3S0	-	-	135-137	258_QUEST_clinical_caseMIR	SENT2	-	-
+9	ido	ir	VMP00SM	-	-	138-141	258_QUEST_clinical_caseMIR	SENT2	-	-
+10	en	en	SPS00	C0442808_1	calificador_1	142-144	258_QUEST_clinical_caseMIR	SENT2	-	-
+11	aumento	aumento	NCMS000	C0442808_2	calificador_2	145-152	258_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	152-153	258_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	154-156	258_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	157-159	258_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	160-169	258_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	170-172	258_QUEST_clinical_caseMIR	SENT3	-	-
+5	sangre	sangre	NCFS000	C0005767	sustancia	173-179	258_QUEST_clinical_caseMIR	SENT3	-	-
+6	destaca	destacar	VMIP3S0	-	-	180-187	258_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	188-191	258_QUEST_clinical_caseMIR	SENT3	-	-
+8	bilírrubina	bilírrubina	NCFS000	-	-	192-203	258_QUEST_clinical_caseMIR	SENT3	-	-
+9	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	204-209	258_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	210-212	258_QUEST_clinical_caseMIR	SENT3	-	-
+11	7	7	Z	-	-	213-214	258_QUEST_clinical_caseMIR	SENT3	-	-
+12	mg	mg	NCMN000	-	-	215-217	258_QUEST_clinical_caseMIR	SENT3	-	-
+13	/	/	Fh	-	-	217-218	258_QUEST_clinical_caseMIR	SENT3	-	-
+14	dl	decilitro	NCMN000	C0439241	calificador	218-220	258_QUEST_clinical_caseMIR	SENT3	-	-
+15	siendo	ser	VSG0000	-	-	221-227	258_QUEST_clinical_caseMIR	SENT3	-	-
+16	la	el	DA0FS0	-	-	228-230	258_QUEST_clinical_caseMIR	SENT3	-	-
+17	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	231-242	258_QUEST_clinical_caseMIR	SENT3	-	-
+18	indirecta	indirecto	AQ0FS0	C0439852	calificador	243-252	258_QUEST_clinical_caseMIR	SENT3	-	-
+19	de	de	SPS00	C0332285	atributo	253-255	258_QUEST_clinical_caseMIR	SENT3	-	-
+20	1,5	1.5	Z	-	-	256-259	258_QUEST_clinical_caseMIR	SENT3	-	-
+21	mg	mg	NCMN000	-	-	260-262	258_QUEST_clinical_caseMIR	SENT3	-	-
+22	/	/	Fh	-	-	262-263	258_QUEST_clinical_caseMIR	SENT3	-	-
+23	dl	decilitro	NCMN000	C0439241	calificador	263-265	258_QUEST_clinical_caseMIR	SENT3	-	-
+24	.	.	Fp	-	-	265-266	258_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,86 @@
+1	Chico	chico	NCMS000	C0008059#C0700321	persona#calificador	0-5	28_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	28_QUEST_clinical_caseMIR	SENT1	-	-
+3	15	15		-	-	9-11	28_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	28_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	28_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	28_QUEST_clinical_caseMIR	SENT1	-	-
+7	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	30-35	28_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	36-43	28_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	44-46	28_QUEST_clinical_caseMIR	SENT1	-	-
+10	pierna	pierna	NCFS000	C1279605#C0230442_1	estructura_corporal_1	47-53	28_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	derecha	derecho	AQ0FS0	C1279605#C0230442_2	estructura_corporal_2	54-61	28_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+12	mientras	mientras	CS	-	-	62-70	28_QUEST_clinical_caseMIR	SENT1	-	-
+13	descendía	descender	VMII3S0	-	-	71-80	28_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	81-84	28_QUEST_clinical_caseMIR	SENT1	-	-
+15	una	una		C0205447_1	calificador_1	85-88	28_QUEST_clinical_caseMIR	SENT1	-	-
+16	escalera	escalera	NCFS000	C0336762	objeto_físico	89-97	28_QUEST_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	97-98	28_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	99-101	28_QUEST_clinical_caseMIR	SENT2	-	-
+2	realiza	realizar	VMIP3S0	-	-	102-109	28_QUEST_clinical_caseMIR	SENT2	-	-
+3	una	una		C0205447_1	calificador_1	110-113	28_QUEST_clinical_caseMIR	SENT2	-	-
+4	radiografía	radiografía	NCFS000	C1306645	procedimiento	114-125	28_QUEST_clinical_caseMIR	SENT2	-	-
+5	que	que	PR0CN000	-	-	126-129	28_QUEST_clinical_caseMIR	SENT2	-	-
+6	muestra	mostrar	VMIP3S0	-	-	130-137	28_QUEST_clinical_caseMIR	SENT2	-	-
+7	una	una		C0205447_1	calificador_1	138-141	28_QUEST_clinical_caseMIR	SENT2	-	-
+8	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	142-150	28_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	151-153	28_QUEST_clinical_caseMIR	SENT2	-	-
+10	peroné	peroné	NCMS000	C0016068#C1281580	estructura_corporal	154-160	28_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	161-168	28_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	.	.	Fp	-	-	168-169	28_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	28_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	173-175	28_QUEST_clinical_caseMIR	SENT3	-	-
+3	historia	historia	NCFS000	-	-	176-184	28_QUEST_clinical_caseMIR	SENT3	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	185-192	28_QUEST_clinical_caseMIR	SENT3	-	-
+5	realizada	realizar	VMP00SF	-	-	193-202	28_QUEST_clinical_caseMIR	SENT3	-	-
+6	destaca	destacar	VMIP3S0	-	-	203-210	28_QUEST_clinical_caseMIR	SENT3	-	-
+7	la	el	DA0FS0	-	-	211-213	28_QUEST_clinical_caseMIR	SENT3	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	214-223	28_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	224-226	28_QUEST_clinical_caseMIR	SENT3	-	-
+10	fracturas	fractura	NCFP000	C0016658	anomalía_morfológica	227-236	28_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	previas	previo	AQ0FP0	C0205156	calificador	237-244	28_QUEST_clinical_caseMIR	SENT3	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	245-247	28_QUEST_clinical_caseMIR	SENT3	-	-
+13	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	248-256	28_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332197_2	calificador_2	257-259	28_QUEST_clinical_caseMIR	SENT3	-	-
+15	traumatismo	traumatismo	NCMS000	C3263723	trastorno	260-271	28_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	intenso	intenso	AQ0MS0	C0205178	calificador	272-279	28_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+17	.	.	Fp	-	-	279-280	28_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	281-283	28_QUEST_clinical_caseMIR	SENT4	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	284-295	28_QUEST_clinical_caseMIR	SENT4	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	296-302	28_QUEST_clinical_caseMIR	SENT4	-	-
+4	es	ser	VSIP3S0	-	-	303-305	28_QUEST_clinical_caseMIR	SENT4	-	-
+5	normal	normal	AQ0CS0	C0205307	calificador	306-312	28_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	312-313	28_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	314-316	28_QUEST_clinical_caseMIR	SENT5	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	317-324	28_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	325-327	28_QUEST_clinical_caseMIR	SENT5	-	-
+4	metabolismo	metabolismo	NCMS000	C0025519	función	328-339	28_QUEST_clinical_caseMIR	SENT5	-	-
+5	fosfocálcico	fosfocálcico	AQ0MS00	-	-	340-352	28_QUEST_clinical_caseMIR	SENT5	-	-
+6	realizado	realizar	VMP00SM	-	-	353-362	28_QUEST_clinical_caseMIR	SENT5	-	-
+7	no	no	RN	C1298908	calificador	363-365	28_QUEST_clinical_caseMIR	SENT5	-	-
+8	muestra	mostrar	VMIP3S0	-	-	366-373	28_QUEST_clinical_caseMIR	SENT5	-	-
+9	alteraciones	alteración	NCFP000	-	-	374-386	28_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	386-387	28_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	La	el	DA0FS0	-	-	388-390	28_QUEST_clinical_caseMIR	SENT6	-	-
+2	densitometría	densitometría	NCFS000	C0730031	procedimiento	391-404	28_QUEST_clinical_caseMIR	SENT6	-	-
+3	presenta	presentar	VMIP3S0	-	-	405-413	28_QUEST_clinical_caseMIR	SENT6	-	-
+4	los	el	DA0MP0	-	-	414-417	28_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	418-428	28_QUEST_clinical_caseMIR	SENT6	-	-
+6	datos	dato	NCMP000	-	-	429-434	28_QUEST_clinical_caseMIR	SENT6	-	-
+7	T-score	t-score	VMSP3S0	-	-	435-442	28_QUEST_clinical_caseMIR	SENT6	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	443-445	28_QUEST_clinical_caseMIR	SENT6	-	-
+9	columna	columna	NCFS000	C0024091#C1269871_1	estructura_corporal_1	446-453	28_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+10	lumbar	lumbar	NC00SC0	C0024091#C1269871_2	estructura_corporal_2	454-460	28_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+11	-1.2	-1.2		-	-	461-465	28_QUEST_clinical_caseMIR	SENT6	-	-
+12	y	y	CC	C1706368	calificador	466-467	28_QUEST_clinical_caseMIR	SENT6	-	-
+13	T-score	t-score	VMSP3S0	-	-	468-475	28_QUEST_clinical_caseMIR	SENT6	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	476-478	28_QUEST_clinical_caseMIR	SENT6	-	-
+15	cadera	cadera	NCFS000	C0019552	estructura_corporal	479-485	28_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+16	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	486-491	28_QUEST_clinical_caseMIR	SENT6	-	-
+17	-0.8	-0.8		-	-	492-496	28_QUEST_clinical_caseMIR	SENT6	-	-
+18	.	.	Fp	-	-	496-497	28_QUEST_clinical_caseMIR	SENT6	-	-
+

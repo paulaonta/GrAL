@@ -1,0 +1,77 @@
+1	El	el	DA0MS0	-	-	0-2	3_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	3_ANS_clinical_caseMIR	SENT1	-	-
+3	padece	padecer	VMIP3S0	-	-	12-18	3_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	19-22	3_ANS_clinical_caseMIR	SENT1	-	-
+5	poliposis	poliposis	NCFN000	C0334108	anomalía_morfológica	23-32	3_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	adenomatosa	adenomatosa	AQ0FS00	-	-	33-44	3_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	familiar	familiar	AQ0CS0	C0080103#C0241888	persona#calificador	45-53	3_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	53-54	3_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	0-2	3_ANS_clinical_caseMIR	SENT2	-	-
+2	manejo	manejo	NCMS000	C1273870	procedimiento	3-9	3_ANS_clinical_caseMIR	SENT2	-	-
+3	más	más	RG	C0205172	calificador	10-13	3_ANS_clinical_caseMIR	SENT2	-	-
+4	apropiado	apropiar	VMP00SM	-	-	14-23	3_ANS_clinical_caseMIR	SENT2	-	-
+5	es	ser	VSIP3S0	-	-	24-26	3_ANS_clinical_caseMIR	SENT2	-	-
+6	sulindac	sulindac	NC00SC0	C0038792	producto#sustancia	27-35	3_ANS_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	35-36	3_ANS_clinical_caseMIR	SENT2	-	-
+8	colonoscopias	colonoscopias	NCFP000	-	-	37-50	3_ANS_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0332285	atributo	51-53	3_ANS_clinical_caseMIR	SENT2	-	-
+10	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	54-64	3_ANS_clinical_caseMIR	SENT2	-	-
+11	anuales	anual	AQ0CP0	C0332181	calificador	65-72	3_ANS_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	73-74	3_ANS_clinical_caseMIR	SENT2	-	-
+13	colectomía	colectomía	NC00SC0	C0192871_1	procedimiento_1	75-85	3_ANS_clinical_caseMIR	SENT2	-	-
+14	total	total	NCMS000	C0192871_2	procedimiento_2	86-91	3_ANS_clinical_caseMIR	SENT2	-	-
+15	a	a	SPS00	-	-	92-93	3_ANS_clinical_caseMIR	SENT2	-	-
+16	los	el	DA0MP0	-	-	94-97	3_ANS_clinical_caseMIR	SENT2	-	-
+17	40	40		-	-	98-100	3_ANS_clinical_caseMIR	SENT2	-	-
+18	años	año	NCMP000	C0439234	calificador	101-105	3_ANS_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	105-106	3_ANS_clinical_caseMIR	SENT2	-	-
+
+1	De	de	SPS00	C0332285	atributo	0-2	3_ANS_clinical_caseMIR	SENT3	-	-
+2	no	no	RN	C1298908	calificador	3-5	3_ANS_clinical_caseMIR	SENT3	-	-
+3	someter	someter	VMN0000	-	-	6-13	3_ANS_clinical_caseMIR	SENT3	-	-
+4	se	se	PP3CN000	-	-	13-15	3_ANS_clinical_caseMIR	SENT3	-	-
+5	a	a	SPS00	-	-	16-17	3_ANS_clinical_caseMIR	SENT3	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	18-29	3_ANS_clinical_caseMIR	SENT3	-	-
+7	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	30-40	3_ANS_clinical_caseMIR	SENT3	-	-
+8	casi	casi	RG	-	-	41-45	3_ANS_clinical_caseMIR	SENT3	-	-
+9	con	con	SPS00	C0332287	atributo	46-49	3_ANS_clinical_caseMIR	SENT3	-	-
+10	toda	todo	DI0FS0	C0205197#C0439810#C0444868#C0444667	calificador	50-54	3_ANS_clinical_caseMIR	SENT3	-	-
+11	seguridad	seguridad	NCFS000	C0205423	calificador	55-64	3_ANS_clinical_caseMIR	SENT3	-	-
+12	el	el	DA0MS0	-	-	65-67	3_ANS_clinical_caseMIR	SENT3	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	68-76	3_ANS_clinical_caseMIR	SENT3	-	-
+14	desarrollará	desarrollar	VMIF3S0	-	-	77-89	3_ANS_clinical_caseMIR	SENT3	-	-
+15	un	un		C0205447_1	calificador_1	90-92	3_ANS_clinical_caseMIR	SENT3	-	-
+16	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	93-99	3_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+17	colorrectal	colorrectal	NC00SC0	C0555952	calificador	100-111	3_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	111-112	3_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Deben	deber	VMIP3P0	-	-	0-5	3_ANS_clinical_caseMIR	SENT4	-	-
+2	estudiar	estudiar	VMN0000	-	-	6-14	3_ANS_clinical_caseMIR	SENT4	-	-
+3	se	se	PP3CN000	-	-	14-16	3_ANS_clinical_caseMIR	SENT4	-	-
+4	los	el	DA0MP0	-	-	17-20	3_ANS_clinical_caseMIR	SENT4	-	-
+5	familiares	familiar	NCMP000	C0080103#C0241888	persona#calificador	21-31	3_ANS_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	32-34	3_ANS_clinical_caseMIR	SENT4	-	-
+7	primer	1	AO0MS0	C0444502_1	calificador_1	35-41	3_ANS_clinical_caseMIR	SENT4	-	-
+8	grado	grado	NCMS000	C0444502_2	calificador_2	42-47	3_ANS_clinical_caseMIR	SENT4	-	-
+9	del	del	SP+DA	-	-	48-51	3_ANS_clinical_caseMIR	SENT4	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	52-60	3_ANS_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	60-61	3_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Los	el	DA0MP0	-	-	0-3	3_ANS_clinical_caseMIR	SENT5	-	-
+2	hijos	hijo	NCMP000	-	-	4-9	3_ANS_clinical_caseMIR	SENT5	-	-
+3	del	del	SP+DA	-	-	10-13	3_ANS_clinical_caseMIR	SENT5	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	14-22	3_ANS_clinical_caseMIR	SENT5	-	-
+5	tienen	tener	VMIP3P0	-	-	23-29	3_ANS_clinical_caseMIR	SENT5	-	-
+6	un	un		C0205447_1	calificador_1	30-32	3_ANS_clinical_caseMIR	SENT5	-	-
+7	50	50	Z	-	-	33-35	3_ANS_clinical_caseMIR	SENT5	-	-
+8	%	%	Ft	-	-	35-36	3_ANS_clinical_caseMIR	SENT5	-	-
+9	de	de	SPS00	C0332285	atributo	37-39	3_ANS_clinical_caseMIR	SENT5	-	-
+10	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	40-46	3_ANS_clinical_caseMIR	SENT5	-	-
+11	de	de	SPS00	C0035647_2	calificador_2	47-49	3_ANS_clinical_caseMIR	SENT5	-	-
+12	padecer	padecer	VMN0000	-	-	50-57	3_ANS_clinical_caseMIR	SENT5	-	-
+13	la	el	DA0FS0	-	-	58-60	3_ANS_clinical_caseMIR	SENT5	-	-
+14	misma	mismo	AQ0FS0	C0445247	calificador	61-66	3_ANS_clinical_caseMIR	SENT5	-	-
+15	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	67-77	3_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	77-78	3_ANS_clinical_caseMIR	SENT5	-	-
+

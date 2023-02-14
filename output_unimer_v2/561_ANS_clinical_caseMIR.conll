@@ -1,0 +1,21 @@
+1	Corticoides	corticoide	NCMP000	-	-	0-11	561_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	intravenosos	intravenoso	AQ0MP0	C0348016	calificador	12-24	561_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	24-25	561_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	0-10	561_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	1/1000	1/1000		-	-	11-17	561_ANS_clinical_caseMIR	SENT2	-	-
+3	subcutánea	subcutáneo	AQ0FS0	C0443315	calificador	18-28	561_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	28-29	561_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Icatibant	icatibant	NC00BO0	-	-	0-9	561_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	o	o	CC	-	-	10-11	561_ANS_clinical_caseMIR	SENT3	-	-
+3	concentrado	concentrar	VMP00SM	-	-	12-23	561_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	de	de	SPS00	C0332285	atributo	24-26	561_ANS_clinical_caseMIR	SENT3	-	-
+5	C1	C1		-	-	27-29	561_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	inhibidor	inhibidor	NCMS000	-	-	30-39	561_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+7	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	40-51	561_ANS_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	51-52	561_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Omalizumab	omalizumab	NC00SC0	C0966225	producto#sustancia	0-10	561_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	10-11	561_ANS_clinical_caseMIR	SENT4	-	-
+

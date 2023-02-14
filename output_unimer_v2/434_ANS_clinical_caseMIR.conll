@@ -1,0 +1,87 @@
+1	Dejar	dejar	VMN0000	-	-	0-5	434_ANS_clinical_caseMIR	SENT1	-	-
+2	lo	lo	PP3CNA00	-	-	5-7	434_ANS_clinical_caseMIR	SENT1	-	-
+3	encamado	encamado	NCMS000	-	-	8-16	434_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	17-20	434_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	21-32	434_ANS_clinical_caseMIR	SENT1	-	-
+6	para	para	SPS00	C0521125	calificador	33-37	434_ANS_clinical_caseMIR	SENT1	-	-
+7	el	el	DA0MS0	-	-	38-40	434_ANS_clinical_caseMIR	SENT1	-	-
+8	dolor	dolor	NCMS000	C0030193	hallazgo	41-46	434_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	e	y	CC	C1706368	calificador	47-48	434_ANS_clinical_caseMIR	SENT1	-	-
+10	ingresar	ingresar	VMN0000	-	-	49-57	434_ANS_clinical_caseMIR	SENT1	-	-
+11	lo	lo	PP3CNA00	-	-	57-59	434_ANS_clinical_caseMIR	SENT1	-	-
+12	para	para	SPS00	C0521125	calificador	60-64	434_ANS_clinical_caseMIR	SENT1	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	65-76	434_ANS_clinical_caseMIR	SENT1	-	-
+14	electivo	electivo	AQ0MS0	C0439608	calificador	77-85	434_ANS_clinical_caseMIR	SENT1	-	-
+15	no	no	RN	C1298908	calificador	86-88	434_ANS_clinical_caseMIR	SENT1	-	-
+16	urgente	urgente	AQ0CS0	C0439609	calificador	89-96	434_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	96-97	434_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Colocar	colocar	VMN0000	-	-	0-7	434_ANS_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	8-11	434_ANS_clinical_caseMIR	SENT2	-	-
+3	tracción	tracción	NCFS000	C0040597	procedimiento	12-20	434_ANS_clinical_caseMIR	SENT2	-	-
+4	continua	continuo	AQ0FS0	C0205322#C0549178	calificador	21-29	434_ANS_clinical_caseMIR	SENT2	-	-
+5	y	y	CC	C1706368	calificador	30-31	434_ANS_clinical_caseMIR	SENT2	-	-
+6	tratamiento	tratamiento	NCMS000	C0418981_1	procedimiento_1	32-43	434_ANS_clinical_caseMIR	SENT2	-	-
+7	médico	médico	NCCS000	C0418981_2	procedimiento_2	44-50	434_ANS_clinical_caseMIR	SENT2	-	-
+8	para	para	SPS00	C0521125	calificador	51-55	434_ANS_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	56-58	434_ANS_clinical_caseMIR	SENT2	-	-
+10	dolor	dolor	NCMS000	C0030193	hallazgo	59-64	434_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	65-66	434_ANS_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	67-69	434_ANS_clinical_caseMIR	SENT2	-	-
+13	inflamación	inflamación	NCFS000	C0021368#C0302158	calificador#anomalía_morfológica	70-81	434_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	.	.	Fp	-	-	81-82	434_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Ponerse	poner	VMN0000	-	-	0-7	434_ANS_clinical_caseMIR	SENT3	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	8-10	434_ANS_clinical_caseMIR	SENT3	-	-
+3	contacto	contacto	NCMS000	C0337611	persona	11-19	434_ANS_clinical_caseMIR	SENT3	-	-
+4	con	con	SPS00	C0332287	atributo	20-23	434_ANS_clinical_caseMIR	SENT3	-	-
+5	el	el	DA0MS0	-	-	24-26	434_ANS_clinical_caseMIR	SENT3	-	-
+6	Servicio	servicio	NCMS000	C0587537_1	calificador_1	27-35	434_ANS_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0587537_2	calificador_2	36-38	434_ANS_clinical_caseMIR	SENT3	-	-
+8	Anestesia	anestesiar	VMM02S0	C0587537_3	calificador_3	39-48	434_ANS_clinical_caseMIR	SENT3	-	-
+9	y	y	CC	C1706368	calificador	49-50	434_ANS_clinical_caseMIR	SENT3	-	-
+10	reducir	reducir	VMN0000	-	-	51-58	434_ANS_clinical_caseMIR	SENT3	-	-
+11	la	el	DA0FS0	-	-	59-61	434_ANS_clinical_caseMIR	SENT3	-	-
+12	luxación	luxación	NCFS000	C0012691	anomalía_morfológica	62-70	434_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	mediante	mediante	SPS00	-	-	71-79	434_ANS_clinical_caseMIR	SENT3	-	-
+14	tracción	tracción	NCFS000	C0040597	procedimiento	80-88	434_ANS_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	89-91	434_ANS_clinical_caseMIR	SENT3	-	-
+16	la	el	DA0FS0	-	-	92-94	434_ANS_clinical_caseMIR	SENT3	-	-
+17	extremidad	extremidad	NCFS000	C0015385#C1280090	estructura_corporal	95-105	434_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	al	al	SP+DA	-	-	106-108	434_ANS_clinical_caseMIR	SENT3	-	-
+19	cénit	cénit	NCMS000	-	-	109-114	434_ANS_clinical_caseMIR	SENT3	-	-
+20	y	y	CC	C1706368	calificador	115-116	434_ANS_clinical_caseMIR	SENT3	-	-
+21	con	con	SPS00	C0332287	atributo	117-120	434_ANS_clinical_caseMIR	SENT3	-	-
+22	la	el	DA0FS0	-	-	121-123	434_ANS_clinical_caseMIR	SENT3	-	-
+23	cadera	cadera	NCFS000	C0019552	estructura_corporal	124-130	434_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+24	y	y	CC	C1706368	calificador	131-132	434_ANS_clinical_caseMIR	SENT3	-	-
+25	rodillas	rodilla	NCFP000	C1963703#C1456798	estructura_corporal	133-141	434_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+26	flexionadas	flexionar	VMP00PF	-	-	142-153	434_ANS_clinical_caseMIR	SENT3	-	-
+27	mientras	mientras	CS	-	-	154-162	434_ANS_clinical_caseMIR	SENT3	-	-
+28	un	un		C0205447_1	calificador_1	163-165	434_ANS_clinical_caseMIR	SENT3	-	-
+29	ayudante	ayudante	NCCS000	-	-	166-174	434_ANS_clinical_caseMIR	SENT3	-	-
+30	estabiliza	estabilizar	VMIP3S0	-	-	175-185	434_ANS_clinical_caseMIR	SENT3	-	-
+31	la	el	DA0FS0	-	-	186-188	434_ANS_clinical_caseMIR	SENT3	-	-
+32	pelvis	pelvis	NCFN000	C1279864#C0449203#C0030797	estructura_corporal	189-195	434_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+33	mediante	mediante	SPS00	-	-	196-204	434_ANS_clinical_caseMIR	SENT3	-	-
+34	la	el	DA0FS0	-	-	205-207	434_ANS_clinical_caseMIR	SENT3	-	-
+35	presión	presión	NCFS000	C0460139	hallazgo	208-215	434_ANS_clinical_caseMIR	SENT3	-	-
+36	sobre	sobre	SPS00	C1720294#C0205136	calificador	216-221	434_ANS_clinical_caseMIR	SENT3	-	-
+37	crestas	cresta	NCFP000	C0376161#C0332243	estructura_corporal#calificador	222-229	434_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+38	iliacas	iliaco	AQ0FP0	-	-	230-237	434_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+39	.	.	Fp	-	-	237-238	434_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Operar	operar	VMN0000	-	-	0-6	434_ANS_clinical_caseMIR	SENT4	-	-
+2	al	al	SP+DA	-	-	7-9	434_ANS_clinical_caseMIR	SENT4	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	10-18	434_ANS_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	19-21	434_ANS_clinical_caseMIR	SENT4	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	22-31	434_ANS_clinical_caseMIR	SENT4	-	-
+6	efectuando	efectuar	VMG0000	-	-	32-42	434_ANS_clinical_caseMIR	SENT4	-	-
+7	una	una		C0205447_1	calificador_1	43-46	434_ANS_clinical_caseMIR	SENT4	-	-
+8	reducción	reducción	NCFS000	C2370853_1	procedimiento_1	47-56	434_ANS_clinical_caseMIR	SENT4	-	-
+9	abierta	abrir	VMP00SF	C2370853_2	procedimiento_2	57-64	434_ANS_clinical_caseMIR	SENT4	-	-
+10	de	de	SPS00	C0332285	atributo	65-67	434_ANS_clinical_caseMIR	SENT4	-	-
+11	la	el	DA0FS0	-	-	68-70	434_ANS_clinical_caseMIR	SENT4	-	-
+12	luxación	luxación	NCFS000	C0012691	anomalía_morfológica	71-79	434_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+13	.	.	Fp	-	-	79-80	434_ANS_clinical_caseMIR	SENT4	-	-
+

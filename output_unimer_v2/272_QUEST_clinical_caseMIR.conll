@@ -1,0 +1,118 @@
+1	El	el	DA0MS0	-	-	634-636	272_QUEST_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	637-648	272_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	649-651	272_QUEST_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	652-654	272_QUEST_clinical_caseMIR	SENT1	-	-
+5	situación	situación	NCFS000	-	-	655-664	272_QUEST_clinical_caseMIR	SENT1	-	-
+6	que	que	PR0CN000	-	-	665-668	272_QUEST_clinical_caseMIR	SENT1	-	-
+7	presenta	presentar	VMIP3S0	-	-	669-677	272_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	678-680	272_QUEST_clinical_caseMIR	SENT1	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	681-689	272_QUEST_clinical_caseMIR	SENT1	-	-
+10	es	ser	VSIP3S0	-	-	690-692	272_QUEST_clinical_caseMIR	SENT1	-	-
+11	:	:	Fd	-	-	692-693	272_QUEST_clinical_caseMIR	SENT1	-	-
+12	Paciente	paciente	NCCS000	C0030705	persona	0-8	272_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	9-11	272_QUEST_clinical_caseMIR	SENT1	-	-
+14	44	44		-	-	12-14	272_QUEST_clinical_caseMIR	SENT1	-	-
+15	años	año	NCMP000	C0439234	calificador	15-19	272_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	272_QUEST_clinical_caseMIR	SENT1	-	-
+17	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	272_QUEST_clinical_caseMIR	SENT1	-	-
+18	que	que	PR0CN000	-	-	28-31	272_QUEST_clinical_caseMIR	SENT1	-	-
+19	sufre	sufrir	VMIP3S0	-	-	32-37	272_QUEST_clinical_caseMIR	SENT1	-	-
+20	un	un		C0205447_1	calificador_1	38-40	272_QUEST_clinical_caseMIR	SENT1	-	-
+21	traumatismo	traumatismo	NCMS000	C3263723	trastorno	41-52	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	por	por	SPS00	C0678226	atributo	53-56	272_QUEST_clinical_caseMIR	SENT1	-	-
+23	accidente	accidente	NCMS000	C0415499_1	evento_1	57-66	272_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0415499_2	evento_2	67-69	272_QUEST_clinical_caseMIR	SENT1	-	-
+25	tráfico	tráfico	NCMS000	-	-	70-77	272_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	78-80	272_QUEST_clinical_caseMIR	SENT1	-	-
+27	elevada	elevar	VMP00SF	-	-	81-88	272_QUEST_clinical_caseMIR	SENT1	-	-
+28	intensidad	intensidad	NCFS000	-	-	89-99	272_QUEST_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	99-100	272_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	101-102	272_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	103-105	272_QUEST_clinical_caseMIR	SENT2	-	-
+3	ingreso	ingreso	NCMS000	-	-	106-113	272_QUEST_clinical_caseMIR	SENT2	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	114-116	272_QUEST_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	-	-	117-119	272_QUEST_clinical_caseMIR	SENT2	-	-
+6	hospital	hospital	NCMS000	C1510665	medio_ambiente	120-128	272_QUEST_clinical_caseMIR	SENT2	-	-
+7	está	estar	VAIP3S0	-	-	129-133	272_QUEST_clinical_caseMIR	SENT2	-	-
+8	consciente	consciente	AQ0CS0	-	-	134-144	272_QUEST_clinical_caseMIR	SENT2	-	-
+9	y	y	CC	C1706368	calificador	145-146	272_QUEST_clinical_caseMIR	SENT2	-	-
+10	orientado	orientar	VMP00SM	-	-	147-156	272_QUEST_clinical_caseMIR	SENT2	-	-
+11	y	y	CC	C1706368	calificador	157-158	272_QUEST_clinical_caseMIR	SENT2	-	-
+12	manifiesta	manifiesto	AQ0FS0	C1280464#C0205319	calificador	159-169	272_QUEST_clinical_caseMIR	SENT2	-	-
+13	dolor	dolor	NCMS000	C0030193	hallazgo	170-175	272_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	a	a	SPS00	-	-	176-177	272_QUEST_clinical_caseMIR	SENT2	-	-
+15	nivel	nivel	NCMS000	C0456079	atributo	178-183	272_QUEST_clinical_caseMIR	SENT2	-	-
+16	torácico	torácico	AQ0MS0	C0817096	calificador	184-192	272_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	193-201	272_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+18	y	y	CC	C1706368	calificador	202-203	272_QUEST_clinical_caseMIR	SENT2	-	-
+19	pélvico	pélvico	AQ0MS0	C0030797	calificador	204-211	272_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+20	así	así	RG	-	-	212-215	272_QUEST_clinical_caseMIR	SENT2	-	-
+21	como	como	SPS00	C0332257	calificador	216-220	272_QUEST_clinical_caseMIR	SENT2	-	-
+22	impotencia	impotencia	NCFS000	C0242350	trastorno#hallazgo	221-231	272_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+23	funcional	funcional	AQ0CS0	C0205245	calificador	232-241	272_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	242-244	272_QUEST_clinical_caseMIR	SENT2	-	-
+25	miembro	miembro	NCMS000	C1285000#C0230415_1	estructura_corporal_1	245-252	272_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+26	inferior	inferior	NCCS000	C1285000#C0230415_2	estructura_corporal_2	253-261	272_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+27	derecho	derecho	NCMS000	C1285000#C0230415_3	estructura_corporal_3	262-269	272_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+28	.	.	Fp	-	-	269-270	272_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	271-273	272_QUEST_clinical_caseMIR	SENT3	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	274-285	272_QUEST_clinical_caseMIR	SENT3	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	286-292	272_QUEST_clinical_caseMIR	SENT3	-	-
+4	pone	poner	VMIP3S0	-	-	293-297	272_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	298-300	272_QUEST_clinical_caseMIR	SENT3	-	-
+6	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	301-311	272_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	312-315	272_QUEST_clinical_caseMIR	SENT3	-	-
+8	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	316-323	272_QUEST_clinical_caseMIR	SENT3	-	-
+9	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	324-332	272_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	de	de	SPS00	C0332285	atributo	333-335	272_QUEST_clinical_caseMIR	SENT3	-	-
+11	100/60	100/60	Z	-	-	336-342	272_QUEST_clinical_caseMIR	SENT3	-	-
+12	mmHg	mmHg	NCMP000	-	-	343-347	272_QUEST_clinical_caseMIR	SENT3	-	-
+13	con	con	SPS00	C0332287	atributo	348-351	272_QUEST_clinical_caseMIR	SENT3	-	-
+14	100	100		-	-	352-355	272_QUEST_clinical_caseMIR	SENT3	-	-
+15	pulsaciones	pulsación	NCFP000	-	-	356-367	272_QUEST_clinical_caseMIR	SENT3	-	-
+16	/	/	Fh	-	-	367-368	272_QUEST_clinical_caseMIR	SENT3	-	-
+17	minuto	minuto	NCMS000	C0439232	calificador	368-374	272_QUEST_clinical_caseMIR	SENT3	-	-
+18	,	,	Fc	-	-	374-375	272_QUEST_clinical_caseMIR	SENT3	-	-
+19	una	una		C0205447_1	calificador_1	376-379	272_QUEST_clinical_caseMIR	SENT3	-	-
+20	abolición	abolición	NCFS000	-	-	380-389	272_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+21	del	del	SP+DA	-	-	390-393	272_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+22	murmullo	murmullo	NCMS000	C0231857_1	hallazgo_1	394-402	272_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+23	vesicular	vesicular	NC00SC0	C0231857_2	hallazgo_2	403-412	272_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	413-415	272_QUEST_clinical_caseMIR	SENT3	-	-
+25	el	el	DA0MS0	-	-	416-418	272_QUEST_clinical_caseMIR	SENT3	-	-
+26	tercio	tercio	NCMS000	C0442051_1	calificador_1	419-425	272_QUEST_clinical_caseMIR	SENT3	-	-
+27	inferior	inferior	NCCS000	C0442051_2	calificador_2	426-434	272_QUEST_clinical_caseMIR	SENT3	-	-
+28	del	del	SP+DA	-	-	435-438	272_QUEST_clinical_caseMIR	SENT3	-	-
+29	hemitórax	hemitórax		C1284910#C0230127_1	estructura_corporal_1	439-448	272_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+30	derecho	derecho	NCMS000	C1284910#C0230127_2	estructura_corporal_2	449-456	272_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+31	y	y	CC	C1706368	calificador	457-458	272_QUEST_clinical_caseMIR	SENT3	-	-
+32	matidez	matidez	NCFS000	-	-	459-466	272_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+33	.	.	Fp	-	-	466-467	272_QUEST_clinical_caseMIR	SENT3	-	-
+34	a	a	SPS00	-	-	468-469	272_QUEST_clinical_caseMIR	SENT3	-	-
+35	la	el	DA0FS0	-	-	470-472	272_QUEST_clinical_caseMIR	SENT3	-	-
+36	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	473-482	272_QUEST_clinical_caseMIR	SENT3	-	-
+37	del	del	SP+DA	-	-	483-486	272_QUEST_clinical_caseMIR	SENT3	-	-
+38	mismo	mismo	PI0MS000	C0445247	calificador	487-492	272_QUEST_clinical_caseMIR	SENT3	-	-
+39	.	.	Fp	-	-	492-493	272_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	494-496	272_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	497-499	272_QUEST_clinical_caseMIR	SENT4	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	500-511	272_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	512-514	272_QUEST_clinical_caseMIR	SENT4	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	515-520	272_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	se	se	P00CN000	-	-	521-523	272_QUEST_clinical_caseMIR	SENT4	-	-
+7	aprecia	apreciar	VMIP3S0	-	-	524-531	272_QUEST_clinical_caseMIR	SENT4	-	-
+8	un	un		C0205447_1	calificador_1	532-534	272_QUEST_clinical_caseMIR	SENT4	-	-
+9	derrame	derrame	NCMS000	C0013687	anomalía_morfológica	535-542	272_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	pleural	pleural	NC00SC0	C1522720	calificador	543-550	272_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+11	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	551-558	272_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+12	,	,	Fc	-	-	558-559	272_QUEST_clinical_caseMIR	SENT4	-	-
+13	también	también	RG	-	-	560-567	272_QUEST_clinical_caseMIR	SENT4	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	568-570	272_QUEST_clinical_caseMIR	SENT4	-	-
+15	el	el	DA0MS0	-	-	571-573	272_QUEST_clinical_caseMIR	SENT4	-	-
+16	tercio	tercio	NCMS000	C0442051_1	calificador_1	574-580	272_QUEST_clinical_caseMIR	SENT4	-	-
+17	inferior	inferior	NCCS000	C0442051_2	calificador_2	581-589	272_QUEST_clinical_caseMIR	SENT4	-	-
+18	.	.	Fp	-	-	589-590	272_QUEST_clinical_caseMIR	SENT4	-	-
+

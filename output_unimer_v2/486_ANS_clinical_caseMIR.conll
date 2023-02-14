@@ -1,0 +1,71 @@
+1	Debe	deber	VMIP3S0	-	-	0-4	486_ANS_clinical_caseMIR	SENT1	-	-
+2	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	5-14	486_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	PP3CN000	-	-	14-16	486_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C0199176_1	procedimiento_1	17-28	486_ANS_clinical_caseMIR	SENT1	-	-
+5	profiláctico	profiláctico	NCMS000	C0199176_2	procedimiento_2	29-41	486_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	42-45	486_ANS_clinical_caseMIR	SENT1	-	-
+7	heparina	heparina	NCFS000	C0019139_1	producto#sustancia_1	46-54	486_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	de	de	SPS00	C0019139_2	producto#sustancia_2	55-57	486_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	bajo	bajo	SPS00	C0019139_3	producto#sustancia_3	58-62	486_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+10	peso	peso	NCMS000	C0019139_4	producto#sustancia_4	63-67	486_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+11	molecular	molecular	AQ0CS0	C0019139_5	producto#sustancia_5	68-77	486_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+12	durante	durante	SPS00	C1444752#C0347984	atributo	78-85	486_ANS_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	86-88	486_ANS_clinical_caseMIR	SENT1	-	-
+14	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	89-97	486_ANS_clinical_caseMIR	SENT1	-	-
+15	y	y	CC	C1706368	calificador	98-99	486_ANS_clinical_caseMIR	SENT1	-	-
+16	hasta	hasta	SPS00	-	-	100-105	486_ANS_clinical_caseMIR	SENT1	-	-
+17	6	6		-	-	106-107	486_ANS_clinical_caseMIR	SENT1	-	-
+18	sema_x0002_nas	sema_x0002_nas		-	-	108-122	486_ANS_clinical_caseMIR	SENT1	-	-
+19	posparto	posparto	NC00SC0	C0086839	calificador	123-131	486_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	131-132	486_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	486_ANS_clinical_caseMIR	SENT2	-	-
+2	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	5-14	486_ANS_clinical_caseMIR	SENT2	-	-
+3	se	se	PP3CN000	-	-	14-16	486_ANS_clinical_caseMIR	SENT2	-	-
+4	tratamiento	tratamiento	NCMS000	C0199176_1	procedimiento_1	17-28	486_ANS_clinical_caseMIR	SENT2	-	-
+5	profiláctico	profiláctico	NCMS000	C0199176_2	procedimiento_2	29-41	486_ANS_clinical_caseMIR	SENT2	-	-
+6	con	con	SPS00	C0332287	atributo	42-45	486_ANS_clinical_caseMIR	SENT2	-	-
+7	aspirina	aspirina	NCFS000	C0004057	sustancia	46-54	486_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	durante	durante	SPS00	C1444752#C0347984	atributo	55-62	486_ANS_clinical_caseMIR	SENT2	-	-
+9	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	63-67	486_ANS_clinical_caseMIR	SENT2	-	-
+10	el	el	DA0MS0	-	-	68-70	486_ANS_clinical_caseMIR	SENT2	-	-
+11	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	71-79	486_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	79-80	486_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	486_ANS_clinical_caseMIR	SENT3	-	-
+2	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	5-14	486_ANS_clinical_caseMIR	SENT3	-	-
+3	se	se	PP3CN000	-	-	14-16	486_ANS_clinical_caseMIR	SENT3	-	-
+4	realizar	realizar	VMN0000	-	-	17-25	486_ANS_clinical_caseMIR	SENT3	-	-
+5	profilaxis	profilaxis	NCFN000	C0199176	procedimiento	26-36	486_ANS_clinical_caseMIR	SENT3	-	-
+6	con	con	SPS00	C0332287	atributo	37-40	486_ANS_clinical_caseMIR	SENT3	-	-
+7	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	41-53	486_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	durante	durante	SPS00	C1444752#C0347984	atributo	54-61	486_ANS_clinical_caseMIR	SENT3	-	-
+9	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	62-66	486_ANS_clinical_caseMIR	SENT3	-	-
+10	el	el	DA0MS0	-	-	67-69	486_ANS_clinical_caseMIR	SENT3	-	-
+11	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	70-78	486_ANS_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	78-79	486_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Dado	dar	VMP00SM	C1947971	calificador	0-4	486_ANS_clinical_caseMIR	SENT4	-	-
+2	que	que	PR0CN000	-	-	5-8	486_ANS_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	9-11	486_ANS_clinical_caseMIR	SENT4	-	-
+4	estudio	estudio	NCMS000	C0557651	medio_ambiente	12-19	486_ANS_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	20-22	486_ANS_clinical_caseMIR	SENT4	-	-
+6	trombofilia	trombofilia	NC00SC0	C0398623	trastorno	23-34	486_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	fue	ser	VSIS3S0	-	-	35-38	486_ANS_clinical_caseMIR	SENT4	-	-
+8	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	39-47	486_ANS_clinical_caseMIR	SENT4	-	-
+9	solo	solo	AQ0MS0	C0205171	calificador	48-52	486_ANS_clinical_caseMIR	SENT4	-	-
+10	se	se	P00CN000	-	-	53-55	486_ANS_clinical_caseMIR	SENT4	-	-
+11	precisa	precisar	VMIP3S0	-	-	56-63	486_ANS_clinical_caseMIR	SENT4	-	-
+12	realizar	realizar	VMN0000	-	-	64-72	486_ANS_clinical_caseMIR	SENT4	-	-
+13	profilaxis	profilaxis	NCFN000	C0199176	procedimiento	73-83	486_ANS_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	84-86	486_ANS_clinical_caseMIR	SENT4	-	-
+15	trombosis	trombosis	NCFN000	C0042487_1	trastorno_1	87-96	486_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+16	venosa	venoso	AQ0FS0	C0042487_2	trastorno_2	97-103	486_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+17	con	con	SPS00	C0332287	atributo	104-107	486_ANS_clinical_caseMIR	SENT4	-	-
+18	medias	media	NCFP000	C0444504#C0162867	calificador#estructura_corporal	108-114	486_ANS_clinical_caseMIR	SENT4	-	-
+19	compresivas	compresivo	AQ0FP0	-	-	115-126	486_ANS_clinical_caseMIR	SENT4	-	-
+20	para	para	SPS00	C0521125	calificador	127-131	486_ANS_clinical_caseMIR	SENT4	-	-
+21	miembros	miembro	NCMP000	C0015385	estructura_corporal	132-140	486_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+22	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	141-151	486_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+23	.	.	Fp	-	-	151-152	486_ANS_clinical_caseMIR	SENT4	-	-
+

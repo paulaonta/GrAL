@@ -1,0 +1,17 @@
+1	Distrofia	distrofia	NCFS000	C0730292_1	trastorno_1	0-9	616_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	macular	macular	VMN0000	C0730292_2	trastorno_2	10-17	616_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	17-18	616_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Degeneración	degeneración	NCFS000	C0242383_1	trastorno_1	0-12	616_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	macular	macular	VMN0000	C0242383_2	trastorno_2	13-20	616_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	senil	senil	AQ0CS0	C0242383_3	trastorno_3	21-26	616_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+4	.	.	Fp	-	-	26-27	616_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pseudoagujero	pseudoagujero	NCMS000	-	-	0-13	616_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	macular	macular	AQ0CS0	-	-	14-21	616_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	21-22	616_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Edema	edema	NCMS000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	0-5	616_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	macular	macular	VMN0000	-	-	6-13	616_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	13-14	616_ANS_clinical_caseMIR	SENT4	-	-
+

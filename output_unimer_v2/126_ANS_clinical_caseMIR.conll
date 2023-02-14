@@ -1,0 +1,23 @@
+1	Eco-doppler	eco-doppler	NCCS000	-	-	0-11	126_ANS_clinical_caseMIR	SENT1	-	-
+2	venoso	venoso	AQ0MS0	C0348013	calificador	12-18	126_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	de	de	SPS00	C0332285	atributo	19-21	126_ANS_clinical_caseMIR	SENT1	-	-
+4	miembros	miembro	NCMP000	C0015385	estructura_corporal	22-30	126_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	31-41	126_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+6	.	.	Fp	-	-	41-42	126_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Angiorresonancia	angiorresonancia	NCFS000	-	-	0-16	126_ANS_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332285	atributo	17-19	126_ANS_clinical_caseMIR	SENT2	-	-
+3	miembros	miembro	NCMP000	C0015385	estructura_corporal	20-28	126_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	29-39	126_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	39-40	126_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Arteriografía	arteriografía	NC00SC0	C0003844	procedimiento	0-13	126_ANS_clinical_caseMIR	SENT3	-	-
+2	.	.	Fp	-	-	13-14	126_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Indice	indecir	VMIP3S0	-	-	0-6	126_ANS_clinical_caseMIR	SENT4	-	-
+2	tobillo-brazo	tobillo-brazo	NCMS000	-	-	7-20	126_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	20-21	126_ANS_clinical_caseMIR	SENT4	-	-
+
+1	AngioTC	angiotc	NC00000	-	-	0-7	126_ANS_clinical_caseMIR	SENT5	-	-
+2	.	.	Fp	-	-	7-8	126_ANS_clinical_caseMIR	SENT5	-	-
+

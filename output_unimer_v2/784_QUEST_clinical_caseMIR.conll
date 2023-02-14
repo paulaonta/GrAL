@@ -1,0 +1,94 @@
+1	¿	¿	Fia	-	-	283-284	784_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	284-288	784_QUEST_clinical_caseMIR	SENT1	-	-
+3	sería	ser	VSIC1S0	-	-	289-294	784_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	295-297	784_QUEST_clinical_caseMIR	SENT1	-	-
+5	número	número	NCMS000	C0237753#C1265611	calificador#atributo	298-304	784_QUEST_clinical_caseMIR	SENT1	-	-
+6	necesario	necesario	AQ0MS0	-	-	305-314	784_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	315-316	784_QUEST_clinical_caseMIR	SENT1	-	-
+8	tratar	tratar	VMN0000	-	-	317-323	784_QUEST_clinical_caseMIR	SENT1	-	-
+9	(	(	Fpa	-	-	324-325	784_QUEST_clinical_caseMIR	SENT1	-	-
+10	NNT	nnt	NCMS000	-	-	325-328	784_QUEST_clinical_caseMIR	SENT1	-	-
+11	)	)	Fpt	-	-	328-329	784_QUEST_clinical_caseMIR	SENT1	-	-
+12	para	para	SPS00	C0521125	calificador	330-334	784_QUEST_clinical_caseMIR	SENT1	-	-
+13	prevenir	prevenir	VMN0000	-	-	335-343	784_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	344-346	784_QUEST_clinical_caseMIR	SENT1	-	-
+15	ictus	ictus	NCMN000	-	-	347-352	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	embolígeno	embolígeno	NCMS000	-	-	353-363	784_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	con	con	SPS00	C0332287	atributo	364-367	784_QUEST_clinical_caseMIR	SENT1	-	-
+18	el	el	DA0MS0	-	-	368-370	784_QUEST_clinical_caseMIR	SENT1	-	-
+19	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	371-382	784_QUEST_clinical_caseMIR	SENT1	-	-
+20	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	383-397	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	?	?	Fit	-	-	397-398	784_QUEST_clinical_caseMIR	SENT1	-	-
+22	:	:	Fd	-	-	398-399	784_QUEST_clinical_caseMIR	SENT1	-	-
+23	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	784_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	6-8	784_QUEST_clinical_caseMIR	SENT1	-	-
+25	70	70		-	-	9-11	784_QUEST_clinical_caseMIR	SENT1	-	-
+26	años	año	NCMP000	C0439234	calificador	12-16	784_QUEST_clinical_caseMIR	SENT1	-	-
+27	que	que	PR0CN000	-	-	17-20	784_QUEST_clinical_caseMIR	SENT1	-	-
+28	acude	acudir	VMIP3S0	-	-	21-26	784_QUEST_clinical_caseMIR	SENT1	-	-
+29	a	a	SPS00	-	-	27-28	784_QUEST_clinical_caseMIR	SENT1	-	-
+30	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	784_QUEST_clinical_caseMIR	SENT1	-	-
+31	por	por	SPS00	C0678226	atributo	39-42	784_QUEST_clinical_caseMIR	SENT1	-	-
+32	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	43-50	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+33	.	.	Fp	-	-	50-51	784_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	784_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	55-57	784_QUEST_clinical_caseMIR	SENT2	-	-
+3	examen	examen	NCMS000	C0031809_1	procedimiento_1	58-64	784_QUEST_clinical_caseMIR	SENT2	-	-
+4	físico	físico	NCMS000	C0031809_2	procedimiento_2	65-71	784_QUEST_clinical_caseMIR	SENT2	-	-
+5	destaca	destacar	VMIP3S0	-	-	72-79	784_QUEST_clinical_caseMIR	SENT2	-	-
+6	palidez	palidez	NCFS000	C0030232#C1275397	hallazgo	80-87	784_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	cutáneomucosa	cutáneomucosa	NCFS000	-	-	88-101	784_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	con	con	SPS00	C0332287	atributo	102-105	784_QUEST_clinical_caseMIR	SENT2	-	-
+9	subictericia	subictericia	NCFS000	-	-	106-118	784_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	conjuntival	conjuntival	AQ0CS0	-	-	119-130	784_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	y	y	CC	C1706368	calificador	131-132	784_QUEST_clinical_caseMIR	SENT2	-	-
+12	un	un		C0205447_1	calificador_1	133-135	784_QUEST_clinical_caseMIR	SENT2	-	-
+13	soplo	soplo	NCMS000	C0232258_1	hallazgo_1	136-141	784_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	pansistólico	pansistólico		C0232258_2	hallazgo_2	142-154	784_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+15	audible	audible	AQ0CS0	-	-	155-162	784_QUEST_clinical_caseMIR	SENT2	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	163-165	784_QUEST_clinical_caseMIR	SENT2	-	-
+17	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	166-171	784_QUEST_clinical_caseMIR	SENT2	-	-
+18	los	el	DA0MP0	-	-	172-175	784_QUEST_clinical_caseMIR	SENT2	-	-
+19	focos	foco	NCMP000	-	-	176-181	784_QUEST_clinical_caseMIR	SENT2	-	-
+20	.	.	Fp	-	-	181-182	784_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Analíticamente	analíticamente	RG	-	-	183-197	784_QUEST_clinical_caseMIR	SENT3	-	-
+2	destaca	destacar	VMIP3S0	-	-	198-205	784_QUEST_clinical_caseMIR	SENT3	-	-
+3	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	206-217	784_QUEST_clinical_caseMIR	SENT3	-	-
+4	8	8	Z	-	-	218-219	784_QUEST_clinical_caseMIR	SENT3	-	-
+5	g	g	NCMN000	-	-	220-221	784_QUEST_clinical_caseMIR	SENT3	-	-
+6	/	/	Fh	-	-	221-222	784_QUEST_clinical_caseMIR	SENT3	-	-
+7	dl	decilitro	NCMN000	C0439241	calificador	222-224	784_QUEST_clinical_caseMIR	SENT3	-	-
+8	,	,	Fc	-	-	224-225	784_QUEST_clinical_caseMIR	SENT3	-	-
+9	VCM	vcm	NC00SC0	C0524587	entidad_observable	226-229	784_QUEST_clinical_caseMIR	SENT3	-	-
+10	100	100		-	-	230-233	784_QUEST_clinical_caseMIR	SENT3	-	-
+11	fl	fl	NC00SC0	C0475213	calificador	234-236	784_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	236-237	784_QUEST_clinical_caseMIR	SENT3	-	-
+13	LDH	ldh	NC00SC0	C0022917	sustancia	238-241	784_QUEST_clinical_caseMIR	SENT3	-	-
+14	900	900		-	-	242-245	784_QUEST_clinical_caseMIR	SENT3	-	-
+15	U	o	CC	-	-	246-247	784_QUEST_clinical_caseMIR	SENT3	-	-
+16	/	/	Fh	-	-	247-248	784_QUEST_clinical_caseMIR	SENT3	-	-
+17	l	l	NCFS000	-	-	248-249	784_QUEST_clinical_caseMIR	SENT3	-	-
+18	,	,	Fc	-	-	249-250	784_QUEST_clinical_caseMIR	SENT3	-	-
+19	haptoglobina	haptoglobina	NCFS000	C0018595	sustancia	251-263	784_QUEST_clinical_caseMIR	SENT3	-	-
+20	indetectable	indetectable	AQ0CS0	-	-	264-276	784_QUEST_clinical_caseMIR	SENT3	-	-
+21	y	y	CC	C1706368	calificador	277-278	784_QUEST_clinical_caseMIR	SENT3	-	-
+22	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	279-290	784_QUEST_clinical_caseMIR	SENT3	-	-
+23	total	total	NCMS000	C0201913_2	procedimiento_2	291-296	784_QUEST_clinical_caseMIR	SENT3	-	-
+24	3.5	3.5	Z	-	-	297-300	784_QUEST_clinical_caseMIR	SENT3	-	-
+25	mg	mg	NCMN000	-	-	301-303	784_QUEST_clinical_caseMIR	SENT3	-	-
+26	/	/	Fh	-	-	303-304	784_QUEST_clinical_caseMIR	SENT3	-	-
+27	dl	decilitro	NCMN000	C0439241	calificador	304-306	784_QUEST_clinical_caseMIR	SENT3	-	-
+28	.	.	Fp	-	-	306-307	784_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	308-310	784_QUEST_clinical_caseMIR	SENT4	-	-
+2	solicitó	solicitar	VMIS3S0	-	-	311-319	784_QUEST_clinical_caseMIR	SENT4	-	-
+3	la	el	DA0FS0	-	-	320-322	784_QUEST_clinical_caseMIR	SENT4	-	-
+4	determinación	determinación	NCFS000	C0242485	procedimiento	323-336	784_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	337-339	784_QUEST_clinical_caseMIR	SENT4	-	-
+6	una	una		C0205447_1	calificador_1	340-343	784_QUEST_clinical_caseMIR	SENT4	-	-
+7	prueba	prueba	NCFS000	-	-	344-350	784_QUEST_clinical_caseMIR	SENT4	-	-
+8	inmunohematológica	inmunohematológica	AQ0FS00	-	-	351-369	784_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	369-370	784_QUEST_clinical_caseMIR	SENT4	-	-
+

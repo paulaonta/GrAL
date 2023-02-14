@@ -1,0 +1,64 @@
+1	Mantener	mantener	VMN0000	-	-	0-8	12_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	9-11	12_ANS_clinical_caseMIR	SENT1	-	-
+3	mismo	mismo	AQ0MS0	C0445247	calificador	12-17	12_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	18-29	12_ANS_clinical_caseMIR	SENT1	-	-
+5	ya	ya	RG	-	-	30-32	12_ANS_clinical_caseMIR	SENT1	-	-
+6	que	que	PR0CN000	-	-	33-36	12_ANS_clinical_caseMIR	SENT1	-	-
+7	está	estar	VAIP3S0	-	-	37-41	12_ANS_clinical_caseMIR	SENT1	-	-
+8	bien	bien	RG	C0205170	calificador	42-46	12_ANS_clinical_caseMIR	SENT1	-	-
+9	controlada	controlar	VMP00SF	-	-	47-57	12_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	57-58	12_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Reducir	reducir	VMN0000	-	-	0-7	12_ANS_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	8-10	12_ANS_clinical_caseMIR	SENT2	-	-
+3	dosis	dosis	NCFN000	-	-	11-16	12_ANS_clinical_caseMIR	SENT2	-	-
+4	del	del	SP+DA	-	-	17-20	12_ANS_clinical_caseMIR	SENT2	-	-
+5	comprimido	comprimido	NCMS000	C0994475#C0039225	sustancia#calificador	21-31	12_ANS_clinical_caseMIR	SENT2	-	-
+6	ya	ya	RG	-	-	32-34	12_ANS_clinical_caseMIR	SENT2	-	-
+7	que	que	PR0CN000	-	-	35-38	12_ANS_clinical_caseMIR	SENT2	-	-
+8	posiblemente	posiblemente	RG	C2362652	calificador	39-51	12_ANS_clinical_caseMIR	SENT2	-	-
+9	necesite	necesitar	VMSP3S0	-	-	52-60	12_ANS_clinical_caseMIR	SENT2	-	-
+10	menos	menos	RG	C0332288	atributo	61-66	12_ANS_clinical_caseMIR	SENT2	-	-
+11	dosis	dosis	NCFN000	-	-	67-72	12_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	72-73	12_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Cambiar	cambiar	VMN0000	-	-	0-7	12_ANS_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	8-9	12_ANS_clinical_caseMIR	SENT3	-	-
+3	un	un		C0205447_1	calificador_1	10-12	12_ANS_clinical_caseMIR	SENT3	-	-
+4	Antagonista	antagonista	NCCS000	-	-	13-24	12_ANS_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	25-27	12_ANS_clinical_caseMIR	SENT3	-	-
+6	los	el	DA0MP0	-	-	28-31	12_ANS_clinical_caseMIR	SENT3	-	-
+7	Receptores	receptor	NCMP000	C0597357	sustancia	32-42	12_ANS_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	43-45	12_ANS_clinical_caseMIR	SENT3	-	-
+9	la	el	DA0FS0	-	-	46-48	12_ANS_clinical_caseMIR	SENT3	-	-
+10	Angiotensina	angiotensina	NCFS000	C0003009_1	sustancia_1	49-61	12_ANS_clinical_caseMIR	SENT3	-	-
+11	II	II		C0003009_2	sustancia_2	62-64	12_ANS_clinical_caseMIR	SENT3	-	-
+12	porque	porque	CS	-	-	65-71	12_ANS_clinical_caseMIR	SENT3	-	-
+13	producen	producir	VMIP3P0	-	-	72-80	12_ANS_clinical_caseMIR	SENT3	-	-
+14	menos	menos	RG	C0332288	atributo	81-86	12_ANS_clinical_caseMIR	SENT3	-	-
+15	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	87-90	12_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	y	y	CC	C1706368	calificador	91-92	12_ANS_clinical_caseMIR	SENT3	-	-
+17	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	93-99	12_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	100-102	12_ANS_clinical_caseMIR	SENT3	-	-
+19	miembros	miembro	NCMP000	C0015385	estructura_corporal	103-111	12_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	112-122	12_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+21	.	.	Fp	-	-	122-123	12_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Retirar	retirar	VMN0000	-	-	0-7	12_ANS_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	8-10	12_ANS_clinical_caseMIR	SENT4	-	-
+3	medicación	medicación	NCFS000	C0013227	sustancia	11-21	12_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	hipotensora	hipotensora	AQ0FS00	-	-	22-33	12_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+5	ya	ya	RG	-	-	34-36	12_ANS_clinical_caseMIR	SENT4	-	-
+6	que	que	PR0CN000	-	-	37-40	12_ANS_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	41-43	12_ANS_clinical_caseMIR	SENT4	-	-
+8	tensión	tensión	NCFS000	C0038435	hallazgo	44-51	12_ANS_clinical_caseMIR	SENT4	-	-
+9	está	estar	VAIP3S0	-	-	52-56	12_ANS_clinical_caseMIR	SENT4	-	-
+10	bien	bien	RG	C0205170	calificador	57-61	12_ANS_clinical_caseMIR	SENT4	-	-
+11	controlada	controlar	VMP00SF	-	-	62-72	12_ANS_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	72-73	12_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Cambiar	cambiar	VMN0000	-	-	0-7	12_ANS_clinical_caseMIR	SENT5	-	-
+2	a	a	SPS00	-	-	8-9	12_ANS_clinical_caseMIR	SENT5	-	-
+3	alfametildopa	alfametildopa	NCFS000	-	-	10-23	12_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	23-24	12_ANS_clinical_caseMIR	SENT5	-	-
+

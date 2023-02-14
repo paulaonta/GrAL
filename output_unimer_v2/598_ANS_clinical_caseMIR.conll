@@ -1,0 +1,20 @@
+1	Rechazo	rechazo	NCMS000	-	-	0-7	598_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	agudo	agudo	AQ0MS0	C0205178	calificador	8-13	598_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	13-14	598_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Uropatía	Uropatía		C0178879_1	trastorno_1	0-8	598_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	obstructiva	obstructivo	AQ0FS0	C0178879_2	trastorno_2	9-20	598_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	.	.	Fp	-	-	20-21	598_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	598_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0678226	atributo	11-14	598_ANS_clinical_caseMIR	SENT3	-	-
+3	poliomavirus	poliomavirus		C0005670_1	organismo_1	15-27	598_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	BK	bacilo_de_koch_(mycobacterium_tuberculosis)	NC00YL0	C0005670_2	organismo_2	28-30	598_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+5	.	.	Fp	-	-	30-31	598_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Toxicidad	toxicidad	NCFS000	C0600688	-	0-9	598_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	aguda	agudo	AQ0FS0	C0205178	calificador	10-15	598_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	por	por	SPS00	C0678226	atributo	16-19	598_ANS_clinical_caseMIR	SENT4	-	-
+4	anticalcineurínicos	anticalcineurínicos	NCMP000	-	-	20-39	598_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+5	.	.	Fp	-	-	39-40	598_ANS_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,22 @@
+1	¿	¿	Fia	-	-	878-879	494_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	879-883	494_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	884-886	494_ANS_clinical_caseMIR	SENT1	-	-
+4	las	el	DA0FP0	-	-	887-890	494_ANS_clinical_caseMIR	SENT1	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	891-901	494_ANS_clinical_caseMIR	SENT1	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	902-914	494_ANS_clinical_caseMIR	SENT1	-	-
+7	es	ser	VSIP3S0	-	-	915-917	494_ANS_clinical_caseMIR	SENT1	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	918-926	494_ANS_clinical_caseMIR	SENT1	-	-
+9	?	?	Fit	-	-	926-927	494_ANS_clinical_caseMIR	SENT1	-	-
+10	:	:	Fd	-	-	927-928	494_ANS_clinical_caseMIR	SENT1	-	-
+11	Cefazolina	cefazolina	NC00SC0	C0007546	producto#sustancia	0-10	494_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	.	.	Fp	-	-	10-11	494_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Cloxacilina	cloxacilina	NC00SC0	C0009077	producto#sustancia	0-11	494_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	11-12	494_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Vancomicina	vancomicina	NC00SC0	C0042313	sustancia	0-11	494_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	11-12	494_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Linezolid	linezolid	NC00SC0	C0663241	producto#sustancia	0-9	494_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	9-10	494_ANS_clinical_caseMIR	SENT4	-	-
+

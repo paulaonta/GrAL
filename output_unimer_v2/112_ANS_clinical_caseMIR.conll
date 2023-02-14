@@ -1,0 +1,44 @@
+1	Conseguir	conseguir	VMN0000	-	-	0-9	112_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	10-12	112_ANS_clinical_caseMIR	SENT1	-	-
+3	óptimo	bueno	AQSMS0	C0205170	calificador	13-19	112_ANS_clinical_caseMIR	SENT1	-	-
+4	control	control	NCMS000	C2587213	atributo	20-27	112_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	28-30	112_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	31-33	112_ANS_clinical_caseMIR	SENT1	-	-
+7	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	34-41	112_ANS_clinical_caseMIR	SENT1	-	-
+8	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	42-50	112_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	50-51	112_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Conseguir	conseguir	VMN0000	-	-	0-9	112_ANS_clinical_caseMIR	SENT2	-	-
+2	unos	uno	DI0MP0	C0205447	calificador	10-14	112_ANS_clinical_caseMIR	SENT2	-	-
+3	niveles	nivel	NCMP000	C0456079	atributo	15-22	112_ANS_clinical_caseMIR	SENT2	-	-
+4	óptimos	bueno	AQSMP0	C0205170	calificador	23-30	112_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	31-33	112_ANS_clinical_caseMIR	SENT2	-	-
+6	hemoglobina	hemoglobina	NCFS000	C0019018_1	sustancia_1	34-45	112_ANS_clinical_caseMIR	SENT2	-	-
+7	A1C	hemoglobina_a1c	NC00YL0	C0019018_2	sustancia_2	46-49	112_ANS_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	49-50	112_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Añadir	añadir	VMN0000	-	-	0-6	112_ANS_clinical_caseMIR	SENT3	-	-
+2	al	al	SP+DA	-	-	7-9	112_ANS_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	10-21	112_ANS_clinical_caseMIR	SENT3	-	-
+4	un	un		C0205447_1	calificador_1	22-24	112_ANS_clinical_caseMIR	SENT3	-	-
+5	antioxidante	antioxidante	NCMS000	-	-	25-37	112_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	.	.	Fp	-	-	37-38	112_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Abandonar	abandonar	VMN0000	-	-	0-9	112_ANS_clinical_caseMIR	SENT4	-	-
+2	el	el	DA0MS0	-	-	10-12	112_ANS_clinical_caseMIR	SENT4	-	-
+3	tabaco	tabaco	NCMS000	C0331214#C0040329	organismo#sustancia	13-19	112_ANS_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	19-20	112_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Conseguir	conseguir	VMN0000	-	-	0-9	112_ANS_clinical_caseMIR	SENT5	-	-
+2	unos	uno	DI0MP0	C0205447	calificador	10-14	112_ANS_clinical_caseMIR	SENT5	-	-
+3	niveles	nivel	NCMP000	C0456079	atributo	15-22	112_ANS_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	112_ANS_clinical_caseMIR	SENT5	-	-
+5	LDL	low-density_lipoprotein_(lipoproteína_de_baja_densidad)	NC00YL0	-	-	26-29	112_ANS_clinical_caseMIR	SENT5	-	-
+6	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	30-40	112_ANS_clinical_caseMIR	SENT5	-	-
+7	a	a	SPS00	-	-	41-42	112_ANS_clinical_caseMIR	SENT5	-	-
+8	100	100	Z	-	-	43-46	112_ANS_clinical_caseMIR	SENT5	-	-
+9	mg	mg	NCMN000	-	-	47-49	112_ANS_clinical_caseMIR	SENT5	-	-
+10	/	/	Fh	-	-	49-50	112_ANS_clinical_caseMIR	SENT5	-	-
+11	dl	decilitro	NCMN000	C0439241	calificador	50-52	112_ANS_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	52-53	112_ANS_clinical_caseMIR	SENT5	-	-
+

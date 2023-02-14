@@ -1,0 +1,43 @@
+1	FEV1	FEV1		-	-	0-4	510_ANS_clinical_caseMIR	SENT1	-	-
+2	(	(	Fpa	-	-	5-6	510_ANS_clinical_caseMIR	SENT1	-	-
+3	flujo	flujo	NCMS000	-	-	6-11	510_ANS_clinical_caseMIR	SENT1	-	-
+4	espiratorio	espiratorio	AQ0MS00	-	-	12-23	510_ANS_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	510_ANS_clinical_caseMIR	SENT1	-	-
+6	el	el	DA0MS0	-	-	27-29	510_ANS_clinical_caseMIR	SENT1	-	-
+7	primer	1	AO0MS0	-	-	30-36	510_ANS_clinical_caseMIR	SENT1	-	-
+8	segundo	2	AO0MS0	-	-	37-44	510_ANS_clinical_caseMIR	SENT1	-	-
+9	)	)	Fpt	-	-	44-45	510_ANS_clinical_caseMIR	SENT1	-	-
+10	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	46-51	510_ANS_clinical_caseMIR	SENT1	-	-
+11	del	del	SP+DA	-	-	52-55	510_ANS_clinical_caseMIR	SENT1	-	-
+12	80	80	Z	-	-	56-58	510_ANS_clinical_caseMIR	SENT1	-	-
+13	%	%	Ft	-	-	58-59	510_ANS_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	59-60	510_ANS_clinical_caseMIR	SENT1	-	-
+
+1	DLCO	diffusing_capacity_for_lung_carbon_monoxide_(capacidad_de_difusión_pulmonar_del_monóxido_de_carbono)	NC00YL0	-	-	0-4	510_ANS_clinical_caseMIR	SENT2	-	-
+2	(	(	Fpa	-	-	5-6	510_ANS_clinical_caseMIR	SENT2	-	-
+3	capacidad	capacidad	NCFS000	C0086035	hallazgo	6-15	510_ANS_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	16-18	510_ANS_clinical_caseMIR	SENT2	-	-
+5	difusión	difusión	NCFS000	C0012222	función	19-27	510_ANS_clinical_caseMIR	SENT2	-	-
+6	)	)	Fpt	-	-	27-28	510_ANS_clinical_caseMIR	SENT2	-	-
+7	normal	normal	AQ0CS0	C0205307	calificador	29-35	510_ANS_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	35-36	510_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	0-8	510_ANS_clinical_caseMIR	SENT3	-	-
+2	FEVI	fracción_de_eyección_del_ventrículo_izquierdo	NC00YL0	-	-	9-13	510_ANS_clinical_caseMIR	SENT3	-	-
+3	/	/	Fh	-	-	13-14	510_ANS_clinical_caseMIR	SENT3	-	-
+4	FVC	forced_vital_capacity_(capacidad_vital_forzada)	NC00YL0	-	-	14-17	510_ANS_clinical_caseMIR	SENT3	-	-
+5	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	18-23	510_ANS_clinical_caseMIR	SENT3	-	-
+6	del	del	SP+DA	-	-	24-27	510_ANS_clinical_caseMIR	SENT3	-	-
+7	70	70	Z	-	-	28-30	510_ANS_clinical_caseMIR	SENT3	-	-
+8	%	%	Ft	-	-	30-31	510_ANS_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	31-32	510_ANS_clinical_caseMIR	SENT3	-	-
+
+1	TLC	tlc	NC00YL0	-	-	0-3	510_ANS_clinical_caseMIR	SENT4	-	-
+2	(	(	Fpa	-	-	4-5	510_ANS_clinical_caseMIR	SENT4	-	-
+3	capacidad	capacidad	NCFS000	C0040509_1	entidad_observable_1	5-14	510_ANS_clinical_caseMIR	SENT4	-	-
+4	pulmonar	pulmonar	NC00SC0	C0040509_2	entidad_observable_2	15-23	510_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	total	total	NCMS000	C0040509_3	entidad_observable_3	24-29	510_ANS_clinical_caseMIR	SENT4	-	-
+6	)	)	Fpt	-	-	29-30	510_ANS_clinical_caseMIR	SENT4	-	-
+7	aumentada	aumentar	VMP00SF	-	-	31-40	510_ANS_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	40-41	510_ANS_clinical_caseMIR	SENT4	-	-
+

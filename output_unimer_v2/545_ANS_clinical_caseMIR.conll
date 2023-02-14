@@ -1,0 +1,58 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	545_ANS_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	10-11	545_ANS_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	12-14	545_ANS_clinical_caseMIR	SENT1	-	-
+4	comisión	comisión	NCFS000	-	-	15-23	545_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	24-26	545_ANS_clinical_caseMIR	SENT1	-	-
+6	ética	ética	NCFS000	-	-	27-32	545_ANS_clinical_caseMIR	SENT1	-	-
+7	del	del	SP+DA	-	-	33-36	545_ANS_clinical_caseMIR	SENT1	-	-
+8	hospital	hospital	NCMS000	C1510665	medio_ambiente	37-45	545_ANS_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	46-49	545_ANS_clinical_caseMIR	SENT1	-	-
+10	ayude	ayudar	VMSP3S0	-	-	50-55	545_ANS_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	56-57	545_ANS_clinical_caseMIR	SENT1	-	-
+12	determinar	determinar	VMN0000	-	-	58-68	545_ANS_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	69-71	545_ANS_clinical_caseMIR	SENT1	-	-
+14	decisión	decisión	NCFS000	-	-	72-80	545_ANS_clinical_caseMIR	SENT1	-	-
+15	que	que	PR0CN000	-	-	81-84	545_ANS_clinical_caseMIR	SENT1	-	-
+16	sea	ser	VSSP1S0	-	-	85-88	545_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	89-91	545_ANS_clinical_caseMIR	SENT1	-	-
+18	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	92-97	545_ANS_clinical_caseMIR	SENT1	-	-
+19	interés	interés	NCMS000	-	-	98-105	545_ANS_clinical_caseMIR	SENT1	-	-
+20	para	para	SPS00	C0521125	calificador	106-110	545_ANS_clinical_caseMIR	SENT1	-	-
+21	el	el	DA0MS0	-	-	111-113	545_ANS_clinical_caseMIR	SENT1	-	-
+22	paciente	paciente	NCCS000	C0030705	persona	114-122	545_ANS_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	122-123	545_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Valorar	valorar	VMN0000	-	-	0-7	545_ANS_clinical_caseMIR	SENT2	-	-
+2	si	si	CS	-	-	8-10	545_ANS_clinical_caseMIR	SENT2	-	-
+3	la	el	DA0FS0	-	-	11-13	545_ANS_clinical_caseMIR	SENT2	-	-
+4	residencia	residencia	NCFS000	-	-	14-24	545_ANS_clinical_caseMIR	SENT2	-	-
+5	acoge	acoger	VMIP3S0	-	-	25-30	545_ANS_clinical_caseMIR	SENT2	-	-
+6	al	al	SP+DA	-	-	31-33	545_ANS_clinical_caseMIR	SENT2	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	34-42	545_ANS_clinical_caseMIR	SENT2	-	-
+8	si	si	CS	-	-	43-45	545_ANS_clinical_caseMIR	SENT2	-	-
+9	no	no	RN	C1298908	calificador	46-48	545_ANS_clinical_caseMIR	SENT2	-	-
+10	se	se	P00CN000	-	-	49-51	545_ANS_clinical_caseMIR	SENT2	-	-
+11	realiza	realizar	VMIP3S0	-	-	52-59	545_ANS_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	60-62	545_ANS_clinical_caseMIR	SENT2	-	-
+13	PEG	peso_elevado_para_la_edad_gestacional	NC00YL0	-	-	63-66	545_ANS_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	66-67	545_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pedir	pedir	VMN0000	-	-	0-5	545_ANS_clinical_caseMIR	SENT3	-	-
+2	una	una		C0205447_1	calificador_1	6-9	545_ANS_clinical_caseMIR	SENT3	-	-
+3	orden	orden	NCMS000	C0699794	atributo	10-15	545_ANS_clinical_caseMIR	SENT3	-	-
+4	judicial	judicial	AQ0CS0	-	-	16-24	545_ANS_clinical_caseMIR	SENT3	-	-
+5	para	para	SPS00	C0521125	calificador	25-29	545_ANS_clinical_caseMIR	SENT3	-	-
+6	realizar	realizar	VMN0000	-	-	30-38	545_ANS_clinical_caseMIR	SENT3	-	-
+7	la	el	DA0FS0	-	-	39-41	545_ANS_clinical_caseMIR	SENT3	-	-
+8	PEG	peso_elevado_para_la_edad_gestacional	NC00YL0	-	-	42-45	545_ANS_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	45-46	545_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Enrolar	enrolar	VMN0000	-	-	0-7	545_ANS_clinical_caseMIR	SENT4	-	-
+2	al	al	SP+DA	-	-	8-10	545_ANS_clinical_caseMIR	SENT4	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	11-19	545_ANS_clinical_caseMIR	SENT4	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	20-22	545_ANS_clinical_caseMIR	SENT4	-	-
+5	cuidados	cuidar	VMP00PM	C0030231_1	régimen/tratamiento_1	23-31	545_ANS_clinical_caseMIR	SENT4	-	-
+6	paliativos	paliativo	NCMP000	C0030231_2	régimen/tratamiento_2	32-42	545_ANS_clinical_caseMIR	SENT4	-	-
+7	terminales	terminal	AQ0CP0	-	-	43-53	545_ANS_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	53-54	545_ANS_clinical_caseMIR	SENT4	-	-
+

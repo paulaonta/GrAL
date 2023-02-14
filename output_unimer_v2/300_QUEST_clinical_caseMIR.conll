@@ -1,0 +1,75 @@
+1	Señale	señalar	VMM03S0	-	-	405-411	300_QUEST_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	412-414	300_QUEST_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	415-424	300_QUEST_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	425-433	300_QUEST_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	433-434	300_QUEST_clinical_caseMIR	SENT1	-	-
+6	Estudiante	estudiante	NCCS000	C0038492	ocupación	0-10	300_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	11-13	300_QUEST_clinical_caseMIR	SENT1	-	-
+8	historia	historia	NCFS000	-	-	14-22	300_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	23-25	300_QUEST_clinical_caseMIR	SENT1	-	-
+10	24	24		-	-	26-28	300_QUEST_clinical_caseMIR	SENT1	-	-
+11	años	año	NCMP000	C0439234	calificador	29-33	300_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	34-37	300_QUEST_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	38-39	300_QUEST_clinical_caseMIR	SENT1	-	-
+14	las	el	DA0FP0	-	-	40-43	300_QUEST_clinical_caseMIR	SENT1	-	-
+15	tres	tres		-	-	44-48	300_QUEST_clinical_caseMIR	SENT1	-	-
+16	semanas	semana	NCFP000	C0439230	calificador	49-56	300_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	57-59	300_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	60-62	300_QUEST_clinical_caseMIR	SENT1	-	-
+19	catarro	catarro	NCMS000	C1384493#C0333273	hallazgo#anomalía_morfológica	63-70	300_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	71-73	300_QUEST_clinical_caseMIR	SENT1	-	-
+21	vías	vía	NCFP000	C0035237_1	estructura_corporal_1	74-78	300_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	respiratorias	respiratorio	AQ0FP0	C0035237_2	estructura_corporal_2	79-92	300_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	altas	alto	AQ0FP0	C0205250	calificador	93-98	300_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	acude	acudir	VMIP3S0	-	-	99-104	300_QUEST_clinical_caseMIR	SENT1	-	-
+25	al	al	SP+DA	-	-	105-107	300_QUEST_clinical_caseMIR	SENT1	-	-
+26	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	108-114	300_QUEST_clinical_caseMIR	SENT1	-	-
+27	por	por	SPS00	C0678226	atributo	115-118	300_QUEST_clinical_caseMIR	SENT1	-	-
+28	sensación	sensación	NCFS000	C0036658#C1455667	calificador	119-128	300_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	de	de	SPS00	C0332285	atributo	129-131	300_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+30	acorchamiento	acorchamiento	NCMS000	-	-	132-145	300_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	146-148	300_QUEST_clinical_caseMIR	SENT1	-	-
+32	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	149-154	300_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+33	y	y	CC	C1706368	calificador	155-156	300_QUEST_clinical_caseMIR	SENT1	-	-
+34	pérdida	pérdida	NCFS000	-	-	157-164	300_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	de	de	SPS00	C0332285	atributo	165-167	300_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+36	fuerza	fuerza	NCFS000	-	-	168-174	300_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+37	en	en	SPS00	C1720294#C0332285	calificador#atributo	175-177	300_QUEST_clinical_caseMIR	SENT1	-	-
+38	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	178-190	300_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+39	en	en	SPS00	C1720294#C0332285	calificador#atributo	191-193	300_QUEST_clinical_caseMIR	SENT1	-	-
+40	sus	su	DP3CP0	-	-	194-197	300_QUEST_clinical_caseMIR	SENT1	-	-
+41	últimos	último	AO0MP0	-	-	198-205	300_QUEST_clinical_caseMIR	SENT1	-	-
+42	días	día	NCMP000	C0439228#C0332169	calificador	206-210	300_QUEST_clinical_caseMIR	SENT1	-	-
+43	.	.	Fp	-	-	210-211	300_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	212-214	300_QUEST_clinical_caseMIR	SENT2	-	-
+2	cuadro	cuadro	NCMS000	-	-	215-221	300_QUEST_clinical_caseMIR	SENT2	-	-
+3	se	se	P00CN000	-	-	222-224	300_QUEST_clinical_caseMIR	SENT2	-	-
+4	precedió	preceder	VMIS3S0	-	-	225-233	300_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	234-236	300_QUEST_clinical_caseMIR	SENT2	-	-
+6	dolor	dolor	NCMS000	C0024031_1	trastorno_1	237-242	300_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	243-249	300_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	249-250	300_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	300_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	254-256	300_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	257-268	300_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	269-276	300_QUEST_clinical_caseMIR	SENT3	-	-
+5	,	,	Fc	-	-	276-277	300_QUEST_clinical_caseMIR	SENT3	-	-
+6	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	278-289	300_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	290-292	300_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+8	fuerza	fuerza	NCFS000	-	-	293-299	300_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+9	muscular	muscular	AQ0CS0	C0442025	calificador	300-308	300_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+10	asimétrica	asimétrico	AQ0FS0	-	-	309-319	300_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	320-322	300_QUEST_clinical_caseMIR	SENT3	-	-
+12	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	323-335	300_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	superiores	superior	AQ0CP0	C1282910	calificador	336-346	300_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	e	y	CC	C1706368	calificador	347-348	300_QUEST_clinical_caseMIR	SENT3	-	-
+15	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	349-359	300_QUEST_clinical_caseMIR	SENT3	-	-
+16	,	,	Fc	-	-	359-360	300_QUEST_clinical_caseMIR	SENT3	-	-
+17	pérdida	pérdida	NCFS000	-	-	361-368	300_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	de	de	SPS00	C0332285	atributo	369-371	300_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+19	reflejos	reflejo	NCMP000	C0034929#C1285633	entidad_observable	372-380	300_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+20	osteotendinosos	osteotendinosos	AQ0MP00	-	-	381-396	300_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+21	.	.	Fp	-	-	396-397	300_QUEST_clinical_caseMIR	SENT3	-	-
+

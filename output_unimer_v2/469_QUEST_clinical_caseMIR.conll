@@ -1,0 +1,128 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	469_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	469_QUEST_clinical_caseMIR	SENT1	-	-
+3	30	30		-	-	9-11	469_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	469_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	469_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	469_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	24-25	469_QUEST_clinical_caseMIR	SENT1	-	-
+8	embarazada	embarazar	VMP00SF	-	-	26-36	469_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	37-39	469_QUEST_clinical_caseMIR	SENT1	-	-
+10	33	33		-	-	40-42	469_QUEST_clinical_caseMIR	SENT1	-	-
+11	semanas	semana	NCFP000	C0439230	calificador	43-50	469_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	50-51	469_QUEST_clinical_caseMIR	SENT1	-	-
+13	que	que	PR0CN000	-	-	52-55	469_QUEST_clinical_caseMIR	SENT1	-	-
+14	consulta	consultar	VMM02S0	C1704447_1	calificador_1	56-64	469_QUEST_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C1704447_2	calificador_2	65-68	469_QUEST_clinical_caseMIR	SENT1	-	-
+16	prurito	prurito	NCMS000	C0036262#C0033774_1	trastorno#hallazgo_1	69-76	469_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0332285	atributo	77-79	469_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	80-83	469_QUEST_clinical_caseMIR	SENT1	-	-
+19	semana	semana	NCFS000	C0439230	calificador	84-90	469_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	91-93	469_QUEST_clinical_caseMIR	SENT1	-	-
+21	evolución	evolución	NCFS000	-	-	94-103	469_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	103-104	469_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Las	el	DA0FP0	-	-	105-108	469_QUEST_clinical_caseMIR	SENT2	-	-
+2	pruebas	prueba	NCFP000	-	-	109-116	469_QUEST_clinical_caseMIR	SENT2	-	-
+3	hepáticas	hepático	AQ0FP0	-	-	117-126	469_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	muestran	mostrar	VMIP3P0	-	-	127-135	469_QUEST_clinical_caseMIR	SENT2	-	-
+5	un	un		C0205447_1	calificador_1	136-138	469_QUEST_clinical_caseMIR	SENT2	-	-
+6	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	139-143	469_QUEST_clinical_caseMIR	SENT2	-	-
+7	incremento	incremento	NCMS000	-	-	144-154	469_QUEST_clinical_caseMIR	SENT2	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	155-157	469_QUEST_clinical_caseMIR	SENT2	-	-
+9	los	el	DA0MP0	-	-	158-161	469_QUEST_clinical_caseMIR	SENT2	-	-
+10	valores	valor	NCMP000	C0475208	calificador	162-169	469_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	170-172	469_QUEST_clinical_caseMIR	SENT2	-	-
+12	transaminasas	transaminasa	NCFP000	C1152208#C0002594	función_biológica#sustancia	173-186	469_QUEST_clinical_caseMIR	SENT2	-	-
+13	(	(	Fpa	-	-	187-188	469_QUEST_clinical_caseMIR	SENT2	-	-
+14	AST	aspartato_transaminasa	NC00YL0	-	-	188-191	469_QUEST_clinical_caseMIR	SENT2	-	-
+15	77	77		-	-	192-194	469_QUEST_clinical_caseMIR	SENT2	-	-
+16	UI	ui	NC00SC0	C0439453	calificador	195-197	469_QUEST_clinical_caseMIR	SENT2	-	-
+17	/	/	Fh	-	-	197-198	469_QUEST_clinical_caseMIR	SENT2	-	-
+18	L	l	NCFS000	-	-	198-199	469_QUEST_clinical_caseMIR	SENT2	-	-
+19	y	y	CC	C1706368	calificador	200-201	469_QUEST_clinical_caseMIR	SENT2	-	-
+20	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	202-205	469_QUEST_clinical_caseMIR	SENT2	-	-
+21	84	84		-	-	206-208	469_QUEST_clinical_caseMIR	SENT2	-	-
+22	UI	ui	NC00SC0	C0439453	calificador	209-211	469_QUEST_clinical_caseMIR	SENT2	-	-
+23	/	/	Fh	-	-	211-212	469_QUEST_clinical_caseMIR	SENT2	-	-
+24	L	l	NCFS000	-	-	212-213	469_QUEST_clinical_caseMIR	SENT2	-	-
+25	)	)	Fpt	-	-	213-214	469_QUEST_clinical_caseMIR	SENT2	-	-
+26	,	,	Fc	-	-	214-215	469_QUEST_clinical_caseMIR	SENT2	-	-
+27	así	así	RG	-	-	216-219	469_QUEST_clinical_caseMIR	SENT2	-	-
+28	como	como	SPS00	C0332257	calificador	220-224	469_QUEST_clinical_caseMIR	SENT2	-	-
+29	de	de	SPS00	C0332285	atributo	225-227	469_QUEST_clinical_caseMIR	SENT2	-	-
+30	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	228-237	469_QUEST_clinical_caseMIR	SENT2	-	-
+31	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	238-246	469_QUEST_clinical_caseMIR	SENT2	-	-
+32	(	(	Fpa	-	-	247-248	469_QUEST_clinical_caseMIR	SENT2	-	-
+33	155	155		-	-	248-251	469_QUEST_clinical_caseMIR	SENT2	-	-
+34	UI	ui	NC00SC0	C0439453	calificador	252-254	469_QUEST_clinical_caseMIR	SENT2	-	-
+35	/	/	Fh	-	-	254-255	469_QUEST_clinical_caseMIR	SENT2	-	-
+36	L	l	NCFS000	-	-	255-256	469_QUEST_clinical_caseMIR	SENT2	-	-
+37	)	)	Fpt	-	-	256-257	469_QUEST_clinical_caseMIR	SENT2	-	-
+38	y	y	CC	C1706368	calificador	258-259	469_QUEST_clinical_caseMIR	SENT2	-	-
+39	gammaglutamil_x0002_transpeptidasa	gammaglutamil_x0002_transpeptidasa		-	-	260-294	469_QUEST_clinical_caseMIR	SENT2	-	-
+40	(	(	Fpa	-	-	295-296	469_QUEST_clinical_caseMIR	SENT2	-	-
+41	125	125		-	-	296-299	469_QUEST_clinical_caseMIR	SENT2	-	-
+42	UI	ui	NC00SC0	C0439453	calificador	300-302	469_QUEST_clinical_caseMIR	SENT2	-	-
+43	/	/	Fh	-	-	302-303	469_QUEST_clinical_caseMIR	SENT2	-	-
+44	L	l	NCFS000	-	-	303-304	469_QUEST_clinical_caseMIR	SENT2	-	-
+45	)	)	Fpt	-	-	304-305	469_QUEST_clinical_caseMIR	SENT2	-	-
+46	,	,	Fc	-	-	305-306	469_QUEST_clinical_caseMIR	SENT2	-	-
+47	con	con	SPS00	C0332287	atributo	307-310	469_QUEST_clinical_caseMIR	SENT2	-	-
+48	una	una		C0205447_1	calificador_1	311-314	469_QUEST_clinical_caseMIR	SENT2	-	-
+49	cifra	cifra	NCFS000	-	-	315-320	469_QUEST_clinical_caseMIR	SENT2	-	-
+50	de	de	SPS00	C0332285	atributo	321-323	469_QUEST_clinical_caseMIR	SENT2	-	-
+51	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	324-335	469_QUEST_clinical_caseMIR	SENT2	-	-
+52	total	total	NCMS000	C0201913_2	procedimiento_2	336-341	469_QUEST_clinical_caseMIR	SENT2	-	-
+53	de	de	SPS00	C0332285	atributo	342-344	469_QUEST_clinical_caseMIR	SENT2	-	-
+54	2,3	2.3	Z	-	-	345-348	469_QUEST_clinical_caseMIR	SENT2	-	-
+55	mg	mg	NCMN000	-	-	349-351	469_QUEST_clinical_caseMIR	SENT2	-	-
+56	/	/	Fh	-	-	351-352	469_QUEST_clinical_caseMIR	SENT2	-	-
+57	dL	decilitro	NCMN000	C0439241	calificador	352-354	469_QUEST_clinical_caseMIR	SENT2	-	-
+58	.	.	Fp	-	-	354-355	469_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	356-358	469_QUEST_clinical_caseMIR	SENT3	-	-
+2	hemograma	hemograma	NCMS000	C0200631	procedimiento	359-368	469_QUEST_clinical_caseMIR	SENT3	-	-
+3	y	y	CC	C1706368	calificador	369-370	469_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	371-373	469_QUEST_clinical_caseMIR	SENT3	-	-
+5	estudio	estudio	NCMS000	C0557651	medio_ambiente	374-381	469_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0332285	atributo	382-384	469_QUEST_clinical_caseMIR	SENT3	-	-
+7	coagulación	coagulación	NCFS000	C0441509	procedimiento	385-396	469_QUEST_clinical_caseMIR	SENT3	-	-
+8	son	ser	VSIP3P0	-	-	397-400	469_QUEST_clinical_caseMIR	SENT3	-	-
+9	normales	normal	AQ0CP0	C0205307	calificador	401-409	469_QUEST_clinical_caseMIR	SENT3	-	-
+10	,	,	Fc	-	-	409-410	469_QUEST_clinical_caseMIR	SENT3	-	-
+11	la	el	DA0FS0	-	-	411-413	469_QUEST_clinical_caseMIR	SENT3	-	-
+12	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	414-423	469_QUEST_clinical_caseMIR	SENT3	-	-
+13	abdominal	abdominal	AQ0CS0	C0000726	calificador	424-433	469_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	no	no	RN	C1298908	calificador	434-436	469_QUEST_clinical_caseMIR	SENT3	-	-
+15	muestra	mostrar	VMIP3S0	-	-	437-444	469_QUEST_clinical_caseMIR	SENT3	-	-
+16	alteraciones	alteración	NCFP000	-	-	445-457	469_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+17	hepáticas	hepático	AQ0FP0	-	-	458-467	469_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	ni	ni	CC	-	-	468-470	469_QUEST_clinical_caseMIR	SENT3	-	-
+19	biliares	biliar	AQ0CP0	-	-	471-479	469_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	y	y	CC	C1706368	calificador	480-481	469_QUEST_clinical_caseMIR	SENT3	-	-
+21	la	el	DA0FS0	-	-	482-484	469_QUEST_clinical_caseMIR	SENT3	-	-
+22	serología	serología	NCFS000	-	-	485-494	469_QUEST_clinical_caseMIR	SENT3	-	-
+23	de	de	SPS00	C0332285	atributo	495-497	469_QUEST_clinical_caseMIR	SENT3	-	-
+24	virus	virus	NCMN000	C0042776	organismo	498-503	469_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+25	de	de	SPS00	C0332285	atributo	504-506	469_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+26	hepatitis	hepatitis	NCFN000	C0019158	-	507-516	469_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	Negacion
+27	,	,	Fc	-	-	516-517	469_QUEST_clinical_caseMIR	SENT3	-	-
+28	así	así	RG	-	-	518-521	469_QUEST_clinical_caseMIR	SENT3	-	-
+29	como	como	SPS00	C0332257	calificador	522-526	469_QUEST_clinical_caseMIR	SENT3	-	-
+30	los	el	DA0MP0	-	-	527-530	469_QUEST_clinical_caseMIR	SENT3	-	-
+31	autoanticuerpos	autoanticuerpo	NCMP000	C0004358	sustancia	531-546	469_QUEST_clinical_caseMIR	SENT3	-	-
+32	son	ser	VSIP3P0	-	-	547-550	469_QUEST_clinical_caseMIR	SENT3	-	-
+33	negativos	negativo	AQ0MP0	C0205160#C0549184	calificador	551-560	469_QUEST_clinical_caseMIR	SENT3	-	-
+34	.	.	Fp	-	-	560-561	469_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	562-563	469_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	563-567	469_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	568-570	469_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	571-574	469_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	575-585	469_QUEST_clinical_caseMIR	SENT4	-	-
+6	actitudes	actitud	NCFP000	C0004271	entidad_observable	586-595	469_QUEST_clinical_caseMIR	SENT4	-	-
+7	es	ser	VSIP3S0	-	-	596-598	469_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	599-601	469_QUEST_clinical_caseMIR	SENT4	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	602-610	469_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	610-611	469_QUEST_clinical_caseMIR	SENT4	-	-
+

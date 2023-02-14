@@ -1,0 +1,44 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	513_QUEST_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	3-5	513_QUEST_clinical_caseMIR	SENT1	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	6-13	513_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	14-16	513_QUEST_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	17-19	513_QUEST_clinical_caseMIR	SENT1	-	-
+6	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	20-26	513_QUEST_clinical_caseMIR	SENT1	-	-
+7	fumador	fumador	AQ0MS0	C0337664	hallazgo	27-34	513_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	35-37	513_QUEST_clinical_caseMIR	SENT1	-	-
+9	65	65		-	-	38-40	513_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	41-45	513_QUEST_clinical_caseMIR	SENT1	-	-
+11	se	se	P00CN000	-	-	46-48	513_QUEST_clinical_caseMIR	SENT1	-	-
+12	aprecia	apreciar	VMIP3S0	-	-	49-56	513_QUEST_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	57-60	513_QUEST_clinical_caseMIR	SENT1	-	-
+14	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	61-65	513_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	66-74	513_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	de	de	SPS00	C0332285	atributo	75-77	513_QUEST_clinical_caseMIR	SENT1	-	-
+17	8	8	Z	-	-	78-79	513_QUEST_clinical_caseMIR	SENT1	-	-
+18	cm	cm	NCMN000	-	-	80-82	513_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	83-85	513_QUEST_clinical_caseMIR	SENT1	-	-
+20	diámetro	diámetro	NCMS000	C1301886	calificador	86-94	513_QUEST_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	95-97	513_QUEST_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	98-100	513_QUEST_clinical_caseMIR	SENT1	-	-
+23	lóbulo	lóbulo	NCMS000	-	-	101-107	513_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	superior	superior	AQ0CS0	C1282910	calificador	108-116	513_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	117-124	513_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	,	,	Fc	-	-	124-125	513_QUEST_clinical_caseMIR	SENT1	-	-
+27	con	con	SPS00	C0332287	atributo	126-129	513_QUEST_clinical_caseMIR	SENT1	-	-
+28	afectación	afectación	NCFS000	-	-	130-140	513_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	141-151	513_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	hiliar	hiliar	NC00SC0	C0205054#C0205150	calificador	152-158	513_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+31	ipsilateral	ipsilateral	NC00SC0	C0441989	calificador	159-170	513_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+32	.	.	Fp	-	-	170-171	513_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	172-174	513_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	175-183	513_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	184-186	513_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnosticado	diagnosticar	VMP00SM	-	-	187-200	513_QUEST_clinical_caseMIR	SENT2	-	-
+5	finalmente	finalmente	RG	-	-	201-211	513_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	212-214	513_QUEST_clinical_caseMIR	SENT2	-	-
+7	un	un		C0205447_1	calificador_1	215-217	513_QUEST_clinical_caseMIR	SENT2	-	-
+8	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	218-232	513_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	233-241	513_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	.	.	Fp	-	-	241-242	513_QUEST_clinical_caseMIR	SENT2	-	-
+

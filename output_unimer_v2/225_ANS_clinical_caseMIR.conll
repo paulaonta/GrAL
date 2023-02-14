@@ -1,0 +1,50 @@
+1	Cambiaría	cambiar	VMIC3S0	-	-	0-9	225_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	10-12	225_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	13-24	225_ANS_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	-	-	25-26	225_ANS_clinical_caseMIR	SENT1	-	-
+5	ceftríaxona	ceftríaxona	NCFS000	-	-	27-38	225_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	por	por	SPS00	C0678226	atributo	39-42	225_ANS_clinical_caseMIR	SENT1	-	-
+7	su	su	DP3CS0	-	-	43-45	225_ANS_clinical_caseMIR	SENT1	-	-
+8	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	46-51	225_ANS_clinical_caseMIR	SENT1	-	-
+9	eficacia	eficacia	NCFS000	-	-	52-60	225_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	60-61	225_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Añadiría	añadir	VMIC3S0	-	-	0-8	225_ANS_clinical_caseMIR	SENT2	-	-
+2	al	al	SP+DA	-	-	9-11	225_ANS_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	12-23	225_ANS_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	24-27	225_ANS_clinical_caseMIR	SENT2	-	-
+5	quinolona	quínola	NCFS00V	-	-	28-37	225_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	.	.	Fp	-	-	37-38	225_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Cambiaría	cambiar	VMIC3S0	-	-	0-9	225_ANS_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	10-11	225_ANS_clinical_caseMIR	SENT3	-	-
+3	amoxicilina	amoxicilina	NC00SC0	C0002645#C0521900	sustancia	12-23	225_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	/	/	Fh	-	-	24-25	225_ANS_clinical_caseMIR	SENT3	-	-
+5	clavulánico	clavulánico	NCMS000	-	-	26-37	225_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	.	.	Fp	-	-	37-38	225_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Descartaría	descartar	VMIC3S0	C0332196	calificador	0-11	225_ANS_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	12-14	225_ANS_clinical_caseMIR	SENT4	-	-
+3	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	15-24	225_ANS_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0150312_2	calificador_2	25-27	225_ANS_clinical_caseMIR	SENT4	-	-
+5	un	un		C0205447_1	calificador_1	28-30	225_ANS_clinical_caseMIR	SENT4	-	-
+6	empiema	empiema	NCMS000	C0014013_1	trastorno_1	31-38	225_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	pleural	pleural	NC00SC0	C0014013_2	trastorno_2	39-46	225_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	46-47	225_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Seguiría	seguir	VMIC3S0	-	-	0-8	225_ANS_clinical_caseMIR	SENT5	-	-
+2	con	con	SPS00	C0332287	atributo	9-12	225_ANS_clinical_caseMIR	SENT5	-	-
+3	el	el	DA0MS0	-	-	13-15	225_ANS_clinical_caseMIR	SENT5	-	-
+4	mismo	mismo	AQ0MS0	C0445247	calificador	16-21	225_ANS_clinical_caseMIR	SENT5	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	22-33	225_ANS_clinical_caseMIR	SENT5	-	-
+6	,	,	Fc	-	-	33-34	225_ANS_clinical_caseMIR	SENT5	-	-
+7	suponiendo	suponer	VMG0000	-	-	35-45	225_ANS_clinical_caseMIR	SENT5	-	-
+8	que	que	CS	-	-	46-49	225_ANS_clinical_caseMIR	SENT5	-	-
+9	simplemente	simplemente	RG	-	-	50-61	225_ANS_clinical_caseMIR	SENT5	-	-
+10	es	ser	VSIP3S0	-	-	62-64	225_ANS_clinical_caseMIR	SENT5	-	-
+11	un	un		C0205447_1	calificador_1	65-67	225_ANS_clinical_caseMIR	SENT5	-	-
+12	problema	problema	NCMS000	C0033213	hallazgo	68-76	225_ANS_clinical_caseMIR	SENT5	-	-
+13	de	de	SPS00	C0332285	atributo	77-79	225_ANS_clinical_caseMIR	SENT5	-	-
+14	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	80-86	225_ANS_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	86-87	225_ANS_clinical_caseMIR	SENT5	-	-
+

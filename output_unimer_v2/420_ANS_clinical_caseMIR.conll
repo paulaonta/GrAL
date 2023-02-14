@@ -1,0 +1,19 @@
+1	Endoscopia	endoscopia	NCFS000	C0014245	procedimiento	0-10	420_ANS_clinical_caseMIR	SENT1	-	-
+2	digestiva	digestivo	AQ0FS0	C0012237	sustancia	11-20	420_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	20-21	420_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Tránsito	tránsito	NCMS000	C2363427_1	entidad_observable_1	0-8	420_ANS_clinical_caseMIR	SENT2	-	-
+2	gastrointestinal	gastrointestinal	AQ0CS0	C2363427_2	entidad_observable_2	9-25	420_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	25-26	420_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Gammagrafia	gammagrafia	NCFS000	-	-	0-11	420_ANS_clinical_caseMIR	SENT3	-	-
+2	intestinal	intestinal	AQ0CS0	C0021853	calificador	12-22	420_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	con	con	SPS00	C0332287	atributo	23-26	420_ANS_clinical_caseMIR	SENT3	-	-
+4	pertecnectato	pertecnectato	NCMS000	-	-	27-40	420_ANS_clinical_caseMIR	SENT3	-	-
+5	Tc99m	Tc99m		-	-	41-46	420_ANS_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	46-47	420_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Enema	enema	NCMS000	C0993595#C0014268	calificador#procedimiento	0-5	420_ANS_clinical_caseMIR	SENT4	-	-
+2	opaco	opaco	AQ0MS0	C1261286	calificador	6-11	420_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	11-12	420_ANS_clinical_caseMIR	SENT4	-	-
+

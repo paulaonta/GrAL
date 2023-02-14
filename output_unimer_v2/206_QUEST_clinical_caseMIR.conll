@@ -1,0 +1,79 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	206_QUEST_clinical_caseMIR	SENT1	-	-
+2	chico	chico	NCMS000	C0008059#C0700321	persona#calificador	3-8	206_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	206_QUEST_clinical_caseMIR	SENT1	-	-
+4	17	17		-	-	12-14	206_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	206_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	19-20	206_QUEST_clinical_caseMIR	SENT1	-	-
+7	deportista	deportista	NCCS000	C0349678	persona	21-31	206_QUEST_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	32-33	206_QUEST_clinical_caseMIR	SENT1	-	-
+9	sin	sin	SPS00	C0332122_1	calificador_1	34-37	206_QUEST_clinical_caseMIR	SENT1	-	-
+10	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	38-50	206_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332122_3	calificador_3	51-53	206_QUEST_clinical_caseMIR	SENT1	-	-
+12	interés	interés	NCMS000	-	-	54-61	206_QUEST_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	61-62	206_QUEST_clinical_caseMIR	SENT1	-	-
+14	acude	acudir	VMIP3S0	-	-	63-68	206_QUEST_clinical_caseMIR	SENT1	-	-
+15	al	al	SP+DA	-	-	69-71	206_QUEST_clinical_caseMIR	SENT1	-	-
+16	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	72-78	206_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	79-82	206_QUEST_clinical_caseMIR	SENT1	-	-
+18	presentar	presentar	VMN0000	-	-	83-92	206_QUEST_clinical_caseMIR	SENT1	-	-
+19	ictericia	ictericia	NCFS000	C0240962_1	hallazgo_1	93-102	206_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	conjuntival	conjuntival	AQ0CS0	C0240962_2	hallazgo_2	103-114	206_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	ocasionalmente	ocasionalmente	RG	-	-	115-129	206_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	129-130	206_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Niega	negar	VMIP3S0	-	-	131-136	206_QUEST_clinical_caseMIR	SENT2	-	-
+2	ingesta	ingesta	NCFS000	-	-	137-144	206_QUEST_clinical_caseMIR	SENT2	-	Negacion
+3	de	de	SPS00	C0332285	atributo	145-147	206_QUEST_clinical_caseMIR	SENT2	-	-
+4	fármacos	fármaco	NCMP000	C0013227	sustancia	148-156	206_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+5	y	y	CC	C1706368	calificador	157-158	206_QUEST_clinical_caseMIR	SENT2	-	-
+6	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	159-164	206_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	165-174	206_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	174-175	206_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	176-178	206_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	179-182	206_QUEST_clinical_caseMIR	SENT3	-	-
+3	análisis	análisis	NCMN000	C0002778	calificador	183-191	206_QUEST_clinical_caseMIR	SENT3	-	-
+4	realizados	realizar	VMP00PM	-	-	192-202	206_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	203-205	206_QUEST_clinical_caseMIR	SENT3	-	-
+6	observan	observar	VMIP3P0	-	-	206-214	206_QUEST_clinical_caseMIR	SENT3	-	-
+7	cifras	cifra	NCFP000	-	-	215-221	206_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	222-224	206_QUEST_clinical_caseMIR	SENT3	-	-
+9	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	225-228	206_QUEST_clinical_caseMIR	SENT3	-	-
+10	,	,	Fc	-	-	228-229	206_QUEST_clinical_caseMIR	SENT3	-	-
+11	AST	aspartato_transaminasa	NC00YL0	-	-	230-233	206_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	233-234	206_QUEST_clinical_caseMIR	SENT3	-	-
+13	GGT	gammaglutamiltranspeptidasa	NC00YL0	-	-	235-238	206_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	238-239	206_QUEST_clinical_caseMIR	SENT3	-	-
+15	y	y	CC	C1706368	calificador	240-241	206_QUEST_clinical_caseMIR	SENT3	-	-
+16	FA	fa	NC00YL0	-	-	242-244	206_QUEST_clinical_caseMIR	SENT3	-	-
+17	normales	normal	AQ0CP0	C0205307	calificador	245-253	206_QUEST_clinical_caseMIR	SENT3	-	-
+18	,	,	Fc	-	-	253-254	206_QUEST_clinical_caseMIR	SENT3	-	-
+19	con	con	SPS00	C0332287	atributo	255-258	206_QUEST_clinical_caseMIR	SENT3	-	-
+20	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	259-270	206_QUEST_clinical_caseMIR	SENT3	-	-
+21	total	total	NCMS000	C0201913_2	procedimiento_2	271-276	206_QUEST_clinical_caseMIR	SENT3	-	-
+22	de	de	SPS00	C0332285	atributo	277-279	206_QUEST_clinical_caseMIR	SENT3	-	-
+23	3,2	3,2		-	-	280-283	206_QUEST_clinical_caseMIR	SENT3	-	-
+24	mgr	mgr	NCMS000	-	-	284-287	206_QUEST_clinical_caseMIR	SENT3	-	-
+25	/	/	Fh	-	-	287-288	206_QUEST_clinical_caseMIR	SENT3	-	-
+26	dl	decilitro	NCMN000	C0439241	calificador	288-290	206_QUEST_clinical_caseMIR	SENT3	-	-
+27	y	y	CC	C1706368	calificador	291-292	206_QUEST_clinical_caseMIR	SENT3	-	-
+28	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	293-304	206_QUEST_clinical_caseMIR	SENT3	-	-
+29	directa	directo	AQ0FS0	C0439851	calificador	305-312	206_QUEST_clinical_caseMIR	SENT3	-	-
+30	de	de	SPS00	C0332285	atributo	313-315	206_QUEST_clinical_caseMIR	SENT3	-	-
+31	0,4	0,4		-	-	316-319	206_QUEST_clinical_caseMIR	SENT3	-	-
+32	mgr	mgr	NCMS000	-	-	320-323	206_QUEST_clinical_caseMIR	SENT3	-	-
+33	/	/	Fh	-	-	323-324	206_QUEST_clinical_caseMIR	SENT3	-	-
+34	dl	decilitro	NCMN000	C0439241	calificador	324-326	206_QUEST_clinical_caseMIR	SENT3	-	-
+35	.	.	Fp	-	-	326-327	206_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	328-330	206_QUEST_clinical_caseMIR	SENT4	-	-
+2	tiene	tener	VMIP3S0	-	-	331-336	206_QUEST_clinical_caseMIR	SENT4	-	-
+3	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	337-343	206_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+4	y	y	CC	C1706368	calificador	344-345	206_QUEST_clinical_caseMIR	SENT4	-	-
+5	el	el	DA0MS0	-	-	346-348	206_QUEST_clinical_caseMIR	SENT4	-	-
+6	hígado	hígado	NCMS000	C1278929#C0023884	estructura_corporal	349-355	206_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	es	ser	VSIP3S0	-	-	356-358	206_QUEST_clinical_caseMIR	SENT4	-	-
+8	ecográficamente	ecográficamente	RG	-	-	359-374	206_QUEST_clinical_caseMIR	SENT4	-	-
+9	normal	normal	AQ0CS0	C0205307	calificador	375-381	206_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	381-382	206_QUEST_clinical_caseMIR	SENT4	-	-
+

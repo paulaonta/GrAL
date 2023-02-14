@@ -1,0 +1,22 @@
+1	Índice	índice	NCMS000	-	-	0-6	767_ANS_clinical_caseMIR	SENT1	-	-
+2	tobillo	tobillo	NCMS000	C1261192#C0003086	estructura_corporal	7-14	767_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	brazo	brazo	NCMS000	C1269612#C1140618#C0446516	estructura_corporal	15-20	767_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+4	.	.	Fp	-	-	20-21	767_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Eco	eco	NCMS000	-	-	0-3	767_ANS_clinical_caseMIR	SENT2	-	-
+2	Doppler	doppler	NCCS000	-	-	4-11	767_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	767_ANS_clinical_caseMIR	SENT2	-	-
+4	miembros	miembro	NCMP000	C0015385	estructura_corporal	15-23	767_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	24-34	767_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+6	.	.	Fp	-	-	34-35	767_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Radiografía	radiografía	NCFS000	C1306645	procedimiento	0-11	767_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	767_ANS_clinical_caseMIR	SENT3	-	-
+3	columna	columna	NCFS000	C0024091#C1269871_1	estructura_corporal_1	15-22	767_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	lumbar	lumbar	NC00SC0	C0024091#C1269871_2	estructura_corporal_2	23-29	767_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	29-30	767_ANS_clinical_caseMIR	SENT3	-	-
+
+1	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	0-2	767_ANS_clinical_caseMIR	SENT4	-	-
+2	abdominal	abdominal	AQ0CS0	C0000726	calificador	3-12	767_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	12-13	767_ANS_clinical_caseMIR	SENT4	-	-
+

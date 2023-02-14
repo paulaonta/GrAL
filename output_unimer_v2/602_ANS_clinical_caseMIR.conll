@@ -1,0 +1,51 @@
+1	Señale	señalar	VMM03S0	-	-	299-305	602_ANS_clinical_caseMIR	SENT1	-	-
+2	cuál	cuál	PT0CS000	-	-	306-310	602_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	311-313	602_ANS_clinical_caseMIR	SENT1	-	-
+4	las	el	DA0FP0	-	-	314-317	602_ANS_clinical_caseMIR	SENT1	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	318-328	602_ANS_clinical_caseMIR	SENT1	-	-
+6	pruebas	prueba	NCFP000	-	-	329-336	602_ANS_clinical_caseMIR	SENT1	-	-
+7	confirmará	confirmar	VMIF3S0	-	-	337-347	602_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	348-350	602_ANS_clinical_caseMIR	SENT1	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	351-362	602_ANS_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	363-366	602_ANS_clinical_caseMIR	SENT1	-	-
+11	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	367-372	602_ANS_clinical_caseMIR	SENT1	-	-
+12	probabilidad	probabilidad	NCFS000	-	-	373-385	602_ANS_clinical_caseMIR	SENT1	-	-
+13	:	:	Fd	-	-	385-386	602_ANS_clinical_caseMIR	SENT1	-	-
+14	Roncus	roncus	NC00SC0	C0035508	hallazgo	0-6	602_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	-	-	Fg	-	-	7-8	602_ANS_clinical_caseMIR	SENT1	-	-
+16	espiración	espiración	NCFS000	C0231800	función	9-19	602_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	alargada	alargar	VMP00SF	-	-	20-28	602_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+18	-	-	Fg	-	-	29-30	602_ANS_clinical_caseMIR	SENT1	-	-
+19	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	31-40	602_ANS_clinical_caseMIR	SENT1	-	-
+20	mate	mate	AQ0CS0	C0443208	calificador	41-45	602_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	45-46	602_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Sibilancias	sibilancias	NC00SC0	C0043144#C0392681	hallazgo	0-11	602_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	-	-	Fg	-	-	12-13	602_ANS_clinical_caseMIR	SENT2	-	-
+3	inspiración	inspiración	NCFS000	C0004048	función	14-25	602_ANS_clinical_caseMIR	SENT2	-	-
+4	alargada	alargar	VMP00SF	-	-	26-34	602_ANS_clinical_caseMIR	SENT2	-	-
+5	-	-	Fg	-	-	35-36	602_ANS_clinical_caseMIR	SENT2	-	-
+6	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	37-46	602_ANS_clinical_caseMIR	SENT2	-	-
+7	timpánica	timpánico	AQ0FS0	-	-	47-56	602_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	56-57	602_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Silencio	silencio	NCMS000	-	-	0-8	602_ANS_clinical_caseMIR	SENT3	-	-
+2	auscultatorio	auscultatorio	AQ0MS00	-	-	9-22	602_ANS_clinical_caseMIR	SENT3	-	-
+3	-	-	Fg	-	-	23-24	602_ANS_clinical_caseMIR	SENT3	-	-
+4	espiración	espiración	NCFS000	C0231800	función	25-35	602_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	alargada	alargar	VMP00SF	-	-	36-44	602_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+6	-	-	Fg	-	-	45-46	602_ANS_clinical_caseMIR	SENT3	-	-
+7	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	47-56	602_ANS_clinical_caseMIR	SENT3	-	-
+8	timpánica	timpánico	AQ0FS0	-	-	57-66	602_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	66-67	602_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Silencio	silencio	NCMS000	-	-	0-8	602_ANS_clinical_caseMIR	SENT4	-	-
+2	auscultatorio	auscultatorio	AQ0MS00	-	-	9-22	602_ANS_clinical_caseMIR	SENT4	-	-
+3	-	-	Fg	-	-	23-24	602_ANS_clinical_caseMIR	SENT4	-	-
+4	espiración	espiración	NCFS000	C0231800	función	25-35	602_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+5	alargada	alargar	VMP00SF	-	-	36-44	602_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+6	-	-	Fg	-	-	45-46	602_ANS_clinical_caseMIR	SENT4	-	-
+7	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	47-56	602_ANS_clinical_caseMIR	SENT4	-	-
+8	mate	mate	AQ0CS0	C0443208	calificador	57-61	602_ANS_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	61-62	602_ANS_clinical_caseMIR	SENT4	-	-
+

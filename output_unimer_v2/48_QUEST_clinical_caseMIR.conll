@@ -1,0 +1,57 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	48_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	48_QUEST_clinical_caseMIR	SENT1	-	-
+3	71	71		-	-	9-11	48_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	48_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	48_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	48_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	48_QUEST_clinical_caseMIR	SENT1	-	-
+8	artritis	artritis	NCFN000	C0003873_1	trastorno_1	37-45	48_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	reumatoide	reumatoide	AQ0CS0	C0003873_2	trastorno_2	46-56	48_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	48_QUEST_clinical_caseMIR	SENT1	-	-
+11	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	60-71	48_QUEST_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	72-75	48_QUEST_clinical_caseMIR	SENT1	-	-
+13	sulfasalazina	sulfasalazina	NC00SC0	C0036078	sustancia	76-89	48_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	1	1		-	-	90-91	48_QUEST_clinical_caseMIR	SENT1	-	-
+15	gr/8h	gr/8h		-	-	92-97	48_QUEST_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	97-98	48_QUEST_clinical_caseMIR	SENT1	-	-
+17	prednisona	prednisona	NCFS000	C0032952	sustancia	99-109	48_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+18	15	15	Z	-	-	110-112	48_QUEST_clinical_caseMIR	SENT1	-	-
+19	mg	mg	NCMN000	-	-	113-115	48_QUEST_clinical_caseMIR	SENT1	-	-
+20	/	/	Fh	-	-	115-116	48_QUEST_clinical_caseMIR	SENT1	-	-
+21	d	d	NCFS000	-	-	116-117	48_QUEST_clinical_caseMIR	SENT1	-	-
+22	y	y	CC	C1706368	calificador	118-119	48_QUEST_clinical_caseMIR	SENT1	-	-
+23	etanercept	etanercept	NC00SC0	C0717758#C0018100	producto#sustancia	120-130	48_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+24	25	25	Z	-	-	131-133	48_QUEST_clinical_caseMIR	SENT1	-	-
+25	mg	mg	NCMN000	-	-	134-136	48_QUEST_clinical_caseMIR	SENT1	-	-
+26	veces	vez	NCFP000	-	-	137-142	48_QUEST_clinical_caseMIR	SENT1	-	-
+27	/	/	Fh	-	-	142-143	48_QUEST_clinical_caseMIR	SENT1	-	-
+28	semana	semana	NCFS000	C0439230	calificador	143-149	48_QUEST_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	149-150	48_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	151-156	48_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	157-158	48_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	159-168	48_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	169-172	48_QUEST_clinical_caseMIR	SENT2	-	-
+5	clínica	clínica	NCFS000	C0442592	medio_ambiente	173-180	48_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	181-183	48_QUEST_clinical_caseMIR	SENT2	-	-
+7	72h	72h		-	-	184-187	48_QUEST_clinical_caseMIR	SENT2	-	-
+8	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	188-198	48_QUEST_clinical_caseMIR	SENT2	-	-
+9	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	199-202	48_QUEST_clinical_caseMIR	SENT2	-	-
+10	herpes	herpes	NCMN000	C0019360_1	trastorno_1	203-209	48_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	zoster	zoster	NCFS000	C0019360_2	trastorno_2	210-216	48_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+12	facial	facial	AQ0CS0	-	-	217-223	48_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	afectando	afectar	VMG0000	-	-	224-233	48_QUEST_clinical_caseMIR	SENT2	-	-
+14	a	a	SPS00	-	-	234-235	48_QUEST_clinical_caseMIR	SENT2	-	-
+15	hemifacies	hemifacies	NCFP000	-	-	236-246	48_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	247-254	48_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+17	incluyendo	incluir	VMG0000	-	-	255-265	48_QUEST_clinical_caseMIR	SENT2	-	-
+18	pabellón	pabellón	NCMS000	C0557665#C0227911	medio_ambiente#estructura_corporal	266-274	48_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	auricular	auricular	AQ0CS0	-	-	275-284	48_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+20	,	,	Fc	-	-	284-285	48_QUEST_clinical_caseMIR	SENT2	-	-
+21	respetando	respetar	VMG0000	-	-	286-296	48_QUEST_clinical_caseMIR	SENT2	-	-
+22	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	297-303	48_QUEST_clinical_caseMIR	SENT2	-	-
+23	y	y	CC	C1706368	calificador	304-305	48_QUEST_clinical_caseMIR	SENT2	-	-
+24	quemosis	quemosis	NCFN000	C0271298	trastorno	306-314	48_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+25	conjuntival	conjuntival	AQ0CS0	-	-	315-326	48_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+26	.	.	Fp	-	-	326-327	48_QUEST_clinical_caseMIR	SENT2	-	-
+

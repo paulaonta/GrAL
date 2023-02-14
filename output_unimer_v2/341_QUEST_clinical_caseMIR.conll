@@ -1,0 +1,52 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	341_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	341_QUEST_clinical_caseMIR	SENT1	-	-
+3	28	28		-	-	10-12	341_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	341_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	341_QUEST_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	22-24	341_QUEST_clinical_caseMIR	SENT1	-	-
+7	traído	traer	VMP00SM	-	-	25-31	341_QUEST_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	-	-	32-33	341_QUEST_clinical_caseMIR	SENT1	-	-
+9	urgencias	urgencia	NCFP000	C0439609	calificador	34-43	341_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	43-44	341_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	45-47	341_QUEST_clinical_caseMIR	SENT1	-	-
+12	sábado	sábado		-	-	48-54	341_QUEST_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	55-57	341_QUEST_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	58-60	341_QUEST_clinical_caseMIR	SENT1	-	-
+15	madrugada	madrugada	NCFS000	-	-	61-70	341_QUEST_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	70-71	341_QUEST_clinical_caseMIR	SENT1	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	72-74	341_QUEST_clinical_caseMIR	SENT1	-	-
+18	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	75-81	341_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	82-84	341_QUEST_clinical_caseMIR	SENT1	-	-
+20	agitación	agitación	NCFS000	C0085631	hallazgo	85-94	341_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	psícomotriz	psícomotriz	AQ0CS00	-	-	95-106	341_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	y	y	CC	C1706368	calificador	107-108	341_QUEST_clinical_caseMIR	SENT1	-	-
+23	con	con	SPS00	C0332287	atributo	109-112	341_QUEST_clinical_caseMIR	SENT1	-	-
+24	ideas	ideo	AQ0FP0	C0011253_1	hallazgo_1	113-118	341_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	delirantes	delirante	AQ0CP0	C0011253_2	hallazgo_2	119-129	341_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+26	.	.	Fp	-	-	129-130	341_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Su	su	DP3CS0	-	-	131-133	341_QUEST_clinical_caseMIR	SENT2	-	-
+2	acompañante	acompañante	NCCS000	C0402659	ocupación	134-145	341_QUEST_clinical_caseMIR	SENT2	-	-
+3	refiere	referir	VMIP3S0	-	-	146-153	341_QUEST_clinical_caseMIR	SENT2	-	-
+4	abuso	abuso	NCMS000	C0562381#C0001678#C0392672	evento#hallazgo	154-159	341_QUEST_clinical_caseMIR	SENT2	-	-
+5	previo	previo	AQ0MS0	C0205156	calificador	160-166	341_QUEST_clinical_caseMIR	SENT2	-	-
+6	,	,	Fc	-	-	166-167	341_QUEST_clinical_caseMIR	SENT2	-	-
+7	por	por	SPS00	C0678226	atributo	168-171	341_QUEST_clinical_caseMIR	SENT2	-	-
+8	parte	parte	NCMS000	C0449719	atributo	172-177	341_QUEST_clinical_caseMIR	SENT2	-	-
+9	del	del	SP+DA	-	-	178-181	341_QUEST_clinical_caseMIR	SENT2	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	182-190	341_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	190-191	341_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	192-194	341_QUEST_clinical_caseMIR	SENT2	-	-
+13	cocaína	cocaína	NCFS000	C0009170	sustancia	195-202	341_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	202-203	341_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	204-205	341_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	205-208	341_QUEST_clinical_caseMIR	SENT3	-	-
+3	signo	signo	NCMS000	C0311392	hallazgo	209-214	341_QUEST_clinical_caseMIR	SENT3	-	-
+4	/	/	Fh	-	-	214-215	341_QUEST_clinical_caseMIR	SENT3	-	-
+5	síntoma	síntoma	NCMS000	C1457887	hallazgo	215-222	341_QUEST_clinical_caseMIR	SENT3	-	-
+6	NO	no	RN	C1298908	calificador	223-225	341_QUEST_clinical_caseMIR	SENT3	-	-
+7	esperaría	esperar	VMIC3S0	-	-	226-235	341_QUEST_clinical_caseMIR	SENT3	-	-
+8	encontrar	encontrar	VMN0000	-	-	236-245	341_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	245-246	341_QUEST_clinical_caseMIR	SENT3	-	-
+

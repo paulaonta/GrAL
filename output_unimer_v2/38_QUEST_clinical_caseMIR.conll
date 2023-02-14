@@ -1,0 +1,56 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	38_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	38_QUEST_clinical_caseMIR	SENT1	-	-
+3	25	25		-	-	9-11	38_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	38_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	38_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	38_QUEST_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	30-32	38_QUEST_clinical_caseMIR	SENT1	-	-
+8	cuadro	cuadro	NCMS000	-	-	33-39	38_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	38_QUEST_clinical_caseMIR	SENT1	-	-
+10	2	2		-	-	43-44	38_QUEST_clinical_caseMIR	SENT1	-	-
+11	meses	mes	NCMP000	C0439231	calificador	45-50	38_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	51-53	38_QUEST_clinical_caseMIR	SENT1	-	-
+13	evolución	evolución	NCFS000	-	-	54-63	38_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	64-66	38_QUEST_clinical_caseMIR	SENT1	-	-
+15	artritis	artritis	NCFN000	C0427306_1	trastorno_1	67-75	38_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	simétrica	simétrico	AQ0FS0	C0427306_2	trastorno_2	76-85	38_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	38_QUEST_clinical_caseMIR	SENT1	-	-
+18	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	89-94	38_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	,	,	Fc	-	-	94-95	38_QUEST_clinical_caseMIR	SENT1	-	-
+20	erupción	erupción	NCFS000	C0015230#C0302295	trastorno#anomalía_morfológica	96-104	38_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	fotosensible	fotosensible	AQ0CS0	-	-	105-117	38_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	,	,	Fc	-	-	117-118	38_QUEST_clinical_caseMIR	SENT1	-	-
+23	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	119-131	38_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	132-140	38_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	y	y	CC	C1706368	calificador	141-142	38_QUEST_clinical_caseMIR	SENT1	-	-
+26	febrícula	febrícula	NCFS000	-	-	143-152	38_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	.	.	Fp	-	-	152-153	38_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Analítica	analítica	NCFS000	-	-	154-163	38_QUEST_clinical_caseMIR	SENT2	-	-
+2	:	:	Fd	-	-	163-164	38_QUEST_clinical_caseMIR	SENT2	-	-
+3	hemograma	hemograma	NCMS000	C0200631	procedimiento	165-174	38_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	175-178	38_QUEST_clinical_caseMIR	SENT2	-	-
+5	3.500	3.500		-	-	179-184	38_QUEST_clinical_caseMIR	SENT2	-	-
+6	leucocitos/mm3	leucocitos/mm3		-	-	185-199	38_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	,	,	Fc	-	-	199-200	38_QUEST_clinical_caseMIR	SENT2	-	-
+8	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	201-210	38_QUEST_clinical_caseMIR	SENT2	-	-
+9	85.000/mm3	85.000/mm3		-	-	211-221	38_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	221-222	38_QUEST_clinical_caseMIR	SENT2	-	-
+11	creatinina	creatinina	NC00SC0	C0010294	sustancia	223-233	38_QUEST_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	234-235	38_QUEST_clinical_caseMIR	SENT2	-	-
+13	transaminasas	transaminasa	NCFP000	C1152208#C0002594	función_biológica#sustancia	236-249	38_QUEST_clinical_caseMIR	SENT2	-	-
+14	normales	normal	AQ0CP0	C0205307	calificador	250-258	38_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	258-259	38_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	260-271	38_QUEST_clinical_caseMIR	SENT3	-	-
+2	antinucleares	antinuclear	AQ0CP0	-	-	272-285	38_QUEST_clinical_caseMIR	SENT3	-	-
+3	positivos	positivo	AQ0MP0	C1446409	calificador	286-295	38_QUEST_clinical_caseMIR	SENT3	-	-
+4	1/320	1/320		-	-	296-301	38_QUEST_clinical_caseMIR	SENT3	-	-
+5	,	,	Fc	-	-	301-302	38_QUEST_clinical_caseMIR	SENT3	-	-
+6	antiDNA	antidesoxyribonucleic_acid_(ácido_desoxirribonucleico,_adn)	AQ0CN00	-	-	303-310	38_QUEST_clinical_caseMIR	SENT3	-	-
+7	nativo	nativo	NCMS000	C0302891	calificador	311-317	38_QUEST_clinical_caseMIR	SENT3	-	-
+8	positivo	positivo	AQ0MS0	C1446409	calificador	318-326	38_QUEST_clinical_caseMIR	SENT3	-	-
+9	e	y	CC	C1706368	calificador	327-328	38_QUEST_clinical_caseMIR	SENT3	-	-
+10	hipocomplementemia	hipocomplementemia	NCFS000	-	-	329-347	38_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	347-348	38_QUEST_clinical_caseMIR	SENT3	-	-
+

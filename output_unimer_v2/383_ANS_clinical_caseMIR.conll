@@ -1,0 +1,59 @@
+1	A	a	SPS00	-	-	351-352	383_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	353-355	383_ANS_clinical_caseMIR	SENT1	-	-
+3	hora	hora	NCFS000	C0040223#C0439227	calificador	356-360	383_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	361-363	383_ANS_clinical_caseMIR	SENT1	-	-
+5	dar	dar	VMN0000	C1947971	calificador	364-367	383_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	368-370	383_ANS_clinical_caseMIR	SENT1	-	-
+7	información	información	NCFS000	-	-	371-382	383_ANS_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	383-384	383_ANS_clinical_caseMIR	SENT1	-	-
+9	decidir	decidir	VMN0000	-	-	385-392	383_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	393-395	383_ANS_clinical_caseMIR	SENT1	-	-
+11	actitud	actitud	NCFS000	C0004271	entidad_observable	396-403	383_ANS_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	404-405	383_ANS_clinical_caseMIR	SENT1	-	-
+13	tomar	tomar	VMN0000	C1515187	calificador	406-411	383_ANS_clinical_caseMIR	SENT1	-	-
+14	sobre	sobre	SPS00	C1720294#C0205136	calificador	412-417	383_ANS_clinical_caseMIR	SENT1	-	-
+15	las	el	DA0FP0	-	-	418-421	383_ANS_clinical_caseMIR	SENT1	-	-
+16	pruebas	prueba	NCFP000	-	-	422-429	383_ANS_clinical_caseMIR	SENT1	-	-
+17	a	a	SPS00	-	-	430-431	383_ANS_clinical_caseMIR	SENT1	-	-
+18	realizar	realizar	VMN0000	-	-	432-440	383_ANS_clinical_caseMIR	SENT1	-	-
+19	:	:	Fd	-	-	440-441	383_ANS_clinical_caseMIR	SENT1	-	-
+20	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	383_ANS_clinical_caseMIR	SENT1	-	-
+21	erradicador	erradicador	NCMS000	-	-	12-23	383_ANS_clinical_caseMIR	SENT1	-	-
+22	del	del	SP+DA	-	-	24-27	383_ANS_clinical_caseMIR	SENT1	-	-
+23	Helicobacter	helicobacter	NC00SC0	C0085508	-	28-40	383_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	pylorii	pylorii	RG	-	-	41-48	383_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+25	.	.	Fp	-	-	48-49	383_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	383_ANS_clinical_caseMIR	SENT2	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	383_ANS_clinical_caseMIR	SENT2	-	-
+3	inhibidores	inhibidor	NCMP000	-	-	16-27	383_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	de	de	SPS00	C0332285	atributo	28-30	383_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+5	la	lo	PP3FSA00	-	-	31-33	383_ANS_clinical_caseMIR	SENT2	-	-
+6	bomba	bombo	AQ0FS0	-	-	34-39	383_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	40-42	383_ANS_clinical_caseMIR	SENT2	-	-
+8	protones	protón	NCMP000	C0033727	sustancia	43-51	383_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	y	y	CC	C1706368	calificador	52-53	383_ANS_clinical_caseMIR	SENT2	-	-
+10	una	una		C0205447_1	calificador_1	54-57	383_ANS_clinical_caseMIR	SENT2	-	-
+11	gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	58-70	383_ANS_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	71-73	383_ANS_clinical_caseMIR	SENT2	-	-
+13	control	control	NCMS000	C2587213	atributo	74-81	383_ANS_clinical_caseMIR	SENT2	-	-
+14	con	con	SPS00	C0332287	atributo	82-85	383_ANS_clinical_caseMIR	SENT2	-	-
+15	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	86-93	383_ANS_clinical_caseMIR	SENT2	-	-
+16	a	a	SPS00	-	-	94-95	383_ANS_clinical_caseMIR	SENT2	-	-
+17	las	el	DA0FP0	-	-	96-99	383_ANS_clinical_caseMIR	SENT2	-	-
+18	8	8		-	-	100-101	383_ANS_clinical_caseMIR	SENT2	-	-
+19	semanas	semana	NCFP000	C0439230	calificador	102-109	383_ANS_clinical_caseMIR	SENT2	-	-
+20	.	.	Fp	-	-	109-110	383_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Suspender	suspender	VMN0000	-	-	0-9	383_ANS_clinical_caseMIR	SENT3	-	-
+2	corticoides	corticoide	NCMP000	-	-	10-21	383_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+3	.	.	Fp	-	-	21-22	383_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	383_ANS_clinical_caseMIR	SENT4	-	-
+2	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	12-22	383_ANS_clinical_caseMIR	SENT4	-	-
+3	(	(	Fpa	-	-	23-24	383_ANS_clinical_caseMIR	SENT4	-	-
+4	Billrroth	billrroth	I	-	-	24-33	383_ANS_clinical_caseMIR	SENT4	-	-
+5	I	i	NCFS000	-	-	34-35	383_ANS_clinical_caseMIR	SENT4	-	-
+6	)	)	Fpt	-	-	35-36	383_ANS_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	36-37	383_ANS_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,25 @@
+1	Reacción	reacción	NCFS000	C0443286	calificador	0-8	67_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	67_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	estrés	estrés	NCMS000	C0038435	hallazgo#calificador	12-18	67_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+4	post-traumático	post-traumático	AQ0MS00	-	-	19-34	67_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	.	.	Fp	-	-	34-35	67_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	67_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	agudo	agudo	AQ0MS0	C0205178	calificador	10-15	67_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	de	de	SPS00	C0332285	atributo	16-18	67_ANS_clinical_caseMIR	SENT2	-	-
+4	personalidad	personalidad	NCFS000	C0031208	entidad_observable	19-31	67_ANS_clinical_caseMIR	SENT2	-	-
+5	dependiente	dependiente	AQ0CS0	C0851827	calificador	32-43	67_ANS_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	43-44	67_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Agorafobia	agorafobia	NCFS000	C0001818	trastorno	0-10	67_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	10-11	67_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Trastorno	trastorno	NCMS000	C0011581#C1269683#C0025193_1	trastorno_1	0-9	67_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	Depresivo	depresivo	NCMS000	C0011581#C1269683#C0025193_2	trastorno_2	10-19	67_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	19-20	67_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Crisis	crisis	NCFN000	C0086769_1	hallazgo_1	0-6	67_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0086769_2	hallazgo_2	7-9	67_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+3	Angustia	angustiar	VMM02S0	C0086769_3	hallazgo_3	10-18	67_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	18-19	67_ANS_clinical_caseMIR	SENT5	-	-
+

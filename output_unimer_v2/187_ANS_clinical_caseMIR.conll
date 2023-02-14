@@ -1,0 +1,41 @@
+1	Transfusiones	transfusión	NCFP000	C1879316	procedimiento	0-13	187_ANS_clinical_caseMIR	SENT1	-	-
+2	periódicas	periódico	AQ0FP0	C0332182	calificador	14-24	187_ANS_clinical_caseMIR	SENT1	-	-
+3	y	y	CC	C1706368	calificador	25-26	187_ANS_clinical_caseMIR	SENT1	-	-
+4	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	27-39	187_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	.	.	Fp	-	-	39-40	187_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Andrógenos	andrógeno	NCMP000	C0002844	sustancia	0-10	187_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	y	y	CC	C1706368	calificador	11-12	187_ANS_clinical_caseMIR	SENT2	-	-
+3	transfusiones	transfusión	NCFP000	C1879316	procedimiento	13-26	187_ANS_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	27-29	187_ANS_clinical_caseMIR	SENT2	-	-
+5	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	30-39	187_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	.	.	Fp	-	-	39-40	187_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Trasplante	trasplante	NCMS000	C0149615_1	procedimiento_1	0-10	187_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0149615_2	procedimiento_2	11-13	187_ANS_clinical_caseMIR	SENT3	-	-
+3	médula	médula	NCFS000	C0149615_3	procedimiento_3	14-20	187_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	ósea	óseo	AQ0FS0	C0149615_4	procedimiento_4	21-25	187_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+5	alogénico	alogénico	AQ0MS0	C0149615_5	procedimiento_5	26-35	187_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+6	si	si	CS	-	-	36-38	187_ANS_clinical_caseMIR	SENT3	-	-
+7	hermano	hermano	NCMS000	C0337527	persona	39-46	187_ANS_clinical_caseMIR	SENT3	-	-
+8	HLA	hla	NC00YL0	-	-	47-50	187_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	idéntico	idéntico	AQ0MS0	C0205280	calificador	51-59	187_ANS_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	59-60	187_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Trasplante	trasplante	NCMS000	C0040736_1	procedimiento_1	0-10	187_ANS_clinical_caseMIR	SENT4	-	-
+2	autólogo	autólogo	NC00SC0	C0040736_2	procedimiento_2	11-19	187_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	187_ANS_clinical_caseMIR	SENT4	-	-
+4	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	23-29	187_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	30-34	187_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+6	para	para	SPS00	C0521125	calificador	35-39	187_ANS_clinical_caseMIR	SENT4	-	-
+7	evitar	evitar	VMN0000	-	-	40-46	187_ANS_clinical_caseMIR	SENT4	-	-
+8	rechazo	rechazo	NCMS000	-	-	47-54	187_ANS_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	54-55	187_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Ciclosporina	ciclosporina	NCFS000	C0010592_1	producto_1	0-12	187_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+2	A	a	SPS00	C0010592_2	producto_2	13-14	187_ANS_clinical_caseMIR	SENT5	-	-
+3	y	y	CC	C1706368	calificador	15-16	187_ANS_clinical_caseMIR	SENT5	-	-
+4	globulina	globulina	NCFS000	C0017649	sustancia	17-26	187_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+5	antitimocítica	antitimocítica	AQ0FS00	-	-	27-41	187_ANS_clinical_caseMIR	SENT5	I-Grp_Medicamento	-
+6	.	.	Fp	-	-	41-42	187_ANS_clinical_caseMIR	SENT5	-	-
+

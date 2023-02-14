@@ -1,0 +1,28 @@
+1	La	el	DA0FS0	-	-	0-2	351_ANS_clinical_caseMIR	SENT1	-	-
+2	arteria	arteria	NCFS000	C1280137#C0226328_1	estructura_corporal_1	3-10	351_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	cólica	cólico	AQ0FS0	C1280137#C0226328_2	estructura_corporal_2	11-17	351_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+4	media	medio	PI0FS000	C1280137#C0226328_3	estructura_corporal_3	18-23	351_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	23-24	351_ANS_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	0-2	351_ANS_clinical_caseMIR	SENT2	-	-
+2	arteria	arteria	NCFS000	C1280130#C0226311_1	estructura_corporal_1	3-10	351_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	gastroduodenal	gastroduodenal	NC00SC0	C1280130#C0226311_2	estructura_corporal_2	11-25	351_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+4	.	.	Fp	-	-	25-26	351_ANS_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	0-2	351_ANS_clinical_caseMIR	SENT3	-	-
+2	arteria	arteria	NCFS000	C0226401#C1269889_1	estructura_corporal_1	3-10	351_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	epigástrica	epigástrico	AQ0FS0	C0226401#C1269889_2	estructura_corporal_2	11-22	351_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+4	inferior	inferior	NCCS000	C0226401#C1269889_3	estructura_corporal_3	23-31	351_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+5	izquierda	izquierdo	AQ0FS0	C0205091	calificador	32-41	351_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+6	.	.	Fp	-	-	41-42	351_ANS_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	0-2	351_ANS_clinical_caseMIR	SENT4	-	-
+2	arteria	arteria	NCFS000	C1280127#C0037996_1	estructura_corporal_1	3-10	351_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	esplénica	esplénico	AQ0FS0	C1280127#C0037996_2	estructura_corporal_2	11-20	351_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+4	.	.	Fp	-	-	20-21	351_ANS_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	0-2	351_ANS_clinical_caseMIR	SENT5	-	-
+2	arteria	arteria	NCFS000	C0447070_1	estructura_corporal_1	3-10	351_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	gastroepiploica	gastroepiploico	AQ0FS0	C0447070_2	estructura_corporal_2	11-26	351_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+4	.	.	Fp	-	-	26-27	351_ANS_clinical_caseMIR	SENT5	-	-
+

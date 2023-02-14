@@ -1,0 +1,141 @@
+1	¿	¿	Fia	-	-	154-155	770_QUEST_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	155-158	770_QUEST_clinical_caseMIR	SENT1	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	159-166	770_QUEST_clinical_caseMIR	SENT1	-	-
+4	tomaría	tomar	VMIC3S0	C1515187	calificador	167-174	770_QUEST_clinical_caseMIR	SENT1	-	-
+5	?	?	Fit	-	-	174-175	770_QUEST_clinical_caseMIR	SENT1	-	-
+6	:	:	Fd	-	-	175-176	770_QUEST_clinical_caseMIR	SENT1	-	-
+7	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	770_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	6-8	770_QUEST_clinical_caseMIR	SENT1	-	-
+9	84	84		-	-	9-11	770_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	12-16	770_QUEST_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	16-17	770_QUEST_clinical_caseMIR	SENT1	-	-
+12	diagnosticada	diagnosticar	VMP00SF	-	-	18-31	770_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	32-34	770_QUEST_clinical_caseMIR	SENT1	-	-
+14	enfermedad	enfermedad	NCFS000	C0024117_1	trastorno_1	35-45	770_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	pulmonar	pulmonar	NC00SC0	C0024117_2	trastorno_2	46-54	770_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	obstructiva	obstructivo	AQ0FS0	C0024117_3	trastorno_3	55-66	770_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	crónica	crónico	AQ0FS0	C0024117_4	trastorno_4	67-74	770_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	75-77	770_QUEST_clinical_caseMIR	SENT1	-	-
+19	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	78-89	770_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	90-93	770_QUEST_clinical_caseMIR	SENT1	-	-
+21	oxigenoterapia	oxigenoterapia	NCFS000	C1960973_1	procedimiento_1	94-108	770_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	domiciliaria	domiciliario	AQ0FS0	C1960973_2	procedimiento_2	109-121	770_QUEST_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	121-122	770_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	123-128	770_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	129-130	770_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	131-140	770_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	141-144	770_QUEST_clinical_caseMIR	SENT2	-	-
+5	empeoramiento	empeoramiento	NCMS000	-	-	145-158	770_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0332285	atributo	159-161	770_QUEST_clinical_caseMIR	SENT2	-	-
+7	su	su	DP3CS0	-	-	162-164	770_QUEST_clinical_caseMIR	SENT2	-	-
+8	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	165-171	770_QUEST_clinical_caseMIR	SENT2	-	-
+9	general	general	AQ0CS0	C0205246	calificador	172-179	770_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	179-180	770_QUEST_clinical_caseMIR	SENT2	-	-
+11	fiebre	fiebre	NCFS000	C0015967	hallazgo	181-187	770_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0332285	atributo	188-190	770_QUEST_clinical_caseMIR	SENT2	-	-
+13	39ºC	39ºC		-	-	191-195	770_QUEST_clinical_caseMIR	SENT2	-	-
+14	,	,	Fc	-	-	195-196	770_QUEST_clinical_caseMIR	SENT2	-	-
+15	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	197-200	770_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	y	y	CC	C1706368	calificador	201-202	770_QUEST_clinical_caseMIR	SENT2	-	-
+17	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	203-216	770_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	purulenta	purulento	AQ0FS0	C0439665	anomalía_morfológica	217-226	770_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+19	de	de	SPS00	C0332285	atributo	227-229	770_QUEST_clinical_caseMIR	SENT2	-	-
+20	5	5	Z	-	-	230-231	770_QUEST_clinical_caseMIR	SENT2	-	-
+21	días	d	NCMP000	-	-	232-236	770_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0332285	atributo	237-239	770_QUEST_clinical_caseMIR	SENT2	-	-
+23	evolución	evolución	NCFS000	-	-	240-249	770_QUEST_clinical_caseMIR	SENT2	-	-
+24	.	.	Fp	-	-	249-250	770_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	770_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	254-256	770_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	257-268	770_QUEST_clinical_caseMIR	SENT3	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	269-275	770_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	276-278	770_QUEST_clinical_caseMIR	SENT3	-	-
+6	halla	hallar	VMIP3S0	-	-	279-284	770_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	285-288	770_QUEST_clinical_caseMIR	SENT3	-	-
+8	tensión	tensión	NCFS000	C0038435	hallazgo	289-296	770_QUEST_clinical_caseMIR	SENT3	-	-
+9	arteria	arteria	NCFS000	C1285085#C0003842	estructura_corporal	297-304	770_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	de	de	SPS00	C0332285	atributo	305-307	770_QUEST_clinical_caseMIR	SENT3	-	-
+11	90/70	90/70	Z	-	-	308-313	770_QUEST_clinical_caseMIR	SENT3	-	-
+12	mmHg	mmHg	NCMP000	-	-	314-318	770_QUEST_clinical_caseMIR	SENT3	-	-
+13	,	,	Fc	-	-	318-319	770_QUEST_clinical_caseMIR	SENT3	-	-
+14	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	320-330	770_QUEST_clinical_caseMIR	SENT3	-	-
+15	cardiaca	cardiaco	AQ0FS0	-	-	331-339	770_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	de	de	SPS00	C0332285	atributo	340-342	770_QUEST_clinical_caseMIR	SENT3	-	-
+17	125	125		-	-	343-346	770_QUEST_clinical_caseMIR	SENT3	-	-
+18	lpm	lpm	NC00YL0	-	-	347-350	770_QUEST_clinical_caseMIR	SENT3	-	-
+19	,	,	Fc	-	-	350-351	770_QUEST_clinical_caseMIR	SENT3	-	-
+20	saturación	saturación	NCFS000	-	-	352-362	770_QUEST_clinical_caseMIR	SENT3	-	-
+21	basal	basal	AQ0CS0	C0205112	calificador	363-368	770_QUEST_clinical_caseMIR	SENT3	-	-
+22	de	de	SPS00	C0332285	atributo	369-371	770_QUEST_clinical_caseMIR	SENT3	-	-
+23	oxígeno	oxígeno	NCMS000	C0030054	sustancia	372-379	770_QUEST_clinical_caseMIR	SENT3	-	-
+24	86	86	Z	-	-	380-382	770_QUEST_clinical_caseMIR	SENT3	-	-
+25	%	%	Ft	-	-	383-384	770_QUEST_clinical_caseMIR	SENT3	-	-
+26	y	y	CC	C1706368	calificador	385-386	770_QUEST_clinical_caseMIR	SENT3	-	-
+27	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	387-397	770_QUEST_clinical_caseMIR	SENT3	-	-
+28	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	398-410	770_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+29	35	35		-	-	411-413	770_QUEST_clinical_caseMIR	SENT3	-	-
+30	rpm	r.p.m.	NCFN000	-	-	414-417	770_QUEST_clinical_caseMIR	SENT3	-	-
+31	.	.	Fp	-	-	417-418	770_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	419-421	770_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	422-424	770_QUEST_clinical_caseMIR	SENT4	-	-
+3	auscultación	auscultación	NCFS000	C0004339	procedimiento	425-437	770_QUEST_clinical_caseMIR	SENT4	-	-
+4	hay	haber	VMIP3S0	-	-	438-441	770_QUEST_clinical_caseMIR	SENT4	-	-
+5	hipofonesis	hipofonesis	NCFN000	-	-	442-453	770_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	basal	basal	AQ0CS0	C0205112	calificador	454-459	770_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+7	izquierda	izquierda	NCFS000	-	-	460-469	770_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+8	.	.	Fp	-	-	469-470	770_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	471-473	770_QUEST_clinical_caseMIR	SENT5	-	-
+2	analítica	analítica	NCFS000	-	-	474-483	770_QUEST_clinical_caseMIR	SENT5	-	-
+3	muestra	mostrar	VMIP3S0	-	-	484-491	770_QUEST_clinical_caseMIR	SENT5	-	-
+4	30.000	30.000		-	-	492-498	770_QUEST_clinical_caseMIR	SENT5	-	-
+5	leucocitos	leucocito	NCMP000	C0023516	célula	499-509	770_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+6	(	(	Fpa	-	-	510-511	770_QUEST_clinical_caseMIR	SENT5	-	-
+7	85	85	Z	-	-	511-513	770_QUEST_clinical_caseMIR	SENT5	-	-
+8	%	%	Ft	-	-	514-515	770_QUEST_clinical_caseMIR	SENT5	-	-
+9	neutrófilos	neutrófilo	AQ0MP0	C0027950	célula	516-527	770_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+10	)	)	Fpt	-	-	527-528	770_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	528-529	770_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	530-532	770_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	533-535	770_QUEST_clinical_caseMIR	SENT6	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	536-547	770_QUEST_clinical_caseMIR	SENT6	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	548-550	770_QUEST_clinical_caseMIR	SENT6	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	551-556	770_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+6	se	se	P00CN000	-	-	557-559	770_QUEST_clinical_caseMIR	SENT6	-	-
+7	detecta	detectar	VMIP3S0	-	-	560-567	770_QUEST_clinical_caseMIR	SENT6	-	-
+8	un	un		C0205447_1	calificador_1	568-570	770_QUEST_clinical_caseMIR	SENT6	-	-
+9	gran	gran	AQ0CS0	C0549177	calificador	571-575	770_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+10	infiltrado	infiltrado	NC00SC0	C0332448	anomalía_morfológica	576-586	770_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+11	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	587-595	770_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+12	apical	apical	NCFS000	C0205111	calificador	596-602	770_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+13	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	603-612	770_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	613-614	770_QUEST_clinical_caseMIR	SENT6	-	-
+15	un	un		C0205447_1	calificador_1	615-617	770_QUEST_clinical_caseMIR	SENT6	-	-
+16	derrame	derrame	NCMS000	C0032227_1	trastorno_1	618-625	770_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+17	pleural	pleural	NC00SC0	C0032227_2	trastorno_2	626-633	770_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+18	moderado	moderar	VMP00SM	-	-	634-642	770_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+19	ipsilateral	ipsilateral	NC00SC0	C0441989	calificador	643-654	770_QUEST_clinical_caseMIR	SENT6	I-Calificador	-
+20	.	.	Fp	-	-	654-655	770_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Se	se	P00CN000	-	-	656-658	770_QUEST_clinical_caseMIR	SENT7	-	-
+2	realiza	realizar	VMIP3S0	-	-	659-666	770_QUEST_clinical_caseMIR	SENT7	-	-
+3	una	una		C0205447_1	calificador_1	667-670	770_QUEST_clinical_caseMIR	SENT7	-	-
+4	toracocentesis	toracocentesis	NC00SC0	C0189477	procedimiento	671-685	770_QUEST_clinical_caseMIR	SENT7	-	-
+5	que	que	PR0CN000	-	-	686-689	770_QUEST_clinical_caseMIR	SENT7	-	-
+6	obtiene	obtener	VMIP3S0	-	-	690-697	770_QUEST_clinical_caseMIR	SENT7	-	-
+7	un	un		C0205447_1	calificador_1	698-700	770_QUEST_clinical_caseMIR	SENT7	-	-
+8	líquido	líquido	NCMS000	C0427809_1	hallazgo_1	701-708	770_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
+9	pleural	pleural	NC00SC0	C0427809_2	hallazgo_2	709-716	770_QUEST_clinical_caseMIR	SENT7	I-Grp_Enfermedad	-
+10	purulento	purulento	NC00SC0	C0427809_3	hallazgo_3	717-726	770_QUEST_clinical_caseMIR	SENT7	I-Grp_Enfermedad	-
+11	,	,	Fc	-	-	726-727	770_QUEST_clinical_caseMIR	SENT7	-	-
+12	del	del	SP+DA	-	-	728-731	770_QUEST_clinical_caseMIR	SENT7	-	-
+13	que	que	PR0CN000	-	-	732-735	770_QUEST_clinical_caseMIR	SENT7	-	-
+14	se	se	P00CN000	-	-	736-738	770_QUEST_clinical_caseMIR	SENT7	-	-
+15	solicita	solicitar	VMIP3S0	-	-	739-747	770_QUEST_clinical_caseMIR	SENT7	-	-
+16	cultivo	cultivo	NCMS000	-	-	748-755	770_QUEST_clinical_caseMIR	SENT7	-	-
+17	.	.	Fp	-	-	755-756	770_QUEST_clinical_caseMIR	SENT7	-	-
+

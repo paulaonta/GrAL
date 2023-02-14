@@ -1,0 +1,50 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	515_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	3-6	515_QUEST_clinical_caseMIR	SENT1	-	-
+3	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	7-12	515_QUEST_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	13-16	515_QUEST_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	17-20	515_QUEST_clinical_caseMIR	SENT1	-	-
+6	crisis	crisis	NCFN000	C0036572#C0014544_1	hallazgo_1	21-27	515_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	epiléptica	epiléptico	NCFS000	C0036572#C0014544_2	hallazgo_2	28-38	515_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+8	que	que	PR0CN000	-	-	39-42	515_QUEST_clinical_caseMIR	SENT1	-	-
+9	presenta	presentar	VMIP3S0	-	-	43-51	515_QUEST_clinical_caseMIR	SENT1	-	-
+10	las	el	DA0FP0	-	-	52-55	515_QUEST_clinical_caseMIR	SENT1	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	56-66	515_QUEST_clinical_caseMIR	SENT1	-	-
+12	características	característica	NCFP000	-	-	67-82	515_QUEST_clinical_caseMIR	SENT1	-	-
+13	clínicas	clínico	AQ0FP0	C0205210	calificador	83-91	515_QUEST_clinical_caseMIR	SENT1	-	-
+14	:	:	Fd	-	-	91-92	515_QUEST_clinical_caseMIR	SENT1	-	-
+15	aura	aura	NCFS000	C0236018	hallazgo	93-97	515_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	epigástrica	epigástrico	AQ0FS0	-	-	98-109	515_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	,	,	Fc	-	-	109-110	515_QUEST_clinical_caseMIR	SENT1	-	-
+18	olor	olor	NCMS000	-	-	111-115	515_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	desagradable	desagradable	AQ0CS0	-	-	116-128	515_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+20	,	,	Fc	-	-	128-129	515_QUEST_clinical_caseMIR	SENT1	-	-
+21	desconexión	desconexión	NCFS000	-	-	130-141	515_QUEST_clinical_caseMIR	SENT1	-	-
+22	del	del	SP+DA	-	-	142-145	515_QUEST_clinical_caseMIR	SENT1	-	-
+23	medio	medio	NCMS000	C2939193#C0205098#C0444598#C0549183	calificador	146-151	515_QUEST_clinical_caseMIR	SENT1	-	-
+24	,	,	Fc	-	-	151-152	515_QUEST_clinical_caseMIR	SENT1	-	-
+25	automatismos	automatismo	NCMP000	C0004377	hallazgo	153-165	515_QUEST_clinical_caseMIR	SENT1	-	-
+26	motores	motor	NCMP000	-	-	166-173	515_QUEST_clinical_caseMIR	SENT1	-	-
+27	(	(	Fpa	-	-	174-175	515_QUEST_clinical_caseMIR	SENT1	-	-
+28	chupeteo	chupeteo	NCMS000	-	-	175-183	515_QUEST_clinical_caseMIR	SENT1	-	-
+29	,	,	Fc	-	-	183-184	515_QUEST_clinical_caseMIR	SENT1	-	-
+30	deglución	deglución	NCFS000	C0011167	función	185-194	515_QUEST_clinical_caseMIR	SENT1	-	-
+31	,	,	Fc	-	-	194-195	515_QUEST_clinical_caseMIR	SENT1	-	-
+32	apertura	apertura	NCFS000	C0547049#C0175566	calificador	196-204	515_QUEST_clinical_caseMIR	SENT1	-	-
+33	y	y	CC	C1706368	calificador	205-206	515_QUEST_clinical_caseMIR	SENT1	-	-
+34	cierre	cierre	NCMS000	C0185003#C0453981#C0453984	procedimiento#objeto_físico	207-213	515_QUEST_clinical_caseMIR	SENT1	-	-
+35	de	de	SPS00	C0332285	atributo	214-216	515_QUEST_clinical_caseMIR	SENT1	-	-
+36	una	una		C0205447_1	calificador_1	217-220	515_QUEST_clinical_caseMIR	SENT1	-	-
+37	mano	mano	NCFS000	C3714557#C1281583	estructura_corporal	221-225	515_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+38	)	)	Fpt	-	-	225-226	515_QUEST_clinical_caseMIR	SENT1	-	-
+39	y	y	CC	C1706368	calificador	227-228	515_QUEST_clinical_caseMIR	SENT1	-	-
+40	amnesia	amnesia	NCFS000	C0002622	hallazgo	229-236	515_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+41	posterítica	posterítica	AQ0FS00	-	-	237-248	515_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+42	,	,	Fc	-	-	248-249	515_QUEST_clinical_caseMIR	SENT1	-	-
+43	¿	¿	Fia	-	-	250-251	515_QUEST_clinical_caseMIR	SENT1	-	-
+44	cuál	cuál	PT0CS000	-	-	251-255	515_QUEST_clinical_caseMIR	SENT1	-	-
+45	es	ser	VSIP3S0	-	-	256-258	515_QUEST_clinical_caseMIR	SENT1	-	-
+46	su	su	DP3CS0	-	-	259-261	515_QUEST_clinical_caseMIR	SENT1	-	-
+47	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	262-270	515_QUEST_clinical_caseMIR	SENT1	-	-
+48	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	271-282	515_QUEST_clinical_caseMIR	SENT1	-	-
+49	?	?	Fit	-	-	282-283	515_QUEST_clinical_caseMIR	SENT1	-	-
+

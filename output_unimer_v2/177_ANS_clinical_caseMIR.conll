@@ -1,0 +1,27 @@
+1	Esquizofrenia	esquizofrenia	NCFS000	C0036341	trastorno	0-13	177_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	13-14	177_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	177_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	10-12	177_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	ideas	ideo	AQ0FP0	C0011253_1	hallazgo_1	13-18	177_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+4	delirantes	delirante	AQ0CP0	C0011253_2	hallazgo_2	19-29	177_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+5	persistentes	persistente	AQ0CP0	C0205322#C0549178	calificador	30-42	177_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+6	.	.	Fp	-	-	42-43	177_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Trastorno	trastorno	NCMS000	C0011581#C1269683#C0025193_1	trastorno_1	0-9	177_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	depresivo	depresivo	NCMS000	C0011581#C1269683#C0025193_2	trastorno_2	10-19	177_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	con	con	SPS00	C0332287	atributo	20-23	177_ANS_clinical_caseMIR	SENT3	-	-
+4	síntomas	síntoma	NCMP000	C1457887	hallazgo	24-32	177_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	psicóticos	psicótico	AQ0MP0	-	-	33-43	177_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+6	.	.	Fp	-	-	43-44	177_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	177_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	10-12	177_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+3	personalidad	personalidad	NCFS000	C0031208	entidad_observable	13-25	177_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+4	esquizoide	esquizoide	AQ0CS0	-	-	26-36	177_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+5	.	.	Fp	-	-	36-37	177_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	177_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	distímico	distímico	AQVMS00	-	-	10-19	177_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	19-20	177_ANS_clinical_caseMIR	SENT5	-	-
+

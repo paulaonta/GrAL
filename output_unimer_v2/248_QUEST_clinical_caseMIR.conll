@@ -1,0 +1,36 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	248_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	248_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	248_QUEST_clinical_caseMIR	SENT1	-	-
+4	56	56		-	-	13-15	248_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	248_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	248_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	29-30	248_QUEST_clinical_caseMIR	SENT1	-	-
+8	tras	tras	SPS00	-	-	31-35	248_QUEST_clinical_caseMIR	SENT1	-	-
+9	caída	caída	NCFS000	C0085639	hallazgo	36-41	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	casual	casual	AQ0CS0	C0521129	calificador	42-48	248_QUEST_clinical_caseMIR	SENT1	-	-
+11	al	al	SP+DA	-	-	49-51	248_QUEST_clinical_caseMIR	SENT1	-	-
+12	suelo	suelo	NCMS000	C0037592	sustancia	52-57	248_QUEST_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	57-58	248_QUEST_clinical_caseMIR	SENT1	-	-
+14	dolor	dolor	NCMS000	C0030193	hallazgo	59-64	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	,	,	Fc	-	-	64-65	248_QUEST_clinical_caseMIR	SENT1	-	-
+16	deformidad	deformidad	NCFS000	C0302142	hallazgo#anomalía_morfológica	66-76	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	y	y	CC	C1706368	calificador	77-78	248_QUEST_clinical_caseMIR	SENT1	-	-
+18	aumento	aumento	NCMS000	C0442805	calificador	79-86	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	de	de	SPS00	C0332285	atributo	87-89	248_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	volumen	volumen	NCMS000	C0449468#C0178733	calificador#hallazgo	90-97	248_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	98-100	248_QUEST_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	101-103	248_QUEST_clinical_caseMIR	SENT1	-	-
+23	brazo	brazo	NCMS000	C1269612#C1140618#C0446516	estructura_corporal	104-109	248_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	izquerdo	izquerdo	NCMS000	-	-	110-118	248_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	,	,	Fc	-	-	118-119	248_QUEST_clinical_caseMIR	SENT1	-	-
+26	con	con	SPS00	C0332287	atributo	120-123	248_QUEST_clinical_caseMIR	SENT1	-	-
+27	imposibilidad	imposibilidad	NCFS000	-	-	124-137	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	para	para	SPS00	C0521125	calificador	138-142	248_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	la	el	DA0FS0	-	-	143-145	248_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+30	flexión	flexión	NCFS000	C0231452	función	146-153	248_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+31	dorsal	dorsal	AQ0CS0	C0205095#C0439781	calificador	154-160	248_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+32	de	de	SPS00	C0332285	atributo	161-163	248_QUEST_clinical_caseMIR	SENT1	-	-
+33	la	el	DA0FS0	-	-	164-166	248_QUEST_clinical_caseMIR	SENT1	-	-
+34	mano	mano	NCFS000	C3714557#C1281583	estructura_corporal	167-171	248_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+35	.	.	Fp	-	-	171-172	248_QUEST_clinical_caseMIR	SENT1	-	-
+

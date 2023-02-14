@@ -1,0 +1,64 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	235_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	235_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	235_QUEST_clinical_caseMIR	SENT1	-	-
+4	54	54		-	-	13-15	235_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	235_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	235_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	235_QUEST_clinical_caseMIR	SENT1	-	-
+8	es	ser	VSIP3S0	-	-	29-31	235_QUEST_clinical_caseMIR	SENT1	-	-
+9	diagnosticado	diagnosticar	VMP00SM	-	-	32-45	235_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	46-48	235_QUEST_clinical_caseMIR	SENT1	-	-
+11	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	49-54	235_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	renal	renal	AQ0CS0	-	-	55-60	235_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	61-70	235_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+14	sugestivo	sugestivo	AQ0MS0	-	-	71-80	235_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	81-83	235_QUEST_clinical_caseMIR	SENT1	-	-
+16	carcinoma	carcinoma	NCMS000	C0279702#C0007134#C1378703_1	trastorno#anomalía_morfológica_1	84-93	235_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+17	de	de	SPS00	C0279702#C0007134#C1378703_2	trastorno#anomalía_morfológica_2	94-96	235_QUEST_clinical_caseMIR	SENT1	-	-
+18	células	célula	NCFP000	C0279702#C0007134#C1378703_3	trastorno#anomalía_morfológica_3	97-104	235_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	renales	renal	AQ0CP0	C0279702#C0007134#C1378703_4	trastorno#anomalía_morfológica_4	105-112	235_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	.	.	Fp	-	-	112-113	235_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	114-116	235_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	117-119	235_QUEST_clinical_caseMIR	SENT2	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	120-127	235_QUEST_clinical_caseMIR	SENT2	-	-
+4	analítico	analítico	AQ0MS0	-	-	128-137	235_QUEST_clinical_caseMIR	SENT2	-	-
+5	preoperatorio	preoperatorio	NC00SC0	C0445204_1	calificador_1	138-151	235_QUEST_clinical_caseMIR	SENT2	-	-
+6	se	se	P00CN000	-	-	152-154	235_QUEST_clinical_caseMIR	SENT2	-	-
+7	detectan	detectar	VMIP3P0	-	-	155-163	235_QUEST_clinical_caseMIR	SENT2	-	-
+8	niveles	nivel	NCMP000	C0456079	atributo	164-171	235_QUEST_clinical_caseMIR	SENT2	-	-
+9	elevados	elevar	VMP00PM	-	-	172-180	235_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	181-183	235_QUEST_clinical_caseMIR	SENT2	-	-
+11	GPT	glutamic_pyruvic_transaminase_(transaminasa_glutámico_pirúvica)	NC00YL0	-	-	184-187	235_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	187-188	235_QUEST_clinical_caseMIR	SENT2	-	-
+13	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	189-198	235_QUEST_clinical_caseMIR	SENT2	-	-
+14	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	199-207	235_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	208-209	235_QUEST_clinical_caseMIR	SENT2	-	-
+16	alfa-2	alfa-2		-	-	210-216	235_QUEST_clinical_caseMIR	SENT2	-	-
+17	-	-	Fg	-	-	216-217	235_QUEST_clinical_caseMIR	SENT2	-	-
+18	globulina	globulina	NCFS000	C0017649	sustancia	218-227	235_QUEST_clinical_caseMIR	SENT2	-	-
+19	y	y	CC	C1706368	calificador	228-229	235_QUEST_clinical_caseMIR	SENT2	-	-
+20	tiempo	tiempo	NCMS000	C0033707_1	procedimiento_1	230-236	235_QUEST_clinical_caseMIR	SENT2	-	-
+21	de	de	SPS00	C0033707_2	procedimiento_2	237-239	235_QUEST_clinical_caseMIR	SENT2	-	-
+22	protrombina	protrombina	NCFS000	C0033707_3	procedimiento_3	240-251	235_QUEST_clinical_caseMIR	SENT2	-	-
+23	alargado	alargar	VMP00SM	-	-	252-260	235_QUEST_clinical_caseMIR	SENT2	-	-
+24	.	.	Fp	-	-	260-261	235_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	262-264	235_QUEST_clinical_caseMIR	SENT3	-	-
+2	hígado	hígado	NCMS000	C1278929#C0023884	estructura_corporal	265-271	235_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	está	estar	VAIP3S0	-	-	272-276	235_QUEST_clinical_caseMIR	SENT3	-	-
+4	aumentado	aumentar	VMP00SM	-	-	277-286	235_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	287-289	235_QUEST_clinical_caseMIR	SENT3	-	-
+6	tamaño	tamaño	NCMS000	C3714679#C0456389	calificador#atributo	290-296	235_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	297-299	235_QUEST_clinical_caseMIR	SENT3	-	-
+8	forma	forma	NCFS000	C0348078	atributo	300-305	235_QUEST_clinical_caseMIR	SENT3	-	-
+9	difusa	difuso	AQ0FS0	C0205219	calificador	306-312	235_QUEST_clinical_caseMIR	SENT3	-	-
+10	,	,	Fc	-	-	312-313	235_QUEST_clinical_caseMIR	SENT3	-	-
+11	pero	pero	CC	-	-	314-318	235_QUEST_clinical_caseMIR	SENT3	-	-
+12	sin	sin	SPS00	C0332288	atributo	319-322	235_QUEST_clinical_caseMIR	SENT3	-	-
+13	defectos	defecto	NCMP000	C1457869#C0231172	anomalía_morfológica#hallazgo	323-331	235_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332285	atributo	332-334	235_QUEST_clinical_caseMIR	SENT3	-	-
+15	infiltración	infiltración	NCFS000	C0702249#C0332448	procedimiento#anomalía_morfológica	335-347	235_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+16	hepática	hepático	AQ0FS0	-	-	348-356	235_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	356-357	235_QUEST_clinical_caseMIR	SENT3	-	-
+

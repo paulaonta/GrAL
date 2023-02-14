@@ -1,0 +1,132 @@
+1	Se	se	P00CN000	-	-	0-2	583_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	583_ANS_clinical_caseMIR	SENT1	-	-
+3	probablemente	probablemente	RG	C0332148	calificador	9-22	583_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	583_ANS_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	26-28	583_ANS_clinical_caseMIR	SENT1	-	-
+6	hiperaldosteronismo	hiperaldosteronismo	NC00SC0	C1384514#C0392593_1	trastorno_1	29-48	583_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+7	primario	primario	NCMS000	C1384514#C0392593_2	trastorno_2	49-57	583_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	57-58	583_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	59-61	583_ANS_clinical_caseMIR	SENT2	-	-
+2	siguiente	siguiente	AQ0CS0	C0332282	atributo	62-71	583_ANS_clinical_caseMIR	SENT2	-	-
+3	paso	paso	NCMS000	C1261552	calificador	72-76	583_ANS_clinical_caseMIR	SENT2	-	-
+4	sería	ser	VSIC1S0	-	-	77-82	583_ANS_clinical_caseMIR	SENT2	-	-
+5	realizar	realizar	VMN0000	-	-	83-91	583_ANS_clinical_caseMIR	SENT2	-	-
+6	TC	símbolo_químico_del_tecnecio	NC00YL0	C0412622_1	procedimiento_1	92-94	583_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0412622_2	procedimiento_2	95-97	583_ANS_clinical_caseMIR	SENT2	-	-
+8	glándulas	glándula	NCFP000	C0412622_3	procedimiento_3	98-107	583_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	suprarrenales	suprarrenal	AQ0CP0	C0412622_4	procedimiento_4	108-121	583_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	.	.	Fp	-	-	121-122	583_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	0-2	583_ANS_clinical_caseMIR	SENT3	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	583_ANS_clinical_caseMIR	SENT3	-	-
+3	probablemente	probablemente	RG	C0332148	calificador	9-22	583_ANS_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	583_ANS_clinical_caseMIR	SENT3	-	-
+5	un	un		C0205447_1	calificador_1	26-28	583_ANS_clinical_caseMIR	SENT3	-	-
+6	hiperaldosteronismo	hiperaldosteronismo	NC00SC0	C1384514#C0392593_1	trastorno_1	29-48	583_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+7	primario	primario	NCMS000	C1384514#C0392593_2	trastorno_2	49-57	583_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+8	.	.	Fp	-	-	57-58	583_ANS_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	59-61	583_ANS_clinical_caseMIR	SENT4	-	-
+2	siguiente	siguiente	AQ0CS0	C0332282	atributo	62-71	583_ANS_clinical_caseMIR	SENT4	-	-
+3	paso	paso	NCMS000	C1261552	calificador	72-76	583_ANS_clinical_caseMIR	SENT4	-	-
+4	sería	ser	VSIC1S0	-	-	77-82	583_ANS_clinical_caseMIR	SENT4	-	-
+5	realizar	realizar	VMN0000	-	-	83-91	583_ANS_clinical_caseMIR	SENT4	-	-
+6	un	un		C0205447_1	calificador_1	92-94	583_ANS_clinical_caseMIR	SENT4	-	-
+7	test	test	NCMS000	-	-	95-99	583_ANS_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	100-102	583_ANS_clinical_caseMIR	SENT4	-	-
+9	sobrecarga	sobrecarga	NCFS000	C0337091	calificador	103-113	583_ANS_clinical_caseMIR	SENT4	-	-
+10	salina	salino	AQ0FS0	-	-	114-120	583_ANS_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	121-123	583_ANS_clinical_caseMIR	SENT4	-	-
+12	modo	modo	NCMS000	-	-	124-128	583_ANS_clinical_caseMIR	SENT4	-	-
+13	que	que	PR0CN000	-	-	129-132	583_ANS_clinical_caseMIR	SENT4	-	-
+14	si	si	CS	-	-	133-135	583_ANS_clinical_caseMIR	SENT4	-	-
+15	suprime	suprimir	VMIP3S0	-	-	136-143	583_ANS_clinical_caseMIR	SENT4	-	-
+16	la	el	DA0FS0	-	-	144-146	583_ANS_clinical_caseMIR	SENT4	-	-
+17	aldosterona	aldosterona	NCFS000	C0002006	sustancia	147-158	583_ANS_clinical_caseMIR	SENT4	-	-
+18	confirmaría	confirmar	VMIC3S0	-	-	159-170	583_ANS_clinical_caseMIR	SENT4	-	-
+19	el	el	DA0MS0	-	-	171-173	583_ANS_clinical_caseMIR	SENT4	-	-
+20	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	174-185	583_ANS_clinical_caseMIR	SENT4	-	-
+21	y	y	CC	C1706368	calificador	186-187	583_ANS_clinical_caseMIR	SENT4	-	-
+22	pasaríamos	pasar	VMIC1P0	-	-	188-198	583_ANS_clinical_caseMIR	SENT4	-	-
+23	a	a	SPS00	-	-	199-200	583_ANS_clinical_caseMIR	SENT4	-	-
+24	realizar	realizar	VMN0000	-	-	201-209	583_ANS_clinical_caseMIR	SENT4	-	-
+25	prueba	prueba	NCFS000	-	-	210-216	583_ANS_clinical_caseMIR	SENT4	-	-
+26	de	de	SPS00	C0332285	atributo	217-219	583_ANS_clinical_caseMIR	SENT4	-	-
+27	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	220-226	583_ANS_clinical_caseMIR	SENT4	-	-
+28	.	.	Fp	-	-	226-227	583_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	0-2	583_ANS_clinical_caseMIR	SENT5	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	583_ANS_clinical_caseMIR	SENT5	-	-
+3	probablemente	probablemente	RG	C0332148	calificador	9-22	583_ANS_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	583_ANS_clinical_caseMIR	SENT5	-	-
+5	un	un		C0205447_1	calificador_1	26-28	583_ANS_clinical_caseMIR	SENT5	-	-
+6	hiperaldosteronismo	hiperaldosteronismo	NC00SC0	C1384514#C0392593_1	trastorno_1	29-48	583_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion
+7	primario	primario	NCMS000	C1384514#C0392593_2	trastorno_2	49-57	583_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+8	.	.	Fp	-	-	57-58	583_ANS_clinical_caseMIR	SENT5	-	-
+
+1	El	el	DA0MS0	-	-	59-61	583_ANS_clinical_caseMIR	SENT6	-	-
+2	siguiente	siguiente	AQ0CS0	C0332282	atributo	62-71	583_ANS_clinical_caseMIR	SENT6	-	-
+3	paso	paso	NCMS000	C1261552	calificador	72-76	583_ANS_clinical_caseMIR	SENT6	-	-
+4	sería	ser	VSIC1S0	-	-	77-82	583_ANS_clinical_caseMIR	SENT6	-	-
+5	realizar	realizar	VMN0000	-	-	83-91	583_ANS_clinical_caseMIR	SENT6	-	-
+6	un	un		C0205447_1	calificador_1	92-94	583_ANS_clinical_caseMIR	SENT6	-	-
+7	test	test	NCMS000	-	-	95-99	583_ANS_clinical_caseMIR	SENT6	-	-
+8	de	de	SPS00	C0332285	atributo	100-102	583_ANS_clinical_caseMIR	SENT6	-	-
+9	sobrecarga	sobrecarga	NCFS000	C0337091	calificador	103-113	583_ANS_clinical_caseMIR	SENT6	-	-
+10	salina	salino	AQ0FS0	-	-	114-120	583_ANS_clinical_caseMIR	SENT6	-	-
+11	de	de	SPS00	C0332285	atributo	121-123	583_ANS_clinical_caseMIR	SENT6	-	-
+12	modo	modo	NCMS000	-	-	124-128	583_ANS_clinical_caseMIR	SENT6	-	-
+13	que	que	PR0CN000	-	-	129-132	583_ANS_clinical_caseMIR	SENT6	-	-
+14	si	si	CS	-	-	133-135	583_ANS_clinical_caseMIR	SENT6	-	-
+15	no	no	RN	C1298908	calificador	136-138	583_ANS_clinical_caseMIR	SENT6	-	-
+16	suprime	suprimir	VMIP3S0	-	-	139-146	583_ANS_clinical_caseMIR	SENT6	-	-
+17	la	el	DA0FS0	-	-	147-149	583_ANS_clinical_caseMIR	SENT6	-	-
+18	aldosterona	aldosterona	NCFS000	C0002006	sustancia	150-161	583_ANS_clinical_caseMIR	SENT6	-	-
+19	confirmaría	confirmar	VMIC3S0	-	-	162-173	583_ANS_clinical_caseMIR	SENT6	-	-
+20	el	el	DA0MS0	-	-	174-176	583_ANS_clinical_caseMIR	SENT6	-	-
+21	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	177-188	583_ANS_clinical_caseMIR	SENT6	-	-
+22	y	y	CC	C1706368	calificador	189-190	583_ANS_clinical_caseMIR	SENT6	-	-
+23	pasaríamos	pasar	VMIC1P0	-	-	191-201	583_ANS_clinical_caseMIR	SENT6	-	-
+24	a	a	SPS00	-	-	202-203	583_ANS_clinical_caseMIR	SENT6	-	-
+25	realizar	realizar	VMN0000	-	-	204-212	583_ANS_clinical_caseMIR	SENT6	-	-
+26	prueba	prueba	NCFS000	-	-	213-219	583_ANS_clinical_caseMIR	SENT6	-	-
+27	de	de	SPS00	C0332285	atributo	220-222	583_ANS_clinical_caseMIR	SENT6	-	-
+28	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	223-229	583_ANS_clinical_caseMIR	SENT6	-	-
+29	.	.	Fp	-	-	229-230	583_ANS_clinical_caseMIR	SENT6	-	-
+
+1	Lo	el	DA0NS0	-	-	0-2	583_ANS_clinical_caseMIR	SENT7	-	-
+2	más	más	RG	C0205172	calificador	3-6	583_ANS_clinical_caseMIR	SENT7	-	-
+3	probable	probable	AQ0CS0	C0332148	calificador	7-15	583_ANS_clinical_caseMIR	SENT7	-	-
+4	es	ser	VSIP3S0	-	-	16-18	583_ANS_clinical_caseMIR	SENT7	-	-
+5	que	que	CS	-	-	19-22	583_ANS_clinical_caseMIR	SENT7	-	-
+6	se	se	P00CN000	-	-	23-25	583_ANS_clinical_caseMIR	SENT7	-	-
+7	trate	tratar	VMSP3S0	-	-	26-31	583_ANS_clinical_caseMIR	SENT7	-	-
+8	de	de	SPS00	C0332285	atributo	32-34	583_ANS_clinical_caseMIR	SENT7	-	-
+9	una	una		C0205447_1	calificador_1	35-38	583_ANS_clinical_caseMIR	SENT7	-	-
+10	estenosis	estenosis	NCFN000	C0009814#C1261287	anomalía_morfológica	39-48	583_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	Especulacion
+11	de	de	SPS00	C0332285	atributo	49-51	583_ANS_clinical_caseMIR	SENT7	-	-
+12	arterias	arteria	NCFP000	C1285085#C0003842	estructura_corporal	52-60	583_ANS_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
+13	renales	renal	AQ0CP0	-	-	61-68	583_ANS_clinical_caseMIR	SENT7	I-Estructura_Corporal	-
+14	dado	dar	VMP00SM	C1947971	calificador	69-73	583_ANS_clinical_caseMIR	SENT7	-	-
+15	el	el	DA0MS0	-	-	74-76	583_ANS_clinical_caseMIR	SENT7	-	-
+16	cociente	cociente	NCMS000	C0456603	calificador	77-85	583_ANS_clinical_caseMIR	SENT7	-	-
+17	aldosterona	aldosterona	NCFS000	C0002006	sustancia	86-97	583_ANS_clinical_caseMIR	SENT7	-	-
+18	/	/	Fh	-	-	97-98	583_ANS_clinical_caseMIR	SENT7	-	-
+19	actividad	actividad	NCFS000	C0441655	entidad_observable	98-107	583_ANS_clinical_caseMIR	SENT7	-	-
+20	de	de	SPS00	C0332285	atributo	108-110	583_ANS_clinical_caseMIR	SENT7	-	-
+21	renina	renina	NC00SC0	C0035094	sustancia	111-117	583_ANS_clinical_caseMIR	SENT7	-	-
+22	plasmática	plasmático	AQ0FS0	-	-	118-128	583_ANS_clinical_caseMIR	SENT7	-	-
+23	.	.	Fp	-	-	128-129	583_ANS_clinical_caseMIR	SENT7	-	-
+
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	130-132	583_ANS_clinical_caseMIR	SENT8	-	-
+2	realizaría	realizar	VMIC3S0	-	-	133-143	583_ANS_clinical_caseMIR	SENT8	-	-
+3	ecodoppler	ecodoppler	NCCS000	-	-	144-154	583_ANS_clinical_caseMIR	SENT8	-	-
+4	de	de	SPS00	C0332285	atributo	155-157	583_ANS_clinical_caseMIR	SENT8	-	-
+5	arterias	arteria	NCFP000	C1285085#C0003842	estructura_corporal	158-166	583_ANS_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+6	renales	renal	AQ0CP0	-	-	167-174	583_ANS_clinical_caseMIR	SENT8	I-Estructura_Corporal	-
+7	para	para	SPS00	C0521125	calificador	175-179	583_ANS_clinical_caseMIR	SENT8	-	-
+8	confirmar	confirmar	VMN0000	-	-	180-189	583_ANS_clinical_caseMIR	SENT8	-	-
+9	lo	lo	PP3CNA00	-	-	189-191	583_ANS_clinical_caseMIR	SENT8	-	-
+10	.	.	Fp	-	-	191-192	583_ANS_clinical_caseMIR	SENT8	-	-
+

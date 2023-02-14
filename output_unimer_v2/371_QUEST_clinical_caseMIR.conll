@@ -1,0 +1,83 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	371_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	371_QUEST_clinical_caseMIR	SENT1	-	-
+3	6	6		-	-	8-9	371_QUEST_clinical_caseMIR	SENT1	-	-
+4	meses	mes	NCMP000	C0439231	calificador	10-15	371_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	16-18	371_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	19-23	371_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	23-24	371_QUEST_clinical_caseMIR	SENT1	-	-
+8	primera	1	AO0FS0	-	-	25-32	371_QUEST_clinical_caseMIR	SENT1	-	-
+9	hija	hijo	NCFS000	-	-	33-37	371_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	38-40	371_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	41-44	371_QUEST_clinical_caseMIR	SENT1	-	-
+12	pareja	pareja	NCFS000	-	-	45-51	371_QUEST_clinical_caseMIR	SENT1	-	-
+13	española	español	AQ0FS0	C0337817	grupo_étnico	52-60	371_QUEST_clinical_caseMIR	SENT1	-	-
+14	consanguínea	consanguíneo	AQ0FS0	-	-	61-73	371_QUEST_clinical_caseMIR	SENT1	-	-
+15	sin	sin	SPS00	C0332123_1	calificador_1	74-77	371_QUEST_clinical_caseMIR	SENT1	-	-
+16	antecedentes	antecedente	NCMP000	C0332123_2	calificador_2	78-90	371_QUEST_clinical_caseMIR	SENT1	-	-
+17	familiares	familiar	NCMP000	C0332123_3	calificador_3	91-101	371_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332123_4	calificador_4	102-104	371_QUEST_clinical_caseMIR	SENT1	-	-
+19	interés	interés	NCMS000	-	-	105-112	371_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	112-113	371_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	114-119	371_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	120-121	371_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	122-131	371_QUEST_clinical_caseMIR	SENT2	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	132-134	371_QUEST_clinical_caseMIR	SENT2	-	-
+5	invierno	invierno	NCMS000	-	-	135-143	371_QUEST_clinical_caseMIR	SENT2	-	-
+6	por	por	SPS00	C0678226	atributo	144-147	371_QUEST_clinical_caseMIR	SENT2	-	-
+7	fiebre	fiebre	NCFS000	C0015967	hallazgo	148-154	371_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	elevada	elevar	VMP00SF	-	-	155-162	371_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+9	(	(	Fpa	-	-	163-164	371_QUEST_clinical_caseMIR	SENT2	-	-
+10	39-40,5°C	39-40,5°C		-	-	164-173	371_QUEST_clinical_caseMIR	SENT2	-	-
+11	)	)	Fpt	-	-	173-174	371_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	175-177	371_QUEST_clinical_caseMIR	SENT2	-	-
+13	tres	tres		-	-	178-182	371_QUEST_clinical_caseMIR	SENT2	-	-
+14	días	día	NCMP000	C0439228#C0332169	calificador	183-187	371_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	188-190	371_QUEST_clinical_caseMIR	SENT2	-	-
+16	evolución	evolución	NCFS000	-	-	191-200	371_QUEST_clinical_caseMIR	SENT2	-	-
+17	,	,	Fc	-	-	200-201	371_QUEST_clinical_caseMIR	SENT2	-	-
+18	postración	postración	NCFS000	C0277794	hallazgo	202-212	371_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	,	,	Fc	-	-	212-213	371_QUEST_clinical_caseMIR	SENT2	-	-
+20	pérdida	pérdida	NCFS000	-	-	214-221	371_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0332285	atributo	222-224	371_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+22	apetito	apetito	NCMS000	C0003618	función	225-232	371_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+23	y	y	CC	C1706368	calificador	233-234	371_QUEST_clinical_caseMIR	SENT2	-	-
+24	marcado	marcar	VMP00SM	-	-	235-242	371_QUEST_clinical_caseMIR	SENT2	-	-
+25	distrés	distrés	NC00SC0	C0035222#C0476273_1	trastorno#hallazgo_1	243-250	371_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+26	respiratorio	respiratorio	AQ0MS0	C0035222#C0476273_2	trastorno#hallazgo_2	251-263	371_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+27	.	.	Fp	-	-	263-264	371_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	265-267	371_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	268-270	371_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	271-282	371_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	283-285	371_QUEST_clinical_caseMIR	SENT3	-	-
+5	observa	observar	VMIP3S0	-	-	286-293	371_QUEST_clinical_caseMIR	SENT3	-	-
+6	un	un		C0205447_1	calificador_1	294-296	371_QUEST_clinical_caseMIR	SENT3	-	-
+7	importante	importante	AQ0CS0	-	-	297-307	371_QUEST_clinical_caseMIR	SENT3	-	-
+8	retraso	retraso	NCMS000	-	-	308-315	371_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	ponderal	ponderal	AQ0CS0	-	-	316-324	371_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	,	,	Fc	-	-	324-325	371_QUEST_clinical_caseMIR	SENT3	-	-
+11	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	326-334	371_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332197_2	calificador_2	335-337	371_QUEST_clinical_caseMIR	SENT3	-	-
+13	sombra	sombra	NCFS000	C0332554	hallazgo	338-344	371_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	tímica	tímico	AQ0FS0	-	-	345-351	371_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	352-354	371_QUEST_clinical_caseMIR	SENT3	-	-
+16	la	el	DA0FS0	-	-	355-357	371_QUEST_clinical_caseMIR	SENT3	-	-
+17	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	358-369	371_QUEST_clinical_caseMIR	SENT3	-	-
+18	de	de	SPS00	C0039985_2	procedimiento_2	370-372	371_QUEST_clinical_caseMIR	SENT3	-	-
+19	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	373-378	371_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	y	y	CC	C1706368	calificador	379-380	371_QUEST_clinical_caseMIR	SENT3	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	381-383	371_QUEST_clinical_caseMIR	SENT3	-	-
+22	el	el	DA0MS0	-	-	384-386	371_QUEST_clinical_caseMIR	SENT3	-	-
+23	hemograma	hemograma	NCMS000	C0200631	procedimiento	387-396	371_QUEST_clinical_caseMIR	SENT3	-	-
+24	se	se	P00CN000	-	-	397-399	371_QUEST_clinical_caseMIR	SENT3	-	-
+25	detecta	detectar	VMIP3S0	-	-	400-407	371_QUEST_clinical_caseMIR	SENT3	-	-
+26	un	un		C0205447_1	calificador_1	408-410	371_QUEST_clinical_caseMIR	SENT3	-	-
+27	nivel	nivel	NCMS000	C0456079	atributo	411-416	371_QUEST_clinical_caseMIR	SENT3	-	-
+28	de	de	SPS00	C0332285	atributo	417-419	371_QUEST_clinical_caseMIR	SENT3	-	-
+29	linfocitos	linfocito	NCMP000	C0024264	célula	420-430	371_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+30	circulantes	circulante	AQ0CP0	C0175630	calificador	431-442	371_QUEST_clinical_caseMIR	SENT3	-	-
+31	de	de	SPS00	C0332285	atributo	443-445	371_QUEST_clinical_caseMIR	SENT3	-	-
+32	920/mm3	920/mm3		-	-	446-453	371_QUEST_clinical_caseMIR	SENT3	-	-
+33	.	.	Fp	-	-	454-455	371_QUEST_clinical_caseMIR	SENT3	-	-
+

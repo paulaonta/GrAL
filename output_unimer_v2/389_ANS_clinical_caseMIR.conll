@@ -1,0 +1,44 @@
+1	Insistir	insistir	VMN0000	-	-	0-8	389_ANS_clinical_caseMIR	SENT1	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	9-11	389_ANS_clinical_caseMIR	SENT1	-	-
+3	cambios	cambio	NCMP000	C0443172	calificador	12-19	389_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	20-22	389_ANS_clinical_caseMIR	SENT1	-	-
+5	estilo	estilo	NCMS000	C0023676_1	hallazgo#concepto_social_1	23-29	389_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0023676_2	hallazgo#concepto_social_2	30-32	389_ANS_clinical_caseMIR	SENT1	-	-
+7	vida	vida	NCFS000	C0023676_3	hallazgo#concepto_social_3	33-37	389_ANS_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	38-39	389_ANS_clinical_caseMIR	SENT1	-	-
+9	mantener	mantener	VMN0000	-	-	40-48	389_ANS_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	49-51	389_ANS_clinical_caseMIR	SENT1	-	-
+11	mismo	mismo	AQ0MS0	C0445247	calificador	52-57	389_ANS_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	58-69	389_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	69-70	389_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	0-2	389_ANS_clinical_caseMIR	SENT2	-	-
+2	prioritario	prioritario	AQ0MS0	-	-	3-14	389_ANS_clinical_caseMIR	SENT2	-	-
+3	aumentar	aumentar	VMN0000	-	-	15-23	389_ANS_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	24-26	389_ANS_clinical_caseMIR	SENT2	-	-
+5	cHDL	colesterol_hdl	NC00YL0	-	-	27-31	389_ANS_clinical_caseMIR	SENT2	-	-
+6	con	con	SPS00	C0332287	atributo	32-35	389_ANS_clinical_caseMIR	SENT2	-	-
+7	ácido	ácido	NCMS000	C0027996#C0001407#C0028027_1	sustancia_1	36-41	389_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	nicotínico	nicotínico	AQ0MS0	C0027996#C0001407#C0028027_2	sustancia_2	42-52	389_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+9	.	.	Fp	-	-	52-53	389_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Hay	haber	VMIP3S0	-	-	0-3	389_ANS_clinical_caseMIR	SENT3	-	-
+2	que	que	CS	-	-	4-7	389_ANS_clinical_caseMIR	SENT3	-	-
+3	disminuir	disminuir	VMN0000	-	-	8-17	389_ANS_clinical_caseMIR	SENT3	-	-
+4	cLDL	cholesterol_low-density_lipoproteins_(colesterol_de_las_lipoproteínas_de_baja_densidad)	NC00YL0	-	-	18-22	389_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+5	cambiando	cambiar	VMG0000	-	-	23-32	389_ANS_clinical_caseMIR	SENT3	-	-
+6	gemfibrozilo	gemfibrozilo	NC00SC0	C0017245	sustancia	33-45	389_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+7	por	por	SPS00	C0678226	atributo	46-49	389_ANS_clinical_caseMIR	SENT3	-	-
+8	atorvastatina	atorvastatina	NC00SC0	C0286651	producto#sustancia	50-63	389_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+9	.	.	Fp	-	-	63-64	389_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Retirar	retirar	VMN0000	-	-	0-7	389_ANS_clinical_caseMIR	SENT4	-	-
+2	el	el	DA0MS0	-	-	8-10	389_ANS_clinical_caseMIR	SENT4	-	-
+3	betabloqueante	betabloqueante	NCMS000	-	-	11-25	389_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	por	por	SPS00	C0678226	atributo	26-29	389_ANS_clinical_caseMIR	SENT4	-	-
+5	si	si	CS	-	-	30-32	389_ANS_clinical_caseMIR	SENT4	-	-
+6	altera	alterar	VMIP3S0	-	-	33-39	389_ANS_clinical_caseMIR	SENT4	-	-
+7	los	el	DA0MP0	-	-	40-43	389_ANS_clinical_caseMIR	SENT4	-	-
+8	lípidos	lípido	NCMP000	C0023779	sustancia	44-51	389_ANS_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	51-52	389_ANS_clinical_caseMIR	SENT4	-	-
+

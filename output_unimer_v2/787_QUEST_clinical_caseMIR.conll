@@ -1,0 +1,58 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	787_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	787_QUEST_clinical_caseMIR	SENT1	-	-
+3	25	25		-	-	12-14	787_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	787_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	787_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	787_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	27-28	787_QUEST_clinical_caseMIR	SENT1	-	-
+8	que	que	PR0CN000	-	-	29-32	787_QUEST_clinical_caseMIR	SENT1	-	-
+9	sufre	sufrir	VMIP3S0	-	-	33-38	787_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	39-41	787_QUEST_clinical_caseMIR	SENT1	-	-
+11	accidente	accidente	NCMS000	C0415499_1	evento_1	42-51	787_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0415499_2	evento_2	52-54	787_QUEST_clinical_caseMIR	SENT1	-	-
+13	moto	moto	NCFS000	-	-	55-59	787_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	60-62	787_QUEST_clinical_caseMIR	SENT1	-	-
+15	viernes	viernes		-	-	63-70	787_QUEST_clinical_caseMIR	SENT1	-	-
+16	por	por		-	-	71-74	787_QUEST_clinical_caseMIR	SENT1	-	-
+17	la	la		-	-	75-77	787_QUEST_clinical_caseMIR	SENT1	-	-
+18	noche	noche		-	-	78-83	787_QUEST_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	83-84	787_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	85-87	787_QUEST_clinical_caseMIR	SENT2	-	-
+2	trasladado	trasladar	VMP00SM	C1691010_1	calificador_1	88-98	787_QUEST_clinical_caseMIR	SENT2	-	-
+3	a	a	SPS00	C1691010_2	calificador_2	99-100	787_QUEST_clinical_caseMIR	SENT2	-	-
+4	urgencias	urgencia	NCFP000	C0439609	calificador	101-110	787_QUEST_clinical_caseMIR	SENT2	-	-
+5	y	y	CC	C1706368	calificador	111-112	787_QUEST_clinical_caseMIR	SENT2	-	-
+6	diagnosticado	diagnosticar	VMP00SM	-	-	113-126	787_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	127-129	787_QUEST_clinical_caseMIR	SENT2	-	-
+8	traumatismo	traumatismo	NCMS000	C3263723	trastorno	130-141	787_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	abdominal	abdominal	AQ0CS0	C0000726	calificador	142-151	787_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	(	(	Fpa	-	-	152-153	787_QUEST_clinical_caseMIR	SENT2	-	-
+11	eco-fast	eco-fast	NCMS000	-	-	153-161	787_QUEST_clinical_caseMIR	SENT2	-	-
+12	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	162-170	787_QUEST_clinical_caseMIR	SENT2	-	-
+13	)	)	Fpt	-	-	170-171	787_QUEST_clinical_caseMIR	SENT2	-	-
+14	,	,	Fc	-	-	171-172	787_QUEST_clinical_caseMIR	SENT2	-	-
+15	un	un		C0205447_1	calificador_1	173-175	787_QUEST_clinical_caseMIR	SENT2	-	-
+16	traumatismo	traumatismo	NCMS000	C3263723	trastorno	176-187	787_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	188-195	787_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	196-200	787_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+19	(	(	Fpa	-	-	201-202	787_QUEST_clinical_caseMIR	SENT2	-	-
+20	Glasgow	glasgow	NCMS000	-	-	202-209	787_QUEST_clinical_caseMIR	SENT2	-	-
+21	=	=	Fz	-	-	210-211	787_QUEST_clinical_caseMIR	SENT2	-	-
+22	14	14		-	-	212-214	787_QUEST_clinical_caseMIR	SENT2	-	-
+23	)	)	Fpt	-	-	214-215	787_QUEST_clinical_caseMIR	SENT2	-	-
+24	y	y	CC	C1706368	calificador	216-217	787_QUEST_clinical_caseMIR	SENT2	-	-
+25	una	una		C0205447_1	calificador_1	218-221	787_QUEST_clinical_caseMIR	SENT2	-	-
+26	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	222-230	787_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+27	intracapsular	intracapsular	AQ0CS00	-	-	231-244	787_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+28	desplazada	desplazar	VMP00SF	-	-	245-255	787_QUEST_clinical_caseMIR	SENT2	-	-
+29	de	de	SPS00	C0332285	atributo	256-258	787_QUEST_clinical_caseMIR	SENT2	-	-
+30	cadera	cadera	NCFS000	C1268233#C0524470_1	estructura_corporal_1	259-265	787_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+31	derecha	derecho	AQ0FS0	C1268233#C0524470_2	estructura_corporal_2	266-273	787_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+32	.	.	Fp	-	-	273-274	787_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Hemodinámicamente	hemodinámicamente	RG	-	-	275-292	787_QUEST_clinical_caseMIR	SENT3	-	-
+2	está	estar	VAIP3S0	-	-	293-297	787_QUEST_clinical_caseMIR	SENT3	-	-
+3	estable	estable	NC00SC0	C0205360	calificador	298-305	787_QUEST_clinical_caseMIR	SENT3	-	-
+4	.	.	Fp	-	-	305-306	787_QUEST_clinical_caseMIR	SENT3	-	-
+

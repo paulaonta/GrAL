@@ -1,0 +1,33 @@
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	102_ANS_clinical_caseMIR	SENT1	-	-
+2	serológica	serológico	AQ0FS0	C0205473	calificador	14-24	102_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	25-27	102_ANS_clinical_caseMIR	SENT1	-	-
+4	IgG4	IgG4		-	-	28-32	102_ANS_clinical_caseMIR	SENT1	-	-
+5	.	.	Fp	-	-	32-33	102_ANS_clinical_caseMIR	SENT1	-	-
+
+1	PET-TAC	pet-tac	NCMS000	-	-	0-7	102_ANS_clinical_caseMIR	SENT2	-	-
+2	.	.	Fp	-	-	7-8	102_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Gammagrafía	gammagrafía	NCFS000	C2368359	calificador	0-11	102_ANS_clinical_caseMIR	SENT3	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	102_ANS_clinical_caseMIR	SENT3	-	-
+3	octreótido	octreótido	NC00SC0	C0028833	sustancia	16-26	102_ANS_clinical_caseMIR	SENT3	-	-
+4	marcado	marcar	VMP00SM	-	-	27-34	102_ANS_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	34-35	102_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	0-11	102_ANS_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0039985_2	procedimiento_2	12-14	102_ANS_clinical_caseMIR	SENT4	-	-
+3	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	15-20	102_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	20-21	102_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	102_ANS_clinical_caseMIR	SENT5	-	-
+2	serológico	serológico	AQ0MS0	C0205473	calificador	8-18	102_ANS_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	19-21	102_ANS_clinical_caseMIR	SENT5	-	-
+4	Virus	virus	NCMN000	C0019682_1	organismo_1	22-27	102_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+5	de	de	SPS00	C0019682_2	organismo_2	28-30	102_ANS_clinical_caseMIR	SENT5	-	-
+6	la	lo	PP3FSA00	C0019682_3	organismo_3	31-33	102_ANS_clinical_caseMIR	SENT5	-	-
+7	Inmunodeficiencia	inmunodeficiencia	NCFS000	C0019682_4	organismo_4	34-51	102_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+8	Humana	humano	NCFS000	C0019682_5	organismo_5	52-58	102_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+9	(	(	Fpa	-	-	59-60	102_ANS_clinical_caseMIR	SENT5	-	-
+10	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	60-63	102_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+11	)	)	Fpt	-	-	63-64	102_ANS_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	64-65	102_ANS_clinical_caseMIR	SENT5	-	-
+

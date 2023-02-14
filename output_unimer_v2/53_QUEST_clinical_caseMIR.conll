@@ -1,0 +1,122 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	53_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	53_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	53_QUEST_clinical_caseMIR	SENT1	-	-
+4	32	32		-	-	13-15	53_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	53_QUEST_clinical_caseMIR	SENT1	-	-
+6	ha	haber	VAIP3S0	-	-	21-23	53_QUEST_clinical_caseMIR	SENT1	-	-
+7	viajado	viajar	VMP00SM	C0040802	entidad_observable	24-31	53_QUEST_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	-	-	32-33	53_QUEST_clinical_caseMIR	SENT1	-	-
+9	Cuba	cuba	NCFS000	-	-	34-38	53_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	39-41	53_QUEST_clinical_caseMIR	SENT1	-	-
+11	donde	donde	PR000000	-	-	42-47	53_QUEST_clinical_caseMIR	SENT1	-	-
+12	ha	haber	VAIP3S0	-	-	48-50	53_QUEST_clinical_caseMIR	SENT1	-	-
+13	llegado	llegar	VMP00SM	-	-	51-58	53_QUEST_clinical_caseMIR	SENT1	-	-
+14	hace	hacer	VMIP3S0	-	-	59-63	53_QUEST_clinical_caseMIR	SENT1	-	-
+15	tres	tres		-	-	64-68	53_QUEST_clinical_caseMIR	SENT1	-	-
+16	días	día	NCMP000	C0439228#C0332169	calificador	69-73	53_QUEST_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	73-74	53_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Al	al	SP+DA	-	-	75-77	53_QUEST_clinical_caseMIR	SENT2	-	-
+2	día	día	NCMS000	C0439228#C0332169	calificador	78-81	53_QUEST_clinical_caseMIR	SENT2	-	-
+3	siguiente	siguiente	AQ0CS0	C0332282	atributo	82-91	53_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	92-94	53_QUEST_clinical_caseMIR	SENT2	-	-
+5	su	su	DP3CS0	-	-	95-97	53_QUEST_clinical_caseMIR	SENT2	-	-
+6	regreso	regreso	NCMS000	-	-	98-105	53_QUEST_clinical_caseMIR	SENT2	-	-
+7	acude	acudir	VMIP3S0	-	-	106-111	53_QUEST_clinical_caseMIR	SENT2	-	-
+8	a	a	SPS00	-	-	112-113	53_QUEST_clinical_caseMIR	SENT2	-	-
+9	su	su	DP3CS0	-	-	114-116	53_QUEST_clinical_caseMIR	SENT2	-	-
+10	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	117-123	53_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C1704221#C0017319_2	ocupación_2	124-126	53_QUEST_clinical_caseMIR	SENT2	-	-
+12	cabecera	cabecera	NCFS000	C1704221#C0017319_3	ocupación_3	127-135	53_QUEST_clinical_caseMIR	SENT2	-	-
+13	por	por	SPS00	C0678226	atributo	136-139	53_QUEST_clinical_caseMIR	SENT2	-	-
+14	fiebre	fiebre	NCFS000	C0015967	hallazgo	140-146	53_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	elevada	elevar	VMP00SF	-	-	147-154	53_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+16	,	,	Fc	-	-	154-155	53_QUEST_clinical_caseMIR	SENT2	-	-
+17	artroniialgias	artroniialgias	NCFP000	-	-	156-170	53_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	intensas	intenso	AQ0FP0	C0205178	calificador	171-179	53_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+19	y	y	CC	C1706368	calificador	180-181	53_QUEST_clinical_caseMIR	SENT2	-	-
+20	cefalea	cefalea	NCFS000	C0018681	hallazgo	182-189	53_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+21	que	que	PR0CN000	-	-	190-193	53_QUEST_clinical_caseMIR	SENT2	-	-
+22	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	194-196	53_QUEST_clinical_caseMIR	SENT2	-	-
+23	había	haber	VAII3S0	-	-	197-202	53_QUEST_clinical_caseMIR	SENT2	-	-
+24	comenzado	comenzar	VMP00SM	-	-	203-212	53_QUEST_clinical_caseMIR	SENT2	-	-
+25	antes	antes	RG	C0332152	atributo	213-218	53_QUEST_clinical_caseMIR	SENT2	-	-
+26	de	de	SPS00	C0332285	atributo	219-221	53_QUEST_clinical_caseMIR	SENT2	-	-
+27	iniciar	iniciar	VMN0000	-	-	222-229	53_QUEST_clinical_caseMIR	SENT2	-	-
+28	el	el	DA0MS0	-	-	230-232	53_QUEST_clinical_caseMIR	SENT2	-	-
+29	viaje	viaje	NCMS000	C0040802	evento	233-238	53_QUEST_clinical_caseMIR	SENT2	-	-
+30	de	de	SPS00	C0332285	atributo	239-241	53_QUEST_clinical_caseMIR	SENT2	-	-
+31	regreso	regreso	NCMS000	-	-	242-249	53_QUEST_clinical_caseMIR	SENT2	-	-
+32	y	y	CC	C1706368	calificador	250-251	53_QUEST_clinical_caseMIR	SENT2	-	-
+33	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	252-254	53_QUEST_clinical_caseMIR	SENT2	-	-
+34	prescribe	prescribir	VMIP3S0	-	-	255-264	53_QUEST_clinical_caseMIR	SENT2	-	-
+35	paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	265-276	53_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+36	.	.	Fp	-	-	276-277	53_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tres	Tres		-	-	278-282	53_QUEST_clinical_caseMIR	SENT3	-	-
+2	días	día	NCMP000	C0439228#C0332169	calificador	283-287	53_QUEST_clinical_caseMIR	SENT3	-	-
+3	más	más	RG	C0205172	calificador	288-291	53_QUEST_clinical_caseMIR	SENT3	-	-
+4	tarde	tarde	RG	C0205087#C0439550	calificador	292-297	53_QUEST_clinical_caseMIR	SENT3	-	-
+5	y	y	CC	C1706368	calificador	298-299	53_QUEST_clinical_caseMIR	SENT3	-	-
+6	sin	sin	SPS00	C0332288	atributo	300-303	53_QUEST_clinical_caseMIR	SENT3	-	-
+7	haber	haber	VAN0000	-	-	304-309	53_QUEST_clinical_caseMIR	SENT3	-	-
+8	experimentado	experimentar	VMP00SM	-	-	310-323	53_QUEST_clinical_caseMIR	SENT3	-	-
+9	mejoría	mejoría	NCFS000	-	-	324-331	53_QUEST_clinical_caseMIR	SENT3	-	-
+10	presenta	presentar	VMIP3S0	-	-	332-340	53_QUEST_clinical_caseMIR	SENT3	-	-
+11	por	por	SPS00	C0678226	atributo	341-344	53_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	345-347	53_QUEST_clinical_caseMIR	SENT3	-	-
+13	mañana	mañana	NCMS000	C0332170	calificador	348-354	53_QUEST_clinical_caseMIR	SENT3	-	-
+14	un	un		C0205447_1	calificador_1	355-357	53_QUEST_clinical_caseMIR	SENT3	-	-
+15	exantema	exantema	NCMS000	C0015230	anomalía_morfológica#trastorno	358-366	53_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	maculopapuloso	maculopapuloso	NC00SC0	C0443253	calificador	367-381	53_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+17	pruriginoso	pruriginoso	AQ0MS0	C0439707	calificador	382-393	53_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+18	generalizado	generalizar	VMP00SM	-	-	394-406	53_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+19	que	que	PR0CN000	-	-	407-410	53_QUEST_clinical_caseMIR	SENT3	-	-
+20	es	ser	VSIP3S0	-	-	411-413	53_QUEST_clinical_caseMIR	SENT3	-	-
+21	más	más	RG	C0205172	calificador	414-417	53_QUEST_clinical_caseMIR	SENT3	-	-
+22	intenso	intenso	AQ0MS0	C0205178	calificador	418-425	53_QUEST_clinical_caseMIR	SENT3	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	426-428	53_QUEST_clinical_caseMIR	SENT3	-	-
+24	miembros	miembro	NCMP000	C0015385	estructura_corporal	429-437	53_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+25	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	438-448	53_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	449-451	53_QUEST_clinical_caseMIR	SENT3	-	-
+27	donde	donde	PR000000	-	-	452-457	53_QUEST_clinical_caseMIR	SENT3	-	-
+28	evoluciona	evolucionar	VMM02S0	C0205329_1	calificador_1	458-468	53_QUEST_clinical_caseMIR	SENT3	-	-
+29	a	a	SPS00	C0205329_2	calificador_2	469-470	53_QUEST_clinical_caseMIR	SENT3	-	-
+30	la	el	DA0FS0	-	-	471-473	53_QUEST_clinical_caseMIR	SENT3	-	-
+31	formación	formación	NCFS000	-	-	474-483	53_QUEST_clinical_caseMIR	SENT3	-	-
+32	de	de	SPS00	C0332285	atributo	484-486	53_QUEST_clinical_caseMIR	SENT3	-	-
+33	petequias	petequia	NCFP000	C0031256	anomalía_morfológica	487-496	53_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+34	por	por	SPS00	C0678226	atributo	497-500	53_QUEST_clinical_caseMIR	SENT3	-	-
+35	lo	el	DA0NS0	-	-	501-503	53_QUEST_clinical_caseMIR	SENT3	-	-
+36	que	que	PR0CN000	-	-	504-507	53_QUEST_clinical_caseMIR	SENT3	-	-
+37	acude	acudir	VMIP3S0	-	-	508-513	53_QUEST_clinical_caseMIR	SENT3	-	-
+38	a	a	SPS00	-	-	514-515	53_QUEST_clinical_caseMIR	SENT3	-	-
+39	urgencias	urgencia	NCFP000	C0439609	calificador	516-525	53_QUEST_clinical_caseMIR	SENT3	-	-
+40	.	.	Fp	-	-	525-526	53_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	527-529	53_QUEST_clinical_caseMIR	SENT4	-	-
+2	las	el	DA0FP0	-	-	530-533	53_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploraciones	exploración	NCFP000	C1280903	procedimiento	534-547	53_QUEST_clinical_caseMIR	SENT4	-	-
+4	complementarías	complementar	VMIC2S0	-	-	548-563	53_QUEST_clinical_caseMIR	SENT4	-	-
+5	no	no	RN	C1298908	calificador	564-566	53_QUEST_clinical_caseMIR	SENT4	-	-
+6	se	se	P00CN000	-	-	567-569	53_QUEST_clinical_caseMIR	SENT4	-	-
+7	aprecian	apreciar	VMIP3P0	-	-	570-578	53_QUEST_clinical_caseMIR	SENT4	-	-
+8	datos	dato	NCMP000	-	-	579-584	53_QUEST_clinical_caseMIR	SENT4	-	-
+9	relevantes	relevante	AQ0CP0	-	-	585-595	53_QUEST_clinical_caseMIR	SENT4	-	-
+10	excepto	excepto	SPS00	-	-	596-603	53_QUEST_clinical_caseMIR	SENT4	-	-
+11	las	el	DA0FP0	-	-	604-607	53_QUEST_clinical_caseMIR	SENT4	-	-
+12	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	608-617	53_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+13	75.000/mm3	75.000/mm3		-	-	618-628	53_QUEST_clinical_caseMIR	SENT4	-	-
+14	(	(	Fpa	-	-	629-630	53_QUEST_clinical_caseMIR	SENT4	-	-
+15	hematocrito	hematocrito	NCMS000	-	-	630-641	53_QUEST_clinical_caseMIR	SENT4	-	-
+16	36	36	Z	-	-	642-644	53_QUEST_clinical_caseMIR	SENT4	-	-
+17	%	%	Ft	-	-	644-645	53_QUEST_clinical_caseMIR	SENT4	-	-
+18	,	,	Fc	-	-	645-646	53_QUEST_clinical_caseMIR	SENT4	-	-
+19	leucocitos	leucocito	NCMP000	C0023516	célula	647-657	53_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+20	4.100	4.100		-	-	658-663	53_QUEST_clinical_caseMIR	SENT4	-	-
+21	79	79	Z	-	-	664-666	53_QUEST_clinical_caseMIR	SENT4	-	-
+22	%	%	Ft	-	-	666-667	53_QUEST_clinical_caseMIR	SENT4	-	-
+23	neutrófilos	neutrófilo	NCMP000	C0027950	célula	668-679	53_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+24	)	)	Fpt	-	-	679-680	53_QUEST_clinical_caseMIR	SENT4	-	-
+25	.	.	Fp	-	-	680-681	53_QUEST_clinical_caseMIR	SENT4	-	-
+

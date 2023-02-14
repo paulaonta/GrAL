@@ -1,0 +1,66 @@
+1	Señale	señalar	VMM03S0	-	-	750-756	7_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	757-759	7_ANS_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	760-769	7_ANS_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	770-778	7_ANS_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	778-779	7_ANS_clinical_caseMIR	SENT1	-	-
+6	Soplo	soplo	NCMS000	C0006318#C0018808_1	hallazgo_1	0-5	7_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	mesodiástólico	mesodiástólico	AQ0MS00	-	-	6-20	7_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	21-23	7_ANS_clinical_caseMIR	SENT1	-	-
+9	foco	foco	NCMS000	-	-	24-28	7_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	mitral	mitral	AQ0CS0	-	-	29-35	7_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	35-36	7_ANS_clinical_caseMIR	SENT1	-	-
+12	posible	posible	AQ0CS0	C0332149#C2362652	calificador	37-44	7_ANS_clinical_caseMIR	SENT1	-	-
+13	chasquido	chasquido	NCMS000	C0232275_1	hallazgo_1	45-54	7_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+14	de	de	SPS00	C0232275_2	hallazgo_2	55-57	7_ANS_clinical_caseMIR	SENT1	-	-
+15	apertura	apertura	NCFS000	C0232275_3	hallazgo_3	58-66	7_ANS_clinical_caseMIR	SENT1	-	-
+16	previo	previo	AQ0MS0	C0205156	calificador	67-73	7_ANS_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	74-75	7_ANS_clinical_caseMIR	SENT1	-	-
+18	tonos	tono	NCMP000	-	-	76-81	7_ANS_clinical_caseMIR	SENT1	-	-
+19	cardiacos	cardiaco	AQ0MP0	-	-	82-91	7_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	rítmicos	rítmico	AQ0MP0	C0332311	calificador	92-100	7_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	100-101	7_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Soplo	soplo	NCMS000	C0232259_1	hallazgo_1	0-5	7_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	mesosistólico	mesosistólico		C0232259_2	hallazgo_2	6-19	7_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	y	y	CC	C1706368	calificador	20-21	7_ANS_clinical_caseMIR	SENT2	-	-
+4	diastólico	diastólico	AQ0MS0	-	-	22-32	7_ANS_clinical_caseMIR	SENT2	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	33-35	7_ANS_clinical_caseMIR	SENT2	-	-
+6	borde	borde	NCMS000	C0205154	calificador	36-41	7_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	esternal	esternal	AQ0CS0	-	-	42-50	7_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+8	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	51-60	7_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+9	.	.	Fp	-	-	60-61	7_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Soplo	soplo	NCMS000	C0232263_1	hallazgo_1	0-5	7_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	protodiastólico	protodiastólico	AQ0MS0	C0232263_2	hallazgo_2	6-21	7_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	22-24	7_ANS_clinical_caseMIR	SENT3	-	-
+4	foco	foco	NCMS000	-	-	25-29	7_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	mitral	mitral	AQ0CS0	-	-	30-36	7_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+6	,	,	Fc	-	-	36-37	7_ANS_clinical_caseMIR	SENT3	-	-
+7	tonos	tono	NCMP000	-	-	38-43	7_ANS_clinical_caseMIR	SENT3	-	-
+8	cardiacos	cardiaco	AQ0MP0	-	-	44-53	7_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	irregulares	irregular	AQ0CP0	C0205271	calificador	54-65	7_ANS_clinical_caseMIR	SENT3	-	-
+10	y	y	CC	C1706368	calificador	66-67	7_ANS_clinical_caseMIR	SENT3	-	-
+11	soplo	soplo	NCMS000	C0232257_1	hallazgo_1	68-73	7_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	sistólico	sistólico	AQ0MS0	C0232257_2	hallazgo_2	74-83	7_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+13	aórtico	aórtico	AQ0MS0	C0003483	calificador	84-91	7_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	91-92	7_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Soplo	soplo	NCMS000	C0232263_1	hallazgo_1	0-5	7_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	protodiastólico	protodiastólico	AQ0MS0	C0232263_2	hallazgo_2	6-21	7_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	22-24	7_ANS_clinical_caseMIR	SENT4	-	-
+4	foco	foco	NCMS000	-	-	25-29	7_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	mitral	mitral	AQ0CS0	-	-	30-36	7_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+6	e	y	CC	C1706368	calificador	37-38	7_ANS_clinical_caseMIR	SENT4	-	-
+7	hipertensión	hipertensión	NCFS000	C0221155_1	trastorno_1	39-51	7_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	arterial	arterial	NC00SC0	C0221155_2	trastorno_2	52-60	7_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+9	sistólica	sistólico	AQ0FS0	C0221155_3	trastorno_3	61-70	7_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+10	.	.	Fp	-	-	70-71	7_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Soplo	soplo	NCMS000	C0232261_1	hallazgo_1	0-5	7_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	telesistólico	telesistólico		C0232261_2	hallazgo_2	6-19	7_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	mitral	mitral	AQ0CS0	-	-	20-26	7_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+4	irradiado	irradiar	VMP00SM	-	-	27-36	7_ANS_clinical_caseMIR	SENT5	-	-
+5	a	a	SPS00	-	-	37-38	7_ANS_clinical_caseMIR	SENT5	-	-
+6	axila	axila	NCFS000	C0004454#C1279154#C1283835	estructura_corporal	39-44	7_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	44-45	7_ANS_clinical_caseMIR	SENT5	-	-
+

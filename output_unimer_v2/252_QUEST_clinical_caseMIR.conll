@@ -1,0 +1,67 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	252_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	252_QUEST_clinical_caseMIR	SENT1	-	-
+3	84	84		-	-	10-12	252_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	252_QUEST_clinical_caseMIR	SENT1	-	-
+5	afecto	afecto	NCMS000	C0001721	función	18-24	252_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	25-27	252_QUEST_clinical_caseMIR	SENT1	-	-
+7	insuficiencia	insuficiencia	NCFS000	C0035229_1	hallazgo#trastorno_1	28-41	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	respiratoria	respiratorio	AQ0FS0	C0035229_2	hallazgo#trastorno_2	42-54	252_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	grave	grave	AQ0CS0	C0439808#C0205082	calificador	55-60	252_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	secundaria	secundario	AQ0FS0	C0175668	calificador	61-71	252_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	72-73	252_QUEST_clinical_caseMIR	SENT1	-	-
+12	linfangitis	linfangitis	NCFN000	C0238258_1	trastorno_1	74-85	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	carcinomatosa	carcinomatoso	AQ0FS0	C0238258_2	trastorno_2	86-99	252_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	asociada	asociar	VMP00SF	-	-	100-108	252_QUEST_clinical_caseMIR	SENT1	-	-
+15	a	a	SPS00	-	-	109-110	252_QUEST_clinical_caseMIR	SENT1	-	-
+16	cáncer	cáncer	NCMS000	C0024623_1	trastorno_1	111-117	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	gástrico	gástrico	NC00SC0	C0024623_2	trastorno_2	118-126	252_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	126-127	252_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Un	Un		C0205447_1	calificador_1	128-130	252_QUEST_clinical_caseMIR	SENT2	-	-
+2	compañero	compañero	NCMS000	-	-	131-140	252_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	141-143	252_QUEST_clinical_caseMIR	SENT2	-	-
+4	su	su	DP3CS0	-	-	144-146	252_QUEST_clinical_caseMIR	SENT2	-	-
+5	servicio	servicio	NCMS000	-	-	147-155	252_QUEST_clinical_caseMIR	SENT2	-	-
+6	ha	haber	VAIP3S0	-	-	156-158	252_QUEST_clinical_caseMIR	SENT2	-	-
+7	iniciado	iniciar	VMP00SM	-	-	159-167	252_QUEST_clinical_caseMIR	SENT2	-	-
+8	,	,	Fc	-	-	167-168	252_QUEST_clinical_caseMIR	SENT2	-	-
+9	ese	ese	DD0MS0	-	-	169-172	252_QUEST_clinical_caseMIR	SENT2	-	-
+10	mismo	mismo	AQ0MS0	C0445247	calificador	173-178	252_QUEST_clinical_caseMIR	SENT2	-	-
+11	día	día	NCMS000	C0439228#C0332169	calificador	179-182	252_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	182-183	252_QUEST_clinical_caseMIR	SENT2	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	184-195	252_QUEST_clinical_caseMIR	SENT2	-	-
+14	con	con	SPS00	C0332287	atributo	196-199	252_QUEST_clinical_caseMIR	SENT2	-	-
+15	morfina	morfina	NCFS000	C0360457_1	producto_1	200-207	252_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+16	oral	oral	NC00SC0	C0360457_2	producto_2	208-212	252_QUEST_clinical_caseMIR	SENT2	-	-
+17	10	10		-	-	213-215	252_QUEST_clinical_caseMIR	SENT2	-	-
+18	mg/4	mg/4	Z	-	-	216-220	252_QUEST_clinical_caseMIR	SENT2	-	-
+19	horas	h	NCFP000	C0439227	calificador	221-226	252_QUEST_clinical_caseMIR	SENT2	-	-
+20	.	.	Fp	-	-	226-227	252_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	228-230	252_QUEST_clinical_caseMIR	SENT3	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	231-239	252_QUEST_clinical_caseMIR	SENT3	-	-
+3	está	estar	VAIP3S0	-	-	240-244	252_QUEST_clinical_caseMIR	SENT3	-	-
+4	inquieto	inquieto	AQ0MS0	-	-	245-253	252_QUEST_clinical_caseMIR	SENT3	-	-
+5	,	,	Fc	-	-	253-254	252_QUEST_clinical_caseMIR	SENT3	-	-
+6	a	a	SPS00	-	-	255-256	252_QUEST_clinical_caseMIR	SENT3	-	-
+7	34	34		-	-	257-259	252_QUEST_clinical_caseMIR	SENT3	-	-
+8	respiraciones	respiración	NCFP000	C0231832_1	entidad_observable_1	260-273	252_QUEST_clinical_caseMIR	SENT3	-	-
+9	por	por	SPS00	C0231832_2	entidad_observable_2	274-277	252_QUEST_clinical_caseMIR	SENT3	-	-
+10	minuto	minuto	NCMS000	C0231832_3	entidad_observable_3	278-284	252_QUEST_clinical_caseMIR	SENT3	-	-
+11	,	,	Fc	-	-	284-285	252_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	286-288	252_QUEST_clinical_caseMIR	SENT3	-	-
+13	saturación	saturación	NCFS000	-	-	289-299	252_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332285	atributo	300-302	252_QUEST_clinical_caseMIR	SENT3	-	-
+15	02	02		-	-	303-305	252_QUEST_clinical_caseMIR	SENT3	-	-
+16	es	ser	VSIP3S0	-	-	306-308	252_QUEST_clinical_caseMIR	SENT3	-	-
+17	de	de	SPS00	C0332285	atributo	309-311	252_QUEST_clinical_caseMIR	SENT3	-	-
+18	80	80	Z	-	-	312-314	252_QUEST_clinical_caseMIR	SENT3	-	-
+19	%	%	Ft	-	-	314-315	252_QUEST_clinical_caseMIR	SENT3	-	-
+20	con	con	SPS00	C0332287	atributo	316-319	252_QUEST_clinical_caseMIR	SENT3	-	-
+21	una	una		C0205447_1	calificador_1	320-323	252_QUEST_clinical_caseMIR	SENT3	-	-
+22	Fi02	Fi02		-	-	324-328	252_QUEST_clinical_caseMIR	SENT3	-	-
+23	de	de	SPS00	C0332285	atributo	329-331	252_QUEST_clinical_caseMIR	SENT3	-	-
+24	28	28	Z	-	-	332-334	252_QUEST_clinical_caseMIR	SENT3	-	-
+25	%	%	Ft	-	-	334-335	252_QUEST_clinical_caseMIR	SENT3	-	-
+26	.	.	Fp	-	-	335-336	252_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,29 @@
+1	¿	¿	Fia	-	-	458-459	127_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	459-463	127_ANS_clinical_caseMIR	SENT1	-	-
+3	será	ser	VSIF3S0	-	-	464-468	127_ANS_clinical_caseMIR	SENT1	-	-
+4	su	su	DP3CS0	-	-	469-471	127_ANS_clinical_caseMIR	SENT1	-	-
+5	mejor	mejor	AQ0CS0	C0332272	calificador	472-477	127_ANS_clinical_caseMIR	SENT1	-	-
+6	opción	opción	NCFS000	-	-	478-484	127_ANS_clinical_caseMIR	SENT1	-	-
+7	terapéutica	terapéutico	AQ0FS0	-	-	485-496	127_ANS_clinical_caseMIR	SENT1	-	-
+8	inmediata	inmediato	AQ0FS0	C0205253	calificador	497-506	127_ANS_clinical_caseMIR	SENT1	-	-
+9	?	?	Fit	-	-	506-507	127_ANS_clinical_caseMIR	SENT1	-	-
+10	:	:	Fd	-	-	507-508	127_ANS_clinical_caseMIR	SENT1	-	-
+11	Tomografia	tomografia	NCFS000	-	-	0-10	127_ANS_clinical_caseMIR	SENT1	-	-
+12	computarizada	computarizada	VMP00SF	-	-	11-24	127_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	24-25	127_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Ecocardiografía	ecocardiografía	NCFS000	C0206054_1	procedimiento_1	0-15	127_ANS_clinical_caseMIR	SENT2	-	-
+2	transesofágica	transesofágico	AQ0FS0	C0206054_2	procedimiento_2	16-30	127_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	30-31	127_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Ecocardiografía	ecocardiografía	NCFS000	C0430462_1	procedimiento_1	0-15	127_ANS_clinical_caseMIR	SENT3	-	-
+2	transtorácica	transtorácico	AQ0FS0	C0430462_2	procedimiento_2	16-29	127_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	29-30	127_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	0-10	127_ANS_clinical_caseMIR	SENT4	-	-
+2	magnética	magnético	AQ0FS0	-	-	11-20	127_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	20-21	127_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Aortografía	aortografía	NC00SC0	C0003515	procedimiento	0-11	127_ANS_clinical_caseMIR	SENT5	-	-
+2	.	.	Fp	-	-	11-12	127_ANS_clinical_caseMIR	SENT5	-	-
+

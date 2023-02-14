@@ -1,0 +1,96 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	546_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	546_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	546_QUEST_clinical_caseMIR	SENT1	-	-
+4	74	74		-	-	13-15	546_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	546_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	546_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	546_QUEST_clinical_caseMIR	SENT1	-	-
+8	su	su	DP3CS0	-	-	29-31	546_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	32-40	546_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	41-44	546_QUEST_clinical_caseMIR	SENT1	-	-
+11	presentar	presentar	VMN0000	-	-	45-54	546_QUEST_clinical_caseMIR	SENT1	-	-
+12	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	55-63	546_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	constitucional	constitucional	AQ0CS0	-	-	64-78	546_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+14	con	con	SPS00	C0332287	atributo	79-82	546_QUEST_clinical_caseMIR	SENT1	-	-
+15	pérdida	pérdida	NCFS000	-	-	83-90	546_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	91-93	546_QUEST_clinical_caseMIR	SENT1	-	-
+17	5	5		-	-	94-95	546_QUEST_clinical_caseMIR	SENT1	-	-
+18	kilos	kilo	NCMP000	-	-	96-101	546_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	102-104	546_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	peso	peso	NCMS000	C0043100	calificador	105-109	546_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	110-112	546_QUEST_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	113-115	546_QUEST_clinical_caseMIR	SENT1	-	-
+23	último	último	AO0MS0	-	-	116-122	546_QUEST_clinical_caseMIR	SENT1	-	-
+24	mes	mes	NCMS000	C0439231	calificador	123-126	546_QUEST_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	126-127	546_QUEST_clinical_caseMIR	SENT1	-	-
+26	junto	junto	RG	-	-	128-133	546_QUEST_clinical_caseMIR	SENT1	-	-
+27	a	a	SPS00	-	-	134-135	546_QUEST_clinical_caseMIR	SENT1	-	-
+28	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	136-143	546_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	.	.	Fp	-	-	143-144	546_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	145-152	546_QUEST_clinical_caseMIR	SENT2	-	-
+2	que	que	CS	-	-	153-156	546_QUEST_clinical_caseMIR	SENT2	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	157-159	546_QUEST_clinical_caseMIR	SENT2	-	-
+4	las	el	DA0FP0	-	-	160-163	546_QUEST_clinical_caseMIR	SENT2	-	-
+5	tres	tres		-	-	164-168	546_QUEST_clinical_caseMIR	SENT2	-	-
+6	últimas	último	AO0FP0	-	-	169-176	546_QUEST_clinical_caseMIR	SENT2	-	-
+7	semanas	semana	NCFP000	C0439230	calificador	177-184	546_QUEST_clinical_caseMIR	SENT2	-	-
+8	,	,	Fc	-	-	184-185	546_QUEST_clinical_caseMIR	SENT2	-	-
+9	además	además	RG	-	-	186-192	546_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	192-193	546_QUEST_clinical_caseMIR	SENT2	-	-
+11	ha	haber	VAIP3S0	-	-	194-196	546_QUEST_clinical_caseMIR	SENT2	-	-
+12	observado	observar	VMP00SM	-	-	197-206	546_QUEST_clinical_caseMIR	SENT2	-	-
+13	la	el	DA0FS0	-	-	207-209	546_QUEST_clinical_caseMIR	SENT2	-	-
+14	aparición	aparición	NCFS000	-	-	210-219	546_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	220-222	546_QUEST_clinical_caseMIR	SENT2	-	-
+16	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	223-231	546_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	rojizas	rojizo	AQ0FP0	-	-	232-239	546_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	240-242	546_QUEST_clinical_caseMIR	SENT2	-	-
+19	piernas	pierna	NCFP000	C1269079#C1285009#C1140621	estructura_corporal	243-250	546_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+20	que	que	PR0CN000	-	-	251-254	546_QUEST_clinical_caseMIR	SENT2	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	255-257	546_QUEST_clinical_caseMIR	SENT2	-	-
+22	ocasiones	ocasión	NCFP000	-	-	258-267	546_QUEST_clinical_caseMIR	SENT2	-	-
+23	drenan	drenar	VMIP3P0	-	-	268-274	546_QUEST_clinical_caseMIR	SENT2	-	-
+24	un	un		C0205447_1	calificador_1	275-277	546_QUEST_clinical_caseMIR	SENT2	-	-
+25	material	material	NCMS000	C0520510	atributo	278-286	546_QUEST_clinical_caseMIR	SENT2	-	-
+26	oleoso	oleoso	AQ0MS0	-	-	287-293	546_QUEST_clinical_caseMIR	SENT2	-	-
+27	,	,	Fc	-	-	293-294	546_QUEST_clinical_caseMIR	SENT2	-	-
+28	asociando	asociar	VMG0000	-	-	295-304	546_QUEST_clinical_caseMIR	SENT2	-	-
+29	se	se	PP3CN000	-	-	304-306	546_QUEST_clinical_caseMIR	SENT2	-	-
+30	también	también	RG	-	-	307-314	546_QUEST_clinical_caseMIR	SENT2	-	-
+31	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	315-320	546_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+32	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	321-330	546_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+33	y	y	CC	C1706368	calificador	331-332	546_QUEST_clinical_caseMIR	SENT2	-	-
+34	costal	costal	NCMS000	-	-	333-339	546_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+35	,	,	Fc	-	-	339-340	546_QUEST_clinical_caseMIR	SENT2	-	-
+36	así	así	RG	-	-	341-344	546_QUEST_clinical_caseMIR	SENT2	-	-
+37	como	como	SPS00	C0332257	calificador	345-349	546_QUEST_clinical_caseMIR	SENT2	-	-
+38	dolor	dolor	NCMS000	C0030193	hallazgo	350-355	546_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+39	y	y	CC	C1706368	calificador	356-357	546_QUEST_clinical_caseMIR	SENT2	-	-
+40	rubor	rubor	NCMS000	C0332575#C0016382#C0005874	hallazgo#trastorno#función	358-363	546_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+41	en	en	SPS00	C1720294#C0332285	calificador#atributo	364-366	546_QUEST_clinical_caseMIR	SENT2	-	-
+42	tobillos	tobillo	NCMP000	C1261192#C0003086	estructura_corporal	367-375	546_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+43	y	y	CC	C1706368	calificador	376-377	546_QUEST_clinical_caseMIR	SENT2	-	-
+44	rodillas	rodilla	NCFP000	C1963703#C1456798	estructura_corporal	378-386	546_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+45	.	.	Fp	-	-	386-387	546_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Usted	usted	PP2CS00P	-	-	388-393	546_QUEST_clinical_caseMIR	SENT3	-	-
+2	decide	decidir	VMIP3S0	-	-	394-400	546_QUEST_clinical_caseMIR	SENT3	-	-
+3	realizar	realizar	VMN0000	-	-	401-409	546_QUEST_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	410-413	546_QUEST_clinical_caseMIR	SENT3	-	-
+5	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	414-421	546_QUEST_clinical_caseMIR	SENT3	-	-
+6	y	y	CC	C1706368	calificador	422-423	546_QUEST_clinical_caseMIR	SENT3	-	-
+7	observa	observar	VMIP3S0	-	-	424-431	546_QUEST_clinical_caseMIR	SENT3	-	-
+8	que	que	CS	-	-	432-435	546_QUEST_clinical_caseMIR	SENT3	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	436-438	546_QUEST_clinical_caseMIR	SENT3	-	-
+10	el	el	DA0MS0	-	-	439-441	546_QUEST_clinical_caseMIR	SENT3	-	-
+11	tejido	tejido	NCMS000	C0278403#C1284136_1	estructura_corporal_1	442-448	546_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+12	celular	celular	AQ0CS0	C0278403#C1284136_2	estructura_corporal_2	449-456	546_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+13	subcutáneo	subcutáneo	NC00SC0	C0278403#C1284136_3	estructura_corporal_3	457-467	546_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	aparecen	aparecer	VMIP3P0	-	-	468-476	546_QUEST_clinical_caseMIR	SENT3	-	-
+15	"	"	Fe	-	-	477-478	546_QUEST_clinical_caseMIR	SENT3	-	-
+16	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	478-485	546_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+17	fantasma	fantasma	NCMS000	-	-	486-494	546_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+18	"	"	Fe	-	-	494-495	546_QUEST_clinical_caseMIR	SENT3	-	-
+19	.	.	Fp	-	-	495-496	546_QUEST_clinical_caseMIR	SENT3	-	-
+

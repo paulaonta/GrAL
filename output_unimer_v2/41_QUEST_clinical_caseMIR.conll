@@ -1,0 +1,106 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	41_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	41_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	41_QUEST_clinical_caseMIR	SENT1	-	-
+4	30	30		-	-	13-15	41_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	41_QUEST_clinical_caseMIR	SENT1	-	-
+6	sufre	sufrir	VMIP3S0	-	-	21-26	41_QUEST_clinical_caseMIR	SENT1	-	-
+7	caída	caída	NCFS000	C0085639	hallazgo	27-32	41_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	33-35	41_QUEST_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	36-39	41_QUEST_clinical_caseMIR	SENT1	-	-
+10	altura	altura	NCFS000	C0002349	fuerza_física	40-46	41_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	47-49	41_QUEST_clinical_caseMIR	SENT1	-	-
+12	2	2	Z	-	-	50-51	41_QUEST_clinical_caseMIR	SENT1	-	-
+13	metros	m	NCMP000	-	-	52-58	41_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	59-61	41_QUEST_clinical_caseMIR	SENT1	-	-
+15	pie	pie	NCMS000	C1281587#C0347981#C0016504	estructura_corporal#calificador	62-65	41_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	.	.	Fp	-	-	65-66	41_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	67-68	41_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	69-71	41_QUEST_clinical_caseMIR	SENT2	-	-
+3	llegada	llegada	NCFS000	-	-	72-79	41_QUEST_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	-	-	80-81	41_QUEST_clinical_caseMIR	SENT2	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	82-91	41_QUEST_clinical_caseMIR	SENT2	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	92-94	41_QUEST_clinical_caseMIR	SENT2	-	-
+7	camilla	camilla	NCFS000	C0150789	objeto_físico	95-102	41_QUEST_clinical_caseMIR	SENT2	-	-
+8	está	estar	VAIP3S0	-	-	103-107	41_QUEST_clinical_caseMIR	SENT2	-	-
+9	consciente	consciente	AQ0CS0	-	-	108-118	41_QUEST_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	119-120	41_QUEST_clinical_caseMIR	SENT2	-	-
+11	orientado	orientar	VMP00SM	-	-	121-130	41_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	130-131	41_QUEST_clinical_caseMIR	SENT2	-	-
+13	con	con	SPS00	C0332287	atributo	132-135	41_QUEST_clinical_caseMIR	SENT2	-	-
+14	sondaje	sondaje	NCMS000	-	-	136-143	41_QUEST_clinical_caseMIR	SENT2	-	-
+15	vesical	vesical	AQ0CS0	-	-	144-151	41_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	con	con	SPS00	C0332287	atributo	152-155	41_QUEST_clinical_caseMIR	SENT2	-	-
+17	orina	orina	NCFS000	C0042036	sustancia	156-161	41_QUEST_clinical_caseMIR	SENT2	-	-
+18	clara	claro	AQ0FS0	C2963144#C1306462#C0522503	calificador	162-167	41_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	167-168	41_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Muestra	mostrar	VMIP3S0	-	-	169-176	41_QUEST_clinical_caseMIR	SENT3	-	-
+2	tumefacción	tumefacción	NCFS000	C0038999	hallazgo#anomalía_morfológica	177-188	41_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	de	de	SPS00	C0332285	atributo	189-191	41_QUEST_clinical_caseMIR	SENT3	-	-
+4	talón	talón	NCMS000	C0018870#C1285019	estructura_corporal	192-197	41_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	198-207	41_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+6	y	y	CC	C1706368	calificador	208-209	41_QUEST_clinical_caseMIR	SENT3	-	-
+7	hormigueos	hormigueo	NCMP000	C0016579	hallazgo	210-220	41_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	leves	leve	AQ0CP0	C2945599#C0547040#C1282907	calificador	221-226	41_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+9	por	por	SPS00	C0678226	atributo	227-230	41_QUEST_clinical_caseMIR	SENT3	-	-
+10	cara	caro	AQ0FS0	C1285003#C0446562#C0230421_1	estructura_corporal_1	231-235	41_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	anterior	anterior	NC00SC0	C1285003#C0446562#C0230421_2	estructura_corporal_2	236-244	41_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+12	de	de	SPS00	C1285003#C0446562#C0230421_3	estructura_corporal_3	245-247	41_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+13	muslo	muslo	NCMS000	C1285003#C0446562#C0230421_4	estructura_corporal_4	248-253	41_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	254-261	41_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	262-263	41_QUEST_clinical_caseMIR	SENT3	-	-
+16	escroto	escroto	NCMS000	C1280740#C0036471	estructura_corporal	264-271	41_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	así	así	RG	-	-	272-275	41_QUEST_clinical_caseMIR	SENT3	-	-
+18	como	como	SPS00	C0332257	calificador	276-280	41_QUEST_clinical_caseMIR	SENT3	-	-
+19	disestesias	disestesia	NCFP000	C0392699	hallazgo	281-292	41_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	293-295	41_QUEST_clinical_caseMIR	SENT3	-	-
+21	ambos	ambos	PI0MP000	C0230473_1	estructura_corporal_1	296-301	41_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+22	pies	pie	NCMP000	C0230473_2	estructura_corporal_2	302-306	41_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+23	.	.	Fp	-	-	306-307	41_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	308-310	41_QUEST_clinical_caseMIR	SENT4	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	311-319	41_QUEST_clinical_caseMIR	SENT4	-	-
+3	se	se	P00CN000	-	-	320-322	41_QUEST_clinical_caseMIR	SENT4	-	-
+4	despide	despedir	VMIP3S0	-	-	323-330	41_QUEST_clinical_caseMIR	SENT4	-	-
+5	del	del	SP+DA	-	-	331-334	41_QUEST_clinical_caseMIR	SENT4	-	-
+6	camillero	camillero	NCMS000	C0558472	ocupación	335-344	41_QUEST_clinical_caseMIR	SENT4	-	-
+7	con	con	SPS00	C0332287	atributo	345-348	41_QUEST_clinical_caseMIR	SENT4	-	-
+8	un	un		C0205447_1	calificador_1	349-351	41_QUEST_clinical_caseMIR	SENT4	-	-
+9	apretón	apretón	NCMS000	-	-	352-359	41_QUEST_clinical_caseMIR	SENT4	-	-
+10	de	de	SPS00	C0332285	atributo	360-362	41_QUEST_clinical_caseMIR	SENT4	-	-
+11	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	363-368	41_QUEST_clinical_caseMIR	SENT4	-	-
+12	con	con	SPS00	C0332287	atributo	369-372	41_QUEST_clinical_caseMIR	SENT4	-	-
+13	una	una		C0205447_1	calificador_1	373-376	41_QUEST_clinical_caseMIR	SENT4	-	-
+14	palmada	palmada	NCFS000	-	-	377-384	41_QUEST_clinical_caseMIR	SENT4	-	-
+15	simultánea	simultáneo	AQ0FS0	C0521115	calificador	385-395	41_QUEST_clinical_caseMIR	SENT4	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	396-398	41_QUEST_clinical_caseMIR	SENT4	-	-
+17	el	el	DA0MS0	-	-	399-401	41_QUEST_clinical_caseMIR	SENT4	-	-
+18	hombro	hombro	NCMS000	C0037004	estructura_corporal	402-408	41_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+19	.	.	Fp	-	-	408-409	41_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	410-412	41_QUEST_clinical_caseMIR	SENT5	-	-
+2	rotación	rotación	NCFS000	C0677597	entidad_observable	413-421	41_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	422-424	41_QUEST_clinical_caseMIR	SENT5	-	-
+4	los	el	DA0MP0	-	-	425-428	41_QUEST_clinical_caseMIR	SENT5	-	-
+5	miembros	miembro	NCMP000	C0015385	estructura_corporal	429-437	41_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+6	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	438-448	41_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	449-451	41_QUEST_clinical_caseMIR	SENT5	-	-
+8	la	el	DA0FS0	-	-	452-454	41_QUEST_clinical_caseMIR	SENT5	-	-
+9	camilla	camilla	NCFS000	C0150789	objeto_físico	455-462	41_QUEST_clinical_caseMIR	SENT5	-	-
+10	cogidos	coger	VMP00PM	-	-	463-470	41_QUEST_clinical_caseMIR	SENT5	-	-
+11	por	por	SPS00	C0678226	atributo	471-474	41_QUEST_clinical_caseMIR	SENT5	-	-
+12	los	el	DA0MP0	-	-	475-478	41_QUEST_clinical_caseMIR	SENT5	-	-
+13	tobillos	tobillo	NCMP000	C1261192#C0003086	estructura_corporal	479-487	41_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+14	es	ser	VSIP3S0	-	-	488-490	41_QUEST_clinical_caseMIR	SENT5	-	-
+15	indolora	indoloro	AQ0FS0	C0234226	calificador	491-499	41_QUEST_clinical_caseMIR	SENT5	-	-
+16	y	y	CC	C1706368	calificador	500-501	41_QUEST_clinical_caseMIR	SENT5	-	-
+17	la	el	DA0FS0	-	-	502-504	41_QUEST_clinical_caseMIR	SENT5	-	-
+18	compresión	compresión	NCFS000	C0332459#C1285497	anomalía_morfológica	505-515	41_QUEST_clinical_caseMIR	SENT5	-	-
+19	de	de	SPS00	C0332285	atributo	516-518	41_QUEST_clinical_caseMIR	SENT5	-	-
+20	la	el	DA0FS0	-	-	519-521	41_QUEST_clinical_caseMIR	SENT5	-	-
+21	pelvis	pelvis	NCFN000	C1279864#C0449203#C0030797	estructura_corporal	522-528	41_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+22	es	ser	VSIP3S0	-	-	529-531	41_QUEST_clinical_caseMIR	SENT5	-	-
+23	asintomática	asintomático	AQ0FS0	-	-	532-544	41_QUEST_clinical_caseMIR	SENT5	-	-
+24	.	.	Fp	-	-	544-545	41_QUEST_clinical_caseMIR	SENT5	-	-
+

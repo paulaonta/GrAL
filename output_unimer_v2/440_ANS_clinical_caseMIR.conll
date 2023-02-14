@@ -1,0 +1,53 @@
+1	Se	se	P00CN000	-	-	0-2	440_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	440_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	440_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	440_ANS_clinical_caseMIR	SENT1	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	16-24	440_ANS_clinical_caseMIR	SENT1	-	-
+6	que	que	PR0CN000	-	-	25-28	440_ANS_clinical_caseMIR	SENT1	-	-
+7	presenta	presentar	VMIP3S0	-	-	29-37	440_ANS_clinical_caseMIR	SENT1	-	-
+8	una	una		C0205447_1	calificador_1	38-41	440_ANS_clinical_caseMIR	SENT1	-	-
+9	variación	variación	NCFS000	C0231239#C0205419	hallazgo#calificador	42-51	440_ANS_clinical_caseMIR	SENT1	-	-
+10	del	del	SP+DA	-	-	52-55	440_ANS_clinical_caseMIR	SENT1	-	-
+11	patrón	patrón	NCMS000	C0474396_1	hallazgo_1	56-62	440_ANS_clinical_caseMIR	SENT1	-	-
+12	del	del	SP+DA	C0474396_2	hallazgo_2	63-66	440_ANS_clinical_caseMIR	SENT1	-	-
+13	sueño	sueño	NCMS000	C0474396_3	hallazgo_3	67-72	440_ANS_clinical_caseMIR	SENT1	-	-
+14	fisiológico	fisiológico	AQ0MS0	C0205463	calificador	73-84	440_ANS_clinical_caseMIR	SENT1	-	-
+15	del	del	SP+DA	-	-	85-88	440_ANS_clinical_caseMIR	SENT1	-	-
+16	envejecimiento	envejecimiento	NCMS000	C0001811	hallazgo	89-103	440_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	103-104	440_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	0-2	440_ANS_clinical_caseMIR	SENT2	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	440_ANS_clinical_caseMIR	SENT2	-	-
+3	sospechar	sospechar	VMN0000	-	-	8-17	440_ANS_clinical_caseMIR	SENT2	-	-
+4	un	un		C0205447_1	calificador_1	18-20	440_ANS_clinical_caseMIR	SENT2	-	-
+5	trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	21-30	440_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+6	del	del	SP+DA	-	-	31-34	440_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+7	tiroides	tiroides	NCFN000	-	-	35-43	440_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+8	del	del	SP+DA	-	-	44-47	440_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+9	anciano	anciano	NCMS000	C0001792#C0524337	persona	48-55	440_ANS_clinical_caseMIR	SENT2	I-Calificador	-
+10	.	.	Fp	-	-	55-56	440_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	0-2	440_ANS_clinical_caseMIR	SENT3	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	440_ANS_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	440_ANS_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	12-15	440_ANS_clinical_caseMIR	SENT3	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	16-24	440_ANS_clinical_caseMIR	SENT3	-	-
+6	que	que	PR0CN000	-	-	25-28	440_ANS_clinical_caseMIR	SENT3	-	-
+7	presenta	presentar	VMIP3S0	-	-	29-37	440_ANS_clinical_caseMIR	SENT3	-	-
+8	una	una		C0205447_1	calificador_1	38-41	440_ANS_clinical_caseMIR	SENT3	-	-
+9	depresión	depresión	NCFS000	C1269683#C0011581#C0025193_1	trastorno_1	42-51	440_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	mayor	mayor	NCCS000	C1269683#C0011581#C0025193_2	trastorno_2	52-57	440_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+11	.	.	Fp	-	-	57-58	440_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	0-2	440_ANS_clinical_caseMIR	SENT4	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	440_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	440_ANS_clinical_caseMIR	SENT4	-	-
+4	una	una		C0205447_1	calificador_1	12-15	440_ANS_clinical_caseMIR	SENT4	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	16-24	440_ANS_clinical_caseMIR	SENT4	-	-
+6	que	que	PR0CN000	-	-	25-28	440_ANS_clinical_caseMIR	SENT4	-	-
+7	presenta	presentar	VMIP3S0	-	-	29-37	440_ANS_clinical_caseMIR	SENT4	-	-
+8	una	una		C0205447_1	calificador_1	38-41	440_ANS_clinical_caseMIR	SENT4	-	-
+9	somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	42-53	440_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	idiopática	idiopático	AQ0FS0	C0332240	calificador	54-64	440_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+11	.	.	Fp	-	-	64-65	440_ANS_clinical_caseMIR	SENT4	-	-
+

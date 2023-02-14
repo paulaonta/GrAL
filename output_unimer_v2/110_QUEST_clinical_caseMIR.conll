@@ -1,0 +1,77 @@
+1	¿	¿	Fia	-	-	442-443	110_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	443-447	110_QUEST_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	448-450	110_QUEST_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	451-453	110_QUEST_clinical_caseMIR	SENT1	-	-
+5	hipótesis	hipótesis	NCFN000	-	-	454-463	110_QUEST_clinical_caseMIR	SENT1	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	464-475	110_QUEST_clinical_caseMIR	SENT1	-	-
+7	más	más	RG	C0205172	calificador	476-479	110_QUEST_clinical_caseMIR	SENT1	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	480-488	110_QUEST_clinical_caseMIR	SENT1	-	-
+9	?	?	Fit	-	-	488-489	110_QUEST_clinical_caseMIR	SENT1	-	-
+10	:	:	Fd	-	-	489-490	110_QUEST_clinical_caseMIR	SENT1	-	-
+11	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	110_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	6-8	110_QUEST_clinical_caseMIR	SENT1	-	-
+13	56	56		-	-	9-11	110_QUEST_clinical_caseMIR	SENT1	-	-
+14	años	año	NCMP000	C0439234	calificador	12-16	110_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	110_QUEST_clinical_caseMIR	SENT1	-	-
+16	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	110_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	24-25	110_QUEST_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	26-29	110_QUEST_clinical_caseMIR	SENT1	-	-
+19	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	30-42	110_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332119_2	situación_2	43-45	110_QUEST_clinical_caseMIR	SENT1	-	-
+21	esquizofrenia	esquizofrenia	NCFS000	C0036341	trastorno	46-59	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	bien	bien	RG	C0205170	calificador	60-64	110_QUEST_clinical_caseMIR	SENT1	-	-
+23	controlada	controlar	VMP00SF	-	-	65-75	110_QUEST_clinical_caseMIR	SENT1	-	-
+24	,	,	Fc	-	-	75-76	110_QUEST_clinical_caseMIR	SENT1	-	-
+25	sin	sin	SPS00	C0332288	atributo	77-80	110_QUEST_clinical_caseMIR	SENT1	-	-
+26	hábitos	hábito	NCMP000	C0018464	hallazgo	81-88	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+27	tóxicos	tóxico	AQ0MP0	-	-	89-96	110_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+28	.	.	Fp	-	-	96-97	110_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Ingresada	ingresar	VMP00SF	-	-	98-107	110_QUEST_clinical_caseMIR	SENT2	-	-
+2	por	por	SPS00	C0678226	atributo	108-111	110_QUEST_clinical_caseMIR	SENT2	-	-
+3	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	112-120	110_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	121-123	110_QUEST_clinical_caseMIR	SENT2	-	-
+5	lóbulo	lóbulo	NCMS000	-	-	124-130	110_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	131-136	110_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+7	con	con	SPS00	C0332287	atributo	137-140	110_QUEST_clinical_caseMIR	SENT2	-	-
+8	un	un		C0205447_1	calificador_1	141-143	110_QUEST_clinical_caseMIR	SENT2	-	-
+9	pequeño	pequeño	AQ0MS0	C0700321#C1282918	calificador	144-151	110_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	derrame	derrame	NCMS000	C0032227_1	trastorno_1	152-159	110_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	pleural	pleural	NC00SC0	C0032227_2	trastorno_2	160-167	110_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+12	metaneumónico	metaneumónico	AQ0MS00	-	-	168-181	110_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	asociado	asociar	VMP00SM	-	-	182-190	110_QUEST_clinical_caseMIR	SENT2	-	-
+14	y	y	CC	C1706368	calificador	191-192	110_QUEST_clinical_caseMIR	SENT2	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	193-195	110_QUEST_clinical_caseMIR	SENT2	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	196-207	110_QUEST_clinical_caseMIR	SENT2	-	-
+17	con	con	SPS00	C0332287	atributo	208-211	110_QUEST_clinical_caseMIR	SENT2	-	-
+18	levofloxacino	levofloxacino	NC00SC0	C0282386	producto#sustancia	212-225	110_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+19	500	500		-	-	226-229	110_QUEST_clinical_caseMIR	SENT2	-	-
+20	mg/24h	mg/24h		-	-	230-236	110_QUEST_clinical_caseMIR	SENT2	-	-
+21	.	.	Fp	-	-	236-237	110_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	238-246	110_QUEST_clinical_caseMIR	SENT3	-	-
+2	buena	bueno	AQ0FS0	C0205170	calificador	247-252	110_QUEST_clinical_caseMIR	SENT3	-	-
+3	evolución	evolución	NCFS000	-	-	253-262	110_QUEST_clinical_caseMIR	SENT3	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	263-270	110_QUEST_clinical_caseMIR	SENT3	-	-
+5	salvo	salvo	SPS00	-	-	271-276	110_QUEST_clinical_caseMIR	SENT3	-	-
+6	por	por	SPS00	C0678226	atributo	277-280	110_QUEST_clinical_caseMIR	SENT3	-	-
+7	persistencia	persistencia	NCFS000	C0546816	hallazgo	281-293	110_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	294-296	110_QUEST_clinical_caseMIR	SENT3	-	-
+9	febrícula	febrícula	NCFS000	-	-	297-306	110_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	307-308	110_QUEST_clinical_caseMIR	SENT3	-	-
+11	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	309-321	110_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	al	al	SP+DA	-	-	322-324	110_QUEST_clinical_caseMIR	SENT3	-	-
+13	sexto	6	AO0MS0	-	-	325-330	110_QUEST_clinical_caseMIR	SENT3	-	-
+14	día	día	NCMS000	C0439228#C0332169	calificador	331-334	110_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	335-337	110_QUEST_clinical_caseMIR	SENT3	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	338-349	110_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	349-350	110_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	351-353	110_QUEST_clinical_caseMIR	SENT4	-	-
+2	se	se	P00CN000	-	-	354-356	110_QUEST_clinical_caseMIR	SENT4	-	-
+3	dispone	disponer	VMIP3S0	-	-	357-364	110_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	365-367	110_QUEST_clinical_caseMIR	SENT4	-	-
+5	estudios	estudio	NCMP000	C0557651	medio_ambiente	368-376	110_QUEST_clinical_caseMIR	SENT4	-	-
+6	microbiológicos	microbiológico	AQ0MP0	-	-	377-392	110_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	392-393	110_QUEST_clinical_caseMIR	SENT4	-	-
+

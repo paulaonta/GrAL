@@ -1,0 +1,58 @@
+1	¿	¿	Fia	-	-	380-381	192_QUEST_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	381-384	192_QUEST_clinical_caseMIR	SENT1	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	385-396	192_QUEST_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	396-397	192_QUEST_clinical_caseMIR	SENT1	-	-
+5	entre	entre	SPS00	C0205103	calificador	398-403	192_QUEST_clinical_caseMIR	SENT1	-	-
+6	los	el	DA0MP0	-	-	404-407	192_QUEST_clinical_caseMIR	SENT1	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	408-418	192_QUEST_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	418-419	192_QUEST_clinical_caseMIR	SENT1	-	-
+9	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	420-422	192_QUEST_clinical_caseMIR	SENT1	-	-
+10	sugieren	sugerir	VMIP3P0	-	-	423-431	192_QUEST_clinical_caseMIR	SENT1	-	-
+11	estos	este	DD0MP0	-	-	432-437	192_QUEST_clinical_caseMIR	SENT1	-	-
+12	datos	dato	NCMP000	-	-	438-443	192_QUEST_clinical_caseMIR	SENT1	-	-
+13	?	?	Fit	-	-	443-444	192_QUEST_clinical_caseMIR	SENT1	-	-
+14	:	:	Fd	-	-	444-445	192_QUEST_clinical_caseMIR	SENT1	-	-
+15	Un	Un		C0205447_1	calificador_1	0-2	192_QUEST_clinical_caseMIR	SENT1	-	-
+16	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	192_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	10-12	192_QUEST_clinical_caseMIR	SENT1	-	-
+18	30	30		-	-	13-15	192_QUEST_clinical_caseMIR	SENT1	-	-
+19	años	año	NCMP000	C0439234	calificador	16-20	192_QUEST_clinical_caseMIR	SENT1	-	-
+20	(	(	Fpa	-	-	21-22	192_QUEST_clinical_caseMIR	SENT1	-	-
+21	caso	caso	NCMS000	C0868928	calificador	22-26	192_QUEST_clinical_caseMIR	SENT1	-	-
+22	índice	índice	NCMS000	-	-	27-33	192_QUEST_clinical_caseMIR	SENT1	-	-
+23	)	)	Fpt	-	-	33-34	192_QUEST_clinical_caseMIR	SENT1	-	-
+24	afecto	afecto	NCMS000	C0001721	función	35-41	192_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0332285	atributo	42-44	192_QUEST_clinical_caseMIR	SENT1	-	-
+26	atrofia	atrofiar	VMM02S0	C0917796_1	trastorno_1	45-52	192_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	óptica	óptico	AQ0FS0	C0917796_2	trastorno_2	53-59	192_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	de	de	SPS00	C0917796_3	trastorno_3	60-62	192_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	Leber	Leber		C0917796_4	trastorno_4	63-68	192_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+30	presenta	presentar	VMIP3S0	-	-	69-77	192_QUEST_clinical_caseMIR	SENT1	-	-
+31	la	el	DA0FS0	-	-	78-80	192_QUEST_clinical_caseMIR	SENT1	-	-
+32	mutación	mutación	NCFS000	-	-	81-89	192_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+33	del	del	SP+DA	-	-	90-93	192_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+34	genoma	genoma	NCMS000	C0017428	sustancia	94-100	192_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+35	mitocondrial	mitocondrial	AQ0CS0	-	-	101-113	192_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+36	LHON11778A	LHON11778A		-	-	114-124	192_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+37	.	.	Fp	-	-	124-125	192_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	126-128	192_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	129-131	192_QUEST_clinical_caseMIR	SENT2	-	-
+3	consejo	consejo	NCMS000	-	-	132-139	192_QUEST_clinical_caseMIR	SENT2	-	-
+4	genético	genético	AQ0MS0	-	-	140-148	192_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	149-151	192_QUEST_clinical_caseMIR	SENT2	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	152-154	192_QUEST_clinical_caseMIR	SENT2	-	-
+7	informará	informar	VMIF3S0	C0700287	procedimiento	155-164	192_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	165-167	192_QUEST_clinical_caseMIR	SENT2	-	-
+9	los	el	DA0MP0	-	-	168-171	192_QUEST_clinical_caseMIR	SENT2	-	-
+10	riesgos	riesgo	NCMP000	-	-	172-179	192_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	180-182	192_QUEST_clinical_caseMIR	SENT2	-	-
+12	transmisión	transmisión	NCFS000	C1521797	calificador	183-194	192_QUEST_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	195-197	192_QUEST_clinical_caseMIR	SENT2	-	-
+14	la	el	DA0FS0	-	-	198-200	192_QUEST_clinical_caseMIR	SENT2	-	-
+15	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	201-211	192_QUEST_clinical_caseMIR	SENT2	-	-
+16	a	a	SPS00	-	-	212-213	192_QUEST_clinical_caseMIR	SENT2	-	-
+17	su	su	DP3CS0	-	-	214-216	192_QUEST_clinical_caseMIR	SENT2	-	-
+18	descendencia	descendencia	NCFS000	-	-	217-229	192_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	229-230	192_QUEST_clinical_caseMIR	SENT2	-	-
+

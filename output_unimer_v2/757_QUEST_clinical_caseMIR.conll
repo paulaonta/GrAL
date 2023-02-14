@@ -1,0 +1,117 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	757_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	757_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	757_QUEST_clinical_caseMIR	SENT1	-	-
+4	45	45		-	-	16-18	757_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	757_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	24-27	757_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	28-40	757_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	41-43	757_QUEST_clinical_caseMIR	SENT1	-	-
+9	reflujo	reflujo	NCMS000	C0017168_1	hallazgo_1	44-51	757_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	gastroesofágico	gastroesofágico		C0017168_2	hallazgo_2	52-67	757_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	presenta	presentar	VMIP3S0	-	-	68-76	757_QUEST_clinical_caseMIR	SENT1	-	-
+12	desde	desde	SPS00	-	-	77-82	757_QUEST_clinical_caseMIR	SENT1	-	-
+13	hace	hacer	VMIP3S0	-	-	83-87	757_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	88-90	757_QUEST_clinical_caseMIR	SENT1	-	-
+15	año	año	NCMS000	C0439234	calificador	91-94	757_QUEST_clinical_caseMIR	SENT1	-	-
+16	episodios	episodio	NCMP000	C0332189	atributo	95-104	757_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	105-107	757_QUEST_clinical_caseMIR	SENT1	-	-
+18	palidez	palidez	NCFS000	C0030232#C1275397	hallazgo	108-115	757_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	116-118	757_QUEST_clinical_caseMIR	SENT1	-	-
+20	algunos	alguno	DI0MP0	C0205392	calificador	119-126	757_QUEST_clinical_caseMIR	SENT1	-	-
+21	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	127-132	757_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	de	de	SPS00	C0332285	atributo	133-135	757_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	las	el	DA0FP0	-	-	136-139	757_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	140-145	757_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	con	con	SPS00	C0332287	atributo	146-149	757_QUEST_clinical_caseMIR	SENT1	-	-
+26	la	el	DA0FS0	-	-	150-152	757_QUEST_clinical_caseMIR	SENT1	-	-
+27	exposición	exposición	NCFS000	C0231275_1	hallazgo_1	153-163	757_QUEST_clinical_caseMIR	SENT1	-	-
+28	al	al	SP+DA	C0231275_2	hallazgo_2	164-166	757_QUEST_clinical_caseMIR	SENT1	-	-
+29	frío	frío	NCMS000	C0231275_3	hallazgo_3	167-171	757_QUEST_clinical_caseMIR	SENT1	-	-
+30	.	.	Fp	-	-	171-172	757_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Recientemente	recientemente	RG	C0332185	calificador	173-186	757_QUEST_clinical_caseMIR	SENT2	-	-
+2	se	se	P00CN000	-	-	187-189	757_QUEST_clinical_caseMIR	SENT2	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	190-192	757_QUEST_clinical_caseMIR	SENT2	-	-
+4	había	haber	VAII3S0	-	-	193-198	757_QUEST_clinical_caseMIR	SENT2	-	-
+5	prescrito	prescribir	VMP00SM	-	-	199-208	757_QUEST_clinical_caseMIR	SENT2	-	-
+6	prednisona	prednisona	NCFS000	C0032952	sustancia	209-219	757_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	a	a	SPS00	-	-	220-221	757_QUEST_clinical_caseMIR	SENT2	-	-
+8	dosis	dosis	NCFN000	-	-	222-227	757_QUEST_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0332285	atributo	228-230	757_QUEST_clinical_caseMIR	SENT2	-	-
+10	20	20	Z	-	-	231-233	757_QUEST_clinical_caseMIR	SENT2	-	-
+11	mg	mg	NCMN000	-	-	234-236	757_QUEST_clinical_caseMIR	SENT2	-	-
+12	/	/	Fh	-	-	236-237	757_QUEST_clinical_caseMIR	SENT2	-	-
+13	día	día	NCMS000	C0439228#C0332169	calificador	237-240	757_QUEST_clinical_caseMIR	SENT2	-	-
+14	por	por	SPS00	C0678226	atributo	241-244	757_QUEST_clinical_caseMIR	SENT2	-	-
+15	dolor	dolor	NCMS000	C0003862_1	hallazgo_1	245-250	757_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	articular	articular	VMN0000	C0003862_2	hallazgo_2	251-260	757_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	e	y	CC	C1706368	calificador	261-262	757_QUEST_clinical_caseMIR	SENT2	-	-
+18	induración	induración	NCFS000	C0241075_1	trastorno_1	263-273	757_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	cutánea	cutáneo	AQ0FS0	C0241075_2	trastorno_2	274-281	757_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	282-284	757_QUEST_clinical_caseMIR	SENT2	-	-
+21	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	285-290	757_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+22	y	y	CC	C1706368	calificador	291-292	757_QUEST_clinical_caseMIR	SENT2	-	-
+23	brazos	brazo	NCMP000	C1269612#C1140618#C0446516	estructura_corporal	293-299	757_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+24	.	.	Fp	-	-	299-300	757_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	301-309	757_QUEST_clinical_caseMIR	SENT3	-	-
+2	desde	desde	SPS00	-	-	310-315	757_QUEST_clinical_caseMIR	SENT3	-	-
+3	hace	hacer	VMIP3S0	-	-	316-320	757_QUEST_clinical_caseMIR	SENT3	-	-
+4	48	48	Z	C0439586_1	calificador_1	321-323	757_QUEST_clinical_caseMIR	SENT3	-	-
+5	horas	hora	NCFP000	C0439586_2	calificador_2	324-329	757_QUEST_clinical_caseMIR	SENT3	-	-
+6	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	330-338	757_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	339-346	757_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+8	y	y	CC	C1706368	calificador	347-348	757_QUEST_clinical_caseMIR	SENT3	-	-
+9	cefalea	cefalea	NCFS000	C0018681	hallazgo	349-356	757_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	intensa	intenso	AQ0FS0	C0205178	calificador	357-364	757_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+11	,	,	Fc	-	-	364-365	757_QUEST_clinical_caseMIR	SENT3	-	-
+12	por	por	SPS00	C0678226	atributo	366-369	757_QUEST_clinical_caseMIR	SENT3	-	-
+13	lo	el	DA0NS0	-	-	370-372	757_QUEST_clinical_caseMIR	SENT3	-	-
+14	que	que	PR0CN000	-	-	373-376	757_QUEST_clinical_caseMIR	SENT3	-	-
+15	acude	acudir	VMIP3S0	-	-	377-382	757_QUEST_clinical_caseMIR	SENT3	-	-
+16	a	a	SPS00	-	-	383-384	757_QUEST_clinical_caseMIR	SENT3	-	-
+17	urgencias	urgencia	NCFP000	C0439609	calificador	385-394	757_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	394-395	757_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	396-398	757_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	399-401	757_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	402-413	757_QUEST_clinical_caseMIR	SENT4	-	-
+4	destaca	destacar	VMIP3S0	-	-	414-421	757_QUEST_clinical_caseMIR	SENT4	-	-
+5	únicamente	únicamente	RG	-	-	422-432	757_QUEST_clinical_caseMIR	SENT4	-	-
+6	una	una		C0205447_1	calificador_1	433-436	757_QUEST_clinical_caseMIR	SENT4	-	-
+7	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	437-448	757_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	rítmica	rítmico	AQ0FS0	C0332311	calificador	449-456	757_QUEST_clinical_caseMIR	SENT4	-	-
+9	a	a	SPS00	-	-	457-458	757_QUEST_clinical_caseMIR	SENT4	-	-
+10	100	100		-	-	459-462	757_QUEST_clinical_caseMIR	SENT4	-	-
+11	lpm	lpm	NC00YL0	-	-	463-466	757_QUEST_clinical_caseMIR	SENT4	-	-
+12	,	,	Fc	-	-	466-467	757_QUEST_clinical_caseMIR	SENT4	-	-
+13	no	no	RN	C1298908	calificador	468-470	757_QUEST_clinical_caseMIR	SENT4	-	-
+14	se	se	P00CN000	-	-	471-473	757_QUEST_clinical_caseMIR	SENT4	-	-
+15	aprecia	apreciar	VMIP3S0	-	-	474-481	757_QUEST_clinical_caseMIR	SENT4	-	-
+16	focalidad	focalidad	NCFS000	-	-	482-491	757_QUEST_clinical_caseMIR	SENT4	-	Negacion
+17	neurológica	neurológico	AQ0FS0	C0205494	calificador	492-503	757_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	503-504	757_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	505-507	757_QUEST_clinical_caseMIR	SENT5	-	-
+2	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	508-515	757_QUEST_clinical_caseMIR	SENT5	-	-
+3	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	516-524	757_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	525-527	757_QUEST_clinical_caseMIR	SENT5	-	-
+5	de	de	SPS00	C0332285	atributo	528-530	757_QUEST_clinical_caseMIR	SENT5	-	-
+6	200/110	200/110	Z	-	-	531-538	757_QUEST_clinical_caseMIR	SENT5	-	-
+7	mmHg	mmHg	NCMP000	-	-	539-543	757_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	543-544	757_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	545-547	757_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	548-550	757_QUEST_clinical_caseMIR	SENT6	-	-
+3	analítica	analítica	NCFS000	-	-	551-560	757_QUEST_clinical_caseMIR	SENT6	-	-
+4	destaca	destacar	VMIP3S0	-	-	561-568	757_QUEST_clinical_caseMIR	SENT6	-	-
+5	únicamente	únicamente	RG	-	-	569-579	757_QUEST_clinical_caseMIR	SENT6	-	-
+6	una	una		C0205447_1	calificador_1	580-583	757_QUEST_clinical_caseMIR	SENT6	-	-
+7	creatinina	creatinina	NC00SC0	C0010294	sustancia	584-594	757_QUEST_clinical_caseMIR	SENT6	-	-
+8	de	de	SPS00	C0332285	atributo	595-597	757_QUEST_clinical_caseMIR	SENT6	-	-
+9	2,5	2.5	Z	-	-	598-601	757_QUEST_clinical_caseMIR	SENT6	-	-
+10	mg	mg	NCMN000	-	-	602-604	757_QUEST_clinical_caseMIR	SENT6	-	-
+11	/	/	Fh	-	-	604-605	757_QUEST_clinical_caseMIR	SENT6	-	-
+12	dl	decilitro	NCMN000	C0439241	calificador	605-607	757_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	607-608	757_QUEST_clinical_caseMIR	SENT6	-	-
+

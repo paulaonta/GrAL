@@ -1,0 +1,38 @@
+1	Colocación	colocación	NCFS000	C1533810	calificador	0-10	19_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	19_ANS_clinical_caseMIR	SENT1	-	-
+3	sonda	sondar	VMM02S0	C0085678_1	objeto_físico_1	14-19	19_ANS_clinical_caseMIR	SENT1	-	-
+4	nasogástrica	nasogástrica		C0085678_2	objeto_físico_2	20-32	19_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	y	y	CC	C1706368	calificador	33-34	19_ANS_clinical_caseMIR	SENT1	-	-
+6	determinación	determinación	NCFS000	C0242485	procedimiento	35-48	19_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	49-51	19_ANS_clinical_caseMIR	SENT1	-	-
+8	hematocrito	hematocrito	NCMS000	-	-	52-63	19_ANS_clinical_caseMIR	SENT1	-	-
+9	.	.	Fp	-	-	63-64	19_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	0-18	19_ANS_clinical_caseMIR	SENT2	-	-
+2	y	y	CC	C1706368	calificador	19-20	19_ANS_clinical_caseMIR	SENT2	-	-
+3	determinación	determinación	NCFS000	C0242485	procedimiento	21-34	19_ANS_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	35-37	19_ANS_clinical_caseMIR	SENT2	-	-
+5	Dímeros	dímero	NCMP000	-	-	38-45	19_ANS_clinical_caseMIR	SENT2	-	-
+6	-	-	Fg	-	-	45-46	19_ANS_clinical_caseMIR	SENT2	-	-
+7	D	d	NCFS000	-	-	47-48	19_ANS_clinical_caseMIR	SENT2	-	-
+8	,	,	Fc	-	-	48-49	19_ANS_clinical_caseMIR	SENT2	-	-
+9	troponina	troponina	NC00SC0	C0041199	sustancia	50-59	19_ANS_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	60-61	19_ANS_clinical_caseMIR	SENT2	-	-
+11	BNP	b-type_natriuretic_peptide_(péptido_natriurético_tipo_b)	NC00YL0	-	-	62-65	19_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	65-66	19_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Gammagrafía	gammagrafía	NCFS000	C2368359	calificador	0-11	19_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	19_ANS_clinical_caseMIR	SENT3	-	-
+3	ventilación	ventilación	NCFS000	C2945579	función	15-26	19_ANS_clinical_caseMIR	SENT3	-	-
+4	/	/	Fh	-	-	26-27	19_ANS_clinical_caseMIR	SENT3	-	-
+5	perfusión	perfusión	NCFS000	C0031001	procedimiento	27-36	19_ANS_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	36-37	19_ANS_clinical_caseMIR	SENT3	-	-
+
+1	TAC	tac	NC00YL0	C0040405	procedimiento	0-3	19_ANS_clinical_caseMIR	SENT4	-	-
+2	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	4-11	19_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	11-12	19_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Angio-TC	angio-tc	NC00000	-	-	0-8	19_ANS_clinical_caseMIR	SENT5	-	-
+2	torácico	torácico	AQ0MS0	C0817096	calificador	9-17	19_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	17-18	19_ANS_clinical_caseMIR	SENT5	-	-
+

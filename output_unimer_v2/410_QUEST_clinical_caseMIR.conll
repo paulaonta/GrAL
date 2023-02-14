@@ -1,0 +1,24 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	410_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	410_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	410_QUEST_clinical_caseMIR	SENT1	-	-
+4	22	22		-	-	16-18	410_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	410_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	24-32	410_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	33-36	410_QUEST_clinical_caseMIR	SENT1	-	-
+8	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	37-48	410_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	de	de	SPS00	C0332285	atributo	49-51	410_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	agudeza	agudeza	NCFS000	C0042812_1	entidad_observable_1	52-59	410_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+11	visual	visual	NC00SC0	C0042812_2	entidad_observable_2	60-66	410_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+12	dolorosa	doloroso	AQ0FS0	-	-	67-75	410_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	76-78	410_QUEST_clinical_caseMIR	SENT1	-	-
+14	ojo	ojo	NCMS000	C1305218#C0229090_1	estructura_corporal_1	79-82	410_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	83-92	410_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	.	.	Fp	-	-	92-93	410_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	94-96	410_QUEST_clinical_caseMIR	SENT2	-	-
+2	diagnostica	diagnosticar	VMIP3S0	-	-	97-108	410_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	109-111	410_QUEST_clinical_caseMIR	SENT2	-	-
+4	neuritis	neuritis	NCFN000	C0029134_1	trastorno_1	112-120	410_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	óptica	óptico	AQ0FS0	C0029134_2	trastorno_2	121-127	410_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+6	.	.	Fp	-	-	127-128	410_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,38 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	118_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	118_QUEST_clinical_caseMIR	SENT1	-	-
+3	10	10		-	-	8-10	118_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	11-15	118_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	16-19	118_QUEST_clinical_caseMIR	SENT1	-	-
+6	episodios	episodio	NCMP000	C0332189	atributo	20-29	118_QUEST_clinical_caseMIR	SENT1	-	-
+7	breves	breve	AQ0CP0	C1879313#C1806781#C1282927	calificador	30-36	118_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	37-39	118_QUEST_clinical_caseMIR	SENT1	-	-
+9	distracciones	distracción	NCFP000	C0424537#C1369038	hallazgo#procedimiento	40-53	118_QUEST_clinical_caseMIR	SENT1	-	-
+10	(	(	Fpa	-	-	54-55	118_QUEST_clinical_caseMIR	SENT1	-	-
+11	<	<	Fz	-	-	55-56	118_QUEST_clinical_caseMIR	SENT1	-	-
+12	1	1	Z	-	-	57-58	118_QUEST_clinical_caseMIR	SENT1	-	-
+13	minuto	min	NCMS000	-	-	59-65	118_QUEST_clinical_caseMIR	SENT1	-	-
+14	)	)	Fpt	-	-	65-66	118_QUEST_clinical_caseMIR	SENT1	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	118_QUEST_clinical_caseMIR	SENT1	-	-
+16	los	el	DA0MP0	-	-	70-73	118_QUEST_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	74-77	118_QUEST_clinical_caseMIR	SENT1	-	-
+18	no	no	RN	C1298908	calificador	78-80	118_QUEST_clinical_caseMIR	SENT1	-	-
+19	responde	responder	VMIP3S0	-	-	81-89	118_QUEST_clinical_caseMIR	SENT1	-	-
+20	a	a	SPS00	-	-	90-91	118_QUEST_clinical_caseMIR	SENT1	-	-
+21	llamadas	llamada	NCFP000	-	-	92-100	118_QUEST_clinical_caseMIR	SENT1	-	-
+22	y	y	CC	C1706368	calificador	101-102	118_QUEST_clinical_caseMIR	SENT1	-	-
+23	parpadea	parpadear	VMIP3S0	-	-	103-111	118_QUEST_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	111-112	118_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Un	Un		C0205447_1	calificador_1	113-115	118_QUEST_clinical_caseMIR	SENT2	-	-
+2	EEG	electroencefalograma	NC00YL0	C0013819	procedimiento	116-119	118_QUEST_clinical_caseMIR	SENT2	-	-
+3	muestra	mostrar	VMIP3S0	-	-	120-127	118_QUEST_clinical_caseMIR	SENT2	-	-
+4	descargas	descarga	NCFP000	-	-	128-137	118_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	138-140	118_QUEST_clinical_caseMIR	SENT2	-	-
+6	punta-onda	punta-onda	NCFS000	-	-	141-151	118_QUEST_clinical_caseMIR	SENT2	-	-
+7	a	a	SPS00	-	-	152-153	118_QUEST_clinical_caseMIR	SENT2	-	-
+8	3	3		-	-	154-155	118_QUEST_clinical_caseMIR	SENT2	-	-
+9	ciclos	ciclo	NCMP000	-	-	156-162	118_QUEST_clinical_caseMIR	SENT2	-	-
+10	por	por	SPS00	C0565930_1	calificador_1	163-166	118_QUEST_clinical_caseMIR	SENT2	-	-
+11	segundo	segundo	NCMS000	C0565930_2	calificador_2	167-174	118_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	174-175	118_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,53 @@
+1	Señale	señalar	VMM03S0	-	-	470-476	483_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	477-479	483_ANS_clinical_caseMIR	SENT1	-	-
+3	afirmación	afirmación	NCFS000	-	-	480-490	483_ANS_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	491-499	483_ANS_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	499-500	483_ANS_clinical_caseMIR	SENT1	-	-
+6	Hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	0-14	483_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	15-24	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	que	que	PR0CN000	-	-	25-28	483_ANS_clinical_caseMIR	SENT1	-	-
+9	incluya	incluir	VMSP3S0	-	-	29-36	483_ANS_clinical_caseMIR	SENT1	-	-
+10	inhibidores	inhibidor	NCMP000	-	-	37-48	483_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	de	de	SPS00	C0332285	atributo	49-51	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+12	aromatasa	aromatasa	NCFS000	-	-	52-61	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+13	.	.	Fp	-	-	61-62	483_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	483_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	14-23	483_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+3	,	,	Fc	-	-	23-24	483_ANS_clinical_caseMIR	SENT2	-	-
+4	preferentemente	preferentemente	RG	-	-	25-40	483_ANS_clinical_caseMIR	SENT2	-	-
+5	con	con	SPS00	C0332287	atributo	41-44	483_ANS_clinical_caseMIR	SENT2	-	-
+6	antraciclinas	antraciclinas	NCFP000	-	-	45-58	483_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	59-60	483_ANS_clinical_caseMIR	SENT2	-	-
+8	taxanos	taxanos	NC00AO0	-	-	61-68	483_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	,	,	Fc	-	-	68-69	483_ANS_clinical_caseMIR	SENT2	-	-
+10	seguida	seguir	VMP00SF	-	-	70-77	483_ANS_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	78-80	483_ANS_clinical_caseMIR	SENT2	-	-
+12	hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	81-95	483_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	.	.	Fp	-	-	95-96	483_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	483_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	14-23	483_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	483_ANS_clinical_caseMIR	SENT3	-	-
+4	asociación	asociación	NCFS000	C0004083	atributo	27-37	483_ANS_clinical_caseMIR	SENT3	-	-
+5	con	con	SPS00	C0332287	atributo	38-41	483_ANS_clinical_caseMIR	SENT3	-	-
+6	el	el	DA0MS0	-	-	42-44	483_ANS_clinical_caseMIR	SENT3	-	-
+7	anticuerpo	anticuerpo	NCMS000	C0003250_1	sustancia_1	45-55	483_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	monoclonal	monoclonal	AQ0CS0	C0003250_2	sustancia_2	56-66	483_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+9	trastuzumab	trastuzumab	NC00SC0	C0728747	sustancia#producto	67-78	483_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+10	,	,	Fc	-	-	78-79	483_ANS_clinical_caseMIR	SENT3	-	-
+11	seguida	seguir	VMP00SF	-	-	80-87	483_ANS_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	88-90	483_ANS_clinical_caseMIR	SENT3	-	-
+13	hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	91-105	483_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	105-106	483_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	483_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	14-23	483_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+3	,	,	Fc	-	-	23-24	483_ANS_clinical_caseMIR	SENT4	-	-
+4	preferiblemente	preferiblemente	RG	-	-	25-40	483_ANS_clinical_caseMIR	SENT4	-	-
+5	con	con	SPS00	C0332287	atributo	41-44	483_ANS_clinical_caseMIR	SENT4	-	-
+6	antracicli_x0002_nas	antracicli_x0002_nas		-	-	45-65	483_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	66-67	483_ANS_clinical_caseMIR	SENT4	-	-
+8	taxanos	taxanos	NC00AO0	-	-	68-75	483_ANS_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	75-76	483_ANS_clinical_caseMIR	SENT4	-	-
+

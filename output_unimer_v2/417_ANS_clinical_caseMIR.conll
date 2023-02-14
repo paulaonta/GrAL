@@ -1,0 +1,66 @@
+1	Usted	usted	PP2CS00P	-	-	645-650	417_ANS_clinical_caseMIR	SENT1	-	-
+2	pensaría	pensar	VMIC3S0	-	-	651-659	417_ANS_clinical_caseMIR	SENT1	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	660-662	417_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	663-666	417_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	667-669	417_ANS_clinical_caseMIR	SENT1	-	-
+6	las	el	DA0FP0	-	-	670-673	417_ANS_clinical_caseMIR	SENT1	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	674-684	417_ANS_clinical_caseMIR	SENT1	-	-
+8	inmunodeficiencias	inmunodeficiencia	NCFP000	C0021051	trastorno	685-703	417_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	primarias	primario	AQ0FP0	C0205225	calificador	704-713	417_ANS_clinical_caseMIR	SENT1	-	-
+10	:	:	Fd	-	-	713-714	417_ANS_clinical_caseMIR	SENT1	-	-
+11	Hacer	hacer	VMN0000	-	-	0-5	417_ANS_clinical_caseMIR	SENT1	-	-
+12	colposcopia	colposcopia	NC00SC0	C1271437#C0009417	procedimiento	6-17	417_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	17-18	417_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Si	si	CS	-	-	19-21	417_ANS_clinical_caseMIR	SENT2	-	-
+2	es	ser	VSIP3S0	-	-	22-24	417_ANS_clinical_caseMIR	SENT2	-	-
+3	normal	normal	AQ0CS0	C0205307	calificador	25-31	417_ANS_clinical_caseMIR	SENT2	-	-
+4	,	,	Fc	-	-	31-32	417_ANS_clinical_caseMIR	SENT2	-	-
+5	programar	programar	VMN0000	-	-	33-42	417_ANS_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	43-46	417_ANS_clinical_caseMIR	SENT2	-	-
+7	conización	conización	NCFS000	-	-	47-57	417_ANS_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	57-58	417_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Confirmar	confirmar	VMN0000	-	-	0-9	417_ANS_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	10-12	417_ANS_clinical_caseMIR	SENT3	-	-
+3	citología	citología	NCFS000	-	-	13-22	417_ANS_clinical_caseMIR	SENT3	-	-
+4	con	con	SPS00	C0332287	atributo	23-26	417_ANS_clinical_caseMIR	SENT3	-	-
+5	una	una		C0205447_1	calificador_1	27-30	417_ANS_clinical_caseMIR	SENT3	-	-
+6	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	31-38	417_ANS_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	39-41	417_ANS_clinical_caseMIR	SENT3	-	-
+8	cérvix	cérvix	NCMN000	-	-	42-48	417_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	bajo	bajo	SPS00	C0205251	calificador	49-53	417_ANS_clinical_caseMIR	SENT3	-	-
+10	control	control	NCMS000	C2587213	atributo	54-61	417_ANS_clinical_caseMIR	SENT3	-	-
+11	colposcópico	colposcópico	NC00SC0	C0562214	calificador	62-74	417_ANS_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	74-75	417_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Repetir	repetir	VMN0000	C0205341	calificador	0-7	417_ANS_clinical_caseMIR	SENT4	-	-
+2	citología	citología	NCFS000	-	-	8-17	417_ANS_clinical_caseMIR	SENT4	-	-
+3	para	para	SPS00	C0521125	calificador	18-22	417_ANS_clinical_caseMIR	SENT4	-	-
+4	confirmar	confirmar	VMN0000	-	-	23-32	417_ANS_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	33-44	417_ANS_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	44-45	417_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Hacer	hacer	VMN0000	-	-	0-5	417_ANS_clinical_caseMIR	SENT5	-	-
+2	tipaje	tipaje	NCMS000	-	-	6-12	417_ANS_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	417_ANS_clinical_caseMIR	SENT5	-	-
+4	virus	virus	NCMN000	C0042776	organismo	16-21	417_ANS_clinical_caseMIR	SENT5	-	-
+5	HPV	hpv	NC00SC0	C0021344	organismo	22-25	417_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+6	.	.	Fp	-	-	25-26	417_ANS_clinical_caseMIR	SENT5	-	-
+
+1	Realizar	realizar	VMN0000	-	-	27-35	417_ANS_clinical_caseMIR	SENT6	-	-
+2	conización	conización	NCFS000	-	-	36-46	417_ANS_clinical_caseMIR	SENT6	-	-
+3	si	si	CS	-	-	47-49	417_ANS_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	50-52	417_ANS_clinical_caseMIR	SENT6	-	-
+5	test	test	NCMS000	-	-	53-57	417_ANS_clinical_caseMIR	SENT6	-	-
+6	de	de	SPS00	C0332285	atributo	58-60	417_ANS_clinical_caseMIR	SENT6	-	-
+7	HPV	hpv	NC00SC0	C0021344	organismo	61-64	417_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+8	es	ser	VSIP3S0	-	-	65-67	417_ANS_clinical_caseMIR	SENT6	-	-
+9	positivo	positivo	AQ0MS0	C1446409	calificador	68-76	417_ANS_clinical_caseMIR	SENT6	-	-
+10	a	a	SPS00	-	-	77-78	417_ANS_clinical_caseMIR	SENT6	-	-
+11	virus	virus	NCMN000	C0042776	organismo	79-84	417_ANS_clinical_caseMIR	SENT6	-	-
+12	de	de	SPS00	C0332285	atributo	85-87	417_ANS_clinical_caseMIR	SENT6	-	-
+13	alto	alto	AQ0MS0	C0205250	calificador	88-92	417_ANS_clinical_caseMIR	SENT6	-	-
+14	riesgo	riesgo	NCMS000	-	-	93-99	417_ANS_clinical_caseMIR	SENT6	-	-
+15	.	.	Fp	-	-	99-100	417_ANS_clinical_caseMIR	SENT6	-	-
+

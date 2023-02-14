@@ -1,0 +1,35 @@
+1	Señale	señalar	VMM03S0	-	-	471-477	168_QUEST_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	478-480	168_QUEST_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	481-490	168_QUEST_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	491-499	168_QUEST_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	499-500	168_QUEST_clinical_caseMIR	SENT1	-	-
+6	Una	Una		C0205447_1	calificador_1	0-3	168_QUEST_clinical_caseMIR	SENT1	-	-
+7	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	168_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	10-12	168_QUEST_clinical_caseMIR	SENT1	-	-
+9	65	65		-	-	13-15	168_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	16-20	168_QUEST_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	20-21	168_QUEST_clinical_caseMIR	SENT1	-	-
+12	previamente	previamente	RG	-	-	22-33	168_QUEST_clinical_caseMIR	SENT1	-	-
+13	sana	sano	AQ0FS0	-	-	34-38	168_QUEST_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	38-39	168_QUEST_clinical_caseMIR	SENT1	-	-
+15	consulta	consultar	VMM02S0	C1704447_1	calificador_1	40-48	168_QUEST_clinical_caseMIR	SENT1	-	-
+16	por	por	SPS00	C1704447_2	calificador_2	49-52	168_QUEST_clinical_caseMIR	SENT1	-	-
+17	metrorragia	metrorragia	NCFS000	C0025874	hallazgo	53-64	168_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	escasa	escaso	AQ0FS0	C0443295#C0205169	calificador	65-71	168_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	72-74	168_QUEST_clinical_caseMIR	SENT1	-	-
+20	tres	tres		-	-	75-79	168_QUEST_clinical_caseMIR	SENT1	-	-
+21	semanas	semana	NCFP000	C0439230	calificador	80-87	168_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	88-90	168_QUEST_clinical_caseMIR	SENT1	-	-
+23	evolución	evolución	NCFS000	-	-	91-100	168_QUEST_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	100-101	168_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	102-104	168_QUEST_clinical_caseMIR	SENT2	-	-
+2	examen	examen	NCMS000	C0200044_1	procedimiento_1	105-111	168_QUEST_clinical_caseMIR	SENT2	-	-
+3	ginecológico	ginecológico	NC00SC0	C0200044_2	procedimiento_2	112-124	168_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	y	y	CC	C1706368	calificador	125-126	168_QUEST_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	127-129	168_QUEST_clinical_caseMIR	SENT2	-	-
+6	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	130-139	168_QUEST_clinical_caseMIR	SENT2	-	-
+7	son	ser	VSIP3P0	-	-	140-143	168_QUEST_clinical_caseMIR	SENT2	-	-
+8	normales	normal	AQ0CP0	C0205307	calificador	144-152	168_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	152-153	168_QUEST_clinical_caseMIR	SENT2	-	-
+

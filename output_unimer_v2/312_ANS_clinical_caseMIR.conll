@@ -1,0 +1,50 @@
+1	¿	¿	Fia	-	-	179-180	312_ANS_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	180-183	312_ANS_clinical_caseMIR	SENT1	-	-
+3	nervios	nervio	NCMP000	C1280541#C0027740	estructura_corporal	184-191	312_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	espinales	espinal	AQ0CP0	-	-	192-201	312_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	estarán	estar	VAIF3P0	-	-	202-209	312_ANS_clinical_caseMIR	SENT1	-	-
+6	lesionados	lesionar	VMP00PM	-	-	210-220	312_ANS_clinical_caseMIR	SENT1	-	-
+7	?	?	Fit	-	-	220-221	312_ANS_clinical_caseMIR	SENT1	-	-
+8	:	:	Fd	-	-	221-222	312_ANS_clinical_caseMIR	SENT1	-	-
+9	Insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	0-13	312_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	suprarrenal	suprarrenal	NC00SC0	C0449207	estructura_corporal	14-25	312_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	primaria	primario	AQ0FS0	C0205225	calificador	26-34	312_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	.	.	Fp	-	-	34-35	312_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Insuficiencia	insuficiencia	NCFS000	C0405580_1	trastorno_1	0-13	312_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	suprarrenal	suprarrenal	NC00SC0	C0405580_2	trastorno_2	14-25	312_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	secundaria	secundario	AQ0FS0	C0175668	calificador	26-36	312_ANS_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	36-37	312_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Insuficiencia	insuficiencia	NCFS000	C0405580_1	trastorno_1	0-13	312_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	suprarrenal	suprarrenal	NC00SC0	C0405580_2	trastorno_2	14-25	312_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	terciaria	terciario	AQ0FS0	C0205372	calificador	26-35	312_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+4	por	por	SPS00	C0678226	atributo	36-39	312_ANS_clinical_caseMIR	SENT3	-	-
+5	lesión	lesión	NCFS000	C0442857_1	trastorno_1	40-46	312_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	hipotalámica	hipotalámico	AQ0FS0	C0442857_2	trastorno_2	47-59	312_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+7	.	.	Fp	-	-	59-60	312_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Tumor	tumor	NCMS000	C0027651	anomalía_morfológica	0-5	312_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	hipofisario	hipofisario	AQ0MS0	-	-	6-17	312_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	productor	productor	NCMS000	-	-	18-27	312_ANS_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	28-30	312_ANS_clinical_caseMIR	SENT4	-	-
+5	ACTH	adrenocorticotrophic_hormone_(hormona_adrenocorticotropa)	NC00YL0	-	-	31-35	312_ANS_clinical_caseMIR	SENT4	-	-
+6	(	(	Fpa	-	-	36-37	312_ANS_clinical_caseMIR	SENT4	-	-
+7	corticotropinoma	corticotropinoma	AQ0FS00	-	-	37-53	312_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	)	)	Fpt	-	-	53-54	312_ANS_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	54-55	312_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	0-2	312_ANS_clinical_caseMIR	SENT5	-	-
+2	deben	deber	VMIP3P0	-	-	3-8	312_ANS_clinical_caseMIR	SENT5	-	-
+3	practicar	practicar	VMN0000	-	-	9-18	312_ANS_clinical_caseMIR	SENT5	-	-
+4	más	más	RG	C0205172	calificador	19-22	312_ANS_clinical_caseMIR	SENT5	-	-
+5	pruebas	prueba	NCFP000	-	-	23-30	312_ANS_clinical_caseMIR	SENT5	-	-
+6	dado	dar	VMP00SM	C1947971	calificador	31-35	312_ANS_clinical_caseMIR	SENT5	-	-
+7	que	que	PR0CN000	-	-	36-39	312_ANS_clinical_caseMIR	SENT5	-	-
+8	el	el	DA0MS0	-	-	40-42	312_ANS_clinical_caseMIR	SENT5	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	43-54	312_ANS_clinical_caseMIR	SENT5	-	-
+10	no	no	RN	C1298908	calificador	55-57	312_ANS_clinical_caseMIR	SENT5	-	-
+11	es	ser	VSIP3S0	-	-	58-60	312_ANS_clinical_caseMIR	SENT5	-	-
+12	concluyente	concluyente	AQ0CS0	-	-	61-72	312_ANS_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	72-73	312_ANS_clinical_caseMIR	SENT5	-	-
+

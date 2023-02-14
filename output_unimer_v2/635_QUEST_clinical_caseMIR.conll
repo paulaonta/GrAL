@@ -1,0 +1,70 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	635_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	635_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	635_QUEST_clinical_caseMIR	SENT1	-	-
+4	55	55		-	-	13-15	635_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	635_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	635_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedente	antecedente	NCMS000	C0332119_1	situación_1	25-36	635_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	37-39	635_QUEST_clinical_caseMIR	SENT1	-	-
+9	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	40-50	635_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	óseas	óseo	AQ0FP0	C0443157	calificador	51-56	635_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	de	de	SPS00	C0332285	atributo	57-59	635_QUEST_clinical_caseMIR	SENT1	-	-
+12	origen	origen	NCMS000	C0439659	atributo	60-66	635_QUEST_clinical_caseMIR	SENT1	-	-
+13	renal	renal	AQ0CS0	-	-	67-72	635_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	acude	acudir	VMIP3S0	-	-	73-78	635_QUEST_clinical_caseMIR	SENT1	-	-
+15	a	a	SPS00	-	-	79-80	635_QUEST_clinical_caseMIR	SENT1	-	-
+16	urgencias	urgencia	NCFP000	C0439609	calificador	81-90	635_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	91-94	635_QUEST_clinical_caseMIR	SENT1	-	-
+18	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	95-100	635_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	101-108	635_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	109-111	635_QUEST_clinical_caseMIR	SENT1	-	-
+21	cadera	cadera	NCFS000	C1268233#C0524470_1	estructura_corporal_1	112-118	635_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	derecha	derecho	AQ0FS0	C1268233#C0524470_2	estructura_corporal_2	119-126	635_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	.	.	Fp	-	-	126-127	635_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	128-130	635_QUEST_clinical_caseMIR	SENT2	-	-
+2	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	131-142	635_QUEST_clinical_caseMIR	SENT2	-	-
+3	simple	simple	NCCS000	C1306645_2	procedimiento_2	143-149	635_QUEST_clinical_caseMIR	SENT2	-	-
+4	muestra	mostrar	VMIP3S0	-	-	150-157	635_QUEST_clinical_caseMIR	SENT2	-	-
+5	una	una		C0205447_1	calificador_1	158-161	635_QUEST_clinical_caseMIR	SENT2	-	-
+6	lesión	lesión	NCFS000	C0221204_1	calificador_1	162-168	635_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	lítica	lítico	AQ0FS0	C0221204_2	calificador_2	169-175	635_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	de	de	SPS00	C0332285	atributo	176-178	635_QUEST_clinical_caseMIR	SENT2	-	-
+9	más	más	RG	C0205172	calificador	179-182	635_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	183-185	635_QUEST_clinical_caseMIR	SENT2	-	-
+11	dos	dos		-	-	186-189	635_QUEST_clinical_caseMIR	SENT2	-	-
+12	tercios	tercio	NCMP000	-	-	190-197	635_QUEST_clinical_caseMIR	SENT2	-	-
+13	del	del	SP+DA	-	-	198-201	635_QUEST_clinical_caseMIR	SENT2	-	-
+14	diámetro	diámetro	NCMS000	C1301886	calificador	202-210	635_QUEST_clinical_caseMIR	SENT2	-	-
+15	del	del	SP+DA	-	-	211-214	635_QUEST_clinical_caseMIR	SENT2	-	-
+16	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	215-220	635_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	221-223	635_QUEST_clinical_caseMIR	SENT2	-	-
+18	región	región	NCFS000	C0205147	atributo#calificador	224-230	635_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	peritrocantérica	peritrocantérica	AQ0FS00	-	-	231-247	635_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+20	.	.	Fp	-	-	247-248	635_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Teniendo	tener	VMG0000	-	-	249-257	635_QUEST_clinical_caseMIR	SENT3	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	258-260	635_QUEST_clinical_caseMIR	SENT3	-	-
+3	cuenta	cuenta	NCFS000	-	-	261-267	635_QUEST_clinical_caseMIR	SENT3	-	-
+4	que	que	CS	-	-	268-271	635_QUEST_clinical_caseMIR	SENT3	-	-
+5	su	su	DP3CS0	-	-	272-274	635_QUEST_clinical_caseMIR	SENT3	-	-
+6	esperanza	esperanza	NCFS000	-	-	275-284	635_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	285-287	635_QUEST_clinical_caseMIR	SENT3	-	-
+8	vida	vida	NCFS000	-	-	288-292	635_QUEST_clinical_caseMIR	SENT3	-	-
+9	es	ser	VSIP3S0	-	-	293-295	635_QUEST_clinical_caseMIR	SENT3	-	-
+10	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	296-301	635_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	302-304	635_QUEST_clinical_caseMIR	SENT3	-	-
+12	6	6		-	-	305-306	635_QUEST_clinical_caseMIR	SENT3	-	-
+13	semanas	semana	NCFP000	C0439230	calificador	307-314	635_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	314-315	635_QUEST_clinical_caseMIR	SENT3	-	-
+15	con	con	SPS00	C0332287	atributo	316-319	635_QUEST_clinical_caseMIR	SENT3	-	-
+16	una	una		C0205447_1	calificador_1	320-323	635_QUEST_clinical_caseMIR	SENT3	-	-
+17	calidad	calidad	NCFS000	C0332306	atributo	324-331	635_QUEST_clinical_caseMIR	SENT3	-	-
+18	aceptable	aceptable	AQ0CS0	C3539083	metadato_fundacional	332-341	635_QUEST_clinical_caseMIR	SENT3	-	-
+19	,	,	Fc	-	-	341-342	635_QUEST_clinical_caseMIR	SENT3	-	-
+20	¿	¿	Fia	-	-	343-344	635_QUEST_clinical_caseMIR	SENT3	-	-
+21	qué	qué	DT0CN0	-	-	344-347	635_QUEST_clinical_caseMIR	SENT3	-	-
+22	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	348-359	635_QUEST_clinical_caseMIR	SENT3	-	-
+23	recomendaría	recomendar	VMIC3S0	-	-	360-372	635_QUEST_clinical_caseMIR	SENT3	-	-
+24	?	?	Fit	-	-	372-373	635_QUEST_clinical_caseMIR	SENT3	-	-
+

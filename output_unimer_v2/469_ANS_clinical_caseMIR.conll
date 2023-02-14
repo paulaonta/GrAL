@@ -1,0 +1,66 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	469_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	9-12	469_ANS_clinical_caseMIR	SENT1	-	-
+3	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	13-20	469_ANS_clinical_caseMIR	SENT1	-	-
+4	hepática	hepático	AQ0FS0	-	-	21-29	469_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	para	para	SPS00	C0521125	calificador	30-34	469_ANS_clinical_caseMIR	SENT1	-	-
+6	establecer	establecer	VMN0000	-	-	35-45	469_ANS_clinical_caseMIR	SENT1	-	-
+7	el	el	DA0MS0	-	-	46-48	469_ANS_clinical_caseMIR	SENT1	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	49-60	469_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	61-63	469_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	64-66	469_ANS_clinical_caseMIR	SENT1	-	-
+11	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	67-77	469_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	hepática	hepático	AQ0FS0	-	-	78-86	469_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	86-87	469_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Tratar	tratar	VMN0000	-	-	0-6	469_ANS_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	7-8	469_ANS_clinical_caseMIR	SENT2	-	-
+3	la	el	DA0FS0	-	-	9-11	469_ANS_clinical_caseMIR	SENT2	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	12-20	469_ANS_clinical_caseMIR	SENT2	-	-
+5	con	con	SPS00	C0332287	atributo	21-24	469_ANS_clinical_caseMIR	SENT2	-	-
+6	ácido	ácido	NCMS000	C0042105_1	sustancia_1	25-30	469_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	ursodesoxicólico	ursodesoxicólico		C0042105_2	sustancia_2	31-47	469_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+8	,	,	Fc	-	-	47-48	469_ANS_clinical_caseMIR	SENT2	-	-
+9	ya	ya	RG	-	-	49-51	469_ANS_clinical_caseMIR	SENT2	-	-
+10	que	que	PR0CN000	-	-	52-55	469_ANS_clinical_caseMIR	SENT2	-	-
+11	probablemente	probablemente	RG	C0332148	calificador	56-69	469_ANS_clinical_caseMIR	SENT2	-	-
+12	se	se	P00CN000	-	-	70-72	469_ANS_clinical_caseMIR	SENT2	-	-
+13	trata	tratar	VMIP3S0	-	-	73-78	469_ANS_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	79-81	469_ANS_clinical_caseMIR	SENT2	-	-
+15	una	una		C0205447_1	calificador_1	82-85	469_ANS_clinical_caseMIR	SENT2	-	-
+16	colestasis	colestasis	NC00SC0	C0008372_1	hallazgo_1	86-96	469_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	intrahepática	intrahepática		C0008372_2	hallazgo_2	97-110	469_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	benigna	benigno	AQ0FS0	C0205183	calificador	111-118	469_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+19	del	del	SP+DA	-	-	119-122	469_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+20	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	123-131	469_ANS_clinical_caseMIR	SENT2	I-Calificador	-
+21	.	.	Fp	-	-	131-132	469_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Interrumpir	interrumpir	VMN0000	-	-	0-11	469_ANS_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	12-14	469_ANS_clinical_caseMIR	SENT3	-	-
+3	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	15-23	469_ANS_clinical_caseMIR	SENT3	-	-
+4	ya	ya	RG	-	-	24-26	469_ANS_clinical_caseMIR	SENT3	-	-
+5	que	que	PR0CN000	-	-	27-30	469_ANS_clinical_caseMIR	SENT3	-	-
+6	el	el	DA0MS0	-	-	31-33	469_ANS_clinical_caseMIR	SENT3	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	34-45	469_ANS_clinical_caseMIR	SENT3	-	-
+8	más	más	RG	C0205172	calificador	46-49	469_ANS_clinical_caseMIR	SENT3	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	50-58	469_ANS_clinical_caseMIR	SENT3	-	-
+10	es	ser	VSIP3S0	-	-	59-61	469_ANS_clinical_caseMIR	SENT3	-	-
+11	el	el	DA0MS0	-	-	62-64	469_ANS_clinical_caseMIR	SENT3	-	-
+12	hígado	hígado	NCMS000	C2711227#C0015695#C3241937#C0400966_1	trastorno_1	65-71	469_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	graso	graso	AQ0MS0	C2711227#C0015695#C3241937#C0400966_2	trastorno_2	72-77	469_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+14	agudo	agudo	AQ0MS0	C0205178	calificador	78-83	469_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+15	del	del	SP+DA	-	-	84-87	469_ANS_clinical_caseMIR	SENT3	-	-
+16	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	88-96	469_ANS_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	96-97	469_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	469_ANS_clinical_caseMIR	SENT4	-	-
+2	una	una		C0205447_1	calificador_1	9-12	469_ANS_clinical_caseMIR	SENT4	-	-
+3	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	13-23	469_ANS_clinical_caseMIR	SENT4	-	-
+4	magnética	magnético	AQ0FS0	-	-	24-33	469_ANS_clinical_caseMIR	SENT4	-	-
+5	para	para	SPS00	C0521125	calificador	34-38	469_ANS_clinical_caseMIR	SENT4	-	-
+6	descartar	descartar	VMN0000	C0332196	calificador	39-48	469_ANS_clinical_caseMIR	SENT4	-	-
+7	una	una		C0205447_1	calificador_1	49-52	469_ANS_clinical_caseMIR	SENT4	-	-
+8	colangitis	colangitis	NC00SC0	C0566602#C0008313_1	trastorno_1	53-63	469_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+9	esclerosante	esclerosante	NC00SC0	C0566602#C0008313_2	trastorno_2	64-76	469_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+10	primaria	primario	AQ0FS0	C0566602#C0008313_3	trastorno_3	77-85	469_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+11	.	.	Fp	-	-	85-86	469_ANS_clinical_caseMIR	SENT4	-	-
+

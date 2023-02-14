@@ -1,0 +1,32 @@
+1	¿	¿	Fia	-	-	311-312	64_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	312-316	64_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	317-319	64_ANS_clinical_caseMIR	SENT1	-	-
+4	su	su	DP3CS0	-	-	320-322	64_ANS_clinical_caseMIR	SENT1	-	-
+5	hipótesis	hipótesis	NCFN000	-	-	323-332	64_ANS_clinical_caseMIR	SENT1	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	333-344	64_ANS_clinical_caseMIR	SENT1	-	-
+7	?	?	Fit	-	-	344-345	64_ANS_clinical_caseMIR	SENT1	-	-
+8	:	:	Fd	-	-	345-346	64_ANS_clinical_caseMIR	SENT1	-	-
+9	Absceso	absceso	NCMS000	C0000833	trastorno#anomalía_morfológica	0-7	64_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	odontógeno	odontógeno	AQ0MS0	-	-	8-18	64_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	.	.	Fp	-	-	18-19	64_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Osteonecrosis	osteonecrosis	NC00CE0	-	-	0-13	64_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0678226	atributo	14-17	64_ANS_clinical_caseMIR	SENT2	-	-
+3	bifosfonatos	bifosfonato	NC00AO0	-	-	18-30	64_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	30-31	64_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Osteorradionecrosis	osteorradionecrosis	NC00SC0	C0029461	trastorno	0-19	64_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	19-20	64_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Raíz	raíz	NCFS000	-	-	0-4	64_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+2	dental	dental	AQ0CS0	-	-	5-11	64_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+3	incluida	incluir	VMP00SF	-	-	12-20	64_ANS_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	20-21	64_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	0-10	64_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	11-13	64_ANS_clinical_caseMIR	SENT5	-	-
+3	carcinoma	carcinoma	NCMS000	C0678222_1	trastorno_1	14-23	64_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0678222_2	trastorno_2	24-26	64_ANS_clinical_caseMIR	SENT5	-	-
+5	mama	mamar	VMM02S0	C0678222_3	trastorno_3	27-31	64_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+6	.	.	Fp	-	-	31-32	64_ANS_clinical_caseMIR	SENT5	-	-
+

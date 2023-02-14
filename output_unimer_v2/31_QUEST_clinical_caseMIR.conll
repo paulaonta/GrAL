@@ -1,0 +1,90 @@
+1	¿	¿	Fia	-	-	630-631	31_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	631-635	31_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	636-638	31_QUEST_clinical_caseMIR	SENT1	-	-
+4	las	el	DA0FP0	-	-	639-642	31_QUEST_clinical_caseMIR	SENT1	-	-
+5	siguíentes	siguíentes	NCCP000	-	-	643-653	31_QUEST_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	654-656	31_QUEST_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	657-659	31_QUEST_clinical_caseMIR	SENT1	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	660-667	31_QUEST_clinical_caseMIR	SENT1	-	-
+9	terapéutica	terapéutico	AQ0FS0	-	-	668-679	31_QUEST_clinical_caseMIR	SENT1	-	-
+10	más	más	RG	C0205172	calificador	680-683	31_QUEST_clinical_caseMIR	SENT1	-	-
+11	correcta	correcto	AQ0FS0	C0205170	calificador	684-692	31_QUEST_clinical_caseMIR	SENT1	-	-
+12	?	?	Fit	-	-	692-693	31_QUEST_clinical_caseMIR	SENT1	-	-
+13	:	:	Fd	-	-	693-694	31_QUEST_clinical_caseMIR	SENT1	-	-
+14	Un	Un		C0205447_1	calificador_1	0-2	31_QUEST_clinical_caseMIR	SENT1	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	3-11	31_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	12-14	31_QUEST_clinical_caseMIR	SENT1	-	-
+17	74	74		-	-	15-17	31_QUEST_clinical_caseMIR	SENT1	-	-
+18	años	año	NCMP000	C0439234	calificador	18-22	31_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0001779_1	entidad_observable_1	23-25	31_QUEST_clinical_caseMIR	SENT1	-	-
+20	edad	edad	NCFS000	C0001779_2	entidad_observable_2	26-30	31_QUEST_clinical_caseMIR	SENT1	-	-
+21	es	ser	VSIP3S0	-	-	31-33	31_QUEST_clinical_caseMIR	SENT1	-	-
+22	diagnosticado	diagnosticar	VMP00SM	-	-	34-47	31_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	48-50	31_QUEST_clinical_caseMIR	SENT1	-	-
+24	leucemia	leucemia	NCFS000	C0023418	anomalía_morfológica#trastorno	51-59	31_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	linfática	linfático	NCFS000	C0229889	estructura_corporal	60-69	31_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	crónica	crónico	AQ0FS0	C0205191	calificador	70-77	31_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	B	b	NCFS000	-	-	78-79	31_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	80-87	31_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	HB	hb	NC00YL0	-	-	88-90	31_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+30	de	de	SPS00	C0332285	atributo	91-93	31_QUEST_clinical_caseMIR	SENT1	-	-
+31	RAI-BINNET	rai-binnet	NCCN000	-	-	94-104	31_QUEST_clinical_caseMIR	SENT1	-	-
+32	.	.	Fp	-	-	104-105	31_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	106-110	31_QUEST_clinical_caseMIR	SENT2	-	-
+2	recibir	recibir	VMN0000	-	-	111-118	31_QUEST_clinical_caseMIR	SENT2	-	-
+3	6	6		-	-	119-120	31_QUEST_clinical_caseMIR	SENT2	-	-
+4	ciclos	ciclo	NCMP000	-	-	121-127	31_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	128-130	31_QUEST_clinical_caseMIR	SENT2	-	-
+6	fluradabina	fluradabina	NCFS000	-	-	131-142	31_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	,	,	Fc	-	-	142-143	31_QUEST_clinical_caseMIR	SENT2	-	-
+8	presenta	presentar	VMIP3S0	-	-	144-152	31_QUEST_clinical_caseMIR	SENT2	-	-
+9	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	153-160	31_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	importante	importante	AQ0CS0	-	-	161-171	31_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+11	y	y	CC	C1706368	calificador	172-173	31_QUEST_clinical_caseMIR	SENT2	-	-
+12	palidez	palidez	NCFS000	C0030232#C1275397	hallazgo	174-181	31_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	182-184	31_QUEST_clinical_caseMIR	SENT2	-	-
+14	la	el	DA0FS0	-	-	185-187	31_QUEST_clinical_caseMIR	SENT2	-	-
+15	piel	piel	NCFS000	C1278993#C0037262#C1123023	estructura_corporal	188-192	31_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	y	y	CC	C1706368	calificador	193-194	31_QUEST_clinical_caseMIR	SENT2	-	-
+17	mucosas	mucosa	NCFP000	C0026724	estructura_corporal	195-202	31_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	202-203	31_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	204-206	31_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	207-209	31_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	210-219	31_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	220-227	31_QUEST_clinical_caseMIR	SENT3	-	-
+5	:	:	Fd	-	-	227-228	31_QUEST_clinical_caseMIR	SENT3	-	-
+6	leucocitos	leucocito	NCMP000	C0023516	célula	229-239	31_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	5600/uL	5600/uL		-	-	240-247	31_QUEST_clinical_caseMIR	SENT3	-	-
+8	con	con	SPS00	C0332287	atributo	248-251	31_QUEST_clinical_caseMIR	SENT3	-	-
+9	fórmula	fórmula	NCFS000	-	-	252-259	31_QUEST_clinical_caseMIR	SENT3	-	-
+10	normal	normal	AQ0CS0	C0205307	calificador	260-266	31_QUEST_clinical_caseMIR	SENT3	-	-
+11	,	,	Fc	-	-	266-267	31_QUEST_clinical_caseMIR	SENT3	-	-
+12	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	268-279	31_QUEST_clinical_caseMIR	SENT3	-	-
+13	3	3	Z	-	-	280-281	31_QUEST_clinical_caseMIR	SENT3	-	-
+14	gr	g	NC00SC0	-	-	282-284	31_QUEST_clinical_caseMIR	SENT3	-	-
+15	/	/	Fh	-	-	284-285	31_QUEST_clinical_caseMIR	SENT3	-	-
+16	dl	decilitro	NCMN000	C0439241	calificador	285-287	31_QUEST_clinical_caseMIR	SENT3	-	-
+17	y	y	CC	C1706368	calificador	288-289	31_QUEST_clinical_caseMIR	SENT3	-	-
+18	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	290-299	31_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	250000/uL	250000/uL		-	-	300-309	31_QUEST_clinical_caseMIR	SENT3	-	-
+20	.	.	Fp	-	-	309-310	31_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Reticulocitos	reticulocito	NCMP000	C0035286	célula	311-324	31_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+2	0	0	Z	-	-	325-326	31_QUEST_clinical_caseMIR	SENT4	-	-
+3	%	%	Ft	-	-	326-327	31_QUEST_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	327-328	31_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Niveles	nivel	NCMP000	C0456079	atributo	329-336	31_QUEST_clinical_caseMIR	SENT5	-	-
+2	normales	normal	AQ0CP0	C0205307	calificador	337-345	31_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	346-348	31_QUEST_clinical_caseMIR	SENT5	-	-
+4	LDH	ldh	NC00SC0	C0022917	sustancia	349-352	31_QUEST_clinical_caseMIR	SENT5	-	-
+5	y	y	CC	C1706368	calificador	353-354	31_QUEST_clinical_caseMIR	SENT5	-	-
+6	test	test	NCMS000	-	-	355-359	31_QUEST_clinical_caseMIR	SENT5	-	-
+7	de	de	SPS00	C0332285	atributo	360-362	31_QUEST_clinical_caseMIR	SENT5	-	-
+8	Coombs	coombs	NCMP000	-	-	363-369	31_QUEST_clinical_caseMIR	SENT5	-	-
+9	directo	directo	AQ0MS0	C0439851	calificador	370-377	31_QUEST_clinical_caseMIR	SENT5	-	-
+10	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	378-386	31_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	386-387	31_QUEST_clinical_caseMIR	SENT5	-	-
+

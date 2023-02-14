@@ -1,0 +1,66 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	269_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	269_QUEST_clinical_caseMIR	SENT1	-	-
+3	50	50		-	-	9-11	269_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	269_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	269_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	269_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	269_QUEST_clinical_caseMIR	SENT1	-	-
+8	desde	desde	SPS00	-	-	29-34	269_QUEST_clinical_caseMIR	SENT1	-	-
+9	hace	hacer	VMIP3S0	-	-	35-39	269_QUEST_clinical_caseMIR	SENT1	-	-
+10	1	1		-	-	40-41	269_QUEST_clinical_caseMIR	SENT1	-	-
+11	mes	mes	NCMS000	C0439231	calificador	42-45	269_QUEST_clinical_caseMIR	SENT1	-	-
+12	presenta	presentar	VMIP3S0	-	-	46-54	269_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	55-57	269_QUEST_clinical_caseMIR	SENT1	-	-
+14	ánimo	ánimo	NCMS000	-	-	58-63	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	deprimido	deprimir	VMP00SM	-	-	64-73	269_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+16	,	,	Fc	-	-	73-74	269_QUEST_clinical_caseMIR	SENT1	-	-
+17	anhedonia	anhedonia	NC00SC0	C0178417	hallazgo	75-84	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	,	,	Fc	-	-	84-85	269_QUEST_clinical_caseMIR	SENT1	-	-
+19	pérdida	pérdida	NCFS000	-	-	86-93	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	94-96	269_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	memoria	memoria	NCFS000	C0025260	función	97-104	269_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	,	,	Fc	-	-	104-105	269_QUEST_clinical_caseMIR	SENT1	-	-
+23	llanto	llanto	NCMS000	C0010399	hallazgo#función	106-112	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	fácil	fácil	AQ0CS0	C0332219	calificador	113-118	269_QUEST_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	118-119	269_QUEST_clinical_caseMIR	SENT1	-	-
+26	pérdida	pérdida	NCFS000	C0015672_1	hallazgo_1	120-127	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	de	de	SPS00	C0015672_2	hallazgo_2	128-130	269_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	energía	energía	NCFS000	C0015672_3	hallazgo_3	131-138	269_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+29	,	,	Fc	-	-	138-139	269_QUEST_clinical_caseMIR	SENT1	-	-
+30	sensación	sensación	NCFS000	C0036658#C1455667	calificador	140-149	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	de	de	SPS00	C0332285	atributo	150-152	269_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+32	inutilidad	inutilidad	NCFS000	-	-	153-163	269_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+33	y	y	CC	C1706368	calificador	164-165	269_QUEST_clinical_caseMIR	SENT1	-	-
+34	culpa	culpa	NCFS000	C0018379	hallazgo	166-171	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	,	,	Fc	-	-	171-172	269_QUEST_clinical_caseMIR	SENT1	-	-
+36	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	173-180	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+37	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	181-183	269_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+38	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	184-188	269_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+39	marcada	marcar	VMP00SF	-	-	189-196	269_QUEST_clinical_caseMIR	SENT1	-	-
+40	y	y	CC	C1706368	calificador	197-198	269_QUEST_clinical_caseMIR	SENT1	-	-
+41	despertar	despertar	VMN0000	C0442696#C1720052	entidad_observable#calificador	199-208	269_QUEST_clinical_caseMIR	SENT1	-	-
+42	precoz	precoz	NC00SC0	C1279919#C2362777#C2363430#C1279930	calificador	209-215	269_QUEST_clinical_caseMIR	SENT1	-	-
+43	,	,	Fc	-	-	215-216	269_QUEST_clinical_caseMIR	SENT1	-	-
+44	así	así	RG	-	-	217-220	269_QUEST_clinical_caseMIR	SENT1	-	-
+45	como	como	SPS00	C0332257	calificador	221-225	269_QUEST_clinical_caseMIR	SENT1	-	-
+46	incapacidad	incapacidad	NCFS000	C0231172	hallazgo	226-237	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+47	para	para	SPS00	C0521125	calificador	238-242	269_QUEST_clinical_caseMIR	SENT1	-	-
+48	realizar	realizar	VMN0000	-	-	243-251	269_QUEST_clinical_caseMIR	SENT1	-	-
+49	sus	su	DP3CP0	-	-	252-255	269_QUEST_clinical_caseMIR	SENT1	-	-
+50	tareas	tarea	NCFP000	C0589414	entidad_observable	256-262	269_QUEST_clinical_caseMIR	SENT1	-	-
+51	habituales	habitual	AQ0CP0	C0205353	calificador	263-273	269_QUEST_clinical_caseMIR	SENT1	-	-
+52	en	en	SPS00	C1720294#C0332285	calificador#atributo	274-276	269_QUEST_clinical_caseMIR	SENT1	-	-
+53	el	el	DA0MS0	-	-	277-279	269_QUEST_clinical_caseMIR	SENT1	-	-
+54	hogar	hogar	NCMS000	C0442519#C0336758	medio_ambiente#objeto_físico	280-285	269_QUEST_clinical_caseMIR	SENT1	-	-
+55	.	.	Fp	-	-	285-286	269_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	287-289	269_QUEST_clinical_caseMIR	SENT2	-	-
+2	trámites	trámite	NCMP000	-	-	290-298	269_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	299-301	269_QUEST_clinical_caseMIR	SENT2	-	-
+4	separación	separación	NCFS000	C0036679	anomalía_morfológica	302-312	269_QUEST_clinical_caseMIR	SENT2	-	-
+5	desde	desde	SPS00	-	-	313-318	269_QUEST_clinical_caseMIR	SENT2	-	-
+6	hace	hacer	VMIP3S0	-	-	319-323	269_QUEST_clinical_caseMIR	SENT2	-	-
+7	3	3		-	-	324-325	269_QUEST_clinical_caseMIR	SENT2	-	-
+8	meses	mes	NCMP000	C0439231	calificador	326-331	269_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	331-332	269_QUEST_clinical_caseMIR	SENT2	-	-
+

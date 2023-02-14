@@ -1,0 +1,17 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	103_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	103_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	103_QUEST_clinical_caseMIR	SENT1	-	-
+4	55	55		-	-	13-15	103_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	103_QUEST_clinical_caseMIR	SENT1	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	21-28	103_QUEST_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	103_QUEST_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	32-34	103_QUEST_clinical_caseMIR	SENT1	-	-
+9	hospital	hospital	NCMS000	C1510665	medio_ambiente	35-43	103_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	44-47	103_QUEST_clinical_caseMIR	SENT1	-	-
+11	el	el	DA0MS0	-	-	48-50	103_QUEST_clinical_caseMIR	SENT1	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	51-62	103_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	63-65	103_QUEST_clinical_caseMIR	SENT1	-	-
+14	pancreatitis	pancreatitis	NCFN000	C0001339#C0341461_1	trastorno_1	66-78	103_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	aguda	agudo	AQ0FS0	C0001339#C0341461_2	trastorno_2	79-84	103_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	.	.	Fp	-	-	84-85	103_QUEST_clinical_caseMIR	SENT1	-	-
+

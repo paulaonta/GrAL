@@ -1,0 +1,39 @@
+1	¿	¿	Fia	-	-	635-636	320_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	636-640	320_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	641-643	320_ANS_clinical_caseMIR	SENT1	-	-
+4	su	su	DP3CS0	-	-	644-646	320_ANS_clinical_caseMIR	SENT1	-	-
+5	orientación	orientación	NCFS000	C0029266	función	647-658	320_ANS_clinical_caseMIR	SENT1	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	659-670	320_ANS_clinical_caseMIR	SENT1	-	-
+7	?	?	Fit	-	-	670-671	320_ANS_clinical_caseMIR	SENT1	-	-
+8	:	:	Fd	-	-	671-672	320_ANS_clinical_caseMIR	SENT1	-	-
+9	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	320_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	cardio-renal	cardio-renal	AQ0CS00	-	-	9-21	320_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	tipo	tipo	NCMS000	C0441730_1	calificador_1	22-26	320_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	2	2	Z	C0441730_2	calificador_2	27-28	320_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+13	.	.	Fp	-	-	28-29	320_ANS_clinical_caseMIR	SENT1	-	-
+
+1	2	2		-	-	0-1	320_ANS_clinical_caseMIR	SENT2	-	-
+2	.	.	Fp	-	-	1-2	320_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Amiloidosis	amiloidosis	NCFN000	C3536715_1	trastorno_1	3-14	320_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	AA	aa	NC00YL0	C3536715_2	trastorno_2	15-17	320_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	.	.	Fp	-	-	17-18	320_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Miocarditis	miocarditis	NCFN000	C0264856_1	trastorno_1	0-11	320_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0264856_2	trastorno_2	12-14	320_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	células	célula	NCFP000	C0264856_3	trastorno_3	15-22	320_ANS_clinical_caseMIR	SENT4	I-Calificador	-
+4	gigantes	gigante	NCCP000	C0264856_4	trastorno_4	23-31	320_ANS_clinical_caseMIR	SENT4	I-Calificador	-
+5	.	.	Fp	-	-	31-32	320_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Toxicidad	toxicidad	NCFS000	C0600688	-	0-9	320_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0678226	atributo	10-13	320_ANS_clinical_caseMIR	SENT5	-	-
+3	infliximab	infliximab	NC00SC0	C0666743	producto#sustancia	14-24	320_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	24-25	320_ANS_clinical_caseMIR	SENT5	-	-
+
+1	Glomerulonefritis	glomerulonefritis	NCFN000	C0017665_1	trastorno_1	0-17	320_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+2	membranosa	membranoso	AQ0FS0	C0017665_2	trastorno_2	18-28	320_ANS_clinical_caseMIR	SENT6	B-Calificador	-
+3	asociada	asociar	VMP00SF	-	-	29-37	320_ANS_clinical_caseMIR	SENT6	-	-
+4	a	a	SPS00	-	-	38-39	320_ANS_clinical_caseMIR	SENT6	-	-
+5	AR	ar	NC00YL0	-	-	40-42	320_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+6	.	.	Fp	-	-	42-43	320_ANS_clinical_caseMIR	SENT6	-	-
+

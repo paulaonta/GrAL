@@ -1,0 +1,33 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	562_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	562_QUEST_clinical_caseMIR	SENT1	-	-
+3	12	12		-	-	8-10	562_QUEST_clinical_caseMIR	SENT1	-	-
+4	meses	mes	NCMP000	C0439231	calificador	11-16	562_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	562_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	562_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	562_QUEST_clinical_caseMIR	SENT1	-	-
+8	tras	tras	SPS00	-	-	29-33	562_QUEST_clinical_caseMIR	SENT1	-	-
+9	recibir	recibir	VMN0000	-	-	34-41	562_QUEST_clinical_caseMIR	SENT1	-	-
+10	vacuna	vacuna	NCFS000	C0042210	producto#sustancia	42-48	562_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	con	con	SPS00	C0332287	atributo	49-52	562_QUEST_clinical_caseMIR	SENT1	-	-
+12	BCG	bacilo_de_calmette_y_guérin	NC00YL0	-	-	53-56	562_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	(	(	Fpa	-	-	57-58	562_QUEST_clinical_caseMIR	SENT1	-	-
+14	Bacilo	bacilo	NCMS000	C0004587	organismo	58-64	562_QUEST_clinical_caseMIR	SENT1	-	-
+15	Calmette-Guerin	calmette-guerin	NCCN000	-	-	65-80	562_QUEST_clinical_caseMIR	SENT1	-	-
+16	)	)	Fpt	-	-	80-81	562_QUEST_clinical_caseMIR	SENT1	-	-
+17	desarrolla	desarrollar	VMIP3S0	-	-	82-92	562_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	93-96	562_QUEST_clinical_caseMIR	SENT1	-	-
+19	tuberculosis	tuberculosis	NCFN000	C0152915_1	trastorno_1	97-109	562_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	diseminada	diseminar	VMP00SF	C0152915_2	trastorno_2	110-120	562_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	.	.	Fp	-	-	120-121	562_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	122-123	562_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	123-127	562_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	128-130	562_QUEST_clinical_caseMIR	SENT2	-	-
+4	estas	este	DD0FP0	-	-	131-136	562_QUEST_clinical_caseMIR	SENT2	-	-
+5	inmunodeficiencias	inmunodeficiencia	NCFP000	C0021051	trastorno	137-155	562_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	sospecha	sospechar	VMIP3S0	-	-	156-164	562_QUEST_clinical_caseMIR	SENT2	-	-
+7	en	en	SPS00	C1279901_1	calificador_1	165-167	562_QUEST_clinical_caseMIR	SENT2	-	-
+8	primer	1	AO0MS0	C1279901_2	calificador_2	168-174	562_QUEST_clinical_caseMIR	SENT2	-	-
+9	lugar	lugar	NCMS000	C1279901_3	calificador_3	175-180	562_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	180-181	562_QUEST_clinical_caseMIR	SENT2	-	-
+

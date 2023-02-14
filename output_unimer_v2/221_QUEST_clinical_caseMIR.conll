@@ -1,0 +1,58 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	221_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	221_QUEST_clinical_caseMIR	SENT1	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	12-14	221_QUEST_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	15-26	221_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	quimioterápico	quimioterápico	AQ0MS0	-	-	27-41	221_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	por	por	SPS00	C0678226	atributo	42-45	221_QUEST_clinical_caseMIR	SENT1	-	-
+7	leucemia	leucemia	NCFS000	C0023418	anomalía_morfológica#trastorno	46-54	221_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	ingresa	ingresar	VMIP3S0	-	-	55-62	221_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	63-66	221_QUEST_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	67-70	221_QUEST_clinical_caseMIR	SENT1	-	-
+11	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	71-79	221_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	para	para	SPS00	C0521125	calificador	80-84	221_QUEST_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	85-87	221_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	88-91	221_QUEST_clinical_caseMIR	SENT1	-	-
+15	se	se	P00CN000	-	-	92-94	221_QUEST_clinical_caseMIR	SENT1	-	-
+16	ha	haber	VAIP3S0	-	-	95-97	221_QUEST_clinical_caseMIR	SENT1	-	-
+17	prescrito	prescribir	VMP00SM	-	-	98-107	221_QUEST_clinical_caseMIR	SENT1	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	108-119	221_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	120-123	221_QUEST_clinical_caseMIR	SENT1	-	-
+20	cefepime	cefepime	AQ0CS00	-	-	124-132	221_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	.	.	Fp	-	-	132-133	221_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	221_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	137-140	221_QUEST_clinical_caseMIR	SENT2	-	-
+3	Rx	radiografía	NC00YL0	C1306645	procedimiento	141-143	221_QUEST_clinical_caseMIR	SENT2	-	-
+4	/	/	Fh	-	-	143-144	221_QUEST_clinical_caseMIR	SENT2	-	-
+5	TAC	tac	NC00YL0	C0040405	procedimiento	144-147	221_QUEST_clinical_caseMIR	SENT2	-	-
+6	tórax	tórax	NCMN000	C1269614#C0449208#C0817096	estructura_corporal	148-153	221_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	se	se	P00CN000	-	-	154-156	221_QUEST_clinical_caseMIR	SENT2	-	-
+8	observa	observar	VMIP3S0	-	-	157-164	221_QUEST_clinical_caseMIR	SENT2	-	-
+9	un	un		C0205447_1	calificador_1	165-167	221_QUEST_clinical_caseMIR	SENT2	-	-
+10	infiltrado	infiltrado	NC00SC0	C0332448	anomalía_morfológica	168-178	221_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	con	con	SPS00	C0332287	atributo	179-182	221_QUEST_clinical_caseMIR	SENT2	-	-
+12	el	el	DA0MS0	-	-	183-185	221_QUEST_clinical_caseMIR	SENT2	-	-
+13	signo	signo	NCMS000	C0233205_1	hallazgo_1	186-191	221_QUEST_clinical_caseMIR	SENT2	-	-
+14	del	del	SP+DA	C0233205_2	hallazgo_2	192-195	221_QUEST_clinical_caseMIR	SENT2	-	-
+15	halo	halo	NCMS000	C0233205_3	hallazgo_3	196-200	221_QUEST_clinical_caseMIR	SENT2	-	-
+16	y	y	CC	C1706368	calificador	201-202	221_QUEST_clinical_caseMIR	SENT2	-	-
+17	menisco	menisco	NCMS000	-	-	203-210	221_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	semilunar	semilunar	AQ0CS0	-	-	211-220	221_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+19	.	.	Fp	-	-	220-221	221_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	222-224	221_QUEST_clinical_caseMIR	SENT3	-	-
+2	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	225-231	221_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	es	ser	VSIP3S0	-	-	232-234	221_QUEST_clinical_caseMIR	SENT3	-	-
+4	periférica	periférico	AQ0FS0	C0205100	calificador	235-245	221_QUEST_clinical_caseMIR	SENT3	-	-
+5	y	y	CC	C1706368	calificador	246-247	221_QUEST_clinical_caseMIR	SENT3	-	-
+6	se	se	P00CN000	-	-	248-250	221_QUEST_clinical_caseMIR	SENT3	-	-
+7	indica	indicar	VMIP3S0	-	-	251-257	221_QUEST_clinical_caseMIR	SENT3	-	-
+8	una	una		C0205447_1	calificador_1	258-261	221_QUEST_clinical_caseMIR	SENT3	-	-
+9	punción	punción	NCFS000	C0033119	anomalía_morfológica	262-269	221_QUEST_clinical_caseMIR	SENT3	-	-
+10	transtorácica	transtorácico	AQ0FS0	C0205503	calificador	270-283	221_QUEST_clinical_caseMIR	SENT3	-	-
+11	para	para	SPS00	C0521125	calificador	284-288	221_QUEST_clinical_caseMIR	SENT3	-	-
+12	toma	toma	NCFS000	-	-	289-293	221_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	294-296	221_QUEST_clinical_caseMIR	SENT3	-	-
+14	muestras	muestra	NCFP000	C0370003	espécimen	297-305	221_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	305-306	221_QUEST_clinical_caseMIR	SENT3	-	-
+

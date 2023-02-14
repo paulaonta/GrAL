@@ -1,0 +1,88 @@
+1	Señale	señalar	VMM03S0	-	-	275-281	396_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	282-284	396_ANS_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	285-294	396_ANS_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	295-303	396_ANS_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	303-304	396_ANS_clinical_caseMIR	SENT1	-	-
+6	El	el	DA0MS0	-	-	0-2	396_ANS_clinical_caseMIR	SENT1	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	3-11	396_ANS_clinical_caseMIR	SENT1	-	-
+8	precisará	precisar	VMIF3S0	-	-	12-21	396_ANS_clinical_caseMIR	SENT1	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	22-33	396_ANS_clinical_caseMIR	SENT1	-	-
+10	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	34-45	396_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	por	por	SPS00	C0678226	atributo	46-49	396_ANS_clinical_caseMIR	SENT1	-	-
+12	vía	vía	NCFS000	C1522726_1	calificador_1	50-53	396_ANS_clinical_caseMIR	SENT1	-	-
+13	endovenosa	endovenoso	AQ0FS0	C1522726_2	calificador_2	54-64	396_ANS_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	396_ANS_clinical_caseMIR	SENT1	-	-
+15	la	el	DA0FS0	-	-	68-70	396_ANS_clinical_caseMIR	SENT1	-	-
+16	fase	fase	NCFS000	C0205390	calificador	71-75	396_ANS_clinical_caseMIR	SENT1	-	-
+17	inicial	inicial	AQ0CS0	C0205265	calificador	76-83	396_ANS_clinical_caseMIR	SENT1	-	-
+18	y	y	CC	C1706368	calificador	84-85	396_ANS_clinical_caseMIR	SENT1	-	-
+19	la	el	DA0FS0	-	-	86-88	396_ANS_clinical_caseMIR	SENT1	-	-
+20	duración	duración	NCFS000	C0449238	atributo	89-97	396_ANS_clinical_caseMIR	SENT1	-	-
+21	estimada	estimar	VMP00SF	-	-	98-106	396_ANS_clinical_caseMIR	SENT1	-	-
+22	del	del	SP+DA	-	-	107-110	396_ANS_clinical_caseMIR	SENT1	-	-
+23	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	111-122	396_ANS_clinical_caseMIR	SENT1	-	-
+24	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	123-134	396_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+25	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	135-140	396_ANS_clinical_caseMIR	SENT1	-	-
+26	será	ser	VSIF3S0	-	-	141-145	396_ANS_clinical_caseMIR	SENT1	-	-
+27	de	de	SPS00	C0332285	atributo	146-148	396_ANS_clinical_caseMIR	SENT1	-	-
+28	unas	uno	DI0FP0	C0205447	calificador	149-153	396_ANS_clinical_caseMIR	SENT1	-	-
+29	8	8		-	-	154-155	396_ANS_clinical_caseMIR	SENT1	-	-
+30	semanas	semana	NCFP000	C0439230	calificador	156-163	396_ANS_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	163-164	396_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	0-2	396_ANS_clinical_caseMIR	SENT2	-	-
+2	microrganismo	microrganismo	NCMS000	-	-	3-16	396_ANS_clinical_caseMIR	SENT2	-	-
+3	que	que	PR0CN000	-	-	17-20	396_ANS_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	21-24	396_ANS_clinical_caseMIR	SENT2	-	-
+5	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	25-30	396_ANS_clinical_caseMIR	SENT2	-	-
+6	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	31-41	396_ANS_clinical_caseMIR	SENT2	-	-
+7	causa	causar	VMIP3S0	-	-	42-47	396_ANS_clinical_caseMIR	SENT2	-	-
+8	este	este	DD0MS0	-	-	48-52	396_ANS_clinical_caseMIR	SENT2	-	-
+9	cuadro	cuadro	NCMS000	-	-	53-59	396_ANS_clinical_caseMIR	SENT2	-	-
+10	clínico	clínico	AQ0MS0	C0205210	calificador	60-67	396_ANS_clinical_caseMIR	SENT2	-	-
+11	es	ser	VSIP3S0	-	-	68-70	396_ANS_clinical_caseMIR	SENT2	-	-
+12	Haemophilus	Haemophilus		-	-	71-82	396_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	influenzae	influenzae		-	-	83-93	396_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+14	.	.	Fp	-	-	93-94	396_ANS_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	0-2	396_ANS_clinical_caseMIR	SENT3	-	-
+2	ceftazidima	ceftazidima	NC00SC0	C0007559	sustancia	3-14	396_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+3	endovenoso	endovenoso	AQ0MS0	-	-	15-25	396_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+4	a	a	SPS00	-	-	26-27	396_ANS_clinical_caseMIR	SENT3	-	-
+5	dosis	dosis	NCFN000	-	-	28-33	396_ANS_clinical_caseMIR	SENT3	-	-
+6	altas	alto	AQ0FP0	C0205250	calificador	34-39	396_ANS_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	40-42	396_ANS_clinical_caseMIR	SENT3	-	-
+8	un	un		C0205447_1	calificador_1	43-45	396_ANS_clinical_caseMIR	SENT3	-	-
+9	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	46-57	396_ANS_clinical_caseMIR	SENT3	-	-
+10	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	58-66	396_ANS_clinical_caseMIR	SENT3	-	-
+11	razonable	razonable	AQ0CS0	-	-	67-76	396_ANS_clinical_caseMIR	SENT3	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	77-79	396_ANS_clinical_caseMIR	SENT3	-	-
+13	espera	espera	NCFS000	-	-	80-86	396_ANS_clinical_caseMIR	SENT3	-	-
+14	del	del	SP+DA	-	-	87-90	396_ANS_clinical_caseMIR	SENT3	-	-
+15	resultado	resultar	VMP00SM	C0686907_1	calificador_1	91-100	396_ANS_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0686907_2	calificador_2	101-103	396_ANS_clinical_caseMIR	SENT3	-	-
+17	los	el	DA0MP0	-	-	104-107	396_ANS_clinical_caseMIR	SENT3	-	-
+18	cultivos	cultivo	NCMP000	-	-	108-116	396_ANS_clinical_caseMIR	SENT3	-	-
+19	.	.	Fp	-	-	116-117	396_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Es	ser	VSIP3S0	-	-	0-2	396_ANS_clinical_caseMIR	SENT4	-	-
+2	importante	importante	AQ0CS0	-	-	3-13	396_ANS_clinical_caseMIR	SENT4	-	-
+3	tomar	tomar	VMN0000	C1515187	calificador	14-19	396_ANS_clinical_caseMIR	SENT4	-	-
+4	muestras	muestra	NCFP000	C0370003	espécimen	20-28	396_ANS_clinical_caseMIR	SENT4	-	-
+5	del	del	SP+DA	-	-	29-32	396_ANS_clinical_caseMIR	SENT4	-	-
+6	conducto	conducto	NCMS000	C0013444#C1268970_1	estructura_corporal_1	33-41	396_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	auditivo	auditivo	NCMS000	C0013444#C1268970_2	estructura_corporal_2	42-50	396_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+8	externo	externo	NCMS000	C0013444#C1268970_3	estructura_corporal_3	51-58	396_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+9	para	para	SPS00	C0521125	calificador	59-63	396_ANS_clinical_caseMIR	SENT4	-	-
+10	cultivo	cultivo	NCMS000	-	-	64-71	396_ANS_clinical_caseMIR	SENT4	-	-
+11	microbiológico	microbiológico	AQ0MS0	-	-	72-86	396_ANS_clinical_caseMIR	SENT4	-	-
+12	y	y	CC	C1706368	calificador	87-88	396_ANS_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C0332285	atributo	89-91	396_ANS_clinical_caseMIR	SENT4	-	-
+14	ser	ser	VSN0000	-	-	92-95	396_ANS_clinical_caseMIR	SENT4	-	-
+15	positivos	positivo	AQ0MP0	C1446409	calificador	96-105	396_ANS_clinical_caseMIR	SENT4	-	-
+16	hay	haber	VMIP3S0	-	-	106-109	396_ANS_clinical_caseMIR	SENT4	-	-
+17	que	que	CS	-	-	110-113	396_ANS_clinical_caseMIR	SENT4	-	-
+18	realizar	realizar	VMN0000	-	-	114-122	396_ANS_clinical_caseMIR	SENT4	-	-
+19	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	123-135	396_ANS_clinical_caseMIR	SENT4	-	-
+20	.	.	Fp	-	-	135-136	396_ANS_clinical_caseMIR	SENT4	-	-
+

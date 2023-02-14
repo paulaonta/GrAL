@@ -1,0 +1,59 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	149_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	149_ANS_clinical_caseMIR	SENT1	-	-
+3	sustitutivo	sustitutivo	AQ0MS0	-	-	20-31	149_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	32-35	149_ANS_clinical_caseMIR	SENT1	-	-
+5	hemodiálisis	hemodiálisis	NCFN000	C0019004#C0200017#C0011946	procedimiento	36-48	149_ANS_clinical_caseMIR	SENT1	-	-
+6	.	.	Fp	-	-	48-49	149_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	149_ANS_clinical_caseMIR	SENT2	-	-
+2	darbopoyetina	darbopoyetina	AQ0FS00	-	-	12-25	149_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+3	alfa	alfa	NCFS000	C0439095	calificador	26-30	149_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+4	0.70	0.70		-	-	31-35	149_ANS_clinical_caseMIR	SENT2	-	-
+5	microgamos	microgamo	NCCP000	-	-	36-46	149_ANS_clinical_caseMIR	SENT2	-	-
+6	vía	vía	NCFS000	C1522438_1	calificador_1	47-50	149_ANS_clinical_caseMIR	SENT2	-	-
+7	subcutánea	subcutáneo	AQ0FS0	C1522438_2	calificador_2	51-61	149_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	cada	cada	DI0CS0	C1457900	calificador	62-66	149_ANS_clinical_caseMIR	SENT2	-	-
+9	2	2		-	-	67-68	149_ANS_clinical_caseMIR	SENT2	-	-
+10	semanas	semana	NCFP000	C0439230	calificador	69-76	149_ANS_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	76-77	149_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Indicar	indicar	VMN0000	-	-	0-7	149_ANS_clinical_caseMIR	SENT3	-	-
+2	realización	realización	NCFS000	-	-	8-19	149_ANS_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	149_ANS_clinical_caseMIR	SENT3	-	-
+4	un	un		C0205447_1	calificador_1	23-25	149_ANS_clinical_caseMIR	SENT3	-	-
+5	aspirado	aspirado	NC00SC0	C0370199	espécimen	26-34	149_ANS_clinical_caseMIR	SENT3	-	-
+6	medular	medular	AQ0CS0	-	-	35-42	149_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	para	para	SPS00	C0521125	calificador	43-47	149_ANS_clinical_caseMIR	SENT3	-	-
+8	completar	completar	VMN0000	-	-	48-57	149_ANS_clinical_caseMIR	SENT3	-	-
+9	el	el	DA0MS0	-	-	58-60	149_ANS_clinical_caseMIR	SENT3	-	-
+10	estudio	estudio	NCMS000	C0557651	medio_ambiente	61-68	149_ANS_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	68-69	149_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Reponer	reponer	VMN0000	-	-	0-7	149_ANS_clinical_caseMIR	SENT4	-	-
+2	el	el	DA0MS0	-	-	8-10	149_ANS_clinical_caseMIR	SENT4	-	-
+3	déficit	déficit	NCMS000	C0011155_1	atributo_1	11-18	149_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0011155_2	atributo_2	19-21	149_ANS_clinical_caseMIR	SENT4	-	-
+5	hierro	hierro	NCMS000	C0302583	sustancia	22-28	149_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+6	y	y	CC	C1706368	calificador	29-30	149_ANS_clinical_caseMIR	SENT4	-	-
+7	si	si	CS	-	-	31-33	149_ANS_clinical_caseMIR	SENT4	-	-
+8	persite	persite	VMSP3S0	-	-	34-41	149_ANS_clinical_caseMIR	SENT4	-	-
+9	la	el	DA0FS0	-	-	42-44	149_ANS_clinical_caseMIR	SENT4	-	-
+10	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	45-51	149_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+11	iniciar	iniciar	VMN0000	-	-	52-59	149_ANS_clinical_caseMIR	SENT4	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	60-71	149_ANS_clinical_caseMIR	SENT4	-	-
+13	con	con	SPS00	C0332287	atributo	72-75	149_ANS_clinical_caseMIR	SENT4	-	-
+14	un	un		C0205447_1	calificador_1	76-78	149_ANS_clinical_caseMIR	SENT4	-	-
+15	agente	agente	NCCS000	C0450442	atributo	79-85	149_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+16	eritropoyético	eritropoyético	AQ0MS0	-	-	86-100	149_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+17	.	.	Fp	-	-	100-101	149_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	149_ANS_clinical_caseMIR	SENT5	-	-
+2	una	una		C0205447_1	calificador_1	9-12	149_ANS_clinical_caseMIR	SENT5	-	-
+3	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	13-23	149_ANS_clinical_caseMIR	SENT5	-	-
+4	digestiva	digestivo	AQ0FS0	C0012237	sustancia	24-33	149_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+5	para	para	SPS00	C0521125	calificador	34-38	149_ANS_clinical_caseMIR	SENT5	-	-
+6	descartar	descartar	VMN0000	C0332196	calificador	39-48	149_ANS_clinical_caseMIR	SENT5	-	-
+7	sangrado	sangrar	VMP00SM	C0017181_1	trastorno_1	49-57	149_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion
+8	gastrointestinal	gastrointestinal	AQ0CS0	C0017181_2	trastorno_2	58-74	149_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	74-75	149_ANS_clinical_caseMIR	SENT5	-	-
+

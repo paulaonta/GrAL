@@ -1,0 +1,108 @@
+1	Luis	luis	NCMS000	-	-	0-4	495_QUEST_clinical_caseMIR	SENT1	-	-
+2	es	ser	VSIP3S0	-	-	5-7	495_QUEST_clinical_caseMIR	SENT1	-	-
+3	un	un		C0205447_1	calificador_1	8-10	495_QUEST_clinical_caseMIR	SENT1	-	-
+4	joven	joven	NCCS000	C0332239	calificador	11-16	495_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	17-19	495_QUEST_clinical_caseMIR	SENT1	-	-
+6	25	25		-	-	20-22	495_QUEST_clinical_caseMIR	SENT1	-	-
+7	años	año	NCMP000	C0439234	calificador	23-27	495_QUEST_clinical_caseMIR	SENT1	-	-
+8	que	que	PR0CN000	-	-	28-31	495_QUEST_clinical_caseMIR	SENT1	-	-
+9	sufrió	sufrir	VMIS3S0	-	-	32-38	495_QUEST_clinical_caseMIR	SENT1	-	-
+10	esplenectomía	esplenectomía	NCFS000	C0037995#C0337385	procedimiento	39-52	495_QUEST_clinical_caseMIR	SENT1	-	-
+11	tras	tras	SPS00	-	-	53-57	495_QUEST_clinical_caseMIR	SENT1	-	-
+12	accidente	accidente	NCMS000	C0701802_1	evento_1	58-67	495_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0701802_2	evento_2	68-70	495_QUEST_clinical_caseMIR	SENT1	-	-
+14	bicicleta	bicicleta	NCFS000	C0701802_3	evento_3	71-80	495_QUEST_clinical_caseMIR	SENT1	-	-
+15	hace	hacer	VMIP3S0	-	-	81-85	495_QUEST_clinical_caseMIR	SENT1	-	-
+16	1	1		-	-	86-87	495_QUEST_clinical_caseMIR	SENT1	-	-
+17	año	año	NCMS000	C0439234	calificador	88-91	495_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	91-92	495_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	93-98	495_QUEST_clinical_caseMIR	SENT2	-	-
+2	un	un		C0205447_1	calificador_1	99-101	495_QUEST_clinical_caseMIR	SENT2	-	-
+3	perro	perro	NCMS000	C0323418#C1280551	organismo	102-107	495_QUEST_clinical_caseMIR	SENT2	-	-
+4	que	que	PR0CN000	-	-	108-111	495_QUEST_clinical_caseMIR	SENT2	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	112-114	495_QUEST_clinical_caseMIR	SENT2	-	-
+6	mordió	morder	VMIS3S0	-	-	115-121	495_QUEST_clinical_caseMIR	SENT2	-	-
+7	hace	hacer	VMIP3S0	-	-	122-126	495_QUEST_clinical_caseMIR	SENT2	-	-
+8	24	24	Z	C0439584_1	calificador_1	127-129	495_QUEST_clinical_caseMIR	SENT2	-	-
+9	horas	hora	NCFP000	C0439584_2	calificador_2	130-135	495_QUEST_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	136-137	495_QUEST_clinical_caseMIR	SENT2	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	138-140	495_QUEST_clinical_caseMIR	SENT2	-	-
+12	ha	haber	VAIP3S0	-	-	141-143	495_QUEST_clinical_caseMIR	SENT2	-	-
+13	producido	producir	VMP00SM	-	-	144-153	495_QUEST_clinical_caseMIR	SENT2	-	-
+14	una	una		C0205447_1	calificador_1	154-157	495_QUEST_clinical_caseMIR	SENT2	-	-
+15	pequeña	pequeño	AQ0FS0	C0700321#C1282918	calificador	158-165	495_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+16	herida	herido	NCFS000	-	-	166-172	495_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	173-175	495_QUEST_clinical_caseMIR	SENT2	-	-
+18	la	el	DA0FS0	-	-	176-178	495_QUEST_clinical_caseMIR	SENT2	-	-
+19	mano	mano	NCFS000	C0230370#C1288948_1	estructura_corporal_1	179-183	495_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+20	derecha	derecho	AQ0FS0	C0230370#C1288948_2	estructura_corporal_2	184-191	495_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+21	.	.	Fp	-	-	191-192	495_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	193-198	495_QUEST_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	199-200	495_QUEST_clinical_caseMIR	SENT3	-	-
+3	su	su	DP3CS0	-	-	201-203	495_QUEST_clinical_caseMIR	SENT3	-	-
+4	centro	centro	NCMS000	C0475309_1	medio_ambiente_1	204-210	495_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0475309_2	medio_ambiente_2	211-213	495_QUEST_clinical_caseMIR	SENT3	-	-
+6	salud	salud	NCFS000	C0475309_3	medio_ambiente_3	214-219	495_QUEST_clinical_caseMIR	SENT3	-	-
+7	(	(	Fpa	-	-	220-221	495_QUEST_clinical_caseMIR	SENT3	-	-
+8	situado	situar	VMP00SM	-	-	221-228	495_QUEST_clinical_caseMIR	SENT3	-	-
+9	a	a	SPS00	-	-	229-230	495_QUEST_clinical_caseMIR	SENT3	-	-
+10	3	3	Z	-	-	231-232	495_QUEST_clinical_caseMIR	SENT3	-	-
+11	horas	h	NCFP000	C0439227	calificador	233-238	495_QUEST_clinical_caseMIR	SENT3	-	-
+12	del	del	SP+DA	-	-	239-242	495_QUEST_clinical_caseMIR	SENT3	-	-
+13	hospital	hospital	NCMS000	C1510665	medio_ambiente	243-251	495_QUEST_clinical_caseMIR	SENT3	-	-
+14	más	más	RG	C0205172	calificador	252-255	495_QUEST_clinical_caseMIR	SENT3	-	-
+15	cercano	cercano	AQ0MS0	-	-	256-263	495_QUEST_clinical_caseMIR	SENT3	-	-
+16	)	)	Fpt	-	-	263-264	495_QUEST_clinical_caseMIR	SENT3	-	-
+17	por	por	SPS00	C0678226	atributo	265-268	495_QUEST_clinical_caseMIR	SENT3	-	-
+18	fiebre	fiebre	NCFS000	C0015967	hallazgo	269-275	495_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+19	de	de	SPS00	C0332285	atributo	276-278	495_QUEST_clinical_caseMIR	SENT3	-	-
+20	39°C	39°C		-	-	279-283	495_QUEST_clinical_caseMIR	SENT3	-	-
+21	,	,	Fc	-	-	283-284	495_QUEST_clinical_caseMIR	SENT3	-	-
+22	dolor	dolor	NCMS000	C0030193	hallazgo	285-290	495_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	291-293	495_QUEST_clinical_caseMIR	SENT3	-	-
+24	la	el	DA0FS0	-	-	294-296	495_QUEST_clinical_caseMIR	SENT3	-	-
+25	herida	herido	NCFS000	-	-	297-303	495_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+26	y	y	CC	C1706368	calificador	304-305	495_QUEST_clinical_caseMIR	SENT3	-	-
+27	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	306-314	495_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+28	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	315-322	495_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+29	.	.	Fp	-	-	322-323	495_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	A	a	SPS00	-	-	324-325	495_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	326-328	495_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	329-340	495_QUEST_clinical_caseMIR	SENT4	-	-
+4	PA	pa	NC00YL0	-	-	341-343	495_QUEST_clinical_caseMIR	SENT4	-	-
+5	100/60	100/60	Z	-	-	344-350	495_QUEST_clinical_caseMIR	SENT4	-	-
+6	mm	mm	NCMN000	-	-	351-353	495_QUEST_clinical_caseMIR	SENT4	-	-
+7	Hg	hectogramo	NCMN000	-	-	354-356	495_QUEST_clinical_caseMIR	SENT4	-	-
+8	,	,	Fc	-	-	356-357	495_QUEST_clinical_caseMIR	SENT4	-	-
+9	Fc	fc	NC00YL0	-	-	358-360	495_QUEST_clinical_caseMIR	SENT4	-	-
+10	110	110		-	-	361-364	495_QUEST_clinical_caseMIR	SENT4	-	-
+11	latidos	latido	NCMP000	-	-	365-372	495_QUEST_clinical_caseMIR	SENT4	-	-
+12	por	por	SPS00	C0702093_1	calificador_1	373-376	495_QUEST_clinical_caseMIR	SENT4	-	-
+13	minuto	minuto	NCMS000	C0702093_2	calificador_2	377-383	495_QUEST_clinical_caseMIR	SENT4	-	-
+14	,	,	Fc	-	-	383-384	495_QUEST_clinical_caseMIR	SENT4	-	-
+15	ligera	ligero	AQ0FS0	-	-	385-391	495_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+16	inflamación	inflamación	NCFS000	C0021368#C0302158	calificador#anomalía_morfológica	392-403	495_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	404-406	495_QUEST_clinical_caseMIR	SENT4	-	-
+18	la	el	DA0FS0	-	-	407-409	495_QUEST_clinical_caseMIR	SENT4	-	-
+19	herida	herido	NCFS000	-	-	410-416	495_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+20	sin	sin	SPS00	C0332288	atributo	417-420	495_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+21	pus	pus	NCMS000	C0034161	anomalía_morfológica#sustancia	421-424	495_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+22	.	.	Fp	-	-	424-425	495_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	426-427	495_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	427-431	495_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	432-434	495_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	435-438	495_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	439-449	495_QUEST_clinical_caseMIR	SENT5	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	450-461	495_QUEST_clinical_caseMIR	SENT5	-	-
+7	está	estar	VAIP3S0	-	-	462-466	495_QUEST_clinical_caseMIR	SENT5	-	-
+8	más	más	RG	C0205172	calificador	467-470	495_QUEST_clinical_caseMIR	SENT5	-	-
+9	indicada	indicar	VMP00SF	-	-	471-479	495_QUEST_clinical_caseMIR	SENT5	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	480-482	495_QUEST_clinical_caseMIR	SENT5	-	-
+11	este	este	DD0MS0	-	-	483-487	495_QUEST_clinical_caseMIR	SENT5	-	-
+12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	488-495	495_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	495-496	495_QUEST_clinical_caseMIR	SENT5	-	-
+

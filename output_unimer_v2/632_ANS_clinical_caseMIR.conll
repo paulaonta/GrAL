@@ -1,0 +1,32 @@
+1	Observación	observación	NCFS000	C0557985	procedimiento	0-11	632_ANS_clinical_caseMIR	SENT1	-	-
+2	.	.	Fp	-	-	11-12	632_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Descompresión	descompresión	NCFS000	C1829459#C0021153	procedimiento	0-13	632_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	central	central	AQ0CS0	C0205099	calificador	14-21	632_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	22-24	632_ANS_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	25-27	632_ANS_clinical_caseMIR	SENT2	-	-
+5	cadera	cadera	NCFS000	C0019552	estructura_corporal	28-34	632_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	con	con	SPS00	C0332287	atributo	35-38	632_ANS_clinical_caseMIR	SENT2	-	-
+7	o	o	CC	-	-	39-40	632_ANS_clinical_caseMIR	SENT2	-	-
+8	sin	sin	SPS00	C0332288	atributo	41-44	632_ANS_clinical_caseMIR	SENT2	-	-
+9	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	45-52	632_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+10	celular	celular	AQ0CS0	-	-	53-60	632_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+11	complementaria	complementario	AQ0FS0	-	-	61-75	632_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	75-76	632_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Osteotomía	osteotomía	NCFS000	C0029468	procedimiento	0-10	632_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	632_ANS_clinical_caseMIR	SENT3	-	-
+3	rotación	rotación	NCFS000	C0677597	entidad_observable	14-22	632_ANS_clinical_caseMIR	SENT3	-	-
+4	del	del	SP+DA	-	-	23-26	632_ANS_clinical_caseMIR	SENT3	-	-
+5	extremo	extremo	NCMS000	C0205403	calificador	27-34	632_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	proximal	proximal	AQ0CS0	C0205107	calificador	35-43	632_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+7	del	del	SP+DA	-	-	44-47	632_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+8	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	48-53	632_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+9	.	.	Fp	-	-	53-54	632_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	0-8	632_ANS_clinical_caseMIR	SENT4	-	-
+2	total	total	NCMS000	C0205197#C0439810#C0444868	calificador	9-14	632_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	632_ANS_clinical_caseMIR	SENT4	-	-
+4	cadera	cadera	NCFS000	C0019552	estructura_corporal	18-24	632_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	24-25	632_ANS_clinical_caseMIR	SENT4	-	-
+

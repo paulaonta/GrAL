@@ -1,0 +1,42 @@
+1	¿	¿	Fia	-	-	685-686	46_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	686-690	46_ANS_clinical_caseMIR	SENT1	-	-
+3	sería	ser	VSIC1S0	-	-	691-696	46_ANS_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	697-699	46_ANS_clinical_caseMIR	SENT1	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	700-707	46_ANS_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	708-711	46_ANS_clinical_caseMIR	SENT1	-	-
+7	lógica	lógico	AQ0FS0	-	-	712-718	46_ANS_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	-	-	719-720	46_ANS_clinical_caseMIR	SENT1	-	-
+9	seguir	seguir	VMN0000	-	-	721-727	46_ANS_clinical_caseMIR	SENT1	-	-
+10	ante	ante	SPS00	-	-	728-732	46_ANS_clinical_caseMIR	SENT1	-	-
+11	este	este	DD0MS0	-	-	733-737	46_ANS_clinical_caseMIR	SENT1	-	-
+12	cuadro	cuadro	NCMS000	-	-	738-744	46_ANS_clinical_caseMIR	SENT1	-	-
+13	clínico	clínico	AQ0MS0	C0205210	calificador	745-752	46_ANS_clinical_caseMIR	SENT1	-	-
+14	?	?	Fit	-	-	752-753	46_ANS_clinical_caseMIR	SENT1	-	-
+15	:	:	Fd	-	-	753-754	46_ANS_clinical_caseMIR	SENT1	-	-
+16	Infección	infección	NCFS000	C0009450	trastorno	0-9	46_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0332285	atributo	10-12	46_ANS_clinical_caseMIR	SENT1	-	-
+18	vías	vía	NCFP000	C0042027_1	estructura_corporal_1	13-17	46_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	urinarias	urinario	AQ0FP0	C0042027_2	estructura_corporal_2	18-27	46_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	.	.	Fp	-	-	27-28	46_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Accidente	accidente	NCMS000	C1961149	hallazgo	0-9	46_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	vascular	vascular	AQ0CS0	-	-	10-18	46_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	cerebral	cerebral	AQ0CS0	-	-	19-27	46_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+4	.	.	Fp	-	-	27-28	46_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Hipertrofia	hipertrofiar	VMM02S0	-	-	0-11	46_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	12-14	46_ANS_clinical_caseMIR	SENT3	-	-
+3	próstata	próstata	NCFS000	C1278980#C0033572	estructura_corporal	15-23	46_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	23-24	46_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Incontinencia	incontinencia	NCFS000	C0021167	hallazgo	0-13	46_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	14-16	46_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	estrés	estrés	NCMS000	C0038435	hallazgo#calificador	17-23	46_ANS_clinical_caseMIR	SENT4	I-Calificador	-
+4	.	.	Fp	-	-	23-24	46_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	0-6	46_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	del	del	SP+DA	-	-	7-10	46_ANS_clinical_caseMIR	SENT5	-	-
+3	nervio	nervio	NCMS000	C1278858#C0228959_1	estructura_corporal_1	11-17	46_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+4	pudendo	pudendo	AQ0MS0	C1278858#C0228959_2	estructura_corporal_2	18-25	46_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	25-26	46_ANS_clinical_caseMIR	SENT5	-	-
+

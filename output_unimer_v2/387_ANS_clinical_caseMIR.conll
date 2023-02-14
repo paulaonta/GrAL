@@ -1,0 +1,63 @@
+1	La	el	DA0FS0	-	-	0-2	387_ANS_clinical_caseMIR	SENT1	-	-
+2	reanimación	reanimación	NCFS000	C0035273	procedimiento	3-14	387_ANS_clinical_caseMIR	SENT1	-	-
+3	mediante	mediante	SPS00	-	-	15-23	387_ANS_clinical_caseMIR	SENT1	-	-
+4	fluidoterapia	fluidoterapia	NCFS000	-	-	24-37	387_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	enérgica	enérgico	AQ0FS0	-	-	38-46	387_ANS_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	47-49	387_ANS_clinical_caseMIR	SENT1	-	-
+7	básica	básico	AQ0FS0	-	-	50-56	387_ANS_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	387_ANS_clinical_caseMIR	SENT1	-	-
+9	el	el	DA0MS0	-	-	60-62	387_ANS_clinical_caseMIR	SENT1	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	63-74	387_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	74-75	387_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	387_ANS_clinical_caseMIR	SENT2	-	-
+2	administrar	administrar	VMN0000	C1621583	calificador	5-16	387_ANS_clinical_caseMIR	SENT2	-	-
+3	se	se	PP3CN000	-	-	16-18	387_ANS_clinical_caseMIR	SENT2	-	-
+4	desde	desde	SPS00	-	-	19-24	387_ANS_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	-	-	25-27	387_ANS_clinical_caseMIR	SENT2	-	-
+6	inicio	inicio	NCMS000	C0332162	atributo	28-34	387_ANS_clinical_caseMIR	SENT2	-	-
+7	antibioterapia	antibioterapia	NCFS000	-	-	35-49	387_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	con	con	SPS00	C0332287	atributo	50-53	387_ANS_clinical_caseMIR	SENT2	-	-
+9	fines	fin	NCMP000	-	-	54-59	387_ANS_clinical_caseMIR	SENT2	-	-
+10	profilácticos	profiláctico	AQ0MP0	C0445202	calificador	60-73	387_ANS_clinical_caseMIR	SENT2	-	-
+11	para	para	SPS00	C0521125	calificador	74-78	387_ANS_clinical_caseMIR	SENT2	-	-
+12	evitar	evitar	VMN0000	-	-	79-85	387_ANS_clinical_caseMIR	SENT2	-	-
+13	la	el	DA0FS0	-	-	86-88	387_ANS_clinical_caseMIR	SENT2	-	-
+14	necrosis	necrosis	NCFN000	C0027540	anomalía_morfológica	89-97	387_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	infectada	infectar	VMP00SF	-	-	98-107	387_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+16	.	.	Fp	-	-	107-108	387_ANS_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	0-2	387_ANS_clinical_caseMIR	SENT3	-	-
+2	nutrición	nutrición	NCFS000	C1442959	entidad_observable#función	3-12	387_ANS_clinical_caseMIR	SENT3	-	-
+3	parenteral	parenteral		-	-	13-23	387_ANS_clinical_caseMIR	SENT3	-	-
+4	total	total	NCMS000	C0205197#C0439810#C0444868	calificador	24-29	387_ANS_clinical_caseMIR	SENT3	-	-
+5	está	estar	VAIP3S0	-	-	30-34	387_ANS_clinical_caseMIR	SENT3	-	-
+6	indicada	indicar	VMP00SF	-	-	35-43	387_ANS_clinical_caseMIR	SENT3	-	-
+7	a	a	SPS00	-	-	44-45	387_ANS_clinical_caseMIR	SENT3	-	-
+8	partir	partir	VMN0000	-	-	46-52	387_ANS_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	53-55	387_ANS_clinical_caseMIR	SENT3	-	-
+10	las	el	DA0FP0	-	-	56-59	387_ANS_clinical_caseMIR	SENT3	-	-
+11	48-72	48-72	Z	-	-	60-65	387_ANS_clinical_caseMIR	SENT3	-	-
+12	horas	h	NCFP000	C0439227	calificador	66-71	387_ANS_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	71-72	387_ANS_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	0-2	387_ANS_clinical_caseMIR	SENT4	-	-
+2	uso	uso	NCMS000	C0457083#C1947944	atributo#calificador	3-6	387_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	7-9	387_ANS_clinical_caseMIR	SENT4	-	-
+4	inhibidores	inhibidor	NCMP000	-	-	10-21	387_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	22-24	387_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+6	la	lo	PP3FSA00	-	-	25-27	387_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+7	proteasa	proteasa	NCFS000	C1150171	función_biológica	28-36	387_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+8	(	(	Fpa	-	-	37-38	387_ANS_clinical_caseMIR	SENT4	-	-
+9	aprotinina	aprotinina	NC00SC0	C0003641	producto#sustancia	38-48	387_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+10	)	)	Fpt	-	-	48-49	387_ANS_clinical_caseMIR	SENT4	-	-
+11	ha	haber	VAIP3S0	-	-	50-52	387_ANS_clinical_caseMIR	SENT4	-	-
+12	demostrado	demostrar	VMP00SM	-	-	53-63	387_ANS_clinical_caseMIR	SENT4	-	-
+13	un	un		C0205447_1	calificador_1	64-66	387_ANS_clinical_caseMIR	SENT4	-	-
+14	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	67-73	387_ANS_clinical_caseMIR	SENT4	-	-
+15	beneficioso	beneficioso	AQ0MS0	-	-	74-85	387_ANS_clinical_caseMIR	SENT4	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	387_ANS_clinical_caseMIR	SENT4	-	-
+17	estos	este	DD0MP0	-	-	89-94	387_ANS_clinical_caseMIR	SENT4	-	-
+18	casos	caso	NCMP000	C0868928	calificador	95-100	387_ANS_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	100-101	387_ANS_clinical_caseMIR	SENT4	-	-
+

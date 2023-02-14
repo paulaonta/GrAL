@@ -1,0 +1,62 @@
+1	¿	¿	Fia	-	-	347-348	521_QUEST_clinical_caseMIR	SENT1	-	-
+2	Que	que	CS	-	-	348-351	521_QUEST_clinical_caseMIR	SENT1	-	-
+3	estructura	estructura	NCFS000	-	-	352-362	521_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	363-365	521_QUEST_clinical_caseMIR	SENT1	-	-
+5	las	el	DA0FP0	-	-	366-369	521_QUEST_clinical_caseMIR	SENT1	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	370-380	521_QUEST_clinical_caseMIR	SENT1	-	-
+7	debe	deber	VMIP3S0	-	-	381-385	521_QUEST_clinical_caseMIR	SENT1	-	-
+8	pensar	pensar	VMN0000	-	-	386-392	521_QUEST_clinical_caseMIR	SENT1	-	-
+9	que	que	CS	-	-	393-396	521_QUEST_clinical_caseMIR	SENT1	-	-
+10	puede	poder	VMIP3S0	-	-	397-402	521_QUEST_clinical_caseMIR	SENT1	-	-
+11	estar	estar	VAN0000	-	-	403-408	521_QUEST_clinical_caseMIR	SENT1	-	-
+12	lesionada	lesionar	VMP00SF	-	-	409-418	521_QUEST_clinical_caseMIR	SENT1	-	-
+13	?	?	Fit	-	-	418-419	521_QUEST_clinical_caseMIR	SENT1	-	-
+14	:	:	Fd	-	-	419-420	521_QUEST_clinical_caseMIR	SENT1	-	-
+15	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	521_QUEST_clinical_caseMIR	SENT1	-	-
+16	un	un		C0205447_1	calificador_1	3-5	521_QUEST_clinical_caseMIR	SENT1	-	-
+17	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	6-12	521_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	13-15	521_QUEST_clinical_caseMIR	SENT1	-	-
+19	70	70		-	-	16-18	521_QUEST_clinical_caseMIR	SENT1	-	-
+20	años	año	NCMP000	C0439234	calificador	19-23	521_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	23-24	521_QUEST_clinical_caseMIR	SENT1	-	-
+22	hipertenso	hipertenso	NCMS000	-	-	25-35	521_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	,	,	Fc	-	-	35-36	521_QUEST_clinical_caseMIR	SENT1	-	-
+24	con	con	SPS00	C0332287	atributo	37-40	521_QUEST_clinical_caseMIR	SENT1	-	-
+25	una	una		C0205447_1	calificador_1	41-44	521_QUEST_clinical_caseMIR	SENT1	-	-
+26	hemiplejia	hemiplejia	NCFS000	-	-	45-55	521_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	56-63	521_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	de	de	SPS00	C0332285	atributo	64-66	521_QUEST_clinical_caseMIR	SENT1	-	-
+29	instauración	instauración	NCFS000	-	-	67-79	521_QUEST_clinical_caseMIR	SENT1	-	-
+30	brusca	brusco	AQ0FS0	C0443162	calificador	80-86	521_QUEST_clinical_caseMIR	SENT1	-	-
+31	con	con	SPS00	C0332287	atributo	87-90	521_QUEST_clinical_caseMIR	SENT1	-	-
+32	una	una		C0205447_1	calificador_1	91-94	521_QUEST_clinical_caseMIR	SENT1	-	-
+33	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	95-99	521_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+34	disartria	disartria	NCFS000	C0013362	hallazgo	100-109	521_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	,	,	Fc	-	-	109-110	521_QUEST_clinical_caseMIR	SENT1	-	-
+36	sin	sin	SPS00	C0332288	atributo	111-114	521_QUEST_clinical_caseMIR	SENT1	-	-
+37	alteraciones	alteración	NCFP000	-	-	115-127	521_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+38	en	en	SPS00	C1720294#C0332285	calificador#atributo	128-130	521_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+39	la	el	DA0FS0	-	-	131-133	521_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+40	evocación	evocación	NCFS000	-	-	134-143	521_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+41	ni	ni	CC	-	-	144-146	521_QUEST_clinical_caseMIR	SENT1	-	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	147-149	521_QUEST_clinical_caseMIR	SENT1	-	-
+43	la	el	DA0FS0	-	-	150-152	521_QUEST_clinical_caseMIR	SENT1	-	-
+44	comprensión	comprensión	NCFS000	C0233733_1	función_1	153-164	521_QUEST_clinical_caseMIR	SENT1	-	-
+45	del	del	SP+DA	C0233733_2	función_2	165-168	521_QUEST_clinical_caseMIR	SENT1	-	-
+46	lenguaje	lenguaje	NCMS000	C0233733_3	función_3	169-177	521_QUEST_clinical_caseMIR	SENT1	-	-
+47	,	,	Fc	-	-	177-178	521_QUEST_clinical_caseMIR	SENT1	-	-
+48	¿	¿	Fia	-	-	179-180	521_QUEST_clinical_caseMIR	SENT1	-	-
+49	qué	qué	DE0CN0	-	-	180-183	521_QUEST_clinical_caseMIR	SENT1	-	-
+50	tipo	tipo	NCMS000	C0332307	calificador#atributo	184-188	521_QUEST_clinical_caseMIR	SENT1	-	-
+51	de	de	SPS00	C0332285	atributo	189-191	521_QUEST_clinical_caseMIR	SENT1	-	-
+52	ictus	ictus	NCMN000	-	-	192-197	521_QUEST_clinical_caseMIR	SENT1	-	-
+53	cree	creer	VMIP3S0	-	-	198-202	521_QUEST_clinical_caseMIR	SENT1	-	-
+54	que	que	CS	-	-	203-206	521_QUEST_clinical_caseMIR	SENT1	-	-
+55	es	ser	VSIP3S0	-	-	207-209	521_QUEST_clinical_caseMIR	SENT1	-	-
+56	más	más	RG	C0205172	calificador	210-213	521_QUEST_clinical_caseMIR	SENT1	-	-
+57	probable	probable	AQ0CS0	C0332148	calificador	214-222	521_QUEST_clinical_caseMIR	SENT1	-	-
+58	que	que	CS	-	-	223-226	521_QUEST_clinical_caseMIR	SENT1	-	-
+59	haya	haber	VASP1S0	-	-	227-231	521_QUEST_clinical_caseMIR	SENT1	-	-
+60	sufrido	sufrir	VMP00SM	-	-	232-239	521_QUEST_clinical_caseMIR	SENT1	-	-
+61	?	?	Fit	-	-	239-240	521_QUEST_clinical_caseMIR	SENT1	-	-
+

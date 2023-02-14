@@ -1,0 +1,67 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	588_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	588_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	10-12	588_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	588_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	588_QUEST_clinical_caseMIR	SENT1	-	-
+6	el	el	DA0MS0	-	-	22-24	588_QUEST_clinical_caseMIR	SENT1	-	-
+7	siguiente	siguiente	AQ0CS0	C0332282	atributo	25-34	588_QUEST_clinical_caseMIR	SENT1	-	-
+8	hemograma	hemograma	NCMS000	C0200631	procedimiento	35-44	588_QUEST_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	44-45	588_QUEST_clinical_caseMIR	SENT1	-	-
+10	leucocitos	leucocito	NCMP000	C0023516	célula	46-56	588_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	10.000/uL	10.000/uL		-	-	57-66	588_QUEST_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	67-70	588_QUEST_clinical_caseMIR	SENT1	-	-
+13	desviación	desviación	NCFS000	C0185033#C0333051	procedimiento#anomalía_morfológica	71-81	588_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	izquierda	izquierdo	AQ0FS0	C0205091	calificador	82-91	588_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	,	,	Fc	-	-	91-92	588_QUEST_clinical_caseMIR	SENT1	-	-
+16	Hb	hb	NC00YL0	-	-	93-95	588_QUEST_clinical_caseMIR	SENT1	-	-
+17	11	11	Z	-	-	96-98	588_QUEST_clinical_caseMIR	SENT1	-	-
+18	g	g	NCMN000	-	-	99-100	588_QUEST_clinical_caseMIR	SENT1	-	-
+19	/	/	Fh	-	-	100-101	588_QUEST_clinical_caseMIR	SENT1	-	-
+20	dL	decilitro	NCMN000	C0439241	calificador	101-103	588_QUEST_clinical_caseMIR	SENT1	-	-
+21	y	y	CC	C1706368	calificador	104-105	588_QUEST_clinical_caseMIR	SENT1	-	-
+22	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	106-115	588_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	1.870.000/uL	1.870.000/uL		-	-	116-128	588_QUEST_clinical_caseMIR	SENT1	-	-
+24	con	con	SPS00	C0332287	atributo	129-132	588_QUEST_clinical_caseMIR	SENT1	-	-
+25	importante	importante	AQ0CS0	-	-	133-143	588_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	anisotrombia	anisotrombia	VMIP3S0	-	-	144-156	588_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	.	.	Fp	-	-	156-157	588_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Moderada	moderar	VMP00SF	-	-	158-166	588_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+2	esplenomegalia	esplenomegalia	NCFS000	C0038002	trastorno	167-181	588_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	182-184	588_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	185-187	588_QUEST_clinical_caseMIR	SENT2	-	-
+5	examen	examen	NCMS000	C0031809_1	procedimiento_1	188-194	588_QUEST_clinical_caseMIR	SENT2	-	-
+6	físico	físico	NCMS000	C0031809_2	procedimiento_2	195-201	588_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	201-202	588_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	203-205	588_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	206-208	588_QUEST_clinical_caseMIR	SENT3	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	209-216	588_QUEST_clinical_caseMIR	SENT3	-	-
+4	molecular	molecular	AQ0CS0	-	-	217-226	588_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	227-229	588_QUEST_clinical_caseMIR	SENT3	-	-
+6	detecta	detectar	VMIP3S0	-	-	230-237	588_QUEST_clinical_caseMIR	SENT3	-	-
+7	reordenamiento	reordenamiento	NCMS000	-	-	238-252	588_QUEST_clinical_caseMIR	SENT3	-	-
+8	del	del	SP+DA	-	-	253-256	588_QUEST_clinical_caseMIR	SENT3	-	-
+9	gen	gen	NCMS000	C0017337	sustancia	257-260	588_QUEST_clinical_caseMIR	SENT3	-	-
+10	bcr	bcr	NCFS000	-	-	261-264	588_QUEST_clinical_caseMIR	SENT3	-	-
+11	/	/	Fh	-	-	264-265	588_QUEST_clinical_caseMIR	SENT3	-	-
+12	abl	ablando	NC00YL0	-	-	265-268	588_QUEST_clinical_caseMIR	SENT3	-	-
+13	y	y	CC	C1706368	calificador	269-270	588_QUEST_clinical_caseMIR	SENT3	-	-
+14	no	no	RN	C1298908	calificador	271-273	588_QUEST_clinical_caseMIR	SENT3	-	-
+15	se	se	P00CN000	-	-	274-276	588_QUEST_clinical_caseMIR	SENT3	-	-
+16	detecta	detectar	VMIP3S0	-	-	277-284	588_QUEST_clinical_caseMIR	SENT3	-	-
+17	mutación	mutación	NCFS000	-	-	285-293	588_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	294-296	588_QUEST_clinical_caseMIR	SENT3	-	-
+19	el	el	DA0MS0	-	-	297-299	588_QUEST_clinical_caseMIR	SENT3	-	-
+20	gen	gen	NCMS000	C0017337	sustancia	300-303	588_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+21	JAK2	JAK2		-	-	304-308	588_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+22	.	.	Fp	-	-	308-309	588_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	310-311	588_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	311-315	588_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	316-318	588_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	319-321	588_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	322-333	588_QUEST_clinical_caseMIR	SENT4	-	-
+6	correcto	correcto	AQ0MS0	C0205170	calificador	334-342	588_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	342-343	588_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,88 @@
+1	Elija	elegir	VMSP3S0	-	-	269-274	439_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	275-277	439_QUEST_clinical_caseMIR	SENT1	-	-
+3	las	el	DA0FP0	-	-	278-281	439_QUEST_clinical_caseMIR	SENT1	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	282-292	439_QUEST_clinical_caseMIR	SENT1	-	-
+5	respuestas	respuesta	NCFP000	-	-	293-303	439_QUEST_clinical_caseMIR	SENT1	-	-
+6	que	que	PR0CN000	-	-	304-307	439_QUEST_clinical_caseMIR	SENT1	-	-
+7	se	se	P00CN000	-	-	308-310	439_QUEST_clinical_caseMIR	SENT1	-	-
+8	refieren	referir	VMIP3P0	-	-	311-319	439_QUEST_clinical_caseMIR	SENT1	-	-
+9	esta	este	DD0FS0	-	-	320-324	439_QUEST_clinical_caseMIR	SENT1	-	-
+10	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	325-335	439_QUEST_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	336-338	439_QUEST_clinical_caseMIR	SENT1	-	-
+12	correcta	correcto	AQ0FS0	C0205170	calificador	339-347	439_QUEST_clinical_caseMIR	SENT1	-	-
+13	:	:	Fd	-	-	347-348	439_QUEST_clinical_caseMIR	SENT1	-	-
+14	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	439_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	7-9	439_QUEST_clinical_caseMIR	SENT1	-	-
+16	80	80		-	-	10-12	439_QUEST_clinical_caseMIR	SENT1	-	-
+17	años	año	NCMP000	C0439234	calificador	13-17	439_QUEST_clinical_caseMIR	SENT1	-	-
+18	consciente	consciente	AQ0CS0	-	-	18-28	439_QUEST_clinical_caseMIR	SENT1	-	-
+19	y	y	CC	C1706368	calificador	29-30	439_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	31-34	439_QUEST_clinical_caseMIR	SENT1	-	-
+21	aparente	aparente	AQ0CS0	-	-	35-43	439_QUEST_clinical_caseMIR	SENT1	-	-
+22	buen	bueno	AQ0MS0	C0205170	calificador	44-48	439_QUEST_clinical_caseMIR	SENT1	-	-
+23	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	49-55	439_QUEST_clinical_caseMIR	SENT1	-	-
+24	general	general	AQ0CS0	C0205246	calificador	56-63	439_QUEST_clinical_caseMIR	SENT1	-	-
+25	.	.	Fp	-	-	63-64	439_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	65-67	439_QUEST_clinical_caseMIR	SENT2	-	-
+2	trasladado	trasladar	VMP00SM	-	-	68-78	439_QUEST_clinical_caseMIR	SENT2	-	-
+3	al	al	SP+DA	-	-	79-81	439_QUEST_clinical_caseMIR	SENT2	-	-
+4	Servicio	servicio	NCMS000	-	-	82-90	439_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	91-93	439_QUEST_clinical_caseMIR	SENT2	-	-
+6	Urgencias	urgencia	NCFP000	C0439609	calificador	94-103	439_QUEST_clinical_caseMIR	SENT2	-	-
+7	tras	tras	SPS00	-	-	104-108	439_QUEST_clinical_caseMIR	SENT2	-	-
+8	sufrir	sufrir	VMN0000	-	-	109-115	439_QUEST_clinical_caseMIR	SENT2	-	-
+9	quemadura	quemadura	NCFS000	C0006436_1	trastorno_1	116-125	439_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	eléctrica	eléctrico	AQ0FS0	C0006436_2	trastorno_2	126-135	439_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+11	al	al	SP+DA	-	-	136-138	439_QUEST_clinical_caseMIR	SENT2	-	-
+12	tocar	tocar	VMN0000	C0702221	entidad_observable	139-144	439_QUEST_clinical_caseMIR	SENT2	-	-
+13	un	un		C0205447_1	calificador_1	145-147	439_QUEST_clinical_caseMIR	SENT2	-	-
+14	cable	cable	NCMS000	-	-	148-153	439_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	154-156	439_QUEST_clinical_caseMIR	SENT2	-	-
+16	alta	alto	AQ0FS0	C0205250	calificador	157-161	439_QUEST_clinical_caseMIR	SENT2	-	-
+17	tensión	tensión	NCFS000	C0038435	hallazgo	162-169	439_QUEST_clinical_caseMIR	SENT2	-	-
+18	accidentalmente	accidentalmente	RG	-	-	170-185	439_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	185-186	439_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	187-189	439_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	190-192	439_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	193-204	439_QUEST_clinical_caseMIR	SENT3	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	205-211	439_QUEST_clinical_caseMIR	SENT3	-	-
+5	presenta	presentar	VMIP3S0	-	-	212-220	439_QUEST_clinical_caseMIR	SENT3	-	-
+6	una	una		C0205447_1	calificador_1	221-224	439_QUEST_clinical_caseMIR	SENT3	-	-
+7	quemadura	quemadura	NCFS000	C0006434_1	trastorno#anomalía_morfológica_1	225-234	439_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	235-237	439_QUEST_clinical_caseMIR	SENT3	-	-
+9	mano	mano	NCFS000	C0230370#C1288948_1	estructura_corporal_1	238-242	439_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	derecha	derecho	AQ0FS0	C0230370#C1288948_2	estructura_corporal_2	243-250	439_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	250-251	439_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	252-254	439_QUEST_clinical_caseMIR	SENT3	-	-
+13	tercer	3	AO0MS0	C0443323_1	calificador_1	255-261	439_QUEST_clinical_caseMIR	SENT3	-	-
+14	grado	grado	NCMS000	C0443323_2	calificador_2	262-267	439_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	268-270	439_QUEST_clinical_caseMIR	SENT3	-	-
+16	un	un		C0205447_1	calificador_1	271-273	439_QUEST_clinical_caseMIR	SENT3	-	-
+17	0,2	0.2	Z	-	-	274-277	439_QUEST_clinical_caseMIR	SENT3	-	-
+18	%	%	Ft	-	-	278-279	439_QUEST_clinical_caseMIR	SENT3	-	-
+19	de	de	SPS00	C0332285	atributo	280-282	439_QUEST_clinical_caseMIR	SENT3	-	-
+20	superficie	superficie	NCFS000	C0229978_1	estructura_corporal_1	283-293	439_QUEST_clinical_caseMIR	SENT3	-	-
+21	corporal	corporal	AQ0CS0	C0229978_2	estructura_corporal_2	294-302	439_QUEST_clinical_caseMIR	SENT3	-	-
+22	total	total	NCMS000	C0229978_3	estructura_corporal_3	303-308	439_QUEST_clinical_caseMIR	SENT3	-	-
+23	y	y	CC	C1706368	calificador	309-310	439_QUEST_clinical_caseMIR	SENT3	-	-
+24	una	una		C0205447_1	calificador_1	311-314	439_QUEST_clinical_caseMIR	SENT3	-	-
+25	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	315-321	439_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+26	con	con	SPS00	C0332287	atributo	322-325	439_QUEST_clinical_caseMIR	SENT3	-	-
+27	estallido	estallido	NCMS000	C0337091	calificador	326-335	439_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	336-338	439_QUEST_clinical_caseMIR	SENT3	-	-
+29	primer	1	AO0MS0	-	-	339-345	439_QUEST_clinical_caseMIR	SENT3	-	-
+30	dedo	dedo	NCMS000	C0582802#C1281584	estructura_corporal	346-350	439_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+31	de	de	SPS00	C0332285	atributo	351-353	439_QUEST_clinical_caseMIR	SENT3	-	-
+32	pie	pie	NCMS000	C1279998#C0230460_1	estructura_corporal_1	354-357	439_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+33	derecho	derecho	NCMS000	C1279998#C0230460_2	estructura_corporal_2	358-365	439_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+34	de	de	SPS00	C0332285	atributo	366-368	439_QUEST_clinical_caseMIR	SENT3	-	-
+35	menos	menos	RG	C0332288	atributo	369-374	439_QUEST_clinical_caseMIR	SENT3	-	-
+36	de	de	SPS00	C0332285	atributo	375-377	439_QUEST_clinical_caseMIR	SENT3	-	-
+37	un	un		C0205447_1	calificador_1	378-380	439_QUEST_clinical_caseMIR	SENT3	-	-
+38	centímetro	centímetro	NCMS000	C0475210	calificador	381-391	439_QUEST_clinical_caseMIR	SENT3	-	-
+39	de	de	SPS00	C0332285	atributo	392-394	439_QUEST_clinical_caseMIR	SENT3	-	-
+40	diámetro	diámetro	NCMS000	C1301886	calificador	395-403	439_QUEST_clinical_caseMIR	SENT3	-	-
+41	.	.	Fp	-	-	403-404	439_QUEST_clinical_caseMIR	SENT3	-	-
+

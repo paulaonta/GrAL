@@ -1,0 +1,24 @@
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	638_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	sistémica	sistémico	AQ0FS0	C0205373	calificador	14-23	638_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	23-24	638_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	638_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	sobre	sobre	SPS00	C1720294#C0205136	calificador	13-18	638_ANS_clinical_caseMIR	SENT2	-	-
+3	lecho	lecho	NCMS000	-	-	19-24	638_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	mamario	mamario	AQ0MS0	-	-	25-32	638_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	32-33	638_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	0-14	638_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	con	con	SPS00	C0332287	atributo	15-18	638_ANS_clinical_caseMIR	SENT3	-	-
+3	inhibidores	inhibidor	NCMP000	-	-	19-30	638_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	de	de	SPS00	C0332285	atributo	31-33	638_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+5	la	el	DA0FS0	-	-	34-36	638_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+6	aromatasa	aromatasa	NCFS000	-	-	37-46	638_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+7	.	.	Fp	-	-	46-47	638_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	638_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	sobre	sobre	SPS00	C1720294#C0205136	calificador	13-18	638_ANS_clinical_caseMIR	SENT4	-	-
+3	hueco	hueco	NCMS000	C0332484	calificador	19-24	638_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	axilar	axilar	AQ0CS0	C0004454	calificador	25-31	638_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	31-32	638_ANS_clinical_caseMIR	SENT4	-	-
+

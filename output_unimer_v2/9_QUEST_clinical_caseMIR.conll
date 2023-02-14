@@ -1,0 +1,91 @@
+1	Enfermo	enfermo	NCMS000	-	-	0-7	9_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	9_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	11-13	9_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	14-18	9_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	19-22	9_QUEST_clinical_caseMIR	SENT1	-	-
+6	cardiopatía	cardiopatía	NCFS000	C0152105#C0694541_1	trastorno_1	23-34	9_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	hipertensiva	hipertensivo	AQ0FS0	C0152105#C0694541_2	trastorno_2	35-47	9_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+8	grave	grave	AQ0CS0	C0439808#C0205082	calificador	48-53	9_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	con	con	SPS00	C0332287	atributo	54-57	9_QUEST_clinical_caseMIR	SENT1	-	-
+10	engrosamiento	engrosamiento	NCMS000	C0205400	hallazgo	58-71	9_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	72-74	9_QUEST_clinical_caseMIR	SENT1	-	-
+12	las	el	DA0FP0	-	-	75-78	9_QUEST_clinical_caseMIR	SENT1	-	-
+13	paredes	pared	NCFP000	-	-	79-86	9_QUEST_clinical_caseMIR	SENT1	-	-
+14	del	del	SP+DA	-	-	87-90	9_QUEST_clinical_caseMIR	SENT1	-	-
+15	ventrículo	ventrículo	NCMS000	C0225897#C1269892_1	estructura_corporal_1	91-101	9_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	izquierdo	izquierdo	NC00SC0	C0225897#C1269892_2	estructura_corporal_2	102-111	9_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	y	y	CC	C1706368	calificador	112-113	9_QUEST_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	114-117	9_QUEST_clinical_caseMIR	SENT1	-	-
+19	función	función	NCFS000	C0542341	entidad_observable#atributo	118-125	9_QUEST_clinical_caseMIR	SENT1	-	-
+20	sistólica	sistólico	AQ0FS0	-	-	126-135	9_QUEST_clinical_caseMIR	SENT1	-	-
+21	normal	normal	AQ0CS0	C0205307	calificador	136-142	9_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	142-143	9_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Había	haber	VAII3S0	-	-	144-149	9_QUEST_clinical_caseMIR	SENT2	-	-
+2	acudido	acudir	VMP00SM	-	-	150-157	9_QUEST_clinical_caseMIR	SENT2	-	-
+3	a	a	SPS00	-	-	158-159	9_QUEST_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	160-163	9_QUEST_clinical_caseMIR	SENT2	-	-
+5	fiesta	fiesta	NCFS000	-	-	164-170	9_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	171-173	9_QUEST_clinical_caseMIR	SENT2	-	-
+7	despedida	despedida	NCFS000	-	-	174-183	9_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	184-186	9_QUEST_clinical_caseMIR	SENT2	-	-
+9	soltero	soltero	NCMS000	C0037179	hallazgo	187-194	9_QUEST_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	195-196	9_QUEST_clinical_caseMIR	SENT2	-	-
+11	comió	comer	VMIS3S0	C0013470	función	197-202	9_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	202-203	9_QUEST_clinical_caseMIR	SENT2	-	-
+13	como	como	CS	C0332257	calificador	204-208	9_QUEST_clinical_caseMIR	SENT2	-	-
+14	los	el	DA0MP0	-	-	209-212	9_QUEST_clinical_caseMIR	SENT2	-	-
+15	demás	demás	PI0CP000	-	-	213-218	9_QUEST_clinical_caseMIR	SENT2	-	-
+16	,	,	Fc	-	-	218-219	9_QUEST_clinical_caseMIR	SENT2	-	-
+17	embutidos	embutido	NCMP000	C0452960	sustancia	220-229	9_QUEST_clinical_caseMIR	SENT2	-	-
+18	y	y	CC	C1706368	calificador	230-231	9_QUEST_clinical_caseMIR	SENT2	-	-
+19	mariscos	marisco	NCMP000	C0036950#C1304606	sustancia#organismo	232-240	9_QUEST_clinical_caseMIR	SENT2	-	-
+20	.	.	Fp	-	-	240-241	9_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	242-248	9_QUEST_clinical_caseMIR	SENT3	-	-
+2	horas	hora	NCFP000	C0040223#C0439227	calificador	249-254	9_QUEST_clinical_caseMIR	SENT3	-	-
+3	después	después	RG	C0231290	atributo	255-262	9_QUEST_clinical_caseMIR	SENT3	-	-
+4	comenzó	comenzar	VMIS3S0	-	-	263-270	9_QUEST_clinical_caseMIR	SENT3	-	-
+5	con	con	SPS00	C0332287	atributo	271-274	9_QUEST_clinical_caseMIR	SENT3	-	-
+6	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	275-281	9_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	282-283	9_QUEST_clinical_caseMIR	SENT3	-	-
+8	ortopnea	ortopnea	NC00SC0	C0085619	hallazgo	284-292	9_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	292-293	9_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	294-296	9_QUEST_clinical_caseMIR	SENT4	-	-
+2	refería	referir	VMII3S0	-	-	297-304	9_QUEST_clinical_caseMIR	SENT4	-	-
+3	dolor	dolor	NCMS000	C0030193	hallazgo	305-310	9_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+4	torácico	torácico	NC00SC0	C0817096	calificador	311-319	9_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	319-320	9_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Su	su	DP3CS0	-	-	321-323	9_QUEST_clinical_caseMIR	SENT5	-	-
+2	TA	ta	NC00YL0	-	-	324-326	9_QUEST_clinical_caseMIR	SENT5	-	-
+3	estaba	estar	VAII3S0	-	-	327-333	9_QUEST_clinical_caseMIR	SENT5	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	334-336	9_QUEST_clinical_caseMIR	SENT5	-	-
+5	torno	torno	NCMS000	-	-	337-342	9_QUEST_clinical_caseMIR	SENT5	-	-
+6	a	a	SPS00	-	-	343-344	9_QUEST_clinical_caseMIR	SENT5	-	-
+7	150/95	150/95	Z	-	-	345-351	9_QUEST_clinical_caseMIR	SENT5	-	-
+8	mmHg	mmHg	NCMP000	-	-	352-356	9_QUEST_clinical_caseMIR	SENT5	-	-
+9	como	como	CS	C0332257	calificador	357-361	9_QUEST_clinical_caseMIR	SENT5	-	-
+10	había	haber	VAII3S0	-	-	362-367	9_QUEST_clinical_caseMIR	SENT5	-	-
+11	tenido	tener	VMP00SM	-	-	368-374	9_QUEST_clinical_caseMIR	SENT5	-	-
+12	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	375-380	9_QUEST_clinical_caseMIR	SENT5	-	-
+13	veces	vez	NCFP000	-	-	381-386	9_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	386-387	9_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Se	se	P00CN000	-	-	388-390	9_QUEST_clinical_caseMIR	SENT6	-	-
+2	auscultaron	auscultar	VMIS3P0	-	-	391-402	9_QUEST_clinical_caseMIR	SENT6	-	-
+3	crepitantes	crepitantes	NCCP000	-	-	403-414	9_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+4	pulmonares	pulmonar	AQ0CP0	C2709248	calificador	415-425	9_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+5	bilaterales	bilateral	AQ0CP0	C0238767	calificador	426-437	9_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+6	.	.	Fp	-	-	437-438	9_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	¿	¿	Fia	-	-	439-440	9_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	440-444	9_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	445-447	9_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	448-450	9_QUEST_clinical_caseMIR	SENT7	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	451-462	9_QUEST_clinical_caseMIR	SENT7	-	-
+6	más	más	RG	C0205172	calificador	463-466	9_QUEST_clinical_caseMIR	SENT7	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	467-475	9_QUEST_clinical_caseMIR	SENT7	-	-
+8	?	?	Fit	-	-	475-476	9_QUEST_clinical_caseMIR	SENT7	-	-
+

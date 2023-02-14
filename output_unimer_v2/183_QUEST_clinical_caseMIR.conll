@@ -1,0 +1,62 @@
+1	Carmen	carmen	NCMS000	-	-	0-6	183_QUEST_clinical_caseMIR	SENT1	-	-
+2	y	y	CC	C1706368	calificador	7-8	183_QUEST_clinical_caseMIR	SENT1	-	-
+3	Pedro	pedro	NCMS000	-	-	9-14	183_QUEST_clinical_caseMIR	SENT1	-	-
+4	tienen	tener	VMIP3P0	-	-	15-21	183_QUEST_clinical_caseMIR	SENT1	-	-
+5	3	3		-	-	22-23	183_QUEST_clinical_caseMIR	SENT1	-	-
+6	hijos	hijo	NCMP000	-	-	24-29	183_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	29-30	183_QUEST_clinical_caseMIR	SENT1	-	-
+8	Enrique	enrique	RG	-	-	31-38	183_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	39-41	183_QUEST_clinical_caseMIR	SENT1	-	-
+10	5	5		-	-	42-43	183_QUEST_clinical_caseMIR	SENT1	-	-
+11	años	año	NCMP000	C0439234	calificador	44-48	183_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	48-49	183_QUEST_clinical_caseMIR	SENT1	-	-
+13	Isabel	isabel	NCMS000	-	-	50-56	183_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	57-59	183_QUEST_clinical_caseMIR	SENT1	-	-
+15	4	4		-	-	60-61	183_QUEST_clinical_caseMIR	SENT1	-	-
+16	años	año	NCMP000	C0439234	calificador	62-66	183_QUEST_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	67-68	183_QUEST_clinical_caseMIR	SENT1	-	-
+18	Pablo	pablo	NCMS000	-	-	69-74	183_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	75-77	183_QUEST_clinical_caseMIR	SENT1	-	-
+20	1	1		-	-	78-79	183_QUEST_clinical_caseMIR	SENT1	-	-
+21	año	año	NCMS000	C0439234	calificador	80-83	183_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	83-84	183_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Recientemente	recientemente	RG	C0332185	calificador	85-98	183_QUEST_clinical_caseMIR	SENT2	-	-
+2	han	haber	VAIP3P0	-	-	99-102	183_QUEST_clinical_caseMIR	SENT2	-	-
+3	notado	notar	VMP00SM	-	-	103-109	183_QUEST_clinical_caseMIR	SENT2	-	-
+4	que	que	CS	-	-	110-113	183_QUEST_clinical_caseMIR	SENT2	-	-
+5	Enrique	enrique	VMSP3S0	-	-	114-121	183_QUEST_clinical_caseMIR	SENT2	-	-
+6	tiene	tener	VMIP3S0	-	-	122-127	183_QUEST_clinical_caseMIR	SENT2	-	-
+7	ciertos	cierto	AQ0MP0	C0205423	calificador	128-135	183_QUEST_clinical_caseMIR	SENT2	-	-
+8	problemas	problema	NCMP000	C0033213	hallazgo	136-145	183_QUEST_clinical_caseMIR	SENT2	-	-
+9	para	para	SPS00	C0521125	calificador	146-150	183_QUEST_clinical_caseMIR	SENT2	-	-
+10	subir	subir	VMN0000	C1290942_1	entidad_observable_1	151-156	183_QUEST_clinical_caseMIR	SENT2	-	-
+11	las	lo	PP3FPA00	C1290942_2	entidad_observable_2	157-160	183_QUEST_clinical_caseMIR	SENT2	-	-
+12	escaleras	escalera	NCFP000	C1290942_3	entidad_observable_3	161-170	183_QUEST_clinical_caseMIR	SENT2	-	-
+13	y	y	CC	C1706368	calificador	171-172	183_QUEST_clinical_caseMIR	SENT2	-	-
+14	se	se	P00CN000	-	-	173-175	183_QUEST_clinical_caseMIR	SENT2	-	-
+15	cansa	cansar	VMIP3S0	-	-	176-181	183_QUEST_clinical_caseMIR	SENT2	-	-
+16	mucho	mucho	RG	C0439064	-	182-187	183_QUEST_clinical_caseMIR	SENT2	-	-
+17	cuando	cuando	CS	-	-	188-194	183_QUEST_clinical_caseMIR	SENT2	-	-
+18	corre	correr	VMIP3S0	-	-	195-200	183_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	200-201	183_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Después	después	RG	C0231290	atributo	202-209	183_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	210-212	183_QUEST_clinical_caseMIR	SENT3	-	-
+3	unas	uno	DI0FP0	C0205447	calificador	213-217	183_QUEST_clinical_caseMIR	SENT3	-	-
+4	pruebas	prueba	NCFP000	-	-	218-225	183_QUEST_clinical_caseMIR	SENT3	-	-
+5	médicas	médico	AQ0FP0	C0205476#C0031831	calificador#ocupación	226-233	183_QUEST_clinical_caseMIR	SENT3	-	-
+6	,	,	Fc	-	-	233-234	183_QUEST_clinical_caseMIR	SENT3	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	235-237	183_QUEST_clinical_caseMIR	SENT3	-	-
+8	han	haber	VAIP3P0	-	-	238-241	183_QUEST_clinical_caseMIR	SENT3	-	-
+9	diagnosticado	diagnosticar	VMP00SM	-	-	242-255	183_QUEST_clinical_caseMIR	SENT3	-	-
+10	una	una		C0205447_1	calificador_1	256-259	183_QUEST_clinical_caseMIR	SENT3	-	-
+11	enfermedad	enfermedad	NCFS000	C0019247_1	trastorno_1	260-270	183_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	genética	genético	AQ0FS0	C0019247_2	trastorno_2	271-279	183_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+13	llamada	llamar	VMP00SF	-	-	280-287	183_QUEST_clinical_caseMIR	SENT3	-	-
+14	distrofia	distrofia	NCFS000	C0013264_1	trastorno_1	288-297	183_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+15	muscular	muscular	NC00SC0	C0013264_2	trastorno_2	298-306	183_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	de	de	SPS00	C0013264_3	trastorno_3	307-309	183_QUEST_clinical_caseMIR	SENT3	-	-
+17	Duchenne	Duchenne		C0013264_4	trastorno_4	310-318	183_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	318-319	183_QUEST_clinical_caseMIR	SENT3	-	-
+

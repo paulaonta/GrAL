@@ -1,0 +1,34 @@
+1	¿	¿	Fia	-	-	692-693	125_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	693-697	125_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	698-700	125_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	701-703	125_ANS_clinical_caseMIR	SENT1	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	704-715	125_ANS_clinical_caseMIR	SENT1	-	-
+6	más	más	RG	C0205172	calificador	716-719	125_ANS_clinical_caseMIR	SENT1	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	720-728	125_ANS_clinical_caseMIR	SENT1	-	-
+8	?	?	Fit	-	-	728-729	125_ANS_clinical_caseMIR	SENT1	-	-
+9	:	:	Fd	-	-	729-730	125_ANS_clinical_caseMIR	SENT1	-	-
+10	Una	Una		C0205447_1	calificador_1	0-3	125_ANS_clinical_caseMIR	SENT1	-	-
+11	prueba	prueba	NCFS000	-	-	4-10	125_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	11-13	125_ANS_clinical_caseMIR	SENT1	-	-
+13	esfuerzo	esfuerzo	NCMS000	-	-	14-22	125_ANS_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	22-23	125_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Una	Una		C0205447_1	calificador_1	0-3	125_ANS_clinical_caseMIR	SENT2	-	-
+2	coronariografia	coronariografia	NCFS000	-	-	4-19	125_ANS_clinical_caseMIR	SENT2	-	-
+3	.	.	Fp	-	-	19-20	125_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Un	Un		C0205447_1	calificador_1	0-2	125_ANS_clinical_caseMIR	SENT3	-	-
+2	Ecocardiograma	ecocardiograma	NCMS000	-	-	3-17	125_ANS_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	18-20	125_ANS_clinical_caseMIR	SENT3	-	-
+4	ejercicio	ejercicio	NCMS000	C0015259	entidad_observable	21-30	125_ANS_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	30-31	125_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Un	Un		C0205447_1	calificador_1	0-2	125_ANS_clinical_caseMIR	SENT4	-	-
+2	TAC	tac	NC00YL0	C0040405	procedimiento	3-6	125_ANS_clinical_caseMIR	SENT4	-	-
+3	coronario	coronario	AQ0MS0	-	-	7-16	125_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	16-17	125_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Un	Un		C0205447_1	calificador_1	0-2	125_ANS_clinical_caseMIR	SENT5	-	-
+2	Ecocardiograma-Doppler	ecocardiograma-doppler	NCCS000	-	-	3-25	125_ANS_clinical_caseMIR	SENT5	-	-
+3	.	.	Fp	-	-	25-26	125_ANS_clinical_caseMIR	SENT5	-	-
+

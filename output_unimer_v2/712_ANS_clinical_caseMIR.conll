@@ -1,0 +1,19 @@
+1	Enfermedad	enfermedad	NCFS000	C0206062_1	trastorno_1	0-10	712_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	pulmonar	pulmonar	NC00SC0	C0206062_2	trastorno_2	11-19	712_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	intersticial	intersticial	AQ0CS0	C0206062_3	trastorno_3	20-32	712_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	incipiente	incipiente	AQ0CS0	C0205256	calificador	33-43	712_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	.	.	Fp	-	-	43-44	712_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Hipertensión	hipertensión	NCFS000	C2973725_1	trastorno_1	0-12	712_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	arterial	arterial	NC00SC0	C2973725_2	trastorno_2	13-21	712_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	pulmonar	pulmonar	NC00SC0	C2973725_3	trastorno_3	22-30	712_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+4	.	.	Fp	-	-	30-31	712_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Insuficiencia	insuficiencia	NCFS000	C0018801#C1959583_1	trastorno_1	0-13	712_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	cardíaca	cardíaco	NCFS000	C0018801#C1959583_2	trastorno_2	14-22	712_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	22-23	712_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	0-15	712_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	pulmonar	pulmonar	NC00SC0	C2709248	calificador	16-24	712_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	24-25	712_ANS_clinical_caseMIR	SENT4	-	-
+

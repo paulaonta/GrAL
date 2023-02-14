@@ -1,0 +1,21 @@
+1	Deficiencia	deficiencia	NCFS000	C0011155_1	atributo_1	0-11	563_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0011155_2	atributo_2	12-14	563_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	adherencia	adherencia	NCFS000	C0001511	anomalía_morfológica	15-25	563_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+4	leucocitaria	leucocitario	AQ0FS0	-	-	26-38	563_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+5	.	.	Fp	-	-	38-39	563_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Inmunodeficiencia	inmunodeficiencia	NCFS000	C0021051	trastorno	0-17	563_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	común	común	NC00SC0	C0205214	calificador	18-23	563_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	variable	variable	NCFS000	C0439828#C0392747	calificador	24-32	563_ANS_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	32-33	563_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Deficiencia	deficiencia	NCFS000	C0398595_1	trastorno_1	0-11	563_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0398595_2	trastorno_2	12-14	563_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	mieloperoxidasa	mieloperoxidasa	NCFS000	C0398595_3	trastorno_3	15-30	563_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	30-31	563_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0018203_1	trastorno_1	0-10	563_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	granulomatosa	granulomatoso	AQ0FS0	C0018203_2	trastorno_2	11-24	563_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+3	crónica	crónico	AQ0FS0	C0018203_3	trastorno_3	25-32	563_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+4	.	.	Fp	-	-	32-33	563_ANS_clinical_caseMIR	SENT4	-	-
+

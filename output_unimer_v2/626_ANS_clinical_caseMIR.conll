@@ -1,0 +1,72 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	626_ANS_clinical_caseMIR	SENT1	-	-
+2	esta	este	DD0FS0	-	-	3-7	626_ANS_clinical_caseMIR	SENT1	-	-
+3	situación	situación	NCFS000	-	-	8-17	626_ANS_clinical_caseMIR	SENT1	-	-
+4	los	el	DA0MP0	-	-	18-21	626_ANS_clinical_caseMIR	SENT1	-	-
+5	hemocultivos	hemocultivos	NCMP000	-	-	22-34	626_ANS_clinical_caseMIR	SENT1	-	-
+6	ofrecen	ofrecer	VMIP3P0	-	-	35-42	626_ANS_clinical_caseMIR	SENT1	-	-
+7	escasa	escaso	AQ0FS0	C0443295#C0205169	calificador	43-49	626_ANS_clinical_caseMIR	SENT1	-	-
+8	rentabilidad	rentabilidad	NCFS000	-	-	50-62	626_ANS_clinical_caseMIR	SENT1	-	-
+9	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	63-74	626_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	74-75	626_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	0-2	626_ANS_clinical_caseMIR	SENT2	-	-
+2	test	test	NCMS000	-	-	3-7	626_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	626_ANS_clinical_caseMIR	SENT2	-	-
+4	rosa	rosa	NCMS000	C0035857_1	sustancia#producto_1	11-15	626_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0035857_2	sustancia#producto_2	16-18	626_ANS_clinical_caseMIR	SENT2	-	-
+6	Bengala	bengala	NCFS000	C0035857_3	sustancia#producto_3	19-26	626_ANS_clinical_caseMIR	SENT2	-	-
+7	puede	poder	VMIP3S0	-	-	27-32	626_ANS_clinical_caseMIR	SENT2	-	-
+8	resultar	resultar	VMN0000	-	-	33-41	626_ANS_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0332285	atributo	42-44	626_ANS_clinical_caseMIR	SENT2	-	-
+10	gran	gran	AQ0CS0	C0549177	calificador	45-49	626_ANS_clinical_caseMIR	SENT2	-	-
+11	utilidad	utilidad	NCFS000	-	-	50-58	626_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	58-59	626_ANS_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	626_ANS_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	3-5	626_ANS_clinical_caseMIR	SENT3	-	-
+3	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	6-17	626_ANS_clinical_caseMIR	SENT3	-	-
+4	simple	simple	NCCS000	C1306645_2	procedimiento_2	18-24	626_ANS_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	25-27	626_ANS_clinical_caseMIR	SENT3	-	-
+6	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	28-35	626_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	lo	el	DA0NS0	-	-	36-38	626_ANS_clinical_caseMIR	SENT3	-	-
+8	esperable	esperable	AQ0CS0	-	-	39-48	626_ANS_clinical_caseMIR	SENT3	-	-
+9	es	ser	VSIP3S0	-	-	49-51	626_ANS_clinical_caseMIR	SENT3	-	-
+10	encontrar	encontrar	VMN0000	-	-	52-61	626_ANS_clinical_caseMIR	SENT3	-	-
+11	únicamente	únicamente	RG	-	-	62-72	626_ANS_clinical_caseMIR	SENT3	-	-
+12	aumento	aumento	NCMS000	C0442805	calificador	73-80	626_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	81-83	626_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+14	panes	pan	NCMP000	C0006138	sustancia	84-89	626_ANS_clinical_caseMIR	SENT3	I-Calificador	-
+15	blandas	blando	AQ0FP0	C0205358	calificador	90-97	626_ANS_clinical_caseMIR	SENT3	I-Calificador	-
+16	.	.	Fp	-	-	97-98	626_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Una	Una		C0205447_1	calificador_1	0-3	626_ANS_clinical_caseMIR	SENT4	-	-
+2	buena	bueno	AQ0FS0	C0205170	calificador	4-9	626_ANS_clinical_caseMIR	SENT4	-	-
+3	aproximación	aproximación	NCFS000	-	-	10-22	626_ANS_clinical_caseMIR	SENT4	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	23-34	626_ANS_clinical_caseMIR	SENT4	-	-
+5	puede	poder	VMIP3S0	-	-	35-40	626_ANS_clinical_caseMIR	SENT4	-	-
+6	ser	ser	VSN0000	-	-	41-44	626_ANS_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	45-47	626_ANS_clinical_caseMIR	SENT4	-	-
+8	asociación	asociación	NCFS000	C0004083	atributo	48-58	626_ANS_clinical_caseMIR	SENT4	-	-
+9	de	de	SPS00	C0332285	atributo	59-61	626_ANS_clinical_caseMIR	SENT4	-	-
+10	doxiciclina	doxiciclina	NC00SC0	C0013090	sustancia	62-73	626_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+11	(	(	Fpa	-	-	74-75	626_ANS_clinical_caseMIR	SENT4	-	-
+12	100	100		-	-	75-78	626_ANS_clinical_caseMIR	SENT4	-	-
+13	mg/12	mg/12	Z	-	-	79-84	626_ANS_clinical_caseMIR	SENT4	-	-
+14	horas	h	NCFP000	C0439227	calificador	85-90	626_ANS_clinical_caseMIR	SENT4	-	-
+15	vía	vía	NCFS000	C1527415_1	calificador_1	91-94	626_ANS_clinical_caseMIR	SENT4	-	-
+16	oral	oral	NC00SC0	C1527415_2	calificador_2	95-99	626_ANS_clinical_caseMIR	SENT4	-	-
+17	)	)	Fpt	-	-	99-100	626_ANS_clinical_caseMIR	SENT4	-	-
+18	durante	durante	SPS00	C1444752#C0347984	atributo	101-108	626_ANS_clinical_caseMIR	SENT4	-	-
+19	45	45	Z	-	-	109-111	626_ANS_clinical_caseMIR	SENT4	-	-
+20	días	d	NCMP000	-	-	112-116	626_ANS_clinical_caseMIR	SENT4	-	-
+21	y	y	CC	C1706368	calificador	117-118	626_ANS_clinical_caseMIR	SENT4	-	-
+22	estreptomicina	estreptomicina	NCFS000	C0038425	sustancia	119-133	626_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+23	(	(	Fpa	-	-	134-135	626_ANS_clinical_caseMIR	SENT4	-	-
+24	1	1	Z	-	-	135-136	626_ANS_clinical_caseMIR	SENT4	-	-
+25	g	g	NCMN000	-	-	137-138	626_ANS_clinical_caseMIR	SENT4	-	-
+26	/	/	Fh	-	-	138-139	626_ANS_clinical_caseMIR	SENT4	-	-
+27	día	día	NCMS000	C0439228#C0332169	calificador	139-142	626_ANS_clinical_caseMIR	SENT4	-	-
+28	intramuscular	intramuscular	NC00SC0	C0442117	calificador	143-156	626_ANS_clinical_caseMIR	SENT4	-	-
+29	)	)	Fpt	-	-	156-157	626_ANS_clinical_caseMIR	SENT4	-	-
+30	.	.	Fp	-	-	157-158	626_ANS_clinical_caseMIR	SENT4	-	-
+

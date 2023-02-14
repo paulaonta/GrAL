@@ -1,0 +1,57 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	535_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	535_QUEST_clinical_caseMIR	SENT1	-	-
+3	36	36		-	-	10-12	535_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	535_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	535_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	535_QUEST_clinical_caseMIR	SENT1	-	-
+7	sin	sin	SPS00	C0332122_1	calificador_1	26-29	535_QUEST_clinical_caseMIR	SENT1	-	-
+8	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	30-42	535_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332122_3	calificador_3	43-45	535_QUEST_clinical_caseMIR	SENT1	-	-
+10	interés	interés	NCMS000	-	-	46-53	535_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	54-57	535_QUEST_clinical_caseMIR	SENT1	-	-
+12	tras	tras	SPS00	-	-	58-62	535_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	63-65	535_QUEST_clinical_caseMIR	SENT1	-	-
+14	traumatismo	traumatismo	NCMS000	C3263723	trastorno	66-77	535_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	de	de	SPS00	C0332285	atributo	78-80	535_QUEST_clinical_caseMIR	SENT1	-	-
+16	alta	alto	AQ0FS0	C0205250	calificador	81-85	535_QUEST_clinical_caseMIR	SENT1	-	-
+17	energía	energía	NCFS000	C0424589	hallazgo	86-93	535_QUEST_clinical_caseMIR	SENT1	-	-
+18	al	al	SP+DA	-	-	94-96	535_QUEST_clinical_caseMIR	SENT1	-	-
+19	caer	caer	VMN0000	-	-	97-101	535_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	102-104	535_QUEST_clinical_caseMIR	SENT1	-	-
+21	una	una		C0205447_1	calificador_1	105-108	535_QUEST_clinical_caseMIR	SENT1	-	-
+22	motocicleta	motocicleta	NCFS000	C0026616	objeto_físico	109-120	535_QUEST_clinical_caseMIR	SENT1	-	-
+23	presenta	presentar	VMIP3S0	-	-	121-129	535_QUEST_clinical_caseMIR	SENT1	-	-
+24	una	una		C0205447_1	calificador_1	130-133	535_QUEST_clinical_caseMIR	SENT1	-	-
+25	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	134-142	535_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	diafisaria	diafisaria	NCFS000	-	-	143-153	535_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	media	medio	AQ0FS0	C2939193#C0205098#C0444598#C0549183	calificador	154-159	535_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+28	de	de	SPS00	C0332285	atributo	160-162	535_QUEST_clinical_caseMIR	SENT1	-	-
+29	tibia	tibia	NCFS000	C1279118#C0040184	estructura_corporal	163-168	535_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	,	,	Fc	-	-	168-169	535_QUEST_clinical_caseMIR	SENT1	-	-
+31	abierta	abrir	VMP00SF	-	-	170-177	535_QUEST_clinical_caseMIR	SENT1	-	-
+32	,	,	Fc	-	-	177-178	535_QUEST_clinical_caseMIR	SENT1	-	-
+33	grado	grado	NCMS000	C0205616_1	calificador_1	179-184	535_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+34	II	II		C0205616_2	calificador_2	185-187	535_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+35	de	de	SPS00	C0332285	atributo	188-190	535_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+36	Gustilo	gustilo	NCMS000	-	-	191-198	535_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+37	.	.	Fp	-	-	198-199	535_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	200-201	535_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	201-205	535_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	206-208	535_QUEST_clinical_caseMIR	SENT2	-	-
+4	las	el	DA0FP0	-	-	209-212	535_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	213-223	535_QUEST_clinical_caseMIR	SENT2	-	-
+6	maniobras	maniobra	NCFP000	-	-	224-233	535_QUEST_clinical_caseMIR	SENT2	-	-
+7	o	o	CC	-	-	234-235	535_QUEST_clinical_caseMIR	SENT2	-	-
+8	terapias	terapia	NCFP000	C0087111	régimen/tratamiento	236-244	535_QUEST_clinical_caseMIR	SENT2	-	-
+9	es	ser	VSIP3S0	-	-	245-247	535_QUEST_clinical_caseMIR	SENT2	-	-
+10	más	más	RG	C0205172	calificador	248-251	535_QUEST_clinical_caseMIR	SENT2	-	-
+11	efectiva	efectivo	AQ0FS0	C1704419#C1280500#C1280519	calificador	252-260	535_QUEST_clinical_caseMIR	SENT2	-	-
+12	para	para	SPS00	C0521125	calificador	261-265	535_QUEST_clinical_caseMIR	SENT2	-	-
+13	la	el	DA0FS0	-	-	266-268	535_QUEST_clinical_caseMIR	SENT2	-	-
+14	prevención	prevención	NCFS000	-	-	269-279	535_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	280-282	535_QUEST_clinical_caseMIR	SENT2	-	-
+16	la	el	DA0FS0	-	-	283-285	535_QUEST_clinical_caseMIR	SENT2	-	-
+17	infección	infección	NCFS000	C0009450	trastorno	286-295	535_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	?	?	Fit	-	-	295-296	535_QUEST_clinical_caseMIR	SENT2	-	-
+

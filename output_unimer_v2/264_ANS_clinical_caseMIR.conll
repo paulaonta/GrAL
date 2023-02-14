@@ -1,0 +1,47 @@
+1	Gripe	gripe	NCFS000	C0021400	trastorno	0-5	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	estacional	estacional	AQ0CS0	C0439601	calificador	6-16	264_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	,	,	Fc	-	-	16-17	264_ANS_clinical_caseMIR	SENT1	-	-
+4	neumocócica	neumocócica	AQ0FS00	-	-	18-29	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	,	,	Fc	-	-	29-30	264_ANS_clinical_caseMIR	SENT1	-	-
+6	meningitis	meningitis	NCFN000	C0025289	trastorno	31-41	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	tetravalente	tetravalente	AQ0CS0	-	-	42-54	264_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	y	y	CC	C1706368	calificador	55-56	264_ANS_clinical_caseMIR	SENT1	-	-
+9	hepatitis	hepatitis	NCFN000	C0019158	-	57-66	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	A.	a.	AQ0CS00	-	-	67-69	264_ANS_clinical_caseMIR	SENT1	-	-
+11	Gripe	gripe	NCFS000	C0021400	trastorno	0-5	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	estacional	estacional	AQ0CS0	C0439601	calificador	6-16	264_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+13	,	,	Fc	-	-	16-17	264_ANS_clinical_caseMIR	SENT1	-	-
+14	Td	td	NC00YL0	-	-	18-20	264_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	20-21	264_ANS_clinical_caseMIR	SENT1	-	-
+16	neumocócica	neumocócica	AQ0FS00	-	-	22-33	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	y	y	CC	C1706368	calificador	34-35	264_ANS_clinical_caseMIR	SENT1	-	-
+18	meningitis	meningitis	NCFN000	C0025289	trastorno	36-46	264_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	tetravalente	tetravalente	AQ0CS0	-	-	47-59	264_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+20	.	.	Fp	-	-	59-60	264_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Meningitis	meningitis	NCFN000	C0025289	trastorno	0-10	264_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	tetravalente	tetravalente	AQ0CS0	-	-	11-23	264_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	,	,	Fc	-	-	23-24	264_ANS_clinical_caseMIR	SENT2	-	-
+4	neumocócica	neumocócica	AQ0FS00	-	-	25-36	264_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+5	y	y	CC	C1706368	calificador	37-38	264_ANS_clinical_caseMIR	SENT2	-	-
+6	gripe	gripe	NCFS000	C0021400	trastorno	39-44	264_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	estacional	estacional	AQ0CS0	C0439601	calificador	45-55	264_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+8	.	.	Fp	-	-	55-56	264_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Td	td	NC00YL0	-	-	0-2	264_ANS_clinical_caseMIR	SENT3	-	-
+2	.	.	Fp	-	-	2-3	264_ANS_clinical_caseMIR	SENT3	-	-
+3	meningitis	meningitis	NCFN000	C0025289	trastorno	4-14	264_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	tetravalente	tetravalente	AQ0CS0	-	-	15-27	264_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+5	,	,	Fc	-	-	27-28	264_ANS_clinical_caseMIR	SENT3	-	-
+6	neumocócica	neumocócica	AQ0FS00	-	-	29-40	264_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+7	.	.	Fp	-	-	40-41	264_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Triple	triple	NCMS000	C0205174	calificador	0-6	264_ANS_clinical_caseMIR	SENT4	-	-
+2	vírica	vírico	AQ0FS0	C0042776	organismo	7-13	264_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+3	,	,	Fc	-	-	13-14	264_ANS_clinical_caseMIR	SENT4	-	-
+4	gripe	gripe	NCFS000	C0021400	trastorno	15-20	264_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+5	estacional	estacional	AQ0CS0	C0439601	calificador	21-31	264_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+6	,	,	Fc	-	-	31-32	264_ANS_clinical_caseMIR	SENT4	-	-
+7	neumocócica	neumocócica	AQ0FS00	-	-	33-44	264_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	.	.	Fp	-	-	44-45	264_ANS_clinical_caseMIR	SENT4	-	-
+

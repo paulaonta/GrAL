@@ -1,0 +1,133 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	488_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	488_QUEST_clinical_caseMIR	SENT1	-	-
+3	64	64		-	-	9-11	488_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	488_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	488_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	18-21	488_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedente	antecedente	NCMS000	C0332119_1	situación_1	22-33	488_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	34-36	488_QUEST_clinical_caseMIR	SENT1	-	-
+9	túnel	túnel	NCMS000	C0332816#C0337138	anomalía_morfológica#calificador	37-42	488_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	carpiano	carpiano	AQ0MS0	-	-	43-51	488_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	bilateral	bilateral	NC00SC0	C0238767	calificador	52-61	488_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	.	.	Fp	-	-	61-62	488_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	63-71	488_QUEST_clinical_caseMIR	SENT2	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	72-74	488_QUEST_clinical_caseMIR	SENT2	-	-
+3	los	el	DA0MP0	-	-	75-78	488_QUEST_clinical_caseMIR	SENT2	-	-
+4	últimos	último	AO0MP0	-	-	79-86	488_QUEST_clinical_caseMIR	SENT2	-	-
+5	meses	mes	NCMP000	C0439231	calificador	87-92	488_QUEST_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	93-95	488_QUEST_clinical_caseMIR	SENT2	-	-
+7	cuadro	cuadro	NCMS000	-	-	96-102	488_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	103-105	488_QUEST_clinical_caseMIR	SENT2	-	-
+9	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	106-113	488_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	114-115	488_QUEST_clinical_caseMIR	SENT2	-	-
+11	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	116-122	488_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	progresiva	progresivo	AQ0FS0	C0205329	calificador	123-133	488_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	,	,	Fc	-	-	133-134	488_QUEST_clinical_caseMIR	SENT2	-	-
+14	hasta	hasta	SPS00	-	-	135-140	488_QUEST_clinical_caseMIR	SENT2	-	-
+15	hacer	hacer	VMN0000	-	-	141-146	488_QUEST_clinical_caseMIR	SENT2	-	-
+16	se	se	PP3CN000	-	-	146-148	488_QUEST_clinical_caseMIR	SENT2	-	-
+17	de	de	SPS00	C0332285	atributo	149-151	488_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+18	pequeños	pequeño	AQ0MP0	C0700321#C1282918	calificador	152-160	488_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+19	esfuerzos	esfuerzo	NCMP000	-	-	161-170	488_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+20	.	.	Fp	-	-	170-171	488_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	172-174	488_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	175-177	488_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	178-187	488_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	188-195	488_QUEST_clinical_caseMIR	SENT3	-	-
+5	un	un		C0205447_1	calificador_1	196-198	488_QUEST_clinical_caseMIR	SENT3	-	-
+6	pro-BNP	pro-bnp	NCMS000	-	-	199-206	488_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	207-209	488_QUEST_clinical_caseMIR	SENT3	-	-
+8	2.500	2.500		-	-	210-215	488_QUEST_clinical_caseMIR	SENT3	-	-
+9	pg	picogramo	NC00YL0	C0439213	calificador	216-218	488_QUEST_clinical_caseMIR	SENT3	-	-
+10	/	/	Fh	-	-	218-219	488_QUEST_clinical_caseMIR	SENT3	-	-
+11	mL	mililitro	NCMN000	C0439242	calificador	219-221	488_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	221-222	488_QUEST_clinical_caseMIR	SENT3	-	-
+13	así	así	RG	-	-	223-226	488_QUEST_clinical_caseMIR	SENT3	-	-
+14	como	como	SPS00	C0332257	calificador	227-231	488_QUEST_clinical_caseMIR	SENT3	-	-
+15	la	el	DA0FS0	-	-	232-234	488_QUEST_clinical_caseMIR	SENT3	-	-
+16	existencia	existencia	NCFS000	-	-	235-245	488_QUEST_clinical_caseMIR	SENT3	-	-
+17	de	de	SPS00	C0332285	atributo	246-248	488_QUEST_clinical_caseMIR	SENT3	-	-
+18	un	un		C0205447_1	calificador_1	249-251	488_QUEST_clinical_caseMIR	SENT3	-	-
+19	componente	componente	NCCS000	C0449432	atributo	252-262	488_QUEST_clinical_caseMIR	SENT3	-	-
+20	monoclonal	monoclonal	AQ0CS0	-	-	263-273	488_QUEST_clinical_caseMIR	SENT3	-	-
+21	(	(	Fpa	-	-	274-275	488_QUEST_clinical_caseMIR	SENT3	-	-
+22	inmunofijación	inmunofijación	NCFS000	C0430292	procedimiento	275-289	488_QUEST_clinical_caseMIR	SENT3	-	-
+23	positiva	positivo	AQ0FS0	C1446409	calificador	290-298	488_QUEST_clinical_caseMIR	SENT3	-	-
+24	para	para	SPS00	C0521125	calificador	299-303	488_QUEST_clinical_caseMIR	SENT3	-	-
+25	cadenas	cadena	NCFP000	C3540771#C0337112	metadato_fundacional#objeto_físico	304-311	488_QUEST_clinical_caseMIR	SENT3	-	-
+26	lambda	lambda	NCFS000	-	-	312-318	488_QUEST_clinical_caseMIR	SENT3	-	-
+27	)	)	Fpt	-	-	318-319	488_QUEST_clinical_caseMIR	SENT3	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	320-322	488_QUEST_clinical_caseMIR	SENT3	-	-
+29	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	323-328	488_QUEST_clinical_caseMIR	SENT3	-	-
+30	de	de	SPS00	C0332285	atributo	329-331	488_QUEST_clinical_caseMIR	SENT3	-	-
+31	0,4	0.4	Z	-	-	332-335	488_QUEST_clinical_caseMIR	SENT3	-	-
+32	g	g	NCMN000	-	-	336-337	488_QUEST_clinical_caseMIR	SENT3	-	-
+33	/	/	Fh	-	-	337-338	488_QUEST_clinical_caseMIR	SENT3	-	-
+34	dL	decilitro	NCMN000	C0439241	calificador	338-340	488_QUEST_clinical_caseMIR	SENT3	-	-
+35	.	.	Fp	-	-	340-341	488_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Los	el	DA0MP0	-	-	342-345	488_QUEST_clinical_caseMIR	SENT4	-	-
+2	niveles	nivel	NCMP000	C0456079	atributo	346-353	488_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	354-356	488_QUEST_clinical_caseMIR	SENT4	-	-
+4	cadenas	cadena	NCFP000	C3540771#C0337112	metadato_fundacional#objeto_físico	357-364	488_QUEST_clinical_caseMIR	SENT4	-	-
+5	ligeras	ligero	AQ0FP0	-	-	365-372	488_QUEST_clinical_caseMIR	SENT4	-	-
+6	libres	libre	AQ0CP0	-	-	373-379	488_QUEST_clinical_caseMIR	SENT4	-	-
+7	kappa	kappa	NCFS000	C0439099	calificador	380-385	488_QUEST_clinical_caseMIR	SENT4	-	-
+8	y	y	CC	C1706368	calificador	386-387	488_QUEST_clinical_caseMIR	SENT4	-	-
+9	lambda	lambda	NCFS000	-	-	388-394	488_QUEST_clinical_caseMIR	SENT4	-	-
+10	son	ser	VSIP3P0	-	-	395-398	488_QUEST_clinical_caseMIR	SENT4	-	-
+11	1,2	1,2		-	-	399-402	488_QUEST_clinical_caseMIR	SENT4	-	-
+12	y	y	CC	C1706368	calificador	403-404	488_QUEST_clinical_caseMIR	SENT4	-	-
+13	67,8	67.8	Z	-	-	405-409	488_QUEST_clinical_caseMIR	SENT4	-	-
+14	mg	mg	NCMN000	-	-	410-412	488_QUEST_clinical_caseMIR	SENT4	-	-
+15	/	/	Fh	-	-	412-413	488_QUEST_clinical_caseMIR	SENT4	-	-
+16	dL	decilitro	NCMN000	C0439241	calificador	413-415	488_QUEST_clinical_caseMIR	SENT4	-	-
+17	,	,	Fc	-	-	415-416	488_QUEST_clinical_caseMIR	SENT4	-	-
+18	respectivamente	respectivamente	RG	-	-	417-432	488_QUEST_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	432-433	488_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	434-436	488_QUEST_clinical_caseMIR	SENT5	-	-
+2	realiza	realizar	VMIP3S0	-	-	437-444	488_QUEST_clinical_caseMIR	SENT5	-	-
+3	una	una		C0205447_1	calificador_1	445-448	488_QUEST_clinical_caseMIR	SENT5	-	-
+4	punción	punción	NCFS000	C0033119	anomalía_morfológica	449-456	488_QUEST_clinical_caseMIR	SENT5	-	-
+5	esternal	esternal	AQ0CS0	-	-	457-465	488_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+6	observando	observar	VMG0000	-	-	466-476	488_QUEST_clinical_caseMIR	SENT5	-	-
+7	se	se	PP3CN000	-	-	476-478	488_QUEST_clinical_caseMIR	SENT5	-	-
+8	una	una		C0205447_1	calificador_1	479-482	488_QUEST_clinical_caseMIR	SENT5	-	-
+9	plasmocitosis	plasmocitosis	NCFN000	-	-	483-496	488_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+10	medular	medular	AQ0CS0	-	-	497-504	488_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+11	del	del	SP+DA	-	-	505-508	488_QUEST_clinical_caseMIR	SENT5	-	-
+12	6	6	Z	-	-	509-510	488_QUEST_clinical_caseMIR	SENT5	-	-
+13	%	%	Ft	-	-	510-511	488_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	511-512	488_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Ausencia	ausencia	NCFS000	C0332197_1	calificador_1	513-521	488_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332197_2	calificador_2	522-524	488_QUEST_clinical_caseMIR	SENT6	-	-
+3	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	525-533	488_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Negacion
+4	líticas	lítico	AQ0FP0	C0439680	calificador	534-541	488_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	542-544	488_QUEST_clinical_caseMIR	SENT6	-	-
+6	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	545-547	488_QUEST_clinical_caseMIR	SENT6	-	-
+7	de	de	SPS00	C0332285	atributo	548-550	488_QUEST_clinical_caseMIR	SENT6	-	-
+8	esqueleto	esqueleto	NCMS000	C1317935_1	calificador_1	551-560	488_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+9	entero	entero	NCMS000	C1317935_2	calificador_2	561-567	488_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+10	.	.	Fp	-	-	567-568	488_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	¿	¿	Fia	-	-	569-570	488_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	570-574	488_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	575-577	488_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	578-580	488_QUEST_clinical_caseMIR	SENT7	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	581-592	488_QUEST_clinical_caseMIR	SENT7	-	-
+6	de	de	SPS00	C0332285	atributo	593-595	488_QUEST_clinical_caseMIR	SENT7	-	-
+7	sospecha	sospecha	NCFS000	C0750491	calificador	596-604	488_QUEST_clinical_caseMIR	SENT7	-	-
+8	y	y	CC	C1706368	calificador	605-606	488_QUEST_clinical_caseMIR	SENT7	-	-
+9	la	el	DA0FS0	-	-	607-609	488_QUEST_clinical_caseMIR	SENT7	-	-
+10	prueba	prueba	NCFS000	-	-	610-616	488_QUEST_clinical_caseMIR	SENT7	-	-
+11	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	617-628	488_QUEST_clinical_caseMIR	SENT7	-	-
+12	inicial	inicial	AQ0CS0	C0205265	calificador	629-636	488_QUEST_clinical_caseMIR	SENT7	-	-
+13	para	para	SPS00	C0521125	calificador	637-641	488_QUEST_clinical_caseMIR	SENT7	-	-
+14	su	su	DP3CS0	-	-	642-644	488_QUEST_clinical_caseMIR	SENT7	-	-
+15	confirmación	confirmación	NCFS000	-	-	645-657	488_QUEST_clinical_caseMIR	SENT7	-	-
+16	?	?	Fit	-	-	657-658	488_QUEST_clinical_caseMIR	SENT7	-	-
+

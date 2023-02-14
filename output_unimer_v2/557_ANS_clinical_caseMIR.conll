@@ -1,0 +1,20 @@
+1	Histerectomía	histerectomía	NCFS000	C0677962_1	procedimiento_1	0-13	557_ANS_clinical_caseMIR	SENT1	-	-
+2	total	total	NCMS000	C0677962_2	procedimiento_2	14-19	557_ANS_clinical_caseMIR	SENT1	-	-
+3	conservando	conservar	VMG0000	-	-	20-31	557_ANS_clinical_caseMIR	SENT1	-	-
+4	anejos	anejo	NCMP000	-	-	32-38	557_ANS_clinical_caseMIR	SENT1	-	-
+5	.	.	Fp	-	-	38-39	557_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Anticonceptivos	anticonceptivo	AQ0MP0	-	-	0-15	557_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	combinados	combinado	NCMP000	C0205195	calificador	16-26	557_ANS_clinical_caseMIR	SENT2	-	-
+3	orales	oral	AQ0CP0	C0442027	calificador	27-33	557_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	33-34	557_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Ablación	ablación	NCFS000	C0341803_1	procedimiento_1	0-8	557_ANS_clinical_caseMIR	SENT3	-	-
+2	endometrial	endometrial		C0341803_2	procedimiento_2	9-20	557_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	20-21	557_ANS_clinical_caseMIR	SENT3	-	-
+
+1	DIU	dispositivo_intrauterino	NC00YL0	-	-	0-3	557_ANS_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	4-6	557_ANS_clinical_caseMIR	SENT4	-	-
+3	levonorgestrel	levonorgestrel	NC00SC0	C0023566	producto#sustancia	7-21	557_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	21-22	557_ANS_clinical_caseMIR	SENT4	-	-
+

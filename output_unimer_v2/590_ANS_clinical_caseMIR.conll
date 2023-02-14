@@ -1,0 +1,54 @@
+1	El	el	DA0MS0	-	-	278-280	590_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	281-292	590_ANS_clinical_caseMIR	SENT1	-	-
+3	mas	mas	CC	-	-	293-296	590_ANS_clinical_caseMIR	SENT1	-	-
+4	probable	probable	NC00SC0	C0332148	calificador	297-305	590_ANS_clinical_caseMIR	SENT1	-	-
+5	es	ser	VSIP3S0	-	-	306-308	590_ANS_clinical_caseMIR	SENT1	-	-
+6	:	:	Fd	-	-	308-309	590_ANS_clinical_caseMIR	SENT1	-	-
+7	Iniciar	iniciar	VMN0000	-	-	0-7	590_ANS_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C0149783_1	procedimiento_1	8-19	590_ANS_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0149783_2	procedimiento_2	20-23	590_ANS_clinical_caseMIR	SENT1	-	-
+10	esteroides	esteroide	NCMP000	C0149783_3	procedimiento_3	24-34	590_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	a	a	SPS00	-	-	35-36	590_ANS_clinical_caseMIR	SENT1	-	-
+12	dosis	dosis	NCFN000	-	-	37-42	590_ANS_clinical_caseMIR	SENT1	-	-
+13	altas	alto	AQ0FP0	C0205250	calificador	43-48	590_ANS_clinical_caseMIR	SENT1	-	-
+14	ante	ante	SPS00	-	-	49-53	590_ANS_clinical_caseMIR	SENT1	-	-
+15	posibilidad	posibilidad	NCFS000	-	-	54-65	590_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	66-68	590_ANS_clinical_caseMIR	SENT1	-	-
+17	enfermedad	enfermedad	NCFS000	C0001314_1	trastorno_1	69-79	590_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+18	aguda	agudo	AQ0FS0	C0001314_2	trastorno_2	80-85	590_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+19	injerto	injerto	AQ0MS0	C0040732#C1961139#C0181074#C0332835#C0021102	procedimiento#calificador#sustancia#estructura_corporal#objeto_físico	86-93	590_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+20	contra	contra	SPS00	C0521124	calificador	94-100	590_ANS_clinical_caseMIR	SENT1	-	-
+21	huésped	huésped	NCMS000	-	-	101-108	590_ANS_clinical_caseMIR	SENT1	-	-
+22	hepática	hepático	AQ0FS0	-	-	109-117	590_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	.	.	Fp	-	-	117-118	590_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Ampliar	ampliar	VMN0000	-	-	0-7	590_ANS_clinical_caseMIR	SENT2	-	-
+2	cobertura	cobertura	NCFS000	C0282638_1	procedimiento_1	8-17	590_ANS_clinical_caseMIR	SENT2	-	-
+3	antibiótica	antibiótico	AQ0FS0	C0282638_2	procedimiento_2	18-29	590_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	ante	ante	SPS00	-	-	30-34	590_ANS_clinical_caseMIR	SENT2	-	-
+5	posibilidad	posibilidad	NCFS000	-	-	35-46	590_ANS_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	47-49	590_ANS_clinical_caseMIR	SENT2	-	-
+7	complicación	complicación	NCFS000	C0009566#C2362589	trastorno#atributo	50-62	590_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	infecciosa	infeccioso	AQ0FS0	-	-	63-73	590_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+9	.	.	Fp	-	-	73-74	590_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Considerar	considerar	VMN0000	-	-	0-10	590_ANS_clinical_caseMIR	SENT3	-	-
+2	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	11-19	590_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+3	de	de	SPS00	C0332285	atributo	20-22	590_ANS_clinical_caseMIR	SENT3	-	-
+4	obstrucción	obstrucción	NCFS000	C0028778	anomalía_morfológica	23-34	590_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	sinusoidal	sinusoidal	AQ0CS0	C0442041	calificador	35-45	590_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+6	y	y	CC	C1706368	calificador	46-47	590_ANS_clinical_caseMIR	SENT3	-	-
+7	valorar	valorar	VMN0000	-	-	48-55	590_ANS_clinical_caseMIR	SENT3	-	-
+8	iniciar	iniciar	VMN0000	-	-	56-63	590_ANS_clinical_caseMIR	SENT3	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	64-75	590_ANS_clinical_caseMIR	SENT3	-	-
+10	con	con	SPS00	C0332287	atributo	76-79	590_ANS_clinical_caseMIR	SENT3	-	-
+11	defibrotide	defibrotide	NCFS000	-	-	80-91	590_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+12	.	.	Fp	-	-	91-92	590_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	590_ANS_clinical_caseMIR	SENT4	-	-
+2	sintomático	sintomático	AQ0MS0	C0231220	calificador	12-23	590_ANS_clinical_caseMIR	SENT4	-	-
+3	y	y	CC	C1706368	calificador	24-25	590_ANS_clinical_caseMIR	SENT4	-	-
+4	ver	ver	VMN0000	-	-	26-29	590_ANS_clinical_caseMIR	SENT4	-	-
+5	evolución	evolución	NCFS000	-	-	30-39	590_ANS_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	39-40	590_ANS_clinical_caseMIR	SENT4	-	-
+

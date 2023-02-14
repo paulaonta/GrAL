@@ -1,0 +1,46 @@
+1	Señale	señalar	VMM03S0	-	-	228-234	618_QUEST_clinical_caseMIR	SENT1	-	-
+2	qué	qué	DT0CN0	-	-	235-238	618_QUEST_clinical_caseMIR	SENT1	-	-
+3	suplementación	suplementación	NCFS000	-	-	239-253	618_QUEST_clinical_caseMIR	SENT1	-	-
+4	NO	no	RN	C1298908	calificador	254-256	618_QUEST_clinical_caseMIR	SENT1	-	-
+5	sería	ser	VSIC1S0	-	-	257-262	618_QUEST_clinical_caseMIR	SENT1	-	-
+6	necesaria	necesario	AQ0FS0	-	-	263-272	618_QUEST_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	273-275	618_QUEST_clinical_caseMIR	SENT1	-	-
+8	esta	este	DD0FS0	-	-	276-280	618_QUEST_clinical_caseMIR	SENT1	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	281-289	618_QUEST_clinical_caseMIR	SENT1	-	-
+10	:	:	Fd	-	-	289-290	618_QUEST_clinical_caseMIR	SENT1	-	-
+11	Muchacho	muchacho	NCMS000	-	-	0-8	618_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	9-11	618_QUEST_clinical_caseMIR	SENT1	-	-
+13	15	15		-	-	12-14	618_QUEST_clinical_caseMIR	SENT1	-	-
+14	años	año	NCMP000	C0439234	calificador	15-19	618_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	618_QUEST_clinical_caseMIR	SENT1	-	-
+16	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	618_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	27-28	618_QUEST_clinical_caseMIR	SENT1	-	-
+18	afecto	afecto	NCMS000	C0001721	función	29-35	618_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	36-38	618_QUEST_clinical_caseMIR	SENT1	-	-
+20	una	una		C0205447_1	calificador_1	39-42	618_QUEST_clinical_caseMIR	SENT1	-	-
+21	cardiopatía	cardiopatía	NCFS000	C0152021#C0018798_1	trastorno_1	43-54	618_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	congénita	congénito	AQ0FS0	C0152021#C0018798_2	trastorno_2	55-64	618_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+23	tipo	tipo	NCMS000	C0332307	calificador#atributo	65-69	618_QUEST_clinical_caseMIR	SENT1	-	-
+24	comunicación	comunicación	NCFS000	C0018817_1	trastorno_1	70-82	618_QUEST_clinical_caseMIR	SENT1	-	-
+25	interauricular	interauricular	AQ0CS0	C0018817_2	trastorno_2	83-97	618_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	ostium	ostium	NC00SC0	C1281798#C0225840_1	estructura_corporal_1	98-104	618_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	secundum	secundum		C1281798#C0225840_2	estructura_corporal_2	105-113	618_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+28	,	,	Fc	-	-	113-114	618_QUEST_clinical_caseMIR	SENT1	-	-
+29	con	con	SPS00	C0332287	atributo	115-118	618_QUEST_clinical_caseMIR	SENT1	-	-
+30	cortocircuito	cortocircuito	NCMS000	C0542331	objeto_físico	119-132	618_QUEST_clinical_caseMIR	SENT1	-	-
+31	izquierda-derecha	izquierda-derecha	AQ0FS00	-	-	133-150	618_QUEST_clinical_caseMIR	SENT1	-	-
+32	hemodinámicamente	hemodinámicamente	RG	-	-	151-168	618_QUEST_clinical_caseMIR	SENT1	-	-
+33	significativo	significativo	AQ0MS0	C0750502	calificador	169-182	618_QUEST_clinical_caseMIR	SENT1	-	-
+34	.	.	Fp	-	-	182-183	618_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	184-185	618_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	185-189	618_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	190-192	618_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	193-196	618_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	197-207	618_QUEST_clinical_caseMIR	SENT2	-	-
+6	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	208-217	618_QUEST_clinical_caseMIR	SENT2	-	-
+7	apoyaría	apoyar	VMIC3S0	-	-	218-226	618_QUEST_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	227-229	618_QUEST_clinical_caseMIR	SENT2	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	230-241	618_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	241-242	618_QUEST_clinical_caseMIR	SENT2	-	-
+

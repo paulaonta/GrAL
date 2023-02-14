@@ -1,0 +1,65 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	486_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	486_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	486_QUEST_clinical_caseMIR	SENT1	-	-
+4	32	32		-	-	13-15	486_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	486_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	486_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	486_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	29-37	486_QUEST_clinical_caseMIR	SENT1	-	-
+9	porque	porque	CS	-	-	38-44	486_QUEST_clinical_caseMIR	SENT1	-	-
+10	desea	desear	VMIP3S0	-	-	45-50	486_QUEST_clinical_caseMIR	SENT1	-	-
+11	quedar	quedar	VMN0000	-	-	51-57	486_QUEST_clinical_caseMIR	SENT1	-	-
+12	embarazada	embarazar	VMP00SF	-	-	58-68	486_QUEST_clinical_caseMIR	SENT1	-	-
+13	y	y	CC	C1706368	calificador	69-70	486_QUEST_clinical_caseMIR	SENT1	-	-
+14	refiere	referir	VMIP3S0	-	-	71-78	486_QUEST_clinical_caseMIR	SENT1	-	-
+15	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	79-91	486_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332119_2	situación_2	92-94	486_QUEST_clinical_caseMIR	SENT1	-	-
+17	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	95-103	486_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332189#C1455761_2	atributo_2	104-106	486_QUEST_clinical_caseMIR	SENT1	-	-
+19	embolia	embolia	NCFS000	C1704212#C0013922	anomalía_morfológica#trastorno	107-114	486_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	115-117	486_QUEST_clinical_caseMIR	SENT1	-	-
+21	pulmón	pulmón	NCMS000	C1278908#C0024109	estructura_corporal	118-124	486_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	7	7		-	-	125-126	486_QUEST_clinical_caseMIR	SENT1	-	-
+23	años	año	NCMP000	C0439234	calificador	127-131	486_QUEST_clinical_caseMIR	SENT1	-	-
+24	antes	antes	RG	C0332152	atributo	132-137	486_QUEST_clinical_caseMIR	SENT1	-	-
+25	mientras	mientras	CS	-	-	138-146	486_QUEST_clinical_caseMIR	SENT1	-	-
+26	estaba	estar	VAII3S0	-	-	147-153	486_QUEST_clinical_caseMIR	SENT1	-	-
+27	tomando	tomar	VMG0000	C1515187	calificador	154-161	486_QUEST_clinical_caseMIR	SENT1	-	-
+28	anticonceptivos	anticonceptivo	NCMP000	-	-	162-177	486_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+29	orales	orar	VMM02S0	-	-	178-184	486_QUEST_clinical_caseMIR	SENT1	-	-
+30	.	.	Fp	-	-	184-185	486_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	186-188	486_QUEST_clinical_caseMIR	SENT2	-	-
+2	realizó	realizar	VMIS3S0	-	-	189-196	486_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	197-208	486_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	209-212	486_QUEST_clinical_caseMIR	SENT2	-	-
+5	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	213-225	486_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	durante	durante	SPS00	C1444752#C0347984	atributo	226-233	486_QUEST_clinical_caseMIR	SENT2	-	-
+7	6	6		-	-	234-235	486_QUEST_clinical_caseMIR	SENT2	-	-
+8	meses	mes	NCMP000	C0439231	calificador	236-241	486_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	241-242	486_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	243-245	486_QUEST_clinical_caseMIR	SENT3	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	246-253	486_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	254-256	486_QUEST_clinical_caseMIR	SENT3	-	-
+4	trombofilia	trombofilia	NC00SC0	C0398623	trastorno	257-268	486_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	fue	ser	VSIS3S0	-	-	269-272	486_QUEST_clinical_caseMIR	SENT3	-	-
+6	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	273-281	486_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	281-282	486_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	283-285	486_QUEST_clinical_caseMIR	SENT4	-	-
+2	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	286-294	486_QUEST_clinical_caseMIR	SENT4	-	-
+3	realizar	realizar	VMN0000	-	-	295-303	486_QUEST_clinical_caseMIR	SENT4	-	-
+4	profilaxis	profilaxis	NCFN000	C0199176	procedimiento	304-314	486_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	315-317	486_QUEST_clinical_caseMIR	SENT4	-	-
+6	trombosis	trombosis	NCFN000	C0042487_1	trastorno_1	318-327	486_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	venosa	venoso	AQ0FS0	C0042487_2	trastorno_2	328-334	486_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	335-337	486_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	338-340	486_QUEST_clinical_caseMIR	SENT4	-	-
+10	caso	caso	NCMS000	C0868928	calificador	341-345	486_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	346-348	486_QUEST_clinical_caseMIR	SENT4	-	-
+12	que	que	CS	-	-	349-352	486_QUEST_clinical_caseMIR	SENT4	-	-
+13	quede	quedar	VMSP3S0	-	-	353-358	486_QUEST_clinical_caseMIR	SENT4	-	-
+14	embarazada	embarazar	VMP00SF	-	-	359-369	486_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	369-370	486_QUEST_clinical_caseMIR	SENT4	-	-
+

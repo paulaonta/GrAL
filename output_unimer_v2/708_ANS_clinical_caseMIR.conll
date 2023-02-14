@@ -1,0 +1,25 @@
+1	Bloqueantes	bloqueante	NC00AO0	C0332206	calificador	0-11	708_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	de	de	SPS00	C0332285	atributo	12-14	708_ANS_clinical_caseMIR	SENT1	-	-
+3	los	el	DA0MP0	-	-	15-18	708_ANS_clinical_caseMIR	SENT1	-	-
+4	canales	canal	NCMP000	C1153433_1	entidad_observable_1	19-26	708_ANS_clinical_caseMIR	SENT1	-	-
+5	del	del	SP+DA	C1153433_2	entidad_observable_2	27-30	708_ANS_clinical_caseMIR	SENT1	-	-
+6	calcio	calcio	NCMS000	C1153433_3	entidad_observable_3	31-37	708_ANS_clinical_caseMIR	SENT1	-	-
+7	(	(	Fpa	-	-	38-39	708_ANS_clinical_caseMIR	SENT1	-	-
+8	calcioantagonistas	calcioantagonistas	NCCP000	-	-	39-57	708_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	)	)	Fpt	-	-	57-58	708_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	58-59	708_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Diuréticos	diurético	NCMP000	C0012798	sustancia	0-10	708_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	10-11	708_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Inhibidores	inhibidor	NCMP000	-	-	0-11	708_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	del	del	SP+DA	-	-	12-15	708_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+3	enzima	enzima	NCCS000	C0014442	sustancia	16-22	708_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+4	convertidor	convertidor	AQ0MS0	-	-	23-34	708_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	35-37	708_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+6	angiotensina	angiotensina	NCFS000	C0003018	sustancia	38-50	708_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+7	.	.	Fp	-	-	50-51	708_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Betabloqueantes	betabloqueante	NCMP000	-	-	0-15	708_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	15-16	708_ANS_clinical_caseMIR	SENT4	-	-
+

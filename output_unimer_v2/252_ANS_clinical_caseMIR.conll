@@ -1,0 +1,55 @@
+1	¿	¿	Fia	-	-	363-364	252_ANS_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	364-367	252_ANS_clinical_caseMIR	SENT1	-	-
+3	vacunas	vacuna	NCFP000	C0042210	producto#sustancia	368-375	252_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	deberíamos	deber	VMIC1P0	-	-	376-386	252_ANS_clinical_caseMIR	SENT1	-	-
+5	recomendar	recomendar	VMN0000	-	-	387-397	252_ANS_clinical_caseMIR	SENT1	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	397-399	252_ANS_clinical_caseMIR	SENT1	-	-
+7	?	?	Fit	-	-	399-400	252_ANS_clinical_caseMIR	SENT1	-	-
+8	:	:	Fd	-	-	400-401	252_ANS_clinical_caseMIR	SENT1	-	-
+9	Retirar	retirar	VMN0000	-	-	0-7	252_ANS_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	8-10	252_ANS_clinical_caseMIR	SENT1	-	-
+11	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	11-22	252_ANS_clinical_caseMIR	SENT1	-	-
+12	porque	porque	CS	-	-	23-29	252_ANS_clinical_caseMIR	SENT1	-	-
+13	puede	poder	VMIP3S0	-	-	30-35	252_ANS_clinical_caseMIR	SENT1	-	-
+14	empeorar	empeorar	VMN0000	-	-	36-44	252_ANS_clinical_caseMIR	SENT1	-	-
+15	la	el	DA0FS0	-	-	45-47	252_ANS_clinical_caseMIR	SENT1	-	-
+16	insuficiencia	insuficiencia	NCFS000	C0035229_1	hallazgo#trastorno_1	48-61	252_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	respiratoria	respiratorio	AQ0FS0	C0035229_2	hallazgo#trastorno_2	62-74	252_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	74-75	252_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Aumentar	aumentar	VMN0000	-	-	0-8	252_ANS_clinical_caseMIR	SENT2	-	-
+2	las	el	DA0FP0	-	-	9-12	252_ANS_clinical_caseMIR	SENT2	-	-
+3	dosis	dosis	NCFN000	-	-	13-18	252_ANS_clinical_caseMIR	SENT2	-	-
+4	hasta	hasta	SPS00	-	-	19-24	252_ANS_clinical_caseMIR	SENT2	-	-
+5	20	20		-	-	25-27	252_ANS_clinical_caseMIR	SENT2	-	-
+6	mg/4	mg/4	Z	-	-	28-32	252_ANS_clinical_caseMIR	SENT2	-	-
+7	horas	h	NCFP000	C0439227	calificador	33-38	252_ANS_clinical_caseMIR	SENT2	-	-
+8	según	según	SPS00	-	-	39-44	252_ANS_clinical_caseMIR	SENT2	-	-
+9	evolución	evolución	NCFS000	-	-	45-54	252_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	54-55	252_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Aumentar	aumentar	VMN0000	-	-	0-8	252_ANS_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	9-11	252_ANS_clinical_caseMIR	SENT3	-	-
+3	flujo	flujo	NCMS000	-	-	12-17	252_ANS_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	18-20	252_ANS_clinical_caseMIR	SENT3	-	-
+5	oxigeno	oxigenar	VMIP1S0	-	-	21-28	252_ANS_clinical_caseMIR	SENT3	-	-
+6	a	a	SPS00	-	-	29-30	252_ANS_clinical_caseMIR	SENT3	-	-
+7	35	35	Z	-	-	31-33	252_ANS_clinical_caseMIR	SENT3	-	-
+8	%	%	Ft	-	-	33-34	252_ANS_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	34-35	252_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Cambiar	cambiar	VMN0000	-	-	0-7	252_ANS_clinical_caseMIR	SENT4	-	-
+2	el	el	DA0MS0	-	-	8-10	252_ANS_clinical_caseMIR	SENT4	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	11-22	252_ANS_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	252_ANS_clinical_caseMIR	SENT4	-	-
+5	morfina	morfina	NCFS000	C0026549	producto#sustancia	26-33	252_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+6	por	por	SPS00	C0678226	atributo	34-37	252_ANS_clinical_caseMIR	SENT4	-	-
+7	escopolamina	escopolamina	NCFS000	C0036442	producto#sustancia	38-50	252_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+8	.	.	Fp	-	-	50-51	252_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Añadir	añadir	VMN0000	-	-	0-6	252_ANS_clinical_caseMIR	SENT5	-	-
+2	al	al	SP+DA	-	-	7-9	252_ANS_clinical_caseMIR	SENT5	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	10-21	252_ANS_clinical_caseMIR	SENT5	-	-
+4	risperidona	risperidona	NC00SC0	C0073393	producto#sustancia	22-33	252_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+5	.	.	Fp	-	-	33-34	252_ANS_clinical_caseMIR	SENT5	-	-
+

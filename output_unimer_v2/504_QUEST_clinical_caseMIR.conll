@@ -1,0 +1,60 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	504_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	504_QUEST_clinical_caseMIR	SENT1	-	-
+3	63	63		-	-	10-12	504_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	504_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	504_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332123_1	calificador_1	19-22	504_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332123_2	calificador_2	23-35	504_QUEST_clinical_caseMIR	SENT1	-	-
+8	familiares	familiar	NCMP000	C0332123_3	calificador_3	36-46	504_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332123_4	calificador_4	47-49	504_QUEST_clinical_caseMIR	SENT1	-	-
+10	carcinoma	carcinoma	NCMS000	C0007097	anomalía_morfológica	50-59	504_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	prostático	prostático	AQ0MS0	C0033572	calificador	60-70	504_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	,	,	Fc	-	-	70-71	504_QUEST_clinical_caseMIR	SENT1	-	-
+13	que	que	CS	-	-	72-75	504_QUEST_clinical_caseMIR	SENT1	-	-
+14	consulta	consultar	VMM02S0	C1704447_1	calificador_1	76-84	504_QUEST_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C1704447_2	calificador_2	85-88	504_QUEST_clinical_caseMIR	SENT1	-	-
+16	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	89-93	504_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	sintomatología	sintomatología	NCFS000	-	-	94-108	504_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	miccional	miccional		-	-	109-118	504_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+19	obstructiva	obstructivo	AQ0FS0	-	-	119-130	504_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	.	.	Fp	-	-	130-131	504_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Aporta	aportar	VMIP3S0	-	-	132-138	504_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	139-142	504_QUEST_clinical_caseMIR	SENT2	-	-
+3	determina_x0002_ción	determina_x0002_ción		-	-	143-163	504_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	164-166	504_QUEST_clinical_caseMIR	SENT2	-	-
+5	antígeno	antígeno	NCMS000	C0138741_1	sustancia_1	167-175	504_QUEST_clinical_caseMIR	SENT2	-	-
+6	prostático	prostático	NC00SC0	C0138741_2	sustancia_2	176-186	504_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	específico	específico	NCMS000	C0138741_3	sustancia_3	187-197	504_QUEST_clinical_caseMIR	SENT2	-	-
+8	(	(	Fpa	-	-	198-199	504_QUEST_clinical_caseMIR	SENT2	-	-
+9	PSA	prostate-specific_antigen_(antígeno_prostático_específico)	NC00YL0	-	-	199-202	504_QUEST_clinical_caseMIR	SENT2	-	-
+10	)	)	Fpt	-	-	202-203	504_QUEST_clinical_caseMIR	SENT2	-	-
+11	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	204-209	504_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	210-212	504_QUEST_clinical_caseMIR	SENT2	-	-
+13	1	1		-	-	213-214	504_QUEST_clinical_caseMIR	SENT2	-	-
+14	ng	nasogástrico	NC00YL0	-	-	215-217	504_QUEST_clinical_caseMIR	SENT2	-	-
+15	/	/	Fh	-	-	217-218	504_QUEST_clinical_caseMIR	SENT2	-	-
+16	mL	mililitro	NCMN000	C0439242	calificador	218-220	504_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	220-221	504_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	222-224	504_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	225-227	504_QUEST_clinical_caseMIR	SENT3	-	-
+3	tacto	tacto	NCMS000	C1384593_1	procedimiento_1	228-233	504_QUEST_clinical_caseMIR	SENT3	-	-
+4	rectal	rectal	NC00SC0	C1384593_2	procedimiento_2	234-240	504_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	se	se	P00CN000	-	-	241-243	504_QUEST_clinical_caseMIR	SENT3	-	-
+6	aprecia	apreciar	VMIP3S0	-	-	244-251	504_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	252-255	504_QUEST_clinical_caseMIR	SENT3	-	-
+8	zona	zona	NCFS000	C0019360	trastorno	256-260	504_QUEST_clinical_caseMIR	SENT3	-	-
+9	endurecida	endurecer	VMP00SF	-	-	261-271	504_QUEST_clinical_caseMIR	SENT3	-	-
+10	y	y	CC	C1706368	calificador	272-273	504_QUEST_clinical_caseMIR	SENT3	-	-
+11	fija	fijo	AQ0FS0	C0443218	calificador	274-278	504_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	279-281	504_QUEST_clinical_caseMIR	SENT3	-	-
+13	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	282-287	504_QUEST_clinical_caseMIR	SENT3	-	-
+14	centímetro	centímetro	NCMS000	C0475210	calificador	288-298	504_QUEST_clinical_caseMIR	SENT3	-	-
+15	,	,	Fc	-	-	298-299	504_QUEST_clinical_caseMIR	SENT3	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	300-302	504_QUEST_clinical_caseMIR	SENT3	-	-
+17	un	un		C0205447_1	calificador_1	303-305	504_QUEST_clinical_caseMIR	SENT3	-	-
+18	lóbulo	lóbulo	NCMS000	-	-	306-312	504_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	prostático	prostático	AQ0MS0	C0033572	calificador	313-323	504_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+20	.	.	Fp	-	-	323-324	504_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,116 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	711-713	449_QUEST_clinical_caseMIR	SENT1	-	-
+2	este	este	DD0MS0	-	-	714-718	449_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	719-727	449_QUEST_clinical_caseMIR	SENT1	-	-
+4	teniendo	tener	VMG0000	-	-	728-736	449_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	737-739	449_QUEST_clinical_caseMIR	SENT1	-	-
+6	cuenta	cuenta	NCFS000	-	-	740-746	449_QUEST_clinical_caseMIR	SENT1	-	-
+7	su	su	DP3CS0	-	-	747-749	449_QUEST_clinical_caseMIR	SENT1	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	750-761	449_QUEST_clinical_caseMIR	SENT1	-	-
+9	más	más	RG	C0205172	calificador	762-765	449_QUEST_clinical_caseMIR	SENT1	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	766-774	449_QUEST_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	774-775	449_QUEST_clinical_caseMIR	SENT1	-	-
+12	qué	qué	DE0CN0	-	-	776-779	449_QUEST_clinical_caseMIR	SENT1	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	780-791	449_QUEST_clinical_caseMIR	SENT1	-	-
+14	sería	ser	VSIC1S0	-	-	792-797	449_QUEST_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	798-800	449_QUEST_clinical_caseMIR	SENT1	-	-
+16	MENOS	menos	RG	C0332288	atributo	801-806	449_QUEST_clinical_caseMIR	SENT1	-	-
+17	indicado	indicar	VMP00SM	-	-	807-815	449_QUEST_clinical_caseMIR	SENT1	-	-
+18	:	:	Fd	-	-	815-816	449_QUEST_clinical_caseMIR	SENT1	-	-
+19	Una	Una		C0205447_1	calificador_1	0-3	449_QUEST_clinical_caseMIR	SENT1	-	-
+20	ambulancia	ambulancia	NCFS000	C0002422	objeto_físico	4-14	449_QUEST_clinical_caseMIR	SENT1	-	-
+21	medicalizada	medicalizada	VMP00SF	-	-	15-27	449_QUEST_clinical_caseMIR	SENT1	-	-
+22	es	ser	VSIP3S0	-	-	28-30	449_QUEST_clinical_caseMIR	SENT1	-	-
+23	movilizada	movilizar	VMP00SF	-	-	31-41	449_QUEST_clinical_caseMIR	SENT1	-	-
+24	para	para	SPS00	C0521125	calificador	42-46	449_QUEST_clinical_caseMIR	SENT1	-	-
+25	atender	atender	VMN0000	-	-	47-54	449_QUEST_clinical_caseMIR	SENT1	-	-
+26	a	a	SPS00	-	-	55-56	449_QUEST_clinical_caseMIR	SENT1	-	-
+27	un	un		C0205447_1	calificador_1	57-59	449_QUEST_clinical_caseMIR	SENT1	-	-
+28	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	60-65	449_QUEST_clinical_caseMIR	SENT1	-	-
+29	joven	joven	AQ0CS0	C0332239	calificador	66-71	449_QUEST_clinical_caseMIR	SENT1	-	-
+30	politraumatizado	politraumatizado	VMP00SM	-	-	72-88	449_QUEST_clinical_caseMIR	SENT1	-	-
+31	por	por	SPS00	C0678226	atributo	89-92	449_QUEST_clinical_caseMIR	SENT1	-	-
+32	accidente	accidente	NCMS000	C0415499_1	evento_1	93-102	449_QUEST_clinical_caseMIR	SENT1	-	-
+33	de	de	SPS00	C0415499_2	evento_2	103-105	449_QUEST_clinical_caseMIR	SENT1	-	-
+34	tráfico	tráfico	NCMS000	-	-	106-113	449_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	113-114	449_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	115-116	449_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	117-119	449_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	120-131	449_QUEST_clinical_caseMIR	SENT2	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	132-138	449_QUEST_clinical_caseMIR	SENT2	-	-
+5	,	,	Fc	-	-	138-139	449_QUEST_clinical_caseMIR	SENT2	-	-
+6	anisocoria	anisocoria	NCFS000	C0003079	trastorno	140-150	449_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	151-158	449_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	con	con	SPS00	C0332287	atributo	159-162	449_QUEST_clinical_caseMIR	SENT2	-	-
+9	pupila	pupilo	NCFS000	-	-	163-169	449_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	midriatica	midriatica	AQ0FS00	-	-	170-180	449_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	arreactiva	arreactiva	AQ0FS00	-	-	181-191	449_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+12	,	,	Fc	-	-	191-192	449_QUEST_clinical_caseMIR	SENT2	-	-
+13	coma	coma	NCCS000	C0009421	trastorno#hallazgo	193-197	449_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	con	con	SPS00	C0332287	atributo	198-201	449_QUEST_clinical_caseMIR	SENT2	-	-
+15	4	4		-	-	202-203	449_QUEST_clinical_caseMIR	SENT2	-	-
+16	puntos	punto	NCMP000	-	-	204-210	449_QUEST_clinical_caseMIR	SENT2	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	211-213	449_QUEST_clinical_caseMIR	SENT2	-	-
+18	la	el	DA0FS0	-	-	214-216	449_QUEST_clinical_caseMIR	SENT2	-	-
+19	escala	escalar	VMM02S0	C0017594#C1271007#C0578785_1	escala_de_evaluación_1	217-223	449_QUEST_clinical_caseMIR	SENT2	-	-
+20	del	del	SP+DA	C0017594#C1271007#C0578785_2	escala_de_evaluación_2	224-227	449_QUEST_clinical_caseMIR	SENT2	-	-
+21	coma	comer	VMSP3S0	C0017594#C1271007#C0578785_3	escala_de_evaluación_3	228-232	449_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0017594#C1271007#C0578785_4	escala_de_evaluación_4	233-235	449_QUEST_clinical_caseMIR	SENT2	-	-
+23	Glasgow	Glasgow		C0017594#C1271007#C0578785_5	escala_de_evaluación_5	236-243	449_QUEST_clinical_caseMIR	SENT2	-	-
+24	(	(	Fpa	-	-	244-245	449_QUEST_clinical_caseMIR	SENT2	-	-
+25	respuesta	respuesta	NCFS000	-	-	245-254	449_QUEST_clinical_caseMIR	SENT2	-	-
+26	ocular	ocular	NCMS000	-	-	255-261	449_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+27	1	1		-	-	262-263	449_QUEST_clinical_caseMIR	SENT2	-	-
+28	,	,	Fc	-	-	263-264	449_QUEST_clinical_caseMIR	SENT2	-	-
+29	respuesta	respuesta	NCFS000	C1285623_1	entidad_observable_1	265-274	449_QUEST_clinical_caseMIR	SENT2	-	-
+30	motora	motora	NCFS000	C1285623_2	entidad_observable_2	275-281	449_QUEST_clinical_caseMIR	SENT2	-	-
+31	2	2		-	-	282-283	449_QUEST_clinical_caseMIR	SENT2	-	-
+32	,	,	Fc	-	-	283-284	449_QUEST_clinical_caseMIR	SENT2	-	-
+33	respuesta	respuesta	NCFS000	-	-	285-294	449_QUEST_clinical_caseMIR	SENT2	-	-
+34	verbal	verbal	NC00SC0	C0439824	calificador	295-301	449_QUEST_clinical_caseMIR	SENT2	-	-
+35	1	1		-	-	302-303	449_QUEST_clinical_caseMIR	SENT2	-	-
+36	)	)	Fpt	-	-	303-304	449_QUEST_clinical_caseMIR	SENT2	-	-
+37	,	,	Fc	-	-	304-305	449_QUEST_clinical_caseMIR	SENT2	-	-
+38	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	306-313	449_QUEST_clinical_caseMIR	SENT2	-	-
+39	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	314-322	449_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+40	180/100	180/100	Z	-	-	323-330	449_QUEST_clinical_caseMIR	SENT2	-	-
+41	mmHg	mmHg	NCMP000	-	-	331-335	449_QUEST_clinical_caseMIR	SENT2	-	-
+42	,	,	Fc	-	-	335-336	449_QUEST_clinical_caseMIR	SENT2	-	-
+43	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	337-347	449_QUEST_clinical_caseMIR	SENT2	-	-
+44	cardiaca	cardiaco	AQ0FS0	-	-	348-356	449_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+45	56	56		-	-	357-359	449_QUEST_clinical_caseMIR	SENT2	-	-
+46	latidos	latido	NCMP000	-	-	360-367	449_QUEST_clinical_caseMIR	SENT2	-	-
+47	por	por	SPS00	C0702093_1	calificador_1	368-371	449_QUEST_clinical_caseMIR	SENT2	-	-
+48	minuto	minuto	NCMS000	C0702093_2	calificador_2	372-378	449_QUEST_clinical_caseMIR	SENT2	-	-
+49	,	,	Fc	-	-	378-379	449_QUEST_clinical_caseMIR	SENT2	-	-
+50	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	380-390	449_QUEST_clinical_caseMIR	SENT2	-	-
+51	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	391-403	449_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+52	8	8		-	-	404-405	449_QUEST_clinical_caseMIR	SENT2	-	-
+53	respiraciones	respiración	NCFP000	C0231832_1	entidad_observable_1	406-419	449_QUEST_clinical_caseMIR	SENT2	-	-
+54	por	por	SPS00	C0231832_2	entidad_observable_2	420-423	449_QUEST_clinical_caseMIR	SENT2	-	-
+55	minuto	minuto	NCMS000	C0231832_3	entidad_observable_3	424-430	449_QUEST_clinical_caseMIR	SENT2	-	-
+56	,	,	Fc	-	-	430-431	449_QUEST_clinical_caseMIR	SENT2	-	-
+57	saturaci6n	saturaci6n		-	-	432-442	449_QUEST_clinical_caseMIR	SENT2	-	-
+58	de	de	SPS00	C0332285	atributo	443-445	449_QUEST_clinical_caseMIR	SENT2	-	-
+59	oxigeno	oxigenar	VMIP1S0	-	-	446-453	449_QUEST_clinical_caseMIR	SENT2	-	-
+60	por	por	SPS00	C0678226	atributo	454-457	449_QUEST_clinical_caseMIR	SENT2	-	-
+61	pulsioximetria	pulsioximetria	NCFS000	-	-	458-472	449_QUEST_clinical_caseMIR	SENT2	-	-
+62	90	90	Z	-	-	473-475	449_QUEST_clinical_caseMIR	SENT2	-	-
+63	%	%	Ft	-	-	475-476	449_QUEST_clinical_caseMIR	SENT2	-	-
+64	respirando	respirar	VMG0000	-	-	477-487	449_QUEST_clinical_caseMIR	SENT2	-	-
+65	aire	aire	NCMS000	C0001861	sustancia	488-492	449_QUEST_clinical_caseMIR	SENT2	-	-
+66	ambiente	ambiente	NCMS000	-	-	493-501	449_QUEST_clinical_caseMIR	SENT2	-	-
+67	¿	¿	Fia	-	-	502-503	449_QUEST_clinical_caseMIR	SENT2	-	-
+68	Cuál	cuál	PT0CS000	-	-	503-507	449_QUEST_clinical_caseMIR	SENT2	-	-
+69	debería	deber	VMIC3S0	-	-	508-515	449_QUEST_clinical_caseMIR	SENT2	-	-
+70	ser	ser	VSN0000	-	-	516-519	449_QUEST_clinical_caseMIR	SENT2	-	-
+71	la	el	DA0FS0	-	-	520-522	449_QUEST_clinical_caseMIR	SENT2	-	-
+72	primera	1	AO0FS0	-	-	523-530	449_QUEST_clinical_caseMIR	SENT2	-	-
+73	acción	acción	NCFS000	C0441472#C3266814	calificador#atributo	531-537	449_QUEST_clinical_caseMIR	SENT2	-	-
+74	del	del	SP+DA	-	-	538-541	449_QUEST_clinical_caseMIR	SENT2	-	-
+75	equipo	equipo	NCMS000	C0014672#C1690540	atributo#calificador	542-548	449_QUEST_clinical_caseMIR	SENT2	-	-
+76	de	de	SPS00	C0332285	atributo	549-551	449_QUEST_clinical_caseMIR	SENT2	-	-
+77	emergencias	emergencia	NCFP000	C0175673	calificador	552-563	449_QUEST_clinical_caseMIR	SENT2	-	-
+78	extrahospitalarias	extrahospitalario	AQ0FP0	-	-	564-582	449_QUEST_clinical_caseMIR	SENT2	-	-
+79	?	?	Fit	-	-	582-583	449_QUEST_clinical_caseMIR	SENT2	-	-
+

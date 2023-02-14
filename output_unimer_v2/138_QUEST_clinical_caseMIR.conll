@@ -1,0 +1,43 @@
+1	Señale	señalar	VMM03S0	-	-	390-396	138_QUEST_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	397-399	138_QUEST_clinical_caseMIR	SENT1	-	-
+3	afirmación	afirmación	NCFS000	-	-	400-410	138_QUEST_clinical_caseMIR	SENT1	-	-
+4	INCORRECTA	incorrecto	AQ0FS0	-	-	411-421	138_QUEST_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	421-422	138_QUEST_clinical_caseMIR	SENT1	-	-
+6	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	138_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	6-8	138_QUEST_clinical_caseMIR	SENT1	-	-
+8	32	32		-	-	9-11	138_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	12-16	138_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	17-20	138_QUEST_clinical_caseMIR	SENT1	-	-
+11	clínica	clínica	NCFS000	C0442592	medio_ambiente	21-28	138_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	29-31	138_QUEST_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	32-35	138_QUEST_clinical_caseMIR	SENT1	-	-
+14	semana	semana	NCFS000	C0439230	calificador	36-42	138_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	43-45	138_QUEST_clinical_caseMIR	SENT1	-	-
+16	evolución	evolución	NCFS000	-	-	46-55	138_QUEST_clinical_caseMIR	SENT1	-	-
+17	consistente	consistente	AQ0CS0	-	-	56-67	138_QUEST_clinical_caseMIR	SENT1	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	68-70	138_QUEST_clinical_caseMIR	SENT1	-	-
+19	febrícula	febrícula	NCFS000	-	-	71-80	138_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	,	,	Fc	-	-	80-81	138_QUEST_clinical_caseMIR	SENT1	-	-
+21	eritema	eritema	NCMS000	C0014743_1	trastorno_1	82-89	138_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	nodoso	nodoso		C0014743_2	trastorno_2	90-96	138_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+23	,	,	Fc	-	-	96-97	138_QUEST_clinical_caseMIR	SENT1	-	-
+24	inflamación	inflamación	NCFS000	C0021368#C0302158	calificador#anomalía_morfológica	98-109	138_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	periarticular	periarticular	AQ0CS00	-	-	110-123	138_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	de	de	SPS00	C0332285	atributo	124-126	138_QUEST_clinical_caseMIR	SENT1	-	-
+27	tobillos	tobillo	NCMP000	C1261192#C0003086	estructura_corporal	127-135	138_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	y	y	CC	C1706368	calificador	136-137	138_QUEST_clinical_caseMIR	SENT1	-	-
+29	uveítis	uveítis	NCMN000	C0022073#C0042165_1	trastorno_1	138-145	138_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	anterior	anterior	NC00SC0	C0022073#C0042165_2	trastorno_2	146-154	138_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+31	.	.	Fp	-	-	154-155	138_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	156-158	138_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	159-161	138_QUEST_clinical_caseMIR	SENT2	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	162-173	138_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	174-176	138_QUEST_clinical_caseMIR	SENT2	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	177-182	138_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	presenta	presentar	VMIP3S0	-	-	183-191	138_QUEST_clinical_caseMIR	SENT2	-	-
+7	adenopatías	adenopatía	NCFP000	-	-	192-203	138_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	hiliares	hiliares	AQ0CP00	-	-	204-212	138_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	bilaterales	bilateral	AQ0CP0	C0238767	calificador	213-224	138_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	.	.	Fp	-	-	224-225	138_QUEST_clinical_caseMIR	SENT2	-	-
+

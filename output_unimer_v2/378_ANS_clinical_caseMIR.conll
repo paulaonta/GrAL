@@ -1,0 +1,19 @@
+1	Lupus	lupus	NCMS000	C0409974_1	trastorno_1	0-5	378_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	eritematoso	eritematoso		C0409974_2	trastorno_2	6-17	378_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	subagudo	subagudo	NC00SC0	C0205365	calificador	18-26	378_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	.	.	Fp	-	-	26-27	378_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Tiña	tiña	NCFS000	C0011636#C2980104#C0011630#C0040247	trastorno	0-4	378_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	corporis	corporis		-	-	5-13	378_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	13-14	378_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Porfiria	porfiria	NCFS000	C0162566_1	trastorno_1	0-8	378_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	cutánea	cutáneo	AQ0FS0	C0162566_2	trastorno_2	9-16	378_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	tarda	tardo	AQ0FS0	C0162566_3	trastorno_3	17-22	378_ANS_clinical_caseMIR	SENT3	-	-
+4	.	.	Fp	-	-	22-23	378_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Eritema	eritema	NCMS000	C0234906_1	trastorno_1	0-7	378_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	anular	anular	VMN0000	C0234906_2	trastorno_2	8-14	378_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	centrifugo	centrifugar	VMIP1S0	-	-	15-25	378_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+4	.	.	Fp	-	-	25-26	378_ANS_clinical_caseMIR	SENT4	-	-
+

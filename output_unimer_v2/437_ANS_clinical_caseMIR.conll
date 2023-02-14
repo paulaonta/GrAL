@@ -1,0 +1,85 @@
+1	Administraría	administrar	VMIC3S0	C1621583	calificador	0-13	437_ANS_clinical_caseMIR	SENT1	-	-
+2	inmediatamente	inmediatamente	RG	C0205548	calificador	14-28	437_ANS_clinical_caseMIR	SENT1	-	-
+3	dosis	dosis	NCFN000	-	-	29-34	437_ANS_clinical_caseMIR	SENT1	-	-
+4	progresivas	progresivo	AQ0FP0	C0205329	calificador	35-46	437_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	47-49	437_ANS_clinical_caseMIR	SENT1	-	-
+6	adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	50-60	437_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	61-62	437_ANS_clinical_caseMIR	SENT1	-	-
+8	corticoides	corticoide	NCMP000	-	-	63-74	437_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	por	por	SPS00	C0678226	atributo	75-78	437_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	79-81	437_ANS_clinical_caseMIR	SENT1	-	-
+11	posibilidad	posibilidad	NCFS000	-	-	82-93	437_ANS_clinical_caseMIR	SENT1	-	-
+12	que	que	CS	-	-	94-97	437_ANS_clinical_caseMIR	SENT1	-	-
+13	sea	ser	VSSP1S0	-	-	98-101	437_ANS_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	102-105	437_ANS_clinical_caseMIR	SENT1	-	-
+15	anafilaxia	anafilaxia	NCFS000	C0002792	trastorno	106-116	437_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	al	al	SP+DA	-	-	117-119	437_ANS_clinical_caseMIR	SENT1	-	-
+17	anestésico	anestésico	NC00SC0	C0002934_1	sustancia_1	120-130	437_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+18	local	local	NCMS000	C0002934_2	sustancia_2	131-136	437_ANS_clinical_caseMIR	SENT1	-	-
+19	o	o	CC	-	-	137-138	437_ANS_clinical_caseMIR	SENT1	-	-
+20	al	al	SP+DA	-	-	139-141	437_ANS_clinical_caseMIR	SENT1	-	-
+21	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	142-153	437_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	.	.	Fp	-	-	153-154	437_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	0-2	437_ANS_clinical_caseMIR	SENT2	-	-
+2	cuadro	cuadro	NCMS000	-	-	3-9	437_ANS_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	10-12	437_ANS_clinical_caseMIR	SENT2	-	-
+4	sugestivo	sugestivo	AQ0MS0	-	-	13-22	437_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	23-25	437_ANS_clinical_caseMIR	SENT2	-	-
+6	otro	otro	DI0MS0	C0205394#C0449210	calificador#estructura_corporal	26-30	437_ANS_clinical_caseMIR	SENT2	-	-
+7	accidente	accidente	NCMS000	C0038454#C1540600_1	trastorno_1	31-40	437_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+8	cerebrovascular	cerebrovascular	AQ0CS0	C0038454#C1540600_2	trastorno_2	41-56	437_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	56-57	437_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pediría	pedir	VMIC3S0	-	-	58-65	437_ANS_clinical_caseMIR	SENT3	-	-
+2	una	una		C0205447_1	calificador_1	66-69	437_ANS_clinical_caseMIR	SENT3	-	-
+3	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	70-72	437_ANS_clinical_caseMIR	SENT3	-	-
+4	y	y	CC	C1706368	calificador	73-74	437_ANS_clinical_caseMIR	SENT3	-	-
+5	descoagularía	descoagular	VMIC3S0	-	-	75-88	437_ANS_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	88-89	437_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Sospecho	sospechar	VMIP1S0	-	-	0-8	437_ANS_clinical_caseMIR	SENT4	-	-
+2	un	un		C0205447_1	calificador_1	9-11	437_ANS_clinical_caseMIR	SENT4	-	-
+3	neumotórax	neumotórax	NCMN000	C0375336_1	trastorno_1	12-22	437_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	iatrogénico	iatrogénico	NC00SC0	C0375336_2	trastorno_2	23-34	437_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+5	,	,	Fc	-	-	34-35	437_ANS_clinical_caseMIR	SENT4	-	-
+6	pediría	pedir	VMIC3S0	-	-	36-43	437_ANS_clinical_caseMIR	SENT4	-	-
+7	una	una		C0205447_1	calificador_1	44-47	437_ANS_clinical_caseMIR	SENT4	-	-
+8	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	48-50	437_ANS_clinical_caseMIR	SENT4	-	-
+9	de	de	SPS00	C0039985_2	procedimiento_2	51-53	437_ANS_clinical_caseMIR	SENT4	-	-
+10	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	54-59	437_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+11	urgente	urgente	AQ0CS0	C0439609	calificador	60-67	437_ANS_clinical_caseMIR	SENT4	-	-
+12	con	con	SPS00	C0332287	atributo	68-71	437_ANS_clinical_caseMIR	SENT4	-	-
+13	portátil	portátil	NCMS000	-	-	72-80	437_ANS_clinical_caseMIR	SENT4	-	-
+14	y	y	CC	C1706368	calificador	81-82	437_ANS_clinical_caseMIR	SENT4	-	-
+15	me	me	PP1CS000	-	-	83-85	437_ANS_clinical_caseMIR	SENT4	-	-
+16	prepararía	preparar	VMIC3S0	-	-	86-96	437_ANS_clinical_caseMIR	SENT4	-	-
+17	para	para	SPS00	C0521125	calificador	97-101	437_ANS_clinical_caseMIR	SENT4	-	-
+18	drenar	drenar	VMN0000	-	-	102-108	437_ANS_clinical_caseMIR	SENT4	-	-
+19	el	el	DA0MS0	-	-	109-111	437_ANS_clinical_caseMIR	SENT4	-	-
+20	neumotórax	neumotórax	NCMN000	C0032326	trastorno	112-122	437_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+21	.	.	Fp	-	-	122-123	437_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Sospecharía	sospechar	VMIC3S0	-	-	0-11	437_ANS_clinical_caseMIR	SENT5	-	-
+2	una	una		C0205447_1	calificador_1	12-15	437_ANS_clinical_caseMIR	SENT5	-	-
+3	absorción	absorción	NCFS000	-	-	16-25	437_ANS_clinical_caseMIR	SENT5	-	-
+4	sistémica	sistémico	AQ0FS0	C0205373	calificador	26-35	437_ANS_clinical_caseMIR	SENT5	-	-
+5	de	de	SPS00	C0332285	atributo	36-38	437_ANS_clinical_caseMIR	SENT5	-	-
+6	anestésicos	anestésicos	NC00AO0	-	-	39-50	437_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+7	locales	local	NCMP000	C0205276#C0392752#C0332237	calificador	51-58	437_ANS_clinical_caseMIR	SENT5	-	-
+8	y	y	CC	C1706368	calificador	59-60	437_ANS_clinical_caseMIR	SENT5	-	-
+9	detendría	detener	VMIC3S0	C2746065	calificador	61-70	437_ANS_clinical_caseMIR	SENT5	-	-
+10	el	el	DA0MS0	-	-	71-73	437_ANS_clinical_caseMIR	SENT5	-	-
+11	procedimiento	procedimiento	NCMS000	C0184661	procedimiento	74-87	437_ANS_clinical_caseMIR	SENT5	-	-
+12	,	,	Fc	-	-	87-88	437_ANS_clinical_caseMIR	SENT5	-	-
+13	administraría	administrar	VMIC3S0	C1621583	calificador	89-102	437_ANS_clinical_caseMIR	SENT5	-	-
+14	diazepam	diazepam	NC00SC0	C0012010	sustancia	103-111	437_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+15	,	,	Fc	-	-	111-112	437_ANS_clinical_caseMIR	SENT5	-	-
+16	oxígeno	oxígeno	NCMS000	C0030054	sustancia	113-120	437_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+17	y	y	CC	C1706368	calificador	121-122	437_ANS_clinical_caseMIR	SENT5	-	-
+18	medidas	medida	NCFP000	C0079809	atributo	123-130	437_ANS_clinical_caseMIR	SENT5	-	-
+19	de	de	SPS00	C0332285	atributo	131-133	437_ANS_clinical_caseMIR	SENT5	-	-
+20	soporte	soporte	NCMS000	-	-	134-141	437_ANS_clinical_caseMIR	SENT5	-	-
+21	cardiovascular	cardiovascular	AQ0CS0	-	-	142-156	437_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+22	.	.	Fp	-	-	156-157	437_ANS_clinical_caseMIR	SENT5	-	-
+

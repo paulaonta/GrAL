@@ -1,0 +1,131 @@
+1	¿	¿	Fia	-	-	308-309	287_QUEST_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	309-312	287_QUEST_clinical_caseMIR	SENT1	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	313-320	287_QUEST_clinical_caseMIR	SENT1	-	-
+4	o	o	CC	-	-	321-322	287_QUEST_clinical_caseMIR	SENT1	-	-
+5	prueba	prueba	NCFS000	-	-	323-329	287_QUEST_clinical_caseMIR	SENT1	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	330-332	287_QUEST_clinical_caseMIR	SENT1	-	-
+7	parece	parecer	VMIP3S0	-	-	333-339	287_QUEST_clinical_caseMIR	SENT1	-	-
+8	más	más	RG	C0205172	calificador	340-343	287_QUEST_clinical_caseMIR	SENT1	-	-
+9	adecuada	adecuar	VMP00SF	-	-	344-352	287_QUEST_clinical_caseMIR	SENT1	-	-
+10	para	para	SPS00	C0521125	calificador	353-357	287_QUEST_clinical_caseMIR	SENT1	-	-
+11	recomendar	recomendar	VMN0000	-	-	358-368	287_QUEST_clinical_caseMIR	SENT1	-	-
+12	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	368-370	287_QUEST_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	371-373	287_QUEST_clinical_caseMIR	SENT1	-	-
+14	ese	ese	DD0MS0	-	-	374-377	287_QUEST_clinical_caseMIR	SENT1	-	-
+15	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	378-385	287_QUEST_clinical_caseMIR	SENT1	-	-
+16	?	?	Fit	-	-	385-386	287_QUEST_clinical_caseMIR	SENT1	-	-
+17	:	:	Fd	-	-	386-387	287_QUEST_clinical_caseMIR	SENT1	-	-
+18	Paciente	paciente	NCCS000	C0030705	persona	0-8	287_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	9-11	287_QUEST_clinical_caseMIR	SENT1	-	-
+20	79	79		-	-	12-14	287_QUEST_clinical_caseMIR	SENT1	-	-
+21	años	año	NCMP000	C0439234	calificador	15-19	287_QUEST_clinical_caseMIR	SENT1	-	-
+22	,	,	Fc	-	-	19-20	287_QUEST_clinical_caseMIR	SENT1	-	-
+23	hipertenso	hipertenso	AQ0MS0	-	-	21-31	287_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	,	,	Fc	-	-	31-32	287_QUEST_clinical_caseMIR	SENT1	-	-
+25	hiperlipidémico	hiperlipidémico	AQ0MS00	-	-	33-48	287_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	,	,	Fc	-	-	48-49	287_QUEST_clinical_caseMIR	SENT1	-	-
+27	diabético	diabético	AQ0MS0	-	-	50-59	287_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	y	y	CC	C1706368	calificador	60-61	287_QUEST_clinical_caseMIR	SENT1	-	-
+29	con	con	SPS00	C0332287	atributo	62-65	287_QUEST_clinical_caseMIR	SENT1	-	-
+30	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	66-70	287_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	287_QUEST_clinical_caseMIR	SENT1	-	-
+32	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	74-85	287_QUEST_clinical_caseMIR	SENT1	-	-
+33	con	con	SPS00	C0332287	atributo	86-89	287_QUEST_clinical_caseMIR	SENT1	-	-
+34	anticolinérgicos	anticolinérgico	NCMP000	-	-	90-106	287_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+35	inhalados	inhalar	VMP00PM	-	-	107-116	287_QUEST_clinical_caseMIR	SENT1	-	-
+36	.	.	Fp	-	-	116-117	287_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	118-126	287_QUEST_clinical_caseMIR	SENT2	-	-
+2	fibrilación	fibrilación	NCFS000	C0694539_1	trastorno_1	127-138	287_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	auricular	auricular	NCMS000	C0694539_2	trastorno_2	139-148	287_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	crónica	crónico	AQ0FS0	C0694539_3	trastorno_3	149-156	287_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	157-159	287_QUEST_clinical_caseMIR	SENT2	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	160-171	287_QUEST_clinical_caseMIR	SENT2	-	-
+7	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	172-186	287_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	con	con	SPS00	C0332287	atributo	187-190	287_QUEST_clinical_caseMIR	SENT2	-	-
+9	dicumarínicos	dicumarínicos	NCMP000	-	-	191-204	287_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	204-205	287_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tras	tras	SPS00	-	-	206-210	287_QUEST_clinical_caseMIR	SENT3	-	-
+2	un	un		C0205447_1	calificador_1	211-213	287_QUEST_clinical_caseMIR	SENT3	-	-
+3	cuadro	cuadro	NCMS000	-	-	214-220	287_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	221-223	287_QUEST_clinical_caseMIR	SENT3	-	-
+5	3	3	Z	-	-	224-225	287_QUEST_clinical_caseMIR	SENT3	-	-
+6	días	d	NCMP000	-	-	226-230	287_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	231-233	287_QUEST_clinical_caseMIR	SENT3	-	-
+8	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	234-237	287_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	,	,	Fc	-	-	237-238	287_QUEST_clinical_caseMIR	SENT3	-	-
+10	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	239-252	287_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	amarilla	amarillo	AQ0FS0	C0221205	calificador	253-261	287_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+12	y	y	CC	C1706368	calificador	262-263	287_QUEST_clinical_caseMIR	SENT3	-	-
+13	fiebre	fiebre	NCFS000	C0015967	hallazgo	264-270	287_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0332285	atributo	271-273	287_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+15	38ºC	38ºC		-	-	274-278	287_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+16	,	,	Fc	-	-	278-279	287_QUEST_clinical_caseMIR	SENT3	-	-
+17	presenta	presentar	VMIP3S0	-	-	280-288	287_QUEST_clinical_caseMIR	SENT3	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	289-291	287_QUEST_clinical_caseMIR	SENT3	-	-
+19	las	el	DA0FP0	-	-	292-295	287_QUEST_clinical_caseMIR	SENT3	-	-
+20	últimas	último	AO0FP0	-	-	296-303	287_QUEST_clinical_caseMIR	SENT3	-	-
+21	24	24	Z	-	-	304-306	287_QUEST_clinical_caseMIR	SENT3	-	-
+22	h	h	NCMN000	C0439227	calificador	307-308	287_QUEST_clinical_caseMIR	SENT3	-	-
+23	empeoramiento	empeoramiento	NCMS000	-	-	309-322	287_QUEST_clinical_caseMIR	SENT3	-	-
+24	progresivo	progresivo	AQ0MS0	C0205329	calificador	323-333	287_QUEST_clinical_caseMIR	SENT3	-	-
+25	con	con	SPS00	C0332287	atributo	334-337	287_QUEST_clinical_caseMIR	SENT3	-	-
+26	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	338-344	287_QUEST_clinical_caseMIR	SENT3	-	-
+27	de	de	SPS00	C0231807_2	hallazgo_2	345-347	287_QUEST_clinical_caseMIR	SENT3	-	-
+28	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	348-356	287_QUEST_clinical_caseMIR	SENT3	-	-
+29	,	,	Fc	-	-	356-357	287_QUEST_clinical_caseMIR	SENT3	-	-
+30	ortopnea	ortopnea	NC00SC0	C0085619	hallazgo	358-366	287_QUEST_clinical_caseMIR	SENT3	-	-
+31	y	y	CC	C1706368	calificador	367-368	287_QUEST_clinical_caseMIR	SENT3	-	-
+32	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	369-375	287_QUEST_clinical_caseMIR	SENT3	-	-
+33	maleolares	maleolar	AQ0CP0	-	-	376-386	287_QUEST_clinical_caseMIR	SENT3	-	-
+34	.	.	Fp	-	-	386-387	287_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	A	a	SPS00	-	-	388-389	287_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	390-392	287_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	393-404	287_QUEST_clinical_caseMIR	SENT4	-	-
+4	destaca	destacar	VMIP3S0	-	-	405-412	287_QUEST_clinical_caseMIR	SENT4	-	-
+5	una	una		C0205447_1	calificador_1	413-416	287_QUEST_clinical_caseMIR	SENT4	-	-
+6	TA	ta	NC00YL0	-	-	417-419	287_QUEST_clinical_caseMIR	SENT4	-	-
+7	de	de	SPS00	C0332285	atributo	420-422	287_QUEST_clinical_caseMIR	SENT4	-	-
+8	170/95	170/95	Z	-	-	423-429	287_QUEST_clinical_caseMIR	SENT4	-	-
+9	mmHg	mmHg	NCMP000	-	-	430-434	287_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	434-435	287_QUEST_clinical_caseMIR	SENT4	-	-
+11	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	436-442	287_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+12	con	con	SPS00	C0376249_1	atributo_1	443-446	287_QUEST_clinical_caseMIR	SENT4	-	-
+13	frecuencia	frecuencia	NCFS000	C0376249_2	atributo_2	447-457	287_QUEST_clinical_caseMIR	SENT4	-	-
+14	respiratoria	respiratorio	AQ0FS0	-	-	458-470	287_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+15	de	de	SPS00	C0332285	atributo	471-473	287_QUEST_clinical_caseMIR	SENT4	-	-
+16	20	20		-	-	474-476	287_QUEST_clinical_caseMIR	SENT4	-	-
+17	rpm	r.p.m.	NCFN000	-	-	477-480	287_QUEST_clinical_caseMIR	SENT4	-	-
+18	y	y	CC	C1706368	calificador	481-482	287_QUEST_clinical_caseMIR	SENT4	-	-
+19	auscultación	auscultación	NCFS000	C0004339	procedimiento	483-495	287_QUEST_clinical_caseMIR	SENT4	-	-
+20	con	con	SPS00	C0332287	atributo	496-499	287_QUEST_clinical_caseMIR	SENT4	-	-
+21	sibilancias	sibilancias	NC00SC0	C0043144#C0392681	hallazgo	500-511	287_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+22	bilaterales	bilateral	AQ0CP0	C0238767	calificador	512-523	287_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+23	y	y	CC	C1706368	calificador	524-525	287_QUEST_clinical_caseMIR	SENT4	-	-
+24	crepitantes	crepitantes	NCCP000	-	-	526-537	287_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+25	en	en	SPS00	C1720294#C0332285	calificador#atributo	538-540	287_QUEST_clinical_caseMIR	SENT4	-	-
+26	bases	base	NCCP000	C1626935#C0178499	calificador#sustancia	541-546	287_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+27	.	.	Fp	-	-	546-547	287_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Taquiarritmia	taquiarritmia	NCFS000	C0080203	trastorno	548-561	287_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	a	a	SPS00	-	-	562-563	287_QUEST_clinical_caseMIR	SENT5	-	-
+3	110	110		-	-	564-567	287_QUEST_clinical_caseMIR	SENT5	-	-
+4	lpm	lpm	NC00YL0	-	-	568-571	287_QUEST_clinical_caseMIR	SENT5	-	-
+5	.	.	Fp	-	-	571-572	287_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Discretos	discreto	AQ0MP0	-	-	573-582	287_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+2	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	583-589	287_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+3	maleolares	maleolar	AQ0CP0	-	-	590-600	287_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	600-601	287_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	¿	¿	Fia	-	-	602-603	287_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	603-607	287_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	608-610	287_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	611-613	287_QUEST_clinical_caseMIR	SENT7	-	-
+5	planteamiento	planteamiento	NCMS000	-	-	614-627	287_QUEST_clinical_caseMIR	SENT7	-	-
+6	a	a	SPS00	-	-	628-629	287_QUEST_clinical_caseMIR	SENT7	-	-
+7	seguir	seguir	VMN0000	-	-	630-636	287_QUEST_clinical_caseMIR	SENT7	-	-
+8	?	?	Fit	-	-	636-637	287_QUEST_clinical_caseMIR	SENT7	-	-
+

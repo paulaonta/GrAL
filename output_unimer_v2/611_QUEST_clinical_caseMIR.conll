@@ -1,0 +1,37 @@
+1	Señale	señalar	VMM03S0	-	-	204-210	611_QUEST_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	211-213	611_QUEST_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	214-223	611_QUEST_clinical_caseMIR	SENT1	-	-
+4	INCORRECTA	incorrecto	AQ0FS0	-	-	224-234	611_QUEST_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	234-235	611_QUEST_clinical_caseMIR	SENT1	-	-
+6	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	611_QUEST_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	3-6	611_QUEST_clinical_caseMIR	SENT1	-	-
+8	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	7-12	611_QUEST_clinical_caseMIR	SENT1	-	-
+9	obesa	obeso	AQ0FS0	C0028754	hallazgo	13-18	611_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	19-21	611_QUEST_clinical_caseMIR	SENT1	-	-
+11	67	67		-	-	22-24	611_QUEST_clinical_caseMIR	SENT1	-	-
+12	años	año	NCMP000	C0439234	calificador	25-29	611_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0001779_1	entidad_observable_1	30-32	611_QUEST_clinical_caseMIR	SENT1	-	-
+14	edad	edad	NCFS000	C0001779_2	entidad_observable_2	33-37	611_QUEST_clinical_caseMIR	SENT1	-	-
+15	que	que	PR0CN000	-	-	38-41	611_QUEST_clinical_caseMIR	SENT1	-	-
+16	presenta	presentar	VMIP3S0	-	-	42-50	611_QUEST_clinical_caseMIR	SENT1	-	-
+17	un	un		C0205447_1	calificador_1	51-53	611_QUEST_clinical_caseMIR	SENT1	-	-
+18	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	54-62	611_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332189#C1455761_2	atributo_2	63-65	611_QUEST_clinical_caseMIR	SENT1	-	-
+20	metrorragia	metrorragia	NCFS000	C0025874	hallazgo	66-77	611_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	,	,	Fc	-	-	77-78	611_QUEST_clinical_caseMIR	SENT1	-	-
+22	¿	¿	Fia	-	-	79-80	611_QUEST_clinical_caseMIR	SENT1	-	-
+23	cuál	cuál	PT0CS000	-	-	80-84	611_QUEST_clinical_caseMIR	SENT1	-	-
+24	es	ser	VSIP3S0	-	-	85-87	611_QUEST_clinical_caseMIR	SENT1	-	-
+25	la	el	DA0FS0	-	-	88-90	611_QUEST_clinical_caseMIR	SENT1	-	-
+26	prueba	prueba	NCFS000	-	-	91-97	611_QUEST_clinical_caseMIR	SENT1	-	-
+27	más	más	RG	C0205172	calificador	98-101	611_QUEST_clinical_caseMIR	SENT1	-	-
+28	eficiente	eficiente	AQ0CS0	C0442799	calificador	102-111	611_QUEST_clinical_caseMIR	SENT1	-	-
+29	y	y	CC	C1706368	calificador	112-113	611_QUEST_clinical_caseMIR	SENT1	-	-
+30	precisa	precisar	VMIP3S0	-	-	114-121	611_QUEST_clinical_caseMIR	SENT1	-	-
+31	para	para	SPS00	C0521125	calificador	122-126	611_QUEST_clinical_caseMIR	SENT1	-	-
+32	diagnosticar	diagnosticar	VMN0000	-	-	127-139	611_QUEST_clinical_caseMIR	SENT1	-	-
+33	su	su	DP3CS0	-	-	140-142	611_QUEST_clinical_caseMIR	SENT1	-	-
+34	proceso	proceso	NCMS000	C1522240	entidad_observable	143-150	611_QUEST_clinical_caseMIR	SENT1	-	-
+35	ginecológico	ginecológico	AQ0MS0	C0205480	calificador	151-163	611_QUEST_clinical_caseMIR	SENT1	-	-
+36	?	?	Fit	-	-	163-164	611_QUEST_clinical_caseMIR	SENT1	-	-
+

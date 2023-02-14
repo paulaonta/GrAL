@@ -1,0 +1,24 @@
+1	Infarto	infarto	NCMS000	C0333559_1	anomalía_morfológica#trastorno_1	0-7	296_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	lacunar	lacunar	AQ0CS0	C0333559_2	anomalía_morfológica#trastorno_2	8-15	296_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	talámico	talámico	AQ0MS0	-	-	16-24	296_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+4	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	25-34	296_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	34-35	296_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Esclerosis	esclerosis	NCFN000	C0002736_1	trastorno_1	0-10	296_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	lateral	lateral	NCMS000	C0002736_2	trastorno_2	11-18	296_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+3	amiotrófica	amiotrófica		C0002736_3	trastorno_3	19-30	296_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+4	.	.	Fp	-	-	30-31	296_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0030567_1	trastorno_1	0-10	296_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0030567_2	trastorno_2	11-13	296_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	Parkinson	parkinson	NC00KE0	C0030567_3	trastorno_3	14-23	296_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	23-24	296_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Plexopatía	plexopatía	NCFS000	-	-	0-10	296_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	11-19	296_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	19-20	296_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Degeneración	degeneración	NCFS000	C0393570_1	trastorno_1	0-12	296_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	corticobasal	corticobasal		C0393570_2	trastorno_2	13-25	296_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	25-26	296_ANS_clinical_caseMIR	SENT5	-	-
+

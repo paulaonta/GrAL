@@ -1,0 +1,46 @@
+1	Señale	señalar	VMM03S0	-	-	489-495	661_QUEST_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	496-498	661_QUEST_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	499-508	661_QUEST_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	509-517	661_QUEST_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	517-518	661_QUEST_clinical_caseMIR	SENT1	-	-
+6	¿	¿	Fia	-	-	0-1	661_QUEST_clinical_caseMIR	SENT1	-	-
+7	Qué	qué	DT0CN0	-	-	1-4	661_QUEST_clinical_caseMIR	SENT1	-	-
+8	consejo	consejo	NCMS000	-	-	5-12	661_QUEST_clinical_caseMIR	SENT1	-	-
+9	genético	genético	AQ0MS0	-	-	13-21	661_QUEST_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	22-23	661_QUEST_clinical_caseMIR	SENT1	-	-
+11	reproductivo	reproductivo	AQ0MS0	-	-	24-36	661_QUEST_clinical_caseMIR	SENT1	-	-
+12	indicaría	indicar	VMIC3S0	-	-	37-46	661_QUEST_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	47-48	661_QUEST_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	49-52	661_QUEST_clinical_caseMIR	SENT1	-	-
+15	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	53-58	661_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	59-61	661_QUEST_clinical_caseMIR	SENT1	-	-
+17	30	30		-	-	62-64	661_QUEST_clinical_caseMIR	SENT1	-	-
+18	años	año	NCMP000	C0439234	calificador	65-69	661_QUEST_clinical_caseMIR	SENT1	-	-
+19	que	que	PR0CN000	-	-	70-73	661_QUEST_clinical_caseMIR	SENT1	-	-
+20	consulta	consultar	VMM02S0	C1704447_1	calificador_1	74-82	661_QUEST_clinical_caseMIR	SENT1	-	-
+21	por	por	SPS00	C1704447_2	calificador_2	83-86	661_QUEST_clinical_caseMIR	SENT1	-	-
+22	ser	ser	VSN0000	-	-	87-90	661_QUEST_clinical_caseMIR	SENT1	-	-
+23	portadora	portador	AQ0FS0	C0560175	hallazgo	91-100	661_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	101-103	661_QUEST_clinical_caseMIR	SENT1	-	-
+25	una	una		C0205447_1	calificador_1	104-107	661_QUEST_clinical_caseMIR	SENT1	-	-
+26	premutación	premutación	NCFS000	-	-	108-119	661_QUEST_clinical_caseMIR	SENT1	-	-
+27	en	en	SPS00	C1720294#C0332285	calificador#atributo	120-122	661_QUEST_clinical_caseMIR	SENT1	-	-
+28	el	el	DA0MS0	-	-	123-125	661_QUEST_clinical_caseMIR	SENT1	-	-
+29	gen	gen	NCMS000	C0017337	sustancia	126-129	661_QUEST_clinical_caseMIR	SENT1	-	-
+30	FMR1	FMR1		-	-	130-134	661_QUEST_clinical_caseMIR	SENT1	-	-
+31	,	,	Fc	-	-	134-135	661_QUEST_clinical_caseMIR	SENT1	-	-
+32	responsable	responsable	NCCS000	-	-	136-147	661_QUEST_clinical_caseMIR	SENT1	-	-
+33	del	del	SP+DA	-	-	148-151	661_QUEST_clinical_caseMIR	SENT1	-	-
+34	síndrome	síndrome	NCMS000	C0016667_1	trastorno_1	152-160	661_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	del	del	SP+DA	C0016667_2	trastorno_2	161-164	661_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+36	cromosoma	cromosoma	NCMS000	C0016667_3	trastorno_3	165-174	661_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+37	X	x	NCFS000	C0016667_4	trastorno_4	175-176	661_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+38	frágil	frágil	AQ0CS0	C0016667_5	trastorno_5	177-183	661_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+39	,	,	Fc	-	-	183-184	661_QUEST_clinical_caseMIR	SENT1	-	-
+40	y	y	CC	C1706368	calificador	185-186	661_QUEST_clinical_caseMIR	SENT1	-	-
+41	que	que	PR0CN000	-	-	187-190	661_QUEST_clinical_caseMIR	SENT1	-	-
+42	desea	desear	VMIP3S0	-	-	191-196	661_QUEST_clinical_caseMIR	SENT1	-	-
+43	tener	tener	VMN0000	-	-	197-202	661_QUEST_clinical_caseMIR	SENT1	-	-
+44	descendencia	descendencia	NCFS000	-	-	203-215	661_QUEST_clinical_caseMIR	SENT1	-	-
+45	?	?	Fit	-	-	215-216	661_QUEST_clinical_caseMIR	SENT1	-	-
+

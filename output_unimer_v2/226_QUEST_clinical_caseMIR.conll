@@ -1,0 +1,82 @@
+1	Acude	acudir	VMIP3S0	-	-	0-5	226_QUEST_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	6-7	226_QUEST_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	8-10	226_QUEST_clinical_caseMIR	SENT1	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	11-19	226_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	20-22	226_QUEST_clinical_caseMIR	SENT1	-	-
+6	un	un		C0205447_1	calificador_1	23-25	226_QUEST_clinical_caseMIR	SENT1	-	-
+7	centro	centro	NCMS000	C0475309_1	medio_ambiente_1	26-32	226_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0475309_2	medio_ambiente_2	33-35	226_QUEST_clinical_caseMIR	SENT1	-	-
+9	salud	salud	NCFS000	C0475309_3	medio_ambiente_3	36-41	226_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	42-44	226_QUEST_clinical_caseMIR	SENT1	-	-
+11	chico	chico	NCMS000	C0008059#C0700321	persona#calificador	45-50	226_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	51-53	226_QUEST_clinical_caseMIR	SENT1	-	-
+13	17	17		-	-	54-56	226_QUEST_clinical_caseMIR	SENT1	-	-
+14	años	año	NCMP000	C0439234	calificador	57-61	226_QUEST_clinical_caseMIR	SENT1	-	-
+15	refiriendo	referir	VMG0000	-	-	62-72	226_QUEST_clinical_caseMIR	SENT1	-	-
+16	fiebre	fiebre	NCFS000	C0015967	hallazgo	73-79	226_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0332285	atributo	80-82	226_QUEST_clinical_caseMIR	SENT1	-	-
+18	39°C	39°C		-	-	83-87	226_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	88-90	226_QUEST_clinical_caseMIR	SENT1	-	-
+20	48	48	Z	-	-	91-93	226_QUEST_clinical_caseMIR	SENT1	-	-
+21	h	h	NCMN000	C0439227	calificador	94-95	226_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	96-98	226_QUEST_clinical_caseMIR	SENT1	-	-
+23	evolución	evolución	NCFS000	-	-	99-108	226_QUEST_clinical_caseMIR	SENT1	-	-
+24	con	con	SPS00	C0332287	atributo	109-112	226_QUEST_clinical_caseMIR	SENT1	-	-
+25	dolor	dolor	NCMS000	C0242429_1	hallazgo_1	113-118	226_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	de	de	SPS00	C0242429_2	hallazgo_2	119-121	226_QUEST_clinical_caseMIR	SENT1	-	-
+27	garganta	garganta	NCFS000	C0242429_3	hallazgo_3	122-130	226_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	.	.	Fp	-	-	130-131	226_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	132-134	226_QUEST_clinical_caseMIR	SENT2	-	-
+2	medico	medicar	VMIP1S0	-	-	135-141	226_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	142-144	226_QUEST_clinical_caseMIR	SENT2	-	-
+4	familia	familia	NCFS000	C0015576	concepto_social	145-152	226_QUEST_clinical_caseMIR	SENT2	-	-
+5	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	153-161	226_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	162-164	226_QUEST_clinical_caseMIR	SENT2	-	-
+7	historia	historia	NCFS000	-	-	165-173	226_QUEST_clinical_caseMIR	SENT2	-	-
+8	del	del	SP+DA	-	-	174-177	226_QUEST_clinical_caseMIR	SENT2	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	178-186	226_QUEST_clinical_caseMIR	SENT2	-	-
+10	donde	donde	PR000000	-	-	187-192	226_QUEST_clinical_caseMIR	SENT2	-	-
+11	no	no	RN	C1298908	calificador	193-195	226_QUEST_clinical_caseMIR	SENT2	-	-
+12	costa	costa	NCFS000	-	-	196-201	226_QUEST_clinical_caseMIR	SENT2	-	-
+13	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	202-209	226_QUEST_clinical_caseMIR	SENT2	-	-
+14	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	210-220	226_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	previa	previo	AQ0FS0	C0205156	calificador	221-227	226_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	227-228	226_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	229-231	226_QUEST_clinical_caseMIR	SENT3	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	232-240	226_QUEST_clinical_caseMIR	SENT3	-	-
+3	no	no	RN	C1298908	calificador	241-243	226_QUEST_clinical_caseMIR	SENT3	-	-
+4	refiere	referir	VMIP3S0	-	-	244-251	226_QUEST_clinical_caseMIR	SENT3	-	-
+5	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	252-255	226_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	y	y	CC	C1706368	calificador	256-257	226_QUEST_clinical_caseMIR	SENT3	-	-
+7	a	a	SPS00	-	-	258-259	226_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	el	DA0FS0	-	-	260-262	226_QUEST_clinical_caseMIR	SENT3	-	-
+9	exploración	exploración	NCFS000	C1280903	procedimiento	263-274	226_QUEST_clinical_caseMIR	SENT3	-	-
+10	realizada	realizar	VMP00SF	-	-	275-284	226_QUEST_clinical_caseMIR	SENT3	-	-
+11	por	por	SPS00	C0678226	atributo	285-288	226_QUEST_clinical_caseMIR	SENT3	-	-
+12	su	su	DP3CS0	-	-	289-291	226_QUEST_clinical_caseMIR	SENT3	-	-
+13	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	292-298	226_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C1704221#C0017319_2	ocupación_2	299-301	226_QUEST_clinical_caseMIR	SENT3	-	-
+15	familia	familia	NCFS000	C1704221#C0017319_3	ocupación_3	302-309	226_QUEST_clinical_caseMIR	SENT3	-	-
+16	revela	revelar	VMIP3S0	-	-	310-316	226_QUEST_clinical_caseMIR	SENT3	-	-
+17	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	317-326	226_QUEST_clinical_caseMIR	SENT3	-	-
+18	de	de	SPS00	C0150312_2	calificador_2	327-329	226_QUEST_clinical_caseMIR	SENT3	-	-
+19	exudado	exudado	NCMS000	C0015388#C0311437	sustancia#anomalía_morfológica#función	330-337	226_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+20	amigdalar	amigdalar	AQ0CS0	-	-	338-347	226_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+21	blanquecino	blanquecino	AQ0MS0	-	-	348-359	226_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+22	bilateral	bilateral	NC00SC0	C0238767	calificador	360-369	226_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+23	y	y	CC	C1706368	calificador	370-371	226_QUEST_clinical_caseMIR	SENT3	-	-
+24	adenopatías	adenopatía	NCFP000	-	-	372-383	226_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+25	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	384-394	226_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+26	anteriores	anterior	AQ0CP0	C0205094#C1704448	calificador	395-405	226_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+27	aumentadas	aumentar	VMP00PF	-	-	406-416	226_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+28	de	de	SPS00	C0332285	atributo	417-419	226_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+29	tamaño	tamaño	NCMS000	C3714679#C0456389	calificador#atributo	420-426	226_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+30	y	y	CC	C1706368	calificador	427-428	226_QUEST_clinical_caseMIR	SENT3	-	-
+31	dolorosas	dolorosa	NCFP000	-	-	429-438	226_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+32	a	a	SPS00	-	-	439-440	226_QUEST_clinical_caseMIR	SENT3	-	-
+33	la	el	DA0FS0	-	-	441-443	226_QUEST_clinical_caseMIR	SENT3	-	-
+34	palpación	palpación	NCFS000	C0030247	procedimiento	444-453	226_QUEST_clinical_caseMIR	SENT3	-	-
+35	.	.	Fp	-	-	453-454	226_QUEST_clinical_caseMIR	SENT3	-	-
+

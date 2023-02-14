@@ -1,0 +1,39 @@
+1	El	el	DA0MS0	-	-	388-390	772_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	391-402	772_ANS_clinical_caseMIR	SENT1	-	-
+3	más	más	RG	C0205172	calificador	403-406	772_ANS_clinical_caseMIR	SENT1	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	407-415	772_ANS_clinical_caseMIR	SENT1	-	-
+5	es	ser	VSIP3S0	-	-	416-418	772_ANS_clinical_caseMIR	SENT1	-	-
+6	:	:	Fd	-	-	418-419	772_ANS_clinical_caseMIR	SENT1	-	-
+7	Resección	resección	NCFS000	C0728940_1	calificador_1	0-9	772_ANS_clinical_caseMIR	SENT1	-	-
+8	quirúrgica	quirúrgico	AQ0FS0	C0728940_2	calificador_2	10-20	772_ANS_clinical_caseMIR	SENT1	-	-
+9	(	(	Fpa	-	-	21-22	772_ANS_clinical_caseMIR	SENT1	-	-
+10	pancreatectomía	pancreatectomía	NCFS000	C0030279	procedimiento	22-37	772_ANS_clinical_caseMIR	SENT1	-	-
+11	corporocaudal	corporocaudal	NCMS000	-	-	38-51	772_ANS_clinical_caseMIR	SENT1	-	-
+12	)	)	Fpt	-	-	51-52	772_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	52-53	772_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Punción	punción	NCFS000	C0033119	anomalía_morfológica	0-7	772_ANS_clinical_caseMIR	SENT2	-	-
+2	guiada	guiar	VMP00SF	-	-	8-14	772_ANS_clinical_caseMIR	SENT2	-	-
+3	mediante	mediante	SPS00	-	-	15-23	772_ANS_clinical_caseMIR	SENT2	-	-
+4	ultrasonografía	ultrasonografía	NC00SC0	C0376443_1	procedimiento_1	24-39	772_ANS_clinical_caseMIR	SENT2	-	-
+5	endoscópica	endoscópico	AQ0FS0	C0376443_2	procedimiento_2	40-51	772_ANS_clinical_caseMIR	SENT2	-	-
+6	y	y	CC	C1706368	calificador	52-53	772_ANS_clinical_caseMIR	SENT2	-	-
+7	etanolización	etanolización	NCFS000	-	-	54-67	772_ANS_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	68-70	772_ANS_clinical_caseMIR	SENT2	-	-
+9	la	el	DA0FS0	-	-	71-73	772_ANS_clinical_caseMIR	SENT2	-	-
+10	misma	mismo	AQ0FS0	C0445247	calificador	74-79	772_ANS_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	79-80	772_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Seguimiento	seguimiento	NCMS000	-	-	0-11	772_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	772_ANS_clinical_caseMIR	SENT3	-	-
+3	la	el	DA0FS0	-	-	15-17	772_ANS_clinical_caseMIR	SENT3	-	-
+4	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	18-24	772_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	mediante	mediante	SPS00	-	-	25-33	772_ANS_clinical_caseMIR	SENT3	-	-
+6	RM	rm	NC00YL0	-	-	34-36	772_ANS_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	36-37	772_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Trasplante	trasplante	NCMS000	C0040732#C1961139#C0332835	procedimiento#calificador#estructura_corporal	0-10	772_ANS_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	772_ANS_clinical_caseMIR	SENT4	-	-
+3	riñón-páncreas	riñón-páncreas	VMSP2S0	-	-	14-28	772_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	28-29	772_ANS_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,79 @@
+1	Paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	0-11	142_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	1	1	Z	-	-	12-13	142_ANS_clinical_caseMIR	SENT1	-	-
+3	gramo	g	NCMS000	-	-	14-19	142_ANS_clinical_caseMIR	SENT1	-	-
+4	por	por	SPS00	C0678226	atributo	20-23	142_ANS_clinical_caseMIR	SENT1	-	-
+5	vía	vía	NCFS000	C1527415_1	calificador_1	24-27	142_ANS_clinical_caseMIR	SENT1	-	-
+6	oral	oral	NC00SC0	C1527415_2	calificador_2	28-32	142_ANS_clinical_caseMIR	SENT1	-	-
+7	cada	cada	DI0CS0	C1457900	calificador	33-37	142_ANS_clinical_caseMIR	SENT1	-	-
+8	8	8	Z	C1292429_1	calificador_1	38-39	142_ANS_clinical_caseMIR	SENT1	-	-
+9	horas	hora	NCFP000	C1292429_2	calificador_2	40-45	142_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	46-47	142_ANS_clinical_caseMIR	SENT1	-	-
+11	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	48-58	142_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	59-61	142_ANS_clinical_caseMIR	SENT1	-	-
+13	su	su	DP3CS0	-	-	62-64	142_ANS_clinical_caseMIR	SENT1	-	-
+14	domicilio	domicilio	NCMS000	C1442065	entidad_observable	65-74	142_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	74-75	142_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Claritromicina	claritromicina	NC00SC0	C0055856	producto#sustancia	0-14	142_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	oral	oral	AQ0CS0	C0442027	calificador	15-19	142_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	,	,	Fc	-	-	19-20	142_ANS_clinical_caseMIR	SENT2	-	-
+4	1	1	Z	-	-	21-22	142_ANS_clinical_caseMIR	SENT2	-	-
+5	gr	g	NC00SC0	-	-	23-25	142_ANS_clinical_caseMIR	SENT2	-	-
+6	cada	cada	NC00SC0	C0456696#C1275548_1	calificador_1	26-30	142_ANS_clinical_caseMIR	SENT2	-	-
+7	24	24	Z	C0456696#C1275548_2	calificador_2	31-33	142_ANS_clinical_caseMIR	SENT2	-	-
+8	horas	hora	NCFP000	C0456696#C1275548_3	calificador_3	34-39	142_ANS_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	39-40	142_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	0-11	142_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	12-23	142_ANS_clinical_caseMIR	SENT3	-	-
+3	,	,	Fc	-	-	23-24	142_ANS_clinical_caseMIR	SENT3	-	-
+4	1	1	Z	-	-	25-26	142_ANS_clinical_caseMIR	SENT3	-	-
+5	gramo	g	NCMS000	-	-	27-32	142_ANS_clinical_caseMIR	SENT3	-	-
+6	cada	cada	NC00SC0	C0456696#C1275548_1	calificador_1	33-37	142_ANS_clinical_caseMIR	SENT3	-	-
+7	24	24	Z	C0456696#C1275548_2	calificador_2	38-40	142_ANS_clinical_caseMIR	SENT3	-	-
+8	horas	hora	NCFP000	C0456696#C1275548_3	calificador_3	41-46	142_ANS_clinical_caseMIR	SENT3	-	-
+9	asociada	asociar	VMP00SF	-	-	47-55	142_ANS_clinical_caseMIR	SENT3	-	-
+10	a	a	SPS00	-	-	56-57	142_ANS_clinical_caseMIR	SENT3	-	-
+11	azitromizina	azitromizina	NCFS000	-	-	58-70	142_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+12	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	71-82	142_ANS_clinical_caseMIR	SENT3	-	-
+13	,	,	Fc	-	-	82-83	142_ANS_clinical_caseMIR	SENT3	-	-
+14	500	500		-	-	84-87	142_ANS_clinical_caseMIR	SENT3	-	-
+15	mg/24	mg/24	Z	-	-	88-93	142_ANS_clinical_caseMIR	SENT3	-	-
+16	horas	h	NCFP000	C0439227	calificador	94-99	142_ANS_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	99-100	142_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Amoxicilina	amoxicilina	NC00SC0	C0002645#C0521900	sustancia	0-11	142_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	/	/	Fh	-	-	11-12	142_ANS_clinical_caseMIR	SENT4	-	-
+3	ácido	ácido	NCMS000	C0110038#C0055860_1	sustancia#producto_1	12-17	142_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	clavulánico	clavulánico		C0110038#C0055860_2	sustancia#producto_2	18-29	142_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+5	oral	oral	NC00SC0	C0442027	calificador	30-34	142_ANS_clinical_caseMIR	SENT4	-	-
+6	,	,	Fc	-	-	34-35	142_ANS_clinical_caseMIR	SENT4	-	-
+7	875/125	875/125	Z	-	-	36-43	142_ANS_clinical_caseMIR	SENT4	-	-
+8	mg	mg	NCMN000	-	-	44-46	142_ANS_clinical_caseMIR	SENT4	-	-
+9	cada	cada	DI0CS0	C1457900	calificador	47-51	142_ANS_clinical_caseMIR	SENT4	-	-
+10	8	8	Z	C1292429_1	calificador_1	52-53	142_ANS_clinical_caseMIR	SENT4	-	-
+11	horas	hora	NCFP000	C1292429_2	calificador_2	54-59	142_ANS_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	59-60	142_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Ceftazidima	ceftazidima	NC00SC0	C0007559	sustancia	0-11	142_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+2	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	12-23	142_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	,	,	Fc	-	-	23-24	142_ANS_clinical_caseMIR	SENT5	-	-
+4	1	1	Z	-	-	25-26	142_ANS_clinical_caseMIR	SENT5	-	-
+5	gramo	g	NCMS000	-	-	27-32	142_ANS_clinical_caseMIR	SENT5	-	-
+6	cada	cada	DI0CS0	C1457900	calificador	33-37	142_ANS_clinical_caseMIR	SENT5	-	-
+7	8	8	Z	C1292429_1	calificador_1	38-39	142_ANS_clinical_caseMIR	SENT5	-	-
+8	horas	hora	NCFP000	C1292429_2	calificador_2	40-45	142_ANS_clinical_caseMIR	SENT5	-	-
+9	asociada	asociar	VMP00SF	-	-	46-54	142_ANS_clinical_caseMIR	SENT5	-	-
+10	a	a	SPS00	-	-	55-56	142_ANS_clinical_caseMIR	SENT5	-	-
+11	tobramicina	tobramicina	NC00SC0	C0040341	producto#sustancia	57-68	142_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+12	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	69-80	142_ANS_clinical_caseMIR	SENT5	-	-
+13	,	,	Fc	-	-	80-81	142_ANS_clinical_caseMIR	SENT5	-	-
+14	6	6	Z	-	-	82-83	142_ANS_clinical_caseMIR	SENT5	-	-
+15	mg	mg	NCMN000	-	-	84-86	142_ANS_clinical_caseMIR	SENT5	-	-
+16	/	/	Fh	-	-	86-87	142_ANS_clinical_caseMIR	SENT5	-	-
+17	Kg	kilogramo	NCMN000	C0439209	calificador	87-89	142_ANS_clinical_caseMIR	SENT5	-	-
+18	cada	cada	NC00SC0	C0456696#C1275548_1	calificador_1	90-94	142_ANS_clinical_caseMIR	SENT5	-	-
+19	24	24	Z	C0456696#C1275548_2	calificador_2	95-97	142_ANS_clinical_caseMIR	SENT5	-	-
+20	horas	hora	NCFP000	C0456696#C1275548_3	calificador_3	98-103	142_ANS_clinical_caseMIR	SENT5	-	-
+21	.	.	Fp	-	-	103-104	142_ANS_clinical_caseMIR	SENT5	-	-
+

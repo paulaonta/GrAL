@@ -1,0 +1,32 @@
+1	Desde	desde	SPS00	-	-	689-694	190_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	695-697	190_ANS_clinical_caseMIR	SENT1	-	-
+3	punto	punto	NCMS000	-	-	698-703	190_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	704-706	190_ANS_clinical_caseMIR	SENT1	-	-
+5	vista	vista	NCFS000	C0449911	atributo	707-712	190_ANS_clinical_caseMIR	SENT1	-	-
+6	del	del	SP+DA	-	-	713-716	190_ANS_clinical_caseMIR	SENT1	-	-
+7	equilibrio	equilibrio	NCMS000	C0001117#C0699847_1	entidad_observable#procedimiento_1	717-727	190_ANS_clinical_caseMIR	SENT1	-	-
+8	ácido-base	ácido-base		C0001117#C0699847_2	entidad_observable#procedimiento_2	728-738	190_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	738-739	190_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	740-742	190_ANS_clinical_caseMIR	SENT1	-	-
+11	situación	situación	NCFS000	-	-	743-752	190_ANS_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	753-756	190_ANS_clinical_caseMIR	SENT1	-	-
+13	mejor	mejor	RG	C0332272	calificador	757-762	190_ANS_clinical_caseMIR	SENT1	-	-
+14	describe	describir	VMIP3S0	-	-	763-771	190_ANS_clinical_caseMIR	SENT1	-	-
+15	a	a	SPS00	-	-	772-773	190_ANS_clinical_caseMIR	SENT1	-	-
+16	este	este	DD0MS0	-	-	774-778	190_ANS_clinical_caseMIR	SENT1	-	-
+17	paciente	paciente	NCCS000	C0030705	persona	779-787	190_ANS_clinical_caseMIR	SENT1	-	-
+18	es	ser	VSIP3S0	-	-	788-790	190_ANS_clinical_caseMIR	SENT1	-	-
+19	:	:	Fd	-	-	790-791	190_ANS_clinical_caseMIR	SENT1	-	-
+20	Hidrocloroliazida	hidrocloroliazida	NCFS000	-	-	0-17	190_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	.	.	Fp	-	-	17-18	190_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Bisoprolol	bisoprolol	NCMS000	C0053799	producto#sustancia	0-10	190_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	Furosemida	furosemida	NC00SC0	C0016860	producto#sustancia	0-10	190_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+3	.	.	Fp	-	-	10-11	190_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Enalapríl	enalapríl	AQ0CS00	-	-	0-9	190_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	9-10	190_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Hidralazina	hidralazina	NC00SC0	C0020223	sustancia	0-11	190_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	11-12	190_ANS_clinical_caseMIR	SENT4	-	-
+

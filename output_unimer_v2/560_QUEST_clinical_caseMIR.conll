@@ -1,0 +1,53 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	560_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	560_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	560_QUEST_clinical_caseMIR	SENT1	-	-
+4	30	30		-	-	13-15	560_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	560_QUEST_clinical_caseMIR	SENT1	-	-
+6	(	(	Fpa	-	-	21-22	560_QUEST_clinical_caseMIR	SENT1	-	-
+7	caso	caso	NCMS000	C0868928	calificador	22-26	560_QUEST_clinical_caseMIR	SENT1	-	-
+8	índice	índice	NCMS000	-	-	27-33	560_QUEST_clinical_caseMIR	SENT1	-	-
+9	)	)	Fpt	-	-	33-34	560_QUEST_clinical_caseMIR	SENT1	-	-
+10	afecto	afecto	NCMS000	C0001721	función	35-41	560_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	42-44	560_QUEST_clinical_caseMIR	SENT1	-	-
+12	atrofia	atrofiar	VMM02S0	C0917796_1	trastorno_1	45-52	560_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	óptica	óptico	AQ0FS0	C0917796_2	trastorno_2	53-59	560_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	de	de	SPS00	C0917796_3	trastorno_3	60-62	560_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	Leber	Leber		C0917796_4	trastorno_4	63-68	560_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+16	presenta	presentar	VMIP3S0	-	-	69-77	560_QUEST_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	78-80	560_QUEST_clinical_caseMIR	SENT1	-	-
+18	mutación	mutación	NCFS000	-	-	81-89	560_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	11778A	11778A		-	-	90-96	560_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	97-99	560_QUEST_clinical_caseMIR	SENT1	-	-
+21	el	el	DA0MS0	-	-	100-102	560_QUEST_clinical_caseMIR	SENT1	-	-
+22	genoma	genoma	NCMS000	C0017428	sustancia	103-109	560_QUEST_clinical_caseMIR	SENT1	-	-
+23	mitocondrial	mitocondrial	AQ0CS0	-	-	110-122	560_QUEST_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	122-123	560_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	124-126	560_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	127-129	560_QUEST_clinical_caseMIR	SENT2	-	-
+3	consejo	consejo	NCMS000	-	-	130-137	560_QUEST_clinical_caseMIR	SENT2	-	-
+4	genético	genético	AQ0MS0	-	-	138-146	560_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	147-149	560_QUEST_clinical_caseMIR	SENT2	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	150-152	560_QUEST_clinical_caseMIR	SENT2	-	-
+7	informará	informar	VMIF3S0	C0700287	procedimiento	153-162	560_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	163-165	560_QUEST_clinical_caseMIR	SENT2	-	-
+9	los	el	DA0MP0	-	-	166-169	560_QUEST_clinical_caseMIR	SENT2	-	-
+10	riesgos	riesgo	NCMP000	-	-	170-177	560_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	178-180	560_QUEST_clinical_caseMIR	SENT2	-	-
+12	transmisión	transmisión	NCFS000	C1521797	calificador	181-192	560_QUEST_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	193-195	560_QUEST_clinical_caseMIR	SENT2	-	-
+14	la	el	DA0FS0	-	-	196-198	560_QUEST_clinical_caseMIR	SENT2	-	-
+15	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	199-209	560_QUEST_clinical_caseMIR	SENT2	-	-
+16	a	a	SPS00	-	-	210-211	560_QUEST_clinical_caseMIR	SENT2	-	-
+17	su	su	DP3CS0	-	-	212-214	560_QUEST_clinical_caseMIR	SENT2	-	-
+18	descendencia	descendencia	NCFS000	-	-	215-227	560_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	227-228	560_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	229-230	560_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	230-233	560_QUEST_clinical_caseMIR	SENT3	-	-
+3	información	información	NCFS000	-	-	234-245	560_QUEST_clinical_caseMIR	SENT3	-	-
+4	es	ser	VSIP3S0	-	-	246-248	560_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	249-251	560_QUEST_clinical_caseMIR	SENT3	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	252-260	560_QUEST_clinical_caseMIR	SENT3	-	-
+7	?	?	Fit	-	-	260-261	560_QUEST_clinical_caseMIR	SENT3	-	-
+

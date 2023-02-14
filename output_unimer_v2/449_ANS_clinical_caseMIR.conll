@@ -1,0 +1,63 @@
+1	¿	¿	Fia	-	-	294-295	449_ANS_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	295-299	449_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	300-302	449_ANS_clinical_caseMIR	SENT1	-	-
+4	las	el	DA0FP0	-	-	303-306	449_ANS_clinical_caseMIR	SENT1	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	307-317	449_ANS_clinical_caseMIR	SENT1	-	-
+6	sería	ser	VSIC1S0	-	-	318-323	449_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	324-326	449_ANS_clinical_caseMIR	SENT1	-	-
+8	mejor	mejor	AQ0CS0	C0332272	calificador	327-332	449_ANS_clinical_caseMIR	SENT1	-	-
+9	forma	forma	NCFS000	C0348078	atributo	333-338	449_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	339-341	449_ANS_clinical_caseMIR	SENT1	-	-
+11	iniciar	iniciar	VMN0000	-	-	342-349	449_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	350-352	449_ANS_clinical_caseMIR	SENT1	-	-
+13	información	información	NCFS000	-	-	353-364	449_ANS_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	365-368	449_ANS_clinical_caseMIR	SENT1	-	-
+15	parte	parte	NCMS000	C0449719	atributo	369-374	449_ANS_clinical_caseMIR	SENT1	-	-
+16	del	del	SP+DA	-	-	375-378	449_ANS_clinical_caseMIR	SENT1	-	-
+17	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	379-385	449_ANS_clinical_caseMIR	SENT1	-	-
+18	?	?	Fit	-	-	385-386	449_ANS_clinical_caseMIR	SENT1	-	-
+19	:	:	Fd	-	-	386-387	449_ANS_clinical_caseMIR	SENT1	-	-
+20	Insertar	insertar	VMN0000	-	-	0-8	449_ANS_clinical_caseMIR	SENT1	-	-
+21	una	una		C0205447_1	calificador_1	9-12	449_ANS_clinical_caseMIR	SENT1	-	-
+22	mascarilla	mascarilla	NCFS000	-	-	13-23	449_ANS_clinical_caseMIR	SENT1	-	-
+23	laríngea	laríngeo	AQ0FS0	C0023078	calificador	24-32	449_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	.	.	Fp	-	-	32-33	449_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Canalizar	canalizar	VMN0000	-	-	0-9	449_ANS_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	10-13	449_ANS_clinical_caseMIR	SENT2	-	-
+3	vía	vía	NCFS000	C0449444	atributo	14-17	449_ANS_clinical_caseMIR	SENT2	-	-
+4	venosa	venoso	AQ0FS0	C0348013	calificador	18-24	449_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	periférica	periférico	AQ0FS0	C0205100	calificador	25-35	449_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+6	y	y	CC	C1706368	calificador	36-37	449_ANS_clinical_caseMIR	SENT2	-	-
+7	administrar	administrar	VMN0000	C1621583	calificador	38-49	449_ANS_clinical_caseMIR	SENT2	-	-
+8	manitol	manitol	NCMS000	C0024730	sustancia	50-57	449_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	58-69	449_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	69-70	449_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Intubación	intubación	NCFS000	C0021925	procedimiento	0-10	449_ANS_clinical_caseMIR	SENT3	-	-
+2	endotraqueal	endotraqueal	AQ0CS0	-	-	11-23	449_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	con	con	SPS00	C0332287	atributo	24-27	449_ANS_clinical_caseMIR	SENT3	-	-
+4	control	control	NCMS000	C2587213	atributo	28-35	449_ANS_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	36-38	449_ANS_clinical_caseMIR	SENT3	-	-
+6	la	el	DA0FS0	-	-	39-41	449_ANS_clinical_caseMIR	SENT3	-	-
+7	columna	columna	NCFS000	C0728985_1	estructura_corporal_1	42-49	449_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+8	cervical	cervical	NC00SC0	C0728985_2	estructura_corporal_2	50-58	449_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+9	.	.	Fp	-	-	58-59	449_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Oxigenoterapia	oxigenoterapia	NCFS000	C0184633	procedimiento	0-14	449_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	con	con	SPS00	C0332287	atributo	15-18	449_ANS_clinical_caseMIR	SENT4	-	-
+3	mascarilla	mascarilla	NCFS000	-	-	19-29	449_ANS_clinical_caseMIR	SENT4	-	-
+4	tipo	tipo	NCMS000	C0332307	calificador#atributo	30-34	449_ANS_clinical_caseMIR	SENT4	-	-
+5	ventimask	ventimask	NCMS000	-	-	35-44	449_ANS_clinical_caseMIR	SENT4	-	-
+6	y	y	CC	C1706368	calificador	45-46	449_ANS_clinical_caseMIR	SENT4	-	-
+7	traslado	traslado	NCMS000	C1540850	entidad_observable	47-55	449_ANS_clinical_caseMIR	SENT4	-	-
+8	inmediato	inmediato	AQ0MS0	C0205253	calificador	56-65	449_ANS_clinical_caseMIR	SENT4	-	-
+9	a	a	SPS00	-	-	66-67	449_ANS_clinical_caseMIR	SENT4	-	-
+10	un	un		C0205447_1	calificador_1	68-70	449_ANS_clinical_caseMIR	SENT4	-	-
+11	hospital	hospital	NCMS000	C1510665	medio_ambiente	71-79	449_ANS_clinical_caseMIR	SENT4	-	-
+12	con	con	SPS00	C0332287	atributo	80-83	449_ANS_clinical_caseMIR	SENT4	-	-
+13	neurocirujano	neurocirujano	NCMS000	C0237427	ocupación	84-97	449_ANS_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	98-100	449_ANS_clinical_caseMIR	SENT4	-	-
+15	guardia	guardia	NCCS000	C0402589	ocupación	101-108	449_ANS_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	108-109	449_ANS_clinical_caseMIR	SENT4	-	-
+

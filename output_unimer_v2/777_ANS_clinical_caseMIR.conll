@@ -1,0 +1,26 @@
+1	Detorsión	detorsión	NCFS000	-	-	0-9	777_ANS_clinical_caseMIR	SENT1	-	-
+2	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	10-21	777_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	21-22	777_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Colectomía	colectomía	NC00SC0	C0149750_1	procedimiento_1	0-10	777_ANS_clinical_caseMIR	SENT2	-	-
+2	segmentaria	segmentario	AQ0FS0	C0149750_2	procedimiento_2	11-22	777_ANS_clinical_caseMIR	SENT2	-	-
+3	y	y	CC	C1706368	calificador	23-24	777_ANS_clinical_caseMIR	SENT2	-	-
+4	Hartmann	hartmann	NCFS000	-	-	25-33	777_ANS_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	33-34	777_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Colectomía	colectomía	NC00SC0	C0149750_1	procedimiento_1	0-10	777_ANS_clinical_caseMIR	SENT3	-	-
+2	segmentaria	segmentario	AQ0FS0	C0149750_2	procedimiento_2	11-22	777_ANS_clinical_caseMIR	SENT3	-	-
+3	y	y	CC	C1706368	calificador	23-24	777_ANS_clinical_caseMIR	SENT3	-	-
+4	anastomosis	anastomosis	NCFN000	C0278307_1	procedimiento_1	25-36	777_ANS_clinical_caseMIR	SENT3	-	-
+5	colorrectal	colorrectal	NC00SC0	C0278307_2	procedimiento_2	37-48	777_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	laparoscópica	laparoscópica	AQ0FS00	-	-	49-62	777_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+7	.	.	Fp	-	-	62-63	777_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Detorsión	detorsión	NCFS000	-	-	0-9	777_ANS_clinical_caseMIR	SENT4	-	-
+2	quirúrgica	quirúrgico	AQ0FS0	C0543467	calificador	10-20	777_ANS_clinical_caseMIR	SENT4	-	-
+3	y	y	CC	C1706368	calificador	21-22	777_ANS_clinical_caseMIR	SENT4	-	-
+4	pexia	fijación_generalmente_mediante_sutura	NC00YL0	-	-	23-28	777_ANS_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	29-31	777_ANS_clinical_caseMIR	SENT4	-	-
+6	sigmoides	sigmoide	AQ0CP0	-	-	32-41	777_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	41-42	777_ANS_clinical_caseMIR	SENT4	-	-
+

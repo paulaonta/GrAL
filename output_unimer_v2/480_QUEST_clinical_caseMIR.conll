@@ -1,0 +1,78 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	480_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	480_QUEST_clinical_caseMIR	SENT1	-	-
+3	24	24		-	-	9-11	480_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	480_QUEST_clinical_caseMIR	SENT1	-	-
+5	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	17-25	480_QUEST_clinical_caseMIR	SENT1	-	-
+6	por	por	SPS00	C1719974_2	procedimiento_2	26-29	480_QUEST_clinical_caseMIR	SENT1	-	-
+7	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	30-35	480_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	abdominal	abdominal	AQ0CS0	C0000726	calificador	36-45	480_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	bajo	bajo	SPS00	C0205251	calificador	46-50	480_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	51-53	480_QUEST_clinical_caseMIR	SENT1	-	-
+11	dos	dos		-	-	54-57	480_QUEST_clinical_caseMIR	SENT1	-	-
+12	semanas	semana	NCFP000	C0439230	calificador	58-65	480_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	66-68	480_QUEST_clinical_caseMIR	SENT1	-	-
+14	evolución	evolución	NCFS000	-	-	69-78	480_QUEST_clinical_caseMIR	SENT1	-	-
+15	que	que	PR0CN000	-	-	79-82	480_QUEST_clinical_caseMIR	SENT1	-	-
+16	ha	haber	VAIP3S0	-	-	83-85	480_QUEST_clinical_caseMIR	SENT1	-	-
+17	empeorado	empeorar	VMP00SM	-	-	86-95	480_QUEST_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	96-99	480_QUEST_clinical_caseMIR	SENT1	-	-
+19	la	el	DA0FS0	-	-	100-102	480_QUEST_clinical_caseMIR	SENT1	-	-
+20	última	último	AO0FS0	-	-	103-109	480_QUEST_clinical_caseMIR	SENT1	-	-
+21	relación	relación	NCFS000	C1314687#C0009990#C0009253_1	hallazgo#entidad_observable_1	110-118	480_QUEST_clinical_caseMIR	SENT1	-	-
+22	sexual	sexual	AQ0CS0	C1314687#C0009990#C0009253_2	hallazgo#entidad_observable_2	119-125	480_QUEST_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	125-126	480_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	127-134	480_QUEST_clinical_caseMIR	SENT2	-	-
+2	tener	tener	VMN0000	-	-	135-140	480_QUEST_clinical_caseMIR	SENT2	-	-
+3	pareja	pareja	NCFS000	-	-	141-147	480_QUEST_clinical_caseMIR	SENT2	-	-
+4	reciente	reciente	AQ0CS0	C0332185	calificador	148-156	480_QUEST_clinical_caseMIR	SENT2	-	-
+5	con	con	SPS00	C0332287	atributo	157-160	480_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	161-163	480_QUEST_clinical_caseMIR	SENT2	-	-
+7	que	que	PR0CN000	-	-	164-167	480_QUEST_clinical_caseMIR	SENT2	-	-
+8	sólo	sólo	RG	-	-	168-172	480_QUEST_clinical_caseMIR	SENT2	-	-
+9	ocasionalmente	ocasionalmente	RG	-	-	173-187	480_QUEST_clinical_caseMIR	SENT2	-	-
+10	utiliza	utilizar	VMM02S0	C0420877_1	hallazgo_1	188-195	480_QUEST_clinical_caseMIR	SENT2	-	-
+11	preservativo	preservativo	NCMS000	C0420877_2	hallazgo_2	196-208	480_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	208-209	480_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	210-211	480_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	212-214	480_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	215-226	480_QUEST_clinical_caseMIR	SENT3	-	-
+4	presenta	presentar	VMIP3S0	-	-	227-235	480_QUEST_clinical_caseMIR	SENT3	-	-
+5	regular	regular	VMN0000	C0205272	calificador	236-243	480_QUEST_clinical_caseMIR	SENT3	-	-
+6	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	244-250	480_QUEST_clinical_caseMIR	SENT3	-	-
+7	general	general	AQ0CS0	C0205246	calificador	251-258	480_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	258-259	480_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Tª	tª	RG	-	-	260-262	480_QUEST_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	263-265	480_QUEST_clinical_caseMIR	SENT4	-	-
+3	38,6°C	38,6°C		-	-	266-272	480_QUEST_clinical_caseMIR	SENT4	-	-
+4	,	,	Fc	-	-	272-273	480_QUEST_clinical_caseMIR	SENT4	-	-
+5	leucocitos	leucocito	NCMP000	C0023516	célula	274-284	480_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	16.000/μL	16.000/μL		-	-	285-294	480_QUEST_clinical_caseMIR	SENT4	-	-
+7	(	(	Fpa	-	-	295-296	480_QUEST_clinical_caseMIR	SENT4	-	-
+8	85	85	Z	-	-	296-298	480_QUEST_clinical_caseMIR	SENT4	-	-
+9	%	%	Ft	-	-	298-299	480_QUEST_clinical_caseMIR	SENT4	-	-
+10	neutrófilos	neutrófilo	NCMP000	C0027950	célula	300-311	480_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+11	)	)	Fpt	-	-	311-312	480_QUEST_clinical_caseMIR	SENT4	-	-
+12	;	;	Fx	-	-	312-313	480_QUEST_clinical_caseMIR	SENT4	-	-
+13	PCR	pcr	NC00YL0	-	-	314-317	480_QUEST_clinical_caseMIR	SENT4	-	-
+14	30	30	Z	-	-	318-320	480_QUEST_clinical_caseMIR	SENT4	-	-
+15	mg	mg	NCMN000	-	-	321-323	480_QUEST_clinical_caseMIR	SENT4	-	-
+16	/	/	Fh	-	-	323-324	480_QUEST_clinical_caseMIR	SENT4	-	-
+17	L.	l.	NCFS000	-	-	324-326	480_QUEST_clinical_caseMIR	SENT4	-	-
+18	La	el	DA0FS0	-	-	327-329	480_QUEST_clinical_caseMIR	SENT4	-	-
+19	exploración	exploración	NCFS000	C1280903	procedimiento	330-341	480_QUEST_clinical_caseMIR	SENT4	-	-
+20	con	con	SPS00	C0332287	atributo	342-345	480_QUEST_clinical_caseMIR	SENT4	-	-
+21	espéculo	espéculo	NCMS000	C0037816	objeto_físico	346-354	480_QUEST_clinical_caseMIR	SENT4	-	-
+22	evidencia	evidenciar	VMIP3S0	-	-	355-364	480_QUEST_clinical_caseMIR	SENT4	-	-
+23	flujo	flujo	NCMS000	C0476354_1	hallazgo_1	365-370	480_QUEST_clinical_caseMIR	SENT4	-	-
+24	vaginal	vaginal	AQ0CS0	C0476354_2	hallazgo_2	371-378	480_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+25	anormal	anormal	NC00SC0	C0476354_3	hallazgo_3	379-386	480_QUEST_clinical_caseMIR	SENT4	-	-
+26	abundante	abundante	AQ0CS0	-	-	387-396	480_QUEST_clinical_caseMIR	SENT4	-	-
+27	y	y	CC	C1706368	calificador	397-398	480_QUEST_clinical_caseMIR	SENT4	-	-
+28	movilización	movilización	NCFS000	C0185112	procedimiento#régimen/tratamiento	399-411	480_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+29	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	412-420	480_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+30	dolorosa	doloroso	AQ0FS0	-	-	421-429	480_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+31	.	.	Fp	-	-	429-430	480_QUEST_clinical_caseMIR	SENT4	-	-
+

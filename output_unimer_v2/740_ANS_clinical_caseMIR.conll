@@ -1,0 +1,26 @@
+1	Glomerulopatía	glomerulopatía	NCFS000	-	-	0-14	740_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	membranosa	membranoso	AQ0FS0	C0205287	calificador	15-25	740_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	25-26	740_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0017661_1	trastorno_1	0-10	740_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0017661_2	trastorno_2	11-14	740_ANS_clinical_caseMIR	SENT2	-	-
+3	inmunoglobulina	inmunoglobulina	NCFS000	C0017661_3	trastorno_3	15-30	740_ANS_clinical_caseMIR	SENT2	-	-
+4	A	a	SPS00	C0017661_4	trastorno_4	31-32	740_ANS_clinical_caseMIR	SENT2	-	-
+5	(	(	Fpa	-	-	33-34	740_ANS_clinical_caseMIR	SENT2	-	-
+6	nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	34-44	740_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	45-47	740_ANS_clinical_caseMIR	SENT2	-	-
+8	Berger	berger	VMN0000	-	-	48-54	740_ANS_clinical_caseMIR	SENT2	-	-
+9	)	)	Fpt	-	-	54-55	740_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	55-56	740_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Glomerulonefritis	glomerulonefritis	NCFN000	C0017662_1	trastorno_1	0-17	740_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	membranoproliferativa	membranoproliferativo	AQ0FS0	C0017662_2	trastorno_2	18-39	740_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	o	o	CC	-	-	40-41	740_ANS_clinical_caseMIR	SENT3	-	-
+4	mesangiocapilar	mesangiocapilar	VMN0000	-	-	42-57	740_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+5	.	.	Fp	-	-	57-58	740_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Glomerulonefritis	glomerulonefritis	NCFN000	C0156221_1	trastorno_1	0-17	740_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	aguda	agudo	AQ0FS0	C0156221_2	trastorno_2	18-23	740_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+3	postinfecciosa	postinfeccioso	AQ0FS0	-	-	24-38	740_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+4	.	.	Fp	-	-	38-39	740_ANS_clinical_caseMIR	SENT4	-	-
+

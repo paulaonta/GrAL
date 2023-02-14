@@ -1,0 +1,149 @@
+1	Su	su	DP3CS0	-	-	231-233	123_QUEST_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	234-245	123_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	246-248	123_QUEST_clinical_caseMIR	SENT1	-	-
+4	elección	elección	NCFS000	-	-	249-257	123_QUEST_clinical_caseMIR	SENT1	-	-
+5	sería	ser	VSIC1S0	-	-	258-263	123_QUEST_clinical_caseMIR	SENT1	-	-
+6	:	:	Fd	-	-	263-264	123_QUEST_clinical_caseMIR	SENT1	-	-
+7	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	123_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	6-8	123_QUEST_clinical_caseMIR	SENT1	-	-
+9	80	80		-	-	9-11	123_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	12-16	123_QUEST_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	16-17	123_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	18-21	123_QUEST_clinical_caseMIR	SENT1	-	-
+13	acude	acudir	VMIP3S0	-	-	22-27	123_QUEST_clinical_caseMIR	SENT1	-	-
+14	al	al	SP+DA	-	-	28-30	123_QUEST_clinical_caseMIR	SENT1	-	-
+15	Servicio	servicio	NCMS000	-	-	31-39	123_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	40-42	123_QUEST_clinical_caseMIR	SENT1	-	-
+17	Urgencias	urgencia	NCFP000	C0439609	calificador	43-52	123_QUEST_clinical_caseMIR	SENT1	-	-
+18	a	a	SPS00	-	-	53-54	123_QUEST_clinical_caseMIR	SENT1	-	-
+19	las	el	DA0FP0	-	-	55-58	123_QUEST_clinical_caseMIR	SENT1	-	-
+20	4	4	Z	-	-	59-60	123_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de		-	-	61-63	123_QUEST_clinical_caseMIR	SENT1	-	-
+22	la	la		-	-	64-66	123_QUEST_clinical_caseMIR	SENT1	-	-
+23	madrugada	madrugada		-	-	67-76	123_QUEST_clinical_caseMIR	SENT1	-	-
+24	por	por	SPS00	C0678226	atributo	77-80	123_QUEST_clinical_caseMIR	SENT1	-	-
+25	referir	referir	VMN0000	-	-	81-88	123_QUEST_clinical_caseMIR	SENT1	-	-
+26	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	89-95	123_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	de	de	SPS00	C0332285	atributo	96-98	123_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	reposo	reposo	NCMS000	-	-	99-105	123_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+29	de	de	SPS00	C0332285	atributo	106-108	123_QUEST_clinical_caseMIR	SENT1	-	-
+30	aparición	aparición	NCFS000	-	-	109-118	123_QUEST_clinical_caseMIR	SENT1	-	-
+31	súbita	súbito	AQ0FS0	-	-	119-125	123_QUEST_clinical_caseMIR	SENT1	-	-
+32	con	con	SPS00	C0332287	atributo	126-129	123_QUEST_clinical_caseMIR	SENT1	-	-
+33	tos	tos	NCFS000	C0850149_1	hallazgo_1	130-133	123_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+34	seca	seco	AQ0FS0	C0850149_2	hallazgo_2	134-138	123_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+35	y	y	CC	C1706368	calificador	139-140	123_QUEST_clinical_caseMIR	SENT1	-	-
+36	dolor	dolor	NCMS000	C1299600_1	hallazgo_1	141-146	123_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+37	torácico	torácico	NC00SC0	C1299600_2	hallazgo_2	147-155	123_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+38	opresivo	opresivo	AQ0MS0	C1299600_3	hallazgo_3	156-164	123_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+39	irradiado	irradiar	VMP00SM	-	-	165-174	123_QUEST_clinical_caseMIR	SENT1	-	-
+40	a	a	SPS00	-	-	175-176	123_QUEST_clinical_caseMIR	SENT1	-	-
+41	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	177-183	123_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+42	.	.	Fp	-	-	183-184	123_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Antecedentes	antecedente	NCMP000	C0332119_1	situación_1	185-197	123_QUEST_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332119_2	situación_2	198-200	123_QUEST_clinical_caseMIR	SENT2	-	-
+3	HTA	hta	NC00YL0	-	-	201-204	123_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	esencial	esencial	AQ0CS0	C0205224	calificador	205-213	123_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+5	de	de	SPS00	C0332285	atributo	214-216	123_QUEST_clinical_caseMIR	SENT2	-	-
+6	larga	largo	AQ0FS0	C0205166#C0392744	calificador	217-222	123_QUEST_clinical_caseMIR	SENT2	-	-
+7	evolución	evolución	NCFS000	-	-	223-232	123_QUEST_clinical_caseMIR	SENT2	-	-
+8	e	y	CC	C1706368	calificador	233-234	123_QUEST_clinical_caseMIR	SENT2	-	-
+9	infarto	infarto	NCMS000	C0155626_1	trastorno_1	235-242	123_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	agudo	agudo	NC00SC0	C0155626_2	trastorno_2	243-248	123_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+11	de	de	SPS00	C0155626_3	trastorno_3	249-251	123_QUEST_clinical_caseMIR	SENT2	-	-
+12	miocardio	miocardio	NCMS000	C0155626_4	trastorno_4	252-261	123_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	261-262	123_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	263-264	123_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	265-267	123_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	268-279	123_QUEST_clinical_caseMIR	SENT3	-	-
+4	:	:	Fd	-	-	279-280	123_QUEST_clinical_caseMIR	SENT3	-	-
+5	TA	ta	NC00YL0	-	-	281-283	123_QUEST_clinical_caseMIR	SENT3	-	-
+6	220/130	220/130	Z	-	-	284-291	123_QUEST_clinical_caseMIR	SENT3	-	-
+7	mmHg	mmHg	NCMP000	-	-	292-296	123_QUEST_clinical_caseMIR	SENT3	-	-
+8	,	,	Fc	-	-	296-297	123_QUEST_clinical_caseMIR	SENT3	-	-
+9	Fe	fe	NCFS000	-	-	298-300	123_QUEST_clinical_caseMIR	SENT3	-	-
+10	100	100		-	-	301-304	123_QUEST_clinical_caseMIR	SENT3	-	-
+11	lpm	lpm	NC00YL0	-	-	305-308	123_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	308-309	123_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Fr	fr	NC00YL0	-	-	310-312	123_QUEST_clinical_caseMIR	SENT4	-	-
+2	30	30		-	-	313-315	123_QUEST_clinical_caseMIR	SENT4	-	-
+3	rpm	r.p.m.	NCFN000	-	-	316-319	123_QUEST_clinical_caseMIR	SENT4	-	-
+4	Saturación	saturación	NCFS000	-	-	320-330	123_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	331-333	123_QUEST_clinical_caseMIR	SENT4	-	-
+6	02	02		-	-	334-336	123_QUEST_clinical_caseMIR	SENT4	-	-
+7	70	70	Z	-	-	337-339	123_QUEST_clinical_caseMIR	SENT4	-	-
+8	%	%	Ft	-	-	339-340	123_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	340-341	123_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Auscultación	auscultación	NCFS000	C0004339	procedimiento	342-354	123_QUEST_clinical_caseMIR	SENT5	-	-
+2	:	:	Fd	-	-	354-355	123_QUEST_clinical_caseMIR	SENT5	-	-
+3	ruidos	ruido	NCMP000	C0006318	hallazgo	356-362	123_QUEST_clinical_caseMIR	SENT5	-	-
+4	rítmicos	rítmico	AQ0MP0	C0332311	calificador	363-371	123_QUEST_clinical_caseMIR	SENT5	-	-
+5	,	,	Fc	-	-	371-372	123_QUEST_clinical_caseMIR	SENT5	-	-
+6	rápidos	rápido	AQ0MP0	C0456962	calificador	373-380	123_QUEST_clinical_caseMIR	SENT5	-	-
+7	,	,	Fc	-	-	380-381	123_QUEST_clinical_caseMIR	SENT5	-	-
+8	con	con	SPS00	C0332287	atributo	382-385	123_QUEST_clinical_caseMIR	SENT5	-	-
+9	crepitantes	crepitantes	NCCP000	-	-	386-397	123_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	398-399	123_QUEST_clinical_caseMIR	SENT5	-	-
+11	sibilancias	sibilancias	NC00SC0	C0043144#C0392681	hallazgo	400-411	123_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+12	generalizados	generalizar	VMP00PM	-	-	412-425	123_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	426-428	123_QUEST_clinical_caseMIR	SENT5	-	-
+14	ambos	ambos	DI0MP0	C0238767	calificador	429-434	123_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+15	hemitórax	hemitórax	NCMN000	-	-	435-444	123_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+16	.	.	Fp	-	-	444-445	123_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	ECG	ecg	NC00YL0	C1623258	procedimiento	446-449	123_QUEST_clinical_caseMIR	SENT6	-	-
+2	:	:	Fd	-	-	449-450	123_QUEST_clinical_caseMIR	SENT6	-	-
+3	Taquicardia	taquicardia	NCFS000	C0039239_1	hallazgo_1	451-462	123_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+4	sinusal	sinusal		C0039239_2	hallazgo_2	463-470	123_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+5	a	a	SPS00	-	-	471-472	123_QUEST_clinical_caseMIR	SENT6	-	-
+6	110	110		-	-	473-476	123_QUEST_clinical_caseMIR	SENT6	-	-
+7	lpm	lpm	NC00YL0	-	-	477-480	123_QUEST_clinical_caseMIR	SENT6	-	-
+8	,	,	Fc	-	-	480-481	123_QUEST_clinical_caseMIR	SENT6	-	-
+9	con	con	SPS00	C0332287	atributo	482-485	123_QUEST_clinical_caseMIR	SENT6	-	-
+10	inversión	inversión	NCFS000	C0520888_1	hallazgo_1	486-495	123_QUEST_clinical_caseMIR	SENT6	-	-
+11	de	de	SPS00	C0520888_2	hallazgo_2	496-498	123_QUEST_clinical_caseMIR	SENT6	-	-
+12	la	lo	PP3FSA00	C0520888_3	hallazgo_3	499-501	123_QUEST_clinical_caseMIR	SENT6	-	-
+13	onda	onda	NCFS000	C0520888_4	hallazgo_4	502-506	123_QUEST_clinical_caseMIR	SENT6	-	-
+14	T	t	NCFS000	C0520888_5	hallazgo_5	507-508	123_QUEST_clinical_caseMIR	SENT6	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	509-511	123_QUEST_clinical_caseMIR	SENT6	-	-
+16	V1-V6	V1-V6		-	-	512-517	123_QUEST_clinical_caseMIR	SENT6	-	-
+17	.	.	Fp	-	-	517-518	123_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	519-530	123_QUEST_clinical_caseMIR	SENT7	-	-
+2	de	de	SPS00	C0039985_2	procedimiento_2	531-533	123_QUEST_clinical_caseMIR	SENT7	-	-
+3	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	534-539	123_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
+4	:	:	Fd	-	-	539-540	123_QUEST_clinical_caseMIR	SENT7	-	-
+5	patrón	patrón	NCMS000	C0449774	atributo	541-547	123_QUEST_clinical_caseMIR	SENT7	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	548-550	123_QUEST_clinical_caseMIR	SENT7	-	-
+7	"	"	Fe	-	-	551-552	123_QUEST_clinical_caseMIR	SENT7	-	-
+8	alas	ala	NCFP000	C0043189	estructura_corporal	552-556	123_QUEST_clinical_caseMIR	SENT7	-	-
+9	de	de	SPS00	C0332285	atributo	557-559	123_QUEST_clinical_caseMIR	SENT7	-	-
+10	mariposa	mariposa	NCFS000	C0006496	organismo	560-568	123_QUEST_clinical_caseMIR	SENT7	-	-
+11	"	"	Fe	-	-	568-569	123_QUEST_clinical_caseMIR	SENT7	-	-
+12	.	.	Fp	-	-	569-570	123_QUEST_clinical_caseMIR	SENT7	-	-
+
+1	Analítica	analítica	NCFS000	-	-	571-580	123_QUEST_clinical_caseMIR	SENT8	-	-
+2	:	:	Fd	-	-	580-581	123_QUEST_clinical_caseMIR	SENT8	-	-
+3	péptido	péptido	NCMS000	C0030956	sustancia	582-589	123_QUEST_clinical_caseMIR	SENT8	-	-
+4	natriurético	natriurético	AQ0MS00	-	-	590-602	123_QUEST_clinical_caseMIR	SENT8	-	-
+5	(	(	Fpa	-	-	603-604	123_QUEST_clinical_caseMIR	SENT8	-	-
+6	pro-BNP	pro-bnp	NCMS000	-	-	604-611	123_QUEST_clinical_caseMIR	SENT8	-	-
+7	)	)	Fpt	-	-	611-612	123_QUEST_clinical_caseMIR	SENT8	-	-
+8	400	400		-	-	613-616	123_QUEST_clinical_caseMIR	SENT8	-	-
+9	pg	picogramo	NC00YL0	C0439213	calificador	617-619	123_QUEST_clinical_caseMIR	SENT8	-	-
+10	/	/	Fh	-	-	619-620	123_QUEST_clinical_caseMIR	SENT8	-	-
+11	ml	mililitro	NCMN000	C0439242	calificador	620-622	123_QUEST_clinical_caseMIR	SENT8	-	-
+12	(	(	Fpa	-	-	623-624	123_QUEST_clinical_caseMIR	SENT8	-	-
+13	normal	normal	AQ0CS0	C0205307	calificador	624-630	123_QUEST_clinical_caseMIR	SENT8	-	-
+14	<	<	Fz	-	-	631-632	123_QUEST_clinical_caseMIR	SENT8	-	-
+15	100	100		-	-	632-635	123_QUEST_clinical_caseMIR	SENT8	-	-
+16	pg	picogramo	NC00YL0	C0439213	calificador	636-638	123_QUEST_clinical_caseMIR	SENT8	-	-
+17	/	/	Fh	-	-	638-639	123_QUEST_clinical_caseMIR	SENT8	-	-
+18	ml	mililitro	NCMN000	C0439242	calificador	639-641	123_QUEST_clinical_caseMIR	SENT8	-	-
+19	)	)	Fpt	-	-	641-642	123_QUEST_clinical_caseMIR	SENT8	-	-
+20	.	.	Fp	-	-	642-643	123_QUEST_clinical_caseMIR	SENT8	-	-
+

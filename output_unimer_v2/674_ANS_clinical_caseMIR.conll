@@ -1,0 +1,51 @@
+1	El	el	DA0MS0	-	-	0-2	674_ANS_clinical_caseMIR	SENT1	-	-
+2	cuadro	cuadro	NCMS000	-	-	3-9	674_ANS_clinical_caseMIR	SENT1	-	-
+3	clínico	clínico	AQ0MS0	C0205210	calificador	10-17	674_ANS_clinical_caseMIR	SENT1	-	-
+4	sugiere	sugerir	VMIP3S0	-	-	18-25	674_ANS_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	26-28	674_ANS_clinical_caseMIR	SENT1	-	-
+6	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	29-44	674_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+7	pulmonar	pulmonar	NC00SC0	C2709248	calificador	45-53	674_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	53-54	674_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Los	el	DA0MP0	-	-	0-3	674_ANS_clinical_caseMIR	SENT2	-	-
+2	datos	dato	NCMP000	-	-	4-9	674_ANS_clinical_caseMIR	SENT2	-	-
+3	aportados	aportar	VMP00PM	-	-	10-19	674_ANS_clinical_caseMIR	SENT2	-	-
+4	indican	indicar	VMIP3P0	-	-	20-27	674_ANS_clinical_caseMIR	SENT2	-	-
+5	miocardiopatía	miocardiopatía	NCFS000	C0007194_1	trastorno_1	28-42	674_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	hipertrófica	hipertrófico	AQ0FS0	C0007194_2	trastorno_2	43-55	674_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+7	con	con	SPS00	C0332287	atributo	56-59	674_ANS_clinical_caseMIR	SENT2	-	-
+8	obstrucción	obstrucción	NCFS000	C0028778	anomalía_morfológica	60-71	674_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	grave	grave	AQ0CS0	C0439808#C0205082	calificador	72-77	674_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+10	del	del	SP+DA	-	-	78-81	674_ANS_clinical_caseMIR	SENT2	-	-
+11	tracto	tracto	NCMS000	-	-	82-88	674_ANS_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	89-91	674_ANS_clinical_caseMIR	SENT2	-	-
+13	salida	salida	NCFS000	C0337094	calificador	92-98	674_ANS_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	99-101	674_ANS_clinical_caseMIR	SENT2	-	-
+15	ventrículo	ventrículo	NCMS000	C0225897#C1269892_1	estructura_corporal_1	102-112	674_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	izquierdo	izquierdo	NC00SC0	C0225897#C1269892_2	estructura_corporal_2	113-122	674_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	122-123	674_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Estos	este	DD0MP0	-	-	0-5	674_ANS_clinical_caseMIR	SENT3	-	-
+2	datos	dato	NCMP000	-	-	6-11	674_ANS_clinical_caseMIR	SENT3	-	-
+3	corresponden	corresponder	VMIP3P0	-	-	12-24	674_ANS_clinical_caseMIR	SENT3	-	-
+4	a	a	SPS00	-	-	25-26	674_ANS_clinical_caseMIR	SENT3	-	-
+5	estenosis	estenosis	NCFN000	C0345011_1	trastorno_1	27-36	674_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	aórtica	aórtico	AQ0FS0	C0345011_2	trastorno_2	37-44	674_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	grave	grave	AQ0CS0	C0439808#C0205082	calificador	45-50	674_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+8	.	.	Fp	-	-	50-51	674_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	674_ANS_clinical_caseMIR	SENT4	-	-
+2	excluir	excluir	VMN0000	C0332196	calificador	5-12	674_ANS_clinical_caseMIR	SENT4	-	-
+3	se	se	PP3CN000	-	-	12-14	674_ANS_clinical_caseMIR	SENT4	-	-
+4	una	una		C0205447_1	calificador_1	15-18	674_ANS_clinical_caseMIR	SENT4	-	-
+5	disección	disección	NCFS000	C0340643#C0012736_1	trastorno_1	19-28	674_ANS_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0340643#C0012736_2	trastorno_2	29-31	674_ANS_clinical_caseMIR	SENT4	-	-
+7	aorta	aorta	NCFS000	C0340643#C0012736_3	trastorno_3	32-37	674_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	mediante	mediante	SPS00	-	-	38-46	674_ANS_clinical_caseMIR	SENT4	-	-
+9	una	una		C0205447_1	calificador_1	47-50	674_ANS_clinical_caseMIR	SENT4	-	-
+10	tomografía	tomografía	NCFS000	-	-	51-61	674_ANS_clinical_caseMIR	SENT4	-	-
+11	computarizada	computarizada	VMP00SF	-	-	62-75	674_ANS_clinical_caseMIR	SENT4	-	-
+12	con	con	SPS00	C0332287	atributo	76-79	674_ANS_clinical_caseMIR	SENT4	-	-
+13	contraste	contraste	NCMS000	-	-	80-89	674_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	89-90	674_ANS_clinical_caseMIR	SENT4	-	-
+

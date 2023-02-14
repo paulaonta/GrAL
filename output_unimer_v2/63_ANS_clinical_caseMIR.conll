@@ -1,0 +1,24 @@
+1	¿	¿	Fia	-	-	358-359	63_ANS_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	359-362	63_ANS_clinical_caseMIR	SENT1	-	-
+3	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	363-373	63_ANS_clinical_caseMIR	SENT1	-	-
+4	es	ser	VSIP3S0	-	-	374-376	63_ANS_clinical_caseMIR	SENT1	-	-
+5	más	más	RG	C0205172	calificador	377-380	63_ANS_clinical_caseMIR	SENT1	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	381-389	63_ANS_clinical_caseMIR	SENT1	-	-
+7	?	?	Fit	-	-	389-390	63_ANS_clinical_caseMIR	SENT1	-	-
+8	:	:	Fd	-	-	390-391	63_ANS_clinical_caseMIR	SENT1	-	-
+9	Cuero	cuero	NCMS000	C1278997#C0036270_1	estructura_corporal_1	0-5	63_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	cabelludo	cabelludo	AQ0MS0	C1278997#C0036270_2	estructura_corporal_2	6-15	63_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	15-16	63_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Parótida	parótida	NCFS000	C0030580	estructura_corporal	0-8	63_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+2	.	.	Fp	-	-	8-9	63_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pulmón	pulmón	NCMS000	C1278908#C0024109	estructura_corporal	0-6	63_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+2	.	.	Fp	-	-	6-7	63_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Esófago	esófago	NCMS000	C1278919#C0014876	estructura_corporal	0-7	63_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+2	.	.	Fp	-	-	7-8	63_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Laringe	laringe	NCFS000	C1278904#C0023078	estructura_corporal	0-7	63_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+2	.	.	Fp	-	-	7-8	63_ANS_clinical_caseMIR	SENT5	-	-
+

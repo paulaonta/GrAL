@@ -1,0 +1,71 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	375_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	375_QUEST_clinical_caseMIR	SENT1	-	-
+3	76	76		-	-	10-12	375_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	375_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	375_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	375_QUEST_clinical_caseMIR	SENT1	-	-
+7	diagnosticado	diagnosticar	VMP00SM	-	-	26-39	375_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	40-42	375_QUEST_clinical_caseMIR	SENT1	-	-
+9	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	43-56	375_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	cardiaca	cardiaco	AQ0FS0	-	-	57-65	375_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	,	,	Fc	-	-	65-66	375_QUEST_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	375_QUEST_clinical_caseMIR	SENT1	-	-
+13	fibrilación	fibrilación	NCFS000	C0694539_1	trastorno_1	70-81	375_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	auricular	auricular	NCMS000	C0694539_2	trastorno_2	82-91	375_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	crónica	crónico	AQ0FS0	C0694539_3	trastorno_3	92-99	375_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	,	,	Fc	-	-	99-100	375_QUEST_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0332287	atributo	101-104	375_QUEST_clinical_caseMIR	SENT1	-	-
+18	disfunción	disfunción	NCFS000	C0749225_1	hallazgo_1	105-115	375_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	sistólica	sistólico	AQ0FS0	C0749225_2	hallazgo_2	116-125	375_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	severa	severo	AQ0FS0	C0205082	calificador	126-132	375_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	(	(	Fpa	-	-	133-134	375_QUEST_clinical_caseMIR	SENT1	-	-
+22	fracción	fracción	NCFS000	C1264633_1	calificador_1	134-142	375_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C1264633_2	calificador_2	143-145	375_QUEST_clinical_caseMIR	SENT1	-	-
+24	eyección	eyección	NCFS000	C0336969	calificador	146-154	375_QUEST_clinical_caseMIR	SENT1	-	-
+25	33	33	Z	-	-	155-157	375_QUEST_clinical_caseMIR	SENT1	-	-
+26	%	%	Ft	-	-	157-158	375_QUEST_clinical_caseMIR	SENT1	-	-
+27	)	)	Fpt	-	-	158-159	375_QUEST_clinical_caseMIR	SENT1	-	-
+28	.	.	Fp	-	-	159-160	375_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Sigue	seguir	VMIP3S0	-	-	161-166	375_QUEST_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	167-178	375_QUEST_clinical_caseMIR	SENT2	-	-
+3	con	con	SPS00	C0332287	atributo	179-182	375_QUEST_clinical_caseMIR	SENT2	-	-
+4	inhibidor	inhibidor	NCMS000	-	-	183-192	375_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	193-195	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+6	enzima	enzima	NCCS000	C0014442	sustancia	196-202	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+7	convertidora	convertidor	AQ0FS0	-	-	203-215	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+8	de	de	SPS00	C0332285	atributo	216-218	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+9	la	el	DA0FS0	-	-	219-221	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+10	angiotensina	angiotensina	NCFS000	C0003018	sustancia	222-234	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+11	,	,	Fc	-	-	234-235	375_QUEST_clinical_caseMIR	SENT2	-	-
+12	betabloqueante	betabloqueante	NCMS000	-	-	236-250	375_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	y	y	CC	C1706368	calificador	251-252	375_QUEST_clinical_caseMIR	SENT2	-	-
+14	diurético	diurético	NCMS000	C0012802_1	sustancia_1	253-262	375_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	tiazídico	tiazídico		C0012802_2	sustancia_2	263-272	375_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+16	.	.	Fp	-	-	272-273	375_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Pese	pesar	VMSP3S0	C1879338#C0018235	hallazgo	274-278	375_QUEST_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	279-280	375_QUEST_clinical_caseMIR	SENT3	-	-
+3	ello	ello	PD0NS000	-	-	281-285	375_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	286-288	375_QUEST_clinical_caseMIR	SENT3	-	-
+5	encuentra	encontrar	VMIP3S0	-	-	289-298	375_QUEST_clinical_caseMIR	SENT3	-	-
+6	sintomático	sintomático	AQ0MS0	C0231220	calificador	299-310	375_QUEST_clinical_caseMIR	SENT3	-	-
+7	,	,	Fc	-	-	310-311	375_QUEST_clinical_caseMIR	SENT3	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	312-314	375_QUEST_clinical_caseMIR	SENT3	-	-
+9	clase	clase	NCFS000	C0456387	atributo	315-320	375_QUEST_clinical_caseMIR	SENT3	-	-
+10	funcional	funcional	AQ0CS0	C0205245	calificador	321-330	375_QUEST_clinical_caseMIR	SENT3	-	-
+11	II	ii	RG	-	-	331-333	375_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	334-336	375_QUEST_clinical_caseMIR	SENT3	-	-
+13	la	el	DA0FS0	-	-	337-339	375_QUEST_clinical_caseMIR	SENT3	-	-
+14	NYHA	new_york_heart_association_(asociación_del_corazón_de_nueva_york)	NC00YL0	-	-	340-344	375_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	344-345	375_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	346-347	375_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	347-351	375_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	352-357	375_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	358-360	375_QUEST_clinical_caseMIR	SENT4	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	361-368	375_QUEST_clinical_caseMIR	SENT4	-	-
+6	a	a	SPS00	-	-	369-370	375_QUEST_clinical_caseMIR	SENT4	-	-
+7	seguir	seguir	VMN0000	-	-	371-377	375_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	377-378	375_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,36 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	627_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	627_QUEST_clinical_caseMIR	SENT1	-	-
+3	19	19		-	-	9-11	627_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	627_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	627_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	627_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	627_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	627_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	627_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	43-45	627_QUEST_clinical_caseMIR	SENT1	-	-
+11	cuadro	cuadro	NCMS000	-	-	46-52	627_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	53-55	627_QUEST_clinical_caseMIR	SENT1	-	-
+13	poliartritis	poliartritis	NC00SC0	C0162323	-	56-68	627_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	simétrica	simétrico	AQ0FS0	C0332516	calificador	69-78	627_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	de	de	SPS00	C0332285	atributo	79-81	627_QUEST_clinical_caseMIR	SENT1	-	-
+16	pequeñas	pequeño	AQ0FP0	C0700321#C1282918	calificador	82-90	627_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	articulaciones	articulación	NCFP000	C1269611#C0022417#C0234830	estructura_corporal#función	91-105	627_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+18	de	de	SPS00	C0332285	atributo	106-108	627_QUEST_clinical_caseMIR	SENT1	-	-
+19	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	109-114	627_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	y	y	CC	C1706368	calificador	115-116	627_QUEST_clinical_caseMIR	SENT1	-	-
+21	pies	pie	NCMP000	C1281587#C0347981#C0016504	estructura_corporal#calificador	117-121	627_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	,	,	Fc	-	-	121-122	627_QUEST_clinical_caseMIR	SENT1	-	-
+23	tobillos	tobillo	NCMP000	C1261192#C0003086	estructura_corporal	123-131	627_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	y	y	CC	C1706368	calificador	132-133	627_QUEST_clinical_caseMIR	SENT1	-	-
+25	rodillas	rodilla	NCFP000	C1963703#C1456798	estructura_corporal	134-142	627_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	con	con	SPS00	C0332287	atributo	143-146	627_QUEST_clinical_caseMIR	SENT1	-	-
+27	fiebre	fiebre	NCFS000	C0015967	hallazgo	147-153	627_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	de	de	SPS00	C0332285	atributo	154-156	627_QUEST_clinical_caseMIR	SENT1	-	-
+29	39ºC	39ºC		-	-	157-161	627_QUEST_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	162-164	627_QUEST_clinical_caseMIR	SENT1	-	-
+31	24	24	Z	C0439584_1	calificador_1	165-167	627_QUEST_clinical_caseMIR	SENT1	-	-
+32	horas	hora	NCFP000	C0439584_2	calificador_2	168-173	627_QUEST_clinical_caseMIR	SENT1	-	-
+33	de	de	SPS00	C0332285	atributo	174-176	627_QUEST_clinical_caseMIR	SENT1	-	-
+34	evolución	evolución	NCFS000	-	-	177-186	627_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	186-187	627_QUEST_clinical_caseMIR	SENT1	-	-
+

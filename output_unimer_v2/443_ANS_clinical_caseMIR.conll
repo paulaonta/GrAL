@@ -1,0 +1,29 @@
+1	Trasplante	trasplante	NCMS000	C0023911_1	procedimiento_1	0-10	443_ANS_clinical_caseMIR	SENT1	-	-
+2	hepático	hepático	AQ0MS0	C0023911_2	procedimiento_2	11-19	443_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	19-20	443_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	443_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+2	y	y	CC	C1706368	calificador	14-15	443_ANS_clinical_caseMIR	SENT2	-	-
+3	anticuerpo	anticuerpo	NCMS000	C0003241	sustancia	16-26	443_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	anti-EGFR	anti-egfr	AQ0CS00	-	-	27-36	443_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+5	(	(	Fpa	-	-	37-38	443_ANS_clinical_caseMIR	SENT2	-	-
+6	cetuximab	cetuximab	NC00SC0	C0995188	sustancia#producto	38-47	443_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	)	)	Fpt	-	-	47-48	443_ANS_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	48-49	443_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	443_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+2	protocolo	protocolo	NCMS000	-	-	14-23	443_ANS_clinical_caseMIR	SENT3	-	-
+3	FOLFOX	folfox	AQ0CN00	-	-	24-30	443_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	30-31	443_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C0030231_1	situación_1	0-11	443_ANS_clinical_caseMIR	SENT4	-	-
+2	paliativo	paliativo	NCMS000	C0030231_2	situación_2	12-21	443_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	22-24	443_ANS_clinical_caseMIR	SENT4	-	-
+4	los	el	DA0MP0	-	-	25-28	443_ANS_clinical_caseMIR	SENT4	-	-
+5	síntomas	síntoma	NCMP000	C1457887	hallazgo	29-37	443_ANS_clinical_caseMIR	SENT4	-	-
+6	sin	sin	SPS00	C0332288	atributo	38-41	443_ANS_clinical_caseMIR	SENT4	-	-
+7	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	42-56	443_ANS_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	57-59	443_ANS_clinical_caseMIR	SENT4	-	-
+9	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	60-73	443_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	73-74	443_ANS_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,17 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	154_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	154_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	10-12	154_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	154_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	154_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	154_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	154_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	30-35	154_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	36-37	154_QUEST_clinical_caseMIR	SENT1	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	38-47	154_QUEST_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	48-51	154_QUEST_clinical_caseMIR	SENT1	-	-
+12	presentar	presentar	VMN0000	-	-	52-61	154_QUEST_clinical_caseMIR	SENT1	-	-
+13	hematuria	hematuria	NCFS000	C0473237_1	trastorno_1	62-71	154_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	macroscópica	macroscópico	AQ0FS0	C0473237_2	trastorno_2	72-84	154_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	asintomática	asintomático	AQ0FS0	-	-	85-97	154_QUEST_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	97-98	154_QUEST_clinical_caseMIR	SENT1	-	-
+

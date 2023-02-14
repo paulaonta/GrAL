@@ -1,0 +1,28 @@
+1	Alteraciones	alteración	NCFP000	-	-	0-12	432_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	parenquimatosas	parenquimatoso	AQ0FP0	-	-	13-28	432_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	difusas	difuso	AQ0FP0	C0205219	calificador	29-36	432_ANS_clinical_caseMIR	SENT1	-	-
+4	sin	sin	SPS00	C0332288	atributo	37-40	432_ANS_clinical_caseMIR	SENT1	-	-
+5	adenopatías	adenopatía	NCFP000	-	-	41-52	432_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+6	hiliares	hiliares	AQ0CP00	-	-	53-61	432_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	61-62	432_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Adenopatías	adenopatía	NCFP000	-	-	0-11	432_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	hiliares	hiliares	AQ0CP00	-	-	12-20	432_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	sin	sin	SPS00	C0332288	atributo	21-24	432_ANS_clinical_caseMIR	SENT2	-	-
+4	alteraciones	alteración	NCFP000	-	-	25-37	432_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+5	parenquimatosas	parenquimatoso	AQ0FP0	-	-	38-53	432_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+6	.	.	Fp	-	-	53-54	432_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Adenopatías	adenopatía	NCFP000	-	-	0-11	432_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	12-14	432_ANS_clinical_caseMIR	SENT3	-	-
+3	región	región	NCFS000	C0205147	atributo#calificador	15-21	432_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	paratraqueal	paratraqueal	NC00SC0	C0442143	calificador	22-34	432_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	34-35	432_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Adenopatías	adenopatía	NCFP000	-	-	0-11	432_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	hiliares	hiliares	AQ0CP00	-	-	12-20	432_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	con	con	SPS00	C0332287	atributo	21-24	432_ANS_clinical_caseMIR	SENT4	-	-
+4	alteraciones	alteración	NCFP000	-	-	25-37	432_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+5	parenquimatosas	parenquimatoso	AQ0FP0	-	-	38-53	432_ANS_clinical_caseMIR	SENT4	B-Calificador	-
+6	.	.	Fp	-	-	53-54	432_ANS_clinical_caseMIR	SENT4	-	-
+

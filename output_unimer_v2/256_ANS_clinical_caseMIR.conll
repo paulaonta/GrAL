@@ -1,0 +1,84 @@
+1	El	el	DA0MS0	-	-	0-2	256_ANS_clinical_caseMIR	SENT1	-	-
+2	enfriamiento	enfriamiento	NCMS000	-	-	3-15	256_ANS_clinical_caseMIR	SENT1	-	-
+3	sumergiendo	sumergir	VMG0000	-	-	16-27	256_ANS_clinical_caseMIR	SENT1	-	-
+4	al	al	SP+DA	-	-	28-30	256_ANS_clinical_caseMIR	SENT1	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	31-39	256_ANS_clinical_caseMIR	SENT1	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	40-42	256_ANS_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	43-46	256_ANS_clinical_caseMIR	SENT1	-	-
+8	bañera	bañera	NCFS000	C0336751	objeto_físico	47-53	256_ANS_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	54-57	256_ANS_clinical_caseMIR	SENT1	-	-
+10	hielo	hielo	NCMS000	C0020746	sustancia	58-63	256_ANS_clinical_caseMIR	SENT1	-	-
+11	es	ser	VSIP3S0	-	-	64-66	256_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	67-69	256_ANS_clinical_caseMIR	SENT1	-	-
+13	método	método	NCMS000	C0025663	atributo	70-76	256_ANS_clinical_caseMIR	SENT1	-	-
+14	más	más	RG	C0205172	calificador	77-80	256_ANS_clinical_caseMIR	SENT1	-	-
+15	seguro	seguro	AQ0MS0	C0558095	hallazgo	81-87	256_ANS_clinical_caseMIR	SENT1	-	-
+16	para	para	SPS00	C0521125	calificador	88-92	256_ANS_clinical_caseMIR	SENT1	-	-
+17	reducir	reducir	VMN0000	-	-	93-100	256_ANS_clinical_caseMIR	SENT1	-	-
+18	la	el	DA0FS0	-	-	101-103	256_ANS_clinical_caseMIR	SENT1	-	-
+19	temperatura	temperatura	NCFS000	C0039476	atributo	104-115	256_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	115-116	256_ANS_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	256_ANS_clinical_caseMIR	SENT2	-	-
+2	es	ser	VSIP3S0	-	-	3-5	256_ANS_clinical_caseMIR	SENT2	-	-
+3	preciso	preciso	AQ0MS0	C0443131	calificador	6-13	256_ANS_clinical_caseMIR	SENT2	-	-
+4	sedar	sedar	VMN0000	-	-	14-19	256_ANS_clinical_caseMIR	SENT2	-	-
+5	al	al	SP+DA	-	-	20-22	256_ANS_clinical_caseMIR	SENT2	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	23-31	256_ANS_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	31-32	256_ANS_clinical_caseMIR	SENT2	-	-
+8	intubar	intubar	VMN0000	-	-	33-40	256_ANS_clinical_caseMIR	SENT2	-	-
+9	lo	lo	PP3CNA00	-	-	40-42	256_ANS_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	43-44	256_ANS_clinical_caseMIR	SENT2	-	-
+11	conectar	conectar	VMN0000	-	-	45-53	256_ANS_clinical_caseMIR	SENT2	-	-
+12	lo	lo	PP3CNA00	-	-	53-55	256_ANS_clinical_caseMIR	SENT2	-	-
+13	a	a	SPS00	-	-	56-57	256_ANS_clinical_caseMIR	SENT2	-	-
+14	ventilación	ventilación	NCFS000	C0199470#C0554804_1	procedimiento_1	58-69	256_ANS_clinical_caseMIR	SENT2	-	-
+15	mecánica	mecánico	NCFS000	C0199470#C0554804_2	procedimiento_2	70-78	256_ANS_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	78-79	256_ANS_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	0-2	256_ANS_clinical_caseMIR	SENT3	-	-
+2	afectación	afectación	NCFS000	-	-	3-13	256_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	hepática	hepático	AQ0FS0	-	-	14-22	256_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	23-25	256_ANS_clinical_caseMIR	SENT3	-	-
+5	rara	raro	AQ0FS0	C0522498	calificador	26-30	256_ANS_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	31-33	256_ANS_clinical_caseMIR	SENT3	-	-
+7	esta	este	DD0FS0	-	-	34-38	256_ANS_clinical_caseMIR	SENT3	-	-
+8	patología	patología	NCFS000	C0030664	calificador	39-48	256_ANS_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	48-49	256_ANS_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	256_ANS_clinical_caseMIR	SENT4	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	256_ANS_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	256_ANS_clinical_caseMIR	SENT4	-	-
+4	hipotensión	hipotensión	NCFS000	C0020649	trastorno	11-22	256_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+5	se	se	P00CN000	-	-	23-25	256_ANS_clinical_caseMIR	SENT4	-	-
+6	debe	deber	VMIP3S0	-	-	26-30	256_ANS_clinical_caseMIR	SENT4	-	-
+7	utilizar	utilizar	VMN0000	-	-	31-39	256_ANS_clinical_caseMIR	SENT4	-	-
+8	dopamina	dopamina	NC00SC0	C0013030	sustancia	40-48	256_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+9	a	a	SPS00	-	-	49-50	256_ANS_clinical_caseMIR	SENT4	-	-
+10	dosis	dosis	NCFN000	-	-	51-56	256_ANS_clinical_caseMIR	SENT4	-	-
+11	superiores	superior	AQ0CP0	C1282910	calificador	57-67	256_ANS_clinical_caseMIR	SENT4	-	-
+12	a	a	SPS00	-	-	68-69	256_ANS_clinical_caseMIR	SENT4	-	-
+13	10	10		-	-	70-72	256_ANS_clinical_caseMIR	SENT4	-	-
+14	microgramos	microgramo	NCMP000	C0439211	calificador	73-84	256_ANS_clinical_caseMIR	SENT4	-	-
+15	/	/	Fh	-	-	84-85	256_ANS_clinical_caseMIR	SENT4	-	-
+16	kg	kilogramo	NCMN000	C0439209	calificador	85-87	256_ANS_clinical_caseMIR	SENT4	-	-
+17	/	/	Fh	-	-	87-88	256_ANS_clinical_caseMIR	SENT4	-	-
+18	minuto	minuto	NCMS000	C0439232	calificador	88-94	256_ANS_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	94-95	256_ANS_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	0-2	256_ANS_clinical_caseMIR	SENT5	-	-
+2	cerebelo	cerebelo	NCMS000	C0007765#C1268981	estructura_corporal	3-11	256_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	es	ser	VSIP3S0	-	-	12-14	256_ANS_clinical_caseMIR	SENT5	-	-
+4	especialmente	especialmente	RG	-	-	15-28	256_ANS_clinical_caseMIR	SENT5	-	-
+5	sensible	sensible	NC00SC0	C0332324_1	calificador_1	29-37	256_ANS_clinical_caseMIR	SENT5	-	-
+6	a	a	SPS00	C0332324_2	calificador_2	38-39	256_ANS_clinical_caseMIR	SENT5	-	-
+7	la	el	DA0FS0	-	-	40-42	256_ANS_clinical_caseMIR	SENT5	-	-
+8	temperatura	temperatura	NCFS000	C0039476	atributo	43-54	256_ANS_clinical_caseMIR	SENT5	-	-
+9	elevada	elevar	VMP00SF	-	-	55-62	256_ANS_clinical_caseMIR	SENT5	-	-
+10	por	por	SPS00	C0444456_1	calificador_1	63-66	256_ANS_clinical_caseMIR	SENT5	-	-
+11	encima	encimar	VMM02S0	C0444456_2	calificador_2	67-73	256_ANS_clinical_caseMIR	SENT5	-	-
+12	de	de	SPS00	C0332285	atributo	74-76	256_ANS_clinical_caseMIR	SENT5	-	-
+13	40	40		-	-	77-79	256_ANS_clinical_caseMIR	SENT5	-	-
+14	grados	grado	NCMP000	C0441800	atributo	80-86	256_ANS_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	86-87	256_ANS_clinical_caseMIR	SENT5	-	-
+

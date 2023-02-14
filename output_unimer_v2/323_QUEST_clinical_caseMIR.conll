@@ -1,0 +1,83 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	323_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	323_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	323_QUEST_clinical_caseMIR	SENT1	-	-
+4	35	35		-	-	13-15	323_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	323_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	323_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	323_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	34-36	323_QUEST_clinical_caseMIR	SENT1	-	-
+9	aparición	aparición	NCFS000	-	-	37-46	323_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	47-49	323_QUEST_clinical_caseMIR	SENT1	-	-
+11	unas	uno	DI0FP0	C0205447	calificador	50-54	323_QUEST_clinical_caseMIR	SENT1	-	-
+12	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	55-63	323_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	máculo-papulosas	máculo-papulosas	NCFP000	-	-	64-80	323_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	81-83	323_QUEST_clinical_caseMIR	SENT1	-	-
+15	miembros	miembro	NCMP000	C0015385	estructura_corporal	84-92	323_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	superiores	superior	AQ0CP0	C1282910	calificador	93-103	323_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	sin	sin	SPS00	C0332288	atributo	104-107	323_QUEST_clinical_caseMIR	SENT1	-	-
+18	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	108-113	323_QUEST_clinical_caseMIR	SENT1	-	-
+19	síntomas	síntoma	NCMP000	C1457887	hallazgo	114-122	323_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	122-123	323_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	124-126	323_QUEST_clinical_caseMIR	SENT2	-	-
+2	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	127-134	323_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	135-137	323_QUEST_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	138-141	323_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	142-144	323_QUEST_clinical_caseMIR	SENT2	-	-
+6	ellas	ellos	PP3FP000	-	-	145-150	323_QUEST_clinical_caseMIR	SENT2	-	-
+7	demuestra	demostrar	VMIP3S0	-	-	151-160	323_QUEST_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	161-163	323_QUEST_clinical_caseMIR	SENT2	-	-
+9	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	164-173	323_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0150312_2	calificador_2	174-176	323_QUEST_clinical_caseMIR	SENT2	-	-
+11	granulomas	granuloma	NCMP000	C0018188	anomalía_morfológica	177-187	323_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	no	no	RN	C1298908	calificador	188-190	323_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	caseificantes	caseificantes	AQ0CP00	-	-	191-204	323_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+14	.	.	Fp	-	-	204-205	323_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Los	el	DA0MP0	-	-	206-209	323_QUEST_clinical_caseMIR	SENT3	-	-
+2	análisis	análisis	NCMN000	C0702196_1	situación_1	210-218	323_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0702196_2	situación_2	219-221	323_QUEST_clinical_caseMIR	SENT3	-	-
+4	sangre	sangre	NCFS000	C0702196_3	situación_3	222-228	323_QUEST_clinical_caseMIR	SENT3	-	-
+5	son	ser	VSIP3P0	-	-	229-232	323_QUEST_clinical_caseMIR	SENT3	-	-
+6	normales	normal	AQ0CP0	C0205307	calificador	233-241	323_QUEST_clinical_caseMIR	SENT3	-	-
+7	salvo	salvo	SPS00	-	-	242-247	323_QUEST_clinical_caseMIR	SENT3	-	-
+8	una	una		C0205447_1	calificador_1	248-251	323_QUEST_clinical_caseMIR	SENT3	-	-
+9	elevación	elevación	NCFS000	C0439775	procedimiento	252-261	323_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	262-264	323_QUEST_clinical_caseMIR	SENT3	-	-
+11	los	el	DA0MP0	-	-	265-268	323_QUEST_clinical_caseMIR	SENT3	-	-
+12	niveles	nivel	NCMP000	C0456079	atributo	269-276	323_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	277-279	323_QUEST_clinical_caseMIR	SENT3	-	-
+14	enzima	enzima	NCCS000	C0014442	sustancia	280-286	323_QUEST_clinical_caseMIR	SENT3	-	-
+15	convertidora	convertidor	AQ0FS0	-	-	287-299	323_QUEST_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	300-302	323_QUEST_clinical_caseMIR	SENT3	-	-
+17	la	el	DA0FS0	-	-	303-305	323_QUEST_clinical_caseMIR	SENT3	-	-
+18	angiotensina	angiotensina	NCFS000	C0003018	sustancia	306-318	323_QUEST_clinical_caseMIR	SENT3	-	-
+19	(	(	Fpa	-	-	319-320	323_QUEST_clinical_caseMIR	SENT3	-	-
+20	ECA	enzima_conversora_de_la_angiotensina	NC00YL0	-	-	320-323	323_QUEST_clinical_caseMIR	SENT3	-	-
+21	)	)	Fpt	-	-	323-324	323_QUEST_clinical_caseMIR	SENT3	-	-
+22	.	.	Fp	-	-	324-325	323_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	326-328	323_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	329-331	323_QUEST_clinical_caseMIR	SENT4	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	332-343	323_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	344-346	323_QUEST_clinical_caseMIR	SENT4	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	347-352	323_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	se	se	P00CN000	-	-	353-355	323_QUEST_clinical_caseMIR	SENT4	-	-
+7	detectan	detectar	VMIP3P0	-	-	356-364	323_QUEST_clinical_caseMIR	SENT4	-	-
+8	adenopatías	adenopatía	NCFP000	-	-	365-376	323_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+9	hiliares	hiliares	AQ0CP00	-	-	377-385	323_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	bilaterales	bilateral	AQ0CP0	C0238767	calificador	386-397	323_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+11	.	.	Fp	-	-	397-398	323_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	399-400	323_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	400-404	323_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	405-407	323_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	408-411	323_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	412-422	323_QUEST_clinical_caseMIR	SENT5	-	-
+6	considera	considerar	VMIP3S0	-	-	423-432	323_QUEST_clinical_caseMIR	SENT5	-	-
+7	la	el	DA0FS0	-	-	433-435	323_QUEST_clinical_caseMIR	SENT5	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	436-443	323_QUEST_clinical_caseMIR	SENT5	-	-
+9	más	más	RG	C0205172	calificador	444-447	323_QUEST_clinical_caseMIR	SENT5	-	-
+10	adecuada	adecuar	VMP00SF	-	-	448-456	323_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	456-457	323_QUEST_clinical_caseMIR	SENT5	-	-
+

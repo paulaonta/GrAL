@@ -1,0 +1,45 @@
+1	Al	al	SP+DA	-	-	0-2	769_QUEST_clinical_caseMIR	SENT1	-	-
+2	mes	mes	NCMS000	C0439231	calificador	3-6	769_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	7-9	769_QUEST_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	10-21	769_QUEST_clinical_caseMIR	SENT1	-	-
+5	estándar	estándar	AQ0CS0	-	-	22-30	769_QUEST_clinical_caseMIR	SENT1	-	-
+6	por	por	SPS00	C0678226	atributo	31-34	769_QUEST_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	35-38	769_QUEST_clinical_caseMIR	SENT1	-	-
+8	tuberculosis	tuberculosis	NCFN000	C0041327_1	trastorno_1	39-51	769_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	pulmonar	pulmonar	NC00SC0	C0041327_2	trastorno_2	52-60	769_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	,	,	Fc	-	-	60-61	769_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	62-64	769_QUEST_clinical_caseMIR	SENT1	-	-
+12	paciente	paciente	NCCS000	C0030705	persona	65-73	769_QUEST_clinical_caseMIR	SENT1	-	-
+13	presenta	presentar	VMIP3S0	-	-	74-82	769_QUEST_clinical_caseMIR	SENT1	-	-
+14	hiperuricemia	hiperuricemia	NCFS000	C0740394	trastorno	83-96	769_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	97-99	769_QUEST_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	100-103	769_QUEST_clinical_caseMIR	SENT1	-	-
+17	analítica	analítica	NCFS000	-	-	104-113	769_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	114-116	769_QUEST_clinical_caseMIR	SENT1	-	-
+19	control	control	NCMS000	C2587213	atributo	117-124	769_QUEST_clinical_caseMIR	SENT1	-	-
+20	,	,	Fc	-	-	124-125	769_QUEST_clinical_caseMIR	SENT1	-	-
+21	con	con	SPS00	C0332287	atributo	126-129	769_QUEST_clinical_caseMIR	SENT1	-	-
+22	un	un		C0205447_1	calificador_1	130-132	769_QUEST_clinical_caseMIR	SENT1	-	-
+23	valor	valor	NCMS000	C0475208	calificador	133-138	769_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	139-141	769_QUEST_clinical_caseMIR	SENT1	-	-
+25	12	12	Z	-	-	142-144	769_QUEST_clinical_caseMIR	SENT1	-	-
+26	mg	mg	NCMN000	-	-	145-147	769_QUEST_clinical_caseMIR	SENT1	-	-
+27	/	/	Fh	-	-	147-148	769_QUEST_clinical_caseMIR	SENT1	-	-
+28	dl	decilitro	NCMN000	C0439241	calificador	148-150	769_QUEST_clinical_caseMIR	SENT1	-	-
+29	(	(	Fpa	-	-	151-152	769_QUEST_clinical_caseMIR	SENT1	-	-
+30	límite	límite	NCMS000	C0205189	calificador	152-158	769_QUEST_clinical_caseMIR	SENT1	-	-
+31	alto	alto	AQ0MS0	C0205250	calificador	159-163	769_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332285	atributo	164-166	769_QUEST_clinical_caseMIR	SENT1	-	-
+33	la	el	DA0FS0	-	-	167-169	769_QUEST_clinical_caseMIR	SENT1	-	-
+34	normalidad	normalidad	NCFS000	-	-	170-180	769_QUEST_clinical_caseMIR	SENT1	-	-
+35	7	7	Z	-	-	181-182	769_QUEST_clinical_caseMIR	SENT1	-	-
+36	mg	mg	NCMN000	-	-	183-185	769_QUEST_clinical_caseMIR	SENT1	-	-
+37	/	/	Fh	-	-	185-186	769_QUEST_clinical_caseMIR	SENT1	-	-
+38	dl	decilitro	NCMN000	C0439241	calificador	186-188	769_QUEST_clinical_caseMIR	SENT1	-	-
+39	)	)	Fpt	-	-	188-189	769_QUEST_clinical_caseMIR	SENT1	-	-
+40	.	.	Fp	-	-	189-190	769_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Está	estar	VAM02S0	-	-	191-195	769_QUEST_clinical_caseMIR	SENT2	-	-
+2	asintomático	asintomático	AQ0MS0	-	-	196-208	769_QUEST_clinical_caseMIR	SENT2	-	-
+3	.	.	Fp	-	-	208-209	769_QUEST_clinical_caseMIR	SENT2	-	-
+

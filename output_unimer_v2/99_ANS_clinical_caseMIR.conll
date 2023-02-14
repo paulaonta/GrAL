@@ -1,0 +1,31 @@
+1	Estudio	estudio	NCMS000	C0203071_1	procedimiento_1	0-7	99_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0203071_2	procedimiento_2	8-10	99_ANS_clinical_caseMIR	SENT1	-	-
+3	vaciamiento	vaciamiento	NCMS000	C0203071_3	procedimiento_3	11-22	99_ANS_clinical_caseMIR	SENT1	-	-
+4	gástrico	gástrico	NC00SC0	C0203071_4	procedimiento_4	23-31	99_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	de	de	SPS00	C0332285	atributo	32-34	99_ANS_clinical_caseMIR	SENT1	-	-
+6	sólidos	sólido	NCMP000	C0302909#C0205208	sustancia#calificador	35-42	99_ANS_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	43-46	99_ANS_clinical_caseMIR	SENT1	-	-
+8	isótopos	isótopo	NCMP000	C0022262	sustancia	47-55	99_ANS_clinical_caseMIR	SENT1	-	-
+9	radiactivos	radiactivo	AQ0MP0	-	-	56-67	99_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	67-68	99_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Manometría	manometría	NCFS000	-	-	0-10	99_ANS_clinical_caseMIR	SENT2	-	-
+2	gástrica	gástrico	AQ0FS0	C1704242	calificador	11-19	99_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	19-20	99_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	0-12	99_ANS_clinical_caseMIR	SENT3	-	-
+2	.	.	Fp	-	-	12-13	99_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Electrogastrografía	electrogastrografía	NCFS000	-	-	0-19	99_ANS_clinical_caseMIR	SENT4	-	-
+2	.	.	Fp	-	-	19-20	99_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Rx	radiografía	NC00YL0	C1306645	procedimiento	0-2	99_ANS_clinical_caseMIR	SENT5	-	-
+2	con	con	SPS00	C0332287	atributo	3-6	99_ANS_clinical_caseMIR	SENT5	-	-
+3	contraste	contraste	NCMS000	-	-	7-16	99_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	baritado	baritado	VMP00SM	-	-	17-25	99_ANS_clinical_caseMIR	SENT5	-	-
+5	(	(	Fpa	-	-	26-27	99_ANS_clinical_caseMIR	SENT5	-	-
+6	tránsito	tránsito	NCMS000	C2363427_1	entidad_observable_1	27-35	99_ANS_clinical_caseMIR	SENT5	-	-
+7	gastrointestinal	gastrointestinal	AQ0CS0	C2363427_2	entidad_observable_2	36-52	99_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+8	)	)	Fpt	-	-	52-53	99_ANS_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	53-54	99_ANS_clinical_caseMIR	SENT5	-	-
+

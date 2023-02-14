@@ -1,0 +1,25 @@
+1	Histerosalpingografía	histerosalpingografía	NC00SC0	C0020709#C1961147	procedimiento	0-21	484_ANS_clinical_caseMIR	SENT1	-	-
+2	.	.	Fp	-	-	21-22	484_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Cariotipo	cariotipo	NCMS000	C0022526	procedimiento	0-9	484_ANS_clinical_caseMIR	SENT2	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	10-12	484_ANS_clinical_caseMIR	SENT2	-	-
+3	sangre	sangre	NCFS000	C0229664_1	sustancia_1	13-19	484_ANS_clinical_caseMIR	SENT2	-	-
+4	periférica	periférico	AQ0FS0	C0229664_2	sustancia_2	20-30	484_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	31-33	484_ANS_clinical_caseMIR	SENT2	-	-
+6	ambos	ambos	DI0MP0	C0238767	calificador	34-39	484_ANS_clinical_caseMIR	SENT2	-	-
+7	miembros	miembro	NCMP000	C0015385	estructura_corporal	40-48	484_ANS_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	49-51	484_ANS_clinical_caseMIR	SENT2	-	-
+9	la	el	DA0FS0	-	-	52-54	484_ANS_clinical_caseMIR	SENT2	-	-
+10	pareja	pareja	NCFS000	-	-	55-61	484_ANS_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	61-62	484_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	484_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	484_ANS_clinical_caseMIR	SENT3	-	-
+3	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	17-28	484_ANS_clinical_caseMIR	SENT3	-	-
+4	antifosfolípidos	antifosfolípido	AQ0CN00	-	-	29-45	484_ANS_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	45-46	484_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	0-9	484_ANS_clinical_caseMIR	SENT4	-	-
+2	vaginal	vaginal	AQ0CS0	-	-	10-17	484_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	17-18	484_ANS_clinical_caseMIR	SENT4	-	-
+

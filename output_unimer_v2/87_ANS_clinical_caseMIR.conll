@@ -1,0 +1,32 @@
+1	Salmonella	salmonella	NC00BO0	-	-	0-10	87_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	entérica	entérico	AQ0FS0	C0021852	calificador	11-19	87_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	19-20	87_ANS_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	0-2	87_ANS_clinical_caseMIR	SENT2	-	-
+2	propia	propio	AQ0FS0	-	-	3-9	87_ANS_clinical_caseMIR	SENT2	-	-
+3	bacteria	bacteria	NCFS000	C0004611	organismo	10-18	87_ANS_clinical_caseMIR	SENT2	-	-
+4	causante	causante	NCMS000	C0678227_1	atributo_1	19-27	87_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0678227_2	atributo_2	28-30	87_ANS_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	31-33	87_ANS_clinical_caseMIR	SENT2	-	-
+7	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	34-42	87_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	que	que	PR0CN000	-	-	43-46	87_ANS_clinical_caseMIR	SENT2	-	-
+9	se	se	P00CN000	-	-	47-49	87_ANS_clinical_caseMIR	SENT2	-	-
+10	ha	haber	VAIP3S0	-	-	50-52	87_ANS_clinical_caseMIR	SENT2	-	-
+11	hecho	hacer	VMP00SM	-	-	53-58	87_ANS_clinical_caseMIR	SENT2	-	-
+12	resistente	resistente	NCMS000	C0332325	calificador	59-69	87_ANS_clinical_caseMIR	SENT2	-	-
+13	al	al	SP+DA	-	-	70-72	87_ANS_clinical_caseMIR	SENT2	-	-
+14	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	73-84	87_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	.	.	Fp	-	-	84-85	87_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Campylobacter	campylobacter	NCMS000	-	-	0-13	87_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	jejuni	jejuni	RG	-	-	14-20	87_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	20-21	87_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Clostridium	clostridium	NCMS000	-	-	0-11	87_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	difficile	difficile	NCMS000	-	-	12-21	87_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	21-22	87_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Yersinia	yersinia	NCFS000	-	-	0-8	87_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+2	enterocolitica	enterocolitica	VMIP3S0	-	-	9-23	87_ANS_clinical_caseMIR	SENT5	B-Calificador	-
+3	.	.	Fp	-	-	23-24	87_ANS_clinical_caseMIR	SENT5	-	-
+

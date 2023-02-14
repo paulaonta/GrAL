@@ -1,0 +1,116 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	302_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	302_QUEST_clinical_caseMIR	SENT1	-	-
+3	45	45		-	-	12-14	302_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	302_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	20-23	302_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	24-29	302_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	30-31	302_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	32-41	302_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	42-45	302_QUEST_clinical_caseMIR	SENT1	-	-
+10	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	46-54	302_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	55-62	302_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	,	,	Fc	-	-	62-63	302_QUEST_clinical_caseMIR	SENT1	-	-
+13	cefalea	cefalea	NCFS000	C0018681	hallazgo	64-71	302_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	72-73	302_QUEST_clinical_caseMIR	SENT1	-	-
+15	cansancio	cansancio	NCMS000	C0015672#C0475255	hallazgo#calificador	74-83	302_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	progresivo	progresivo	AQ0MS0	C0205329	calificador	84-94	302_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	95-97	302_QUEST_clinical_caseMIR	SENT1	-	-
+18	las	el	DA0FP0	-	-	98-101	302_QUEST_clinical_caseMIR	SENT1	-	-
+19	últimas	último	AO0FP0	-	-	102-109	302_QUEST_clinical_caseMIR	SENT1	-	-
+20	semanas	semana	NCFP000	C0439230	calificador	110-117	302_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	117-118	302_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	119-120	302_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	121-123	302_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	124-135	302_QUEST_clinical_caseMIR	SENT2	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	136-142	302_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	143-145	302_QUEST_clinical_caseMIR	SENT2	-	-
+6	detecta	detectar	VMIP3S0	-	-	146-153	302_QUEST_clinical_caseMIR	SENT2	-	-
+7	un	un		C0205447_1	calificador_1	154-156	302_QUEST_clinical_caseMIR	SENT2	-	-
+8	ligero	ligero	AQ0MS0	-	-	157-163	302_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+9	tinte	tinte	NCMS000	C0013343#C0038128	sustancia	164-169	302_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	ictérico	ictérico	AQ0MS0	-	-	170-178	302_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	179-181	302_QUEST_clinical_caseMIR	SENT2	-	-
+12	piel	piel	NCFS000	C1278993#C0037262#C1123023	estructura_corporal	182-186	302_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	187-188	302_QUEST_clinical_caseMIR	SENT2	-	-
+14	mucosas	mucosa	NCFP000	C0026724	estructura_corporal	189-196	302_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	197-198	302_QUEST_clinical_caseMIR	SENT2	-	-
+16	se	se	P00CN000	-	-	199-201	302_QUEST_clinical_caseMIR	SENT2	-	-
+17	palpa	palpar	VMIP3S0	-	-	202-207	302_QUEST_clinical_caseMIR	SENT2	-	-
+18	esplenomegalia	esplenomegalia	NCFS000	C0038002	trastorno	208-222	302_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	de	de	SPS00	C0332285	atributo	223-225	302_QUEST_clinical_caseMIR	SENT2	-	-
+20	2	2	Z	-	-	226-227	302_QUEST_clinical_caseMIR	SENT2	-	-
+21	cm	cm	NCMN000	-	-	228-230	302_QUEST_clinical_caseMIR	SENT2	-	-
+22	bajo	bajo	SPS00	C0205251	calificador	231-235	302_QUEST_clinical_caseMIR	SENT2	-	-
+23	el	el	DA0MS0	-	-	236-238	302_QUEST_clinical_caseMIR	SENT2	-	-
+24	reborde	reborde	NCMS000	C0582240#C0230143_1	estructura_corporal_1	239-246	302_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+25	costal	costal	NCMS000	C0582240#C0230143_2	estructura_corporal_2	247-253	302_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+26	.	.	Fp	-	-	253-254	302_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	255-257	302_QUEST_clinical_caseMIR	SENT3	-	-
+2	analítica	analítica	NCFS000	-	-	258-267	302_QUEST_clinical_caseMIR	SENT3	-	-
+3	presenta	presentar	VMIP3S0	-	-	268-276	302_QUEST_clinical_caseMIR	SENT3	-	-
+4	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	277-288	302_QUEST_clinical_caseMIR	SENT3	-	-
+5	8,6	8.6	Z	-	-	289-292	302_QUEST_clinical_caseMIR	SENT3	-	-
+6	g	g	NCMN000	-	-	293-294	302_QUEST_clinical_caseMIR	SENT3	-	-
+7	/	/	Fh	-	-	294-295	302_QUEST_clinical_caseMIR	SENT3	-	-
+8	dL	decilitro	NCMN000	C0439241	calificador	295-297	302_QUEST_clinical_caseMIR	SENT3	-	-
+9	,	,	Fc	-	-	297-298	302_QUEST_clinical_caseMIR	SENT3	-	-
+10	VCM	vcm	NC00SC0	C0524587	entidad_observable	299-302	302_QUEST_clinical_caseMIR	SENT3	-	-
+11	100	100		-	-	303-306	302_QUEST_clinical_caseMIR	SENT3	-	-
+12	fL	fl	NC00SC0	C0475213	calificador	307-309	302_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	309-310	302_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	311-313	302_QUEST_clinical_caseMIR	SENT4	-	-
+2	cifra	cifra	NCFS000	-	-	314-319	302_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	320-322	302_QUEST_clinical_caseMIR	SENT4	-	-
+4	reticulocitos	reticulocito	NCMP000	C0035286	célula	323-336	302_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	esta	este	DD0FS0	-	-	337-341	302_QUEST_clinical_caseMIR	SENT4	-	-
+6	elevada	elevar	VMP00SF	-	-	342-349	302_QUEST_clinical_caseMIR	SENT4	-	-
+7	y	y	CC	C1706368	calificador	350-351	302_QUEST_clinical_caseMIR	SENT4	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	352-354	302_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	355-357	302_QUEST_clinical_caseMIR	SENT4	-	-
+10	frotis	frotis	NCMN000	-	-	358-364	302_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	365-367	302_QUEST_clinical_caseMIR	SENT4	-	-
+12	sangre	sangre	NCFS000	C0005767	sustancia	368-374	302_QUEST_clinical_caseMIR	SENT4	-	-
+13	se	se	P00CN000	-	-	375-377	302_QUEST_clinical_caseMIR	SENT4	-	-
+14	observa	observar	VMIP3S0	-	-	378-385	302_QUEST_clinical_caseMIR	SENT4	-	-
+15	anisopoiquilocitosis	anisopoiquilocitosis	NCFN000	-	-	386-406	302_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	406-407	302_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	408-410	302_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	411-413	302_QUEST_clinical_caseMIR	SENT5	-	-
+3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	414-424	302_QUEST_clinical_caseMIR	SENT5	-	-
+4	destaca	destacar	VMIP3S0	-	-	425-432	302_QUEST_clinical_caseMIR	SENT5	-	-
+5	LDH	ldh	NC00SC0	C0022917	sustancia	433-436	302_QUEST_clinical_caseMIR	SENT5	-	-
+6	1300	1300		-	-	437-441	302_QUEST_clinical_caseMIR	SENT5	-	-
+7	UI	ui	NC00SC0	C0439453	calificador	442-444	302_QUEST_clinical_caseMIR	SENT5	-	-
+8	/	/	Fh	-	-	444-445	302_QUEST_clinical_caseMIR	SENT5	-	-
+9	L	l	NCFS000	-	-	445-446	302_QUEST_clinical_caseMIR	SENT5	-	-
+10	,	,	Fc	-	-	446-447	302_QUEST_clinical_caseMIR	SENT5	-	-
+11	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	448-459	302_QUEST_clinical_caseMIR	SENT5	-	-
+12	2,2	2.2	Z	-	-	460-463	302_QUEST_clinical_caseMIR	SENT5	-	-
+13	mg	mg	NCMN000	-	-	464-466	302_QUEST_clinical_caseMIR	SENT5	-	-
+14	/	/	Fh	-	-	466-467	302_QUEST_clinical_caseMIR	SENT5	-	-
+15	dL	decilitro	NCMN000	C0439241	calificador	467-469	302_QUEST_clinical_caseMIR	SENT5	-	-
+16	y	y	CC	C1706368	calificador	470-471	302_QUEST_clinical_caseMIR	SENT5	-	-
+17	haptoglobina	haptoglobina	NCFS000	C0018595	sustancia	472-484	302_QUEST_clinical_caseMIR	SENT5	-	-
+18	indetectable	indetectable	AQ0CS0	-	-	485-497	302_QUEST_clinical_caseMIR	SENT5	-	-
+19	.	.	Fp	-	-	497-498	302_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	499-500	302_QUEST_clinical_caseMIR	SENT6	-	-
+2	Qué	qué	DT0CN0	-	-	500-503	302_QUEST_clinical_caseMIR	SENT6	-	-
+3	prueba	prueba	NCFS000	-	-	504-510	302_QUEST_clinical_caseMIR	SENT6	-	-
+4	es	ser	VSIP3S0	-	-	511-513	302_QUEST_clinical_caseMIR	SENT6	-	-
+5	la	lo	PP3FSA00	C0205393_1	calificador_1	514-516	302_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205393_2	calificador_2	517-520	302_QUEST_clinical_caseMIR	SENT6	-	-
+7	apropiada	apropiar	VMP00SF	-	-	521-530	302_QUEST_clinical_caseMIR	SENT6	-	-
+8	para	para	SPS00	C0521125	calificador	531-535	302_QUEST_clinical_caseMIR	SENT6	-	-
+9	orientar	orientar	VMN0000	-	-	536-544	302_QUEST_clinical_caseMIR	SENT6	-	-
+10	el	el	DA0MS0	-	-	545-547	302_QUEST_clinical_caseMIR	SENT6	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	548-559	302_QUEST_clinical_caseMIR	SENT6	-	-
+12	de	de	SPS00	C0332285	atributo	560-562	302_QUEST_clinical_caseMIR	SENT6	-	-
+13	la	el	DA0FS0	-	-	563-565	302_QUEST_clinical_caseMIR	SENT6	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	566-574	302_QUEST_clinical_caseMIR	SENT6	-	-
+15	?	?	Fit	-	-	574-575	302_QUEST_clinical_caseMIR	SENT6	-	-
+

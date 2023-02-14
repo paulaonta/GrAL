@@ -1,0 +1,31 @@
+1	Radiografía	radiografía	NCFS000	C1306645	procedimiento	0-11	38_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	38_ANS_clinical_caseMIR	SENT1	-	-
+3	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	15-20	38_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	20-21	38_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	38_ANS_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	38_ANS_clinical_caseMIR	SENT2	-	-
+3	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	17-28	38_ANS_clinical_caseMIR	SENT2	-	-
+4	antipéptido	antipéptido	AQ0CN00	-	-	29-40	38_ANS_clinical_caseMIR	SENT2	-	-
+5	cíclico	cíclico	NC00SC0	C0439596	calificador	41-48	38_ANS_clinical_caseMIR	SENT2	-	-
+6	citrulinado	citrulinado	VMP00SM	-	-	49-60	38_ANS_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	60-61	38_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	38_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	38_ANS_clinical_caseMIR	SENT3	-	-
+3	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	17-28	38_ANS_clinical_caseMIR	SENT3	-	-
+4	anti	anti	AQ0CN0	-	-	29-33	38_ANS_clinical_caseMIR	SENT3	-	-
+5	Sm	sm	NC00YL0	-	-	34-36	38_ANS_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	36-37	38_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Sistemático	sistemático	AQ0MS0	-	-	0-11	38_ANS_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	38_ANS_clinical_caseMIR	SENT4	-	-
+3	orina	orina	NCFS000	C0042036	sustancia	15-20	38_ANS_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	20-21	38_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Aspirado	aspirar	VMP00SM	-	-	0-8	38_ANS_clinical_caseMIR	SENT5	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	38_ANS_clinical_caseMIR	SENT5	-	-
+3	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	12-18	38_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+4	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	19-23	38_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	23-24	38_ANS_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,33 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	693_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	693_QUEST_clinical_caseMIR	SENT1	-	-
+3	35	35		-	-	10-12	693_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	693_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	693_QUEST_clinical_caseMIR	SENT1	-	-
+6	ingresado	ingresar	VMP00SM	-	-	19-28	693_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C0678226	atributo	29-32	693_QUEST_clinical_caseMIR	SENT1	-	-
+8	traumatismo	traumatismo	NCMS000	C3263723	trastorno	33-44	693_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	torácico	torácico	NC00SC0	C0817096	calificador	45-53	693_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	grave	grave	AQ0CS0	C0439808#C0205082	calificador	54-59	693_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	con	con	SPS00	C0332287	atributo	60-63	693_QUEST_clinical_caseMIR	SENT1	-	-
+12	múltiples	múltiple	AQ0CP0	C0272567_1	trastorno_1	64-73	693_QUEST_clinical_caseMIR	SENT1	-	-
+13	fracturas	fracturar	VMIP2S0	C0272567_2	trastorno_2	74-83	693_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	costales	costal	NCMP000	C0272567_3	trastorno_3	84-92	693_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	.	.	Fp	-	-	92-93	693_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	94-98	693_QUEST_clinical_caseMIR	SENT2	-	-
+2	responder	responder	VMN0000	-	-	99-108	693_QUEST_clinical_caseMIR	SENT2	-	-
+3	favorablemente	favorablemente	RG	-	-	109-123	693_QUEST_clinical_caseMIR	SENT2	-	-
+4	al	al	SP+DA	-	-	124-126	693_QUEST_clinical_caseMIR	SENT2	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	127-138	693_QUEST_clinical_caseMIR	SENT2	-	-
+6	con	con	SPS00	C0332287	atributo	139-142	693_QUEST_clinical_caseMIR	SENT2	-	-
+7	analgésicos	analgésico	NCMP000	C0002771	sustancia	143-154	693_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	y	y	CC	C1706368	calificador	155-156	693_QUEST_clinical_caseMIR	SENT2	-	-
+9	oxígeno	oxígeno	NCMS000	C0030054	sustancia	157-164	693_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+10	,	,	Fc	-	-	164-165	693_QUEST_clinical_caseMIR	SENT2	-	-
+11	comienza	comenzar	VMIP3S0	-	-	166-174	693_QUEST_clinical_caseMIR	SENT2	-	-
+12	a	a	SPS00	-	-	175-176	693_QUEST_clinical_caseMIR	SENT2	-	-
+13	presentar	presentar	VMN0000	-	-	177-186	693_QUEST_clinical_caseMIR	SENT2	-	-
+14	hipoxemia	hipoxemia	NC00SC0	C0700292#C0242184	trastorno	187-196	693_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	grave	grave	AQ0CS0	C0439808#C0205082	calificador	197-202	693_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+16	.	.	Fp	-	-	202-203	693_QUEST_clinical_caseMIR	SENT2	-	-
+

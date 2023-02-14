@@ -1,0 +1,80 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	585_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	585_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	585_QUEST_clinical_caseMIR	SENT1	-	-
+4	40	40		-	-	13-15	585_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	585_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	585_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	585_QUEST_clinical_caseMIR	SENT1	-	-
+8	se	se	P00CN000	-	-	29-31	585_QUEST_clinical_caseMIR	SENT1	-	-
+9	va	ir	VMIP3S0	-	-	32-34	585_QUEST_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	35-36	585_QUEST_clinical_caseMIR	SENT1	-	-
+11	someter	someter	VMN0000	-	-	37-44	585_QUEST_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	45-46	585_QUEST_clinical_caseMIR	SENT1	-	-
+13	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	47-54	585_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	55-58	585_QUEST_clinical_caseMIR	SENT1	-	-
+15	colelitiasis	colelitiasis	NC00SC0	C0008350#C0947622	trastorno	59-71	585_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	71-72	585_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	73-81	585_QUEST_clinical_caseMIR	SENT2	-	-
+2	discreta	discreto	AQ0FS0	-	-	82-90	585_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+3	esplenomegalia	esplenomegalia	NCFS000	C0038002	trastorno	91-105	585_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	585_QUEST_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	109-111	585_QUEST_clinical_caseMIR	SENT2	-	-
+6	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	112-123	585_QUEST_clinical_caseMIR	SENT2	-	-
+7	física	físico	NCFS000	C0031809_2	procedimiento_2	124-130	585_QUEST_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	131-132	585_QUEST_clinical_caseMIR	SENT2	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	133-135	585_QUEST_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	136-138	585_QUEST_clinical_caseMIR	SENT2	-	-
+11	analítica	analítica	NCFS000	-	-	139-148	585_QUEST_clinical_caseMIR	SENT2	-	-
+12	:	:	Fd	-	-	148-149	585_QUEST_clinical_caseMIR	SENT2	-	-
+13	Hb	hb	NC00YL0	-	-	150-152	585_QUEST_clinical_caseMIR	SENT2	-	-
+14	9	9	Z	-	-	153-154	585_QUEST_clinical_caseMIR	SENT2	-	-
+15	g	g	NCMN000	-	-	155-156	585_QUEST_clinical_caseMIR	SENT2	-	-
+16	/	/	Fh	-	-	156-157	585_QUEST_clinical_caseMIR	SENT2	-	-
+17	dL	decilitro	NCMN000	C0439241	calificador	157-159	585_QUEST_clinical_caseMIR	SENT2	-	-
+18	,	,	Fc	-	-	159-160	585_QUEST_clinical_caseMIR	SENT2	-	-
+19	VCM	vcm	NC00SC0	C0524587	entidad_observable	161-164	585_QUEST_clinical_caseMIR	SENT2	-	-
+20	80	80		-	-	165-167	585_QUEST_clinical_caseMIR	SENT2	-	-
+21	fL	fl	NC00SC0	C0475213	calificador	168-170	585_QUEST_clinical_caseMIR	SENT2	-	-
+22	,	,	Fc	-	-	170-171	585_QUEST_clinical_caseMIR	SENT2	-	-
+23	CHCM	chcm	NC00SC0	C0474535	entidad_observable	172-176	585_QUEST_clinical_caseMIR	SENT2	-	-
+24	38	38	Z	-	-	177-179	585_QUEST_clinical_caseMIR	SENT2	-	-
+25	g	g	NCMN000	-	-	180-181	585_QUEST_clinical_caseMIR	SENT2	-	-
+26	/	/	Fh	-	-	181-182	585_QUEST_clinical_caseMIR	SENT2	-	-
+27	dL	decilitro	NCMN000	C0439241	calificador	182-184	585_QUEST_clinical_caseMIR	SENT2	-	-
+28	,	,	Fc	-	-	184-185	585_QUEST_clinical_caseMIR	SENT2	-	-
+29	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	186-197	585_QUEST_clinical_caseMIR	SENT2	-	-
+30	total	total	NCMS000	C0201913_2	procedimiento_2	198-203	585_QUEST_clinical_caseMIR	SENT2	-	-
+31	2	2	Z	-	-	204-205	585_QUEST_clinical_caseMIR	SENT2	-	-
+32	mg	mg	NCMN000	-	-	206-208	585_QUEST_clinical_caseMIR	SENT2	-	-
+33	/	/	Fh	-	-	208-209	585_QUEST_clinical_caseMIR	SENT2	-	-
+34	dL	decilitro	NCMN000	C0439241	calificador	209-211	585_QUEST_clinical_caseMIR	SENT2	-	-
+35	con	con	SPS00	C0332287	atributo	212-215	585_QUEST_clinical_caseMIR	SENT2	-	-
+36	indirecta	indirecta	NCFS000	-	-	216-225	585_QUEST_clinical_caseMIR	SENT2	-	-
+37	de	de	SPS00	C0332285	atributo	226-228	585_QUEST_clinical_caseMIR	SENT2	-	-
+38	1,8	1.8	Z	-	-	229-232	585_QUEST_clinical_caseMIR	SENT2	-	-
+39	mg	mg	NCMN000	-	-	233-235	585_QUEST_clinical_caseMIR	SENT2	-	-
+40	/	/	Fh	-	-	235-236	585_QUEST_clinical_caseMIR	SENT2	-	-
+41	dL	decilitro	NCMN000	C0439241	calificador	236-238	585_QUEST_clinical_caseMIR	SENT2	-	-
+42	,	,	Fc	-	-	238-239	585_QUEST_clinical_caseMIR	SENT2	-	-
+43	LDH	ldh	NC00SC0	C0022917	sustancia	240-243	585_QUEST_clinical_caseMIR	SENT2	-	-
+44	500	500		-	-	244-247	585_QUEST_clinical_caseMIR	SENT2	-	-
+45	U	o	CC	-	-	248-249	585_QUEST_clinical_caseMIR	SENT2	-	-
+46	/	/	Fh	-	-	249-250	585_QUEST_clinical_caseMIR	SENT2	-	-
+47	L	l	NCFS000	-	-	250-251	585_QUEST_clinical_caseMIR	SENT2	-	-
+48	y	y	CC	C1706368	calificador	252-253	585_QUEST_clinical_caseMIR	SENT2	-	-
+49	reticulocitos	reticulocito	NCMP000	C0035286	célula	254-267	585_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+50	del	del	SP+DA	-	-	268-271	585_QUEST_clinical_caseMIR	SENT2	-	-
+51	10	10	Z	-	-	272-274	585_QUEST_clinical_caseMIR	SENT2	-	-
+52	%	%	Ft	-	-	274-275	585_QUEST_clinical_caseMIR	SENT2	-	-
+53	.	.	Fp	-	-	275-276	585_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	277-278	585_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	278-282	585_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	283-285	585_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	286-288	585_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	289-300	585_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	301-304	585_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	305-313	585_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	313-314	585_QUEST_clinical_caseMIR	SENT3	-	-
+

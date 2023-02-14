@@ -1,0 +1,46 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	347_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	347_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	347_QUEST_clinical_caseMIR	SENT1	-	-
+4	26	26		-	-	13-15	347_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	347_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	347_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	347_QUEST_clinical_caseMIR	SENT1	-	-
+8	Urgencias	urgencia	NCFP000	C0439609	calificador	29-38	347_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	347_QUEST_clinical_caseMIR	SENT1	-	-
+10	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	43-48	347_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	49-58	347_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	y	y	CC	C1706368	calificador	59-60	347_QUEST_clinical_caseMIR	SENT1	-	-
+13	escasas	escaso	AQ0FP0	C0443295#C0205169	calificador	61-68	347_QUEST_clinical_caseMIR	SENT1	-	-
+14	pérdidas	pérdida	NCFP000	-	-	69-77	347_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	hemáticas	hemático	AQ0FP0	-	-	78-87	347_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	vaginales	vaginal	AQ0CP0	-	-	88-97	347_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	97-98	347_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	99-106	347_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	107-110	347_QUEST_clinical_caseMIR	SENT2	-	-
+3	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	111-120	347_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0332285	atributo	121-123	347_QUEST_clinical_caseMIR	SENT2	-	-
+5	7	7		-	-	124-125	347_QUEST_clinical_caseMIR	SENT2	-	-
+6	semanas	semana	NCFP000	C0439230	calificador	126-133	347_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	133-134	347_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	135-137	347_QUEST_clinical_caseMIR	SENT3	-	-
+2	realiza	realizar	VMIP3S0	-	-	138-145	347_QUEST_clinical_caseMIR	SENT3	-	-
+3	un	un		C0205447_1	calificador_1	146-148	347_QUEST_clinical_caseMIR	SENT3	-	-
+4	test	test	NCMS000	-	-	149-153	347_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	154-156	347_QUEST_clinical_caseMIR	SENT3	-	-
+6	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	157-165	347_QUEST_clinical_caseMIR	SENT3	-	-
+7	,	,	Fc	-	-	165-166	347_QUEST_clinical_caseMIR	SENT3	-	-
+8	con	con	SPS00	C0332287	atributo	167-170	347_QUEST_clinical_caseMIR	SENT3	-	-
+9	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	171-180	347_QUEST_clinical_caseMIR	SENT3	-	-
+10	positivo	positivo	AQ0MS0	C1446409	calificador	181-189	347_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	189-190	347_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	191-192	347_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	192-196	347_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	197-199	347_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	200-202	347_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguiente	siguiente	AQ0CS0	C0332282	atributo	203-212	347_QUEST_clinical_caseMIR	SENT4	-	-
+6	paso	paso	NCMS000	C1261552	calificador	213-217	347_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	217-218	347_QUEST_clinical_caseMIR	SENT4	-	-
+

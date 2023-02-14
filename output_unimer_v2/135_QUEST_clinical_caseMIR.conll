@@ -1,0 +1,52 @@
+1	Tras	tras	SPS00	-	-	347-351	135_QUEST_clinical_caseMIR	SENT1	-	-
+2	iniciar	iniciar	VMN0000	-	-	352-359	135_QUEST_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	360-371	135_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	372-374	135_QUEST_clinical_caseMIR	SENT1	-	-
+5	endocarditis	endocarditis	NCFN000	C0014118	trastorno	375-387	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	,	,	Fc	-	-	387-388	135_QUEST_clinical_caseMIR	SENT1	-	-
+7	¿	¿	Fia	-	-	389-390	135_QUEST_clinical_caseMIR	SENT1	-	-
+8	cuál	cuál	PT0CS000	-	-	390-394	135_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	395-397	135_QUEST_clinical_caseMIR	SENT1	-	-
+10	las	el	DA0FP0	-	-	398-401	135_QUEST_clinical_caseMIR	SENT1	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	402-412	135_QUEST_clinical_caseMIR	SENT1	-	-
+12	exploraciones	exploración	NCFP000	C1280903	procedimiento	413-426	135_QUEST_clinical_caseMIR	SENT1	-	-
+13	nos	nos	PP1CP000	-	-	427-430	135_QUEST_clinical_caseMIR	SENT1	-	-
+14	podría	poder	VMIC3S0	-	-	431-437	135_QUEST_clinical_caseMIR	SENT1	-	-
+15	ayudar	ayudar	VMN0000	-	-	438-444	135_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	445-447	135_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	448-450	135_QUEST_clinical_caseMIR	SENT1	-	-
+18	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	451-462	135_QUEST_clinical_caseMIR	SENT1	-	-
+19	?	?	Fit	-	-	462-463	135_QUEST_clinical_caseMIR	SENT1	-	-
+20	:	:	Fd	-	-	463-464	135_QUEST_clinical_caseMIR	SENT1	-	-
+21	Paciente	paciente	NCCS000	C0030705	persona	0-8	135_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	9-11	135_QUEST_clinical_caseMIR	SENT1	-	-
+23	50	50		-	-	12-14	135_QUEST_clinical_caseMIR	SENT1	-	-
+24	años	año	NCMP000	C0439234	calificador	15-19	135_QUEST_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	19-20	135_QUEST_clinical_caseMIR	SENT1	-	-
+26	bebedor	bebedor	NCMS000	-	-	21-28	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	importante	importante	AQ0CS0	-	-	29-39	135_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	que	que	PR0CN000	-	-	40-43	135_QUEST_clinical_caseMIR	SENT1	-	-
+29	presenta	presentar	VMIP3S0	-	-	44-52	135_QUEST_clinical_caseMIR	SENT1	-	-
+30	desde	desde	SPS00	-	-	53-58	135_QUEST_clinical_caseMIR	SENT1	-	-
+31	hace	hacer	VMIP3S0	-	-	59-63	135_QUEST_clinical_caseMIR	SENT1	-	-
+32	9	9		-	-	64-65	135_QUEST_clinical_caseMIR	SENT1	-	-
+33	meses	mes	NCMP000	C0439231	calificador	66-71	135_QUEST_clinical_caseMIR	SENT1	-	-
+34	episodios	episodio	NCMP000	C0332189	atributo	72-81	135_QUEST_clinical_caseMIR	SENT1	-	-
+35	de	de	SPS00	C0332285	atributo	82-84	135_QUEST_clinical_caseMIR	SENT1	-	-
+36	una	una		C0205447_1	calificador_1	85-88	135_QUEST_clinical_caseMIR	SENT1	-	-
+37	semana	semana	NCFS000	C0439230	calificador	89-95	135_QUEST_clinical_caseMIR	SENT1	-	-
+38	de	de	SPS00	C0332285	atributo	96-98	135_QUEST_clinical_caseMIR	SENT1	-	-
+39	duración	duración	NCFS000	C0449238	atributo	99-107	135_QUEST_clinical_caseMIR	SENT1	-	-
+40	de	de	SPS00	C0332285	atributo	108-110	135_QUEST_clinical_caseMIR	SENT1	-	-
+41	artritis	artritis	NCFN000	C0003864	hallazgo#trastorno	111-119	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	120-122	135_QUEST_clinical_caseMIR	SENT1	-	-
+43	1a	1a		-	-	123-125	135_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+44	metatarsofalángica	metatarsofalángico	AQ0FS0	-	-	126-144	135_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+45	,	,	Fc	-	-	144-145	135_QUEST_clinical_caseMIR	SENT1	-	-
+46	tobillo	tobillo	NCMS000	C1261192#C0003086	estructura_corporal	146-153	135_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+47	y	y	CC	C1706368	calificador	154-155	135_QUEST_clinical_caseMIR	SENT1	-	-
+48	/	/	Fh	-	-	155-156	135_QUEST_clinical_caseMIR	SENT1	-	-
+49	o	o	CC	-	-	156-157	135_QUEST_clinical_caseMIR	SENT1	-	-
+50	tarso	tarso	NCMS000	C0039316#C1280697	estructura_corporal	158-163	135_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+51	.	.	Fp	-	-	163-164	135_QUEST_clinical_caseMIR	SENT1	-	-
+

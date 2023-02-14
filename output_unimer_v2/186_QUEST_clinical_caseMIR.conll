@@ -1,0 +1,103 @@
+1	El	el	DA0MS0	-	-	244-246	186_QUEST_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	247-258	186_QUEST_clinical_caseMIR	SENT1	-	-
+3	recomendado	recomendar	VMP00SM	-	-	259-270	186_QUEST_clinical_caseMIR	SENT1	-	-
+4	sería	ser	VSIC1S0	-	-	271-276	186_QUEST_clinical_caseMIR	SENT1	-	-
+5	:	:	Fd	-	-	276-277	186_QUEST_clinical_caseMIR	SENT1	-	-
+6	Un	Un		C0205447_1	calificador_1	0-2	186_QUEST_clinical_caseMIR	SENT1	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	3-11	186_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	12-14	186_QUEST_clinical_caseMIR	SENT1	-	-
+9	57	57		-	-	15-17	186_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	18-22	186_QUEST_clinical_caseMIR	SENT1	-	-
+11	tuvo	tener	VMIS3S0	-	-	23-27	186_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	28-30	186_QUEST_clinical_caseMIR	SENT1	-	-
+13	infarto	infarto	NCMS000	C0155626_1	trastorno_1	31-38	186_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	agudo	agudo	NC00SC0	C0155626_2	trastorno_2	39-44	186_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	de	de	SPS00	C0155626_3	trastorno_3	45-47	186_QUEST_clinical_caseMIR	SENT1	-	-
+16	miocardio	miocardio	NCMS000	C0155626_4	trastorno_4	48-57	186_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	y	y	CC	C1706368	calificador	58-59	186_QUEST_clinical_caseMIR	SENT1	-	-
+18	presenta	presentar	VMIP3S0	-	-	60-68	186_QUEST_clinical_caseMIR	SENT1	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	69-71	186_QUEST_clinical_caseMIR	SENT1	-	-
+20	la	el	DA0FS0	-	-	72-74	186_QUEST_clinical_caseMIR	SENT1	-	-
+21	analítica	analítico	AQ0FS0	-	-	75-84	186_QUEST_clinical_caseMIR	SENT1	-	-
+22	colesterol	colesterol	NCMS000	C0008377	sustancia	85-95	186_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	96-98	186_QUEST_clinical_caseMIR	SENT1	-	-
+24	312	312	Z	-	-	99-102	186_QUEST_clinical_caseMIR	SENT1	-	-
+25	mg	mg	NCMN000	-	-	103-105	186_QUEST_clinical_caseMIR	SENT1	-	-
+26	/	/	Fh	-	-	105-106	186_QUEST_clinical_caseMIR	SENT1	-	-
+27	dL	decilitro	NCMN000	C0439241	calificador	106-108	186_QUEST_clinical_caseMIR	SENT1	-	-
+28	(	(	Fpa	-	-	109-110	186_QUEST_clinical_caseMIR	SENT1	-	-
+29	normal	normal	AQ0CS0	C0205307	calificador	110-116	186_QUEST_clinical_caseMIR	SENT1	-	-
+30	<	<	Fz	-	-	116-117	186_QUEST_clinical_caseMIR	SENT1	-	-
+31	220	220		-	-	117-120	186_QUEST_clinical_caseMIR	SENT1	-	-
+32	)	)	Fpt	-	-	120-121	186_QUEST_clinical_caseMIR	SENT1	-	-
+33	,	,	Fc	-	-	121-122	186_QUEST_clinical_caseMIR	SENT1	-	-
+34	LDL	low-density_lipoprotein_(lipoproteína_de_baja_densidad)	NC00YL0	-	-	123-126	186_QUEST_clinical_caseMIR	SENT1	-	-
+35	colesterol	colesterol	NCMS000	C0008377	sustancia	127-137	186_QUEST_clinical_caseMIR	SENT1	-	-
+36	241	241	Z	-	-	138-141	186_QUEST_clinical_caseMIR	SENT1	-	-
+37	mg	mg	NCMN000	-	-	142-144	186_QUEST_clinical_caseMIR	SENT1	-	-
+38	/	/	Fh	-	-	144-145	186_QUEST_clinical_caseMIR	SENT1	-	-
+39	dL	decilitro	NCMN000	C0439241	calificador	145-147	186_QUEST_clinical_caseMIR	SENT1	-	-
+40	(	(	Fpa	-	-	148-149	186_QUEST_clinical_caseMIR	SENT1	-	-
+41	normal	normal	AQ0CS0	C0205307	calificador	149-155	186_QUEST_clinical_caseMIR	SENT1	-	-
+42	<	<	Fz	-	-	155-156	186_QUEST_clinical_caseMIR	SENT1	-	-
+43	150	150		-	-	156-159	186_QUEST_clinical_caseMIR	SENT1	-	-
+44	)	)	Fpt	-	-	159-160	186_QUEST_clinical_caseMIR	SENT1	-	-
+45	,	,	Fc	-	-	160-161	186_QUEST_clinical_caseMIR	SENT1	-	-
+46	HDL	high-density_lipoproteins_(lipoproteínas_de_alta_densidad)	NC00YL0	-	-	162-165	186_QUEST_clinical_caseMIR	SENT1	-	-
+47	colesterol	colesterol	NCMS000	C0008377	sustancia	166-176	186_QUEST_clinical_caseMIR	SENT1	-	-
+48	29	29	Z	-	-	177-179	186_QUEST_clinical_caseMIR	SENT1	-	-
+49	mg	mg	NCMN000	-	-	180-182	186_QUEST_clinical_caseMIR	SENT1	-	-
+50	/	/	Fh	-	-	182-183	186_QUEST_clinical_caseMIR	SENT1	-	-
+51	dL	decilitro	NCMN000	C0439241	calificador	183-185	186_QUEST_clinical_caseMIR	SENT1	-	-
+52	(	(	Fpa	-	-	186-187	186_QUEST_clinical_caseMIR	SENT1	-	-
+53	normal	normal	AQ0CS0	C0205307	calificador	187-193	186_QUEST_clinical_caseMIR	SENT1	-	-
+54	35-90	35-90		-	-	194-199	186_QUEST_clinical_caseMIR	SENT1	-	-
+55	)	)	Fpt	-	-	199-200	186_QUEST_clinical_caseMIR	SENT1	-	-
+56	,	,	Fc	-	-	200-201	186_QUEST_clinical_caseMIR	SENT1	-	-
+57	y	y	CC	C1706368	calificador	202-203	186_QUEST_clinical_caseMIR	SENT1	-	-
+58	triglicéridos	triglicérido	NCMP000	C0041004#C0392693	sustancia	204-217	186_QUEST_clinical_caseMIR	SENT1	-	-
+59	normales	normal	AQ0CP0	C0205307	calificador	218-226	186_QUEST_clinical_caseMIR	SENT1	-	-
+60	.	.	Fp	-	-	226-227	186_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Fumador	fumador	NCMS000	C0337664	hallazgo	228-235	186_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	236-238	186_QUEST_clinical_caseMIR	SENT2	-	-
+3	30	30		-	-	239-241	186_QUEST_clinical_caseMIR	SENT2	-	-
+4	cigarrillos	cigarrillo	NCMP000	-	-	242-253	186_QUEST_clinical_caseMIR	SENT2	-	-
+5	/	/	Fh	-	-	253-254	186_QUEST_clinical_caseMIR	SENT2	-	-
+6	día	día	NCMS000	C0439228#C0332169	calificador	254-257	186_QUEST_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	257-258	186_QUEST_clinical_caseMIR	SENT2	-	-
+8	no	no	RN	C1298908	calificador	259-261	186_QUEST_clinical_caseMIR	SENT2	-	-
+9	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	262-270	186_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+10	,	,	Fc	-	-	270-271	186_QUEST_clinical_caseMIR	SENT2	-	-
+11	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	272-279	186_QUEST_clinical_caseMIR	SENT2	-	-
+12	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	280-288	186_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	de	de	SPS00	C0332285	atributo	289-291	186_QUEST_clinical_caseMIR	SENT2	-	-
+14	145/90	145/90	Z	-	-	292-298	186_QUEST_clinical_caseMIR	SENT2	-	-
+15	mmHg	mmHg	NCMP000	-	-	299-303	186_QUEST_clinical_caseMIR	SENT2	-	-
+16	y	y	CC	C1706368	calificador	304-305	186_QUEST_clinical_caseMIR	SENT2	-	-
+17	no	no	RN	C1298908	calificador	306-308	186_QUEST_clinical_caseMIR	SENT2	-	-
+18	tenía	tener	VMII3S0	-	-	309-314	186_QUEST_clinical_caseMIR	SENT2	-	-
+19	diabetes	diabetes	NCFN000	-	-	315-323	186_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+20	.	.	Fp	-	-	323-324	186_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Interrogado	interrogar	VMP00SM	-	-	325-336	186_QUEST_clinical_caseMIR	SENT3	-	-
+2	sobre	sobre	SPS00	C1720294#C0205136	calificador	337-342	186_QUEST_clinical_caseMIR	SENT3	-	-
+3	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	343-355	186_QUEST_clinical_caseMIR	SENT3	-	-
+4	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	356-366	186_QUEST_clinical_caseMIR	SENT3	-	-
+5	refirió	referir	VMIS3S0	-	-	367-374	186_QUEST_clinical_caseMIR	SENT3	-	-
+6	que	que	CS	-	-	375-378	186_QUEST_clinical_caseMIR	SENT3	-	-
+7	un	un		C0205447_1	calificador_1	379-381	186_QUEST_clinical_caseMIR	SENT3	-	-
+8	tío	tío	NCMS000	C0337577	persona	382-385	186_QUEST_clinical_caseMIR	SENT3	-	-
+9	por	por	SPS00	C0678226	atributo	386-389	186_QUEST_clinical_caseMIR	SENT3	-	-
+10	línea	línea	NCFS000	C0205132	calificador	390-395	186_QUEST_clinical_caseMIR	SENT3	-	-
+11	materna	materno	AQ0FS0	-	-	396-403	186_QUEST_clinical_caseMIR	SENT3	-	-
+12	falleció	falleció	NC00SC0	C1546956	hallazgo	404-412	186_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	413-415	186_QUEST_clinical_caseMIR	SENT3	-	-
+14	forma	forma	NCFS000	C0348078	atributo	416-421	186_QUEST_clinical_caseMIR	SENT3	-	-
+15	brusca	brusco	AQ0FS0	C0443162	calificador	422-428	186_QUEST_clinical_caseMIR	SENT3	-	-
+16	a	a	SPS00	-	-	429-430	186_QUEST_clinical_caseMIR	SENT3	-	-
+17	los	el	DA0MP0	-	-	431-434	186_QUEST_clinical_caseMIR	SENT3	-	-
+18	53	53		-	-	435-437	186_QUEST_clinical_caseMIR	SENT3	-	-
+19	años	año	NCMP000	C0439234	calificador	438-442	186_QUEST_clinical_caseMIR	SENT3	-	-
+20	.	.	Fp	-	-	442-443	186_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,48 @@
+1	Debe	deber	VMIP3S0	-	-	0-4	240_ANS_clinical_caseMIR	SENT1	-	-
+2	ampliar	ampliar	VMN0000	-	-	5-12	240_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	PP3CN000	-	-	12-14	240_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	15-17	240_ANS_clinical_caseMIR	SENT1	-	-
+5	estudio	estudio	NCMS000	C0557651	medio_ambiente	18-25	240_ANS_clinical_caseMIR	SENT1	-	-
+6	del	del	SP+DA	-	-	26-29	240_ANS_clinical_caseMIR	SENT1	-	-
+7	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	30-37	240_ANS_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	38-41	240_ANS_clinical_caseMIR	SENT1	-	-
+9	recuento	recuento	NCMS000	C0007584_1	procedimiento_1	42-50	240_ANS_clinical_caseMIR	SENT1	-	-
+10	celular	celular	AQ0CS0	C0007584_2	procedimiento_2	51-58	240_ANS_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	58-59	240_ANS_clinical_caseMIR	SENT1	-	-
+12	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	60-67	240_ANS_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	67-68	240_ANS_clinical_caseMIR	SENT1	-	-
+14	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	69-71	240_ANS_clinical_caseMIR	SENT1	-	-
+15	,	,	Fc	-	-	71-72	240_ANS_clinical_caseMIR	SENT1	-	-
+16	ADA	arteria_(coronaria)_descendente_anterior._adenosindesaminasa_(prueba_para_el_diagnóstico_de_tuberculosis)	NC00YL0	-	-	73-76	240_ANS_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	76-77	240_ANS_clinical_caseMIR	SENT1	-	-
+18	colesterol	colesterol	NCMS000	C0008377	sustancia	78-88	240_ANS_clinical_caseMIR	SENT1	-	-
+19	y	y	CC	C1706368	calificador	89-90	240_ANS_clinical_caseMIR	SENT1	-	-
+20	cultivo	cultivo	NCMS000	-	-	91-98	240_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	98-99	240_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Biopsia	biopsia	NCFS000	C0176531_1	procedimiento_1	0-7	240_ANS_clinical_caseMIR	SENT2	-	-
+2	pleural	pleural	NC00SC0	C0176531_2	procedimiento_2	8-15	240_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	ciega	ciego	AQ0FS0	C0332224#C0525065#C1278925#C0456909#C0007531	calificador#hallazgo#estructura_corporal	16-21	240_ANS_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	21-22	240_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Videotoracoscopia	videotoracoscopia	NC00SC0	-	-	0-17	240_ANS_clinical_caseMIR	SENT3	-	-
+2	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	18-29	240_ANS_clinical_caseMIR	SENT3	-	-
+3	.	.	Fp	-	-	29-30	240_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Antibioterapia	antibioterapia	NCFS000	-	-	0-14	240_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+2	empírica	empírico	AQ0FS0	-	-	15-23	240_ANS_clinical_caseMIR	SENT4	-	-
+3	por	por	SPS00	C0678226	atributo	24-27	240_ANS_clinical_caseMIR	SENT4	-	-
+4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	28-36	240_ANS_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332147_2	calificador_2	37-39	240_ANS_clinical_caseMIR	SENT4	-	-
+6	derrame	derrame	NCMS000	C0013687	anomalía_morfológica	40-47	240_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+7	parancumónico	parancumónico	AQ0MS00	-	-	48-61	240_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	61-62	240_ANS_clinical_caseMIR	SENT4	-	-
+
+1	Continuar	continuar	VMN0000	-	-	0-9	240_ANS_clinical_caseMIR	SENT5	-	-
+2	el	el	DA0MS0	-	-	10-12	240_ANS_clinical_caseMIR	SENT5	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	13-24	240_ANS_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	25-27	240_ANS_clinical_caseMIR	SENT5	-	-
+5	su	su	DP3CS0	-	-	28-30	240_ANS_clinical_caseMIR	SENT5	-	-
+6	hepatopatía	hepatopatía	NCFS000	C0023895#C0151763	trastorno	31-42	240_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+7	.	.	Fp	-	-	42-43	240_ANS_clinical_caseMIR	SENT5	-	-
+

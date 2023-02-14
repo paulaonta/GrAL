@@ -1,0 +1,104 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	452_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	452_QUEST_clinical_caseMIR	SENT1	-	-
+3	46	46		-	-	10-12	452_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	452_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	18-21	452_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	22-30	452_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	31-33	452_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencia	urgencia	NCFS000	C0439609	calificador	34-42	452_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	43-46	452_QUEST_clinical_caseMIR	SENT1	-	-
+10	dolor	dolor	NCMS000	C0232488_1	hallazgo_1	47-52	452_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	tipo	tipo	NCMS000	C0232488_2	hallazgo_2	53-57	452_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	cólico	cólico	NCMS000	C0232488_3	hallazgo_3	58-64	452_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+13	localizado	localizar	VMP00SM	C0332285_1	atributo_1	65-75	452_QUEST_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C0332285_2	atributo_2	76-78	452_QUEST_clinical_caseMIR	SENT1	-	-
+15	fosa	fosa	NCFS000	C0332471	anomalía_morfológica	79-83	452_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	iliaca	iliaco	AQ0FS0	-	-	84-90	452_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	izquierda	izquierda	NCFS000	-	-	91-100	452_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	,	,	Fc	-	-	100-101	452_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	102-105	452_QUEST_clinical_caseMIR	SENT1	-	-
+20	cierta	cierto	AQ0FS0	C0205423	calificador	106-112	452_QUEST_clinical_caseMIR	SENT1	-	-
+21	irradiación	irradiación	NCFS000	C1282930	fuerza_física	113-124	452_QUEST_clinical_caseMIR	SENT1	-	-
+22	hacia	hacia	SPS00	-	-	125-130	452_QUEST_clinical_caseMIR	SENT1	-	-
+23	escroto	escroto	NCMS000	C1280740#C0036471	estructura_corporal	131-138	452_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	.	.	Fp	-	-	138-139	452_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	140-142	452_QUEST_clinical_caseMIR	SENT2	-	-
+2	ha	haber	VAIP3S0	-	-	143-145	452_QUEST_clinical_caseMIR	SENT2	-	-
+3	tenido	tener	VMP00SM	-	-	146-152	452_QUEST_clinical_caseMIR	SENT2	-	-
+4	episodios	episodio	NCMP000	C0332189	atributo	153-162	452_QUEST_clinical_caseMIR	SENT2	-	-
+5	similares	similar	AQ0CP0	-	-	163-172	452_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	172-173	452_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	174-176	452_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	177-179	452_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	180-189	452_QUEST_clinical_caseMIR	SENT3	-	-
+4	,	,	Fc	-	-	189-190	452_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	191-193	452_QUEST_clinical_caseMIR	SENT3	-	-
+6	creatinina	creatinina	NC00SC0	C0010294	sustancia	194-204	452_QUEST_clinical_caseMIR	SENT3	-	-
+7	sérica	sérico	AQ0FS0	-	-	205-211	452_QUEST_clinical_caseMIR	SENT3	-	-
+8	es	ser	VSIP3S0	-	-	212-214	452_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	215-217	452_QUEST_clinical_caseMIR	SENT3	-	-
+10	0,9	0.9	Z	-	-	218-221	452_QUEST_clinical_caseMIR	SENT3	-	-
+11	mg	mg	NCMN000	-	-	222-224	452_QUEST_clinical_caseMIR	SENT3	-	-
+12	/	/	Fh	-	-	224-225	452_QUEST_clinical_caseMIR	SENT3	-	-
+13	dL	decilitro	NCMN000	C0439241	calificador	225-227	452_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	227-228	452_QUEST_clinical_caseMIR	SENT3	-	-
+15	leucocitos	leucocito	NCMP000	C0023516	célula	229-239	452_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	6.700/mm3	6.700/mm3		-	-	240-249	452_QUEST_clinical_caseMIR	SENT3	-	-
+17	y	y	CC	C1706368	calificador	250-251	452_QUEST_clinical_caseMIR	SENT3	-	-
+18	la	el	DA0FS0	-	-	252-254	452_QUEST_clinical_caseMIR	SENT3	-	-
+19	fórmula	fórmula	NCFS000	-	-	255-262	452_QUEST_clinical_caseMIR	SENT3	-	-
+20	leucocitaria	leucocitario	AQ0FS0	-	-	263-275	452_QUEST_clinical_caseMIR	SENT3	-	-
+21	es	ser	VSIP3S0	-	-	276-278	452_QUEST_clinical_caseMIR	SENT3	-	-
+22	normal	normal	AQ0CS0	C0205307	calificador	279-285	452_QUEST_clinical_caseMIR	SENT3	-	-
+23	En	en	SPS00	C1720294#C0332285	calificador#atributo	286-288	452_QUEST_clinical_caseMIR	SENT3	-	-
+24	el	el	DA0MS0	-	-	289-291	452_QUEST_clinical_caseMIR	SENT3	-	-
+25	sedimento	sedimento	NCMS000	C2945609#C1261248_1	hallazgo#sustancia_1	292-301	452_QUEST_clinical_caseMIR	SENT3	-	-
+26	urinario	urinario	NCMS000	C2945609#C1261248_2	hallazgo#sustancia_2	302-310	452_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+27	hay	haber	VMIP3S0	-	-	311-314	452_QUEST_clinical_caseMIR	SENT3	-	-
+28	12-15	12-15		-	-	315-320	452_QUEST_clinical_caseMIR	SENT3	-	-
+29	hematíes	hematíe	NCMP000	-	-	321-329	452_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+30	/	/	Fh	-	-	329-330	452_QUEST_clinical_caseMIR	SENT3	-	-
+31	campo	campo	NCMS000	-	-	330-335	452_QUEST_clinical_caseMIR	SENT3	-	-
+32	y	y	CC	C1706368	calificador	336-337	452_QUEST_clinical_caseMIR	SENT3	-	-
+33	el	el	DA0MS0	-	-	338-340	452_QUEST_clinical_caseMIR	SENT3	-	-
+34	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	341-343	452_QUEST_clinical_caseMIR	SENT3	-	-
+35	de	de	SPS00	C0332285	atributo	344-346	452_QUEST_clinical_caseMIR	SENT3	-	-
+36	la	el	DA0FS0	-	-	347-349	452_QUEST_clinical_caseMIR	SENT3	-	-
+37	orina	orina	NCFS000	C0042036	sustancia	350-355	452_QUEST_clinical_caseMIR	SENT3	-	-
+38	es	ser	VSIP3S0	-	-	356-358	452_QUEST_clinical_caseMIR	SENT3	-	-
+39	6	6		-	-	359-360	452_QUEST_clinical_caseMIR	SENT3	-	-
+40	.	.	Fp	-	-	360-361	452_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	362-364	452_QUEST_clinical_caseMIR	SENT4	-	-
+2	tiene	tener	VMIP3S0	-	-	365-370	452_QUEST_clinical_caseMIR	SENT4	-	-
+3	fiebre	fiebre	NCFS000	C0015967	hallazgo	371-377	452_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+4	y	y	CC	C1706368	calificador	378-379	452_QUEST_clinical_caseMIR	SENT4	-	-
+5	su	su	DP3CS0	-	-	380-382	452_QUEST_clinical_caseMIR	SENT4	-	-
+6	índice	índice	NCMS000	C1305855_1	entidad_observable_1	383-389	452_QUEST_clinical_caseMIR	SENT4	-	-
+7	de	de	SPS00	C1305855_2	entidad_observable_2	390-392	452_QUEST_clinical_caseMIR	SENT4	-	-
+8	masa	masa	NCFS000	C1305855_3	entidad_observable_3	393-397	452_QUEST_clinical_caseMIR	SENT4	-	-
+9	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	398-406	452_QUEST_clinical_caseMIR	SENT4	-	-
+10	(	(	Fpa	-	-	407-408	452_QUEST_clinical_caseMIR	SENT4	-	-
+11	IMC	imc	NC00SC0	C1305855	entidad_observable	408-411	452_QUEST_clinical_caseMIR	SENT4	-	-
+12	)	)	Fpt	-	-	411-412	452_QUEST_clinical_caseMIR	SENT4	-	-
+13	es	ser	VSIP3S0	-	-	413-415	452_QUEST_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	416-418	452_QUEST_clinical_caseMIR	SENT4	-	-
+15	25,5	25,5		-	-	419-423	452_QUEST_clinical_caseMIR	SENT4	-	-
+16	kg/m2	kg/m2		-	-	424-429	452_QUEST_clinical_caseMIR	SENT4	-	-
+17	¿	¿	Fia	-	-	430-431	452_QUEST_clinical_caseMIR	SENT4	-	-
+18	Que	que	CS	-	-	431-434	452_QUEST_clinical_caseMIR	SENT4	-	-
+19	prueba	prueba	NCFS000	-	-	435-441	452_QUEST_clinical_caseMIR	SENT4	-	-
+20	de	de	SPS00	C0332285	atributo	442-444	452_QUEST_clinical_caseMIR	SENT4	-	-
+21	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	445-451	452_QUEST_clinical_caseMIR	SENT4	-	-
+22	es	ser	VSIP3S0	-	-	452-454	452_QUEST_clinical_caseMIR	SENT4	-	-
+23	la	lo	PP3FSA00	C0205393_1	calificador_1	455-457	452_QUEST_clinical_caseMIR	SENT4	-	-
+24	más	más	RG	C0205393_2	calificador_2	458-461	452_QUEST_clinical_caseMIR	SENT4	-	-
+25	sensible	sensible	AQ0CS0	C0332324	calificador	462-470	452_QUEST_clinical_caseMIR	SENT4	-	-
+26	para	para	SPS00	C0521125	calificador	471-475	452_QUEST_clinical_caseMIR	SENT4	-	-
+27	realizar	realizar	VMN0000	-	-	476-484	452_QUEST_clinical_caseMIR	SENT4	-	-
+28	el	el	DA0MS0	-	-	485-487	452_QUEST_clinical_caseMIR	SENT4	-	-
+29	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	488-499	452_QUEST_clinical_caseMIR	SENT4	-	-
+30	?	?	Fit	-	-	499-500	452_QUEST_clinical_caseMIR	SENT4	-	-
+

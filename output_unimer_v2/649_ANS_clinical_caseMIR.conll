@@ -1,0 +1,21 @@
+1	Desprendimiento	desprendimiento	NCMS000	C0000832_1	trastorno_1	0-15	649_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	prematuro	prematuro	NCMS000	C0000832_2	trastorno_2	16-25	649_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	de	de	SPS00	C0000832_3	trastorno_3	26-28	649_ANS_clinical_caseMIR	SENT1	-	-
+4	placenta	placenta	NCFS000	C0000832_4	trastorno_4	29-37	649_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	normoinserta	normoinserta		C0000832_5	trastorno_5	38-50	649_ANS_clinical_caseMIR	SENT1	-	-
+6	.	.	Fp	-	-	50-51	649_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Rotura	rotura	NCFS000	-	-	0-6	649_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	uterina	uterino	AQ0FS0	-	-	7-14	649_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	14-15	649_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Rotura	rotura	NCFS000	-	-	0-6	649_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	7-9	649_ANS_clinical_caseMIR	SENT3	-	-
+3	vasos	vaso	NCMP000	C0042591	atributo	10-15	649_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	previos	previo	AQ0MP0	C0205156	calificador	16-23	649_ANS_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	23-24	649_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Placenta	placenta	NCFS000	C0032046_1	trastorno_1	0-8	649_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+2	previa	previo	AQ0FS0	C0032046_2	trastorno_2	9-15	649_ANS_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	15-16	649_ANS_clinical_caseMIR	SENT4	-	-
+

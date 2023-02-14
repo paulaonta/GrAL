@@ -1,0 +1,124 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	468_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	468_QUEST_clinical_caseMIR	SENT1	-	-
+3	35	35		-	-	10-12	468_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	468_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	468_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	468_QUEST_clinical_caseMIR	SENT1	-	-
+7	sin	sin	SPS00	C0332288	atributo	26-29	468_QUEST_clinical_caseMIR	SENT1	-	-
+8	antecedentes	antecedente	NCMP000	-	-	30-42	468_QUEST_clinical_caseMIR	SENT1	-	-
+9	patológicos	patológico	AQ0MP0	C1521733	calificador	43-54	468_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	55-57	468_QUEST_clinical_caseMIR	SENT1	-	-
+11	interés	interés	NCMS000	-	-	58-65	468_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	66-69	468_QUEST_clinical_caseMIR	SENT1	-	-
+13	acude	acudir	VMIP3S0	-	-	70-75	468_QUEST_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	76-77	468_QUEST_clinical_caseMIR	SENT1	-	-
+15	urgencias	urgencia	NCFP000	C0439609	calificador	78-87	468_QUEST_clinical_caseMIR	SENT1	-	-
+16	por	por	SPS00	C0678226	atributo	88-91	468_QUEST_clinical_caseMIR	SENT1	-	-
+17	presentar	presentar	VMN0000	-	-	92-101	468_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	102-104	468_QUEST_clinical_caseMIR	SENT1	-	-
+19	cuadro	cuadro	NCMS000	-	-	105-111	468_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	112-114	468_QUEST_clinical_caseMIR	SENT1	-	-
+21	inestabilidad	inestabilidad	NCFS000	C1444783#C0231444	anomalía_morfológica#hallazgo	115-128	468_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	tras	tras	SPS00	-	-	129-133	468_QUEST_clinical_caseMIR	SENT1	-	-
+23	un	un		C0205447_1	calificador_1	134-136	468_QUEST_clinical_caseMIR	SENT1	-	-
+24	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	137-145	468_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0332189#C1455761_2	atributo_2	146-148	468_QUEST_clinical_caseMIR	SENT1	-	-
+26	deposiciones	deposición	NCFP000	-	-	149-161	468_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	negras	negro	AQ0FP0	-	-	162-168	468_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+28	como	como	CS	C0332257	calificador	169-173	468_QUEST_clinical_caseMIR	SENT1	-	-
+29	el	el	DA0MS0	-	-	174-176	468_QUEST_clinical_caseMIR	SENT1	-	-
+30	alquitrán	alquitrán	NCMS000	C0039315	sustancia	177-186	468_QUEST_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	186-187	468_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	188-190	468_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	191-193	468_QUEST_clinical_caseMIR	SENT2	-	-
+3	sala	sala	NCFS000	C1305702	medio_ambiente	194-198	468_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	199-201	468_QUEST_clinical_caseMIR	SENT2	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	202-211	468_QUEST_clinical_caseMIR	SENT2	-	-
+6	se	se	P00CN000	-	-	212-214	468_QUEST_clinical_caseMIR	SENT2	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	215-223	468_QUEST_clinical_caseMIR	SENT2	-	-
+8	hipotensión	hipotensión	NCFS000	C0020649_1	trastorno_1	224-235	468_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	arterial	arterial	NC00SC0	C0020649_2	trastorno_2	236-244	468_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	que	que	PR0CN000	-	-	245-248	468_QUEST_clinical_caseMIR	SENT2	-	-
+11	se	se	P00CN000	-	-	249-251	468_QUEST_clinical_caseMIR	SENT2	-	-
+12	recupera	recuperar	VMIP3S0	-	-	252-260	468_QUEST_clinical_caseMIR	SENT2	-	-
+13	con	con	SPS00	C0332287	atributo	261-264	468_QUEST_clinical_caseMIR	SENT2	-	-
+14	fluidotera_x0002_pia	fluidotera_x0002_pia		-	-	265-285	468_QUEST_clinical_caseMIR	SENT2	-	-
+15	convencional	convencional	NCMS000	C0439858	calificador	286-298	468_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	298-299	468_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	300-311	468_QUEST_clinical_caseMIR	SENT3	-	-
+2	al	al	SP+DA	-	-	312-314	468_QUEST_clinical_caseMIR	SENT3	-	-
+3	ingreso	ingreso	NCMS000	-	-	315-322	468_QUEST_clinical_caseMIR	SENT3	-	-
+4	8	8	Z	-	-	323-324	468_QUEST_clinical_caseMIR	SENT3	-	-
+5	g	g	NCMN000	-	-	325-326	468_QUEST_clinical_caseMIR	SENT3	-	-
+6	/	/	Fh	-	-	326-327	468_QUEST_clinical_caseMIR	SENT3	-	-
+7	dL	decilitro	NCMN000	C0439241	calificador	327-329	468_QUEST_clinical_caseMIR	SENT3	-	-
+8	,	,	Fc	-	-	329-330	468_QUEST_clinical_caseMIR	SENT3	-	-
+9	hematocrito	hematocrito	VMP00SM	-	-	331-342	468_QUEST_clinical_caseMIR	SENT3	-	-
+10	25	25	Z	-	-	343-345	468_QUEST_clinical_caseMIR	SENT3	-	-
+11	%	%	Ft	-	-	346-347	468_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	347-348	468_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	349-351	468_QUEST_clinical_caseMIR	SENT4	-	-
+2	los	el	DA0MP0	-	-	352-355	468_QUEST_clinical_caseMIR	SENT4	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	356-366	468_QUEST_clinical_caseMIR	SENT4	-	-
+4	días	día	NCMP000	C0439228#C0332169	calificador	367-371	468_QUEST_clinical_caseMIR	SENT4	-	-
+5	continúa	continuar	VMIP3S0	-	-	372-380	468_QUEST_clinical_caseMIR	SENT4	-	-
+6	con	con	SPS00	C0332287	atributo	381-384	468_QUEST_clinical_caseMIR	SENT4	-	-
+7	episodios	episodio	NCMP000	C0332189	atributo	385-394	468_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	melénicos	melénicos	AQ0MP00	-	-	395-404	468_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	405-406	468_QUEST_clinical_caseMIR	SENT4	-	-
+10	descenso	descenso	NCMS000	-	-	407-415	468_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+11	del	del	SP+DA	-	-	416-419	468_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+12	hematocrito	hematocrito	NCMS000	-	-	420-431	468_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+13	que	que	PR0CN000	-	-	432-435	468_QUEST_clinical_caseMIR	SENT4	-	-
+14	necesitan	necesitar	VMIP3P0	-	-	436-445	468_QUEST_clinical_caseMIR	SENT4	-	-
+15	la	el	DA0FS0	-	-	446-448	468_QUEST_clinical_caseMIR	SENT4	-	-
+16	trasfusión	trasfusión	NCFS000	-	-	449-459	468_QUEST_clinical_caseMIR	SENT4	-	-
+17	de	de	SPS00	C0332285	atributo	460-462	468_QUEST_clinical_caseMIR	SENT4	-	-
+18	3	3		-	-	463-464	468_QUEST_clinical_caseMIR	SENT4	-	-
+19	concentrados	concentrar	VMP00PM	-	-	465-477	468_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+20	de	de	SPS00	C0332285	atributo	478-480	468_QUEST_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+21	hematíes	hematíe	NCMP000	-	-	481-489	468_QUEST_clinical_caseMIR	SENT4	I-Grp_Medicamento	-
+22	.	.	Fp	-	-	489-490	468_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	491-493	468_QUEST_clinical_caseMIR	SENT5	-	-
+2	practicó	practicar	VMIS3S0	-	-	494-502	468_QUEST_clinical_caseMIR	SENT5	-	-
+3	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	503-515	468_QUEST_clinical_caseMIR	SENT5	-	-
+4	y	y	CC	C1706368	calificador	516-517	468_QUEST_clinical_caseMIR	SENT5	-	-
+5	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	518-528	468_QUEST_clinical_caseMIR	SENT5	-	-
+6	digestiva	digestivo	AQ0FS0	C0012237	sustancia	529-538	468_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+7	alta	alto	AQ0FS0	C0205250	calificador	539-543	468_QUEST_clinical_caseMIR	SENT5	-	-
+8	,	,	Fc	-	-	543-544	468_QUEST_clinical_caseMIR	SENT5	-	-
+9	no	no	RN	C1298908	calificador	545-547	468_QUEST_clinical_caseMIR	SENT5	-	-
+10	encontrando	encontrar	VMG0000	-	-	548-559	468_QUEST_clinical_caseMIR	SENT5	-	-
+11	causa	causa	NCFS000	-	-	560-565	468_QUEST_clinical_caseMIR	SENT5	-	-
+12	alguna	alguno	PI0FS000	C0205392	calificador	566-572	468_QUEST_clinical_caseMIR	SENT5	-	-
+13	de	de	SPS00	C0332285	atributo	573-575	468_QUEST_clinical_caseMIR	SENT5	-	-
+14	su	su	DP3CS0	-	-	576-578	468_QUEST_clinical_caseMIR	SENT5	-	-
+15	cuadro	cuadro	NCMS000	-	-	579-585	468_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+16	hemorrágico	hemorrágico	AQ0MS0	C0333275	calificador	586-597	468_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+17	.	.	Fp	-	-	597-598	468_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Tras	tras	SPS00	-	-	599-603	468_QUEST_clinical_caseMIR	SENT6	-	-
+2	una	una		C0205447_1	calificador_1	604-607	468_QUEST_clinical_caseMIR	SENT6	-	-
+3	semana	semana	NCFS000	C0439230	calificador	608-614	468_QUEST_clinical_caseMIR	SENT6	-	-
+4	de	de	SPS00	C0332285	atributo	615-617	468_QUEST_clinical_caseMIR	SENT6	-	-
+5	ingreso	ingreso	NCMS000	C0184666_1	procedimiento_1	618-625	468_QUEST_clinical_caseMIR	SENT6	-	-
+6	hospitalario	hospitalario	NC00SC0	C0184666_2	procedimiento_2	626-638	468_QUEST_clinical_caseMIR	SENT6	-	-
+7	y	y	CC	C1706368	calificador	639-640	468_QUEST_clinical_caseMIR	SENT6	-	-
+8	la	el	DA0FS0	-	-	641-643	468_QUEST_clinical_caseMIR	SENT6	-	-
+9	trasfusión	trasfusión	NCFS000	-	-	644-654	468_QUEST_clinical_caseMIR	SENT6	-	-
+10	de	de	SPS00	C0332285	atributo	655-657	468_QUEST_clinical_caseMIR	SENT6	-	-
+11	4	4		-	-	658-659	468_QUEST_clinical_caseMIR	SENT6	-	-
+12	unidades	unidad	NCFP000	C0439148	calificador	660-668	468_QUEST_clinical_caseMIR	SENT6	-	-
+13	de	de	SPS00	C0332285	atributo	669-671	468_QUEST_clinical_caseMIR	SENT6	-	-
+14	concentrados	concentrar	VMP00PM	-	-	672-684	468_QUEST_clinical_caseMIR	SENT6	B-Grp_Medicamento	-
+15	de	de	SPS00	C0332285	atributo	685-687	468_QUEST_clinical_caseMIR	SENT6	I-Grp_Medicamento	-
+16	hematíes	hematíe	NCMP000	-	-	688-696	468_QUEST_clinical_caseMIR	SENT6	I-Grp_Medicamento	-
+17	continúa	continuar	VMIP3S0	-	-	697-705	468_QUEST_clinical_caseMIR	SENT6	-	-
+18	con	con	SPS00	C0332287	atributo	706-709	468_QUEST_clinical_caseMIR	SENT6	-	-
+19	melenas	melena	NCFP000	C0025222#C0222048	trastorno#estructura_corporal	710-717	468_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+20	.	.	Fp	-	-	717-718	468_QUEST_clinical_caseMIR	SENT6	-	-
+

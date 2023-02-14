@@ -1,0 +1,94 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	587_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	587_QUEST_clinical_caseMIR	SENT1	-	-
+3	75	75		-	-	10-12	587_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	587_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	587_QUEST_clinical_caseMIR	SENT1	-	-
+6	recibe	recibir	VMIP3S0	-	-	22-28	587_QUEST_clinical_caseMIR	SENT1	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	29-40	587_QUEST_clinical_caseMIR	SENT1	-	-
+8	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	41-55	587_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	con	con	SPS00	C0332287	atributo	56-59	587_QUEST_clinical_caseMIR	SENT1	-	-
+10	dabigatrán	dabigatrán	VMIF3P0	-	-	60-70	587_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	por	por	SPS00	C0678226	atributo	71-74	587_QUEST_clinical_caseMIR	SENT1	-	-
+12	una	una		C0205447_1	calificador_1	75-78	587_QUEST_clinical_caseMIR	SENT1	-	-
+13	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	79-90	587_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	auricular	auricular	NCMS000	C0004238_2	trastorno_2	91-100	587_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	.	.	Fp	-	-	100-101	587_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	102-107	587_QUEST_clinical_caseMIR	SENT2	-	-
+2	al	al	SP+DA	-	-	108-110	587_QUEST_clinical_caseMIR	SENT2	-	-
+3	servicio	servicio	NCMS000	-	-	111-119	587_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	120-122	587_QUEST_clinical_caseMIR	SENT2	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	123-132	587_QUEST_clinical_caseMIR	SENT2	-	-
+6	por	por	SPS00	C0678226	atributo	133-136	587_QUEST_clinical_caseMIR	SENT2	-	-
+7	hemorragia	hemorragia	NCFS000	C0017181_1	trastorno_1	137-147	587_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	digestiva	digestivo	AQ0FS0	C0017181_2	trastorno_2	148-157	587_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	158-160	587_QUEST_clinical_caseMIR	SENT2	-	-
+10	forma	forma	NCFS000	C0348078	atributo	161-166	587_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	167-169	587_QUEST_clinical_caseMIR	SENT2	-	-
+12	melenas	melena	NCFP000	C0025222#C0222048	trastorno#estructura_corporal	170-177	587_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	.	.	Fp	-	-	177-178	587_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	179-181	587_QUEST_clinical_caseMIR	SENT3	-	-
+2	realiza	realizar	VMIP3S0	-	-	182-189	587_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	190-199	587_QUEST_clinical_caseMIR	SENT3	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	200-202	587_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	203-205	587_QUEST_clinical_caseMIR	SENT3	-	-
+6	que	que	PR0CN000	-	-	206-209	587_QUEST_clinical_caseMIR	SENT3	-	-
+7	presenta	presentar	VMIP3S0	-	-	210-218	587_QUEST_clinical_caseMIR	SENT3	-	-
+8	Hb	hb	NC00YL0	-	-	219-221	587_QUEST_clinical_caseMIR	SENT3	-	-
+9	6,8	6.8	Z	-	-	222-225	587_QUEST_clinical_caseMIR	SENT3	-	-
+10	g	g	NCMN000	-	-	226-227	587_QUEST_clinical_caseMIR	SENT3	-	-
+11	/	/	Fh	-	-	227-228	587_QUEST_clinical_caseMIR	SENT3	-	-
+12	dL	decilitro	NCMN000	C0439241	calificador	228-230	587_QUEST_clinical_caseMIR	SENT3	-	-
+13	,	,	Fc	-	-	230-231	587_QUEST_clinical_caseMIR	SENT3	-	-
+14	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	232-241	587_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+15	234.000/mm3	234.000/mm3		-	-	242-253	587_QUEST_clinical_caseMIR	SENT3	-	-
+16	,	,	Fc	-	-	253-254	587_QUEST_clinical_caseMIR	SENT3	-	-
+17	creatinina	creatinina	NC00SC0	C0010294	sustancia	255-265	587_QUEST_clinical_caseMIR	SENT3	-	-
+18	1,5	1.5	Z	-	-	266-269	587_QUEST_clinical_caseMIR	SENT3	-	-
+19	mg	mg	NCMN000	-	-	270-272	587_QUEST_clinical_caseMIR	SENT3	-	-
+20	/	/	Fh	-	-	272-273	587_QUEST_clinical_caseMIR	SENT3	-	-
+21	dL	decilitro	NCMN000	C0439241	calificador	273-275	587_QUEST_clinical_caseMIR	SENT3	-	-
+22	,	,	Fc	-	-	275-276	587_QUEST_clinical_caseMIR	SENT3	-	-
+23	TTPa	tiempo_de_tromboplastina_parcial_activado	NC00YL0	-	-	277-281	587_QUEST_clinical_caseMIR	SENT3	-	-
+24	60	60		-	-	282-284	587_QUEST_clinical_caseMIR	SENT3	-	-
+25	segundos	segundo	NCMP000	C0205436	calificador	285-293	587_QUEST_clinical_caseMIR	SENT3	-	-
+26	,	,	Fc	-	-	293-294	587_QUEST_clinical_caseMIR	SENT3	-	-
+27	tiempo	tiempo	NCMS000	C0677634_1	procedimiento_1	295-301	587_QUEST_clinical_caseMIR	SENT3	-	-
+28	de	de	SPS00	C0677634_2	procedimiento_2	302-304	587_QUEST_clinical_caseMIR	SENT3	-	-
+29	trombina	trombina	NCFS000	C0677634_3	procedimiento_3	305-313	587_QUEST_clinical_caseMIR	SENT3	-	-
+30	100	100		-	-	314-317	587_QUEST_clinical_caseMIR	SENT3	-	-
+31	segundos	segundo	NCMP000	C0205436	calificador	318-326	587_QUEST_clinical_caseMIR	SENT3	-	-
+32	.	.	Fp	-	-	326-327	587_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Ha	haber	VAIP3S0	-	-	328-330	587_QUEST_clinical_caseMIR	SENT4	-	-
+2	tomado	tomar	VMP00SM	C1515187	calificador	331-337	587_QUEST_clinical_caseMIR	SENT4	-	-
+3	la	el	DA0FS0	-	-	338-340	587_QUEST_clinical_caseMIR	SENT4	-	-
+4	última	último	AO0FS0	-	-	341-347	587_QUEST_clinical_caseMIR	SENT4	-	-
+5	dosis	dosis	NCFN000	-	-	348-353	587_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	354-356	587_QUEST_clinical_caseMIR	SENT4	-	-
+7	dabigatrán	dabigatrán	VMIF3P0	-	-	357-367	587_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+8	hace	hacer	VMIP3S0	-	-	368-372	587_QUEST_clinical_caseMIR	SENT4	-	-
+9	4	4	Z	C1292426_1	calificador_1	373-374	587_QUEST_clinical_caseMIR	SENT4	-	-
+10	horas	hora	NCFP000	C1292426_2	calificador_2	375-380	587_QUEST_clinical_caseMIR	SENT4	-	-
+11	y	y	CC	C1706368	calificador	381-382	587_QUEST_clinical_caseMIR	SENT4	-	-
+12	precisa	precisar	VMIP3S0	-	-	383-390	587_QUEST_clinical_caseMIR	SENT4	-	-
+13	realización	realización	NCFS000	-	-	391-402	587_QUEST_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	403-405	587_QUEST_clinical_caseMIR	SENT4	-	-
+15	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	406-416	587_QUEST_clinical_caseMIR	SENT4	-	-
+16	urgente	urgente	AQ0CS0	C0439609	calificador	417-424	587_QUEST_clinical_caseMIR	SENT4	-	-
+17	.	.	Fp	-	-	424-425	587_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	426-427	587_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	427-430	587_QUEST_clinical_caseMIR	SENT5	-	-
+3	fármaco	fármaco	NCMS000	C0013227	sustancia	431-438	587_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	utilizar	utilizar	VMN0000	-	-	439-447	587_QUEST_clinical_caseMIR	SENT5	-	-
+5	la	lo	PP3FSA00	-	-	447-449	587_QUEST_clinical_caseMIR	SENT5	-	-
+6	para	para	SPS00	C0521125	calificador	450-454	587_QUEST_clinical_caseMIR	SENT5	-	-
+7	revertir	revertir	VMN0000	-	-	455-463	587_QUEST_clinical_caseMIR	SENT5	-	-
+8	el	el	DA0MS0	-	-	464-466	587_QUEST_clinical_caseMIR	SENT5	-	-
+9	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	467-473	587_QUEST_clinical_caseMIR	SENT5	-	-
+10	del	del	SP+DA	-	-	474-477	587_QUEST_clinical_caseMIR	SENT5	-	-
+11	dabigatrán	dabigatrán	VMIF3P0	-	-	478-488	587_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+12	?	?	Fit	-	-	488-489	587_QUEST_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,93 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	575_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	575_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	575_QUEST_clinical_caseMIR	SENT1	-	-
+4	43	43		-	-	13-15	575_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	575_QUEST_clinical_caseMIR	SENT1	-	-
+6	refiere	referir	VMIP3S0	-	-	21-28	575_QUEST_clinical_caseMIR	SENT1	-	-
+7	cuadros	cuadro	NCMP000	-	-	29-36	575_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	37-39	575_QUEST_clinical_caseMIR	SENT1	-	-
+9	dificultad	dificultad	NCFS000	C1299586#C0332218	calificador	40-50	575_QUEST_clinical_caseMIR	SENT1	-	-
+10	para	para	SPS00	C0521125	calificador	51-55	575_QUEST_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	56-58	575_QUEST_clinical_caseMIR	SENT1	-	-
+12	ingesta	ingesta	NCFS000	-	-	59-66	575_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	67-69	575_QUEST_clinical_caseMIR	SENT1	-	-
+14	sólidos	sólido	NCMP000	C0302909#C0205208	sustancia#calificador	70-77	575_QUEST_clinical_caseMIR	SENT1	-	-
+15	desde	desde	SPS00	-	-	78-83	575_QUEST_clinical_caseMIR	SENT1	-	-
+16	hace	hacer	VMIP3S0	-	-	84-88	575_QUEST_clinical_caseMIR	SENT1	-	-
+17	años	año	NCMP000	C0439234	calificador	89-93	575_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	93-94	575_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	95-97	575_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	98-100	575_QUEST_clinical_caseMIR	SENT2	-	-
+3	último	último	AO0MS0	-	-	101-107	575_QUEST_clinical_caseMIR	SENT2	-	-
+4	año	año	NCMS000	C0439234	calificador	108-111	575_QUEST_clinical_caseMIR	SENT2	-	-
+5	estos	este	DD0MP0	-	-	112-117	575_QUEST_clinical_caseMIR	SENT2	-	-
+6	cuadros	cuadro	NCMP000	-	-	118-125	575_QUEST_clinical_caseMIR	SENT2	-	-
+7	se	se	P00CN000	-	-	126-128	575_QUEST_clinical_caseMIR	SENT2	-	-
+8	han	haber	VAIP3P0	-	-	129-132	575_QUEST_clinical_caseMIR	SENT2	-	-
+9	intensificado	intensificar	VMP00SM	-	-	133-146	575_QUEST_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	147-148	575_QUEST_clinical_caseMIR	SENT2	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	149-151	575_QUEST_clinical_caseMIR	SENT2	-	-
+12	ocasiones	ocasión	NCFP000	-	-	152-161	575_QUEST_clinical_caseMIR	SENT2	-	-
+13	se	se	P00CN000	-	-	162-164	575_QUEST_clinical_caseMIR	SENT2	-	-
+14	acompañan	acompañar	VMIP3P0	-	-	165-174	575_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	175-177	575_QUEST_clinical_caseMIR	SENT2	-	-
+16	dolor	dolor	NCMS000	C0030193	hallazgo	178-183	575_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	torácico	torácico	NC00SC0	C0817096	calificador	184-192	575_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	192-193	575_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Ha	haber	VAIP3S0	-	-	194-196	575_QUEST_clinical_caseMIR	SENT3	-	-
+2	perdido	perder	VMP00SM	-	-	197-204	575_QUEST_clinical_caseMIR	SENT3	-	-
+3	4	4		-	-	205-206	575_QUEST_clinical_caseMIR	SENT3	-	-
+4	a	a	SPS00	-	-	207-208	575_QUEST_clinical_caseMIR	SENT3	-	-
+5	5	5	Z	-	-	209-210	575_QUEST_clinical_caseMIR	SENT3	-	-
+6	Kg	kg	NCMN000	-	-	211-213	575_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	214-216	575_QUEST_clinical_caseMIR	SENT3	-	-
+8	peso	peso	NCMS000	C0043100	calificador	217-221	575_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	221-222	575_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Aporta	aportar	VMIP3S0	-	-	223-229	575_QUEST_clinical_caseMIR	SENT4	-	-
+2	gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	230-242	575_QUEST_clinical_caseMIR	SENT4	-	-
+3	:	:	Fd	-	-	242-243	575_QUEST_clinical_caseMIR	SENT4	-	-
+4	restos	resto	NCMP000	-	-	244-250	575_QUEST_clinical_caseMIR	SENT4	-	-
+5	alimentarios	alimentario	AQ0MP0	-	-	251-263	575_QUEST_clinical_caseMIR	SENT4	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	264-266	575_QUEST_clinical_caseMIR	SENT4	-	-
+7	esófago	esófago	NCMS000	C1278919#C0014876	estructura_corporal	267-274	575_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	;	;	Fx	-	-	274-275	575_QUEST_clinical_caseMIR	SENT4	-	-
+9	estómago	estómago	NCMS000	C3714551#C1278920	estructura_corporal	276-284	575_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	y	y	CC	C1706368	calificador	285-286	575_QUEST_clinical_caseMIR	SENT4	-	-
+11	duodeno	duodeno	NCMS000	C1278921#C0013303	estructura_corporal	287-294	575_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+12	sin	sin	SPS00	C0332288	atributo	295-298	575_QUEST_clinical_caseMIR	SENT4	-	-
+13	alteraciones	alteración	NCFP000	-	-	299-311	575_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	311-312	575_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Se	se	P00CN000	-	-	313-315	575_QUEST_clinical_caseMIR	SENT5	-	-
+2	completa	completar	VMIP3S0	-	-	316-324	575_QUEST_clinical_caseMIR	SENT5	-	-
+3	el	el	DA0MS0	-	-	325-327	575_QUEST_clinical_caseMIR	SENT5	-	-
+4	estudio	estudio	NCMS000	C0557651	medio_ambiente	328-335	575_QUEST_clinical_caseMIR	SENT5	-	-
+5	con	con	SPS00	C0332287	atributo	336-339	575_QUEST_clinical_caseMIR	SENT5	-	-
+6	la	el	DA0FS0	-	-	340-342	575_QUEST_clinical_caseMIR	SENT5	-	-
+7	realización	realización	NCFS000	-	-	343-354	575_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	355-357	575_QUEST_clinical_caseMIR	SENT5	-	-
+9	manometría	manometría	NCFS000	C0199873_1	procedimiento_1	358-368	575_QUEST_clinical_caseMIR	SENT5	-	-
+10	esofágica	esofágico	AQ0FS0	C0199873_2	procedimiento_2	369-378	575_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+11	.	.	Fp	-	-	378-379	575_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	380-381	575_QUEST_clinical_caseMIR	SENT6	-	-
+2	Qué	qué	DT0CN0	-	-	381-384	575_QUEST_clinical_caseMIR	SENT6	-	-
+3	alteración	alteración	NCFS000	-	-	385-395	575_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0332285	atributo	396-398	575_QUEST_clinical_caseMIR	SENT6	-	-
+5	las	el	DA0FP0	-	-	399-402	575_QUEST_clinical_caseMIR	SENT6	-	-
+6	que	que	PR0CN000	-	-	403-406	575_QUEST_clinical_caseMIR	SENT6	-	-
+7	se	se	P00CN000	-	-	407-409	575_QUEST_clinical_caseMIR	SENT6	-	-
+8	describen	describir	VMIP3P0	-	-	410-419	575_QUEST_clinical_caseMIR	SENT6	-	-
+9	a	a	SPS00	-	-	420-421	575_QUEST_clinical_caseMIR	SENT6	-	-
+10	continuación	continuación	NCFS000	-	-	422-434	575_QUEST_clinical_caseMIR	SENT6	-	-
+11	,	,	Fc	-	-	434-435	575_QUEST_clinical_caseMIR	SENT6	-	-
+12	cree	creer	VMIP3S0	-	-	436-440	575_QUEST_clinical_caseMIR	SENT6	-	-
+13	que	que	CS	-	-	441-444	575_QUEST_clinical_caseMIR	SENT6	-	-
+14	presenta	presentar	VMIP3S0	-	-	445-453	575_QUEST_clinical_caseMIR	SENT6	-	-
+15	la	el	DA0FS0	-	-	454-456	575_QUEST_clinical_caseMIR	SENT6	-	-
+16	paciente	paciente	NCCS000	C0030705	persona	457-465	575_QUEST_clinical_caseMIR	SENT6	-	-
+17	?	?	Fit	-	-	465-466	575_QUEST_clinical_caseMIR	SENT6	-	-
+

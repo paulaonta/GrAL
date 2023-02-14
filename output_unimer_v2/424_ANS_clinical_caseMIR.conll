@@ -1,0 +1,32 @@
+1	Trastorno	trastorno	NCMS000	C0011581#C1269683#C0025193_1	trastorno_1	0-9	424_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	depresivo	depresivo	NCMS000	C0011581#C1269683#C0025193_2	trastorno_2	10-19	424_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	secundario	secundario	NCMS000	C0175668_1	calificador_1	20-30	424_ANS_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	C0175668_2	calificador_2	31-32	424_ANS_clinical_caseMIR	SENT1	-	-
+5	fármacos	fármaco	NCMP000	C0013227	sustancia	33-41	424_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	que	que	CS	-	-	42-45	424_ANS_clinical_caseMIR	SENT1	-	-
+7	pueda	poder	VMSP3S0	-	-	46-51	424_ANS_clinical_caseMIR	SENT1	-	-
+8	estar	estar	VAN0000	-	-	52-57	424_ANS_clinical_caseMIR	SENT1	-	-
+9	tomando	tomar	VMG0000	C1515187	calificador	58-65	424_ANS_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	66-68	424_ANS_clinical_caseMIR	SENT1	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	69-77	424_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	77-78	424_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Trastorno	trastorno	NCMS000	C0011581#C1269683#C0025193_1	trastorno_1	0-9	424_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	depresivo	depresivo	NCMS000	C0011581#C1269683#C0025193_2	trastorno_2	10-19	424_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+3	secundario	secundario	NCMS000	C0175668_1	calificador_1	20-30	424_ANS_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	C0175668_2	calificador_2	31-32	424_ANS_clinical_caseMIR	SENT2	-	-
+5	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	33-45	424_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	orgánicas	orgánico	AQ0FP0	-	-	46-55	424_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+7	diagnosticadas	diagnosticar	VMP00PF	-	-	56-70	424_ANS_clinical_caseMIR	SENT2	-	-
+8	previamente	previamente	RG	-	-	71-82	424_ANS_clinical_caseMIR	SENT2	-	-
+9	o	o	CC	-	-	83-84	424_ANS_clinical_caseMIR	SENT2	-	-
+10	no	no	RN	C1298908	calificador	85-87	424_ANS_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	87-88	424_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Pseudodemencia	pseudodemencia	NC00SC0	C0033797	hallazgo	0-14	424_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+2	depresiva	depresivo	NCFS000	-	-	15-24	424_ANS_clinical_caseMIR	SENT3	B-Calificador	-
+3	.	.	Fp	-	-	24-25	424_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Delirium	delirium	NCMS000	-	-	0-8	424_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+2	.	.	Fp	-	-	8-9	424_ANS_clinical_caseMIR	SENT4	-	-
+

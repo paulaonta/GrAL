@@ -1,0 +1,32 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	241_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	241_QUEST_clinical_caseMIR	SENT1	-	-
+3	65	65		-	-	10-12	241_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	241_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	241_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedente	antecedente	NCMS000	C0332119_1	situación_1	22-33	241_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	241_QUEST_clinical_caseMIR	SENT1	-	-
+8	neoplasia	neoplasia	NCFS000	C0030297_1	trastorno_1	37-46	241_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	de	de	SPS00	C0030297_2	trastorno_2	47-49	241_QUEST_clinical_caseMIR	SENT1	-	-
+10	páncreas	páncreas	NCMN000	C0030297_3	trastorno_3	50-58	241_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	en	en	SPS00	C0521116_1	calificador_1	59-61	241_QUEST_clinical_caseMIR	SENT1	-	-
+12	curso	curso	NCMS000	C0521116_2	calificador_2	62-67	241_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	68-70	241_QUEST_clinical_caseMIR	SENT1	-	-
+14	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	71-84	241_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	.	.	Fp	-	-	84-85	241_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	86-94	241_QUEST_clinical_caseMIR	SENT2	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	95-97	241_QUEST_clinical_caseMIR	SENT2	-	-
+3	Urgencias	urgencia	NCFP000	C0439609	calificador	98-107	241_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	108-111	241_QUEST_clinical_caseMIR	SENT2	-	-
+5	dolor	dolor	NCMS000	C0030193	hallazgo	112-117	241_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	y	y	CC	C1706368	calificador	118-119	241_QUEST_clinical_caseMIR	SENT2	-	-
+7	edema	edema	NCMS000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	120-125	241_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	126-128	241_QUEST_clinical_caseMIR	SENT2	-	-
+9	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	129-133	241_QUEST_clinical_caseMIR	SENT2	-	-
+10	el	el	DA0MS0	-	-	134-136	241_QUEST_clinical_caseMIR	SENT2	-	-
+11	miembro	miembro	NCMS000	C1269079#C0023216_1	estructura_corporal_1	137-144	241_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+12	inferior	inferior	NCCS000	C1269079#C0023216_2	estructura_corporal_2	145-153	241_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+13	desde	desde	SPS00	-	-	154-159	241_QUEST_clinical_caseMIR	SENT2	-	-
+14	ingle	ingle	NCFS000	C0018246	estructura_corporal	160-165	241_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+15	.	.	Fp	-	-	165-166	241_QUEST_clinical_caseMIR	SENT2	-	-
+

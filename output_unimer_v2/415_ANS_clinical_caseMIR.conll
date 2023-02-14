@@ -1,0 +1,25 @@
+1	Cariotipo	cariotipo	NCMS000	C0022526	procedimiento	0-9	415_ANS_clinical_caseMIR	SENT1	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	10-12	415_ANS_clinical_caseMIR	SENT1	-	-
+3	ambos	ambos	DI0MP0	C0238767	calificador	13-18	415_ANS_clinical_caseMIR	SENT1	-	-
+4	miembros	miembro	NCMP000	C0015385	estructura_corporal	19-27	415_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	28-30	415_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	31-33	415_ANS_clinical_caseMIR	SENT1	-	-
+7	pareja	pareja	NCFS000	-	-	34-40	415_ANS_clinical_caseMIR	SENT1	-	-
+8	.	.	Fp	-	-	40-41	415_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Histeroscopia	histeroscopia	NC00SC0	C0020710	procedimiento	0-13	415_ANS_clinical_caseMIR	SENT2	-	-
+2	.	.	Fp	-	-	13-14	415_ANS_clinical_caseMIR	SENT2	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	415_ANS_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	415_ANS_clinical_caseMIR	SENT3	-	-
+3	trombofilias	trombofilias	NCFP000	-	-	11-23	415_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	.	.	Fp	-	-	23-24	415_ANS_clinical_caseMIR	SENT3	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	415_ANS_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	415_ANS_clinical_caseMIR	SENT4	-	-
+3	reserva	reservar	VMM02S0	-	-	11-18	415_ANS_clinical_caseMIR	SENT4	-	-
+4	folicular	folicular	AQ0CS0	C0439682	calificador	19-28	415_ANS_clinical_caseMIR	SENT4	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	415_ANS_clinical_caseMIR	SENT4	-	-
+6	ovario	ovario	NCMS000	C1278992#C0029939	estructura_corporal	32-38	415_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	38-39	415_ANS_clinical_caseMIR	SENT4	-	-
+
