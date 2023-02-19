@@ -1,0 +1,30 @@
+1	Toxina	toxina	NCFS000	C0040549	sustancia	0-6	572_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	del	del	SP+DA	-	-	7-10	572_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	Stafilococcus	stafilococcus	NCMN000	-	-	11-24	572_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	aureus	aureus	NCMN000	-	-	25-31	572_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	3	30	MultiE
+5	.	.	Fp	-	-	31-32	572_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Coxsackie	coxsackie	NCFS000	-	-	0-9	572_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	B	b	NCFS000	-	-	10-11	572_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	3073	Modif
+3	4	4		-	-	12-13	572_ANS_clinical_caseMIR	SENT2	I-Calificador	-	2	24	MultiE
+4	.	.	Fp	-	-	13-14	572_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Minociclina	minociclina	NC00SC0	C0026187	sustancia	0-11	572_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	.	.	Fp	-	-	11-12	572_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0042776	organismo	0-5	572_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	difícil	difícil	AQ0CS0	C0332218	calificador	6-13	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	filiar	filiar	VMN0000	-	-	17-23	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	,	,	Fc	-	-	23-24	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	posiblemente	posiblemente	RG	C2362652	calificador	25-37	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	el	el	DA0MS0	-	-	38-40	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	mismo	mismo	AQ0MS0	C0445247	calificador	41-46	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	que	que	CS	-	-	47-50	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	el	el	DA0MS0	-	-	51-53	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	cuadro	cuadro	NCMS000	-	-	54-60	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	61-63	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	la	el	DA0FS0	-	-	64-66	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	guardería	guardería	NCFS000	C0562990	medio_ambiente	67-76	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	76-77	572_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

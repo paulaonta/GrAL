@@ -1,0 +1,45 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	37	37		-	-	9-11	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	afecta	afectar	VMIP3S0	-	-	17-23	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	24-26	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	27-30	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	colitis	colitis	NCFN000	C0009324#C2919828_1	trastorno_1	31-38	201_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	ulcerosa	ulceroso	AQ0FS0	C0009324#C2919828_2	trastorno_2	39-47	201_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	4488	Modif
+10	extensa	extenso	AQ0FS0	-	-	48-55	201_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	4488	Modif
+11	,	,	Fc	-	-	55-56	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	presenta	presentar	VMIP3S0	-	-	57-65	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	un	un		C0205447_1	calificador_1	66-68	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	brote	brote	NCMS000	-	-	69-74	201_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	grave	grave	AQ0CS0	C0439808#C0205082	calificador	75-80	201_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	14	4488	Modif
+16	por	por	SPS00	C0678226	atributo	81-84	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	el	el	DA0MS0	-	-	85-87	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	que	que	PR0CN000	-	-	88-91	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	se	se	P00CN000	-	-	92-94	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	inicia	iniciar	VMIP3S0	-	-	95-101	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	102-113	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	con	con	SPS00	C0332287	atributo	114-117	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	prednisona	prednisona	NCFS000	C0032952	sustancia	118-128	201_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	129-131	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	dosis	dosis	NCFN000	-	-	132-137	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	138-140	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	1	1	Z	-	-	141-142	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	mg	mg	NCMN000	-	-	143-145	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	/	/	Fh	-	-	145-146	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	Kg	kilogramo	NCMN000	C0439209	calificador	146-148	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	.	.	Fp	-	-	148-149	201_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	150-154	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	155-158	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	semana	semana	NCFS000	C0439230	calificador	159-165	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	166-168	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	169-180	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	,	,	Fc	-	-	180-181	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	la	el	DA0FS0	-	-	182-184	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	185-193	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	no	no	RN	C1298908	calificador	194-196	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	presenta	presentar	VMIP3S0	-	-	197-205	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	mejoría	mejoría	NCFS000	-	-	206-213	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	.	.	Fp	-	-	213-214	201_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

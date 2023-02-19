@@ -1,0 +1,19 @@
+1	Osteosarcoma	osteosarcoma	NC00SC0	C0029463#C1704328	anomalía_morfológica	0-12	250_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	12-13	250_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tumor	tumor	NCMS000	C0017525_1	calificador#trastorno_1	0-5	250_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0017525_2	calificador#trastorno_2	6-8	250_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	células	célula	NCFP000	C0017525_3	calificador#trastorno_3	9-16	250_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	4682	LOC
+4	gigantes	gigante	NCCP000	C0017525_4	calificador#trastorno_4	17-25	250_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	25-26	250_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Encondroma	encondroma	NC00SC0	C1704356#C0936248	anomalía_morfológica	0-10	250_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	10-11	250_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Osteoma	osteoma	NC00SC0	C0029441_1	anomalía_morfológica#trastorno_1	0-7	250_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	osteoide	osteoide		C0029441_2	anomalía_morfológica#trastorno_2	8-16	250_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	4684	LOC
+3	.	.	Fp	-	-	16-17	250_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Condrosarcoma	condrosarcoma	NC00SC0	C0008479#C1305267	anomalía_morfológica#trastorno	0-13	250_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	13-14	250_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

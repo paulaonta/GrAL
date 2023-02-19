@@ -1,0 +1,47 @@
+1	Determinar	determinar	VMN0000	-	-	0-10	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	creatinina	creatinina	NC00SC0	C0010294	sustancia	11-21	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	22-23	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	nitrógeno	nitrógeno	NCMS000	C0028158	sustancia	24-33	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sangre	sangre	NCFS000	C0005767	sustancia	37-43	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	.	.	Fp	-	-	43-44	74_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Derivar	derivar	VMN0000	-	-	0-7	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	8-9	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	10-12	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	niña	niño	NCFS000	C0008059#C0870221	persona	13-17	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	para	para	SPS00	C0521125	calificador	18-22	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	la	el	DA0FS0	-	-	23-25	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	realización	realización	NCFS000	-	-	26-37	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	38-40	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	41-44	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	citoscopia	citoscopia	NCFS000	-	-	45-55	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	55-56	74_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Determinar	determinar	VMN0000	-	-	0-10	74_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	11-22	74_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	antinucleares	antinuclear	AQ0CP0	-	-	23-36	74_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	37-38	74_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	complemento	complemento	NCMS000	C0009498	sustancia	39-50	74_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	50-51	74_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Volver	volver	VMN0000	C0332156_1	calificador_1	0-6	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	a	a	SPS00	C0332156_2	calificador_2	7-8	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	repetir	repetir	VMN0000	C0205341	calificador	9-16	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	el	el	DA0MS0	-	-	17-19	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	sedimento	sedimento	NCMS000	C0333562	anomalía_morfológica	20-29	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	30-32	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	orina	orina	NCFS000	C0042036	sustancia	33-38	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	39-41	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	15	15	Z	-	-	42-44	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	días	d	NCMP000	-	-	45-49	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	49-50	74_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	74_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	74_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	tomografía	tomografía	NCFS000	C0040405_1	procedimiento_1	13-23	74_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	axial	axial	NC00SC0	C0040405_2	procedimiento_2	24-29	74_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	computarizada	computarizada		C0040405_3	procedimiento_3	30-43	74_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	abdominal	abdominal	AQ0CS0	C0000726	calificador	44-53	74_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+7	.	.	Fp	-	-	53-54	74_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

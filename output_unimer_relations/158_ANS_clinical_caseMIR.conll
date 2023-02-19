@@ -1,0 +1,65 @@
+1	Aislamiento	aislamiento	NCMS000	-	-	0-11	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	la	el	DA0FS0	-	-	15-17	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	vía	vía	NCFS000	C0458827#C0150694_1	estructura_corporal#objeto_físico_1	18-21	158_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	aérea	aéreo	AQ0FS0	C0458827#C0150694_2	estructura_corporal#objeto_físico_2	22-27	158_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	23	MultiE
+6	mediante	mediante	SPS00	-	-	28-36	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	37-47	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	48-59	158_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+9	y	y	CC	C1706368	calificador	60-61	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	ventilación	ventilación	NCFS000	C2945579	función	62-73	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	74-77	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	bolsa	bolsa	NCFS000	C1706249#C0179196	calificador#objeto_físico	78-83	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	autohinchable	autohinchable	AQ0CS0	-	-	84-97	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	.	.	Fp	-	-	97-98	158_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	maniobras	maniobra	NCFP000	-	-	8-17	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	18-20	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	reanimación	reanimación	NCFS000	C0007203_1	procedimiento_1	21-32	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	cardiopulmonar	cardiopulmonar	NC00SC0	C0007203_2	procedimiento_2	33-47	158_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	básica	básico	AQ0FS0	-	-	48-54	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	durante	durante	SPS00	C1444752#C0347984	atributo	55-62	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	2	2	Z	-	-	63-64	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	min	min	NCMN000	-	-	65-68	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	69-70	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	posterionnente	posterionnente	AQ0CS00	-	-	71-85	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	conexión	conexión	NCFS000	C0449379#C0230609	atributo#estructura_corporal	86-94	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	al	al	SP+DA	-	-	95-97	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	monitor	monitor	NCMS000	C0181904	objeto_físico	98-105	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	desfibrilador	desfibrilador	NC00SC0	C0180307	objeto_físico	106-119	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	119-120	158_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Canalización	canalización	NCFS000	C0558671#C0333326	procedimiento#anomalía_morfológica	0-12	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	13-15	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	16-19	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	vía	vía	NCFS000	C0449444	atributo	20-23	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	venosa	venoso	AQ0FS0	C0348013	calificador	24-30	158_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+6	periférica	periférico	AQ0FS0	C0205100	calificador	31-41	158_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	5	23	MultiE
+7	para	para	SPS00	C0521125	calificador	42-46	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	administrar	administrar	VMN0000	C1621583	calificador	47-58	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	59-69	158_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+10	.	.	Fp	-	-	69-70	158_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Desfíbrilación	desfíbrilación	NCFS000	-	-	0-14	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	inmediata	inmediato	AQ0FS0	C0205253	calificador	15-24	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	25-28	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	la	el	DA0FS0	-	-	29-31	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	máxima	máximo	AQ0FS0	C0205289	calificador	32-38	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	energía	energía	NCFS000	C0424589	hallazgo	39-46	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	46-47	158_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Monitorización	monitorización	NCFS000	-	-	0-14	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	del	del	SP+DA	-	-	15-18	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	ritmo	ritmo	NCMS000	C0449243	atributo	19-24	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	cardiaco	cardiaco	AQ0MS0	-	-	25-33	158_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+5	y	y	CC	C1706368	calificador	34-35	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	desfíbrilación	desfíbrilación	NCFS000	-	-	36-50	158_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+7	si	si	CS	-	-	51-53	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	fibrilación	fibrilación	NCFS000	C0042510_1	trastorno_1	54-65	158_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+9	ventricular	ventricular	AQ0CS0	C0042510_2	trastorno_2	66-77	158_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+10	o	o	CC	-	-	78-79	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	taquicardia	taquicardia	NCFS000	C0042514_1	trastorno_1	80-91	158_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+12	ventricular	ventricular	AQ0CS0	C0042514_2	trastorno_2	92-103	158_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	11	4787,8	LOC,4787
+13	.	.	Fp	-	-	103-104	158_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

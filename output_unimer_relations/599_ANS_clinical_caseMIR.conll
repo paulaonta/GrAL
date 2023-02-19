@@ -1,0 +1,21 @@
+1	Proteina	proteina	NCFS000	-	-	0-8	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	C.	c.	AQ0CS00	-	-	9-11	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	Proteina	proteina	NCFS000	-	-	0-8	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	S.	s.	AQ0CS00	-	-	9-11	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	Resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	0-10	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	magnética	magnético	AQ0FS0	-	-	11-20	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	abdomino-pélvica	abdomino-pélvica	AQ0FS00	-	-	21-37	599_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+8	.	.	Fp	-	-	37-38	599_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Cisto-uretrografía	cisto-uretrografía	NCFS000	-	-	0-18	599_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	miccional	miccional	AQ0CS00	-	-	19-28	599_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	.	.	Fp	-	-	28-29	599_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Radiografía	radiografía	NCFS000	C1306645	procedimiento	0-11	599_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	reno-vesical	reno-vesical	AQ0CS00	-	-	12-24	599_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	simple	simple	AQ0CS0	C0205352	calificador	25-31	599_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	.	.	Fp	-	-	31-32	599_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Uretrocistoscopia	uretrocistoscopia	NCFS000	-	-	0-17	599_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	.	.	Fp	-	-	17-18	599_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

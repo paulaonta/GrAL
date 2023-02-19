@@ -1,0 +1,27 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	652_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	652_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	652_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	inmunoglobulinas	inmunoglobulina	NCFP000	C0021027	sustancia	24-40	652_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+5	intravenosas	intravenoso	AQ0FP0	C0348016	calificador	41-53	652_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	4	23	MultiE
+6	.	.	Fp	-	-	53-54	652_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	652_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	652_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	652_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	corticoides	corticoide	NCMP000	-	-	24-35	652_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+5	intravenosos	intravenoso	AQ0MP0	C0348016	calificador	36-48	652_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	.	.	Fp	-	-	48-49	652_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	652_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	652_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	652_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	fingolimod	fingolimod	NC00SC0	C1699926	sustancia	24-34	652_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	.	.	Fp	-	-	34-35	652_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	652_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	652_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	652_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	interferón	interferón	NCMS000	C0015980_1	producto#sustancia_1	24-34	652_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+5	beta	beta	NCFS000	C0015980_2	producto#sustancia_2	35-39	652_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-	4	23	MultiE
+6	.	.	Fp	-	-	39-40	652_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

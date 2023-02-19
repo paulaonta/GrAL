@@ -1,0 +1,65 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	78	78		-	-	9-11	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	demencia	demencia	NCFS000	C0497327	trastorno	21-29	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	e	y	CC	C1706368	calificador	30-31	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	institucionalizada	institucionalizar	VMP00SF	-	-	32-50	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	es	ser	VSIP3S0	-	-	51-53	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	traída	traer	VMP00SF	-	-	54-60	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	61-64	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	sus	su	DP3CP0	-	-	65-68	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	cuidadores	cuidador	NCMP000	C1305660	ocupación	69-79	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	por	por	SPS00	C0678226	atributo	80-83	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	84-89	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	90-99	463_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+17	importante	importante	AQ0CS0	-	-	100-110	463_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	5979	Modif
+18	con	con	SPS00	C0332287	atributo	111-114	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	deterioro	deterioro	NCMS000	C1279889_1	calificador_1	115-124	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	del	del	SP+DA	C1279889_2	calificador_2	125-128	463_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	19	5979	Modif
+21	estado	estar	VAP00SM	C1279889_3	calificador_3	129-135	463_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	20	136	MultiE
+22	general	general	AQ0CS0	C0205246	calificador	136-143	463_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	20	136	MultiE
+23	y	y	CC	C1706368	calificador	144-145	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	146-156	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	157-166	463_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	24	5979,15	LOC,5979
+26	.	.	Fp	-	-	166-167	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Analítica	analítica	NCFS000	-	-	168-177	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	178-181	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	182-194	463_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	,	,	Fc	-	-	194-195	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	hematocrito	hematocrito	RG	-	-	196-207	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	elevado	elevar	VMP00SM	-	-	208-215	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	,	,	Fc	-	-	215-216	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	217-230	463_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	renal	renal	AQ0CS0	-	-	231-236	463_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	5980	LOC
+10	y	y	CC	C1706368	calificador	237-238	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	acidosis	acidosis	NCFN000	C0220981_1	trastorno_1	239-247	463_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	metabólica	metabólico	AQ0FS0	C0220981_2	trastorno_2	248-258	463_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	11	5980	Modif
+13	.	.	Fp	-	-	258-259	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	260-262	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	ECG	ecg	NC00YL0	C1623258	procedimiento	263-266	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	267-274	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	275-286	463_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+5	auricular	auricular	NCMS000	C0004238_2	trastorno_2	287-296	463_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	4	5981	LOC
+6	.	.	Fp	-	-	296-297	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	298-300	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	tomografía	tomografía	NCFS000	-	-	301-311	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	abdominal	abdominal	AQ0CS0	C0000726	calificador	312-321	463_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	detecta	detectar	VMIP3S0	-	-	322-329	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	asas	asa	NCFP000	C0445022	calificador	330-334	463_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	335-337	463_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	5	23	MultiE
+7	intestino	intestino	NCMS000	C1268998#C0021852_1	estructura_corporal_1	338-347	463_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	5	23	MultiE
+8	delgado	delgado	NCMS000	C1268998#C0021852_2	estructura_corporal_2	348-355	463_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	5	23	MultiE
+9	edematizadas	edematizadas	VMP00PF	-	-	356-368	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	,	,	Fc	-	-	368-369	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	370-373	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	neumatosis	neumatosis	NCFN000	C0333139	anomalía_morfológica	374-384	463_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+13	intestinal	intestinal	AQ0CS0	C0021853	calificador	385-395	463_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	12	5982	LOC
+14	y	y	CC	C1706368	calificador	396-397	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	portal	portal	NCMS000	C0557692#C0205054#C0205150	objeto_físico#calificador	398-404	463_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	12	5982	LOC
+16	.	.	Fp	-	-	404-405	463_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

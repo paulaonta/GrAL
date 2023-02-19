@@ -1,0 +1,38 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	niño	niño	NCMS000	C0680063_1	hallazgo_1	3-7	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0680063_2	hallazgo_2	8-10	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	7	7		-	-	11-12	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	13-17	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	18-26	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	27-29	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	cuadro	cuadro	NCMS000	-	-	30-36	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	subagudo	subagudo	NC00SC0	C0205365	calificador	37-45	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	46-48	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	ataxia	ataxia	NCFS000	C0007758_1	trastorno_1	49-55	297_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	cerebelosa	cerebeloso	AQ0FS0	C0007758_2	trastorno_2	56-66	297_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	1262	Modif
+13	e	y	CC	C1706368	calificador	67-68	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hipertensión	hipertensión	NCFS000	-	-	69-81	297_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	endocraneal	endocraneal	AQ0CS00	-	-	82-93	297_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	1262	LOC
+16	.	.	Fp	-	-	93-94	297_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	95-97	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	98-108	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	magnética	magnético	AQ0FS0	-	-	109-118	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	demuestra	demostrar	VMIP3S0	-	-	119-128	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	129-132	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	133-139	297_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	expansiva	expansivo	AQ0FS0	-	-	140-149	297_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	1263	Modif
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	150-152	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	el	el	DA0MS0	-	-	153-155	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	vermix	vermix	NCMN000	-	-	156-162	297_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	6	1263	LOC
+11	cerebeloso	cerebeloso	AQ0MS0	-	-	163-173	297_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+12	que	que	PR0CN000	-	-	174-177	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	capta	captar	VMIP3S0	-	-	178-183	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	contraste	contraste	NCMS000	-	-	184-193	297_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+15	y	y	CC	C1706368	calificador	194-195	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	obstruye	obstruir	VMIP3S0	-	-	196-204	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	el	el	DA0MS0	-	-	205-207	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	cuarto	cuarto	NCMS000	C1278832#C0149556_1	estructura_corporal_1	208-214	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	ventrículo	ventrículo	NCMS000	C1278832#C0149556_2	estructura_corporal_2	215-225	297_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+20	.	.	Fp	-	-	225-226	297_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

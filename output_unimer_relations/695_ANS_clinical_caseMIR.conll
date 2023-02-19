@@ -1,0 +1,22 @@
+1	Señale	señalar	VMM03S0	-	-	249-255	695_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	256-258	695_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	respuesta	respuesta	NCFS000	-	-	259-268	695_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	cierta	cierto	AQ0FS0	C0205423	calificador	269-275	695_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	:	:	Fd	-	-	275-276	695_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	Colecistitis	colecistitis	NCFN000	C0149520_1	trastorno_1	0-12	695_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	aguda	agudo	AQ0FS0	C0149520_2	trastorno_2	13-18	695_ANS_clinical_caseMIR	SENT1	B-Calificador	-	6	391	Modif
+8	alitiásica	alitiásico	AQ0FS0	-	-	19-29	695_ANS_clinical_caseMIR	SENT1	B-Calificador	-	6	391	Modif
+9	.	.	Fp	-	-	29-30	695_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Coledocolitiasis	coledocolitiasis	NC00SC0	C0009438#C0701818	trastorno	0-16	695_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	16-17	695_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Colecistitis	colecistitis	NCFN000	C0149520_1	trastorno_1	0-12	695_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	aguda	agudo	AQ0FS0	C0149520_2	trastorno_2	13-18	695_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	393	Modif
+3	litiásica	litiásico	AQ0FS0	-	-	19-28	695_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	393	Modif
+4	.	.	Fp	-	-	28-29	695_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Colangitis	colangitis	NC00SC0	C0311273_1	trastorno_1	0-10	695_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	ascendente	ascendente	NC00SC0	C0311273_2	trastorno_2	11-21	695_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	394	Modif
+3	.	.	Fp	-	-	21-22	695_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

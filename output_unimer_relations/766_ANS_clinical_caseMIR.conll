@@ -1,0 +1,28 @@
+1	Presenta	presentar	VMIP3S0	-	-	0-8	766_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	766_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	hipertensión	hipertensión	NCFS000	C0155616_1	trastorno_1	13-25	766_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	arterial	arterial	NC00SC0	C0155616_2	trastorno_2	26-34	766_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	3	1038	LOC
+5	secundaria	secundario	AQ0FS0	C0155616_3	trastorno_3	35-45	766_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	.	.	Fp	-	-	45-46	766_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	0-8	766_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	766_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	13-25	766_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	26-34	766_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	3	1039	LOC
+5	enmascarada	enmascarar	VMP00SF	-	-	35-46	766_ANS_clinical_caseMIR	SENT2	B-Calificador	-	3	1039	Modif
+6	.	.	Fp	-	-	46-47	766_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	0-8	766_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	766_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	hipertensión	hipertensión	NCFS000	-	-	13-25	766_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	26-33	766_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	aislada	aislar	VMP00SF	-	-	34-41	766_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	41-42	766_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	0-8	766_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	766_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	13-25	766_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+4	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	26-34	766_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	3	1041	LOC
+5	refractaria	refractario	AQ0FS0	C0205269	calificador	35-46	766_ANS_clinical_caseMIR	SENT4	B-Calificador	-	3	1041	Modif
+6	.	.	Fp	-	-	46-47	766_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

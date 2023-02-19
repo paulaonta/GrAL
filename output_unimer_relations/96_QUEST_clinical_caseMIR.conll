@@ -1,0 +1,152 @@
+1	¿	¿	Fia	-	-	779-780	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	780-784	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	785-787	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	788-791	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	792-802	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	pautas	pauta	NCFP000	-	-	803-809	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	terapéuticas	terapéutico	AQ0FP0	-	-	810-822	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	823-825	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	parece	parecer	VMIP3S0	-	-	826-832	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	más	más	RG	C0205172	calificador	833-836	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	correcta	correcto	AQ0FS0	C0205170	calificador	837-845	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	?	?	Fit	-	-	845-846	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	:	:	Fd	-	-	846-847	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	¿	¿	Fia	-	-	0-1	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Cuál	cuál	PT0CS000	-	-	1-5	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	sería	ser	VSIC1S0	-	-	6-11	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	el	el	DA0MS0	-	-	12-14	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	manejo	manejo	NCMS000	C1273870	procedimiento	15-21	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	22-24	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	una	una		C0205447_1	calificador_1	25-28	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	paciente	paciente	NCCS000	C0030705	persona	29-37	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	38-40	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	31	31		-	-	41-43	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	años	año	NCMP000	C0439234	calificador	44-48	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	,	,	Fc	-	-	48-49	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	nuligesta	nuligesta	NCFS000	-	-	50-59	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	y	y	CC	C1706368	calificador	60-61	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	asintomática	asintomático	AQ0FS0	-	-	62-74	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	,	,	Fc	-	-	74-75	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	a	a	SPS00	-	-	76-77	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	la	el	DA0FS0	-	-	78-80	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	que	que	PR0CN000	-	-	81-84	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	diagnosticamos	diagnosticar	VMIP1P0	-	-	85-99	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	en	en	SPS00	C1720294#C0332285	calificador#atributo	100-102	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	una	una		C0205447_1	calificador_1	103-106	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	107-116	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	rutinaria	rutinario	AQ0FS0	-	-	117-126	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	una	una		C0205447_1	calificador_1	127-130	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	131-137	96_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	43	2257	Causada_por
+40	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	138-148	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	149-152	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	un	un		C0205447_1	calificador_1	153-155	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	endometrioma	endometrioma	NC00SC0	C0269102#C1536148	anomalía_morfológica#trastorno	156-168	96_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	39	2257	Causada_por
+44	ovárico	ovárico	AQ0MS0	-	-	169-176	96_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	43	2257	LOC
+45	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	177-184	96_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	44	2257	MultiE
+46	de	de	SPS00	C0332285	atributo	185-187	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	4	4	Z	-	-	188-189	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	cm	cm	NCMN000	-	-	190-192	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	?	?	Fit	-	-	192-193	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	:	:	Fd	-	-	193-194	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	Paciente	paciente	NCCS000	C0030705	persona	0-8	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	de	de	SPS00	C0332285	atributo	9-11	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	32	32		-	-	12-14	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	años	año	NCMP000	C0439234	calificador	15-19	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	con	con	SPS00	C0332287	atributo	20-23	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+56	test	test	NCMS000	-	-	24-28	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+57	de	de	SPS00	C0332285	atributo	29-31	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+58	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	32-41	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+59	positivo	positivo	AQ0MS0	C1446409	calificador	42-50	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+60	y	y	CC	C1706368	calificador	51-52	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+61	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	53-62	96_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+62	de	de	SPS00	C0332285	atributo	63-65	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+63	9	9		-	-	66-67	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+64	semanas	semana	NCFP000	C0439230	calificador	68-75	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+65	.	.	Fp	-	-	75-76	96_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	77-85	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	86-89	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hiperemesis	hiperemesis	NC00SC0	C0020450#C0269661_1	trastorno_1	90-101	96_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	gravídica	gravídico	AQ0FS0	C0020450#C0269661_2	trastorno_2	102-111	96_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	3	2258	Modif
+5	de	de	SPS00	C0332285	atributo	112-114	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	6	6	Z	-	-	115-116	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	días	d	NCMP000	-	-	117-121	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	122-124	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	evolución	evolución	NCFS000	-	-	125-134	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	135-136	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	metrorragia	metrorragia	NCFS000	C0025874	hallazgo	137-148	96_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	escasa	escaso	AQ0FS0	C0443295#C0205169	calificador	149-155	96_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	11	2258	Modif
+13	de	de	SPS00	C0332285	atributo	156-158	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	3	3	Z	-	-	159-160	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	horas	h	NCFP000	C0439227	calificador	161-166	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	167-169	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	evolución	evolución	NCFS000	-	-	170-179	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	179-180	96_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	181-183	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	184-186	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	187-198	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	se	se	P00CN000	-	-	199-201	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	comprueba	comprobar	VMIP3S0	-	-	202-211	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	sangrado	sangrado	NCMS000	C0019080	hallazgo#anomalía_morfológica	212-220	96_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	escaso	escaso	AQ0MS0	C0443295#C0205169	calificador	221-227	96_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	6	2259	Modif
+8	de	de	SPS00	C0332285	atributo	228-230	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	cavidad	cavidad	NCFS000	C1510420	anomalía_morfológica	231-238	96_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	6	2259	LOC
+10	uterina	uterino	AQ0FS0	-	-	239-246	96_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	9	43	MultiE
+11	y	y	CC	C1706368	calificador	247-248	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	útero	útero	NCMS000	C1269032#C0042149	estructura_corporal	249-254	96_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	6	2259	LOC
+13	aumentado	aumentar	VMP00SM	-	-	255-264	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	como	como	CS	C0332257	calificador	265-269	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	270-279	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	280-282	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	14	14		-	-	283-285	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	semanas	semana	NCFP000	C0439230	calificador	286-293	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	.	.	Fp	-	-	293-294	96_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	295-297	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	el	el	DA0MS0	-	-	298-300	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	301-308	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	ecográfíco	ecográfíco	AQ0MS00	-	-	309-319	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	presenta	presentar	VMIP3S0	-	-	320-328	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	329-335	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	intrauterina	intrauterino	AQ0FS0	C0694756	calificador	336-348	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	349-351	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	"	"	Fe	-	-	352-353	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	copos	copo	NCMP000	-	-	353-358	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	359-361	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	nieve	nieve	NCFS000	C1611690	sustancia	362-367	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	"	"	Fe	-	-	367-368	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	369-370	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	371-379	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	de	de	SPS00	C0332197_2	calificador_2	380-382	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	saco	saco	NCMS000	C0179196	objeto_físico	383-387	96_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+18	gestacional	gestacional	AQ0CS0	C0439671	calificador	388-399	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	intraútero	intraútero	NCMS000	-	-	400-410	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	.	.	Fp	-	-	410-411	96_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	412-414	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	determinación	determinación	NCFS000	C0242485	procedimiento	415-428	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	429-431	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	ß-HCG	ß-hcg	NCMS000	-	-	432-437	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	438-440	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	441-443	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	110000	110000		-	-	444-450	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	mUI	mui	NC00SC0	C0439455	calificador	451-454	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	/	/	Fh	-	-	454-455	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	ml	mililitro	NCMN000	C0439242	calificador	455-457	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	.	.	Fp	-	-	457-458	96_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	459-463	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	evacuación	evacuación	NCFS000	C1306323_1	calificador_1	464-474	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	por	por	SPS00	C1306323_2	calificador_2	475-478	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	succión	succión	NCFS000	C1306323_3	calificador_3	479-486	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	487-488	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	curetaje	curetaje	NCMS000	C0010468	procedimiento	489-497	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	se	se	P00CN000	-	-	498-500	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	diagnostica	diagnosticar	VMIP3S0	-	-	501-512	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	513-515	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	mola	mola	NCFS000	C0020217#C0678213_1	anomalía_morfológica_1	516-520	96_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+11	hidatiforme	hidatiforme		C0020217#C0678213_2	anomalía_morfológica_2	521-532	96_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-	10	97	MultiE
+12	completa	completo	AQ0FS0	C0020217#C0678213_3	anomalía_morfológica_3	533-541	96_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	10	2262	Modif
+13	.	.	Fp	-	-	541-542	96_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

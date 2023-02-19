@@ -1,0 +1,59 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	12-23	601_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+3	al	al	SP+DA	-	-	24-26	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	tratar	tratar	VMN0000	-	-	27-33	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	se	se	PP3CN000	-	-	33-35	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	probablemente	probablemente	RG	C0332148	calificador	36-49	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	50-52	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	53-56	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	infección	infección	NCFS000	C0009450	trastorno	57-66	601_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+10	de	de	SPS00	C0332285	atributo	67-69	601_ANS_clinical_caseMIR	SENT1	B-Calificador	-	9	6307	Modif
+11	orina	orinar	VMM02S0	-	-	70-75	601_ANS_clinical_caseMIR	SENT1	I-Calificador	-	10	97	MultiE
+12	.	.	Fp	-	-	75-76	601_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Realización	realización	NCFS000	-	-	0-11	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	15-17	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	18-20	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	abdomino-pélvico	abdomino-pélvico	AQ0MS00	-	-	21-37	601_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	sin	sin	SPS00	C0332288	atributo	38-41	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	contraste	contraste	NCMS000	-	-	42-51	601_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	52-56	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	descartar	descartar	VMN0000	C0332196	calificador	57-66	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	67-70	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	recidiva	recidiva	NCFS000	C0034897#C2945760#C0035020	calificador	71-79	601_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+12	litiásica	litiásico	AQ0FS0	-	-	80-89	601_ANS_clinical_caseMIR	SENT2	B-Calificador	-	11	6308	Modif
+13	.	.	Fp	-	-	89-90	601_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Programar	programar	VMN0000	-	-	0-9	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	para	para	SPS00	C0521125	calificador	10-14	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	colocación	colocación	NCFS000	C1533810	calificador	15-25	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	26-28	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	29-32	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	malla	malla	NCFS000	C0181805	sustancia#objeto_físico	33-38	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	39-47	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	,	,	Fc	-	-	47-48	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	al	al	SP+DA	-	-	49-51	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	ser	ser	VSN0000	-	-	52-55	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	el	el	DA0MS0	-	-	56-58	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	cistocele	cistocele	NC00SC0	C1394494	trastorno	59-68	601_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	la	el	DA0FS0	-	-	69-71	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	causa	causa	NCFS000	-	-	72-77	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	78-80	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	la	el	DA0FS0	-	-	81-83	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	hematuria	hematuria	NCFS000	C0018965	hallazgo#trastorno	84-93	601_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+18	.	.	Fp	-	-	93-94	601_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Llevar	llevar	VMN0000	-	-	0-6	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	a	a	SPS00	-	-	7-8	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	cabo	cabo	NCMS000	-	-	9-13	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	14-17	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	cistoscopia	cistoscopia	NCFS000	C0010702	procedimiento	18-29	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	para	para	SPS00	C0521125	calificador	30-34	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	descartar	descartar	VMN0000	C0332196	calificador	35-44	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	45-47	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	48-53	601_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion	-	-	-
+10	de	de	SPS00	C0332285	atributo	54-56	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	vejiga	vejiga	NCFS000	C0005682	estructura_corporal	57-63	601_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	9	6310	LOC
+12	.	.	Fp	-	-	63-64	601_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

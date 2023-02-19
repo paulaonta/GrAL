@@ -1,0 +1,42 @@
+1	Rotura	rotura	NCFS000	-	-	0-6	325_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	7-9	325_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	asa	asa	NCFS000	C0445022	calificador	10-13	325_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	4829	LOC
+4	de	de	SPS00	C0332285	atributo	14-16	325_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+5	cubo	cubo	NCMS000	-	-	17-21	325_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+6	del	del	SP+DA	-	-	22-25	325_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+7	menisco	menisco	NCMS000	C1305316_1	estructura_corporal_1	26-33	325_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+8	interno	interno	NCMS000	C1305316_2	estructura_corporal_2	34-41	325_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+9	.	.	Fp	-	-	41-42	325_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Rotura	rotura	NCFS000	-	-	0-6	325_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	aislada	aislar	VMP00SF	-	-	7-14	325_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	4830	Modif
+3	del	del	SP+DA	-	-	15-18	325_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	ligamento	ligamento	NCMS000	C1282783#C0206365_1	estructura_corporal_1	19-28	325_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	4830	LOC
+5	colateral	colateral	NCMS000	C1282783#C0206365_2	estructura_corporal_2	29-38	325_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	4	23	MultiE
+6	lateral	lateral	AQ0CS0	C0205093	calificador	39-46	325_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	4	23	MultiE
+7	.	.	Fp	-	-	46-47	325_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Fractura	fractura	NCFS000	C0016658	anomalía_morfológica	0-8	325_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	9-12	325_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	arrancamiento	arrancamiento	NCMS000	-	-	13-26	325_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	1	4831	Causada_por
+4	de	de	SPS00	C0332285	atributo	27-29	325_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	la	el	DA0FS0	-	-	30-32	325_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	espina	espina	NCFS000	C0444602	sustancia	33-39	325_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	3	4831	LOC
+7	tibial	tibial	AQ0CS0	-	-	40-46	325_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	6	15	MultiE
+8	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	47-55	325_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	6	15	MultiE
+9	.	.	Fp	-	-	55-56	325_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Fractura	fractura	NCFS000	C0016658	anomalía_morfológica	0-8	325_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	unicondílea	unicondíleo	AQ0FS0	-	-	9-20	325_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	4832	Modif
+3	del	del	SP+DA	-	-	21-24	325_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	cóndilo	cóndilo	NCMS000	C1266915#C0524414	estructura_corporal	25-32	325_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	4832	LOC
+5	medial	medial	AQ0CS0	C0205098#C2939193#C0444598#C0549183	calificador	33-39	325_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	23	MultiE
+6	.	.	Fp	-	-	39-40	325_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Rotura	rotura	NCFS000	-	-	0-6	325_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	-	-	7-10	325_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	ligamento	ligamento	NCMS000	C1269080#C0023685	estructura_corporal	11-20	325_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	1	4833	LOC
+4	cruzado	cruzar	VMP00SM	-	-	21-28	325_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	3	30	MultiE
+5	anterior	anterior	NC00SC0	C0205094#C1704448	calificador	29-37	325_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	3	30	MultiE
+6	.	.	Fp	-	-	37-38	325_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

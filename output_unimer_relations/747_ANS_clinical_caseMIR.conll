@@ -1,0 +1,44 @@
+1	Variante	variante	NCFS000	C0205419	calificador	0-8	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	no	no	RN	C1298908	calificador	9-11	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	fluente	fluente	AQ0CS0	-	-	12-19	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	20-22	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	la	el	DA0FS0	-	-	23-25	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	afasia	afasia	NCFS000	C0338457_1	trastorno_1	26-32	747_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	progresiva	progresivo	AQ0FS0	C0338457_2	trastorno_2	33-43	747_ANS_clinical_caseMIR	SENT1	B-Calificador	-	6	2869	Modif
+8	primaria	primario	AQ0FS0	C0205225	calificador	44-52	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	probablemente	probablemente	RG	C0332148	calificador	53-66	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	67-70	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	demencia	demencia	NCFS000	C0338451_1	trastorno_1	71-79	747_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	6	2869	Causada_por
+12	frontotemporal	frontotemporal	AQ0CS0	C0338451_2	trastorno_2	80-94	747_ANS_clinical_caseMIR	SENT1	B-Calificador	-	11	2869	LOC
+13	.	.	Fp	-	-	94-95	747_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Variante	variante	NCFS000	C0205419	calificador	0-8	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	logopénica	logopénica	AQ0FS00	-	-	9-19	747_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	23-25	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	afasia	afasia	NCFS000	C0338457_1	trastorno_1	26-32	747_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	2	2870	LOC
+6	progresiva	progresivo	AQ0FS0	C0338457_2	trastorno_2	33-43	747_ANS_clinical_caseMIR	SENT2	B-Calificador	-	5	2870,2	Modif,2870
+7	primaria	primario	AQ0FS0	C0205225	calificador	44-52	747_ANS_clinical_caseMIR	SENT2	B-Calificador	-	5	2870,2	Modif,2870
+8	,	,	Fc	-	-	52-53	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	probablemente	probablemente	RG	C0332148	calificador	54-67	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	68-71	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	enfermedad	enfermedad	NCFS000	C0002395_1	trastorno_1	72-82	747_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	5	2870,2	Causada_por,2870
+12	de	de	SPS00	C0002395_2	trastorno_2	83-85	747_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	11	50	MultiE
+13	Alzheimer	Alzheimer		C0002395_3	trastorno_3	86-95	747_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	11	50	MultiE
+14	.	.	Fp	-	-	95-96	747_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Demencia	demencia	NCFS000	C0497327	trastorno	0-8	747_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	9-12	747_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	cuerpos	cuerpo	NCMP000	-	-	13-20	747_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	1	2871	Causada_por
+4	de	de	SPS00	C0332285	atributo	21-23	747_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	3	30	MultiE
+5	Lewy	Lewy		-	-	24-28	747_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	3	30	MultiE
+6	difusos	difuso	AQ0MP0	C0205219	calificador	29-36	747_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	.	.	Fp	-	-	36-37	747_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Disnomia	disnomia	NC00SC0	C0003113	hallazgo	0-8	747_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	inespecífica	inespecífico	AQ0FS0	C0205370	calificador	9-21	747_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	2872	Modif
+3	del	del	SP+DA	-	-	22-25	747_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	26-34	747_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	35-40	747_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	.	.	Fp	-	-	40-41	747_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

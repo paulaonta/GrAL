@@ -1,0 +1,61 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	14	14		-	-	16-18	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	24-26	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	27-31	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	32-34	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	buen	bueno	AQ0MS0	C0205170	calificador	35-39	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	40-46	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	general	general	AQ0CS0	C0205246	calificador	47-54	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	presenta	presentar	VMIP3S0	-	-	55-63	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	desde	desde	SPS00	-	-	64-69	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hace	hacer	VMIP3S0	-	-	70-74	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	4	4	Z	-	-	75-76	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	días	d	NCMP000	-	-	77-81	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	una	una		C0205447_1	calificador_1	82-85	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	erupción	erupción	NCFS000	C0015230_1	anomalía_morfológica#trastorno_1	86-94	61_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	cutánea	cutáneo	AQ0FS0	C0015230_2	anomalía_morfológica#trastorno_2	95-102	61_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	3157	LOC
+20	generalizada	generalizar	VMP00SF	-	-	103-115	61_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	3157	Modif
+21	muy	muy	RG	C0442824	calificador	116-119	61_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	3157	Modif
+22	pruriginosa	pruriginoso	AQ0FS0	C0439707	calificador	120-131	61_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	21	113	MultiE
+23	formada	formar	VMP00SF	-	-	132-139	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	por	por	SPS00	C0678226	atributo	140-143	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	placas	placa	NCFP000	C0332461	anomalía_morfológica	144-150	61_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	18	3157	Causada_por
+26	eritemato	eritemato	NCMS000	-	-	151-160	61_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	25	89	MultiE
+27	-	-	Fg	-	-	160-161	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	edematosas	edematoso	AQ0FP0	C0013604	anomalía_morfológica	162-172	61_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	173-175	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	entre	entre	SPS00	C0205103	calificador	176-181	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	2	2		-	-	182-183	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	y	y	CC	C1706368	calificador	184-185	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	15	15	Z	-	-	186-188	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	centímetros	cm	NCMP000	-	-	189-200	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	201-203	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	diámetro	diámetro	NCMS000	C1301886	calificador	204-212	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	sin	sin	SPS00	C0332288	atributo	213-216	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	descamación	descamación	NCFS000	C0237849	función	217-228	61_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+39	con	con	SPS00	C1521798_1	atributo_1	229-232	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	tendencia	tendencia	NCFS000	C1521798_2	atributo_2	233-242	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	a	a	SPS00	-	-	243-244	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	adquirir	adquirir	VMN0000	-	-	245-253	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	una	una		C0205447_1	calificador_1	254-257	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	morfología	morfología	NCFS000	C0700329#C0332437	hallazgo#atributo	258-268	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	anular	anular	AQ0CS0	C0521164	calificador	269-275	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	que	que	PR0CN000	-	-	276-279	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	individualmente	individualmente	RG	-	-	280-295	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	desaparecen	desaparecer	VMIP3P0	-	-	296-307	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	en	en	SPS00	C1720294#C0332285	calificador#atributo	308-310	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	menos	menos	RG	C0332288	atributo	311-316	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	de	de	SPS00	C0332285	atributo	317-319	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	24	24	Z	C0439584_1	calificador_1	320-322	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	horas	hora	NCFP000	C0439584_2	calificador_2	323-328	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	.	.	Fp	-	-	328-329	61_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	330-333	61_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	mucosas	mucosa	NCFP000	C0026724	estructura_corporal	334-341	61_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	están	estar	VAIP3P0	-	-	342-347	61_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	respetadas	respetar	VMP00PF	-	-	348-358	61_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	358-359	61_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

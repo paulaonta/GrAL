@@ -1,0 +1,33 @@
+1	¿	¿	Fia	-	-	200-201	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	201-205	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	206-208	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	209-211	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	212-223	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	inicial	inicial	AQ0CS0	C0205265	calificador	224-231	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	?	?	Fit	-	-	231-232	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	:	:	Fd	-	-	232-233	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Amputación	amputación	NCFS000	C0002688#C0002695	procedimiento#hallazgo	0-10	539_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	11-13	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	la	el	DA0FS0	-	-	14-16	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	extremidad	extremidad	NCFS000	C0015385#C1280090	estructura_corporal	17-27	539_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	2109	LOC
+13	.	.	Fp	-	-	27-28	539_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	539_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	neoadyuvante	neoadyuvante	NCMS000	-	-	14-26	539_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	1	567	MultiE
+3	–	–	Fz	-	-	27-28	539_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	Cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	29-36	539_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	–	–	Fz	-	-	37-38	539_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	39-52	539_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+7	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	53-62	539_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	6	15	MultiE
+8	.	.	Fp	-	-	62-63	539_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	539_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	y	y	CC	C1706368	calificador	13-14	539_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	15-28	539_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	28-29	539_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	0-7	539_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	y	y	CC	C1706368	calificador	8-9	539_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	radioterapia	radioterapia	NCFS000	C1522449	-	10-22	539_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	22-23	539_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

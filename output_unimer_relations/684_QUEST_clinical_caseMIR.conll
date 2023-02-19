@@ -1,0 +1,33 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	27	27		-	-	9-11	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	tos	tos	NCFS000	C0850149_1	hallazgo_1	21-24	684_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	no	no	RN	C0850149_2	hallazgo_2	25-27	684_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	3896	Modif
+8	productiva	productivo	AQ0FS0	C0850149_3	hallazgo_3	28-38	684_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	7	45	MultiE
+9	,	,	Fc	-	-	38-39	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	fiebre	fiebre	NCFS000	C0015967	hallazgo	40-46	684_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	y	y	CC	C1706368	calificador	47-48	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	dolor	dolor	NCMS000	C0008033_1	hallazgo_1	49-54	684_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	pleurítico	pleurítico	NCMS000	C0008033_2	hallazgo_2	55-65	684_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	12	3896	LOC
+14	de	de	SPS00	C0332285	atributo	66-68	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	69-71	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	mes	mes	NCMS000	C0439231	calificador	72-75	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	76-78	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	evolución	evolución	NCFS000	-	-	79-88	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	88-89	684_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	90-92	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	93-95	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	96-107	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	108-110	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	111-116	684_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	se	se	P00CN000	-	-	117-119	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	120-128	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	129-131	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	derrame	derrame	NCMS000	C0013687	anomalía_morfológica	132-139	684_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	pleural	pleural	NC00SC0	C1522720	calificador	140-147	684_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	3897	LOC
+11	izquierdo	izquierdo	NC00SC0	C0205091	calificador	148-157	684_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+12	.	.	Fp	-	-	157-158	684_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

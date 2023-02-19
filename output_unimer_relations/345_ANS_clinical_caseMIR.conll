@@ -1,0 +1,30 @@
+1	Descompensación	descompensación	NCFS000	C0231187	hallazgo	0-15	345_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	16-18	345_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	su	su	DP3CS0	-	-	19-21	345_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	diabetes	diabetes	NCFN000	C0085207_1	trastorno_1	22-30	345_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	23	Causada_por
+5	gestacional	gestacional	NC00SC0	C0085207_2	trastorno_2	31-42	345_ANS_clinical_caseMIR	SENT1	B-Calificador	-	4	23	Modif
+6	.	.	Fp	-	-	42-43	345_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Desprendimiento	desprendimiento	NCMS000	-	-	0-15	345_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	prematuro	prematuro	AQ0MS0	C0205252	calificador	16-25	345_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	24	Modif
+3	de	de	SPS00	C0332285	atributo	26-28	345_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	29-31	345_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	placenta	placenta	NCFS000	C0032043#C1278988	estructura_corporal	32-40	345_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	24	LOC
+6	.	.	Fp	-	-	40-41	345_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Preeclampsia	preeclampsia	NC00SC0	C0032914_1	trastorno_1	0-12	345_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	grave	grave	AQ0CS0	C0439808#C0205082	calificador	13-18	345_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	25	Modif
+3	.	.	Fp	-	-	18-19	345_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Rotura	rotura	NCFS000	-	-	0-6	345_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	345_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	"	"	Fe	-	-	10-11	345_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	vasa	vasa		C0269852_1	trastorno_1	11-15	345_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	26	LOC
+5	previa	previo	AQ0FS0	C0269852_2	trastorno_2	16-22	345_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	"	"	Fe	-	-	22-23	345_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	23-24	345_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Placenta	placenta	NCFS000	C0032046_1	trastorno_1	0-8	345_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+2	previa	previo	AQ0FS0	C0032046_2	trastorno_2	9-15	345_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	.	.	Fp	-	-	15-16	345_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,110 @@
+1	Es	ser	VSIP3S0	-	-	0-2	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	3-5	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	brote	brote	NCMS000	-	-	6-11	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	artritis	artritis	NCFN000	C0003873_1	trastorno_1	15-23	530_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	reumatoide	reumatoide	AQ0CS0	C0003873_2	trastorno_2	24-34	530_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	377	Modif
+7	insuficientemente	insuficientemente	RG	-	-	35-52	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	controlado	controlar	VMP00SM	-	-	53-63	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	.	.	Fp	-	-	63-64	530_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	65-69	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	aumentar	aumentar	VMN0000	-	-	70-78	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	se	se	PP3CN000	-	-	78-80	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	81-83	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	dosis	dosis	NCFN000	-	-	84-89	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	90-92	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	prednisona	prednisona	NCFS000	C0032952	sustancia	93-103	530_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	o	o	CC	-	-	104-105	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	asociar	asociar	VMN0000	-	-	106-113	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	114-116	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	antiinflamatorio	antiinflamatorio	NC00AO0	-	-	117-133	530_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+12	vigilando	vigilar	VMG0000	-	-	134-143	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	144-146	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	función	función	NCFS000	C0232804_1	entidad_observable_1	147-154	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	renal	renal	AQ0CS0	C0232804_2	entidad_observable_2	155-160	530_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+16	.	.	Fp	-	-	160-161	530_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	3-15	530_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+3	y	y	CC	C1706368	calificador	16-17	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	el	el	DA0MS0	-	-	18-20	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	21-32	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	reciente	reciente	AQ0CS0	C0332185	calificador	33-41	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	42-45	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	corticoides	corticoide	NCMP000	-	-	46-57	530_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+9	sugieren	sugerir	VMIP3P0	-	-	58-66	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	osteonecrosis	osteonecrosis	NC00CE0	C0520474_1	trastorno_1	67-80	530_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion	-	-	-
+11	aséptica	aséptico	AQ0FS0	C0520474_2	trastorno_2	81-89	530_ANS_clinical_caseMIR	SENT3	B-Calificador	-	10	379	Modif
+12	de	de	SPS00	C0332285	atributo	90-92	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	la	el	DA0FS0	-	-	93-95	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	cabeza	cabeza	NCFS000	C0015813_1	estructura_corporal_1	96-102	530_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	10	379	LOC
+15	femoral	femoral	NC00SC0	C0015813_2	estructura_corporal_2	103-110	530_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	14	51	MultiE
+16	.	.	Fp	-	-	110-111	530_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	112-116	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	aumentar	aumentar	VMN0000	-	-	117-125	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	PP3CN000	-	-	125-127	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	la	el	DA0FS0	-	-	128-130	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	analgesia	analgesia	NCFS000	C0344307	hallazgo	131-140	530_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+6	y	y	CC	C1706368	calificador	141-142	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	asegurar	asegurar	VMN0000	-	-	143-151	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	descarga	descarga	NCFS000	-	-	152-160	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	161-164	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	bastones	bastón	NCMP000	C0006856	objeto_físico	165-173	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	o	o	CC	-	-	174-175	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	encamamiento	encamamiento	NCMS000	-	-	176-188	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	188-189	530_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Requiere	requerir	VMIP3S0	-	-	0-8	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	ingreso	ingreso	NCMS000	C0184666_1	procedimiento_1	9-16	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	hospitalario	hospitalario	NC00SC0	C0184666_2	procedimiento_2	17-29	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	30-33	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	34-42	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	de	de	SPS00	C0332147_2	calificador_2	43-45	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	artritis	artritis	NCFN000	C0263700_1	trastorno_1	46-54	530_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion	-	-	-
+8	infecciosa	infeccioso	AQ0FS0	C0263700_2	trastorno_2	55-65	530_ANS_clinical_caseMIR	SENT5	B-Calificador	-	7	381	Modif
+9	aguda	agudo	AQ0FS0	C0263700_3	trastorno_3	66-71	530_ANS_clinical_caseMIR	SENT5	B-Calificador	-	7	381	Modif
+10	de	de	SPS00	C0332285	atributo	72-74	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	la	el	DA0FS0	-	-	75-77	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	cadera	cadera	NCFS000	C0019552	estructura_corporal	78-84	530_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	7	381	LOC
+13	.	.	Fp	-	-	84-85	530_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	86-90	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	iniciar	iniciar	VMN0000	-	-	91-98	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+3	se	se	PP3CN000	-	-	98-100	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+4	antibiotera_x0002_pia	antibiotera_x0002_pia		-	-	101-122	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	123-125	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	forma	forma	NCFS000	C0348078	atributo	126-131	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+7	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	132-138	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+8	.	.	Fp	-	-	138-139	530_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+5	artritis	artritis	NCFN000	C0003864	hallazgo#trastorno	16-24	530_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+6	gotosa	gotoso	NCFS000	-	-	25-31	530_ANS_clinical_caseMIR	SENT7	B-Calificador	-	5	383	Modif
+7	aguda	agudo	AQ0FS0	C0205178	calificador	32-37	530_ANS_clinical_caseMIR	SENT7	B-Calificador	-	5	383	Modif
+8	de	de	SPS00	C0332285	atributo	38-40	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+9	la	el	DA0FS0	-	-	41-43	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+10	cadera	cadera	NCFS000	C0019552	estructura_corporal	44-50	530_ANS_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	5	383	Modif
+11	.	.	Fp	-	-	50-51	530_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	52-56	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+2	asociar	asociar	VMN0000	-	-	57-64	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+3	se	se	PP3CN000	-	-	64-66	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+4	alopurinol	alopurinol	NC00SC0	C0002144	sustancia	67-77	530_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-	-	-	-
+5	y	y	CC	C1706368	calificador	78-79	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+6	aumentar	aumentar	VMN0000	-	-	80-88	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+7	la	el	DA0FS0	-	-	89-91	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+8	analgesia	analgesia	NCFS000	C0344307	hallazgo	92-101	530_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-	-	-	-
+9	si	si	CS	-	-	102-104	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+10	precisa	precisar	VMIP3S0	-	-	105-112	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+11	,	,	Fc	-	-	112-113	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+12	recurriendo	recurrir	VMG0000	-	-	114-125	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+13	a	a	SPS00	-	-	126-127	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+14	opioides	opioides	NC00AO0	-	-	128-136	530_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-	-	-	-
+15	mayores	mayor	AQ0CP0	C0205164#C1704243#C0549177	calificador	137-144	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+16	.	.	Fp	-	-	144-145	530_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+

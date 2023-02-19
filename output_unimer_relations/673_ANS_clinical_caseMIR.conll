@@ -1,0 +1,25 @@
+1	Neuropatía	neuropatía	NCFS000	C0442874#C0031117	trastorno	0-10	673_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	-	-	11-14	673_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	nervio	nervio	NCMS000	C0015808#C1278852_1	estructura_corporal_1	15-21	673_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	1551	LOC
+4	femoral	femoral	NC00SC0	C0015808#C1278852_2	estructura_corporal_2	22-29	673_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	29-30	673_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Meralgia	meralgia	NC00SC0	C0152110_1	trastorno_1	0-8	673_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	parestésica	parestésica		C0152110_2	trastorno_2	9-20	673_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	1552	Modif
+3	del	del	SP+DA	-	-	21-24	673_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	nervio	nervio	NCMS000	C1280541#C0027740	estructura_corporal	25-31	673_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	1552	LOC
+5	fémorocutáneo	fémorocutáneo	AQ0MS00	-	-	32-45	673_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	4	23	MultiE
+6	.	.	Fp	-	-	45-46	673_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Neuropatía	neuropatía	NCFS000	C0442874#C0031117	trastorno	0-10	673_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	-	-	11-14	673_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	nervio	nervio	NCMS000	C1278853#C0028783_1	estructura_corporal_1	15-21	673_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	1553	LOC
+4	obturador	obturador	NCMS000	C1278853#C0028783_2	estructura_corporal_2	22-31	673_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	31-32	673_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Neuropatía	neuropatía	NCFS000	C0149940_1	trastorno_1	0-10	673_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	C0149940_2	trastorno_2	11-14	673_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	nervio	nervio	NCMS000	C0149940_3	trastorno_3	15-21	673_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	1554	LOC
+4	ciático	ciático	AQ0MS0	C0149940_4	trastorno_4	22-29	673_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	29-30	673_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

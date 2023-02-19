@@ -1,0 +1,58 @@
+1	Acude	acudir	VMIP3S0	-	-	0-5	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	a	a	SPS00	-	-	6-7	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	su	su	DP3CS0	-	-	8-10	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	11-19	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	20-23	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	24-29	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	30-32	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	45	45		-	-	33-35	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	años	año	NCMP000	C0439234	calificador	36-40	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	41-44	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	45-47	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	bulto	bulto	NCMS000	C0577559	hallazgo#anomalía_morfológica	48-53	181_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	no	no	RN	C1298908	calificador	54-56	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	palpable	palpable	AQ0CS0	C0522499	calificador	57-65	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	66-68	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	la	el	DA0FS0	-	-	69-71	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	mama	mamar	VMM02S0	C0222601#C1284139_1	estructura_corporal_1	72-76	181_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	12	115	LOC
+18	izquierda	izquierdo	AQ0FS0	C0222601#C1284139_2	estructura_corporal_2	77-86	181_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	7	MultiE
+19	.	.	Fp	-	-	86-87	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	88-90	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	mamografía	mamografía	NCFS000	C0024671	procedimiento	91-101	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	indica	indicar	VMIP3S0	-	-	102-108	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	109-111	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	BI-RADS	breast_imaging_reporting_and_data_system_(sistema_de_informes_y_datos_de_imágenes_mamarias)	NC00YL0	-	-	112-119	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	4	4		-	-	120-121	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	(	(	Fpa	-	-	122-123	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	sospechosa	sospechoso	NCFS000	-	-	123-133	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	134-136	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	malignidad	malignidad	NCFS000	-	-	137-147	181_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+11	)	)	Fpt	-	-	147-148	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	.	.	Fp	-	-	148-149	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	150-152	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	ginecólogo	ginecólogo	NCMS000	C0237419	ocupación	153-163	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	decide	decidir	VMIP3S0	-	-	164-170	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	operar	operar	VMN0000	-	-	171-177	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	sin	sin	SPS00	C0332288	atributo	178-181	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	hacer	hacer	VMN0000	-	-	182-187	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	188-191	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	pruebas	prueba	NCFP000	-	-	192-199	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	200-201	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	enviar	enviar	VMN0000	-	-	202-208	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	la	el	DA0FS0	-	-	209-211	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	muestra	muestra	NCFS000	C0370003	espécimen	212-219	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	intra-operatoriamente	intra-operatoriamente	RG	-	-	220-241	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	para	para	SPS00	C0521125	calificador	242-246	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	que	que	CS	-	-	247-250	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	el	el	DA0MS0	-	-	251-253	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	patólogo	patólogo	NCMS000	-	-	254-262	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	263-265	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	confirme	confirmar	VMSP3S0	-	-	266-274	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	la	el	DA0FS0	-	-	275-277	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	278-286	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	de	de	SPS00	C0332147_2	calificador_2	287-289	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	carcinoma	carcinoma	NCMS000	C0007097	anomalía_morfológica	290-299	181_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion	-	-	-
+24	.	.	Fp	-	-	299-300	181_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

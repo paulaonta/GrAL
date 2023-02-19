@@ -1,0 +1,80 @@
+1	Es	ser	VSIP3S0	-	-	330-332	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	muy	muy	RG	C0442824	calificador	333-336	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	probable	probable	AQ0CS0	C0332148	calificador	337-345	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	que	que	CS	-	-	346-349	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	esté	estar	VASP1S0	-	-	350-354	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presentando	presentar	VMG0000	-	-	355-366	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	367-369	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	cuadro	cuadro	NCMS000	-	-	370-376	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	clínico	clínico	AQ0MS0	C0205210	calificador	377-384	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	385-387	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	:	:	Fd	-	-	387-388	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	Se	se	P00CN000	-	-	0-2	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	debe	deber	VMIP3S0	-	-	3-7	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	a	a	SPS00	-	-	8-9	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	10-13	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	fibrosis	fibrosis	NCFN000	C0035357_1	trastorno_1	14-22	722_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	retroperitoneal	retroperitoneal	NC00SC0	C0035357_2	trastorno_2	23-38	722_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	1204	LOC
+18	idiopática	idiopático	AQ0FS0	C0035357_3	trastorno_3	39-49	722_ANS_clinical_caseMIR	SENT1	B-Calificador	-	16	1204	Modif
+19	y	y	CC	C1706368	calificador	50-51	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	no	no	RN	C1298908	calificador	52-54	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	precisa	precisar	VMIP3S0	-	-	55-62	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	63-65	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	más	más	RG	C0205172	calificador	66-69	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	estudios	estudio	NCMP000	C0557651	medio_ambiente	70-78	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	diagnósticos	diagnóstico	AQ0MP0	C0011900	entidad_observable	79-91	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	91-92	722_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	0-2	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	15-17	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	clínico	clínico	AQ0MS0	C0205210	calificador	18-25	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	26-27	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	habría	haber	VMIC1S0	-	-	28-34	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	que	que	CS	-	-	35-38	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	realizar	realizar	VMN0000	-	-	39-47	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	48-50	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tratamiento	tratamiento	NCMS000	C1299622_1	régimen/tratamiento_1	51-62	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	empírico	empírico	NCMS000	C1299622_2	régimen/tratamiento_2	63-71	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	con	con	SPS00	C1299622_3	régimen/tratamiento_3	72-75	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	antibióticos	antibiótico	NCMP000	C1299622_4	régimen/tratamiento_4	76-88	722_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	89-91	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	amplio	amplio	AQ0MS0	-	-	92-98	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	espectro	espectro	NCMS000	-	-	99-107	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	107-108	722_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	determinación	determinación	NCFS000	C0242485	procedimiento	3-16	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	17-19	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	niveles	nivel	NCMP000	C0456079	atributo	20-27	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	elevados	elevar	VMP00PM	-	-	28-36	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	37-39	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	inmunoglobulinas	inmunoglobulina	NCFP000	C0021027	sustancia	40-56	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	confirma	confirmar	VMIP3S0	-	-	57-65	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	el	el	DA0MS0	-	-	66-68	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	69-80	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	80-81	722_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Requiere	requerir	VMIP3S0	-	-	0-8	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	12-14	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	15-26	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	histológico	histológico	AQ0MS0	C0205462	calificador	27-38	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	que	que	PR0CN000	-	-	39-42	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	mostrara	mostrar	VMSI3S0	-	-	43-51	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	52-54	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	infiltrado	infiltrado	NC00SC0	C0332448	anomalía_morfológica	55-65	722_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+10	difuso	difuso	AQ0MS0	C0205219	calificador	66-72	722_ANS_clinical_caseMIR	SENT4	B-Calificador	-	9	1207	Modif
+11	de	de	SPS00	C0332285	atributo	73-75	722_ANS_clinical_caseMIR	SENT4	B-Calificador	-	9	1207	Modif
+12	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	76-83	722_ANS_clinical_caseMIR	SENT4	I-Calificador	-	11	50	MultiE
+13	plasmáticas	plasmático	AQ0FP0	-	-	84-95	722_ANS_clinical_caseMIR	SENT4	I-Calificador	-	11	50	MultiE
+14	y	y	CC	C1706368	calificador	96-97	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	más	más	RG	C0205172	calificador	98-101	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	102-104	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	10	10		-	-	105-107	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	108-115	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	IgG4-positivas	IgG4-positivas		-	-	116-130	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	por	por	SPS00	C0678226	atributo	131-134	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+21	campo	campo	NCMS000	-	-	135-140	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+22	.	.	Fp	-	-	140-141	722_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

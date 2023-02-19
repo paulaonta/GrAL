@@ -1,0 +1,17 @@
+1	Neoplasia	neoplasia	NCFS000	C0027662#C0311355_1	trastorno_1	0-9	390_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	endocrina	endocrino	AQ0FS0	C0027662#C0311355_2	trastorno_2	10-19	390_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	4732	LOC
+3	múltiple	múltiple	NC00SC0	C0027662#C0311355_3	trastorno_3	20-28	390_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	4732	Modif
+4	tipo	tipo	NCMS000	C0441729_1	calificador_1	29-33	390_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	4732	Modif
+5	1	1	Z	C0441729_2	calificador_2	34-35	390_ANS_clinical_caseMIR	SENT1	I-Calificador	-	4	23	MultiE
+6	.	.	Fp	-	-	35-36	390_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	390_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	390_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	McCune-Albright	mccune-albright	NCMS000	-	-	12-27	390_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	27-28	390_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Complejo	complejo	NCMS000	C0439855	calificador	0-8	390_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	390_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Carney	carney	NCFS000	-	-	12-18	390_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	.	.	Fp	-	-	18-19	390_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+

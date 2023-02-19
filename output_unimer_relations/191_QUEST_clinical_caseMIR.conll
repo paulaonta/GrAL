@@ -1,0 +1,93 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	treinta	treinta		-	-	13-20	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	y	y		-	-	21-22	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	cinco	cinco		-	-	23-28	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	años	año	NCMP000	C0439234	calificador	29-33	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	(	(	Fpa	-	-	34-35	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	caso	caso	NCMS000	C0868928	calificador	35-39	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	índice	índice	NCMS000	-	-	40-46	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	)	)	Fpt	-	-	46-47	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	afecto	afecto	NCMS000	C0001721	función	48-54	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	55-57	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	ataxia	ataxia	NCFS000	C0004134	hallazgo	58-64	191_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	y	y	CC	C1706368	calificador	65-66	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	67-70	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	manifestaciones	manifestación	NCFP000	-	-	71-86	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	clínicas	clínico	AQ0FP0	C0205210	calificador	87-95	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	desde	desde	SPS00	-	-	96-101	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	hace	hacer	VMIP3S0	-	-	102-106	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	tres	tres		-	-	107-111	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	años	año	NCMP000	C0439234	calificador	112-116	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	,	,	Fc	-	-	116-117	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	presenta	presentar	VMIP3S0	-	-	118-126	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	una	una		C0205447_1	calificador_1	127-130	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	mutación	mutación	NCFS000	-	-	131-139	191_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	expansiva	expansivo	AQ0FS0	-	-	140-149	191_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	26	242	MultiE
+28	trínucleotídica	trínucleotídica	AQ0FS00	-	-	150-165	191_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	26	2497	LOC
+29	CAG	cag	NCMS000	-	-	166-169	191_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	28	89	MultiE
+30	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	heterocigosis	heterocigosis	NCFN000	-	-	173-186	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	en	en	SPS00	C1720294#C0332285	calificador#atributo	187-189	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	el	el	DA0MS0	-	-	190-192	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	gen	gen	NCMS000	C0017337	sustancia	193-196	191_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	26	2497	LOC
+35	ATXN1	ATXN1		-	-	197-202	191_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	34	106	MultiE
+36	.	.	Fp	-	-	202-203	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	204-206	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	207-218	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	molecular	molecular	AQ0CS0	-	-	219-228	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	es	ser	VSIP3S0	-	-	229-231	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	232-234	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ataxia	ataxia	NCFS000	C0087012_1	trastorno_1	235-241	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	24	2498	Causada_por
+7	espinocerebelosa	espinocerebelosa		C0087012_2	trastorno_2	242-258	191_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	2498	LOC
+8	tipo	tipo	NCMS000	C0441729_1	calificador_1	259-263	191_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	2498	Modif
+9	1	1	Z	C0441729_2	calificador_2	264-265	191_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	41	MultiE
+10	(	(	Fpa	-	-	266-267	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	SCA1	SCA1		-	-	267-271	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	;	;	Fx	-	-	271-272	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	6p22.3	6p22.3		-	-	273-279	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	)	)	Fpt	-	-	279-280	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	281-282	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	283-285	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	el	el	DA0MS0	-	-	286-288	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	informe	informe	NCMS000	C0684224	elemento_de_registro	289-296	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	genético	genético	AQ0MS0	-	-	297-305	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	se	se	P00CN000	-	-	306-308	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	dice	decir	VMIP3S0	-	-	309-313	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	que	que	CS	-	-	314-317	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	la	el	DA0FS0	-	-	318-320	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	321-331	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	6	2498	Causada_por
+25	es	ser	VSIP3S0	-	-	332-334	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	335-337	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	penetrancia	penetrancia	NCFS000	-	-	338-349	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	350-358	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	a	a	SPS00	-	-	359-360	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	lo	el	DA0NS0	-	-	361-363	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	largo	largo	AQ0MS0	C0205166#C0392744	calificador	364-369	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	370-372	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	la	el	DA0FS0	-	-	373-375	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	vida	vida	NCFS000	-	-	376-380	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	.	.	Fp	-	-	380-381	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	382-384	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	385-387	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	consejo	consejo	NCMS000	-	-	388-395	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	genético	genético	AQ0MS0	-	-	396-404	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	se	se	P00CN000	-	-	405-407	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	explicarán	explicar	VMIF3P0	-	-	408-418	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	al	al	SP+DA	-	-	419-421	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	caso	caso	NCMS000	C0868928	calificador	422-426	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	índice	índice	NCMS000	-	-	427-433	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	los	el	DA0MP0	-	-	434-437	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	riesgos	riesgo	NCMP000	-	-	438-445	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	446-448	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	transmitir	transmitir	VMN0000	-	-	449-459	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	la	el	DA0FS0	-	-	460-462	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	463-473	191_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+16	a	a	SPS00	-	-	474-475	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	su	su	DP3CS0	-	-	476-478	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	descendencia	descendencia	NCFS000	-	-	479-491	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	.	.	Fp	-	-	491-492	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

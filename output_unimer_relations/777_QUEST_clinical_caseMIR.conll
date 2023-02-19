@@ -1,0 +1,46 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	82	82		-	-	10-12	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	28-29	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	30-39	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	40-43	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	cuadro	cuadro	NCMS000	-	-	44-50	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	51-53	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	estreñimiento	estreñimiento	NCMS000	C0009806	hallazgo#trastorno	54-67	777_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	junto	junto	RG	-	-	68-73	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	74-77	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	gran	gran	AQ0CS0	C0549177	calificador	78-82	777_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	16	5344	Modif
+16	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	83-93	777_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	94-103	777_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	5344	LOC
+18	.	.	Fp	-	-	103-104	777_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	105-107	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	108-110	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	radiología	radiología	NCFS000	-	-	111-121	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	simple	simple	AQ0CS0	C0205352	calificador	122-128	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	129-131	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	132-139	777_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+7	se	se	P00CN000	-	-	140-142	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	observa	observar	VMIP3S0	-	-	143-150	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	el	el	DA0MS0	-	-	151-153	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	signo	signo	NCMS000	C0311392	hallazgo	154-159	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	160-162	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	grano	grano	NCMS000	C0086369#C0304065	sustancia	163-168	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	169-171	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	café	café	NCMS000	C0442599#C0009237	medio_ambiente#sustancia	172-176	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	177-178	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	179-181	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	el	el	DA0MS0	-	-	182-184	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	enema	enema	NCMS000	C0993595#C0014268	calificador#procedimiento	185-190	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	opaco	opacar	VMIP1S0	-	-	191-196	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	el	el	DA0MS0	-	-	197-199	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	signo	signo	NCMS000	C0311392	hallazgo	200-205	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	206-208	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	pico	pico	NCMS000	C0444505#C0004895	calificador#estructura_corporal	209-213	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	214-216	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	pájaro	pájaro	NCMS000	C0005595#C0324556	organismo#organismo_vivo	217-223	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	.	.	Fp	-	-	223-224	777_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

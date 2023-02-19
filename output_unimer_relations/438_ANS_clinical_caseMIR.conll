@@ -1,0 +1,78 @@
+1	La	el	DA0FS0	-	-	0-2	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	presenta	presentar	VMIP3S0	-	-	12-20	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	empeoramiento	empeoramiento	NCMS000	-	-	21-34	438_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	7	4713	LOC
+5	de	de	SPS00	C0332285	atributo	35-37	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	su	su	DP3CS0	-	-	38-40	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ICC	insuficiencia_cardiaca_congestiva	NC00YL0	-	-	41-44	438_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	4	4713	Causada_por
+8	por	por	SPS00	C0678226	atributo	45-48	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	lo	el	DA0NS0	-	-	49-51	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	que	que	PR0CN000	-	-	52-55	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	se	se	P00CN000	-	-	56-58	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	debe	deber	VMIP3S0	-	-	59-63	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	remitir	remitir	VMN0000	C0439600	calificador	64-71	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	a	a	SPS00	-	-	72-73	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Urgencias	urgencia	NCFP000	C0439609	calificador	74-83	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	para	para	SPS00	C0521125	calificador	84-88	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	89-100	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	intensivo	intensivo	AQ0MS0	-	-	101-110	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	110-111	438_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	0-3	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	síntomas	síntoma	NCMP000	C1457887	hallazgo	4-12	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	orientan	orientar	VMIP3P0	-	-	13-21	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	a	a	SPS00	-	-	22-23	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	que	que	CS	-	-	24-27	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	podría	poder	VMIC3S0	-	-	28-34	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	tratar	tratar	VMN0000	-	-	35-41	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	se	se	PP3CN000	-	-	41-43	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	44-46	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	47-50	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	intoxicación	intoxicación	NCFS000	C0032343#C0311393	trastorno#hallazgo	51-63	438_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	digitálica	digitálico	AQ0FS0	C0304520	sustancia	64-74	438_ANS_clinical_caseMIR	SENT2	B-Calificador	-	11	4714	LOC
+13	.	.	Fp	-	-	74-75	438_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	dispepsia	dispepsia	NCFS000	C0267167_1	trastorno_1	16-25	438_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	funcional	funcional	NC00SC0	C0267167_2	trastorno_2	26-35	438_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	4715	Modif
+7	por	por	SPS00	C0678226	atributo	36-39	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	polimedicación	polimedicación	NCFS000	-	-	40-54	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	55-56	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	puede	poder	VMIP3S0	-	-	57-62	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	prescribir	prescribir	VMN0000	-	-	63-73	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	74-76	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	inhibidor	inhibidor	NCMS000	C0358591_1	producto#sustancia_1	77-86	438_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+14	de	de	SPS00	C0358591_2	producto#sustancia_2	87-89	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	la	lo	PP3FSA00	C0358591_3	producto#sustancia_3	90-92	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	bomba	bombo	AQ0FS0	C0358591_4	producto#sustancia_4	93-98	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0358591_5	producto#sustancia_5	99-101	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	protones	protón	NCMP000	C0358591_6	producto#sustancia_6	102-110	438_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+19	para	para	SPS00	C0521125	calificador	111-115	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+20	controlar	controlar	VMN0000	-	-	116-125	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+21	los	el	DA0MP0	-	-	126-129	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+22	síntomas	síntoma	NCMP000	C1457887	hallazgo	130-138	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+23	.	.	Fp	-	-	138-139	438_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	cuadro	cuadro	NCMS000	-	-	12-18	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	19-21	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	ansiedad	ansiedad	NCFS000	C0003467	hallazgo	22-30	438_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	31-33	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	34-42	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	pluripatológica	pluripatológico	AQ0FS0	-	-	43-58	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	inmovilizada	inmovilizar	VMP00SF	-	-	59-71	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	72-74	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	domicilio	domicilio	NCMS000	C1442065	entidad_observable	75-84	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	,	,	Fc	-	-	84-85	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	podría	poder	VMIC3S0	-	-	86-92	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	iniciar	iniciar	VMN0000	-	-	93-100	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	101-112	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	113-116	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	ansiolíticos	ansiolíticos	NC00SC0	C0040616	producto	117-129	438_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+19	.	.	Fp	-	-	129-130	438_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

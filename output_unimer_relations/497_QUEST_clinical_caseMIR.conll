@@ -1,0 +1,103 @@
+1	Ante	ante	SPS00	-	-	387-391	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	estos	este	DD0MP0	-	-	392-397	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	datos	dato	NCMP000	-	-	398-403	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	,	,	Fc	-	-	403-404	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	pensaría	pensar	VMIC3S0	-	-	405-413	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	414-416	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	:	:	Fd	-	-	416-417	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	7-9	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	45	45		-	-	10-12	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	años	año	NCMP000	C0439234	calificador	13-17	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	que	que	PR0CN000	-	-	18-21	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	por	por	SPS00	C1704447_2	calificador_2	31-34	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	tos	tos	NCFS000	C0239134_1	hallazgo_1	35-38	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	productiva	productivo	AQ0FS0	C0239134_2	hallazgo_2	39-49	497_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	1051	Modif
+17	,	,	Fc	-	-	49-50	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	dolor	dolor	NCMS000	C0008033_1	hallazgo_1	51-56	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	pleurítico	pleurítico	NCMS000	C0008033_2	hallazgo_2	57-67	497_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	1051	LOC
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	68-70	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	costado	costar	VMP00SM	-	-	71-78	497_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	1051	LOC
+22	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	79-86	497_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	21	113	MultiE
+23	y	y	CC	C1706368	calificador	87-88	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	fiebre	fiebre	NCFS000	C0015967	hallazgo	89-95	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	96-98	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	48	48	Z	-	-	99-101	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	h	h	NCMN000	C0439227	calificador	102-103	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	de	de	SPS00	C0332285	atributo	104-106	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	evolución	evolución	NCFS000	-	-	107-116	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	116-117	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	118-120	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	aprecia	apreciar	VMIP3S0	-	-	121-128	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	129-132	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	saturación	saturación	NCFS000	-	-	133-143	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	basal	basal	AQ0CS0	C0205112	calificador	144-149	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	150-152	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	02	02		-	-	153-155	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	del	del	SP+DA	-	-	156-159	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	88	88	Z	-	-	160-162	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	%	%	Ft	-	-	162-163	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	164-165	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	estertores	estertor	NCMP000	-	-	166-176	497_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	base	base	NCCS000	C1626935#C0178499	calificador#sustancia	180-184	497_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	12	1052	LOC
+15	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	185-192	497_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	14	51	MultiE
+16	.	.	Fp	-	-	192-193	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	194-196	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	RX	rx	NC00SC0	C0039985_1	procedimiento_1	197-199	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	200-202	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	203-208	497_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	muestra	mostrar	VMIP3S0	-	-	209-216	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	217-220	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	consolidación	consolidación	NCFS000	C0702116	anomalía_morfológica	221-234	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	basal	basal	AQ0CS0	C0205112	calificador	235-240	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	derecha	derecha	NCFS000	-	-	241-248	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	248-249	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	250-255	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	256-268	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332119_2	situación_2	269-271	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	infección	infección	NCFS000	C0019693_1	trastorno_1	272-281	497_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	por	por	SPS00	C0019693_2	trastorno_2	282-285	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0019693_3	trastorno_3	286-289	497_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	bien	bien	RG	C0205170	calificador	290-294	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	controlada	controlar	VMP00SF	-	-	295-305	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	306-309	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	antirretrovirales	antirretrovirales	NCCP000	-	-	310-327	497_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+11	(	(	Fpa	-	-	328-329	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	linfocitos	linfocito	NCMP000	C0024264	célula	329-339	497_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+13	CD4	CD4		-	-	340-343	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	550	550		-	-	344-347	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	cel	cel	NCFS000	-	-	348-351	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	/	/	Fh	-	-	351-352	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	μL	μl	NCMS000	-	-	352-354	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	y	y	CC	C1706368	calificador	355-356	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	carga	carga	NCFS000	-	-	357-362	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	viral	viral	AQ0CS0	-	-	363-368	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	369-371	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	372-375	497_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	4	1054	Causada_por
+23	indetectable	indetectable	AQ0CS0	-	-	376-388	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	)	)	Fpt	-	-	388-389	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	.	.	Fp	-	-	389-390	497_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	391-392	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	392-396	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	397-399	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	los	el	DA0MP0	-	-	400-403	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	404-416	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	antimicrobianos	antimicrobiano	AQ0MP0	-	-	417-432	497_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+7	empíricos	empírico	NCMP000	-	-	433-442	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	que	que	PR0CN000	-	-	443-446	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	se	se	P00CN000	-	-	447-449	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	citan	citar	VMIP3P0	-	-	450-455	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	a	a	SPS00	-	-	456-457	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	continuación	continuación	NCFS000	-	-	458-470	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	471-473	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	parece	parecer	VMIP3S0	-	-	474-480	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	más	más	RG	C0205172	calificador	481-484	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	adecuado	adecuar	VMP00SM	-	-	485-493	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	?	?	Fit	-	-	493-494	497_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,37 @@
+1	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	0-11	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	anti-ADN	anti-adn	VMIP3P0	-	-	12-20	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	21-23	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	24-26	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	recién	recién	RG	C0021289#C2239178_1	persona#hallazgo_1	27-33	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	nacido	nacido	NCMS000	C0021289#C2239178_2	persona#hallazgo_2	34-40	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	.	.	Fp	-	-	40-41	758_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	0-11	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	anti-citoplasma	anti-citoplasma	AQ0CS00	-	-	12-27	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	28-30	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	neutrófilo	neutrófilo	NCMS000	C0027950	célula	31-41	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	(	(	Fpa	-	-	42-43	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ANCA	anca	NCFS000	-	-	43-47	758_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	)	)	Fpt	-	-	47-48	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	49-51	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	la	el	DA0FS0	-	-	52-54	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	madre	madre	NCFS000	C0026591	persona	55-60	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	60-61	758_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	0-11	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	anti-Ro	anti-ro	NCMS000	-	-	12-19	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	/	/	Fh	-	-	19-20	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	SS-A	ss-a	NCFS000	-	-	20-24	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	25-27	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	28-30	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	madre	madre	NCFS000	C0026591	persona	31-36	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	36-37	758_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	0-11	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	anti-Sm	anti-sm	NCMS000	-	-	12-19	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	20-22	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	el	el	DA0MS0	-	-	23-25	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	recién	recién	RG	C0021289#C2239178_1	persona#hallazgo_1	26-32	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	nacido	nacido	NCMS000	C0021289#C2239178_2	persona#hallazgo_2	33-39	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	39-40	758_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

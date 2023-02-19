@@ -1,0 +1,35 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	42	42		-	-	9-11	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	29-37	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	38-40	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	su	su	DP3CS0	-	-	41-43	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	44-50	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C1704221#C0017319_2	ocupación_2	51-53	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	familia	familia	NCFS000	C1704221#C0017319_3	ocupación_3	54-61	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	por	por	SPS00	C0678226	atributo	62-65	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	gonalgia	gonalgia	NC00SC0	C0231749	hallazgo	66-74	730_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	.	.	Fp	-	-	74-75	730_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	De	de	SPS00	C0332285	atributo	76-78	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	forma	forma	NCFS000	C0348078	atributo	79-84	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	oportunista	oportunista	AQ0CS0	-	-	85-96	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	97-99	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	aprovecha	aprovechar	VMIP3S0	-	-	100-109	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	la	el	DA0FS0	-	-	110-112	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	113-121	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	122-126	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	valorar	valorar	VMN0000	-	-	127-134	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	estilos	estilo	NCMP000	-	-	135-142	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	143-145	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	vida	vida	NCFS000	-	-	146-150	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	,	,	Fc	-	-	150-151	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	especialmente	especialmente	RG	-	-	152-165	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	el	el	DA0MS0	-	-	166-168	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	tabaquismo	tabaquismo	NCMS000	C0040332#C0040336#C1306274#C0425291_1	trastorno#entidad_observable_1	169-179	730_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+17	.	.	Fp	-	-	179-180	730_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

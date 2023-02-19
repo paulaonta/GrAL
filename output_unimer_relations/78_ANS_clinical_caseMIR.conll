@@ -1,0 +1,34 @@
+1	Elija	elegir	VMM03S0	-	-	165-170	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	171-173	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	opción	opción	NCFS000	-	-	174-180	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	181-189	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	:	:	Fd	-	-	189-190	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	Anticonceptivos	anticonceptivo	NCMP000	-	-	0-15	78_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+7	orales	orar	VMM02S0	-	-	16-22	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	.	.	Fp	-	-	22-23	78_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Quistectomía	quistectomía	NCFS000	-	-	0-12	78_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	ovárica	ovárico	AQ0FS0	-	-	13-20	78_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	por	por	SPS00	C0678226	atributo	21-24	78_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	laparoscopia	laparoscopia	NCFS000	C0031150	procedimiento	25-37	78_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	37-38	78_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Antiinflamatorios	antiinflamatorios	NC00AO0	-	-	0-17	78_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	no	no	RN	C1298908	calificador	18-20	78_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	esteroideos	esteroideos	NCMP000	-	-	21-32	78_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	32-33	78_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Análogos	análogo	AQ0MP0	-	-	0-8	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	la	el	DA0FS0	-	-	12-14	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	GnRH	gonadotropin-releasing_hormone_(hormona_liberadora_de_gonadotropinas)	NC00YL0	-	-	15-19	78_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+5	durante	durante	SPS00	C1444752#C0347984	atributo	20-27	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	3	3		-	-	28-29	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	meses	mes	NCMP000	C0439231	calificador	30-35	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	.	.	Fp	-	-	35-36	78_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Ooforectomía	ooforectomía	NCFS000	-	-	0-12	78_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	13-16	78_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	laparoscopia	laparoscopia	NCFS000	C0031150	procedimiento	17-29	78_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	.	.	Fp	-	-	29-30	78_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

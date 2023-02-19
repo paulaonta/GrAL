@@ -1,0 +1,29 @@
+1	Ingresa	ingresar	VMIP3S0	-	-	0-7	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	8-10	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	nuestra	nuestro	DP1FSP	-	-	11-18	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	planta	planta	NCFS000	C0032098	organismo	19-25	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	desde	desde	SPS00	-	-	26-31	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	Urgencias	urgencia	NCFP000	C0439609	calificador	32-41	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	42-46	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	estudia	estudiar	VMIP3S0	-	-	47-54	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	55-57	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	58-66	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	67-69	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	80	80		-	-	70-72	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	73-77	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	refiriendo	referir	VMG0000	-	-	78-88	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	89-96	334_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	97-99	334_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	25	4022	Modif
+17	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	100-104	334_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	16	73	MultiE
+18	y	y	CC	C1706368	calificador	105-106	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	malestar	malestar	NCMS000	C0595961_1	hallazgo_1	107-115	334_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	inespecífico	inespecífico	NC00SC0	C0595961_2	hallazgo_2	116-128	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	centroabdominal	centroabdominal	AQ0CS00	-	-	129-144	334_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	19	4022	LOC
+22	,	,	Fc	-	-	144-145	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	junto	junto	RG	-	-	146-151	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	a	a	SPS00	-	-	152-153	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	pérdida	pérdida	NCFS000	-	-	154-161	334_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	162-164	334_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	25	4022	Modif
+27	apetito	apetito	NCMS000	C0003618	función	165-172	334_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	26	242	MultiE
+28	.	.	Fp	-	-	172-173	334_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

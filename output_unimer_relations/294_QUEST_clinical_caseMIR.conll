@@ -1,0 +1,32 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	24	24		-	-	9-11	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	dos	dos		-	-	21-24	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	episodios	episodio	NCMP000	C0332189	atributo	25-34	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	semanales	semanal	AQ0CP0	C0332174	calificador	35-44	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	45-47	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	cefalea	cefalea	NCFS000	C0018681	hallazgo	48-55	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	56-58	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	entre	entre	SPS00	C0205103	calificador	59-64	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	uno	uno		C0205447_1	calificador_1	65-68	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	69-70	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	tres	tres		-	-	71-75	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	días	día	NCMP000	C0439228#C0332169	calificador	76-80	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	81-83	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	duración	duración	NCFS000	C0449238	atributo	84-92	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	,	,	Fc	-	-	92-93	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	hemicraneal	hemicraneal	NC00BB0	-	-	94-105	294_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+21	,	,	Fc	-	-	105-106	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	intensa	intenso	AQ0FS0	C0205178	calificador	107-114	294_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	-	-	-
+23	,	,	Fc	-	-	114-115	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	acompañada	acompañar	VMP00SF	-	-	116-126	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	127-129	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	sono	sono	NCMS000	-	-	130-134	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	y	y	CC	C1706368	calificador	135-136	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	fotofobia	fotofobia	NCFS000	C0085636	hallazgo	137-146	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+29	y	y	CC	C1706368	calificador	147-148	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	náuseas	náusea	NCFP000	-	-	149-156	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	.	.	Fp	-	-	156-157	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

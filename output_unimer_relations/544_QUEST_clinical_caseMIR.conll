@@ -1,0 +1,71 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	544_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	6-9	544_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	10-20	544_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	neurodegenera_x0002_tiva	neurodegenera_x0002_tiva		-	-	21-45	544_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	3	30	MultiE
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	544_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	fase	fase	NCFS000	C0205179_1	calificador_1	49-53	544_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	avanzada	avanzar	VMP00SF	C0205179_2	calificador_2	54-62	544_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	.	.	Fp	-	-	62-63	544_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Llega	llegar	VMIP3S0	-	-	64-69	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	al	al	SP+DA	-	-	70-72	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	servicio	servicio	NCMS000	-	-	73-81	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	82-84	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	85-94	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	del	del	SP+DA	-	-	95-98	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	hospital	hospital	NCMS000	C1510665	medio_ambiente	99-107	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	108-111	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	112-115	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	infección	infección	NCFS000	C0035243_1	trastorno_1	116-125	544_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	126-138	544_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+12	,	,	Fc	-	-	138-139	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	que	que	PR0CN000	-	-	140-143	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	ha	haber	VAIP3S0	-	-	144-146	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	desencadenado	desencadenar	VMP00SM	-	-	147-160	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	161-164	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	insuficiencia	insuficiencia	NCFS000	C0035229_1	hallazgo#trastorno_1	165-178	544_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+18	respiratoria	respiratorio	AQ0FS0	C0035229_2	hallazgo#trastorno_2	179-191	544_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	17	4264,10	LOC,4264
+19	global	global	AQ0CS0	C0205246	calificador	192-198	544_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	17	4264	Modif
+20	aguda	agudo	AQ0FS0	C0205178	calificador	199-204	544_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	17	4264	Modif
+21	.	.	Fp	-	-	204-205	544_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	206-208	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	209-217	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tiene	tener	VMIP3S0	-	-	218-223	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	registrada	registrar	VMP00SF	-	-	224-234	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	235-238	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	directriz	directriz	NCFS000	-	-	239-248	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	anticipada	anticipar	VMP00SF	-	-	249-259	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	259-260	544_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	261-263	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	dichas	decir	VMP00PF	-	-	264-270	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	instrucciones	instrucción	NCFP000	C0220931#C1292796	procedimiento#calificador	271-284	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	previas	previo	AQ0FP0	C0205156	calificador	285-292	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	señala	señalar	VMIP3S0	-	-	293-299	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	"	"	Fe	-	-	300-301	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	que	que	CS	-	-	301-304	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	no	no	RN	C1298908	calificador	305-307	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	quiere	querer	VMIP3S0	-	-	308-314	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	ser	ser	VSN0000	-	-	315-318	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	sometida	someter	VMP00SF	-	-	319-327	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	a	a	SPS00	-	-	328-329	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	ventilación	ventilación	NCFS000	C0199470#C0554804_1	procedimiento_1	330-341	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	mecánica	mecánico	NCFS000	C0199470#C0554804_2	procedimiento_2	342-350	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	"	"	Fe	-	-	350-351	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	351-352	544_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	También	también	RG	-	-	353-360	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	dejó	dejar	VMIS3S0	-	-	361-365	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	establecido	establecer	VMP00SM	-	-	366-377	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	que	que	CS	-	-	378-381	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	nombra	nombrar	VMIP3S0	-	-	382-388	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	como	como	CS	C0332257	calificador	389-393	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	su	su	DP3CS0	-	-	394-396	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	representante	representante	NCCS000	-	-	397-410	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	a	a	SPS00	-	-	411-412	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	su	su	DP3CS0	-	-	413-415	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	amigo	amigo	NCMS000	C0079382	persona	416-421	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	Pedro	pedro	NCMS000	-	-	422-427	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	.	.	Fp	-	-	427-428	544_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

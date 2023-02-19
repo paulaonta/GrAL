@@ -1,0 +1,49 @@
+1	Sustituir	sustituir	VMN0000	-	-	0-9	508_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	fluticasona	fluticasona	NC00SC0	C0082607	producto#sustancia	10-21	508_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+3	/	/	Fh	-	-	21-22	508_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	salmeterol	salmeterol	NC00SC0	C0073992	producto#sustancia	22-32	508_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	33-36	508_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	budesonida	budesonida	NC00SC0	C0054201	producto#sustancia	37-47	508_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+7	/	/	Fh	-	-	47-48	508_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	formoterol	formoterol	NC00SC0	C0060657	producto#sustancia	48-58	508_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+9	.	.	Fp	-	-	58-59	508_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Suspender	suspender	VMN0000	-	-	0-9	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	fluticasona	fluticasona	NC00SC0	C0082607	producto#sustancia	10-21	508_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+3	/	/	Fh	-	-	21-22	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	salmeterol	salmeterol	NC00SC0	C0073992	producto#sustancia	22-32	508_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+5	y	y	CC	C1706368	calificador	33-34	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	mantener	mantener	VMN0000	-	-	35-43	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	solo	solo	AQ0MS0	C0205171	calificador	44-48	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	salbutamol	salbutamol	NC00SC0	C0001927	producto	49-59	508_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+9	a	a	SPS00	-	-	60-61	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	demanda	demanda	NCFS000	C0441516	calificador	62-69	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	69-70	508_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Suspender	suspender	VMN0000	-	-	0-9	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	fluticasona	fluticasona	NC00SC0	C0082607	producto#sustancia	10-21	508_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+3	/	/	Fh	-	-	21-22	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	salmeterol	salmeterol	NC00SC0	C0073992	producto#sustancia	22-32	508_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	e	y	CC	C1706368	calificador	33-34	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	intentar	intentar	VMN0000	-	-	35-43	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	mantenimiento	mantenimiento	NCMS000	-	-	44-57	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	sólo	sólo	RG	-	-	58-62	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	63-66	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	montelukast	montelukast	NC00SC0	C0298130	producto#sustancia	67-78	508_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+11	.	.	Fp	-	-	78-79	508_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Retirar	retirar	VMN0000	-	-	0-7	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	fluticasona	fluticasona	NC00SC0	C0082607	producto#sustancia	8-19	508_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+3	/	/	Fh	-	-	19-20	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	salmeterol	salmeterol	NC00SC0	C0073992	producto#sustancia	20-30	508_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+5	e	y	CC	C1706368	calificador	31-32	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	intentar	intentar	VMN0000	-	-	33-41	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	mantenimiento	mantenimiento	NCMS000	-	-	42-55	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	sólo	sólo	RG	-	-	56-60	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	61-64	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	budesonida	budesonida	NC00SC0	C0054201	producto#sustancia	65-75	508_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+11	a	a	SPS00	-	-	76-77	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	dosis	dosis	NCFN000	-	-	78-83	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	medias	medio	AQ0FP0	C2939193#C0205098#C0444598#C0549183	calificador	84-90	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	90-91	508_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

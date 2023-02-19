@@ -1,0 +1,113 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	27	27		-	-	9-11	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	déficit	déficit	NCMS000	C0162429	hallazgo	37-44	716_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	neurocognitivo	neurocognitivo	AQ0MS00	-	-	45-59	716_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	1851	LOC
+10	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	60-64	716_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	1851	Modif
+11	y	y	CC	C1706368	calificador	65-66	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	alteración	alteración	NCFS000	C0233514_1	hallazgo_1	67-77	716_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	de	de	SPS00	C0233514_2	hallazgo_2	78-80	716_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	12	1851	Modif
+14	la	lo	PP3FSA00	C0233514_3	hallazgo_3	81-83	716_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	13	72	MultiE
+15	conducta	conducta	NCFS000	C0233514_4	hallazgo_4	84-92	716_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	13	72	MultiE
+16	de	de	SPS00	C0332285	atributo	93-95	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	inicio	inicio	NCMS000	C0332162	atributo	96-102	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	103-105	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	la	el	DA0FS0	-	-	106-108	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	infancia	infancia	NCFS000	C0231335	calificador	109-117	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	118-119	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	disfunción	disfunción	NCFS000	C0277785	hallazgo	120-130	716_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	hepática	hepático	AQ0FS0	-	-	131-139	716_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	22	1851	LOC
+24	crónica	crónico	AQ0FS0	C0205191	calificador	140-147	716_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	1851	Modif
+25	(	(	Fpa	-	-	148-149	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	aspartato	aspartato	NC00SC0	C0004002_1	sustancia_1	149-158	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	aminotransferasa	aminotransferasa	NC00SC0	C0004002_2	sustancia_2	159-175	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	78U/L	78U/L		-	-	176-181	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	(	(	Fpa	-	-	182-183	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	5-40	5-40		-	-	183-187	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	U	o	CC	-	-	188-189	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	/	/	Fh	-	-	189-190	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	L	l	NCFS000	-	-	190-191	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	)	)	Fpt	-	-	191-192	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	,	,	Fc	-	-	192-193	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	alanino	alanino	AQ0MS00	-	-	194-201	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	aminotransferasa	aminotransferasa	NC00SC0	C0002594	sustancia	202-218	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	80U/L	80U/L		-	-	219-224	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	(	(	Fpa	-	-	225-226	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	5-40	5-40		-	-	226-230	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	U	o	CC	-	-	231-232	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	/	/	Fh	-	-	232-233	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	L	l	NCFS000	-	-	233-234	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	)	)	Fpt	-	-	234-235	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	)	)	Fpt	-	-	235-236	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	.	.	Fp	-	-	236-237	716_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	238-240	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	los	el	DA0MP0	-	-	241-244	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	últimos	último	AO0MP0	-	-	245-252	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	seis	seis		-	-	253-257	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	meses	mes	NCMP000	C0439231	calificador	258-263	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ha	haber	VAIP3S0	-	-	264-266	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	desarrollado	desarrollar	VMP00SM	-	-	267-279	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	280-283	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	alteración	alteración	NCFS000	-	-	284-294	716_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	295-297	716_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	9	1852	Modif
+11	la	lo	PP3FSA00	-	-	298-300	716_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	10	97	MultiE
+12	marcha	marchar	VMM02S0	-	-	301-307	716_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	10	97	MultiE
+13	.	.	Fp	-	-	307-308	716_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	309-311	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	remitido	remitir	VMP00SM	C1691010_1	calificador_1	312-320	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	a	a	SPS00	C1691010_2	calificador_2	321-322	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	urgencias	urgencia	NCFP000	C0439609	calificador	323-332	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	333-336	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	cefalea	cefalea	NCFS000	C0018681	hallazgo	337-344	716_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	,	,	Fc	-	-	344-345	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	346-353	716_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	,	,	Fc	-	-	353-354	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	rechazo	rechazo	NCMS000	-	-	355-362	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	363-365	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	los	el	DA0MP0	-	-	366-369	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	alimentos	alimento	NCMP000	C0016452	sustancia	370-379	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	380-381	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	382-393	716_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	394-396	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	el	el	DA0MS0	-	-	397-399	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	contexto	contexto	NCMS000	C0449255	atributo	400-408	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	409-411	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	412-414	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	415-423	716_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+22	gripal	gripal	AQ0CS0	-	-	424-430	716_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	21	113	MultiE
+23	.	.	Fp	-	-	430-431	716_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	432-434	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	435-437	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	438-449	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	450-456	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	destaca	destacar	VMIP3S0	-	-	457-464	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	temperatura	temperatura	NCFS000	C0039476	atributo	465-476	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	37,7°C	37,7°C		-	-	477-483	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	,	,	Fc	-	-	483-484	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	485-496	716_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	497-499	716_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	9	1854	Modif
+11	la	el	DA0FS0	-	-	500-502	716_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	10	97	MultiE
+12	conciencia	conciencia	NCFS000	C0234421#C1443086	-	503-513	716_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	10	97	MultiE
+13	(	(	Fpa	-	-	514-515	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	Glasgow	glasgow	NCMS000	-	-	515-522	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	11	11		-	-	523-525	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	)	)	Fpt	-	-	525-526	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	,	,	Fc	-	-	526-527	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	pupilas	pupilo	NCFP000	-	-	528-535	716_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+19	poco	poco	RG	C0700321#C1282918	-	536-540	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	reactivas	reactivo	AQ0FP0	C0183885#C0205332	objeto_físico#calificador	541-550	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	,	,	Fc	-	-	550-551	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	ataxia	ataxia	NCFS000	C0007758_1	trastorno_1	552-558	716_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+23	cerebelosa	cerebeloso	AQ0FS0	C0007758_2	trastorno_2	559-569	716_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	22	1854	LOC
+24	y	y	CC	C1706368	calificador	570-571	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	paraparesia	paraparesia	NC00SC0	C0037771_1	hallazgo_1	572-583	716_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+26	espástica	espástico	AQ0FS0	C0037771_2	hallazgo_2	584-593	716_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	25	1854	Modif
+27	.	.	Fp	-	-	593-594	716_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

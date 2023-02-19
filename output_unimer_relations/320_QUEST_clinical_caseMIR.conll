@@ -1,0 +1,163 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	78	78		-	-	10-12	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	26-29	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	artritis	artritis	NCFN000	C0003873_1	trastorno_1	30-38	320_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	reumatoide	reumatoide	AQ0CS0	C0003873_2	trastorno_2	39-49	320_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	2519	Modif
+10	(	(	Fpa	-	-	50-51	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	AR	ar	NC00YL0	-	-	51-53	320_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	8	2519	LOC
+12	)	)	Fpt	-	-	53-54	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	55-57	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	larga	largo	AQ0FS0	C0205166#C0392744	calificador	58-63	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	evolución	evolución	NCFS000	-	-	64-73	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	mal	mal	RG	C0205169	calificador	74-77	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	controlada	controlar	VMP00SF	-	-	78-88	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	.	.	Fp	-	-	88-89	320_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Antecedentes	antecedente	NCMP000	C0332119_1	situación_1	90-102	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332119_2	situación_2	103-105	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	2	2		-	-	106-107	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	ingresos	ingreso	NCMP000	-	-	108-116	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	117-120	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	121-134	320_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	cardiaca	cardiaco	AQ0FS0	-	-	135-143	320_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	6	2520	LOC
+8	y	y	CC	C1706368	calificador	144-145	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	146-157	320_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	auricular	auricular	NCMS000	C0004238_2	trastorno_2	158-167	320_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	2520	LOC
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	168-170	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	los	el	DA0MP0	-	-	171-174	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	últimos	último	AO0MP0	-	-	175-182	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	6	6		-	-	183-184	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	meses	mes	NCMP000	C0439231	calificador	185-190	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	190-191	320_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	192-194	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	195-206	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	actual	actual	AQ0CS0	C0521116	calificador	207-213	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	214-217	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	infliximab	infliximab	NC00SC0	C0666743	producto#sustancia	218-228	320_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+6	,	,	Fc	-	-	228-229	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	prednisona	prednisona	NCFS000	C0032952	sustancia	230-240	320_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+8	,	,	Fc	-	-	240-241	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	furasemida	furasemida	NCFS000	-	-	242-252	320_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+10	,	,	Fc	-	-	252-253	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	enalapril	enalapril	NC00SC0	C0014025	sustancia	254-263	320_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+12	,	,	Fc	-	-	263-264	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	carvedilol	carvedilol	NCMS000	C0054836	producto#sustancia	265-275	320_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+14	y	y	CC	C1706368	calificador	276-277	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	278-290	320_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+16	.	.	Fp	-	-	290-291	320_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ingresa	ingresar	VMIP3S0	-	-	292-299	320_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	nuevamente	nuevamente	RG	-	-	300-310	320_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	por	por	SPS00	C0678226	atributo	311-314	320_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	clínica	clínica	NCFS000	C0442592	medio_ambiente	315-322	320_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	323-325	320_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	326-339	320_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	cardiaca	cardiaco	AQ0FS0	-	-	340-348	320_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	6	2522	LOC
+8	biventricular	biventricular	AQ0CS0	-	-	349-362	320_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	6	2522	LOC
+9	.	.	Fp	-	-	362-363	320_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	364-366	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	el	el	DA0MS0	-	-	367-369	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	ECG	ecg	NC00YL0	C1623258	procedimiento	370-373	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	se	se	P00CN000	-	-	374-376	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	objetiva	objetivar	VMIP3S0	-	-	377-385	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	386-397	320_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+7	auricular	auricular	NCMS000	C0004238_2	trastorno_2	398-407	320_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	6	2523	LOC
+8	a	a	SPS00	-	-	408-409	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	102	102		-	-	410-413	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	lpm	lpm	NC00YL0	-	-	414-417	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	418-419	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	bloqueo	bloqueo	NCMS000	C0006384_1	trastorno_1	420-427	320_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+13	de	de	SPS00	C0006384_2	trastorno_2	428-430	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	rama	rama	NCFS000	C0006384_3	trastorno_3	431-435	320_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	12	2523	LOC
+15	izquierda	izquierdo	AQ0FS0	C0205091	calificador	436-445	320_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	14	51	MultiE
+16	avanzado	avanzar	VMP00SM	-	-	446-454	320_QUEST_clinical_caseMIR	SENT5	B-Calificador	-	12	2523	Modif
+17	.	.	Fp	-	-	454-455	320_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	456-458	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	ecocardiograma	ecocardiograma	NCMS000	-	-	459-473	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	474-481	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	482-492	320_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+5	biauricular	biauricular	AQ0CS0	-	-	493-504	320_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	4	2524	LOC
+6	,	,	Fc	-	-	504-505	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	engrosamiento	engrosamiento	NCMS000	C0205400	hallazgo	506-519	320_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	520-522	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	la	el	DA0FS0	-	-	523-525	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	pared	pared	NCFS000	-	-	526-531	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	del	del	SP+DA	-	-	532-535	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	ventrículo	ventrículo	NCMS000	C0225897#C1269892_1	estructura_corporal_1	536-546	320_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	7	2524	LOC
+13	izquierdo	izquierdo	NC00SC0	C0225897#C1269892_2	estructura_corporal_2	547-556	320_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-	12	13	MultiE
+14	con	con	SPS00	C0332287	atributo	557-560	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+15	fracción	fracción	NCFS000	C1264633_1	calificador_1	561-569	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	de	de	SPS00	C1264633_2	calificador_2	570-572	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	eyección	eyección	NCFS000	C0336969	calificador	573-581	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+18	del	del	SP+DA	-	-	582-585	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+19	45	45	Z	-	-	586-588	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+20	%	%	Ft	-	-	588-589	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	590-591	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+22	patrón	patrón	NCMS000	C0449774	atributo	592-598	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+23	restrictivo	restrictivo	AQ0MS0	-	-	599-610	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+24	.	.	Fp	-	-	610-611	320_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	612-614	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	la	el	DA0FS0	-	-	615-617	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	618-627	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	628-635	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	:	:	Fd	-	-	635-636	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	Hb	hb	NC00YL0	-	-	637-639	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	10	10	Z	-	-	640-642	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	gr	g	NC00SC0	-	-	643-645	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	/	/	Fh	-	-	645-646	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+10	dL	decilitro	NCMN000	C0439241	calificador	646-648	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+11	,	,	Fc	-	-	648-649	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+12	creatinina	creatinina	NC00SC0	C0010294	sustancia	650-660	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+13	2,1	2.1	Z	-	-	661-664	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+14	mg	mg	NCMN000	-	-	665-667	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+15	/	/	Fh	-	-	667-668	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+16	dL	decilitro	NCMN000	C0439241	calificador	668-670	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+17	(	(	Fpa	-	-	671-672	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+18	FG	filtrado_glomerular	NC00YL0	-	-	672-674	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+19	20	20	Z	-	-	675-677	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+20	mL	ml	NCMN000	C0439242	calificador	678-680	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+21	/	/	Fh	-	-	680-681	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+22	min	minuto	NCMN000	C0439232	calificador	681-684	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+23	)	)	Fpt	-	-	684-685	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+24	,	,	Fc	-	-	685-686	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+25	PCR	pcr	NC00YL0	-	-	687-690	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+26	124	124	Z	-	-	691-694	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+27	mg	mg	NCMN000	-	-	695-697	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+28	/	/	Fh	-	-	697-698	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+29	L	l	NCFS000	-	-	698-699	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+30	,	,	Fc	-	-	699-700	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+31	factor	factor	NCMS000	C0035448_1	sustancia_1	701-707	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+32	reumatoide	reumatoide	AQ0CS0	C0035448_2	sustancia_2	708-718	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+33	240	240		-	-	719-722	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+34	U	o	CC	-	-	723-724	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+35	/	/	Fh	-	-	724-725	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+36	L	l	NCFS000	-	-	725-726	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+37	,	,	Fc	-	-	726-727	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+38	BNP	b-type_natriuretic_peptide_(péptido_natriurético_tipo_b)	NC00YL0	-	-	728-731	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+39	980	980		-	-	732-735	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+40	ng	nasogástrico	NC00YL0	-	-	736-738	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+41	/	/	Fh	-	-	738-739	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+42	L	l	NCFS000	-	-	739-740	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+43	,	,	Fc	-	-	740-741	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+44	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	742-753	320_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+45	4,8	4,8		-	-	754-757	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+46	g/24h	g/24h		-	-	758-763	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+47	.	.	Fp	-	-	763-764	320_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	765-766	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	766-770	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	771-773	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	el	el	DA0MS0	-	-	774-776	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	777-788	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	789-792	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	793-801	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+8	?	?	Fit	-	-	801-802	320_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+

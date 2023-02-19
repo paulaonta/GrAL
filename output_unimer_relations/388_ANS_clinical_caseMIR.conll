@@ -1,0 +1,32 @@
+1	Seguimiento	seguimiento	NCMS000	-	-	0-11	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	anual	anual	AQ0CS0	C0332181	calificador	12-17	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	18-21	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	22-31	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tiroidea	tiroideo	AQ0FS0	-	-	32-40	388_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+6	y	y	CC	C1706368	calificador	41-42	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	analítica	analítico	AQ0FS0	-	-	43-52	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	53-55	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	función	función	NCFS000	C0542341	entidad_observable#atributo	56-63	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	tiroidea	tiroideo	AQ0FS0	-	-	64-72	388_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+11	.	.	Fp	-	-	72-73	388_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	388_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	388_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	Yodo	yodo	NCMS000	C0021968	producto#sustancia	16-20	388_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	radiactivo	radiactivo	AQ0MS0	-	-	21-31	388_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	3	30	MultiE
+5	(	(	Fpa	-	-	32-33	388_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	I-131	I-131		-	-	33-38	388_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	)	)	Fpt	-	-	38-39	388_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	39-40	388_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	388_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	388_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	antitiroideos	antitiroideo	AQ0MP0	-	-	16-29	388_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	30-32	388_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	síntesis	síntesis	NCFN000	-	-	33-41	388_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	41-42	388_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tiroidectomía	tiroidectomía	NC00SC0	C0193788_1	procedimiento_1	0-13	388_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	total	total	NCMS000	C0193788_2	procedimiento_2	14-19	388_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	.	.	Fp	-	-	19-20	388_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

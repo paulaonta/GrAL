@@ -1,0 +1,51 @@
+1	Anemia	anemia	NCFS000	C0002880#C0014761_1	trastorno_1	0-6	303_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	hemolítica	hemolítico	AQ0FS0	C0002880#C0014761_2	trastorno_2	7-17	303_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	864	Modif
+3	autoinmune	autoinmune	AQ0CS0	C0002880#C0014761_3	trastorno_3	18-28	303_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	864	Modif
+4	.	.	Fp	-	-	28-29	303_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	30-37	303_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	esteroides	esteroide	NCMP000	C0301818#C0038317	sustancia	38-48	303_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+3	.	.	Fp	-	-	48-49	303_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	303_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	303_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+3	von	von		-	-	14-17	303_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+4	Willebrand	Willebrand		-	-	18-28	303_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+5	.	.	Fp	-	-	28-29	303_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	30-44	303_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	45-47	303_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	desmopresina	desmopresina	NC00SC0	C0011701	producto#sustancia	48-60	303_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	60-61	303_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Púrpura	púrpura	NCMS000	C0857305_1	trastorno_1	0-7	303_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	trombocitopénica	trombocitopénica		C0857305_2	trastorno_2	8-24	303_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	868	Modif
+3	.	.	Fp	-	-	24-25	303_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	26-33	303_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	esteroides	esteroide	NCMP000	C0301818#C0038317	sustancia	34-44	303_ANS_clinical_caseMIR	SENT6	B-Grp_Medicamento	-	-	-	-
+3	y	y	CC	C1706368	calificador	45-46	303_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+4	transfusión	transfusión	NCFS000	C0086818_1	procedimiento_1	47-58	303_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+5	de	de	SPS00	C0086818_2	procedimiento_2	59-61	303_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	plaquetas	plaqueta	NCFP000	C0086818_3	procedimiento_3	62-71	303_ANS_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+7	.	.	Fp	-	-	71-72	303_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0272126_1	trastorno_1	0-8	303_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0272126_2	trastorno_2	9-11	303_ANS_clinical_caseMIR	SENT7	I-Grp_Enfermedad	-	1	567	MultiE
+3	Evans	Evans		C0272126_3	trastorno_3	12-17	303_ANS_clinical_caseMIR	SENT7	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	17-18	303_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	19-26	303_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+2	esteroides	esteroide	NCMP000	C0301818#C0038317	sustancia	27-37	303_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-	-	-	-
+3	.	.	Fp	-	-	37-38	303_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+
+1	Púrpura	púrpura	NCMS000	C0439542#C0034150	calificador#hallazgo#anomalía_morfológica	0-7	303_ANS_clinical_caseMIR	SENT9	B-Grp_Enfermedad	-	-	-	-
+2	trombótica	trombótica	AQ0FS00	-	-	8-18	303_ANS_clinical_caseMIR	SENT9	B-Calificador	-	1	872	LOC
+3	trombocitopénica	trombocitopénica	AQ0FS00	-	-	19-35	303_ANS_clinical_caseMIR	SENT9	B-Calificador	-	1	872	Modif
+4	.	.	Fp	-	-	35-36	303_ANS_clinical_caseMIR	SENT9	-	-	-	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	37-48	303_ANS_clinical_caseMIR	SENT10	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	49-52	303_ANS_clinical_caseMIR	SENT10	-	-	-	-	-
+3	plasmaferesis	plasmaferesis	NCFN000	-	-	53-66	303_ANS_clinical_caseMIR	SENT10	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	66-67	303_ANS_clinical_caseMIR	SENT10	-	-	-	-	-
+

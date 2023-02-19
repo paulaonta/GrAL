@@ -1,0 +1,66 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	continuar	continuar	VMN0000	-	-	11-20	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	la	el	DA0FS0	-	-	21-23	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	FV	fibrilación_ventricular	NC00YL0	-	-	24-26	157_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	después	después	RG	C0231290	atributo	27-34	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	del	del	SP+DA	-	-	35-38	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	3º	3º		-	-	39-41	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	choque	choque	NCMS000	C0036974	trastorno	42-48	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	desfibrilatorio	desfibrilatorio	AQ0MS00	-	-	49-64	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	.	.	Fp	-	-	64-65	157_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	aplicar	aplicar	VMN0000	C1632850	calificador	5-12	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	se	se	PP3CN000	-	-	12-14	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	desde	desde	SPS00	-	-	15-20	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	el	el	DA0MS0	-	-	21-23	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	inicio	inicio	NCMS000	C0332162	atributo	24-30	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	31-33	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	RCP	rcp	NC00SC0	C0007203	procedimiento	34-37	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	avanzada	avanzar	VMP00SF	-	-	38-46	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	46-47	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	cuando	cuando	CS	-	-	48-54	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	se	se	P00CN000	-	-	55-57	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	detecte	detectar	VMSP1S0	-	-	58-65	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	FV	fibrilación_ventricular	NC00YL0	-	-	66-68	157_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	68-69	157_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	0-4	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	5-7	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	primer	1	AO0MS0	-	-	8-14	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	choque	choque	NCMS000	C0036974	trastorno	15-21	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	desfibrilatorio	desfibrilatorio	AQ0MS00	-	-	22-37	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	,	,	Fc	-	-	37-38	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	39-41	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	caso	caso	NCMS000	C0868928	calificador	42-46	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	47-49	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	persistencia	persistencia	NCFS000	C0546816	hallazgo	50-62	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	63-65	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	la	el	DA0FS0	-	-	66-68	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	FV	fibrilación_ventricular	NC00YL0	-	-	69-71	157_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+14	.	.	Fp	-	-	71-72	157_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	está	estar	VAIP3S0	-	-	3-7	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	indicada	indicar	VMP00SF	-	-	8-16	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	su	su	DP3CS0	-	-	17-19	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	20-34	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	35-37	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	RCP	rcp	NC00SC0	C0007203	procedimiento	38-41	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	avanzada	avanzar	VMP00SF	-	-	42-50	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	.	.	Fp	-	-	50-51	157_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Sólo	sólo	RG	-	-	0-4	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	debe	deber	VMIP3S0	-	-	5-9	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	administrar	administrar	VMN0000	C1621583	calificador	10-21	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	se	se	PP3CN000	-	-	21-23	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	si	si	CS	-	-	24-26	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	se	se	P00CN000	-	-	27-29	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	30-38	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	taquicardia	taquicardia	NCFS000	C0042514_1	trastorno_1	39-50	157_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+9	ventricular	ventricular	AQ0CS0	C0042514_2	trastorno_2	51-62	157_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	8	1031	LOC
+10	polimorfa	polimorfo	AQ0FS0	-	-	63-72	157_ANS_clinical_caseMIR	SENT5	B-Calificador	-	8	1031	Modif
+11	.	.	Fp	-	-	72-73	157_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

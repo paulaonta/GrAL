@@ -1,0 +1,77 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	85	85		-	-	13-15	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sin	sin	SPS00	C0332288	atributo	21-24	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	-	-	25-37	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	previos	previo	AQ0MP0	C0205156	calificador	38-45	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	refiere	referir	VMIP3S0	-	-	46-53	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	que	que	CS	-	-	54-57	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	desde	desde	SPS00	-	-	58-63	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	hace	hacer	VMIP3S0	-	-	64-68	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	meses	mes	NCMP000	C0439231	calificador	69-74	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tiene	tener	VMIP3S0	-	-	75-80	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	81-87	8_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	y	y	CC	C1706368	calificador	88-89	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	fatiga	fatiga	NCFS000	C0015672	hallazgo	90-96	8_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	ante	ante	SPS00	-	-	97-101	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	los	el	DA0MP0	-	-	102-105	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	esfuerzos	esfuerzo	NCMP000	-	-	106-115	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	115-116	8_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Además	además	RG	-	-	117-123	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	esta	este	DD0FS0	-	-	124-128	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	semana	semana	NCFS000	C0439230	calificador	129-135	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cuando	cuando	PR000000	-	-	136-142	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	subía	subir	VMII3S0	-	-	143-148	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	149-152	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	153-156	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	cuesta	cuesta	NCFS000	-	-	157-163	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	ha	haber	VAIP3S0	-	-	164-166	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	perdido	perder	VMP00SM	-	-	167-174	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	175-177	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	forma	forma	NCFS000	C0348078	atributo	178-183	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	brusca	brusco	AQ0FS0	C0443162	calificador	184-190	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	el	el	DA0MS0	-	-	191-193	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	conocimiento	conocimiento	NCMS000	-	-	194-206	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	207-208	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	se	se	P00CN000	-	-	209-211	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	ha	haber	VAIP3S0	-	-	212-214	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	recuperado	recuperar	VMP00SM	-	-	215-225	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	226-228	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	pocos	poco	DI0MP0	C0700321#C1282918	-	229-234	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	segundos	segundo	NCMP000	C0205436	calificador	235-243	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	sin	sin	SPS00	C0332288	atributo	244-247	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	248-255	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	consecuencia	consecuencia	NCFS000	C0543419#C1368999#C1704419#C1280500#C1280519	hallazgo	256-268	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	.	.	Fp	-	-	268-269	8_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	270-272	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	273-280	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	281-289	8_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	es	ser	VSIP3S0	-	-	290-292	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	100/60	100/60	Z	-	-	293-299	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	mmHg	mmHg	NCMP000	-	-	300-304	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	305-306	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	se	se	P00CN000	-	-	307-309	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	ausculta	auscultar	VMIP3S0	-	-	310-318	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	319-321	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	soplo	soplo	NCMS000	C0232259_1	hallazgo_1	322-327	8_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	mesosistólico	mesosistólico		C0232259_2	hallazgo_2	328-341	8_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	11	1424	Modif
+13	grado	grado	NCMS000	C0450094#C0205617_1	calificador_1	342-347	8_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	11	1424	Modif
+14	III	III		C0450094#C0205617_2	calificador_2	348-351	8_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	13	72	MultiE
+15	que	que	PR0CN000	-	-	352-355	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	se	se	P00CN000	-	-	356-358	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	transmite	transmitir	VMIP3S0	-	-	359-368	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	369-371	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	dirección	dirección	NCFS000	C1273870#C0449738	procedimiento#atributo	372-381	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	ascendente	ascendente	AQ0CS0	C0205385	calificador	382-392	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	a	a	SPS00	-	-	393-394	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	lo	el	DA0NS0	-	-	395-397	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	largo	largo	AQ0MS0	C0205166#C0392744	calificador	398-403	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	404-406	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	las	el	DA0FP0	-	-	407-410	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	carótidas	carótida	NCFP000	-	-	411-420	8_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	11	1424	LOC
+27	.	.	Fp	-	-	420-421	8_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

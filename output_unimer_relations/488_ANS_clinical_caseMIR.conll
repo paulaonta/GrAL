@@ -1,0 +1,39 @@
+1	Macroglobulinemia	macroglobulinemia	NCFS000	C0024419_1	trastorno_1	0-17	488_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0024419_2	trastorno_2	18-20	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	Waldenstrom	Waldenstrom		C0024419_3	trastorno_3	21-32	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	–	–	Fz	-	-	33-34	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	Análisis	análisis	NCMN000	C0002778	calificador	35-43	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	molecular	molecular	AQ0CS0	-	-	44-53	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	del	del	SP+DA	-	-	54-57	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	gen	gen	NCMS000	C0017337	sustancia	58-61	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	MYD88	MYD88		-	-	62-67	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	.	.	Fp	-	-	67-68	488_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Mieloma	mieloma	NCMS000	C0026764_1	trastorno#anomalía_morfológica_1	0-7	488_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	múltiple	múltiple	NC00SC0	C0026764_2	trastorno#anomalía_morfológica_2	8-16	488_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	4804	Modif
+3	sintomático	sintomático	NC00SC0	C0231220	calificador	17-28	488_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	4804	Modif
+4	–	–	Fz	-	-	29-30	488_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	PET	positron_emission_tomography_(tomografía_por_emisión_de_positrones)	NC00YL0	-	-	31-34	488_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	/	/	Fh	-	-	34-35	488_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	35-37	488_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	37-38	488_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Amiloidosis	amiloidosis	NCFN000	C0002726	trastorno	0-11	488_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	AL	al	SP+DA	-	-	12-14	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	-	-	Fg	-	-	15-16	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	Aspirado	aspirado	NC00SC0	C0370199	espécimen	17-25	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	/	/	Fh	-	-	25-26	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	26-33	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	34-36	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	grasa	grasa	NCFS000	C0225324#C0015677	estructura_corporal#sustancia	37-42	488_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+9	abdominal	abdominal	AQ0CS0	C0000726	calificador	43-52	488_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	8	41	MultiE
+10	.	.	Fp	-	-	52-53	488_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0085404_1	trastorno_1	0-8	488_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	POEMS	polyneuropathy,_organomegaly,_endocrinopathy,_m_protein_and_skin_changes_(polineuropatía,_organomegalia,_endocrinopatía,_niveles_elevados_de_proteína_m_y_alteraciones_cutáneas,_síndrome)	NC00YL0	C0085404_2	trastorno_2	9-14	488_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	-	-	Fg	-	-	15-16	488_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	Determinación	determinación	NCFS000	C0242485	procedimiento	17-30	488_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	31-33	488_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	VEGF	factor_de_crecimiento_del_endotelio_vascular	NC00YL0	-	-	34-38	488_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	38-39	488_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

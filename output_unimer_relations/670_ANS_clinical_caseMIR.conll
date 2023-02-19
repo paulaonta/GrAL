@@ -1,0 +1,16 @@
+1	Estreptococo	estreptococo	NCMS000	C0038402	organismo	0-12	670_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	viridans	viridans	NCCP000	-	-	13-21	670_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+3	.	.	Fp	-	-	21-22	670_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Estreptococo	estreptococo	NCMS000	C0038402	organismo	0-12	670_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	alfa-hemolítico	alfa-hemolítico	AQ0MS00	-	-	13-28	670_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	1569	Modif
+3	.	.	Fp	-	-	28-29	670_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Estreptococo	estreptococo	NCMS000	C0038402	organismo	0-12	670_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	beta-hemolítico	beta-hemolítico	AQ0MS00	-	-	13-28	670_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	1570	Modif
+3	,	,	Fc	-	-	28-29	670_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	grupo	grupo	NCMS000	C0441833#C1257890	atributo#contexto_social	30-35	670_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	A.	a.	AQ0CS00	-	-	36-38	670_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	Enterococo	enterococo	NC00SC0	C0085494	organismo	0-10	670_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	.	.	Fp	-	-	10-11	670_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+

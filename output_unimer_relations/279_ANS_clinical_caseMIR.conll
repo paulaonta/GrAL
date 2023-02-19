@@ -1,0 +1,67 @@
+1	La	el	DA0FS0	-	-	0-2	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	3-9	279_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	9	4143	Causada_por
+3	descrita	describir	VMP00SF	-	-	10-18	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	tiene	tener	VMIP3S0	-	-	19-24	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	25-27	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	riesgo	riesgo	NCMS000	-	-	28-34	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	bajo	bajo	AQ0MS0	C0205251	calificador	35-39	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	40-42	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	recidiva	recidiva	NCFS000	C0034897#C2945760#C0035020	calificador	43-51	279_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	hemorrágica	hemorrágico	AQ0FS0	C0333275	calificador	52-63	279_ANS_clinical_caseMIR	SENT1	B-Calificador	-	9	4143	LOC
+11	.	.	Fp	-	-	63-64	279_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	recidiva	recidiva	NCFS000	C0034897#C2945760#C0035020	calificador	11-19	279_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	hemorrágica	hemorrágico	AQ0FS0	C0333275	calificador	20-31	279_ANS_clinical_caseMIR	SENT2	B-Calificador	-	4	4144	Modif
+6	es	ser	VSIP3S0	-	-	32-34	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	imprescindible	imprescindible	AQ0CS0	-	-	35-49	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	la	el	DA0FS0	-	-	50-52	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	intervención	intervención	NCFS000	C0543467_1	procedimiento_1	53-65	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	quirúrgica	quirúrgico	AQ0FS0	C0543467_2	procedimiento_2	66-76	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	76-77	279_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Por	por	SPS00	C0678226	atributo	0-3	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	4-6	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	localización	localización	NCFS000	C0450429#C0205145	atributo#calificador	7-19	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	20-22	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	la	el	DA0FS0	-	-	23-25	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	26-32	279_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	puede	poder	VMIP3S0	-	-	33-38	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	estar	estar	VAN0000	-	-	39-44	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	afectada	afectar	VMP00SF	-	-	45-53	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	la	el	DA0FS0	-	-	54-56	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	arteria	arteria	NCFS000	C1280130#C0226311_1	estructura_corporal_1	57-64	279_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+12	gastroduodenal	gastroduodenal	NC00SC0	C1280130#C0226311_2	estructura_corporal_2	65-79	279_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	11	50	MultiE
+13	.	.	Fp	-	-	79-80	279_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	descripción	descripción	NCFS000	-	-	3-14	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	15-16	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	localización	localización	NCFS000	C0450429#C0205145	atributo#calificador	17-29	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	30-32	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	la	el	DA0FS0	-	-	33-35	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	úlcera	úlcera	NCFS000	C0041582_1	anomalía_morfológica#trastorno_1	36-42	279_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	sugieren	sugerir	VMIP3P0	-	-	43-51	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	52-55	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	56-62	279_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion	-	-	-
+11	de	de	SPS00	C0332285	atributo	63-65	279_ANS_clinical_caseMIR	SENT4	B-Calificador	-	10	4146	Modif
+12	Dieulafoy	dieulafoy	RG	-	-	66-75	279_ANS_clinical_caseMIR	SENT4	I-Calificador	-	11	50	MultiE
+13	.	.	Fp	-	-	75-76	279_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	intervención	intervención	NCFS000	C0543467_1	procedimiento_1	11-23	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	quirúrgica	quirúrgico	AQ0FS0	C0543467_2	procedimiento_2	24-34	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	35-37	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	obligatoria	obligatorio	AQ0FS0	-	-	38-49	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	la	el	DA0FS0	-	-	50-52	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	práctica	práctica	NCFS000	-	-	53-61	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	62-64	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	65-68	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	vagotomía	vagotomía	NCFS000	C0394374	procedimiento	69-78	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+13	troncular	troncular	AQ0CS0	-	-	79-88	279_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+14	.	.	Fp	-	-	88-89	279_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

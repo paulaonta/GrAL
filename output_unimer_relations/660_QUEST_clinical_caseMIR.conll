@@ -1,0 +1,51 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	34	34		-	-	13-15	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diagnosticada	diagnosticar	VMP00SF	-	-	21-34	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	35-37	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	38-46	660_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	13	537	Causada_por
+9	de	de	SPS00	C0332285	atributo	47-49	660_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	41	MultiE
+10	ovarios	ovario	NCMP000	C0032460_1	trastorno_1	50-57	660_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	41	MultiE
+11	poliquísticos	poliquístico	AQ0MP0	C0032460_2	trastorno_2	58-71	660_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	41	MultiE
+12	presenta	presentar	VMIP3S0	-	-	72-80	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	esterilidad	esterilidad	NCFS000	C0021359	hallazgo	81-92	660_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	primaria	primario	AQ0FS0	C0205225	calificador	93-101	660_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	537	Modif
+15	de	de	SPS00	C0332285	atributo	102-104	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	2	2		-	-	105-106	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	años	año	NCMP000	C0439234	calificador	107-111	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	112-114	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	evolución	evolución	NCFS000	-	-	115-124	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	125-126	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	ha	haber	VAIP3S0	-	-	127-129	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	sido	ser	VSP00SM	-	-	130-134	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	tratada	tratar	VMP00SF	-	-	135-142	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	sin	sin	SPS00	C0332288	atributo	143-146	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	éxito	éxito	NCMS000	-	-	147-152	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	durante	durante	SPS00	C1444752#C0347984	atributo	153-160	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	6	6		-	-	161-162	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	meses	mes	NCMP000	C0439231	calificador	163-168	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	con	con	SPS00	C0332287	atributo	169-172	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	citrato	citrato	NCMS000	C0546859_1	sustancia_1	173-180	660_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+31	de	de	SPS00	C0546859_2	sustancia_2	181-183	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	clomifeno	clomifeno	NC00SC0	C0546859_3	sustancia_3	184-193	660_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+33	(	(	Fpa	-	-	194-195	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	100	100	Z	-	-	195-198	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	mg	mg	NCMN000	-	-	199-201	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	/	/	Fh	-	-	201-202	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	día	día	NCMS000	C0439228#C0332169	calificador	202-205	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	durante	durante	SPS00	C1444752#C0347984	atributo	206-213	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	5	5	Z	-	-	214-215	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	días	d	NCMP000	-	-	216-220	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	)	)	Fpt	-	-	220-221	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	.	.	Fp	-	-	221-222	660_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	223-225	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	asocia	asociar	VMIP3S0	-	-	226-232	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	233-238	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	causas	causa	NCFP000	-	-	239-245	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	246-248	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	esterilidad	esterilidad	NCFS000	C0021359	hallazgo	249-260	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	.	.	Fp	-	-	260-261	660_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

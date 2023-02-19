@@ -1,0 +1,57 @@
+1	Señale	señalar	VMM03S0	-	-	320-326	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	327-329	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	alternativa	alternativa	NCFS000	-	-	330-341	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	342-350	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	sobre	sobre	SPS00	C1720294#C0205136	calificador	351-356	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	el	el	DA0MS0	-	-	357-359	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tipo	tipo	NCMS000	C0332307	calificador#atributo	360-364	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	365-373	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	374-376	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	herencia	herencia	NCFS000	C0728826	atributo	377-385	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	386-388	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	esta	este	DD0FS0	-	-	389-393	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	394-404	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	:	:	Fd	-	-	404-405	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Tras	tras	SPS00	-	-	0-4	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	un	un		C0205447_1	calificador_1	5-7	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	accidente	accidente	NCMS000	C0415499_1	evento_1	8-17	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0415499_2	evento_2	18-20	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	tráfico	tráfico	NCMS000	-	-	21-28	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	29-31	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	paciente	paciente	NCCS000	C0030705	persona	32-40	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	41-43	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	38	38		-	-	44-46	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	años	año	NCMP000	C0439234	calificador	47-51	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	ingresa	ingresar	VMIP3S0	-	-	52-59	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	UCI	unidad_de_cuidados_intensivos	NC00YL0	-	-	63-66	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	coma	coma	NCCS000	C0009421	trastorno#hallazgo	70-74	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	74-75	243_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	76-80	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	81-87	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	días	día	NCMP000	C0439228#C0332169	calificador	88-92	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	el	el	DA0MS0	-	-	93-95	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	96-104	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	no	no	RN	C1298908	calificador	105-107	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	mejora	mejorar	VMIP3S0	-	-	108-114	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	neurològicamente	neurològicamente	RG	-	-	115-131	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	132-133	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	la	el	DA0FS0	-	-	137-139	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	TAC	tac	NC00YL0	C0040405	procedimiento	140-143	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	se	se	P00CN000	-	-	144-146	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	visualizan	visualizar	VMIP3P0	-	-	147-157	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	158-166	243_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	puntiformes	puntiforme	AQ0CP0	-	-	167-178	243_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	15	4721	Modif
+17	hemorrágicas	hemorrágico	AQ0FP0	C0333275	calificador	179-191	243_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	15	4721	Modif
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	192-194	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	cuerpo	cuerpo	NCMS000	C0010090#C1284613_1	estructura_corporal_1	195-201	243_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	15	4721	LOC
+20	calloso	calloso	AQ0MS0	C0010090#C1284613_2	estructura_corporal_2	202-209	243_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	19	106	MultiE
+21	y	y	CC	C1706368	calificador	210-211	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	212-214	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	unión	unión	NCFS000	C0185023#C0205144	procedimiento#calificador	215-220	243_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	15	4721	LOC
+24	cortico-subcortical	cortico-subcortical	AQ0CS00	-	-	221-240	243_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	23	106	MultiE
+25	.	.	Fp	-	-	240-241	243_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

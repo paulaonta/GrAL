@@ -1,0 +1,83 @@
+1	Calcio	calcio	NCMS000	C0006675	sustancia	0-6	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	normal	normal	AQ0CS0	C0205307	calificador	7-13	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	;	;	Fx	-	-	13-14	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	fosfato	fosfato	NCMS000	C0031603	sustancia	15-22	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	normal	normal	AQ0CS0	C0205307	calificador	23-29	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	;	;	Fx	-	-	29-30	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	fosfatasas	fosfatasa	NCFP000	C1149880#C0031678	función_biológica#sustancia	31-41	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	alcalinas	alcalino	AQ0FP0	-	-	42-51	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	(	(	Fpa	-	-	52-53	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	FA	fa	NC00YL0	-	-	53-55	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	)	)	Fpt	-	-	55-56	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	normales	normal	AQ0CP0	C0205307	calificador	57-65	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	;	;	Fx	-	-	65-66	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hormona	hormona	NCFS000	C0030520_1	sustancia_1	67-74	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	paratiroidea	paratiroideo	AQ0FS0	C0030520_2	sustancia_2	75-87	524_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+16	(	(	Fpa	-	-	88-89	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	89-92	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	)	)	Fpt	-	-	92-93	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	normal	normal	AQ0CS0	C0205307	calificador	94-100	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	;	;	Fx	-	-	100-101	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	25	25		-	-	102-104	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	OH	símbolo_del_ion_oxidrilo_que_tienen_los_alcoholes	NC00YL0	-	-	105-107	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	vitamina	vitamina	NCFS000	C0042866_1	sustancia_1	108-116	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	D	d	NCFS000	C0042866_2	sustancia_2	117-118	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	baja	bajo	AQ0FS0	C0205251	calificador	119-123	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	123-124	524_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Calcio	calcio	NCMS000	C0006675	sustancia	0-6	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	normal	normal	AQ0CS0	C0205307	calificador	7-13	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	;	;	Fx	-	-	13-14	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	fosfato	fosfato	NCMS000	C0031603	sustancia	15-22	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	bajo	bajo	AQ0MS0	C0205251	calificador	23-27	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	;	;	Fx	-	-	27-28	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	FA	fa	NC00YL0	-	-	29-31	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	normales	normal	AQ0CP0	C0205307	calificador	32-40	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	;	;	Fx	-	-	40-41	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	42-45	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	normal	normal	AQ0CS0	C0205307	calificador	46-52	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	;	;	Fx	-	-	52-53	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	25	25		-	-	54-56	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	OH	símbolo_del_ion_oxidrilo_que_tienen_los_alcoholes	NC00YL0	-	-	57-59	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	vitamina	vitamina	NCFS000	C0042866_1	sustancia_1	60-68	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	D	d	NCFS000	C0042866_2	sustancia_2	69-70	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	baja	bajo	AQ0FS0	C0205251	calificador	71-75	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	75-76	524_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Calcio	calcio	NCMS000	C0006675	sustancia	0-6	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	bajo	bajo	AQ0MS0	C0205251	calificador	7-11	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	;	;	Fx	-	-	11-12	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	fosfato	fosfato	NCMS000	C0031603	sustancia	13-20	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	alto	alto	AQ0MS0	C0205250	calificador	21-25	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	;	;	Fx	-	-	25-26	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	FA	fa	NC00YL0	-	-	27-29	524_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	elevadas	elevar	VMP00PF	-	-	30-38	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	;	;	Fx	-	-	38-39	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	40-43	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	normal	normal	AQ0CS0	C0205307	calificador	44-50	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	;	;	Fx	-	-	50-51	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	25	25		-	-	52-54	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	OH	símbolo_del_ion_oxidrilo_que_tienen_los_alcoholes	NC00YL0	-	-	55-57	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	vitamina	vitamina	NCFS000	C0042866_1	sustancia_1	58-66	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	D	d	NCFS000	C0042866_2	sustancia_2	67-68	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	baja	bajo	AQ0FS0	C0205251	calificador	69-73	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	.	.	Fp	-	-	73-74	524_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Calcio	calcio	NCMS000	C0006675	sustancia	0-6	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	normal	normal	AQ0CS0	C0205307	calificador	7-13	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	;	;	Fx	-	-	13-14	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	fosfato	fosfato	NCMS000	C0031603	sustancia	15-22	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	normal	normal	AQ0CS0	C0205307	calificador	23-29	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	;	;	Fx	-	-	29-30	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	FA	fa	NC00YL0	-	-	31-33	524_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	elevadas	elevar	VMP00PF	-	-	34-42	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	;	;	Fx	-	-	42-43	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	44-47	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	elevada	elevar	VMP00SF	-	-	48-55	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	;	;	Fx	-	-	55-56	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	25OH	25OH		-	-	57-61	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	vitamina	vitamina	NCFS000	C0042866_1	sustancia_1	62-70	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	D	d	NCFS000	C0042866_2	sustancia_2	71-72	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	baja	bajo	AQ0FS0	C0205251	calificador	73-77	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	.	.	Fp	-	-	77-78	524_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,83 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	34	34		-	-	15-17	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	23-25	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	26-30	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	afecto	afecto	NCMS000	C0001721	función	31-37	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	38-40	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	41-44	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	tuberculosis	tuberculosis	NCFN000	C0041321_1	trastorno_1	45-57	94_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	miliar	miliar	NCMS000	C0041321_2	trastorno_2	58-64	94_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	4125	Modif
+13	desarrolla	desarrollar	VMIP3S0	-	-	65-75	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	76-87	94_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	progresiva	progresivo	AQ0FS0	C0205329	calificador	88-98	94_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	14	4125	Modif
+16	,	,	Fc	-	-	98-99	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	ligera	ligero	AQ0FS0	-	-	100-106	94_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	4125	Modif
+18	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	107-118	94_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	119-121	94_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	4125	Modif
+20	la	el	DA0FS0	-	-	122-124	94_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	19	106	MultiE
+21	diuresis	diuresis	NCFN000	C0012797	hallazgo#función	125-133	94_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	19	106	MultiE
+22	,	,	Fc	-	-	133-134	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	su	su	DP3CS0	-	-	135-137	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	138-145	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	146-154	94_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+26	es	ser	VSIP3S0	-	-	155-157	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	158-160	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	152/82	152/82	Z	-	-	161-167	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	mmHg	mmHg	NCMP000	-	-	168-172	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	,	,	Fc	-	-	172-173	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	la	el	DA0FS0	-	-	174-176	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	natremia	nivel_de_sodio_en_sangre	NC00YL0	-	-	177-185	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	es	ser	VSIP3S0	-	-	186-188	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	de	de	SPS00	C0332285	atributo	189-191	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	112	112		-	-	192-195	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	mmol	milimol	NC00YL0	C0439190	calificador	196-200	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	/	/	Fh	-	-	200-201	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	l	l	NCFS000	-	-	201-202	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	,	,	Fc	-	-	202-203	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	la	el	DA0FS0	-	-	204-206	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	kaliemia	potasemia	NC00YL0	-	-	207-215	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	de	de	SPS00	C0332285	atributo	216-218	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	4	4		-	-	219-220	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	mmol	milimol	NC00YL0	C0439190	calificador	221-225	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	/	/	Fh	-	-	225-226	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	l	l	NCFS000	-	-	226-227	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	,	,	Fc	-	-	227-228	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	la	el	DA0FS0	-	-	229-231	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	uricemia	uricemia	NCFS000	-	-	232-240	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	de	de	SPS00	C0332285	atributo	241-243	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	2.8	2.8	Z	-	-	244-247	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	mg	mg	NCMN000	-	-	248-250	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	/	/	Fh	-	-	250-251	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	dll	dll	NCMS000	-	-	251-254	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	,	,	Fc	-	-	254-255	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+56	la	el	DA0FS0	-	-	256-258	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+57	creatinina	creatinina	NC00SC0	C0010294	sustancia	259-269	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+58	sérica	sérico	AQ0FS0	-	-	270-276	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+59	de	de	SPS00	C0332285	atributo	277-279	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+60	0,8	0.8	Z	-	-	280-283	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+61	mg	mg	NCMN000	-	-	284-286	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+62	/	/	Fh	-	-	286-287	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+63	dl	decilitro	NCMN000	C0439241	calificador	287-289	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+64	,	,	Fc	-	-	289-290	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+65	la	el	DA0FS0	-	-	291-293	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+66	natriuria	natriuria	NCFS000	-	-	294-303	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+67	de	de	SPS00	C0332285	atributo	304-306	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+68	90	90		-	-	307-309	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+69	mmol	milimol	NC00YL0	C0439190	calificador	310-314	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+70	/	/	Fh	-	-	314-315	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+71	l	l	NCFS000	-	-	315-316	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+72	y	y	CC	C1706368	calificador	317-318	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+73	la	el	DA0FS0	-	-	319-321	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+74	osmolaridad	osmolaridad	NCFS000	C0029387	función	322-333	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+75	urinaria	urinario	AQ0FS0	-	-	334-342	94_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+76	es	ser	VSIP3S0	-	-	343-345	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+77	de	de	SPS00	C0332285	atributo	346-348	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+78	544	544		-	-	349-352	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+79	mOsm	mosm	NCMS000	-	-	353-357	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+80	/	/	Fh	-	-	357-358	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+81	kg	kilogramo	NCMN000	C0439209	calificador	358-360	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+82	.	.	Fp	-	-	360-361	94_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

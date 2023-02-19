@@ -1,0 +1,54 @@
+1	Serie	serie	NCFS000	C0205549	calificador	0-5	218_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	ósea	óseo	AQ0FS0	C0443157	calificador	6-10	218_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	radiológica	radiológico	AQ0FS0	C0205483	calificador	11-22	218_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	23-24	218_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	aspirado	aspirar	VMP00SM	-	-	25-33	218_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	34-36	218_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	medula	medula	NCFS000	-	-	37-43	218_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	44-48	218_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	7	45	MultiE
+9	.	.	Fp	-	-	48-49	218_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Electroforesis	electroforesis	NCFN000	-	-	0-14	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	sérica	sérico	AQ0FS0	-	-	15-21	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	22-23	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	urinaria	urinario	AQ0FS0	-	-	24-32	218_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	y	y	CC	C1706368	calificador	33-34	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	pruebas	prueba	NCFP000	-	-	35-42	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	43-45	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	función	función	NCFS000	C0232804_1	entidad_observable_1	46-53	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	renal	renal	AQ0CS0	C0232804_2	entidad_observable_2	54-59	218_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+10	.	.	Fp	-	-	59-60	218_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Aspirado	aspirar	VMP00SM	-	-	0-8	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	12-18	218_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	19-23	218_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	3	30	MultiE
+5	y	y	CC	C1706368	calificador	24-25	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	concentración	concentración	NCFS000	C0086045	entidad_observable	26-39	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	40-42	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	calcio	calcio	NCMS000	C0006675	sustancia	43-49	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	sérico	sérico	AQ0MS0	-	-	50-56	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	56-57	218_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Aspirado	aspirar	VMP00SM	-	-	0-8	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	12-18	218_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	19-23	218_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	3	30	MultiE
+5	y	y	CC	C1706368	calificador	24-25	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	electroforesis	electroforesis	NCFN000	-	-	26-40	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	sérica	sérico	AQ0FS0	-	-	41-47	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	48-49	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	urinaria	urinario	AQ0FS0	-	-	50-58	218_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+10	.	.	Fp	-	-	58-59	218_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	0-7	218_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	218_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	la	el	DA0FS0	-	-	11-13	218_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	fractura	fracturar	VMM02S0	C0016663_1	trastorno#anomalía_morfológica_1	14-22	218_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+5	patológica	patológico	AQ0FS0	C0016663_2	trastorno#anomalía_morfológica_2	23-33	218_ANS_clinical_caseMIR	SENT5	B-Calificador	-	4	5950	Modif
+6	y	y	CC	C1706368	calificador	34-35	218_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	serie	serie	NCFS000	C0205549	calificador	36-41	218_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	4	5950	LOC
+8	ósea	óseo	AQ0FS0	C0443157	calificador	42-46	218_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	7	45	MultiE
+9	radiológica	radiológico	AQ0FS0	C0205483	calificador	47-58	218_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	7	45	MultiE
+10	.	.	Fp	-	-	58-59	218_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

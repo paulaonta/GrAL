@@ -1,0 +1,28 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	18	18		-	-	9-11	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acné	acné	NCMS000	C0702166	trastorno	21-25	609_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	,	,	Fc	-	-	25-26	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	sin	sin	SPS00	C0332288	atributo	27-30	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	antecedentes	antecedente	NCMP000	-	-	31-43	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	médicos	médico	AQ0MP0	C0205476#C0031831	calificador#ocupación	44-51	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	ni	ni	CC	-	-	52-54	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	familiares	familiar	NCMP000	C0080103#C0241888	persona#calificador	55-65	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	66-68	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	interés	interés	NCMS000	-	-	69-76	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	76-77	609_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	78-83	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	84-85	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	su	su	DP3CS0	-	-	86-88	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	89-97	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	demandando	demandar	VMG0000	-	-	98-108	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	109-111	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	método	método	NCMS000	C0025663	atributo	112-118	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	contraceptivo	contraceptivo	AQ0MS00	-	-	119-132	609_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+9	hormonal	hormonal	NC00SC0	C0458083	calificador	133-141	609_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	8	41	MultiE
+10	oral	oral	AQ0CS0	C0442027	calificador	142-146	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	146-147	609_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

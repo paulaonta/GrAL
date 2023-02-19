@@ -1,0 +1,40 @@
+1	Indique	indicar	VMM03S0	-	-	263-270	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	cuál	cuál	PT0CS000	-	-	271-275	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	276-278	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	los	el	DA0MP0	-	-	279-282	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	283-293	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	factores	factor	NCMP000	-	-	294-302	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	NO	no	RN	C1298908	calificador	303-305	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	se	se	P00CN000	-	-	306-308	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	considera	considerar	VMIP3S0	-	-	309-318	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	319-321	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	riesgo	riesgo	NCMS000	-	-	322-328	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	para	para	SPS00	C0521125	calificador	329-333	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	que	que	CS	-	-	334-337	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	un	un		C0205447_1	calificador_1	338-340	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	341-349	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	presente	presente	AQ0CS0	C0150312	calificador	350-358	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	este	este	DD0MS0	-	-	359-363	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	cuadro	cuadro	NCMS000	-	-	364-370	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	:	:	Fd	-	-	370-371	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	Ecografía	ecografía	NCFS000	C0203464_1	procedimiento_1	0-9	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0203464_2	procedimiento_2	10-12	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	abdomen	abdomen	NCMS000	C0203464_3	procedimiento_3	13-20	467_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+23	.	.	Fp	-	-	20-21	467_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Manometría	manometría	NCFS000	C0199873_1	procedimiento_1	0-10	467_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	esofágica	esofágico	AQ0FS0	C0199873_2	procedimiento_2	11-20	467_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	20-21	467_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	TC	símbolo_químico_del_tecnecio	NC00YL0	C0412620_1	procedimiento_1	0-2	467_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0412620_2	procedimiento_2	3-5	467_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	abdomen	abdomen	NCMS000	C0412620_3	procedimiento_3	6-13	467_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	.	.	Fp	-	-	13-14	467_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	467_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	isotópico	isotópico	AQ0MS0	-	-	8-17	467_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	18-20	467_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	vaciamiento	vaciamiento	NCMS000	C0017127_1	función_1	21-32	467_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	gástrico	gástrico	NC00SC0	C0017127_2	función_2	33-41	467_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	.	.	Fp	-	-	41-42	467_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,62 @@
+1	Colectomía	colectomía	NC00SC0	C0009274	procedimiento	0-10	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	subtotal	subtotal	NCMS000	C0728939#C0205257#C0728938	calificador	11-19	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	urgencia	urgencia	NCFS000	C0439609	calificador	23-31	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	32-33	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	37-39	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	segundo	2	AO0MS0	-	-	40-47	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	48-54	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	proctectomía	proctectomía	NC00SC0	C0193062	procedimiento	55-67	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	68-69	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	reservorio	reservorio	NCMS000	C1289877	objeto_físico	70-80	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	ileoanal	ileoanal	AQ0CS00	-	-	81-89	201_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+14	.	.	Fp	-	-	89-90	201_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Asociar	asociar	VMN0000	-	-	0-7	201_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	8-10	201_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	imnunosuprcsor	imnunosuprcsor	NCMS000	-	-	11-25	201_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	como	como	CS	C0332257	calificador	26-30	201_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	azatioprina	azatioprina	NCFS000	C0004482	producto#sustancia	31-42	201_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+6	.	.	Fp	-	-	42-43	201_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Asociar	asociar	VMN0000	-	-	0-7	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	mesalazina	mesalazina	NC00SC0	C0127615	producto#sustancia	8-18	201_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	19-21	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	dosis	dosis	NCFN000	-	-	22-27	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	28-30	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	4	4	Z	-	-	31-32	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	gramos	g	NCMP000	-	-	33-39	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	al	al	SP+DA	-	-	40-42	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	día	día	NCMS000	C0439228#C0332169	calificador	43-46	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	oral	oral	AQ0CS0	C0442027	calificador	47-51	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	52-53	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	triamcinolona	triamcinolona	NC00SC0	C0040864	sustancia	54-67	201_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+13	rectal	rectal	AQ0CS0	C0205052	calificador	68-74	201_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+14	1	1		-	-	75-76	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	aplicación	aplicación	NCFS000	C0185125#C1533134	procedimiento#atributo#calificador	77-87	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	cada	cada	NC00SC0	C0456695_1	calificador_1	88-92	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	12	12	Z	C0456695_2	calificador_2	93-95	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	horas	hora	NCFP000	C0456695_3	calificador_3	96-101	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+19	Ciclosporina	ciclosporina	NCFS000	C0010592	producto#sustancia	0-12	201_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+20	endovenosa	endovenoso	AQ0FS0	-	-	13-23	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+21	2	2	Z	-	-	24-25	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+22	mg	mg	NCMN000	-	-	26-28	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+23	/	/	Fh	-	-	28-29	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+24	Kg	kilogramo	NCMN000	C0439209	calificador	29-31	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+25	.	.	Fp	-	-	31-32	201_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	valorar	valorar	VMN0000	-	-	5-12	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	PP3CN000	-	-	12-14	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	el	el	DA0MS0	-	-	15-17	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	18-29	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	30-33	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	etanercept	etanercept	NC00SC0	C0717758#C0018100	producto#sustancia	34-44	201_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	(	(	Fpa	-	-	45-46	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	46-48	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	anticuerpo	anticuerpo	NCMS000	C0003241	sustancia	49-59	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	anti-TNFa	anti-tnfa	NCFS000	-	-	60-69	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	)	)	Fpt	-	-	69-70	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	70-71	201_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

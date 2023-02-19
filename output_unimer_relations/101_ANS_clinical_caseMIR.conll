@@ -1,0 +1,54 @@
+1	Teniendo	tener	VMG0000	-	-	475-483	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	484-486	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	cuenta	cuenta	NCFS000	-	-	487-493	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	494-496	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	497-508	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	509-512	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	513-521	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	521-522	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	marque	marcar	VMSP3S0	-	-	523-529	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	el	DA0FS0	-	-	530-532	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	opción	opción	NCFS000	-	-	533-539	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	correcta	correcto	AQ0FS0	C0205170	calificador	540-548	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	549-551	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	cuanto	cuanto	RG	-	-	552-558	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	al	al	SP+DA	-	-	559-561	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	562-573	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	:	:	Fd	-	-	573-574	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	101_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	hemolítico	hemolítico	AQ0MS0	C0312853	calificador	9-19	101_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	18	102	MultiE
+20	urémico	urémico	AQ0MS0	-	-	20-27	101_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	18	102	MultiE
+21	.	.	Fp	-	-	27-28	101_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Hepatitis	hepatitis	NCFN000	C0019187_1	trastorno_1	0-9	101_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	alcohólica	alcohólico	NCFS000	C0019187_2	trastorno_2	10-20	101_ANS_clinical_caseMIR	SENT2	B-Calificador	-	-	-	-
+3	(	(	Fpa	-	-	21-22	101_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	esteatohepatitis	esteatohepatitis	NC00SC0	C2711227#C0015695	trastorno	22-38	101_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	alcohólica	alcohólico	AQ0FS0	C0337678	hallazgo	39-49	101_ANS_clinical_caseMIR	SENT2	B-Calificador	-	4	4254,1	Modif,4254
+6	grave	grave	AQ0CS0	C0439808#C0205082	calificador	50-55	101_ANS_clinical_caseMIR	SENT2	B-Calificador	-	4	4254	Modif
+7	)	)	Fpt	-	-	55-56	101_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	56-57	101_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hepatitis	hepatitis	NCFN000	C0267797_1	trastorno_1	0-9	101_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	aguda	agudo	AQ0FS0	C0267797_2	trastorno_2	10-15	101_ANS_clinical_caseMIR	SENT3	B-Calificador	-	-	-	-
+3	fulminante	fulminante	AQ0CS0	-	-	16-26	101_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	4255	Modif
+4	(	(	Fpa	-	-	27-28	101_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	insuficiencia	insuficiencia	NCFS000	C0162557_1	trastorno_1	28-41	101_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	hepática	hepático	AQ0FS0	C0162557_2	trastorno_2	42-50	101_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	5	4255	LOC
+7	aguda	agudo	AQ0FS0	C0162557_3	trastorno_3	51-56	101_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	4255,1	Modif,4255
+8	grave	grave	AQ0CS0	C0439808#C0205082	calificador	57-62	101_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	4255	Modif
+9	)	)	Fpt	-	-	62-63	101_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	63-64	101_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Intoxicación	intoxicación	NCFS000	C0032343#C0311393	trastorno#hallazgo	0-12	101_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	13-16	101_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	éxtasis	éxtasis	NCMN000	C0678156	hallazgo	17-24	101_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	1	4256	Causada_por
+4	.	.	Fp	-	-	24-25	101_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	101_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	101_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	1	567	MultiE
+3	abstinencia	abstinencia	NCFS000	C0009178_1	trastorno_1	12-23	101_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	1	567	MultiE
+4	de	de	SPS00	C0009178_2	trastorno_2	24-26	101_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	cocaína	cocaína	NCFS000	C0009178_3	trastorno_3	27-34	101_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+6	.	.	Fp	-	-	34-35	101_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

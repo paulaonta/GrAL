@@ -1,0 +1,34 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	27	27		-	-	15-17	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	23-25	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	incapaz	incapaz	AQ0CS0	C1299582	calificador	26-33	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	34-36	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	impedir	impedir	VMN0000	-	-	37-44	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	el	el	DA0MS0	-	-	45-47	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	desplazamiento	desplazamiento	NCMS000	C0333043_1	anomalía_morfológica#calificador_1	48-62	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	anterior	anterior	NC00SC0	C0333043_2	anomalía_morfológica#calificador_2	63-71	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	del	del	SP+DA	-	-	72-75	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	76-81	139_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+15	sobre	sobre	SPS00	C1720294#C0205136	calificador	82-87	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	la	el	DA0FS0	-	-	88-90	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	tibia	tibia	NCFS000	C1279118#C0040184	estructura_corporal	91-96	139_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+18	cuando	cuando	CS	-	-	97-103	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	la	el	DA0FS0	-	-	104-106	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	107-114	139_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+21	está	estar	VAIP3S0	-	-	115-119	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	flexionada	flexionar	VMP00SF	-	-	120-130	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	.	.	Fp	-	-	130-131	139_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	132-133	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	133-137	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	138-140	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	los	el	DA0MP0	-	-	141-144	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	145-155	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ligamentos	ligamento	NCMP000	C1269080#C0023685	estructura_corporal	156-166	139_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+7	está	estar	VAIP3S0	-	-	167-171	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	dañado	dañar	VMP00SM	-	-	172-178	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	?	?	Fit	-	-	178-179	139_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

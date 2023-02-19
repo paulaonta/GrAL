@@ -1,0 +1,71 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	63	63		-	-	13-15	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	28-29	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	ingresada	ingresar	VMP00SF	-	-	30-39	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	40-42	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	el	el	DA0MS0	-	-	43-45	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	hospital	hospital	NCMS000	C1510665	medio_ambiente	46-54	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	para	para	SPS00	C0521125	calificador	55-59	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	60-71	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	72-82	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	83-85	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	un	un		C0205447_1	calificador_1	86-88	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	89-95	131_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	96-98	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	99-104	131_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	543	LOC
+21	presenta	presentar	VMIP3S0	-	-	105-113	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	dolor	dolor	NCMS000	C0008033_1	hallazgo_1	114-119	131_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	pleurítico	pleurítico	NCMS000	C0008033_2	hallazgo_2	120-130	131_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	22	543	LOC
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	131-133	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	hemitórax	hemitórax		C0230128_1	estructura_corporal_1	134-143	131_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	22	543	LOC
+26	izquierdo	izquierdo	NC00SC0	C0230128_2	estructura_corporal_2	144-153	131_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	25	89	MultiE
+27	y	y	CC	C1706368	calificador	154-155	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	156-162	131_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	163-165	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	comienzo	comienzo	NCMS000	C1276802_1	calificador_1	166-174	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	brusco	brusco	NC00SC0	C1276802_2	calificador_2	175-181	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	.	.	Fp	-	-	181-182	131_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	183-184	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	185-187	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	188-199	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	200-202	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	enferma	enfermo	NCFS000	-	-	203-210	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	está	estar	VAIP3S0	-	-	211-215	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	taquipneica	taquipnea	NCFS00V	C0231835	hallazgo	216-227	131_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	227-228	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	229-232	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	signos	signo	NCMP000	C0311392	hallazgo	233-239	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	240-242	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	mala	malo	NCFS000	C0520547#C1328773_1	trastorno#hallazgo_1	243-247	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	perfusión	perfusión	NCFS000	C0520547#C1328773_2	trastorno#hallazgo_2	248-257	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	periférica	periférico	AQ0FS0	C0520547#C1328773_3	trastorno#hallazgo_3	258-268	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	269-270	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	TA	ta	NC00YL0	-	-	271-273	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	sistólica	sistólico	AQ0FS0	-	-	274-283	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	284-286	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	70	70	Z	-	-	287-289	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	mmHg	mmHg	NCMP000	-	-	290-294	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	.	.	Fp	-	-	294-295	131_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	296-298	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	ECG	ecg	NC00YL0	C1623258	procedimiento	299-302	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	303-310	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	inversión	inversión	NCFS000	C0021945	anomalía_morfológica	311-320	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	321-323	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	324-326	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	onda	onda	NCFS000	-	-	327-331	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	"	"	Fe	-	-	332-333	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	T	t	NCFS000	-	-	333-334	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	"	"	Fe	-	-	334-335	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	336-338	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	V1	V1		-	-	339-341	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	a	a	SPS00	-	-	342-343	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	V4	V4		-	-	344-346	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	.	.	Fp	-	-	346-347	131_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

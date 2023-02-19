@@ -1,0 +1,26 @@
+1	Urticaria	urticaria	NCFS000	C0234935_1	trastorno_1	0-9	655_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	aguda	agudo	AQ0FS0	C0234935_2	trastorno_2	10-15	655_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	352	Modif
+3	de	de	SPS00	C0332285	atributo	16-18	655_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	causa	causa	NCFS000	-	-	19-24	655_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	farmacológica	farmacológico	AQ0FS0	C0205464	calificador	25-38	655_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	.	.	Fp	-	-	38-39	655_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Eritema	eritema	NCMS000	C0041834	anomalía_morfológica#hallazgo	0-7	655_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	exudativo	exudativo	AQ0MS0	C0311438	calificador	8-17	655_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	353	Modif
+3	minor	minor	AQ0CS00	-	-	18-23	655_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	353	Modif
+4	secundario	secundario	NCMS000	C0175668_1	calificador_1	24-34	655_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	a	a	SPS00	C0175668_2	calificador_2	35-36	655_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	37-45	655_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+7	.	.	Fp	-	-	45-46	655_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	655_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	655_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+3	Stevens-Johnson	stevens-johnson	NCMS000	-	-	12-27	655_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+4	farmacológico	farmacológico	AQ0MS0	C0205464	calificador	28-41	655_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	354	Modif
+5	.	.	Fp	-	-	41-42	655_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Necrolisis	necrolisis	NCFN000	-	-	0-10	655_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	tóxica	tóxico	AQ0FS0	-	-	11-17	655_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	355	LOC
+3	epidérmica	epidérmico	AQ0FS0	-	-	18-28	655_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	355	Modif
+4	.	.	Fp	-	-	28-29	655_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

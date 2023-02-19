@@ -1,0 +1,57 @@
+1	Antibioterapia	antibioterapia	NCFS000	-	-	0-14	535_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	inmediata	inmediato	AQ0FS0	C0205253	calificador	15-24	535_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	25-36	535_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	37-39	535_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	amplio	amplio	AQ0MS0	-	-	40-46	535_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	espectro	espectro	NCMS000	-	-	47-55	535_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	.	.	Fp	-	-	55-56	535_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Desbridamiento-lavado	desbridamiento-lavado	NCMS000	-	-	0-21	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	exhaustivo	exhaustivo	AQ0MS0	-	-	22-32	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	33-35	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	36-38	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	herida	herido	NCFS000	-	-	39-45	535_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	quirófano	quirófano	NCMS000	C0029064	medio_ambiente	49-58	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	59-62	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	al	al	SP+DA	-	-	63-65	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	menos	menos	RG	C0332288	atributo	66-71	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	10	10	Z	-	-	72-74	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	litros	l	NCMP000	-	-	75-81	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	82-84	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	85-90	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	fisiológico	fisiológico	AQ0MS0	C0205463	calificador	91-102	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	102-103	535_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Estabilización	estabilización	NCFS000	C1293130	procedimiento	0-14	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	urgente	urgente	AQ0CS0	C0439609	calificador	15-22	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	23-25	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	la	el	DA0FS0	-	-	26-28	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	29-37	535_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	mediante	mediante	SPS00	-	-	38-46	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	fijación	fijación	NCFS000	C0407333_1	procedimiento_1	47-55	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	externa	externo	NCFS000	C0407333_2	procedimiento_2	56-63	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	64-65	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	cierre	cierre	NCMS000	C0185003#C0453981#C0453984	procedimiento#objeto_físico	66-72	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	73-79	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	80-82	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	la	el	DA0FS0	-	-	83-85	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	herida	herido	NCFS000	-	-	86-92	535_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	92-93	535_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Cierre	cierre	NCMS000	C0185003#C0453981#C0453984	procedimiento#objeto_físico	0-6	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	7-13	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	la	el	DA0FS0	-	-	17-19	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	herida	herido	NCFS000	-	-	20-26	535_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	27-30	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	antisépticos	antiséptico	NCMP000	-	-	31-43	535_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	y	y	CC	C1706368	calificador	44-45	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	oxigenotera_x0002_pia	oxigenotera_x0002_pia		-	-	46-67	535_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+10	a	a	SPS00	-	-	68-69	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	dos	dos		-	-	70-73	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	litros	litro	NCMP000	C0475211	calificador	74-80	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	por	por	SPS00	C0702093_1	calificador_1	81-84	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	minuto	minuto	NCMS000	C0702093_2	calificador_2	85-91	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	91-92	535_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

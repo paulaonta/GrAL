@@ -1,0 +1,38 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	diagnosticado	diagnosticar	VMP00SM	-	-	12-25	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	previamente	previamente	RG	-	-	26-37	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	38-40	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	41-45	17_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	acude	acudir	VMIP3S0	-	-	46-51	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	52-53	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	urgencias	urgencia	NCFP000	C0439609	calificador	54-63	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	64-67	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	68-70	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cuadro	cuadro	NCMS000	-	-	71-77	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	78-80	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	3	3	Z	-	-	81-82	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	días	d	NCMP000	-	-	83-87	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	88-90	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	duración	duración	NCFS000	C0449238	atributo	91-99	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	con	con	SPS00	C0332287	atributo	100-103	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	aumento	aumento	NCMS000	C0442805	calificador	104-111	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	112-114	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	su	su	DP3CS0	-	-	115-117	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	118-124	17_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	habitual	habitual	AQ0CS0	C0205353	calificador	125-133	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	hasta	hasta	SPS00	-	-	134-139	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	hacer	hacer	VMN0000	-	-	140-145	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	se	se	PP3CN000	-	-	145-147	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	148-150	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	reposo	reposo	NCMS000	-	-	151-157	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	,	,	Fc	-	-	157-158	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	159-162	17_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	con	con	SPS00	C0332287	atributo	163-166	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	167-180	17_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+33	blanquecina	blanquecino	AQ0FS0	-	-	181-192	17_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	32	1390	Modif
+34	y	y	CC	C1706368	calificador	193-194	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	195-206	17_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+36	acentuada	acentuar	VMP00SF	-	-	207-216	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	.	.	Fp	-	-	216-217	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

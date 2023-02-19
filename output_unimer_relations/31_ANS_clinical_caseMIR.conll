@@ -1,0 +1,31 @@
+1	Progresión	progresión	NCFS000	C0449258	atributo	0-10	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	la	el	DA0FS0	-	-	14-16	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	17-27	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	a	a	SPS00	-	-	28-29	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	leucemia	leucemia	NCFS000	C0023486_1	trastorno#anomalía_morfológica_1	30-38	31_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	prolinfocítica	prolinfocítico	AQ0FS0	C0023486_2	trastorno#anomalía_morfológica_2	39-53	31_ANS_clinical_caseMIR	SENT1	B-Calificador	-	6	3390	Modif
+8	B.	b.	AQ0CS00	-	-	54-56	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Anemia	anemia	NCFS000	C0002880#C0014761_1	trastorno_1	0-6	31_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	hemolítica	hemolítico	AQ0FS0	C0002880#C0014761_2	trastorno_2	7-17	31_ANS_clinical_caseMIR	SENT1	B-Calificador	-	9	3390	Modif
+11	autoinmune	autoinmune	AQ0CS0	C0002880#C0014761_3	trastorno_3	18-28	31_ANS_clinical_caseMIR	SENT1	B-Calificador	-	9	3390	Modif
+12	.	.	Fp	-	-	28-29	31_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0349631_1	trastorno_1	0-8	31_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0349631_2	trastorno_2	9-11	31_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	Richter	Richter		C0349631_3	trastorno_3	12-19	31_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	19-20	31_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Aplasia	aplasia	NCFS000	C0243065	anomalía_morfológica	0-7	31_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	pura	puro	AQ0FS0	C0205238	calificador	8-12	31_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	3392	Modif
+3	de	de	SPS00	C0332285	atributo	13-15	31_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	16-23	31_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	3392	LOC
+5	rojas	rojo	AQ0FP0	C1260956	calificador	24-29	31_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	4	23	MultiE
+6	.	.	Fp	-	-	29-30	31_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0041364_1	trastorno_1	0-8	31_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0041364_2	trastorno_2	9-11	31_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	lisis	lisis	NCFN000	C0041364_3	trastorno_3	12-17	31_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+4	tumoral	tumoral	AQ0CS0	C0041364_4	trastorno_4	18-25	31_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+5	.	.	Fp	-	-	25-26	31_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

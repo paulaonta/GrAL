@@ -1,0 +1,48 @@
+1	Apendicectomía	apendicectomía	NC00SC0	C0003611	procedimiento	0-14	379_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	urgente	urgente	AQ0CS0	C0439609	calificador	15-22	379_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	.	.	Fp	-	-	22-23	379_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Antibioterapia	antibioterapia	NCFS000	-	-	0-14	379_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	,	,	Fc	-	-	14-15	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	16-23	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	percutáneo	percutáneo	NC00SC0	C0522523	calificador	24-34	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	35-37	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	la	el	DA0FS0	-	-	38-40	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	colección	colección	NCFS000	-	-	41-50	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	51-52	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	programar	programar	VMN0000	-	-	53-62	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	apendicectomia	apendicectomia	NCFS000	-	-	63-77	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	12	12		-	-	81-83	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	semanas	semana	NCFP000	C0439230	calificador	84-91	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	.	.	Fp	-	-	91-92	379_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Intervención	intervención	NCFS000	-	-	0-12	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	urgente	urgente	AQ0CS0	C0439609	calificador	13-20	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	21-24	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	hemicolectomía	hemicolectomía		C0192861#C0337369_1	procedimiento_1	25-39	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	derecha	derecho	AQ0FS0	C0192861#C0337369_2	procedimiento_2	40-47	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	y	y	CC	C1706368	calificador	48-49	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	resección	resección	NCFS000	C0728940#C0547070	procedimiento	50-59	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	intestinal	intestinal	NC00SC0	C0021853	calificador	60-70	379_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	71-74	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	75-82	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	83-85	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	absceso	absceso	NCMS000	C0000833	trastorno#anomalía_morfológica	86-93	379_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	.	.	Fp	-	-	93-94	379_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	0-10	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	nasogástrica	nasogástrica	AQ0FS00	-	-	11-23	379_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	,	,	Fc	-	-	23-24	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	fluidoterapia	fluidoterapia	NCFS000	-	-	25-38	379_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+5	iv	iv	NC00SC0	C1522726	calificador	39-41	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	,	,	Fc	-	-	41-42	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	ertapenem	ertapenem	NC00SC0	C1120106	producto#sustancia	43-52	379_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	iv	iv	NC00SC0	C1522726	calificador	53-55	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	56-57	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	reevaluación	reevaluación	NCFS000	-	-	58-70	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	74-77	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	semana	semana	NCFS000	C0439230	calificador	78-84	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	84-85	379_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

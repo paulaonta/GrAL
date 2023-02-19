@@ -1,0 +1,33 @@
+1	Realización	realización	NCFS000	-	-	0-11	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	microfracturas	microfractura	NCFP000	C1265651	anomalía_morfológica	15-29	634_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	o	o	CC	-	-	30-31	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	perforaciones	perforación	NCFP000	C0549099	anomalía_morfológica	32-45	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	46-49	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	artroscopia	artroscopia	NCFS000	C0003904	procedimiento	50-61	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	62-64	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	la	el	DA0FS0	-	-	65-67	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	zona	zona	NCFS000	C0019360	trastorno	68-72	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	lesionada	lesionar	VMP00SF	-	-	73-82	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	.	.	Fp	-	-	82-83	634_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Injerto	injerto	AQ0MS0	C0040732#C1961139#C0181074#C0332835#C0021102	procedimiento#calificador#sustancia#estructura_corporal#objeto_físico	0-7	634_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	osteocondral	osteocondral	NCFS000	-	-	8-20	634_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	autólogo	autólogo	NC00SC0	C0439859	calificador	21-29	634_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	2	24	MultiE
+4	(	(	Fpa	-	-	30-31	634_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	mosaicoplastia	mosaicoplastia	NCFS000	-	-	31-45	634_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	)	)	Fpt	-	-	45-46	634_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	.	.	Fp	-	-	46-47	634_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	0-8	634_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	unicompartimental	unicompartimental		-	-	9-26	634_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	27-29	634_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	30-37	634_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	37-38	634_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Trasplante	trasplante	NCMS000	C0040732#C1961139#C0332835	procedimiento#calificador#estructura_corporal	0-10	634_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	634_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	condrocitos	condrocito	NCMP000	C0225369	célula#sustancia	14-25	634_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	autólogos	autólogos	NCMP000	-	-	26-35	634_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	.	.	Fp	-	-	35-36	634_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

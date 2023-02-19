@@ -1,0 +1,58 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	76	76		-	-	10-12	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	que	que	CS	-	-	26-29	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	30-38	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	39-42	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	43-52	244_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	cognitivo	cognitivo	AQ0MS0	-	-	53-62	244_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	2306	Modif
+12	,	,	Fc	-	-	62-63	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	lentitud	lentitud	NCFS000	-	-	64-72	244_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	10	2306	Modif
+14	y	y	CC	C1706368	calificador	73-74	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	torpeza	torpeza	NCFS000	C0233844	hallazgo	75-82	244_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	83-85	244_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	2306	Modif
+17	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	86-97	244_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	16	73	MultiE
+18	,	,	Fc	-	-	97-98	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	99-101	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ocho	ocho		-	-	102-106	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	meses	mes	NCMP000	C0439231	calificador	107-112	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	113-115	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	evolución	evolución	NCFS000	-	-	116-125	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	125-126	244_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	127-129	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	familia	familia	NCFS000	C0015576	concepto_social	130-137	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	refiere	referir	VMIP3S0	-	-	138-145	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	que	que	CS	-	-	146-149	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	el	el	DA0MS0	-	-	150-152	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	153-161	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	presentaba	presentar	VMII3S0	-	-	162-172	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	alucinaciones	alucinación	NCFP000	C0018524	hallazgo	173-186	244_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	visuales	visual	AQ0CP0	C0234621	calificador	187-195	244_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	8	2307	Modif
+10	,	,	Fc	-	-	195-196	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	197-200	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	lo	el	DA0NS0	-	-	201-203	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	que	que	PR0CN000	-	-	204-207	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	su	su	DP3CS0	-	-	208-210	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	medico	medicar	VMIP1S0	-	-	211-217	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	218-220	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	Atención	atención	NCFS000	C0004268	función	221-229	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	Primaria	primario	AQ0FS0	C0205225	calificador	230-238	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	pautó	pautar	VMIS3S0	-	-	239-244	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	dosis	dosis	NCFN000	-	-	245-250	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	bajas	bajo	AQ0FP0	C0205251	calificador	251-256	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	257-259	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	risperídona	risperídona	NCFS000	-	-	260-271	244_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+24	,	,	Fc	-	-	271-272	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	con	con	SPS00	C0332287	atributo	273-276	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	un	un		C0205447_1	calificador_1	277-279	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	importante	importante	AQ0CS0	-	-	280-290	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	empeoramiento	empeoramiento	NCMS000	-	-	291-304	244_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+29	del	del	SP+DA	-	-	305-308	244_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	28	2307	Modif
+30	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	309-315	244_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	29	299	MultiE
+31	motor	motor	NCMS000	-	-	316-321	244_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	29	299	MultiE
+32	.	.	Fp	-	-	321-322	244_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

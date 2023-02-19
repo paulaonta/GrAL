@@ -1,0 +1,51 @@
+1	Joven	joven	NCCS000	C0332239	calificador	0-5	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	24	24		-	-	9-11	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	anemia	anemia	NCFS000	C0162316#C0008272_1	trastorno_1	30-36	471_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	ferropénica	ferropénico	AQ0FS0	C0162316#C0008272_2	trastorno_2	37-48	471_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	2824	Modif
+9	crónica	crónico	AQ0FS0	C0205191	calificador	49-56	471_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	2824	Modif
+10	de	de	SPS00	C0332285	atributo	57-59	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	origen	origen	NCMS000	C0439659	atributo	60-66	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	no	no	RN	C1298908	calificador	67-69	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	filiado	filiar	VMP00SM	-	-	70-77	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	,	,	Fc	-	-	77-78	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	79-82	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ileocolonoscopia	ileocolonoscopia	NCFS000	-	-	83-99	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	100-101	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	esofagogastroduodenoscopia	esofagogastroduodenoscopia	NC00SC0	C0079304	procedimiento	102-128	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	sin	sin	SPS00	C0332288	atributo	129-132	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	133-141	471_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+21	.	.	Fp	-	-	141-142	471_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	143-145	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	146-153	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	154-161	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	162-165	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	cápsula	cápsula	NCFS000	C0006935#C1706433	calificador	166-173	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	174-185	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	observando	observar	VMG0000	-	-	186-196	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	úlceras	úlcera	NCFP000	C0041582	anomalía_morfológica#trastorno	197-204	471_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	aisladas	aislar	VMP00PF	-	-	205-213	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	a	a	SPS00	-	-	214-215	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	nivel	nivel	NCMS000	C0456079	atributo	216-221	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	222-224	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	yeyuno	yeyuno	NCMS000	C1278922#C0022378	estructura_corporal	225-231	471_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	2825	LOC
+14	distal	distal	AQ0CS0	C0205108	calificador	232-238	471_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	13	72	MultiE
+15	.	.	Fp	-	-	238-239	471_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	240-241	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	En	en	SPS00	C1720294#C0332285	calificador#atributo	241-243	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	cuál	cuál	PT0CS000	-	-	244-248	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	249-251	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	las	el	DA0FP0	-	-	252-255	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	256-266	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	267-279	471_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	11	2826	Modif
+8	se	se	P00CN000	-	-	280-282	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	encuentran	encontrar	VMIP3P0	-	-	283-293	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	estas	este	DD0FP0	-	-	294-299	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	300-308	471_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	7	2826	Modif
+12	?	?	Fit	-	-	308-309	471_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

@@ -1,0 +1,90 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	determinación	determinación	NCFS000	C0242485	procedimiento	13-26	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	analítica	analítico	AQ0FS0	-	-	27-36	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	37-39	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	troponina	troponina	NC00SC0	C0041199	sustancia	40-49	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	50-51	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	esperar	esperar	VMN0000	-	-	52-59	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	su	su	DP3CS0	-	-	60-62	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	63-72	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	para	para	SPS00	C0521125	calificador	73-77	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	confirmar	confirmar	VMN0000	-	-	78-87	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	88-90	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	91-100	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0150312_2	calificador_2	101-103	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	un	un		C0205447_1	calificador_1	104-106	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	infarto	infarto	NCMS000	C0155626_1	trastorno_1	107-114	285_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	agudo	agudo	NC00SC0	C0155626_2	trastorno_2	115-120	285_ANS_clinical_caseMIR	SENT1	B-Calificador	-	17	4824	Modif
+19	de	de	SPS00	C0155626_3	trastorno_3	121-123	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	miocardio	miocardio	NCMS000	C0155626_4	trastorno_4	124-133	285_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	17	4824	LOC
+21	.	.	Fp	-	-	133-134	285_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tratar	tratar	VMN0000	-	-	0-6	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	al	al	SP+DA	-	-	7-9	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	10-18	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	como	como	CS	C0332257	calificador	19-23	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	si	si	CS	-	-	24-26	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	fuera	ser	VSSI3S0	-	-	27-32	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	33-35	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	infarto	infarto	NCMS000	C0021308	anomalía_morfológica	36-43	285_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	44-47	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	elevación	elevación	NCFS000	C0439775	procedimiento	48-57	285_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	del	del	SP+DA	-	-	58-61	285_ANS_clinical_caseMIR	SENT2	B-Calificador	-	10	4825	Modif
+12	segmento	segmento	NCMS000	C0429029_1	entidad_observable_1	62-70	285_ANS_clinical_caseMIR	SENT2	I-Calificador	-	11	50	MultiE
+13	ST	st	NC00YL0	C0429029_2	entidad_observable_2	71-73	285_ANS_clinical_caseMIR	SENT2	I-Calificador	-	11	50	MultiE
+14	,	,	Fc	-	-	73-74	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	planteando	plantear	VMG0000	-	-	75-85	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	86-89	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	90-97	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	98-100	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+19	reperfusión	reperfusión	NCFS000	-	-	101-112	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+20	lo	el	DA0NS0	-	-	113-115	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+21	más	más	RG	C0205172	calificador	116-119	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+22	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	120-126	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+23	posible	posible	NC00SC0	C0332149#C2362652	calificador	127-134	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+24	.	.	Fp	-	-	134-135	285_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Implantar	implantar	VMN0000	-	-	0-9	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	10-12	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	marcapasos	marcapasos	NCMN000	-	-	13-23	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	transcutáneo	transcutáneo	AQ0MS0	-	-	24-36	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	ante	ante	SPS00	-	-	37-41	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	42-44	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	posibilidad	posibilidad	NCFS000	-	-	45-56	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	57-59	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	que	que	CS	-	-	60-63	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	desarrolle	desarrollar	VMSP3S0	-	-	64-74	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	75-77	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	bloqueo	bloqueo	NCMS000	C0028778	anomalía_morfológica	78-85	285_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	más	más	RG	C0205172	calificador	86-89	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	avanzado	avanzar	VMP00SM	-	-	90-98	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	.	.	Fp	-	-	98-99	285_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	13-15	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	urgente	urgente	AQ0CS0	C0439609	calificador	16-23	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	para	para	SPS00	C0521125	calificador	24-28	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	descartar	descartar	VMN0000	C0332196	calificador	29-38	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	la	el	DA0FS0	-	-	39-41	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	42-51	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	52-54	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	55-58	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	embolia	embolia	NCFS000	C0034065_1	trastorno_1	59-66	285_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion	-	-	-
+12	pulmonar	pulmonar	NC00SC0	C0034065_2	trastorno_2	67-75	285_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	11	4827	LOC
+13	aguda	agudo	AQ0FS0	C0205178	calificador	76-81	285_ANS_clinical_caseMIR	SENT4	B-Calificador	-	11	4827	Modif
+14	.	.	Fp	-	-	81-82	285_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Como	como	CS	C0332257	calificador	0-4	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	pudiera	poder	VMSI3S0	-	-	5-12	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	tratar	tratar	VMN0000	-	-	13-19	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	se	se	PP3CN000	-	-	19-21	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	22-24	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	25-28	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	pericarditis	pericarditis	NCFN000	C0155679_1	trastorno_1	29-41	285_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+8	aguda	agudo	AQ0FS0	C0155679_2	trastorno_2	42-47	285_ANS_clinical_caseMIR	SENT5	B-Calificador	-	7	4828	Modif
+9	administraremos	administrar	VMIF1P0	C1621583	calificador	48-63	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	AINEs	antiinflamatorios_no_esteroideos	NC00YL0	-	-	64-69	285_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+11	.	.	Fp	-	-	69-70	285_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

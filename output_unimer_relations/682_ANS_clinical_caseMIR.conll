@@ -1,0 +1,32 @@
+1	Aciclovir	aciclovir	NC00SC0	C0001367	sustancia	0-9	682_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	más	más	RG	C0205172	calificador	10-13	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	metilprednisolona	metilprednisolona	NC00SC0	C0025815	sustancia	14-31	682_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	IV.	iv.	AQ0CS00	-	-	32-35	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	Vancomicina	vancomicina	NC00SC0	C0042313	sustancia	0-11	682_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+6	,	,	Fc	-	-	11-12	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ampicilina	ampicilina	NCFS000	C0002680	sustancia	13-23	682_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+8	y	y	CC	C1706368	calificador	24-25	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	26-37	682_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+10	IV.	iv.	AQ0CS00	-	-	38-41	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	Tomografía	tomografía	NCFS000	C0040405_1	procedimiento_1	0-10	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	axial	axial	NC00SC0	C0040405_2	procedimiento_2	11-16	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	computarizada	computarizada		C0040405_3	procedimiento_3	17-30	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	31-34	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	contraste	contraste	NCMS000	-	-	35-44	682_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+16	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	45-56	682_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	15	102	MultiE
+17	.	.	Fp	-	-	56-57	682_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Urografía	urografía	NCFS000	C0203108_1	procedimiento_1	0-9	682_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	intravenosa	intravenoso	AQ0FS0	C0203108_2	procedimiento_2	10-21	682_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	21-22	682_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Resonancia	resonancia	NCFS000	C0024485_1	procedimiento_1	0-10	682_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	magnética	magnético	AQ0FS0	C0024485_2	procedimiento_2	11-20	682_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	nuclear	nuclear	AQ0CS0	C0024485_3	procedimiento_3	21-28	682_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	abdominal	abdominal	AQ0CS0	C0000726	calificador	29-38	682_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	38-39	682_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	0-9	682_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	urológica	urológico	AQ0FS0	C0042077	calificador	10-19	682_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	19-20	682_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

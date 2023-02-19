@@ -1,0 +1,17 @@
+1	Hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	0-12	403_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	13-21	403_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	1592	LOC
+3	mal	mal	RG	C0205169	calificador	22-25	403_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	1592	Modif
+4	controlada	controlar	VMP00SF	-	-	26-36	403_ANS_clinical_caseMIR	SENT1	I-Calificador	-	3	30	MultiE
+5	.	.	Fp	-	-	36-37	403_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	0-11	403_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	11-12	403_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hipocalcemia	hipocalcemia	NC00SC0	C0020598	trastorno	0-12	403_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	12-13	403_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Mal	mal	RG	C0205169	calificador	0-3	403_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	control	control	NCMS000	C2587213	atributo	4-11	403_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	glucémico	glucémico	AQ0MS0	-	-	12-21	403_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	1595	Modif
+4	.	.	Fp	-	-	21-22	403_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

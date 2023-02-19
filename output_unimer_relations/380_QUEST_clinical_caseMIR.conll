@@ -1,0 +1,91 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	83	83		-	-	10-12	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	17-18	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	institucionalizado	institucionalizar	VMP00SM	-	-	19-37	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	37-38	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	dependiente	dependiente	NCMS000	C0851827	calificador	39-50	380_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	para	para	SPS00	C0521125	calificador	51-55	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	las	el	DA0FP0	-	-	56-59	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	actividades	actividad	NCFP000	C0441655	entidad_observable	60-71	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	72-74	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	75-77	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	vida	vida	NCFS000	-	-	78-82	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	diaria	diario	AQ0FS0	C0332173	calificador	83-89	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	,	,	Fc	-	-	89-90	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	diabético	diabético	AQ0MS0	-	-	91-100	380_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	e	y	CC	C1706368	calificador	101-102	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	hipertenso	hipertenso	AQ0MS0	-	-	103-113	380_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	,	,	Fc	-	-	113-114	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	sin	sin	SPS00	C0332288	atributo	115-118	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	historia	historia	NCFS000	-	-	119-127	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	128-130	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	131-138	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	abdominal	abdominal	AQ0CS0	C0000726	calificador	139-148	380_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+26	previa	previo	AQ0FS0	C0205156	calificador	149-155	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	.	.	Fp	-	-	155-156	380_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	157-162	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	163-164	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	165-174	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	175-178	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	presentar	presentar	VMN0000	-	-	179-188	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	189-199	380_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	200-209	380_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	6	2976	LOC
+8	,	,	Fc	-	-	209-210	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	211-219	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332197_2	calificador_2	220-222	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	emisión	emisión	NCFS000	-	-	223-230	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	231-233	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	gas	gas	NCMS000	C0017110	sustancia	234-237	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	238-239	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	heces	hez	NCFP000	-	-	240-245	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	245-246	380_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	247-249	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	250-252	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	253-264	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	265-272	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	abdomen	abdomen	NCMS000	C1291077#C0000731_1	hallazgo_1	273-280	380_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	11	2977,8,6	LOC,2977,2977
+6	distendido	distender	VMP00SM	C1291077#C0000731_2	hallazgo_2	281-291	380_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	y	y	CC	C1706368	calificador	292-293	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	timpanizado	timpanizar	VMP00SM	-	-	294-305	380_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	,	,	Fc	-	-	305-306	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	algo	algo	PI0CS000	-	-	307-311	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	doloroso	doloroso	AQ0MS0	-	-	312-320	380_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	,	,	Fc	-	-	320-321	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	sin	sin	SPS00	C0332288	atributo	322-325	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	peritonismo	peritonismo	NCMS000	-	-	326-337	380_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+15	.	.	Fp	-	-	337-338	380_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	339-341	380_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	se	se	P00CN000	-	-	342-344	380_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	palpan	palpar	VMIP3P0	-	-	345-351	380_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	hernias	hernia	NCFP000	C0019270	anomalía_morfológica	352-359	380_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion	-	-	-
+5	.	.	Fp	-	-	359-360	380_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Analítica	analítica	NCFS000	-	-	361-370	380_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	normal	normal	AQ0CS0	C0205307	calificador	371-377	380_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	.	.	Fp	-	-	377-378	380_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	379-381	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	la	el	DA0FS0	-	-	382-384	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	385-396	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	simple	simple	NCCS000	C1306645_2	procedimiento_2	397-403	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	se	se	P00CN000	-	-	404-406	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	detecta	detectar	VMIP3S0	-	-	407-414	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	415-418	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	419-425	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	426-428	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	429-436	380_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	437-439	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	"	"	Fe	-	-	440-441	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	grano	grano	NCMS000	C0086369#C0304065	sustancia	441-446	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	447-449	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+15	café	café	NCMS000	C0442599#C0009237	medio_ambiente#sustancia	450-454	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	455-457	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	sigma	sigma	NCMS000	-	-	458-463	380_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+18	"	"	Fe	-	-	463-464	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+19	.	.	Fp	-	-	464-465	380_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

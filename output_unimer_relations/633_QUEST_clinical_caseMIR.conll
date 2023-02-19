@@ -1,0 +1,119 @@
+1	Lo	el	DA0NS0	-	-	318-320	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	más	más	RG	C0205172	calificador	321-324	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	probable	probable	AQ0CS0	C0332148	calificador	325-333	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	es	ser	VSIP3S0	-	-	334-336	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	CS	-	-	337-340	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	se	se	P00CN000	-	-	341-343	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	trate	tratar	VMSP3S0	-	-	344-349	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	350-352	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	353-356	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	:	:	Fd	-	-	356-357	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+12	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+13	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+14	cubital	cubital	AQ0CS0	C0442044	calificador	18-25	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+15	del	del	SP+DA	-	-	26-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+16	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	30-35	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+17	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+18	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+19	abductor	abductor	NCMS000	C0440974_1	sustancia_1	11-19	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+20	largo	largo	RG	C0440974_2	sustancia_2	20-25	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+21	del	del	SP+DA	C0440974_3	sustancia_3	26-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+22	pulgar	pulgar	NCMS000	C0440974_4	sustancia_4	30-36	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+23	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+24	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+25	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+26	profundo	profundo	AQ0MS0	C0205125#C0439808	calificador	18-26	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+27	de	de	SPS00	C0332285	atributo	27-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+28	los	el	DA0MP0	-	-	30-33	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+29	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	34-39	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+30	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+31	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+32	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+33	radial	radial	AQ0CS0	C0442038	calificador	18-24	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+34	del	del	SP+DA	-	-	25-28	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+35	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	29-34	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+36	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+37	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+38	palmar	palmar	NCMS000	C0443349	calificador	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	50	MultiE
+39	largo	largo	AQ0MS0	C0205166#C0392744	calificador	18-23	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	Un	Un		C0205447_1	calificador_1	0-2	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	de	de	SPS00	C0332285	atributo	10-12	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	44	44		-	-	13-15	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	años	año	NCMP000	C0439234	calificador	16-20	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	,	,	Fc	-	-	28-29	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	trabajador	trabajador	NCMS000	C1306056	ocupación	30-40	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	de	de	SPS00	C0332285	atributo	41-43	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	la	el	DA0FS0	-	-	44-46	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	construcción	construcción	NCFS000	-	-	47-59	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	,	,	Fc	-	-	59-60	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	consulta	consultar	VMM02S0	C1704447_1	calificador_1	61-69	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	por	por	SPS00	C1704447_2	calificador_2	70-73	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	un	un		C0205447_1	calificador_1	74-76	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+56	dolor	dolor	NCMS000	C0024031_1	trastorno_1	77-82	633_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+57	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	83-89	633_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	56	2502	LOC
+58	de	de	SPS00	C0332285	atributo	90-92	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+59	dos	dos		-	-	93-96	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+60	semanas	semana	NCFP000	C0439230	calificador	97-104	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+61	de	de	SPS00	C0332285	atributo	105-107	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+62	duración	duración	NCFS000	C0449238	atributo	108-116	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+63	.	.	Fp	-	-	116-117	633_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Dos	Dos		-	-	118-121	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	años	año	NCMP000	C0439234	calificador	122-126	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	antes	antes	RG	C0332152	atributo	127-132	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	consultó	consultar	VMIS3S0	-	-	133-141	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	142-145	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	146-148	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	proceso	proceso	NCMS000	C1522240	entidad_observable	149-156	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	similar	similar	AQ0CS0	-	-	157-164	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	164-165	633_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	166-168	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	169-174	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	175-177	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	178-180	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	dolor	dolor	NCMS000	C0030193	hallazgo	181-186	633_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	no	no	RN	C1298908	calificador	187-189	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	irradiado	irradiar	VMP00SM	-	-	190-199	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	,	,	Fc	-	-	199-200	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	que	que	CS	-	-	201-204	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	mejora	mejora	NCFS000	-	-	205-211	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	212-215	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	el	el	DA0MS0	-	-	216-218	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	reposo	reposo	NCMS000	-	-	219-225	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	nocturno	nocturno	AQ0MS0	C0240526	calificador	226-234	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	o	o	CC	-	-	235-236	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	se	se	P00CN000	-	-	237-239	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	acompaña	acompañar	VMIP3S0	-	-	240-248	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	249-251	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	déficit	déficit	NCMS000	C0162429	hallazgo	252-259	633_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+20	motor	motor	NCMS000	-	-	260-265	633_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	19	2504	Modif
+21	o	o	CC	-	-	266-267	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	alteraciones	alteración	NCFP000	-	-	268-280	633_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+23	sensitivas	sensitivo	AQ0FP0	C0445254	calificador	281-291	633_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	22	2504	Modif
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	292-294	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	la	el	DA0FS0	-	-	295-297	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	298-309	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	física	físico	NCFS000	C0031809_2	procedimiento_2	310-316	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	.	.	Fp	-	-	316-317	633_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	318-320	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	maniobra	maniobra	NCFS000	-	-	321-329	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	330-332	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	Lasegue	lasegue	NCMS000	-	-	333-340	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	341-343	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	344-352	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	352-353	633_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	354-355	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	355-358	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	359-370	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	complementaria	complementario	AQ0FS0	-	-	371-385	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	considera	considerar	VMIP3S0	-	-	386-395	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	indicada	indicar	VMP00SF	-	-	396-404	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	?	?	Fit	-	-	404-405	633_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

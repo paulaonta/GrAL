@@ -1,0 +1,93 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	10-12	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	18-31	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	32-34	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	35-47	719_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	48-56	719_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	7	3541	LOC
+9	con	con	SPS00	C0332287	atributo	57-60	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	mal	mal	AQ0CS0	C0205169	calificador	61-64	719_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	control	control	NCMS000	C2587213	atributo	65-72	719_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	10	97	MultiE
+12	ambulatorio	ambulatorio	AQ0MS0	C0439841	calificador	73-84	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	,	,	Fc	-	-	84-85	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	que	que	PR0CN000	-	-	86-89	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	acude	acudir	VMIP3S0	-	-	90-95	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	por	por	SPS00	C0678226	atributo	96-99	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	fiebre	fiebre	NCFS000	C0015967	hallazgo	100-106	719_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	107-109	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	38,8°C	38,8°C		-	-	110-116	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	desde	desde	SPS00	-	-	117-122	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	2	2	Z	-	-	123-124	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	días	d	NCMP000	-	-	125-129	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	antes	antes	RG	C0332152	atributo	130-135	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	,	,	Fc	-	-	135-136	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	dolor	dolor	NCMS000	C0151826_1	hallazgo_1	137-142	719_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	retroesternal	retroesternal	NC00SC0	C0151826_2	hallazgo_2	143-156	719_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	25	3541	LOC
+27	intenso	intenso	AQ0MS0	C0205178	calificador	157-164	719_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	25	3541	Modif
+28	que	que	PR0CN000	-	-	165-168	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	se	se	P00CN000	-	-	169-171	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	irradia	irradiar	VMIP3S0	-	-	172-179	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	a	a	SPS00	-	-	180-181	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	182-188	719_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+33	y	y	CC	C1706368	calificador	189-190	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	a	a	SPS00	-	-	191-192	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	ambos	ambos	PI0MP000	C0230348_1	estructura_corporal_1	193-198	719_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+36	brazos	brazo	NCMP000	C0230348_2	estructura_corporal_2	199-205	719_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	35	453	MultiE
+37	,	,	Fc	-	-	205-206	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	que	que	PR0CN000	-	-	207-210	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	disminuye	disminuir	VMIP3S0	-	-	211-220	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	cuando	cuando	CS	-	-	221-227	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	se	sin_especificar	NC00YL0	C0700231_1	hallazgo_1	228-230	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	inclina	inclinar	VMM02S0	C0700231_2	hallazgo_2	231-238	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	hacia	hacia	SPS00	C0439780_1	calificador_1	239-244	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	delante	delante	RG	C0439780_2	calificador_2	245-252	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	y	y	CC	C1706368	calificador	253-254	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	aumenta	aumentar	VMIP3S0	-	-	255-262	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	con	con	SPS00	C0332287	atributo	263-266	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	el	el	DA0MS0	-	-	267-269	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	decúbito	decúbito	NCMS000	C0442221_1	calificador_1	270-278	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	supino	supino	NCMS000	C0442221_2	calificador_2	279-285	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	.	.	Fp	-	-	285-286	719_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	287-289	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	el	el	DA0MS0	-	-	290-292	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ECG	ecg	NC00YL0	C1623258	procedimiento	293-296	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	297-299	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	observa	observar	VMIP3S0	-	-	300-307	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	elevación	elevación	NCFS000	C0439775	procedimiento	308-317	719_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	del	del	SP+DA	-	-	318-321	719_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	3542	Modif
+8	segmento	segmento	NCMS000	C0429029_1	entidad_observable_1	322-330	719_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	7	45	MultiE
+9	ST	st	NC00YL0	C0429029_2	entidad_observable_2	331-333	719_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	7	45	MultiE
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	334-336	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	las	el	DA0FP0	-	-	337-340	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	derivaciones	derivación	NCFP000	C1442858#C0542331	anomalía_morfológica#objeto_físico	341-353	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	I	i	NCFS000	-	-	354-355	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	,	,	Fc	-	-	355-356	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	II	ii	NCCS000	-	-	357-359	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	360-361	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	AVF	augmented_voltage_foot_(voltaje_incrementado_en_pie,_derivación_del_electrocardiograma)	NC00YL0	-	-	362-365	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	y	y	CC	C1706368	calificador	366-367	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	368-370	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	V1	V1		-	-	371-373	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	a	a	SPS00	-	-	374-375	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	V6	V6		-	-	376-378	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	,	,	Fc	-	-	378-379	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	sin	sin	SPS00	C0332288	atributo	380-383	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	alteración	alteración	NCFS000	-	-	384-394	719_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+26	del	del	SP+DA	-	-	395-398	719_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	25	3542	Modif
+27	complejo	complejo	NCMS000	C0429097_1	entidad_observable_1	399-407	719_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	26	242	MultiE
+28	QRS	qrs	NC00YL0	C0429097_2	entidad_observable_2	408-411	719_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	26	242	MultiE
+29	.	.	Fp	-	-	411-412	719_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	413-415	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	416-418	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	ecocardiograma	ecocardiograma	NCMS000	-	-	419-433	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	se	se	P00CN000	-	-	434-436	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	observa	observar	VMIP3S0	-	-	437-444	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	445-447	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	derrame	derrame	NCMS000	C0031039#C0349077_1	trastorno_1	448-455	719_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	pericárdico	pericárdico	NC00SC0	C0031039#C0349077_2	trastorno_2	456-467	719_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	3543	LOC
+9	moderado	moderar	VMP00SM	-	-	468-476	719_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	7	3543	Modif
+10	.	.	Fp	-	-	476-477	719_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

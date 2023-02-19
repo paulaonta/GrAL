@@ -1,0 +1,23 @@
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	43_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	IgA	iga	AQ0FS00	-	-	11-14	43_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	4530	Modif
+3	.	.	Fp	-	-	14-15	43_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	43_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	43_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	Schoenlein	schoenlein	NCMS000	-	-	12-22	43_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+4	Henoch	henoch	AQ0CN00	-	-	23-29	43_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+5	.	.	Fp	-	-	29-30	43_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Glomerulonefritis	glomerulonefritis	NCFN000	C0017658	trastorno	0-17	43_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	postinfecciosa	postinfeccioso	AQ0FS0	-	-	18-32	43_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	4532	Modif
+3	.	.	Fp	-	-	32-33	43_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C1567741#C1305904#C0027706_1	trastorno_1	0-8	43_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C1567741#C1305904#C0027706_2	trastorno_2	9-11	43_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	Alport	Alport		C1567741#C1305904#C0027706_3	trastorno_3	12-18	43_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	18-19	43_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Glomerulonefritis	glomerulonefritis	NCFN000	C0017665_1	trastorno_1	0-17	43_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	membranosa	membranoso	AQ0FS0	C0017665_2	trastorno_2	18-28	43_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	4534	Modif
+3	.	.	Fp	-	-	28-29	43_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

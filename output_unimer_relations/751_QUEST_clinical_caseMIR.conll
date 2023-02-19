@@ -1,0 +1,95 @@
+1	El	el	DA0MS0	-	-	474-476	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	477-488	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	más	más	RG	C0205172	calificador	489-492	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	493-501	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	502-504	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	:	:	Fd	-	-	504-505	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	Un	Un		C0205447_1	calificador_1	0-2	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	3-11	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	12-14	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	56	56		-	-	15-17	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	años	año	NCMP000	C0439234	calificador	18-22	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	es	ser	VSIP3S0	-	-	23-25	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	encontrado	encontrar	VMP00SM	C0332285_1	atributo_1	26-36	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C0332285_2	atributo_2	37-39	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	coma	coma	NCCS000	C0009421	trastorno#hallazgo	40-44	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	45-47	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	su	su	DP3CS0	-	-	48-50	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	domicilio	domicilio	NCMS000	C1442065	entidad_observable	51-60	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	60-61	751_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	62-67	751_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	68-80	751_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332119_2	situación_2	81-83	751_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	84-96	751_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	97-105	751_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	4	6051	LOC
+6	y	y	CC	C1706368	calificador	106-107	751_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	108-116	751_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	117-125	751_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	7	45	MultiE
+9	.	.	Fp	-	-	125-126	751_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	127-129	751_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tiene	tener	VMIP3S0	-	-	130-135	751_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	hábitos	hábito	NCMP000	C0018464	hallazgo	136-143	751_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+4	tóxicos	tóxico	AQ0MP0	-	-	144-151	751_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	3	30	MultiE
+5	ni	ni	CC	-	-	152-154	751_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	155-162	751_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	otra	otro	DI0FS0	C0205394#C0449210	calificador#estructura_corporal	163-167	751_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	enfermedad	enfermedad	NCFS000	C0008679_1	trastorno_1	168-178	751_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	crónica	crónico	AQ0FS0	C0008679_2	trastorno_2	179-186	751_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	8	6052	Modif
+10	.	.	Fp	-	-	186-187	751_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Está	estar	VAM02S0	-	-	188-192	751_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	193-195	751_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	196-207	751_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	208-211	751_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	irbesartan	irbesartan	NC00BO0	-	-	212-222	751_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+6	y	y	CC	C1706368	calificador	223-224	751_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	empaglifozina	empaglifozina	NCFS000	-	-	225-238	751_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	.	.	Fp	-	-	238-239	751_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	240-242	751_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	presenta	presentar	VMIP3S0	-	-	243-251	751_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	signos	signo	NCMP000	C0311392	hallazgo	252-258	751_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	259-261	751_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	desnutrición	desnutrición	NCFS000	C0162429	trastorno	262-274	751_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion	-	-	-
+6	.	.	Fp	-	-	274-275	751_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	276-284	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	285-288	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	289-296	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	297-305	751_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	306-308	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	110/60	110/60	Z	-	-	309-315	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	mmHg	mmHg	NCMP000	-	-	316-320	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	,	,	Fc	-	-	320-321	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	322-325	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	326-336	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	cardiaca	cardiaco	AQ0FS0	-	-	337-345	751_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	346-348	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	110	110		-	-	349-352	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	lpm	lpm	NC00YL0	-	-	353-356	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+15	,	,	Fc	-	-	356-357	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	358-361	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	SatO2	SatO2		-	-	362-367	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+18	del	del	SP+DA	-	-	368-371	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+19	90	90	Z	-	-	372-374	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+20	%	%	Ft	-	-	375-376	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+21	,	,	Fc	-	-	376-377	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+22	una	una		C0205447_1	calificador_1	378-381	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+23	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	382-389	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+24	capilar	capilar	AQ0CS0	C1280521#C0006901	estructura_corporal	390-397	751_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	398-400	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+26	120	120	Z	-	-	401-404	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+27	mg	mg	NCMN000	-	-	405-407	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+28	/	/	Fh	-	-	407-408	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+29	dl	decilitro	NCMN000	C0439241	calificador	408-410	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+30	y	y	CC	C1706368	calificador	411-412	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+31	una	una		C0205447_1	calificador_1	413-416	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+32	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	417-427	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+33	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	428-440	751_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+34	de	de	SPS00	C0332285	atributo	441-443	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+35	7	7		-	-	444-445	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+36	rpm	r.p.m.	NCFN000	-	-	446-449	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+37	.	.	Fp	-	-	449-450	751_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

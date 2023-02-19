@@ -1,0 +1,33 @@
+1	Descompensación	descompensación	NCFS000	C0231187	hallazgo	0-15	255_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	hidrópica	hidrópico	AQ0FS0	-	-	16-25	255_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	5862	Modif
+3	secundaría	secundar	VMIC3S0	-	-	26-36	255_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	a	a	SPS00	-	-	37-38	255_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	cirrosis	cirrosis	NCFN000	C0023890_1	trastorno_1	39-47	255_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	5862	Causada_por
+6	hepática	hepático	AQ0FS0	C0023890_2	trastorno_2	48-56	255_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	5	5862	LOC
+7	.	.	Fp	-	-	56-57	255_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ascitis	ascitis	NCFN000	C0008732_1	trastorno_1	0-7	255_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	quilosa	quiloso	AQ0FS0	C0008732_2	trastorno_2	8-15	255_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	5863	Modif
+3	por	por	SPS00	C0678226	atributo	16-19	255_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	linfoma	linfoma	NCMS000	C0024299	anomalía_morfológica	20-27	255_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	1	5863	Causada_por
+5	no	no	RN	C1298908	calificador	28-30	255_ANS_clinical_caseMIR	SENT2	B-Calificador	-	4	5863	Modif
+6	Hodgkin	Hodgkin		-	-	31-38	255_ANS_clinical_caseMIR	SENT2	I-Calificador	-	5	23	MultiE
+7	.	.	Fp	-	-	38-39	255_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tuberculosis	tuberculosis	NCFN000	C0041296	trastorno	0-12	255_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	peritoneal	peritoneal	NC00SC0	C0442034	calificador	13-23	255_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	5864	LOC
+3	.	.	Fp	-	-	23-24	255_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	0-10	255_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	peritoneal	peritoneal	AQ0CS0	C0442034	calificador	11-21	255_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	5865	LOC
+3	de	de	SPS00	C0332285	atributo	22-24	255_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	25-39	255_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	1	5865	Causada_por
+5	.	.	Fp	-	-	39-40	255_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Ascitis	ascitis	NCFN000	C0003962	trastorno	0-7	255_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	secundaria	secundario	AQ0FS0	C0175668	calificador	8-18	255_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	a	a	SPS00	-	-	19-20	255_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	pericarditis	pericarditis	NCFN000	C0031048_1	trastorno_1	21-33	255_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	1	5866	Causada_por
+5	constrictiva	constrictivo	AQ0FS0	C0031048_2	trastorno_2	34-46	255_ANS_clinical_caseMIR	SENT5	B-Calificador	-	4	5866	Modif
+6	.	.	Fp	-	-	46-47	255_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

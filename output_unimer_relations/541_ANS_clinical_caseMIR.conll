@@ -1,0 +1,22 @@
+1	Linfadenectomía	linfadenectomía	NC00SC0	C0024203	procedimiento	0-15	541_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	retroperitoneal	retroperitoneal	AQ0CS0	C0035359	calificador	16-31	541_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	31-32	541_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	541_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	sobre	sobre	SPS00	C1720294#C0205136	calificador	13-18	541_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	el	el	DA0MS0	-	-	19-21	541_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	retroperitoneo	retroperitoneo	NC00SC0	C0035359	estructura_corporal	22-36	541_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	36-37	541_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Linfadenectomía	linfadenectomía	NC00SC0	C0024203	procedimiento	0-15	541_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	retroperitoneal	retroperitoneal	AQ0CS0	C0035359	calificador	16-31	541_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	seguida	seguir	VMP00SF	-	-	32-39	541_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	40-42	541_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	radioterapia	radioterapia	NCFS000	C1522449	-	43-55	541_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+6	.	.	Fp	-	-	55-56	541_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	541_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	tipo	tipo	NCMS000	C0332307	calificador#atributo	14-18	541_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	BEP	bleomicina,_etopósido_y_cisplatino,_quimioterapia	NC00YL0	-	-	19-22	541_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	.	.	Fp	-	-	22-23	541_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

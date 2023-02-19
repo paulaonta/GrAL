@@ -1,0 +1,32 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	3-5	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	6-12	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	13-15	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	41	41		-	-	16-18	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	años	año	NCMP000	C0439234	calificador	19-23	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	que	que	PR0CN000	-	-	24-27	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	acude	acudir	VMIP3S0	-	-	28-33	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	a	a	SPS00	-	-	34-35	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	consulta	consultar	VMM02S0	C1704447_1	calificador_1	36-44	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C1704447_2	calificador_2	45-48	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	49-51	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	52-58	83_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	59-61	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	el	el	DA0MS0	-	-	62-64	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	lóbulo	lóbulo	NCMS000	C0447647#C1278783_1	estructura_corporal_1	65-71	83_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	30	6180	LOC
+17	tiroideo	tiroideo	AQ0MS0	C0447647#C1278783_2	estructura_corporal_2	72-80	83_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+18	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	81-88	83_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+19	se	se	P00CN000	-	-	89-91	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ha	haber	VAIP3S0	-	-	92-94	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	realizado	realizar	VMP00SM	-	-	95-104	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	una	una		C0205447_1	calificador_1	105-108	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	punción	punción	NCFS000	C0033119	anomalía_morfológica	109-116	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	-	-	Fg	-	-	116-117	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	aspiración	aspiración	NCFS000	C1510483_1	calificador_1	118-128	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	con	con	SPS00	C1510483_2	calificador_2	129-132	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	aguja	aguja	NCFS000	C1510483_3	calificador_3	133-138	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	fina	fino	AQ0FS0	C1510483_4	calificador_4	139-143	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	del	del	SP+DA	-	-	144-147	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	148-154	83_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	.	.	Fp	-	-	154-155	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

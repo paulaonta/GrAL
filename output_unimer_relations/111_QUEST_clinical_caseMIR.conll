@@ -1,0 +1,46 @@
+1	Diabético	diabético	AQ0MS0	-	-	0-9	111_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	tipo	tipo	NCMS000	C0441729_1	calificador_1	10-14	111_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	1	4034	Modif
+3	1	1	Z	C0441729_2	calificador_2	15-16	111_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	2	24	MultiE
+4	que	que	PR0CN000	-	-	17-20	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	acude	acudir	VMIP3S0	-	-	21-26	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	a	a	SPS00	-	-	27-28	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	Urgencias	urgencia	NCFP000	C0439609	calificador	29-38	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	por	por	SPS00	C0678226	atributo	39-42	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	43-49	111_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	y	y	CC	C1706368	calificador	50-51	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	52-60	111_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	61-68	111_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	4034	Modif
+13	.	.	Fp	-	-	68-69	111_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	70-72	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	73-75	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	76-85	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	86-94	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	glucemia	glucemia	NCFS000	C2585282	entidad_observable	95-103	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	450	450	Z	-	-	104-107	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	mg	mg	NCMN000	-	-	108-110	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	/	/	Fh	-	-	110-111	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	dl	decilitro	NCMN000	C0439241	calificador	111-113	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	113-114	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	115-117	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	142	142		-	-	118-121	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	122-125	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	/	/	Fh	-	-	125-126	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	l	l	NCFS000	-	-	126-127	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	,	,	Fc	-	-	127-128	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	K	k	NCFS000	-	-	129-130	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	4	4		-	-	131-132	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	133-136	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	/	/	Fh	-	-	136-137	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	l	l	NCFS000	-	-	137-138	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	,	,	Fc	-	-	138-139	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	140-142	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	7.15	7.15		-	-	143-147	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	,	,	Fc	-	-	147-148	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	149-160	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	12	12		-	-	161-163	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	mmol	milimol	NC00YL0	C0439190	calificador	164-168	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	/	/	Fh	-	-	168-169	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	l	l	NCFS000	-	-	169-170	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	.	.	Fp	-	-	170-171	111_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

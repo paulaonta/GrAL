@@ -1,0 +1,77 @@
+1	¿	¿	Fia	-	-	595-596	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	596-600	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	601-603	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	604-607	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	608-618	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	619-631	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	632-634	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	cierta	cierto	AQ0FS0	C0205423	calificador	635-641	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	642-645	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	respecto	respecto	NCMS000	-	-	646-654	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	a	a	SPS00	-	-	655-656	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	su	su	DP3CS0	-	-	657-659	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	diagnóstico	diagnóstico	NCMS000	C1273870_1	procedimiento_1	660-671	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	y	y	NCFS000	C1273870_2	procedimiento_2	672-673	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	tratamiento	tratamiento	NCMS000	C1273870_3	procedimiento_3	674-685	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	?	?	Fit	-	-	685-686	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	:	:	Fd	-	-	686-687	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Atendemos	atender	VMIP1P0	-	-	0-9	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	10-12	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	la	el	DA0FS0	-	-	13-15	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	16-24	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	externa	externo	AQ0FS0	C0205101	calificador	25-32	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	por	por	SPS00	C0678226	atributo	33-36	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	primera	1	AO0FS0	-	-	37-44	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	vez	vez	NCFS000	-	-	45-48	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	a	a	SPS00	-	-	49-50	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	una	una		C0205447_1	calificador_1	51-54	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	55-60	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	61-63	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	76	76		-	-	64-66	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	años	año	NCMP000	C0439234	calificador	67-71	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	con	con	SPS00	C0332287	atributo	72-75	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	historia	historia	NCFS000	-	-	76-84	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	de	de	SPS00	C0332285	atributo	85-87	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	88-96	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+36	,	,	Fc	-	-	96-97	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	hipertensión	hipertensión	NCFS000	-	-	98-110	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+38	,	,	Fc	-	-	110-111	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	112-120	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+40	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	121-129	159_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	39	1843	MultiE
+41	,	,	Fc	-	-	129-130	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	hiperlipidemia	hiperlipidemia	NC00SC0	C0020473	trastorno	131-145	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+43	,	,	Fc	-	-	145-146	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	cardiopatía	cardiopatía	NCFS000	C0152105#C0694541_1	trastorno_1	147-158	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+45	hipertensiva	hipertensivo	AQ0FS0	C0152105#C0694541_2	trastorno_2	159-171	159_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	44	1855	Modif
+46	en	en	SPS00	C1720294#C0332285	calificador#atributo	172-174	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	175-186	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+48	auricular	auricular	NCMS000	C0004238_2	trastorno_2	187-196	159_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	47	1855	LOC
+49	con	con	SPS00	C0332287	atributo	197-200	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	disfunción	disfunción	NCFS000	C0520863_1	hallazgo_1	201-211	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+51	diastólica	diastólico	AQ0FS0	C0520863_2	hallazgo_2	212-222	159_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	50	1855	Modif
+52	e	y	CC	C1706368	calificador	223-224	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	hipotiroidismo	hipotiroidismo	NCMS000	C0020676	trastorno	225-239	159_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+54	.	.	Fp	-	-	239-240	159_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tuvo	tener	VMIS3S0	-	-	241-245	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	246-249	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	fractura	fracturar	VMM02S0	C0435630_1	trastorno_1	250-258	159_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	de	de	SPS00	C0435630_2	trastorno_2	259-261	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	muñeca	muñeca	NCFS000	C0435630_3	trastorno_3	262-268	159_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	3	1856	LOC
+6	hace	hacer	VMIP3S0	-	-	269-273	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	cinco	cinco		-	-	274-279	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	años	año	NCMP000	C0439234	calificador	280-284	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	284-285	159_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Toma	tomar	VMIP3S0	C1515187	calificador	286-290	159_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	atorvastatina	atorvastatina	NC00SC0	C0286651	producto#sustancia	291-304	159_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+3	,	,	Fc	-	-	304-305	159_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	306-318	159_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	,	,	Fc	-	-	318-319	159_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	furosemida	furosemida	NC00SC0	C0016860	producto#sustancia	320-330	159_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+7	,	,	Fc	-	-	330-331	159_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	hidroclorotiazida	hidroclorotiazida	NCMS000	C0020261	producto#sustancia	332-349	159_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+9	y	y	CC	C1706368	calificador	350-351	159_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	levotiroxina	levotiroxina	NC00BO0	-	-	352-364	159_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+11	.	.	Fp	-	-	364-365	159_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

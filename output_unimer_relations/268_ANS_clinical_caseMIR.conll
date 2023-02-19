@@ -1,0 +1,26 @@
+1	Trastorno	trastorno	NCMS000	C0031212_1	trastorno_1	0-9	268_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0031212_2	trastorno_2	10-12	268_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+3	la	lo	PP3FSA00	C0031212_3	trastorno_3	13-15	268_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+4	personalidad	personalidad	NCFS000	C0031212_4	trastorno_4	16-28	268_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+5	límite	límite	AQ0CN0	C0205189	calificador	29-35	268_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+6	.	.	Fp	-	-	35-36	268_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Trastorno	trastorno	NCMS000	C0031212_1	trastorno_1	0-9	268_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0031212_2	trastorno_2	10-12	268_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	la	lo	PP3FSA00	C0031212_3	trastorno_3	13-15	268_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+4	personalidad	personalidad	NCFS000	C0031212_4	trastorno_4	16-28	268_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+5	histriónico	histriónico	AQ0MS0	-	-	29-40	268_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+6	.	.	Fp	-	-	40-41	268_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Distimia	distimia	NCFS000	C0013415#C0221508#C0282126#C0027804#C0011581	trastorno	0-8	268_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	8-9	268_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012746#C0020701#C0020703#C0009946_1	trastorno_1	0-9	268_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	disociativo	disociativo	AQ0MS0	C0012746#C0020701#C0020703#C0009946_2	trastorno_2	10-21	268_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	.	.	Fp	-	-	21-22	268_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Trastorno	trastorno	NCMS000	C0683416_1	trastorno_1	0-9	268_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0683416_2	trastorno_2	10-12	268_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	1	567	MultiE
+3	despersonalización	despersonalización	NCFS000	C0683416_3	trastorno_3	13-31	268_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	31-32	268_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

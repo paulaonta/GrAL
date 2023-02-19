@@ -1,0 +1,47 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	63	63		-	-	10-12	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	18-20	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	21-28	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	29-32	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	cuadro	cuadro	NCMS000	-	-	33-39	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	43-50	584_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	.	.	Fp	-	-	50-51	584_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	el	el	DA0MS0	-	-	55-57	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hemograma	hemograma	NCMS000	C0200631	procedimiento	58-67	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	68-70	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	evidencia	evidenciar	VMIP3S0	-	-	71-80	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	81-84	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	85-96	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	97-99	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	9	9	Z	-	-	100-101	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	g	g	NCMN000	-	-	102-103	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	/	/	Fh	-	-	103-104	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	dL	decilitro	NCMN000	C0439241	calificador	104-106	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	,	,	Fc	-	-	106-107	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	108-111	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	112-114	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	volumen	volumen	NCMS000	C0449468#C0178733	calificador#hallazgo	115-122	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	corpuscular	corpuscular	AQ0CS0	-	-	123-134	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	135-140	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	141-143	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	102	102		-	-	144-147	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	fL	fl	NC00SC0	C0475213	calificador	148-150	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	150-151	584_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	152-153	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	153-157	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	158-160	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	los	el	DA0MP0	-	-	161-164	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	165-175	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	176-188	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	189-191	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	parece	parecer	VMIP3S0	-	-	192-198	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	MENOS	menos	RG	C0332288	atributo	199-204	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	205-213	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	?	?	Fit	-	-	213-214	584_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

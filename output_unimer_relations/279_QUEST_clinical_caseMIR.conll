@@ -1,0 +1,53 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	ingresa	ingresar	VMIP3S0	-	-	12-19	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	20-23	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	el	el	DA0MS0	-	-	24-26	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	27-38	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	39-41	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hemorragia	hemorragia	NCFS000	C0041909_1	trastorno_1	42-52	279_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	digestiva	digestivo	AQ0FS0	C0041909_2	trastorno_2	53-62	279_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	4834	LOC
+10	alta	alto	AQ0FS0	C0041909_3	trastorno_3	63-67	279_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	9	43	MultiE
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	68-70	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	situación	situación	NCFS000	-	-	71-80	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hemodinámica	hemodinámica	NCFS000	-	-	81-93	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	estable	estable	AQ0CS0	C0205360	calificador	94-101	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	101-102	279_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	103-105	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	practica	practicar	VMIP3S0	-	-	106-114	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	115-118	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	119-131	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	que	que	PR0CN000	-	-	132-135	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	informa	informar	VMIP3S0	C0700287	procedimiento	136-143	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	:	:	Fd	-	-	143-144	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	"	"	Fe	-	-	145-146	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	Lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	146-152	279_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	ulcerada	ulcerar	VMP00SF	-	-	153-161	279_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	9	4835	Modif
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	162-164	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	165-169	279_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	4835	LOC
+13	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	170-179	279_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	13	MultiE
+14	del	del	SP+DA	-	-	180-183	279_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	13	MultiE
+15	bulbo	bulbo	NCMS000	C1284424#C0227300_1	estructura_corporal_1	184-189	279_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	13	MultiE
+16	duodenal	duodenal	NC00SC0	C1284424#C0227300_2	estructura_corporal_2	190-198	279_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	13	MultiE
+17	con	con	SPS00	C0332287	atributo	199-202	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	hemorragia	hemorragia	NCFS000	C0019080	hallazgo#anomalía_morfológica	203-213	279_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+19	activa	activo	AQ0FS0	C0205177	calificador	214-220	279_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	18	4835	Modif
+20	no	no	RN	C0445098_1	calificador_1	221-223	279_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	18	4835	Modif
+21	pulsátil	pulsátil	NC00SC0	C0445098_2	calificador_2	224-232	279_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	20	136	MultiE
+22	.	.	Fp	-	-	232-233	279_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Forrest	forrest	NCMS000	-	-	234-241	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Ib.	ib.	AQ0CS00	-	-	242-245	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Se	se	P00CN000	-	-	246-248	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	practica	practicar	VMIP3S0	-	-	249-257	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	esclerosis	esclerosis	NCFN000	C0036429	anomalía_morfológica	258-268	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	269-280	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	281-284	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	285-295	279_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+9	consiguiendo	conseguir	VMG0000	-	-	296-308	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	se	se	PP3CN000	-	-	308-310	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	hemostasia	hemostasia	NCFS000	C0019116#C0005778	entidad_observable	311-321	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	"	"	Fe	-	-	321-322	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	.	.	Fp	-	-	322-323	279_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

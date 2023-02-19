@@ -1,0 +1,80 @@
+1	Gestante	gestante	NCFS000	-	-	0-8	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	32	32		-	-	12-14	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	semanas	semana	NCFP000	C0439230	calificador	15-22	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	23-26	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	27-32	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	33-34	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	su	su	DP3CS0	-	-	35-37	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	38-46	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	para	para	SPS00	C0521125	calificador	47-51	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	el	el	DA0MS0	-	-	52-54	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	control	control	NCMS000	C2587213	atributo	55-62	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	63-65	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	la	el	DA0FS0	-	-	66-68	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	69-78	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	79-81	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	visita	visita	NCFS000	-	-	82-88	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	programada	programar	VMP00SF	-	-	89-99	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	99-100	79_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	el	el	DA0MS0	-	-	104-106	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	último	último	AO0MS0	-	-	107-113	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	mes	mes	NCMS000	C0439231	calificador	114-117	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	ha	haber	VAIP3S0	-	-	118-120	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ganado	ganar	VMP00SM	-	-	121-127	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	4	4	Z	-	-	128-129	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	Kg	kg	NCMN000	-	-	130-132	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	132-133	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	134-136	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	peso	peso	NCMS000	C0043100	calificador	137-141	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	.	.	Fp	-	-	141-142	79_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	143-151	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	152-158	79_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	159-161	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	miembros	miembro	NCMP000	C0015385	estructura_corporal	162-170	79_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	2	1469	LOC
+5	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	171-181	79_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	4	23	MultiE
+6	y	y	CC	C1706368	calificador	182-183	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	184-187	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	TA	ta	NC00YL0	-	-	188-190	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	191-193	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	140/90	140/90		-	-	194-200	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	201-203	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	ese	ese	DD0MS0	-	-	204-207	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	208-215	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	216-217	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	tras	tras	SPS00	-	-	218-222	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	repetir	repetir	VMN0000	C0205341	calificador	223-230	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	la	el	DA0FS0	-	-	231-233	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	toma	toma	NCFS000	-	-	234-238	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	30	30	Z	-	-	239-241	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	minutos	min	NCMP000	-	-	242-249	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	después	después	RG	C0231290	atributo	250-257	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	.	.	Fp	-	-	257-258	79_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Realiza	realizar	VMIP3S0	-	-	259-266	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	267-270	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	271-280	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	281-283	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	la	el	DA0FS0	-	-	284-286	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	que	que	PR0CN000	-	-	287-290	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	observa	observar	VMIP3S0	-	-	291-298	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	299-301	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	feto	feto	NCMS000	C1305737	estructura_corporal	302-306	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	307-310	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	311-314	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	biometría	biometría	NCFS000	-	-	315-324	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	acorde	acorde	AQ0CS0	-	-	325-331	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	332-335	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	la	el	DA0FS0	-	-	336-338	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	339-348	79_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+17	,	,	Fc	-	-	348-349	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	placenta	placenta	NCFS000	C0032043#C1278988	estructura_corporal	350-358	79_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+19	y	y	CC	C1706368	calificador	359-360	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	361-368	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	anmiótico	anmiótico	AQ0MS0	-	-	369-378	79_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+22	normales	normal	AQ0CP0	C0205307	calificador	379-387	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	.	.	Fp	-	-	387-388	79_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

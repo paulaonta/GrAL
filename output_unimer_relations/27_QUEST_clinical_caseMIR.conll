@@ -1,0 +1,134 @@
+1	La	el	DA0FS0	-	-	330-332	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	333-340	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	más	más	RG	C0205172	calificador	341-344	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	adecuada	adecuar	VMP00SF	-	-	345-353	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	354-356	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	este	este	DD0MS0	-	-	357-361	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	362-369	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	sería	ser	VSIC1S0	-	-	370-375	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	375-376	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	5-7	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	14	14		-	-	8-10	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	11-15	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	que	que	PR0CN000	-	-	16-19	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	consulta	consultar	VMM02S0	C1704447_1	calificador_1	20-28	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	por	por	SPS00	C1704447_2	calificador_2	29-32	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	33-44	27_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	del	del	SP+DA	-	-	45-48	27_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	17	1726	Modif
+19	crecimiento	crecimiento	NCMS000	-	-	49-60	27_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	18	102	MultiE
+20	desde	desde	SPS00	-	-	61-66	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	hace	hacer	VMIP3S0	-	-	67-71	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	2-3	2-3		-	-	72-75	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	años	año	NCMP000	C0439234	calificador	76-80	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	previamente	previamente	RG	-	-	81-92	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	normal	normal	AQ0CS0	C0205307	calificador	93-99	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	(	(	Fpa	-	-	100-101	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	aporta	aportar	VMIP3S0	-	-	101-107	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	datos	dato	NCMP000	-	-	108-113	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	)	)	Fpt	-	-	113-114	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	y	y	CC	C1706368	calificador	115-116	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	que	que	CS	-	-	117-120	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	las	el	DA0FP0	-	-	121-124	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	demás	demás	DI0CP0	-	-	125-130	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	niñas	niño	NCFP000	C0008059#C0870221	persona	131-136	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	137-139	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	su	su	DP3CS0	-	-	140-142	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	143-147	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	tienen	tener	VMIP3P0	-	-	148-154	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	un	un		C0205447_1	calificador_1	155-157	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	158-163	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	desarrollo	desarrollo	NCMS000	-	-	164-174	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	físico	físico	AQ0MS0	C0221456#C0205485	ocupación#calificador	175-181	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	y	y	CC	C1706368	calificador	182-183	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	sexual	sexual	AQ0CS0	-	-	184-190	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	.	.	Fp	-	-	190-191	27_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Últimamente	últimamente	RG	-	-	192-203	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tiene	tener	VMIP3S0	-	-	204-209	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	cefaleas	cefalea	NCFP000	C0018681	hallazgo	210-218	27_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	y	y	CC	C1706368	calificador	219-220	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	problemas	problema	NCMP000	C0033213	hallazgo	221-230	27_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	visuales	visual	AQ0CP0	C0234621	calificador	231-239	27_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	5	1727	Modif
+7	que	que	PR0CN000	-	-	240-243	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	nota	notar	VMIP3S0	-	-	244-248	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	249-251	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	clase	clase	NCFS000	C0456387	atributo	252-257	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	258-259	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	al	al	SP+DA	-	-	260-262	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	estudiar	estudiar	VMN0000	-	-	263-271	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	.	.	Fp	-	-	271-272	27_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	273-275	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	ha	haber	VAIP3S0	-	-	276-278	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tenido	tener	VMP00SM	-	-	279-285	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	la	el	DA0FS0	-	-	286-288	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	menarquia	menarquia	NCFS000	-	-	289-298	27_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	ni	ni	CC	-	-	299-301	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	polidipsia	polidipsia	NCFS000	C1994994#C0085602	hallazgo	302-312	27_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+8	o	o	CC	-	-	313-314	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	poliuria	poliuria	NCFS000	C0032617	hallazgo#trastorno	315-323	27_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+10	.	.	Fp	-	-	323-324	27_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Padres	padre	NCMP000	C0015671	persona	325-331	27_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	332-335	27_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	talla	talla	NCFS000	-	-	336-341	27_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	normal	normal	AQ0CS0	C0205307	calificador	342-348	27_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	.	.	Fp	-	-	348-349	27_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Exploración	exploración	NCFS000	C1280903	procedimiento	350-361	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	:	:	Fd	-	-	361-362	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	talla	tallar	VMM02S0	C0349588_1	situación_1	363-368	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	baja	bajo	AQ0FS0	C0349588_2	situación_2	369-373	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	situada	situar	VMP00SF	-	-	374-381	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	382-384	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	-2,1	-2,1		-	-	385-389	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	desviaciones	desviación	NCFP000	C0185033#C0333051	procedimiento#anomalía_morfológica	390-402	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	estándar	estándar	AQ0CS0	-	-	403-411	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	,	,	Fc	-	-	411-412	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	proporciones	proporción	NCFP000	-	-	413-425	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	corporales	corporal	AQ0CP0	-	-	426-436	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	normales	normal	AQ0CP0	C0205307	calificador	437-445	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	,	,	Fc	-	-	445-446	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	poco	poco	DI0MS0	C0700321#C1282918	-	447-451	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	vello	vello	NCMS000	C0221959	estructura_corporal	452-457	27_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+17	pubiano	pubiano	AQ0MS0	-	-	458-465	27_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	16	73	MultiE
+18	y	y	CC	C1706368	calificador	466-467	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	desarrollo	desarrollo	NCMS000	C0518181_1	entidad_observable_1	468-478	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	mamario	mamario	AQ0MS0	C0518181_2	entidad_observable_2	479-486	27_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+21	.	.	Fp	-	-	486-487	27_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	488-490	27_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	campimetría	campimetría	NCFS000	C0042825	procedimiento	491-502	27_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	503-510	27_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	hemianopsia	hemianopsia	NCFS000	C0018979	hallazgo	511-522	27_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+5	parcial	parcial	AQ0CS0	C0728938#C0205257#C0728939	calificador	523-530	27_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	4	1731	Modif
+6	temporal	temporal	AQ0CS0	C0442043#C0205374	calificador	531-539	27_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	4	1731	Modif
+7	izquierda	izquierda	NCFS000	-	-	540-549	27_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-	6	15	MultiE
+8	.	.	Fp	-	-	549-550	27_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Edad	edad	NCFS000	C0429620_1	entidad_observable_1	551-555	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	ósea	óseo	AQ0FS0	C0429620_2	entidad_observable_2	556-560	27_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	-	-	-
+3	:	:	Fd	-	-	560-561	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	retraso	retraso	NCMS000	-	-	562-569	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	570-572	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	2	2		-	-	573-574	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	años	año	NCMP000	C0439234	calificador	575-579	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	.	.	Fp	-	-	579-580	27_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Analítica	analítica	NCFS000	-	-	581-590	27_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	general	general	AQ0CS0	C0205246	calificador	591-598	27_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	normal	normal	AQ0CS0	C0205307	calificador	599-605	27_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	.	.	Fp	-	-	605-606	27_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+
+1	Gonadotrofinas	gonadotrofinas	NC00SC0	C0018061	sustancia	607-621	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+2	(	(	Fpa	-	-	622-623	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+3	FSH	follicle-stimulating_hormone_(hormona_folículoestimulante)	NC00YL0	-	-	623-626	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	627-628	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+5	LH	luteinizing_hormone_(hormona_luteinizante)	NC00YL0	-	-	629-631	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+6	)	)	Fpt	-	-	631-632	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	633-634	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+8	estradiol	estradiol	NCMS000	C0014912	sustancia	635-644	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+9	bajos	bajo	AQ0MP0	C0205251	calificador	645-650	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+10	.	.	Fp	-	-	650-651	27_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+

@@ -1,0 +1,36 @@
+1	Se	se	P00CN000	-	-	466-468	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	469-476	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	477-480	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	481-488	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	489-494	519_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	495-497	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	la	el	DA0FS0	-	-	498-500	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	que	que	PR0CN000	-	-	501-504	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	podríamos	poder	VMIC1P0	-	-	505-514	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	encontrar	encontrar	VMN0000	-	-	515-524	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	cualquiera	cualquiera	PI0CS000	-	-	525-535	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	536-538	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	estos	este	DD0MP0	-	-	539-544	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tipos	tipo	NCMP000	C0332307	calificador#atributo	545-550	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	551-553	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	glomerulonefritis	glomerulonefritis	NCFN000	C0017658	trastorno	554-571	519_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	,	,	Fc	-	-	571-572	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	EXCEPTO	excepto	SPS00	-	-	573-580	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	:	:	Fd	-	-	580-581	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	0-2	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	cerebral	cerebral	AQ0CS0	-	-	3-11	519_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+22	.	.	Fp	-	-	11-12	519_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	519_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	electromiográfico	electromiográfico	AQ0MS00	-	-	8-25	519_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	.	.	Fp	-	-	25-26	519_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	RM	rm	NC00YL0	-	-	0-2	519_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	cerebral	cerebral	AQ0CS0	-	-	3-11	519_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	11-12	519_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Potenciales	potenciar	VMM02S0	C0015214#C0561862_1	entidad_observable_1	0-11	519_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	evocados	evocar	VMP00PM	C0015214#C0561862_2	entidad_observable_2	12-20	519_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	multimodales	multimodal	AQ0CP0	-	-	21-33	519_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	.	.	Fp	-	-	33-34	519_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

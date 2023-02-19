@@ -1,0 +1,82 @@
+1	¿	¿	Fia	-	-	253-254	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	254-258	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	259-261	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	262-265	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	266-276	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acciones	acción	NCFP000	C0441472#C3266814	calificador#atributo	277-285	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	NO	no	RN	C1298908	calificador	286-288	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	realizaría	realizar	VMIC3S0	-	-	289-299	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	300-302	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	el	DA0FS0	-	-	303-305	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	atención	atención	NCFS000	C0004268	función	306-314	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	inicial	inicial	AQ0CS0	C0205265	calificador	315-322	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	a	a	SPS00	-	-	323-324	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	este	este	DD0MS0	-	-	325-329	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	330-338	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	?	?	Fit	-	-	338-339	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	:	:	Fd	-	-	339-340	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Un	Un		C0205447_1	calificador_1	0-2	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	53	53		-	-	10-12	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	años	año	NCMP000	C0439234	calificador	13-17	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	,	,	Fc	-	-	17-18	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	sin	sin	SPS00	C0332122_1	calificador_1	19-22	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	23-35	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	de	de	SPS00	C0332122_3	calificador_3	36-38	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	interés	interés	NCMS000	-	-	39-46	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	,	,	Fc	-	-	46-47	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	presenta	presentar	VMIP3S0	-	-	48-56	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	dolor	dolor	NCMS000	C0476306_1	hallazgo_1	57-62	379_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+30	en	en	SPS00	C0476306_2	hallazgo_2	63-65	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	fosa	fosar	VMM02S0	C0476306_3	hallazgo_3	66-70	379_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	29	5123	LOC
+32	ilíaca	ilíaco	NCFS000	C0476306_4	hallazgo_4	71-77	379_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	31	51	MultiE
+33	derecha	derecho	AQ0FS0	C0476306_5	hallazgo_5	78-85	379_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	31	51	MultiE
+34	de	de	SPS00	C0332285	atributo	86-88	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	12	12	Z	-	-	89-91	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	días	d	NCMP000	-	-	92-96	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	de	de	SPS00	C0332285	atributo	97-99	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	evolución	evolución	NCFS000	-	-	100-109	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	.	.	Fp	-	-	109-110	379_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	111-113	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	114-120	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C1704221#C0017319_2	ocupación_2	121-123	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	familia	familia	NCFS000	C1704221#C0017319_3	ocupación_3	124-131	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	132-134	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	prescribió	prescribir	VMIS3S0	-	-	135-145	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	146-157	379_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	oral	oral	AQ0CS0	C0442027	calificador	158-162	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	163-164	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	analgesia	analgesia	NCFS000	C0344307	hallazgo	165-174	379_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	175-178	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	179-187	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332147_2	calificador_2	188-190	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	infección	infección	NCFS000	C0009450	trastorno	191-200	379_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+15	de	de	SPS00	C0332285	atributo	201-203	379_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	14	5124	Modif
+16	orina	orinar	VMM02S0	-	-	204-209	379_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	15	102	MultiE
+17	.	.	Fp	-	-	209-210	379_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	211-216	379_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	217-220	379_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	persistencia	persistencia	NCFS000	C0546816	hallazgo	221-233	379_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	del	del	SP+DA	-	-	234-237	379_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	dolor	dolor	NCMS000	C0030193	hallazgo	238-243	379_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	y	y	CC	C1706368	calificador	244-245	379_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	fiebre	fiebre	NCFS000	C0015967	hallazgo	246-252	379_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	.	.	Fp	-	-	252-253	379_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	254-256	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	tomografía	tomografía	NCFS000	-	-	257-267	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	P00CN000	-	-	268-270	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	detecta	detectar	VMIP3S0	-	-	271-278	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	279-281	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	plastrón	plastrón	NCMS000	C0230129	estructura_corporal	282-290	379_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	apendicular	apendicular	AQ0CS0	-	-	291-302	379_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	6	5126	LOC
+8	y	y	CC	C1706368	calificador	303-304	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	305-307	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	absceso	absceso	NCMS000	C0000833	trastorno#anomalía_morfológica	308-315	379_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	316-318	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	7	7	Z	-	-	319-320	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	centímetros	cm	NCMP000	-	-	321-332	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	332-333	379_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

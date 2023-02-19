@@ -1,0 +1,32 @@
+1	Tuberculosis	tuberculosis	NCFN000	C0041296	trastorno	0-12	143_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	13-23	143_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	5805	LOC
+3	como	como	CS	C0332257	calificador	24-28	143_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	29-37	143_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	38-40	143_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	4	23	MultiE
+6	reconstitución	reconstitución	NCFS000	-	-	41-55	143_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	4	23	MultiE
+7	inmune	inmune	AQ0CS0	C0205470	calificador	56-62	143_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	4	23	MultiE
+8	.	.	Fp	-	-	62-63	143_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Linfoma	linfoma	NCMS000	C0024299	anomalía_morfológica	0-7	143_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	143_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	5806	Modif
+3	alto	alto	NCMS000	C0205082_1	calificador_1	11-15	143_ANS_clinical_caseMIR	SENT2	I-Calificador	-	2	24	MultiE
+4	grado	grado	NCMS000	C0205082_2	calificador_2	16-21	143_ANS_clinical_caseMIR	SENT2	I-Calificador	-	2	24	MultiE
+5	.	.	Fp	-	-	21-22	143_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Reacción	reacción	NCFS000	C0559546_1	trastorno_1	0-8	143_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	adversa	adverso	AQ0FS0	C0559546_2	trastorno_2	9-16	143_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	al	al	SP+DA	-	-	17-19	143_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	20-31	143_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	antirretroviral	antirretroviral	AQ0CS00	-	-	32-47	143_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-	4	23	MultiE
+6	.	.	Fp	-	-	47-48	143_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Criptococosis	criptococosis	NC00SC0	C0276687#C0343890_1	trastorno_1	0-13	143_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	sistémica	sistémico	AQ0FS0	C0276687#C0343890_2	trastorno_2	14-23	143_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	5808	Modif
+3	.	.	Fp	-	-	23-24	143_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Infección	infección	NCFS000	C0009450	trastorno	0-9	143_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	10-13	143_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	Pnemnocystis	pnemnocystis	NCMP000	-	-	14-26	143_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	1	5809	Causada_por
+4	jirovecii	jirovecii	RG	-	-	27-36	143_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	3	30	MultiE
+5	.	.	Fp	-	-	36-37	143_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,54 @@
+1	A	a	SPS00	-	-	146-147	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	148-150	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	151-162	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	163-170	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	sugiere	sugerir	VMIP3S0	-	-	171-178	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	179-182	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	hernia	herniar	VMM02S0	C0019294#C0401063_1	trastorno_1	183-189	212_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	inguinal	inguinal	NC00SC0	C0019294#C0401063_2	trastorno_2	190-198	212_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	7	1402	LOC
+9	Todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	199-204	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	las	el	DA0FP0	-	-	205-208	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	209-219	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	afirmaciones	afirmación	NCFP000	-	-	220-232	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	son	ser	VSIP3P0	-	-	233-236	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	correctas	correcto	AQ0FP0	C0205170	calificador	237-246	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	EXCEPTO	excepto	SPS00	-	-	247-254	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	:	:	Fd	-	-	254-255	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	Paciente	paciente	NCCS000	C0030705	persona	0-8	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	9-11	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	54	54		-	-	12-14	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	años	año	NCMP000	C0439234	calificador	15-19	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	,	,	Fc	-	-	27-28	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	con	con	SPS00	C0332287	atributo	29-32	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	una	una		C0205447_1	calificador_1	33-36	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	ingesta	ingesta	NCFS000	-	-	37-44	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	etílica	etílico	AQ0FS0	-	-	45-52	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	de	de	SPS00	C0332285	atributo	53-55	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	110	110	Z	-	-	56-59	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	g	g	NCMN000	-	-	60-61	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	/	/	Fh	-	-	61-62	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	día	día	NCMS000	C0439228#C0332169	calificador	62-65	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	,	,	Fc	-	-	65-66	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	que	que	PR0CN000	-	-	67-70	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	ingresa	ingresar	VMIP3S0	-	-	71-78	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	por	por	SPS00	C0678226	atributo	79-82	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	un	un		C0205447_1	calificador_1	83-85	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	cuadro	cuadro	NCMS000	-	-	86-92	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	de	de	SPS00	C0332285	atributo	93-95	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	diarrea	diarrea	NCFS000	C0401151_1	trastorno_1	96-103	212_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+41	crónica	crónico	AQ0FS0	C0401151_2	trastorno_2	104-111	212_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	40	1402	Modif
+42	y	y	CC	C1706368	calificador	112-113	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	con	con	SPS00	C0332287	atributo	114-117	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	la	el	DA0FS0	-	-	118-120	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	aparición	aparición	NCFS000	-	-	121-130	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	en	en	SPS00	C1720294#C0332285	calificador#atributo	131-133	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	los	el	DA0MP0	-	-	134-137	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	últimos	último	AO0MP0	-	-	138-145	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	días	día	NCMP000	C0439228#C0332169	calificador	146-150	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	de	de	SPS00	C0332285	atributo	151-153	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	calambres	calambre	NCMP000	C0026821	hallazgo	154-163	212_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+52	musculares	muscular	AQ0CP0	C0442025	calificador	164-174	212_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	51	1402	LOC
+53	.	.	Fp	-	-	174-175	212_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

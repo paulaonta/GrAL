@@ -1,0 +1,67 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	40	40		-	-	10-12	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	viaja	viajar	VMIP3S0	C0040802	entidad_observable	22-27	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	28-31	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	turismo	turismo	NCMS000	-	-	32-39	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	al	al	SP+DA	-	-	40-42	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Caribe	caribe	VMIP3S0	-	-	43-49	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	.	.	Fp	-	-	49-50	578_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	51-52	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	53-55	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	semana	semana	NCFS000	C0439230	calificador	56-62	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	63-65	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	su	su	DP3CS0	-	-	66-68	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	regreso	regreso	NCMS000	-	-	69-76	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	presenta	presentar	VMIP3S0	-	-	77-85	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	86-88	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	3	3		-	-	89-90	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	a	a	SPS00	-	-	91-92	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	4	4		-	-	93-94	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	deposiciones	deposición	NCFP000	-	-	95-107	578_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	líquidas	líquido	AQ0FP0	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	108-116	578_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	12	13	MultiE
+14	diarias	diario	AQ0FP0	C0332173	calificador	117-124	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	,	,	Fc	-	-	124-125	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	acuosas	acuoso	AQ0FP0	C0443350	hallazgo	126-133	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	,	,	Fc	-	-	133-134	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	sin	sin	SPS00	C0332288	atributo	135-138	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	productos	producto	NCMP000	-	-	139-148	578_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+20	patológicos	patológico	AQ0MP0	C1521733	calificador	149-160	578_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	19	106	MultiE
+21	,	,	Fc	-	-	160-161	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	así	así	RG	-	-	162-165	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	como	como	SPS00	C0332257	calificador	166-170	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	171-176	578_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+25	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	177-186	578_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	24	6126	LOC
+26	y	y	CC	C1706368	calificador	187-188	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	189-197	578_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+28	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	198-205	578_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	27	6126	Modif
+29	.	.	Fp	-	-	205-206	578_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	207-209	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	210-216	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	que	que	PR0CN000	-	-	217-220	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	221-223	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	atiende	atender	VMIP3S0	-	-	224-231	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	232-234	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	prescribe	prescribir	VMIP3S0	-	-	235-244	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	hidratación	hidratación	NCFS000	-	-	245-256	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	oral	oral	AQ0CS0	C0442027	calificador	257-261	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	262-263	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	264-266	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	propone	proponer	VMIP3S0	-	-	267-274	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	la	el	DA0FS0	-	-	275-277	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	278-292	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	293-295	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	296-299	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	quinolona	quínola	NCFS00V	-	-	300-309	578_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+18	.	.	Fp	-	-	309-310	578_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	311-312	578_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Con	con	SPS00	C0332287	atributo	312-315	578_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	qué	qué	DT0CN0	-	-	316-319	578_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	finalidad	finalidad	NCFS000	-	-	320-329	578_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	?	?	Fit	-	-	329-330	578_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

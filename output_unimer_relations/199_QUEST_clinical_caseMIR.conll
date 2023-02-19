@@ -1,0 +1,63 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	78	78		-	-	13-15	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	Urgencias	urgencia	NCFP000	C0439609	calificador	29-38	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	dolor	dolor	NCMS000	C0476307_1	hallazgo_1	43-48	199_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	en	en	SPS00	C0476307_2	hallazgo_2	49-51	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	fosa	fosar	VMM02S0	C0476307_3	hallazgo_3	52-56	199_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	4202	LOC
+13	ilíaca	ilíaco	NCFS000	C0476307_4	hallazgo_4	57-63	199_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	12	13	MultiE
+14	izquierda	izquierdo	AQ0FS0	C0476307_5	hallazgo_5	64-73	199_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	12	13	MultiE
+15	de	de	SPS00	C0332285	atributo	74-76	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	24	24	Z	C0439584_1	calificador_1	77-79	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	horas	hora	NCFP000	C0439584_2	calificador_2	80-85	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	86-88	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	evolución	evolución	NCFS000	-	-	89-98	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	asociado	asociar	VMP00SM	-	-	99-107	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	a	a	SPS00	-	-	108-109	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	fiebre	fiebre	NCFS000	C0015967	hallazgo	110-116	199_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	y	y	CC	C1706368	calificador	117-118	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	algún	alguno	DI0MS0	C0205392	calificador	119-124	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	vómito	vómito	NCMS000	C0042963#C0042965	trastorno#sustancia	125-131	199_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	ocasional	ocasional	AQ0CS0	C0521114	calificador	132-141	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	.	.	Fp	-	-	141-142	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	143-144	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	145-147	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	148-159	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	160-167	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	dolor	dolor	NCMS000	C0234233_1	hallazgo_1	168-173	199_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	a	a	SPS00	C0234233_2	hallazgo_2	174-175	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	la	lo	PP3FSA00	C0234233_3	hallazgo_3	176-178	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	palpación	palpación	NCFS000	C0234233_4	hallazgo_4	179-188	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	189-191	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	forma	forma	NCFS000	C0348078	atributo	192-197	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	selectiva	selectivo	AQ0FS0	-	-	198-207	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	208-210	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	211-213	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	fosa	fosar	VMM02S0	C0446498_1	estructura_corporal_1	214-218	199_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	22	4203,20,5	LOC,4203,4203
+15	ilíaca	ilíaco	NCFS000	C0446498_2	estructura_corporal_2	219-225	199_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	14	51	MultiE
+16	izquierda	izquierdo	AQ0FS0	C0446498_3	estructura_corporal_3	226-235	199_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	14	51	MultiE
+17	con	con	SPS00	C0332287	atributo	236-239	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	sensación	sensación	NCFS000	C0036658#C1455667	calificador	240-249	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	250-252	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	ocupación	ocupación	NCFS000	C0028811	ocupación	253-262	199_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+21	,	,	Fc	-	-	262-263	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	defensa	defensa	NCCS000	-	-	264-271	199_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+23	y	y	CC	C1706368	calificador	272-273	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	descompresión	descompresión	NCFS000	C1829459#C0021153	procedimiento	274-287	199_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+25	positiva	positivo	AQ0FS0	C1446409	calificador	288-296	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	.	.	Fp	-	-	296-297	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Ante	ante	SPS00	-	-	298-302	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	303-305	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	306-314	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332147_2	calificador_2	315-317	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	diverticulitis	diverticulitis	NC00SC0	C0012813	trastorno#anomalía_morfológica	318-332	199_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion	-	-	-
+6	aguda	agudo	AQ0FS0	C0205178	calificador	333-338	199_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	5	4204	Modif
+7	.	.	Fp	-	-	338-339	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

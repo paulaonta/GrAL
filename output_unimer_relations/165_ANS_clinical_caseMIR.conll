@@ -1,0 +1,27 @@
+1	Vértigo	vértigo	NCMS000	C0155503_1	trastorno_1	0-7	165_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0155503_2	trastorno_2	8-10	165_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	origen	origen	NCMS000	C0155503_3	trastorno_3	11-17	165_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	central	central	NCFS000	C0155503_4	trastorno_4	18-25	165_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	.	.	Fp	-	-	25-26	165_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	165_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	165_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	Méniére	méniére	NCMS000	-	-	14-21	165_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	21-22	165_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Vértigo	vértigo	NCMS000	C0155502_1	trastorno_1	0-7	165_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	posicional	posicional	AQ0CS0	C0155502_2	trastorno_2	8-18	165_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	5457	Modif
+3	paroxístico	paroxístico	NC00SC0	C0155502_3	trastorno_3	19-30	165_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	5457	Modif
+4	benigno	benigno	NC00SC0	C0155502_4	trastorno_4	31-38	165_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	5457	Modif
+5	.	.	Fp	-	-	38-39	165_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Neuritis	neuritis	NCFN000	C0027813	trastorno	0-8	165_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	vestibular	vestibular	AQ0CS0	C0442010	calificador	9-19	165_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	5458	LOC
+3	.	.	Fp	-	-	19-20	165_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Schwannoma	schwannoma	NC00SC0	C0027809#C1306247#C0027859	anomalía_morfológica	0-10	165_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	-	-	11-14	165_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	nervio	nervio	NCMS000	C0042598#C1284716_1	estructura_corporal_1	15-21	165_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	1	5459	LOC
+4	vestibular	vestibular	NC00SC0	C0042598#C1284716_2	estructura_corporal_2	22-32	165_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	32-33	165_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,51 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	10-12	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	31-34	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	episodios	episodio	NCMP000	C0332189	atributo	35-44	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	45-47	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	cefalea	cefalea	NCFS000	C0018681	hallazgo	48-55	60_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	acompañados	acompañar	VMP00PM	-	-	56-67	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	68-70	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	sudoración	sudoración	NCFS000	C0700590#C0020458_1	hallazgo_1	71-81	60_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	profusa	profuso	AQ0FS0	C0700590#C0020458_2	hallazgo_2	82-89	60_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	2798	Modif
+15	y	y	CC	C1706368	calificador	90-91	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	cifras	cifra	NCFP000	-	-	92-98	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	99-101	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	102-109	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	110-118	60_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+20	elevadas	elevar	VMP00PF	-	-	119-127	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	(	(	Fpa	-	-	128-129	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	190/110	190/110	Z	-	-	129-136	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	mmHg	mmHg	NCMP000	-	-	137-141	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	)	)	Fpt	-	-	141-142	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	.	.	Fp	-	-	142-143	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	144-146	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	147-158	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	159-161	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	normal	normal	AQ0CS0	C0205307	calificador	162-168	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	168-169	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	170-172	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	analítica	analítica	NCFS000	-	-	173-182	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	183-190	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	191-203	60_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	6	2800	Causada_por
+5	con	con	SPS00	C0332287	atributo	204-207	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	desviación	desviación	NCFS000	C0185033#C0333051	procedimiento#anomalía_morfológica	208-218	60_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	izquierda	izquierdo	AQ0FS0	C0205091	calificador	219-228	60_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	6	2800	Modif
+8	siendo	ser	VSG0000	-	-	229-235	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	elevados	elevar	VMP00PM	-	-	236-244	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	los	el	DA0MP0	-	-	245-248	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	niveles	nivel	NCMP000	C0456079	atributo	249-256	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	257-259	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	metanefrinas	metanefrinas	NCFP000	-	-	260-272	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	plasmáticas	plasmático	AQ0FP0	-	-	273-284	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	285-286	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	catecolaminas	catecolaminas	NCFP000	-	-	287-300	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	urinarias	urinario	AQ0FP0	-	-	301-310	60_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+18	.	.	Fp	-	-	310-311	60_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

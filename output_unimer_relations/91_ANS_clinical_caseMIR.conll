@@ -1,0 +1,137 @@
+1	No	no	RN	C1298908	calificador	0-2	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hay	haber	VMIP3S0	-	-	3-6	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	riesgo	riesgo	NCMS000	-	-	7-13	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	,	,	Fc	-	-	13-14	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	porque	porque	CS	-	-	15-21	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	el	el	DA0MS0	-	-	22-24	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	CMT2A	CMT2A		-	-	25-30	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	es	ser	VSIP3S0	-	-	31-33	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mayoritariamente	mayoritariamente	RG	-	-	34-50	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	51-53	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	herencia	herencia	NCFS000	C0728826	atributo	54-62	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	recesiva	recesivo	AQ0FS0	-	-	63-71	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	y	y	CC	C1706368	calificador	72-73	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	ambos	ambos	DI0MP0	C0238767	calificador	74-79	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	padres	padre	NCMP000	C0015671	persona	80-86	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	han	haber	VMIP3P0	-	-	87-90	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	91-93	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	ser	ser	VSN0000	-	-	94-97	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	portadores	portador	AQ0MP0	C0560175	hallazgo	98-108	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	(	(	Fpa	-	-	109-110	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	110-112	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	esposa	esposo	NCFS000	C0242664	persona	113-119	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	no	no	RN	C1298908	calificador	120-122	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	lo	lo	PP3CNA00	-	-	123-125	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	es	ser	VSIP3S0	-	-	126-128	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	)	)	Fpt	-	-	128-129	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+27	para	para	SPS00	C0521125	calificador	130-134	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+28	poder	poder	VMN0000	-	-	135-140	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+29	transmitir	transmitir	VMN0000	-	-	141-151	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+30	la	lo	PP3FSA00	-	-	151-153	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+31	.	.	Fp	-	-	153-154	91_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	0-2	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tratar	tratar	VMN0000	-	-	3-9	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	se	se	PP3CN000	-	-	9-11	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	15-17	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	18-24	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	sobre	sobre	SPS00	C1720294#C0205136	calificador	25-30	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	las	el	DA0FP0	-	-	31-34	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	mitocondrias	mitocondria	NCFP000	C0026237	estructura_celular	35-47	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	47-48	91_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	49-51	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	52-62	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	únicamente	únicamente	RG	-	-	63-73	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	se	se	P00CN000	-	-	74-76	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	transmitirá	transmitir	VMIF3S0	-	-	77-88	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	vía	vía	NCFS000	C0449444	atributo	89-92	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	materna	materno	AQ0FS0	-	-	93-100	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	(	(	Fpa	-	-	101-102	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	herencia	herencia	NCFS000	C0728826	atributo	102-110	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	materna	materno	AQ0FS0	-	-	111-118	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	)	)	Fpt	-	-	118-119	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	,	,	Fc	-	-	119-120	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	por	por	SPS00	C0678226	atributo	121-124	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	lo	el	DA0NS0	-	-	125-127	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	que	que	PR0CN000	-	-	128-131	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	no	no	RN	C1298908	calificador	132-134	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	existe	existir	VMIP3S0	-	-	135-141	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	riesgo	riesgo	NCMS000	-	-	142-148	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+19	.	.	Fp	-	-	148-149	91_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	0-2	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	tratar	tratar	VMN0000	-	-	3-9	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	PP3CN000	-	-	9-11	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	15-18	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	19-29	91_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	30-32	91_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	6	15	MultiE
+8	herencia	herencia	NCFS000	C0728826	atributo	33-41	91_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	6	15	MultiE
+9	autosómico	autosómico		C0443147_1	calificador_1	42-52	91_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	6	15	MultiE
+10	dominante	dominante	NCCS000	C0443147_2	calificador_2	53-62	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	,	,	Fc	-	-	62-63	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	el	el	DA0MS0	-	-	64-66	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	67-73	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0035647_2	calificador_2	74-76	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	tener	tener	VMN0000	-	-	77-82	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	un	un		C0205447_1	calificador_1	83-85	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	hijo	hijo	NCMS000	-	-	86-90	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	afecto	afecto	NCMS000	C0001721	función	91-97	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	es	ser	VSIP3S0	-	-	98-100	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	del	del	SP+DA	-	-	101-104	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+21	50	50	Z	-	-	105-107	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+22	%	%	Ft	-	-	107-108	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+23	.	.	Fp	-	-	108-109	91_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	0-2	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	gen	gen	NCMS000	C0017337	sustancia	3-6	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	MFN2	MFN2		-	-	7-11	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	está	estar	VAIP3S0	-	-	12-16	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	17-19	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	el	el	DA0MS0	-	-	20-22	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	cromosoma	cromosoma	NCMS000	C0008633	estructura_celular	23-32	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	1	1		-	-	33-34	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	.	.	Fp	-	-	34-35	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	36-39	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	lo	el	DA0NS0	-	-	40-42	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	que	que	PR0CN000	-	-	43-46	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+13	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	47-52	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+14	los	el	DA0MP0	-	-	53-56	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+15	hijos	hijo	NCMP000	-	-	57-62	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+16	varones	varón	NCMP000	C0086582	hallazgo#estructura_corporal	63-70	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+17	están	estar	VAIP3P0	-	-	71-76	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+18	exentos	exento	AQ0MP0	-	-	77-84	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	85-87	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+20	riesgo	riesgo	NCMS000	-	-	88-94	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+21	,	,	Fc	-	-	94-95	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	96-98	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+23	cambio	cambio	NCMS000	C0443172	calificador	99-105	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+24	todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	106-111	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+25	sus	su	DP3CP0	-	-	112-115	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+26	hijas	hijo	NCFP000	-	-	116-121	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+27	serán	ser	VSIF3P0	-	-	122-127	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+28	portadoras	portador	AQ0FP0	C0560175	hallazgo	128-138	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+29	.	.	Fp	-	-	138-139	91_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	hay	haber	VMIP3S0	-	-	3-6	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+3	riesgo	riesgo	NCMS000	-	-	7-13	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+4	,	,	Fc	-	-	13-14	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+5	puesto	poner	VMP00SM	-	-	15-21	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	que	que	CS	-	-	22-25	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+7	la	el	DA0FS0	-	-	26-28	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+8	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	29-39	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+9	no	no	RN	C1298908	calificador	40-42	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+10	ha	haber	VAIP3S0	-	-	43-45	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+11	aparecido	aparecer	VMP00SM	-	-	46-55	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	56-58	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+13	el	el	DA0MS0	-	-	59-61	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+14	padre	padre	NCMS000	C0015671	persona	62-67	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+15	(	(	Fpa	-	-	68-69	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+16	penetrancia	penetrancia	NCFS000	-	-	69-80	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+17	incompleta	incompleto	AQ0FS0	C0728938#C0205257#C0728939	calificador	81-91	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+18	)	)	Fpt	-	-	91-92	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+19	.	.	Fp	-	-	92-93	91_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+

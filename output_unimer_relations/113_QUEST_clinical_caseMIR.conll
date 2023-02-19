@@ -1,0 +1,61 @@
+1	Tras	tras	SPS00	-	-	301-305	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	el	el	DA0MS0	-	-	306-308	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	309-316	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	pertinente	pertinente	AQ0CS0	-	-	317-327	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	decidimos	decidir	VMIP1P0	-	-	328-337	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	hacer	hacer	VMN0000	-	-	338-343	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	344-347	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	serie	serie	NCFS000	C0205549	calificador	348-353	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	354-356	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	medidas	medida	NCFP000	C0079809	atributo	357-364	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	¿	¿	Fia	-	-	365-366	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cuál	cuál	PT0CS000	-	-	366-370	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	es	ser	VSIP3S0	-	-	371-373	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	la	el	DA0FS0	-	-	374-376	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	correcta	correcto	AQ0FS0	C0205170	calificador	377-385	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	?	?	Fit	-	-	385-386	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	:	:	Fd	-	-	386-387	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Un	Un		C0205447_1	calificador_1	0-2	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	paciente	paciente	NCCS000	C0030705	persona	3-11	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	con	con	SPS00	C0332287	atributo	12-15	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	soporte	soporte	NCMS000	-	-	16-23	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	nutricional	nutricional	AQ0CS0	-	-	24-35	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	enteral	enteral	NC00SC0	C1304890	calificador	36-43	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	,	,	Fc	-	-	43-44	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	presenta	presentar	VMIP3S0	-	-	45-53	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	a	a	SPS00	-	-	54-55	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	las	el	DA0FP0	-	-	56-59	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	72	72	Z	C1292423_1	calificador_1	60-62	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	horas	hora	NCFP000	C1292423_2	calificador_2	63-68	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	de	de	SPS00	C0332285	atributo	69-71	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	iniciar	iniciar	VMN0000	-	-	72-79	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	la	el	DA0FS0	-	-	80-82	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	nutrición	nutrición	NCFS000	C0086225_1	régimen/tratamiento_1	83-92	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	enteral	enteral	NC00SC0	C0086225_2	régimen/tratamiento_2	93-100	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	,	,	Fc	-	-	100-101	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	una	una		C0205447_1	calificador_1	102-105	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	analítica	analítica	NCFS000	-	-	106-115	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	que	que	PR0CN000	-	-	116-119	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	muestra	mostrar	VMIP3S0	-	-	120-127	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	una	una		C0205447_1	calificador_1	128-131	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	hipofosforemia	hipofosforemia	NCFS000	-	-	132-146	113_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+42	e	y	CC	C1706368	calificador	147-148	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	hipopotasemia	hipopotasemia	NCFS000	C0020621#C1971021#C0032827	trastorno	149-162	113_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+44	,	,	Fc	-	-	162-163	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	con	con	SPS00	C0332287	atributo	164-167	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	clínica	clínica	NCFS000	C0442592	medio_ambiente	168-175	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	de	de	SPS00	C0332285	atributo	176-178	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	179-192	113_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+49	cardiaca	cardiaco	AQ0FS0	-	-	193-201	113_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	48	309	LOC
+50	.	.	Fp	-	-	201-202	113_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	203-205	113_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	206-214	113_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	215-217	113_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	diagnosticado	diagnosticar	VMP00SM	-	-	218-231	113_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	232-234	113_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	síndrome	síndrome	NCMS000	C0860549_1	trastorno_1	235-243	113_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0860549_2	trastorno_2	244-246	113_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	6	15	MultiE
+8	realimentación	realimentación	NCFS000	C0860549_3	trastorno_3	247-261	113_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	6	15	MultiE
+9	.	.	Fp	-	-	261-262	113_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

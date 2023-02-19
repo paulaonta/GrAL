@@ -1,0 +1,33 @@
+1	¿	¿	Fia	-	-	307-308	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	308-312	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	313-318	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	319-321	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	322-333	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	334-336	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	elección	elección	NCFS000	-	-	337-345	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	345-346	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	346-347	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Espondilitis	espondilitis	NCFN000	C0038012	trastorno	0-12	37_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	anquilopoyética	anquilopoyética		-	-	13-28	37_ANS_clinical_caseMIR	SENT1	B-Calificador	-	10	3014	Modif
+12	.	.	Fp	-	-	28-29	37_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Artrosis	artrosis	NCFN000	C0029408	trastorno	0-8	37_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	37_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	raquis	raquis	NCMN000	C1267072	estructura_corporal	12-18	37_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	3015	LOC
+4	.	.	Fp	-	-	18-19	37_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hiperoslosis	hiperoslosis	NCFN000	-	-	0-12	37_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	anquilosante	anquilosante	AQ0CS0	-	-	13-25	37_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	3016	Modif
+3	vertebral	vertebral	AQ0CS0	-	-	26-35	37_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	3016	LOC
+4	de	de	SPS00	C0332285	atributo	36-38	37_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	Forestier	forestier	VMN0000	-	-	39-48	37_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	-	-	Fg	-	-	48-49	37_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	Rotes	rotar	VMSP2S0	-	-	50-55	37_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	55-56	37_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Melorreostosis	melorreostosis	NC00SC0	C0025239	trastorno	0-14	37_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	14-15	37_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Mastocitosis	mastocitosis	NC00SC0	C0024899	anomalía_morfológica	0-12	37_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	12-13	37_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

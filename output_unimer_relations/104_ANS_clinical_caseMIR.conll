@@ -1,0 +1,60 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	898-900	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	esta	este	DD0FS0	-	-	901-905	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	906-914	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	sería	ser	VSIC1S0	-	-	915-920	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	mucho	mucho	RG	C0439064	-	921-926	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	927-930	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	IMPROBABLE	improbable	AQ0CS0	-	-	931-941	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	encontrar	encontrar	VMN0000	-	-	942-951	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	952-955	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	956-958	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	las	el	DA0FP0	-	-	959-962	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	siguientes	siguiente	AQ0CP0	C0332282	atributo	963-973	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	características	característica	NCFP000	-	-	974-989	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	,	,	Fc	-	-	989-990	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	señale	señalar	VMM03S0	-	-	991-997	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	la	lo	PP3FSA00	-	-	997-999	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	:	:	Fd	-	-	999-1000	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Punción	punción	NCFS000	C0033119	anomalía_morfológica	0-7	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	aspiración	aspiración	NCFS000	C1510483_1	calificador_1	8-18	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	con	con	SPS00	C1510483_2	calificador_2	19-22	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	aguja	aguja	NCFS000	C1510483_3	calificador_3	23-28	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	fina	fino	AQ0FS0	C1510483_4	calificador_4	29-33	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	34-36	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	necrosis	necrosis	NCFN000	C0267953_1	trastorno_1	37-45	104_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	pancreática	pancreático	AQ0FS0	C0267953_2	trastorno_2	46-57	104_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	24	2664	LOC
+26	guiada	guiar	VMP00SF	-	-	58-64	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+27	por	por	SPS00	C0678226	atributo	65-68	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+28	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	69-78	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+29	o	o	CC	-	-	79-80	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+30	TAC	tac	NC00YL0	C0040405	procedimiento	81-84	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+31	.	.	Fp	-	-	84-85	104_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Aspirado	aspirado	NC00SC0	C0370199	espécimen	0-8	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	broncoalveolar	broncoalveolar	AQ0CS00	-	-	9-23	104_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	,	,	Fc	-	-	23-24	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cultivo	cultivo	NCMS000	C0430404_1	procedimiento_1	25-32	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0430404_2	procedimiento_2	33-35	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	orina	orinar	VMM02S0	C0430404_3	procedimiento_3	36-41	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	42-43	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	hemocultivos	hemocultivos	NCMP000	-	-	44-56	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	56-57	104_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Resonancia	resonancia	NCFS000	C0024485_1	procedimiento_1	0-10	104_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Magnética	magnético	AQ0FS0	C0024485_2	procedimiento_2	11-20	104_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Nuclear	nuclear	AQ0CS0	C0024485_3	procedimiento_3	21-28	104_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	abdominal	abdominal	AQ0CS0	C0000726	calificador	29-38	104_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	38-39	104_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Colecistectomía	colecistectomía	NC00SC0	C0008320	procedimiento	0-15	104_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	urgente	urgente	AQ0CS0	C0439609	calificador	16-23	104_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	.	.	Fp	-	-	23-24	104_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Ecoendoscopia	ecoendoscopia	NCFS000	-	-	0-13	104_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	14-17	104_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	punción	punción	NCFS000	C0033119	anomalía_morfológica	18-25	104_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	26-28	104_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	la	el	DA0FS0	-	-	29-31	104_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	necrosis	necrosis	NCFN000	C0027540	anomalía_morfológica	32-40	104_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+7	.	.	Fp	-	-	40-41	104_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

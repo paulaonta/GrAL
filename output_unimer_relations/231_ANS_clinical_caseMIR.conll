@@ -1,0 +1,29 @@
+1	¿	¿	Fia	-	-	131-132	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	132-136	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	137-142	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	143-145	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	146-157	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	158-161	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	162-170	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	170-171	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	171-172	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Ecocardiograma	ecocardiograma	NCMS000	-	-	0-14	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	trastorácico	trastorácico	AQ0MS0	-	-	15-27	231_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+12	.	.	Fp	-	-	27-28	231_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Gammagrafía	gammagrafía	NCFS000	C2368359	calificador	0-11	231_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	12-20	231_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	20-21	231_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	AngioTC	angiotc	NC00000	-	-	0-7	231_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	8-16	231_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	1918	LOC
+3	.	.	Fp	-	-	16-17	231_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	0-18	231_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	.	.	Fp	-	-	18-19	231_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	0-11	231_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	de	de	SPS00	C0039985_2	procedimiento_2	12-14	231_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	15-20	231_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+4	.	.	Fp	-	-	20-21	231_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

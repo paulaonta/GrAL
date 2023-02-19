@@ -1,0 +1,68 @@
+1	Todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	663-668	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	las	el	DA0FP0	-	-	669-672	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	673-683	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	consideraciones	consideración	NCFP000	-	-	684-699	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	serían	ser	VSIC3P0	-	-	700-706	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	válidas	válido	AQ0FP0	-	-	707-714	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	715-717	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	el	el	DA0MS0	-	-	718-720	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011906_1	calificador_1	721-732	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	diferencial	diferencial	NCMS000	C0011906_2	calificador_2	733-744	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	EXCEPTO	excepto	SPS00	-	-	745-752	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	:	:	Fd	-	-	752-753	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	Paciente	paciente	NCCS000	C0030705	persona	0-8	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	9-11	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	67	67		-	-	12-14	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	años	año	NCMP000	C0439234	calificador	15-19	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	que	que	PR0CN000	-	-	20-23	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	los	el	DA0MP0	-	-	27-30	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	últimos	último	AO0MP0	-	-	31-38	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	6	6		-	-	39-40	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	meses	mes	NCMP000	C0439231	calificador	41-46	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	,	,	Fc	-	-	46-47	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	48-50	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	dos	dos		-	-	51-54	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	analíticas	analítica	NCFP000	-	-	55-65	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	66-68	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	rutina	rutina	NCFS000	C0035976#C0205547	sustancia#producto#calificador	69-75	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	,	,	Fc	-	-	75-76	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	presenta	presentar	VMIP3S0	-	-	77-85	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	linfocitosis	linfocitosis	NCFN000	C0024282#C0853698	trastorno#hallazgo	86-98	678_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+32	progresiva	progresivo	AQ0FS0	C0205329	calificador	99-109	678_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	31	5935	Modif
+33	.	.	Fp	-	-	109-110	678_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	111-113	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	114-116	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	última	último	AO0FS0	-	-	117-123	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	,	,	Fc	-	-	123-124	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	125-136	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	15,4	15.4	Z	-	-	137-141	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	g	g	NCMN000	-	-	142-143	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	/	/	Fh	-	-	143-144	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	dl	decilitro	NCMN000	C0439241	calificador	144-146	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	;	;	Fx	-	-	146-147	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	leucocitos	leucocito	NCMP000	C0023516	célula	148-158	678_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+12	18,5	18,5		-	-	159-163	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	x103/μL	x103/μL		-	-	164-171	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	172-175	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	82	82	Z	-	-	176-178	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	%	%	Ft	-	-	179-180	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	181-183	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	linfocitos	linfocito	NCMP000	C0024264	célula	184-194	678_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+19	maduros	maduro	AQ0MP0	C0205286	calificador	195-202	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	que	que	PR0CN000	-	-	203-206	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	por	por	SPS00	C0678226	atributo	207-210	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	citometría	citometría		C0016263_1	procedimiento_1	211-221	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	de	de	SPS00	C0016263_2	procedimiento_2	222-224	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	flujo	flujo	NCMS000	C0016263_3	procedimiento_3	225-230	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	expresan	expresar	VMIP3P0	-	-	231-239	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	los	el	DA0MP0	-	-	240-243	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	antígenos	antígeno	NCMP000	C0003320	sustancia	244-253	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	CD5/CD19/CD23	CD5/CD19/CD23		-	-	254-267	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	y	y	CC	C1706368	calificador	268-269	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	270-279	678_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+31	240	240		-	-	280-283	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	x103/μL	x103/μL		-	-	284-291	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	.	.	Fp	-	-	291-292	678_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

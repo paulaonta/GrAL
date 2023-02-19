@@ -1,0 +1,91 @@
+1	Al	al	SP+DA	-	-	244-246	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	realizar	realizar	VMN0000	-	-	247-255	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	256-258	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	urocultivo	urocultivo	NC00SC0	C0430404	procedimiento	259-269	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	¿	¿	Fia	-	-	270-271	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	cuál	cuál	PT0CS000	-	-	271-275	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	276-278	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	el	el	DA0MS0	-	-	279-281	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	microorganismo	microorganismo	NCMS000	C0445623	organismo	282-296	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	que	que	PR0CN000	-	-	297-300	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	esperamos	esperar	VMIP1P0	-	-	301-310	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	encontrar	encontrar	VMN0000	-	-	311-320	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	?	?	Fit	-	-	320-321	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	:	:	Fd	-	-	321-322	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Una	Una		C0205447_1	calificador_1	0-3	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	10-12	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	23	23		-	-	13-15	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	años	año	NCMP000	C0439234	calificador	16-20	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	acude	acudir	VMIP3S0	-	-	21-26	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	a	a	SPS00	-	-	27-28	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	por	por	SPS00	C0678226	atributo	39-42	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	encontrar	encontrar	VMN0000	-	-	43-52	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	se	se	PP3CN000	-	-	52-54	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	muy	muy	RG	C0442824	calificador	55-58	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	nerviosa	nervioso	AQ0FS0	-	-	59-67	268_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	tras	tras	SPS00	-	-	68-72	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	una	una		C0205447_1	calificador_1	73-76	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	discusión	discusión	NCFS000	C0557061	procedimiento	77-86	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	con	con	SPS00	C0332287	atributo	87-90	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	su	su	DP3CS0	-	-	91-93	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	pareja	pareja	NCFS000	-	-	94-100	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	.	.	Fp	-	-	100-101	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	102-104	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	su	su	DP3CS0	-	-	105-107	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	historia	historia	NCFS000	-	-	108-116	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	117-124	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	se	se	P00CN000	-	-	125-127	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	reflejan	reflejar	VMIP3P0	-	-	128-136	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	137-143	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	demandas	demanda	NCFP000	C0441516	calificador	144-152	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	semejantes	semejante	AQ0CP0	-	-	153-163	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	el	el	DA0MS0	-	-	167-169	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	año	año	NCMS000	C0439234	calificador	170-173	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	174-182	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	,	,	Fc	-	-	182-183	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	184-186	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	dos	dos		-	-	187-190	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	191-193	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	ellas	ellos	PP3FP000	-	-	194-199	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	tras	tras	SPS00	-	-	200-204	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	205-207	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	gesto	gesto	NCMS000	-	-	208-213	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	autolítico	autolítico	AQ0MS0	-	-	214-224	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	.	.	Fp	-	-	224-225	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	226-228	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	constatan	constatar	VMIP3P0	-	-	229-238	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	también	también	RG	-	-	239-246	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	conflictos	conflicto	NCMP000	C0009671	hallazgo	247-257	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	frecuentes	frecuente	AQ0CP0	C0332183	calificador	258-268	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	las	el	DA0FP0	-	-	272-275	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	relaciones	relación	NCFP000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	276-286	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	287-289	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	pareja	pareja	NCFS000	-	-	290-296	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	,	,	Fc	-	-	296-297	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	cambios	cambio	NCMP000	C0443172	calificador	298-305	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	laborales	laboral	AQ0CP0	C0521127	calificador	306-315	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	316-317	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	discusiones	discusión	NCFP000	C0557061	procedimiento	318-329	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	familiares	familiar	AQ0CP0	C0080103#C0241888	persona#calificador	330-340	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	.	.	Fp	-	-	340-341	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Dice	decir	VMIP3S0	-	-	342-346	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	sentir	sentir	VMN0000	-	-	347-353	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	PP3CN000	-	-	353-355	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	incomprendida	incomprendido	NCFS000	-	-	356-369	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	370-373	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	374-379	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	incluidos	incluir	VMP00PM	-	-	380-389	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	los	el	DA0MP0	-	-	390-393	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	psiquiatras	psiquiatra	NCCP000	C0033872	ocupación	394-405	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	que	que	PR0CN000	-	-	406-409	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	la	lo	PP3FSA00	-	-	410-412	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	atienden	atender	VMIP3P0	-	-	413-421	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	421-422	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

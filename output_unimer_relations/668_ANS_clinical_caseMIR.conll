@@ -1,0 +1,49 @@
+1	¿	¿	Fia	-	-	682-683	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	683-687	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	688-690	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	691-693	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	694-705	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	706-709	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	710-718	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	718-719	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	719-720	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	0-11	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	antimitocondriales	antimitocondrial	AQ0CP0	-	-	12-30	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	del	del	SP+DA	-	-	8-11	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	metabolismo	metabolismo	NCMS000	C0025519	función	12-23	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	del	del	SP+DA	-	-	24-27	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	hierro	hierro	NCMS000	C0302583	sustancia	28-34	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	del	del	SP+DA	-	-	8-11	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	metabolismo	metabolismo	NCMS000	C0025519	función	12-23	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	del	del	SP+DA	-	-	24-27	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	cobre	cobre	NCMS000	C0009968	sustancia#producto	28-33	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	Resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	0-10	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	magnética	magnético	AQ0FS0	-	-	11-20	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	hepática	hepático	AQ0FS0	-	-	21-29	668_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+25	Serología	serología	NCFS000	-	-	0-9	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	10-12	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+27	virus	virus	NCMN000	C0019378_1	organismo_1	13-18	668_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	B	b	NCFS000	C0019378_2	organismo_2	19-20	668_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	27	257	MultiE
+29	v	v	NCFS000	-	-	21-22	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+30	virus	virus	NCMN000	C0042776	organismo	23-28	668_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	C	c	NC00YL0	C1673307	organismo	29-30	668_ANS_clinical_caseMIR	SENT1	B-Calificador	-	32	3566,30,27	Modif,3566,3566
+32	Pubertad	pubertad	NCFS000	C0342543_1	trastorno_1	0-8	668_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+33	precoz	precoz	NC00SC0	C0342543_2	trastorno_2	9-15	668_ANS_clinical_caseMIR	SENT1	B-Calificador	-	32	3566	Modif
+34	central	central	NCFS000	C0342543_3	trastorno_3	16-23	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+35	.	.	Fp	-	-	23-24	668_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Pubertad	pubertad	NCFS000	C0034011	hallazgo	0-8	668_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	precoz	precoz	NC00SC0	C1279919#C2362777#C2363430#C1279930	calificador	9-15	668_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	3567	Modif
+3	periférica	periférico	AQ0FS0	C0205100	calificador	16-26	668_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	.	.	Fp	-	-	26-27	668_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Adrenarquia	Adrenarquia		-	-	0-11	668_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	precoz	precoz	NC00SC0	C1279919#C2362777#C2363430#C1279930	calificador	12-18	668_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	3568	Modif
+3	.	.	Fp	-	-	18-19	668_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tumor	tumor	NCMS000	C0027651	anomalía_morfológica	0-5	668_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	suprarrenal	suprarrenal	AQ0CS0	C0449207	estructura_corporal	6-17	668_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	3569	LOC
+3	.	.	Fp	-	-	17-18	668_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

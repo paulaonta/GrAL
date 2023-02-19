@@ -1,0 +1,41 @@
+1	Revisando	revisar	VMG0000	-	-	0-9	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	10-12	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	angio-TC	angio-tc	NC00000	-	-	13-21	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	22-24	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	25-27	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	28-34	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	35-37	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	70	70		-	-	38-40	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	años	año	NCMP000	C0439234	calificador	41-45	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	estudio	estudio	NCMS000	C0557651	medio_ambiente	49-56	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	por	por	SPS00	C0678226	atributo	57-60	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	aneurisma	aneurisma	NCMS000	C0162871_1	trastorno_1	61-70	351_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	de	de	SPS00	C0162871_2	trastorno_2	71-73	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	aorta	aorta	NCFS000	C0162871_3	trastorno_3	74-79	351_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	13	4694	LOC
+16	abdominal	abdominal	NC00SC0	C0162871_4	trastorno_4	80-89	351_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	15	102	MultiE
+17	el	el	DA0MS0	-	-	90-92	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	radiólogo	radiólogo	NCMS000	C0260194	ocupación	93-102	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	informa	informar	VMIP3S0	C0700287	procedimiento	103-110	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	111-113	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	114-116	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	117-126	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0150312_2	calificador_2	127-129	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	una	una		C0205447_1	calificador_1	130-133	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	oclusión	oclusión	NCFS000	C0028778	anomalía_morfológica	134-142	351_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	143-151	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	152-154	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	la	el	DA0FS0	-	-	155-157	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	arteria	arteria	NCFS000	C1269016#C0162860_1	estructura_corporal_1	158-165	351_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	25	4694	LOC
+30	mesentérica	mesentérico	AQ0FS0	C1269016#C0162860_2	estructura_corporal_2	166-177	351_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	29	299	MultiE
+31	inferior	inferior	NCCS000	C1269016#C0162860_3	estructura_corporal_3	178-186	351_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	29	299	MultiE
+32	.	.	Fp	-	-	186-187	351_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	188-190	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	191-199	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	se	se	P00CN000	-	-	200-202	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	encuentra	encontrar	VMIP3S0	-	-	203-212	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	completamente	completamente	RG	-	-	213-226	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	asintomático	asintomático	AQ0MS0	-	-	227-239	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	.	.	Fp	-	-	239-240	351_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

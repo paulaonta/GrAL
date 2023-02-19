@@ -1,0 +1,88 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	62	62		-	-	13-15	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	25-28	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	29-37	208_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	38-46	208_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	41	MultiE
+10	tipo	tipo	NCMS000	C0011860_3	trastorno_3	47-51	208_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	361	Modif
+11	2	2	Z	C0011860_4	trastorno_4	52-53	208_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	10	97	MultiE
+12	de	de	SPS00	C0332285	atributo	54-56	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	10	10		-	-	57-59	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	años	año	NCMP000	C0439234	calificador	60-64	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	65-67	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	evolución	evolución	NCFS000	-	-	68-77	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	realiza	realizar	VMIP3S0	-	-	78-85	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	86-97	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	con	con	SPS00	C0332287	atributo	98-101	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	metformina	metformina	NC00SC0	C0025598	producto#sustancia	102-112	208_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+21	y	y	CC	C1706368	calificador	113-114	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	sitagliptina	sitagliptina	NC00SC0	C1565750	sustancia#producto	115-127	208_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+23	.	.	Fp	-	-	127-128	208_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Hace	hacer	VMIP3S0	-	-	129-133	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	ejercicio	ejercicio	NCMS000	C0015259_1	calificador_1	134-143	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	físico	físico	NCMS000	C0015259_2	calificador_2	144-150	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	escaso	escaso	AQ0MS0	C0443295#C0205169	calificador	151-157	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	158-159	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	realiza	realizar	VMIP3S0	-	-	160-167	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	168-171	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	dieta	dieta	NCFS000	C0012155	hallazgo	172-177	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	adecuada	adecuar	VMP00SF	-	-	178-186	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	186-187	208_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	188-190	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	los	el	DA0MP0	-	-	191-194	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	últimos	último	AO0MP0	-	-	195-202	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	6	6		-	-	203-204	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	meses	mes	NCMP000	C0439231	calificador	205-210	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	ha	haber	VAIP3S0	-	-	211-213	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	perdido	perder	VMP00SM	-	-	214-221	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	peso	peso	NCMS000	C0043100	calificador	222-226	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	227-228	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	tiene	tener	VMIP3S0	-	-	229-234	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	más	más	RG	C0205172	calificador	235-238	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	239-246	208_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	.	.	Fp	-	-	246-247	208_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Sus	su	DP3CP0	-	-	248-251	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	controles	control	NCMP000	C2587213	atributo	252-261	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	glucémicos	glucémico	AQ0MP0	-	-	262-272	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	se	se	P00CN000	-	-	273-275	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	han	haber	VAIP3P0	-	-	276-279	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	deteriorado	deteriorar	VMP00SM	-	-	280-291	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	pasando	pasar	VMG0000	-	-	292-299	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	300-302	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	glucemias	glucemia	NCFP000	C2585282	entidad_observable	303-312	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	basa	basar	VMM02S0	-	-	313-317	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	les	le	PP3CPD00	C1292157#C0409974	hallazgo#trastorno	317-320	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	321-323	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	110-140	110-140	Z	-	-	324-331	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	mg	mg	NCMN000	-	-	332-334	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	/	/	Fh	-	-	334-335	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	dl	decilitro	NCMN000	C0439241	calificador	335-337	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	a	a	SPS00	-	-	338-339	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	glucemias	glucemia	NCFP000	C2585282	entidad_observable	340-349	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	350-352	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	170-200	170-200	Z	-	-	353-360	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	mg	mg	NCMN000	-	-	361-363	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	/	/	Fh	-	-	363-364	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	dl	decilitro	NCMN000	C0439241	calificador	364-366	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	,	,	Fc	-	-	366-367	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	así	así	RG	-	-	368-371	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	como	como	SPS00	C0332257	calificador	372-376	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+27	su	su	DP3CS0	-	-	377-379	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+28	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	380-391	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+29	glicosilada	glicosilada	VMP00SF	-	-	392-403	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+30	que	que	PR0CN000	-	-	404-407	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+31	ha	haber	VAIP3S0	-	-	408-410	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+32	pasado	pasar	VMP00SM	-	-	411-417	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+33	de	de	SPS00	C0332285	atributo	418-420	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+34	7,1	7,1		-	-	421-424	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+35	a	a	SPS00	-	-	425-426	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+36	8,5	8.5	Z	-	-	427-430	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+37	%	%	Ft	-	-	430-431	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+38	.	.	Fp	-	-	431-432	208_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,18 @@
+1	Alfa-bloqueante	alfa-bloqueante	AQ0CS00	-	-	0-15	681_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	.	.	Fp	-	-	15-16	681_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Inhibidor	inhibidor	NCMS000	-	-	0-9	681_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	10-12	681_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	5-alfa	5-alfa		-	-	13-19	681_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	reductasa	reductasa	NCFS000	C0030016	sustancia	20-29	681_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	29-30	681_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Anti-muscarínico	anti-muscarínico	AQ0MS00	-	-	0-16	681_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	.	.	Fp	-	-	16-17	681_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Resección	resección	NCFS000	C0728940#C0547070	procedimiento	0-9	681_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	transuretral	transuretral	NC00SC0	C0205497	calificador	10-22	681_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	23-25	681_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	próstata	próstata	NCFS000	C1278980#C0033572	estructura_corporal	26-34	681_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	34-35	681_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

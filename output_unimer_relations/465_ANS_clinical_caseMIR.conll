@@ -1,0 +1,41 @@
+1	La	el	DA0FS0	-	-	0-2	465_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	3-12	465_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0150312_2	calificador_2	13-15	465_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	16-22	465_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	23-25	465_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	26-37	465_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	.	.	Fp	-	-	37-38	465_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	existencia	existencia	NCFS000	-	-	3-13	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	17-29	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	30-40	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	41-43	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	44-50	465_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	colorrectal	colorrectal	NC00SC0	C0555952	calificador	51-62	465_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	5654	LOC
+9	.	.	Fp	-	-	62-63	465_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	0-2	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tamaño	tamaño	NCMS000	C0449453_1	entidad_observable_1	3-9	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0449453_2	entidad_observable_2	10-12	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	la	lo	PP3FSA00	C0449453_3	entidad_observable_3	13-15	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	lesión	lesión	NCFS000	C0449453_4	entidad_observable_4	16-22	465_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	primaria	primario	AQ0FS0	C0205225	calificador	23-31	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	32-33	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	la	el	DA0FS0	-	-	34-36	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	diferenciación	diferenciación	NCFS000	-	-	37-51	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	histológica	histológico	AQ0FS0	C0205462	calificador	52-63	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	63-64	465_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	465_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	perforación	perforación	NCFS000	C0549099	anomalía_morfológica	3-14	465_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+3	o	o	CC	-	-	15-16	465_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	adhesión	adhesión	NCFS000	-	-	17-25	465_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	del	del	SP+DA	-	-	26-29	465_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	30-35	465_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	a	a	SPS00	-	-	36-37	465_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	órganos	órgano	NCMP000	-	-	38-45	465_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	6	5656	LOC
+9	adyacentes	adyacente	AQ0CP0	C0205117	calificador	46-56	465_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	8	41	MultiE
+10	.	.	Fp	-	-	56-57	465_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

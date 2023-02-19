@@ -1,0 +1,45 @@
+1	La	el	DA0FS0	-	-	382-384	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	385-395	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	396-398	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	normal	normal	AQ0CS0	C0205307	calificador	399-405	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	405-406	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	incluyendo	incluir	VMG0000	-	-	407-417	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	calcio	calcio	NCMS000	C0006675	sustancia	418-424	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	424-425	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	LDH	ldh	NC00SC0	C0022917	sustancia	426-429	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	430-431	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	triglicéridos	triglicérido	NCMP000	C0041004#C0392693	sustancia	432-445	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	,	,	Fc	-	-	445-446	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	excepto	excepto	SPS00	-	-	447-454	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	455-458	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	amilasa	amilasa	NCFS000	C0002712#C1442866	producto#función_biológica#sustancia	459-466	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	467-469	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	3.000	3.000		-	-	470-475	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	U	o	CC	-	-	476-477	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	/	/	Fh	-	-	477-478	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	L.	l.	NCFS000	-	-	478-480	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	Señale	señalar	VMSP3S0	-	-	481-487	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	la	el	DA0FS0	-	-	488-490	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	respuesta	respuesta	NCFS000	-	-	491-500	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	correcta	correcto	AQ0FS0	C0205170	calificador	501-509	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	:	:	Fd	-	-	509-510	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	Alveolitis	alveolitis	NCFN000	C0002390_1	trastorno_1	0-10	18_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	alérgica	alérgico	AQ0FS0	C0002390_2	trastorno_2	11-19	18_ANS_clinical_caseMIR	SENT1	B-Calificador	-	26	460	Modif
+28	extrínseca	extrínseco	AQ0FS0	C0002390_3	trastorno_3	20-30	18_ANS_clinical_caseMIR	SENT1	B-Calificador	-	26	460	Modif
+29	.	.	Fp	-	-	30-31	18_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Neumoconiosis	neumoconiosis	NCFN000	C0032273	trastorno	0-13	18_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	13-14	18_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Sarcoidosis	sarcoidosis	NCFN000	C0036202_1	trastorno_1	0-11	18_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	11-12	18_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Linfangitis	linfangitis	NCFN000	C0238258_1	trastorno_1	0-11	18_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	carcinomatosa	carcinomatoso	AQ0FS0	C0238258_2	trastorno_2	12-25	18_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	463	Modif
+3	.	.	Fp	-	-	25-26	18_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Hemosiderosis	hemosiderosis	NCFN000	C0020807_1	trastorno_1	0-13	18_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	pulmonar	pulmonar	NC00SC0	C0020807_2	trastorno_2	14-22	18_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	1	464	LOC
+3	idiopática	idiopático	AQ0FS0	C0020807_3	trastorno_3	23-33	18_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	464	Modif
+4	.	.	Fp	-	-	33-34	18_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

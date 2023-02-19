@@ -1,0 +1,25 @@
+1	Trastorno	trastorno	NCMS000	C0270549_1	trastorno_1	0-9	548_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0270549_2	trastorno_2	10-12	548_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+3	ansiedad	ansiedad	NCFS000	C0270549_3	trastorno_3	13-21	548_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+4	generalizada	generalizar	VMP00SF	C0270549_4	trastorno_4	22-34	548_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	1476	Modif
+5	.	.	Fp	-	-	34-35	548_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ansiedad	ansiedad	NCFS000	C0003467	hallazgo	0-8	548_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	secundaria	secundario	AQ0FS0	C0175668	calificador	9-19	548_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	a	a	SPS00	-	-	20-21	548_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	descompensación	descompensación	NCFS000	C0231187	hallazgo	22-37	548_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	1	1477	Causada_por
+5	psicótica	psicótico	AQ0FS0	-	-	38-47	548_ANS_clinical_caseMIR	SENT2	B-Calificador	-	4	1477	Modif
+6	.	.	Fp	-	-	47-48	548_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Acatisia	acatisia	NC00SC0	C0392156#C0700075	hallazgo#trastorno	0-8	548_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	8-9	548_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	548_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	7	1479	Causada_por
+2	por	por	SPS00	C0678226	atributo	10-13	548_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	déficit	déficit	NCMS000	C0011155_1	atributo_1	14-21	548_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	1	1479	Causada_por
+4	de	de	SPS00	C0011155_2	atributo_2	22-24	548_ANS_clinical_caseMIR	SENT4	B-Calificador	-	3	1479	Modif
+5	atención	atención	NCFS000	C0004268	función	25-33	548_ANS_clinical_caseMIR	SENT4	I-Calificador	-	4	23	MultiE
+6	e	y	CC	C1706368	calificador	34-35	548_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	hiperactividad	hiperactividad	NCFS000	C0474395#C1536696	hallazgo	36-50	548_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	.	.	Fp	-	-	50-51	548_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

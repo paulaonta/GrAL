@@ -1,0 +1,65 @@
+1	Diuréticos	diurético	NCMP000	C0012798	sustancia	0-10	197_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	y	y	CC	C1706368	calificador	11-12	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	controles	control	NCMP000	C2587213	atributo	13-22	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	más	más	RG	C0205172	calificador	23-26	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	frecuentes	frecuente	AQ0CP0	C0332183	calificador	27-37	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	38-41	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	42-44	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	especialista	especialista	NCCS000	-	-	45-57	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	.	.	Fp	-	-	57-58	197_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	aumentar	aumentar	VMN0000	-	-	11-19	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	la	el	DA0FS0	-	-	20-22	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	23-29	197_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0231807_2	hallazgo_2	30-32	197_ANS_clinical_caseMIR	SENT2	B-Calificador	-	6	2773	Modif
+8	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	33-41	197_ANS_clinical_caseMIR	SENT2	I-Calificador	-	7	45	MultiE
+9	,	,	Fc	-	-	41-42	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	debe	deber	VMIP3S0	-	-	43-47	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	practicar	practicar	VMN0000	-	-	48-57	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	se	se	PP3CN000	-	-	57-59	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	60-63	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	64-74	197_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	percutanea	percutanea	VMIP3S0	-	-	75-85	197_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	14	2773	LOC
+16	de	de	SPS00	C0332285	atributo	86-88	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	la	el	DA0FS0	-	-	89-91	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	válvula	válvula	NCFS000	C1269005#C0003501_1	estructura_corporal_1	92-99	197_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	14	2773	LOC
+19	aórtica	aórtico	AQ0FS0	C1269005#C0003501_2	estructura_corporal_2	100-107	197_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	18	102	MultiE
+20	con	con	SPS00	C0332287	atributo	108-111	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+21	catéter	catéter	NCMS000	C0085590	objeto_físico	112-119	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	120-122	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+23	balón	balón	NCMS000	-	-	123-128	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+24	.	.	Fp	-	-	128-129	197_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Sustitución	sustitución	NCFS000	-	-	0-11	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	la	el	DA0FS0	-	-	15-17	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	válvula	válvula	NCFS000	C1269005#C0003501_1	estructura_corporal_1	18-25	197_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	aórtica	aórtico	AQ0FS0	C1269005#C0003501_2	estructura_corporal_2	26-33	197_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	4	23	MultiE
+6	por	por	SPS00	C0678226	atributo	34-37	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	38-41	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	42-50	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	/	/	Fh	-	-	51-52	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	bioprótesis	bioprótesis	NCFN000	-	-	53-64	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	64-65	197_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Sustitución	sustitución	NCFS000	-	-	0-11	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	la	el	DA0FS0	-	-	15-17	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	válvula	válvula	NCFS000	C1269005#C0003501_1	estructura_corporal_1	18-25	197_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+5	aórtica	aórtico	AQ0FS0	C1269005#C0003501_2	estructura_corporal_2	26-33	197_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	23	MultiE
+6	por	por	SPS00	C0678226	atributo	34-37	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	38-40	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	homo	homo	AQ0CN0	-	-	41-45	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	injerto	injerto	NCMS000	C0040732#C1961139#C0181074#C0332835#C0021102	procedimiento#calificador#sustancia#estructura_corporal#objeto_físico	46-53	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	53-54	197_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Implante	implante	NCMS000	C0021107#C0021102#C1704229	procedimiento#producto#calificador#objeto_físico	0-8	197_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	197_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	12-15	197_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	válvula	válvula	NCFS000	-	-	16-23	197_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+5	percutánea	percutánea	AQ0FS00	-	-	24-34	197_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	4	23	MultiE
+6	.	.	Fp	-	-	34-35	197_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

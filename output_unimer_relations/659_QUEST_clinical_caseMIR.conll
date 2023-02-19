@@ -1,0 +1,65 @@
+1	Primigesta	primigesta	NC00SC0	C0860096	hallazgo	0-10	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	40+2	40+2		-	-	14-18	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	semanas	semana	NCFP000	C0439230	calificador	19-26	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	27-30	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	31-36	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	37-38	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	39-48	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	49-52	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	amniorrea	amniorrea	NCFS000	-	-	53-62	659_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	manifiesta	manifiesto	AQ0FS0	C1280464#C0205319	calificador	63-73	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	74-75	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	dinámica	dinámica	NCFS000	-	-	76-84	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	regular	regular	AQ0CS0	C0205272	calificador	85-92	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	92-93	659_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	94-96	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	seguimiento	seguimiento	NCMS000	-	-	97-108	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	109-111	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	el	el	DA0MS0	-	-	112-114	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	115-123	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ha	haber	VAIP3S0	-	-	124-126	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	sido	ser	VSP00SM	-	-	127-131	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	normal	normal	AQ0CS0	C0205307	calificador	132-138	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	139-140	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	posee	poseer	VMIP3S0	-	-	141-146	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	147-150	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	determinación	determinación	NCFS000	C0242485	procedimiento	151-164	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	vagino-rectal	vagino-rectal	AQ0CS00	-	-	165-178	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	positiva	positivo	AQ0FS0	C1446409	calificador	179-187	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	para	para	SPS00	C0521125	calificador	188-192	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	el	el	DA0MS0	-	-	193-195	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	estreptococo	estreptococo	NCMS000	C0038402	organismo	196-208	659_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	32	5254	LOC
+18	del	del	SP+DA	-	-	209-212	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	grupo	grupo	NCMS000	C0441833#C1257890	atributo#contexto_social	213-218	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	B.	b.	AQ0CS00	-	-	219-221	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	A	a	SPS00	-	-	222-223	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	la	el	DA0FS0	-	-	224-226	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	exploración	exploración	NCFS000	C1280903	procedimiento	227-238	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	obstétrica	obstétrico	AQ0FS0	C0205484	calificador	239-249	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	presenta	presentar	VMIP3S0	-	-	250-258	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	un	un		C0205447_1	calificador_1	259-261	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	cérvix	cérvix	AQ0CN00	-	-	262-268	659_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	32	5254	LOC
+28	con	con	SPS00	C0332287	atributo	269-272	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	5	5	Z	-	-	273-274	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	cm	cm	NCMN000	-	-	275-277	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	de	de	SPS00	C0332285	atributo	278-280	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	281-291	659_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+33	,	,	Fc	-	-	291-292	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	borrado	borrar	VMP00SM	-	-	293-300	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	un	un		C0205447_1	calificador_1	301-303	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	80	80	Z	-	-	304-306	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	%	%	Ft	-	-	307-308	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	y	y	CC	C1706368	calificador	309-310	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	centrado	centrar	VMP00SM	-	-	311-319	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	,	,	Fc	-	-	319-320	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	con	con	SPS00	C0332287	atributo	321-324	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	un	un		C0205447_1	calificador_1	325-327	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	feto	feto	NCMS000	C1305737	estructura_corporal	328-332	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	único	único	AQ0MS0	C0205171	calificador	333-338	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+45	en	en	SPS00	C1720294#C0332285	calificador#atributo	339-341	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+46	presentación	presentación	NCFS000	C1286297#C2979973_1	entidad_observable_1	342-354	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+47	cefálica	cefálico	AQ0FS0	C1286297#C2979973_2	entidad_observable_2	355-363	659_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+48	.	.	Fp	-	-	363-364	659_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

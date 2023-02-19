@@ -1,0 +1,74 @@
+1	¿	¿	Fia	-	-	451-452	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	452-455	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	456-463	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	464-475	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	inicial	inicial	AQ0CS0	C0205265	calificador	476-483	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	484-486	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	parece	parecer	VMIP3S0	-	-	487-493	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	494-496	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	más	más	RG	C0205393_2	calificador_2	497-500	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	501-509	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	?	?	Fit	-	-	509-510	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	:	:	Fd	-	-	510-511	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	Es	ser	VSIP3S0	-	-	0-2	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	preciso	preciso	AQ0MS0	C0443131	calificador	3-10	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	analizar	analizar	VMN0000	-	-	11-19	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	muestras	muestra	NCFP000	C0370003	espécimen	20-28	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	29-31	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	esputo	esputo	NCMS000	C0038056	sustancia	32-38	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	inducido	inducir	VMP00SM	-	-	39-47	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	para	para	SPS00	C0521125	calificador	48-52	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	descartar	descartar	VMN0000	C0332196	calificador	53-62	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	tuberculosis	tuberculosis	NCFN000	C0041296	trastorno	63-75	771_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+23	.	.	Fp	-	-	75-76	771_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	iniciar	iniciar	VMN0000	-	-	8-15	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	16-18	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	19-30	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	31-39	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	40-43	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	metronidazol	metronidazol	NC00SC0	C0025872	sustancia	44-56	771_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+9	.	.	Fp	-	-	56-57	771_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Si	si	CS	-	-	0-2	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	3-5	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	el	el	DA0MS0	-	-	6-8	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	esputo	esputo	NCMS000	C0038056	sustancia	9-15	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	no	no	RN	C1298908	calificador	16-18	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	se	se	P00CN000	-	-	19-21	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	aísla	aislar	VMIP3S0	-	-	22-27	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	28-30	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	patógeno	patógeno	NCMS000	C0450254	concepto_para_navegación	31-39	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	específico	específico	AQ0MS0	C0205369	calificador	40-50	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	se	se	P00CN000	-	-	51-53	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	presupone	presuponer	VMIP3S0	-	-	54-63	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	la	el	DA0FS0	-	-	64-66	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	67-76	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0150312_2	calificador_2	77-79	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	gérmenes	germen	NCMP000	-	-	80-88	771_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+17	anaerobios	anaerobio	AQ0MP0	-	-	89-99	771_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	16	73	MultiE
+18	.	.	Fp	-	-	99-100	771_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Si	si	CS	-	-	0-2	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	sospecha	sospechar	VMIP3S0	-	-	3-11	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	compromiso	compromiso	NCMS000	C1314939	atributo	12-22	771_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion	-	-	-
+4	inmunitario	inmunitario	AQ0MS0	C0439662#C0205470	calificador	23-34	771_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	3	30	MultiE
+5	debe	deber	VMIP3S0	-	-	35-39	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	realizar	realizar	VMN0000	-	-	40-48	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	49-51	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	forma	forma	NCFS000	C0348078	atributo	52-57	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	inmediata	inmediato	AQ0FS0	C0205253	calificador	58-67	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	broncoscopia	broncoscopia	NC00SC0	C0189396_1	procedimiento_1	68-80	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	con	con	SPS00	C0189396_2	procedimiento_2	81-84	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	biopsia	biopsia	NCFS000	C0189396_3	procedimiento_3	85-92	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	o	o	CC	-	-	93-94	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	95-105	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	106-109	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	aguja	aguja	NCFS000	C0027551	objeto_físico	110-115	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	guiada	guiar	VMP00SF	-	-	116-122	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	por	por	SPS00	C0678226	atributo	123-126	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	127-129	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	.	.	Fp	-	-	129-130	771_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

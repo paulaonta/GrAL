@@ -1,0 +1,31 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	92	92		-	-	9-11	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sin	sin	SPS00	C0332288	atributo	18-21	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	-	-	22-34	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	patológicos	patológico	AQ0MP0	C1521733	calificador	35-46	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	47-49	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	interés	interés	NCMS000	-	-	50-57	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	,	,	Fc	-	-	57-58	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	diagnosticado	diagnosticar	VMP00SM	-	-	59-72	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hace	hacer	VMIP3S0	-	-	73-77	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	24	24	Z	C0439584_1	calificador_1	78-80	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	horas	hora	NCFP000	C0439584_2	calificador_2	81-86	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	87-89	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	pielonefritis	pielonefritis	NC00SC0	C0520575_1	trastorno_1	90-103	706_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	aguda	agudo	AQ0FS0	C0520575_2	trastorno_2	104-109	706_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	17	2435	Modif
+19	,	,	Fc	-	-	109-110	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	que	que	PR0CN000	-	-	111-114	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	presenta	presentar	VMIP3S0	-	-	115-123	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	alucinaciones	alucinación	NCFP000	C0018524	hallazgo	124-137	706_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	visuales	visual	AQ0CP0	C0234621	calificador	138-146	706_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	2435	Modif
+24	,	,	Fc	-	-	146-147	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	discurso	discurso	NCMS000	C0700129_1	hallazgo_1	148-156	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	incoherente	incoherente	AQ0CS0	C0700129_2	hallazgo_2	157-168	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	e	y	CC	C1706368	calificador	169-170	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	inquietud	inquietud	NCFS000	C0700075#C0085631#C0424235	hallazgo	171-180	706_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+29	psicomotriz	psicomotriz	AQ0FS0	-	-	181-192	706_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	28	2435	Modif
+30	.	.	Fp	-	-	192-193	706_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

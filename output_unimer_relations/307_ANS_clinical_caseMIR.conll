@@ -1,0 +1,14 @@
+1	Antitrombina	antitrombina	NCFS000	C0003438_1	sustancia_1	0-12	307_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	III	III		C0003438_2	sustancia_2	13-16	307_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	.	.	Fp	-	-	16-17	307_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Anticoagulante	anticoagulante	NCMS000	C0311370_1	trastorno_1	0-14	307_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	lúpico	lúpico		C0311370_2	trastorno_2	15-21	307_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	1	567	MultiE
+3	.	.	Fp	-	-	21-22	307_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Factor	factor	NCMS000	-	-	0-6	307_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	V	v	NCFS000	-	-	7-8	307_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	307_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	Leiden	leiden	VMIP3P0	-	-	12-18	307_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	.	.	Fp	-	-	18-19	307_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+

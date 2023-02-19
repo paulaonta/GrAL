@@ -1,0 +1,18 @@
+1	Espondilitis	espondilitis	NCFN000	C0038013_1	trastorno_1	0-12	532_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	anquilosante	anquilosante	AQ0CS0	C0038013_2	trastorno_2	13-25	532_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	3697	Modif
+3	.	.	Fp	-	-	25-26	532_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Hiperostosis	hiperostosis	NCFN000	C0020492	anomalía_morfológica	0-12	532_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	vertebral	vertebral	AQ0CS0	-	-	13-22	532_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	3698	LOC
+3	anquilosante	anquilosante	AQ0CS0	-	-	23-35	532_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	3698	Modif
+4	.	.	Fp	-	-	35-36	532_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	532_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	532_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+3	Paget	Paget		-	-	14-19	532_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	19-20	532_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Artropatía	artropatía	NCFS000	C0003872_1	trastorno_1	0-10	532_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	psoriásica	psoriásica		C0003872_2	trastorno_2	11-21	532_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	3700	Modif
+3	.	.	Fp	-	-	21-22	532_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

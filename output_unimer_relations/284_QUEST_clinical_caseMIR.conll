@@ -1,0 +1,137 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	32	32		-	-	10-12	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	sin	sin	SPS00	C0332122_1	calificador_1	26-29	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	30-42	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332122_3	calificador_3	43-45	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	interés	interés	NCMS000	-	-	46-53	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	ni	ni	CC	-	-	54-56	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	factores	factor	NCMP000	-	-	57-65	284_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+13	de	de	SPS00	C0332285	atributo	66-68	284_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	12	13	MultiE
+14	riesgo	riesgo	NCMS000	-	-	69-75	284_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	12	13	MultiE
+15	cardiovascular	cardiovascular	AQ0CS0	-	-	76-90	284_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	12	13	MultiE
+16	.	.	Fp	-	-	90-91	284_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Clínica	clínica	NCFS000	C0442592	medio_ambiente	92-99	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	100-102	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	103-109	284_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	al	al	SP+DA	-	-	110-112	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	subir	subir	VMN0000	-	-	113-118	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	119-121	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	piso	piso	NCMS000	-	-	122-126	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	127-129	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	escaleras	escalera	NCFP000	C0336762	objeto_físico	130-139	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	140-142	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	1	1		-	-	143-144	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	mes	mes	NCMS000	C0439231	calificador	145-148	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	149-151	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	evolución	evolución	NCFS000	-	-	152-161	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	161-162	284_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	163-171	284_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	172-175	284_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	176-183	284_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	brusco	brusco	AQ0MS0	C0443162	calificador	184-190	284_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	3	5279	Modif
+5	precedido	preceder	VMP00SM	-	-	191-200	284_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	201-203	284_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	esfuerzo	esfuerzo	NCMS000	-	-	204-212	284_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	212-213	284_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	214-226	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	227-237	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	238-240	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	muerte	muerte	NCFS000	C1306577#C0011065	hallazgo#evento	241-247	284_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	no	no	RN	C1298908	calificador	248-250	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	explicada	explicar	VMP00SF	-	-	251-260	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	261-263	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	forma	forma	NCFS000	C0348078	atributo	264-269	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	brusca	brusco	AQ0FS0	C0443162	calificador	270-276	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	277-279	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	su	su	DP3CS0	-	-	280-282	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	hermano	hermano	NCMS000	C0337527	persona	283-290	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	290-291	284_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	292-294	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	la	el	DA0FS0	-	-	295-297	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	298-309	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	310-316	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	destaca	destacar	VMIP3S0	-	-	317-324	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	325-327	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	soplo	soplo	NCMS000	C0232257_1	hallazgo_1	328-333	284_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+8	sistólico	sistólico	AQ0MS0	C0232257_2	hallazgo_2	334-343	284_QUEST_clinical_caseMIR	SENT5	B-Calificador	-	7	5281	Modif
+9	rudo	rudo	AQ0MS0	-	-	344-348	284_QUEST_clinical_caseMIR	SENT5	B-Calificador	-	7	5281	Modif
+10	más	más	RG	C0205172	calificador	349-352	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	audible	audible	AQ0CS0	-	-	353-360	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	361-363	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	foco	foco	NCMS000	-	-	364-368	284_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	7	5281	LOC
+14	aórtico	aórtico	AQ0MS0	C0003483	calificador	369-376	284_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	13	72	MultiE
+15	.	.	Fp	-	-	376-377	284_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	378-380	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	381-399	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	practicado	practicar	VMP00SM	-	-	400-410	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	411-413	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	414-422	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	muestra	mostrar	VMIP3S0	-	-	423-430	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	431-433	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	ritmo	ritmo	NCMS000	C0232201_1	hallazgo_1	434-439	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	sinusal	sinusal		C0232201_2	hallazgo_2	440-447	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	con	con	SPS00	C0439712_1	atributo_1	448-451	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	patrón	patrón	NCMS000	C0439712_2	atributo_2	452-458	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	compatible	compatible	AQ0CS0	-	-	459-469	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	470-472	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	hipertrofia	hipertrofia	NCFS000	C0020564	anomalía_morfológica	473-484	284_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Especulacion	-	-	-
+15	de	de	SPS00	C0332285	atributo	485-487	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	ventricular	ventricular	AQ0CS0	-	-	488-499	284_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	14	5282	LOC
+17	izquierda	izquierda	NCFS000	-	-	500-509	284_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-	16	73	MultiE
+18	.	.	Fp	-	-	509-510	284_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	511-513	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	514-521	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	522-524	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	ecocardiograma	ecocardiograma	NCMS000	-	-	525-539	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	que	que	PR0CN000	-	-	540-543	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	documenta	documentar	VMIP3S0	-	-	544-553	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	554-557	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	importante	importante	AQ0CS0	-	-	558-568	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	hipertrofia	hipertrofiar	VMM02S0	C1265929_1	anomalía_morfológica_1	569-580	284_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+10	asimétrica	asimétrico	AQ0FS0	C1265929_2	anomalía_morfológica_2	581-591	284_QUEST_clinical_caseMIR	SENT7	B-Calificador	-	9	5283	Modif
+11	de	de	SPS00	C0332285	atributo	592-594	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+12	septo	septo	NCMS000	-	-	595-600	284_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	9	5283	LOC
+13	interventricular	interventricular	AQ0CS0	-	-	601-617	284_QUEST_clinical_caseMIR	SENT7	I-Estructura_Corporal	-	12	13	MultiE
+14	con	con	SPS00	C0332287	atributo	618-621	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	622-624	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+16	gradiente	gradiente	NCMS000	-	-	625-634	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+17	dinámico	dinámico	AQ0MS0	C0729333	calificador	635-643	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+18	subvalvular	subvalvular	AQ0CS0	-	-	644-655	284_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	656-658	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+20	70	70	Z	-	-	659-661	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+21	mmHg	mmHg	NCMP000	-	-	662-666	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+22	con	con	SPS00	C0332287	atributo	667-670	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+23	insuficiencia	insuficiencia	NCFS000	C0026266_1	trastorno_1	671-684	284_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+24	mitral	mitral	AQ0CS0	C0026266_2	trastorno_2	685-691	284_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	23	5283	LOC
+25	secundaria	secundario	AQ0FS0	C0175668	calificador	692-702	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+26	moderada	moderado	NCFS000	C0205081	calificador	703-711	284_QUEST_clinical_caseMIR	SENT7	B-Calificador	-	23	5283	Modif
+27	y	y	CC	C1706368	calificador	712-713	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+28	fracción	fracción	NCFS000	C1264633_1	calificador_1	714-722	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+29	de	de	SPS00	C1264633_2	calificador_2	723-725	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+30	eyección	eyección	NCFS000	C0336969	calificador	726-734	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+31	de	de	SPS00	C0332285	atributo	735-737	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+32	ventrículo	ventrículo	NCMS000	C0225897#C1269892_1	estructura_corporal_1	738-748	284_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	-	-	-
+33	izquierdo	izquierdo	NC00SC0	C0225897#C1269892_2	estructura_corporal_2	749-758	284_QUEST_clinical_caseMIR	SENT7	I-Estructura_Corporal	-	32	242	MultiE
+34	conservada	conservar	VMP00SF	-	-	759-769	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+35	.	.	Fp	-	-	769-770	284_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	771-772	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	772-775	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	opción	opción	NCFS000	-	-	776-782	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	783-794	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	795-797	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+6	la	el	DA0FS0	-	-	798-800	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	MENOS	menos	RG	C0332288	atributo	801-806	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+8	indicada	indicar	VMP00SF	-	-	807-815	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+9	?	?	Fit	-	-	815-816	284_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+

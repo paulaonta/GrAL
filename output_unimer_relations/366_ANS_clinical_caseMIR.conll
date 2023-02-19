@@ -1,0 +1,39 @@
+1	El	el	DA0MS0	-	-	225-227	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	228-239	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	,	,	Fc	-	-	239-240	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	si	si	CS	-	-	241-243	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	no	no	RN	C1298908	calificador	244-246	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	existen	existir	VMIP3P0	-	-	247-254	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	signos	signo	NCMP000	C0311392	hallazgo	255-261	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	262-264	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	gangrena	gangrena	NCFS000	C0017086	anomalía_morfológica	265-273	366_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+10	o	o	CC	-	-	274-275	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	peritonitis	peritonitis	NCFN000	C0031154	trastorno	276-287	366_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+12	,	,	Fc	-	-	287-288	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	consistirá	consistir	VMIF3S0	-	-	289-299	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1279901_1	calificador_1	300-302	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	primer	1	AO0MS0	C1279901_2	calificador_2	303-309	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	lugar	lugar	NCMS000	C1279901_3	calificador_3	310-315	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	316-318	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	:	:	Fd	-	-	318-319	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	Histiocitosis	histiocitosis	NCFN000	C0019621_1	anomalía_morfológica#trastorno_1	0-13	366_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	de	de	SPS00	C0019621_2	anomalía_morfológica#trastorno_2	14-16	366_ANS_clinical_caseMIR	SENT1	B-Calificador	-	19	5346	Modif
+21	células	célula	NCFP000	C0019621_3	anomalía_morfológica#trastorno_3	17-24	366_ANS_clinical_caseMIR	SENT1	I-Calificador	-	20	136	MultiE
+22	de	de	SPS00	C0019621_4	anomalía_morfológica#trastorno_4	25-27	366_ANS_clinical_caseMIR	SENT1	I-Calificador	-	20	136	MultiE
+23	Langerhans	Langerhans		C0019621_5	anomalía_morfológica#trastorno_5	28-38	366_ANS_clinical_caseMIR	SENT1	I-Calificador	-	20	136	MultiE
+24	.	.	Fp	-	-	38-39	366_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Neumonía	neumonía	NCFS000	C0206061_1	trastorno_1	0-8	366_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	intersticial	intersticial	AQ0CS0	C0206061_2	trastorno_2	9-21	366_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	5347	LOC
+3	usual	usual	AQ0CS0	-	-	22-27	366_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	.	.	Fp	-	-	27-28	366_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Alveolitis	alveolitis	NCFN000	C0002390_1	trastorno_1	0-10	366_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	alérgica	alérgico	AQ0FS0	C0002390_2	trastorno_2	11-19	366_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	5348	Modif
+3	extrínseca	extrínseco	AQ0FS0	C0002390_3	trastorno_3	20-30	366_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	5348	Modif
+4	.	.	Fp	-	-	30-31	366_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Proteinosis	proteinosis	NC00SC0	C0034050_1	trastorno_1	0-11	366_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	alveolar	alveolar	NCFS000	C0034050_2	trastorno_2	12-20	366_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	5349	LOC
+3	.	.	Fp	-	-	20-21	366_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

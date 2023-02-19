@@ -1,0 +1,37 @@
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	692_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	neoadyuvante	neoadyuvante	AQ0CS0	-	-	14-26	692_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	1	567	MultiE
+3	con	con	SPS00	C0332287	atributo	27-30	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	quimiorradioterapia	quimiorradioterapia	NCFS000	-	-	31-50	692_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+5	combinada	combinar	VMP00SF	-	-	51-60	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	60-61	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	seguida	seguir	VMP00SF	-	-	62-69	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	70-72	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	73-80	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	.	.	Fp	-	-	80-81	692_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	692_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	neoadyuvante	neoadyuvante	AQ0CS0	-	-	14-26	692_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	1	567	MultiE
+3	sin	sin	SPS00	C0332288	atributo	27-30	692_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	31-38	692_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	,	,	Fc	-	-	38-39	692_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	seguida	seguir	VMP00SF	-	-	40-47	692_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	48-50	692_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	radioterapia	radioterapia	NCFS000	C1522449	-	51-63	692_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+9	.	.	Fp	-	-	63-64	692_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	0-7	692_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	seguida	seguir	VMP00SF	-	-	8-15	692_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	16-18	692_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	quimiorradioterapia	quimiorradioterapia	NCFS000	-	-	19-38	692_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	combinada	combinar	VMP00SF	-	-	39-48	692_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	48-49	692_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	692_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	sin	sin	SPS00	C0332288	atributo	13-16	692_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	17-30	692_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	,	,	Fc	-	-	30-31	692_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	seguida	seguir	VMP00SF	-	-	32-39	692_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	40-42	692_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	43-50	692_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	.	.	Fp	-	-	50-51	692_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

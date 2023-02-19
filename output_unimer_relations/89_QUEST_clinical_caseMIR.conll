@@ -1,0 +1,38 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	albañil	albañil	NCMS000	C0341669	ocupación	3-10	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	11-13	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	31	31		-	-	14-16	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	17-21	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	al	al	SP+DA	-	-	28-30	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	servicio	servicio	NCMS000	-	-	31-39	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	43-52	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	53-56	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	57-60	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	tenosinovitis	tenosinovitis	NC00SC0	C0039520	trastorno	61-74	89_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	producida	producir	VMP00SF	-	-	75-84	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	por	por	SPS00	C0678226	atributo	85-88	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	89-92	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	herida	herir	VMP00SF	C0043254_1	anomalía_morfológica#trastorno_1	93-99	89_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	13	2285	Causada_por
+18	penetrante	penetrante	NC00SC0	C0043254_2	anomalía_morfológica#trastorno_2	100-110	89_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	17	2285	Modif
+19	.	.	Fp	-	-	110-111	89_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	112-114	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	115-117	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	118-129	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	130-132	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	objetiva	objetivar	VMIP3S0	-	-	133-141	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	que	que	CS	-	-	142-145	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	la	el	DA0FS0	-	-	146-148	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	bolsa	bolsa	NCFS000	C1706249#C0179196	calificador#objeto_físico	149-154	89_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+9	cubital	cubital	AQ0CS0	C0442044	calificador	155-162	89_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	8	41	MultiE
+10	está	estar	VAIP3S0	-	-	163-167	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	infectada	infectar	VMP00SF	-	-	168-177	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	con	con	SPS00	C0332287	atributo	178-181	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	182-184	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	consiguiente	consiguiente	AQ0CS0	-	-	185-197	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	necrosis	necrosis	NCFN000	C0027540	anomalía_morfológica	198-206	89_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	tendinosa	tendinoso	AQ0FS0	-	-	207-216	89_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	15	2286	Modif
+17	.	.	Fp	-	-	216-217	89_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

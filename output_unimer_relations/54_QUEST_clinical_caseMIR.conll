@@ -1,0 +1,113 @@
+1	¿	¿	Fia	-	-	583-584	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	584-587	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	prueba	prueba	NCFS000	-	-	588-594	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	sería	ser	VSIC1S0	-	-	595-600	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	más	más	RG	C0205172	calificador	601-604	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	útil	útil	AQ0CS0	-	-	605-609	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	610-614	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	confirmar	confirmar	VMN0000	-	-	615-624	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	la	el	DA0FS0	-	-	625-627	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	causa	causa	NCFS000	-	-	628-633	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	más	más	RG	C0205172	calificador	634-637	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	probable	probable	AQ0CS0	C0332148	calificador	638-646	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	del	del	SP+DA	-	-	647-650	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	cuadro	cuadro	NCMS000	-	-	651-657	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	?	?	Fit	-	-	657-658	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	:	:	Fd	-	-	658-659	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	Paciente	paciente	NCCS000	C0030705	persona	0-8	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	9-11	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	39	39		-	-	12-14	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	años	año	NCMP000	C0439234	calificador	15-19	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	sin	sin	SPS00	C0332288	atributo	28-31	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	32-44	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	45-55	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	ni	ni	CC	-	-	56-58	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	personales	personal	AQ0CP0	-	-	59-69	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	de	de	SPS00	C0332285	atributo	70-72	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	interés	interés	NCMS000	-	-	73-80	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	80-81	54_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	82-90	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	91-94	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	95-97	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cuadro	cuadro	NCMS000	-	-	98-104	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	105-107	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	108-110	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	mes	mes	NCMS000	C0439231	calificador	111-114	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	115-117	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	evolución	evolución	NCFS000	-	-	118-127	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	caracterizado	caracterizar	VMP00SM	-	-	128-141	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	142-145	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	146-148	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	149-157	54_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	constitucional	constitucional	AQ0CS0	-	-	158-172	54_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	13	72	MultiE
+15	acompañado	acompañar	VMP00SM	-	-	173-183	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	184-186	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	dolor	dolor	NCMS000	C0030193	hallazgo	187-192	54_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	193-195	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	hipocondrio	hipocondrio	NCMS000	C1284920#C0230186	estructura_corporal	196-207	54_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	17	615	LOC
+20	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	208-215	54_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	19	106	MultiE
+21	y	y	CC	C1706368	calificador	216-217	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	hemicráneo	hemicráneo	NCMS000	-	-	218-228	54_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	17	615	LOC
+23	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	229-238	54_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	22	7	MultiE
+24	.	.	Fp	-	-	238-239	54_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	240-242	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	243-254	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	255-261	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	pone	poner	VMIP3S0	-	-	262-266	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	267-269	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	270-280	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	281-284	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	285-291	54_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	dolorosa	doloroso	AQ0FS0	-	-	292-300	54_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	-	-	-
+10	y	y	CC	C1706368	calificador	301-302	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	dura	duro	AQ0FS0	C0018599	calificador	303-307	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	308-310	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	región	región	NCFS000	C0230004#C1284849_1	estructura_corporal_1	311-317	54_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	616	LOC
+14	parietal	parietal	NCMS000	C0230004#C1284849_2	estructura_corporal_2	318-326	54_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	13	72	MultiE
+15	izquierda	izquierdo	AQ0FS0	C0205091	calificador	327-336	54_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	13	72	MultiE
+16	así	así	RG	-	-	337-340	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	como	como	SPS00	C0332257	calificador	341-345	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	una	una		C0205447_1	calificador_1	346-349	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	hepatomegalia	hepatomegalia	NCFS000	C0019209	trastorno	350-363	54_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	8	616	Causada_por
+20	dolorosa	doloroso	AQ0FS0	-	-	364-372	54_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	19	616,8	Modif,616
+21	.	.	Fp	-	-	372-373	54_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	374-376	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	radiografía	radiografía	NCFS000	C1299998_1	procedimiento_1	377-388	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	simple	simple	NCCS000	C1299998_2	procedimiento_2	389-395	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C1299998_3	procedimiento_3	396-398	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	cráneo	cráneo	NCMS000	C1299998_4	procedimiento_4	399-405	54_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	8	617	LOC
+6	muestra	mostrar	VMIP3S0	-	-	406-413	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	414-417	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	lesión	lesión	NCFS000	C0221204_1	calificador_1	418-424	54_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+9	lítica	lítico	AQ0FS0	C0221204_2	calificador_2	425-431	54_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	8	617	Modif
+10	con	con	SPS00	C0332287	atributo	432-435	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	436-442	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	443-445	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	446-450	54_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	451-453	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	parietal	parietal	NCMS000	C0442030	calificador	454-462	54_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	13	617	LOC
+16	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	463-472	54_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	15	102	MultiE
+17	de	de	SPS00	C0332285	atributo	473-475	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	unos	uno	DI0MP0	C0205447	calificador	476-480	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	5	5	Z	-	-	481-482	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	cm	cm	NCMN000	-	-	483-485	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	486-488	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	diámetro	diámetro	NCMS000	C1301886	calificador	489-497	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	y	y	CC	C1706368	calificador	498-499	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	la	el	DA0FS0	-	-	500-502	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	503-512	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	abdominal	abdominal	AQ0CS0	C0000726	calificador	513-522	54_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+27	varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	523-529	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+28	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	530-538	54_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+29	ocupantes	ocupante	AQ0CP0	-	-	539-548	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+30	de	de	SPS00	C0332285	atributo	549-551	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+31	espacio	espacio	NCMS000	-	-	552-559	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+32	en	en	SPS00	C1720294#C0332285	calificador#atributo	560-562	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+33	hígado	hígado	NCMS000	C1278929#C0023884	estructura_corporal	563-569	54_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	28	617,13	LOC,617
+34	.	.	Fp	-	-	569-570	54_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,35 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	niña	niño	NCFS000	C0008059#C0870221	persona	4-8	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	2	2		-	-	12-13	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	14-18	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	19-21	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	22-26	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	está	estar	VAIP3S0	-	-	27-31	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	siendo	ser	VSG0000	-	-	32-38	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	estudiada	estudiar	VMP00SF	-	-	39-48	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	49-52	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	presentar	presentar	VMN0000	-	-	53-62	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	dificultad	dificultad	NCFS000	C1299586#C0332218	calificador	63-73	563_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	20	1755,18	Causada_por,1755
+14	para	para	SPS00	C0521125	calificador	74-78	563_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	1755	Modif
+15	la	el	DA0FS0	-	-	79-81	563_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	14	51	MultiE
+16	cicatrización	cicatrización	NCFS000	C0008767#C0043240	anomalía_morfológica	82-95	563_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	14	51	MultiE
+17	de	de	SPS00	C0332285	atributo	96-98	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	heridas	herido	NCFP000	-	-	99-106	563_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	e	y	CC	C1706368	calificador	107-108	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	infecciones	infección	NCFP000	C0009450	trastorno	109-120	563_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	121-123	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	partes	partir	VMIP2S0	C0225317_1	estructura_corporal#concepto_para_navegación_1	124-130	563_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	20	1755	LOC
+23	blandas	blando	AQ0FP0	C0225317_2	estructura_corporal#concepto_para_navegación_2	131-138	563_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	22	7	MultiE
+24	bacterianas	bacteriano	AQ0FP0	-	-	139-150	563_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	20	1755	Modif
+25	y	y	CC	C1706368	calificador	151-152	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	fúngicas	fúngicas	AQ0FP00	-	-	153-161	563_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	20	1755	Modif
+27	de	de	SPS00	C0332285	atributo	162-164	563_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	-	-	-
+28	repetición	repetición	NCFS000	-	-	165-175	563_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	27	257	MultiE
+29	,	,	Fc	-	-	175-176	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	sin	sin	SPS00	C0332288	atributo	177-180	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	formación	formación	NCFS000	-	-	181-190	563_QUEST_clinical_caseMIR	SENT1	-	Negacion	-	-	-
+32	de	de	SPS00	C0332285	atributo	191-193	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	pus	pus	NCMS000	C0034161	anomalía_morfológica#sustancia	194-197	563_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+34	.	.	Fp	-	-	197-198	563_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

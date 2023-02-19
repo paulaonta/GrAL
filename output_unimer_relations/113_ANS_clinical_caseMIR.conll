@@ -1,0 +1,38 @@
+1	¿	¿	Fia	-	-	287-288	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	288-292	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	293-295	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	296-299	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	300-310	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	311-323	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	324-326	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	FALSA	falso	AQ0FS0	C0205237	calificador	327-332	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	respecto	respecto	NCMS000	-	-	333-341	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	342-344	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	345-356	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	357-359	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	PTI	pti	NC00YL0	C0398650_1	trastorno_1	360-363	113_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	?	?	Fit	-	-	363-364	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	:	:	Fd	-	-	364-365	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	Malnutrición	malnutrición	NCFS000	-	-	0-12	113_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	calórica	calórico	AQ0FS0	-	-	13-21	113_ANS_clinical_caseMIR	SENT1	B-Calificador	-	16	1827	Modif
+18	previa	previo	AQ0FS0	C0205156	calificador	22-28	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	28-29	113_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Anorexia	anorexia	NCFS000	C0003125_1	trastorno_1	0-8	113_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	nerviosa	nervioso	AQ0FS0	C0003125_2	trastorno_2	9-17	113_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	1828	Modif
+3	.	.	Fp	-	-	17-18	113_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Obsesidad	obsesidad	NCFS000	-	-	0-9	113_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	no	no	RN	C1298908	calificador	10-12	113_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	mórbida	mórbido	AQ0FS0	-	-	13-20	113_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	.	.	Fp	-	-	20-21	113_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ancianos	anciano	NCMP000	C0001792#C0524337	persona	0-8	113_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	.	.	Fp	-	-	8-9	113_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Vómitos	vómito	NCMP000	C0042963_1	trastorno_1	0-7	113_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	y	y	CC	C1706368	calificador	8-9	113_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	diarrea	diarrea	NCFS000	C0011991	hallazgo	10-17	113_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+4	prolongados	prolongar	VMP00PM	-	-	18-29	113_ANS_clinical_caseMIR	SENT5	B-Calificador	-	3	1831	Modif
+5	.	.	Fp	-	-	29-30	113_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

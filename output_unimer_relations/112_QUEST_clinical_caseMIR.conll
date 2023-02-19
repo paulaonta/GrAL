@@ -1,0 +1,102 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	76	76		-	-	13-15	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	nos	nos	PP1CP000	-	-	21-24	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	consulta	consultar	VMIP3S0	-	-	25-33	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	porque	porque	CS	-	-	34-40	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	está	estar	VAIP3S0	-	-	41-45	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	preocupada	preocupar	VMP00SF	-	-	46-56	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	57-60	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	su	su	DP3CS0	-	-	61-63	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	64-70	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0035647_2	calificador_2	71-73	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	sufrir	sufrir	VMN0000	-	-	74-80	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	un	un		C0205447_1	calificador_1	81-83	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	accidente	accidente	NCMS000	C0038454#C1540600_1	trastorno_1	84-93	112_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	cerebrovascular	cerebrovascular	AQ0CS0	C0038454#C1540600_2	trastorno_2	94-109	112_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	17	4550	LOC
+19	ya	ya	RG	-	-	110-112	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	que	que	PR0CN000	-	-	113-116	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	su	su	DP3CS0	-	-	117-119	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	madre	madre	NCFS000	C0026591	persona	120-125	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	falleció	fallecer	VMIS3S0	-	-	126-134	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	por	por	SPS00	C0678226	atributo	135-138	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	esta	este	DD0FS0	-	-	139-143	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	causa	causa	NCFS000	-	-	144-149	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	hace	hacer	VMIP3S0	-	-	150-154	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	un	un		C0205447_1	calificador_1	155-157	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	año	año	NCMS000	C0439234	calificador	158-161	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	161-162	112_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Está	estar	VAIP3S0	-	-	163-167	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	diagnosticada	diagnosticar	VMP00SF	-	-	168-181	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	182-184	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	185-197	112_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	198-206	112_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	4	4551	LOC
+6	y	y	CC	C1706368	calificador	207-208	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	209-217	112_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	218-226	112_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	7	45	MultiE
+9	tipo	tipo	NCMS000	C0011860_3	trastorno_3	227-231	112_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	4551	Modif
+10	2	2	Z	C0011860_4	trastorno_4	232-233	112_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	9	43	MultiE
+11	por	por	SPS00	C0678226	atributo	234-237	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	lo	el	DA0NS0	-	-	238-240	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	que	que	PR0CN000	-	-	241-244	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	sigue	seguir	VMIP3S0	-	-	245-250	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	251-262	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	263-266	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	glipizida	glipizida	NC00SC0	C0017642	sustancia	267-276	112_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+18	,	,	Fc	-	-	276-277	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	aspirina	aspirina	NCFS000	C0004057	sustancia	278-286	112_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+20	,	,	Fc	-	-	286-287	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	enalapril	enalapril	NC00SC0	C0014025	sustancia	288-297	112_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+22	y	y	CC	C1706368	calificador	298-299	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	atorvastatina	atorvastatina	NC00SC0	C0286651	producto#sustancia	300-313	112_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+24	.	.	Fp	-	-	313-314	112_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Fuma	fumar	VMIP3S0	-	-	315-319	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	20	20		-	-	320-322	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	cigarrillos	cigarrillo	NCMP000	-	-	323-334	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	al	al	SP+DA	-	-	335-337	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	día	día	NCMS000	C0439228#C0332169	calificador	338-341	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	y	y	CC	C1706368	calificador	342-343	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	lleva	llevar	VMIP3S0	-	-	344-349	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	350-353	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	vida	vida	NCFS000	-	-	354-358	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	sedentaria	sedentario	AQ0FS0	-	-	359-369	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	369-370	112_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	A	a	SPS00	-	-	371-372	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	373-375	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	376-387	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	se	se	P00CN000	-	-	388-390	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	detecta	detectar	VMIP3S0	-	-	391-398	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	399-402	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	403-410	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	411-419	112_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	420-422	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	150/80	150/80	Z	-	-	423-429	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	mm_de_Hg	mmHg	NCMN000	-	-	430-438	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	.	.	Fp	-	-	438-439	112_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	440-442	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	la	el	DA0FS0	-	-	443-445	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	446-455	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	456-463	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	464-467	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	hemoglobina	hemoglobina	NCFS000	C0019018_1	sustancia_1	468-479	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	A1C	hemoglobina_a1c	NC00YL0	C0019018_2	sustancia_2	480-483	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	484-486	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	8	8	Z	-	-	487-488	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	%	%	Ft	-	-	488-489	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	490-491	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	492-494	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	LDL	low-density_lipoprotein_(lipoproteína_de_baja_densidad)	NC00YL0	-	-	495-498	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	colesterol	colesterol	NCMS000	C0008377	sustancia	499-509	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	510-512	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	110	110	Z	-	-	513-516	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	mg	mg	NCMN000	-	-	517-519	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	/	/	Fh	-	-	519-520	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	dl	decilitro	NCMN000	C0439241	calificador	520-522	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	.	.	Fp	-	-	522-523	112_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

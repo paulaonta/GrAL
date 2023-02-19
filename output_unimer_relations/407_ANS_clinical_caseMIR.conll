@@ -1,0 +1,18 @@
+1	Enfermedad	enfermedad	NCFS000	C0024117_1	trastorno_1	0-10	407_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	pulmonar	pulmonar	NC00SC0	C0024117_2	trastorno_2	11-19	407_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	6171	LOC
+3	obstructiva	obstructivo	AQ0FS0	C0024117_3	trastorno_3	20-31	407_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	6171	Modif
+4	crónica	crónico	AQ0FS0	C0024117_4	trastorno_4	32-39	407_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	6171	Modif
+5	.	.	Fp	-	-	39-40	407_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Fibrosis	fibrosis	NCFN000	C0034069_1	trastorno_1	0-8	407_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	pulmonar	pulmonar	NC00SC0	C0034069_2	trastorno_2	9-17	407_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	6172	LOC
+3	.	.	Fp	-	-	17-18	407_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	0-15	407_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	pulmonar	pulmonar	NC00SC0	C2709248	calificador	16-24	407_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	6173	LOC
+3	.	.	Fp	-	-	24-25	407_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	407_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	neuromuscular	neuromuscular	AQ0CS0	-	-	11-24	407_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	6174	LOC
+3	.	.	Fp	-	-	24-25	407_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

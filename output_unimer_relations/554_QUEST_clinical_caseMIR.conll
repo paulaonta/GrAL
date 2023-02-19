@@ -1,0 +1,98 @@
+1	¿	¿	Fia	-	-	374-375	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	375-379	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	380-382	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	383-385	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	386-397	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	398-401	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	402-410	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	410-411	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	411-412	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	boliviana	boliviano	AQ0FS0	-	-	6-15	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	16-18	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	35	35		-	-	19-21	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	años	año	NCMP000	C0439234	calificador	22-26	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0001779_1	entidad_observable_1	27-29	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	edad	edad	NCFS000	C0001779_2	entidad_observable_2	30-34	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	,	,	Fc	-	-	34-35	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	embarazada	embarazar	VMP00SF	-	-	36-46	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	47-49	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	3	3		-	-	50-51	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	meses	mes	NCMP000	C0439231	calificador	52-57	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	,	,	Fc	-	-	57-58	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	que	que	PR0CN000	-	-	59-62	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	lleva	llevar	VMIP3S0	-	-	63-68	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	viviendo	vivir	VMG0000	-	-	69-77	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	10	10		-	-	78-80	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	años	año	NCMP000	C0439234	calificador	81-85	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	España	españa	NC00SC0	C0037747	localización_geográfica	89-95	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	con	con	SPS00	C0332287	atributo	96-99	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	su	su	DP3CS0	-	-	100-102	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	pareja	pareja	NCFS000	-	-	103-109	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	,	,	Fc	-	-	109-110	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	que	que	PR0CN000	-	-	111-114	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	es	ser	VSIP3S0	-	-	115-117	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	español	español	AQ0MS0	C0337817	grupo_étnico	118-125	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	y	y	CC	C1706368	calificador	126-127	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	no	no	RN	C1298908	calificador	128-130	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	ha	haber	VAIP3S0	-	-	131-133	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	viajado	viajar	VMP00SM	C0040802	entidad_observable	134-141	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	nunca	nunca	RG	-	-	142-147	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	a	a	SPS00	-	-	148-149	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	Latinoamérica	latinoamérica	AQ0FS00	-	-	150-163	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	.	.	Fp	-	-	163-164	554_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	165-167	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	168-173	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	tiene	tener	VMIP3S0	-	-	174-179	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	180-185	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	dos	dos		-	-	186-189	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	hijos	hijo	NCMP000	-	-	190-195	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	196-199	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	su	su	DP3CS0	-	-	200-202	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	pareja	pareja	NCFS000	-	-	203-209	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	209-210	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	nacidos	nacer	VMP00PM	-	-	211-218	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	219-221	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	España	españa	NC00SC0	C0037747	localización_geográfica	222-228	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	229-230	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	231-233	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	hermano	hermano	NCMS000	C0337527	persona	234-241	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	que	que	PR0CN000	-	-	242-245	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	vive	vivir	VMIP3S0	-	-	246-250	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	Bolivia	bolivia	NCFS000	-	-	254-261	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	262-263	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	otro	otro	PI0MS000	C0205394#C0449210	calificador#estructura_corporal	264-268	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	España	españa	NC00SC0	C0037747	localización_geográfica	272-278	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	.	.	Fp	-	-	278-279	554_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Durante	durante	SPS00	C1444752#C0347984	atributo	280-287	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	288-290	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	291-299	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	300-302	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	han	haber	VAIP3P0	-	-	303-306	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	diagnosticado	diagnosticar	VMP00SM	-	-	307-320	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	infección	infección	NCFS000	C0041234_1	trastorno_1	321-330	554_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	por	por	SPS00	C0041234_2	trastorno_2	331-334	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	Trypanosoma	Trypanosoma		C0041234_3	trastorno_3	335-346	554_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	7	1503	Causada_por
+10	cruzi	cruzi		C0041234_4	trastorno_4	347-352	554_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	9	43	MultiE
+11	.	.	Fp	-	-	352-353	554_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	354-355	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	355-359	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	360-362	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	las	el	DA0FP0	-	-	363-366	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	367-377	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	378-389	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	a	a	SPS00	-	-	390-391	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	realizar	realizar	VMN0000	-	-	392-400	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	sobre	sobre	SPS00	C1720294#C0205136	calificador	401-406	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	la	el	DA0FS0	-	-	407-409	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	410-420	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	es	ser	VSIP3S0	-	-	421-423	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	INCORRECTA	incorrecto	AQ0FS0	-	-	424-434	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	?	?	Fit	-	-	434-435	554_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

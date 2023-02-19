@@ -1,0 +1,68 @@
+1	Señale	señalar	VMM03S0	-	-	217-223	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	el	el	DA0MS0	-	-	224-226	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	227-238	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	más	más	RG	C0205172	calificador	239-242	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	243-251	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	:	:	Fd	-	-	251-252	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	Paciente	paciente	NCCS000	C0030705	persona	0-8	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	9-11	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	52	52		-	-	12-14	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	años	año	NCMP000	C0439234	calificador	15-19	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	que	que	PR0CN000	-	-	28-31	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	refiere	referir	VMIP3S0	-	-	32-39	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	40-46	197_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	47-49	197_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	1696	Modif
+17	medianos	mediano	AQ0MP0	C2939193#C0205098#C0444598#C0439536#C0549183	calificador	50-58	197_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	16	73	MultiE
+18	esfuerzos	esfuerzo	NCMP000	-	-	59-68	197_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	16	73	MultiE
+19	desde	desde	SPS00	-	-	69-74	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	hace	hacer	VMIP3S0	-	-	75-79	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	6	6		-	-	80-81	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	meses	mes	NCMP000	C0439231	calificador	82-87	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	.	.	Fp	-	-	87-88	197_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	89-91	197_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	ha	haber	VAIP3S0	-	-	92-94	197_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	presentado	presentar	VMP00SM	-	-	95-105	197_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	angina	angina	NCFS000	C0002962	trastorno	106-112	197_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+5	ni	ni	CC	-	-	113-115	197_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	sincopes	sincopar	VMSP2S0	-	-	116-124	197_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+7	.	.	Fp	-	-	124-125	197_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	126-128	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	129-140	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	141-147	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	148-149	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	las	el	DA0FP0	-	-	150-153	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	pruebas	prueba	NCFP000	-	-	154-161	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	162-174	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	demuestran	demostrar	VMIP3P0	-	-	175-185	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	la	el	DA0FS0	-	-	186-188	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	existencia	existencia	NCFS000	-	-	189-199	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	200-202	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	203-205	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	gradiente	gradiente	NCMS000	-	-	206-215	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	transvalvular	transvalvular	AQ0CS0	-	-	216-229	197_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+15	aórtico	aórtico	NC00SC0	C0003483	calificador	230-237	197_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	14	51	MultiE
+16	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	238-243	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	244-246	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	55	55	Z	-	-	247-249	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	mmHg	mmHg	NCMP000	-	-	250-254	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	255-256	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	un	un		C0205447_1	calificador_1	257-259	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	área	área	NCFS000	C0205146	calificador	260-264	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	calculada	calcular	VMP00SF	-	-	265-274	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	275-277	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	0,7	0.7	Z	-	-	278-281	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	cm2	cm2	NCMP000	-	-	282-285	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	.	.	Fp	-	-	285-286	197_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Fracción	fracción	NCFS000	C1264633_1	calificador_1	287-295	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C1264633_2	calificador_2	296-298	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	eyección	eyección	NCFS000	C0336969	calificador	299-307	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	del	del	SP+DA	-	-	308-311	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	65	65	Z	-	-	312-314	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	%	%	Ft	-	-	314-315	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	315-316	197_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

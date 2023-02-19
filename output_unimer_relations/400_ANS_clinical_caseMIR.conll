@@ -1,0 +1,26 @@
+1	Señale	señalar	VMM03S0	-	-	438-444	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	445-447	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	respuesta	respuesta	NCFS000	-	-	448-457	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	verdadera	verdadero	AQ0FS0	C0205238	calificador	458-467	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	:	:	Fd	-	-	467-468	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	Enfermedad	enfermedad	NCFS000	C0027721_1	trastorno_1	0-10	400_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0027721_2	trastorno_2	11-13	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	cambios	cambio	NCMP000	C0027721_3	trastorno_3	14-21	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mínimos	mínimo	NCMP000	C0027721_4	trastorno_4	22-29	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	.	.	Fp	-	-	29-30	400_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Glomeruloesclerosis	glomeruloesclerosis	NC00SC0	C0017668_1	trastorno_1	0-19	400_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	focal	focal	NC00SC0	C0017668_2	trastorno_2	20-25	400_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	3442	Modif
+3	y	y	CC	C1706368	calificador	26-27	400_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	segmentaria	segmentario	AQ0FS0	C0205122	calificador	28-39	400_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	39-40	400_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	400_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	membranosa	membranoso	AQ0FS0	C0205287	calificador	11-21	400_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	3443	Modif
+3	.	.	Fp	-	-	21-22	400_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	400_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	mesangial	mesangial	AQ0CS00	-	-	11-20	400_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	3444	Modif
+3	IgA	iga	NCFS000	-	-	21-24	400_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	3444	Modif
+4	.	.	Fp	-	-	24-25	400_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

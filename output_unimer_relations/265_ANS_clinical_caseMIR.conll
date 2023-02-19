@@ -1,0 +1,26 @@
+1	Helicobacter	helicobacter	NC00SC0	C0085508	-	0-12	265_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	pylori	pylori		-	-	13-19	265_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+3	.	.	Fp	-	-	19-20	265_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0042776	organismo	0-5	265_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	2	4354	LOC
+2	Herpes	herpes	NCMN000	C0019348_1	trastorno_1	6-12	265_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	1	4354	Modif
+3	Simple	simple	NCCS000	C0019348_2	trastorno_2	13-19	265_ANS_clinical_caseMIR	SENT2	B-Calificador	-	2	4354,1	Modif,4354
+4	tipo	tipo	NCMS000	C0441730_1	calificador_1	20-24	265_ANS_clinical_caseMIR	SENT2	B-Calificador	-	2	4354,1	Modif,4354
+5	2	2	Z	C0441730_2	calificador_2	25-26	265_ANS_clinical_caseMIR	SENT2	I-Calificador	-	4	23	MultiE
+6	.	.	Fp	-	-	26-27	265_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0042776	organismo	0-5	265_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	dcl	dcl	AQ0CS00	-	-	6-9	265_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	4355	LOC
+3	papiloma	papiloma	NCFS000	C1305769#C0030354	anomalía_morfológica	10-18	265_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	humano	humano	AQ0MS0	C0086418	organismo	19-25	265_ANS_clinical_caseMIR	SENT3	B-Calificador	-	3	4355	Modif
+5	.	.	Fp	-	-	25-26	265_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0042776	organismo	0-5	265_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	265_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	Epstein	epstein	NCMS000	-	-	9-16	265_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+4	Barr	barr	AQ0CS00	-	-	17-21	265_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+5	.	.	Fp	-	-	21-22	265_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Citomegalovirus	citomegalovirus	NCMS000	C0677047#C0010825#C0205725#C0206560	organismo#organismo_vivo	0-15	265_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	15-16	265_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

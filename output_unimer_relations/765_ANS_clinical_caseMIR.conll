@@ -1,0 +1,64 @@
+1	La	el	DA0FS0	-	-	0-2	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	3-14	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	15-21	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	revela	revelar	VMIP3S0	-	-	22-28	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	frecuentemente	frecuentemente	RG	C0332183	calificador	29-43	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	signos	signo	NCMP000	C0311392	hallazgo	44-50	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	51-53	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	malnutrición	malnutrición	NCFS000	-	-	54-66	765_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	67-68	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	69-71	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	soplo	soplo	NCMS000	C0221755_1	hallazgo_1	72-77	765_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	abdominal	abdominal	NC00SC0	C0221755_2	hallazgo_2	78-87	765_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	4342	LOC
+13	.	.	Fp	-	-	87-88	765_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	0-2	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	consiste	consistir	VMIP3S0	-	-	15-23	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tromboembolectomía	tromboembolectomía	NCFS000	-	-	27-45	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	46-49	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	sonda	sonda	NCFS000	C0182400	objeto_físico	50-55	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	56-58	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	Fogarty	fogarty	RG	-	-	59-66	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	66-67	765_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	ecografía	ecografía	NCFS000	C0554756#C0162481_1	procedimiento_1	3-12	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Doppler	Doppler		C0554756#C0162481_2	procedimiento_2	13-20	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	(	(	Fpa	-	-	21-22	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	duplex	duplex	AQ0CN00	-	-	22-28	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	)	)	Fpt	-	-	28-29	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	30-32	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	33-36	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	exploración	exploración	NCFS000	C1280903	procedimiento	37-48	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	no	no	RN	C1298908	calificador	49-51	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	invasiva	invasiva	AQ0FS00	-	-	52-60	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	útil	útil	AQ0CS0	-	-	61-65	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	para	para	SPS00	C0521125	calificador	66-70	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	el	el	DA0MS0	-	-	71-73	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	74-85	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	.	.	Fp	-	-	85-86	765_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	angioplastia	angioplastia	NC00SC0	C0162577#C2364034	procedimiento	3-15	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	16-19	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	stent	stent	NC00SC0	C0038257	objeto_físico	20-25	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	26-28	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	los	el	DA0MP0	-	-	29-32	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	troncos	tronco	NCMP000	C1280632#C0460005	estructura_corporal	33-40	765_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+8	viscerales	visceral	AQ0CP0	C0442045	calificador	41-51	765_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	7	45	MultiE
+9	es	ser	VSIP3S0	-	-	52-54	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	55-58	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	opción	opción	NCFS000	-	-	59-65	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	terapéutica	terapéutico	AQ0FS0	-	-	66-77	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	78-81	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	82-85	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	tasa	tasa	NCFS000	-	-	86-90	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	91-93	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	éxito	éxito	NCMS000	-	-	94-99	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	del	del	SP+DA	-	-	100-103	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	80	80	Z	-	-	104-106	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	%	%	Ft	-	-	107-108	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+21	.	.	Fp	-	-	108-109	765_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

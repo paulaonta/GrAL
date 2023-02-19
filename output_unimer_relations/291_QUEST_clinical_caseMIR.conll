@@ -1,0 +1,102 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	38	38		-	-	13-15	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	43-49	291_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	progresiva	progresivo	AQ0FS0	C0205329	calificador	50-60	291_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	5856	Modif
+12	y	y	CC	C1706368	calificador	61-62	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	tos	tos	NCFS000	C0850149_1	hallazgo_1	63-66	291_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	seca	seco	AQ0FS0	C0850149_2	hallazgo_2	67-71	291_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	5856	Modif
+15	de	de	SPS00	C0332285	atributo	72-74	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	75-78	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	semana	semana	NCFS000	C0439230	calificador	79-85	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	86-88	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	evolución	evolución	NCFS000	-	-	89-98	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	98-99	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	100-102	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tiene	tener	VMIP3S0	-	-	103-108	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	109-121	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332119_2	situación_2	122-124	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	interés	interés	NCMS000	-	-	125-132	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	.	.	Fp	-	-	132-133	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	134-137	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	constantes	constante	AQ0CP0	C0205361	calificador	138-148	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	vitales	vital	AQ0CP0	C0442732	calificador	149-156	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	son	ser	VSIP3P0	-	-	157-160	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	:	:	Fd	-	-	160-161	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	temperatura	temperatura	NCFS000	C0039476	atributo	162-173	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	37,8ºC	37,8ºC		-	-	174-180	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	,	,	Fc	-	-	180-181	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	182-189	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	190-198	291_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+11	110/70	110/70	Z	-	-	199-205	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	mmHg	mmHg	NCMP000	-	-	206-210	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	,	,	Fc	-	-	210-211	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	212-222	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	cardiaca	cardiaco	AQ0FS0	-	-	223-231	291_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+16	105	105		-	-	232-235	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	lpm	lpm	NC00YL0	-	-	236-239	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	y	y	CC	C1706368	calificador	240-241	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	242-252	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	253-265	291_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+21	30	30		-	-	266-268	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	rpm	r.p.m.	NCFN000	-	-	269-272	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	.	.	Fp	-	-	272-273	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	274-276	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	277-279	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	280-291	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	respiratoria	respiratorio	AQ0FS0	-	-	292-304	291_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+5	destaca	destacar	VMIP3S0	-	-	305-312	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	matidez	matidez	NCFS000	-	-	313-320	291_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	a	a	SPS00	-	-	321-322	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	la	el	DA0FS0	-	-	323-325	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	326-335	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	,	,	Fc	-	-	335-336	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	337-348	291_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+12	del	del	SP+DA	-	-	349-352	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	frémito	frémito	NCMS000	C0231891_1	hallazgo_1	353-360	291_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	19	5859	LOC
+14	táctil	táctil	NC00SC0	C0231891_2	hallazgo_2	361-367	291_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	13	5859,19	Modif,5859
+15	(	(	Fpa	-	-	368-369	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	vocal	vocal	NCCS000	C0205382	-	369-374	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	)	)	Fpt	-	-	374-375	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	y	y	CC	C1706368	calificador	376-377	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	378-389	291_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	13	5859	Modif
+20	de	de	SPS00	C0332285	atributo	390-392	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	los	el	DA0MP0	-	-	393-396	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	ruidos	ruido	NCMP000	C0035234_1	entidad_observable_1	397-403	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	respiratorios	respiratorio	AQ0MP0	C0035234_2	entidad_observable_2	404-417	291_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	418-420	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	la	el	DA0FS0	-	-	421-423	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	base	base	NCCS000	C1626935#C0178499	calificador#sustancia	424-428	291_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	19	5859	LOC
+27	del	del	SP+DA	-	-	429-432	291_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	26	242	MultiE
+28	hemitórax	hemitórax		C1284910#C0230127_1	estructura_corporal_1	433-442	291_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	26	242	MultiE
+29	derecho	derecho	NCMS000	C1284910#C0230127_2	estructura_corporal_2	443-450	291_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	26	242	MultiE
+30	.	.	Fp	-	-	450-451	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	452-454	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	resto	resto	NCMS000	-	-	455-460	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	461-463	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	la	el	DA0FS0	-	-	464-466	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	467-478	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	física	físico	NCFS000	C0031809_2	procedimiento_2	479-485	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	486-488	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	normal	normal	AQ0CS0	C0205307	calificador	489-495	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	.	.	Fp	-	-	495-496	291_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	497-498	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	498-502	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	503-505	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	el	el	DA0MS0	-	-	506-508	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	509-520	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	521-524	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	525-533	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	?	?	Fit	-	-	533-534	291_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

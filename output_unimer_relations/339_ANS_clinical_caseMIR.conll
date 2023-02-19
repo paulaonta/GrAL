@@ -1,0 +1,36 @@
+1	Síndrome	síndrome	NCMS000	C0948089_1	trastorno_1	0-8	339_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	coronario	coronario	AQ0MS0	C0948089_2	trastorno_2	9-18	339_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+3	agudo	agudo	NC00SC0	C0948089_3	trastorno_3	19-24	339_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	666	Modif
+4	Miopericarditís	miopericarditís	NCMS000	-	-	0-15	339_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	666	LOC
+5	aguda	agudo	AQ0FS0	C0205178	calificador	16-21	339_ANS_clinical_caseMIR	SENT1	B-Calificador	-	-	-	-
+6	Tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	0-15	339_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	pulmonar	pulmonar	NC00SC0	C2709248	calificador	16-24	339_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	666	LOC
+8	Disección	disección	NCFS000	C0340643#C0012736_1	trastorno_1	0-9	339_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	6	666	Modif
+9	aórtica	aórtico	AQ0FS0	C0340643#C0012736_2	trastorno_2	10-17	339_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	666,6	LOC,666
+10	aguda	agudo	AQ0FS0	C0205178	calificador	18-23	339_ANS_clinical_caseMIR	SENT1	B-Calificador	-	8	666,6,4,1	Modif,666,666,666
+11	Vasoespasmo	vasoespasmo	NC00SC0	C0085616	hallazgo	0-11	339_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	8	666	Modif
+12	coronario	coronario	AQ0MS0	-	-	12-21	339_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	666	LOC
+13	Fotocoagulación	fotocoagulación	NCFS000	C0023694	procedimiento	0-15	339_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	focal	focal	AQ0CS0	C0205234	calificador	16-21	339_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	22-25	339_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	láser	láser	NCMS000	C0023089	objeto_físico	26-31	339_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	.	.	Fp	-	-	31-32	339_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Terapia	terapia	NCFS000	C0031740_1	procedimiento_1	0-7	339_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	fotodinámica	fotodinámico	AQ0FS0	C0031740_2	procedimiento_2	8-20	339_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	.	.	Fp	-	-	20-21	339_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Invecciones	invecciones	NCFP000	-	-	0-11	339_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	intravitreas	intravitreas	NCFP000	-	-	12-24	339_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	668	Modif
+3	de	de	SPS00	C0332285	atributo	25-27	339_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	fármacos	fármaco	NCMP000	C0013227	sustancia	28-36	339_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	antiangiogénicos	antiangiogénicos	AQ0MP00	-	-	37-53	339_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-	4	23	MultiE
+6	.	.	Fp	-	-	53-54	339_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Vitrectomía	vitrectomía	NCFS000	C0042903	procedimiento	0-11	339_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	12-21	339_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	.	.	Fp	-	-	21-22	339_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Observación	observación	NCFS000	C0557985	procedimiento	0-11	339_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	.	.	Fp	-	-	11-12	339_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

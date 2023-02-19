@@ -1,0 +1,67 @@
+1	Recuento	recuento	NCMS000	-	-	0-8	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	inmunoglobinas	inmunoglobinas	NCFP000	-	-	12-26	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	séricas	sérico	AQ0FP0	-	-	27-34	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	35-36	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	test	test	NCMS000	-	-	37-41	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	42-44	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	capacidad	capacidad	NCFS000	C0086035	hallazgo	45-54	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	55-57	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	producción	producción	NCFS000	-	-	58-68	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	69-71	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	72-83	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	.	.	Fp	-	-	83-84	356_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Test	test	NCMS000	-	-	0-4	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	fagocitosis	fagocitosis	NCFN000	C0031308	función	8-19	356_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	y	y	CC	C1706368	calificador	20-21	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	metabolismo	metabolismo	NCMS000	C0025519	función	22-33	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	oxidativo	oxidativo	AQ0MS0	-	-	34-43	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	44-46	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	los	el	DA0MP0	-	-	47-50	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	neutrófilos	neutrófilo	NCMP000	C0027950	célula	51-62	356_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+10	.	.	Fp	-	-	62-63	356_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Test	test	NCMS000	-	-	0-4	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	apoptosis	apoptosis	NCFN000	C0162638	anomalía_morfológica	8-17	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	(	(	Fpa	-	-	18-19	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	muerte	muerte	NCFS000	C0162638_1	anomalía_morfológica_1	19-25	356_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	celular	celular	AQ0CS0	C0162638_2	anomalía_morfológica_2	26-33	356_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	5	23	MultiE
+7	programada	programar	VMP00SF	C0162638_3	anomalía_morfológica_3	34-44	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	)	)	Fpt	-	-	44-45	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	los	el	DA0MP0	-	-	49-52	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	linfocitos	linfocito	NCMP000	C0024264	célula	53-63	356_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	5	2198	LOC
+12	circulantes	circulante	AQ0CP0	C0175630	calificador	64-75	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	del	del	SP+DA	-	-	76-79	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	80-88	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	.	.	Fp	-	-	88-89	356_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	del	del	SP+DA	-	-	8-11	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	repertorio	repertorio	NCMS000	C0451420	escala_de_evaluación	12-22	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	23-24	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	clonalidad	clonalidad	NCFS000	-	-	25-35	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	36-38	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	los	el	DA0MP0	-	-	39-42	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	linfocitosT	linfocitost	NCMS000	-	-	43-54	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	(	(	Fpa	-	-	55-56	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	alfa	alfa	NCFS000	C0439095	calificador	56-60	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	/	/	Fh	-	-	60-61	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	beta	beta	NCFS000	C0439096#C0330390	calificador#organismo	61-65	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	)	)	Fpt	-	-	65-66	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	66-67	356_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	este	este	DD0MS0	-	-	3-7	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	no	no	RN	C1298908	calificador	17-19	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	procedería	proceder	VMIC3S0	-	-	20-30	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	solicitar	solicitar	VMN0000	-	-	31-40	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	estudio	estudio	NCMS000	C0557651	medio_ambiente	41-48	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	inmunológico	inmunológico	AQ0MS0	C0205470	calificador	49-61	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	alguno	alguno	PI0MS000	C0205392	calificador	62-68	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	.	.	Fp	-	-	68-69	356_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

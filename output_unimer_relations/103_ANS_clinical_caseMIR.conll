@@ -1,0 +1,45 @@
+1	¿	¿	Fia	-	-	363-364	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	364-368	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	369-371	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	su	su	DP3CS0	-	-	372-374	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	375-386	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	387-389	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	sospecha	sospecha	NCFS000	C0750491	calificador	390-398	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	398-399	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	399-400	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Tomografia	tomografia	NCFS000	-	-	0-10	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	axial	axial	AQ0CS0	C0205131	calificador	11-16	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	computarizada	computarizada	VMP00SF	-	-	17-30	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	(	(	Fpa	-	-	31-32	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	TAC	tac	NC00YL0	C0040405	procedimiento	32-35	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	)	)	Fpt	-	-	35-36	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	del	del	SP+DA	-	-	37-40	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	41-48	103_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+18	.	.	Fp	-	-	48-49	103_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Creatinina	creatinina	NC00SC0	C0010294	sustancia	0-10	103_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	11-13	103_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	sangre	sangre	NCFS000	C0005767	sustancia	14-20	103_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	.	.	Fp	-	-	20-21	103_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Niveles	nivel	NCMP000	C0456079	atributo	0-7	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	amilasa	amilasa	NCFS000	C0002712#C1442866	producto#función_biológica#sustancia	11-18	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	19-20	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	lipasa	lipasa	NCFS000	C0023764	sustancia	21-27	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	28-30	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	sangre	sangre	NCFS000	C0005767	sustancia	31-37	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	37-38	103_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Hematocrito	hematocrito	RG	-	-	0-11	103_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	.	.	Fp	-	-	11-12	103_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Nitrógeno	nitrógeno	NCMS000	C0600137_1	sustancia_1	0-9	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	ureico	ureico		C0600137_2	sustancia_2	10-16	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	en	en	SPS00	C0600137_3	sustancia_3	17-19	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	sangre	sangre	NCFS000	C0600137_4	sustancia_4	20-26	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	(	(	Fpa	-	-	27-28	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	BUN	blood_urea_nitrogen_(nitrógeno_ureico_en_sangre)	NC00YL0	-	-	28-31	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	)	)	Fpt	-	-	31-32	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	.	.	Fp	-	-	32-33	103_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

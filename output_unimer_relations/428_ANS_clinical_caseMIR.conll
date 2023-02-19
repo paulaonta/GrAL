@@ -1,0 +1,51 @@
+1	Practicar	practicar	VMN0000	-	-	0-9	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	infiltración	infiltración	NCFS000	C0702249#C0332448	procedimiento#anomalía_morfológica	10-22	428_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+3	intrarticular	intrarticular	NC00SC0	C0442108	calificador	23-36	428_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	2	3295	LOC
+4	con	con	SPS00	C0332287	atributo	37-40	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	triamcinolona	triamcinolona	NC00SC0	C0040864	sustancia	41-54	428_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	55-57	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	la	el	DA0FS0	-	-	58-60	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	articulación	articulación	NCFS000	C1269611#C0022417#C0234830	estructura_corporal#función	61-73	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	afecta	afectar	VMIP3S0	-	-	74-80	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	.	.	Fp	-	-	80-81	428_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Iniciar	iniciar	VMN0000	-	-	0-7	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C0150218_1	régimen/tratamiento_1	8-19	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ambulatorio	ambulatorio	NCMS000	C0150218_2	régimen/tratamiento_2	20-31	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	32-35	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	amoxicilina	amoxicilina	NC00SC0	C0002645#C0521900	sustancia	36-47	428_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+6	más	más	RG	C0205172	calificador	48-51	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	ácido	ácido	NCMS000	C0110038#C0055860_1	sustancia#producto_1	52-57	428_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	clavulánico	clavulánico		C0110038#C0055860_2	sustancia#producto_2	58-69	428_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	7	45	MultiE
+9	y	y	CC	C1706368	calificador	70-71	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	valorar	valorar	VMN0000	-	-	72-79	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	la	el	DA0FS0	-	-	80-82	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	respuesta	respuesta	NCFS000	-	-	83-92	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	93-95	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	96-99	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	semana	semana	NCFS000	C0439230	calificador	100-106	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	106-107	428_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Indicar	indicar	VMN0000	-	-	0-7	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	ingreso	ingreso	NCMS000	-	-	8-15	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	16-17	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	18-29	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	30-41	428_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+6	parenteral	parenteral	NCCS000	-	-	42-52	428_ANS_clinical_caseMIR	SENT3	I-Grp_Medicamento	-	5	23	MultiE
+7	inmediato	inmediato	AQ0MS0	C0205253	calificador	53-62	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	hasta	hasta	SPS00	-	-	63-68	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	69-78	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	del	del	SP+DA	-	-	79-82	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	cultivo	cultivo	NCMS000	-	-	83-90	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	.	.	Fp	-	-	90-91	428_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	corticoides	corticoide	NCMP000	-	-	16-27	428_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	a	a	SPS00	-	-	28-29	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	dosis	dosis	NCFN000	-	-	30-35	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	bajas	bajo	AQ0FP0	C0205251	calificador	36-41	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	42-43	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	alopurinol	alopurinol	NC00SC0	C0002144	sustancia	44-54	428_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+9	.	.	Fp	-	-	54-55	428_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,24 @@
+1	Infección	infección	NCFS000	C0206750_1	trastorno_1	0-9	222_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0206750_2	trastorno_2	10-13	222_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	Coronavirus	coronavirus	NC00SC0	C0206750_3	trastorno_3	14-25	222_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	3052	Causada_por
+4	.	.	Fp	-	-	25-26	222_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Coriomeningitis	coriomeningitis	NCFN000	-	-	0-15	222_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	linfocitaria	linfocitario	AQ0FS0	-	-	16-28	222_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	3053	Modif
+3	.	.	Fp	-	-	28-29	222_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Dengue	dengue	NCMS000	C0011311	trastorno	0-6	222_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	6-7	222_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Infección	infección	NCFS000	C0009450	trastorno	0-9	222_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	10-13	222_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	virus	virus	NCMN000	C0008056_1	organismo_1	14-19	222_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	1	3055	Causada_por
+4	Chikungunya	Chikungunya		C0008056_2	organismo_2	20-31	222_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	3	30	MultiE
+5	.	.	Fp	-	-	31-32	222_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Encefalitis	encefalitis	NCFN000	C0014038	trastorno	0-11	222_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	222_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	Saint	saint	NCMS000	-	-	15-20	222_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	Louis	louis	NCFN000	-	-	21-26	222_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	.	.	Fp	-	-	26-27	222_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

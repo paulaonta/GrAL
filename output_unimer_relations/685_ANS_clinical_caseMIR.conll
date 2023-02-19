@@ -1,0 +1,71 @@
+1	¿	¿	Fia	-	-	349-350	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	350-354	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	355-357	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	358-361	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	362-372	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	pruebas	prueba	NCFP000	-	-	373-380	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	aportaría	aportar	VMIC3S0	-	-	381-390	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	información	información	NCFS000	-	-	391-402	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	más	más	RG	C0205172	calificador	403-406	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	relevante	relevante	AQ0CS0	-	-	407-416	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	para	para	SPS00	C0521125	calificador	417-421	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	el	el	DA0MS0	-	-	422-424	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	manejo	manejo	NCMS000	C1273870	procedimiento	425-431	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	432-434	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	este	este	DD0MS0	-	-	435-439	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	caso	caso	NCMS000	C0868928	calificador	440-444	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	?	?	Fit	-	-	444-445	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	:	:	Fd	-	-	445-446	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	Iniciar	iniciar	VMN0000	-	-	0-7	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ventilación	ventilación	NCFS000	C0199470#C0554804_1	procedimiento_1	8-19	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	mecánica	mecánico	NCFS000	C0199470#C0554804_2	procedimiento_2	20-28	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	no	no	RN	C1298908	calificador	29-31	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	invasiva	invasiva	AQ0FS00	-	-	32-40	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	40-41	685_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Proceder	proceder	VMN0000	-	-	0-8	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	9-10	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	11-13	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	14-24	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	25-36	685_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	e	y	CC	C1706368	calificador	37-38	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	iniciar	iniciar	VMN0000	-	-	39-46	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	ventilación	ventilación	NCFS000	C0199470#C0554804_1	procedimiento_1	47-58	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	mecánica	mecánico	NCFS000	C0199470#C0554804_2	procedimiento_2	59-67	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	67-68	685_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Incrementar	incrementar	VMN0000	-	-	0-11	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	12-14	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	oxigenoterapia	oxigenoterapia	NCFS000	C0184633	procedimiento	15-29	685_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	hasta	hasta	SPS00	-	-	30-35	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	obtener	obtener	VMN0000	-	-	36-43	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	44-47	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	SatO2	SatO2		-	-	48-53	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	54-56	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	al	al	SP+DA	-	-	57-59	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	menos	menos	RG	C0332288	atributo	60-65	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	99	99	Z	-	-	66-68	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	%	%	Ft	-	-	68-69	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	.	.	Fp	-	-	69-70	685_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Combinar	combinar	VMN0000	-	-	0-8	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	benzodiacepinas	benzodiacepina	NCFP000	C0005064	sustancia	9-24	685_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	25-28	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	altos	alto	AQ0MP0	C0205250	calificador	29-34	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	flujos	flujo	NCMP000	-	-	35-41	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	42-44	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	oxígeno	oxígeno	NCMS000	C0030054	sustancia	45-52	685_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	53-57	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	asegurar	asegurar	VMN0000	-	-	58-66	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	67-70	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	71-82	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	83-85	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	la	el	DA0FS0	-	-	86-88	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	taquipnea	taquipnea	NCFS000	C0231835	hallazgo	89-98	685_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+15	y	y	CC	C1706368	calificador	99-100	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	mejorar	mejorar	VMN0000	-	-	101-108	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	el	el	DA0MS0	-	-	109-111	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	patrón	patrón	NCMS000	C0449774	atributo	112-118	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	ventilatorio	ventilatorio	AQ0MS00	-	-	119-131	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	.	.	Fp	-	-	131-132	685_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

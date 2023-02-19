@@ -1,0 +1,95 @@
+1	Antes	antes	RG	C0332152	atributo	0-5	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	plantear	plantear	VMN0000	-	-	9-17	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	18-20	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	21-32	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	33-35	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	importante	importante	AQ0CS0	-	-	36-46	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	practicar	practicar	VMN0000	-	-	47-56	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	57-59	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	cateterismo	cateterismo	NCMS000	C0007430	procedimiento	60-71	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	del	del	SP+DA	-	-	72-75	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	lado	lado	NCMS000	C1284305#C0225809_1	estructura_corporal_1	76-80	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	izquierdo	izquierdo	NC00SC0	C1284305#C0225809_2	estructura_corporal_2	81-90	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	del	del	SP+DA	C1284305#C0225809_3	estructura_corporal_3	91-94	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	corazón	corazón	NCMS000	C1284305#C0225809_4	estructura_corporal_4	95-102	8_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+16	y	y	CC	C1706368	calificador	103-104	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	105-107	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	las	el	DA0FP0	-	-	108-111	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	arterias	arteria	NCFP000	C1285085#C0003842	estructura_corporal	112-120	8_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+20	coronarias	coronario	AQ0FP0	-	-	121-131	8_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	19	106	MultiE
+21	.	.	Fp	-	-	131-132	8_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	0-2	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	pronóstico	pronóstico	NCMS000	C0033325	procedimiento	3-13	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	vida	vida	NCFS000	-	-	17-21	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	22-24	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	este	este	DD0MS0	-	-	25-29	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	30-38	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	sin	sin	SPS00	C0332288	atributo	39-42	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	43-49	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	50-61	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	es	ser	VSIP3S0	-	-	62-64	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	entre	entre	SPS00	C0205103	calificador	65-70	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	2	2		-	-	71-72	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	73-74	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	3	3		-	-	75-76	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	años	año	NCMP000	C0439234	calificador	77-81	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	desde	desde	SPS00	-	-	82-87	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	el	el	DA0MS0	-	-	88-90	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+19	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	91-98	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+20	del	del	SP+DA	-	-	99-102	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+21	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	103-114	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	114-115	8_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	recomendar	recomendar	VMN0000	-	-	8-18	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	al	al	SP+DA	-	-	19-21	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	22-30	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	evitar	evitar	VMN0000	-	-	31-37	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	el	el	DA0MS0	-	-	38-40	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	ejercicio	ejercicio	NCMS000	C0522008_1	hallazgo_1	41-50	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	físico	físico	NCMS000	C0522008_2	hallazgo_2	51-57	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	excesivo	excesivo	NC00SC0	C0522008_3	hallazgo_3	58-66	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	66-67	8_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	este	este	DD0MS0	-	-	3-7	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	no	no	RN	C1298908	calificador	17-19	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	20-22	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	posible	posible	AQ0CS0	C0332149#C2362652	calificador	23-30	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	el	el	DA0MS0	-	-	31-33	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	34-45	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	46-56	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	57-60	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	el	el	DA0MS0	-	-	61-63	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	elevado	elevar	VMP00SM	-	-	64-71	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	72-78	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0035647_2	calificador_2	79-81	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	complicaciones	complicación	NCFP000	C0009566#C2362589	trastorno#atributo	82-96	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	97-98	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	mortalidad	mortalidad	NCFS000	-	-	99-109	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	al	al	SP+DA	-	-	110-112	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	ser	ser	VSN0000	-	-	113-116	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	117-119	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+21	paciente	paciente	AQ0CS0	C0030705	persona	120-128	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+22	de	de	SPS00	C0001779_1	entidad_observable_1	129-131	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+23	edad	edad	NCFS000	C0001779_2	entidad_observable_2	132-136	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+24	avanzada	avanzar	VMP00SF	-	-	137-145	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+25	.	.	Fp	-	-	145-146	8_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Antes	antes	RG	C0332152	atributo	0-5	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	plantear	plantear	VMN0000	-	-	9-17	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	18-20	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	21-32	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	33-35	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	importante	importante	AQ0CS0	-	-	36-46	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	practicar	practicar	VMN0000	-	-	47-56	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	57-59	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	ecocardiograma	ecocardiograma	NCMS000	-	-	60-74	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	.	.	Fp	-	-	74-75	8_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

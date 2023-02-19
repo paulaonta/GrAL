@@ -1,0 +1,105 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	69	69		-	-	9-11	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	34-47	361_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	hemoptoica	hemoptoica	AQ0FS00	-	-	48-58	361_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	1221	Modif
+10	.	.	Fp	-	-	58-59	361_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	los	el	DA0MP0	-	-	63-66	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	dos	dos		-	-	67-70	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	meses	mes	NCMP000	C0439231	calificador	71-76	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	previos	previo	AQ0MP0	C0205156	calificador	77-84	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	presentaba	presentar	VMII3S0	-	-	85-95	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	febrícula	febrícula	NCFS000	-	-	96-105	361_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	105-106	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	107-114	361_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	,	,	Fc	-	-	114-115	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	anorexia	anorexia	NCFS000	C1971624	hallazgo	116-124	361_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	y	y	CC	C1706368	calificador	125-126	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	127-134	361_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	135-137	361_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	13	1222	Modif
+15	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	138-142	361_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	14	51	MultiE
+16	no	no	RN	C1298908	calificador	143-145	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	cuantificada	cuantificar	VMP00SF	-	-	146-158	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	158-159	361_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	160-162	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	163-165	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	análisis	análisis	NCMN000	C0002778	calificador	166-174	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	citológico	citológico	AQ0MS0	C0205471	calificador	175-185	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	186-188	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	esputo	esputo	NCMS000	C0038056	sustancia	189-195	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	se	se	P00CN000	-	-	196-198	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	observaron	observar	VMIS3P0	-	-	199-209	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	hemosiderófagos	hemosiderófagos	NCMP000	-	-	210-225	361_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+10	y	y	CC	C1706368	calificador	226-227	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	228-230	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	la	el	DA0FS0	-	-	231-233	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	234-245	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	de	de	SPS00	C0039985_2	procedimiento_2	246-248	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	249-254	361_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	16	1223	LOC
+16	infiltrados	infiltrar	VMP00PM	-	-	255-266	361_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+17	alveolares	alveolar	NCFP000	-	-	267-277	361_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	16	1223	LOC
+18	bilaterales	bilateral	AQ0CP0	C0238767	calificador	278-289	361_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	17	7	MultiE
+19	.	.	Fp	-	-	289-290	361_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Analíticamente	analíticamente	RG	-	-	291-305	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	destacaba	destacar	VMII3S0	-	-	306-315	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	:	:	Fd	-	-	315-316	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	Hb	hb	NC00YL0	-	-	317-319	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	8.2gr/dL	8.2gr/dL		-	-	320-328	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	,	,	Fc	-	-	328-329	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	PO2	PO2		-	-	330-333	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	:	:	Fd	-	-	333-334	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	58mmHg	58mmHg		-	-	335-341	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	,	,	Fc	-	-	341-342	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	creatinina	creatinina	NC00SC0	C0010294	sustancia	343-353	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	:	:	Fd	-	-	353-354	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	5mg/dL	5mg/dL		-	-	355-361	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	,	,	Fc	-	-	361-362	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	orina	orinar	VMIP3S0	-	-	363-368	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	:	:	Fd	-	-	368-369	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	370-381	361_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+18	+	+	Fz	-	-	382-383	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	+	+	Fz	-	-	383-384	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	+	+	Fz	-	-	384-385	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	microhematuria	microhematuria	NC00SC0	C0239937	trastorno	386-400	361_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+22	,	,	Fc	-	-	400-401	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	cilindros	cilindro	NCMP000	C0302143	anomalía_morfológica	402-411	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	,	,	Fc	-	-	411-412	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	hemáticos	hemático	AQ0MP0	-	-	413-422	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	.	.	Fp	-	-	422-423	361_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	ANCAp	ancapítulo	NCMS000	-	-	424-429	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	(	(	Fpa	-	-	430-431	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	431-442	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	contra	contra	SPS00	C0521124	calificador	443-449	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	el	el	DA0MS0	-	-	450-452	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	citoplasma	citoplasma	NCMS000	C1383501#C0010834#C0175996	estructura_corporal	453-463	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	464-466	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	los	el	DA0MP0	-	-	467-470	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	neutrófilos	neutrófilo	NCMP000	C0027950	célula	471-482	361_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+10	perinuclear	perinuclear	AQ0CS0	-	-	483-494	361_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	9	43	MultiE
+11	)	)	Fpt	-	-	494-495	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	:	:	Fd	-	-	495-496	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	positivos	positivo	AQ0MP0	C1446409	calificador	497-506	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	:	:	Fd	-	-	506-507	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	508-519	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	antimembrana	antimembrana	AQ0CN00	-	-	520-532	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	basal	basal	NC00SC0	C0205112	calificador	533-538	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	glomerular	glomerular	AQ0CS0	-	-	539-549	361_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+19	:	:	Fd	-	-	549-550	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	negativos	negativo	AQ0MP0	C0205160#C0549184	calificador	551-560	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	.	.	Fp	-	-	560-561	361_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	562-573	361_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	antinucleares	antinuclear	AQ0CP0	-	-	574-587	361_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	:	:	Fd	-	-	587-588	361_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	negativos	negativo	AQ0MP0	C0205160#C0549184	calificador	589-598	361_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	.	.	Fp	-	-	598-599	361_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

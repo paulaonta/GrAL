@@ -1,0 +1,76 @@
+1	Dado	dar	VMP00SM	C1947971	calificador	0-4	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	que	que	PR0CN000	-	-	5-8	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	se	se	P00CN000	-	-	9-11	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	halla	hallar	VMIP3S0	-	-	12-17	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	asintomática	asintomático	AQ0FS0	-	-	18-30	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	se	se	P00CN000	-	-	31-33	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	34-42	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	control	control	NCMS000	C2587213	atributo	43-50	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	semestral	semestral	AQ0CS0	C0585339	calificador	51-60	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	61-64	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	65-67	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	seriadas	seriar	VMP00PF	-	-	68-76	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	77-79	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	dicha	decir	VMP00SF	-	-	80-85	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	86-92	362_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	.	.	Fp	-	-	92-93	362_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	0-2	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	prioritario	prioritario	AQ0MS0	-	-	3-14	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	15-17	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	búsqueda	búsqueda	NCFS000	-	-	18-26	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	27-29	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	30-32	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	posible	posible	AQ0CS0	C0332149#C2362652	calificador	33-40	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	carcinoma	carcinoma	NCMS000	C0206693_1	anomalía_morfológica_1	41-50	362_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+9	medular	medular	AQ0CS0	C0206693_2	anomalía_morfológica_2	51-58	362_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	2601	LOC
+10	de	de	SPS00	C0332285	atributo	59-61	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	tiroides	tiroides	NCFN000	-	-	62-70	362_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	2601	LOC
+12	.	.	Fp	-	-	70-71	362_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	sospechar	sospechar	VMN0000	-	-	5-14	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	se	se	PP3CN000	-	-	14-16	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	17-19	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	síndrome	síndrome	NCMS000	C0001622#C0010481_1	trastorno_1	20-28	362_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	de	de	SPS00	C0001622#C0010481_2	trastorno_2	29-31	362_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	5	23	MultiE
+7	Cushing	Cushing		C0001622#C0010481_3	trastorno_3	32-39	362_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	5	23	MultiE
+8	pre-clínico	pre-clínico	AQ0MS00	-	-	40-51	362_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	2602	Modif
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	el	el	DA0MS0	-	-	55-57	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	contexto	contexto	NCMS000	C0449255	atributo	58-66	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	67-69	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	70-73	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	neoplasia	neoplasia	NCFS000	C0027662#C0311355_1	trastorno_1	74-83	362_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	5	2602	Causada_por
+15	endocrina	endocrino	AQ0FS0	C0027662#C0311355_2	trastorno_2	84-93	362_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	14	2602	LOC
+16	múltiple	múltiple	NC00SC0	C0027662#C0311355_3	trastorno_3	94-102	362_ANS_clinical_caseMIR	SENT3	B-Calificador	-	14	2602	Modif
+17	.	.	Fp	-	-	102-103	362_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Deberá	deber	VMIF3S0	-	-	0-6	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	practicar	practicar	VMN0000	-	-	7-16	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	PP3CN000	-	-	16-18	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	punción-aspiración	punción-aspiración	NCFS000	-	-	19-37	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	38-40	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	dicha	decir	VMP00SF	-	-	41-46	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	47-53	362_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	54-58	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	elucidar	elucidar	VMN0000	-	-	59-67	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	la	el	DA0FS0	-	-	68-70	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	naturaleza	naturaleza	NCFS000	C1262865	calificador#atributo	71-81	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	82-84	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	dicha	decir	VMP00SF	-	-	85-90	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	91-97	362_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	97-98	362_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	deberá	deber	VMIF3S0	-	-	3-9	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	determinar	determinar	VMN0000	-	-	10-20	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	catecolaminas	catecolaminas	NCFP000	-	-	21-34	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	35-37	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	orina	orina	NCFS000	C0042036	sustancia	38-43	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	44-48	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	descartar	descartar	VMN0000	C0332196	calificador	49-58	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	59-61	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	feocromocitoma	feocromocitoma	NC00SC0	C0031511	anomalía_morfológica#trastorno	62-76	362_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion	-	-	-
+11	.	.	Fp	-	-	76-77	362_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

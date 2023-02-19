@@ -1,0 +1,60 @@
+1	Según	según	SPS00	-	-	146-151	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	152-154	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	clasificación	clasificación	NCFS000	C0008902	atributo	155-168	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	169-171	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	enfermedad	enfermedad	NCFS000	C0403447_1	trastorno_1	172-182	728_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	renal	renal	AQ0CS0	C0403447_2	trastorno_2	183-188	728_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	5	3045	LOC
+7	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	189-196	728_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	5	3045	Modif
+8	KDIGO	kdigo	VMIP1S0	-	-	197-202	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	2012	2012		-	-	203-207	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	corresponde	corresponder	VMIP3S0	-	-	208-219	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	a	a	SPS00	-	-	220-221	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	la	el	DA0FS0	-	-	222-224	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	categoría	categoría	NCFS000	-	-	225-234	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	:	:	Fd	-	-	234-235	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	7-9	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	60	60		-	-	10-12	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	años	año	NCMP000	C0439234	calificador	13-17	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	con	con	SPS00	C0332287	atributo	18-21	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	22-24	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	cuadro	cuadro	NCMS000	-	-	25-31	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	32-34	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	35-40	728_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	41-50	728_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+25	y	y	CC	C1706368	calificador	51-52	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	sangrado	sangrado	NCMS000	C0019080	hallazgo#anomalía_morfológica	53-61	728_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	digestivo	digestivo	AQ0MS0	C0012237	sustancia	62-71	728_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	26	3045	LOC
+28	alto	alto	AQ0MS0	C0205250	calificador	72-76	728_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	26	3045	Modif
+29	,	,	Fc	-	-	76-77	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	en	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	quien	quien	PR0CS000	-	-	81-86	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	se	se	P00CN000	-	-	87-89	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	encuentra	encontrar	VMIP3S0	-	-	90-99	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	una	una		C0205447_1	calificador_1	100-103	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	tumoración	tumoración	NCFS000	C0000734_1	hallazgo_1	104-114	728_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+36	abdominal	abdominal	NC00SC0	C0000734_2	hallazgo_2	115-124	728_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	35	3045,23	LOC,3045
+37	relacionada	relacionar	VMP00SF	-	-	125-136	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	con	con	SPS00	C0332287	atributo	137-140	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	la	el	DA0FS0	-	-	141-143	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	pared	pared	NCFS000	C0227224_1	estructura_corporal_1	144-149	728_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	35	3045	LOC
+41	gástrica	gástrico	AQ0FS0	C0227224_2	estructura_corporal_2	150-158	728_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	40	131	MultiE
+42	.	.	Fp	-	-	158-159	728_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	160-162	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	histología	histología	NCFS000	-	-	163-173	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	174-181	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	182-184	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	185-190	728_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	191-193	728_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	5	3046	Modif
+7	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	194-201	728_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	6	15	MultiE
+8	fusiformes	fusiforme	AQ0CP0	C0332493	calificador	202-212	728_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	6	15	MultiE
+9	con	con	SPS00	C0332287	atributo	213-216	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	escasas	escaso	AQ0FP0	C0443295#C0205169	calificador	217-224	728_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	-	-	-
+11	mitosis	mitosis	NCFN000	C0026255	función	225-232	728_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	10	97	MultiE
+12	,	,	Fc	-	-	232-233	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	positivas	positivo	AQ0FP0	C1446409	calificador	234-243	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	para	para	SPS00	C0521125	calificador	244-248	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	CD117	CD117		-	-	249-254	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	254-255	728_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

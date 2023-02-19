@@ -1,0 +1,35 @@
+1	Acude	acudir	VMIP3S0	-	-	0-5	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	6-8	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	9-17	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	diagnosticado	diagnosticar	VMP00SM	-	-	18-31	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	32-34	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	esclerosis	esclerosis	NCFN000	C0026769_1	trastorno_1	35-45	652_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	múltiple	múltiple	NC00SC0	C0026769_2	trastorno_2	46-54	652_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	2908	Modif
+8	a	a	SPS00	-	-	55-56	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	urgencias	urgencia	NCFP000	C0439609	calificador	57-66	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	67-70	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	71-73	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	74-82	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332189#C1455761_2	atributo_2	83-85	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	ataxia	ataxia	NCFS000	C0004134	hallazgo	86-92	652_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	brusca	brusco	AQ0FS0	C0443162	calificador	93-99	652_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	14	2908	Modif
+16	limitante	limitante	AQ0CS0	-	-	100-109	652_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	14	2908	Modif
+17	desde	desde	SPS00	-	-	110-115	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	hace	hacer	VMIP3S0	-	-	116-120	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	4	4	Z	-	-	121-122	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	días	d	NCMP000	-	-	123-127	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	127-128	652_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	129-130	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	130-134	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	debe	deber	VMIP3S0	-	-	135-139	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	ser	ser	VSN0000	-	-	140-143	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	la	el	DA0FS0	-	-	144-146	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	actitud	actitud	NCFS000	C0004271	entidad_observable	147-154	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	155-158	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	apropiada	apropiar	VMP00SF	-	-	159-168	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	desde	desde	SPS00	-	-	169-174	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	la	el	DA0FS0	-	-	175-177	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	urgencia	urgencia	NCFS000	C0439609	calificador	178-186	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	?	?	Fit	-	-	186-187	652_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

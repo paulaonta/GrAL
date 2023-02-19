@@ -1,0 +1,44 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	43	43		-	-	9-11	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	intervenida	intervenir	VMP00SF	-	-	17-28	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	hace	hacer	VMIP3S0	-	-	29-33	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	6	6		-	-	34-35	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	años	año	NCMP000	C0439234	calificador	36-40	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	41-43	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	obesidad	obesidad	NCFS000	C0028756_1	trastorno_1	44-52	391_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	mórbida	mórbido	AQ0FS0	C0028756_2	trastorno_2	53-60	391_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	1741	Modif
+12	mediante	mediante	SPS00	-	-	61-69	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	70-73	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	técnica	técnico	NCFS000	C0260280	ocupación	74-81	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	82-84	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	derivación	derivación	NCFS000	C1442858#C0542331	anomalía_morfológica#objeto_físico	85-95	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	biliopancreática	biliopancreática	AQ0FS00	-	-	96-112	391_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+18	.	.	Fp	-	-	112-113	391_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ha	haber	VAIP3S0	-	-	114-116	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	perdido	perder	VMP00SM	-	-	117-124	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	125-127	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	75	75	Z	-	-	128-130	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	%	%	Ft	-	-	130-131	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	del	del	SP+DA	-	-	132-135	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	exceso	exceso	NCMS000	-	-	136-142	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	143-145	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	peso	peso	NCMS000	C0043100	calificador	146-150	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	151-152	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	mantiene	mantener	VMIP3S0	-	-	153-161	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	162-165	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	dieta	dieta	NCFS000	C0012155	hallazgo	166-171	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	oral	oral	AQ0CS0	C0442027	calificador	172-176	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	177-179	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	1500	1500		-	-	180-184	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	Kcal	kilocaloría	NCFN000	C0439259	calificador	185-189	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	sin	sin	SPS00	C0332288	atributo	190-193	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	194-200	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	problema	problema	NCMS000	C0033213	hallazgo	201-209	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	210-212	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	su	su	DP3CS0	-	-	213-215	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	tolerancia	tolerancia	NCFS000	C0231197	entidad_observable	216-226	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	.	.	Fp	-	-	226-227	391_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

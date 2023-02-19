@@ -1,0 +1,55 @@
+1	Al	al	SP+DA	-	-	0-2	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	ser	ser	VSN0000	-	-	3-6	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	el	el	DA0MS0	-	-	7-9	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	primer	1	AO0MS0	C0439615_1	calificador_1	10-16	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	episodio	episodio	NCMS000	C0439615_2	calificador_2	17-25	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	lumbalgia	lumbalgia	NCFS000	C0024031	trastorno	29-38	755_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	38-39	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	únicamente	únicamente	RG	-	-	40-50	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	51-54	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	55-66	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	simple	simple	NCCS000	C1306645_2	procedimiento_2	67-73	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	74-76	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	columna	columna	NCFS000	C0024091#C1269871_1	estructura_corporal_1	77-84	755_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+15	lumbar	lumbar	NC00SC0	C0024091#C1269871_2	estructura_corporal_2	85-91	755_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	14	51	MultiE
+16	.	.	Fp	-	-	91-92	755_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	0-10	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	magnética	magnético	AQ0FS0	-	-	11-20	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	,	,	Fc	-	-	20-21	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	que	que	PR0CN000	-	-	22-25	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	aporta	aportar	VMIP3S0	-	-	26-32	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	33-36	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	información	información	NCFS000	-	-	37-48	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	sobre	sobre	SPS00	C1720294#C0205136	calificador	49-54	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	partes	partir	VMIP2S0	C0225317_1	estructura_corporal#concepto_para_navegación_1	55-61	755_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	13	1537	LOC
+10	blandas	blando	AQ0FP0	C0225317_2	estructura_corporal#concepto_para_navegación_2	62-69	755_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	9	43	MultiE
+11	y	y	CC	C1706368	calificador	70-71	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	posibles	posible	AQ0CP0	C0332149#C2362652	calificador	72-80	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	herniaciones	herniaciones	NCFP000	-	-	81-93	755_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	.	.	Fp	-	-	93-94	755_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	0-2	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	,	,	Fc	-	-	2-3	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	para	para	SPS00	C0521125	calificador	4-8	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	valorar	valorar	VMN0000	-	-	9-16	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	mejor	mejor	RG	C0332272	calificador	17-22	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	23-25	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	estructura	estructura	NCFS000	-	-	26-36	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	37-41	755_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+9	y	y	CC	C1706368	calificador	42-43	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	las	el	DA0FP0	-	-	44-47	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	posibles	posible	AQ0CP0	C0332149#C2362652	calificador	48-56	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	fracturas	fractura	NCFP000	C0016658	anomalía_morfológica	57-66	755_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	.	.	Fp	-	-	66-67	755_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	hay	haber	VMIP3S0	-	-	3-6	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	indicación	indicación	NCFS000	C0392360_1	calificador_1	7-17	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0392360_2	calificador_2	18-20	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	prueba	prueba	NCFS000	-	-	21-27	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	28-30	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	31-37	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	.	.	Fp	-	-	37-38	755_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

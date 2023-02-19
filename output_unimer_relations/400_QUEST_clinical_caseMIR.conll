@@ -1,0 +1,98 @@
+1	Señale	señalar	VMM03S0	-	-	503-509	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	el	el	DA0MS0	-	-	510-512	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	513-524	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	más	más	RG	C0205172	calificador	525-528	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	529-537	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	538-541	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	los	el	DA0MP0	-	-	542-545	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	datos	dato	NCMP000	-	-	546-551	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	disponibles	disponible	AQ0CP0	C0470187	calificador	552-563	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	hasta	hasta	SPS00	-	-	564-569	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	este	este	DD0MS0	-	-	570-574	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	575-582	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	:	:	Fd	-	-	582-583	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	Paciente	paciente	NCCS000	C0030705	persona	0-8	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	9-11	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	50	50		-	-	12-14	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	años	año	NCMP000	C0439234	calificador	15-19	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ingresado	ingresar	VMP00SM	-	-	28-37	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	para	para	SPS00	C0521125	calificador	38-42	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	estudio	estudio	NCMS000	C0557651	medio_ambiente	43-50	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	51-53	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	síndrome	síndrome	NCMS000	C0027726_1	trastorno_1	54-62	400_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	nefrótico	nefrótico		C0027726_2	trastorno_2	63-72	400_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	24	189	MultiE
+26	.	.	Fp	-	-	72-73	400_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	74-76	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	77-84	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	85-92	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	93-98	400_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	99-102	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	los	el	DA0MP0	-	-	103-106	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	107-117	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	118-127	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	:	:	Fd	-	-	127-128	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	engrosamiento	engrosamiento	NCMS000	C0205400	hallazgo	129-142	400_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	uniforme	uniforme	AQ0CS0	C0205375	calificador	143-151	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	152-153	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	difuso	difuso	AQ0MS0	C0205219	calificador	154-160	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	161-163	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	la	el	DA0FS0	-	-	164-166	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	pared	pared	NCFS000	-	-	167-172	400_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	10	3646	LOC
+17	de	de	SPS00	C0332285	atributo	173-175	400_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	16	73	MultiE
+18	los	el	DA0MP0	-	-	176-179	400_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	16	73	MultiE
+19	capilares	capilar	NCMP000	C0226356_1	estructura_corporal_1	180-189	400_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	16	73	MultiE
+20	glomerulares	glomerular	AQ0CP0	C0226356_2	estructura_corporal_2	190-202	400_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	16	73	MultiE
+21	.	.	Fp	-	-	202-203	400_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Con	con	SPS00	C0332287	atributo	204-207	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	208-210	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tinción	tinción	NCFS000	C0038128#C0013343	sustancia	211-218	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	219-221	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	plata	plata	NCFS000	C0037125	sustancia	222-227	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	se	se	P00CN000	-	-	228-230	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	observan	observar	VMIP3P0	-	-	231-239	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	espiculas	espiculas	NCFP000	-	-	240-249	400_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	(	(	Fpa	-	-	250-251	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	spikes	spikes	NCMP000	-	-	251-257	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	)	)	Fpt	-	-	257-258	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	259-260	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	la	el	DA0FS0	-	-	261-263	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	inmunofluorescencia	inmunofluorescencia	NCFS000	C0079603	procedimiento	264-283	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	muestra	mostrar	VMIP3S0	-	-	284-291	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	depósitos	depósito	NCMP000	C0442627#C0333562	medio_ambiente#anomalía_morfológica	292-301	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	302-304	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	IgG	igg	NCMS000	-	-	305-308	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	y	y	CC	C1706368	calificador	309-310	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	C3	C3		-	-	311-313	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	a	a	SPS00	-	-	314-315	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	lo	lo	PP3CNA00	-	-	316-318	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	largo	largo	AQ0MS0	C0205166#C0392744	calificador	319-324	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	325-327	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	la	el	DA0FS0	-	-	328-330	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	pared	pared	NCFS000	-	-	331-336	400_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+27	capilar	capilar	AQ0CS0	C1280521#C0006901	estructura_corporal	337-344	400_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	26	242	MultiE
+28	.	.	Fp	-	-	344-345	400_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	346-348	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	349-354	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	se	se	P00CN000	-	-	355-357	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	detectan	detectar	VMIP3P0	-	-	358-366	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	autoanticuerpos	autoanticuerpo	NCMP000	C0004358	sustancia	367-382	400_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+6	circulantes	circulante	AQ0CP0	C0175630	calificador	383-394	400_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	5	23	MultiE
+7	contra	contra	SPS00	C0521124	calificador	395-401	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	el	el	DA0MS0	-	-	402-404	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	receptor	receptor	NCMS000	C0597357	sustancia	405-413	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	tipo	tipo	NCMS000	C0332307	calificador#atributo	414-418	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	M	m	NCFS000	-	-	419-420	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	421-423	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	la	el	DA0FS0	-	-	424-426	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	fosfolipasa	fosfolipasa	NCFS000	C0031671	sustancia	427-438	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	A2	A2		-	-	439-441	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	(	(	Fpa	-	-	442-443	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	PLA2R	PLA2R		-	-	443-448	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	)	)	Fpt	-	-	448-449	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	.	.	Fp	-	-	449-450	400_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,23 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	15	15		-	-	9-11	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	30-32	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	retraso	retraso	NCMS000	-	-	33-40	653_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	el	DA0FS0	-	-	44-46	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	menarquia	menarquia	NCFS000	-	-	47-56	653_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	8	5045	LOC
+12	y	y	CC	C1706368	calificador	57-58	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	59-62	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	talla	tallar	VMM02S0	C0349588_1	situación_1	63-68	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	baja	bajo	AQ0FS0	C0349588_2	situación_2	69-73	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	.	.	Fp	-	-	73-74	653_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	75-77	653_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tiene	tener	VMIP3S0	-	-	78-83	653_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	discapacidad	discapacidad	NCFS000	C0231170	hallazgo	84-96	653_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+4	intelectual	intelectual	NCCS000	-	-	97-108	653_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	3	5046	Modif
+5	.	.	Fp	-	-	108-109	653_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

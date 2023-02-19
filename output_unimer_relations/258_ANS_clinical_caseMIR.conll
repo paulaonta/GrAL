@@ -1,0 +1,28 @@
+1	Atresia	atresia	NCFS000	C0243066	anomalía_morfológica	0-7	258_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	258_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	vias	vias	NCMS000	-	-	11-15	258_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	5907	LOC
+4	biliares	biliar	AQ0CP0	-	-	16-24	258_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	24-25	258_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ictericia	ictericia	NCFS000	C0022346	hallazgo	0-9	258_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	10-13	258_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	lactancia	lactancia	NCFS000	C0006147_1	función_1	14-23	258_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	materna	materno	AQ0FS0	C0006147_2	función_2	24-31	258_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	31-32	258_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Isoinmunización	isoinmunización	NCFS000	C0302020	hallazgo	0-15	258_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	0-A	0-A		-	-	16-19	258_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	258_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	aparición	aparición	NCFS000	-	-	23-32	258_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	tardía	tardío	AQ0FS0	C0205087#C1279941#C0547041	calificador	33-39	258_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	39-40	258_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0017551_1	trastorno_1	0-10	258_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0017551_2	trastorno_2	11-13	258_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+3	Gilbert	gilbert	NCMS000	C0017551_3	trastorno_3	14-21	258_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	567	MultiE
+4	.	.	Fp	-	-	21-22	258_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Esferocitosis	esferocitosis	NCFN000	C0037889_1	trastorno_1	0-13	258_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	hereditaria	hereditario	AQ0FS0	C0037889_2	trastorno_2	14-25	258_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	5911	Modif
+3	.	.	Fp	-	-	25-26	258_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,42 @@
+1	¿	¿	Fia	-	-	223-224	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	224-228	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	229-231	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	la	el	DA0FS0	-	-	232-234	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	causa	causa	NCFS000	-	-	235-240	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	241-244	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	245-253	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	254-256	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	esta	este	DD0FS0	-	-	257-261	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	situación	situación	NCFS000	-	-	262-271	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	clínica	clínico	AQ0FS0	C0205210	calificador	272-279	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	?	?	Fit	-	-	279-280	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	:	:	Fd	-	-	280-281	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	Tocolíticos	tocolíticos	AQ0MP00	-	-	0-11	346_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+15	,	,	Fc	-	-	11-12	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	corticoides	corticoide	AQ0CP0	-	-	13-24	346_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+17	y	y	CC	C1706368	calificador	25-26	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	27-39	346_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+19	.	.	Fp	-	-	39-40	346_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tocolíticos	tocolíticos	AQ0MP00	-	-	0-11	346_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	y	y	CC	C1706368	calificador	12-13	346_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	14-26	346_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	26-27	346_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tocolíticos	tocolíticos	AQ0MP00	-	-	0-11	346_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	y	y	CC	C1706368	calificador	12-13	346_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	corticoides	corticoide	AQ0CP0	-	-	14-25	346_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	25-26	346_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Oxitocina	oxitocina	NCFS000	C0030095	sustancia	0-9	346_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	,	,	Fc	-	-	9-10	346_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	corticoides	corticoide	AQ0CP0	-	-	11-22	346_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	y	y	CC	C1706368	calificador	23-24	346_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	25-37	346_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+6	.	.	Fp	-	-	37-38	346_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Corticoides	corticoide	AQ0CP0	-	-	0-11	346_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+2	y	y	CC	C1706368	calificador	12-13	346_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	14-26	346_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	26-27	346_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

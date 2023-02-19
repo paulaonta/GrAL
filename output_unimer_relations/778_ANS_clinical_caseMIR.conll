@@ -1,0 +1,21 @@
+1	Gastrinoma	gastrinoma	NC00SC0	C0017150	trastorno#anomalía_morfológica	0-10	778_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	10-11	778_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	778_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	778_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	antro	antro	NCMS000	-	-	12-17	778_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+4	retenido	retener	VMP00SM	-	-	18-26	778_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+5	.	.	Fp	-	-	26-27	778_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	778_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	778_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	asa	asa	NCFS000	C0445022	calificador	12-15	778_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	5441	LOC
+4	aferente	aferente	AQ0CS0	C0205115	calificador	16-24	778_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	24-25	778_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Carcinoma	carcinoma	NCMS000	C0007097	anomalía_morfológica	0-9	778_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	10-12	778_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	muñón	muñón	NCMS000	C0002690	anomalía_morfológica	13-18	778_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	5442	LOC
+4	gástrico	gástrico	AQ0MS0	C1704242	calificador	19-27	778_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	3	30	MultiE
+5	.	.	Fp	-	-	27-28	778_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

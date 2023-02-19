@@ -1,0 +1,33 @@
+1	Inestabilidad	inestabilidad	NCFS000	C1444783#C0231444	anomalía_morfológica#hallazgo	0-13	631_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	631_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	hombro	hombro	NCMS000	C0037004	estructura_corporal	17-23	631_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	4752	LOC
+4	asociada	asociar	VMP00SF	-	-	24-32	631_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	a	a	SPS00	-	-	33-34	631_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	laxitud	laxitud	NCFS000	C0332536	hallazgo	35-42	631_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	4752	Causada_por
+7	.	.	Fp	-	-	42-43	631_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Rotura	rotura	NCFS000	-	-	0-6	631_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	-	-	7-10	631_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	manguito	manguito	NCMS000	C0441107	objeto_físico	11-19	631_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	4753	LOC
+4	de	de	SPS00	C0332285	atributo	20-22	631_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	3	30	MultiE
+5	los	el	DA0MP0	-	-	23-26	631_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	3	30	MultiE
+6	rotadores	rotador	NCMP000	-	-	27-36	631_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	3	30	MultiE
+7	del	del	SP+DA	-	-	37-40	631_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	3	30	MultiE
+8	hombro	hombro	NCMS000	C0037004	estructura_corporal	41-47	631_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	3	30	MultiE
+9	.	.	Fp	-	-	47-48	631_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Capsulitis	capsulitis	NCFN000	C0263907	trastorno	0-10	631_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	adhesiva	adhesivo	AQ0FS0	C0001516	objeto_físico	11-19	631_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	4754	Modif
+3	de	de	SPS00	C0332285	atributo	20-22	631_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	hombro	hombro	NCMS000	C0037004	estructura_corporal	23-29	631_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	4754	LOC
+5	.	.	Fp	-	-	29-30	631_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tendinitis	tendinitis	NCFN000	C0521515_1	trastorno_1	0-10	631_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	calcificante	calcificante		C0521515_2	trastorno_2	11-23	631_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	4755	Modif
+3	del	del	SP+DA	-	-	24-27	631_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	28-34	631_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	4755	LOC
+5	supraespinoso	supraespinoso	AQ0MS0	-	-	35-48	631_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	23	MultiE
+6	del	del	SP+DA	-	-	49-52	631_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	23	MultiE
+7	hombro	hombro	NCMS000	C0037004	estructura_corporal	53-59	631_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	23	MultiE
+8	.	.	Fp	-	-	59-60	631_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

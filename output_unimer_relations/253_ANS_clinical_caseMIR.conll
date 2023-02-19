@@ -1,0 +1,54 @@
+1	¿	¿	Fia	-	-	389-390	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	390-394	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	395-397	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	398-401	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	402-412	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	decisiones	decisión	NCFP000	-	-	413-423	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tomará	tomar	VMIF3S0	C1515187	calificador	424-430	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	431-432	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	continuación	continuación	NCFS000	-	-	433-445	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	?	?	Fit	-	-	445-446	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	:	:	Fd	-	-	446-447	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	Empezar	empezar	VMN0000	-	-	0-7	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	tratamiento	tratamiento	NCMS000	C0338237_1	procedimiento_1	8-19	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	con	con	SPS00	C0338237_2	procedimiento_2	20-23	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	antibióticos	antibiótico	NCMP000	C0338237_3	procedimiento_3	24-36	253_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+16	.	.	Fp	-	-	36-37	253_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Cultivar	cultivar	VMN0000	-	-	0-8	253_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	el	el	DA0MS0	-	-	9-11	253_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exudado	exudado	NCMS000	C0015388#C0311437	sustancia#anomalía_morfológica#función	12-19	253_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	del	del	SP+DA	-	-	20-23	253_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	decúbito	decúbito	NCMS000	C0442303#C0011127	calificador#trastorno	24-32	253_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	.	.	Fp	-	-	32-33	253_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	vendajes	vendaje	NCMP000	C0013119#C0185014	objeto_físico#procedimiento	8-16	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	semihúmedos	semihúmedo	AQ0MP0	-	-	17-28	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	29-31	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	solución	solución	NCFS000	C0036082_1	sustancia_1	32-40	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	salina	salino	AQ0FS0	C0036082_2	sustancia_2	41-47	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tres	tres		-	-	48-52	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	veces	vez	NCFP000	-	-	53-58	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	al	al	SP+DA	-	-	59-61	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	día	día	NCMS000	C0439228#C0332169	calificador	62-65	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	65-66	253_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Hacer	hacer	VMN0000	-	-	0-5	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	cambios	cambio	NCMP000	C0443172	calificador	6-13	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	posturales	postural	AQ0CP0	C0205278	calificador	14-24	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	a	a	SPS00	-	-	25-26	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	la	el	DA0FS0	-	-	27-29	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	paciente	paciente	AQ0CS0	C0030705	persona	30-38	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	cada	cada	NC00SC0	C0585322_1	calificador_1	39-43	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	dos	do	NCMP000	C0585322_2	calificador_2	44-47	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	horas	hora	NCFP000	C0585322_3	calificador_3	48-53	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	53-54	253_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Colocar	colocar	VMN0000	-	-	0-7	253_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	8-11	253_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	sonda	sonda	NCFS000	C0182400	objeto_físico	12-17	253_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	urinaria	urinario	AQ0FS0	-	-	18-26	253_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+5	permanente	permanente	AQ0CS0	C0205355	calificador	27-37	253_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	.	.	Fp	-	-	37-38	253_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

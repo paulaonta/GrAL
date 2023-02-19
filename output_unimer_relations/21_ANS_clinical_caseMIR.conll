@@ -1,0 +1,48 @@
+1	Mononeuropatía	mononeuropatía	NC00SC0	C0494491	trastorno	0-14	21_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	del	del	SP+DA	-	-	15-18	21_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	N.	n.	NCFS000	-	-	19-21	21_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	5493	LOC
+4	peroneo	peroneo	AQ0MS0	C0442035	calificador	22-29	21_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+5	común	común	AQ0CS0	C0205214	calificador	30-35	21_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+6	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	36-43	21_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	30	MultiE
+7	.	.	Fp	-	-	43-44	21_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Afectación	afectación	NCFS000	-	-	0-10	21_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	focal	focal	AQ0CS0	C0205234	calificador	11-16	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	17-19	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	primera	1	AO0FS0	-	-	20-27	21_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	5494	Modif
+5	motoneurona	motoneurona	NCFS000	C0026609	célula	28-39	21_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	4	23	MultiE
+6	y	y	CC	C1706368	calificador	40-41	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	probable	probable	NC00SC0	C0332148	calificador	42-50	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	51-53	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	segunda	2	AO0FS0	-	-	54-61	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	61-62	21_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Afectación	afectación	NCFS000	-	-	0-10	21_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	hemimedular	hemimedular	AQ0CS00	-	-	11-22	21_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	5495	LOC
+3	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	23-30	21_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	2	24	MultiE
+4	(	(	Fpa	-	-	31-32	21_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	Brown	brown	NCMS000	-	-	32-37	21_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	-	-	Fg	-	-	37-38	21_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	Sequard	sequard	NCMS000	-	-	39-46	21_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	)	)	Fpt	-	-	46-47	21_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	47-48	21_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Mononeuropatía	mononeuropatía	NC00SC0	C0494491	trastorno	0-14	21_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	múltiple	múltiple	AQ0CS0	C0439064	calificador	15-23	21_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	5496	Modif
+3	con	con	SPS00	C0332287	atributo	24-27	21_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	afectación	afectación	NCFS000	-	-	28-38	21_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	39-41	21_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	N.	n.	AQ0CS00	-	-	42-44	21_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	4	5496	LOC
+7	peroneo	peroneo	NC00SC0	C0442035	calificador	45-52	21_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	6	15	MultiE
+8	común	común	AQ0CS0	C0205214	calificador	53-58	21_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	6	15	MultiE
+9	y	y	CC	C1706368	calificador	59-60	21_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	tibial	tibial	AQ0CS0	-	-	61-67	21_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	4	5496	LOC
+11	posterior	posterior	NC00SC0	C0456855_1	calificador_1	68-77	21_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	10	97	MultiE
+12	derecho	derecho	NCMS000	C0456855_2	calificador_2	78-85	21_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	10	97	MultiE
+13	.	.	Fp	-	-	85-86	21_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Plexopatía	plexopatía	NCFS000	-	-	0-10	21_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	lumbar	lumbar	AQ0CS0	C0024090	calificador	11-17	21_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	1	5497	LOC
+3	derecha	derecha	NCFS000	-	-	18-25	21_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	2	24	MultiE
+4	.	.	Fp	-	-	25-26	21_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,31 @@
+1	Insuficiencia	insuficiencia	NCFS000	C1298807_1	trastorno_1	0-13	128_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	mitral	mitral	AQ0CS0	C1298807_2	trastorno_2	14-20	128_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	5987	LOC
+3	aguda	agudo	AQ0FS0	C1298807_3	trastorno_3	21-26	128_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	5987	Modif
+4	posinfarto	posinfarto	NCMS000	-	-	27-37	128_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	5987	Modif
+5	.	.	Fp	-	-	37-38	128_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Aneurisma	aneurisma	NCMS000	C0519097_1	trastorno_1	0-9	128_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	ventricular	ventricular	AQ0CS0	C0519097_2	trastorno_2	10-21	128_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	5988	LOC
+3	izquierdo	izquierdo	NC00SC0	C0519097_3	trastorno_3	22-31	128_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	2	24	MultiE
+4	.	.	Fp	-	-	31-32	128_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Comunicación	comunicación	NCFS000	C0009452#C0015826	atributo#anomalía_morfológica	0-12	128_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	interventricular	interventricular	AQ0CS0	-	-	13-29	128_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	aguda	agudo	AQ0FS0	C0205178	calificador	30-35	128_ANS_clinical_caseMIR	SENT3	B-Calificador	-	-	-	-
+4	.	.	Fp	-	-	35-36	128_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Comunicación	comunicación	NCFS000	C0018817_1	trastorno_1	0-12	128_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	interauricular	interauricular	AQ0CS0	C0018817_2	trastorno_2	13-27	128_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	posinfarto	posinfarto	NCMS000	-	-	28-38	128_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	.	.	Fp	-	-	38-39	128_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Disfunción	disfunción	NCFS000	C0277785	hallazgo	0-10	128_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	128_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	la	el	DA0FS0	-	-	14-16	128_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	bioprótesis	bioprótesis	NCFN000	-	-	17-28	128_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	29-32	128_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	33-41	128_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	endocarditis	endocarditis	NCFN000	C0375268_1	trastorno_1	42-54	128_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion	1	5991	Causada_por
+8	aguda	agudo	AQ0FS0	C0375268_2	trastorno_2	55-60	128_ANS_clinical_caseMIR	SENT5	B-Calificador	-	7	5991	Modif
+9	.	.	Fp	-	-	60-61	128_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

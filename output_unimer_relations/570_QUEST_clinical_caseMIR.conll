@@ -1,0 +1,56 @@
+1	¿	¿	Fia	-	-	107-108	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	108-112	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	entre	entre	SPS00	C0205103	calificador	113-118	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	los	el	DA0MP0	-	-	119-122	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	123-133	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	133-134	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tiene	tener	VMIP3S0	-	-	135-140	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	141-143	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	144-149	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	rendimiento	rendimiento	NCMS000	-	-	150-161	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	162-173	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	?	?	Fit	-	-	173-174	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	:	:	Fd	-	-	174-175	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	6-9	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	hipotensión	hipotensión	NCFS000	C0020649	trastorno	10-21	570_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	e	y	CC	C1706368	calificador	22-23	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	hipoperfusión	hipoperfusión	NC00SC0	C0442856	calificador	24-37	570_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	tisular	tisular	AQ0CS0	-	-	38-45	570_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	4647	LOC
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	49-51	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	que	que	PR0CN000	-	-	52-55	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	se	se	P00CN000	-	-	56-58	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	objetivan	objetivar	VMIP3P0	-	-	59-68	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	los	el	DA0MP0	-	-	69-72	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	siguientes	siguiente	AQ0CP0	C0332282	atributo	73-83	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	parámetros	parámetro	NCMP000	C0549193	atributo	84-94	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	tras	tras	SPS00	-	-	95-99	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	la	el	DA0FS0	-	-	100-102	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	inserción	inserción	NCFS000	C0007430_1	procedimiento_1	103-112	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	de	de	SPS00	C0007430_2	procedimiento_2	113-115	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	un	uno	DI0MS0	C0007430_3	procedimiento_3	116-118	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	catéter	catéter	NCMS000	C0007430_4	procedimiento_4	119-126	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	de	de	SPS00	C0332285	atributo	127-129	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	Swan-Ganz	swan-ganz	NCFS000	-	-	130-139	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	:	:	Fd	-	-	139-140	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	índice	índice	NCMS000	-	-	141-147	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	cardiaco	cardiaco	NCMS000	-	-	148-156	570_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+39	1,4	1,4		-	-	157-160	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	L/min/m2	L/min/m2		-	-	161-169	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	,	,	Fc	-	-	169-170	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	presión	presión	NCFS000	C0034094_1	entidad_observable_1	171-178	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	de	de	SPS00	C0034094_2	entidad_observable_2	179-181	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	enclavamiento	enclavamiento	NCMS000	C0034094_3	entidad_observable_3	182-195	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	capilar	capilar	NCMS000	C0034094_4	entidad_observable_4	196-203	570_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+46	pulmonar	pulmonar	NC00SC0	C0034094_5	entidad_observable_5	204-212	570_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	45	514	MultiE
+47	25	25	Z	-	-	213-215	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	mmHg	mmHg	NCMP000	-	-	216-220	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	y	y	CC	C1706368	calificador	221-222	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	resistencias	resistencia	NCFP000	C0518031	entidad_observable	223-235	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	vasculares	vascular	AQ0CP0	-	-	236-246	570_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+52	sistémicas	sistémico	AQ0FP0	C0205373	calificador	247-257	570_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	-	-	-
+53	2000	2000		-	-	258-262	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	dinas/m2	dinas/m2		-	-	263-271	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	.	.	Fp	-	-	271-272	570_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,78 @@
+1	¿	¿	Fia	-	-	462-463	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	463-467	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	468-470	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	471-473	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	474-485	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	486-489	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	490-498	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	498-499	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	499-500	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	del	del	SP+DA	-	-	9-12	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	debut	debut	NCMS000	-	-	13-18	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	típico	típico	AQ0MS0	-	-	19-25	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	26-28	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	29-32	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	demencia	demencia	NCFS000	C0497327	trastorno	33-41	706_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	24	6075	Causada_por
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	45-47	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	paciente	paciente	NCCS000	C0030705	persona	48-56	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	57-62	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	con	con	SPS00	C0332287	atributo	63-66	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	una	una		C0205447_1	calificador_1	67-70	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	infección	infección	NCFS000	C0009450	trastorno	71-80	706_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	grave	grave	AQ0CS0	C0439808#C0205082	calificador	81-86	706_ANS_clinical_caseMIR	SENT1	B-Calificador	-	24	6075	Modif
+26	.	.	Fp	-	-	86-87	706_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	12-14	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	cuadro	cuadro	NCMS000	-	-	15-21	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	22-24	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	delirium	delirium	NCMS000	-	-	25-33	706_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	37-39	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	40-48	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	49-54	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	con	con	SPS00	C0332287	atributo	55-58	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	59-62	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	infección	infección	NCFS000	C0009450	trastorno	63-72	706_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	grave	grave	AQ0CS0	C0439808#C0205082	calificador	73-78	706_ANS_clinical_caseMIR	SENT2	B-Calificador	-	14	6076	Modif
+16	.	.	Fp	-	-	78-79	706_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	del	del	SP+DA	-	-	9-12	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	debut	debut	NCMS000	-	-	13-18	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	19-21	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	22-24	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	episodio	episodio	NCMS000	C0332189	atributo	25-33	706_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	psicótico	psicótico	AQ0MS0	-	-	34-43	706_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	7	45	MultiE
+9	agudo	agudo	AQ0MS0	C0205178	calificador	44-49	706_ANS_clinical_caseMIR	SENT3	B-Calificador	-	7	6077	Modif
+10	(	(	Fpa	-	-	50-51	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	esquizofrenia	esquizofrenia	NCFS000	C0036341	trastorno	51-64	706_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	tardía	tardío	AQ0FS0	C0205087#C1279941#C0547041	calificador	65-71	706_ANS_clinical_caseMIR	SENT3	B-Calificador	-	11	6077	Modif
+13	del	del	SP+DA	-	-	72-75	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	anciano	anciano	NCMS000	C0001792#C0524337	persona	76-83	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	)	)	Fpt	-	-	83-84	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	.	.	Fp	-	-	84-85	706_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	12-14	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	15-23	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332189#C1455761_2	atributo_2	24-26	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	depresión	depresión	NCFS000	C0588008_1	trastorno_1	27-36	706_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	grave	grave	NC00SC0	C0588008_2	trastorno_2	37-42	706_ANS_clinical_caseMIR	SENT4	B-Calificador	-	7	6078	Modif
+9	por	por	SPS00	C0678226	atributo	43-46	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	la	el	DA0FS0	-	-	47-49	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	hospitalización	hospitalización	NCFS000	-	-	50-65	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	con	con	SPS00	C0332287	atributo	66-69	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	sintomatología	sintomatología	NCFS000	-	-	70-84	706_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+14	psicótica	psicótico	AQ0FS0	-	-	85-94	706_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	13	72	MultiE
+15	asociada	asociar	VMP00SF	-	-	95-103	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	103-104	706_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

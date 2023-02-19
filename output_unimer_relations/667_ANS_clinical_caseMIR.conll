@@ -1,0 +1,35 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	gasometría	gasometría	NCFS000	-	-	10-20	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	venosa	venoso	AQ0FS0	C0348013	calificador	21-27	667_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+4	,	,	Fc	-	-	27-28	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	recuento	recuento	NCMS000	-	-	29-37	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	leucocitario	leucocitario	AQ0MS0	-	-	38-50	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	51-52	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	reactantes	reactantes	AQ0CP00	-	-	53-63	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	64-66	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	fase	fase	NCFS000	C0439557_1	calificador_1	67-71	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	aguda	agudo	AQ0FS0	C0439557_2	calificador_2	72-77	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	.	.	Fp	-	-	77-78	667_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	0-9	667_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	10-21	667_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	22-24	667_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	25-30	667_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	30-31	667_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	0-9	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	gasometría	gasometría	NCFS000	-	-	10-20	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	arterial	arterial	AQ0CS0	C0221464	calificador	21-29	667_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	y	y	CC	C1706368	calificador	30-31	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	reactantes	reactantes	AQ0CP00	-	-	32-42	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	43-45	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	fase	fase	NCFS000	C0439557_1	calificador_1	46-50	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	aguda	agudo	AQ0FS0	C0439557_2	calificador_2	51-56	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	56-57	667_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	667_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	solicitar	solicitar	VMN0000	-	-	3-12	667_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	pruebas	prueba	NCFP000	-	-	13-20	667_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	complementarias	complementario	AQ0FP0	-	-	21-36	667_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	.	.	Fp	-	-	36-37	667_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

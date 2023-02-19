@@ -1,0 +1,34 @@
+1	Señale	señalar	VMM03S0	-	-	371-377	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	378-380	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	respuesta	respuesta	NCFS000	-	-	381-390	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	391-399	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	:	:	Fd	-	-	399-400	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	Fractura	fracturar	VMM02S0	C0332716_1	anomalía_morfológica_1	0-8	529_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	en	en	SPS00	C0332716_2	anomalía_morfológica_2	9-11	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	tallo	tallo	NCMS000	C0332716_3	anomalía_morfológica_3	12-17	529_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	3984	LOC
+9	verde	verde	NCMS000	C0332716_4	anomalía_morfológica_4	18-23	529_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	8	41	MultiE
+10	de	de	SPS00	C0332285	atributo	24-26	529_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	8	41	MultiE
+11	radio	radio	NCMS000	C0034625#C1279083#C1304639#C0034627	sustancia#estructura_corporal#objeto_físico	27-32	529_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	8	41	MultiE
+12	y	y	CC	C1706368	calificador	33-34	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	cúbito	cúbito	NCMS000	C1279087#C0041600	estructura_corporal	35-41	529_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	3984	LOC
+14	.	.	Fp	-	-	41-42	529_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Esguince	esguince	NCMS000	C0160063_1	trastorno_1	0-8	529_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0160063_2	trastorno_2	9-11	529_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	muñeca	muñeca	NCFS000	C0160063_3	trastorno_3	12-18	529_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	3985	LOC
+4	.	.	Fp	-	-	18-19	529_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Fractura	fracturar	VMIP3S0	-	-	0-8	529_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	aislada	aislar	VMP00SF	-	-	9-16	529_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	3986	Modif
+3	de	de	SPS00	C0332285	atributo	17-19	529_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	radio	radio	NCMS000	C0034625#C1279083#C1304639#C0034627	sustancia#estructura_corporal#objeto_físico	20-25	529_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	3986	LOC
+5	.	.	Fp	-	-	25-26	529_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Fractura	fracturar	VMM02S0	C0332712_1	anomalía_morfológica_1	0-8	529_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	espiroidea	espiroideo	AQ0FS0	C0332712_2	anomalía_morfológica_2	9-19	529_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	3987	LOC
+3	larga	largo	AQ0FS0	C0205166#C0392744	calificador	20-25	529_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	3987	Modif
+4	de	de	SPS00	C0332285	atributo	26-28	529_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	cúbito	cúbito	NCMS000	C1279087#C0041600	estructura_corporal	29-35	529_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	3987	LOC
+6	aislada	aislar	VMP00SF	-	-	36-43	529_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	43-44	529_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

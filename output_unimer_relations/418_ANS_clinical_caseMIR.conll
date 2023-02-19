@@ -1,0 +1,29 @@
+1	Biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	0-7	418_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	selectiva	selectivo	AQ0FS0	-	-	8-17	418_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	18-20	418_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	ganglio	ganglio	NCMS000	C0272401#C0677944_1	trastorno_1	21-28	418_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	centinela	centinela	NCCS000	C0272401#C0677944_2	trastorno_2	29-38	418_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	23	MultiE
+6	.	.	Fp	-	-	38-39	418_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	418_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	+	+	Fz	-	-	13-14	418_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	15-29	418_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	30-33	418_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tamoxifeno	tamoxifeno	NC00SC0	C0039286	producto#sustancia	34-44	418_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+6	.	.	Fp	-	-	44-45	418_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Mastectomía	mastectomía	NCFS000	C0024881	procedimiento	0-11	418_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	+	+	Fz	-	-	12-13	418_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	linfadenectomía	linfadenectomía	NC00SC0	C0024203	procedimiento	14-29	418_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	axilar	axilar	AQ0CS0	C0004454	calificador	30-36	418_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	36-37	418_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	418_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	+	+	Fz	-	-	14-15	418_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	radioterapia	radioterapia	NCFS000	C1522449	-	16-28	418_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	+	+	Fz	-	-	29-30	418_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	31-45	418_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	46-49	418_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	tamoxifeno	tamoxifeno	NC00SC0	C0039286	producto#sustancia	50-60	418_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	.	.	Fp	-	-	60-61	418_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

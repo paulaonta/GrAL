@@ -1,0 +1,81 @@
+1	Reducción	reducción	NCFS000	C0333668	anomalía_morfológica	0-9	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	,	,	Fc	-	-	9-10	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	abierta	abrir	VMP00SF	-	-	11-18	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	si	si	CS	-	-	19-21	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	se	se	P00CN000	-	-	22-24	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	precisa	precisar	VMIP3S0	-	-	25-32	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	32-33	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	34-35	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	osteosíntesis	osteosíntesis	NCFN000	-	-	36-49	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	50-52	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	la	el	DA0FS0	-	-	53-55	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	56-64	787_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	las	el	DA0FP0	-	-	68-71	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	primeras	1	AO0FP0	-	-	72-80	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	24-36	24-36	Z	-	-	81-86	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	horas	h	NCFP000	C0439227	calificador	87-92	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	.	.	Fp	-	-	92-93	787_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Artroplastia	artroplastia	NCFS000	C0003893	procedimiento	0-12	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	13-18	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	19-21	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	superficialización	superficialización	NCFS000	-	-	22-40	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	41-43	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	la	el	DA0FS0	-	-	44-46	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	cadera	cadera	NCFS000	C0019552	estructura_corporal	47-53	787_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+8	el	el	DA0MS0	-	-	54-56	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	lunes	lunes		-	-	57-62	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	63-65	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	forma	forma	NCFS000	C0348078	atributo	66-71	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	programada	programar	VMP00SF	-	-	72-82	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	.	.	Fp	-	-	82-83	787_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Esperar	esperar	VMN0000	-	-	0-7	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	a	a	SPS00	-	-	8-9	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	que	que	CS	-	-	10-13	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	mejore	mejorar	VMSP3S0	-	-	14-20	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	del	del	SP+DA	-	-	21-24	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	traumatismo	traumatismo	NCMS000	C3263723	trastorno	25-36	787_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	37-44	787_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	6	939	LOC
+8	y	y	CC	C1706368	calificador	45-46	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	programar	programar	VMN0000	-	-	47-56	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	la	el	DA0FS0	-	-	57-59	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	semana	semana	NCFS000	C0439230	calificador	60-66	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	siguiente	siguiente	AQ0CS0	C0332282	atributo	67-76	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	77-80	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	81-88	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	reglada	reglar	VMP00SF	-	-	89-96	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	consistente	consistente	AQ0CS0	-	-	97-108	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	109-111	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	la	el	DA0FS0	-	-	112-114	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+19	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	115-124	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	125-126	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+21	osteosíntesis	osteosíntesis	NCFN000	-	-	127-140	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	141-143	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+23	la	el	DA0FS0	-	-	144-146	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+24	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	147-155	787_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+25	.	.	Fp	-	-	155-156	787_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ante	ante	SPS00	-	-	0-4	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	el	el	DA0MS0	-	-	5-7	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	riego	riego	NCMS000	-	-	8-13	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	14-16	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	no	no	RN	C1298908	calificador	17-19	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	consolidación	consolidación	NCFS000	C0702116	anomalía_morfológica	20-33	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	34-36	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	estos	este	DD0MP0	-	-	37-42	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	tipos	tipo	NCMP000	C0332307	calificador#atributo	43-48	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	49-51	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	52-60	787_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+12	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	61-63	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	implantaría	implantar	VMIC3S0	-	-	64-75	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	76-78	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	urgencias	urgencia	NCFP000	C0439609	calificador	79-88	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	89-92	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	hemiartroplastia	hemiartroplastia	NCFS000	-	-	93-109	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	bipolar	bipolar	AQ0CS0	C0443156	calificador	110-117	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	118-120	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	cadera	cadera	NCFS000	C0019552	estructura_corporal	121-127	787_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+21	.	.	Fp	-	-	127-128	787_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

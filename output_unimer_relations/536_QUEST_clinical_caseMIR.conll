@@ -1,0 +1,58 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	60	60		-	-	9-11	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diabética	diabético	NCFS000	-	-	18-27	536_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	insulinodependiente	insulinodependiente	AQ0CS00	-	-	28-47	536_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	5297	Modif
+8	,	,	Fc	-	-	47-48	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	que	que	PR0CN000	-	-	49-52	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	presenta	presentar	VMIP3S0	-	-	53-61	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	omalgia	omalgia	NC00SC0	C0231655	hallazgo	62-69	536_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	70-77	536_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	5297	Modif
+13	de	de	SPS00	C0332285	atributo	78-80	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	predominio	predominio	NCMS000	-	-	81-91	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	nocturno	nocturno	AQ0MS0	C0240526	calificador	92-100	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	101-103	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	104-110	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	semanas	semana	NCFP000	C0439230	calificador	111-118	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	119-121	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	evolución	evolución	NCFS000	-	-	122-131	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	131-132	536_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	133-135	536_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	refiere	referir	VMIP3S0	-	-	136-143	536_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	traumatismo	traumatismo	NCMS000	C3263723	trastorno	144-155	536_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+4	.	.	Fp	-	-	155-156	536_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	157-159	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	160-162	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	163-174	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	175-181	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	destaca	destacar	VMIP3S0	-	-	182-189	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	190-193	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	limitación	limitación	NCFS000	C0449295	atributo	194-204	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	activa	activo	AQ0FS0	C0205177	calificador	205-211	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	212-213	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	pasiva	pasivo	AQ0FS0	-	-	214-220	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	221-223	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	224-229	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	los	el	DA0MP0	-	-	230-233	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	arcos	arco	NCMP000	-	-	234-239	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	240-242	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	movimiento	movimiento	NCMS000	C0427048_1	entidad_observable_1	243-253	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	del	del	SP+DA	C0427048_2	entidad_observable_2	254-257	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	hombro	hombro	NCMS000	C0427048_3	entidad_observable_3	258-264	536_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+19	.	.	Fp	-	-	264-265	536_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	266-267	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	267-270	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	cuadro	cuadro	NCMS000	-	-	271-277	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	clínico	clínico	AQ0MS0	C0205210	calificador	278-285	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	sospecha	sospechar	VMIP3S0	-	-	286-294	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	como	como	CS	C0332257	calificador	295-299	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	primera	1	AO0FS0	-	-	300-307	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	posibilidad	posibilidad	NCFS000	-	-	308-319	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	320-331	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	?	?	Fit	-	-	331-332	536_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

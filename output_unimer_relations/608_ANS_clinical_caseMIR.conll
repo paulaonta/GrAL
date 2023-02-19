@@ -1,0 +1,32 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	608_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	detección	detección	NCFS000	-	-	10-19	608_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	del	del	SP+DA	-	-	20-23	608_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	virus	virus	NCMN000	C0021344_1	organismo_1	24-29	608_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	del	del	SP+DA	C0021344_2	organismo_2	30-33	608_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	papiloma	papiloma	NCFS000	C0021344_3	organismo_3	34-42	608_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	humano	humano	NCMS000	C0021344_4	organismo_4	43-49	608_ANS_clinical_caseMIR	SENT1	B-Calificador	-	6	2708	Modif
+8	.	.	Fp	-	-	49-50	608_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Conización	conización	NCFS000	-	-	0-10	608_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	11-19	608_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	2709	LOC
+3	.	.	Fp	-	-	19-20	608_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tratar	tratar	VMN0000	-	-	3-9	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	10-11	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	programar	programar	VMN0000	-	-	12-21	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	nueva	nuevo	AQ0FS0	C0205314	calificador	22-27	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	28-36	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	37-39	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	6-12	6-12		-	-	40-44	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	meses	mes	NCMP000	C0439231	calificador	45-50	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	50-51	608_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	608_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	608_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	aciclovir	aciclovir	NC00SC0	C0001367	sustancia	16-25	608_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	durante	durante	SPS00	C1444752#C0347984	atributo	26-33	608_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	16	16		-	-	34-36	608_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	semanas	semana	NCFP000	C0439230	calificador	37-44	608_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	44-45	608_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

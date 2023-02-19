@@ -1,0 +1,157 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	55	55		-	-	10-12	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	remitido	remitir	VMP00SM	C1691010_1	calificador_1	18-26	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	a	a	SPS00	C1691010_2	calificador_2	27-28	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	la	el	DA0FS0	-	-	29-31	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	32-40	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	41-44	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	detectar	detectar	VMN0000	-	-	45-53	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	se	se	PP3CN000	-	-	53-55	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	56-58	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	un	un		C0205447_1	calificador_1	59-61	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	examen	examen	NCMS000	-	-	62-68	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	69-71	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	salud	salud	NCFS000	C0018684	calificador	72-77	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	hipertransaminasemia	hipertransaminasemia	NC00KE0	-	-	78-98	677_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	y	y	CC	C1706368	calificador	99-100	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	esteatosis	esteatosis	NC00SC0	C2711227#C0015695_1	trastorno_1	101-111	677_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	hepática	hepático	AQ0FS0	C2711227#C0015695_2	trastorno_2	112-120	677_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	19	6233	LOC
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	121-123	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	la	el	DA0FS0	-	-	124-126	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	127-136	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	136-137	677_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	138-140	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hipotiroideo	hipotiroideo	AQ0MS0	-	-	141-153	677_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	154-156	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	157-168	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	sustitutivo	sustitutivo	AQ0MS0	-	-	169-180	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	y	y	CC	C1706368	calificador	181-182	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	diabético	diabético	AQ0MS0	-	-	183-192	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	bien	bien	RG	C0205170	calificador	193-197	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	controlado	controlar	VMP00SM	-	-	198-208	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	209-212	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	metformina	metformina	NC00SC0	C0025598	producto#sustancia	213-223	677_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+12	.	.	Fp	-	-	223-224	677_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Bebe	beber	VMIP3S0	C0684271	función	225-229	677_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	alcohol	alcohol	NCMS000	C0001975	sustancia	230-237	677_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	muy	muy	RG	C0442824	calificador	238-241	677_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	ocasionalmente	ocasionalmente	RG	-	-	242-256	677_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	.	.	Fp	-	-	256-257	677_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	258-260	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	261-263	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	264-275	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	276-282	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	destaca	destacar	VMIP3S0	-	-	283-290	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	291-294	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	295-303	677_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	tipo	tipo	NCMS000	C0332307	calificador#atributo	304-308	677_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	7	6236	Modif
+9	I	i	NCFS000	-	-	309-310	677_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	8	41	MultiE
+10	(	(	Fpa	-	-	311-312	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	índice	índice	NCMS000	C1305855_1	entidad_observable_1	312-318	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C1305855_2	entidad_observable_2	319-321	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	masa	masa	NCFS000	C1305855_3	entidad_observable_3	322-326	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	327-335	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	,	,	Fc	-	-	335-336	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	IMC	imc	NC00SC0	C1305855	entidad_observable	337-340	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	33	33		-	-	341-343	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	kg/m2	kg/m2		-	-	344-349	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	)	)	Fpt	-	-	349-350	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	.	.	Fp	-	-	350-351	677_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	352-354	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	analítica	analítico	AQ0FS0	-	-	355-364	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	muestra	muestra	NCFS000	C0370003	espécimen	365-372	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	:	:	Fd	-	-	372-373	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	aspartato	aspartato	NC00SC0	C0004002_1	sustancia_1	374-383	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	aminotransferasa	aminotransferasa	NC00SC0	C0004002_2	sustancia_2	384-400	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	(	(	Fpa	-	-	401-402	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	AST	aspartato_transaminasa	NC00YL0	-	-	402-405	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	)	)	Fpt	-	-	405-406	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	87	87		-	-	407-409	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	UI	ui	NC00SC0	C0439453	calificador	410-412	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	/	/	Fh	-	-	412-413	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	L	l	NCFS000	-	-	413-414	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	,	,	Fc	-	-	414-415	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	alanino	alanino	AQ0MS00	-	-	416-423	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	aminotransferasa	aminotransferasa	NC00SC0	C0002594	sustancia	424-440	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	(	(	Fpa	-	-	441-442	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	442-445	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	)	)	Fpt	-	-	445-446	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	65	65		-	-	447-449	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	UI	ui	NC00SC0	C0439453	calificador	450-452	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	/	/	Fh	-	-	452-453	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	L	l	NCFS000	-	-	453-454	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+24	,	,	Fc	-	-	454-455	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	gammaglutamiltransferasa	gammaglutamiltransferasa	NCFS000	-	-	456-480	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	(	(	Fpa	-	-	481-482	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	GGT	gammaglutamiltranspeptidasa	NC00YL0	-	-	482-485	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+28	)	)	Fpt	-	-	485-486	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+29	100	100		-	-	487-490	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	UI	ui	NC00SC0	C0439453	calificador	491-493	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+31	/	/	Fh	-	-	493-494	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+32	L	l	NCFS000	-	-	494-495	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+33	,	,	Fc	-	-	495-496	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+34	colesterol	colesterol	NCMS000	C0543421_1	sustancia_1	497-507	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+35	total	total	NCMS000	C0543421_2	sustancia_2	508-513	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+36	230	230	Z	-	-	514-517	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+37	mg	mg	NCMN000	-	-	518-520	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+38	/	/	Fh	-	-	520-521	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+39	dL	decilitro	NCMN000	C0439241	calificador	521-523	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+40	,	,	Fc	-	-	523-524	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+41	glucemia	glucemia	NCFS000	C2585282	entidad_observable	525-533	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+42	basal	basal	AQ0CS0	C0205112	calificador	534-539	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+43	132	132	Z	-	-	540-543	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+44	mg	mg	NCMN000	-	-	544-546	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+45	/	/	Fh	-	-	546-547	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+46	dl	decilitro	NCMN000	C0439241	calificador	547-549	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+47	.	.	Fp	-	-	549-550	677_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	551-562	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	,	,	Fc	-	-	562-563	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	564-573	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	574-582	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	,	,	Fc	-	-	582-583	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	hormonas	hormona	NCFP000	C0040135_1	producto_1	584-592	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	tiroideas	tiroideo	AQ0FP0	C0040135_2	producto_2	593-602	677_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+8	y	y	CC	C1706368	calificador	603-604	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	ferritina	ferritina	NCFS000	C0015879	sustancia	605-614	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	normales	normal	AQ0CP0	C0205307	calificador	615-623	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	.	.	Fp	-	-	623-624	677_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Coagulación	coagulación	NCFS000	C0441509	procedimiento	625-636	677_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	normal	normal	AQ0CS0	C0205307	calificador	637-643	677_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	.	.	Fp	-	-	643-644	677_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	645-647	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	serología	serología	NCFS000	-	-	648-657	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	658-660	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	hepatitis	hepatitis	NCFN000	C0042721_1	trastorno_1	661-670	677_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Negacion	-	-	-
+5	vírica	vírico	AQ0FS0	C0042721_2	trastorno_2	671-677	677_QUEST_clinical_caseMIR	SENT8	B-Calificador	-	4	6240	LOC
+6	(	(	Fpa	-	-	678-679	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	VHA	virus_de_la_hepatitis_a	NC00YL0	-	-	679-682	677_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Negacion	-	-	-
+8	,	,	Fc	-	-	682-683	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+9	VHB	virus_de_la_hepatitis_b	NC00YL0	-	-	684-687	677_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Negacion	-	-	-
+10	y	y	CC	C1706368	calificador	688-689	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+11	VHC	virus_de_la_hepatitis_c	NC00YL0	-	-	690-693	677_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Negacion	-	-	-
+12	)	)	Fpt	-	-	693-694	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+13	y	y	CC	C1706368	calificador	695-696	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	697-699	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+15	autoinmunidad	autoinmunidad	NCFS000	C0004368	hallazgo	700-713	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+16	(	(	Fpa	-	-	714-715	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+17	ANA	ana	NCFS000	-	-	715-718	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+18	,	,	Fc	-	-	718-719	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+19	AMA	amar	VMM02S0	-	-	720-723	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+20	,	,	Fc	-	-	723-724	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+21	AML	amililitro	NCMN000	-	-	725-728	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+22	,	,	Fc	-	-	728-729	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+23	antiLKM	antiliver-kidney_microsomal_(anticuerpos_microsomales_contra_hígado_y_riñón)	AQ0CN00	-	-	730-737	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+24	)	)	Fpt	-	-	737-738	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+25	son	ser	VSIP3P0	-	-	739-742	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+26	negativas	negativo	AQ0FP0	C0205160#C0549184	calificador	743-752	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+27	.	.	Fp	-	-	752-753	677_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+

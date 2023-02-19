@@ -1,0 +1,89 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	10-12	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	28-29	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	30-38	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C1719974_2	procedimiento_2	39-42	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	43-48	631_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	49-51	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	el	el	DA0MS0	-	-	52-54	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hombro	hombro	NCMS000	C0524469_1	estructura_corporal_1	55-61	631_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	6045	LOC
+14	izquierdo	izquierdo	NC00SC0	C0524469_2	estructura_corporal_2	62-71	631_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	13	72	MultiE
+15	de	de	SPS00	C0332285	atributo	72-74	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	6	6		-	-	75-76	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	meses	mes	NCMP000	C0439231	calificador	77-82	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	83-85	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	evolución	evolución	NCFS000	-	-	86-95	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	que	que	PR0CN000	-	-	96-99	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	ha	haber	VAIP3S0	-	-	100-102	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	aumentado	aumentar	VMP00SM	-	-	103-112	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	113-115	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	intensidad	intensidad	NCFS000	-	-	116-126	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	en	en	SPS00	C1720294#C0332285	calificador#atributo	127-129	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	las	el	DA0FP0	-	-	130-133	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	dos	dos		-	-	134-137	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	últimas	último	AO0FP0	-	-	138-145	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	semanas	semana	NCFP000	C0439230	calificador	146-153	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	153-154	631_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	155-157	631_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	relaciona	relacionar	VMIP3S0	-	-	158-167	631_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	el	el	DA0MS0	-	-	168-170	631_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	dolor	dolor	NCMS000	C0030193	hallazgo	171-176	631_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	177-180	631_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	traumatismo	traumatismo	NCMS000	C3263723	trastorno	181-192	631_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	previo	previo	AQ0MS0	C0205156	calificador	193-199	631_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	199-200	631_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	201-203	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	dolor	dolor	NCMS000	C0030193	hallazgo	204-209	631_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+3	es	ser	VSIP3S0	-	-	210-212	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	213-215	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	predominio	predominio	NCMS000	-	-	216-226	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	nocturno	nocturno	AQ0MS0	C0240526	calificador	227-235	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	236-237	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	empeora	empeorar	VMIP3S0	-	-	238-245	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	246-249	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	el	el	DA0MS0	-	-	250-252	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	movimiento	movimiento	NCMS000	C0026649#C0026597	entidad_observable#fuerza_física	253-263	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	.	.	Fp	-	-	263-264	631_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	265-267	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	268-270	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	271-282	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	283-291	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	292-294	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	rango	rango	NCMS000	-	-	295-300	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	301-303	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	movilidad	movilidad	NCFS000	C0425245#C0449580	entidad_observable#atributo	304-313	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	pasiva	pasivo	AQ0FS0	-	-	314-320	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	321-329	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	330-333	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	334-345	631_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	346-348	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	los	el	DA0MP0	-	-	349-352	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	últimos	último	AO0MP0	-	-	353-360	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	grados	grado	NCMP000	C0441800	atributo	361-367	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	368-370	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	rotación	rotación	NCFS000	C0231459_1	calificador#función_1	371-379	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	interna	interno	NCFS000	C0231459_2	calificador#función_2	380-387	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	388-389	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	elevación	elevación	NCFS000	C0439775	procedimiento	390-399	631_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+22	activa	activo	AQ0FS0	C0205177	calificador	400-406	631_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	21	6048	Modif
+23	.	.	Fp	-	-	406-407	631_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	408-410	631_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	se	se	P00CN000	-	-	411-413	631_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	objetiva	objetivar	VMIP3S0	-	-	414-422	631_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	deformidad	deformidad	NCFS000	C0302142	hallazgo#anomalía_morfológica	423-433	631_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion	-	-	-
+5	,	,	Fc	-	-	433-434	631_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	crepitación	crepitación	NCFS000	C0034642	hallazgo	435-446	631_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion	-	-	-
+7	ni	ni	CC	-	-	447-449	631_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	aumento	aumento	NCMS000	C0442805	calificador	450-457	631_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion	-	-	-
+9	de	de	SPS00	C0332285	atributo	458-460	631_QUEST_clinical_caseMIR	SENT5	B-Calificador	-	8	6049	Modif
+10	temperatura	temperatura	NCFS000	C0039476	atributo	461-472	631_QUEST_clinical_caseMIR	SENT5	I-Calificador	-	9	43	MultiE
+11	.	.	Fp	-	-	472-473	631_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

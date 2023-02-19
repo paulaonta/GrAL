@@ -1,0 +1,107 @@
+1	Debut	debut	NCMS000	-	-	0-5	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	9-12	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	13-21	26_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	22-30	26_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	4	23	MultiE
+6	tipo	tipo	NCMS000	C0011860_3	trastorno_3	31-35	26_ANS_clinical_caseMIR	SENT1	B-Calificador	-	4	878	Modif
+7	2	2	Z	C0011860_4	trastorno_4	36-37	26_ANS_clinical_caseMIR	SENT1	I-Calificador	-	6	15	MultiE
+8	con	con	SPS00	C0332287	atributo	38-41	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	42-48	26_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	probablemente	probablemente	RG	C0332148	calificador	49-62	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	63-66	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	67-75	26_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	9	878	Causada_por
+13	o	o	CC	-	-	76-77	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	78-93	26_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+15	.	.	Fp	-	-	93-94	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ya	ya	RG	-	-	95-97	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	que	que	PR0CN000	-	-	98-101	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	toma	tomar	VMIP3S0	C1515187	calificador	102-106	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	anovulatorios	anovulatorios	AQ0MP00	-	-	107-120	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	120-121	26_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	0-2	26_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	3-6	26_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	cetoacidosis	cetoacidosis	NCFN000	C0011880_1	trastorno_1	7-19	26_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	diabética	diabético	NCFS000	C0011880_2	trastorno_2	20-29	26_ANS_clinical_caseMIR	SENT2	B-Calificador	-	3	879	Modif
+5	.	.	Fp	-	-	29-30	26_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hay	haber	VMIP3S0	-	-	31-34	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	que	que	CS	-	-	35-38	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tratar	tratar	VMN0000	-	-	39-45	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	46-49	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	insulina	insulina	NCFS000	C0021641	sustancia	50-58	26_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+6	endovenosa	endovenoso	AQ0FS0	-	-	59-69	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	,	,	Fc	-	-	69-70	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	sueroterapia	sueroterapia	NCFS000	-	-	71-83	26_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+9	.	.	Fp	-	-	83-84	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	medidas	medida	NCFP000	C0079809	atributo	85-92	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	generales	general	AQ0CP0	C0205246	calificador	93-102	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	103-104	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	buscar	buscar	VMN0000	-	-	105-111	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	causa	causa	NCFS000	-	-	112-117	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	precipitante	precipitante	AQ0CS0	-	-	118-130	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	.	.	Fp	-	-	130-131	26_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Debut	debut	NCMS000	-	-	0-5	26_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	26_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	diabetes	diabetes	NCFN000	-	-	9-17	26_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+4	tipo	tipo	NCMS000	C0332307	calificador#atributo	18-22	26_ANS_clinical_caseMIR	SENT4	B-Calificador	-	3	881	Modif
+5	1	1	Z	-	-	23-24	26_ANS_clinical_caseMIR	SENT4	I-Calificador	-	4	23	MultiE
+6	con	con	SPS00	C0332287	atributo	25-28	26_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	cetoacidosis	cetoacidosis	NCFN000	C0220982	trastorno	29-41	26_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	.	.	Fp	-	-	41-42	26_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Tratar	tratar	VMN0000	-	-	43-49	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	50-53	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	54-65	26_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+4	y	y	CC	C1706368	calificador	66-67	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	tras	tras	SPS00	-	-	68-72	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	corregir	corregir	VMN0000	-	-	73-81	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	la	el	DA0FS0	-	-	82-84	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	acidosis	acidosis	NCFN000	C0001122	trastorno	85-93	26_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+9	añadir	añadir	VMN0000	-	-	94-100	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	insulina	insulina	NCFS000	C0021641	sustancia	101-109	26_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+11	endovenosa	endovenoso	AQ0FS0	-	-	110-120	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	.	.	Fp	-	-	120-121	26_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Parece	parecer	VMIP3S0	-	-	0-6	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	7-10	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+3	cetoacidosis	cetoacidosis	NCFN000	C0011880_1	trastorno_1	11-23	26_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+4	diabética	diabético	NCFS000	C0011880_2	trastorno_2	24-33	26_ANS_clinical_caseMIR	SENT6	B-Calificador	-	3	883	Modif
+5	,	,	Fc	-	-	33-34	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	pero	pero	CC	-	-	35-39	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+7	podría	poder	VMIC3S0	-	-	40-46	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+8	ser	ser	VSN0000	-	-	47-50	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+9	alcohólica	alcohólico	AQ0FS0	C0337678	hallazgo	51-61	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+10	.	.	Fp	-	-	61-62	26_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	63-65	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+2	debe	deber	VMIP3S0	-	-	66-70	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+3	determinar	determinar	VMN0000	-	-	71-81	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+4	la	el	DA0FS0	-	-	82-84	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+5	alcoholemia	alcoholemia	NCFS000	-	-	85-96	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+6	antes	antes	RG	C0332152	atributo	97-102	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	103-105	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+8	iniciar	iniciar	VMN0000	-	-	106-113	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	114-125	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	126-129	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+11	insulina	insulina	NCFS000	C0021641	sustancia	130-138	26_ANS_clinical_caseMIR	SENT7	B-Grp_Medicamento	-	-	-	-
+12	.	.	Fp	-	-	138-139	26_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Tratar	tratar	VMN0000	-	-	0-6	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	7-10	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+3	insulina	insulina	NCFS000	C0021641	sustancia	11-19	26_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-	-	-	-
+4	rápida	rápido	AQ0FS0	C0456962	calificador	20-26	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+5	subcutánea	subcutáneo	AQ0FS0	C0443315	calificador	27-37	26_ANS_clinical_caseMIR	SENT8	B-Estructura_Corporal	-	-	-	-
+6	,	,	Fc	-	-	37-38	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+7	sueroterapia	sueroterapia	NCFS000	-	-	39-51	26_ANS_clinical_caseMIR	SENT8	B-Grp_Medicamento	-	-	-	-
+8	y	y	CC	C1706368	calificador	52-53	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+9	pedir	pedir	VMN0000	-	-	54-59	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	59-61	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+11	que	que	CS	-	-	62-65	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+12	beba	beber	VMSP3S0	C0684271	función	66-70	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+13	líquidos	líquido	NCMP000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	71-79	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	80-82	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+15	abundancia	abundancia	NCFS000	-	-	83-93	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+16	.	.	Fp	-	-	93-94	26_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+

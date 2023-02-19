@@ -1,0 +1,81 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	39	39		-	-	9-11	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diagnosticada	diagnosticar	VMP00SF	-	-	18-31	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	32-34	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	diabetes	diabetes	NCFN000	C0011854_1	trastorno_1	35-43	467_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	mellitus	mellitus	AQ0CN0	C0011854_2	trastorno_2	44-52	467_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	41	MultiE
+10	tipo	tipo	NCMS000	C0011854_3	trastorno_3	53-57	467_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	5324	Modif
+11	I	i	NCFS000	C0011854_4	trastorno_4	58-59	467_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	10	97	MultiE
+12	hace	hacer	VMIP3S0	-	-	60-64	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	más	más	RG	C0205172	calificador	65-68	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	69-71	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	20	20		-	-	72-74	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	años	año	NCMP000	C0439234	calificador	75-79	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	.	.	Fp	-	-	79-80	467_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Desde	desde	SPS00	-	-	81-86	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hace	hacer	VMIP3S0	-	-	87-91	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	92-98	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	meses	mes	NCMP000	C0439231	calificador	99-104	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	refiere	referir	VMIP3S0	-	-	105-112	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	presentar	presentar	VMN0000	-	-	113-122	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	cuadros	cuadro	NCMP000	-	-	123-130	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	131-133	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	náuseas	náusea	NCFP000	-	-	134-141	467_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	,	,	Fc	-	-	141-142	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	143-146	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	algunos	alguno	DI0MP0	C0205392	calificador	147-154	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	155-162	467_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	alimentarios	alimentario	AQ0MP0	-	-	163-175	467_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	13	5325	Modif
+15	y	y	CC	C1706368	calificador	176-177	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	178-188	467_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+17	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	189-198	467_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	16	5325	LOC
+18	.	.	Fp	-	-	198-199	467_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Ha	haber	VAIP3S0	-	-	200-202	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	perdido	perder	VMP00SM	-	-	203-210	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	6	6	Z	-	-	211-212	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	Kg	kg	NCMN000	-	-	213-215	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	216-218	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	peso	peso	NCMS000	C0043100	calificador	219-223	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	.	.	Fp	-	-	223-224	467_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	225-237	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	:	:	Fd	-	-	237-238	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	esófago	esófago	NCMS000	C0577015_1	hallazgo_1	239-246	467_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	normal	normal	NCFS000	C0577015_2	hallazgo_2	247-253	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	,	,	Fc	-	-	253-254	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	estómago	estómago	NCMS000	C3714551#C1278920	estructura_corporal	255-263	467_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	264-267	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	restos	resto	NCMP000	-	-	268-274	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	alimentarios	alimentario	AQ0MP0	-	-	275-287	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	288-289	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	resto	resto	NCMS000	-	-	290-295	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	296-298	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	la	el	DA0FS0	-	-	299-301	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	exploración	exploración	NCFS000	C1280903	procedimiento	302-313	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	hasta	hasta	SPS00	-	-	314-319	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	segunda	2	AO0FS0	-	-	320-327	467_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+17	porción	porción	NCFS000	-	-	328-335	467_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	16	73	MultiE
+18	duodenal	duodenal	AQ0CS0	C0013303	calificador	336-344	467_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	16	73	MultiE
+19	sin	sin	SPS00	C0332288	atributo	345-348	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	alteraciones	alteración	NCFP000	-	-	349-361	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	.	.	Fp	-	-	361-362	467_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	363-364	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	364-367	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	prueba	prueba	NCFS000	-	-	368-374	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	considera	considerar	VMIP3S0	-	-	375-384	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	que	que	CS	-	-	385-388	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	389-391	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	392-394	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	395-400	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	utilidad	utilidad	NCFS000	-	-	401-409	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	para	para	SPS00	C0521125	calificador	410-414	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	su	su	DP3CS0	-	-	415-417	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	diagnósti_x0002_co	diagnósti_x0002_co		-	-	418-436	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	?	?	Fit	-	-	436-437	467_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

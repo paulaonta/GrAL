@@ -1,0 +1,19 @@
+1	Beta-HCG	beta-hcg	NCMS000	-	-	0-8	614_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	9-11	614_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sangre	sangre	NCFS000	C0005767	sustancia	12-18	614_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	.	.	Fp	-	-	18-19	614_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Histeroscopia	histeroscopia	NC00SC0	C0020710_1	procedimiento_1	0-13	614_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	diagnóstica	diagnóstico	AQ0FS0	C0020710_2	procedimiento_2	14-25	614_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	.	.	Fp	-	-	25-26	614_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Legrado	legrado	NC00SC0	C0010468	procedimiento	0-7	614_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	uterino	uterino	AQ0MS0	-	-	8-15	614_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	diagnóstico-terapéutico	diagnóstico-terapéutico	AQ0MS00	-	-	16-39	614_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	.	.	Fp	-	-	39-40	614_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	0-7	614_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	hormonal	hormonal	AQ0CS0	C0458083	calificador	8-16	614_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	ginecológico	ginecológico	AQ0MS0	C0205480	calificador	17-29	614_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	.	.	Fp	-	-	29-30	614_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

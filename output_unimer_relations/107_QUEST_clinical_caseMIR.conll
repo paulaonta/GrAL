@@ -1,0 +1,119 @@
+1	Acude	acudir	VMIP3S0	-	-	0-5	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	a	a	SPS00	-	-	6-7	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	8-16	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	a	a	SPS00	-	-	17-18	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	la	el	DA0FS0	-	-	19-21	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	22-30	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	31-33	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	alergia	alergia	NCFS000	C0020517	trastorno	34-41	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	42-45	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	46-51	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	52-54	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	53	53		-	-	55-57	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	58-62	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0001779_1	entidad_observable_1	63-65	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	edad	edad	NCFS000	C0001779_2	entidad_observable_2	66-70	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	71-74	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	asma	asma	NCMS000	C0004096#C0085129#C1319018#C1260881_1	trastorno_1	75-79	107_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	bronquial	bronquial	NC00SC0	C0004096#C0085129#C1319018#C1260881_2	trastorno_2	80-89	107_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	17	5503	LOC
+19	.	.	Fp	-	-	89-90	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	91-98	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	repetidas	repetir	VMP00PF	C0205341	calificador	99-108	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	agudizaciones	agudización	NCFP000	-	-	109-122	107_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	123-126	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	clínica	clínica	NCFS000	C0442592	medio_ambiente	127-134	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	nocturna	nocturno	AQ0FS0	C0240526	calificador	135-143	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	,	,	Fc	-	-	143-144	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	utilización	utilización	NCFS000	-	-	145-156	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	frecuente	frecuente	AQ0CS0	C0332183	calificador	157-166	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	167-169	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	medicación	medicación	NCFS000	C0013227	sustancia	170-180	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	181-183	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	rescate	rescate	NCMS000	-	-	184-191	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	192-193	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	194-200	107_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	de	de	SPS00	C0231807_2	hallazgo_2	201-203	107_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	15	5504	Modif
+17	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	204-212	107_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	16	73	MultiE
+18	al	al	SP+DA	-	-	213-215	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	caminar	caminar	VMN0000	C0080331	entidad_observable	216-223	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	224-226	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	llano	llano	NCMS000	-	-	227-232	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	232-233	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	234-239	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	240-243	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	espirometría	espirometría	NCFS000	C0037981	procedimiento	244-256	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	que	que	PR0CN000	-	-	257-260	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	muestra	mostrar	VMIP3S0	-	-	261-268	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	269-271	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	cociente	cociente	NCMS000	C0456603	calificador	272-280	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	prebroncodilatador	prebroncodilatador	NC00SC0	-	-	281-299	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	del	del	SP+DA	-	-	300-303	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	FEV1/FVC	FEV1/FVC		-	-	304-312	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	del	del	SP+DA	-	-	313-316	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	60	60	Z	-	-	317-319	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	%	%	Ft	-	-	319-320	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	321-322	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	323-325	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	FEV1	FEV1		-	-	326-330	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	del	del	SP+DA	-	-	331-334	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	55	55	Z	-	-	335-337	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	%	%	Ft	-	-	337-338	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	.	.	Fp	-	-	338-339	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	340-343	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	pruebas	prueba	NCFP000	-	-	344-351	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	cutáneas	cutáneo	AQ0FP0	-	-	352-360	107_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	son	ser	VSIP3P0	-	-	361-364	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	positivas	positivo	AQ0FP0	C1446409	calificador	365-374	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	para	para	SPS00	C0521125	calificador	375-379	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	ácaros	ácaro	NCMP000	C0026231	organismo	380-386	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	387-388	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	la	el	DA0FS0	-	-	389-391	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	IgE	ige	VMIP3S0	-	-	392-395	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	396-401	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	402-404	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	150	150		-	-	405-408	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	UI	ui	NC00SC0	C0439453	calificador	409-411	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	/	/	Fh	-	-	411-412	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	ml	mililitro	NCMN000	C0439242	calificador	412-414	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	.	.	Fp	-	-	414-415	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	416-418	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	419-427	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	está	estar	VAIP3S0	-	-	428-432	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	siendo	ser	VSG0000	-	-	433-439	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	tratada	tratar	VMP00SF	-	-	440-447	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	448-451	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	452-455	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	combinación	combinación	NCFS000	C0205195#C0453882	calificador#objeto_físico	456-467	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	468-470	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	salmeterol	salmeterol	NC00SC0	C0073992	producto#sustancia	471-481	107_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+11	/	/	Fh	-	-	481-482	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	budesonida	budesonida	NC00SC0	C0054201	producto#sustancia	482-492	107_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+13	a	a	SPS00	-	-	493-494	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	dosis	dosis	NCFN000	-	-	495-500	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	altas	alto	AQ0FP0	C0205250	calificador	501-506	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	(	(	Fpa	-	-	507-508	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	50/500mg	50/500mg		-	-	508-516	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	:	:	Fd	-	-	516-517	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	2	2		-	-	518-519	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	inhalaciones	inhalación	NCFP000	C0004048	entidad_observable#función	520-532	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	dos	dos		-	-	533-536	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	veces	vez	NCFP000	-	-	537-542	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	al	al	SP+DA	-	-	543-545	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+24	día	día	NCMS000	C0439228#C0332169	calificador	546-549	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	)	)	Fpt	-	-	549-550	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	,	,	Fc	-	-	550-551	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	prednisona	prednisona	NCFS000	C0032952	sustancia	552-562	107_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+28	oral	oral	AQ0CS0	C0442027	calificador	563-567	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	568-570	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	mantenimeinto	mantenimeinto	NCMS000	-	-	571-584	107_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+31	(	(	Fpa	-	-	585-586	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+32	10mg/día	10mg/día		-	-	586-594	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+33	)	)	Fpt	-	-	594-595	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+34	y	y	CC	C1706368	calificador	596-597	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+35	teofilina	teofilina	NCFS000	C0039771	producto#sustancia	598-607	107_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+36	.	.	Fp	-	-	607-608	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

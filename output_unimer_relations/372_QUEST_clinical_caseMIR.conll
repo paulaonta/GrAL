@@ -1,0 +1,69 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	80	80		-	-	12-14	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	procedente	procedente	AQ0CS0	-	-	20-30	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	31-33	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	34-37	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	residencia	residenciar	VMM02S0	C0442512_1	medio_ambiente_1	38-48	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0442512_2	medio_ambiente_2	49-51	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	ancianos	anciano	NCMP000	C0442512_3	medio_ambiente_3	52-60	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	.	.	Fp	-	-	60-61	372_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	62-70	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	sepsis	sepsis	NCFN000	C0243026	trastorno	71-77	372_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	78-80	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	origen	origen	NCMS000	C0439659	atributo	81-87	372_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	2	3511	Causada_por
+5	urinario	urinario	AQ0MS0	-	-	88-96	372_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	4	23	MultiE
+6	que	que	PR0CN000	-	-	97-100	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	no	no	RN	C1298908	calificador	101-103	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	responde	responder	VMIP3S0	-	-	104-112	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	al	al	SP+DA	-	-	113-115	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	116-127	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	128-136	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	con	con	SPS00	C0332287	atributo	137-140	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	141-152	372_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+14	.	.	Fp	-	-	152-153	372_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	154-156	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	los	el	DA0MP0	-	-	157-160	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	hemocultivos	hemocultivos	NCMP000	-	-	161-173	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	174-175	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	urocultivos	urocultivos	NCMP000	-	-	176-187	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	crece	crecer	VMIP3S0	-	-	188-193	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	E.	E.		-	-	194-196	372_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	coli	cosímbolo_químico_del_litio	NC00YL0	-	-	197-201	372_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	7	45	MultiE
+9	resistente	resistente	NCMS000	C0332325_1	calificador_1	202-212	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	a	a	SPS00	C0332325_2	calificador_2	213-214	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	cefalosporinas	cefalosporinas	NCFP000	-	-	215-229	372_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+12	.	.	Fp	-	-	229-230	372_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	231-233	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	laboratorio	laboratorio	NCMS000	C0022877	medio_ambiente	234-245	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	nos	nos	PP1CP000	-	-	246-249	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	informa	informar	VMIP3S0	C0700287	procedimiento	250-257	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	que	que	CS	-	-	258-261	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	262-264	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	265-268	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	cepa	cepa	NCFS000	-	-	269-273	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	productora	productor	NCFS000	-	-	274-284	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	285-287	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	betalactamasas	betalactamasas	NCFP000	-	-	288-302	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	303-305	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	espectro	espectro	NCMS000	-	-	306-314	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	ampliado	ampliar	VMP00SM	-	-	315-323	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	323-324	372_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	325-326	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	326-329	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	330-341	372_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+4	,	,	Fc	-	-	341-342	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	entre	entre	SPS00	C0205103	calificador	343-348	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	los	el	DA0MP0	-	-	349-352	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	353-363	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	,	,	Fc	-	-	363-364	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	debe	deber	VMIP3S0	-	-	365-369	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	utilizar	utilizar	VMN0000	-	-	370-378	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	se	se	PP3CN000	-	-	378-380	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	?	?	Fit	-	-	380-381	372_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

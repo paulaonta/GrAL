@@ -1,0 +1,62 @@
+1	El	el	DA0MS0	C0025320_1	entidad_observable_1	0-2	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	cambio	cambio	NCMS000	C0025320_2	entidad_observable_2	3-9	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	ciprofloxacino	ciprofloxacino	NC00SC0	C0008809	sustancia	13-27	358_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	28-31	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	norfloxacino	norfloxacino	NC00SC0	C0028365	sustancia	32-44	358_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+7	hubiera	haber	VASI1S0	-	-	45-52	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	sido	ser	VSP00SM	-	-	53-57	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	correcto	correcto	AQ0MS0	C0205170	calificador	58-66	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	,	,	Fc	-	-	66-67	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	según	según	SPS00	-	-	68-73	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	los	el	DA0MP0	-	-	74-77	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	78-88	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	del	del	SP+DA	-	-	89-92	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	93-105	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	.	.	Fp	-	-	105-106	358_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Cotrimoxazol	cotrimoxazol	NC00SC0	C0041044	sustancia	0-12	358_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	estaba	estar	VAII3S0	-	-	13-19	358_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	siendo	ser	VSG0000	-	-	20-26	358_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	empleado	emplear	VMP00SM	-	-	27-35	358_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	como	como	CS	C0332257	calificador	36-40	358_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	41-44	358_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	profilaxis	profilaxis	NCFN000	C0199176	procedimiento	45-55	358_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	.	.	Fp	-	-	55-56	358_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	elección	elección	NCFS000	-	-	3-11	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	fosfamicina	fosfamicina	NCFS000	-	-	15-26	358_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	constituye	constituir	VMIP3S0	-	-	27-37	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	38-40	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	41-52	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	dirigido	dirigir	VMP00SM	-	-	53-61	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	61-62	358_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	elección	elección	NCFS000	-	-	3-11	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	ciprofloxacino	ciprofloxacino	NC00SC0	C0008809	sustancia	15-29	358_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+5	constituye	constituir	VMIP3S0	-	-	30-40	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	41-43	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	44-55	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	56-64	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	.	.	Fp	-	-	64-65	358_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	El	el	DA0MS0	C0025320_1	entidad_observable_1	0-2	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	cambio	cambio	NCMS000	C0025320_2	entidad_observable_2	3-9	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	ciprofloxacino	ciprofloxacino	NC00SC0	C0008809	sustancia	13-27	358_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+5	por	por	SPS00	C0678226	atributo	28-31	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	fosfomicina	fosfomicina	NC00SC0	C0016610	producto#sustancia	32-43	358_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+7	fue	ser	VSIS3S0	-	-	44-47	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	correcto	correcto	AQ0MS0	C0205170	calificador	48-56	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	,	,	Fc	-	-	56-57	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	según	según	SPS00	-	-	58-63	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	los	el	DA0MP0	-	-	64-67	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	68-78	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+13	del	del	SP+DA	-	-	79-82	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+14	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	83-95	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+15	.	.	Fp	-	-	95-96	358_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

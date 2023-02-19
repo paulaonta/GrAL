@@ -1,0 +1,175 @@
+1	¿	¿	Fia	-	-	615-616	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	616-619	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	prueba	prueba	NCFS000	-	-	620-626	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	pediría	pedir	VMIC3S0	-	-	627-634	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	para	para	SPS00	C0521125	calificador	635-639	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	establecer	establecer	VMN0000	-	-	640-650	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	el	el	DA0MS0	-	-	651-653	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	654-665	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	definitivo	definitivo	AQ0MS0	C0443196	calificador	666-676	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	?	?	Fit	-	-	676-677	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	:	:	Fd	-	-	677-678	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	El	el	DA0MS0	-	-	0-2	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	paciente	paciente	AQ0CS0	C0030705	persona	3-11	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	probablemente	probablemente	RG	C1444704_1	calificador_1	12-25	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	presente	presente	NCMS000	C1444704_2	calificador_2	26-34	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	35-38	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	39-47	287_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	y	y	CC	C1706368	calificador	48-49	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	lo	el	DA0NS0	-	-	50-52	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	prioritario	prioritario	AQ0MS0	-	-	53-64	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	es	ser	VSIP3S0	-	-	65-67	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	realizar	realizar	VMN0000	-	-	68-76	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	una	una		C0205447_1	calificador_1	77-80	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	81-83	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	de	de	SPS00	C0039985_2	procedimiento_2	84-86	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	87-92	287_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+27	para	para	SPS00	C0521125	calificador	93-97	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+28	confirmar	confirmar	VMN0000	-	-	98-107	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+29	lo	lo	PP3CNA00	-	-	107-109	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	109-110	287_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Probablemente	probablemente	RG	C0332148	calificador	0-13	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	se	se	P00CN000	-	-	14-16	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	trate	tratar	VMSP3S0	-	-	17-22	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	26-29	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	agudización	agudización	NCFS000	-	-	30-41	287_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	42-44	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	su	su	DP3CS0	-	-	45-47	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	48-52	287_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	6	3691	Causada_por
+10	debido	deber	VMP00SM	C0678226_1	atributo_1	53-59	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	a	a	SPS00	C0678226_2	atributo_2	60-61	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	62-65	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	sobreinfección	sobreinfección	NCFS000	-	-	66-80	287_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	6	3691	Causada_por
+14	respiratoria	respiratorio	AQ0FS0	-	-	81-93	287_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	13	3691	LOC
+15	.	.	Fp	-	-	93-94	287_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Reforzar	reforzar	VMN0000	-	-	95-103	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	104-106	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	107-118	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	119-121	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	base	base	NCCS000	C1626935#C0178499	calificador#sustancia	122-126	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	127-130	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	131-133	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	beta-2	beta-2		-	-	134-140	287_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+9	inhalado	inhalar	VMP00SM	-	-	141-149	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	,	,	Fc	-	-	149-150	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	corticoides	corticoide	AQ0CP0	-	-	151-162	287_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+12	y	y	CC	C1706368	calificador	163-164	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	165-177	287_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+14	y	y	CC	C1706368	calificador	178-179	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	vigilar	vigilar	VMN0000	-	-	180-187	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	evolución	evolución	NCFS000	-	-	188-197	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	.	.	Fp	-	-	197-198	287_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	0-2	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	probable	probable	AQ0CS0	C0332148	calificador	3-11	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	que	que	CS	-	-	12-15	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	tenga	tener	VMSP3S0	-	-	16-21	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	22-24	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	componente	componente	NCCS000	C0449432	atributo	25-35	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	36-38	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	39-52	287_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+9	cardiaca	cardiaco	AQ0FS0	-	-	53-61	287_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	8	3693	LOC
+10	izquierda	izquierdo	AQ0FS0	C0205091	calificador	62-71	287_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	9	43	MultiE
+11	asociada	asociar	VMP00SF	-	-	72-80	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	a	a	SPS00	-	-	81-82	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	83-86	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	infección	infección	NCFS000	C0035243_1	trastorno_1	87-96	287_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	8	3693	Causada_por
+15	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	97-109	287_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	14	3693	LOC
+16	febril	febril	AQ0CS0	C0015967	hallazgo	110-116	287_ANS_clinical_caseMIR	SENT4	B-Calificador	-	14	3693	Modif
+17	.	.	Fp	-	-	116-117	287_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Sería	ser	VSIC1S0	-	-	118-123	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	prioritario	prioritario	AQ0MS0	-	-	124-135	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	el	el	DA0MS0	-	-	136-138	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	tratar	tratar	VMN0000	-	-	139-145	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	lo	lo	PP3CNA00	-	-	145-147	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	148-151	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	vasodilatadores	vasodilatador	NCMP000	C0042402	sustancia	152-167	287_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+8	y	y	CC	C1706368	calificador	168-169	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	diuréticos	diurético	NCMP000	C0012798	sustancia	170-180	287_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+10	además	además	RG	-	-	181-187	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	del	del	SP+DA	-	-	188-191	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	192-203	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+13	que	que	PR0CN000	-	-	204-207	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+14	corresponda	corresponder	VMSP3S0	-	-	208-219	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+15	su	su	DP3CS0	-	-	220-222	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+16	infección	infección	NCFS000	C0035243_1	trastorno_1	223-232	287_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+17	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	233-245	287_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	16	3694	LOC
+18	,	,	Fc	-	-	245-246	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+19	broncodilatadores	broncodilatadores	NCMP000	-	-	247-264	287_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+20	.	.	Fp	-	-	264-265	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+21	etc.	etcétera	Fs	-	-	266-270	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+22	El	el	DA0MS0	-	-	0-2	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+23	paciente	paciente	NCCS000	C0030705	persona	3-11	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+24	no	no	RN	C1298908	calificador	12-14	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+25	está	estar	VAIP3S0	-	-	15-19	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+26	clasificado	clasificar	VMP00SM	-	-	20-31	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	32-34	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+28	la	el	DA0FS0	-	-	35-37	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+29	gravedad	gravedad	NCFS000	C0282189#C0439793	fuerza_física#calificador	38-46	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+30	de	de	SPS00	C0332285	atributo	47-49	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+31	su	su	DP3CS0	-	-	50-52	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+32	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	53-57	287_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+33	por	por	SPS00	C0678226	atributo	58-61	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+34	lo	el	DA0NS0	-	-	62-64	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+35	que	que	PR0CN000	-	-	65-68	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+36	indicaría	indicar	VMIC3S0	-	-	69-78	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+37	una	una		C0205447_1	calificador_1	79-82	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+38	espirometría	espirometría	NCFS000	C0037981	procedimiento	83-95	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+39	inmediata	inmediato	AQ0FS0	C0205253	calificador	96-105	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+40	para	para	SPS00	C0521125	calificador	106-110	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+41	ajustar	ajustar	VMN0000	-	-	111-118	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+42	el	el	DA0MS0	-	-	119-121	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+43	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	122-133	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+44	a	a	SPS00	-	-	134-135	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+45	la	el	DA0FS0	-	-	136-138	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+46	gravedad	gravedad	NCFS000	C0282189#C0439793	fuerza_física#calificador	139-147	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+47	de	de	SPS00	C0332285	atributo	148-150	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+48	la	el	DA0FS0	-	-	151-153	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+49	obstrucción	obstrucción	NCFS000	C0028778	anomalía_morfológica	154-165	287_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+50	.	.	Fp	-	-	165-166	287_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Asociaría	asociar	VMIC3S0	-	-	167-176	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	además	además	RG	-	-	177-183	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	184-186	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+4	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	187-198	287_ANS_clinical_caseMIR	SENT6	B-Grp_Medicamento	-	-	-	-
+5	dado	dar	VMP00SM	C1947971	calificador	199-203	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	el	el	DA0MS0	-	-	204-206	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+7	cuadro	cuadro	NCMS000	-	-	207-213	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+8	aparente	aparente	AQ0CS0	-	-	214-222	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	223-225	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+10	sobreinfección	sobreinfección	NCFS000	-	-	226-240	287_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Especulacion	-	-	-
+11	respiratoria	respiratorio	AQ0FS0	-	-	241-253	287_ANS_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	10	3695	LOC
+12	.	.	Fp	-	-	253-254	287_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	0-2	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+2	ecocardiograma	ecocardiograma	NCMS000	-	-	3-17	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	18-23	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+4	la	el	DA0FS0	-	-	24-26	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+5	primera	1	AO0FS0	-	-	27-34	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+6	exploración	exploración	NCFS000	C1280903	procedimiento	35-46	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+7	a	a	SPS00	-	-	47-48	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+8	realizar	realizar	VMN0000	-	-	49-57	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+9	para	para	SPS00	C0521125	calificador	58-62	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+10	descartar	descartar	VMN0000	C0332196	calificador	63-72	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	73-75	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+12	posible	posible	AQ0CS0	C0332149#C2362652	calificador	76-83	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+13	componente	componente	NCCS000	C0449432	atributo	84-94	287_ANS_clinical_caseMIR	SENT7	-	Especulacion	-	-	-
+14	de	de	SPS00	C0332285	atributo	95-97	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+15	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	98-111	287_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	Especulacion	21	3696	Causada_por
+16	cardiaca	cardiaco	AQ0FS0	-	-	112-120	287_ANS_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	15	3696	LOC
+17	asociado	asociar	VMP00SM	-	-	121-129	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+18	al	al	SP+DA	-	-	130-132	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+19	cuadro	cuadro	NCMS000	-	-	133-139	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	140-142	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+21	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	143-147	287_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+22	agudizado	agudizar	VMP00SM	-	-	148-157	287_ANS_clinical_caseMIR	SENT7	B-Calificador	-	21	3696	Modif
+23	que	que	PR0CN000	-	-	158-161	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+24	presenta	presentar	VMIP3S0	-	-	162-170	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+25	el	el	DA0MS0	-	-	171-173	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+26	paciente	paciente	NCCS000	C0030705	persona	174-182	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+27	.	.	Fp	-	-	182-183	287_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+

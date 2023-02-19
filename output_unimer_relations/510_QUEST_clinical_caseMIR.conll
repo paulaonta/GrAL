@@ -1,0 +1,62 @@
+1	Recibe	recibir	VMIP3S0	-	-	0-6	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	7-9	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	su	su	DP3CS0	-	-	10-12	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	13-21	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	a	a	SPS00	-	-	22-23	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	24-26	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	27-32	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	33-35	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	65	65		-	-	36-38	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	años	año	NCMP000	C0439234	calificador	39-43	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	,	,	Fc	-	-	43-44	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ex	ex	NCCN000	C0337671_1	estilo_de_vida_1	45-47	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	fumador	fumador	NCMS000	C0337671_2	estilo_de_vida_2	48-55	510_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	56-59	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	60-62	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	consumo	consumo	NCMS000	-	-	63-70	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	acumulado	acumular	VMP00SM	-	-	71-80	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	81-83	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	50	50		-	-	84-86	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	paquetes	paquete	NCMP000	C1641805	calificador	87-95	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	/	/	Fh	-	-	95-96	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	año	año	NCMS000	C0439234	calificador	96-99	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	y	y	CC	C1706368	calificador	100-101	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	con	con	SPS00	C0332287	atributo	102-105	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	106-117	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	118-120	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	121-125	510_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	29	5848	Causada_por
+28	tipo	tipo	NCMS000	C0332307	calificador#atributo	126-130	510_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	29	5848,27	Modif,5848
+29	enfisema	enfisema	NCMS000	C0013990	anomalía_morfológica	131-139	510_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	27	5848	Modif
+30	.	.	Fp	-	-	139-140	510_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	141-148	510_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	149-152	510_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	153-156	510_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	poca	poco	DI0FS0	C0700321#C1282918	-	157-161	510_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	162-175	510_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	y	y	CC	C1706368	calificador	176-177	510_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	178-184	510_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	185-187	510_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	5849	Modif
+9	moderados	moderar	VMP00PM	-	-	188-197	510_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	41	MultiE
+10	esfuerzos	esfuerzo	NCMP000	-	-	198-207	510_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	41	MultiE
+11	.	.	Fp	-	-	207-208	510_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Solicita	solicitar	VMIP3S0	-	-	209-217	510_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	pruebas	prueba	NCFP000	-	-	218-225	510_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	funcionales	funcional	AQ0CP0	C0205245	calificador	226-237	510_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	respiratorias	respiratorio	AQ0FP0	-	-	238-251	510_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	251-252	510_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	De	de	SPS00	C0332285	atributo	253-255	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	los	el	DA0MP0	-	-	256-259	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	260-270	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	271-281	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	,	,	Fc	-	-	281-282	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	¿	¿	Fia	-	-	283-284	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	cuál	cuál	PT0CS000	-	-	284-288	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	289-291	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	parece	parecer	VMIP3S0	-	-	292-298	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	MENOS	menos	RG	C0332288	atributo	299-304	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	probable	probable	AQ0CS0	C0332148	calificador	305-313	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	?	?	Fit	-	-	313-314	510_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

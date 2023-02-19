@@ -1,0 +1,138 @@
+1	La	el	DA0FS0	-	-	0-2	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	3-14	27_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+3	del	del	SP+DA	-	-	15-18	27_ANS_clinical_caseMIR	SENT1	B-Calificador	-	2	968	Modif
+4	crecimiento	crecimiento	NCMS000	C0018271#C1261479_1	hallazgo_1	19-30	27_ANS_clinical_caseMIR	SENT1	I-Calificador	-	3	30	MultiE
+5	y	y	NCFS000	C0018271#C1261479_2	hallazgo_2	31-32	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	desarrollo	desarrollo	NCMS000	C0018271#C1261479_3	hallazgo_3	33-43	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	sexual	sexual	AQ0CS0	-	-	44-50	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	50-51	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	edad	edad	NCFS000	C0541764_1	hallazgo_1	52-56	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	ósea	óseo	AQ0FS0	C0541764_2	hallazgo_2	57-61	27_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+11	retrasada	retrasar	VMP00SF	C0541764_3	hallazgo_3	62-71	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	,	,	Fc	-	-	71-72	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	cefalea	cefalea	NCFS000	C0018681	hallazgo	73-80	27_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	y	y	CC	C1706368	calificador	81-82	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	alteración	alteración	NCFS000	C0547030_1	hallazgo#trastorno_1	83-93	27_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	visual	visual	NC00SC0	C0547030_2	hallazgo#trastorno_2	94-100	27_ANS_clinical_caseMIR	SENT1	B-Calificador	-	15	968	Modif
+17	sugieren	sugerir	VMIP3P0	-	-	101-109	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	déficit	déficit	NCMS000	C0162429	hallazgo	110-117	27_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+19	hormonal	hormonal	AQ0CS0	C0458083	calificador	118-126	27_ANS_clinical_caseMIR	SENT1	B-Calificador	-	18	968	LOC
+20	y	y	CC	C1706368	calificador	127-128	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	compromiso	compromiso	NCMS000	C1314939	atributo	129-139	27_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	del	del	SP+DA	-	-	140-143	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	quiasma	quiasma	NCMS000	C0029126_1	estructura_corporal_1	144-151	27_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	21	968	LOC
+24	óptico	óptico	NCMS000	C0029126_2	estructura_corporal_2	152-158	27_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	23	106	MultiE
+25	.	.	Fp	-	-	158-159	27_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	0-2	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	ser	ser	VSN0000	-	-	3-6	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	7-10	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	niña	niño	NCFS000	C0008059#C0870221	persona	11-15	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	16-18	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	19-23	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	puberal	puberal	AQ0CS0	C1627769	hallazgo	24-31	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	lo	el	DA0NS0	-	-	32-34	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	más	más	RG	C0205172	calificador	35-38	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	39-47	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	es	ser	VSIP3S0	-	-	48-50	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	que	que	CS	-	-	51-54	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	su	su	DP3CS0	-	-	55-57	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	58-69	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	70-72	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	crecimiento	crecimiento	NCMS000	-	-	73-84	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	85-86	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	retraso	retraso	NCMS000	-	-	87-94	27_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+19	sexual	sexual	AQ0CS0	-	-	95-101	27_ANS_clinical_caseMIR	SENT2	B-Calificador	-	18	969	LOC
+20	sean	ser	VSSP3P0	-	-	102-106	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+21	debidos	deber	VMP00PM	-	-	107-114	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+22	a	a	SPS00	-	-	115-116	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+23	un	un		C0205447_1	calificador_1	117-119	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+24	síndrome	síndrome	NCMS000	C0041408#C1527168#C0018051_1	trastorno_1	120-128	27_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	18	969	Causada_por
+25	de	de	SPS00	C0041408#C1527168#C0018051_2	trastorno_2	129-131	27_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	24	189	MultiE
+26	Turner	Turner		C0041408#C1527168#C0018051_3	trastorno_3	132-138	27_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	24	189	MultiE
+27	.	.	Fp	-	-	138-139	27_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tener	tener	VMN0000	-	-	8-13	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	14-16	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	17-22	27_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+6	hipotalámico	hipotalámico	AQ0MS0	-	-	23-35	27_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	970	Modif
+7	por	por	SPS00	C0678226	atributo	36-39	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	la	el	DA0FS0	-	-	40-42	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	43-51	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	de	de	SPS00	C0332197_2	calificador_2	52-54	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	poliuria	poliuria	NCFS000	C0032617	hallazgo#trastorno	55-63	27_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+12	y	y	CC	C1706368	calificador	64-65	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	polidipsia	polidipsia	NCFS000	C1994994#C0085602	hallazgo	66-76	27_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+14	.	.	Fp	-	-	76-77	27_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Seguramente	seguramente	RG	-	-	78-89	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	tenga	tener	VMSP3S0	-	-	90-95	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	retraso	retraso	NCMS000	-	-	96-103	27_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+4	constitucional	constitucional	AQ0CS0	-	-	104-118	27_ANS_clinical_caseMIR	SENT4	B-Calificador	-	3	971	Modif
+5	y	y	CC	C1706368	calificador	119-120	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	su	su	DP3CS0	-	-	121-123	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	problema	problema	NCMS000	C0033213	hallazgo	124-132	27_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	visual	visual	AQ0CS0	C0234621	calificador	133-139	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	sea	ser	VSSP1S0	-	-	140-143	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	144-146	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	refracción	refracción	NCFS000	C0429585	entidad_observable	147-157	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	.	.	Fp	-	-	157-158	27_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	0-2	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	déficit	déficit	NCMS000	C0271561_1	trastorno_1	3-10	27_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+3	de	de	SPS00	C0271561_2	trastorno_2	11-13	27_ANS_clinical_caseMIR	SENT5	B-Calificador	-	2	972	Modif
+4	hormona	hormona	NCFS000	C0271561_3	trastorno_3	14-21	27_ANS_clinical_caseMIR	SENT5	I-Calificador	-	3	30	MultiE
+5	de	de	SPS00	C0271561_4	trastorno_4	22-24	27_ANS_clinical_caseMIR	SENT5	I-Calificador	-	3	30	MultiE
+6	crecimiento	crecimiento	NCMS000	C0271561_5	trastorno_5	25-36	27_ANS_clinical_caseMIR	SENT5	I-Calificador	-	3	30	MultiE
+7	puede	poder	VMIP3S0	-	-	37-42	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	explicar	explicar	VMN0000	-	-	43-51	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	el	el	DA0MS0	-	-	52-54	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	retraso	retraso	NCMS000	C0015544_1	trastorno_1	55-62	27_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+11	del	del	SP+DA	C0015544_2	trastorno_2	63-66	27_ANS_clinical_caseMIR	SENT5	B-Calificador	-	10	972	Modif
+12	desarrollo	desarrollo	NCMS000	C0015544_3	trastorno_3	67-77	27_ANS_clinical_caseMIR	SENT5	I-Calificador	-	11	50	MultiE
+13	y	y	CC	C1706368	calificador	78-79	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+14	estradiol	estradiol	NCMS000	C0014912	sustancia	80-89	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+15	bajo	bajo	AQ0MS0	C0205251	calificador	90-94	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+16	.	.	Fp	-	-	94-95	27_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Valorar	valorar	VMN0000	-	-	96-103	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	si	si	CS	-	-	104-106	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+3	precisa	precisar	VMIP3S0	-	-	107-114	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+4	gafas	gafas	NCFP000	C0015421	objeto_físico	115-120	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+5	,	,	Fc	-	-	120-121	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	122-125	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+7	sus	su	DP3CP0	-	-	126-129	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+8	cefaleas	cefalea	NCFP000	C0018681	hallazgo	130-138	27_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	139-140	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+10	alteraciones	alteración	NCFP000	-	-	141-153	27_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+11	visuales	visual	AQ0CP0	C0234621	calificador	154-162	27_ANS_clinical_caseMIR	SENT6	B-Calificador	-	10	973	Modif
+12	.	.	Fp	-	-	162-163	27_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Podría	poder	VMIC3S0	-	-	0-6	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+2	tener	tener	VMN0000	-	-	7-12	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	13-15	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+4	craneofaringioma	craneofaringioma	NC00SC0	C0010276	trastorno#anomalía_morfológica	16-32	27_ANS_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+5	pero	pero	CC	-	-	33-37	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+6	sería	ser	VSIC1S0	-	-	38-43	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+7	raro	raro	AQ0MS0	C0522498	calificador	44-48	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+8	que	que	CS	-	-	49-52	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+9	no	no	RN	C1298908	calificador	53-55	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+10	hubiera	haber	VASI1S0	-	-	56-63	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+11	dado	dar	VMP00SM	C1947971	calificador	64-68	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+12	síntomas	síntoma	NCMP000	C1457887	hallazgo	69-77	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+13	antes	antes	RG	C0332152	atributo	78-83	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+14	.	.	Fp	-	-	83-84	27_ANS_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Además	además	RG	-	-	85-91	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+2	,	,	Fc	-	-	91-92	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+3	no	no	RN	C1298908	calificador	93-95	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+4	justificaría	justificar	VMIC3S0	-	-	96-108	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+5	las	el	DA0FP0	-	-	109-112	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+6	gonadotrofinas	gonadotrofinas	NC00SC0	C0018061	sustancia	113-127	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	128-129	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+8	estradiol	estradiol	NCMS000	C0014912	sustancia	130-139	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+9	bajos	bajo	AQ0MP0	C0205251	calificador	140-145	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+10	.	.	Fp	-	-	145-146	27_ANS_clinical_caseMIR	SENT8	-	-	-	-	-
+

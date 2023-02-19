@@ -1,0 +1,57 @@
+1	La	el	DA0FS0	-	-	166-168	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	abuela	abuelo	NCFS000	C0337475	persona	169-175	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	,	,	Fc	-	-	175-176	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	posteriormente	posteriormente	RG	-	-	177-191	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	191-192	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	nos	nos	PP1CP000	-	-	193-196	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	dice	decir	VMIP3S0	-	-	197-201	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	que	que	CS	-	-	202-205	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	está	estar	VAIP3S0	-	-	206-210	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	vomitando	vomitar	VMG0000	-	-	211-220	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	desde	desde	SPS00	-	-	221-226	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ayer	ayer	RG	-	-	227-231	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	,	,	Fc	-	-	231-232	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	por	por	SPS00	C0678226	atributo	233-236	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	lo	el	DA0NS0	-	-	237-239	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	que	que	PR0CN000	-	-	240-243	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	244-246	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	dio	dar	VMIS3S0	C1947971	calificador	247-250	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	251-253	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	jarabe	jarabe	NCMS000	C0458173#C0991550	sustancia#calificador	254-260	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	:	:	Fd	-	-	260-261	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	¿	¿	Fia	-	-	262-263	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	cuál	cuál	PT0CS000	-	-	263-267	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	sería	ser	VSIC1S0	-	-	268-273	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	la	el	DA0FS0	-	-	274-276	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	actitud	actitud	NCFS000	C0004271	entidad_observable	277-284	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+27	terapéutica	terapéutico	AQ0FS0	-	-	285-296	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+28	más	más	RG	C0205172	calificador	297-300	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+29	acertada	acertar	VMP00SF	-	-	301-309	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+30	?	?	Fit	-	-	309-310	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+31	:	:	Fd	-	-	310-311	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+32	Enfermedad	enfermedad	NCFS000	C0002395_1	trastorno_1	0-10	244_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+33	de	de	SPS00	C0002395_2	trastorno_2	11-13	244_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	32	242	MultiE
+34	Alzheimer	Alzheimer		C0002395_3	trastorno_3	14-23	244_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	32	242	MultiE
+35	.	.	Fp	-	-	23-24	244_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Demencia	demencia	NCFS000	C0497327	trastorno	0-8	244_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	9-12	244_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	cuerpos	cuerpo	NCMP000	-	-	13-20	244_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	1	5591	Causada_por
+4	de	de	SPS00	C0332285	atributo	21-23	244_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	3	30	MultiE
+5	Lewy	Lewy		-	-	24-28	244_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	3	30	MultiE
+6	.	.	Fp	-	-	28-29	244_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Demencia	demencia	NCFS000	C0338451_1	trastorno_1	0-8	244_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	frontotemporal	frontotemporal	AQ0CS0	C0338451_2	trastorno_2	9-23	244_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	5592	LOC
+3	.	.	Fp	-	-	23-24	244_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Demencia	demencia	NCFS000	C0011269#C0011263#C0600359_1	trastorno_1	0-8	244_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	vascular	vascular	AQ0CS0	C0011269#C0011263#C0600359_2	trastorno_2	9-17	244_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	5593	LOC
+3	.	.	Fp	-	-	17-18	244_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	244_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	244_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	1	567	MultiE
+3	Creutzfeldt-Jakob	Creutzfeldt-Jakob		-	-	14-31	244_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	1	567	MultiE
+4	esporádica	esporádico	AQ0FS0	C0205422	calificador	32-42	244_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	.	.	Fp	-	-	42-43	244_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

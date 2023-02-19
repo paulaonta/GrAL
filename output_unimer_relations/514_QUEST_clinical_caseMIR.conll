@@ -1,0 +1,93 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	59	59		-	-	9-11	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	crisis	crisis	NCFN000	C0231224	hallazgo	21-27	514_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	epilépticas	epiléptico	NCFP000	-	-	28-39	514_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	6	15	MultiE
+8	de	de	SPS00	C0332285	atributo	40-42	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	reciente	reciente	AQ0CS0	C0332185	calificador	43-51	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	instauración	instauración	NCFS000	-	-	52-64	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	que	que	PR0CN000	-	-	65-68	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	acude	acudir	VMIP3S0	-	-	69-74	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	a	a	SPS00	-	-	75-76	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	urgencias	urgencia	NCFP000	C0439609	calificador	77-86	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	86-87	514_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	88-90	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	91-93	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	94-105	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	106-114	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	signos	signo	NCMP000	C0311392	hallazgo	115-121	514_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	piramidales	piramidal	AQ0CP0	-	-	122-133	514_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	5	23	MultiE
+7	izquierdos	izquierdo	AQ0MP0	C0205091	calificador	134-144	514_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	5	23	MultiE
+8	y	y	CC	C1706368	calificador	145-146	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	edema	edema	NCMS000	C0030353_1	trastorno#hallazgo_1	147-152	514_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0030353_2	trastorno#hallazgo_2	153-155	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	papila	papila	NCFS000	C0030353_3	trastorno#hallazgo_3	156-162	514_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	5311	LOC
+12	.	.	Fp	-	-	162-163	514_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	164-166	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	167-169	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	realiza	realizar	VMIP3S0	-	-	170-177	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	178-181	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	RM	rm	NC00YL0	-	-	182-184	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	cerebral	cerebral	AQ0CS0	-	-	185-193	514_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+7	que	que	PR0CN000	-	-	194-197	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	muestra	mostrar	VMIP3S0	-	-	198-205	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	206-209	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	210-214	514_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	16	5312,14	Causada_por,5312
+11	hemisférica	hemisférico	AQ0FS0	C0205139	calificador	215-226	514_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	10	5312	LOC
+12	derecha	derecha	NCFS000	-	-	227-234	514_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	11	50	MultiE
+13	con	con	SPS00	C0332287	atributo	235-238	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	edema	edema	NCMS000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	239-244	514_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+15	,	,	Fc	-	-	244-245	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	desviación	desviación	NCFS000	C0185033#C0333051	procedimiento#anomalía_morfológica	246-256	514_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	257-259	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	la	el	DA0FS0	-	-	260-262	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	línea	líneo	AQ0FS0	C2939193#C0205098#C0444598#C0549183_1	calificador_1	263-268	514_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	16	5312	LOC
+20	media	medio	PI0FS000	C2939193#C0205098#C0444598#C0549183_2	calificador_2	269-274	514_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	19	106	MultiE
+21	y	y	CC	C1706368	calificador	275-276	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	signos	signo	NCMP000	C0311392	hallazgo	277-283	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	284-286	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	herniación	herniación	NC00SC0	C0019270	anomalía_morfológica	287-297	514_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+25	tentorial	tentorial	AQ0CS00	-	-	298-307	514_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	24	5312	LOC
+26	.	.	Fp	-	-	307-308	514_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	309-316	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	que	que	CS	-	-	317-320	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	desde	desde	SPS00	-	-	321-326	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	hace	hacer	VMIP3S0	-	-	327-331	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	332-335	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	semana	semana	NCFS000	C0439230	calificador	336-342	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	sufre	sufrir	VMIP3S0	-	-	343-348	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	dolor	dolor	NCMS000	C0018681_1	hallazgo_1	349-354	514_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+9	de	de	SPS00	C0018681_2	hallazgo_2	355-357	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	cabeza	cabeza	NCFS000	C0018681_3	hallazgo_3	358-364	514_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	8	5313	LOC
+11	que	que	PR0CN000	-	-	365-368	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	ha	haber	VAIP3S0	-	-	369-371	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	ido	ir	VMP00SM	-	-	372-375	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	progresando	progresar	VMG0000	-	-	376-387	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	388-390	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	intensidad	intensidad	NCFS000	-	-	391-401	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	.	.	Fp	-	-	401-402	514_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	403-404	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	404-408	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	409-411	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	las	el	DA0FP0	-	-	412-415	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	416-426	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	características	característica	NCFP000	-	-	427-442	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	asociadas	asociar	VMP00PF	-	-	443-452	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	a	a	SPS00	-	-	453-454	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	la	el	DA0FS0	-	-	455-457	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	cefalea	cefalea	NCFS000	C0018681	hallazgo	458-465	514_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	466-468	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	parece	parecer	VMIP3S0	-	-	469-475	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	más	más	RG	C0205172	calificador	476-479	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	probable	probable	AQ0CS0	C0332148	calificador	480-488	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	489-491	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	esta	este	DD0FS0	-	-	492-496	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	paciente	paciente	NCCS000	C0030705	persona	497-505	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	?	?	Fit	-	-	505-506	514_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

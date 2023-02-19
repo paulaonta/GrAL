@@ -1,0 +1,50 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	mediana	mediano	AQ0FS0	C0026062_1	función_1	10-17	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	edad	edad	NCFS000	C0026062_2	función_2	18-22	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	22-23	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sano	sano	AQ0MS0	-	-	24-28	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	hasta	hasta	SPS00	-	-	29-34	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	que	que	PR0CN000	-	-	35-38	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	fue	ser	VSIS3S0	-	-	39-42	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	diagnosticado	diagnosticar	VMP00SM	-	-	43-56	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	57-59	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	linfoma	linfoma	NCMS000	C0024305_1	trastorno_1	60-67	393_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	no-Hodgkin	no-Hodgkin		C0024305_2	trastorno_2	68-78	393_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	12	4083	Modif
+14	,	,	Fc	-	-	78-79	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	siendo	ser	VSG0000	-	-	80-86	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	tratado	tratar	VMP00SM	C0332293_1	atributo_1	87-94	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	con	con	SPS00	C0332293_2	atributo_2	95-98	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	99-112	393_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+19	(	(	Fpa	-	-	113-114	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	CHOP	ciclofosfamida,_hidroxidaunomicina,_oncovín?_y_prednisona,_quimioterapia	NC00YL0	-	-	114-118	393_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+21	)	)	Fpt	-	-	118-119	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	y	y	CC	C1706368	calificador	120-121	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	122-133	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	anti-CD20	anti-CD20		-	-	134-143	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	(	(	Fpa	-	-	144-145	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	Rituximab	rituximab	NC00SC0	C0393022	producto#sustancia	145-154	393_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+27	)	)	Fpt	-	-	154-155	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	.	.	Fp	-	-	155-156	393_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Alcanzó	alcanzar	VMIS3S0	-	-	157-164	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	remisión	remisión	NCFS000	C0544452	calificador	165-173	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	174-182	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	pero	pero	CC	-	-	183-187	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tras	tras	SPS00	-	-	188-192	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	finalizar	finalizar	VMN0000	-	-	193-202	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	el	el	DA0MS0	-	-	203-205	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	206-217	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	presenta	presentar	VMIP3S0	-	-	218-226	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	infecciones	infección	NCFP000	C0009450	trastorno	227-238	393_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	respiratorias	respiratorio	AQ0FP0	-	-	239-252	393_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	10	4084	LOC
+12	de	de	SPS00	C0332285	atributo	253-255	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	duración	duración	NCFS000	C0449238	atributo	256-264	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	prolongada	prolongar	VMP00SF	-	-	265-275	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	276-277	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	dos	dos		-	-	278-281	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	ingresos	ingreso	NCMP000	-	-	282-290	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	por	por	SPS00	C0678226	atributo	291-294	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	295-303	393_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+20	.	.	Fp	-	-	303-304	393_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

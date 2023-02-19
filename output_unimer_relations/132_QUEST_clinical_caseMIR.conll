@@ -1,0 +1,73 @@
+1	¿	¿	Fia	-	-	378-379	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	379-382	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	prueba	prueba	NCFS000	-	-	383-389	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	es	ser	VSIP3S0	-	-	390-392	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	más	más	RG	C0205172	calificador	393-396	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	útil	útil	AQ0CS0	-	-	397-401	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	402-406	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	confirmar	confirmar	VMN0000	-	-	407-416	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	el	el	DA0MS0	-	-	417-419	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	420-431	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	?	?	Fit	-	-	431-432	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	:	:	Fd	-	-	432-433	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	Un	Un		C0205447_1	calificador_1	0-2	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	10-12	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	58	58		-	-	13-15	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	años	año	NCMP000	C0439234	calificador	16-20	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	,	,	Fc	-	-	20-21	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	no	no	RN	C0337672_1	estilo_de_vida_1	22-24	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	fumador	fumador	NCMS000	C0337672_2	estilo_de_vida_2	25-32	132_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+21	y	y	CC	C1706368	calificador	33-34	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	sin	sin	SPS00	C0332288	atributo	35-38	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	antecedentes	antecedente	NCMP000	-	-	39-51	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	personales	personal	AQ0CP0	-	-	52-62	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	relevantes	relevante	AQ0CP0	-	-	63-73	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	,	,	Fc	-	-	73-74	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	es	ser	VSIP3S0	-	-	75-77	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	ingresado	ingresar	VMP00SM	-	-	78-87	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	88-90	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	la	el	DA0FS0	-	-	91-93	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	planta	planta	NCFS000	C0032098	organismo	94-100	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	101-103	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	neurología	neurología	NCFS000	C0027855	calificador	104-114	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	por	por	SPS00	C0678226	atributo	115-118	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	un	un		C0205447_1	calificador_1	119-121	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	accidente	accidente	NCMS000	C0038454#C1540600_1	trastorno_1	122-131	132_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+37	cerebrovascular	cerebrovascular	AQ0CS0	C0038454#C1540600_2	trastorno_2	132-147	132_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	36	4857	LOC
+38	agudo	agudo	AQ0MS0	C0205178	calificador	148-153	132_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	36	4857	Modif
+39	isquémico	isquémico	AQ0MS0	C0475224	calificador	154-163	132_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	36	4857	Modif
+40	.	.	Fp	-	-	163-164	132_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	165-167	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hemograma	hemograma	NCMS000	C0200631	procedimiento	168-177	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	178-185	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	18.5	18.5	Z	-	-	186-190	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	g	g	NCMN000	-	-	191-192	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	/	/	Fh	-	-	192-193	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	dl	decilitro	NCMN000	C0439241	calificador	193-195	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	196-198	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	199-210	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	211-214	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	215-217	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	hematocrito	hematocrito	NCMS000	-	-	218-229	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	230-232	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	60	60	Z	-	-	233-235	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	%	%	Ft	-	-	235-236	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	236-237	132_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	238-243	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	los	el	DA0MP0	-	-	244-247	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	248-258	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	datos	dato	NCMP000	-	-	259-264	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	concuerdan	concordar	VMIP3P0	-	-	265-275	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	276-279	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	el	el	DA0MS0	-	-	280-282	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	283-294	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	295-297	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	Policitemia	policitemia	NCFS000	C0032463_1	trastorno#anomalía_morfológica_1	298-309	132_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+11	Vera	vera	NCFS000	C0032463_2	trastorno#anomalía_morfológica_2	310-314	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	EXCEPTO	excepto	SPS00	-	-	315-322	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	uno	uno		C0205447_1	calificador_1	323-326	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	.	.	Fp	-	-	326-327	132_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

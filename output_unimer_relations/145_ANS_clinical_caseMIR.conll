@@ -1,0 +1,21 @@
+1	Osteomielitis	osteomielitis	NCFN000	C1290708_1	trastorno_1	0-13	145_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	mandibular	mandibular	AQ0CS0	C1290708_2	trastorno_2	14-24	145_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	2382	LOC
+3	por	por	SPS00	C0678226	atributo	25-28	145_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	Candida	candida	VMP00SF	-	-	29-36	145_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	2382	Causada_por
+5	.	.	Fp	-	-	36-37	145_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tuberculosis	tuberculosis	NCFN000	C3203357_1	trastorno_1	0-12	145_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	ósea	óseo	AQ0FS0	C3203357_2	trastorno_2	13-17	145_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	2383	LOC
+3	.	.	Fp	-	-	17-18	145_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Actinomicosis	actinomicosis	NCFN000	C0001261	-	0-13	145_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	13-14	145_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Celulitis	celulitis	NCFN000	C0263136_1	trastorno_1	0-9	145_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	facial	facial	AQ0CS0	C0263136_2	trastorno_2	10-16	145_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	2385	LOC
+3	.	.	Fp	-	-	16-17	145_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Carcinoma	carcinoma	NCMS000	C0007137_1	trastorno#anomalía_morfológica_1	0-9	145_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	epidermoide	epidermoide		C0007137_2	trastorno#anomalía_morfológica_2	10-21	145_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	2386	Modif
+3	.	.	Fp	-	-	21-22	145_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

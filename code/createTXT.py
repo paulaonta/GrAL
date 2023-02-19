@@ -6,6 +6,7 @@ def createFile(path):
     if not os.path.exists(mydirname):
         os.makedirs(os.path.dirname(mydirname), exist_ok=True)
 
+
 #define paths
 path = "./input_unimer/"
 question_file_partial_name = "_QUEST_clinical_caseMIR.txt"

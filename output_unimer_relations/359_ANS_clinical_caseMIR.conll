@@ -1,0 +1,21 @@
+1	Adenovirus	adenovirus	NCMN000	C0001483	organismo	0-10	359_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	10-11	359_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0042776	organismo	0-5	359_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	parainfluenza	parainfluenza	NC00SC0	C0030389	trastorno	6-19	359_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	1	567	MultiE
+3	1	1		-	-	20-21	359_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	.	.	Fp	-	-	21-22	359_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0029341_1	organismo_1	0-5	359_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0029341_2	organismo_2	6-8	359_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	la	lo	PP3FSA00	C0029341_3	organismo_3	9-11	359_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	gripe	gripe	NCFS000	C0029341_4	organismo_4	12-17	359_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	1	278	Causada_por
+5	B.	b.	AQ0CS00	-	-	18-20	359_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	4	23	MultiE
+6	Bocavirus	bocavirus	NCMN000	-	-	0-9	359_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	4	23	MultiE
+7	.	.	Fp	-	-	9-10	359_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Virus	virus	NCMN000	C0042776	organismo	0-5	359_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	respiratorio	respiratorio	AQ0MS0	-	-	6-18	359_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	279	LOC
+3	sincitial	sincitial	AQ0CS00	-	-	19-28	359_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	279	Modif
+4	.	.	Fp	-	-	28-29	359_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

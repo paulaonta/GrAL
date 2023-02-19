@@ -1,0 +1,52 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	6	6		-	-	8-9	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	15-18	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	viene	venir	VMIP3S0	-	-	19-24	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	25-26	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	la	el	DA0FS0	-	-	27-29	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	30-38	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	acompañado	acompañar	VMP00SM	-	-	39-49	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	del	del	SP+DA	-	-	50-53	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	monitor	monitor	NCMS000	C0181904	objeto_físico	54-61	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	62-64	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	un	un		C0205447_1	calificador_1	65-67	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	centro	centro	NCMS000	C0205099	calificador	68-74	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	75-77	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	acogida	acogida	NCFS000	-	-	78-85	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	86-88	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	nuestro	nuestro	DP1MSP	-	-	89-96	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	barrio	barrio	NCMS000	-	-	97-103	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	por	por	SPS00	C0678226	atributo	104-107	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	tumoración	tumoración	NCFS000	C0577559	hallazgo	108-118	71_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	dolorosa	doloroso	AQ0FS0	-	-	119-127	71_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	2697	Modif
+24	a	a	SPS00	-	-	128-129	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	la	el	DA0FS0	-	-	130-132	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	palpación	palpación	NCFS000	C0030247	procedimiento	133-142	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	143-145	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	3	3	Z	-	-	146-147	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	cm	cm	NCMN000	-	-	148-150	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	de	de	SPS00	C0332285	atributo	151-153	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	diámetro	diámetro	NCMS000	C1301886	calificador	154-162	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	en	en	SPS00	C1720294#C0332285	calificador#atributo	163-165	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	zona	zona	NCFS000	C0019360	trastorno	166-170	71_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+34	occipital	occipital	AQ0CS0	-	-	171-180	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	33	242	MultiE
+35	derecha	derecha	NCFS000	-	-	181-188	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	33	242	MultiE
+36	del	del	SP+DA	-	-	189-192	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	cuero	cuero	NCMS000	C1278997#C0036270_1	estructura_corporal_1	193-198	71_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	22	2697	LOC
+38	cabelludo	cabelludo	AQ0MS0	C1278997#C0036270_2	estructura_corporal_2	199-208	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	37	523	MultiE
+39	y	y	CC	C1706368	calificador	209-210	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	3	3		-	-	211-212	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	adenoinegalias	adenoinegalias	NCMN000	-	-	213-227	71_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+42	de	de	SPS00	C0332285	atributo	228-230	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	consistencia	consistencia	NCFS000	C0332529	atributo	231-243	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	bastante	bastante	RG	-	-	244-252	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	dura	duro	AQ0FS0	C0018599	calificador	253-257	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	en	en	SPS00	C1720294#C0332285	calificador#atributo	258-260	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	región	región	NCFS000	C0205147	atributo#calificador	261-267	71_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	41	2697	LOC
+48	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	268-276	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	47	1843	MultiE
+49	posterior	posterior	NC00SC0	C0205095#C0439781	calificador	277-286	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	47	1843	MultiE
+50	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	287-294	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	47	1843	MultiE
+51	.	.	Fp	-	-	294-295	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

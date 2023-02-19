@@ -1,0 +1,41 @@
+1	Endoscopia	endoscopia	NCFS000	C0014245	procedimiento	0-10	546_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	digestiva	digestivo	AQ0FS0	C0012237	sustancia	11-20	546_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	:	:	Fd	-	-	20-21	546_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	adenocarcinoma	adenocarcinoma	NC00SC0	C0278701_1	trastorno_1	22-36	546_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	gástrico	gástrico	NC00SC0	C0278701_2	trastorno_2	37-45	546_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	4	1056	LOC
+6	.	.	Fp	-	-	45-46	546_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	0-2	546_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	abdominal	abdominal	AQ0CS0	C0000726	calificador	3-12	546_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	:	:	Fd	-	-	12-13	546_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	14-20	546_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	21-23	546_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	páncreas	páncreas	NCMN000	C1278931#C0030274	estructura_corporal	24-32	546_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	4	1057	LOC
+7	.	.	Fp	-	-	32-33	546_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	0-2	546_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	torácico	torácico	AQ0MS0	C0817096	calificador	3-11	546_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	:	:	Fd	-	-	11-12	546_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	sarcoidosis	sarcoidosis	NCFN000	C0036202_1	trastorno_1	13-24	546_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+5	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	25-35	546_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	4	1058	LOC
+6	(	(	Fpa	-	-	36-37	546_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	37-45	546_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	46-48	546_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	7	45	MultiE
+9	Löfgren	löfgren	VMSP3P0	-	-	49-56	546_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	7	45	MultiE
+10	)	)	Fpt	-	-	56-57	546_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	57-58	546_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Cultivo	cultivo	NCMS000	-	-	0-7	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	los	el	DA0MP0	-	-	11-14	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	nódulos	nódulo	NCMP000	C0028259	anomalía_morfológica	15-22	546_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	cutáneos	cutáneo	AQ0MP0	-	-	23-31	546_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	4	1059	LOC
+6	:	:	Fd	-	-	31-32	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	tuberculosis	tuberculosis	NCFN000	C0041309_1	trastorno_1	33-45	546_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	cutánea	cutáneo	AQ0FS0	C0041309_2	trastorno_2	46-53	546_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	7	1059	LOC
+9	(	(	Fpa	-	-	54-55	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	lupus	lupus	NCMS000	C0024131_1	trastorno_1	55-60	546_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+11	vulgar	vulgar	AQ0CS0	C0024131_2	trastorno_2	61-67	546_ANS_clinical_caseMIR	SENT4	B-Calificador	-	10	1059	Modif
+12	)	)	Fpt	-	-	67-68	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	68-69	546_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

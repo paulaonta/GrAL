@@ -1,0 +1,32 @@
+1	¿	¿	Fia	-	-	670-671	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	671-675	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	676-678	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	la	el	DA0FS0	-	-	679-681	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	prueba	prueba	NCFS000	-	-	682-688	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	complementaria	complementario	AQ0FS0	-	-	689-703	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	704-706	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	elección	elección	NCFS000	-	-	707-715	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	para	para	SPS00	C0521125	calificador	716-720	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	continuar	continuar	VMN0000	-	-	721-730	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	ese	ese	DD0MS0	-	-	731-734	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0332140_1	calificador_1	735-746	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	clínico	clínico	NCMS000	C0332140_2	calificador_2	747-754	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	?	?	Fit	-	-	754-755	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	:	:	Fd	-	-	755-756	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	Derrame	derrame	NCMS000	C0032227_1	trastorno_1	0-7	291_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	pleural	pleural	NC00SC0	C0032227_2	trastorno_2	8-15	291_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	2904	LOC
+18	.	.	Fp	-	-	15-16	291_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Neumonía	neumonía	NCFS000	C1275589_1	trastorno_1	0-8	291_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	lobar	lobar		C1275589_2	trastorno_2	9-14	291_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	2905	LOC
+3	.	.	Fp	-	-	14-15	291_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Bronquitis	bronquitis	NCFN000	C0149514_1	trastorno_1	0-10	291_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	aguda	agudo	AQ0FS0	C0149514_2	trastorno_2	11-16	291_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	2906	Modif
+3	.	.	Fp	-	-	16-17	291_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tuberculosis	tuberculosis	NCFN000	C0041327_1	trastorno_1	0-12	291_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	pulmonar	pulmonar	NC00SC0	C0041327_2	trastorno_2	13-21	291_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	2907	LOC
+3	Neumotórax	neumotórax	NCMN000	C0032326	trastorno	0-10	291_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	1	2907	LOC
+4	.	.	Fp	-	-	10-11	291_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

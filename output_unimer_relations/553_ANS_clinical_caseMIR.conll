@@ -1,0 +1,33 @@
+1	Acidosis	acidosis	NCFN000	C0220981_1	trastorno_1	0-8	553_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	4	941	Causada_por
+2	metabólica	metabólico	AQ0FS0	C0220981_2	trastorno_2	9-19	553_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	941	Modif
+3	con	con	SPS00	C0332287	atributo	20-23	553_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	hipercloremia	hipercloremia	NC00SC0	C0085679	trastorno	24-37	553_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	.	.	Fp	-	-	37-38	553_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Conductas	conducta	NCFP000	C0004927	hallazgo	0-9	553_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	10-12	553_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ayuno	ayuno	NCMS000	-	-	13-18	553_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	.	.	Fp	-	-	18-19	553_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Antecedentes	antecedente	NCMP000	C0332119_1	situación_1	0-12	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332119_2	situación_2	13-15	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	conductas	conducta	NCFP000	C0004927	hallazgo	16-25	553_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	impulsivas	impulsivo	AQ0FP0	-	-	26-36	553_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	3	30	MultiE
+5	como	como	CS	C0332257	calificador	37-41	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	consumo	consumo	NCMS000	-	-	42-49	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	50-52	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	alcoholo	alcoholar	VMIP1S0	-	-	53-61	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	comportamientos	comportamiento	NCMP000	C0004927	hallazgo	62-77	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	autolesivos	autolesivo	AQ0MP0	-	-	78-89	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	90-92	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	baja	bajo	AQ0FS0	C0205251	calificador	93-97	553_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	letalidad	letalidad	NCFS000	-	-	98-107	553_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	12	13	MultiE
+14	.	.	Fp	-	-	107-108	553_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Niveles	nivel	NCMP000	C0456079	atributo	0-7	553_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	553_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	amilasa	amilasa	NCFS000	C0002712#C1442866	producto#función_biológica#sustancia	11-18	553_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	séricos	sérico	AQ0MP0	-	-	19-26	553_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	elevados	elevar	VMP00PM	-	-	27-35	553_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	.	.	Fp	-	-	35-36	553_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

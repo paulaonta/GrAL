@@ -1,0 +1,45 @@
+1	Insulina	insulina	NCFS000	C0907402_1	producto#sustancia_1	0-8	309_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	glargina	glargina		C0907402_2	producto#sustancia_2	9-17	309_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	subcutánea	subcutáneo	AQ0FS0	C0443315	calificador	18-28	309_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+4	8	8		-	-	29-30	309_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	U	o	CC	-	-	31-32	309_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	al	al	SP+DA	-	-	33-35	309_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	día	día	NCMS000	C0439228#C0332169	calificador	36-39	309_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	.	.	Fp	-	-	39-40	309_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Metformina	metformina	NC00SC0	C0025598	producto#sustancia	0-10	309_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	oral	oral	AQ0CS0	C0442027	calificador	11-15	309_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	a	a	SPS00	-	-	16-17	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	dosis	dosis	NCFN000	-	-	18-23	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	24-26	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	850	850	Z	-	-	27-30	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	mg	mg	NCMN000	-	-	31-33	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	cada	cada	NC00SC0	C0456695_1	calificador_1	34-38	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	12	12	Z	C0456695_2	calificador_2	39-41	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	horas	hora	NCFP000	C0456695_3	calificador_3	42-47	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	47-48	309_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Glibenclamida	glibenclamida	NC00SC0	C0017628	producto#sustancia	0-13	309_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	oral	oral	AQ0CS0	C0442027	calificador	14-18	309_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	10	10	Z	-	-	19-21	309_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	mg	mg	NCMN000	-	-	22-24	309_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	al	al	SP+DA	-	-	25-27	309_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	día	día	NCMS000	C0439228#C0332169	calificador	28-31	309_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	.	.	Fp	-	-	31-32	309_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	necesita	necesitar	VMIP3S0	-	-	3-11	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	tratamiento	tratamiento	NCMS000	C0013216_1	procedimiento_1	12-23	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	farmacológico	farmacológico	NC00SC0	C0013216_2	procedimiento_2	24-37	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	,	,	Fc	-	-	37-38	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	solo	solo	AQ0MS0	C0205171	calificador	39-43	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	dieta	dieta	NCFS000	C0012155	hallazgo	44-49	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	.	.	Fp	-	-	49-50	309_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Pioglitazona	pioglitazona	NC00SC0	C0071097	producto#sustancia	0-12	309_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+2	15	15	Z	-	-	13-15	309_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	mg	mg	NCMN000	-	-	16-18	309_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	al	al	SP+DA	-	-	19-21	309_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	día	día	NCMS000	C0439228#C0332169	calificador	22-25	309_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	.	.	Fp	-	-	25-26	309_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

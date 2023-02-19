@@ -1,0 +1,47 @@
+1	¿	¿	Fia	-	-	316-317	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	317-321	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	322-324	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	325-328	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	329-339	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	propuestas	propuesta	NCFP000	-	-	340-350	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	351-353	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	354-365	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	está	estar	VAIP3S0	-	-	366-370	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	indicada	indicar	VMP00SF	-	-	371-379	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	?	?	Fit	-	-	379-380	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	:	:	Fd	-	-	380-381	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	Necrosis	necrosis	NCFN000	C0022672_1	trastorno_1	0-8	314_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	tubular	tubular	NC00SC0	C0022672_2	trastorno_2	9-16	314_ANS_clinical_caseMIR	SENT1	B-Calificador	-	13	258	LOC
+15	aguda	agudo	AQ0FS0	C0022672_3	trastorno_3	17-22	314_ANS_clinical_caseMIR	SENT1	B-Calificador	-	13	258	Modif
+16	por	por	SPS00	C0678226	atributo	23-26	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	nefrotoxicidad	nefrotoxicidad	NCFS000	-	-	27-41	314_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	13	258	Causada_por
+18	a	a	SPS00	-	-	42-43	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	fármacos	fármaco	NCMP000	C0013227	sustancia	44-52	314_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+20	.	.	Fp	-	-	52-53	314_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Necrosis	necrosis	NCFN000	C0022672_1	trastorno_1	0-8	314_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	tubular	tubular	NC00SC0	C0022672_2	trastorno_2	9-16	314_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	259	LOC
+3	aguda	agudo	AQ0FS0	C0022672_3	trastorno_3	17-22	314_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	259	Modif
+4	de	de	SPS00	C0332285	atributo	23-25	314_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	etiología	etiología	NCFS000	C1314792	atributo	26-35	314_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	1	259	Causada_por
+6	isquémica	isquémico	AQ0FS0	C0475224	calificador	36-45	314_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	5	23	MultiE
+7	.	.	Fp	-	-	45-46	314_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	314_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	ateroembólica	ateroembólica	AQ0FS00	-	-	11-24	314_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+3	.	.	Fp	-	-	24-25	314_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Oclusión	oclusión	NCFS000	C0028778	anomalía_morfológica	0-8	314_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	trombótica	trombótica	AQ0FS00	-	-	9-19	314_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	261	LOC
+3	de	de	SPS00	C0332285	atributo	20-22	314_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	la	el	DA0FS0	-	-	23-25	314_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	arteria	arteria	NCFS000	C1278951#C0035065_1	estructura_corporal_1	26-33	314_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	261	LOC
+6	renal	renal	AQ0CS0	C1278951#C0035065_2	estructura_corporal_2	34-39	314_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	5	23	MultiE
+7	principal	principal	AQ0CS0	C0205225	calificador	40-49	314_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	5	23	MultiE
+8	.	.	Fp	-	-	49-50	314_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Nefritis	nefritis	NCFN000	C0027697	trastorno	0-8	314_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	tubulointersticial	tubulointersticial		-	-	9-27	314_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	262	LOC
+3	aguda	agudo	AQ0FS0	C0205178	calificador	28-33	314_ANS_clinical_caseMIR	SENT5	B-Calificador	-	1	262	Modif
+4	.	.	Fp	-	-	33-34	314_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

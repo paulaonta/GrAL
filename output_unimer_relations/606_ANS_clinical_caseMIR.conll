@@ -1,0 +1,29 @@
+1	Heparina	heparina	NCFS000	C0037513_1	sustancia_1	0-8	606_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	sódica	sódico	AQ0FS0	C0037513_2	sustancia_2	9-15	606_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	1	567	MultiE
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	16-18	606_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	perfusión	perfusión	NCFS000	C0031001	procedimiento	19-28	606_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	29-40	606_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	.	.	Fp	-	-	40-41	606_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tromboendarectomía	tromboendarectomía	NCFS000	-	-	0-18	606_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	.	.	Fp	-	-	18-19	606_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Fibrinolisis	fibrinolisis	NCFN000	-	-	0-12	606_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	sistémica	sistémico	AQ0FS0	C0205373	calificador	13-22	606_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	2406	Modif
+3	con	con	SPS00	C0332287	atributo	23-26	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	rt-PA	rt-pa	NCFS000	-	-	27-32	606_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+5	(	(	Fpa	-	-	33-34	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	alteplase	alteplase	NCFS000	-	-	34-43	606_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+7	)	)	Fpt	-	-	43-44	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	100	100	Z	-	-	45-48	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	mg	mg	NCMN000	-	-	49-51	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	52-63	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	63-64	606_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Filtro	filtro	NCMS000	C0180860#C1284369#C0226931	objeto_físico#estructura_corporal	0-6	606_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	7-9	606_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	vena	vena	NCFS000	C0042458#C1269024_1	estructura_corporal_1	10-14	606_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	cava	cavo	AQ0FS0	C0042458#C1269024_2	estructura_corporal_2	15-19	606_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	3	30	MultiE
+5	inferior	inferior	NCCS000	C0042458#C1269024_3	estructura_corporal_3	20-28	606_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	3	30	MultiE
+6	.	.	Fp	-	-	28-29	606_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

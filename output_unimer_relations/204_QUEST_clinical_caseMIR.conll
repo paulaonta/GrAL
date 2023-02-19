@@ -1,0 +1,44 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	acude	acudir	VMIP3S0	-	-	12-17	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	a	a	SPS00	-	-	18-19	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	20-22	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	servicio	servicio	NCMS000	-	-	23-31	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	32-34	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	35-44	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	hospitalarias	hospitalario	AQ0FP0	C0456393	calificador	45-58	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	presentando	presentar	VMG0000	-	-	59-70	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	hematemesis	hematemesis	NCFN000	C0018926	trastorno	71-82	204_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	franca	franco	AQ0FS0	-	-	83-89	204_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	5121	Modif
+13	.	.	Fp	-	-	89-90	204_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	91-93	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	94-96	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	valoración	valoración	NCFS000	-	-	97-107	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	108-115	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	el	el	DA0MS0	-	-	116-118	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	119-127	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	está	estar	VAIP3S0	-	-	128-132	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	pálido	pálido	AQ0MS0	C1971630#C0017651	calificador#estructura_corporal	133-139	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	140-141	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	sudoroso	sudoroso	AQ0MS0	-	-	142-150	204_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	,	,	Fc	-	-	150-151	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	tiene	tener	VMIP3S0	-	-	152-157	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	158-161	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	162-172	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	cardiaca	cardiaco	AQ0FS0	-	-	173-181	204_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	182-184	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	110	110		-	-	185-188	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	latidos	latido	NCMP000	-	-	189-196	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	por	por	SPS00	C0702093_1	calificador_1	197-200	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	minuto	minuto	NCMS000	C0702093_2	calificador_2	201-207	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	208-209	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	una	una		C0205447_1	calificador_1	210-213	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	214-221	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	222-230	204_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+25	sistòlica	sistòlica	AQ0FS00	-	-	231-240	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	241-243	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	98	98	Z	-	-	244-246	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	mmHg	mmHg	NCMP000	-	-	247-251	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	.	.	Fp	-	-	251-252	204_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

@@ -1,0 +1,137 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	29	29		-	-	9-11	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	25-28	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	29-41	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332119_2	situación_2	42-44	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	reglas	regla	NCFP000	C0522637	objeto_físico	45-51	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	abundantes	abundante	AQ0CP0	-	-	52-62	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	63-64	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	anemia	anemia	NCFS000	C0162316#C0008272_1	trastorno_1	65-71	305_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	ferropénica	ferropénico	AQ0FS0	C0162316#C0008272_2	trastorno_2	72-83	305_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	1032	Modif
+15	de	de	SPS00	C0332285	atributo	84-86	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	larga	largo	AQ0FS0	C0205166#C0392744	calificador	87-92	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	evolución	evolución	NCFS000	-	-	93-102	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	que	que	PR0CN000	-	-	103-106	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	ha	haber	VAIP3S0	-	-	107-109	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	precisado	precisar	VMP00SM	-	-	110-119	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	120-131	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	con	con	SPS00	C0332287	atributo	132-135	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	ferroterapia	ferroterapia	NCFS000	-	-	136-148	305_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+24	desde	desde	SPS00	-	-	149-154	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	los	el	DA0MP0	-	-	155-158	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	17	17		-	-	159-161	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	años	año	NCMP000	C0439234	calificador	162-166	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	.	.	Fp	-	-	166-167	305_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	-	-	168-176	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	porque	porque	CS	-	-	177-183	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	tras	tras	SPS00	-	-	184-188	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	189-192	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	extracción	extracción	NCFS000	C1318481#C0040440_1	procedimiento_1	193-203	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	dental	dental	NCCS000	C1318481#C0040440_2	procedimiento_2	204-210	305_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+7	tiene	tener	VMIP3S0	-	-	211-216	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	hemorragia	hemorragia	NCFS000	C0019080	hallazgo#anomalía_morfológica	217-227	305_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	que	que	PR0CN000	-	-	228-231	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	ha	haber	VAIP3S0	-	-	232-234	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	precisado	precisar	VMP00SM	-	-	235-244	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	245-256	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	hemostático	hemostático	AQ0MS0	-	-	257-268	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	local	local	AQ0CS0	C0205276#C0392752#C0332237	calificador	269-274	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	274-275	305_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Relata	relatar	VMIP3S0	-	-	276-282	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	que	que	CS	-	-	283-286	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	287-290	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tía	tío	NCFS000	C0337577	persona	291-294	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	materna	materno	AQ0FS0	-	-	295-302	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	303-311	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	epistaxis	epistaxis	NCFN000	C0014591	trastorno	312-321	305_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	frecuentes	frecuente	AQ0CP0	C0332183	calificador	322-332	305_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	7	1034	Modif
+9	.	.	Fp	-	-	332-333	305_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	334-336	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	analítica	analítica	NCFS000	-	-	337-346	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	presenta	presentar	VMIP3S0	-	-	347-355	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	:	:	Fd	-	-	355-356	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	8000	8000		-	-	357-361	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	leucucitos	leucucitos	NCMP000	-	-	362-372	305_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+7	/	/	Fh	-	-	372-373	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	uL	ul	NC00SC0	C0439243	calificador	373-375	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	,	,	Fc	-	-	375-376	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	Hb	hb	NC00YL0	-	-	377-379	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	10,7	10.7	Z	-	-	380-384	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	g	g	NCMN000	-	-	385-386	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	/	/	Fh	-	-	386-387	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	dL	decilitro	NCMN000	C0439241	calificador	387-389	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	,	,	Fc	-	-	389-390	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	VCM	vcm	NC00SC0	C0524587	entidad_observable	391-394	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	76	76		-	-	395-397	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	fL	fl	NC00SC0	C0475213	calificador	398-400	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	,	,	Fc	-	-	400-401	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	380.000	380.000		-	-	402-409	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	410-419	305_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+22	/	/	Fh	-	-	419-420	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	uL	ul	NC00SC0	C0439243	calificador	420-422	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	;	;	Fx	-	-	422-423	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	la	el	DA0FS0	-	-	424-426	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	427-437	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+27	es	ser	VSIP3S0	-	-	438-440	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+28	normal	normal	AQ0CS0	C0205307	calificador	441-447	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+29	.	.	Fp	-	-	447-448	305_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Actividad	actividad	NCFS000	C0441655	entidad_observable	449-458	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	459-461	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	protrombina	protrombina	NCFS000	C0033706	sustancia	462-473	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	90	90	Z	-	-	474-476	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	%	%	Ft	-	-	476-477	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	;	;	Fx	-	-	477-478	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	INR	international_normalized_ratio	NC00YL0	-	-	479-482	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	0,9	0,9		-	-	483-486	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	;	;	Fx	-	-	486-487	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	Tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	488-494	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	495-497	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	Tromboplastina	tromboplastina	NCFS000	C0040048	producto#sustancia	498-512	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	Parcial	parcial	AQ0CS0	C0728938#C0205257#C0728939	calificador	513-520	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	Activado	activar	VMP00SM	-	-	521-529	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	(	(	Fpa	-	-	530-531	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	TTPA	tiempo_de_tromboplastina_parcial_activado	NC00YL0	-	-	531-535	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	)	)	Fpt	-	-	535-536	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	48	48		-	-	537-539	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	seg	segundo	NCMN000	C0205436	calificador	540-543	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	(	(	Fpa	-	-	544-545	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	39	39		-	-	545-547	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	seg	segundo	NCMN000	C0205436	calificador	548-551	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	)	)	Fpt	-	-	551-552	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+24	con	con	SPS00	C0332287	atributo	553-556	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	un	un		C0205447_1	calificador_1	557-559	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	TTPA	tiempo_de_tromboplastina_parcial_activado	NC00YL0	-	-	560-564	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	ratio	ratio	NCMS000	-	-	565-570	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+28	de	de	SPS00	C0332285	atributo	571-573	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+29	1,3	1,3		-	-	574-577	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	y	y	CC	C1706368	calificador	578-579	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+31	fibrinógeno	fibrinógeno	NCMS000	C0016006	sustancia	580-591	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+32	derivado	derivar	VMP00SM	-	-	592-600	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+33	340	340	Z	-	-	601-604	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+34	mg	mg	NCMN000	-	-	605-607	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+35	/	/	Fh	-	-	607-608	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+36	dL	decilitro	NCMN000	C0439241	calificador	608-610	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+37	.	.	Fp	-	-	610-611	305_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	612-613	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	613-617	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	618-620	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	la	el	DA0FS0	-	-	621-623	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	624-632	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	633-644	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	645-648	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	649-657	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	658-659	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	cómo	cómo	PT000000	-	-	660-664	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	lo	lo	PP3CNA00	-	-	665-667	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	confirmaría	confirmar	VMIC3S0	-	-	668-679	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	?	?	Fit	-	-	679-680	305_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

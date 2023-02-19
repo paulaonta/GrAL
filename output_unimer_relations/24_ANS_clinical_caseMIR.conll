@@ -1,0 +1,132 @@
+1	Sospecharía	sospechar	VMIC3S0	-	-	0-11	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	meningitis	meningitis	NCFN000	C0393444_1	trastorno_1	12-22	24_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+3	química	químico	NCFS000	C0393444_2	trastorno_2	23-30	24_ANS_clinical_caseMIR	SENT1	B-Calificador	-	2	5737	Modif
+4	derivada	derivar	VMP00SF	-	-	31-39	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	40-42	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	la	el	DA0FS0	-	-	43-45	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	rotura	rotura	NCFS000	-	-	46-52	24_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	2	5737	LOC
+8	de	de	SPS00	C0332285	atributo	53-55	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	56-58	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	59-64	24_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	7	5737,2	Causada_por,5737
+11	epidermoide	epidermoide	VMIP3S0	-	-	65-76	24_ANS_clinical_caseMIR	SENT1	B-Calificador	-	10	5737	Modif
+12	selar	selar	VMN0000	-	-	77-82	24_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	5737	LOC
+13	e	y	CC	C1706368	calificador	83-84	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	iniciaría	iniciar	VMIC3S0	-	-	85-94	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0205548_1	calificador_1	95-97	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	inmediato	inmediato	NC00SC0	C0205548_2	calificador_2	98-107	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	108-119	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	con	con	SPS00	C0332287	atributo	120-123	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	corticosteroides	corticosteroide	NCMP000	-	-	124-140	24_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+20	.	.	Fp	-	-	140-141	24_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Indicaría	indicar	VMIC3S0	-	-	0-9	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	10-12	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	realización	realización	NCFS000	-	-	13-24	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	25-27	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	28-31	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	angiografia	angiografia	NCFS000	-	-	32-43	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	cerebral	cerebral	AQ0CS0	-	-	44-52	24_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	53-57	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	descartar	descartar	VMN0000	C0332196	calificador	58-67	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	68-70	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	aneurisma	aneurisma	NCMS000	C0002940	anomalía_morfológica#trastorno	71-80	24_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+12	,	,	Fc	-	-	80-81	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	ya	ya	RG	-	-	82-84	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	que	que	PR0CN000	-	-	85-88	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	lo	lo	PP3CNA00	-	-	89-91	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	más	más	RG	C0205172	calificador	92-95	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	probable	probable	AQ0CS0	C0332148	calificador	96-104	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	es	ser	VSIP3S0	-	-	105-107	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+19	que	que	CS	-	-	108-111	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+20	estemos	estar	VASP1P0	-	-	112-119	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+21	ante	ante	SPS00	-	-	120-124	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+22	un	un		C0205447_1	calificador_1	125-127	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+23	caso	caso	NCMS000	C0868928	calificador	128-132	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	133-135	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+25	hemorragia	hemorragia	NCFS000	C0038525_1	trastorno_1	136-146	24_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+26	subaracnoidea	subaracnoideo	AQ0FS0	C0038525_2	trastorno_2	147-160	24_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	25	5738	LOC
+27	y	y	CC	C1706368	calificador	161-162	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+28	la	el	DA0FS0	-	-	163-165	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+29	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	166-170	24_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	25	5738	LOC
+30	que	que	PR0CN000	-	-	171-174	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+31	se	se	P00CN000	-	-	175-177	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+32	evidencia	evidenciar	VMIP3S0	-	-	178-187	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+33	en	en	SPS00	C1720294#C0332285	calificador#atributo	188-190	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+34	la	el	DA0FS0	-	-	191-193	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+35	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	194-196	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+36	sea	ser	VSSP1S0	-	-	197-200	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+37	un	un		C0205447_1	calificador_1	201-203	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+38	aneurisma	aneurisma	NCMS000	C1265766_1	anomalía_morfológica_1	204-213	24_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+39	trombosado	trombosado		C1265766_2	anomalía_morfológica_2	214-224	24_ANS_clinical_caseMIR	SENT2	B-Calificador	-	38	5738	Modif
+40	paraselar	paraselar	AQ0CS00	-	-	225-234	24_ANS_clinical_caseMIR	SENT2	B-Calificador	-	38	5738	LOC
+41	.	.	Fp	-	-	234-235	24_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Ingreso	ingreso	NCMS000	-	-	0-7	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	8-10	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	UCI	unidad_de_cuidados_intensivos	NC00YL0	-	-	11-14	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	15-16	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	17-28	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	del	del	SP+DA	-	-	29-32	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	shock	shock	NCMS000	C0036974	trastorno	33-38	24_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	que	que	PR0CN000	-	-	39-42	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	padece	padecer	VMIP3S0	-	-	43-49	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	la	el	DA0FS0	-	-	50-52	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	53-61	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	,	,	Fc	-	-	61-62	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	y	y	CC	C1706368	calificador	63-64	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	65-68	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	vez	vez	NCFS000	-	-	69-72	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	estabilizada	estabilizar	VMP00SF	-	-	73-85	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	practicar	practicar	VMN0000	-	-	86-95	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	96-106	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+19	cerebral	cerebral	AQ0CS0	-	-	107-115	24_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+20	para	para	SPS00	C0521125	calificador	116-120	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+21	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	121-128	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+22	programada	programar	VMP00SF	-	-	129-139	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+23	.	.	Fp	-	-	139-140	24_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	17-27	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	28-29	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	hemograma	hemograma	NCMS000	C0200631	procedimiento	30-39	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	urgentes	urgente	AQ0CP0	C0439609	calificador	40-48	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	,	,	Fc	-	-	48-49	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	inicio	inicio	NCMS000	C0332162_1	calificador_1	50-56	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C0332162_2	calificador_2	57-59	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	60-67	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	68-71	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	corticosteroides	corticosteroide	NCMP000	-	-	72-88	24_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+13	a	a	SPS00	-	-	89-90	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	dosis	dosis	NCFN000	-	-	91-96	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	elevadas	elevar	VMP00PF	-	-	97-105	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	106-107	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	108-115	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	transesfenoidal	transesfenoidal	NC00SC0	C0205508	calificador	116-131	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	urgente	urgente	AQ0CS0	C0439609	calificador	132-139	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	.	.	Fp	-	-	139-140	24_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	0-7	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	8-14	24_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+3	para	para	SPS00	C0521125	calificador	15-19	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	descartar	descartar	VMN0000	C0332196	calificador	20-29	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	meningitis	meningitis	NCFN000	C0025289	trastorno	30-40	24_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion	-	-	-
+6	bacteriana-previa	bacteriana-previa	AQ0FS00	-	-	41-58	24_ANS_clinical_caseMIR	SENT5	B-Calificador	-	5	5741	Modif
+7	inicio	inicio	NCMS000	C0332162_1	calificador_1	59-65	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	de	de	SPS00	C0332162_2	calificador_2	66-68	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	antibioterapia	antibioterapia	NCFS000	-	-	69-83	24_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+10	empírica	empírico	AQ0FS0	-	-	84-92	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	.	.	Fp	-	-	92-93	24_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	94-97	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+2	vez	vez	NCFS000	-	-	98-101	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+3	estabilizada	estabilizar	VMP00SF	-	-	102-114	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+4	la	el	DA0FS0	-	-	115-117	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+5	paciente	paciente	AQ0CS0	C0030705	persona	118-126	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	127-134	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	135-137	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+8	la	el	DA0FS0	-	-	138-140	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+9	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	141-145	24_ANS_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+10	selar	selar	AQ0CS00	-	-	146-151	24_ANS_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	9	5742	LOC
+11	.	.	Fp	-	-	151-152	24_ANS_clinical_caseMIR	SENT6	-	-	-	-	-
+

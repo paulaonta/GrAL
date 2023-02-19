@@ -1,0 +1,91 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	540-542	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	el	el	DA0MS0	-	-	543-545	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	seguimiento	seguimiento	NCMS000	-	-	546-557	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	558-567	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	está	estar	VAIP3S0	-	-	568-572	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	indicado	indicar	VMP00SM	-	-	573-581	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	:	:	Fd	-	-	581-582	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	Una	Una		C0205447_1	calificador_1	0-3	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	10-12	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	35	35		-	-	13-15	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	años	año	NCMP000	C0439234	calificador	16-20	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	es	ser	VSIP3S0	-	-	29-31	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	estudiada	estudiar	VMP00SF	-	-	32-41	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	debido	deber	VMP00SM	C0678226_1	atributo_1	42-48	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	a	a	SPS00	C0678226_2	atributo_2	49-50	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	episodios	episodio	NCMP000	C0332189	atributo	51-60	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	61-63	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	dolor	dolor	NCMS000	C0030193	hallazgo	64-69	409_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	periocular	periocular	NCMS000	-	-	70-80	409_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	21	983	LOC
+23	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	81-90	409_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	22	7	MultiE
+24	asociado	asociar	VMP00SM	-	-	91-99	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	a	a	SPS00	-	-	100-101	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	congestión	congestión	NCFS000	C0027424_1	hallazgo_1	102-112	409_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	nasal	nasal	NCFS000	C0027424_2	hallazgo_2	113-118	409_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	26	983	LOC
+28	,	,	Fc	-	-	118-119	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	lagrimeo	lagrimeo	NCMS000	C2363241#C0152227	entidad_observable#trastorno	120-128	409_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+30	e	y	CC	C1706368	calificador	129-130	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	inyección	inyección	NCFS000	C1761613_1	hallazgo_1	131-140	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	conjuntival	conjuntival	AQ0CS0	C1761613_2	hallazgo_2	141-152	409_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+33	homolaterales	homolaterales	AQ0CP00	-	-	153-166	409_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	-	-	-
+34	.	.	Fp	-	-	166-167	409_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Cada	cada	DI0CS0	C1457900	calificador	168-172	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	crisis	crisis	NCFN000	C0231224	hallazgo	173-179	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	dura	duro	AQ0FS0	C0018599	calificador	180-184	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	aproximadamente	aproximadamente	RG	C0332232	calificador	185-200	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	15	15	Z	-	-	201-203	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	minutos	min	NCMP000	-	-	204-211	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	212-213	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	se	se	P00CN000	-	-	214-216	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	repite	repetir	VMIP3S0	C0205341	calificador	217-223	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	224-226	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	torno	torno	NCMS000	-	-	227-232	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	a	a	SPS00	-	-	233-234	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	6	6		-	-	235-236	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	veces	vez	NCFP000	-	-	237-242	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	al	al	SP+DA	-	-	243-245	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	día	día	NCMS000	C0439228#C0332169	calificador	246-249	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	249-250	409_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	251-254	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	crisis	crisis	NCFN000	C0231224	hallazgo	255-261	409_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+3	no	no	RN	C1298908	calificador	262-264	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	han	haber	VAIP3P0	-	-	265-268	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	respondido	responder	VMP00SM	-	-	269-279	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	a	a	SPS00	-	-	280-281	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	282-293	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	294-297	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	298-309	409_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+10	.	.	Fp	-	-	309-310	409_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	311-313	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	314-325	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	neurológica	neurológico	AQ0FS0	C0205494	calificador	326-337	409_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	y	y	CC	C1706368	calificador	338-339	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	la	el	DA0FS0	-	-	340-342	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	RM	rm	NC00YL0	-	-	343-345	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	346-353	409_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+8	son	ser	VSIP3P0	-	-	354-357	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	normales	normal	AQ0CP0	C0205307	calificador	358-366	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	366-367	409_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	368-369	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	369-373	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	374-376	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	las	el	DA0FP0	-	-	377-380	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	381-391	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	392-394	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	395-398	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	manifestación	manifestación	NCFS000	-	-	399-412	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	clásica	clásico	AQ0FS0	C0439658	calificador	413-420	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	del	del	SP+DA	-	-	421-424	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	425-434	409_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	435-437	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	esta	este	DD0FS0	-	-	438-442	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	443-451	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	?	?	Fit	-	-	451-452	409_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

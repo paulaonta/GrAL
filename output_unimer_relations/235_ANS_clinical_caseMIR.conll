@@ -1,0 +1,26 @@
+1	Metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	0-10	235_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	hepáticas	hepático	AQ0FP0	-	-	11-20	235_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	3988	LOC
+3	.	.	Fp	-	-	20-21	235_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Trombosis	trombosis	NCFN000	C0087086#C0003148#C0040053	anomalía_morfológica#calificador#trastorno	0-9	235_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	tumoral	tumoral	AQ0CS0	-	-	10-17	235_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	3989	Modif
+3	intrahepática	intrahepática	AQ0FS00	-	-	18-31	235_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	3989	LOC
+4	.	.	Fp	-	-	31-32	235_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hepatitis	hepatitis	NCFN000	C0267797_1	trastorno_1	0-9	235_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	aguda	agudo	AQ0FS0	C0267797_2	trastorno_2	10-15	235_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	3990	Modif
+3	.	.	Fp	-	-	15-16	235_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Presencia	presenciar	VMM02S0	C0150312_1	calificador_1	0-9	235_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0150312_2	calificador_2	10-12	235_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	sustancias	sustancia	NCFP000	C0439861	sustancia#atributo	13-23	235_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+4	hepatotóxicas	hepatotóxicas	AQ0FP00	-	-	24-37	235_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	3	30	MultiE
+5	producidas	producir	VMP00PF	-	-	38-48	235_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	49-52	235_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	el	el	DA0MS0	-	-	53-55	235_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	56-61	235_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	3	3991	Causada_por
+9	.	.	Fp	-	-	61-62	235_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Hemocromatosis	hemocromatosis	NCFN000	C0018995#C1442995#C0392514	trastorno	0-14	235_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+2	.	.	Fp	-	-	14-15	235_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

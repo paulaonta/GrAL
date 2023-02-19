@@ -1,0 +1,86 @@
+1	¿	¿	Fia	-	-	0-1	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	1-5	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	6-11	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	12-14	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	método	método	NCMS000	C0025663	atributo	15-21	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	anticonceptivo	anticonceptivo	AQ0MS0	-	-	22-36	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	37-40	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	aconsejable	aconsejable	AQ0CS0	-	-	41-52	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	53-55	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	56-59	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	60-65	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	66-68	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	37	37		-	-	69-71	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	años	año	NCMP000	C0439234	calificador	72-76	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	sin	sin	SPS00	C0332122_1	calificador_1	77-80	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	81-93	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332122_3	calificador_3	94-96	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	interés	interés	NCMS000	-	-	97-104	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	cuyo	cuyo	PR0MS000	-	-	105-109	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	parto	parto	NCMS000	C1148523	entidad_observable	110-115	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	fue	ser	VSIS3S0	-	-	116-119	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	hace	hacer	VMIP3S0	-	-	120-124	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	4	4		-	-	125-126	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	meses	mes	NCMP000	C0439231	calificador	127-132	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	,	,	Fc	-	-	132-133	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	ha	haber	VAIP3S0	-	-	134-136	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	reiniciado	reiniciar	VMP00SM	-	-	137-147	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	sus	su	DP3CP0	-	-	148-151	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	ciclos	ciclo	NCMP000	-	-	152-158	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	menstruales	menstrual	AQ0CP0	-	-	159-170	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	y	y	CC	C1706368	calificador	171-172	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	mantiene	mantener	VMIP3S0	-	-	173-181	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	lactancia	lactancia	NCFS000	C0006147_1	función_1	182-191	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	materna	materno	AQ0FS0	C0006147_2	función_2	192-199	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	?	?	Fit	-	-	199-200	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	:	:	Fd	-	-	200-201	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	Paciente	paciente	NCCS000	C0030705	persona	0-8	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	de	de	SPS00	C0332285	atributo	9-11	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	70	70		-	-	12-14	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	años	año	NCMP000	C0439234	calificador	15-19	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	diagnosticado	diagnosticar	VMP00SM	-	-	28-41	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	hace	hacer	VMIP3S0	-	-	42-46	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	tres	tres		-	-	47-51	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	años	año	NCMP000	C0439234	calificador	52-56	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	de	de	SPS00	C0332285	atributo	57-59	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	mieloma	mieloma	NCMS000	C0026764_1	trastorno#anomalía_morfológica_1	60-67	224_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+49	múltiple	múltiple	NC00SC0	C0026764_2	trastorno#anomalía_morfológica_2	68-76	224_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	48	2701	Modif
+50	que	que	PR0CN000	-	-	77-80	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	está	estar	VAIP3S0	-	-	81-85	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	periodo	periodo	NCMS000	-	-	89-96	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	de	de	SPS00	C0332285	atributo	97-99	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	neutropenia	neutropenia	NCFS000	C0027947#C0001824#C1534864#C1576411#C0853697	trastorno#hallazgo	100-111	224_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+56	tras	tras	SPS00	-	-	112-116	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+57	un	un		C0205447_1	calificador_1	117-119	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+58	ciclo	ciclo	NCMS000	C1302181_1	procedimiento_1	120-125	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+59	de	de	SPS00	C1302181_2	procedimiento_2	126-128	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+60	quimioterapia	quimioterapia	NCFS000	C1302181_3	procedimiento_3	129-142	224_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+61	.	.	Fp	-	-	142-143	224_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ingresa	ingresar	VMIP3S0	-	-	144-151	224_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	152-155	224_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	fiebre	fiebre	NCFS000	C0015967	hallazgo	156-162	224_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	,	,	Fc	-	-	162-163	224_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	164-167	224_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	y	y	CC	C1706368	calificador	168-169	224_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	170-183	224_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	amarillenta	amarillento	AQ0FS0	-	-	184-195	224_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	2702	Modif
+9	.	.	Fp	-	-	195-196	224_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	197-199	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	200-211	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	212-214	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	215-220	224_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	muestra	mostrar	VMIP3S0	-	-	221-228	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	229-232	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	233-239	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	240-242	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	condensación	condensación	NCFS000	C0333119	anomalía_morfológica	243-255	224_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	256-258	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	hemitórax	hemitórax		C1284910#C0230127_1	estructura_corporal_1	259-268	224_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	9	2703	LOC
+12	derecho	derecho	NCMS000	C1284910#C0230127_2	estructura_corporal_2	269-276	224_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	11	50	MultiE
+13	.	.	Fp	-	-	276-277	224_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

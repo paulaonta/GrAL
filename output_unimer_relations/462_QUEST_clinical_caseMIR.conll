@@ -1,0 +1,60 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	45	45		-	-	13-15	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	20-21	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	22-25	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	anteceden_x0002_tes	anteceden_x0002_tes		-	-	26-45	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	46-48	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	49-51	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	cuadro	cuadro	NCMS000	-	-	52-58	462_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	febril	febril	AQ0CS0	C0015967	hallazgo	59-65	462_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	11	50	MultiE
+13	y	y	CC	C1706368	calificador	66-67	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	dolor	dolor	NCMS000	C0030193	hallazgo	68-73	462_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	torácico	torácico	NC00SC0	C0817096	calificador	74-82	462_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	5490	LOC
+16	,	,	Fc	-	-	82-83	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	acude	acudir	VMIP3S0	-	-	84-89	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	al	al	SP+DA	-	-	90-92	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	hospital	hospital	NCMS000	C1510665	medio_ambiente	93-101	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	con	con	SPS00	C0332287	atributo	102-105	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	106-112	462_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	y	y	CC	C1706368	calificador	113-114	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	taquipnea	taquipnea	NCFS000	C0231835	hallazgo	115-124	462_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	.	.	Fp	-	-	124-125	462_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	126-128	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	129-131	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	132-143	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	144-150	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	las	el	DA0FP0	-	-	151-154	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	cifras	cifra	NCFP000	-	-	155-161	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	162-164	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	165-172	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	173-181	462_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+10	están	estar	VAIP3P0	-	-	182-187	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	bajas	baja	NCFP000	-	-	188-193	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	,	,	Fc	-	-	193-194	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	195-197	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	presión	presión	NCFS000	C0520861_1	hallazgo_1	198-205	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	venosa	venoso	AQ0FS0	C0520861_2	hallazgo_2	206-212	462_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+16	yugular	yugular	VMN0000	C0520861_3	hallazgo_3	213-220	462_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	15	102	MultiE
+17	elevada	elevar	VMP00SF	C0520861_4	hallazgo_4	221-228	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	con	con	SPS00	C0332287	atributo	229-232	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	233-235	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	seno	seno	NCMS000	C0006141#C0929301	estructura_corporal	236-240	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	x	x	NCFS000	-	-	241-242	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	descendente	descendente	AQ0CS0	C0205386#C0205104	calificador	243-254	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	prominente	prominente	AQ0CS0	C0205402	calificador	255-265	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	y	y	CC	C1706368	calificador	266-267	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	tiene	tener	VMIP3S0	-	-	268-273	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	pulso	pulso	NCMS000	C0232118_1	hallazgo_1	274-279	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	paradójico	paradójico	NC00SC0	C0232118_2	hallazgo_2	280-290	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	.	.	Fp	-	-	290-291	462_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	292-293	462_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	293-296	462_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	297-308	462_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	sospecharía	sospechar	VMIC3S0	-	-	309-320	462_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	?	?	Fit	-	-	320-321	462_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

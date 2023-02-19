@@ -1,0 +1,88 @@
+1	Indicar	indicar	VMN0000	-	-	0-7	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	8-10	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	11-18	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	gammagráfico	gammagráfico	AQ0MS00	-	-	19-31	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	para	para	SPS00	C0521125	calificador	32-36	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	descartar	descartar	VMN0000	C0332196	calificador	37-46	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	la	el	DA0FS0	-	-	47-49	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	50-59	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	60-62	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	63-71	435_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+11	similares	similar	AQ0CP0	-	-	72-81	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	82-84	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	85-90	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	grandes	grande	AQ0CP0	C0549177#C0205164#C1704243	calificador	91-98	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	articulaciones	articulación	NCFP000	C1269611#C0022417#C0234830	estructura_corporal#función	99-113	435_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	5725	LOC
+16	.	.	Fp	-	-	113-114	435_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	9-11	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	12-19	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	20-22	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	23-32	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	y	y	CC	C1706368	calificador	33-34	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	despistaje	despistaje	NCMS000	-	-	35-45	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	46-48	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	49-55	435_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	primaria	primario	AQ0FS0	C0205225	calificador	56-64	435_ANS_clinical_caseMIR	SENT2	B-Calificador	-	9	5726	Modif
+11	,	,	Fc	-	-	64-65	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	pues	pues	CS	-	-	66-70	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	se	se	P00CN000	-	-	71-73	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	trata	tratar	VMIP3S0	-	-	74-79	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	80-82	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	83-86	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	metástasis	metástasis	NCFN000	C0153690_1	trastorno_1	87-97	435_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	9	5726	Causada_por
+18	ósea	óseo	AQ0FS0	C0153690_2	trastorno_2	98-102	435_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	17	5726	LOC
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	103-105	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+20	la	el	DA0FS0	-	-	106-108	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+21	cadera	cadera	NCFS000	C1268234#C0524471_1	estructura_corporal_1	109-115	435_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	17	5726	LOC
+22	izquierda	izquierdo	AQ0FS0	C1268234#C0524471_2	estructura_corporal_2	116-125	435_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	21	113	MultiE
+23	.	.	Fp	-	-	125-126	435_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	9-11	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0332148_1	calificador_1	12-23	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	probable	probable	NC00SC0	C0332148_2	calificador_2	24-32	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	33-35	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	necrosis	necrosis	NCFN000	C0027543_1	anomalía_morfológica_1	36-44	435_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion	-	-	-
+7	avascular	avascular	AQ0CS0	C0027543_2	anomalía_morfológica_2	45-54	435_ANS_clinical_caseMIR	SENT3	B-Calificador	-	6	5727	LOC
+8	de	de	SPS00	C0332285	atributo	55-57	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	la	el	DA0FS0	-	-	58-60	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	cadera	cadera	NCFS000	C1268234#C0524471_1	estructura_corporal_1	61-67	435_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	6	5727	LOC
+11	izquierda	izquierdo	AQ0FS0	C1268234#C0524471_2	estructura_corporal_2	68-77	435_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	10	97	MultiE
+12	e	y	CC	C1706368	calificador	78-79	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	indicar	indicar	VMN0000	-	-	80-87	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	un	un		C0205447_1	calificador_1	88-90	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	estudio	estudio	NCMS000	C0557651	medio_ambiente	91-98	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	99-102	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	RM	rm	NC00YL0	-	-	103-105	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	106-108	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+19	ambas	ambos	DI0FP0	C0238767	calificador	109-114	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+20	caderas	cadera	NCFP000	C0019552	estructura_corporal	115-122	435_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+21	.	.	Fp	-	-	122-123	435_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	el	el	DA0MS0	-	-	9-11	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	12-23	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	24-26	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	osteoporosis	osteoporosis	NCFN000	C0238479_1	trastorno_1	27-39	435_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+6	transitoria	transitorio	AQ0FS0	C0238479_2	trastorno_2	40-51	435_ANS_clinical_caseMIR	SENT4	B-Calificador	-	5	5728	Modif
+7	de	de	SPS00	C0238479_3	trastorno_3	52-54	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	cadera	cadera	NCFS000	C0238479_4	trastorno_4	55-61	435_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	5	5728	LOC
+9	izquierda	izquierdo	AQ0FS0	C0205091	calificador	62-71	435_ANS_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	8	41	MultiE
+10	,	,	Fc	-	-	71-72	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	indicar	indicar	VMN0000	-	-	73-80	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	2	2		-	-	81-82	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	meses	mes	NCMP000	C0439231	calificador	83-88	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	89-91	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	descarga	descarga	NCFS000	-	-	92-100	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	101-102	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+17	repetir	repetir	VMN0000	C0205341	calificador	103-110	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+18	el	el	DA0MS0	-	-	111-113	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+19	estudio	estudio	NCMS000	C0557651	medio_ambiente	114-121	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+20	radiológico	radiológico	AQ0MS0	C0205483	calificador	122-133	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+22	ese	ese	DD0MS0	-	-	137-140	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+23	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	141-148	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+24	.	.	Fp	-	-	148-149	435_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

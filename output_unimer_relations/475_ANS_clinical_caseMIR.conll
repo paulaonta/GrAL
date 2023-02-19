@@ -1,0 +1,45 @@
+1	Test	test	NCMS000	-	-	0-4	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	infusión	infusión	NCFS000	C0574032	procedimiento	8-16	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	17-19	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	20-25	475_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+6	salino	salino	AQ0MS0	-	-	26-32	475_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	5	23	MultiE
+7	hipertónico	hipertónico	AQ0MS00	-	-	33-44	475_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	5	23	MultiE
+8	para	para	SPS00	C0521125	calificador	45-49	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	determinación	determinación	NCFS000	C0242485	procedimiento	50-63	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	seriada	seriar	VMP00SF	-	-	64-71	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	72-74	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	hormona	hormona	NCFS000	C1705480_1	producto#sustancia_1	75-82	475_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+13	antidiurética	antidiurético	AQ0FS0	C1705480_2	producto#sustancia_2	83-96	475_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	12	13	MultiE
+14	.	.	Fp	-	-	96-97	475_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Test	test	NCMS000	-	-	0-4	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	deshidratación	deshidratación	NCFS000	C0011175	trastorno	8-22	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	(	(	Fpa	-	-	23-24	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	test	test	NCMS000	-	-	24-28	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	29-31	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	Miller	miller	NCCS000	-	-	32-38	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	)	)	Fpt	-	-	38-39	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	39-40	475_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	0-14	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	15-17	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	desmopresina	desmopresina	NC00SC0	C0011701	producto#sustancia	18-30	475_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	31-34	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	control	control	NCMS000	C2587213	atributo	35-42	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	seriado	seriar	VMP00SM	-	-	43-50	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	51-53	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	osmolalidad	osmolalidad	NC00SC0	C0086741	función	54-65	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	66-68	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	orina	orina	NCFS000	C0042036	sustancia	69-74	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	74-75	475_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	hormona	hormona	NCFS000	C1705480_1	producto#sustancia_1	17-24	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	antidiurética	antidiurético	AQ0FS0	C1705480_2	producto#sustancia_2	25-38	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	39-41	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	plasma	plasma	NCMS000	C0443120#C0032105	producto#sustancia	42-48	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	48-49	475_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

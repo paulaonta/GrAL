@@ -1,0 +1,30 @@
+1	¿	¿	Fia	-	-	188-189	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	189-193	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	194-196	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	la	el	DA0FS0	-	-	197-199	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	primera	1	AO0FS0	-	-	200-207	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	medida	medida	NCFS000	C0079809	atributo	208-214	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	que	que	PR0CN000	-	-	215-218	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	debe	deber	VMIP3S0	-	-	219-223	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	tomar	tomar	VMN0000	C1515187	calificador	224-229	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	?	?	Fit	-	-	229-230	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	:	:	Fd	-	-	230-231	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	Glomerulonefritis	glomerulonefritis	NCFN000	C0017662_1	trastorno_1	0-17	454_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	membranoproliferativa	membranoproliferativo	AQ0FS0	C0017662_2	trastorno_2	18-39	454_ANS_clinical_caseMIR	SENT1	B-Calificador	-	12	6101	Modif
+14	.	.	Fp	-	-	39-40	454_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Nefropatía	nefropatía	NCFS000	C0022658#C0027720	trastorno	0-10	454_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	IgA	iga	AQ0FS00	-	-	11-14	454_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	6102	Modif
+3	.	.	Fp	-	-	14-15	454_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Síndrome	síndrome	NCMS000	C1567741#C1305904#C0027706_1	trastorno_1	0-8	454_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C1567741#C1305904#C0027706_2	trastorno_2	9-11	454_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+3	Alport	Alport		C1567741#C1305904#C0027706_3	trastorno_3	12-18	454_ANS_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	1	567	MultiE
+4	ligado	ligar	VMP00SM	-	-	19-25	454_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	al	al	SP+DA	-	-	26-28	454_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	X.	x.	NCFS000	-	-	29-31	454_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	Glomerulonefritis	glomerulonefritis	NCFN000	C0156221_1	trastorno_1	0-17	454_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	aguda	agudo	AQ0FS0	C0156221_2	trastorno_2	18-23	454_ANS_clinical_caseMIR	SENT3	B-Calificador	-	7	6103	Modif
+9	postinfecciosa	postinfeccioso	AQ0FS0	-	-	24-38	454_ANS_clinical_caseMIR	SENT3	B-Calificador	-	7	6103	Modif
+10	.	.	Fp	-	-	38-39	454_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+

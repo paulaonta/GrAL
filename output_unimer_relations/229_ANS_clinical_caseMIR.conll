@@ -1,0 +1,93 @@
+1	Tiene	tener	VMIP3S0	-	-	0-5	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	6-9	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sepsis	sepsis	NCFN000	C0684256_1	trastorno_1	10-16	229_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	bacteriana	bacteriano	AQ0FS0	C0684256_2	trastorno_2	17-27	229_ANS_clinical_caseMIR	SENT1	B-Calificador	-	3	1018	Modif
+5	de	de	SPS00	C0332285	atributo	28-30	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	origen	origen	NCMS000	C0439659	atributo	31-37	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	indeterminado	indeterminado	NC00SC0	C0205258	calificador	38-51	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	52-53	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	se	se	P00CN000	-	-	54-56	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	debe	deber	VMIP3S0	-	-	57-61	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	administrar	administrar	VMN0000	C1621583	calificador	62-73	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	74-85	229_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+13	y	y	CC	C1706368	calificador	86-87	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	88-99	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	100-102	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	soporte	soporte	NCMS000	-	-	103-110	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	.	.	Fp	-	-	110-111	229_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	0-5	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	6-9	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	sepsis	sepsis	NCFN000	C0684256_1	trastorno_1	10-16	229_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	bacteriana	bacteriano	AQ0FS0	C0684256_2	trastorno_2	17-27	229_ANS_clinical_caseMIR	SENT2	B-Calificador	-	3	1019	Modif
+5	de	de	SPS00	C0332285	atributo	28-30	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	origen	origen	NCMS000	C0439659	atributo	31-37	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	indeterminado	indeterminado	NC00SC0	C0205258	calificador	38-51	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	52-53	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	se	se	P00CN000	-	-	54-56	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	debe	deber	VMIP3S0	-	-	57-61	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	administrar	administrar	VMN0000	C1621583	calificador	62-73	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	vancomicina	vancomicina	NC00SC0	C0042313	sustancia	74-85	229_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+13	,	,	Fc	-	-	85-86	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	ceftacidima	ceftacidima	NCFS000	-	-	87-98	229_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+15	y	y	CC	C1706368	calificador	99-100	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	101-112	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	113-115	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	soporte	soporte	NCMS000	-	-	116-123	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+19	.	.	Fp	-	-	123-124	229_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	mononucleosis	mononucleosis	NCFN000	C0021345_1	trastorno_1	16-29	229_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	infecciosa	infeccioso	AQ0FS0	C0021345_2	trastorno_2	30-40	229_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	1020	Modif
+7	de	de	SPS00	C0332285	atributo	41-43	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	curso	curso	NCMS000	C0750729	atributo#calificador	44-49	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	grave	grave	AQ0CS0	C0439808#C0205082	calificador	50-55	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	56-57	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	se	se	P00CN000	-	-	58-60	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	deben	deber	VMIP3P0	-	-	61-66	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	67-69	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	administrar	administrar	VMN0000	C1621583	calificador	70-81	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	glucocorticoides	glucocorticoide	NCMP000	C0017710	producto#sustancia	82-98	229_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+16	.	.	Fp	-	-	98-99	229_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	mononucleosis	mononucleosis	NCFN000	C0021345_1	trastorno_1	16-29	229_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+6	infecciosa	infeccioso	AQ0FS0	C0021345_2	trastorno_2	30-40	229_ANS_clinical_caseMIR	SENT4	B-Calificador	-	5	1021	Modif
+7	de	de	SPS00	C0332285	atributo	41-43	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	curso	curso	NCMS000	C0750729	atributo#calificador	44-49	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	grave	grave	AQ0CS0	C0439808#C0205082	calificador	50-55	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	56-57	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	se	se	P00CN000	-	-	58-60	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	debe	deber	VMIP3S0	-	-	61-65	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	iniciar	iniciar	VMN0000	-	-	66-73	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	74-85	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	86-89	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	aciclovir	aciclovir	NC00SC0	C0001367	sustancia	90-99	229_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+17	.	.	Fp	-	-	99-100	229_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Realizaría	realizar	VMIC3S0	-	-	0-10	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	11-14	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	15-22	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	/	/	Fh	-	-	22-23	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	aspirado	aspirado	NC00SC0	C0370199	espécimen	23-31	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	32-34	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	medula	medula	NCFS000	-	-	35-41	229_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	42-46	229_ANS_clinical_caseMIR	SENT5	I-Estructura_Corporal	-	7	45	MultiE
+9	y	y	CC	C1706368	calificador	47-48	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	si	si	CS	-	-	49-51	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+11	se	se	P00CN000	-	-	52-54	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	confirma	confirmar	VMIP3S0	-	-	55-63	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+13	hemofagocitosis	hemofagocitosis	NC00SC0	C0302486#C0876991	hallazgo	64-79	229_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+14	,	,	Fc	-	-	79-80	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+15	iniciaría	iniciar	VMIC3S0	-	-	81-90	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	91-102	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	103-106	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+18	inmunosupresores	inmunosupresor	AQ0MP0	C0021081	producto#sustancia	107-123	229_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+19	.	.	Fp	-	-	123-124	229_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

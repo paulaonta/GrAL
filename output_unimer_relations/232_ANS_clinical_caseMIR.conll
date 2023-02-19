@@ -1,0 +1,53 @@
+1	Se	se	P00CN000	-	-	0-2	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	Nefropatia	nefropatia	NCFS000	-	-	16-26	232_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	9	591	Causada_por
+6	Ig	ig	NC00YL0	-	-	27-29	232_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	591	Modif
+7	A	a	SPS00	-	-	30-31	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	32-35	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	fracaso	fracaso	NCMS000	C0231174	hallazgo	36-43	232_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	renal	renal	AQ0CS0	-	-	44-49	232_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	591	LOC
+11	agudo	agudo	NC00SC0	C0205178	calificador	50-55	232_ANS_clinical_caseMIR	SENT1	B-Calificador	-	9	591	Modif
+12	.	.	Fp	-	-	55-56	232_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Estaría	estar	VAIC1S0	-	-	0-7	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	indicada	indicar	VMP00SF	-	-	8-16	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	17-19	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	realización	realización	NCFS000	-	-	20-31	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	32-34	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	plasmaféresis	plasmaféresis	NCFN000	C0032134	procedimiento	35-48	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	.	.	Fp	-	-	48-49	232_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	0-2	232_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	232_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	232_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	232_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	Glomerulonefritis	glomerulonefritis	NCFN000	C0017665_1	trastorno_1	16-33	232_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	membranosa	membranoso	AQ0FS0	C0017665_2	trastorno_2	34-44	232_ANS_clinical_caseMIR	SENT3	B-Calificador	-	5	593	Modif
+7	.	.	Fp	-	-	44-45	232_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	0-2	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	micofenolato	micofenolato		C0209368_1	producto_1	3-15	232_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+3	mofetilo	mofetilo		C0209368_2	producto_2	16-24	232_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-	2	24	MultiE
+4	es	ser	VSIP3S0	-	-	25-27	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	el	el	DA0MS0	-	-	28-30	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	31-42	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	inicial	inicial	AQ0CS0	C0205265	calificador	43-50	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	51-53	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	elección	elección	NCFS000	-	-	54-62	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	62-63	232_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	afectación	afectación	NCFS000	-	-	3-13	232_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+3	glomerular	glomerular	AQ0CS0	-	-	14-24	232_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	2	595	LOC
+4	esta	este	DD0FS0	-	-	25-29	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	causada	causar	VMP00SF	-	-	30-37	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	38-41	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	la	el	DA0FS0	-	-	42-44	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	45-54	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	55-57	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+10	inmunocomplejos	inmunocomplejo	NCMP000	C0003313#C2939434	sustancia#anomalía_morfológica	58-73	232_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+11	circulantes	circulante	AQ0CP0	C0175630	calificador	74-85	232_ANS_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	10	97	MultiE
+12	.	.	Fp	-	-	85-86	232_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

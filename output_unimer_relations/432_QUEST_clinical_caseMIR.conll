@@ -1,0 +1,77 @@
+1	El	el	DA0MS0	-	-	600-602	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	603-614	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	más	más	RG	C0205172	calificador	615-618	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	619-627	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	sería	ser	VSIC1S0	-	-	628-633	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	:	:	Fd	-	-	633-634	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	Una	Una		C0205447_1	calificador_1	0-3	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	10-12	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	55	55		-	-	13-15	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	años	año	NCMP000	C0439234	calificador	16-20	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	es	ser	VSIP3S0	-	-	29-31	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	valorada	valorar	VMP00SF	-	-	32-40	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	la	el	DA0FS0	-	-	44-46	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	consulta	consultar	VMM02S0	C1704447_1	calificador_1	47-55	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	por	por	SPS00	C1704447_2	calificador_2	56-59	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	una	una		C0205447_1	calificador_1	60-63	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	64-70	432_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	progresiva	progresivo	AQ0FS0	C0205329	calificador	71-81	432_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	21	1227	Modif
+23	de	de	SPS00	C0332285	atributo	82-84	432_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	21	1227	Modif
+24	moderados	moderar	VMP00PM	-	-	85-94	432_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	23	106	MultiE
+25	esfuerzos	esfuerzo	NCMP000	-	-	95-104	432_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	23	106	MultiE
+26	de	de	SPS00	C0332285	atributo	105-107	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	3	3		-	-	108-109	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	meses	mes	NCMP000	C0439231	calificador	110-115	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	116-118	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	evolución	evolución	NCFS000	-	-	119-128	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	.	.	Fp	-	-	128-129	432_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	130-133	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	visita	visita	NCFS000	-	-	134-140	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	al	al	SP+DA	-	-	141-143	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	oftalmólogo	oftalmólogo	NCMS000	C1704292#C2362553	ocupación	144-155	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	1	1		-	-	156-157	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	año	año	NCMS000	C0439234	calificador	158-161	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	antes	antes	RG	C0332152	atributo	162-167	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	había	haber	VAII3S0	-	-	168-173	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	concluido	concluir	VMP00SM	-	-	174-183	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	184-187	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	el	el	DA0MS0	-	-	188-190	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	191-202	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	203-205	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	206-209	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	uveítis	uveítis	NCMN000	C0022073#C0042165_1	trastorno_1	210-217	432_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	anterior	anterior	NC00SC0	C0022073#C0042165_2	trastorno_2	218-226	432_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	15	1228	Modif
+17	.	.	Fp	-	-	226-227	432_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	228-230	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	231-238	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	239-242	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	243-254	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0039985_2	procedimiento_2	255-257	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	258-263	432_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	13	1229	LOC
+7	que	que	PR0CN000	-	-	264-267	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	el	el	DA0MS0	-	-	268-270	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	radiólogo	radiólogo	NCMS000	C0260194	ocupación	271-280	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	informa	informar	VMIP3S0	C0700287	procedimiento	281-288	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	como	como	CS	C0332257	calificador	289-293	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	posible	posible	AQ0CS0	C0332149#C2362652	calificador	294-301	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	sarcoidosis	sarcoidosis	NCFN000	C0036202_1	trastorno_1	302-313	432_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion	-	-	-
+14	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	314-321	432_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	13	1229	Modif
+15	III	iii	RG	-	-	322-325	432_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	14	51	MultiE
+16	.	.	Fp	-	-	325-326	432_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	327-328	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	328-331	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	332-341	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	esperaría	esperar	VMIC3S0	-	-	342-351	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	encontrar	encontrar	VMN0000	-	-	352-361	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	362-364	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	la	el	DA0FS0	-	-	365-367	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	radiografía	radiografía	NCFS000	C1306645	procedimiento	368-379	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	?	?	Fit	-	-	379-380	432_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

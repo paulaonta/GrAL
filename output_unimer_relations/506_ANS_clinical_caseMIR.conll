@@ -1,0 +1,61 @@
+1	Sueroterapia	sueroterapia	NCFS000	-	-	0-12	506_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	.	.	Fp	-	-	12-13	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	antitérmicos	antitérmico	NCMP000	C0003419	sustancia	14-26	506_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	,	,	Fc	-	-	26-27	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	toma	tomar	VMIP3S0	C1515187	calificador	28-32	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	33-35	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	urocultivo	urocultivo	NC00SC0	C0430404	procedimiento	36-46	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	46-47	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	antibiote_x0002_rapia	antibiote_x0002_rapia		-	-	48-69	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	70-71	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	Tc	símbolo_químico_del_tecnecio	NC00YL0	-	-	72-74	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	toracoabdominal	toracoabdominal	NC00SC0	C0444467	calificador	75-90	506_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+13	.	.	Fp	-	-	90-91	506_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Sueroterapia	sueroterapia	NCFS000	-	-	0-12	506_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	,	,	Fc	-	-	12-13	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	antitérmicos	antitérmico	NCMP000	C0003419	sustancia	14-26	506_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	y	y	CC	C1706368	calificador	27-28	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	antibioterapia	antibioterapia	NCFS000	-	-	29-43	506_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+6	previa	previo	AQ0FS0	C0205156	calificador	44-50	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	a	a	SPS00	-	-	51-52	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	la	el	DA0FS0	-	-	53-55	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	realización	realización	NCFS000	-	-	56-67	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	68-70	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	71-78	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	prostática	prostático	AQ0FS0	C0033572	calificador	79-89	506_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+13	.	.	Fp	-	-	89-90	506_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Sueroterapia	sueroterapia	NCFS000	-	-	0-12	506_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	,	,	Fc	-	-	12-13	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	antitérmicos	antitérmico	NCMP000	C0003419	sustancia	14-26	506_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	y	y	CC	C1706368	calificador	27-28	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	antibioterapia	antibioterapia	NCFS000	-	-	29-43	506_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+6	durante	durante	SPS00	C1444752#C0347984	atributo	44-51	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tres	tres		-	-	52-56	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	semanas	semana	NCFP000	C0439230	calificador	57-64	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	65-66	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	repetir	repetir	VMN0000	C0205341	calificador	67-74	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	niveles	nivel	NCMP000	C0456079	atributo	75-82	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	83-85	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	PSA	prostate-specific_antigen_(antígeno_prostático_específico)	NC00YL0	-	-	86-89	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	90-92	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	tres	tres		-	-	93-97	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	meses	mes	NCMP000	C0439231	calificador	98-103	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	.	.	Fp	-	-	103-104	506_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Sueroterapia	sueroterapia	NCFS000	-	-	0-12	506_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	.	.	Fp	-	-	12-13	506_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	antitérmicos	antitérmico	NCMP000	C0003419	sustancia	14-26	506_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+4	y	y	CC	C1706368	calificador	27-28	506_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	antibioterapia	antibioterapia	NCFS000	-	-	29-43	506_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+6	.	.	Fp	-	-	43-44	506_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	45-54	506_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	niveles	nivel	NCMP000	C0456079	atributo	55-62	506_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	63-65	506_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	fosfatasa	fosfatasa	NCFS000	C0001109_1	sustancia_1	66-75	506_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	ácida	ácido	AQ0FS0	C0001109_2	sustancia_2	76-81	506_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	prostática	prostático	AQ0FS0	C0033572	calificador	82-92	506_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+7	.	.	Fp	-	-	92-93	506_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

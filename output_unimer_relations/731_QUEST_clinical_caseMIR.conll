@@ -1,0 +1,70 @@
+1	Respecto	respecto	NCMS000	-	-	318-326	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	a	a	SPS00	-	-	327-328	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	la	el	DA0FS0	-	-	329-331	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	patología	patología	NCFS000	C0030664	calificador	332-341	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	342-345	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	346-354	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	esta	este	DD0FS0	-	-	355-359	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	360-368	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	,	,	Fc	-	-	368-369	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	señale	señalar	VMSP3S0	-	-	370-376	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	la	el	DA0FS0	-	-	377-379	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	respuesta	respuesta	NCFS000	-	-	380-389	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	correcta	correcto	AQ0FS0	C0205170	calificador	390-398	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	:	:	Fd	-	-	398-399	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	6-8	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	86	86		-	-	9-11	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	años	año	NCMP000	C0439234	calificador	12-16	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	25-27	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	quien	quien	PR0CS000	-	-	28-33	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	se	se	P00CN000	-	-	34-36	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	ha	haber	VAIP3S0	-	-	37-39	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	detectado	detectar	VMP00SM	-	-	40-49	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	una	una		C0205447_1	calificador_1	50-53	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	54-65	731_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	auricular	auricular	NCMS000	C0004238_2	trastorno_2	66-75	731_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	27	1521	LOC
+29	no	no	RN	C1298908	calificador	76-78	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	valvular	valvular	AQ0CS0	-	-	79-87	731_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+31	.	.	Fp	-	-	87-88	731_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	89-94	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	95-98	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	puntuación	puntuación	NCFS000	C0449820	atributo	99-109	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	CHADS2	CHADS2		-	-	110-116	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	117-119	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	3	3		-	-	120-121	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	puntos	punto	NCMP000	-	-	122-128	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	128-129	731_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	130-132	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	133-135	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	bibliografía	bibliografía	NCFS000	-	-	136-148	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	,	,	Fc	-	-	148-149	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	pacientes	paciente	NCCP000	C0030705	persona	150-159	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	similares	similar	AQ0CP0	-	-	160-169	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	173-184	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	185-188	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	Warfarina	warfarina	NCFS000	C0043031	sustancia	189-198	731_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+11	tienen	tener	VMIP3P0	-	-	199-205	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	206-208	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	209-215	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	de	de	SPS00	C0035647_2	calificador_2	216-218	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	ictus	ictus	NCMN000	-	-	219-224	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	del	del	SP+DA	-	-	225-228	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	2,2	2.2	Z	-	-	229-232	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	%	%	Ft	-	-	233-234	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	235-241	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	al	al	SP+DA	-	-	242-244	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	5,2	5.2	Z	-	-	245-248	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	%	%	Ft	-	-	249-250	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	los	el	DA0MP0	-	-	254-257	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	pacientes	paciente	NCCP000	C0030705	persona	258-267	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	sin	sin	SPS00	C0332288	atributo	268-271	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	warfarina	warfarina	NCFS000	C0043031	sustancia	272-281	731_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+28	.	.	Fp	-	-	281-282	731_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

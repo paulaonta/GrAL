@@ -1,0 +1,23 @@
+1	Curva	curva	NCFS000	-	-	0-5	171_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	171_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	glucemia	glucemia	NCFS000	C2585282	entidad_observable	9-17	171_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	.	.	Fp	-	-	17-18	171_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Flujometría	flujometría	NCFS000	-	-	0-11	171_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Doppler	doppler	NCCS000	-	-	12-19	171_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	feto-placentaria	feto-placentaria	AQ0FS00	-	-	20-36	171_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+4	.	.	Fp	-	-	36-37	171_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Test	test	NCMS000	-	-	0-4	171_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	171_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	nitracina	nitracina	NCFS000	-	-	8-17	171_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+4	.	.	Fp	-	-	17-18	171_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Hematocrito	hematocrito	RG	-	-	0-11	171_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	.	.	Fp	-	-	11-12	171_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Valoración	valoración	NCFS000	-	-	0-10	171_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	11-19	171_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+3	ecográfica	ecográfica	AQ0FS00	-	-	20-30	171_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	.	.	Fp	-	-	30-31	171_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

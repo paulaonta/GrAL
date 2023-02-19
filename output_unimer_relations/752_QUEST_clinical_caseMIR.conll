@@ -1,0 +1,96 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	3-8	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	34	34		-	-	12-14	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sufre	sufrir	VMIP3S0	-	-	20-25	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	26-28	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	accidente	accidente	NCMS000	C0415499_1	evento_1	29-38	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0415499_2	evento_2	39-41	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	tráfico	tráfico	NCMS000	-	-	42-49	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	50-51	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	es	ser	VSIP3S0	-	-	52-54	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	atendido	atender	VMP00SM	-	-	55-63	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	64-66	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	el	el	DA0MS0	-	-	67-69	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	lugar	lugar	NCMS000	C0337069_1	atributo_1	70-75	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	del	del	SP+DA	C0337069_2	atributo_2	76-79	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	accidente	accidente	NCMS000	C0337069_3	atributo_3	80-89	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	89-90	752_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	91-93	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	personal	personal	NCMS000	-	-	94-102	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	sanitario	sanitario	AQ0MS0	-	-	103-112	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	objetiva	objetivar	VMIP3S0	-	-	113-121	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	que	que	CS	-	-	122-125	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	está	estar	VAIP3S0	-	-	126-130	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	pálido	pálido	NC00SC0	C1971630#C0017651	calificador#estructura_corporal	131-137	752_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	137-138	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	sudoroso	sudoroso	AQ0MS0	-	-	139-147	752_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	,	,	Fc	-	-	147-148	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	tiene	tener	VMIP3S0	-	-	149-154	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	pulso	pulso	NCMS000	C0232132_1	hallazgo_1	155-160	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	filiforme	filiforme	NC00SC0	C0232132_2	hallazgo_2	161-170	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	171-174	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	175-178	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	179-186	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	187-195	752_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	196-198	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	90/50	90/50	Z	-	-	199-204	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	mmHg	mmHg	NCMP000	-	-	205-209	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	,	,	Fc	-	-	209-210	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	una	una		C0205447_1	calificador_1	211-214	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	215-225	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	cardiaca	cardiaco	AQ0FS0	-	-	226-234	752_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	235-237	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	127	127		-	-	238-241	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	lpm	lpm	NC00YL0	-	-	242-245	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	,	,	Fc	-	-	245-246	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	una	una		C0205447_1	calificador_1	247-250	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	251-261	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	262-274	752_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	275-277	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	28	28		-	-	278-280	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	rpm	r.p.m.	NCFN000	-	-	281-284	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	y	y	CC	C1706368	calificador	285-286	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	una	una		C0205447_1	calificador_1	287-290	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	saturación	saturación	NCFS000	-	-	291-301	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	de	de	SPS00	C0332285	atributo	302-304	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	oxígeno	oxígeno	NCMS000	C0030054	sustancia	305-312	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	de	de	SPS00	C0332285	atributo	313-315	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	92	92	Z	-	-	316-318	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	%	%	Ft	-	-	319-320	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	.	.	Fp	-	-	320-321	752_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	322-324	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	325-327	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	infunden	infundir	VMIP3P0	-	-	328-336	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	20	20	Z	-	-	337-339	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	ml	ml	NCMN000	C0439242	calificador	340-342	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	/	/	Fh	-	-	342-343	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	kg	kilogramo	NCMN000	C0439209	calificador	343-345	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	346-348	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	cristaloides	cristaloide	NCMP000	-	-	349-361	752_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+10	.	.	Fp	-	-	361-362	752_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Durante	durante	SPS00	C1444752#C0347984	atributo	363-370	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	su	su	DP3CS0	-	-	371-373	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	traslado	traslado	NCMS000	C1540850	entidad_observable	374-382	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	al	al	SP+DA	-	-	383-385	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	hospital	hospital	NCMS000	C1510665	medio_ambiente	386-394	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	los	el	DA0MP0	-	-	395-398	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	signos	signo	NCMP000	C0311392	hallazgo	399-405	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	vitales	vital	AQ0CP0	C0442732	calificador	406-413	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	mejoran	mejorar	VMIP3P0	-	-	414-421	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	transitoriamente	transitoriamente	RG	-	-	422-438	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	439-440	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	después	después	RG	C0231290	atributo	441-448	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	se	se	P00CN000	-	-	449-451	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	deterioran	deteriorar	VMIP3P0	-	-	452-462	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	a	a	SPS00	-	-	463-464	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	su	su	DP3CS0	-	-	465-467	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	llegada	llegada	NCFS000	-	-	468-475	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	al	al	SP+DA	-	-	476-478	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	hospital	hospital	NCMS000	C1510665	medio_ambiente	479-487	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	.	.	Fp	-	-	487-488	752_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

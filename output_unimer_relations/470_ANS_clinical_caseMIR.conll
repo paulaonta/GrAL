@@ -1,0 +1,19 @@
+1	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	470_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	inyección	inyección	NCFS000	C1272883#C1533685	calificador#procedimiento	8-17	470_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	18-20	470_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	etanol	etanol	NCMS000	C0001962	producto#sustancia	21-27	470_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+5	percutánea	percutánea	AQ0FS00	-	-	28-38	470_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	.	.	Fp	-	-	38-39	470_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Resección	resección	NCFS000	C0019144_1	procedimiento_1	0-9	470_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hepática	hepático	AQ0FS0	C0019144_2	procedimiento_2	10-18	470_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	18-19	470_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Trasplante	trasplante	NCMS000	C0023911_1	procedimiento_1	0-10	470_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	hepático	hepático	AQ0MS0	C0023911_2	procedimiento_2	11-19	470_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	19-20	470_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Quimioembolización	quimioembolización	NCFS000	-	-	0-18	470_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	transarterial	transarterial	NC00SC0	C0522522	calificador	19-32	470_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	.	.	Fp	-	-	32-33	470_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

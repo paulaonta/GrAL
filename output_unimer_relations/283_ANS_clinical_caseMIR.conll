@@ -1,0 +1,87 @@
+1	No	no	RN	C1298908	calificador	0-2	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	es	ser	VSIP3S0	-	-	3-5	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	necesario	necesario	AQ0MS0	-	-	6-15	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	anticoagular	anticoagular	VMN0000	-	-	16-28	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	porque	porque	CS	-	-	29-35	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	tiene	tener	VMIP3S0	-	-	36-41	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	42-45	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	fibrilación	fibrilación	NCFS000	C0235480_1	trastorno_1	46-57	283_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	auricular	auricular	NCMS000	C0235480_2	trastorno_2	58-67	283_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+10	paroxística	paroxístico	AQ0FS0	C0235480_3	trastorno_3	68-79	283_ANS_clinical_caseMIR	SENT1	B-Calificador	-	16	5680	Modif
+11	y	y	CC	C1706368	calificador	80-81	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ahora	ahora	RG	-	-	82-87	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	no	no	RN	C1298908	calificador	88-90	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	está	estar	VAIP3S0	-	-	91-95	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	96-98	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	99-110	283_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	auricular	auricular	NCMS000	C0004238_2	trastorno_2	111-120	283_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	5680,16	LOC,5680
+18	.	.	Fp	-	-	120-121	283_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	es	ser	VSIP3S0	-	-	3-5	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	necesario	necesario	AQ0MS0	-	-	6-15	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	anticoagular	anticoagular	VMN0000	-	-	16-28	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	porque	porque	CS	-	-	29-35	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	36-38	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	39-44	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	45-47	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	75	75		-	-	48-50	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	años	año	NCMP000	C0439234	calificador	51-55	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	56-57	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	no	no	RN	C1298908	calificador	58-60	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	ha	haber	VAIP3S0	-	-	61-63	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	tenido	tener	VMP00SM	-	-	64-70	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	ictus	ictus	NCMN000	-	-	71-76	283_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+16	previamente	previamente	RG	-	-	77-88	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	88-89	283_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	anticoagularse	anticoagularse	VMN0000	-	-	5-19	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	forma	forma	NCFS000	C0348078	atributo	23-28	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	crónica	crónico	AQ0FS0	C0205191	calificador	29-36	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	porque	porque	CS	-	-	37-43	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tiene	tener	VMIP3S0	-	-	44-49	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	50-52	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	CHADS	chads	NCCN000	-	-	53-58	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	59-61	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	2	2		-	-	62-63	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	64-65	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	un	un		C0205447_1	calificador_1	66-68	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	CHADS-VASc	chads-vasc	NC00000	-	-	69-79	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	80-82	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	3	3		-	-	83-84	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	.	.	Fp	-	-	84-85	283_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	0-2	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	es	ser	VSIP3S0	-	-	3-5	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	preciso	preciso	AQ0MS0	C0443131	calificador	6-13	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	anticoagular	anticoagular	AQ0CS00	-	-	14-26	283_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+5	,	,	Fc	-	-	26-27	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	pero	pero	CC	-	-	28-32	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	si	si	CS	-	-	33-35	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	pautar	pautar	VMN0000	-	-	36-42	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	se	se	PP3CN000	-	-	42-44	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	antiagregación	antiagregación	NCFS000	-	-	45-59	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	60-63	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	ácido	ácido	NCMS000	C0004057_1	sustancia_1	64-69	283_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+13	acetilsalicílico	acetilsalicílico	AQ0MS0	C0004057_2	sustancia_2	70-86	283_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-	12	13	MultiE
+14	.	.	Fp	-	-	86-87	283_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	anticoagularse	anticoagularse	VMN0000	-	-	5-19	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	solo	solo	RG	C0205171	calificador	20-24	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	25-28	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	heparina	heparina	NCFS000	C0019139_1	producto#sustancia_1	29-37	283_ANS_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+6	de	de	SPS00	C0019139_2	producto#sustancia_2	38-40	283_ANS_clinical_caseMIR	SENT5	I-Grp_Medicamento	-	5	23	MultiE
+7	bajo	bajo	SPS00	C0019139_3	producto#sustancia_3	41-45	283_ANS_clinical_caseMIR	SENT5	I-Grp_Medicamento	-	5	23	MultiE
+8	peso	peso	NCMS000	C0019139_4	producto#sustancia_4	46-50	283_ANS_clinical_caseMIR	SENT5	I-Grp_Medicamento	-	5	23	MultiE
+9	molecular	molecular	AQ0CS0	C0019139_5	producto#sustancia_5	51-60	283_ANS_clinical_caseMIR	SENT5	I-Grp_Medicamento	-	5	23	MultiE
+10	subcutánea	subcutáneo	AQ0FS0	C0443315	calificador	61-71	283_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+11	cuando	cuando	CS	-	-	72-78	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+12	esté	estar	VASP1S0	-	-	79-83	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	84-86	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+14	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	87-98	283_ANS_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+15	auricular	auricular	NCMS000	C0004238_2	trastorno_2	99-108	283_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	14	5684	LOC
+16	.	.	Fp	-	-	108-109	283_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,50 @@
+1	Con	con	SPS00	C0332287	atributo	319-322	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	estos	este	DD0MP0	-	-	323-328	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	datos	dato	NCMP000	-	-	329-334	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	,	,	Fc	-	-	334-335	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	¿	¿	Fia	-	-	336-337	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	cuál	cuál	PT0CS000	-	-	337-341	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	342-344	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	las	el	DA0FP0	-	-	345-348	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	patologías	patología	NCFP000	C0030664	calificador	349-359	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	siguientes	siguiente	AQ0CP0	C0332282	atributo	360-370	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	debe	deber	VMIP3S0	-	-	371-375	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	sospechar	sospechar	VMN0000	-	-	376-385	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	se	se	PP3CN000	-	-	385-387	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	?	?	Fit	-	-	387-388	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	:	:	Fd	-	-	388-389	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	Transfusión	transfusión	NCFS000	C0086818_1	procedimiento_1	0-11	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0086818_2	procedimiento_2	12-14	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	plaquetas	plaqueta	NCFP000	C0086818_3	procedimiento_3	15-24	219_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+19	.	.	Fp	-	-	24-25	219_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Rituximab	rituximab	NC00SC0	C0393022	producto#sustancia	0-9	219_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	10-12	219_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	pauta	pauta	NCFS000	-	-	13-18	219_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	semanal	semanal	AQ0CS0	C0332174	calificador	19-26	219_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	26-27	219_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Ciclofosfamida	ciclofosfamida	NCFS000	C0010583	producto#sustancia	0-14	219_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	15-17	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	pulsos	pulso	NCMP000	C0391850	función	18-24	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	25-27	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	4	4	Z	-	-	28-29	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	días	d	NCMP000	-	-	30-34	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	cada	cada	NC00SC0	C1457900	calificador	35-39	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	21	21	Z	-	-	40-42	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	días	d	NCMP000	-	-	43-47	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	Plasmaferesis	plasmaferesis	NCFN000	-	-	0-13	219_ANS_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+11	diaria	diario	AQ0FS0	C0332173	calificador	14-20	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	.	.	Fp	-	-	20-21	219_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Prednisona	prednisona	NCFS000	C0032952	sustancia	0-10	219_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	a	a	SPS00	-	-	11-12	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	1	1	Z	-	-	13-14	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	mg	mg	NCMN000	-	-	15-17	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	/	/	Fh	-	-	17-18	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	dia	dia	NC00YL0	-	-	18-21	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	durante	durante	SPS00	C1444752#C0347984	atributo	22-29	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	2-3	2-3		-	-	30-33	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	semanas	semana	NCFP000	C0439230	calificador	34-41	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	41-42	219_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

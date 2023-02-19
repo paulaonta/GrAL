@@ -1,0 +1,79 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	26	26		-	-	13-15	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	20-21	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	22-25	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	antecedente	antecedente	NCMS000	C0332119_1	situación_1	26-37	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332119_2	situación_2	38-40	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	41-43	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	44-52	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	a	a	SPS00	-	-	53-54	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	los	el	DA0MP0	-	-	55-58	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	24	24		-	-	59-61	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	años	año	NCMP000	C0439234	calificador	62-66	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	finalizado	finalizar	VMP00SM	-	-	67-77	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	aborto	aborto	NCMS000	C0000786_1	trastorno_1	81-87	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	espontáneo	espontáneo	NCMS000	C0000786_2	trastorno_2	88-98	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	99-101	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	102-104	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	semana	semana	NCFS000	C0439230	calificador	105-111	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	12ª	12ª		-	-	112-115	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	que	que	PR0CN000	-	-	116-119	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	no	no	RN	C1298908	calificador	120-122	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	requirió	requerir	VMIS3S0	-	-	123-131	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	legrado	legrar	VMP00SM	-	-	132-139	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	,	,	Fc	-	-	139-140	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	acude	acudir	VMIP3S0	-	-	141-146	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	a	a	SPS00	-	-	147-148	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	la	el	DA0FS0	-	-	149-151	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	152-160	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	presentando	presentar	VMG0000	-	-	161-172	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	sangrado	sangrar	VMP00SM	C0426196_1	hallazgo_1	173-181	738_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+35	vaginal	vaginal	AQ0CS0	C0426196_2	hallazgo_2	182-189	738_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	34	3788	LOC
+36	diario	diario	AQ0MS0	C0332173	calificador	190-196	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	de	de	SPS00	C0332285	atributo	197-199	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	un	un		C0205447_1	calificador_1	200-202	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	mes	mes	NCMS000	C0439231	calificador	203-206	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	de	de	SPS00	C0332285	atributo	207-209	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	evolución	evolución	NCFS000	-	-	210-219	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	,	,	Fc	-	-	219-220	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	sin	sin	SPS00	C0332288	atributo	221-224	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	fiebre	fiebre	NCFS000	C0015967	hallazgo	225-231	738_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+45	ni	ni	CC	-	-	232-234	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	dolor	dolor	NCMS000	C0030193	hallazgo	235-240	738_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+47	.	.	Fp	-	-	240-241	738_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	242-244	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	245-247	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	248-257	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	258-260	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	observa	observar	VMIP3S0	-	-	261-268	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	269-271	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	aumento	aumento	NCMS000	C0442805	calificador	272-279	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	280-282	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	la	el	DA0FS0	-	-	283-285	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	línea	línea	NCFS000	C0205132	calificador	286-291	738_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+11	endometrial	endometrial	AQ0CS00	-	-	292-303	738_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+12	,	,	Fc	-	-	303-304	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	305-308	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	309-312	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	313-319	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	intracavitaria	intracavitaria	AQ0FS00	-	-	320-334	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	335-337	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	aspecto	aspecto	NCMS000	C0700364#C0233426#C0332441	calificador#función	338-345	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	polipoideo	polipoideo	NCMS000	-	-	346-356	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	.	.	Fp	-	-	356-357	738_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	358-360	738_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	361-368	738_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	endometrial	endometrial	AQ0CS00	-	-	369-380	738_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	muestra	mostrar	VMIP3S0	-	-	381-388	738_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	proliferación	proliferación	NCFS000	C0334094	anomalía_morfológica	389-402	738_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	del	del	SP+DA	-	-	403-406	738_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	5	3790	Modif
+7	trofoblasto	trofoblasto	NCMS000	C1285047#C0041178	estructura_corporal	407-418	738_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	6	15	MultiE
+8	intermedio	intermedio	AQ0MS0	C0205103	calificador	419-429	738_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	6	15	MultiE
+9	.	.	Fp	-	-	429-430	738_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

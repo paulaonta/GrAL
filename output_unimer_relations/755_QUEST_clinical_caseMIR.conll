@@ -1,0 +1,44 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	12-14	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	20-23	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	24-32	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	33-35	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	primer	1	AO0MS0	C0439615_1	calificador_1	36-42	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	episodio	episodio	NCMS000	C0439615_2	calificador_2	43-51	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	52-54	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	lumbalgia	lumbalgia	NCFS000	C0024031	trastorno	55-64	755_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	65-67	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	3	3		-	-	68-69	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	semanas	semana	NCFP000	C0439230	calificador	70-77	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	78-80	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	evolución	evolución	NCFS000	-	-	81-90	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	que	que	PR0CN000	-	-	91-94	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	95-97	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	impide	impedir	VMIP3S0	-	-	98-104	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	realizar	realizar	VMN0000	-	-	105-113	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	su	su	DP3CS0	-	-	114-116	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	vida	vida	NCFS000	-	-	117-121	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	normal	normal	AQ0CS0	C0205307	calificador	122-128	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	128-129	755_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	130-132	755_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	refiere	referir	VMIP3S0	-	-	133-140	755_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	traumatismo	traumatismo	NCMS000	C3263723	trastorno	141-152	755_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+4	ni	ni	CC	-	-	153-155	755_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	otra	otro	DI0FS0	C0205394#C0449210	calificador#estructura_corporal	156-160	755_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	patología	patología	NCFS000	C0030664	calificador	161-170	755_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+7	subyacente	subyacente	AQ0CS0	C0444455#C0542339#C0205104	calificador	171-181	755_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	181-182	755_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	183-185	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	186-188	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	189-200	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	201-207	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	no	no	RN	C1298908	calificador	208-210	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	hay	haber	VMIP3S0	-	-	211-214	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	déficit	déficit	NCMS000	C1392205#C0521654_1	hallazgo_1	215-222	755_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+8	neurológico	neurológico	NC00SC0	C1392205#C0521654_2	hallazgo_2	223-234	755_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	3744	LOC
+9	.	.	Fp	-	-	234-235	755_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

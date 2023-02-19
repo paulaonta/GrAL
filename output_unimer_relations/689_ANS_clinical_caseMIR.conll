@@ -1,0 +1,39 @@
+1	Aplastamiento	aplastamiento	NCMS000	C0410550_1	trastorno_1	0-13	689_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	vertebral	vertebral	AQ0CS0	C0410550_2	trastorno_2	14-23	689_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	127	LOC
+3	con	con	SPS00	C0332287	atributo	24-27	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	tomografía	tomografía	NCFS000	-	-	28-38	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	computarizada	computarizada	VMP00SF	-	-	39-52	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	(	(	Fpa	-	-	53-54	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	54-56	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	)	)	Fpt	-	-	56-57	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	.	.	Fp	-	-	57-58	689_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	0-10	689_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	óseas	óseo	AQ0FP0	C0443157	calificador	11-16	689_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	1	128	LOC
+3	con	con	SPS00	C0332287	atributo	17-20	689_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	gammagrafía	gammagrafía	NCFS000	C2368359	calificador	21-32	689_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	ósea	óseo	AQ0FS0	C0443157	calificador	33-37	689_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	38-41	689_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	tecnecio	tecnecio	NCMS000	C0039411	sustancia	42-50	689_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	50-51	689_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hiperostosis	hiperostosis	NCFN000	C0020492	anomalía_morfológica	0-12	689_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	anquilosante	anquilosante	AQ0CS0	-	-	13-25	689_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	129	Modif
+3	vertebral	vertebral	AQ0CS0	-	-	26-35	689_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	129	LOC
+4	con	con	SPS00	C0332287	atributo	36-39	689_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	radiografía	radiografía	NCFS000	C1306645	procedimiento	40-51	689_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	52-54	689_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	columna	columna	NCFS000	C1443270_1	estructura_corporal_1	55-62	689_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+8	dorsolumbar	dorsolumbar	NC00SC0	C1443270_2	estructura_corporal_2	63-74	689_ANS_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	7	45	MultiE
+9	.	.	Fp	-	-	74-75	689_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Espondilodiscitis	espondilodiscitis	NC00KE0	-	-	0-17	689_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	piógena	piógeno	AQ0FS0	-	-	18-25	689_ANS_clinical_caseMIR	SENT4	B-Calificador	-	1	130	LOC
+3	con	con	SPS00	C0332287	atributo	26-29	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	30-40	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	magnética	magnético	AQ0FS0	-	-	41-50	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	(	(	Fpa	-	-	51-52	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	RM	rm	NC00YL0	-	-	52-54	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	)	)	Fpt	-	-	54-55	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	.	.	Fp	-	-	55-56	689_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

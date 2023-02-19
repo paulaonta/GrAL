@@ -1,0 +1,32 @@
+1	Insuficiencia	insuficiencia	NCFS000	C0035229_1	hallazgo#trastorno_1	0-13	238_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	respiratoria	respiratorio	AQ0FS0	C0035229_2	hallazgo#trastorno_2	14-26	238_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	4483	LOC
+3	parcial	parcial	AQ0CS0	C0728938#C0205257#C0728939	calificador	27-34	238_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	4483	Modif
+4	.	.	Fp	-	-	34-35	238_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Acidosis	acidosis	NCFN000	C0220981_1	trastorno_1	0-8	238_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	metabólica	metabólico	AQ0FS0	C0220981_2	trastorno_2	9-19	238_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	4484	Modif
+3	.	.	Fp	-	-	19-20	238_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Acidosis	acidosis	NCFN000	C0001127_1	trastorno_1	0-8	238_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	respiratoria	respiratorio	AQ0FS0	C0001127_2	trastorno_2	9-21	238_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	1	4485	LOC
+3	pura	puro	AQ0FS0	C0205238	calificador	22-26	238_ANS_clinical_caseMIR	SENT3	B-Calificador	-	1	4485	Modif
+4	.	.	Fp	-	-	26-27	238_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Alcalosis	alcalosis	NCFN000	C0002064_1	trastorno_1	0-9	238_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	respiratoria	respiratorio	AQ0FS0	C0002064_2	trastorno_2	10-22	238_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	1	4486	LOC
+3	por	por	SPS00	C0678226	atributo	23-26	238_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	falta	falta	NCFS000	-	-	27-32	238_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	33-35	238_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	cloro	cloro	NCMN000	C0008209	sustancia	36-41	238_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	41-42	238_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	0-2	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+2	gasometría	gasometría	NCFS000	-	-	3-13	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+3	solo	solo	AQ0MS0	C0205171	calificador	14-18	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+4	puede	poder	VMIP3S0	-	-	19-24	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+5	ser	ser	VSN0000	-	-	25-28	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	29-31	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+7	sangre	sangre	NCFS000	C0229667_1	sustancia_1	32-38	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+8	venosa	venoso	AQ0FS0	C0229667_2	sustancia_2	39-45	238_ANS_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+9	.	.	Fp	-	-	45-46	238_ANS_clinical_caseMIR	SENT5	-	-	-	-	-
+

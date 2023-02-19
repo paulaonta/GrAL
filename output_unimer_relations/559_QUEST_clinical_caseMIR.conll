@@ -1,0 +1,92 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	65	65		-	-	10-12	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	cardiopatía	cardiopatía	NCFS000	C0002962#C0151744_1	trastorno_1	22-33	559_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	isquémica	isquémico	AQ0FS0	C0002962#C0151744_2	trastorno_2	34-43	559_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	5770	Modif
+8	y	y	CC	C1706368	calificador	44-45	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	estenosis	estenosis	NCFN000	C0155567_1	trastorno_1	46-55	559_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	aórtica	aórtico	AQ0FS0	C0155567_2	trastorno_2	56-63	559_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	5770	LOC
+11	reumática	reumático	NCFS000	C0155567_3	trastorno_3	64-73	559_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	5770	Modif
+12	,	,	Fc	-	-	73-74	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	por	por	SPS00	C0678226	atributo	75-78	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	lo	el	DA0NS0	-	-	79-81	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	que	que	PR0CN000	-	-	82-85	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	recibe	recibir	VMIP3S0	-	-	86-92	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	betabloqueantes	betabloqueante	NCMP000	-	-	93-108	559_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+18	,	,	Fc	-	-	108-109	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	antiagregantes	antiagregantes	NCCP000	-	-	110-124	559_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+20	y	y	CC	C1706368	calificador	125-126	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	estatinas	estatinas	NCFP000	-	-	127-136	559_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+22	.	.	Fp	-	-	136-137	559_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Comienza	comenzar	VMIP3S0	-	-	138-146	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	147-150	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	151-153	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cuadro	cuadro	NCMS000	-	-	154-160	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	161-163	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	fiebre	fiebre	NCFS000	C0015967	hallazgo	164-170	559_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	y	y	CC	C1706368	calificador	171-172	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	modificación	modificación	NCFS000	-	-	173-185	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	186-188	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	las	el	DA0FP0	-	-	189-192	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	cualidades	cualidad	NCFP000	-	-	193-203	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	del	del	SP+DA	-	-	204-207	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	soplo	soplo	NCMS000	C0277934_1	hallazgo_1	208-213	559_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	aórtico	aórtico	NC00SC0	C0277934_2	hallazgo_2	214-221	559_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	13	5771	LOC
+15	por	por	SPS00	C0678226	atributo	222-225	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	lo	el	DA0NS0	-	-	226-228	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	que	que	PR0CN000	-	-	229-232	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	se	se	P00CN000	-	-	233-235	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	sospecha	sospechar	VMIP3S0	-	-	236-244	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	endocarditis	endocarditis	NCFN000	C0014118	trastorno	245-257	559_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+21	.	.	Fp	-	-	257-258	559_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	259-261	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	extraen	extraer	VMIP3P0	-	-	262-269	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	hemocultivos	hemocultivos	NCMP000	-	-	270-282	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	283-285	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	los	el	DA0MP0	-	-	286-289	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	que	que	PR0CN000	-	-	290-293	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	crece	crecer	VMIP3S0	-	-	294-299	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	Staphylococcus	Staphylococcus		-	-	300-314	559_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	aureus	aureus		-	-	315-321	559_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	8	41	MultiE
+10	meticilin	meticilin	AQ0CN00	-	-	322-331	559_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	8	41	MultiE
+11	resistente	resistente	NCMS000	C0332325	calificador	332-342	559_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	8	5772	Modif
+12	por	por	SPS00	C0678226	atributo	343-346	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	lo	el	DA0NS0	-	-	347-349	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	que	que	PR0CN000	-	-	350-353	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	recibe	recibir	VMIP3S0	-	-	354-360	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	361-372	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	373-384	559_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+18	.	.	Fp	-	-	384-385	559_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	386-388	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	389-392	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	393-402	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	403-405	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	control	control	NCMS000	C2587213	atributo	406-413	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	se	se	P00CN000	-	-	414-416	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	constata	constatar	VMIP3S0	-	-	417-425	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	importante	importante	AQ0CS0	-	-	426-436	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	elevación	elevación	NCFS000	C0439775	procedimiento	437-446	559_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	447-449	559_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	9	5773	Modif
+11	CPK	creatine_phosfhokinase_(creatinfosfocinasa)	NC00YL0	-	-	450-453	559_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	10	97	MultiE
+12	.	.	Fp	-	-	453-454	559_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	455-456	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	456-460	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	cree	creer	VMIP3S0	-	-	461-465	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	que	que	CS	-	-	466-469	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	470-472	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	el	el	DA0MS0	-	-	473-475	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	476-487	559_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	488-491	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	el	el	DA0MS0	-	-	492-494	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	que	que	PR0CN000	-	-	495-498	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	se	se	P00CN000	-	-	499-501	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	ha	haber	VAIP3S0	-	-	502-504	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	tratado	tratar	VMP00SM	-	-	505-512	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	?	?	Fit	-	-	512-513	559_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,105 @@
+1	Si	si	CS	-	-	181-183	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	se	se	P00CN000	-	-	184-186	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	quiere	querer	VMIP3S0	-	-	187-193	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	seguir	seguir	VMN0000	-	-	194-200	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	la	el	DA0FS0	-	-	201-203	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	estrategia	estrategia	NCFS000	-	-	204-214	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	215-217	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	educación	educación	NCFS000	C0018701_1	régimen/tratamiento_1	218-227	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	para	parir	VMSP3S0	C0018701_2	régimen/tratamiento_2	228-232	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	lo	PP3FSA00	C0018701_3	régimen/tratamiento_3	233-235	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	salud	salud	NCFS000	C0018701_4	régimen/tratamiento_4	236-241	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	basada	basar	VMP00SF	-	-	242-248	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	249-251	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	el	el	DA0MS0	-	-	252-254	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	modelo	modelo	NCCS000	C0335295#C0302143	ocupación#anomalía_morfológica	255-261	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	262-264	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	las	el	DA0FP0	-	-	265-268	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	cinco	cinco		-	-	269-274	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	“	“	Fra	-	-	275-276	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	aes	a	NCFP000	-	-	276-279	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	”	”	Frc	-	-	279-280	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	,	,	Fc	-	-	280-281	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	¿	¿	Fia	-	-	282-283	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	cuál	cuál	PT0CS000	-	-	283-287	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	288-290	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	las	el	DA0FP0	-	-	291-294	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	siguientes	siguiente	AQ0CP0	C0332282	atributo	295-305	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	NO	no	RN	C1298908	calificador	306-308	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	se	se	P00CN000	-	-	309-311	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	incluye	incluir	VMIP3S0	-	-	312-319	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	320-322	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	esta	este	DD0FS0	-	-	323-327	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	estrategia	estrategia	NCFS000	-	-	328-338	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	?	?	Fit	-	-	338-339	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	:	:	Fd	-	-	339-340	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	Recién	recién	RG	C0021289#C2239178_1	persona#hallazgo_1	0-6	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	nacido	nacido	NCMS000	C0021289#C2239178_2	persona#hallazgo_2	7-13	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	de	de	SPS00	C0332285	atributo	14-16	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	40	40		-	-	17-19	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	semanas	semana	NCFP000	C0439230	calificador	20-27	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	de	de	SPS00	C0001779_1	entidad_observable_1	28-30	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	edad	edad	NCFS000	C0001779_2	entidad_observable_2	31-35	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	gestacional	gestacional	AQ0CS0	C0439671	calificador	36-47	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	y	y	CC	C1706368	calificador	48-49	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	peso	peso	NCMS000	C0043100	calificador	50-54	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	estimado	estimar	VMP00SM	-	-	55-63	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	3.800	3800	Z	-	-	64-69	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	gramos	g	NCMP000	-	-	70-76	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	.	.	Fp	-	-	76-77	621_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	78-83	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	84-87	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	88-98	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cardiaca	cardiaco	AQ0FS0	-	-	99-107	621_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	108-110	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	30	30		-	-	111-113	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	latidos	latido	NCMP000	-	-	114-121	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	por	por	SPS00	C0702093_1	calificador_1	122-125	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	minuto	minuto	NCMS000	C0702093_2	calificador_2	126-132	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	133-134	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	no	no	RN	C1298908	calificador	135-137	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	se	se	P00CN000	-	-	138-140	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	observa	observar	VMIP3S0	-	-	141-148	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	esfuerzo	esfuerzo	NCMS000	C0425466_1	entidad_observable_1	149-157	621_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	respiratorio	respiratorio	AQ0MS0	C0425466_2	entidad_observable_2	158-170	621_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	14	6300	LOC
+16	.	.	Fp	-	-	170-171	621_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	172-174	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	inicia	iniciar	VMIP3S0	-	-	175-181	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	reanimación	reanimación	NCFS000	C0035273	procedimiento	182-193	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	194-197	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	intubación	intubación	NCFS000	C0021925	procedimiento	198-208	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	,	,	Fc	-	-	208-209	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	masaje	masaje	NCMS000	-	-	210-216	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	cardiaco	cardiaco	AQ0MS0	-	-	217-225	621_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+9	y	y	CC	C1706368	calificador	226-227	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	tres	tres		-	-	228-232	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	dosis	dosis	NCFN000	-	-	233-238	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	239-241	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	242-252	621_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+14	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	253-264	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	.	.	Fp	-	-	264-265	621_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	A	a	SPS00	-	-	266-267	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	los	el	DA0MP0	-	-	268-271	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	15	15	Z	-	-	272-274	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	minutos	min	NCMP000	-	-	275-282	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	283-285	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	vida	vida	NCFS000	-	-	286-290	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	no	no	RN	C1298908	calificador	291-293	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	presenta	presentar	VMIP3S0	-	-	294-302	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	signos	signo	NCMP000	C0311392	hallazgo	303-309	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	vitales	vital	AQ0CP0	C0442732	calificador	310-317	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	317-318	621_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	319-320	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	320-324	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	considera	considerar	VMIP3S0	-	-	325-334	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	que	que	CS	-	-	335-338	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	339-341	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	la	el	DA0FS0	-	-	342-344	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	actuación	actuación	NCFS000	C0699820	hallazgo	345-354	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	adecuada	adecuar	VMP00SF	-	-	355-363	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	?	?	Fit	-	-	363-364	621_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

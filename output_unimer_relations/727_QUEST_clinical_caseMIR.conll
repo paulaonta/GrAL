@@ -1,0 +1,28 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	25	25		-	-	9-11	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnosticada	diagnosticar	VMP00SF	-	-	17-30	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	31-33	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	lupus	lupus	NCMS000	C0024141_1	trastorno_1	34-39	727_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	eritematoso	eritematoso		C0024141_2	trastorno_2	40-51	727_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	1939	Modif
+9	sistémico	sistémico	NC00SC0	C0024141_3	trastorno_3	52-61	727_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	1939	Modif
+10	,	,	Fc	-	-	61-62	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	que	que	PR0CN000	-	-	63-66	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ha	haber	VAIP3S0	-	-	67-69	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	permanecido	permanecer	VMP00SM	-	-	70-81	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C0544452_1	calificador_1	82-84	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	remisión	remisión	NCFS000	C0544452_2	calificador_2	85-93	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	los	el	DA0MP0	-	-	94-97	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	últimos	último	AO0MP0	-	-	98-105	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	2	2		-	-	106-107	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	años	año	NCMP000	C0439234	calificador	108-112	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	112-113	727_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	114-122	727_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	123-126	727_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	poliartralgias	poliartralgia	NCFP000	C0162296	hallazgo	127-141	727_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	y	y	CC	C1706368	calificador	142-143	727_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	febrícula	febrícula	NCFS000	-	-	144-153	727_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	.	.	Fp	-	-	153-154	727_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

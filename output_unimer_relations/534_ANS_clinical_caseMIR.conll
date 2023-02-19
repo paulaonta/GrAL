@@ -1,0 +1,38 @@
+1	Lupus	lupus	NCMS000	C0024141_1	trastorno_1	0-5	534_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	eritematoso	eritematoso		C0024141_2	trastorno_2	6-17	534_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	5844	Modif
+3	sistémico	sistémico	NC00SC0	C0024141_3	trastorno_3	18-27	534_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	5844	Modif
+4	con	con	SPS00	C0332287	atributo	28-31	534_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	afectación	afectación	NCFS000	-	-	32-42	534_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	renal	renal	AQ0CS0	-	-	43-48	534_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	5	5844	LOC
+7	.	.	Fp	-	-	48-49	534_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Vasculitis	vasculitis	NCFN000	C0042384_1	trastorno_1	0-10	534_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	tipo	tipo	NCMS000	C0332307	calificador#atributo	11-15	534_ANS_clinical_caseMIR	SENT2	B-Calificador	-	1	5845	Modif
+3	EGPA	egpa	NCFS000	-	-	16-20	534_ANS_clinical_caseMIR	SENT2	I-Calificador	-	2	24	MultiE
+4	(	(	Fpa	-	-	21-22	534_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	granulomatosis	granulomatosis	NCFN000	C0521173	trastorno#anomalía_morfológica	22-36	534_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	eosinofílica	eosinófilo	AQVFS00	C0014467	célula	37-49	534_ANS_clinical_caseMIR	SENT2	B-Calificador	-	5	5845	Modif
+7	con	con	SPS00	C0332287	atributo	50-53	534_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	poliangeitis	poliangeitis	NCFN000	-	-	54-66	534_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	o	o	CC	-	-	67-68	534_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	69-77	534_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+11	de	de	SPS00	C0332285	atributo	78-80	534_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	10	97	MultiE
+12	Churg-Strauss	churg-strauss	NCMS000	-	-	81-94	534_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	10	97	MultiE
+13	)	)	Fpt	-	-	94-95	534_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	.	.	Fp	-	-	95-96	534_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Púrpura	púrpura	NCMS000	C0034152_1	trastorno_1	0-7	534_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0034152_2	trastorno_2	8-10	534_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Schönlein-Henoch	Schönlein-Henoch		C0034152_3	trastorno_3	11-27	534_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	.	.	Fp	-	-	27-28	534_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Granulomatosis	granulomatosis	NCFN000	C0521173	trastorno#anomalía_morfológica	0-14	534_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	15-18	534_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	poliangeitis	poliangeitis	NCFN000	-	-	19-31	534_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+4	(	(	Fpa	-	-	32-33	534_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	33-43	534_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	44-46	534_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	5	23	MultiE
+7	Wegener	Wegener		-	-	47-54	534_ANS_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	5	23	MultiE
+8	)	)	Fpt	-	-	54-55	534_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	.	.	Fp	-	-	55-56	534_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

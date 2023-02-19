@@ -1,0 +1,53 @@
+1	El	el	DA0MS0	-	-	420-422	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	423-434	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	435-445	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	más	más	RG	C0205172	calificador	446-449	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	adecuado	adecuar	VMP00SM	-	-	450-458	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	459-461	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	:	:	Fd	-	-	461-462	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	Poner	poner	VMN0000	-	-	0-5	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	5-7	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	semiincorporado	semiincorporar	VMP00SM	-	-	8-23	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	la	el	DA0FS0	-	-	27-29	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	cuna	cuna	NCFS000	C0010317	objeto_físico	30-34	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	.	.	Fp	-	-	34-35	422_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Lavados	lavar	VMP00PM	-	-	0-7	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	nasales	nasal	NCFP000	C0028429	calificador	8-15	422_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	16-19	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	20-25	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	fisiológico	fisiológico	AQ0MS0	C0205463	calificador	26-37	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	38-41	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	aspirado	aspirado	NC00SC0	C0370199	espécimen	42-50	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	51-53	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	secreciones	secreción	NCFP000	C0012621	anomalía_morfológica	54-65	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	65-66	422_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hidratación	hidratación	NCFS000	-	-	0-11	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	adecuada	adecuar	VMP00SF	-	-	12-20	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	21-24	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tomas	toma	NCFP000	-	-	25-30	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	más	más	RG	C0205172	calificador	31-34	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	pequeñas	pequeño	AQ0FP0	C0700321#C1282918	calificador	35-43	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	44-45	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	frecuentes	frecuente	AQ0CP0	C0332183	calificador	46-56	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	56-57	422_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Amoxicilina	amoxicilina	NC00SC0	C0360350_1	producto_1	0-11	422_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	oral	oral	NC00SC0	C0360350_2	producto_2	12-16	422_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	,	,	Fc	-	-	16-17	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	50	50	Z	-	-	18-20	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	mg	mg	NCMN000	-	-	21-23	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	/	/	Fh	-	-	23-24	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	kg	kilogramo	NCMN000	C0439209	calificador	24-26	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	/	/	Fh	-	-	26-27	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	día	día	NCMS000	C0439228#C0332169	calificador	27-30	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	cada	cada	DI0CS0	C1457900	calificador	31-35	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	8	8	Z	C1292429_1	calificador_1	36-37	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	horas	hora	NCFP000	C1292429_2	calificador_2	38-43	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	durante	durante	SPS00	C1444752#C0347984	atributo	44-51	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	5	5	Z	-	-	52-53	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	días	d	NCMP000	-	-	54-58	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	58-59	422_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

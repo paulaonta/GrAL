@@ -1,0 +1,45 @@
+1	¿	¿	Fia	-	-	262-263	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	263-267	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	268-273	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	el	el	DA0MS0	-	-	274-276	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	277-288	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	289-292	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	adecuado	adecuar	VMP00SM	-	-	293-301	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	302-304	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	este	este	DD0MS0	-	-	305-309	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	310-317	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	?	?	Fit	-	-	317-318	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	:	:	Fd	-	-	318-319	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	Intentar	intentar	VMN0000	-	-	0-8	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	9-16	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	parcial	parcial	AQ0CS0	C0728938#C0205257#C0728939	calificador	17-24	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	para	para	SPS00	C0521125	calificador	25-29	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	salvaguardar	salvaguardar	VMN0000	-	-	30-42	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	parte	parte	NCMS000	C0449719	atributo	43-48	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	del	del	SP+DA	-	-	49-52	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	teste	testar	VMSP3S0	-	-	53-58	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	58-59	155_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Orquiectomía	orquiectomía	NC00SC0	C1275602_1	procedimiento_1	0-12	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	radical	radical	NCMS000	C1275602_2	procedimiento_2	13-20	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	desde	desde	SPS00	-	-	21-26	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	incisión	incisión	NCFS000	C0184898	procedimiento	27-35	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	inguinal	inguinal	AQ0CS0	C0018246	calificador	36-44	155_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	155_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+7	seguida	seguir	VMP00SF	-	-	13-20	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	21-23	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	orquiectomía	orquiectomía	NC00SC0	C0029189	procedimiento	24-36	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	36-37	155_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Orquiectomía	orquiectomía	NC00SC0	C0029189	procedimiento	0-12	155_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	13-16	155_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	incisión	incisión	NCFS000	C0184898	procedimiento	17-25	155_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	escrotal	escrotal	AQ0CS0	C0036471	calificador	26-34	155_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	.	.	Fp	-	-	34-35	155_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	155_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+2	y	y	CC	C1706368	calificador	14-15	155_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	posteriormente	posteriormente	RG	-	-	16-30	155_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	orquiectomía	orquiectomía	NC00SC0	C0029189	procedimiento	31-43	155_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	.	.	Fp	-	-	43-44	155_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,80 @@
+1	¿	¿	Fia	-	-	163-164	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	164-167	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	consejo	consejo	NCMS000	-	-	168-175	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	176-178	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	parece	parecer	VMIP3S0	-	-	179-185	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	el	el	DA0MS0	-	-	186-188	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	adecuado	adecuado	NC00SC0	C0205411	calificador	189-197	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	?	?	Fit	-	-	197-198	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	:	:	Fd	-	-	198-199	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	40	40		-	-	0-2	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	mg/kg/10	mg/kg/10	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	h	h	NCMN000	C0439227	calificador	12-13	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	(	(	Fpa	-	-	14-15	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	no	no	RN	C1298908	calificador	15-17	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	se	se	P00CN000	-	-	18-20	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	requiere	requerir	VMIP3S0	-	-	21-29	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	ajuste	ajuste	NCMS000	C0376209#C0456081	atributo#procedimiento	30-36	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	37-39	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	dosificación	dosificación	NCFS000	-	-	40-52	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	)	)	Fpt	-	-	52-53	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	53-54	790_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	30	30		-	-	0-2	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	mg/kg/10	mg/kg/10	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	h	h	NCMN000	C0439227	calificador	12-13	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	(	(	Fpa	-	-	14-15	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	solo	solo	AQ0MS0	C0205171	calificador	15-19	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	se	se	P00CN000	-	-	20-22	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	reduce	reducir	VMIP3S0	-	-	23-29	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	la	el	DA0FS0	-	-	30-32	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	dosis	dosis	NCFN000	-	-	33-38	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	a	a	SPS00	-	-	39-40	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	30	30	Z	-	-	41-43	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	mg	mg	NCMN000	-	-	44-46	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	/	/	Fh	-	-	46-47	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	kg	kilogramo	NCMN000	C0439209	calificador	47-49	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	)	)	Fpt	-	-	49-50	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	50-51	790_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	30	30		-	-	0-2	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	mg/kg/20	mg/kg/20	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	h	h	NCMN000	C0439227	calificador	12-13	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	(	(	Fpa	-	-	14-15	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	se	se	P00CN000	-	-	15-17	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	reduce	reducir	VMIP3S0	-	-	18-24	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	la	el	DA0FS0	-	-	25-27	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	dosis	dosis	NCFN000	-	-	28-33	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	a	a	SPS00	-	-	34-35	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	30	30	Z	-	-	36-38	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	mg	mg	NCMN000	-	-	39-41	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	/	/	Fh	-	-	41-42	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+13	kg	kilogramo	NCMN000	C0439209	calificador	42-44	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	45-46	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+15	se	se	P00CN000	-	-	47-49	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+16	alarga	alargar	VMIP3S0	-	-	50-56	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+17	el	el	DA0MS0	-	-	57-59	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+18	intervalo	intervalo	NCMS000	C1272706	calificador	60-69	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+19	interdosis	interdosis	NCFN000	-	-	70-80	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+20	a	a	SPS00	-	-	81-82	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+21	20	20	Z	-	-	83-85	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+22	h	h	NCMN000	C0439227	calificador	86-87	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+23	)	)	Fpt	-	-	87-88	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+24	.	.	Fp	-	-	88-89	790_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	40	40		-	-	0-2	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	mg/kg/20	mg/kg/20	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	h	h	NCMN000	C0439227	calificador	12-13	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	(	(	Fpa	-	-	14-15	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	solo	solo	AQ0MS0	C0205171	calificador	15-19	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	se	se	P00CN000	-	-	20-22	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	alarga	alargar	VMIP3S0	-	-	23-29	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	el	el	DA0MS0	-	-	30-32	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	intervalo	intervalo	NCMS000	C1272706	calificador	33-42	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	interdosis	interdosis	NCFN000	-	-	43-53	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	a	a	SPS00	-	-	54-55	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+12	20	20	Z	-	-	56-58	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+13	h	h	NCMN000	C0439227	calificador	59-60	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+14	)	)	Fpt	-	-	60-61	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	61-62	790_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

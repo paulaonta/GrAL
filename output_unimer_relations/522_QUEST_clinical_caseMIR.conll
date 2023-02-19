@@ -1,0 +1,40 @@
+1	¿	¿	Fia	-	-	444-445	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Con	con	SPS00	C0332287	atributo	445-448	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	qué	qué	DT0CN0	-	-	449-452	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	respuesta	respuesta	NCFS000	-	-	453-462	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	está	estar	VAIP3S0	-	-	463-467	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	468-471	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	472-474	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	acuerdo	acuerdo	NCMS000	-	-	475-482	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	?	?	Fit	-	-	482-483	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	:	:	Fd	-	-	483-484	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	5-7	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	13	13		-	-	8-10	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	años	año	NCMP000	C0439234	calificador	11-15	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	intervenida	intervenir	VMP00SF	-	-	16-27	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	por	por	SPS00	C0678226	atributo	28-31	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	enfermedad	enfermedad	NCFS000	C0019569_1	trastorno_1	32-42	522_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	de	de	SPS00	C0019569_2	trastorno_2	43-45	522_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	17	7	MultiE
+19	Hirschsprung	Hirschsprung		C0019569_3	trastorno_3	46-58	522_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	17	7	MultiE
+20	a	a	SPS00	-	-	59-60	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	los	el	DA0MP0	-	-	61-64	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	3	3		-	-	65-66	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	meses	mes	NCMP000	C0439231	calificador	67-72	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	73-75	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	vida	vida	NCFS000	-	-	76-80	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	80-81	522_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	82-83	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	83-87	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	88-90	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	los	el	DA0MP0	-	-	91-94	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	95-105	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	tumores	tumor	NCMP000	C0027651	anomalía_morfológica	106-113	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	114-116	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	más	más	RG	C0205172	calificador	117-120	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	121-129	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	que	que	CS	-	-	130-133	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	presente	presentar	VMSP3S0	-	-	134-142	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	?	?	Fit	-	-	142-143	522_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

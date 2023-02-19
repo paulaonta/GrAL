@@ -1,0 +1,48 @@
+1	No	no	RN	C1298908	calificador	0-2	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hay	haber	VMIP3S0	-	-	3-6	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	indicación	indicación	NCFS000	C0392360_1	calificador_1	7-17	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0392360_2	calificador_2	18-20	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	realizar	realizar	VMN0000	-	-	21-29	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	30-37	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	exploración	exploración	NCFS000	C1280903	procedimiento	38-49	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	complementaria	complementario	AQ0FS0	-	-	50-64	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	.	.	Fp	-	-	64-65	633_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	0-3	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	radiografía	radiografía	NCFS000	C1306645	procedimiento	4-15	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	anteroposterior	anteroposterior	AQ0CS0	-	-	16-31	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	32-33	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	lateral	lateral	AQ0CS0	C0205093	calificador	34-41	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	42-44	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	columna	columna	NCFS000	C0024091#C1269871_1	estructura_corporal_1	45-52	633_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+8	lumbar	lumbar	NC00SC0	C0024091#C1269871_2	estructura_corporal_2	53-59	633_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	7	45	MultiE
+9	.	.	Fp	-	-	59-60	633_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Debe	deber	VMIP3S0	-	-	0-4	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	realizar	realizar	VMN0000	-	-	5-13	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	se	se	PP3CN000	-	-	13-15	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	16-18	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	HLA	hla	NC00YL0	-	-	19-22	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	B27	B27		-	-	23-26	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	fin	fin	NCMS000	-	-	29-32	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	33-35	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	descartar	descartar	VMN0000	C0332196	calificador	36-45	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	46-49	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	espondiloartropatía	espondiloartropatía	NC00SC0	C0409679#C0038012#C0949691	trastorno	50-69	633_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion	-	-	-
+13	.	.	Fp	-	-	69-70	633_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	0-3	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	4-14	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	magnética	magnético	AQ0FS0	-	-	15-24	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	que	que	PR0CN000	-	-	25-28	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	nos	nos	PP1CP000	-	-	29-32	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	descartará	descartar	VMIF3S0	C0332196	calificador	33-43	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	la	el	DA0FS0	-	-	44-46	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	47-56	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	57-59	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	60-63	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	hernia	herniar	VMM02S0	C0678212_1	trastorno_1	64-70	633_ANS_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+12	discal	discal	AQ0CS0	C0678212_2	trastorno_2	71-77	633_ANS_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	11	948	LOC
+13	.	.	Fp	-	-	77-78	633_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

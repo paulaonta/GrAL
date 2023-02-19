@@ -1,0 +1,42 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	55	55		-	-	13-15	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	asintomática	asintomático	AQ0FS0	-	-	21-33	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	34-37	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	38-49	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	50-52	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	hiperparatiroidismo	hiperparatiroidismo	NC00SC0	C0221002_1	trastorno_1	53-72	582_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	primario	primario	NCMS000	C0221002_2	trastorno_2	73-81	582_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	2873	Modif
+12	.	.	Fp	-	-	81-82	582_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	83-88	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	89-90	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	91-93	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	94-102	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	103-106	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	107-110	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	calcemia	calcemia	NCFS000	-	-	111-119	582_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	120-122	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	12	12	Z	-	-	123-125	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	mg	mg	NCMN000	-	-	126-128	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	/	/	Fh	-	-	128-129	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	dL	decilitro	NCMN000	C0439241	calificador	129-131	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	y	y	CC	C1706368	calificador	132-133	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	litiasis	litiasis	NCFN000	C1458136_1	sustancia_1	134-142	582_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	renal	renal	AQ0CS0	C1458136_2	sustancia_2	143-148	582_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	14	2874	LOC
+16	demostrada	demostrar	VMP00SF	-	-	149-159	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	160-163	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	164-173	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	.	.	Fp	-	-	173-174	582_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	175-176	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	PT0CN000	-	-	176-179	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	debemos	deber	VMIP1P0	-	-	180-187	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	188-197	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	a	a	SPS00	-	-	198-199	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	200-202	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	203-211	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	211-212	582_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

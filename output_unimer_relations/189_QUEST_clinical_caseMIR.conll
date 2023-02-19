@@ -1,0 +1,52 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	joven	joven	NCCS000	C0332239	calificador	3-8	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	20	20		-	-	12-14	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	19-20	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	21-24	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	clínica	clínico	AQ0FS0	C0205210	calificador	25-32	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	dc	dc	NC00YL0	-	-	33-35	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	ataxia	ataxia	NCFS000	C0004134	hallazgo	36-42	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	,	,	Fc	-	-	42-43	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cefaleas	cefalea	NCFP000	C0018681	hallazgo	44-52	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	y	y	CC	C1706368	calificador	53-54	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	55-59	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	sólido-quística	sólido-quística	AQ0FS00	-	-	60-75	189_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	14	4504	Modif
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	76-78	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	hemisferio	hemisferio	NCMS000	C1284670_1	estructura_corporal_1	79-89	189_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	4504	LOC
+18	cerebeloso	cerebeloso	AQ0MS0	C1284670_2	estructura_corporal_2	90-100	189_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	7	MultiE
+19	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	101-108	189_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	7	MultiE
+20	,	,	Fc	-	-	108-109	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	es	ser	VSIP3S0	-	-	110-112	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	intervenido	intervenir	VMP00SM	-	-	113-124	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	quirúrgicamente	quirúrgicamente	RG	-	-	125-140	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	,	,	Fc	-	-	140-141	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	resecando	resecar	VMG0000	-	-	142-151	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	se	se	PP3CN000	-	-	151-153	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	una	una		C0205447_1	calificador_1	154-157	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	158-164	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	34	4504	Causada_por
+29	que	que	PR0CN000	-	-	165-168	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	histológicamente	histológicamente	RG	-	-	169-185	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	muestra	mostrar	VMIP3S0	-	-	186-193	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	194-201	189_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+33	con	con	SPS00	C0332287	atributo	202-205	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	procesos	proceso	NCMP000	C1522240	entidad_observable	206-214	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	28	4504	Causada_por
+35	citoplasmáticos	citoplasmático	AQ0MP0	-	-	215-230	189_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	34	106	MultiE
+36	largos	largo	AQ0MP0	C0205166#C0392744	calificador	231-237	189_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	34	106	MultiE
+37	y	y	CC	C1706368	calificador	238-239	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	finos	fino	AQ0MP0	C0205232	calificador	240-245	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	,	,	Fc	-	-	245-246	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	patrón	patrón	NCMS000	C0449774	atributo	247-253	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+41	fascicular	fascicular	NC00SC0	C0205241	calificador	254-264	189_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	40	131	MultiE
+42	y	y	CC	C1706368	calificador	265-266	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	microquístico	microquístico	NC00SC0	-	-	267-280	189_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+44	,	,	Fc	-	-	280-281	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	numerosos	numeroso	AQ0MP0	C0439064	calificador	282-291	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	vasos	vaso	NCMP000	C0042591	atributo	292-297	189_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+47	y	y	CC	C1706368	calificador	298-299	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	fibras	fibra	NCFP000	C0225326#C1260603	producto#sustancia	300-306	189_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+49	dc	dc	NC00YL0	-	-	307-309	189_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	48	700	MultiE
+50	Rosenthal	rosenthal	AQ0CS00	-	-	310-319	189_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	48	700	MultiE
+51	.	.	Fp	-	-	319-320	189_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

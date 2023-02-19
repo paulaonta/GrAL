@@ -1,0 +1,63 @@
+1	Artrocentesis	artrocentesis	NC00SC0	C0204854	procedimiento	0-13	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	para	para	SPS00	C0521125	calificador	14-18	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	hacer	hacer	VMN0000	-	-	19-24	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	25-28	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tinción	tinción	NCFS000	C0061856#C0200966_1	sustancia#procedimiento_1	29-36	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0061856#C0200966_2	sustancia#procedimiento_2	37-39	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	Gram	método_de_tinción_para_microorganismos_que_descubrió_el_médico_danés_de_igual_nombre	NC00YL0	C0061856#C0200966_3	sustancia#procedimiento_3	40-44	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	45-46	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	cultivo	cultivo	NCMS000	-	-	47-54	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	del	del	SP+DA	-	-	55-58	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	líquido	líquido	NCMS000	C0039097_1	sustancia_1	59-66	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	articular	articular	VMN0000	C0039097_2	sustancia_2	67-76	628_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+13	y	y	CC	C1706368	calificador	77-78	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	examinar	examinar	VMN0000	-	-	79-87	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	el	el	DA0MS0	-	-	88-90	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	91-98	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	al	al	SP+DA	-	-	99-101	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	microscopio	microscopio	NCMS000	C0181839	objeto_físico	102-113	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	114-116	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	luz	luz	NCFS000	C0524461#C0023693#C1301906	estructura_corporal#fuerza_física#calificador	117-120	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	polarizada	polarizar	VMP00SF	-	-	121-131	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	.	.	Fp	-	-	131-132	628_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	0-9	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	determinación	determinación	NCFS000	C0242485	procedimiento	10-23	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	24-26	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	ácido	ácido	NCMS000	C0041980_1	sustancia_1	27-32	628_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+5	úrico	úrico	AQ0MS0	C0041980_2	sustancia_2	33-38	628_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	4	23	MultiE
+6	e	y	CC	C1706368	calificador	39-40	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	iniciar	iniciar	VMN0000	-	-	41-48	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	49-60	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	61-69	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	70-73	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	colchícina	colchícina	NCFS000	-	-	74-84	628_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+12	y	y	CC	C1706368	calificador	85-86	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	alopurinol	alopurinol	NC00SC0	C0002144	sustancia	87-97	628_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+14	.	.	Fp	-	-	97-98	628_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	0-9	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	10-13	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	14-25	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	simple	simple	NCCS000	C1306645_2	procedimiento_2	26-32	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	33-34	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	35-38	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+7	gammagrafía	gammagrafía	NCFS000	C2368359	calificador	39-50	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	51-55	628_ANS_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	56-59	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+10	tecnecio	tecnecio	NCMS000	C0303611_1	producto_1	60-68	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+11	99m	99m	Z	C0303611_2	producto_2	69-72	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+12	.	.	Fp	-	-	72-73	628_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	0-9	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	2	2		-	-	10-11	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	hemocultivos	hemocultivos	NCMP000	-	-	12-24	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	e	y	CC	C1706368	calificador	25-26	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	iniciar	iniciar	VMN0000	-	-	27-34	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	35-46	628_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+7	antimicrobiano	antimicrobiano	AQ0MS0	-	-	47-61	628_ANS_clinical_caseMIR	SENT4	I-Grp_Medicamento	-	6	15	MultiE
+8	con	con	SPS00	C0332287	atributo	62-65	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	ceflazidima	ceflazidima	NCFS000	-	-	66-77	628_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+10	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	78-89	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	89-90	628_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,69 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	55	55		-	-	15-17	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	22-23	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	24-27	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	historia	historia	NCFS000	-	-	28-36	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	37-39	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	15	15		-	-	40-42	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	años	año	NCMP000	C0439234	calificador	43-47	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	48-50	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	colitis	colitis	NCFN000	C0009324#C2919828_1	trastorno_1	51-58	382_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	ulcerosa	ulceroso	AQ0FS0	C0009324#C2919828_2	trastorno_2	59-67	382_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	37	5367	Modif
+15	,	,	Fc	-	-	67-68	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	presenta	presentar	VMIP3S0	-	-	69-77	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	una	una		C0205447_1	calificador_1	81-84	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	colonoscopia	colonoscopia	NC00SC0	C0588165_1	procedimiento_1	85-97	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0588165_2	procedimiento_2	98-100	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	control	control	NCMS000	C0588165_3	procedimiento_3	101-108	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	un	un		C0205447_1	calificador_1	109-111	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	cáncer	cáncer	NCMS000	C0949022#C0007113_1	trastorno_1	112-118	382_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	de	de	SPS00	C0949022#C0007113_2	trastorno_2	119-121	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	recto	recto	NCMS000	C0949022#C0007113_3	trastorno_3	122-127	382_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	23	5367	LOC
+26	a	a	SPS00	-	-	128-129	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	ocho	ocho		-	-	130-134	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	cm	centímetro	NCMN000	C0475210	calificador	135-137	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	del	del	SP+DA	-	-	138-141	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	margen	margen	NCCS000	C0205284	calificador	142-148	382_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	23	5367	LOC
+31	anal	anal	AQ0CS0	C2939124	calificador	149-153	382_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	30	831	MultiE
+32	y	y	CC	C1706368	calificador	154-155	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	actividad	actividad	NCFS000	C0441655	entidad_observable	156-165	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	moderada	moderar	VMP00SF	-	-	166-174	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	175-177	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	su	su	DP3CS0	-	-	178-180	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	colitis	colitis	NCFN000	C0009319	trastorno	181-188	382_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+38	sobre	sobre	SPS00	C1720294#C0205136	calificador	189-194	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	195-199	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	en	en	SPS00	C0443246_1	calificador_1	200-202	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	el	el	DA0MS0	C0443246_2	calificador_2	203-205	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	lado	lado	NCMS000	C0443246_3	calificador_3	206-210	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	izquierdo	izquierdo	NC00SC0	C0443246_4	calificador_4	211-220	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	del	del	SP+DA	-	-	221-224	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	225-230	382_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	37	5367	LOC
+46	.	.	Fp	-	-	230-231	382_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	232-234	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	estadifíca	estadifíca	VMIP3S0	-	-	235-245	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	como	como	CS	C0332257	calificador	246-250	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	T2N0M0	T2N0M0		-	-	251-257	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tras	tras	SPS00	-	-	258-262	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	realizar	realizar	VMN0000	-	-	263-271	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	pruebas	prueba	NCFP000	-	-	272-279	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	280-282	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	283-289	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	289-290	382_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	291-292	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	292-296	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	297-299	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	la	el	DA0FS0	-	-	300-302	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	intervención	intervención	NCFS000	-	-	303-315	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	316-324	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	325-329	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	su	su	DP3CS0	-	-	330-332	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	333-344	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	?	?	Fit	-	-	344-345	382_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

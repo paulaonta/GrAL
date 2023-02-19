@@ -1,0 +1,129 @@
+1	¿	¿	Fia	-	-	478-479	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	479-483	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	484-486	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	los	el	DA0MP0	-	-	487-490	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	491-501	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	criterios	criterio	NCMP000	-	-	502-511	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	indica	indicar	VMIP3S0	-	-	512-518	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	mal	mal	RG	C0278252_1	hallazgo_1	519-522	193_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	pronóstico	pronóstico	NCMS000	C0278252_2	hallazgo_2	523-533	193_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	41	MultiE
+10	y	y	CC	C1706368	calificador	534-535	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	536-544	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	el	el	DA0MS0	-	-	545-547	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	ingreso	ingreso	NCMS000	C0184666_1	procedimiento_1	548-555	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hospitalario	hospitalario	NC00SC0	C0184666_2	procedimiento_2	556-568	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	?	?	Fit	-	-	568-569	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	:	:	Fd	-	-	569-570	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	Un	Un		C0205447_1	calificador_1	0-2	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	paciente	paciente	NCCS000	C0030705	persona	3-11	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	12-14	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	82	82		-	-	15-17	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	años	año	NCMP000	C0439234	calificador	18-22	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	acude	acudir	VMIP3S0	-	-	23-28	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	a	a	SPS00	-	-	29-30	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	la	el	DA0FS0	-	-	31-33	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	consulta	consultar	VMM02S0	C1704447_1	calificador_1	34-42	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	por	por	SPS00	C1704447_2	calificador_2	43-46	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	presentar	presentar	VMN0000	-	-	47-56	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	mareos	mareo	NCMP000	C0012833#C0220870	hallazgo	57-63	193_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+29	repentinos	repentino	AQ0MP0	C1276802	calificador	64-74	193_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	28	3544	Modif
+30	y	y	CC	C1706368	calificador	75-76	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	frecuentes	frecuente	AQ0CP0	C0332183	calificador	77-87	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	,	,	Fc	-	-	87-88	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	sin	sin	SPS00	C0332288	atributo	89-92	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	pródromos	pródromo	NCMP000	C0240805	hallazgo	93-102	193_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+35	,	,	Fc	-	-	102-103	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	de	de	SPS00	C0332285	atributo	104-106	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	corta	corto	AQ0FS0	C0439593_1	calificador_1	107-112	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	duración	duración	NCFS000	C0439593_2	calificador_2	113-121	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	y	y	CC	C1706368	calificador	122-123	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	que	que	PR0CN000	-	-	124-127	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	ceden	ceder	VMIP3P0	-	-	128-133	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	espontáneamente	espontáneamente	RG	-	-	134-149	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	,	,	Fc	-	-	149-150	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	sin	sin	SPS00	C0332288	atributo	151-154	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	presentar	presentar	VMN0000	-	-	155-164	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	nunca	nunca	RG	-	-	165-170	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	171-178	193_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+48	.	.	Fp	-	-	178-179	193_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	180-182	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	183-194	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	195-201	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	202-203	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	el	el	DA0MS0	-	-	204-206	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	207-225	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	basal	basal	AQ0CS0	C0205112	calificador	226-231	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	son	ser	VSIP3P0	-	-	232-235	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	normales	normal	AQ0CP0	C0205307	calificador	236-244	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	244-245	193_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	246-248	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	249-251	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	registro	registro	NCMS000	C0079809#C0421433	atributo#hallazgo	252-260	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	ambulatorio	ambulatorio	AQ0MS0	C0439841	calificador	261-272	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	del	del	SP+DA	-	-	273-276	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	277-295	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	durante	durante	SPS00	C1444752#C0347984	atributo	296-303	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	24	24	Z	C0439584_1	calificador_1	304-306	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	horas	hora	NCFP000	C0439584_2	calificador_2	307-312	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	se	se	P00CN000	-	-	313-315	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	detecta	detectar	VMIP3S0	-	-	316-323	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	324-326	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	el	el	DA0MS0	-	-	327-329	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	periodo	periodo	NCMS000	-	-	330-337	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	vigil	vigil	NCMS000	-	-	338-343	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	fases	fase	NCFP000	C0205390	calificador	344-349	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	350-352	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	corta	corto	AQ0FS0	C0439593_1	calificador_1	353-358	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	duración	duración	NCFS000	C0439593_2	calificador_2	359-367	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	368-370	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	371-379	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	de	de	SPS00	C0332197_2	calificador_2	380-382	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	ondas	onda	NCFP000	-	-	383-388	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	P	p	NCFS000	-	-	389-390	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	previas	previo	AQ0FP0	C0205156	calificador	391-398	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	al	al	SP+DA	-	-	399-401	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	QRS	qrs	NC00YL0	-	-	402-405	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	con	con	SPS00	C0332287	atributo	406-409	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	un	un		C0205447_1	calificador_1	410-412	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	ritmo	ritmo	NCMS000	C0449243	atributo	413-418	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	de	de	SPS00	C0332285	atributo	419-421	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	escape	escape	NCMS000	-	-	422-428	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	de	de	SPS00	C0205144_1	calificador_1	429-431	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	la	lo	PP3FSA00	C0205144_2	calificador_2	432-434	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	unión	unión	NCFS000	C0205144_3	calificador_3	435-440	193_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+36	aurículoventrícular	aurículoventrícular	AQ0CS00	-	-	441-460	193_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	35	453	MultiE
+37	con	con	SPS00	C0332287	atributo	461-464	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+38	QRS	qrs	NC00YL0	-	-	465-468	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+39	estrecho	estrecho	AQ0MS0	-	-	469-477	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+40	a	a	SPS00	-	-	478-479	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+41	40	40		-	-	480-482	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+42	Lpm	lpm	NC00YL0	-	-	483-486	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+43	y	y	CC	C1706368	calificador	487-488	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+44	una	una		C0205447_1	calificador_1	489-492	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+45	onda	onda	NCFS000	-	-	493-497	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+46	al	al	SP+DA	-	-	498-500	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+47	inicio	inicio	NCMS000	C0332162	atributo	501-507	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+48	del	del	SP+DA	-	-	508-511	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+49	segmento	segmento	NCMS000	C0429029_1	entidad_observable_1	512-520	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+50	ST	st	NC00YL0	C0429029_2	entidad_observable_2	521-523	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+51	correspondiente	correspondiente	AQ0CS0	-	-	524-539	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+52	a	a	SPS00	-	-	540-541	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+53	una	una		C0205447_1	calificador_1	542-545	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+54	P	p	NCFS000	-	-	546-547	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+55	retrógrada	retrógrado	AQ0FS0	C0589500	calificador	548-558	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+56	.	.	Fp	-	-	558-559	193_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	560-562	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	se	se	P00CN000	-	-	563-565	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	detectan	detectar	VMIP3P0	-	-	566-574	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	períodos	período	NCMP000	-	-	575-583	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	584-586	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	asistolia	asistolia	NCFS000	C0018790	trastorno	587-596	193_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	superiores	superior	AQ0CP0	C1282910	calificador	597-607	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	a	a	SPS00	-	-	608-609	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	3	3		-	-	610-611	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	segundos	segundo	NCMP000	C0205436	calificador	612-620	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	620-621	193_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

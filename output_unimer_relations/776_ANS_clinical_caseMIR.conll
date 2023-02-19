@@ -1,0 +1,59 @@
+1	Cambiar	cambiar	VMN0000	-	-	0-7	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	el	el	DA0MS0	-	-	8-10	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	metronidazol	metronidazol	NC00SC0	C0025872	sustancia	11-23	776_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	24-27	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	vancomicina	vancomicina	NC00SC0	C0360373_1	producto_1	28-39	776_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+6	oral	oral	NC00SC0	C0360373_2	producto_2	40-44	776_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+7	(	(	Fpa	-	-	45-46	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	125	125	Z	-	-	46-49	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mg	mg	NCMN000	-	-	50-52	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	,	,	Fc	-	-	52-53	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	cuatro	cuatro		-	-	54-60	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	veces	vez	NCFP000	-	-	61-66	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	al	al	SP+DA	-	-	67-69	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	día	día	NCMS000	C0439228#C0332169	calificador	70-73	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	durante	durante	SPS00	C1444752#C0347984	atributo	74-81	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	10	10	Z	-	-	82-84	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	días	d	NCMP000	-	-	85-89	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	)	)	Fpt	-	-	89-90	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	90-91	776_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Cambiar	cambiar	VMN0000	-	-	0-7	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	el	el	DA0MS0	-	-	8-10	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	metronidazol	metronidazol	NC00SC0	C0025872	sustancia	11-23	776_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	24-27	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	piperacilina	piperacilina	NC00SC0	C0031955	producto#sustancia	28-40	776_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+6	/	/	Fh	-	-	40-41	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	tazobactam	tazobactam	NC00SC0	C0075870	sustancia#producto	42-52	776_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	(	(	Fpa	-	-	53-54	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	4	4	Z	-	-	54-55	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	g	g	NCMN000	-	-	56-57	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	58-60	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	piperacilina/0,5	piperacilina/0,5	Z	-	-	61-77	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	g	g	NCMN000	-	-	78-79	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	80-82	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	tazobactam	tazobactam	NC00SC0	C0075870	sustancia#producto	83-93	776_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+16	cada	cada	DI0CS0	C1457900	calificador	94-98	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	8	8	Z	C1292429_1	calificador_1	99-100	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	horas	hora	NCFP000	C1292429_2	calificador_2	101-106	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+19	)	)	Fpt	-	-	106-107	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+20	.	.	Fp	-	-	107-108	776_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Indicar	indicar	VMN0000	-	-	0-7	776_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	8-11	776_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	colectomía	colectomía	NC00SC0	C0009274	procedimiento	12-22	776_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+4	subtotal	subtotal	NCMS000	C0728939#C0205257#C0728938	calificador	23-31	776_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+5	.	.	Fp	-	-	31-32	776_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Realizar	realizar	VMN0000	-	-	0-8	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	9-12	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+3	ileostomía	ileostomía	NC00SC0	C0020883#C0023985_1	procedimiento_1	13-23	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+4	en	en	SPS00	C0020883#C0023985_2	procedimiento_2	24-26	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+5	asa	asar	VMM02S0	C0020883#C0023985_3	procedimiento_3	27-30	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	31-34	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+7	lavado	lavar	VMP00SM	-	-	35-41	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+8	anterógrado	anterógrado	NC00SC0	C0677513	calificador	42-53	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	54-56	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+10	polietilenglicol	polietilenglicol	NC00SC0	C0032483#C0491995	producto#sustancia	57-73	776_ANS_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+11	.	.	Fp	-	-	73-74	776_ANS_clinical_caseMIR	SENT4	-	-	-	-	-
+

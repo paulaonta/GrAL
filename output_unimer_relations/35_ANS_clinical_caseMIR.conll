@@ -1,0 +1,22 @@
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	35_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	35_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+3	Von	Von		-	-	14-17	35_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+4	Willebrand	Willebrand		-	-	18-28	35_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	567	MultiE
+5	.	.	Fp	-	-	28-29	35_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Hemofilia	hemofilia	NCFS000	C0684275	trastorno	0-9	35_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+2	A.	a.	AQ0CS00	-	-	10-12	35_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	Déficit	déficit	NCMS000	C0011155_1	atributo_1	0-7	35_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	de	de	SPS00	C0011155_2	atributo_2	8-10	35_ANS_clinical_caseMIR	SENT2	B-Calificador	-	3	3539	Modif
+5	factor	factor	NCMS000	-	-	11-17	35_ANS_clinical_caseMIR	SENT2	I-Calificador	-	4	23	MultiE
+6	XI	xi	NCFS000	-	-	18-20	35_ANS_clinical_caseMIR	SENT2	I-Calificador	-	4	23	MultiE
+7	.	.	Fp	-	-	20-21	35_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Hemofilia	hemofilia	NCFS000	C0684275	trastorno	0-9	35_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+2	B.	b.	AQ0CS00	-	-	10-12	35_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Déficit	déficit	NCMS000	C0011155_1	atributo_1	0-7	35_ANS_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	de	de	SPS00	C0011155_2	atributo_2	8-10	35_ANS_clinical_caseMIR	SENT3	B-Calificador	-	3	3540	Modif
+5	factor	factor	NCMS000	C0015502_1	sustancia_1	11-17	35_ANS_clinical_caseMIR	SENT3	I-Calificador	-	4	23	MultiE
+6	VII	vii	NCFS000	C0015502_2	sustancia_2	18-21	35_ANS_clinical_caseMIR	SENT3	I-Calificador	-	4	23	MultiE
+7	.	.	Fp	-	-	21-22	35_ANS_clinical_caseMIR	SENT3	-	-	-	-	-
+
