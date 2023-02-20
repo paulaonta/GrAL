@@ -35,3 +35,20 @@
 5	descendidos	descender	VMP00PM	-	-	189-200	740_QUEST_clinical_caseMIR	SENT3	-	-
 6	.	.	Fp	-	-	200-201	740_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	De	de	SPS00	C0332285	atributo	202-204	740_QUEST_clinical_caseMIR	SENT4	-	-
+2	las	el	DA0FP0	-	-	205-208	740_QUEST_clinical_caseMIR	SENT4	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	209-219	740_QUEST_clinical_caseMIR	SENT4	-	-
+4	opciones	opción	NCFP000	-	-	220-228	740_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	229-241	740_QUEST_clinical_caseMIR	SENT4	-	-
+6	indique	indicar	VMSP3S0	-	-	242-249	740_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	lo	PP3FSA00	C0205393_1	calificador_1	250-252	740_QUEST_clinical_caseMIR	SENT4	-	-
+8	más	más	RG	C0205393_2	calificador_2	253-256	740_QUEST_clinical_caseMIR	SENT4	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	257-265	740_QUEST_clinical_caseMIR	SENT4	-	-
+10	por	por	SPS00	C0678226	atributo	266-269	740_QUEST_clinical_caseMIR	SENT4	-	-
+11	su	su	DP3CS0	-	-	270-272	740_QUEST_clinical_caseMIR	SENT4	-	-
+12	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	273-283	740_QUEST_clinical_caseMIR	SENT4	-	-
+13	y	y	CC	C1706368	calificador	284-285	740_QUEST_clinical_caseMIR	SENT4	-	-
+14	presentación	presentación	NCFS000	C0449450	atributo	286-298	740_QUEST_clinical_caseMIR	SENT4	-	-
+15	clínica	clínico	AQ0FS0	C0205210	calificador	299-306	740_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	306-307	740_QUEST_clinical_caseMIR	SENT4	-	-
+

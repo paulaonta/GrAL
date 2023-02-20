@@ -16,21 +16,20 @@
 16	macroscópica	macroscópico	AQ0FS0	C0473237_2	trastorno_2	85-97	500_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
 17	.	.	Fp	-	-	97-98	500_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	¿	¿	Fia	-	-	99-100	500_QUEST_clinical_caseMIR	SENT2	-	-
-2	Cuál	cuál	PT0CS000	-	-	100-104	500_QUEST_clinical_caseMIR	SENT2	-	-
-3	de	de	SPS00	C0332285	atributo	105-107	500_QUEST_clinical_caseMIR	SENT2	-	-
-4	las	el	DA0FP0	-	-	108-111	500_QUEST_clinical_caseMIR	SENT2	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	112-122	500_QUEST_clinical_caseMIR	SENT2	-	-
-6	alteraciones	alteración	NCFP000	-	-	123-135	500_QUEST_clinical_caseMIR	SENT2	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	136-138	500_QUEST_clinical_caseMIR	SENT2	-	-
-8	el	el	DA0MS0	-	-	139-141	500_QUEST_clinical_caseMIR	SENT2	-	-
-9	análisis	análisis	NCMN000	C0042014_1	procedimiento_1	142-150	500_QUEST_clinical_caseMIR	SENT2	-	-
-10	de	de	SPS00	C0042014_2	procedimiento_2	151-153	500_QUEST_clinical_caseMIR	SENT2	-	-
-11	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	154-159	500_QUEST_clinical_caseMIR	SENT2	-	-
-12	apoyaría	apoyar	VMIC3S0	-	-	160-168	500_QUEST_clinical_caseMIR	SENT2	-	-
-13	el	el	DA0MS0	-	-	169-171	500_QUEST_clinical_caseMIR	SENT2	-	-
-14	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	172-183	500_QUEST_clinical_caseMIR	SENT2	-	-
-15	de	de	SPS00	C0332285	atributo	184-186	500_QUEST_clinical_caseMIR	SENT2	-	-
-16	glomerulonefritis	glomerulonefritis	NCFN000	C0017658	trastorno	187-204	500_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
-17	?	?	Fit	-	-	204-205	500_QUEST_clinical_caseMIR	SENT2	-	-
+1	Cuál	cuál	PT0CS000	-	-	99-103	500_QUEST_clinical_caseMIR	SENT2	-	-
+2	de	de	SPS00	C0332285	atributo	104-106	500_QUEST_clinical_caseMIR	SENT2	-	-
+3	las	el	DA0FP0	-	-	107-110	500_QUEST_clinical_caseMIR	SENT2	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	111-121	500_QUEST_clinical_caseMIR	SENT2	-	-
+5	alteraciones	alteración	NCFP000	-	-	122-134	500_QUEST_clinical_caseMIR	SENT2	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	135-137	500_QUEST_clinical_caseMIR	SENT2	-	-
+7	el	el	DA0MS0	-	-	138-140	500_QUEST_clinical_caseMIR	SENT2	-	-
+8	análisis	análisis	NCMN000	C0042014_1	procedimiento_1	141-149	500_QUEST_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0042014_2	procedimiento_2	150-152	500_QUEST_clinical_caseMIR	SENT2	-	-
+10	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	153-158	500_QUEST_clinical_caseMIR	SENT2	-	-
+11	apoyaría	apoyar	VMIC3S0	-	-	159-167	500_QUEST_clinical_caseMIR	SENT2	-	-
+12	el	el	DA0MS0	-	-	168-170	500_QUEST_clinical_caseMIR	SENT2	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	171-182	500_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	183-185	500_QUEST_clinical_caseMIR	SENT2	-	-
+15	glomerulonefritis	glomerulonefritis	NCFN000	C0017658	trastorno	186-203	500_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	203-204	500_QUEST_clinical_caseMIR	SENT2	-	-
 

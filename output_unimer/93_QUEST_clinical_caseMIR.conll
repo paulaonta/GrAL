@@ -68,3 +68,36 @@
 11	temporales	temporal	AQ0CP0	C0442043#C0205374	calificador	360-370	93_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
 12	.	.	Fp	-	-	370-371	93_QUEST_clinical_caseMIR	SENT5	-	-
 
+1	Datos	dato	NCMP000	-	-	372-377	93_QUEST_clinical_caseMIR	SENT6	-	-
+2	analíticos	analítico	AQ0MP0	-	-	378-388	93_QUEST_clinical_caseMIR	SENT6	-	-
+3	.	.	Fp	-	-	388-389	93_QUEST_clinical_caseMIR	SENT6	-	-
+4	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	390-401	93_QUEST_clinical_caseMIR	SENT6	-	-
+5	9,7	9.7	Z	-	-	402-405	93_QUEST_clinical_caseMIR	SENT6	-	-
+6	g	g	NCMN000	-	-	406-407	93_QUEST_clinical_caseMIR	SENT6	-	-
+7	/	/	Fh	-	-	407-408	93_QUEST_clinical_caseMIR	SENT6	-	-
+8	dL	decilitro	NCMN000	C0439241	calificador	408-410	93_QUEST_clinical_caseMIR	SENT6	-	-
+9	ferritina	ferritina	NCFS000	C0015879	sustancia	411-420	93_QUEST_clinical_caseMIR	SENT6	-	-
+10	450	450		-	-	421-424	93_QUEST_clinical_caseMIR	SENT6	-	-
+11	ng	nasogástrico	NC00YL0	-	-	425-427	93_QUEST_clinical_caseMIR	SENT6	-	-
+12	/	/	Fh	-	-	427-428	93_QUEST_clinical_caseMIR	SENT6	-	-
+13	mL	mililitro	NCMN000	C0439242	calificador	428-430	93_QUEST_clinical_caseMIR	SENT6	-	-
+14	velocidad	velocidad	NCFS000	C0439830	calificador	431-440	93_QUEST_clinical_caseMIR	SENT6	-	-
+15	de	de	SPS00	C0332285	atributo	441-443	93_QUEST_clinical_caseMIR	SENT6	-	-
+16	sedimentación	sedimentación	NCFS000	-	-	444-457	93_QUEST_clinical_caseMIR	SENT6	-	-
+17	globular	globular	AQ0CS0	-	-	458-466	93_QUEST_clinical_caseMIR	SENT6	-	-
+18	115	115	Z	-	-	467-470	93_QUEST_clinical_caseMIR	SENT6	-	-
+19	mm	mm	NCMN000	-	-	471-473	93_QUEST_clinical_caseMIR	SENT6	-	-
+20	/	/	Fh	-	-	473-474	93_QUEST_clinical_caseMIR	SENT6	-	-
+21	h.	h.	NCFS000	-	-	474-476	93_QUEST_clinical_caseMIR	SENT6	-	-
+22	Cuál	cuál	PT0CS000	-	-	477-481	93_QUEST_clinical_caseMIR	SENT6	-	-
+23	es	ser	VSIP3S0	-	-	482-484	93_QUEST_clinical_caseMIR	SENT6	-	-
+24	la	el	DA0FS0	-	-	485-487	93_QUEST_clinical_caseMIR	SENT6	-	-
+25	acción	acción	NCFS000	C0441472#C3266814	calificador#atributo	488-494	93_QUEST_clinical_caseMIR	SENT6	-	-
+26	inmediata	inmediato	AQ0FS0	C0205253	calificador	495-504	93_QUEST_clinical_caseMIR	SENT6	-	-
+27	más	más	RG	C0205172	calificador	505-508	93_QUEST_clinical_caseMIR	SENT6	-	-
+28	apropiada	apropiar	VMP00SF	-	-	509-518	93_QUEST_clinical_caseMIR	SENT6	-	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	519-521	93_QUEST_clinical_caseMIR	SENT6	-	-
+30	esta	este	DD0FS0	-	-	522-526	93_QUEST_clinical_caseMIR	SENT6	-	-
+31	paciente	paciente	NCCS000	C0030705	persona	527-535	93_QUEST_clinical_caseMIR	SENT6	-	-
+32	.	.	Fp	-	-	535-536	93_QUEST_clinical_caseMIR	SENT6	-	-
+

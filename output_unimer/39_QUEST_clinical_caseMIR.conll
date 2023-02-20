@@ -1,46 +1,31 @@
-1	El	el	DA0MS0	-	-	432-434	39_QUEST_clinical_caseMIR	SENT1	-	-
-2	principal	principal	AQ0CS0	C0205225	calificador	435-444	39_QUEST_clinical_caseMIR	SENT1	-	-
-3	dato	dato	NCMS000	-	-	445-449	39_QUEST_clinical_caseMIR	SENT1	-	-
-4	que	que	PR0CN000	-	-	450-453	39_QUEST_clinical_caseMIR	SENT1	-	-
-5	apoya	apoyar	VMIP3S0	-	-	454-459	39_QUEST_clinical_caseMIR	SENT1	-	-
-6	el	el	DA0MS0	-	-	460-462	39_QUEST_clinical_caseMIR	SENT1	-	-
-7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	463-474	39_QUEST_clinical_caseMIR	SENT1	-	-
-8	de	de	SPS00	C0332285	atributo	475-477	39_QUEST_clinical_caseMIR	SENT1	-	-
-9	delirium	delirium	NCMS000	-	-	478-486	39_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-10	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	487-493	39_QUEST_clinical_caseMIR	SENT1	-	-
-11	al	al	SP+DA	-	-	494-496	39_QUEST_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	497-499	39_QUEST_clinical_caseMIR	SENT1	-	-
-13	demencia	demencia	NCFS000	C0497327	trastorno	500-508	39_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-14	es	ser	VSIP3S0	-	-	509-511	39_QUEST_clinical_caseMIR	SENT1	-	-
-15	:	:	Fd	-	-	511-512	39_QUEST_clinical_caseMIR	SENT1	-	-
-16	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	39_QUEST_clinical_caseMIR	SENT1	-	-
-17	de	de	SPS00	C0332285	atributo	6-8	39_QUEST_clinical_caseMIR	SENT1	-	-
-18	53	53		-	-	9-11	39_QUEST_clinical_caseMIR	SENT1	-	-
-19	años	año	NCMP000	C0439234	calificador	12-16	39_QUEST_clinical_caseMIR	SENT1	-	-
-20	que	que	PR0CN000	-	-	17-20	39_QUEST_clinical_caseMIR	SENT1	-	-
-21	presenta	presentar	VMIP3S0	-	-	21-29	39_QUEST_clinical_caseMIR	SENT1	-	-
-22	una	una		C0205447_1	calificador_1	30-33	39_QUEST_clinical_caseMIR	SENT1	-	-
-23	fractura	fracturar	VMM02S0	C0272622_1	trastorno_1	34-42	39_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-24	cerrada	cerrar	VMP00SF	C0272622_2	trastorno_2	43-50	39_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-25	del	del	SP+DA	C0272622_3	trastorno_3	51-54	39_QUEST_clinical_caseMIR	SENT1	-	-
-26	radio	radio	NCMS000	C0272622_4	trastorno_4	55-60	39_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-27	distal	distal	AQ0CS0	C0205108	calificador	61-67	39_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-28	tipo	tipo	NCMS000	C0332307	calificador#atributo	68-72	39_QUEST_clinical_caseMIR	SENT1	-	-
-29	"	"	Fe	-	-	73-74	39_QUEST_clinical_caseMIR	SENT1	-	-
-30	Colles	colles	NCFP000	-	-	74-80	39_QUEST_clinical_caseMIR	SENT1	-	-
-31	"	"	Fe	-	-	80-81	39_QUEST_clinical_caseMIR	SENT1	-	-
-32	y	y	CC	C1706368	calificador	82-83	39_QUEST_clinical_caseMIR	SENT1	-	-
-33	ha	haber	VAIP3S0	-	-	84-86	39_QUEST_clinical_caseMIR	SENT1	-	-
-34	sido	ser	VSP00SM	-	-	87-91	39_QUEST_clinical_caseMIR	SENT1	-	-
-35	tratada	tratar	VMP00SF	-	-	92-99	39_QUEST_clinical_caseMIR	SENT1	-	-
-36	mediante	mediante	SPS00	-	-	100-108	39_QUEST_clinical_caseMIR	SENT1	-	-
-37	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	109-118	39_QUEST_clinical_caseMIR	SENT1	-	-
-38	y	y	CC	C1706368	calificador	119-120	39_QUEST_clinical_caseMIR	SENT1	-	-
-39	colocación	colocación	NCFS000	C1533810	calificador	121-131	39_QUEST_clinical_caseMIR	SENT1	-	-
-40	de	de	SPS00	C0332285	atributo	132-134	39_QUEST_clinical_caseMIR	SENT1	-	-
-41	yeso	yeso	NCMS000	C0179686#C0460977#C0302143	objeto_físico#anomalía_morfológica	135-139	39_QUEST_clinical_caseMIR	SENT1	-	-
-42	antebraquial	antebraquial	NC00SC0	-	-	140-152	39_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-43	.	.	Fp	-	-	152-153	39_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	39_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	39_QUEST_clinical_caseMIR	SENT1	-	-
+3	53	53		-	-	9-11	39_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	39_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	39_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	39_QUEST_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	30-33	39_QUEST_clinical_caseMIR	SENT1	-	-
+8	fractura	fracturar	VMM02S0	C0272622_1	trastorno_1	34-42	39_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	cerrada	cerrar	VMP00SF	C0272622_2	trastorno_2	43-50	39_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	del	del	SP+DA	C0272622_3	trastorno_3	51-54	39_QUEST_clinical_caseMIR	SENT1	-	-
+11	radio	radio	NCMS000	C0272622_4	trastorno_4	55-60	39_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	distal	distal	AQ0CS0	C0205108	calificador	61-67	39_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+13	tipo	tipo	NCMS000	C0332307	calificador#atributo	68-72	39_QUEST_clinical_caseMIR	SENT1	-	-
+14	"	"	Fe	-	-	73-74	39_QUEST_clinical_caseMIR	SENT1	-	-
+15	Colles	colles	NCFP000	-	-	74-80	39_QUEST_clinical_caseMIR	SENT1	-	-
+16	"	"	Fe	-	-	80-81	39_QUEST_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	82-83	39_QUEST_clinical_caseMIR	SENT1	-	-
+18	ha	haber	VAIP3S0	-	-	84-86	39_QUEST_clinical_caseMIR	SENT1	-	-
+19	sido	ser	VSP00SM	-	-	87-91	39_QUEST_clinical_caseMIR	SENT1	-	-
+20	tratada	tratar	VMP00SF	-	-	92-99	39_QUEST_clinical_caseMIR	SENT1	-	-
+21	mediante	mediante	SPS00	-	-	100-108	39_QUEST_clinical_caseMIR	SENT1	-	-
+22	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	109-118	39_QUEST_clinical_caseMIR	SENT1	-	-
+23	y	y	CC	C1706368	calificador	119-120	39_QUEST_clinical_caseMIR	SENT1	-	-
+24	colocación	colocación	NCFS000	C1533810	calificador	121-131	39_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0332285	atributo	132-134	39_QUEST_clinical_caseMIR	SENT1	-	-
+26	yeso	yeso	NCMS000	C0179686#C0460977#C0302143	objeto_físico#anomalía_morfológica	135-139	39_QUEST_clinical_caseMIR	SENT1	-	-
+27	antebraquial	antebraquial	NC00SC0	-	-	140-152	39_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	.	.	Fp	-	-	152-153	39_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Como	como	CS	C0332257	calificador	154-158	39_QUEST_clinical_caseMIR	SENT2	-	-
 2	antecedentes	antecedente	NCMP000	-	-	159-171	39_QUEST_clinical_caseMIR	SENT2	-	-
@@ -70,4 +55,19 @@
 12	tratamiento	tratamiento	NCMS000	C0459914_1	régimen/tratamiento_1	294-305	39_QUEST_clinical_caseMIR	SENT3	-	-
 13	conservador	conservador	NCMS000	C0459914_2	régimen/tratamiento_2	306-317	39_QUEST_clinical_caseMIR	SENT3	-	-
 14	.	.	Fp	-	-	317-318	39_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Qué	qué	DE0CN0	-	-	319-322	39_QUEST_clinical_caseMIR	SENT4	-	-
+2	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	323-329	39_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	330-332	39_QUEST_clinical_caseMIR	SENT4	-	-
+4	inmovilización	inmovilización	NCFS000	-	-	333-347	39_QUEST_clinical_caseMIR	SENT4	-	-
+5	es	ser	VSIP3S0	-	-	348-350	39_QUEST_clinical_caseMIR	SENT4	-	-
+6	el	el	DA0MS0	-	-	351-353	39_QUEST_clinical_caseMIR	SENT4	-	-
+7	recomendado	recomendar	VMP00SM	-	-	354-365	39_QUEST_clinical_caseMIR	SENT4	-	-
+8	para	para	SPS00	C0521125	calificador	366-370	39_QUEST_clinical_caseMIR	SENT4	-	-
+9	una	una		C0205447_1	calificador_1	371-374	39_QUEST_clinical_caseMIR	SENT4	-	-
+10	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	375-383	39_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	384-386	39_QUEST_clinical_caseMIR	SENT4	-	-
+12	estas	este	DD0FP0	-	-	387-392	39_QUEST_clinical_caseMIR	SENT4	-	-
+13	características	característica	NCFP000	-	-	393-408	39_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	408-409	39_QUEST_clinical_caseMIR	SENT4	-	-
 

@@ -1,66 +1,56 @@
-1	Lo	el	DA0NS0	-	-	318-320	633_QUEST_clinical_caseMIR	SENT1	-	-
-2	más	más	RG	C0205172	calificador	321-324	633_QUEST_clinical_caseMIR	SENT1	-	-
-3	probable	probable	AQ0CS0	C0332148	calificador	325-333	633_QUEST_clinical_caseMIR	SENT1	-	-
-4	es	ser	VSIP3S0	-	-	334-336	633_QUEST_clinical_caseMIR	SENT1	-	-
-5	que	que	CS	-	-	337-340	633_QUEST_clinical_caseMIR	SENT1	-	-
-6	se	se	P00CN000	-	-	341-343	633_QUEST_clinical_caseMIR	SENT1	-	-
-7	trate	tratar	VMSP3S0	-	-	344-349	633_QUEST_clinical_caseMIR	SENT1	-	-
-8	de	de	SPS00	C0332285	atributo	350-352	633_QUEST_clinical_caseMIR	SENT1	-	-
-9	una	una		C0205447_1	calificador_1	353-356	633_QUEST_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	356-357	633_QUEST_clinical_caseMIR	SENT1	-	-
-11	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-12	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-13	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-14	cubital	cubital	AQ0CS0	C0442044	calificador	18-25	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-15	del	del	SP+DA	-	-	26-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-16	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	30-35	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-17	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-18	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-19	abductor	abductor	NCMS000	C0440974_1	sustancia_1	11-19	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-20	largo	largo	RG	C0440974_2	sustancia_2	20-25	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-21	del	del	SP+DA	C0440974_3	sustancia_3	26-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-22	pulgar	pulgar	NCMS000	C0440974_4	sustancia_4	30-36	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-23	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-24	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-25	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-26	profundo	profundo	AQ0MS0	C0205125#C0439808	calificador	18-26	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-27	de	de	SPS00	C0332285	atributo	27-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-28	los	el	DA0MP0	-	-	30-33	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-29	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	34-39	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-30	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-31	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-32	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-33	radial	radial	AQ0CS0	C0442038	calificador	18-24	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-34	del	del	SP+DA	-	-	25-28	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-35	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	29-34	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-36	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-37	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-38	palmar	palmar	NCMS000	C0443349	calificador	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-39	largo	largo	AQ0MS0	C0205166#C0392744	calificador	18-23	633_QUEST_clinical_caseMIR	SENT1	-	-
-40	Un	Un		C0205447_1	calificador_1	0-2	633_QUEST_clinical_caseMIR	SENT1	-	-
-41	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	633_QUEST_clinical_caseMIR	SENT1	-	-
-42	de	de	SPS00	C0332285	atributo	10-12	633_QUEST_clinical_caseMIR	SENT1	-	-
-43	44	44		-	-	13-15	633_QUEST_clinical_caseMIR	SENT1	-	-
-44	años	año	NCMP000	C0439234	calificador	16-20	633_QUEST_clinical_caseMIR	SENT1	-	-
-45	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	633_QUEST_clinical_caseMIR	SENT1	-	-
-46	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	633_QUEST_clinical_caseMIR	SENT1	-	-
-47	,	,	Fc	-	-	28-29	633_QUEST_clinical_caseMIR	SENT1	-	-
-48	trabajador	trabajador	NCMS000	C1306056	ocupación	30-40	633_QUEST_clinical_caseMIR	SENT1	-	-
-49	de	de	SPS00	C0332285	atributo	41-43	633_QUEST_clinical_caseMIR	SENT1	-	-
-50	la	el	DA0FS0	-	-	44-46	633_QUEST_clinical_caseMIR	SENT1	-	-
-51	construcción	construcción	NCFS000	-	-	47-59	633_QUEST_clinical_caseMIR	SENT1	-	-
-52	,	,	Fc	-	-	59-60	633_QUEST_clinical_caseMIR	SENT1	-	-
-53	consulta	consultar	VMM02S0	C1704447_1	calificador_1	61-69	633_QUEST_clinical_caseMIR	SENT1	-	-
-54	por	por	SPS00	C1704447_2	calificador_2	70-73	633_QUEST_clinical_caseMIR	SENT1	-	-
-55	un	un		C0205447_1	calificador_1	74-76	633_QUEST_clinical_caseMIR	SENT1	-	-
-56	dolor	dolor	NCMS000	C0024031_1	trastorno_1	77-82	633_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-57	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	83-89	633_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-58	de	de	SPS00	C0332285	atributo	90-92	633_QUEST_clinical_caseMIR	SENT1	-	-
-59	dos	dos		-	-	93-96	633_QUEST_clinical_caseMIR	SENT1	-	-
-60	semanas	semana	NCFP000	C0439230	calificador	97-104	633_QUEST_clinical_caseMIR	SENT1	-	-
-61	de	de	SPS00	C0332285	atributo	105-107	633_QUEST_clinical_caseMIR	SENT1	-	-
-62	duración	duración	NCFS000	C0449238	atributo	108-116	633_QUEST_clinical_caseMIR	SENT1	-	-
-63	.	.	Fp	-	-	116-117	633_QUEST_clinical_caseMIR	SENT1	-	-
+1	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+2	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+3	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+4	cubital	cubital	AQ0CS0	C0442044	calificador	18-25	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	del	del	SP+DA	-	-	26-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+6	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	30-35	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+7	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+8	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	abductor	abductor	NCMS000	C0440974_1	sustancia_1	11-19	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+10	largo	largo	RG	C0440974_2	sustancia_2	20-25	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	del	del	SP+DA	C0440974_3	sustancia_3	26-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+12	pulgar	pulgar	NCMS000	C0440974_4	sustancia_4	30-36	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+13	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+14	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+15	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	profundo	profundo	AQ0MS0	C0205125#C0439808	calificador	18-26	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	de	de	SPS00	C0332285	atributo	27-29	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	los	el	DA0MP0	-	-	30-33	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	34-39	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+22	flexor	flexor	NCMS000	-	-	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	radial	radial	AQ0CS0	C0442038	calificador	18-24	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	del	del	SP+DA	-	-	25-28	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	29-34	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	Tendón	tendón	NCMS000	C1280538#C0039508	estructura_corporal	0-6	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	del	del	SP+DA	-	-	7-10	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+28	palmar	palmar	NCMS000	C0443349	calificador	11-17	633_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+29	largo	largo	AQ0MS0	C0205166#C0392744	calificador	18-23	633_QUEST_clinical_caseMIR	SENT1	-	-
+30	Un	Un		C0205447_1	calificador_1	0-2	633_QUEST_clinical_caseMIR	SENT1	-	-
+31	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	633_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332285	atributo	10-12	633_QUEST_clinical_caseMIR	SENT1	-	-
+33	44	44		-	-	13-15	633_QUEST_clinical_caseMIR	SENT1	-	-
+34	años	año	NCMP000	C0439234	calificador	16-20	633_QUEST_clinical_caseMIR	SENT1	-	-
+35	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	633_QUEST_clinical_caseMIR	SENT1	-	-
+36	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	633_QUEST_clinical_caseMIR	SENT1	-	-
+37	,	,	Fc	-	-	28-29	633_QUEST_clinical_caseMIR	SENT1	-	-
+38	trabajador	trabajador	NCMS000	C1306056	ocupación	30-40	633_QUEST_clinical_caseMIR	SENT1	-	-
+39	de	de	SPS00	C0332285	atributo	41-43	633_QUEST_clinical_caseMIR	SENT1	-	-
+40	la	el	DA0FS0	-	-	44-46	633_QUEST_clinical_caseMIR	SENT1	-	-
+41	construcción	construcción	NCFS000	-	-	47-59	633_QUEST_clinical_caseMIR	SENT1	-	-
+42	,	,	Fc	-	-	59-60	633_QUEST_clinical_caseMIR	SENT1	-	-
+43	consulta	consultar	VMM02S0	C1704447_1	calificador_1	61-69	633_QUEST_clinical_caseMIR	SENT1	-	-
+44	por	por	SPS00	C1704447_2	calificador_2	70-73	633_QUEST_clinical_caseMIR	SENT1	-	-
+45	un	un		C0205447_1	calificador_1	74-76	633_QUEST_clinical_caseMIR	SENT1	-	-
+46	dolor	dolor	NCMS000	C0024031_1	trastorno_1	77-82	633_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+47	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	83-89	633_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+48	de	de	SPS00	C0332285	atributo	90-92	633_QUEST_clinical_caseMIR	SENT1	-	-
+49	dos	dos		-	-	93-96	633_QUEST_clinical_caseMIR	SENT1	-	-
+50	semanas	semana	NCFP000	C0439230	calificador	97-104	633_QUEST_clinical_caseMIR	SENT1	-	-
+51	de	de	SPS00	C0332285	atributo	105-107	633_QUEST_clinical_caseMIR	SENT1	-	-
+52	duración	duración	NCFS000	C0449238	atributo	108-116	633_QUEST_clinical_caseMIR	SENT1	-	-
+53	.	.	Fp	-	-	116-117	633_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Dos	Dos		-	-	118-121	633_QUEST_clinical_caseMIR	SENT2	-	-
 2	años	año	NCMP000	C0439234	calificador	122-126	633_QUEST_clinical_caseMIR	SENT2	-	-
@@ -109,11 +99,10 @@
 6	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	344-352	633_QUEST_clinical_caseMIR	SENT4	-	-
 7	.	.	Fp	-	-	352-353	633_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	¿	¿	Fia	-	-	354-355	633_QUEST_clinical_caseMIR	SENT5	-	-
-2	Qué	qué	DT0CN0	-	-	355-358	633_QUEST_clinical_caseMIR	SENT5	-	-
-3	exploración	exploración	NCFS000	C1280903	procedimiento	359-370	633_QUEST_clinical_caseMIR	SENT5	-	-
-4	complementaria	complementario	AQ0FS0	-	-	371-385	633_QUEST_clinical_caseMIR	SENT5	-	-
-5	considera	considerar	VMIP3S0	-	-	386-395	633_QUEST_clinical_caseMIR	SENT5	-	-
-6	indicada	indicar	VMP00SF	-	-	396-404	633_QUEST_clinical_caseMIR	SENT5	-	-
-7	?	?	Fit	-	-	404-405	633_QUEST_clinical_caseMIR	SENT5	-	-
+1	Qué	qué	DE0CN0	-	-	354-357	633_QUEST_clinical_caseMIR	SENT5	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	358-369	633_QUEST_clinical_caseMIR	SENT5	-	-
+3	complementaria	complementario	AQ0FS0	-	-	370-384	633_QUEST_clinical_caseMIR	SENT5	-	-
+4	considera	considerar	VMIP3S0	-	-	385-394	633_QUEST_clinical_caseMIR	SENT5	-	-
+5	indicada	indicar	VMP00SF	-	-	395-403	633_QUEST_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	403-404	633_QUEST_clinical_caseMIR	SENT5	-	-
 

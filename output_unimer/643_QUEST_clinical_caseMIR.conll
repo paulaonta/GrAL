@@ -89,12 +89,11 @@
 18	trombosis	trombosis	NCFN000	C0087086#C0003148#C0040053	anomalía_morfológica#calificador#trastorno	446-455	643_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
 19	.	.	Fp	-	-	455-456	643_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	¿	¿	Fia	-	-	457-458	643_QUEST_clinical_caseMIR	SENT5	-	-
-2	Cuál	cuál	PT0CS000	-	-	458-462	643_QUEST_clinical_caseMIR	SENT5	-	-
-3	debe	deber	VMIP3S0	-	-	463-467	643_QUEST_clinical_caseMIR	SENT5	-	-
-4	ser	ser	VSN0000	-	-	468-471	643_QUEST_clinical_caseMIR	SENT5	-	-
-5	su	su	DP3CS0	-	-	472-474	643_QUEST_clinical_caseMIR	SENT5	-	-
-6	proceder	proceder	VMN0000	-	-	475-483	643_QUEST_clinical_caseMIR	SENT5	-	-
-7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	484-495	643_QUEST_clinical_caseMIR	SENT5	-	-
-8	?	?	Fit	-	-	495-496	643_QUEST_clinical_caseMIR	SENT5	-	-
+1	Cuál	cuál	PT0CS000	-	-	457-461	643_QUEST_clinical_caseMIR	SENT5	-	-
+2	debe	deber	VMIP3S0	-	-	462-466	643_QUEST_clinical_caseMIR	SENT5	-	-
+3	ser	ser	VSN0000	-	-	467-470	643_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	471-473	643_QUEST_clinical_caseMIR	SENT5	-	-
+5	proceder	proceder	NCMS000	-	-	474-482	643_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	483-494	643_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	494-495	643_QUEST_clinical_caseMIR	SENT5	-	-
 

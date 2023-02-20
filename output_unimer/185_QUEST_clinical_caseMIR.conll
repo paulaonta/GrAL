@@ -36,3 +36,65 @@
 36	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	158-168	185_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
 37	.	.	Fp	-	-	168-169	185_QUEST_clinical_caseMIR	SENT1	-	-
 
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	185_QUEST_clinical_caseMIR	SENT2	-	-
+2	analítica	analítica	NCFS000	-	-	173-182	185_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	183-185	185_QUEST_clinical_caseMIR	SENT2	-	-
+4	sangre	sangre	NCFS000	C0005767	sustancia	186-192	185_QUEST_clinical_caseMIR	SENT2	-	-
+5	presenta	presentar	VMIP3S0	-	-	193-201	185_QUEST_clinical_caseMIR	SENT2	-	-
+6	Cr	creatinina	NC00YL0	C0010294	sustancia	202-204	185_QUEST_clinical_caseMIR	SENT2	-	-
+7	2.0	2.0	Z	-	-	205-208	185_QUEST_clinical_caseMIR	SENT2	-	-
+8	mg	mg	NCMN000	-	-	209-211	185_QUEST_clinical_caseMIR	SENT2	-	-
+9	/	/	Fh	-	-	211-212	185_QUEST_clinical_caseMIR	SENT2	-	-
+10	dl	decilitro	NCMN000	C0439241	calificador	212-214	185_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	214-215	185_QUEST_clinical_caseMIR	SENT2	-	-
+12	Urea	urea	NCFS000	C0041942	sustancia	216-220	185_QUEST_clinical_caseMIR	SENT2	-	-
+13	86	86	Z	-	-	221-223	185_QUEST_clinical_caseMIR	SENT2	-	-
+14	mg	mg	NCMN000	-	-	224-226	185_QUEST_clinical_caseMIR	SENT2	-	-
+15	/	/	Fh	-	-	226-227	185_QUEST_clinical_caseMIR	SENT2	-	-
+16	dl	decilitro	NCMN000	C0439241	calificador	227-229	185_QUEST_clinical_caseMIR	SENT2	-	-
+17	,	,	Fc	-	-	229-230	185_QUEST_clinical_caseMIR	SENT2	-	-
+18	Alb	albúmina	NC00YL0	C0001924	sustancia	231-234	185_QUEST_clinical_caseMIR	SENT2	-	-
+19	3.8	3.8	Z	-	-	235-238	185_QUEST_clinical_caseMIR	SENT2	-	-
+20	g_/_l	g/l	NCMP000	C0439294	calificador	239-242	185_QUEST_clinical_caseMIR	SENT2	-	-
+21	,	,	Fc	-	-	242-243	185_QUEST_clinical_caseMIR	SENT2	-	-
+22	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	244-246	185_QUEST_clinical_caseMIR	SENT2	-	-
+23	142	142		-	-	247-250	185_QUEST_clinical_caseMIR	SENT2	-	-
+24	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	251-254	185_QUEST_clinical_caseMIR	SENT2	-	-
+25	/	/	Fh	-	-	254-255	185_QUEST_clinical_caseMIR	SENT2	-	-
+26	L	l	NCFS000	-	-	255-256	185_QUEST_clinical_caseMIR	SENT2	-	-
+27	,	,	Fc	-	-	256-257	185_QUEST_clinical_caseMIR	SENT2	-	-
+28	K	k	NCFS000	-	-	258-259	185_QUEST_clinical_caseMIR	SENT2	-	-
+29	4	4		-	-	260-261	185_QUEST_clinical_caseMIR	SENT2	-	-
+30	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	262-265	185_QUEST_clinical_caseMIR	SENT2	-	-
+31	/	/	Fh	-	-	265-266	185_QUEST_clinical_caseMIR	SENT2	-	-
+32	L.	l.	NCFS000	-	-	266-268	185_QUEST_clinical_caseMIR	SENT2	-	-
+33	En	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	185_QUEST_clinical_caseMIR	SENT2	-	-
+34	analítica	analítica	NCFS000	-	-	272-281	185_QUEST_clinical_caseMIR	SENT2	-	-
+35	de	de	SPS00	C0332285	atributo	282-284	185_QUEST_clinical_caseMIR	SENT2	-	-
+36	orina	orina	NCFS000	C0042036	sustancia	285-290	185_QUEST_clinical_caseMIR	SENT2	-	-
+37	.	.	Fp	-	-	290-291	185_QUEST_clinical_caseMIR	SENT2	-	-
+38	sedimento	sedimento	NCMS000	C0333562	anomalía_morfológica	292-301	185_QUEST_clinical_caseMIR	SENT2	-	-
+39	sin	sin	SPS00	C0332288	atributo	302-305	185_QUEST_clinical_caseMIR	SENT2	-	-
+40	alteraciones	alteración	NCFP000	-	-	306-318	185_QUEST_clinical_caseMIR	SENT2	-	-
+41	y	y	CC	C1706368	calificador	319-320	185_QUEST_clinical_caseMIR	SENT2	-	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	321-323	185_QUEST_clinical_caseMIR	SENT2	-	-
+43	orina	orina	NCFS000	C0042036	sustancia	324-329	185_QUEST_clinical_caseMIR	SENT2	-	-
+44	de	de	SPS00	C0332285	atributo	330-332	185_QUEST_clinical_caseMIR	SENT2	-	-
+45	24	24	Z	-	-	333-335	185_QUEST_clinical_caseMIR	SENT2	-	-
+46	h	h	NCMN000	C0439227	calificador	336-337	185_QUEST_clinical_caseMIR	SENT2	-	-
+47	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	338-349	185_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+48	de	de	SPS00	C0332285	atributo	350-352	185_QUEST_clinical_caseMIR	SENT2	-	-
+49	6.3	6.3		-	-	353-356	185_QUEST_clinical_caseMIR	SENT2	-	-
+50	gr/24	gr/24		-	-	357-362	185_QUEST_clinical_caseMIR	SENT2	-	-
+51	h.	h.	NCFS000	-	-	363-365	185_QUEST_clinical_caseMIR	SENT2	-	-
+52	Cual	cual	PR0CS000	-	-	366-370	185_QUEST_clinical_caseMIR	SENT2	-	-
+53	de	de	SPS00	C0332285	atributo	371-373	185_QUEST_clinical_caseMIR	SENT2	-	-
+54	las	el	DA0FP0	-	-	374-377	185_QUEST_clinical_caseMIR	SENT2	-	-
+55	siguientes	siguiente	AQ0CP0	C0332282	atributo	378-388	185_QUEST_clinical_caseMIR	SENT2	-	-
+56	entidades	entidad	NCFP000	-	-	389-398	185_QUEST_clinical_caseMIR	SENT2	-	-
+57	presentará	presentar	VMIF3S0	-	-	399-409	185_QUEST_clinical_caseMIR	SENT2	-	-
+58	con	con	SPS00	C0332287	atributo	410-413	185_QUEST_clinical_caseMIR	SENT2	-	-
+59	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	414-419	185_QUEST_clinical_caseMIR	SENT2	-	-
+60	probabilidad	probabilidad	NCFS000	-	-	420-432	185_QUEST_clinical_caseMIR	SENT2	-	-
+61	.	.	Fp	-	-	432-433	185_QUEST_clinical_caseMIR	SENT2	-	-
+

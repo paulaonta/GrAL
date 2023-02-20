@@ -56,3 +56,22 @@
 18	recuerdan	recordar	VMIP3P0	C0557033	procedimiento	329-338	68_QUEST_clinical_caseMIR	SENT4	-	-
 19	.	.	Fp	-	-	338-339	68_QUEST_clinical_caseMIR	SENT4	-	-
 
+1	Descartada	descartar	VMP00SF	C0332196	calificador	340-350	68_QUEST_clinical_caseMIR	SENT5	-	-
+2	cualquier	cualquiera	DI0CS0	-	-	351-360	68_QUEST_clinical_caseMIR	SENT5	-	-
+3	patología	patología	NCFS000	C0030664	calificador	361-370	68_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion
+4	orgánica	orgánico	AQ0FS0	-	-	371-379	68_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+5	.	.	Fp	-	-	380-381	68_QUEST_clinical_caseMIR	SENT5	-	-
+6	cuál	cuál	PT0CS000	-	-	382-386	68_QUEST_clinical_caseMIR	SENT5	-	-
+7	es	ser	VSIP3S0	-	-	387-389	68_QUEST_clinical_caseMIR	SENT5	-	-
+8	,	,	Fc	-	-	389-390	68_QUEST_clinical_caseMIR	SENT5	-	-
+9	entre	entre	SPS00	C0205103	calificador	391-396	68_QUEST_clinical_caseMIR	SENT5	-	-
+10	los	el	DA0MP0	-	-	397-400	68_QUEST_clinical_caseMIR	SENT5	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	401-411	68_QUEST_clinical_caseMIR	SENT5	-	-
+12	,	,	Fc	-	-	411-412	68_QUEST_clinical_caseMIR	SENT5	-	-
+13	el	el	DA0MS0	-	-	413-415	68_QUEST_clinical_caseMIR	SENT5	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	416-427	68_QUEST_clinical_caseMIR	SENT5	-	-
+15	psicofarmacológico	psicofarmacológico	AQ0MS0	-	-	428-446	68_QUEST_clinical_caseMIR	SENT5	-	-
+16	más	más	RG	C0205172	calificador	447-450	68_QUEST_clinical_caseMIR	SENT5	-	-
+17	adecuado	adecuar	VMP00SM	-	-	451-459	68_QUEST_clinical_caseMIR	SENT5	-	-
+18	.	.	Fp	-	-	459-460	68_QUEST_clinical_caseMIR	SENT5	-	-
+

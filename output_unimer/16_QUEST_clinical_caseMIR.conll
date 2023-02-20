@@ -81,3 +81,13 @@
 26	mEq/1	mEq/1		-	-	312-317	16_QUEST_clinical_caseMIR	SENT4	-	-
 27	.	.	Fp	-	-	317-318	16_QUEST_clinical_caseMIR	SENT4	-	-
 
+1	Señale	señalar	VMM03S0	-	-	319-325	16_QUEST_clinical_caseMIR	SENT5	-	-
+2	el	el	DA0MS0	-	-	326-328	16_QUEST_clinical_caseMIR	SENT5	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	329-340	16_QUEST_clinical_caseMIR	SENT5	-	-
+4	más	más	RG	C0205172	calificador	341-344	16_QUEST_clinical_caseMIR	SENT5	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	345-353	16_QUEST_clinical_caseMIR	SENT5	-	-
+6	entre	entre	SPS00	C0205103	calificador	354-359	16_QUEST_clinical_caseMIR	SENT5	-	-
+7	los	el	DA0MP0	-	-	360-363	16_QUEST_clinical_caseMIR	SENT5	-	-
+8	siguientes	siguiente	AQ0CP0	C0332282	atributo	364-374	16_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	374-375	16_QUEST_clinical_caseMIR	SENT5	-	-
+

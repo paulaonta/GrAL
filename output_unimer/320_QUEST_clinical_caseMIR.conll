@@ -108,56 +108,56 @@
 2	la	el	DA0FS0	-	-	615-617	320_QUEST_clinical_caseMIR	SENT7	-	-
 3	analítica	analítica	NCFS000	-	-	618-627	320_QUEST_clinical_caseMIR	SENT7	-	-
 4	destaca	destacar	VMIP3S0	-	-	628-635	320_QUEST_clinical_caseMIR	SENT7	-	-
-5	:	:	Fd	-	-	635-636	320_QUEST_clinical_caseMIR	SENT7	-	-
-6	Hb	hb	NC00YL0	-	-	637-639	320_QUEST_clinical_caseMIR	SENT7	-	-
-7	10	10	Z	-	-	640-642	320_QUEST_clinical_caseMIR	SENT7	-	-
-8	gr	g	NC00SC0	-	-	643-645	320_QUEST_clinical_caseMIR	SENT7	-	-
-9	/	/	Fh	-	-	645-646	320_QUEST_clinical_caseMIR	SENT7	-	-
-10	dL	decilitro	NCMN000	C0439241	calificador	646-648	320_QUEST_clinical_caseMIR	SENT7	-	-
-11	,	,	Fc	-	-	648-649	320_QUEST_clinical_caseMIR	SENT7	-	-
-12	creatinina	creatinina	NC00SC0	C0010294	sustancia	650-660	320_QUEST_clinical_caseMIR	SENT7	-	-
-13	2,1	2.1	Z	-	-	661-664	320_QUEST_clinical_caseMIR	SENT7	-	-
-14	mg	mg	NCMN000	-	-	665-667	320_QUEST_clinical_caseMIR	SENT7	-	-
-15	/	/	Fh	-	-	667-668	320_QUEST_clinical_caseMIR	SENT7	-	-
-16	dL	decilitro	NCMN000	C0439241	calificador	668-670	320_QUEST_clinical_caseMIR	SENT7	-	-
-17	(	(	Fpa	-	-	671-672	320_QUEST_clinical_caseMIR	SENT7	-	-
-18	FG	filtrado_glomerular	NC00YL0	-	-	672-674	320_QUEST_clinical_caseMIR	SENT7	-	-
-19	20	20	Z	-	-	675-677	320_QUEST_clinical_caseMIR	SENT7	-	-
-20	mL	ml	NCMN000	C0439242	calificador	678-680	320_QUEST_clinical_caseMIR	SENT7	-	-
-21	/	/	Fh	-	-	680-681	320_QUEST_clinical_caseMIR	SENT7	-	-
-22	min	minuto	NCMN000	C0439232	calificador	681-684	320_QUEST_clinical_caseMIR	SENT7	-	-
-23	)	)	Fpt	-	-	684-685	320_QUEST_clinical_caseMIR	SENT7	-	-
-24	,	,	Fc	-	-	685-686	320_QUEST_clinical_caseMIR	SENT7	-	-
-25	PCR	pcr	NC00YL0	-	-	687-690	320_QUEST_clinical_caseMIR	SENT7	-	-
-26	124	124	Z	-	-	691-694	320_QUEST_clinical_caseMIR	SENT7	-	-
-27	mg	mg	NCMN000	-	-	695-697	320_QUEST_clinical_caseMIR	SENT7	-	-
-28	/	/	Fh	-	-	697-698	320_QUEST_clinical_caseMIR	SENT7	-	-
-29	L	l	NCFS000	-	-	698-699	320_QUEST_clinical_caseMIR	SENT7	-	-
-30	,	,	Fc	-	-	699-700	320_QUEST_clinical_caseMIR	SENT7	-	-
-31	factor	factor	NCMS000	C0035448_1	sustancia_1	701-707	320_QUEST_clinical_caseMIR	SENT7	-	-
-32	reumatoide	reumatoide	AQ0CS0	C0035448_2	sustancia_2	708-718	320_QUEST_clinical_caseMIR	SENT7	-	-
-33	240	240		-	-	719-722	320_QUEST_clinical_caseMIR	SENT7	-	-
-34	U	o	CC	-	-	723-724	320_QUEST_clinical_caseMIR	SENT7	-	-
-35	/	/	Fh	-	-	724-725	320_QUEST_clinical_caseMIR	SENT7	-	-
-36	L	l	NCFS000	-	-	725-726	320_QUEST_clinical_caseMIR	SENT7	-	-
-37	,	,	Fc	-	-	726-727	320_QUEST_clinical_caseMIR	SENT7	-	-
-38	BNP	b-type_natriuretic_peptide_(péptido_natriurético_tipo_b)	NC00YL0	-	-	728-731	320_QUEST_clinical_caseMIR	SENT7	-	-
-39	980	980		-	-	732-735	320_QUEST_clinical_caseMIR	SENT7	-	-
-40	ng	nasogástrico	NC00YL0	-	-	736-738	320_QUEST_clinical_caseMIR	SENT7	-	-
-41	/	/	Fh	-	-	738-739	320_QUEST_clinical_caseMIR	SENT7	-	-
-42	L	l	NCFS000	-	-	739-740	320_QUEST_clinical_caseMIR	SENT7	-	-
-43	,	,	Fc	-	-	740-741	320_QUEST_clinical_caseMIR	SENT7	-	-
-44	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	742-753	320_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
-45	4,8	4,8		-	-	754-757	320_QUEST_clinical_caseMIR	SENT7	-	-
-46	g/24h	g/24h		-	-	758-763	320_QUEST_clinical_caseMIR	SENT7	-	-
-47	.	.	Fp	-	-	763-764	320_QUEST_clinical_caseMIR	SENT7	-	-
+5	.	.	Fp	-	-	635-636	320_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	¿	¿	Fia	-	-	765-766	320_QUEST_clinical_caseMIR	SENT8	-	-
-2	Cuál	cuál	PT0CS000	-	-	766-770	320_QUEST_clinical_caseMIR	SENT8	-	-
-3	es	ser	VSIP3S0	-	-	771-773	320_QUEST_clinical_caseMIR	SENT8	-	-
-4	el	el	DA0MS0	-	-	774-776	320_QUEST_clinical_caseMIR	SENT8	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	777-788	320_QUEST_clinical_caseMIR	SENT8	-	-
-6	más	más	RG	C0205172	calificador	789-792	320_QUEST_clinical_caseMIR	SENT8	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	793-801	320_QUEST_clinical_caseMIR	SENT8	-	-
-8	?	?	Fit	-	-	801-802	320_QUEST_clinical_caseMIR	SENT8	-	-
+1	Hb	hb	NC00YL0	-	-	637-639	320_QUEST_clinical_caseMIR	SENT8	-	-
+2	10	10	Z	-	-	640-642	320_QUEST_clinical_caseMIR	SENT8	-	-
+3	gr	g	NC00SC0	-	-	643-645	320_QUEST_clinical_caseMIR	SENT8	-	-
+4	/	/	Fh	-	-	645-646	320_QUEST_clinical_caseMIR	SENT8	-	-
+5	dL	decilitro	NCMN000	C0439241	calificador	646-648	320_QUEST_clinical_caseMIR	SENT8	-	-
+6	,	,	Fc	-	-	648-649	320_QUEST_clinical_caseMIR	SENT8	-	-
+7	creatinina	creatinina	NC00SC0	C0010294	sustancia	650-660	320_QUEST_clinical_caseMIR	SENT8	-	-
+8	2,1	2.1	Z	-	-	661-664	320_QUEST_clinical_caseMIR	SENT8	-	-
+9	mg	mg	NCMN000	-	-	665-667	320_QUEST_clinical_caseMIR	SENT8	-	-
+10	/	/	Fh	-	-	667-668	320_QUEST_clinical_caseMIR	SENT8	-	-
+11	dL	decilitro	NCMN000	C0439241	calificador	668-670	320_QUEST_clinical_caseMIR	SENT8	-	-
+12	(	(	Fpa	-	-	671-672	320_QUEST_clinical_caseMIR	SENT8	-	-
+13	FG	filtrado_glomerular	NC00YL0	-	-	672-674	320_QUEST_clinical_caseMIR	SENT8	-	-
+14	20	20	Z	-	-	675-677	320_QUEST_clinical_caseMIR	SENT8	-	-
+15	mL	ml	NCMN000	C0439242	calificador	678-680	320_QUEST_clinical_caseMIR	SENT8	-	-
+16	/	/	Fh	-	-	680-681	320_QUEST_clinical_caseMIR	SENT8	-	-
+17	min	minuto	NCMN000	C0439232	calificador	681-684	320_QUEST_clinical_caseMIR	SENT8	-	-
+18	)	)	Fpt	-	-	684-685	320_QUEST_clinical_caseMIR	SENT8	-	-
+19	,	,	Fc	-	-	685-686	320_QUEST_clinical_caseMIR	SENT8	-	-
+20	PCR	pcr	NC00YL0	-	-	687-690	320_QUEST_clinical_caseMIR	SENT8	-	-
+21	124	124	Z	-	-	691-694	320_QUEST_clinical_caseMIR	SENT8	-	-
+22	mg	mg	NCMN000	-	-	695-697	320_QUEST_clinical_caseMIR	SENT8	-	-
+23	/	/	Fh	-	-	697-698	320_QUEST_clinical_caseMIR	SENT8	-	-
+24	L	l	NCFS000	-	-	698-699	320_QUEST_clinical_caseMIR	SENT8	-	-
+25	,	,	Fc	-	-	699-700	320_QUEST_clinical_caseMIR	SENT8	-	-
+26	factor	factor	NCMS000	C0035448_1	sustancia_1	701-707	320_QUEST_clinical_caseMIR	SENT8	-	-
+27	reumatoide	reumatoide	AQ0CS0	C0035448_2	sustancia_2	708-718	320_QUEST_clinical_caseMIR	SENT8	-	-
+28	240	240		-	-	719-722	320_QUEST_clinical_caseMIR	SENT8	-	-
+29	U	o	CC	-	-	723-724	320_QUEST_clinical_caseMIR	SENT8	-	-
+30	/	/	Fh	-	-	724-725	320_QUEST_clinical_caseMIR	SENT8	-	-
+31	L	l	NCFS000	-	-	725-726	320_QUEST_clinical_caseMIR	SENT8	-	-
+32	,	,	Fc	-	-	726-727	320_QUEST_clinical_caseMIR	SENT8	-	-
+33	BNP	b-type_natriuretic_peptide_(péptido_natriurético_tipo_b)	NC00YL0	-	-	728-731	320_QUEST_clinical_caseMIR	SENT8	-	-
+34	980	980		-	-	732-735	320_QUEST_clinical_caseMIR	SENT8	-	-
+35	ng	nasogástrico	NC00YL0	-	-	736-738	320_QUEST_clinical_caseMIR	SENT8	-	-
+36	/	/	Fh	-	-	738-739	320_QUEST_clinical_caseMIR	SENT8	-	-
+37	L	l	NCFS000	-	-	739-740	320_QUEST_clinical_caseMIR	SENT8	-	-
+38	,	,	Fc	-	-	740-741	320_QUEST_clinical_caseMIR	SENT8	-	-
+39	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	742-753	320_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-
+40	4,8	4,8		-	-	754-757	320_QUEST_clinical_caseMIR	SENT8	-	-
+41	g/24h	g/24h		-	-	758-763	320_QUEST_clinical_caseMIR	SENT8	-	-
+42	.	.	Fp	-	-	763-764	320_QUEST_clinical_caseMIR	SENT8	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	765-769	320_QUEST_clinical_caseMIR	SENT9	-	-
+2	es	ser	VSIP3S0	-	-	770-772	320_QUEST_clinical_caseMIR	SENT9	-	-
+3	el	el	DA0MS0	-	-	773-775	320_QUEST_clinical_caseMIR	SENT9	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	776-787	320_QUEST_clinical_caseMIR	SENT9	-	-
+5	más	más	RG	C0205172	calificador	788-791	320_QUEST_clinical_caseMIR	SENT9	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	792-800	320_QUEST_clinical_caseMIR	SENT9	-	-
+7	.	.	Fp	-	-	800-801	320_QUEST_clinical_caseMIR	SENT9	-	-
 

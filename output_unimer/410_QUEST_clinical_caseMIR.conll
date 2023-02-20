@@ -22,3 +22,22 @@
 5	óptica	óptico	AQ0FS0	C0029134_2	trastorno_2	121-127	410_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
 6	.	.	Fp	-	-	127-128	410_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	Indique	indicar	VMM03S0	-	-	129-136	410_QUEST_clinical_caseMIR	SENT3	-	-
+2	qué	qué	DT0CN0	-	-	137-140	410_QUEST_clinical_caseMIR	SENT3	-	-
+3	hallazgo	hallazgo	NCMS000	C0243095	hallazgo	141-149	410_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	150-152	410_QUEST_clinical_caseMIR	SENT3	-	-
+5	los	el	DA0MP0	-	-	153-156	410_QUEST_clinical_caseMIR	SENT3	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	157-167	410_QUEST_clinical_caseMIR	SENT3	-	-
+7	permitiría	permitir	VMIC3S0	-	-	168-178	410_QUEST_clinical_caseMIR	SENT3	-	-
+8	hacer	hacer	VMN0000	-	-	179-184	410_QUEST_clinical_caseMIR	SENT3	-	-
+9	un	un		C0205447_1	calificador_1	185-187	410_QUEST_clinical_caseMIR	SENT3	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	188-199	410_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	200-202	410_QUEST_clinical_caseMIR	SENT3	-	-
+12	esclerosis	esclerosis	NCFN000	C0026769_1	trastorno_1	203-213	410_QUEST_clinical_caseMIR	SENT3	-	-
+13	múltiple	múltiple	NC00SC0	C0026769_2	trastorno_2	214-222	410_QUEST_clinical_caseMIR	SENT3	-	-
+14	definitiva	definitivo	AQ0FS0	C0443196	calificador	223-233	410_QUEST_clinical_caseMIR	SENT3	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	234-236	410_QUEST_clinical_caseMIR	SENT3	-	-
+16	esta	este	DD0FS0	-	-	237-241	410_QUEST_clinical_caseMIR	SENT3	-	-
+17	paciente	paciente	NCCS000	C0030705	persona	242-250	410_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	250-251	410_QUEST_clinical_caseMIR	SENT3	-	-
+

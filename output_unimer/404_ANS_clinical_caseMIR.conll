@@ -1,20 +1,9 @@
-1	¿	¿	Fia	-	-	225-226	404_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	226-230	404_ANS_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	231-236	404_ANS_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	237-239	404_ANS_clinical_caseMIR	SENT1	-	-
-5	mejor	mejor	AQ0CS0	C0332272	calificador	240-245	404_ANS_clinical_caseMIR	SENT1	-	-
-6	recomendación	recomendación	NCFS000	C0150600	procedimiento	246-259	404_ANS_clinical_caseMIR	SENT1	-	-
-7	para	para	SPS00	C0521125	calificador	260-264	404_ANS_clinical_caseMIR	SENT1	-	-
-8	este	este	DD0MS0	-	-	265-269	404_ANS_clinical_caseMIR	SENT1	-	-
-9	paciente	paciente	NCCS000	C0030705	persona	270-278	404_ANS_clinical_caseMIR	SENT1	-	-
-10	?	?	Fit	-	-	278-279	404_ANS_clinical_caseMIR	SENT1	-	-
-11	:	:	Fd	-	-	279-280	404_ANS_clinical_caseMIR	SENT1	-	-
-12	Fracaso	fracaso	NCMS000	C0231174	hallazgo	0-7	404_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-13	renal	renal	AQ0CS0	-	-	8-13	404_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-14	agudo	agudo	NC00SC0	C0205178	calificador	14-19	404_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-15	por	por	SPS00	C0678226	atributo	20-23	404_ANS_clinical_caseMIR	SENT1	-	-
-16	enalapril	enalapril	NC00SC0	C0014025	sustancia	24-33	404_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-17	.	.	Fp	-	-	33-34	404_ANS_clinical_caseMIR	SENT1	-	-
+1	Fracaso	fracaso	NCMS000	C0231174	hallazgo	0-7	404_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	renal	renal	AQ0CS0	-	-	8-13	404_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	agudo	agudo	NC00SC0	C0205178	calificador	14-19	404_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	por	por	SPS00	C0678226	atributo	20-23	404_ANS_clinical_caseMIR	SENT1	-	-
+5	enalapril	enalapril	NC00SC0	C0014025	sustancia	24-33	404_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	.	.	Fp	-	-	33-34	404_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Progresión	progresión	NCFS000	C0449258	atributo	0-10	404_ANS_clinical_caseMIR	SENT2	-	-
 2	de	de	SPS00	C0332285	atributo	11-13	404_ANS_clinical_caseMIR	SENT2	-	-

@@ -1,32 +1,12 @@
-1	¿	¿	Fia	-	-	700-701	261_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	701-705	261_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	706-708	261_QUEST_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	709-712	261_QUEST_clinical_caseMIR	SENT1	-	-
-5	exploraciones	exploración	NCFP000	C1280903	procedimiento	713-726	261_QUEST_clinical_caseMIR	SENT1	-	-
-6	que	que	PR0CN000	-	-	727-730	261_QUEST_clinical_caseMIR	SENT1	-	-
-7	se	se	P00CN000	-	-	731-733	261_QUEST_clinical_caseMIR	SENT1	-	-
-8	enumeran	enumerar	VMIP3P0	-	-	734-742	261_QUEST_clinical_caseMIR	SENT1	-	-
-9	a	a	SPS00	-	-	743-744	261_QUEST_clinical_caseMIR	SENT1	-	-
-10	continuación	continuación	NCFS000	-	-	745-757	261_QUEST_clinical_caseMIR	SENT1	-	-
-11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	758-760	261_QUEST_clinical_caseMIR	SENT1	-	-
-12	parece	parecer	VMIP3S0	-	-	761-767	261_QUEST_clinical_caseMIR	SENT1	-	-
-13	más	más	RG	C0205172	calificador	768-771	261_QUEST_clinical_caseMIR	SENT1	-	-
-14	adecuada	adecuar	VMP00SF	-	-	772-780	261_QUEST_clinical_caseMIR	SENT1	-	-
-15	para	para	SPS00	C0521125	calificador	781-785	261_QUEST_clinical_caseMIR	SENT1	-	-
-16	completar	completar	VMN0000	-	-	786-795	261_QUEST_clinical_caseMIR	SENT1	-	-
-17	el	el	DA0MS0	-	-	796-798	261_QUEST_clinical_caseMIR	SENT1	-	-
-18	estudio	estudio	NCMS000	C0557651	medio_ambiente	799-806	261_QUEST_clinical_caseMIR	SENT1	-	-
-19	?	?	Fit	-	-	806-807	261_QUEST_clinical_caseMIR	SENT1	-	-
-20	:	:	Fd	-	-	807-808	261_QUEST_clinical_caseMIR	SENT1	-	-
-21	Una	Una		C0205447_1	calificador_1	0-3	261_QUEST_clinical_caseMIR	SENT1	-	-
-22	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	261_QUEST_clinical_caseMIR	SENT1	-	-
-23	de	de	SPS00	C0332285	atributo	10-12	261_QUEST_clinical_caseMIR	SENT1	-	-
-24	32	32		-	-	13-15	261_QUEST_clinical_caseMIR	SENT1	-	-
-25	años	año	NCMP000	C0439234	calificador	16-20	261_QUEST_clinical_caseMIR	SENT1	-	-
-26	solícita	solícito	AQ0FS0	-	-	21-29	261_QUEST_clinical_caseMIR	SENT1	-	-
-27	consejo	consejo	NCMS000	C0474171_1	régimen/tratamiento_1	30-37	261_QUEST_clinical_caseMIR	SENT1	-	-
-28	preconcepcional	preconcepcional		C0474171_2	régimen/tratamiento_2	38-53	261_QUEST_clinical_caseMIR	SENT1	-	-
-29	.	.	Fp	-	-	53-54	261_QUEST_clinical_caseMIR	SENT1	-	-
+1	Una	Una		C0205447_1	calificador_1	0-3	261_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	261_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	261_QUEST_clinical_caseMIR	SENT1	-	-
+4	32	32		-	-	13-15	261_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	261_QUEST_clinical_caseMIR	SENT1	-	-
+6	solícita	solícito	AQ0FS0	-	-	21-29	261_QUEST_clinical_caseMIR	SENT1	-	-
+7	consejo	consejo	NCMS000	C0474171_1	régimen/tratamiento_1	30-37	261_QUEST_clinical_caseMIR	SENT1	-	-
+8	preconcepcional	preconcepcional		C0474171_2	régimen/tratamiento_2	38-53	261_QUEST_clinical_caseMIR	SENT1	-	-
+9	.	.	Fp	-	-	53-54	261_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	55-57	261_QUEST_clinical_caseMIR	SENT2	-	-
 2	paciente	paciente	NCCS000	C0030705	persona	58-66	261_QUEST_clinical_caseMIR	SENT2	-	-
@@ -109,4 +89,14 @@
 3	sentido	sentir	VMP00SM	-	-	468-475	261_QUEST_clinical_caseMIR	SENT5	-	-
 4	contracciones	contracción	NCFP000	C1140999	hallazgo	476-489	261_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
 5	.	.	Fp	-	-	489-490	261_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Qué	qué	DE0CN0	-	-	491-494	261_QUEST_clinical_caseMIR	SENT6	-	-
+2	consejo	consejo	NCMS000	-	-	495-502	261_QUEST_clinical_caseMIR	SENT6	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	503-505	261_QUEST_clinical_caseMIR	SENT6	-	-
+4	daría	dar	VMIC3S0	C1947971	calificador	506-511	261_QUEST_clinical_caseMIR	SENT6	-	-
+5	para	para	SPS00	C0521125	calificador	512-516	261_QUEST_clinical_caseMIR	SENT6	-	-
+6	el	el	DA0MS0	-	-	517-519	261_QUEST_clinical_caseMIR	SENT6	-	-
+7	próximo	próximo	AQ0MS0	-	-	520-527	261_QUEST_clinical_caseMIR	SENT6	-	-
+8	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	528-536	261_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	536-537	261_QUEST_clinical_caseMIR	SENT6	-	-
 

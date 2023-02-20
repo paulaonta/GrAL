@@ -84,3 +84,20 @@
 45	desatento	desatento	AQ0MS0	-	-	449-458	625_QUEST_clinical_caseMIR	SENT3	-	-
 46	.	.	Fp	-	-	458-459	625_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	El	el	DA0MS0	-	-	460-462	625_QUEST_clinical_caseMIR	SENT4	-	-
+2	principal	principal	AQ0CS0	C0205225	calificador	463-472	625_QUEST_clinical_caseMIR	SENT4	-	-
+3	dato	dato	NCMS000	-	-	473-477	625_QUEST_clinical_caseMIR	SENT4	-	-
+4	que	que	PR0CN000	-	-	478-481	625_QUEST_clinical_caseMIR	SENT4	-	-
+5	apoya	apoyar	VMIP3S0	-	-	482-487	625_QUEST_clinical_caseMIR	SENT4	-	-
+6	el	el	DA0MS0	-	-	488-490	625_QUEST_clinical_caseMIR	SENT4	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	491-502	625_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	503-505	625_QUEST_clinical_caseMIR	SENT4	-	-
+9	delirium	delirium	NCMS000	-	-	506-514	625_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	515-521	625_QUEST_clinical_caseMIR	SENT4	-	-
+11	al	al	SP+DA	-	-	522-524	625_QUEST_clinical_caseMIR	SENT4	-	-
+12	de	de	SPS00	C0332285	atributo	525-527	625_QUEST_clinical_caseMIR	SENT4	-	-
+13	demencia	demencia	NCFS000	C0497327	trastorno	528-536	625_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	,	,	Fc	-	-	536-537	625_QUEST_clinical_caseMIR	SENT4	-	-
+15	es	ser	VSIP3S0	-	-	538-540	625_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	540-541	625_QUEST_clinical_caseMIR	SENT4	-	-
+

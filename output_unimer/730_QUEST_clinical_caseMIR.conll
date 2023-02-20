@@ -33,3 +33,38 @@
 16	tabaquismo	tabaquismo	NCMS000	C0040332#C0040336#C1306274#C0425291_1	trastorno#entidad_observable_1	169-179	730_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 17	.	.	Fp	-	-	179-180	730_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	Si	si	CS	-	-	181-183	730_QUEST_clinical_caseMIR	SENT3	-	-
+2	se	se	P00CN000	-	-	184-186	730_QUEST_clinical_caseMIR	SENT3	-	-
+3	quiere	querer	VMIP3S0	-	-	187-193	730_QUEST_clinical_caseMIR	SENT3	-	-
+4	seguir	seguir	VMN0000	-	-	194-200	730_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	201-203	730_QUEST_clinical_caseMIR	SENT3	-	-
+6	estrategia	estrategia	NCFS000	-	-	204-214	730_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	215-217	730_QUEST_clinical_caseMIR	SENT3	-	-
+8	educación	educación	NCFS000	C0018701_1	régimen/tratamiento_1	218-227	730_QUEST_clinical_caseMIR	SENT3	-	-
+9	para	parir	VMSP3S0	C0018701_2	régimen/tratamiento_2	228-232	730_QUEST_clinical_caseMIR	SENT3	-	-
+10	la	lo	PP3FSA00	C0018701_3	régimen/tratamiento_3	233-235	730_QUEST_clinical_caseMIR	SENT3	-	-
+11	salud	salud	NCFS000	C0018701_4	régimen/tratamiento_4	236-241	730_QUEST_clinical_caseMIR	SENT3	-	-
+12	basada	basar	VMP00SF	-	-	242-248	730_QUEST_clinical_caseMIR	SENT3	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	249-251	730_QUEST_clinical_caseMIR	SENT3	-	-
+14	el	el	DA0MS0	-	-	252-254	730_QUEST_clinical_caseMIR	SENT3	-	-
+15	modelo	modelo	NCCS000	C0335295#C0302143	ocupación#anomalía_morfológica	255-261	730_QUEST_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	262-264	730_QUEST_clinical_caseMIR	SENT3	-	-
+17	las	el	DA0FP0	-	-	265-268	730_QUEST_clinical_caseMIR	SENT3	-	-
+18	cinco	cinco		-	-	269-274	730_QUEST_clinical_caseMIR	SENT3	-	-
+19	“	“	Fra	-	-	275-276	730_QUEST_clinical_caseMIR	SENT3	-	-
+20	aes	a	NCFP000	-	-	276-279	730_QUEST_clinical_caseMIR	SENT3	-	-
+21	”	”	Frc	-	-	279-280	730_QUEST_clinical_caseMIR	SENT3	-	-
+22	,	,	Fc	-	-	280-281	730_QUEST_clinical_caseMIR	SENT3	-	-
+23	.	.	Fp	-	-	282-283	730_QUEST_clinical_caseMIR	SENT3	-	-
+24	cuál	cuál	PT0CS000	-	-	284-288	730_QUEST_clinical_caseMIR	SENT3	-	-
+25	de	de	SPS00	C0332285	atributo	289-291	730_QUEST_clinical_caseMIR	SENT3	-	-
+26	las	el	DA0FP0	-	-	292-295	730_QUEST_clinical_caseMIR	SENT3	-	-
+27	siguientes	siguiente	AQ0CP0	C0332282	atributo	296-306	730_QUEST_clinical_caseMIR	SENT3	-	-
+28	NO	no	RN	C1298908	calificador	307-309	730_QUEST_clinical_caseMIR	SENT3	-	-
+29	se	se	P00CN000	-	-	310-312	730_QUEST_clinical_caseMIR	SENT3	-	-
+30	incluye	incluir	VMIP3S0	-	-	313-320	730_QUEST_clinical_caseMIR	SENT3	-	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	321-323	730_QUEST_clinical_caseMIR	SENT3	-	-
+32	esta	este	DD0FS0	-	-	324-328	730_QUEST_clinical_caseMIR	SENT3	-	-
+33	estrategia	estrategia	NCFS000	-	-	329-339	730_QUEST_clinical_caseMIR	SENT3	-	-
+34	.	.	Fp	-	-	339-340	730_QUEST_clinical_caseMIR	SENT3	-	-
+

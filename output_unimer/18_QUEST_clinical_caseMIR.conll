@@ -56,7 +56,7 @@
 14	los	el	DA0MP0	-	-	338-341	18_QUEST_clinical_caseMIR	SENT3	-	-
 15	siguientes	siguiente	AQ0CP0	C0332282	atributo	342-352	18_QUEST_clinical_caseMIR	SENT3	-	-
 16	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	353-363	18_QUEST_clinical_caseMIR	SENT3	-	-
-17	:	:	Fd	-	-	363-364	18_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	363-364	18_QUEST_clinical_caseMIR	SENT3	-	-
 18	linfocitos	linfocito	NCMP000	C0024264	célula	365-375	18_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 19	50	50	Z	-	-	376-378	18_QUEST_clinical_caseMIR	SENT3	-	-
 20	%	%	Ft	-	-	378-379	18_QUEST_clinical_caseMIR	SENT3	-	-
@@ -78,4 +78,12 @@
 36	CD4/CD8	CD4/CD8		-	-	450-457	18_QUEST_clinical_caseMIR	SENT3	-	-
 37	5	5		-	-	459-460	18_QUEST_clinical_caseMIR	SENT3	-	-
 38	.	.	Fp	-	-	460-461	18_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	462-466	18_QUEST_clinical_caseMIR	SENT4	-	-
+2	es	ser	VSIP3S0	-	-	467-469	18_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	470-472	18_QUEST_clinical_caseMIR	SENT4	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	473-484	18_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	485-488	18_QUEST_clinical_caseMIR	SENT4	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	489-497	18_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	497-498	18_QUEST_clinical_caseMIR	SENT4	-	-
 

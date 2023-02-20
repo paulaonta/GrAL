@@ -87,3 +87,10 @@
 10	temperatura	temperatura	NCFS000	C0039476	atributo	461-472	631_QUEST_clinical_caseMIR	SENT5	I-Calificador	-
 11	.	.	Fp	-	-	472-473	631_QUEST_clinical_caseMIR	SENT5	-	-
 
+1	El	el	DA0MS0	-	-	474-476	631_QUEST_clinical_caseMIR	SENT6	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	477-488	631_QUEST_clinical_caseMIR	SENT6	-	-
+3	más	más	RG	C0205172	calificador	489-492	631_QUEST_clinical_caseMIR	SENT6	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	493-501	631_QUEST_clinical_caseMIR	SENT6	-	-
+5	es	ser	VSIP3S0	-	-	502-504	631_QUEST_clinical_caseMIR	SENT6	-	-
+6	.	.	Fp	-	-	504-505	631_QUEST_clinical_caseMIR	SENT6	-	-
+

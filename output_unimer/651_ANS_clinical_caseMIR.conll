@@ -1,32 +1,17 @@
-1	¿	¿	Fia	-	-	407-408	651_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	408-412	651_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	413-415	651_ANS_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	416-419	651_ANS_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	420-430	651_ANS_clinical_caseMIR	SENT1	-	-
-6	opciones	opción	NCFP000	-	-	431-439	651_ANS_clinical_caseMIR	SENT1	-	-
-7	NO	no	RN	C1298908	calificador	440-442	651_ANS_clinical_caseMIR	SENT1	-	-
-8	debe	deber	VMIP3S0	-	-	443-447	651_ANS_clinical_caseMIR	SENT1	-	-
-9	considerar	considerar	VMN0000	-	-	448-458	651_ANS_clinical_caseMIR	SENT1	-	-
-10	se	se	PP3CN000	-	-	458-460	651_ANS_clinical_caseMIR	SENT1	-	-
-11	como	como	CS	C0332257	calificador	461-465	651_ANS_clinical_caseMIR	SENT1	-	-
-12	diagnóstico	diagnóstico	NCMS000	C0011906_1	calificador_1	466-477	651_ANS_clinical_caseMIR	SENT1	-	-
-13	diferencial	diferencial	NCMS000	C0011906_2	calificador_2	478-489	651_ANS_clinical_caseMIR	SENT1	-	-
-14	?	?	Fit	-	-	489-490	651_ANS_clinical_caseMIR	SENT1	-	-
-15	:	:	Fd	-	-	490-491	651_ANS_clinical_caseMIR	SENT1	-	-
-16	Administrar	administrar	VMN0000	C1621583	calificador	0-11	651_ANS_clinical_caseMIR	SENT1	-	-
-17	una	una		C0205447_1	calificador_1	12-15	651_ANS_clinical_caseMIR	SENT1	-	-
-18	dosis	dosis	NCFN000	-	-	16-21	651_ANS_clinical_caseMIR	SENT1	-	-
-19	de	de	SPS00	C0332285	atributo	22-24	651_ANS_clinical_caseMIR	SENT1	-	-
-20	gammaglobulina	gammaglobulina	NCFS000	C0017007	sustancia	25-39	651_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-21	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	40-46	651_ANS_clinical_caseMIR	SENT1	-	-
-22	a	a	SPS00	-	-	47-48	651_ANS_clinical_caseMIR	SENT1	-	-
-23	VHB	virus_de_la_hepatitis_b	NC00YL0	-	-	49-52	651_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-24	y	y	CC	C1706368	calificador	53-54	651_ANS_clinical_caseMIR	SENT1	-	-
-25	una	una		C0205447_1	calificador_1	55-58	651_ANS_clinical_caseMIR	SENT1	-	-
-26	dosis	dosis	NCFN000	-	-	59-64	651_ANS_clinical_caseMIR	SENT1	-	-
-27	de	de	SPS00	C0332285	atributo	65-67	651_ANS_clinical_caseMIR	SENT1	-	-
-28	vacuna	vacuna	NCFS000	C0042210	producto#sustancia	68-74	651_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-29	.	.	Fp	-	-	74-75	651_ANS_clinical_caseMIR	SENT1	-	-
+1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	651_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	12-15	651_ANS_clinical_caseMIR	SENT1	-	-
+3	dosis	dosis	NCFN000	-	-	16-21	651_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	22-24	651_ANS_clinical_caseMIR	SENT1	-	-
+5	gammaglobulina	gammaglobulina	NCFS000	C0017007	sustancia	25-39	651_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	40-46	651_ANS_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	47-48	651_ANS_clinical_caseMIR	SENT1	-	-
+8	VHB	virus_de_la_hepatitis_b	NC00YL0	-	-	49-52	651_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	53-54	651_ANS_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	55-58	651_ANS_clinical_caseMIR	SENT1	-	-
+11	dosis	dosis	NCFN000	-	-	59-64	651_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	65-67	651_ANS_clinical_caseMIR	SENT1	-	-
+13	vacuna	vacuna	NCFS000	C0042210	producto#sustancia	68-74	651_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	74-75	651_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	651_ANS_clinical_caseMIR	SENT2	-	-
 2	una	una		C0205447_1	calificador_1	12-15	651_ANS_clinical_caseMIR	SENT2	-	-

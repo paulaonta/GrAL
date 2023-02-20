@@ -1,25 +1,11 @@
-1	Ante	ante	SPS00	-	-	82-86	748_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	87-89	748_ANS_clinical_caseMIR	SENT1	-	-
-3	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	90-98	748_ANS_clinical_caseMIR	SENT1	-	-
-4	de	de	SPS00	C0332147_2	calificador_2	99-101	748_ANS_clinical_caseMIR	SENT1	-	-
-5	un	un		C0205447_1	calificador_1	102-104	748_ANS_clinical_caseMIR	SENT1	-	-
-6	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	105-120	748_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
-7	pulmonar	pulmonar	NC00SC0	C2709248	calificador	121-129	748_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-8	indique	indicar	VMM03S0	-	-	130-137	748_ANS_clinical_caseMIR	SENT1	-	-
-9	qué	qué	DT0CN0	-	-	138-141	748_ANS_clinical_caseMIR	SENT1	-	-
-10	prueba	prueba	NCFS000	-	-	142-148	748_ANS_clinical_caseMIR	SENT1	-	-
-11	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	149-160	748_ANS_clinical_caseMIR	SENT1	-	-
-12	estaría	estar	VAIC1S0	-	-	161-168	748_ANS_clinical_caseMIR	SENT1	-	-
-13	contraindicada	contraindicar	VMP00SF	-	-	169-183	748_ANS_clinical_caseMIR	SENT1	-	-
-14	:	:	Fd	-	-	183-184	748_ANS_clinical_caseMIR	SENT1	-	-
-15	El	el	DA0MS0	-	-	0-2	748_ANS_clinical_caseMIR	SENT1	-	-
-16	cuadro	cuadro	NCMS000	-	-	3-9	748_ANS_clinical_caseMIR	SENT1	-	-
-17	corresponde	corresponder	VMIP3S0	-	-	10-21	748_ANS_clinical_caseMIR	SENT1	-	-
-18	a	a	SPS00	-	-	22-23	748_ANS_clinical_caseMIR	SENT1	-	-
-19	una	una		C0205447_1	calificador_1	24-27	748_ANS_clinical_caseMIR	SENT1	-	-
-20	hemicránea	hemicránea	NCFS000	C1399352_1	trastorno_1	28-38	748_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-21	paroxística	paroxístico	AQ0FS0	C1399352_2	trastorno_2	39-50	748_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-22	.	.	Fp	-	-	50-51	748_ANS_clinical_caseMIR	SENT1	-	-
+1	El	el	DA0MS0	-	-	0-2	748_ANS_clinical_caseMIR	SENT1	-	-
+2	cuadro	cuadro	NCMS000	-	-	3-9	748_ANS_clinical_caseMIR	SENT1	-	-
+3	corresponde	corresponder	VMIP3S0	-	-	10-21	748_ANS_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	-	-	22-23	748_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	24-27	748_ANS_clinical_caseMIR	SENT1	-	-
+6	hemicránea	hemicránea	NCFS000	C1399352_1	trastorno_1	28-38	748_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	paroxística	paroxístico	AQ0FS0	C1399352_2	trastorno_2	39-50	748_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	50-51	748_ANS_clinical_caseMIR	SENT1	-	-
 
 1	El	el	DA0MS0	-	-	0-2	748_ANS_clinical_caseMIR	SENT2	-	-
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	748_ANS_clinical_caseMIR	SENT2	-	-

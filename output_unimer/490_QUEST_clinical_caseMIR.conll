@@ -48,7 +48,7 @@
 17	.	.	Fp	-	-	267-268	490_QUEST_clinical_caseMIR	SENT3	-	-
 
 1	Hemograma	hemograma	NCMS000	C0200631	procedimiento	269-278	490_QUEST_clinical_caseMIR	SENT4	-	-
-2	:	:	Fd	-	-	278-279	490_QUEST_clinical_caseMIR	SENT4	-	-
+2	.	.	Fp	-	-	278-279	490_QUEST_clinical_caseMIR	SENT4	-	-
 3	leucocitos	leucocito	NCMP000	C0023516	célula	280-290	490_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 4	8.500/μL	8.500/μL		-	-	291-299	490_QUEST_clinical_caseMIR	SENT4	-	-
 5	,	,	Fc	-	-	299-300	490_QUEST_clinical_caseMIR	SENT4	-	-
@@ -73,11 +73,10 @@
 9	acúmulos	acúmulo	NCMP000	-	-	387-395	490_QUEST_clinical_caseMIR	SENT5	-	-
 10	.	.	Fp	-	-	395-396	490_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	397-398	490_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	398-402	490_QUEST_clinical_caseMIR	SENT6	-	-
-3	es	ser	VSIP3S0	-	-	403-405	490_QUEST_clinical_caseMIR	SENT6	-	-
-4	la	el	DA0FS0	-	-	406-408	490_QUEST_clinical_caseMIR	SENT6	-	-
-5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	409-417	490_QUEST_clinical_caseMIR	SENT6	-	-
-6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	418-429	490_QUEST_clinical_caseMIR	SENT6	-	-
-7	?	?	Fit	-	-	429-430	490_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	397-401	490_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	402-404	490_QUEST_clinical_caseMIR	SENT6	-	-
+3	la	el	DA0FS0	-	-	405-407	490_QUEST_clinical_caseMIR	SENT6	-	-
+4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	408-416	490_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	417-428	490_QUEST_clinical_caseMIR	SENT6	-	-
+6	.	.	Fp	-	-	428-429	490_QUEST_clinical_caseMIR	SENT6	-	-
 

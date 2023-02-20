@@ -1,30 +1,16 @@
-1	Teniendo	tener	VMG0000	-	-	578-586	30_ANS_clinical_caseMIR	SENT1	-	-
-2	en	en	SPS00	C1720294#C0332285	calificador#atributo	587-589	30_ANS_clinical_caseMIR	SENT1	-	-
-3	cuenta	cuenta	NCFS000	-	-	590-596	30_ANS_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	597-599	30_ANS_clinical_caseMIR	SENT1	-	-
-5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	600-608	30_ANS_clinical_caseMIR	SENT1	-	-
-6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	609-620	30_ANS_clinical_caseMIR	SENT1	-	-
-7	¿	¿	Fia	-	-	621-622	30_ANS_clinical_caseMIR	SENT1	-	-
-8	qué	qué	DT0CN0	-	-	622-625	30_ANS_clinical_caseMIR	SENT1	-	-
-9	prueba	prueba	NCFS000	-	-	626-632	30_ANS_clinical_caseMIR	SENT1	-	-
-10	solicitaría	solicitar	VMIC3S0	-	-	633-644	30_ANS_clinical_caseMIR	SENT1	-	-
-11	a	a	SPS00	-	-	645-646	30_ANS_clinical_caseMIR	SENT1	-	-
-12	continuación	continuación	NCFS000	-	-	647-659	30_ANS_clinical_caseMIR	SENT1	-	-
-13	?	?	Fit	-	-	659-660	30_ANS_clinical_caseMIR	SENT1	-	-
-14	:	:	Fd	-	-	660-661	30_ANS_clinical_caseMIR	SENT1	-	-
-15	Por	por	SPS00	C0678226	atributo	0-3	30_ANS_clinical_caseMIR	SENT1	-	-
-16	tener	tener	VMN0000	-	-	4-9	30_ANS_clinical_caseMIR	SENT1	-	-
-17	menos	menos	RG	C0332288	atributo	10-15	30_ANS_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	16-18	30_ANS_clinical_caseMIR	SENT1	-	-
-19	dos	dos		-	-	19-22	30_ANS_clinical_caseMIR	SENT1	-	-
-20	factores	factor	NCMP000	-	-	23-31	30_ANS_clinical_caseMIR	SENT1	-	-
-21	de	de	SPS00	C0332285	atributo	32-34	30_ANS_clinical_caseMIR	SENT1	-	-
-22	riesgo	riesgo	NCMS000	-	-	35-41	30_ANS_clinical_caseMIR	SENT1	-	-
-23	no	no	RN	C1298908	calificador	42-44	30_ANS_clinical_caseMIR	SENT1	-	-
-24	precisa	precisar	VMIP3S0	-	-	45-52	30_ANS_clinical_caseMIR	SENT1	-	-
-25	tratamiento	tratamiento	NCMS000	C0585943_1	procedimiento_1	53-64	30_ANS_clinical_caseMIR	SENT1	-	-
-26	hipolipemiante	hipolipemiante		C0585943_2	procedimiento_2	65-79	30_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-27	.	.	Fp	-	-	79-80	30_ANS_clinical_caseMIR	SENT1	-	-
+1	Por	por	SPS00	C0678226	atributo	0-3	30_ANS_clinical_caseMIR	SENT1	-	-
+2	tener	tener	VMN0000	-	-	4-9	30_ANS_clinical_caseMIR	SENT1	-	-
+3	menos	menos	RG	C0332288	atributo	10-15	30_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	16-18	30_ANS_clinical_caseMIR	SENT1	-	-
+5	dos	dos		-	-	19-22	30_ANS_clinical_caseMIR	SENT1	-	-
+6	factores	factor	NCMP000	-	-	23-31	30_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	32-34	30_ANS_clinical_caseMIR	SENT1	-	-
+8	riesgo	riesgo	NCMS000	-	-	35-41	30_ANS_clinical_caseMIR	SENT1	-	-
+9	no	no	RN	C1298908	calificador	42-44	30_ANS_clinical_caseMIR	SENT1	-	-
+10	precisa	precisar	VMIP3S0	-	-	45-52	30_ANS_clinical_caseMIR	SENT1	-	-
+11	tratamiento	tratamiento	NCMS000	C0585943_1	procedimiento_1	53-64	30_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	hipolipemiante	hipolipemiante		C0585943_2	procedimiento_2	65-79	30_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+13	.	.	Fp	-	-	79-80	30_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Por	por	SPS00	C0678226	atributo	0-3	30_ANS_clinical_caseMIR	SENT2	-	-
 2	ser	ser	VSN0000	-	-	4-7	30_ANS_clinical_caseMIR	SENT2	-	-

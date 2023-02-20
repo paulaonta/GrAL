@@ -1,16 +1,6 @@
-1	Señale	señalar	VMM03S0	-	-	343-349	16_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	350-352	16_ANS_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	353-362	16_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	363-371	16_ANS_clinical_caseMIR	SENT1	-	-
-5	respecto	respecto	NCMS000	-	-	372-380	16_ANS_clinical_caseMIR	SENT1	-	-
-6	al	al	SP+DA	-	-	381-383	16_ANS_clinical_caseMIR	SENT1	-	-
-7	reinicio	reinicio	NCMS000	-	-	384-392	16_ANS_clinical_caseMIR	SENT1	-	-
-8	del	del	SP+DA	-	-	393-396	16_ANS_clinical_caseMIR	SENT1	-	-
-9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	397-408	16_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	408-409	16_ANS_clinical_caseMIR	SENT1	-	-
-11	Tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	0-15	16_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	pulmonar	pulmonar	NC00SC0	C2709248	calificador	16-24	16_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	.	.	Fp	-	-	24-25	16_ANS_clinical_caseMIR	SENT1	-	-
+1	Tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	0-15	16_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	pulmonar	pulmonar	NC00SC0	C2709248	calificador	16-24	16_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	24-25	16_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Neumonía	neumonía	NCFS000	C1275589_1	trastorno_1	0-8	16_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	lobar	lobar		C1275589_2	trastorno_2	9-14	16_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

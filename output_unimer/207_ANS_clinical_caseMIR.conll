@@ -1,17 +1,7 @@
-1	El	el	DA0MS0	-	-	345-347	207_ANS_clinical_caseMIR	SENT1	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	348-359	207_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-3	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	360-369	207_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-4	indicado	indicar	VMP00SM	-	-	370-378	207_ANS_clinical_caseMIR	SENT1	-	-
-5	incluiría	incluir	VMIC3S0	-	-	379-388	207_ANS_clinical_caseMIR	SENT1	-	-
-6	todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	389-394	207_ANS_clinical_caseMIR	SENT1	-	-
-7	las	el	DA0FP0	-	-	395-398	207_ANS_clinical_caseMIR	SENT1	-	-
-8	opciones	opción	NCFP000	-	-	399-407	207_ANS_clinical_caseMIR	SENT1	-	-
-9	EXCEPTO	excepto	SPS00	-	-	408-415	207_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	415-416	207_ANS_clinical_caseMIR	SENT1	-	-
-11	Administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	0-14	207_ANS_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	15-17	207_ANS_clinical_caseMIR	SENT1	-	-
-13	metformina	metformina	NC00SC0	C0025598	producto#sustancia	18-28	207_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-14	.	.	Fp	-	-	28-29	207_ANS_clinical_caseMIR	SENT1	-	-
+1	Administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	0-14	207_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	15-17	207_ANS_clinical_caseMIR	SENT1	-	-
+3	metformina	metformina	NC00SC0	C0025598	producto#sustancia	18-28	207_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	28-29	207_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Prescribir	prescribir	VMN0000	-	-	0-10	207_ANS_clinical_caseMIR	SENT2	-	-
 2	una	una		C0205447_1	calificador_1	11-14	207_ANS_clinical_caseMIR	SENT2	-	-

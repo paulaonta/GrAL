@@ -1,26 +1,14 @@
-1	La	el	DA0FS0	-	-	562-564	613_QUEST_clinical_caseMIR	SENT1	-	-
-2	combinación	combinación	NCFS000	C0205195#C0453882	calificador#objeto_físico	565-576	613_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	577-579	613_QUEST_clinical_caseMIR	SENT1	-	-
-4	mecanismos	mecanismo	NCMP000	C0441712	atributo	580-590	613_QUEST_clinical_caseMIR	SENT1	-	-
-5	fisiológicos	fisiológico	AQ0MP0	C0205463	calificador	591-603	613_QUEST_clinical_caseMIR	SENT1	-	-
-6	que	que	PR0CN000	-	-	604-607	613_QUEST_clinical_caseMIR	SENT1	-	-
-7	mejor	mejor	RG	C0332272	calificador	608-613	613_QUEST_clinical_caseMIR	SENT1	-	-
-8	explican	explicar	VMIP3P0	-	-	614-622	613_QUEST_clinical_caseMIR	SENT1	-	-
-9	esta	este	DD0FS0	-	-	623-627	613_QUEST_clinical_caseMIR	SENT1	-	-
-10	gasometría	gasometría	NCFS000	-	-	628-638	613_QUEST_clinical_caseMIR	SENT1	-	-
-11	es	ser	VSIP3S0	-	-	639-641	613_QUEST_clinical_caseMIR	SENT1	-	-
-12	:	:	Fd	-	-	641-642	613_QUEST_clinical_caseMIR	SENT1	-	-
-13	Primigesta	primigesta	NC00SC0	C0860096	hallazgo	0-10	613_QUEST_clinical_caseMIR	SENT1	-	-
-14	de	de	SPS00	C0332285	atributo	11-13	613_QUEST_clinical_caseMIR	SENT1	-	-
-15	28	28		-	-	14-16	613_QUEST_clinical_caseMIR	SENT1	-	-
-16	años	año	NCMP000	C0439234	calificador	17-21	613_QUEST_clinical_caseMIR	SENT1	-	-
-17	,	,	Fc	-	-	21-22	613_QUEST_clinical_caseMIR	SENT1	-	-
-18	sin	sin	SPS00	C0332288	atributo	23-26	613_QUEST_clinical_caseMIR	SENT1	-	-
-19	antecedentes	antecedente	NCMP000	C0455458_1	categoría_dependiente_del_contexto_1	27-39	613_QUEST_clinical_caseMIR	SENT1	-	-
-20	médicos	médico	NCCP000	C0455458_2	categoría_dependiente_del_contexto_2	40-47	613_QUEST_clinical_caseMIR	SENT1	-	-
-21	de	de	SPS00	C0455458_3	categoría_dependiente_del_contexto_3	48-50	613_QUEST_clinical_caseMIR	SENT1	-	-
-22	interés	interés	NCMS000	-	-	51-58	613_QUEST_clinical_caseMIR	SENT1	-	-
-23	.	.	Fp	-	-	58-59	613_QUEST_clinical_caseMIR	SENT1	-	-
+1	Primigesta	primigesta	NC00SC0	C0860096	hallazgo	0-10	613_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	613_QUEST_clinical_caseMIR	SENT1	-	-
+3	28	28		-	-	14-16	613_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	17-21	613_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	21-22	613_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332288	atributo	23-26	613_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0455458_1	categoría_dependiente_del_contexto_1	27-39	613_QUEST_clinical_caseMIR	SENT1	-	-
+8	médicos	médico	NCCP000	C0455458_2	categoría_dependiente_del_contexto_2	40-47	613_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0455458_3	categoría_dependiente_del_contexto_3	48-50	613_QUEST_clinical_caseMIR	SENT1	-	-
+10	interés	interés	NCMS000	-	-	51-58	613_QUEST_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	58-59	613_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	IMC	imc	NC00SC0	C1305855	entidad_observable	60-63	613_QUEST_clinical_caseMIR	SENT2	-	-
 2	25	25		-	-	64-66	613_QUEST_clinical_caseMIR	SENT2	-	-
@@ -61,7 +49,7 @@
 12	del	del	SP+DA	-	-	233-236	613_QUEST_clinical_caseMIR	SENT5	-	-
 13	tercer	3	AO0MS0	C0032981_1	calificador_1	237-243	613_QUEST_clinical_caseMIR	SENT5	-	-
 14	trimestre	trimestre	NCMS000	C0032981_2	calificador_2	244-253	613_QUEST_clinical_caseMIR	SENT5	-	-
-15	:	:	Fd	-	-	253-254	613_QUEST_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	253-254	613_QUEST_clinical_caseMIR	SENT5	-	-
 16	feto	feto	NCMS000	C1305737	estructura_corporal	255-259	613_QUEST_clinical_caseMIR	SENT5	-	-
 17	vivo	vivo	AQ0MS0	C2584946	hallazgo	260-264	613_QUEST_clinical_caseMIR	SENT5	-	-
 18	en	en	SPS00	C1720294#C0332285	calificador#atributo	265-267	613_QUEST_clinical_caseMIR	SENT5	-	-
@@ -181,7 +169,7 @@
 33	la	el	DA0FS0	-	-	864-866	613_QUEST_clinical_caseMIR	SENT8	-	-
 34	que	que	PR0CN000	-	-	867-870	613_QUEST_clinical_caseMIR	SENT8	-	-
 35	destaca	destacar	VMIP3S0	-	-	871-878	613_QUEST_clinical_caseMIR	SENT8	-	-
-36	:	:	Fd	-	-	878-879	613_QUEST_clinical_caseMIR	SENT8	-	-
+36	.	.	Fp	-	-	878-879	613_QUEST_clinical_caseMIR	SENT8	-	-
 37	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	880-887	613_QUEST_clinical_caseMIR	SENT8	-	-
 38	105	105	Z	-	-	888-891	613_QUEST_clinical_caseMIR	SENT8	-	-
 39	mg	mg	NCMN000	-	-	892-894	613_QUEST_clinical_caseMIR	SENT8	-	-
@@ -277,4 +265,18 @@
 129	sangre	sangre	NCFS000	C0229664_1	sustancia_1	1230-1236	613_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
 130	periférica	periférico	AQ0FS0	C0229664_2	sustancia_2	1237-1247	613_QUEST_clinical_caseMIR	SENT8	I-Estructura_Corporal	-
 131	.	.	Fp	-	-	1247-1248	613_QUEST_clinical_caseMIR	SENT8	-	-
+
+1	Señale	señalar	VMM03S0	-	-	1249-1255	613_QUEST_clinical_caseMIR	SENT9	-	-
+2	la	el	DA0FS0	-	-	1256-1258	613_QUEST_clinical_caseMIR	SENT9	-	-
+3	afirmación	afirmación	NCFS000	-	-	1259-1269	613_QUEST_clinical_caseMIR	SENT9	-	-
+4	verdadera	verdadero	AQ0FS0	C0205238	calificador	1270-1279	613_QUEST_clinical_caseMIR	SENT9	-	-
+5	respecto	respecto	NCMS000	-	-	1280-1288	613_QUEST_clinical_caseMIR	SENT9	-	-
+6	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	1289-1291	613_QUEST_clinical_caseMIR	SENT9	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	1292-1303	613_QUEST_clinical_caseMIR	SENT9	-	-
+8	y	y	CC	C1706368	calificador	1304-1305	613_QUEST_clinical_caseMIR	SENT9	-	-
+9	seguimiento	seguimiento	NCMS000	-	-	1306-1317	613_QUEST_clinical_caseMIR	SENT9	-	-
+10	de	de	SPS00	C0332285	atributo	1318-1320	613_QUEST_clinical_caseMIR	SENT9	-	-
+11	este	este	DD0MS0	-	-	1321-1325	613_QUEST_clinical_caseMIR	SENT9	-	-
+12	caso	caso	NCMS000	C0868928	calificador	1326-1330	613_QUEST_clinical_caseMIR	SENT9	-	-
+13	.	.	Fp	-	-	1330-1331	613_QUEST_clinical_caseMIR	SENT9	-	-
 

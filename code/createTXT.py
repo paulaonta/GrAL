@@ -28,7 +28,11 @@ for line in mycsv:#iterate through the csv
         first = False
     else:
         answer_list = []
-        question = line[question_pos] #get question
+        question = line[question_pos]  #get question
+        new_question = question.replace("¿", ". ").replace("?", ". ").replace(":", ".").replace(". .", ".").replace("..", ".")
+        new_question += "." #append .
+        final_question = new_question.replace("..", ".").replace(". .", ".")
+
         #get all the posible answers
         for i in range(num_answer):
             answer_list.append(line[answer_pos+i])
@@ -41,7 +45,7 @@ for line in mycsv:#iterate through the csv
 
         #save the text in the files already created
         with open(question_path, 'w',  encoding='utf8') as file:
-            file.write(question)
+            file.write(final_question)
             file.write('\n')
 
         with open(answer_path, 'w', encoding='utf8') as file:

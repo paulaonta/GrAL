@@ -1,15 +1,10 @@
-1	Señale	señalar	VMM03S0	-	-	389-395	773_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	396-398	773_ANS_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	399-408	773_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	409-417	773_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	417-418	773_ANS_clinical_caseMIR	SENT1	-	-
-6	Realizar	realizar	VMN0000	-	-	0-8	773_ANS_clinical_caseMIR	SENT1	-	-
-7	un	un		C0205447_1	calificador_1	9-11	773_ANS_clinical_caseMIR	SENT1	-	-
-8	tratamiento	tratamiento	NCMS000	C1299622_1	régimen/tratamiento_1	12-23	773_ANS_clinical_caseMIR	SENT1	-	-
-9	empírico	empírico	NCMS000	C1299622_2	régimen/tratamiento_2	24-32	773_ANS_clinical_caseMIR	SENT1	-	-
-10	con	con	SPS00	C1299622_3	régimen/tratamiento_3	33-36	773_ANS_clinical_caseMIR	SENT1	-	-
-11	antibióticos	antibiótico	NCMP000	C1299622_4	régimen/tratamiento_4	37-49	773_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-12	.	.	Fp	-	-	49-50	773_ANS_clinical_caseMIR	SENT1	-	-
+1	Realizar	realizar	VMN0000	-	-	0-8	773_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	9-11	773_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1299622_1	régimen/tratamiento_1	12-23	773_ANS_clinical_caseMIR	SENT1	-	-
+4	empírico	empírico	NCMS000	C1299622_2	régimen/tratamiento_2	24-32	773_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C1299622_3	régimen/tratamiento_3	33-36	773_ANS_clinical_caseMIR	SENT1	-	-
+6	antibióticos	antibiótico	NCMP000	C1299622_4	régimen/tratamiento_4	37-49	773_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	.	.	Fp	-	-	49-50	773_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Solicitar	solicitar	VMN0000	-	-	0-9	773_ANS_clinical_caseMIR	SENT2	-	-
 2	una	una		C0205447_1	calificador_1	10-13	773_ANS_clinical_caseMIR	SENT2	-	-

@@ -1,33 +1,44 @@
-1	El	el	DA0MS0	-	-	589-591	381_QUEST_clinical_caseMIR	SENT1	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	592-603	381_QUEST_clinical_caseMIR	SENT1	-	-
-3	más	más	RG	C0205172	calificador	604-607	381_QUEST_clinical_caseMIR	SENT1	-	-
-4	probable	probable	AQ0CS0	C0332148	calificador	608-616	381_QUEST_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	617-619	381_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	619-620	381_QUEST_clinical_caseMIR	SENT1	-	-
-7	Un	Un		C0205447_1	calificador_1	0-2	381_QUEST_clinical_caseMIR	SENT1	-	-
-8	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	381_QUEST_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0332285	atributo	10-12	381_QUEST_clinical_caseMIR	SENT1	-	-
-10	35	35		-	-	13-15	381_QUEST_clinical_caseMIR	SENT1	-	-
-11	años	año	NCMP000	C0439234	calificador	16-20	381_QUEST_clinical_caseMIR	SENT1	-	-
-12	acude	acudir	VMIP3S0	-	-	21-26	381_QUEST_clinical_caseMIR	SENT1	-	-
-13	a	a	SPS00	-	-	27-28	381_QUEST_clinical_caseMIR	SENT1	-	-
-14	la	el	DA0FS0	-	-	29-31	381_QUEST_clinical_caseMIR	SENT1	-	-
-15	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	381_QUEST_clinical_caseMIR	SENT1	-	-
-16	refiriendo	referir	VMG0000	-	-	41-51	381_QUEST_clinical_caseMIR	SENT1	-	-
-17	la	el	DA0FS0	-	-	52-54	381_QUEST_clinical_caseMIR	SENT1	-	-
-18	aparición	aparición	NCFS000	-	-	55-64	381_QUEST_clinical_caseMIR	SENT1	-	-
-19	de	de	SPS00	C0332285	atributo	65-67	381_QUEST_clinical_caseMIR	SENT1	-	-
-20	un	un		C0205447_1	calificador_1	68-70	381_QUEST_clinical_caseMIR	SENT1	-	-
-21	bulto	bulto	NCMS000	C0577559	hallazgo#anomalía_morfológica	71-76	381_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-22	en	en	SPS00	C1720294#C0332285	calificador#atributo	77-79	381_QUEST_clinical_caseMIR	SENT1	-	-
-23	la	el	DA0FS0	-	-	80-82	381_QUEST_clinical_caseMIR	SENT1	-	-
-24	región	región	NCFS000	C1284946#C0230318_1	estructura_corporal_1	83-89	381_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-25	inguinal	inguinal	NC00SC0	C1284946#C0230318_2	estructura_corporal_2	90-98	381_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-26	derecha	derecho	AQ0FS0	C1284946#C0230318_3	estructura_corporal_3	99-106	381_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-27	que	que	PR0CN000	-	-	107-110	381_QUEST_clinical_caseMIR	SENT1	-	-
-28	no	no	RN	C1298908	calificador	111-113	381_QUEST_clinical_caseMIR	SENT1	-	-
-29	produce	producir	VMIP3S0	-	-	114-121	381_QUEST_clinical_caseMIR	SENT1	-	-
-30	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	122-129	381_QUEST_clinical_caseMIR	SENT1	-	-
-31	sintomatología	sintomatología	NCFS000	-	-	130-144	381_QUEST_clinical_caseMIR	SENT1	-	-
-32	.	.	Fp	-	-	144-145	381_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	381_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	381_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	381_QUEST_clinical_caseMIR	SENT1	-	-
+4	35	35		-	-	13-15	381_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	381_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	381_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	381_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	29-31	381_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	381_QUEST_clinical_caseMIR	SENT1	-	-
+10	refiriendo	referir	VMG0000	-	-	41-51	381_QUEST_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	52-54	381_QUEST_clinical_caseMIR	SENT1	-	-
+12	aparición	aparición	NCFS000	-	-	55-64	381_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	65-67	381_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	68-70	381_QUEST_clinical_caseMIR	SENT1	-	-
+15	bulto	bulto	NCMS000	C0577559	hallazgo#anomalía_morfológica	71-76	381_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	77-79	381_QUEST_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	80-82	381_QUEST_clinical_caseMIR	SENT1	-	-
+18	región	región	NCFS000	C1284946#C0230318_1	estructura_corporal_1	83-89	381_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	inguinal	inguinal	NC00SC0	C1284946#C0230318_2	estructura_corporal_2	90-98	381_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	derecha	derecho	AQ0FS0	C1284946#C0230318_3	estructura_corporal_3	99-106	381_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	que	que	PR0CN000	-	-	107-110	381_QUEST_clinical_caseMIR	SENT1	-	-
+22	no	no	RN	C1298908	calificador	111-113	381_QUEST_clinical_caseMIR	SENT1	-	-
+23	produce	producir	VMIP3S0	-	-	114-121	381_QUEST_clinical_caseMIR	SENT1	-	-
+24	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	122-129	381_QUEST_clinical_caseMIR	SENT1	-	-
+25	sintomatología	sintomatología	NCFS000	-	-	130-144	381_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	144-145	381_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	146-147	381_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	148-150	381_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	151-162	381_QUEST_clinical_caseMIR	SENT2	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	163-170	381_QUEST_clinical_caseMIR	SENT2	-	-
+5	sugiere	sugerir	VMIP3S0	-	-	171-178	381_QUEST_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	179-182	381_QUEST_clinical_caseMIR	SENT2	-	-
+7	hernia	herniar	VMM02S0	C0019294#C0401063_1	trastorno_1	183-189	381_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	inguinal	inguinal	NC00SC0	C0019294#C0401063_2	trastorno_2	190-198	381_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	Todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	199-204	381_QUEST_clinical_caseMIR	SENT2	-	-
+10	las	el	DA0FP0	-	-	205-208	381_QUEST_clinical_caseMIR	SENT2	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	209-219	381_QUEST_clinical_caseMIR	SENT2	-	-
+12	afirmaciones	afirmación	NCFP000	-	-	220-232	381_QUEST_clinical_caseMIR	SENT2	-	-
+13	son	ser	VSIP3P0	-	-	233-236	381_QUEST_clinical_caseMIR	SENT2	-	-
+14	correctas	correcto	AQ0FP0	C0205170	calificador	237-246	381_QUEST_clinical_caseMIR	SENT2	-	-
+15	EXCEPTO	excepto	SPS00	-	-	247-254	381_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	254-255	381_QUEST_clinical_caseMIR	SENT2	-	-
 

@@ -1,20 +1,7 @@
-1	¿	¿	Fia	-	-	177-178	600_ANS_clinical_caseMIR	SENT1	-	-
-2	En	en	SPS00	C1720294#C0332285	calificador#atributo	178-180	600_ANS_clinical_caseMIR	SENT1	-	-
-3	qué	qué	DT0CN0	-	-	181-184	600_ANS_clinical_caseMIR	SENT1	-	-
-4	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	185-191	600_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-5	tumoral	tumoral	AQ0CS0	-	-	192-199	600_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-6	habrá	haber	VMIF3S0	-	-	200-205	600_ANS_clinical_caseMIR	SENT1	-	-
-7	que	que	CS	-	-	206-209	600_ANS_clinical_caseMIR	SENT1	-	-
-8	pensar	pensar	VMN0000	-	-	210-216	600_ANS_clinical_caseMIR	SENT1	-	-
-9	como	como	CS	C0332257	calificador	217-221	600_ANS_clinical_caseMIR	SENT1	-	-
-10	más	más	RG	C0205172	calificador	222-225	600_ANS_clinical_caseMIR	SENT1	-	-
-11	probable	probable	AQ0CS0	C0332148	calificador	226-234	600_ANS_clinical_caseMIR	SENT1	-	-
-12	?	?	Fit	-	-	234-235	600_ANS_clinical_caseMIR	SENT1	-	-
-13	:	:	Fd	-	-	235-236	600_ANS_clinical_caseMIR	SENT1	-	-
-14	Bajar	bajar	VMN0000	-	-	0-5	600_ANS_clinical_caseMIR	SENT1	-	-
-15	de	de	SPS00	C0332285	atributo	6-8	600_ANS_clinical_caseMIR	SENT1	-	-
-16	peso	peso	NCMS000	C0043100	calificador	9-13	600_ANS_clinical_caseMIR	SENT1	-	-
-17	.	.	Fp	-	-	13-14	600_ANS_clinical_caseMIR	SENT1	-	-
+1	Bajar	bajar	VMN0000	-	-	0-5	600_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	600_ANS_clinical_caseMIR	SENT1	-	-
+3	peso	peso	NCMS000	C0043100	calificador	9-13	600_ANS_clinical_caseMIR	SENT1	-	-
+4	.	.	Fp	-	-	13-14	600_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Ingesta	ingesta	NCFS000	C0429791_1	entidad_observable_1	0-7	600_ANS_clinical_caseMIR	SENT2	-	-
 2	de	de	SPS00	C0429791_2	entidad_observable_2	8-10	600_ANS_clinical_caseMIR	SENT2	-	-

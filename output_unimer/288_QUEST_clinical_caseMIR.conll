@@ -199,7 +199,7 @@
 2	gasometría	gasometría	NCFS000	-	-	1015-1025	288_QUEST_clinical_caseMIR	SENT6	-	-
 3	arterial	arterial	AQ0CS0	C0221464	calificador	1026-1034	288_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 4	muestra	muestra	NCFS000	C0370003	espécimen	1035-1042	288_QUEST_clinical_caseMIR	SENT6	-	-
-5	:	:	Fd	-	-	1042-1043	288_QUEST_clinical_caseMIR	SENT6	-	-
+5	.	.	Fp	-	-	1042-1043	288_QUEST_clinical_caseMIR	SENT6	-	-
 6	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	1044-1046	288_QUEST_clinical_caseMIR	SENT6	-	-
 7	7,29	7,29		-	-	1047-1051	288_QUEST_clinical_caseMIR	SENT6	-	-
 8	,	,	Fc	-	-	1051-1052	288_QUEST_clinical_caseMIR	SENT6	-	-
@@ -232,18 +232,17 @@
 12	pleural	pleural	NC00SC0	C0032227_2	trastorno_2	1160-1167	288_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
 13	.	.	Fp	-	-	1167-1168	288_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	¿	¿	Fia	-	-	1169-1170	288_QUEST_clinical_caseMIR	SENT8	-	-
-2	Cuál	cuál	PT0CS000	-	-	1170-1174	288_QUEST_clinical_caseMIR	SENT8	-	-
-3	de	de	SPS00	C0332285	atributo	1175-1177	288_QUEST_clinical_caseMIR	SENT8	-	-
-4	las	el	DA0FP0	-	-	1178-1181	288_QUEST_clinical_caseMIR	SENT8	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	1182-1192	288_QUEST_clinical_caseMIR	SENT8	-	-
-6	opciones	opción	NCFP000	-	-	1193-1201	288_QUEST_clinical_caseMIR	SENT8	-	-
-7	de	de	SPS00	C0332285	atributo	1202-1204	288_QUEST_clinical_caseMIR	SENT8	-	-
-8	manejo	manejo	NCMS000	C1273870	procedimiento	1205-1211	288_QUEST_clinical_caseMIR	SENT8	-	-
-9	clínico	clínico	AQ0MS0	C0205210	calificador	1212-1219	288_QUEST_clinical_caseMIR	SENT8	-	-
-10	instauraría	instaurar	VMIC3S0	-	-	1220-1231	288_QUEST_clinical_caseMIR	SENT8	-	-
-11	en	en	SPS00	C1279901_1	calificador_1	1232-1234	288_QUEST_clinical_caseMIR	SENT8	-	-
-12	primer	1	AO0MS0	C1279901_2	calificador_2	1235-1241	288_QUEST_clinical_caseMIR	SENT8	-	-
-13	lugar	lugar	NCMS000	C1279901_3	calificador_3	1242-1247	288_QUEST_clinical_caseMIR	SENT8	-	-
-14	?	?	Fit	-	-	1247-1248	288_QUEST_clinical_caseMIR	SENT8	-	-
+1	Cuál	cuál	PT0CS000	-	-	1169-1173	288_QUEST_clinical_caseMIR	SENT8	-	-
+2	de	de	SPS00	C0332285	atributo	1174-1176	288_QUEST_clinical_caseMIR	SENT8	-	-
+3	las	el	DA0FP0	-	-	1177-1180	288_QUEST_clinical_caseMIR	SENT8	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	1181-1191	288_QUEST_clinical_caseMIR	SENT8	-	-
+5	opciones	opción	NCFP000	-	-	1192-1200	288_QUEST_clinical_caseMIR	SENT8	-	-
+6	de	de	SPS00	C0332285	atributo	1201-1203	288_QUEST_clinical_caseMIR	SENT8	-	-
+7	manejo	manejo	NCMS000	C1273870	procedimiento	1204-1210	288_QUEST_clinical_caseMIR	SENT8	-	-
+8	clínico	clínico	AQ0MS0	C0205210	calificador	1211-1218	288_QUEST_clinical_caseMIR	SENT8	-	-
+9	instauraría	instaurar	VMIC3S0	-	-	1219-1230	288_QUEST_clinical_caseMIR	SENT8	-	-
+10	en	en	SPS00	C1279901_1	calificador_1	1231-1233	288_QUEST_clinical_caseMIR	SENT8	-	-
+11	primer	1	AO0MS0	C1279901_2	calificador_2	1234-1240	288_QUEST_clinical_caseMIR	SENT8	-	-
+12	lugar	lugar	NCMS000	C1279901_3	calificador_3	1241-1246	288_QUEST_clinical_caseMIR	SENT8	-	-
+13	.	.	Fp	-	-	1246-1247	288_QUEST_clinical_caseMIR	SENT8	-	-
 

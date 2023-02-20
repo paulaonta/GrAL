@@ -1,51 +1,23 @@
-1	Un	Un		C0205447_1	calificador_1	0-2	790_QUEST_clinical_caseMIR	SENT1	-	-
-2	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	3-8	790_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	9-11	790_QUEST_clinical_caseMIR	SENT1	-	-
-4	52	52		-	-	12-14	790_QUEST_clinical_caseMIR	SENT1	-	-
-5	años	año	NCMP000	C0439234	calificador	15-19	790_QUEST_clinical_caseMIR	SENT1	-	-
-6	presenta	presentar	VMIP3S0	-	-	20-28	790_QUEST_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	29-31	790_QUEST_clinical_caseMIR	SENT1	-	-
-8	forma	forma	NCFS000	C0348078	atributo	32-37	790_QUEST_clinical_caseMIR	SENT1	-	-
-9	aguda	agudo	AQ0FS0	C0205178	calificador	38-43	790_QUEST_clinical_caseMIR	SENT1	-	-
-10	un	un		C0205447_1	calificador_1	44-46	790_QUEST_clinical_caseMIR	SENT1	-	-
-11	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	47-55	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	confusional	confusional		-	-	56-67	790_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-13	,	,	Fc	-	-	67-68	790_QUEST_clinical_caseMIR	SENT1	-	-
-14	paresia	paresia	NCFS000	C0151786	hallazgo	69-76	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-15	de	de	SPS00	C0332285	atributo	77-79	790_QUEST_clinical_caseMIR	SENT1	-	-
-16	ambos	ambos	DI0MP0	C0238767	calificador	80-85	790_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-17	músculos	músculo	NCMP000	C1305763	estructura_corporal	86-94	790_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-18	rectos	recto	AQ0MP0	C1278926#C0445291#C0034896	estructura_corporal#calificador	95-101	790_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-19	externos	externo	NCMP000	C0205101	calificador	102-110	790_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-20	oculares	ocular	AQ0CP0	-	-	111-119	790_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-21	y	y	CC	C1706368	calificador	120-121	790_QUEST_clinical_caseMIR	SENT1	-	-
-22	ataxia	ataxia	NCFS000	C0004134	hallazgo	122-128	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-23	de	de	SPS00	C0332285	atributo	129-131	790_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-24	la	lo	PP3FSA00	-	-	132-134	790_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-25	marcha	marchar	VMM02S0	-	-	135-141	790_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-26	pensaría	pensar	VMIC3S0	-	-	142-150	790_QUEST_clinical_caseMIR	SENT1	-	-
-27	en	en	SPS00	C1720294#C0332285	calificador#atributo	151-153	790_QUEST_clinical_caseMIR	SENT1	-	-
-28	:	:	Fd	-	-	153-154	790_QUEST_clinical_caseMIR	SENT1	-	-
-29	A	a	SPS00	-	-	0-1	790_QUEST_clinical_caseMIR	SENT1	-	-
-30	un	un		C0205447_1	calificador_1	2-4	790_QUEST_clinical_caseMIR	SENT1	-	-
-31	paciente	paciente	NCCS000	C0030705	persona	5-13	790_QUEST_clinical_caseMIR	SENT1	-	-
-32	ingresado	ingresar	VMP00SM	-	-	14-23	790_QUEST_clinical_caseMIR	SENT1	-	-
-33	por	por	SPS00	C0678226	atributo	24-27	790_QUEST_clinical_caseMIR	SENT1	-	-
-34	una	una		C0205447_1	calificador_1	28-31	790_QUEST_clinical_caseMIR	SENT1	-	-
-35	micosis	micosis	NCFN000	C0343954#C0553576#C0085082_1	trastorno_1	32-39	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-36	sistémica	sistémico	AQ0FS0	C0343954#C0553576#C0085082_2	trastorno_2	40-49	790_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-37	oportunista	oportunista	AQ0CS0	-	-	50-61	790_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-38	se	se	P00CN000	-	-	62-64	790_QUEST_clinical_caseMIR	SENT1	-	-
-39	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	65-67	790_QUEST_clinical_caseMIR	SENT1	-	-
-40	prescribe	prescribir	VMIP3S0	-	-	68-77	790_QUEST_clinical_caseMIR	SENT1	-	-
-41	un	un		C0205447_1	calificador_1	78-80	790_QUEST_clinical_caseMIR	SENT1	-	-
-42	fármaco	fármaco	NCMS000	C0013227	sustancia	81-88	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-43	antifúngico	antifúngico	NCMS000	C0003308	sustancia	89-100	790_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-44	de	de	SPS00	C0332285	atributo	101-103	790_QUEST_clinical_caseMIR	SENT1	-	-
-45	índice	índice	NCMS000	-	-	104-110	790_QUEST_clinical_caseMIR	SENT1	-	-
-46	terapéutico	terapéutico	AQ0MS0	-	-	111-122	790_QUEST_clinical_caseMIR	SENT1	-	-
-47	estrecho	estrecho	AQ0MS0	-	-	123-131	790_QUEST_clinical_caseMIR	SENT1	-	-
-48	.	.	Fp	-	-	131-132	790_QUEST_clinical_caseMIR	SENT1	-	-
+1	A	a	SPS00	-	-	0-1	790_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	2-4	790_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	5-13	790_QUEST_clinical_caseMIR	SENT1	-	-
+4	ingresado	ingresar	VMP00SM	-	-	14-23	790_QUEST_clinical_caseMIR	SENT1	-	-
+5	por	por	SPS00	C0678226	atributo	24-27	790_QUEST_clinical_caseMIR	SENT1	-	-
+6	una	una		C0205447_1	calificador_1	28-31	790_QUEST_clinical_caseMIR	SENT1	-	-
+7	micosis	micosis	NCFN000	C0343954#C0553576#C0085082_1	trastorno_1	32-39	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	sistémica	sistémico	AQ0FS0	C0343954#C0553576#C0085082_2	trastorno_2	40-49	790_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	oportunista	oportunista	AQ0CS0	-	-	50-61	790_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	se	se	P00CN000	-	-	62-64	790_QUEST_clinical_caseMIR	SENT1	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	65-67	790_QUEST_clinical_caseMIR	SENT1	-	-
+12	prescribe	prescribir	VMIP3S0	-	-	68-77	790_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	78-80	790_QUEST_clinical_caseMIR	SENT1	-	-
+14	fármaco	fármaco	NCMS000	C0013227	sustancia	81-88	790_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	antifúngico	antifúngico	NCMS000	C0003308	sustancia	89-100	790_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+16	de	de	SPS00	C0332285	atributo	101-103	790_QUEST_clinical_caseMIR	SENT1	-	-
+17	índice	índice	NCMS000	-	-	104-110	790_QUEST_clinical_caseMIR	SENT1	-	-
+18	terapéutico	terapéutico	AQ0MS0	-	-	111-122	790_QUEST_clinical_caseMIR	SENT1	-	-
+19	estrecho	estrecho	AQ0MS0	-	-	123-131	790_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	131-132	790_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	133-135	790_QUEST_clinical_caseMIR	SENT2	-	-
 2	forma	forma	NCFS000	C0348078	atributo	136-141	790_QUEST_clinical_caseMIR	SENT2	-	-
@@ -83,4 +55,29 @@
 17	/	/	Fh	-	-	301-302	790_QUEST_clinical_caseMIR	SENT3	-	-
 18	min	minuto	NCMN000	C0439232	calificador	302-305	790_QUEST_clinical_caseMIR	SENT3	-	-
 19	.	.	Fp	-	-	305-306	790_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Si	si	CS	-	-	307-309	790_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	310-312	790_QUEST_clinical_caseMIR	SENT4	-	-
+3	pauta	pauta	NCFS000	-	-	313-318	790_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	319-321	790_QUEST_clinical_caseMIR	SENT4	-	-
+5	dosificación	dosificación	NCFS000	-	-	322-334	790_QUEST_clinical_caseMIR	SENT4	-	-
+6	habitual	habitual	AQ0CS0	C0205353	calificador	335-343	790_QUEST_clinical_caseMIR	SENT4	-	-
+7	del	del	SP+DA	-	-	344-347	790_QUEST_clinical_caseMIR	SENT4	-	-
+8	antifúngico	antifúngico	NCMS000	C0003308	sustancia	348-359	790_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+9	es	ser	VSIP3S0	-	-	360-362	790_QUEST_clinical_caseMIR	SENT4	-	-
+10	de	de	SPS00	C0332285	atributo	363-365	790_QUEST_clinical_caseMIR	SENT4	-	-
+11	40	40		-	-	366-368	790_QUEST_clinical_caseMIR	SENT4	-	-
+12	mg/kg/10	mg/kg/10	Z	-	-	369-377	790_QUEST_clinical_caseMIR	SENT4	-	-
+13	h	h	NCMN000	C0439227	calificador	378-379	790_QUEST_clinical_caseMIR	SENT4	-	-
+14	,	,	Fc	-	-	379-380	790_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	381-382	790_QUEST_clinical_caseMIR	SENT4	-	-
+16	cuál	cuál	PT0CS000	-	-	383-387	790_QUEST_clinical_caseMIR	SENT4	-	-
+17	de	de	SPS00	C0332285	atributo	388-390	790_QUEST_clinical_caseMIR	SENT4	-	-
+18	las	el	DA0FP0	-	-	391-394	790_QUEST_clinical_caseMIR	SENT4	-	-
+19	siguientes	siguiente	AQ0CP0	C0332282	atributo	395-405	790_QUEST_clinical_caseMIR	SENT4	-	-
+20	pautas	pauta	NCFP000	-	-	406-412	790_QUEST_clinical_caseMIR	SENT4	-	-
+21	es	ser	VSIP3S0	-	-	413-415	790_QUEST_clinical_caseMIR	SENT4	-	-
+22	más	más	RG	C0205172	calificador	416-419	790_QUEST_clinical_caseMIR	SENT4	-	-
+23	adecuada	adecuar	VMP00SF	-	-	420-428	790_QUEST_clinical_caseMIR	SENT4	-	-
+24	.	.	Fp	-	-	428-429	790_QUEST_clinical_caseMIR	SENT4	-	-
 

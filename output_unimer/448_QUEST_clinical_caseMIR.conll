@@ -1,33 +1,27 @@
-1	El	el	DA0MS0	-	-	382-384	448_QUEST_clinical_caseMIR	SENT1	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	385-396	448_QUEST_clinical_caseMIR	SENT1	-	-
-3	más	más	RG	C0205172	calificador	397-400	448_QUEST_clinical_caseMIR	SENT1	-	-
-4	probable	probable	AQ0CS0	C0332148	calificador	401-409	448_QUEST_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	410-412	448_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	412-413	448_QUEST_clinical_caseMIR	SENT1	-	-
-7	Un	Un		C0205447_1	calificador_1	0-2	448_QUEST_clinical_caseMIR	SENT1	-	-
-8	joven	joven	NCCS000	C0332239	calificador	3-8	448_QUEST_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0332285	atributo	9-11	448_QUEST_clinical_caseMIR	SENT1	-	-
-10	23	23		-	-	12-14	448_QUEST_clinical_caseMIR	SENT1	-	-
-11	años	año	NCMP000	C0439234	calificador	15-19	448_QUEST_clinical_caseMIR	SENT1	-	-
-12	,	,	Fc	-	-	19-20	448_QUEST_clinical_caseMIR	SENT1	-	-
-13	presenta	presentar	VMIP3S0	-	-	21-29	448_QUEST_clinical_caseMIR	SENT1	-	-
-14	de	de	SPS00	C0332285	atributo	30-32	448_QUEST_clinical_caseMIR	SENT1	-	-
-15	forma	forma	NCFS000	C0348078	atributo	33-38	448_QUEST_clinical_caseMIR	SENT1	-	-
-16	brusca	brusco	AQ0FS0	C0443162	calificador	39-45	448_QUEST_clinical_caseMIR	SENT1	-	-
-17	un	un		C0205447_1	calificador_1	46-48	448_QUEST_clinical_caseMIR	SENT1	-	-
-18	dolor	dolor	NCMS000	C0235048#C0278145#C0423603_1	hallazgo_1	49-54	448_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-19	punzante	punzante	AQ0CS0	C0235048#C0278145#C0423603_2	hallazgo_2	55-63	448_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-20	en	en	SPS00	C1720294#C0332285	calificador#atributo	64-66	448_QUEST_clinical_caseMIR	SENT1	-	-
-21	el	el	DA0MS0	-	-	67-69	448_QUEST_clinical_caseMIR	SENT1	-	-
-22	hemitórax	hemitórax		C0230128_1	estructura_corporal_1	70-79	448_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-23	izquierdo	izquierdo	NC00SC0	C0230128_2	estructura_corporal_2	80-89	448_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-24	que	que	PR0CN000	-	-	90-93	448_QUEST_clinical_caseMIR	SENT1	-	-
-25	se	se	P00CN000	-	-	94-96	448_QUEST_clinical_caseMIR	SENT1	-	-
-26	acompaña	acompañar	VMIP3S0	-	-	97-105	448_QUEST_clinical_caseMIR	SENT1	-	-
-27	de	de	SPS00	C0332285	atributo	106-108	448_QUEST_clinical_caseMIR	SENT1	-	-
-28	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	109-115	448_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-29	progresiva	progresivo	AQ0FS0	C0205329	calificador	116-126	448_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-30	.	.	Fp	-	-	126-127	448_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	448_QUEST_clinical_caseMIR	SENT1	-	-
+2	joven	joven	NCCS000	C0332239	calificador	3-8	448_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	448_QUEST_clinical_caseMIR	SENT1	-	-
+4	23	23		-	-	12-14	448_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	448_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	19-20	448_QUEST_clinical_caseMIR	SENT1	-	-
+7	presenta	presentar	VMIP3S0	-	-	21-29	448_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	30-32	448_QUEST_clinical_caseMIR	SENT1	-	-
+9	forma	forma	NCFS000	C0348078	atributo	33-38	448_QUEST_clinical_caseMIR	SENT1	-	-
+10	brusca	brusco	AQ0FS0	C0443162	calificador	39-45	448_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	46-48	448_QUEST_clinical_caseMIR	SENT1	-	-
+12	dolor	dolor	NCMS000	C0235048#C0278145#C0423603_1	hallazgo_1	49-54	448_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	punzante	punzante	AQ0CS0	C0235048#C0278145#C0423603_2	hallazgo_2	55-63	448_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	64-66	448_QUEST_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	67-69	448_QUEST_clinical_caseMIR	SENT1	-	-
+16	hemitórax	hemitórax		C0230128_1	estructura_corporal_1	70-79	448_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	izquierdo	izquierdo	NC00SC0	C0230128_2	estructura_corporal_2	80-89	448_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	que	que	PR0CN000	-	-	90-93	448_QUEST_clinical_caseMIR	SENT1	-	-
+19	se	se	P00CN000	-	-	94-96	448_QUEST_clinical_caseMIR	SENT1	-	-
+20	acompaña	acompañar	VMIP3S0	-	-	97-105	448_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	106-108	448_QUEST_clinical_caseMIR	SENT1	-	-
+22	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	109-115	448_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	progresiva	progresivo	AQ0FS0	C0205329	calificador	116-126	448_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	.	.	Fp	-	-	126-127	448_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Decide	decidir	VMIP3S0	-	-	128-134	448_QUEST_clinical_caseMIR	SENT2	-	-
 2	acudir	acudir	VMN0000	-	-	135-141	448_QUEST_clinical_caseMIR	SENT2	-	-
@@ -91,11 +85,10 @@
 10	torácico	torácico	NC00SC0	C0008034_2	objeto_físico_2	438-446	448_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 11	.	.	Fp	-	-	446-447	448_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	448-449	448_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	449-453	448_QUEST_clinical_caseMIR	SENT6	-	-
-3	es	ser	VSIP3S0	-	-	454-456	448_QUEST_clinical_caseMIR	SENT6	-	-
-4	la	el	DA0FS0	-	-	457-459	448_QUEST_clinical_caseMIR	SENT6	-	-
-5	actitud	actitud	NCFS000	C0004271	entidad_observable	460-467	448_QUEST_clinical_caseMIR	SENT6	-	-
-6	correcta	correcto	AQ0FS0	C0205170	calificador	468-476	448_QUEST_clinical_caseMIR	SENT6	-	-
-7	?	?	Fit	-	-	476-477	448_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	448-452	448_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	453-455	448_QUEST_clinical_caseMIR	SENT6	-	-
+3	la	el	DA0FS0	-	-	456-458	448_QUEST_clinical_caseMIR	SENT6	-	-
+4	actitud	actitud	NCFS000	C0004271	entidad_observable	459-466	448_QUEST_clinical_caseMIR	SENT6	-	-
+5	correcta	correcto	AQ0FS0	C0205170	calificador	467-475	448_QUEST_clinical_caseMIR	SENT6	-	-
+6	.	.	Fp	-	-	475-476	448_QUEST_clinical_caseMIR	SENT6	-	-
 

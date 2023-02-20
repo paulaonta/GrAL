@@ -114,20 +114,19 @@
 9	entero	entero	NCMS000	C1317935_2	calificador_2	561-567	488_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
 10	.	.	Fp	-	-	567-568	488_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	¿	¿	Fia	-	-	569-570	488_QUEST_clinical_caseMIR	SENT7	-	-
-2	Cuál	cuál	PT0CS000	-	-	570-574	488_QUEST_clinical_caseMIR	SENT7	-	-
-3	es	ser	VSIP3S0	-	-	575-577	488_QUEST_clinical_caseMIR	SENT7	-	-
-4	el	el	DA0MS0	-	-	578-580	488_QUEST_clinical_caseMIR	SENT7	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	581-592	488_QUEST_clinical_caseMIR	SENT7	-	-
-6	de	de	SPS00	C0332285	atributo	593-595	488_QUEST_clinical_caseMIR	SENT7	-	-
-7	sospecha	sospecha	NCFS000	C0750491	calificador	596-604	488_QUEST_clinical_caseMIR	SENT7	-	-
-8	y	y	CC	C1706368	calificador	605-606	488_QUEST_clinical_caseMIR	SENT7	-	-
-9	la	el	DA0FS0	-	-	607-609	488_QUEST_clinical_caseMIR	SENT7	-	-
-10	prueba	prueba	NCFS000	-	-	610-616	488_QUEST_clinical_caseMIR	SENT7	-	-
-11	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	617-628	488_QUEST_clinical_caseMIR	SENT7	-	-
-12	inicial	inicial	AQ0CS0	C0205265	calificador	629-636	488_QUEST_clinical_caseMIR	SENT7	-	-
-13	para	para	SPS00	C0521125	calificador	637-641	488_QUEST_clinical_caseMIR	SENT7	-	-
-14	su	su	DP3CS0	-	-	642-644	488_QUEST_clinical_caseMIR	SENT7	-	-
-15	confirmación	confirmación	NCFS000	-	-	645-657	488_QUEST_clinical_caseMIR	SENT7	-	-
-16	?	?	Fit	-	-	657-658	488_QUEST_clinical_caseMIR	SENT7	-	-
+1	Cuál	cuál	PT0CS000	-	-	569-573	488_QUEST_clinical_caseMIR	SENT7	-	-
+2	es	ser	VSIP3S0	-	-	574-576	488_QUEST_clinical_caseMIR	SENT7	-	-
+3	el	el	DA0MS0	-	-	577-579	488_QUEST_clinical_caseMIR	SENT7	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	580-591	488_QUEST_clinical_caseMIR	SENT7	-	-
+5	de	de	SPS00	C0332285	atributo	592-594	488_QUEST_clinical_caseMIR	SENT7	-	-
+6	sospecha	sospecha	NCFS000	C0750491	calificador	595-603	488_QUEST_clinical_caseMIR	SENT7	-	-
+7	y	y	CC	C1706368	calificador	604-605	488_QUEST_clinical_caseMIR	SENT7	-	-
+8	la	el	DA0FS0	-	-	606-608	488_QUEST_clinical_caseMIR	SENT7	-	-
+9	prueba	prueba	NCFS000	-	-	609-615	488_QUEST_clinical_caseMIR	SENT7	-	-
+10	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	616-627	488_QUEST_clinical_caseMIR	SENT7	-	-
+11	inicial	inicial	AQ0CS0	C0205265	calificador	628-635	488_QUEST_clinical_caseMIR	SENT7	-	-
+12	para	para	SPS00	C0521125	calificador	636-640	488_QUEST_clinical_caseMIR	SENT7	-	-
+13	su	su	DP3CS0	-	-	641-643	488_QUEST_clinical_caseMIR	SENT7	-	-
+14	confirmación	confirmación	NCFS000	-	-	644-656	488_QUEST_clinical_caseMIR	SENT7	-	-
+15	.	.	Fp	-	-	656-657	488_QUEST_clinical_caseMIR	SENT7	-	-
 

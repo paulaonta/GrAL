@@ -1,66 +1,55 @@
-1	¿	¿	Fia	-	-	234-235	172_QUEST_clinical_caseMIR	SENT1	-	-
-2	Indica	indicar	VMIP3S0	-	-	235-241	172_QUEST_clinical_caseMIR	SENT1	-	-
-3	cuál	cuál	PT0CS000	-	-	242-246	172_QUEST_clinical_caseMIR	SENT1	-	-
-4	de	de	SPS00	C0332285	atributo	247-249	172_QUEST_clinical_caseMIR	SENT1	-	-
-5	las	el	DA0FP0	-	-	250-253	172_QUEST_clinical_caseMIR	SENT1	-	-
-6	siguientes	siguiente	AQ0CP0	C0332282	atributo	254-264	172_QUEST_clinical_caseMIR	SENT1	-	-
-7	respuestas	respuesta	NCFP000	-	-	265-275	172_QUEST_clinical_caseMIR	SENT1	-	-
-8	es	ser	VSIP3S0	-	-	276-278	172_QUEST_clinical_caseMIR	SENT1	-	-
-9	verdadera	verdadero	AQ0FS0	C0205238	calificador	279-288	172_QUEST_clinical_caseMIR	SENT1	-	-
-10	?	?	Fit	-	-	288-289	172_QUEST_clinical_caseMIR	SENT1	-	-
-11	:	:	Fd	-	-	289-290	172_QUEST_clinical_caseMIR	SENT1	-	-
-12	Los	el	DA0MP0	-	-	0-3	172_QUEST_clinical_caseMIR	SENT1	-	-
-13	padres	padre	NCMP000	C0015671	persona	4-10	172_QUEST_clinical_caseMIR	SENT1	-	-
-14	de	de	SPS00	C0332285	atributo	11-13	172_QUEST_clinical_caseMIR	SENT1	-	-
-15	un	un		C0205447_1	calificador_1	14-16	172_QUEST_clinical_caseMIR	SENT1	-	-
-16	lactante	lactante	NCCS000	C0021270	persona	17-25	172_QUEST_clinical_caseMIR	SENT1	-	-
-17	de	de	SPS00	C0332285	atributo	26-28	172_QUEST_clinical_caseMIR	SENT1	-	-
-18	5	5		-	-	29-30	172_QUEST_clinical_caseMIR	SENT1	-	-
-19	meses	mes	NCMP000	C0439231	calificador	31-36	172_QUEST_clinical_caseMIR	SENT1	-	-
-20	acuden	acudir	VMIP3P0	-	-	37-43	172_QUEST_clinical_caseMIR	SENT1	-	-
-21	porque	porque	CS	-	-	44-50	172_QUEST_clinical_caseMIR	SENT1	-	-
-22	su	su	DP3CS0	-	-	51-53	172_QUEST_clinical_caseMIR	SENT1	-	-
-23	hijo	hijo	NCMS000	-	-	54-58	172_QUEST_clinical_caseMIR	SENT1	-	-
-24	,	,	Fc	-	-	58-59	172_QUEST_clinical_caseMIR	SENT1	-	-
-25	que	que	PR0CN000	-	-	60-63	172_QUEST_clinical_caseMIR	SENT1	-	-
-26	asiste	asistir	VMM02S0	C1269765_1	atributo_1	64-70	172_QUEST_clinical_caseMIR	SENT1	-	-
-27	a	a	SPS00	C1269765_2	atributo_2	71-72	172_QUEST_clinical_caseMIR	SENT1	-	-
-28	guardería	guardería	NCFS000	C0562990	medio_ambiente	73-82	172_QUEST_clinical_caseMIR	SENT1	-	-
-29	,	,	Fc	-	-	82-83	172_QUEST_clinical_caseMIR	SENT1	-	-
-30	presenta	presentar	VMIP3S0	-	-	84-92	172_QUEST_clinical_caseMIR	SENT1	-	-
-31	desde	desde	SPS00	-	-	93-98	172_QUEST_clinical_caseMIR	SENT1	-	-
-32	hace	hacer	VMIP3S0	-	-	99-103	172_QUEST_clinical_caseMIR	SENT1	-	-
-33	3	3	Z	-	-	104-105	172_QUEST_clinical_caseMIR	SENT1	-	-
-34	días	d	NCMP000	-	-	106-110	172_QUEST_clinical_caseMIR	SENT1	-	-
-35	,	,	Fc	-	-	110-111	172_QUEST_clinical_caseMIR	SENT1	-	-
-36	coincidiendo	coincidir	VMG0000	-	-	112-124	172_QUEST_clinical_caseMIR	SENT1	-	-
-37	con	con	SPS00	C0332287	atributo	125-128	172_QUEST_clinical_caseMIR	SENT1	-	-
-38	una	una		C0205447_1	calificador_1	129-132	172_QUEST_clinical_caseMIR	SENT1	-	-
-39	infección	infección	NCFS000	C0009450	trastorno	133-142	172_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-40	respiratoria	respiratorio	AQ0FS0	-	-	143-155	172_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-41	de	de	SPS00	C0332285	atributo	156-158	172_QUEST_clinical_caseMIR	SENT1	-	-
-42	vías	vía	NCFP000	C0449444	atributo	159-163	172_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-43	altas	alto	AQ0FP0	C0205250	calificador	164-169	172_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-44	,	,	Fc	-	-	169-170	172_QUEST_clinical_caseMIR	SENT1	-	-
-45	heces	hez	NCFP000	C0232708_1	hallazgo_1	171-176	172_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-46	líquidas	líquido	NCFP000	C0232708_2	hallazgo_2	177-185	172_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-47	en	en	SPS00	C1720294#C0332285	calificador#atributo	186-188	172_QUEST_clinical_caseMIR	SENT1	-	-
-48	número	número	NCMS000	C0237753#C1265611	calificador#atributo	189-195	172_QUEST_clinical_caseMIR	SENT1	-	-
-49	de	de	SPS00	C0332285	atributo	196-198	172_QUEST_clinical_caseMIR	SENT1	-	-
-50	4	4		-	-	199-200	172_QUEST_clinical_caseMIR	SENT1	-	-
-51	al	al	SP+DA	-	-	201-203	172_QUEST_clinical_caseMIR	SENT1	-	-
-52	día	día	NCMS000	C0439228#C0332169	calificador	204-207	172_QUEST_clinical_caseMIR	SENT1	-	-
-53	,	,	Fc	-	-	207-208	172_QUEST_clinical_caseMIR	SENT1	-	-
-54	algún	alguno	DI0MS0	C0205392	calificador	209-214	172_QUEST_clinical_caseMIR	SENT1	-	-
-55	vómito	vómito	NCMS000	C0577085_1	hallazgo_1	215-221	172_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-56	alimentario	alimentario	AQ0MS0	C0577085_2	hallazgo_2	222-233	172_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-57	ocasional	ocasional	AQ0CS0	C0521114	calificador	234-243	172_QUEST_clinical_caseMIR	SENT1	-	-
-58	y	y	CC	C1706368	calificador	244-245	172_QUEST_clinical_caseMIR	SENT1	-	-
-59	temperatura	temperatura	NCFS000	C1531924_1	entidad_observable_1	246-257	172_QUEST_clinical_caseMIR	SENT1	-	-
-60	axilar	axilar	NC00SC0	C1531924_2	entidad_observable_2	258-264	172_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-61	de	de	SPS00	C0332285	atributo	265-267	172_QUEST_clinical_caseMIR	SENT1	-	-
-62	38.3°C	38.3°C		-	-	268-274	172_QUEST_clinical_caseMIR	SENT1	-	-
-63	.	.	Fp	-	-	274-275	172_QUEST_clinical_caseMIR	SENT1	-	-
+1	Los	el	DA0MP0	-	-	0-3	172_QUEST_clinical_caseMIR	SENT1	-	-
+2	padres	padre	NCMP000	C0015671	persona	4-10	172_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	11-13	172_QUEST_clinical_caseMIR	SENT1	-	-
+4	un	un		C0205447_1	calificador_1	14-16	172_QUEST_clinical_caseMIR	SENT1	-	-
+5	lactante	lactante	NCCS000	C0021270	persona	17-25	172_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	172_QUEST_clinical_caseMIR	SENT1	-	-
+7	5	5		-	-	29-30	172_QUEST_clinical_caseMIR	SENT1	-	-
+8	meses	mes	NCMP000	C0439231	calificador	31-36	172_QUEST_clinical_caseMIR	SENT1	-	-
+9	acuden	acudir	VMIP3P0	-	-	37-43	172_QUEST_clinical_caseMIR	SENT1	-	-
+10	porque	porque	CS	-	-	44-50	172_QUEST_clinical_caseMIR	SENT1	-	-
+11	su	su	DP3CS0	-	-	51-53	172_QUEST_clinical_caseMIR	SENT1	-	-
+12	hijo	hijo	NCMS000	-	-	54-58	172_QUEST_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	58-59	172_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	60-63	172_QUEST_clinical_caseMIR	SENT1	-	-
+15	asiste	asistir	VMM02S0	C1269765_1	atributo_1	64-70	172_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	C1269765_2	atributo_2	71-72	172_QUEST_clinical_caseMIR	SENT1	-	-
+17	guardería	guardería	NCFS000	C0562990	medio_ambiente	73-82	172_QUEST_clinical_caseMIR	SENT1	-	-
+18	,	,	Fc	-	-	82-83	172_QUEST_clinical_caseMIR	SENT1	-	-
+19	presenta	presentar	VMIP3S0	-	-	84-92	172_QUEST_clinical_caseMIR	SENT1	-	-
+20	desde	desde	SPS00	-	-	93-98	172_QUEST_clinical_caseMIR	SENT1	-	-
+21	hace	hacer	VMIP3S0	-	-	99-103	172_QUEST_clinical_caseMIR	SENT1	-	-
+22	3	3	Z	-	-	104-105	172_QUEST_clinical_caseMIR	SENT1	-	-
+23	días	d	NCMP000	-	-	106-110	172_QUEST_clinical_caseMIR	SENT1	-	-
+24	,	,	Fc	-	-	110-111	172_QUEST_clinical_caseMIR	SENT1	-	-
+25	coincidiendo	coincidir	VMG0000	-	-	112-124	172_QUEST_clinical_caseMIR	SENT1	-	-
+26	con	con	SPS00	C0332287	atributo	125-128	172_QUEST_clinical_caseMIR	SENT1	-	-
+27	una	una		C0205447_1	calificador_1	129-132	172_QUEST_clinical_caseMIR	SENT1	-	-
+28	infección	infección	NCFS000	C0009450	trastorno	133-142	172_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	respiratoria	respiratorio	AQ0FS0	-	-	143-155	172_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	de	de	SPS00	C0332285	atributo	156-158	172_QUEST_clinical_caseMIR	SENT1	-	-
+31	vías	vía	NCFP000	C0449444	atributo	159-163	172_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	altas	alto	AQ0FP0	C0205250	calificador	164-169	172_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+33	,	,	Fc	-	-	169-170	172_QUEST_clinical_caseMIR	SENT1	-	-
+34	heces	hez	NCFP000	C0232708_1	hallazgo_1	171-176	172_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	líquidas	líquido	NCFP000	C0232708_2	hallazgo_2	177-185	172_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+36	en	en	SPS00	C1720294#C0332285	calificador#atributo	186-188	172_QUEST_clinical_caseMIR	SENT1	-	-
+37	número	número	NCMS000	C0237753#C1265611	calificador#atributo	189-195	172_QUEST_clinical_caseMIR	SENT1	-	-
+38	de	de	SPS00	C0332285	atributo	196-198	172_QUEST_clinical_caseMIR	SENT1	-	-
+39	4	4		-	-	199-200	172_QUEST_clinical_caseMIR	SENT1	-	-
+40	al	al	SP+DA	-	-	201-203	172_QUEST_clinical_caseMIR	SENT1	-	-
+41	día	día	NCMS000	C0439228#C0332169	calificador	204-207	172_QUEST_clinical_caseMIR	SENT1	-	-
+42	,	,	Fc	-	-	207-208	172_QUEST_clinical_caseMIR	SENT1	-	-
+43	algún	alguno	DI0MS0	C0205392	calificador	209-214	172_QUEST_clinical_caseMIR	SENT1	-	-
+44	vómito	vómito	NCMS000	C0577085_1	hallazgo_1	215-221	172_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+45	alimentario	alimentario	AQ0MS0	C0577085_2	hallazgo_2	222-233	172_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+46	ocasional	ocasional	AQ0CS0	C0521114	calificador	234-243	172_QUEST_clinical_caseMIR	SENT1	-	-
+47	y	y	CC	C1706368	calificador	244-245	172_QUEST_clinical_caseMIR	SENT1	-	-
+48	temperatura	temperatura	NCFS000	C1531924_1	entidad_observable_1	246-257	172_QUEST_clinical_caseMIR	SENT1	-	-
+49	axilar	axilar	NC00SC0	C1531924_2	entidad_observable_2	258-264	172_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+50	de	de	SPS00	C0332285	atributo	265-267	172_QUEST_clinical_caseMIR	SENT1	-	-
+51	38.3°C	38.3°C		-	-	268-274	172_QUEST_clinical_caseMIR	SENT1	-	-
+52	.	.	Fp	-	-	274-275	172_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Es	ser	VSIP3S0	-	-	276-278	172_QUEST_clinical_caseMIR	SENT2	-	-
 2	alimentado	alimentar	VMP00SM	-	-	279-289	172_QUEST_clinical_caseMIR	SENT2	-	-
@@ -148,4 +137,17 @@
 17	es	ser	VSIP3S0	-	-	684-686	172_QUEST_clinical_caseMIR	SENT5	-	-
 18	normal	normal	AQ0CS0	C0205307	calificador	687-693	172_QUEST_clinical_caseMIR	SENT5	-	-
 19	.	.	Fp	-	-	693-694	172_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	De	de	SPS00	C0332285	atributo	695-697	172_QUEST_clinical_caseMIR	SENT6	-	-
+2	las	el	DA0FP0	-	-	698-701	172_QUEST_clinical_caseMIR	SENT6	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	702-712	172_QUEST_clinical_caseMIR	SENT6	-	-
+4	afirmaciones	afirmación	NCFP000	-	-	713-725	172_QUEST_clinical_caseMIR	SENT6	-	-
+5	,	,	Fc	-	-	725-726	172_QUEST_clinical_caseMIR	SENT6	-	-
+6	señale	señalar	VMSP3S0	-	-	727-733	172_QUEST_clinical_caseMIR	SENT6	-	-
+7	la	el	DA0FS0	-	-	734-736	172_QUEST_clinical_caseMIR	SENT6	-	-
+8	respuesta	respuesta	NCFS000	-	-	737-746	172_QUEST_clinical_caseMIR	SENT6	-	-
+9	que	que	PR0CN000	-	-	747-750	172_QUEST_clinical_caseMIR	SENT6	-	-
+10	considera	considerar	VMIP3S0	-	-	751-760	172_QUEST_clinical_caseMIR	SENT6	-	-
+11	CORRECTA	correcto	AQ0FS0	C0205170	calificador	761-769	172_QUEST_clinical_caseMIR	SENT6	-	-
+12	.	.	Fp	-	-	769-770	172_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -1,22 +1,16 @@
-1	El	el	DA0MS0	-	-	474-476	751_QUEST_clinical_caseMIR	SENT1	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	477-488	751_QUEST_clinical_caseMIR	SENT1	-	-
-3	más	más	RG	C0205172	calificador	489-492	751_QUEST_clinical_caseMIR	SENT1	-	-
-4	probable	probable	AQ0CS0	C0332148	calificador	493-501	751_QUEST_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	502-504	751_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	504-505	751_QUEST_clinical_caseMIR	SENT1	-	-
-7	Un	Un		C0205447_1	calificador_1	0-2	751_QUEST_clinical_caseMIR	SENT1	-	-
-8	paciente	paciente	NCCS000	C0030705	persona	3-11	751_QUEST_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0332285	atributo	12-14	751_QUEST_clinical_caseMIR	SENT1	-	-
-10	56	56		-	-	15-17	751_QUEST_clinical_caseMIR	SENT1	-	-
-11	años	año	NCMP000	C0439234	calificador	18-22	751_QUEST_clinical_caseMIR	SENT1	-	-
-12	es	ser	VSIP3S0	-	-	23-25	751_QUEST_clinical_caseMIR	SENT1	-	-
-13	encontrado	encontrar	VMP00SM	C0332285_1	atributo_1	26-36	751_QUEST_clinical_caseMIR	SENT1	-	-
-14	en	en	SPS00	C0332285_2	atributo_2	37-39	751_QUEST_clinical_caseMIR	SENT1	-	-
-15	coma	coma	NCCS000	C0009421	trastorno#hallazgo	40-44	751_QUEST_clinical_caseMIR	SENT1	-	-
-16	en	en	SPS00	C1720294#C0332285	calificador#atributo	45-47	751_QUEST_clinical_caseMIR	SENT1	-	-
-17	su	su	DP3CS0	-	-	48-50	751_QUEST_clinical_caseMIR	SENT1	-	-
-18	domicilio	domicilio	NCMS000	C1442065	entidad_observable	51-60	751_QUEST_clinical_caseMIR	SENT1	-	-
-19	.	.	Fp	-	-	60-61	751_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	751_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	751_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	751_QUEST_clinical_caseMIR	SENT1	-	-
+4	56	56		-	-	15-17	751_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	751_QUEST_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	23-25	751_QUEST_clinical_caseMIR	SENT1	-	-
+7	encontrado	encontrar	VMP00SM	C0332285_1	atributo_1	26-36	751_QUEST_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C0332285_2	atributo_2	37-39	751_QUEST_clinical_caseMIR	SENT1	-	-
+9	coma	coma	NCCS000	C0009421	trastorno#hallazgo	40-44	751_QUEST_clinical_caseMIR	SENT1	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	45-47	751_QUEST_clinical_caseMIR	SENT1	-	-
+11	su	su	DP3CS0	-	-	48-50	751_QUEST_clinical_caseMIR	SENT1	-	-
+12	domicilio	domicilio	NCMS000	C1442065	entidad_observable	51-60	751_QUEST_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	60-61	751_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Tiene	tener	VMIP3S0	-	-	62-67	751_QUEST_clinical_caseMIR	SENT2	-	-
 2	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	68-80	751_QUEST_clinical_caseMIR	SENT2	-	-
@@ -92,4 +86,15 @@
 35	7	7		-	-	444-445	751_QUEST_clinical_caseMIR	SENT6	-	-
 36	rpm	r.p.m.	NCFN000	-	-	446-449	751_QUEST_clinical_caseMIR	SENT6	-	-
 37	.	.	Fp	-	-	449-450	751_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Qué	qué	DE0CN0	-	-	451-454	751_QUEST_clinical_caseMIR	SENT7	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	455-462	751_QUEST_clinical_caseMIR	SENT7	-	-
+3	terapéutica	terapéutico	AQ0FS0	-	-	463-474	751_QUEST_clinical_caseMIR	SENT7	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	475-482	751_QUEST_clinical_caseMIR	SENT7	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	483-485	751_QUEST_clinical_caseMIR	SENT7	-	-
+6	parece	parecer	VMIP3S0	-	-	486-492	751_QUEST_clinical_caseMIR	SENT7	-	-
+7	la	lo	PP3FSA00	C0205393_1	calificador_1	493-495	751_QUEST_clinical_caseMIR	SENT7	-	-
+8	más	más	RG	C0205393_2	calificador_2	496-499	751_QUEST_clinical_caseMIR	SENT7	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	500-508	751_QUEST_clinical_caseMIR	SENT7	-	-
+10	.	.	Fp	-	-	508-509	751_QUEST_clinical_caseMIR	SENT7	-	-
 

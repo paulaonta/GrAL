@@ -1,15 +1,10 @@
-1	Usted	usted	PP2CS00P	-	-	384-389	246_ANS_clinical_caseMIR	SENT1	-	-
-2	pensar	pensar	VMN0000	-	-	390-396	246_ANS_clinical_caseMIR	SENT1	-	-
-3	la	lo	PP3FSA00	-	-	396-398	246_ANS_clinical_caseMIR	SENT1	-	-
-4	en	en	SPS00	C1720294#C0332285	calificador#atributo	399-401	246_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	401-402	246_ANS_clinical_caseMIR	SENT1	-	-
-6	Solicitar	solicitar	VMN0000	-	-	0-9	246_ANS_clinical_caseMIR	SENT1	-	-
-7	DXA	densitometría_ósea	NC00YL0	-	-	10-13	246_ANS_clinical_caseMIR	SENT1	-	-
-8	y	y	CC	C1706368	calificador	14-15	246_ANS_clinical_caseMIR	SENT1	-	-
-9	esperar	esperar	VMN0000	-	-	16-23	246_ANS_clinical_caseMIR	SENT1	-	-
-10	al	al	SP+DA	-	-	24-26	246_ANS_clinical_caseMIR	SENT1	-	-
-11	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	27-36	246_ANS_clinical_caseMIR	SENT1	-	-
-12	.	.	Fp	-	-	36-37	246_ANS_clinical_caseMIR	SENT1	-	-
+1	Solicitar	solicitar	VMN0000	-	-	0-9	246_ANS_clinical_caseMIR	SENT1	-	-
+2	DXA	densitometría_ósea	NC00YL0	-	-	10-13	246_ANS_clinical_caseMIR	SENT1	-	-
+3	y	y	CC	C1706368	calificador	14-15	246_ANS_clinical_caseMIR	SENT1	-	-
+4	esperar	esperar	VMN0000	-	-	16-23	246_ANS_clinical_caseMIR	SENT1	-	-
+5	al	al	SP+DA	-	-	24-26	246_ANS_clinical_caseMIR	SENT1	-	-
+6	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	27-36	246_ANS_clinical_caseMIR	SENT1	-	-
+7	.	.	Fp	-	-	36-37	246_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Valorar	valorar	VMN0000	-	-	0-7	246_ANS_clinical_caseMIR	SENT2	-	-
 2	riesgo	riesgo	NCMS000	-	-	8-14	246_ANS_clinical_caseMIR	SENT2	-	-

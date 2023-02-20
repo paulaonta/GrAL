@@ -1,13 +1,7 @@
-1	El	el	DA0MS0	-	-	280-282	373_ANS_clinical_caseMIR	SENT1	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	283-294	373_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	295-297	373_ANS_clinical_caseMIR	SENT1	-	-
-4	elección	elección	NCFS000	-	-	298-306	373_ANS_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	307-309	373_ANS_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	309-310	373_ANS_clinical_caseMIR	SENT1	-	-
-7	Miocardiopatía	miocardiopatía	NCFS000	C0878544	trastorno	0-14	373_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-8	hipertrófica	hipertrófico	AQ0FS0	C0020564	anomalía_morfológica	15-27	373_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-9	obstructiva	obstructivo	AQ0FS0	-	-	28-39	373_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-10	.	.	Fp	-	-	39-40	373_ANS_clinical_caseMIR	SENT1	-	-
+1	Miocardiopatía	miocardiopatía	NCFS000	C0878544	trastorno	0-14	373_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	hipertrófica	hipertrófico	AQ0FS0	C0020564	anomalía_morfológica	15-27	373_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	obstructiva	obstructivo	AQ0FS0	-	-	28-39	373_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	.	.	Fp	-	-	39-40	373_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Estenosis	estenosis	NCFN000	C0026269_1	trastorno_1	0-9	373_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	mitral	mitral	AQ0CS0	C0026269_2	trastorno_2	10-16	373_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

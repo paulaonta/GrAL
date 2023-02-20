@@ -1,33 +1,26 @@
-1	¿	¿	Fia	-	-	226-227	366_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	227-231	366_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	232-234	366_QUEST_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	235-237	366_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	238-249	366_QUEST_clinical_caseMIR	SENT1	-	-
-6	?	?	Fit	-	-	249-250	366_QUEST_clinical_caseMIR	SENT1	-	-
-7	:	:	Fd	-	-	250-251	366_QUEST_clinical_caseMIR	SENT1	-	-
-8	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	366_QUEST_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0332285	atributo	6-8	366_QUEST_clinical_caseMIR	SENT1	-	-
-10	41	41		-	-	9-11	366_QUEST_clinical_caseMIR	SENT1	-	-
-11	años	año	NCMP000	C0439234	calificador	12-16	366_QUEST_clinical_caseMIR	SENT1	-	-
-12	,	,	Fc	-	-	16-17	366_QUEST_clinical_caseMIR	SENT1	-	-
-13	sin	sin	SPS00	C0332122_1	calificador_1	18-21	366_QUEST_clinical_caseMIR	SENT1	-	-
-14	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	22-34	366_QUEST_clinical_caseMIR	SENT1	-	-
-15	de	de	SPS00	C0332122_3	calificador_3	35-37	366_QUEST_clinical_caseMIR	SENT1	-	-
-16	interés	interés	NCMS000	-	-	38-45	366_QUEST_clinical_caseMIR	SENT1	-	-
-17	,	,	Fc	-	-	45-46	366_QUEST_clinical_caseMIR	SENT1	-	-
-18	que	que	PR0CN000	-	-	47-50	366_QUEST_clinical_caseMIR	SENT1	-	-
-19	presentó	presentar	VMIS3S0	-	-	51-59	366_QUEST_clinical_caseMIR	SENT1	-	-
-20	hace	hacer	VMIP3S0	-	-	60-64	366_QUEST_clinical_caseMIR	SENT1	-	-
-21	seis	seis		-	-	65-69	366_QUEST_clinical_caseMIR	SENT1	-	-
-22	meses	mes	NCMP000	C0439231	calificador	70-75	366_QUEST_clinical_caseMIR	SENT1	-	-
-23	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	76-82	366_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-24	de	de	SPS00	C0231807_2	hallazgo_2	83-85	366_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-25	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	86-94	366_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-26	que	que	PR0CN000	-	-	95-98	366_QUEST_clinical_caseMIR	SENT1	-	-
-27	ha	haber	VAIP3S0	-	-	99-101	366_QUEST_clinical_caseMIR	SENT1	-	-
-28	aumentado	aumentar	VMP00SM	-	-	102-111	366_QUEST_clinical_caseMIR	SENT1	-	-
-29	progresivamente	progresivamente	RG	-	-	112-127	366_QUEST_clinical_caseMIR	SENT1	-	-
-30	.	.	Fp	-	-	127-128	366_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	366_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	366_QUEST_clinical_caseMIR	SENT1	-	-
+3	41	41		-	-	9-11	366_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	366_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	366_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332122_1	calificador_1	18-21	366_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	22-34	366_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332122_3	calificador_3	35-37	366_QUEST_clinical_caseMIR	SENT1	-	-
+9	interés	interés	NCMS000	-	-	38-45	366_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	45-46	366_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	47-50	366_QUEST_clinical_caseMIR	SENT1	-	-
+12	presentó	presentar	VMIS3S0	-	-	51-59	366_QUEST_clinical_caseMIR	SENT1	-	-
+13	hace	hacer	VMIP3S0	-	-	60-64	366_QUEST_clinical_caseMIR	SENT1	-	-
+14	seis	seis		-	-	65-69	366_QUEST_clinical_caseMIR	SENT1	-	-
+15	meses	mes	NCMP000	C0439231	calificador	70-75	366_QUEST_clinical_caseMIR	SENT1	-	-
+16	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	76-82	366_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0231807_2	hallazgo_2	83-85	366_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	86-94	366_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+19	que	que	PR0CN000	-	-	95-98	366_QUEST_clinical_caseMIR	SENT1	-	-
+20	ha	haber	VAIP3S0	-	-	99-101	366_QUEST_clinical_caseMIR	SENT1	-	-
+21	aumentado	aumentar	VMP00SM	-	-	102-111	366_QUEST_clinical_caseMIR	SENT1	-	-
+22	progresivamente	progresivamente	RG	-	-	112-127	366_QUEST_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	127-128	366_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	A	a	SPS00	-	-	129-130	366_QUEST_clinical_caseMIR	SENT2	-	-
 2	la	el	DA0FS0	-	-	131-133	366_QUEST_clinical_caseMIR	SENT2	-	-
@@ -105,13 +98,12 @@
 5	subpleural	subpleural	AQ0CS0	-	-	575-585	366_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 6	.	.	Fp	-	-	585-586	366_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	¿	¿	Fia	-	-	587-588	366_QUEST_clinical_caseMIR	SENT7	-	-
-2	El	el	DA0MS0	-	-	588-590	366_QUEST_clinical_caseMIR	SENT7	-	-
-3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	591-602	366_QUEST_clinical_caseMIR	SENT7	-	-
-4	de	de	SPS00	C0332285	atributo	603-605	366_QUEST_clinical_caseMIR	SENT7	-	-
-5	la	el	DA0FS0	-	-	606-608	366_QUEST_clinical_caseMIR	SENT7	-	-
-6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	609-615	366_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
-7	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	616-624	366_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
-8	es	ser	VSIP3S0	-	-	625-627	366_QUEST_clinical_caseMIR	SENT7	-	-
-9	?	?	Fit	-	-	627-628	366_QUEST_clinical_caseMIR	SENT7	-	-
+1	El	el	DA0MS0	-	-	587-589	366_QUEST_clinical_caseMIR	SENT7	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	590-601	366_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	602-604	366_QUEST_clinical_caseMIR	SENT7	-	-
+4	la	el	DA0FS0	-	-	605-607	366_QUEST_clinical_caseMIR	SENT7	-	-
+5	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	608-614	366_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
+6	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	615-623	366_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
+7	es	ser	VSIP3S0	-	-	624-626	366_QUEST_clinical_caseMIR	SENT7	-	-
+8	.	.	Fp	-	-	626-627	366_QUEST_clinical_caseMIR	SENT7	-	-
 

@@ -1,39 +1,32 @@
-1	Ante	ante	SPS00	-	-	430-434	686_QUEST_clinical_caseMIR	SENT1	-	-
-2	esta	este	DD0FS0	-	-	435-439	686_QUEST_clinical_caseMIR	SENT1	-	-
-3	situación	situación	NCFS000	-	-	440-449	686_QUEST_clinical_caseMIR	SENT1	-	-
-4	NO	no	RN	C1298908	calificador	450-452	686_QUEST_clinical_caseMIR	SENT1	-	-
-5	se	se	P00CN000	-	-	453-455	686_QUEST_clinical_caseMIR	SENT1	-	-
-6	recomienda	recomendar	VMIP3S0	-	-	456-466	686_QUEST_clinical_caseMIR	SENT1	-	-
-7	:	:	Fd	-	-	466-467	686_QUEST_clinical_caseMIR	SENT1	-	-
-8	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	686_QUEST_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0332285	atributo	6-8	686_QUEST_clinical_caseMIR	SENT1	-	-
-10	16	16		-	-	9-11	686_QUEST_clinical_caseMIR	SENT1	-	-
-11	años	año	NCMP000	C0439234	calificador	12-16	686_QUEST_clinical_caseMIR	SENT1	-	-
-12	que	que	PR0CN000	-	-	17-20	686_QUEST_clinical_caseMIR	SENT1	-	-
-13	inicia	iniciar	VMIP3S0	-	-	21-27	686_QUEST_clinical_caseMIR	SENT1	-	-
-14	seguimiento	seguimiento	NCMS000	-	-	28-39	686_QUEST_clinical_caseMIR	SENT1	-	-
-15	en	en	SPS00	C1720294#C0332285	calificador#atributo	40-42	686_QUEST_clinical_caseMIR	SENT1	-	-
-16	la	el	DA0FS0	-	-	43-45	686_QUEST_clinical_caseMIR	SENT1	-	-
-17	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	46-54	686_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	55-57	686_QUEST_clinical_caseMIR	SENT1	-	-
-19	Neurología	neurología	NCFS000	C0027855	calificador	58-68	686_QUEST_clinical_caseMIR	SENT1	-	-
-20	de	de	SPS00	C0332285	atributo	69-71	686_QUEST_clinical_caseMIR	SENT1	-	-
-21	adultos	adulto	NCMP000	C0001675	persona	72-79	686_QUEST_clinical_caseMIR	SENT1	-	-
-22	,	,	Fc	-	-	79-80	686_QUEST_clinical_caseMIR	SENT1	-	-
-23	remitida	remitir	VMP00SF	C0439600	calificador	81-89	686_QUEST_clinical_caseMIR	SENT1	-	-
-24	desde	desde	SPS00	-	-	90-95	686_QUEST_clinical_caseMIR	SENT1	-	-
-25	Neuropediatría	neuropediatría	NCFS000	-	-	96-110	686_QUEST_clinical_caseMIR	SENT1	-	-
-26	con	con	SPS00	C0332287	atributo	111-114	686_QUEST_clinical_caseMIR	SENT1	-	-
-27	el	el	DA0MS0	-	-	115-117	686_QUEST_clinical_caseMIR	SENT1	-	-
-28	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	118-129	686_QUEST_clinical_caseMIR	SENT1	-	-
-29	de	de	SPS00	C0332285	atributo	130-132	686_QUEST_clinical_caseMIR	SENT1	-	-
-30	epilepsia	epilepsia	NCFS000	C0270853_1	trastorno_1	133-142	686_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-31	mioclónica	mioclónica		C0270853_2	trastorno_2	143-153	686_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-32	juvenil	juvenil	NCCS000	C0270853_3	trastorno_3	154-161	686_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-33	(	(	Fpa	-	-	162-163	686_QUEST_clinical_caseMIR	SENT1	-	-
-34	EMJ	emj	NCMS000	-	-	163-166	686_QUEST_clinical_caseMIR	SENT1	-	-
-35	)	)	Fpt	-	-	166-167	686_QUEST_clinical_caseMIR	SENT1	-	-
-36	.	.	Fp	-	-	167-168	686_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	686_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	686_QUEST_clinical_caseMIR	SENT1	-	-
+3	16	16		-	-	9-11	686_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	686_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	686_QUEST_clinical_caseMIR	SENT1	-	-
+6	inicia	iniciar	VMIP3S0	-	-	21-27	686_QUEST_clinical_caseMIR	SENT1	-	-
+7	seguimiento	seguimiento	NCMS000	-	-	28-39	686_QUEST_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	40-42	686_QUEST_clinical_caseMIR	SENT1	-	-
+9	la	el	DA0FS0	-	-	43-45	686_QUEST_clinical_caseMIR	SENT1	-	-
+10	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	46-54	686_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	55-57	686_QUEST_clinical_caseMIR	SENT1	-	-
+12	Neurología	neurología	NCFS000	C0027855	calificador	58-68	686_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	69-71	686_QUEST_clinical_caseMIR	SENT1	-	-
+14	adultos	adulto	NCMP000	C0001675	persona	72-79	686_QUEST_clinical_caseMIR	SENT1	-	-
+15	,	,	Fc	-	-	79-80	686_QUEST_clinical_caseMIR	SENT1	-	-
+16	remitida	remitir	VMP00SF	C0439600	calificador	81-89	686_QUEST_clinical_caseMIR	SENT1	-	-
+17	desde	desde	SPS00	-	-	90-95	686_QUEST_clinical_caseMIR	SENT1	-	-
+18	Neuropediatría	neuropediatría	NCFS000	-	-	96-110	686_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	111-114	686_QUEST_clinical_caseMIR	SENT1	-	-
+20	el	el	DA0MS0	-	-	115-117	686_QUEST_clinical_caseMIR	SENT1	-	-
+21	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	118-129	686_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	130-132	686_QUEST_clinical_caseMIR	SENT1	-	-
+23	epilepsia	epilepsia	NCFS000	C0270853_1	trastorno_1	133-142	686_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	mioclónica	mioclónica		C0270853_2	trastorno_2	143-153	686_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+25	juvenil	juvenil	NCCS000	C0270853_3	trastorno_3	154-161	686_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	(	(	Fpa	-	-	162-163	686_QUEST_clinical_caseMIR	SENT1	-	-
+27	EMJ	emj	NCMS000	-	-	163-166	686_QUEST_clinical_caseMIR	SENT1	-	-
+28	)	)	Fpt	-	-	166-167	686_QUEST_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	167-168	686_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Está	estar	VAM02S0	-	-	169-173	686_QUEST_clinical_caseMIR	SENT2	-	-
 2	en	en	SPS00	C1720294#C0332285	calificador#atributo	174-176	686_QUEST_clinical_caseMIR	SENT2	-	-
@@ -45,4 +38,14 @@
 8	bien	bien	RG	C0205170	calificador	211-215	686_QUEST_clinical_caseMIR	SENT2	-	-
 9	controlada	controlar	VMP00SF	-	-	216-226	686_QUEST_clinical_caseMIR	SENT2	-	-
 10	.	.	Fp	-	-	226-227	686_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	228-230	686_QUEST_clinical_caseMIR	SENT3	-	-
+2	plantearía	plantear	VMIC3S0	-	-	231-241	686_QUEST_clinical_caseMIR	SENT3	-	-
+3	hacer	hacer	VMN0000	-	-	242-247	686_QUEST_clinical_caseMIR	SENT3	-	-
+4	alguna	alguno	DI0FS0	C0205392	calificador	248-254	686_QUEST_clinical_caseMIR	SENT3	-	-
+5	modificación	modificación	NCFS000	-	-	255-267	686_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	268-270	686_QUEST_clinical_caseMIR	SENT3	-	-
+7	su	su	DP3CS0	-	-	271-273	686_QUEST_clinical_caseMIR	SENT3	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	274-285	686_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	285-286	686_QUEST_clinical_caseMIR	SENT3	-	-
 

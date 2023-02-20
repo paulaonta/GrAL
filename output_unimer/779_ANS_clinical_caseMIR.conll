@@ -1,44 +1,7 @@
-1	Ante	ante	SPS00	-	-	0-4	779_ANS_clinical_caseMIR	SENT1	-	-
-2	un	un		C0205447_1	calificador_1	5-7	779_ANS_clinical_caseMIR	SENT1	-	-
-3	paciente	paciente	NCCS000	C0030705	persona	8-16	779_ANS_clinical_caseMIR	SENT1	-	-
-4	que	que	PR0CN000	-	-	17-20	779_ANS_clinical_caseMIR	SENT1	-	-
-5	presenta	presentar	VMIP3S0	-	-	21-29	779_ANS_clinical_caseMIR	SENT1	-	-
-6	una	una		C0205447_1	calificador_1	30-33	779_ANS_clinical_caseMIR	SENT1	-	-
-7	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	34-40	779_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-8	úlcerovegetante	úlcerovegetante	AQ0CS00	-	-	41-56	779_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-9	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	779_ANS_clinical_caseMIR	SENT1	-	-
-10	la	el	DA0FS0	-	-	60-62	779_ANS_clinical_caseMIR	SENT1	-	-
-11	encía	encía	NCFS000	C0017562#C1278912	estructura_corporal	63-68	779_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-12	mandibular	mandibular	AQ0CS0	-	-	69-79	779_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-13	a	a	SPS00	-	-	80-81	779_ANS_clinical_caseMIR	SENT1	-	-
-14	nivel	nivel	NCMS000	C0456079	atributo	82-87	779_ANS_clinical_caseMIR	SENT1	-	-
-15	de	de	SPS00	C0332285	atributo	88-90	779_ANS_clinical_caseMIR	SENT1	-	-
-16	la	el	DA0FS0	-	-	91-93	779_ANS_clinical_caseMIR	SENT1	-	-
-17	región	región	NCFS000	C0205147	atributo#calificador	94-100	779_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-18	de	de	SPS00	C0332285	atributo	101-103	779_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-19	los	el	DA0MP0	-	-	104-107	779_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-20	molares	molar	NCMP000	C0227080	estructura_corporal	108-115	779_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-21	de	de	SPS00	C0332285	atributo	116-118	779_ANS_clinical_caseMIR	SENT1	-	-
-22	5	5		-	-	119-120	779_ANS_clinical_caseMIR	SENT1	-	-
-23	meses	mes	NCMP000	C0439231	calificador	121-126	779_ANS_clinical_caseMIR	SENT1	-	-
-24	de	de	SPS00	C0332285	atributo	127-129	779_ANS_clinical_caseMIR	SENT1	-	-
-25	evolución	evolución	NCFS000	-	-	130-139	779_ANS_clinical_caseMIR	SENT1	-	-
-26	,	,	Fc	-	-	139-140	779_ANS_clinical_caseMIR	SENT1	-	-
-27	la	el	DA0FS0	-	-	141-143	779_ANS_clinical_caseMIR	SENT1	-	-
-28	aparición	aparición	NCFS000	-	-	144-153	779_ANS_clinical_caseMIR	SENT1	-	-
-29	de	de	SPS00	C0332285	atributo	154-156	779_ANS_clinical_caseMIR	SENT1	-	-
-30	hipoestesia	hipoestesia	NC00SC0	C0020580#C0028643	hallazgo	157-168	779_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-31	en	en	SPS00	C1720294#C0332285	calificador#atributo	169-171	779_ANS_clinical_caseMIR	SENT1	-	-
-32	la	el	DA0FS0	-	-	172-174	779_ANS_clinical_caseMIR	SENT1	-	-
-33	región	región	NCFS000	C0205147	atributo#calificador	175-181	779_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-34	mentoniana	mentoniano	AQ0FS0	-	-	182-192	779_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-35	requiere	requerir	VMIP3S0	-	-	193-201	779_ANS_clinical_caseMIR	SENT1	-	-
-36	DESCARTAR	descartar	VMN0000	C0332196	calificador	202-211	779_ANS_clinical_caseMIR	SENT1	-	-
-37	:	:	Fd	-	-	211-212	779_ANS_clinical_caseMIR	SENT1	-	-
-38	Colporrectosacropexia	colporrectosacropexia	NCFS000	-	-	0-21	779_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-39	con	con	SPS00	C0332287	atributo	22-25	779_ANS_clinical_caseMIR	SENT1	-	-
-40	malla	malla	NCFS000	C0181805	sustancia#objeto_físico	26-31	779_ANS_clinical_caseMIR	SENT1	-	-
-41	.	.	Fp	-	-	31-32	779_ANS_clinical_caseMIR	SENT1	-	-
+1	Colporrectosacropexia	colporrectosacropexia	NCFS000	-	-	0-21	779_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	con	con	SPS00	C0332287	atributo	22-25	779_ANS_clinical_caseMIR	SENT1	-	-
+3	malla	malla	NCFS000	C0181805	sustancia#objeto_físico	26-31	779_ANS_clinical_caseMIR	SENT1	-	-
+4	.	.	Fp	-	-	31-32	779_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Intervención	intervención	NCFS000	-	-	0-12	779_ANS_clinical_caseMIR	SENT2	-	-
 2	de	de	SPS00	C0332285	atributo	13-15	779_ANS_clinical_caseMIR	SENT2	-	-

@@ -1,38 +1,20 @@
-1	¿	¿	Fia	-	-	194-195	307_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	195-199	307_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	200-202	307_QUEST_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	203-206	307_QUEST_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	207-217	307_QUEST_clinical_caseMIR	SENT1	-	-
-6	afirmaciones	afirmación	NCFP000	-	-	218-230	307_QUEST_clinical_caseMIR	SENT1	-	-
-7	se	se	P00CN000	-	-	231-233	307_QUEST_clinical_caseMIR	SENT1	-	-
-8	ajusta	ajustar	VMIP3S0	-	-	234-240	307_QUEST_clinical_caseMIR	SENT1	-	-
-9	más	más	RG	C0205172	calificador	241-244	307_QUEST_clinical_caseMIR	SENT1	-	-
-10	al	al	SP+DA	-	-	245-247	307_QUEST_clinical_caseMIR	SENT1	-	-
-11	cuadro	cuadro	NCMS000	-	-	248-254	307_QUEST_clinical_caseMIR	SENT1	-	-
-12	clínico	clínico	AQ0MS0	C0205210	calificador	255-262	307_QUEST_clinical_caseMIR	SENT1	-	-
-13	que	que	PR0CN000	-	-	263-266	307_QUEST_clinical_caseMIR	SENT1	-	-
-14	está	estar	VAIP3S0	-	-	267-271	307_QUEST_clinical_caseMIR	SENT1	-	-
-15	presentando	presentar	VMG0000	-	-	272-283	307_QUEST_clinical_caseMIR	SENT1	-	-
-16	ahora	ahora	RG	-	-	284-289	307_QUEST_clinical_caseMIR	SENT1	-	-
-17	?	?	Fit	-	-	289-290	307_QUEST_clinical_caseMIR	SENT1	-	-
-18	:	:	Fd	-	-	290-291	307_QUEST_clinical_caseMIR	SENT1	-	-
-19	Una	Una		C0205447_1	calificador_1	0-3	307_QUEST_clinical_caseMIR	SENT1	-	-
-20	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	307_QUEST_clinical_caseMIR	SENT1	-	-
-21	de	de	SPS00	C0332285	atributo	10-12	307_QUEST_clinical_caseMIR	SENT1	-	-
-22	34	34		-	-	13-15	307_QUEST_clinical_caseMIR	SENT1	-	-
-23	años	año	NCMP000	C0439234	calificador	16-20	307_QUEST_clinical_caseMIR	SENT1	-	-
-24	ingresa	ingresar	VMIP3S0	-	-	21-28	307_QUEST_clinical_caseMIR	SENT1	-	-
-25	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	307_QUEST_clinical_caseMIR	SENT1	-	-
-26	el	el	DA0MS0	-	-	32-34	307_QUEST_clinical_caseMIR	SENT1	-	-
-27	hospital	hospital	NCMS000	C1510665	medio_ambiente	35-43	307_QUEST_clinical_caseMIR	SENT1	-	-
-28	por	por	SPS00	C0678226	atributo	44-47	307_QUEST_clinical_caseMIR	SENT1	-	-
-29	una	una		C0205447_1	calificador_1	48-51	307_QUEST_clinical_caseMIR	SENT1	-	-
-30	embolia	embolia	NCFS000	C0034065_1	trastorno_1	52-59	307_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-31	pulmonar	pulmonar	NC00SC0	C0034065_2	trastorno_2	60-68	307_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-32	confirmada	confirmar	VMP00SF	-	-	69-79	307_QUEST_clinical_caseMIR	SENT1	-	-
-33	mediante	mediante	SPS00	-	-	80-88	307_QUEST_clinical_caseMIR	SENT1	-	-
-34	angio-TC	angio-tc	NC00000	-	-	89-97	307_QUEST_clinical_caseMIR	SENT1	-	-
-35	.	.	Fp	-	-	97-98	307_QUEST_clinical_caseMIR	SENT1	-	-
+1	Una	Una		C0205447_1	calificador_1	0-3	307_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	307_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	307_QUEST_clinical_caseMIR	SENT1	-	-
+4	34	34		-	-	13-15	307_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	307_QUEST_clinical_caseMIR	SENT1	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	21-28	307_QUEST_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	307_QUEST_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	32-34	307_QUEST_clinical_caseMIR	SENT1	-	-
+9	hospital	hospital	NCMS000	C1510665	medio_ambiente	35-43	307_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C0678226	atributo	44-47	307_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	48-51	307_QUEST_clinical_caseMIR	SENT1	-	-
+12	embolia	embolia	NCFS000	C0034065_1	trastorno_1	52-59	307_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	pulmonar	pulmonar	NC00SC0	C0034065_2	trastorno_2	60-68	307_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	confirmada	confirmar	VMP00SF	-	-	69-79	307_QUEST_clinical_caseMIR	SENT1	-	-
+15	mediante	mediante	SPS00	-	-	80-88	307_QUEST_clinical_caseMIR	SENT1	-	-
+16	angio-TC	angio-tc	NC00000	-	-	89-97	307_QUEST_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	97-98	307_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	No	no	RN	C1298908	calificador	99-101	307_QUEST_clinical_caseMIR	SENT2	-	-
 2	tiene	tener	VMIP3S0	-	-	102-107	307_QUEST_clinical_caseMIR	SENT2	-	-
@@ -104,18 +86,17 @@
 22	120.000/uL	120.000/uL		-	-	442-452	307_QUEST_clinical_caseMIR	SENT5	-	-
 23	.	.	Fp	-	-	452-453	307_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	454-455	307_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	455-459	307_QUEST_clinical_caseMIR	SENT6	-	-
-3	de	de	SPS00	C0332285	atributo	460-462	307_QUEST_clinical_caseMIR	SENT6	-	-
-4	las	el	DA0FP0	-	-	463-466	307_QUEST_clinical_caseMIR	SENT6	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	467-477	307_QUEST_clinical_caseMIR	SENT6	-	-
-6	pruebas	prueba	NCFP000	-	-	478-485	307_QUEST_clinical_caseMIR	SENT6	-	-
-7	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	486-498	307_QUEST_clinical_caseMIR	SENT6	-	-
-8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	499-501	307_QUEST_clinical_caseMIR	SENT6	-	-
-9	ayudaría	ayudar	VMIC3S0	-	-	502-510	307_QUEST_clinical_caseMIR	SENT6	-	-
-10	más	más	RG	C0205172	calificador	511-514	307_QUEST_clinical_caseMIR	SENT6	-	-
-11	en	en	SPS00	C1720294#C0332285	calificador#atributo	515-517	307_QUEST_clinical_caseMIR	SENT6	-	-
-12	el	el	DA0MS0	-	-	518-520	307_QUEST_clinical_caseMIR	SENT6	-	-
-13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	521-532	307_QUEST_clinical_caseMIR	SENT6	-	-
-14	?	?	Fit	-	-	532-533	307_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	454-458	307_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332285	atributo	459-461	307_QUEST_clinical_caseMIR	SENT6	-	-
+3	las	el	DA0FP0	-	-	462-465	307_QUEST_clinical_caseMIR	SENT6	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	466-476	307_QUEST_clinical_caseMIR	SENT6	-	-
+5	pruebas	prueba	NCFP000	-	-	477-484	307_QUEST_clinical_caseMIR	SENT6	-	-
+6	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	485-497	307_QUEST_clinical_caseMIR	SENT6	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	498-500	307_QUEST_clinical_caseMIR	SENT6	-	-
+8	ayudaría	ayudar	VMIC3S0	-	-	501-509	307_QUEST_clinical_caseMIR	SENT6	-	-
+9	más	más	RG	C0205172	calificador	510-513	307_QUEST_clinical_caseMIR	SENT6	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	514-516	307_QUEST_clinical_caseMIR	SENT6	-	-
+11	el	el	DA0MS0	-	-	517-519	307_QUEST_clinical_caseMIR	SENT6	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	520-531	307_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	531-532	307_QUEST_clinical_caseMIR	SENT6	-	-
 

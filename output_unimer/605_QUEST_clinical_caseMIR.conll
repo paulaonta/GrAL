@@ -1,18 +1,12 @@
-1	La	el	DA0FS0	-	-	400-402	605_QUEST_clinical_caseMIR	SENT1	-	-
-2	principal	principal	AQ0CS0	C0205225	calificador	403-412	605_QUEST_clinical_caseMIR	SENT1	-	-
-3	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	413-421	605_QUEST_clinical_caseMIR	SENT1	-	-
-4	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	422-433	605_QUEST_clinical_caseMIR	SENT1	-	-
-5	será	ser	VSIF3S0	-	-	434-438	605_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	438-439	605_QUEST_clinical_caseMIR	SENT1	-	-
-7	Un	Un		C0205447_1	calificador_1	0-2	605_QUEST_clinical_caseMIR	SENT1	-	-
-8	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	605_QUEST_clinical_caseMIR	SENT1	-	-
-9	acude	acudir	VMIP3S0	-	-	10-15	605_QUEST_clinical_caseMIR	SENT1	-	-
-10	a	a	SPS00	-	-	16-17	605_QUEST_clinical_caseMIR	SENT1	-	-
-11	su	su	DP3CS0	-	-	18-20	605_QUEST_clinical_caseMIR	SENT1	-	-
-12	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	605_QUEST_clinical_caseMIR	SENT1	-	-
-13	por	por	SPS00	C1704447_2	calificador_2	30-33	605_QUEST_clinical_caseMIR	SENT1	-	-
-14	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	34-40	605_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-15	.	.	Fp	-	-	40-41	605_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	605_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	605_QUEST_clinical_caseMIR	SENT1	-	-
+3	acude	acudir	VMIP3S0	-	-	10-15	605_QUEST_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	-	-	16-17	605_QUEST_clinical_caseMIR	SENT1	-	-
+5	su	su	DP3CS0	-	-	18-20	605_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	605_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	605_QUEST_clinical_caseMIR	SENT1	-	-
+8	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	34-40	605_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	40-41	605_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	605_QUEST_clinical_caseMIR	SENT2	-	-
 2	la	el	DA0FS0	-	-	45-47	605_QUEST_clinical_caseMIR	SENT2	-	-
@@ -75,4 +69,10 @@
 21	mismo	mismo	AQ0MS0	C0445247	calificador	367-372	605_QUEST_clinical_caseMIR	SENT3	-	-
 22	hemitórax	hemitórax	NCMN000	-	-	373-382	605_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 23	.	.	Fp	-	-	382-383	605_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Usted	usted	PP2CS00P	-	-	384-389	605_QUEST_clinical_caseMIR	SENT4	-	-
+2	pensar	pensar	VMN0000	-	-	390-396	605_QUEST_clinical_caseMIR	SENT4	-	-
+3	la	lo	PP3FSA00	-	-	396-398	605_QUEST_clinical_caseMIR	SENT4	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	399-401	605_QUEST_clinical_caseMIR	SENT4	-	-
+5	.	.	Fp	-	-	401-402	605_QUEST_clinical_caseMIR	SENT4	-	-
 

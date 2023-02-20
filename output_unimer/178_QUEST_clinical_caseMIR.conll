@@ -41,7 +41,7 @@
 41	caracteriza	caracterizar	VMIP3S0	-	-	237-248	178_QUEST_clinical_caseMIR	SENT1	-	-
 42	sintomáticamente	sintomáticamente	RG	-	-	249-265	178_QUEST_clinical_caseMIR	SENT1	-	-
 43	por	por	SPS00	C0678226	atributo	266-269	178_QUEST_clinical_caseMIR	SENT1	-	-
-44	:	:	Fd	-	-	269-270	178_QUEST_clinical_caseMIR	SENT1	-	-
+44	.	.	Fp	-	-	269-270	178_QUEST_clinical_caseMIR	SENT1	-	-
 45	dolor	dolor	NCMS000	C0030193	hallazgo	271-276	178_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
 46	torácico	torácico	NC00SC0	C0817096	calificador	277-285	178_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
 47	,	,	Fc	-	-	285-286	178_QUEST_clinical_caseMIR	SENT1	-	-
@@ -72,4 +72,16 @@
 72	desrealización	desrealización	NC00SC0	C0233754	hallazgo	441-455	178_QUEST_clinical_caseMIR	SENT1	-	-
 73	)	)	Fpt	-	-	455-456	178_QUEST_clinical_caseMIR	SENT1	-	-
 74	.	.	Fp	-	-	456-457	178_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	458-460	178_QUEST_clinical_caseMIR	SENT2	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011906_1	calificador_1	461-472	178_QUEST_clinical_caseMIR	SENT2	-	-
+3	diferencial	diferencial	NCMS000	C0011906_2	calificador_2	473-484	178_QUEST_clinical_caseMIR	SENT2	-	-
+4	debería	deber	VMIC3S0	-	-	485-492	178_QUEST_clinical_caseMIR	SENT2	-	-
+5	incluir	incluir	VMN0000	-	-	493-500	178_QUEST_clinical_caseMIR	SENT2	-	-
+6	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	501-506	178_QUEST_clinical_caseMIR	SENT2	-	-
+7	los	el	DA0MP0	-	-	507-510	178_QUEST_clinical_caseMIR	SENT2	-	-
+8	siguientes	siguiente	AQ0CP0	C0332282	atributo	511-521	178_QUEST_clinical_caseMIR	SENT2	-	-
+9	cuadros	cuadro	NCMP000	-	-	522-529	178_QUEST_clinical_caseMIR	SENT2	-	-
+10	EXCEPTO	excepto	SPS00	-	-	530-537	178_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	537-538	178_QUEST_clinical_caseMIR	SENT2	-	-
 

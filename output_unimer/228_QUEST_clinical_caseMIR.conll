@@ -1,30 +1,25 @@
-1	Señale	señalar	VMM03S0	-	-	184-190	228_QUEST_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	191-193	228_QUEST_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	194-203	228_QUEST_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	204-212	228_QUEST_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	212-213	228_QUEST_clinical_caseMIR	SENT1	-	-
-6	Una	Una		C0205447_1	calificador_1	0-3	228_QUEST_clinical_caseMIR	SENT1	-	-
-7	chica	chico	NCFS000	C0008059#C0700321	persona#calificador	4-9	228_QUEST_clinical_caseMIR	SENT1	-	-
-8	de	de	SPS00	C0332285	atributo	10-12	228_QUEST_clinical_caseMIR	SENT1	-	-
-9	20	20		-	-	13-15	228_QUEST_clinical_caseMIR	SENT1	-	-
-10	años	año	NCMP000	C0439234	calificador	16-20	228_QUEST_clinical_caseMIR	SENT1	-	-
-11	acude	acudir	VMIP3S0	-	-	21-26	228_QUEST_clinical_caseMIR	SENT1	-	-
-12	a	a	SPS00	-	-	27-28	228_QUEST_clinical_caseMIR	SENT1	-	-
-13	la	el	DA0FS0	-	-	29-31	228_QUEST_clinical_caseMIR	SENT1	-	-
-14	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	228_QUEST_clinical_caseMIR	SENT1	-	-
-15	con	con	SPS00	C0332287	atributo	41-44	228_QUEST_clinical_caseMIR	SENT1	-	-
-16	un	un		C0205447_1	calificador_1	45-47	228_QUEST_clinical_caseMIR	SENT1	-	-
-17	cuadro	cuadro	NCMS000	-	-	48-54	228_QUEST_clinical_caseMIR	SENT1	-	-
-18	agudo	agudo	AQ0MS0	C0205178	calificador	55-60	228_QUEST_clinical_caseMIR	SENT1	-	-
-19	de	de	SPS00	C0332285	atributo	61-63	228_QUEST_clinical_caseMIR	SENT1	-	-
-20	fiebre	fiebre	NCFS000	C0015967	hallazgo	64-70	228_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-21	,	,	Fc	-	-	70-71	228_QUEST_clinical_caseMIR	SENT1	-	-
-22	adenopatías	adenopatía	NCFP000	-	-	72-83	228_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-23	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	84-94	228_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-24	y	y	CC	C1706368	calificador	95-96	228_QUEST_clinical_caseMIR	SENT1	-	-
-25	rash	rash	NC00SC0	C0015230_1	trastorno_1	97-101	228_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-26	cutáneo	cutáneo	AQ0MS0	C0015230_2	trastorno_2	102-109	228_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-27	.	.	Fp	-	-	109-110	228_QUEST_clinical_caseMIR	SENT1	-	-
+1	Una	Una		C0205447_1	calificador_1	0-3	228_QUEST_clinical_caseMIR	SENT1	-	-
+2	chica	chico	NCFS000	C0008059#C0700321	persona#calificador	4-9	228_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	228_QUEST_clinical_caseMIR	SENT1	-	-
+4	20	20		-	-	13-15	228_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	228_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	228_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	228_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	29-31	228_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	228_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	41-44	228_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	45-47	228_QUEST_clinical_caseMIR	SENT1	-	-
+12	cuadro	cuadro	NCMS000	-	-	48-54	228_QUEST_clinical_caseMIR	SENT1	-	-
+13	agudo	agudo	AQ0MS0	C0205178	calificador	55-60	228_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	61-63	228_QUEST_clinical_caseMIR	SENT1	-	-
+15	fiebre	fiebre	NCFS000	C0015967	hallazgo	64-70	228_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	,	,	Fc	-	-	70-71	228_QUEST_clinical_caseMIR	SENT1	-	-
+17	adenopatías	adenopatía	NCFP000	-	-	72-83	228_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	84-94	228_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	y	y	CC	C1706368	calificador	95-96	228_QUEST_clinical_caseMIR	SENT1	-	-
+20	rash	rash	NC00SC0	C0015230_1	trastorno_1	97-101	228_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	cutáneo	cutáneo	AQ0MS0	C0015230_2	trastorno_2	102-109	228_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	.	.	Fp	-	-	109-110	228_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Según	según	CS	-	-	111-116	228_QUEST_clinical_caseMIR	SENT2	-	-
 2	refiere	referir	VMIP3S0	-	-	117-124	228_QUEST_clinical_caseMIR	SENT2	-	-
@@ -51,4 +46,14 @@
 23	del	del	SP+DA	-	-	225-228	228_QUEST_clinical_caseMIR	SENT2	-	-
 24	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	229-232	228_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 25	.	.	Fp	-	-	232-233	228_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Indica	indicar	VMIP3S0	-	-	234-240	228_QUEST_clinical_caseMIR	SENT3	-	-
+2	cuál	cuál	PT0CS000	-	-	241-245	228_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	246-248	228_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	249-252	228_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	253-263	228_QUEST_clinical_caseMIR	SENT3	-	-
+6	respuestas	respuesta	NCFP000	-	-	264-274	228_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	275-277	228_QUEST_clinical_caseMIR	SENT3	-	-
+8	verdadera	verdadero	AQ0FS0	C0205238	calificador	278-287	228_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	287-288	228_QUEST_clinical_caseMIR	SENT3	-	-
 

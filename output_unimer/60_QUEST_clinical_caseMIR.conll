@@ -49,3 +49,33 @@
 17	urinarias	urinario	AQ0FP0	-	-	301-310	60_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 18	.	.	Fp	-	-	310-311	60_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	312-314	60_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	315-317	60_QUEST_clinical_caseMIR	SENT4	-	-
+3	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	318-320	60_QUEST_clinical_caseMIR	SENT4	-	-
+4	abdominal	abdominal	AQ0CS0	C0000726	calificador	321-330	60_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	se	se	P00CN000	-	-	331-333	60_QUEST_clinical_caseMIR	SENT4	-	-
+6	observa	observar	VMIP3S0	-	-	334-341	60_QUEST_clinical_caseMIR	SENT4	-	-
+7	una	una		C0205447_1	calificador_1	342-345	60_QUEST_clinical_caseMIR	SENT4	-	-
+8	masa	masa	NCFS000	C0342500_1	hallazgo_1	346-350	60_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+9	suprarrenal	suprarrenal	NC00SC0	C0342500_2	hallazgo_2	351-362	60_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	363-370	60_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	370-371	60_QUEST_clinical_caseMIR	SENT4	-	-
+12	indique	indicar	VMM03S0	-	-	372-379	60_QUEST_clinical_caseMIR	SENT4	-	-
+13	qué	qué	DT0CN0	-	-	380-383	60_QUEST_clinical_caseMIR	SENT4	-	-
+14	fármaco	fármaco	NCMS000	C0013227	sustancia	384-391	60_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+15	emplearía	emplear	VMIC3S0	-	-	392-401	60_QUEST_clinical_caseMIR	SENT4	-	-
+16	en	en	SPS00	C1279901_1	calificador_1	402-404	60_QUEST_clinical_caseMIR	SENT4	-	-
+17	primer	1	AO0MS0	C1279901_2	calificador_2	405-411	60_QUEST_clinical_caseMIR	SENT4	-	-
+18	lugar	lugar	NCMS000	C1279901_3	calificador_3	412-417	60_QUEST_clinical_caseMIR	SENT4	-	-
+19	para	para	SPS00	C0521125	calificador	418-422	60_QUEST_clinical_caseMIR	SENT4	-	-
+20	evitar	evitar	VMN0000	-	-	423-429	60_QUEST_clinical_caseMIR	SENT4	-	-
+21	la	el	DA0FS0	-	-	430-432	60_QUEST_clinical_caseMIR	SENT4	-	-
+22	crisis	crisis	NCFN000	C0151620#C0020546_1	trastorno_1	433-439	60_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+23	hipertensiva	hipertensivo	AQ0FS0	C0151620#C0020546_2	trastorno_2	440-452	60_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+24	asociada	asociar	VMP00SF	-	-	453-461	60_QUEST_clinical_caseMIR	SENT4	-	-
+25	a	a	SPS00	-	-	462-463	60_QUEST_clinical_caseMIR	SENT4	-	-
+26	la	el	DA0FS0	-	-	464-466	60_QUEST_clinical_caseMIR	SENT4	-	-
+27	inducción	inducción	NCFS000	-	-	467-476	60_QUEST_clinical_caseMIR	SENT4	-	-
+28	anestésica	anestésico	AQ0FS0	C0002932#C0473161	sustancia#ocupación	477-487	60_QUEST_clinical_caseMIR	SENT4	-	-
+29	.	.	Fp	-	-	487-488	60_QUEST_clinical_caseMIR	SENT4	-	-
+

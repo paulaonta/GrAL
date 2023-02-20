@@ -1,18 +1,8 @@
-1	¿	¿	Fia	-	-	170-171	756_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	171-175	756_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	176-178	756_ANS_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	179-181	756_ANS_clinical_caseMIR	SENT1	-	-
-5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	182-190	756_ANS_clinical_caseMIR	SENT1	-	-
-6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	191-202	756_ANS_clinical_caseMIR	SENT1	-	-
-7	más	más	RG	C0205172	calificador	203-206	756_ANS_clinical_caseMIR	SENT1	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	207-215	756_ANS_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	215-216	756_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	216-217	756_ANS_clinical_caseMIR	SENT1	-	-
-11	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	756_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	de	de	SPS00	C0332285	atributo	9-11	756_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-13	choque	choque	NCMS000	C0036974	trastorno	12-18	756_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-14	fémoro-acetabular	fémoro-acetabular	AQ0CS00	-	-	19-36	756_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-15	.	.	Fp	-	-	36-37	756_ANS_clinical_caseMIR	SENT1	-	-
+1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	756_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	756_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	choque	choque	NCMS000	C0036974	trastorno	12-18	756_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+4	fémoro-acetabular	fémoro-acetabular	AQ0CS00	-	-	19-36	756_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+5	.	.	Fp	-	-	36-37	756_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	756_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	del	del	SP+DA	-	-	9-12	756_ANS_clinical_caseMIR	SENT2	-	-

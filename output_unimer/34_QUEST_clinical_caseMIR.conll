@@ -27,10 +27,10 @@
 
 1	Eco-doppler	eco-doppler	NCCS000	-	-	138-149	34_QUEST_clinical_caseMIR	SENT3	-	-
 2	venoso	venoso	AQ0MS0	C0348013	calificador	150-156	34_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
-3	de	de	SPS00	C0332285	atributo	157-159	34_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
-4	miembros	miembro	NCMP000	C0015385	estructura_corporal	160-168	34_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+3	de	de	SPS00	C0332285	atributo	157-159	34_QUEST_clinical_caseMIR	SENT3	-	-
+4	miembros	miembro	NCMP000	C0015385	estructura_corporal	160-168	34_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 5	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	169-179	34_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
-6	:	:	Fd	-	-	179-180	34_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	179-180	34_QUEST_clinical_caseMIR	SENT3	-	-
 7	ocupación	ocupación	NCFS000	C0028811	ocupación	181-190	34_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
 8	de	de	SPS00	C0332285	atributo	191-193	34_QUEST_clinical_caseMIR	SENT3	-	-
 9	la	el	DA0FS0	-	-	194-196	34_QUEST_clinical_caseMIR	SENT3	-	-
@@ -54,4 +54,12 @@
 27	dichos	decir	VMP00PM	-	-	330-336	34_QUEST_clinical_caseMIR	SENT3	-	-
 28	vasos	vaso	NCMP000	C0042591	atributo	337-342	34_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 29	.	.	Fp	-	-	342-343	34_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	344-348	34_QUEST_clinical_caseMIR	SENT4	-	-
+2	sería	ser	VSIC1S0	-	-	349-354	34_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	355-357	34_QUEST_clinical_caseMIR	SENT4	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	358-369	34_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	370-373	34_QUEST_clinical_caseMIR	SENT4	-	-
+6	adecuado	adecuar	VMP00SM	-	-	374-382	34_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	382-383	34_QUEST_clinical_caseMIR	SENT4	-	-
 

@@ -1,17 +1,7 @@
-1	¿	¿	Fia	-	-	479-480	316_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	480-484	316_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	485-487	316_ANS_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	488-490	316_ANS_clinical_caseMIR	SENT1	-	-
-5	primer	1	AO0MS0	-	-	491-497	316_ANS_clinical_caseMIR	SENT1	-	-
-6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	498-509	316_ANS_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	510-512	316_ANS_clinical_caseMIR	SENT1	-	-
-8	elección	elección	NCFS000	-	-	513-521	316_ANS_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	521-522	316_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	522-523	316_ANS_clinical_caseMIR	SENT1	-	-
-11	Hipertensión	hipertensión	NCFS000	C0020540_1	trastorno_1	0-12	316_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	arterial	arterial	NC00SC0	C0020540_2	trastorno_2	13-21	316_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	maligna	maligno	AQ0FS0	C0020540_3	trastorno_3	22-29	316_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-14	.	.	Fp	-	-	29-30	316_ANS_clinical_caseMIR	SENT1	-	-
+1	Hipertensión	hipertensión	NCFS000	C0020540_1	trastorno_1	0-12	316_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	arterial	arterial	NC00SC0	C0020540_2	trastorno_2	13-21	316_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	maligna	maligno	AQ0FS0	C0020540_3	trastorno_3	22-29	316_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	.	.	Fp	-	-	29-30	316_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Necrosis	necrosis	NCFN000	C0022672_1	trastorno_1	0-8	316_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	tubular	tubular	NC00SC0	C0022672_2	trastorno_2	9-16	316_ANS_clinical_caseMIR	SENT2	B-Calificador	-

@@ -130,12 +130,11 @@
 10	kg	kilogramo	NCMN000	C0439209	calificador	677-679	311_QUEST_clinical_caseMIR	SENT5	-	-
 11	.	.	Fp	-	-	679-680	311_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	681-682	311_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	682-686	311_QUEST_clinical_caseMIR	SENT6	-	-
-3	es	ser	VSIP3S0	-	-	687-689	311_QUEST_clinical_caseMIR	SENT6	-	-
-4	el	el	DA0MS0	-	-	690-692	311_QUEST_clinical_caseMIR	SENT6	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	693-704	311_QUEST_clinical_caseMIR	SENT6	-	-
-6	más	más	RG	C0205172	calificador	705-708	311_QUEST_clinical_caseMIR	SENT6	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	709-717	311_QUEST_clinical_caseMIR	SENT6	-	-
-8	?	?	Fit	-	-	717-718	311_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	681-685	311_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	686-688	311_QUEST_clinical_caseMIR	SENT6	-	-
+3	el	el	DA0MS0	-	-	689-691	311_QUEST_clinical_caseMIR	SENT6	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	692-703	311_QUEST_clinical_caseMIR	SENT6	-	-
+5	más	más	RG	C0205172	calificador	704-707	311_QUEST_clinical_caseMIR	SENT6	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	708-716	311_QUEST_clinical_caseMIR	SENT6	-	-
+7	.	.	Fp	-	-	716-717	311_QUEST_clinical_caseMIR	SENT6	-	-
 

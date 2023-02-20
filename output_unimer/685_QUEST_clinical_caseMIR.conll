@@ -46,7 +46,7 @@
 5	basal	basal	AQ0CS0	C0205112	calificador	236-241	685_QUEST_clinical_caseMIR	SENT3	-	-
 6	se	se	P00CN000	-	-	242-244	685_QUEST_clinical_caseMIR	SENT3	-	-
 7	objetiva	objetivar	VMIP3S0	-	-	245-253	685_QUEST_clinical_caseMIR	SENT3	-	-
-8	:	:	Fd	-	-	253-254	685_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	253-254	685_QUEST_clinical_caseMIR	SENT3	-	-
 9	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	255-257	685_QUEST_clinical_caseMIR	SENT3	-	-
 10	7,29	7,29		-	-	258-262	685_QUEST_clinical_caseMIR	SENT3	-	-
 11	,	,	Fc	-	-	262-263	685_QUEST_clinical_caseMIR	SENT3	-	-
@@ -110,4 +110,10 @@
 24	62	62	Z	-	-	550-552	685_QUEST_clinical_caseMIR	SENT5	-	-
 25	mmHg	mmHg	NCMP000	-	-	553-557	685_QUEST_clinical_caseMIR	SENT5	-	-
 26	.	.	Fp	-	-	557-558	685_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Señale	señalar	VMM03S0	-	-	559-565	685_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	566-568	685_QUEST_clinical_caseMIR	SENT6	-	-
+3	actuación	actuación	NCFS000	C0699820	hallazgo	569-578	685_QUEST_clinical_caseMIR	SENT6	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	579-587	685_QUEST_clinical_caseMIR	SENT6	-	-
+5	.	.	Fp	-	-	587-588	685_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -89,7 +89,7 @@
 3	pruebas	prueba	NCFP000	-	-	453-460	136_QUEST_clinical_caseMIR	SENT6	-	-
 4	complementarias	complementario	AQ0FP0	-	-	461-476	136_QUEST_clinical_caseMIR	SENT6	-	-
 5	destacar	destacar	VMN0000	-	-	477-485	136_QUEST_clinical_caseMIR	SENT6	-	-
-6	:	:	Fd	-	-	485-486	136_QUEST_clinical_caseMIR	SENT6	-	-
+6	.	.	Fp	-	-	485-486	136_QUEST_clinical_caseMIR	SENT6	-	-
 7	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	487-499	136_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
 8	(	(	Fpa	-	-	500-501	136_QUEST_clinical_caseMIR	SENT6	-	-
 9	13.000/mL	13.000/mL		-	-	501-510	136_QUEST_clinical_caseMIR	SENT6	-	-
@@ -125,4 +125,14 @@
 7	un	un		C0205447_1	calificador_1	599-601	136_QUEST_clinical_caseMIR	SENT7	-	-
 8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	602-613	136_QUEST_clinical_caseMIR	SENT7	-	-
 9	.	.	Fp	-	-	613-614	136_QUEST_clinical_caseMIR	SENT7	-	-
+
+1	Qué	qué	DE0CN0	-	-	615-618	136_QUEST_clinical_caseMIR	SENT8	-	-
+2	prueba	prueba	NCFS000	-	-	619-625	136_QUEST_clinical_caseMIR	SENT8	-	-
+3	pediría	pedir	VMIC3S0	-	-	626-633	136_QUEST_clinical_caseMIR	SENT8	-	-
+4	para	para	SPS00	C0521125	calificador	634-638	136_QUEST_clinical_caseMIR	SENT8	-	-
+5	establecer	establecer	VMN0000	-	-	639-649	136_QUEST_clinical_caseMIR	SENT8	-	-
+6	el	el	DA0MS0	-	-	650-652	136_QUEST_clinical_caseMIR	SENT8	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	653-664	136_QUEST_clinical_caseMIR	SENT8	-	-
+8	definitivo	definitivo	AQ0MS0	C0443196	calificador	665-675	136_QUEST_clinical_caseMIR	SENT8	-	-
+9	.	.	Fp	-	-	675-676	136_QUEST_clinical_caseMIR	SENT8	-	-
 

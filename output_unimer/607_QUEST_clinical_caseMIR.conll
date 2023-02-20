@@ -55,15 +55,14 @@
 28	izquierdo	izquierdo	NC00SC0	C0205091	calificador	350-359	607_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 29	.	.	Fp	-	-	359-360	607_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	¿	¿	Fia	-	-	361-362	607_QUEST_clinical_caseMIR	SENT3	-	-
-2	Cuál	cuál	PT0CS000	-	-	362-366	607_QUEST_clinical_caseMIR	SENT3	-	-
-3	es	ser	VSIP3S0	-	-	367-369	607_QUEST_clinical_caseMIR	SENT3	-	-
-4	el	el	DA0MS0	-	-	370-372	607_QUEST_clinical_caseMIR	SENT3	-	-
-5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	373-384	607_QUEST_clinical_caseMIR	SENT3	-	-
-6	más	más	RG	C0205172	calificador	385-388	607_QUEST_clinical_caseMIR	SENT3	-	-
-7	adecuado	adecuar	VMP00SM	-	-	389-397	607_QUEST_clinical_caseMIR	SENT3	-	-
-8	en	en	SPS00	C1720294#C0332285	calificador#atributo	398-400	607_QUEST_clinical_caseMIR	SENT3	-	-
-9	esta	este	DD0FS0	-	-	401-405	607_QUEST_clinical_caseMIR	SENT3	-	-
-10	paciente	paciente	NCCS000	C0030705	persona	406-414	607_QUEST_clinical_caseMIR	SENT3	-	-
-11	?	?	Fit	-	-	414-415	607_QUEST_clinical_caseMIR	SENT3	-	-
+1	Cuál	cuál	PT0CS000	-	-	361-365	607_QUEST_clinical_caseMIR	SENT3	-	-
+2	es	ser	VSIP3S0	-	-	366-368	607_QUEST_clinical_caseMIR	SENT3	-	-
+3	el	el	DA0MS0	-	-	369-371	607_QUEST_clinical_caseMIR	SENT3	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	372-383	607_QUEST_clinical_caseMIR	SENT3	-	-
+5	más	más	RG	C0205172	calificador	384-387	607_QUEST_clinical_caseMIR	SENT3	-	-
+6	adecuado	adecuar	VMP00SM	-	-	388-396	607_QUEST_clinical_caseMIR	SENT3	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	397-399	607_QUEST_clinical_caseMIR	SENT3	-	-
+8	esta	este	DD0FS0	-	-	400-404	607_QUEST_clinical_caseMIR	SENT3	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	405-413	607_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	413-414	607_QUEST_clinical_caseMIR	SENT3	-	-
 

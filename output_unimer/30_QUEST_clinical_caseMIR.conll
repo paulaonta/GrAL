@@ -56,7 +56,7 @@
 4	basa	basar	VMM02S0	-	-	307-311	30_QUEST_clinical_caseMIR	SENT3	-	-
 5	les	le	PP3CPD00	C1292157#C0409974	hallazgo#trastorno	311-314	30_QUEST_clinical_caseMIR	SENT3	-	-
 6	son	ser	VSIP3P0	-	-	315-318	30_QUEST_clinical_caseMIR	SENT3	-	-
-7	:	:	Fd	-	-	318-319	30_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	318-319	30_QUEST_clinical_caseMIR	SENT3	-	-
 8	glucemia	glucemia	NCFS000	C2585282	entidad_observable	320-328	30_QUEST_clinical_caseMIR	SENT3	-	-
 9	120	120	Z	-	-	329-332	30_QUEST_clinical_caseMIR	SENT3	-	-
 10	mg	mg	NCMN000	-	-	333-335	30_QUEST_clinical_caseMIR	SENT3	-	-
@@ -76,4 +76,16 @@
 24	/	/	Fh	-	-	377-378	30_QUEST_clinical_caseMIR	SENT3	-	-
 25	dl	decilitro	NCMN000	C0439241	calificador	378-380	30_QUEST_clinical_caseMIR	SENT3	-	-
 26	.	.	Fp	-	-	380-381	30_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Considera	considerar	VMIP3S0	-	-	382-391	30_QUEST_clinical_caseMIR	SENT4	-	-
+2	respecto	respecto	NCMS000	-	-	392-400	30_QUEST_clinical_caseMIR	SENT4	-	-
+3	al	al	SP+DA	-	-	401-403	30_QUEST_clinical_caseMIR	SENT4	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	404-415	30_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	416-418	30_QUEST_clinical_caseMIR	SENT4	-	-
+6	los	el	DA0MP0	-	-	419-422	30_QUEST_clinical_caseMIR	SENT4	-	-
+7	niveles	nivel	NCMP000	C0456079	atributo	423-430	30_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	431-433	30_QUEST_clinical_caseMIR	SENT4	-	-
+9	lípidos	lípido	NCMP000	C0023779	sustancia	434-441	30_QUEST_clinical_caseMIR	SENT4	-	-
+10	que	que	PR0CN000	-	-	442-445	30_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	445-446	30_QUEST_clinical_caseMIR	SENT4	-	-
 

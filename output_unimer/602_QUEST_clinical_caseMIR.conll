@@ -1,51 +1,39 @@
-1	De	de	SPS00	C0332285	atributo	695-697	602_QUEST_clinical_caseMIR	SENT1	-	-
-2	las	el	DA0FP0	-	-	698-701	602_QUEST_clinical_caseMIR	SENT1	-	-
-3	siguientes	siguiente	AQ0CP0	C0332282	atributo	702-712	602_QUEST_clinical_caseMIR	SENT1	-	-
-4	afirmaciones	afirmación	NCFP000	-	-	713-725	602_QUEST_clinical_caseMIR	SENT1	-	-
-5	,	,	Fc	-	-	725-726	602_QUEST_clinical_caseMIR	SENT1	-	-
-6	señale	señalar	VMSP3S0	-	-	727-733	602_QUEST_clinical_caseMIR	SENT1	-	-
-7	la	el	DA0FS0	-	-	734-736	602_QUEST_clinical_caseMIR	SENT1	-	-
-8	respuesta	respuesta	NCFS000	-	-	737-746	602_QUEST_clinical_caseMIR	SENT1	-	-
-9	que	que	PR0CN000	-	-	747-750	602_QUEST_clinical_caseMIR	SENT1	-	-
-10	considera	considerar	VMIP3S0	-	-	751-760	602_QUEST_clinical_caseMIR	SENT1	-	-
-11	CORRECTA	correcto	AQ0FS0	C0205170	calificador	761-769	602_QUEST_clinical_caseMIR	SENT1	-	-
-12	:	:	Fd	-	-	769-770	602_QUEST_clinical_caseMIR	SENT1	-	-
-13	Durante	durante	SPS00	C1444752#C0347984	atributo	0-7	602_QUEST_clinical_caseMIR	SENT1	-	-
-14	un	un		C0205447_1	calificador_1	8-10	602_QUEST_clinical_caseMIR	SENT1	-	-
-15	aviso	aviso	NCMS000	-	-	11-16	602_QUEST_clinical_caseMIR	SENT1	-	-
-16	nocturno	nocturno	AQ0MS0	C0240526	calificador	17-25	602_QUEST_clinical_caseMIR	SENT1	-	-
-17	usted	usted	PP2CS00P	-	-	26-31	602_QUEST_clinical_caseMIR	SENT1	-	-
-18	acude	acudir	VMIP3S0	-	-	32-37	602_QUEST_clinical_caseMIR	SENT1	-	-
-19	al	al	SP+DA	-	-	38-40	602_QUEST_clinical_caseMIR	SENT1	-	-
-20	domicilio	domicilio	NCMS000	C1442065	entidad_observable	41-50	602_QUEST_clinical_caseMIR	SENT1	-	-
-21	de	de	SPS00	C0332285	atributo	51-53	602_QUEST_clinical_caseMIR	SENT1	-	-
-22	una	una		C0205447_1	calificador_1	54-57	602_QUEST_clinical_caseMIR	SENT1	-	-
-23	paciente	paciente	NCCS000	C0030705	persona	58-66	602_QUEST_clinical_caseMIR	SENT1	-	-
-24	de	de	SPS00	C0332285	atributo	67-69	602_QUEST_clinical_caseMIR	SENT1	-	-
-25	47	47		-	-	70-72	602_QUEST_clinical_caseMIR	SENT1	-	-
-26	años	año	NCMP000	C0439234	calificador	73-77	602_QUEST_clinical_caseMIR	SENT1	-	-
-27	de	de	SPS00	C0001779_1	entidad_observable_1	78-80	602_QUEST_clinical_caseMIR	SENT1	-	-
-28	edad	edad	NCFS000	C0001779_2	entidad_observable_2	81-85	602_QUEST_clinical_caseMIR	SENT1	-	-
-29	,	,	Fc	-	-	85-86	602_QUEST_clinical_caseMIR	SENT1	-	-
-30	diagnosticada	diagnosticar	VMP00SF	-	-	87-100	602_QUEST_clinical_caseMIR	SENT1	-	-
-31	de	de	SPS00	C0332285	atributo	101-103	602_QUEST_clinical_caseMIR	SENT1	-	-
-32	asma	asma	NCMS000	C0004096#C0085129#C1319018#C1260881	trastorno	104-108	602_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-33	y	y	CC	C1706368	calificador	109-110	602_QUEST_clinical_caseMIR	SENT1	-	-
-34	que	que	PR0CN000	-	-	111-114	602_QUEST_clinical_caseMIR	SENT1	-	-
-35	realiza	realizar	VMIP3S0	-	-	115-122	602_QUEST_clinical_caseMIR	SENT1	-	-
-36	habitualmente	habitualmente	RG	-	-	123-136	602_QUEST_clinical_caseMIR	SENT1	-	-
-37	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	137-148	602_QUEST_clinical_caseMIR	SENT1	-	-
-38	con	con	SPS00	C0332287	atributo	149-152	602_QUEST_clinical_caseMIR	SENT1	-	-
-39	un	un		C0205447_1	calificador_1	153-155	602_QUEST_clinical_caseMIR	SENT1	-	-
-40	corticoide	corticoide	NCMS000	-	-	156-166	602_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-41	inhalado	inhalar	VMP00SM	-	-	167-175	602_QUEST_clinical_caseMIR	SENT1	-	-
-42	y	y	CC	C1706368	calificador	176-177	602_QUEST_clinical_caseMIR	SENT1	-	-
-43	un	un		C0205447_1	calificador_1	178-180	602_QUEST_clinical_caseMIR	SENT1	-	-
-44	beta2	beta2		-	-	181-186	602_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-45	de	de	SPS00	C0332285	atributo	187-189	602_QUEST_clinical_caseMIR	SENT1	-	-
-46	larga	largo	AQ0FS0	C0439591_1	calificador_1	190-195	602_QUEST_clinical_caseMIR	SENT1	-	-
-47	duración	duración	NCFS000	C0439591_2	calificador_2	196-204	602_QUEST_clinical_caseMIR	SENT1	-	-
-48	.	.	Fp	-	-	204-205	602_QUEST_clinical_caseMIR	SENT1	-	-
+1	Durante	durante	SPS00	C1444752#C0347984	atributo	0-7	602_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	8-10	602_QUEST_clinical_caseMIR	SENT1	-	-
+3	aviso	aviso	NCMS000	-	-	11-16	602_QUEST_clinical_caseMIR	SENT1	-	-
+4	nocturno	nocturno	AQ0MS0	C0240526	calificador	17-25	602_QUEST_clinical_caseMIR	SENT1	-	-
+5	usted	usted	PP2CS00P	-	-	26-31	602_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	32-37	602_QUEST_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	38-40	602_QUEST_clinical_caseMIR	SENT1	-	-
+8	domicilio	domicilio	NCMS000	C1442065	entidad_observable	41-50	602_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	51-53	602_QUEST_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	54-57	602_QUEST_clinical_caseMIR	SENT1	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	58-66	602_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	67-69	602_QUEST_clinical_caseMIR	SENT1	-	-
+13	47	47		-	-	70-72	602_QUEST_clinical_caseMIR	SENT1	-	-
+14	años	año	NCMP000	C0439234	calificador	73-77	602_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0001779_1	entidad_observable_1	78-80	602_QUEST_clinical_caseMIR	SENT1	-	-
+16	edad	edad	NCFS000	C0001779_2	entidad_observable_2	81-85	602_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	85-86	602_QUEST_clinical_caseMIR	SENT1	-	-
+18	diagnosticada	diagnosticar	VMP00SF	-	-	87-100	602_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	101-103	602_QUEST_clinical_caseMIR	SENT1	-	-
+20	asma	asma	NCMS000	C0004096#C0085129#C1319018#C1260881	trastorno	104-108	602_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	y	y	CC	C1706368	calificador	109-110	602_QUEST_clinical_caseMIR	SENT1	-	-
+22	que	que	PR0CN000	-	-	111-114	602_QUEST_clinical_caseMIR	SENT1	-	-
+23	realiza	realizar	VMIP3S0	-	-	115-122	602_QUEST_clinical_caseMIR	SENT1	-	-
+24	habitualmente	habitualmente	RG	-	-	123-136	602_QUEST_clinical_caseMIR	SENT1	-	-
+25	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	137-148	602_QUEST_clinical_caseMIR	SENT1	-	-
+26	con	con	SPS00	C0332287	atributo	149-152	602_QUEST_clinical_caseMIR	SENT1	-	-
+27	un	un		C0205447_1	calificador_1	153-155	602_QUEST_clinical_caseMIR	SENT1	-	-
+28	corticoide	corticoide	NCMS000	-	-	156-166	602_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+29	inhalado	inhalar	VMP00SM	-	-	167-175	602_QUEST_clinical_caseMIR	SENT1	-	-
+30	y	y	CC	C1706368	calificador	176-177	602_QUEST_clinical_caseMIR	SENT1	-	-
+31	un	un		C0205447_1	calificador_1	178-180	602_QUEST_clinical_caseMIR	SENT1	-	-
+32	beta2	beta2		-	-	181-186	602_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+33	de	de	SPS00	C0332285	atributo	187-189	602_QUEST_clinical_caseMIR	SENT1	-	-
+34	larga	largo	AQ0FS0	C0439591_1	calificador_1	190-195	602_QUEST_clinical_caseMIR	SENT1	-	-
+35	duración	duración	NCFS000	C0439591_2	calificador_2	196-204	602_QUEST_clinical_caseMIR	SENT1	-	-
+36	.	.	Fp	-	-	204-205	602_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Su	su	DP3CS0	-	-	206-208	602_QUEST_clinical_caseMIR	SENT2	-	-
 2	familia	familia	NCFS000	C0015576	concepto_social	209-216	602_QUEST_clinical_caseMIR	SENT2	-	-
@@ -110,20 +98,19 @@
 29	asma	asma	NCMS000	C0004096#C0085129#C1319018#C1260881	trastorno	583-587	602_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
 30	.	.	Fp	-	-	587-588	602_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	¿	¿	Fia	-	-	589-590	602_QUEST_clinical_caseMIR	SENT4	-	-
-2	Cuál	cuál	PT0CS000	-	-	590-594	602_QUEST_clinical_caseMIR	SENT4	-	-
-3	de	de	SPS00	C0332285	atributo	595-597	602_QUEST_clinical_caseMIR	SENT4	-	-
-4	las	el	DA0FP0	-	-	598-601	602_QUEST_clinical_caseMIR	SENT4	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	602-612	602_QUEST_clinical_caseMIR	SENT4	-	-
-6	asociaciones	asociación	NCFP000	C0004083	atributo	613-625	602_QUEST_clinical_caseMIR	SENT4	-	-
-7	de	de	SPS00	C0332285	atributo	626-628	602_QUEST_clinical_caseMIR	SENT4	-	-
-8	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	629-638	602_QUEST_clinical_caseMIR	SENT4	-	-
-9	es	ser	VSIP3S0	-	-	639-641	602_QUEST_clinical_caseMIR	SENT4	-	-
-10	más	más	RG	C0205172	calificador	642-645	602_QUEST_clinical_caseMIR	SENT4	-	-
-11	probable	probable	AQ0CS0	C0332148	calificador	646-654	602_QUEST_clinical_caseMIR	SENT4	-	-
-12	que	que	CS	-	-	655-658	602_QUEST_clinical_caseMIR	SENT4	-	-
-13	usted	usted	PP2CS00P	-	-	659-664	602_QUEST_clinical_caseMIR	SENT4	-	-
-14	pueda	poder	VMSP3S0	-	-	665-670	602_QUEST_clinical_caseMIR	SENT4	-	-
-15	observar	observar	VMN0000	-	-	671-679	602_QUEST_clinical_caseMIR	SENT4	-	-
-16	?	?	Fit	-	-	679-680	602_QUEST_clinical_caseMIR	SENT4	-	-
+1	Cuál	cuál	PT0CS000	-	-	589-593	602_QUEST_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	594-596	602_QUEST_clinical_caseMIR	SENT4	-	-
+3	las	el	DA0FP0	-	-	597-600	602_QUEST_clinical_caseMIR	SENT4	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	601-611	602_QUEST_clinical_caseMIR	SENT4	-	-
+5	asociaciones	asociación	NCFP000	C0004083	atributo	612-624	602_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	625-627	602_QUEST_clinical_caseMIR	SENT4	-	-
+7	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	628-637	602_QUEST_clinical_caseMIR	SENT4	-	-
+8	es	ser	VSIP3S0	-	-	638-640	602_QUEST_clinical_caseMIR	SENT4	-	-
+9	más	más	RG	C0205172	calificador	641-644	602_QUEST_clinical_caseMIR	SENT4	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	645-653	602_QUEST_clinical_caseMIR	SENT4	-	-
+11	que	que	CS	-	-	654-657	602_QUEST_clinical_caseMIR	SENT4	-	-
+12	usted	usted	PP2CS00P	-	-	658-663	602_QUEST_clinical_caseMIR	SENT4	-	-
+13	pueda	poder	VMSP3S0	-	-	664-669	602_QUEST_clinical_caseMIR	SENT4	-	-
+14	observar	observar	VMN0000	-	-	670-678	602_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	678-679	602_QUEST_clinical_caseMIR	SENT4	-	-
 

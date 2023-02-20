@@ -76,3 +76,16 @@
 24	dilatada	dilatar	VMP00SF	-	-	393-401	762_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 25	.	.	Fp	-	-	401-402	762_QUEST_clinical_caseMIR	SENT5	-	-
 
+1	Con	con	SPS00	C0332287	atributo	403-406	762_QUEST_clinical_caseMIR	SENT6	-	-
+2	estos	este	DD0MP0	-	-	407-412	762_QUEST_clinical_caseMIR	SENT6	-	-
+3	datos	dato	NCMP000	-	-	413-418	762_QUEST_clinical_caseMIR	SENT6	-	-
+4	,	,	Fc	-	-	418-419	762_QUEST_clinical_caseMIR	SENT6	-	-
+5	.	.	Fp	-	-	420-421	762_QUEST_clinical_caseMIR	SENT6	-	-
+6	qué	qué	DT0CN0	-	-	422-425	762_QUEST_clinical_caseMIR	SENT6	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	426-437	762_QUEST_clinical_caseMIR	SENT6	-	-
+8	es	ser	VSIP3S0	-	-	438-440	762_QUEST_clinical_caseMIR	SENT6	-	-
+9	el	el	DA0MS0	C0205393_1	calificador_1	441-443	762_QUEST_clinical_caseMIR	SENT6	-	-
+10	más	más	RG	C0205393_2	calificador_2	444-447	762_QUEST_clinical_caseMIR	SENT6	-	-
+11	probable	probable	AQ0CS0	C0332148	calificador	448-456	762_QUEST_clinical_caseMIR	SENT6	-	-
+12	.	.	Fp	-	-	456-457	762_QUEST_clinical_caseMIR	SENT6	-	-
+

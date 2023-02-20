@@ -1,16 +1,11 @@
-1	Señale	señalar	VMM03S0	-	-	488-494	210_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	495-497	210_ANS_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	498-507	210_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	508-516	210_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	516-517	210_ANS_clinical_caseMIR	SENT1	-	-
-6	La	el	DA0FS0	-	-	0-2	210_ANS_clinical_caseMIR	SENT1	-	-
-7	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	3-11	210_ANS_clinical_caseMIR	SENT1	-	-
-8	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	12-23	210_ANS_clinical_caseMIR	SENT1	-	-
-9	es	ser	VSIP3S0	-	-	24-26	210_ANS_clinical_caseMIR	SENT1	-	-
-10	una	una		C0205447_1	calificador_1	27-30	210_ANS_clinical_caseMIR	SENT1	-	-
-11	apoplejía	apoplejía	NCFS000	C0032001_1	trastorno_1	31-40	210_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	hipofisaria	hipofisario	AQ0FS0	C0032001_2	trastorno_2	41-52	210_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	.	.	Fp	-	-	52-53	210_ANS_clinical_caseMIR	SENT1	-	-
+1	La	el	DA0FS0	-	-	0-2	210_ANS_clinical_caseMIR	SENT1	-	-
+2	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	3-11	210_ANS_clinical_caseMIR	SENT1	-	-
+3	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	12-23	210_ANS_clinical_caseMIR	SENT1	-	-
+4	es	ser	VSIP3S0	-	-	24-26	210_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	27-30	210_ANS_clinical_caseMIR	SENT1	-	-
+6	apoplejía	apoplejía	NCFS000	C0032001_1	trastorno_1	31-40	210_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	hipofisaria	hipofisario	AQ0FS0	C0032001_2	trastorno_2	41-52	210_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	52-53	210_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Se	se	P00CN000	-	-	0-2	210_ANS_clinical_caseMIR	SENT2	-	-
 2	debería	deber	VMIC3S0	-	-	3-10	210_ANS_clinical_caseMIR	SENT2	-	-

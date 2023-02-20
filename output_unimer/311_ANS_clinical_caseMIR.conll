@@ -1,9 +1,6 @@
-1	A	a	SPS00	-	-	546-547	311_ANS_clinical_caseMIR	SENT1	-	-
-2	continuación	continuación	NCFS000	-	-	548-560	311_ANS_clinical_caseMIR	SENT1	-	-
-3	:	:	Fd	-	-	560-561	311_ANS_clinical_caseMIR	SENT1	-	-
-4	Polidipsia	polidipsia	NCFS000	C0395005#C0268813_1	trastorno_1	0-10	311_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-5	primaria	primario	AQ0FS0	C0395005#C0268813_2	trastorno_2	11-19	311_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-6	.	.	Fp	-	-	19-20	311_ANS_clinical_caseMIR	SENT1	-	-
+1	Polidipsia	polidipsia	NCFS000	C0395005#C0268813_1	trastorno_1	0-10	311_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	primaria	primario	AQ0FS0	C0395005#C0268813_2	trastorno_2	11-19	311_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	19-20	311_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Diabetes	diabetes	NCFN000	C0011848_1	trastorno_1	0-8	311_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	insípida	insípido	AQ0FS0	C0011848_2	trastorno_2	9-17	311_ANS_clinical_caseMIR	SENT2	B-Calificador	-

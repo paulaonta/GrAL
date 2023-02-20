@@ -56,7 +56,7 @@
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	334-336	305_QUEST_clinical_caseMIR	SENT4	-	-
 2	analítica	analítica	NCFS000	-	-	337-346	305_QUEST_clinical_caseMIR	SENT4	-	-
 3	presenta	presentar	VMIP3S0	-	-	347-355	305_QUEST_clinical_caseMIR	SENT4	-	-
-4	:	:	Fd	-	-	355-356	305_QUEST_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	355-356	305_QUEST_clinical_caseMIR	SENT4	-	-
 5	8000	8000		-	-	357-361	305_QUEST_clinical_caseMIR	SENT4	-	-
 6	leucucitos	leucucitos	NCMP000	-	-	362-372	305_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 7	/	/	Fh	-	-	372-373	305_QUEST_clinical_caseMIR	SENT4	-	-
@@ -121,17 +121,16 @@
 36	dL	decilitro	NCMN000	C0439241	calificador	608-610	305_QUEST_clinical_caseMIR	SENT5	-	-
 37	.	.	Fp	-	-	610-611	305_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	612-613	305_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	613-617	305_QUEST_clinical_caseMIR	SENT6	-	-
-3	es	ser	VSIP3S0	-	-	618-620	305_QUEST_clinical_caseMIR	SENT6	-	-
-4	la	el	DA0FS0	-	-	621-623	305_QUEST_clinical_caseMIR	SENT6	-	-
-5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	624-632	305_QUEST_clinical_caseMIR	SENT6	-	-
-6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	633-644	305_QUEST_clinical_caseMIR	SENT6	-	-
-7	más	más	RG	C0205172	calificador	645-648	305_QUEST_clinical_caseMIR	SENT6	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	649-657	305_QUEST_clinical_caseMIR	SENT6	-	-
-9	y	y	CC	C1706368	calificador	658-659	305_QUEST_clinical_caseMIR	SENT6	-	-
-10	cómo	cómo	PT000000	-	-	660-664	305_QUEST_clinical_caseMIR	SENT6	-	-
-11	lo	lo	PP3CNA00	-	-	665-667	305_QUEST_clinical_caseMIR	SENT6	-	-
-12	confirmaría	confirmar	VMIC3S0	-	-	668-679	305_QUEST_clinical_caseMIR	SENT6	-	-
-13	?	?	Fit	-	-	679-680	305_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	612-616	305_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	617-619	305_QUEST_clinical_caseMIR	SENT6	-	-
+3	la	el	DA0FS0	-	-	620-622	305_QUEST_clinical_caseMIR	SENT6	-	-
+4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	623-631	305_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	632-643	305_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	644-647	305_QUEST_clinical_caseMIR	SENT6	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	648-656	305_QUEST_clinical_caseMIR	SENT6	-	-
+8	y	y	CC	C1706368	calificador	657-658	305_QUEST_clinical_caseMIR	SENT6	-	-
+9	cómo	cómo	PT000000	-	-	659-663	305_QUEST_clinical_caseMIR	SENT6	-	-
+10	lo	lo	PP3CNA00	-	-	664-666	305_QUEST_clinical_caseMIR	SENT6	-	-
+11	confirmaría	confirmar	VMIC3S0	-	-	667-678	305_QUEST_clinical_caseMIR	SENT6	-	-
+12	.	.	Fp	-	-	678-679	305_QUEST_clinical_caseMIR	SENT6	-	-
 

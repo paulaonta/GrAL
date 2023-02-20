@@ -1,36 +1,14 @@
-1	¿	¿	Fia	-	-	283-284	784_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	284-288	784_QUEST_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	289-294	784_QUEST_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	295-297	784_QUEST_clinical_caseMIR	SENT1	-	-
-5	número	número	NCMS000	C0237753#C1265611	calificador#atributo	298-304	784_QUEST_clinical_caseMIR	SENT1	-	-
-6	necesario	necesario	AQ0MS0	-	-	305-314	784_QUEST_clinical_caseMIR	SENT1	-	-
-7	a	a	SPS00	-	-	315-316	784_QUEST_clinical_caseMIR	SENT1	-	-
-8	tratar	tratar	VMN0000	-	-	317-323	784_QUEST_clinical_caseMIR	SENT1	-	-
-9	(	(	Fpa	-	-	324-325	784_QUEST_clinical_caseMIR	SENT1	-	-
-10	NNT	nnt	NCMS000	-	-	325-328	784_QUEST_clinical_caseMIR	SENT1	-	-
-11	)	)	Fpt	-	-	328-329	784_QUEST_clinical_caseMIR	SENT1	-	-
-12	para	para	SPS00	C0521125	calificador	330-334	784_QUEST_clinical_caseMIR	SENT1	-	-
-13	prevenir	prevenir	VMN0000	-	-	335-343	784_QUEST_clinical_caseMIR	SENT1	-	-
-14	un	un		C0205447_1	calificador_1	344-346	784_QUEST_clinical_caseMIR	SENT1	-	-
-15	ictus	ictus	NCMN000	-	-	347-352	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-16	embolígeno	embolígeno	NCMS000	-	-	353-363	784_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-17	con	con	SPS00	C0332287	atributo	364-367	784_QUEST_clinical_caseMIR	SENT1	-	-
-18	el	el	DA0MS0	-	-	368-370	784_QUEST_clinical_caseMIR	SENT1	-	-
-19	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	371-382	784_QUEST_clinical_caseMIR	SENT1	-	-
-20	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	383-397	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-21	?	?	Fit	-	-	397-398	784_QUEST_clinical_caseMIR	SENT1	-	-
-22	:	:	Fd	-	-	398-399	784_QUEST_clinical_caseMIR	SENT1	-	-
-23	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	784_QUEST_clinical_caseMIR	SENT1	-	-
-24	de	de	SPS00	C0332285	atributo	6-8	784_QUEST_clinical_caseMIR	SENT1	-	-
-25	70	70		-	-	9-11	784_QUEST_clinical_caseMIR	SENT1	-	-
-26	años	año	NCMP000	C0439234	calificador	12-16	784_QUEST_clinical_caseMIR	SENT1	-	-
-27	que	que	PR0CN000	-	-	17-20	784_QUEST_clinical_caseMIR	SENT1	-	-
-28	acude	acudir	VMIP3S0	-	-	21-26	784_QUEST_clinical_caseMIR	SENT1	-	-
-29	a	a	SPS00	-	-	27-28	784_QUEST_clinical_caseMIR	SENT1	-	-
-30	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	784_QUEST_clinical_caseMIR	SENT1	-	-
-31	por	por	SPS00	C0678226	atributo	39-42	784_QUEST_clinical_caseMIR	SENT1	-	-
-32	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	43-50	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-33	.	.	Fp	-	-	50-51	784_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	784_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	784_QUEST_clinical_caseMIR	SENT1	-	-
+3	70	70		-	-	9-11	784_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	784_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	784_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	784_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	784_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	784_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	784_QUEST_clinical_caseMIR	SENT1	-	-
+10	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	43-50	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	50-51	784_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	784_QUEST_clinical_caseMIR	SENT2	-	-
 2	el	el	DA0MS0	-	-	55-57	784_QUEST_clinical_caseMIR	SENT2	-	-
@@ -91,4 +69,10 @@
 7	prueba	prueba	NCFS000	-	-	344-350	784_QUEST_clinical_caseMIR	SENT4	-	-
 8	inmunohematológica	inmunohematológica	AQ0FS00	-	-	351-369	784_QUEST_clinical_caseMIR	SENT4	-	-
 9	.	.	Fp	-	-	369-370	784_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Señale	señalar	VMM03S0	-	-	371-377	784_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	378-380	784_QUEST_clinical_caseMIR	SENT5	-	-
+3	respuesta	respuesta	NCFS000	-	-	381-390	784_QUEST_clinical_caseMIR	SENT5	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	391-399	784_QUEST_clinical_caseMIR	SENT5	-	-
+5	.	.	Fp	-	-	399-400	784_QUEST_clinical_caseMIR	SENT5	-	-
 

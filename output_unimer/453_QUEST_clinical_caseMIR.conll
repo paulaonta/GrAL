@@ -1,23 +1,13 @@
-1	Para	para	SPS00	C0521125	calificador	404-408	453_QUEST_clinical_caseMIR	SENT1	-	-
-2	confirmar	confirmar	VMN0000	-	-	409-418	453_QUEST_clinical_caseMIR	SENT1	-	-
-3	la	el	DA0FS0	-	-	419-421	453_QUEST_clinical_caseMIR	SENT1	-	-
-4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	422-430	453_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	431-442	453_QUEST_clinical_caseMIR	SENT1	-	-
-6	,	,	Fc	-	-	442-443	453_QUEST_clinical_caseMIR	SENT1	-	-
-7	vamos	ir	VMIP1P0	-	-	444-449	453_QUEST_clinical_caseMIR	SENT1	-	-
-8	a	a	SPS00	-	-	450-451	453_QUEST_clinical_caseMIR	SENT1	-	-
-9	solicitar	solicitar	VMN0000	-	-	452-461	453_QUEST_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	461-462	453_QUEST_clinical_caseMIR	SENT1	-	-
-11	Paciente	paciente	NCCS000	C0030705	persona	0-8	453_QUEST_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	9-11	453_QUEST_clinical_caseMIR	SENT1	-	-
-13	51	51		-	-	12-14	453_QUEST_clinical_caseMIR	SENT1	-	-
-14	años	año	NCMP000	C0439234	calificador	15-19	453_QUEST_clinical_caseMIR	SENT1	-	-
-15	,	,	Fc	-	-	19-20	453_QUEST_clinical_caseMIR	SENT1	-	-
-16	sin	sin	SPS00	C0332122_1	calificador_1	21-24	453_QUEST_clinical_caseMIR	SENT1	-	-
-17	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	25-37	453_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332122_3	calificador_3	38-40	453_QUEST_clinical_caseMIR	SENT1	-	-
-19	interés	interés	NCMS000	-	-	41-48	453_QUEST_clinical_caseMIR	SENT1	-	-
-20	.	.	Fp	-	-	48-49	453_QUEST_clinical_caseMIR	SENT1	-	-
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	453_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	453_QUEST_clinical_caseMIR	SENT1	-	-
+3	51	51		-	-	12-14	453_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	453_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	19-20	453_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332122_1	calificador_1	21-24	453_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	25-37	453_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332122_3	calificador_3	38-40	453_QUEST_clinical_caseMIR	SENT1	-	-
+9	interés	interés	NCMS000	-	-	41-48	453_QUEST_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	48-49	453_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	50-58	453_QUEST_clinical_caseMIR	SENT2	-	-
 2	por	por	SPS00	C1704447_2	calificador_2	59-62	453_QUEST_clinical_caseMIR	SENT2	-	-
@@ -108,13 +98,12 @@
 15	derecho	derecho	NCMS000	C1284910#C0230127_2	estructura_corporal_2	514-521	453_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
 16	.	.	Fp	-	-	521-522	453_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	¿	¿	Fia	-	-	523-524	453_QUEST_clinical_caseMIR	SENT7	-	-
-2	Cuál	cuál	PT0CS000	-	-	524-528	453_QUEST_clinical_caseMIR	SENT7	-	-
-3	debería	deber	VMIC3S0	-	-	529-536	453_QUEST_clinical_caseMIR	SENT7	-	-
-4	ser	ser	VSN0000	-	-	537-540	453_QUEST_clinical_caseMIR	SENT7	-	-
-5	la	el	DA0FS0	-	-	541-543	453_QUEST_clinical_caseMIR	SENT7	-	-
-6	actitud	actitud	NCFS000	C0004271	entidad_observable	544-551	453_QUEST_clinical_caseMIR	SENT7	-	-
-7	a	a	SPS00	-	-	552-553	453_QUEST_clinical_caseMIR	SENT7	-	-
-8	seguir	seguir	VMN0000	-	-	554-560	453_QUEST_clinical_caseMIR	SENT7	-	-
-9	?	?	Fit	-	-	560-561	453_QUEST_clinical_caseMIR	SENT7	-	-
+1	Cuál	cuál	PT0CS000	-	-	523-527	453_QUEST_clinical_caseMIR	SENT7	-	-
+2	debería	deber	VMIC3S0	-	-	528-535	453_QUEST_clinical_caseMIR	SENT7	-	-
+3	ser	ser	VSN0000	-	-	536-539	453_QUEST_clinical_caseMIR	SENT7	-	-
+4	la	el	DA0FS0	-	-	540-542	453_QUEST_clinical_caseMIR	SENT7	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	543-550	453_QUEST_clinical_caseMIR	SENT7	-	-
+6	a	a	SPS00	-	-	551-552	453_QUEST_clinical_caseMIR	SENT7	-	-
+7	seguir	seguir	VMN0000	-	-	553-559	453_QUEST_clinical_caseMIR	SENT7	-	-
+8	.	.	Fp	-	-	559-560	453_QUEST_clinical_caseMIR	SENT7	-	-
 

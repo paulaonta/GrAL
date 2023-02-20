@@ -1,38 +1,24 @@
-1	Señale	señalar	VMM03S0	-	-	148-154	251_QUEST_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	155-157	251_QUEST_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	158-167	251_QUEST_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	168-176	251_QUEST_clinical_caseMIR	SENT1	-	-
-5	en	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	251_QUEST_clinical_caseMIR	SENT1	-	-
-6	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	180-188	251_QUEST_clinical_caseMIR	SENT1	-	-
-7	a	a	SPS00	-	-	189-190	251_QUEST_clinical_caseMIR	SENT1	-	-
-8	qué	qué	DT0CN0	-	-	191-194	251_QUEST_clinical_caseMIR	SENT1	-	-
-9	tipo	tipo	NCMS000	C0332307	calificador#atributo	195-199	251_QUEST_clinical_caseMIR	SENT1	-	-
-10	de	de	SPS00	C0332285	atributo	200-202	251_QUEST_clinical_caseMIR	SENT1	-	-
-11	contraceptivo	contraceptivo	AQ0MS00	-	-	203-216	251_QUEST_clinical_caseMIR	SENT1	-	-
-12	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	217-219	251_QUEST_clinical_caseMIR	SENT1	-	-
-13	prescribiría	prescribir	VMIC3S0	-	-	220-232	251_QUEST_clinical_caseMIR	SENT1	-	-
-14	:	:	Fd	-	-	232-233	251_QUEST_clinical_caseMIR	SENT1	-	-
-15	Una	Una		C0205447_1	calificador_1	0-3	251_QUEST_clinical_caseMIR	SENT1	-	-
-16	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	251_QUEST_clinical_caseMIR	SENT1	-	-
-17	de	de	SPS00	C0332285	atributo	10-12	251_QUEST_clinical_caseMIR	SENT1	-	-
-18	78	78		-	-	13-15	251_QUEST_clinical_caseMIR	SENT1	-	-
-19	años	año	NCMP000	C0439234	calificador	16-20	251_QUEST_clinical_caseMIR	SENT1	-	-
-20	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	251_QUEST_clinical_caseMIR	SENT1	-	-
-21	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	251_QUEST_clinical_caseMIR	SENT1	-	-
-22	está	estar	VAIP3S0	-	-	29-33	251_QUEST_clinical_caseMIR	SENT1	-	-
-23	siendo	ser	VSG0000	-	-	34-40	251_QUEST_clinical_caseMIR	SENT1	-	-
-24	intervenida	intervenir	VMP00SF	-	-	41-52	251_QUEST_clinical_caseMIR	SENT1	-	-
-25	para	para	SPS00	C0521125	calificador	53-57	251_QUEST_clinical_caseMIR	SENT1	-	-
-26	implantar	implantar	VMN0000	-	-	58-67	251_QUEST_clinical_caseMIR	SENT1	-	-
-27	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	67-69	251_QUEST_clinical_caseMIR	SENT1	-	-
-28	un	un		C0205447_1	calificador_1	70-72	251_QUEST_clinical_caseMIR	SENT1	-	-
-29	marcapasos	marcapasos	NCMN000	-	-	73-83	251_QUEST_clinical_caseMIR	SENT1	-	-
-30	definitivo	definitivo	AQ0MS0	C0443196	calificador	84-94	251_QUEST_clinical_caseMIR	SENT1	-	-
-31	por	por	SPS00	C0678226	atributo	95-98	251_QUEST_clinical_caseMIR	SENT1	-	-
-32	un	un		C0205447_1	calificador_1	99-101	251_QUEST_clinical_caseMIR	SENT1	-	-
-33	bloqueo	bloqueo	NCMS000	C0004245_1	trastorno_1	102-109	251_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-34	aurículo-ventricular	aurículo-ventricular		C0004245_2	trastorno_2	110-130	251_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-35	.	.	Fp	-	-	130-131	251_QUEST_clinical_caseMIR	SENT1	-	-
+1	Una	Una		C0205447_1	calificador_1	0-3	251_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	251_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	251_QUEST_clinical_caseMIR	SENT1	-	-
+4	78	78		-	-	13-15	251_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	251_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	251_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	251_QUEST_clinical_caseMIR	SENT1	-	-
+8	está	estar	VAIP3S0	-	-	29-33	251_QUEST_clinical_caseMIR	SENT1	-	-
+9	siendo	ser	VSG0000	-	-	34-40	251_QUEST_clinical_caseMIR	SENT1	-	-
+10	intervenida	intervenir	VMP00SF	-	-	41-52	251_QUEST_clinical_caseMIR	SENT1	-	-
+11	para	para	SPS00	C0521125	calificador	53-57	251_QUEST_clinical_caseMIR	SENT1	-	-
+12	implantar	implantar	VMN0000	-	-	58-67	251_QUEST_clinical_caseMIR	SENT1	-	-
+13	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	67-69	251_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	70-72	251_QUEST_clinical_caseMIR	SENT1	-	-
+15	marcapasos	marcapasos	NCMN000	-	-	73-83	251_QUEST_clinical_caseMIR	SENT1	-	-
+16	definitivo	definitivo	AQ0MS0	C0443196	calificador	84-94	251_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	95-98	251_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	99-101	251_QUEST_clinical_caseMIR	SENT1	-	-
+19	bloqueo	bloqueo	NCMS000	C0004245_1	trastorno_1	102-109	251_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	aurículo-ventricular	aurículo-ventricular		C0004245_2	trastorno_2	110-130	251_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	.	.	Fp	-	-	130-131	251_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Entre	entre	SPS00	C0205103	calificador	132-137	251_QUEST_clinical_caseMIR	SENT2	-	-
 2	sus	su	DP3CP0	-	-	138-141	251_QUEST_clinical_caseMIR	SENT2	-	-
@@ -125,4 +111,18 @@
 17	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	660-672	251_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 18	superiores	superior	AQ0CP0	C1282910	calificador	673-683	251_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
 19	.	.	Fp	-	-	683-684	251_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	685-689	251_QUEST_clinical_caseMIR	SENT7	-	-
+2	sería	ser	VSIC1S0	-	-	690-695	251_QUEST_clinical_caseMIR	SENT7	-	-
+3	la	el	DA0FS0	-	-	696-698	251_QUEST_clinical_caseMIR	SENT7	-	-
+4	actitud	actitud	NCFS000	C0004271	entidad_observable	699-706	251_QUEST_clinical_caseMIR	SENT7	-	-
+5	más	más	RG	C0205172	calificador	707-710	251_QUEST_clinical_caseMIR	SENT7	-	-
+6	lógica	lógico	AQ0FS0	-	-	711-717	251_QUEST_clinical_caseMIR	SENT7	-	-
+7	a	a	SPS00	-	-	718-719	251_QUEST_clinical_caseMIR	SENT7	-	-
+8	seguir	seguir	VMN0000	-	-	720-726	251_QUEST_clinical_caseMIR	SENT7	-	-
+9	ante	ante	SPS00	-	-	727-731	251_QUEST_clinical_caseMIR	SENT7	-	-
+10	este	este	DD0MS0	-	-	732-736	251_QUEST_clinical_caseMIR	SENT7	-	-
+11	cuadro	cuadro	NCMS000	-	-	737-743	251_QUEST_clinical_caseMIR	SENT7	-	-
+12	clínico	clínico	AQ0MS0	C0205210	calificador	744-751	251_QUEST_clinical_caseMIR	SENT7	-	-
+13	.	.	Fp	-	-	751-752	251_QUEST_clinical_caseMIR	SENT7	-	-
 

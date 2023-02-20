@@ -1,33 +1,22 @@
-1	¿	¿	Fia	-	-	615-616	287_ANS_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	616-619	287_ANS_clinical_caseMIR	SENT1	-	-
-3	prueba	prueba	NCFS000	-	-	620-626	287_ANS_clinical_caseMIR	SENT1	-	-
-4	pediría	pedir	VMIC3S0	-	-	627-634	287_ANS_clinical_caseMIR	SENT1	-	-
-5	para	para	SPS00	C0521125	calificador	635-639	287_ANS_clinical_caseMIR	SENT1	-	-
-6	establecer	establecer	VMN0000	-	-	640-650	287_ANS_clinical_caseMIR	SENT1	-	-
-7	el	el	DA0MS0	-	-	651-653	287_ANS_clinical_caseMIR	SENT1	-	-
-8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	654-665	287_ANS_clinical_caseMIR	SENT1	-	-
-9	definitivo	definitivo	AQ0MS0	C0443196	calificador	666-676	287_ANS_clinical_caseMIR	SENT1	-	-
-10	?	?	Fit	-	-	676-677	287_ANS_clinical_caseMIR	SENT1	-	-
-11	:	:	Fd	-	-	677-678	287_ANS_clinical_caseMIR	SENT1	-	-
-12	El	el	DA0MS0	-	-	0-2	287_ANS_clinical_caseMIR	SENT1	-	-
-13	paciente	paciente	AQ0CS0	C0030705	persona	3-11	287_ANS_clinical_caseMIR	SENT1	-	-
-14	probablemente	probablemente	RG	C1444704_1	calificador_1	12-25	287_ANS_clinical_caseMIR	SENT1	-	-
-15	presente	presente	NCMS000	C1444704_2	calificador_2	26-34	287_ANS_clinical_caseMIR	SENT1	-	-
-16	una	una		C0205447_1	calificador_1	35-38	287_ANS_clinical_caseMIR	SENT1	-	-
-17	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	39-47	287_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	y	y	CC	C1706368	calificador	48-49	287_ANS_clinical_caseMIR	SENT1	-	-
-19	lo	el	DA0NS0	-	-	50-52	287_ANS_clinical_caseMIR	SENT1	-	-
-20	prioritario	prioritario	AQ0MS0	-	-	53-64	287_ANS_clinical_caseMIR	SENT1	-	-
-21	es	ser	VSIP3S0	-	-	65-67	287_ANS_clinical_caseMIR	SENT1	-	-
-22	realizar	realizar	VMN0000	-	-	68-76	287_ANS_clinical_caseMIR	SENT1	-	-
-23	una	una		C0205447_1	calificador_1	77-80	287_ANS_clinical_caseMIR	SENT1	-	-
-24	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	81-83	287_ANS_clinical_caseMIR	SENT1	-	-
-25	de	de	SPS00	C0039985_2	procedimiento_2	84-86	287_ANS_clinical_caseMIR	SENT1	-	-
-26	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	87-92	287_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-27	para	para	SPS00	C0521125	calificador	93-97	287_ANS_clinical_caseMIR	SENT1	-	-
-28	confirmar	confirmar	VMN0000	-	-	98-107	287_ANS_clinical_caseMIR	SENT1	-	-
-29	lo	lo	PP3CNA00	-	-	107-109	287_ANS_clinical_caseMIR	SENT1	-	-
-30	.	.	Fp	-	-	109-110	287_ANS_clinical_caseMIR	SENT1	-	-
+1	El	el	DA0MS0	-	-	0-2	287_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	AQ0CS0	C0030705	persona	3-11	287_ANS_clinical_caseMIR	SENT1	-	-
+3	probablemente	probablemente	RG	C1444704_1	calificador_1	12-25	287_ANS_clinical_caseMIR	SENT1	-	-
+4	presente	presente	NCMS000	C1444704_2	calificador_2	26-34	287_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	35-38	287_ANS_clinical_caseMIR	SENT1	-	-
+6	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	39-47	287_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	48-49	287_ANS_clinical_caseMIR	SENT1	-	-
+8	lo	el	DA0NS0	-	-	50-52	287_ANS_clinical_caseMIR	SENT1	-	-
+9	prioritario	prioritario	AQ0MS0	-	-	53-64	287_ANS_clinical_caseMIR	SENT1	-	-
+10	es	ser	VSIP3S0	-	-	65-67	287_ANS_clinical_caseMIR	SENT1	-	-
+11	realizar	realizar	VMN0000	-	-	68-76	287_ANS_clinical_caseMIR	SENT1	-	-
+12	una	una		C0205447_1	calificador_1	77-80	287_ANS_clinical_caseMIR	SENT1	-	-
+13	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	81-83	287_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0039985_2	procedimiento_2	84-86	287_ANS_clinical_caseMIR	SENT1	-	-
+15	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	87-92	287_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	para	para	SPS00	C0521125	calificador	93-97	287_ANS_clinical_caseMIR	SENT1	-	-
+17	confirmar	confirmar	VMN0000	-	-	98-107	287_ANS_clinical_caseMIR	SENT1	-	-
+18	lo	lo	PP3CNA00	-	-	107-109	287_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	109-110	287_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Probablemente	probablemente	RG	C0332148	calificador	0-13	287_ANS_clinical_caseMIR	SENT2	-	-
 2	se	se	P00CN000	-	-	14-16	287_ANS_clinical_caseMIR	SENT2	-	-

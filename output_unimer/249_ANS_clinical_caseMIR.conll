@@ -1,13 +1,8 @@
-1	Señale	señalar	VMM03S0	-	-	559-565	249_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	566-568	249_ANS_clinical_caseMIR	SENT1	-	-
-3	actuación	actuación	NCFS000	C0699820	hallazgo	569-578	249_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	579-587	249_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	587-588	249_ANS_clinical_caseMIR	SENT1	-	-
-6	Fractura	fracturar	VMM02S0	-	-	0-8	249_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-7	vertebral	vertebral	AQ0CS0	-	-	9-18	249_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-8	lumbar	lumbar	NC00SC0	C0024090	calificador	19-25	249_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-9	osteoporótica	osteoporótica	AQ0FS00	-	-	26-39	249_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-10	.	.	Fp	-	-	39-40	249_ANS_clinical_caseMIR	SENT1	-	-
+1	Fractura	fracturar	VMM02S0	-	-	0-8	249_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	vertebral	vertebral	AQ0CS0	-	-	9-18	249_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	lumbar	lumbar	NC00SC0	C0024090	calificador	19-25	249_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+4	osteoporótica	osteoporótica	AQ0FS00	-	-	26-39	249_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	.	.	Fp	-	-	39-40	249_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Hernia	herniar	VMM02S0	C0678212_1	trastorno_1	0-6	249_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	discal	discal	AQ0CS0	C0678212_2	trastorno_2	7-13	249_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

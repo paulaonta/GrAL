@@ -188,21 +188,20 @@
 14	apetito	apetito	NCMS000	C0003618	función	973-980	549_QUEST_clinical_caseMIR	SENT11	-	-
 15	.	.	Fp	-	-	980-981	549_QUEST_clinical_caseMIR	SENT11	-	-
 
-1	¿	¿	Fia	-	-	982-983	549_QUEST_clinical_caseMIR	SENT12	-	-
-2	Cuál	cuál	PT0CS000	-	-	983-987	549_QUEST_clinical_caseMIR	SENT12	-	-
-3	es	ser	VSIP3S0	-	-	988-990	549_QUEST_clinical_caseMIR	SENT12	-	-
-4	el	el	DA0MS0	-	-	991-993	549_QUEST_clinical_caseMIR	SENT12	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	994-1005	549_QUEST_clinical_caseMIR	SENT12	-	-
-6	que	que	PR0CN000	-	-	1006-1009	549_QUEST_clinical_caseMIR	SENT12	-	-
-7	se	se	P00CN000	-	-	1010-1012	549_QUEST_clinical_caseMIR	SENT12	-	-
-8	ajusta	ajustar	VMIP3S0	-	-	1013-1019	549_QUEST_clinical_caseMIR	SENT12	-	-
-9	más	más	RG	C0205172	calificador	1020-1023	549_QUEST_clinical_caseMIR	SENT12	-	-
-10	al	al	SP+DA	-	-	1024-1026	549_QUEST_clinical_caseMIR	SENT12	-	-
-11	cuadro	cuadro	NCMS000	-	-	1027-1033	549_QUEST_clinical_caseMIR	SENT12	-	-
-12	clínico	clínico	AQ0MS0	C0205210	calificador	1034-1041	549_QUEST_clinical_caseMIR	SENT12	-	-
-13	que	que	PR0CN000	-	-	1042-1045	549_QUEST_clinical_caseMIR	SENT12	-	-
-14	presenta	presentar	VMIP3S0	-	-	1046-1054	549_QUEST_clinical_caseMIR	SENT12	-	-
-15	la	el	DA0FS0	-	-	1055-1057	549_QUEST_clinical_caseMIR	SENT12	-	-
-16	paciente	paciente	NCCS000	C0030705	persona	1058-1066	549_QUEST_clinical_caseMIR	SENT12	-	-
-17	?	?	Fit	-	-	1066-1067	549_QUEST_clinical_caseMIR	SENT12	-	-
+1	Cuál	cuál	PT0CS000	-	-	982-986	549_QUEST_clinical_caseMIR	SENT12	-	-
+2	es	ser	VSIP3S0	-	-	987-989	549_QUEST_clinical_caseMIR	SENT12	-	-
+3	el	el	DA0MS0	-	-	990-992	549_QUEST_clinical_caseMIR	SENT12	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	993-1004	549_QUEST_clinical_caseMIR	SENT12	-	-
+5	que	que	PR0CN000	-	-	1005-1008	549_QUEST_clinical_caseMIR	SENT12	-	-
+6	se	se	P00CN000	-	-	1009-1011	549_QUEST_clinical_caseMIR	SENT12	-	-
+7	ajusta	ajustar	VMIP3S0	-	-	1012-1018	549_QUEST_clinical_caseMIR	SENT12	-	-
+8	más	más	RG	C0205172	calificador	1019-1022	549_QUEST_clinical_caseMIR	SENT12	-	-
+9	al	al	SP+DA	-	-	1023-1025	549_QUEST_clinical_caseMIR	SENT12	-	-
+10	cuadro	cuadro	NCMS000	-	-	1026-1032	549_QUEST_clinical_caseMIR	SENT12	-	-
+11	clínico	clínico	AQ0MS0	C0205210	calificador	1033-1040	549_QUEST_clinical_caseMIR	SENT12	-	-
+12	que	que	PR0CN000	-	-	1041-1044	549_QUEST_clinical_caseMIR	SENT12	-	-
+13	presenta	presentar	VMIP3S0	-	-	1045-1053	549_QUEST_clinical_caseMIR	SENT12	-	-
+14	la	el	DA0FS0	-	-	1054-1056	549_QUEST_clinical_caseMIR	SENT12	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	1057-1065	549_QUEST_clinical_caseMIR	SENT12	-	-
+16	.	.	Fp	-	-	1065-1066	549_QUEST_clinical_caseMIR	SENT12	-	-
 

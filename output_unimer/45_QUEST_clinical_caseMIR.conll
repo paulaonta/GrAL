@@ -1,0 +1,51 @@
+1	.	.	Fp	-	-	0-1	45_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	2-6	45_QUEST_clinical_caseMIR	SENT2	-	-
+2	sería	ser	VSIC1S0	-	-	7-12	45_QUEST_clinical_caseMIR	SENT2	-	-
+3	el	el	DA0MS0	-	-	13-15	45_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	16-27	45_QUEST_clinical_caseMIR	SENT2	-	-
+5	más	más	RG	C0205172	calificador	28-31	45_QUEST_clinical_caseMIR	SENT2	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	32-40	45_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	41-43	45_QUEST_clinical_caseMIR	SENT2	-	-
+8	un	un		C0205447_1	calificador_1	44-46	45_QUEST_clinical_caseMIR	SENT2	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	47-55	45_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	56-58	45_QUEST_clinical_caseMIR	SENT2	-	-
+11	35	35		-	-	59-61	45_QUEST_clinical_caseMIR	SENT2	-	-
+12	años	año	NCMP000	C0439234	calificador	62-66	45_QUEST_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0001779_1	entidad_observable_1	67-69	45_QUEST_clinical_caseMIR	SENT2	-	-
+14	edad	edad	NCFS000	C0001779_2	entidad_observable_2	70-74	45_QUEST_clinical_caseMIR	SENT2	-	-
+15	que	que	PR0CN000	-	-	75-78	45_QUEST_clinical_caseMIR	SENT2	-	-
+16	desde	desde	SPS00	-	-	79-84	45_QUEST_clinical_caseMIR	SENT2	-	-
+17	hace	hacer	VMIP3S0	-	-	85-89	45_QUEST_clinical_caseMIR	SENT2	-	-
+18	varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	90-96	45_QUEST_clinical_caseMIR	SENT2	-	-
+19	semanas	semana	NCFP000	C0439230	calificador	97-104	45_QUEST_clinical_caseMIR	SENT2	-	-
+20	presenta	presentar	VMIP3S0	-	-	105-113	45_QUEST_clinical_caseMIR	SENT2	-	-
+21	algún	alguno	DI0MS0	C0205392	calificador	114-119	45_QUEST_clinical_caseMIR	SENT2	-	-
+22	episodio	episodio	NCMS000	C0332189	atributo	120-128	45_QUEST_clinical_caseMIR	SENT2	-	-
+23	aislado	aislar	VMP00SM	-	-	129-136	45_QUEST_clinical_caseMIR	SENT2	-	-
+24	de	de	SPS00	C0332285	atributo	137-139	45_QUEST_clinical_caseMIR	SENT2	-	-
+25	hematuria	hematuria	NCFS000	C0018965	hallazgo#trastorno	140-149	45_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+26	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	150-154	45_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+27	,	,	Fc	-	-	154-155	45_QUEST_clinical_caseMIR	SENT2	-	-
+28	dolor	dolor	NCMS000	C0030193	hallazgo	156-161	45_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	162-164	45_QUEST_clinical_caseMIR	SENT2	-	-
+30	flanco	flanco	NCMS000	C1284901#C0230171	estructura_corporal	165-171	45_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+31	de	de	SPS00	C0332307_1	atributo_1	172-174	45_QUEST_clinical_caseMIR	SENT2	-	-
+32	tipo	tipo	NCMS000	C0332307_2	atributo_2	175-179	45_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+33	cólico	cólico	AQ0MS0	C0423605#C0232488#C3665357	hallazgo	180-186	45_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+34	,	,	Fc	-	-	186-187	45_QUEST_clinical_caseMIR	SENT2	-	-
+35	polaquiuría	polaquiuría	NCFS000	-	-	188-199	45_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+36	y	y	CC	C1706368	calificador	200-201	45_QUEST_clinical_caseMIR	SENT2	-	-
+37	en	en	SPS00	C1720294#C0332285	calificador#atributo	202-204	45_QUEST_clinical_caseMIR	SENT2	-	-
+38	el	el	DA0MS0	-	-	205-207	45_QUEST_clinical_caseMIR	SENT2	-	-
+39	análisis	análisis	NCMN000	C0042014_1	procedimiento_1	208-216	45_QUEST_clinical_caseMIR	SENT2	-	-
+40	de	de	SPS00	C0042014_2	procedimiento_2	217-219	45_QUEST_clinical_caseMIR	SENT2	-	-
+41	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	220-225	45_QUEST_clinical_caseMIR	SENT2	-	-
+42	aparece	aparecer	VMIP3S0	-	-	226-233	45_QUEST_clinical_caseMIR	SENT2	-	-
+43	piuría	piuría	NCFS000	-	-	234-240	45_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+44	acida	acidar	VMIP3S0	-	-	241-246	45_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+45	con	con	SPS00	C0332287	atributo	247-250	45_QUEST_clinical_caseMIR	SENT2	-	-
+46	urocultivo	urocultivo	NC00SC0	C0430404	procedimiento	251-261	45_QUEST_clinical_caseMIR	SENT2	-	-
+47	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	262-270	45_QUEST_clinical_caseMIR	SENT2	-	-
+48	.	.	Fp	-	-	270-271	45_QUEST_clinical_caseMIR	SENT2	-	-
+

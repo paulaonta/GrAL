@@ -1,31 +1,21 @@
-1	¿	¿	Fia	-	-	442-443	110_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	443-447	110_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	448-450	110_QUEST_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	451-453	110_QUEST_clinical_caseMIR	SENT1	-	-
-5	hipótesis	hipótesis	NCFN000	-	-	454-463	110_QUEST_clinical_caseMIR	SENT1	-	-
-6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	464-475	110_QUEST_clinical_caseMIR	SENT1	-	-
-7	más	más	RG	C0205172	calificador	476-479	110_QUEST_clinical_caseMIR	SENT1	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	480-488	110_QUEST_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	488-489	110_QUEST_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	489-490	110_QUEST_clinical_caseMIR	SENT1	-	-
-11	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	110_QUEST_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	6-8	110_QUEST_clinical_caseMIR	SENT1	-	-
-13	56	56		-	-	9-11	110_QUEST_clinical_caseMIR	SENT1	-	-
-14	años	año	NCMP000	C0439234	calificador	12-16	110_QUEST_clinical_caseMIR	SENT1	-	-
-15	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	110_QUEST_clinical_caseMIR	SENT1	-	-
-16	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	110_QUEST_clinical_caseMIR	SENT1	-	-
-17	,	,	Fc	-	-	24-25	110_QUEST_clinical_caseMIR	SENT1	-	-
-18	con	con	SPS00	C0332287	atributo	26-29	110_QUEST_clinical_caseMIR	SENT1	-	-
-19	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	30-42	110_QUEST_clinical_caseMIR	SENT1	-	-
-20	de	de	SPS00	C0332119_2	situación_2	43-45	110_QUEST_clinical_caseMIR	SENT1	-	-
-21	esquizofrenia	esquizofrenia	NCFS000	C0036341	trastorno	46-59	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-22	bien	bien	RG	C0205170	calificador	60-64	110_QUEST_clinical_caseMIR	SENT1	-	-
-23	controlada	controlar	VMP00SF	-	-	65-75	110_QUEST_clinical_caseMIR	SENT1	-	-
-24	,	,	Fc	-	-	75-76	110_QUEST_clinical_caseMIR	SENT1	-	-
-25	sin	sin	SPS00	C0332288	atributo	77-80	110_QUEST_clinical_caseMIR	SENT1	-	-
-26	hábitos	hábito	NCMP000	C0018464	hallazgo	81-88	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
-27	tóxicos	tóxico	AQ0MP0	-	-	89-96	110_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-28	.	.	Fp	-	-	96-97	110_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	110_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	110_QUEST_clinical_caseMIR	SENT1	-	-
+3	56	56		-	-	9-11	110_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	110_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	110_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	110_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	24-25	110_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	26-29	110_QUEST_clinical_caseMIR	SENT1	-	-
+9	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	30-42	110_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332119_2	situación_2	43-45	110_QUEST_clinical_caseMIR	SENT1	-	-
+11	esquizofrenia	esquizofrenia	NCFS000	C0036341	trastorno	46-59	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	bien	bien	RG	C0205170	calificador	60-64	110_QUEST_clinical_caseMIR	SENT1	-	-
+13	controlada	controlar	VMP00SF	-	-	65-75	110_QUEST_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	75-76	110_QUEST_clinical_caseMIR	SENT1	-	-
+15	sin	sin	SPS00	C0332288	atributo	77-80	110_QUEST_clinical_caseMIR	SENT1	-	-
+16	hábitos	hábito	NCMP000	C0018464	hallazgo	81-88	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+17	tóxicos	tóxico	AQ0MP0	-	-	89-96	110_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+18	.	.	Fp	-	-	96-97	110_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Ingresada	ingresar	VMP00SF	-	-	98-107	110_QUEST_clinical_caseMIR	SENT2	-	-
 2	por	por	SPS00	C0678226	atributo	108-111	110_QUEST_clinical_caseMIR	SENT2	-	-
@@ -74,4 +64,11 @@
 5	estudios	estudio	NCMP000	C0557651	medio_ambiente	368-376	110_QUEST_clinical_caseMIR	SENT4	-	-
 6	microbiológicos	microbiológico	AQ0MP0	-	-	377-392	110_QUEST_clinical_caseMIR	SENT4	-	-
 7	.	.	Fp	-	-	392-393	110_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	394-396	110_QUEST_clinical_caseMIR	SENT5	-	-
+2	conducta	conducta	NCFS000	C0004927	hallazgo	397-405	110_QUEST_clinical_caseMIR	SENT5	-	-
+3	más	más	RG	C0205172	calificador	406-409	110_QUEST_clinical_caseMIR	SENT5	-	-
+4	adecuada	adecuar	VMP00SF	-	-	410-418	110_QUEST_clinical_caseMIR	SENT5	-	-
+5	es	ser	VSIP3S0	-	-	419-421	110_QUEST_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	421-422	110_QUEST_clinical_caseMIR	SENT5	-	-
 

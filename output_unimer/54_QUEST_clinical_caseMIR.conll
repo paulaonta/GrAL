@@ -1,33 +1,17 @@
-1	¿	¿	Fia	-	-	583-584	54_QUEST_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	584-587	54_QUEST_clinical_caseMIR	SENT1	-	-
-3	prueba	prueba	NCFS000	-	-	588-594	54_QUEST_clinical_caseMIR	SENT1	-	-
-4	sería	ser	VSIC1S0	-	-	595-600	54_QUEST_clinical_caseMIR	SENT1	-	-
-5	más	más	RG	C0205172	calificador	601-604	54_QUEST_clinical_caseMIR	SENT1	-	-
-6	útil	útil	AQ0CS0	-	-	605-609	54_QUEST_clinical_caseMIR	SENT1	-	-
-7	para	para	SPS00	C0521125	calificador	610-614	54_QUEST_clinical_caseMIR	SENT1	-	-
-8	confirmar	confirmar	VMN0000	-	-	615-624	54_QUEST_clinical_caseMIR	SENT1	-	-
-9	la	el	DA0FS0	-	-	625-627	54_QUEST_clinical_caseMIR	SENT1	-	-
-10	causa	causa	NCFS000	-	-	628-633	54_QUEST_clinical_caseMIR	SENT1	-	-
-11	más	más	RG	C0205172	calificador	634-637	54_QUEST_clinical_caseMIR	SENT1	-	-
-12	probable	probable	AQ0CS0	C0332148	calificador	638-646	54_QUEST_clinical_caseMIR	SENT1	-	-
-13	del	del	SP+DA	-	-	647-650	54_QUEST_clinical_caseMIR	SENT1	-	-
-14	cuadro	cuadro	NCMS000	-	-	651-657	54_QUEST_clinical_caseMIR	SENT1	-	-
-15	?	?	Fit	-	-	657-658	54_QUEST_clinical_caseMIR	SENT1	-	-
-16	:	:	Fd	-	-	658-659	54_QUEST_clinical_caseMIR	SENT1	-	-
-17	Paciente	paciente	NCCS000	C0030705	persona	0-8	54_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	9-11	54_QUEST_clinical_caseMIR	SENT1	-	-
-19	39	39		-	-	12-14	54_QUEST_clinical_caseMIR	SENT1	-	-
-20	años	año	NCMP000	C0439234	calificador	15-19	54_QUEST_clinical_caseMIR	SENT1	-	-
-21	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	54_QUEST_clinical_caseMIR	SENT1	-	-
-22	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	54_QUEST_clinical_caseMIR	SENT1	-	-
-23	sin	sin	SPS00	C0332288	atributo	28-31	54_QUEST_clinical_caseMIR	SENT1	-	-
-24	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	32-44	54_QUEST_clinical_caseMIR	SENT1	-	-
-25	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	45-55	54_QUEST_clinical_caseMIR	SENT1	-	-
-26	ni	ni	CC	-	-	56-58	54_QUEST_clinical_caseMIR	SENT1	-	-
-27	personales	personal	AQ0CP0	-	-	59-69	54_QUEST_clinical_caseMIR	SENT1	-	-
-28	de	de	SPS00	C0332285	atributo	70-72	54_QUEST_clinical_caseMIR	SENT1	-	-
-29	interés	interés	NCMS000	-	-	73-80	54_QUEST_clinical_caseMIR	SENT1	-	-
-30	.	.	Fp	-	-	80-81	54_QUEST_clinical_caseMIR	SENT1	-	-
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	54_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	54_QUEST_clinical_caseMIR	SENT1	-	-
+3	39	39		-	-	12-14	54_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	54_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	54_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	54_QUEST_clinical_caseMIR	SENT1	-	-
+7	sin	sin	SPS00	C0332288	atributo	28-31	54_QUEST_clinical_caseMIR	SENT1	-	-
+8	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	32-44	54_QUEST_clinical_caseMIR	SENT1	-	-
+9	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	45-55	54_QUEST_clinical_caseMIR	SENT1	-	-
+10	ni	ni	CC	-	-	56-58	54_QUEST_clinical_caseMIR	SENT1	-	-
+11	personales	personal	AQ0CP0	-	-	59-69	54_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	70-72	54_QUEST_clinical_caseMIR	SENT1	-	-
+13	interés	interés	NCMS000	-	-	73-80	54_QUEST_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	80-81	54_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	82-90	54_QUEST_clinical_caseMIR	SENT2	-	-
 2	por	por	SPS00	C1704447_2	calificador_2	91-94	54_QUEST_clinical_caseMIR	SENT2	-	-
@@ -110,4 +94,13 @@
 32	en	en	SPS00	C1720294#C0332285	calificador#atributo	560-562	54_QUEST_clinical_caseMIR	SENT4	-	-
 33	hígado	hígado	NCMS000	C1278929#C0023884	estructura_corporal	563-569	54_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 34	.	.	Fp	-	-	569-570	54_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	571-575	54_QUEST_clinical_caseMIR	SENT5	-	-
+2	sería	ser	VSIC1S0	-	-	576-581	54_QUEST_clinical_caseMIR	SENT5	-	-
+3	la	el	DA0FS0	-	-	582-584	54_QUEST_clinical_caseMIR	SENT5	-	-
+4	primera	1	AO0FS0	-	-	585-592	54_QUEST_clinical_caseMIR	SENT5	-	-
+5	exploración	exploración	NCFS000	C1280903	procedimiento	593-604	54_QUEST_clinical_caseMIR	SENT5	-	-
+6	que	que	PR0CN000	-	-	605-608	54_QUEST_clinical_caseMIR	SENT5	-	-
+7	realizaría	realizar	VMIC3S0	-	-	609-619	54_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	619-620	54_QUEST_clinical_caseMIR	SENT5	-	-
 

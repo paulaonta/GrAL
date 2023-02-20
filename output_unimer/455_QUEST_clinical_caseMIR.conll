@@ -1,27 +1,18 @@
-1	¿	¿	Fia	-	-	284-285	455_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	285-289	455_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	290-292	455_QUEST_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	293-295	455_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	296-307	455_QUEST_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205172	calificador	308-311	455_QUEST_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	312-320	455_QUEST_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	320-321	455_QUEST_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	321-322	455_QUEST_clinical_caseMIR	SENT1	-	-
-10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	455_QUEST_clinical_caseMIR	SENT1	-	-
-11	de	de	SPS00	C0332285	atributo	6-8	455_QUEST_clinical_caseMIR	SENT1	-	-
-12	32	32		-	-	9-11	455_QUEST_clinical_caseMIR	SENT1	-	-
-13	años	año	NCMP000	C0439234	calificador	12-16	455_QUEST_clinical_caseMIR	SENT1	-	-
-14	con	con	SPS00	C0332287	atributo	17-20	455_QUEST_clinical_caseMIR	SENT1	-	-
-15	test	test	NCMS000	-	-	21-25	455_QUEST_clinical_caseMIR	SENT1	-	-
-16	de	de	SPS00	C0332285	atributo	26-28	455_QUEST_clinical_caseMIR	SENT1	-	-
-17	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	29-38	455_QUEST_clinical_caseMIR	SENT1	-	-
-18	positivo	positivo	AQ0MS0	C1446409	calificador	39-47	455_QUEST_clinical_caseMIR	SENT1	-	-
-19	y	y	CC	C1706368	calificador	48-49	455_QUEST_clinical_caseMIR	SENT1	-	-
-20	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	50-59	455_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-21	de	de	SPS00	C0332285	atributo	60-62	455_QUEST_clinical_caseMIR	SENT1	-	-
-22	9	9		-	-	63-64	455_QUEST_clinical_caseMIR	SENT1	-	-
-23	semanas	semana	NCFP000	C0439230	calificador	65-72	455_QUEST_clinical_caseMIR	SENT1	-	-
-24	.	.	Fp	-	-	72-73	455_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	455_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	455_QUEST_clinical_caseMIR	SENT1	-	-
+3	32	32		-	-	9-11	455_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	455_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	455_QUEST_clinical_caseMIR	SENT1	-	-
+6	test	test	NCMS000	-	-	21-25	455_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	26-28	455_QUEST_clinical_caseMIR	SENT1	-	-
+8	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	29-38	455_QUEST_clinical_caseMIR	SENT1	-	-
+9	positivo	positivo	AQ0MS0	C1446409	calificador	39-47	455_QUEST_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	48-49	455_QUEST_clinical_caseMIR	SENT1	-	-
+11	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	50-59	455_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0332285	atributo	60-62	455_QUEST_clinical_caseMIR	SENT1	-	-
+13	9	9		-	-	63-64	455_QUEST_clinical_caseMIR	SENT1	-	-
+14	semanas	semana	NCFP000	C0439230	calificador	65-72	455_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	72-73	455_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	74-82	455_QUEST_clinical_caseMIR	SENT2	-	-
 2	por	por	SPS00	C1704447_2	calificador_2	83-86	455_QUEST_clinical_caseMIR	SENT2	-	-
@@ -109,4 +100,12 @@
 11	hidatiforme	hidatiforme		C0020217#C0678213_2	anomalía_morfológica_2	518-529	455_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-
 12	completa	completo	AQ0FS0	C0020217#C0678213_3	anomalía_morfológica_3	530-538	455_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
 13	.	.	Fp	-	-	538-539	455_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	540-542	455_QUEST_clinical_caseMIR	SENT7	-	-
+2	el	el	DA0MS0	-	-	543-545	455_QUEST_clinical_caseMIR	SENT7	-	-
+3	seguimiento	seguimiento	NCMS000	-	-	546-557	455_QUEST_clinical_caseMIR	SENT7	-	-
+4	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	558-567	455_QUEST_clinical_caseMIR	SENT7	-	-
+5	está	estar	VAIP3S0	-	-	568-572	455_QUEST_clinical_caseMIR	SENT7	-	-
+6	indicado	indicar	VMP00SM	-	-	573-581	455_QUEST_clinical_caseMIR	SENT7	-	-
+7	.	.	Fp	-	-	581-582	455_QUEST_clinical_caseMIR	SENT7	-	-
 

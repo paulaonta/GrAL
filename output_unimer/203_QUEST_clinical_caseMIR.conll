@@ -109,7 +109,7 @@
 6	.	.	Fp	-	-	500-501	203_QUEST_clinical_caseMIR	SENT4	-	-
 
 1	Gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	502-514	203_QUEST_clinical_caseMIR	SENT5	-	-
-2	:	:	Fd	-	-	514-515	203_QUEST_clinical_caseMIR	SENT5	-	-
+2	.	.	Fp	-	-	514-515	203_QUEST_clinical_caseMIR	SENT5	-	-
 3	hernia	herniar	VMM02S0	C3489393_1	trastorno_1	516-522	203_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 4	de	de	SPS00	C3489393_2	trastorno_2	523-525	203_QUEST_clinical_caseMIR	SENT5	-	-
 5	hiato	hiato	NCMS000	C3489393_3	trastorno_3	526-531	203_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
@@ -122,8 +122,8 @@
 12	.	.	Fp	-	-	562-563	203_QUEST_clinical_caseMIR	SENT5	-	-
 
 1	Colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	564-576	203_QUEST_clinical_caseMIR	SENT6	-	-
-2	:	:	Fd	-	-	576-577	203_QUEST_clinical_caseMIR	SENT6	-	-
-3	hasta	hasta	RG	-	-	578-583	203_QUEST_clinical_caseMIR	SENT6	-	-
+2	.	.	Fp	-	-	576-577	203_QUEST_clinical_caseMIR	SENT6	-	-
+3	hasta	hasta	SPS00	-	-	578-583	203_QUEST_clinical_caseMIR	SENT6	-	-
 4	ciego	ciego	AQ0MS0	C0332224#C0525065#C1278925#C0456909#C0007531	calificador#hallazgo#estructura_corporal	584-589	203_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 5	,	,	Fc	-	-	589-590	203_QUEST_clinical_caseMIR	SENT6	-	-
 6	aislados	aislar	VMP00PM	-	-	591-599	203_QUEST_clinical_caseMIR	SENT6	-	-
@@ -144,4 +144,23 @@
 4	sin	sin	SPS00	C0332288	atributo	682-685	203_QUEST_clinical_caseMIR	SENT8	-	-
 5	alteraciones	alteración	NCFP000	-	-	686-698	203_QUEST_clinical_caseMIR	SENT8	-	-
 6	.	.	Fp	-	-	698-699	203_QUEST_clinical_caseMIR	SENT8	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	700-704	203_QUEST_clinical_caseMIR	SENT9	-	-
+2	de	de	SPS00	C0332285	atributo	705-707	203_QUEST_clinical_caseMIR	SENT9	-	-
+3	las	el	DA0FP0	-	-	708-711	203_QUEST_clinical_caseMIR	SENT9	-	-
+4	exploraciones	exploración	NCFP000	C1280903	procedimiento	712-725	203_QUEST_clinical_caseMIR	SENT9	-	-
+5	que	que	PR0CN000	-	-	726-729	203_QUEST_clinical_caseMIR	SENT9	-	-
+6	se	se	P00CN000	-	-	730-732	203_QUEST_clinical_caseMIR	SENT9	-	-
+7	enumeran	enumerar	VMIP3P0	-	-	733-741	203_QUEST_clinical_caseMIR	SENT9	-	-
+8	a	a	SPS00	-	-	742-743	203_QUEST_clinical_caseMIR	SENT9	-	-
+9	continuación	continuación	NCFS000	-	-	744-756	203_QUEST_clinical_caseMIR	SENT9	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	757-759	203_QUEST_clinical_caseMIR	SENT9	-	-
+11	parece	parecer	VMIP3S0	-	-	760-766	203_QUEST_clinical_caseMIR	SENT9	-	-
+12	más	más	RG	C0205172	calificador	767-770	203_QUEST_clinical_caseMIR	SENT9	-	-
+13	adecuada	adecuar	VMP00SF	-	-	771-779	203_QUEST_clinical_caseMIR	SENT9	-	-
+14	para	para	SPS00	C0521125	calificador	780-784	203_QUEST_clinical_caseMIR	SENT9	-	-
+15	completar	completar	VMN0000	-	-	785-794	203_QUEST_clinical_caseMIR	SENT9	-	-
+16	el	el	DA0MS0	-	-	795-797	203_QUEST_clinical_caseMIR	SENT9	-	-
+17	estudio	estudio	NCMS000	C0557651	medio_ambiente	798-805	203_QUEST_clinical_caseMIR	SENT9	-	-
+18	.	.	Fp	-	-	805-806	203_QUEST_clinical_caseMIR	SENT9	-	-
 

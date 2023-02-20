@@ -1,0 +1,24 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	743_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	3-5	743_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	6-14	743_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	15-17	743_QUEST_clinical_caseMIR	SENT1	-	-
+5	85	85		-	-	18-20	743_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	21-25	743_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	26-29	743_QUEST_clinical_caseMIR	SENT1	-	-
+8	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	30-39	743_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	cognitivo	cognitivo	AQ0MS0	-	-	40-49	743_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	y	y	CC	C1706368	calificador	50-51	743_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	52-54	743_QUEST_clinical_caseMIR	SENT1	-	-
+12	episodio	episodio	NCMS000	C0332189	atributo	55-63	743_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	depresivo	depresivo	NCMS000	-	-	64-73	743_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+14	,	,	Fc	-	-	73-74	743_QUEST_clinical_caseMIR	SENT1	-	-
+15	señale	señalar	VMSP3S0	-	-	75-81	743_QUEST_clinical_caseMIR	SENT1	-	-
+16	el	el	DA0MS0	-	-	82-84	743_QUEST_clinical_caseMIR	SENT1	-	-
+17	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	85-96	743_QUEST_clinical_caseMIR	SENT1	-	-
+18	antidepresivo	antidepresivo	NCMS000	C0003289	sustancia	97-110	743_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	que	que	PR0CN000	-	-	111-114	743_QUEST_clinical_caseMIR	SENT1	-	-
+20	se	se	P00CN000	-	-	115-117	743_QUEST_clinical_caseMIR	SENT1	-	-
+21	debe	deber	VMIP3S0	-	-	118-122	743_QUEST_clinical_caseMIR	SENT1	-	-
+22	EVITAR	evitar	VMN0000	-	-	123-129	743_QUEST_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	129-130	743_QUEST_clinical_caseMIR	SENT1	-	-
+

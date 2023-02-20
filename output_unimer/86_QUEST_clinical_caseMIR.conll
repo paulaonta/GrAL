@@ -54,3 +54,14 @@
 13	faecalis	faecalis	NCFN000	-	-	299-307	86_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
 14	.	.	Fp	-	-	307-308	86_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	Si	si	CS	-	-	309-311	86_QUEST_clinical_caseMIR	SENT4	-	-
+2	no	no	RN	C1298908	calificador	312-314	86_QUEST_clinical_caseMIR	SENT4	-	-
+3	dispone	disponer	VMIP3S0	-	-	315-322	86_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	323-325	86_QUEST_clinical_caseMIR	SENT4	-	-
+5	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	326-338	86_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	339-340	86_QUEST_clinical_caseMIR	SENT4	-	-
+7	qué	qué	DT0CN0	-	-	341-344	86_QUEST_clinical_caseMIR	SENT4	-	-
+8	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	345-356	86_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+9	administraría	administrar	VMIC3S0	C1621583	calificador	357-370	86_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	370-371	86_QUEST_clinical_caseMIR	SENT4	-	-
+

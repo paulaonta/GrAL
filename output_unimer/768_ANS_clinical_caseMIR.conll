@@ -1,23 +1,13 @@
-1	¿	¿	Fia	-	-	571-572	768_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	572-576	768_ANS_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	577-582	768_ANS_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	583-585	768_ANS_clinical_caseMIR	SENT1	-	-
-5	primera	1	AO0FS0	-	-	586-593	768_ANS_clinical_caseMIR	SENT1	-	-
-6	exploración	exploración	NCFS000	C1280903	procedimiento	594-605	768_ANS_clinical_caseMIR	SENT1	-	-
-7	que	que	PR0CN000	-	-	606-609	768_ANS_clinical_caseMIR	SENT1	-	-
-8	realizaría	realizar	VMIC3S0	-	-	610-620	768_ANS_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	620-621	768_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	621-622	768_ANS_clinical_caseMIR	SENT1	-	-
-11	El	el	DA0MS0	-	-	0-2	768_ANS_clinical_caseMIR	SENT1	-	-
-12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	768_ANS_clinical_caseMIR	SENT1	-	-
-13	puede	poder	VMIP3S0	-	-	15-20	768_ANS_clinical_caseMIR	SENT1	-	-
-14	realizar	realizar	VMN0000	-	-	21-29	768_ANS_clinical_caseMIR	SENT1	-	-
-15	se	se	PP3CN000	-	-	29-31	768_ANS_clinical_caseMIR	SENT1	-	-
-16	mediante	mediante	SPS00	-	-	32-40	768_ANS_clinical_caseMIR	SENT1	-	-
-17	un	un		C0205447_1	calificador_1	41-43	768_ANS_clinical_caseMIR	SENT1	-	-
-18	análisis	análisis	NCMN000	C0002778	calificador	44-52	768_ANS_clinical_caseMIR	SENT1	-	-
-19	genético	genético	AQ0MS0	-	-	53-61	768_ANS_clinical_caseMIR	SENT1	-	-
-20	.	.	Fp	-	-	61-62	768_ANS_clinical_caseMIR	SENT1	-	-
+1	El	el	DA0MS0	-	-	0-2	768_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	768_ANS_clinical_caseMIR	SENT1	-	-
+3	puede	poder	VMIP3S0	-	-	15-20	768_ANS_clinical_caseMIR	SENT1	-	-
+4	realizar	realizar	VMN0000	-	-	21-29	768_ANS_clinical_caseMIR	SENT1	-	-
+5	se	se	PP3CN000	-	-	29-31	768_ANS_clinical_caseMIR	SENT1	-	-
+6	mediante	mediante	SPS00	-	-	32-40	768_ANS_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	41-43	768_ANS_clinical_caseMIR	SENT1	-	-
+8	análisis	análisis	NCMN000	C0002778	calificador	44-52	768_ANS_clinical_caseMIR	SENT1	-	-
+9	genético	genético	AQ0MS0	-	-	53-61	768_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	61-62	768_ANS_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	768_ANS_clinical_caseMIR	SENT2	-	-
 2	caso	caso	NCMS000	C0868928	calificador	3-7	768_ANS_clinical_caseMIR	SENT2	-	-

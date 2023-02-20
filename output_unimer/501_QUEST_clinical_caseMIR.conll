@@ -31,7 +31,7 @@
 
 1	Orina	orina	NCFS000	C0042036	sustancia	163-168	501_QUEST_clinical_caseMIR	SENT4	-	-
 2	elemental	elemental	AQ0CS0	-	-	169-178	501_QUEST_clinical_caseMIR	SENT4	-	-
-3	:	:	Fd	-	-	178-179	501_QUEST_clinical_caseMIR	SENT4	-	-
+3	.	.	Fp	-	-	178-179	501_QUEST_clinical_caseMIR	SENT4	-	-
 4	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	180-182	501_QUEST_clinical_caseMIR	SENT4	-	-
 5	5	5		-	-	183-184	501_QUEST_clinical_caseMIR	SENT4	-	-
 6	;	;	Fx	-	-	184-185	501_QUEST_clinical_caseMIR	SENT4	-	-
@@ -77,7 +77,7 @@
 46	L.	l.	NCFS000	-	-	343-345	501_QUEST_clinical_caseMIR	SENT4	-	-
 47	Bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	346-356	501_QUEST_clinical_caseMIR	SENT4	-	-
 48	sanguínea	sanguíneo	AQ0FS0	-	-	357-366	501_QUEST_clinical_caseMIR	SENT4	-	-
-49	:	:	Fd	-	-	366-367	501_QUEST_clinical_caseMIR	SENT4	-	-
+49	.	.	Fp	-	-	366-367	501_QUEST_clinical_caseMIR	SENT4	-	-
 50	creatinina	creatinina	NC00SC0	C0010294	sustancia	368-378	501_QUEST_clinical_caseMIR	SENT4	-	-
 51	1,6	1.6	Z	-	-	379-382	501_QUEST_clinical_caseMIR	SENT4	-	-
 52	mg	mg	NCMN000	-	-	383-385	501_QUEST_clinical_caseMIR	SENT4	-	-
@@ -102,7 +102,7 @@
 71	L.	l.	NCFS000	-	-	428-430	501_QUEST_clinical_caseMIR	SENT4	-	-
 72	Estudio	estudio	NCMS000	C0557651	medio_ambiente	431-438	501_QUEST_clinical_caseMIR	SENT4	-	-
 73	inmunológico	inmunológico	AQ0MS0	C0205470	calificador	439-451	501_QUEST_clinical_caseMIR	SENT4	-	-
-74	:	:	Fd	-	-	451-452	501_QUEST_clinical_caseMIR	SENT4	-	-
+74	.	.	Fp	-	-	451-452	501_QUEST_clinical_caseMIR	SENT4	-	-
 75	antiDNA	antidesoxyribonucleic_acid_(ácido_desoxirribonucleico,_adn)	NC00YL0	-	-	453-460	501_QUEST_clinical_caseMIR	SENT4	-	-
 76	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	461-469	501_QUEST_clinical_caseMIR	SENT4	-	-
 77	;	;	Fx	-	-	469-470	501_QUEST_clinical_caseMIR	SENT4	-	-
@@ -143,18 +143,17 @@
 4	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	608-613	501_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 5	.	.	Fp	-	-	613-614	501_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	615-616	501_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	616-620	501_QUEST_clinical_caseMIR	SENT6	-	-
-3	de	de	SPS00	C0332285	atributo	621-623	501_QUEST_clinical_caseMIR	SENT6	-	-
-4	estos	este	DD0MP0	-	-	624-629	501_QUEST_clinical_caseMIR	SENT6	-	-
-5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	630-642	501_QUEST_clinical_caseMIR	SENT6	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	643-645	501_QUEST_clinical_caseMIR	SENT6	-	-
-7	parece	parecer	VMIP3S0	-	-	646-652	501_QUEST_clinical_caseMIR	SENT6	-	-
-8	más	más	RG	C0205172	calificador	653-656	501_QUEST_clinical_caseMIR	SENT6	-	-
-9	probable	probable	AQ0CS0	C0332148	calificador	657-665	501_QUEST_clinical_caseMIR	SENT6	-	-
-10	encontrar	encontrar	VMN0000	-	-	666-675	501_QUEST_clinical_caseMIR	SENT6	-	-
-11	en	en	SPS00	C1720294#C0332285	calificador#atributo	676-678	501_QUEST_clinical_caseMIR	SENT6	-	-
-12	la	el	DA0FS0	-	-	679-681	501_QUEST_clinical_caseMIR	SENT6	-	-
-13	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	682-689	501_QUEST_clinical_caseMIR	SENT6	-	-
-14	?	?	Fit	-	-	689-690	501_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	615-619	501_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332285	atributo	620-622	501_QUEST_clinical_caseMIR	SENT6	-	-
+3	estos	este	DD0MP0	-	-	623-628	501_QUEST_clinical_caseMIR	SENT6	-	-
+4	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	629-641	501_QUEST_clinical_caseMIR	SENT6	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	642-644	501_QUEST_clinical_caseMIR	SENT6	-	-
+6	parece	parecer	VMIP3S0	-	-	645-651	501_QUEST_clinical_caseMIR	SENT6	-	-
+7	más	más	RG	C0205172	calificador	652-655	501_QUEST_clinical_caseMIR	SENT6	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	656-664	501_QUEST_clinical_caseMIR	SENT6	-	-
+9	encontrar	encontrar	VMN0000	-	-	665-674	501_QUEST_clinical_caseMIR	SENT6	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	675-677	501_QUEST_clinical_caseMIR	SENT6	-	-
+11	la	el	DA0FS0	-	-	678-680	501_QUEST_clinical_caseMIR	SENT6	-	-
+12	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	681-688	501_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	688-689	501_QUEST_clinical_caseMIR	SENT6	-	-
 

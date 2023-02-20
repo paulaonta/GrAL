@@ -1,18 +1,11 @@
-1	En	en	SPS00	C1720294#C0332285	calificador#atributo	159-161	721_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	162-164	721_ANS_clinical_caseMIR	SENT1	-	-
-3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	165-176	721_ANS_clinical_caseMIR	SENT1	-	-
-4	física	físico	NCFS000	C0031809_2	procedimiento_2	177-183	721_ANS_clinical_caseMIR	SENT1	-	-
-5	esperaría	esperar	VMIC3S0	-	-	184-193	721_ANS_clinical_caseMIR	SENT1	-	-
-6	encontrar	encontrar	VMN0000	-	-	194-203	721_ANS_clinical_caseMIR	SENT1	-	-
-7	:	:	Fd	-	-	203-204	721_ANS_clinical_caseMIR	SENT1	-	-
-8	El	el	DA0MS0	-	-	0-2	721_ANS_clinical_caseMIR	SENT1	-	-
-9	cuadro	cuadro	NCMS000	-	-	3-9	721_ANS_clinical_caseMIR	SENT1	-	-
-10	clínico	clínico	AQ0MS0	C0205210	calificador	10-17	721_ANS_clinical_caseMIR	SENT1	-	-
-11	sugiere	sugerir	VMIP3S0	-	-	18-25	721_ANS_clinical_caseMIR	SENT1	-	-
-12	una	una		C0205447_1	calificador_1	26-29	721_ANS_clinical_caseMIR	SENT1	-	-
-13	colangitis	colangitis	NC00SC0	C0267917_1	trastorno_1	30-40	721_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
-14	aguda	agudo	AQ0FS0	C0267917_2	trastorno_2	41-46	721_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-15	.	.	Fp	-	-	46-47	721_ANS_clinical_caseMIR	SENT1	-	-
+1	El	el	DA0MS0	-	-	0-2	721_ANS_clinical_caseMIR	SENT1	-	-
+2	cuadro	cuadro	NCMS000	-	-	3-9	721_ANS_clinical_caseMIR	SENT1	-	-
+3	clínico	clínico	AQ0MS0	C0205210	calificador	10-17	721_ANS_clinical_caseMIR	SENT1	-	-
+4	sugiere	sugerir	VMIP3S0	-	-	18-25	721_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	26-29	721_ANS_clinical_caseMIR	SENT1	-	-
+6	colangitis	colangitis	NC00SC0	C0267917_1	trastorno_1	30-40	721_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+7	aguda	agudo	AQ0FS0	C0267917_2	trastorno_2	41-46	721_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	46-47	721_ANS_clinical_caseMIR	SENT1	-	-
 
 1	El	el	DA0MS0	-	-	0-2	721_ANS_clinical_caseMIR	SENT2	-	-
 2	paciente	paciente	NCCS000	C0030705	persona	3-11	721_ANS_clinical_caseMIR	SENT2	-	-

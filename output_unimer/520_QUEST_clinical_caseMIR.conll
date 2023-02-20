@@ -1,37 +1,32 @@
-1	Señale	señalar	VMM03S0	-	-	375-381	520_QUEST_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	382-384	520_QUEST_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	385-394	520_QUEST_clinical_caseMIR	SENT1	-	-
-4	FALSA	falso	AQ0FS0	C0205237	calificador	395-400	520_QUEST_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	400-401	520_QUEST_clinical_caseMIR	SENT1	-	-
-6	Un	Un		C0205447_1	calificador_1	0-2	520_QUEST_clinical_caseMIR	SENT1	-	-
-7	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	520_QUEST_clinical_caseMIR	SENT1	-	-
-8	presenta	presentar	VMIP3S0	-	-	10-18	520_QUEST_clinical_caseMIR	SENT1	-	-
-9	en	en	SPS00	C1720294#C0332285	calificador#atributo	19-21	520_QUEST_clinical_caseMIR	SENT1	-	-
-10	la	el	DA0FS0	-	-	22-24	520_QUEST_clinical_caseMIR	SENT1	-	-
-11	exploración	exploración	NCFS000	C1280903	procedimiento	25-36	520_QUEST_clinical_caseMIR	SENT1	-	-
-12	neurológica	neurológico	AQ0FS0	C0205494	calificador	37-48	520_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	un	un		C0205447_1	calificador_1	49-51	520_QUEST_clinical_caseMIR	SENT1	-	-
-14	déficit	déficit	NCMS000	C0162429	hallazgo	52-59	520_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-15	sensitivo	sensitivo	AQ0MS0	C0445254	calificador	60-69	520_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-16	termoalgésico	termoalgésico	AQ0MS00	-	-	70-83	520_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-17	en	en	SPS00	C1720294#C0332285	calificador#atributo	84-86	520_QUEST_clinical_caseMIR	SENT1	-	-
-18	la	el	DA0FS0	-	-	87-89	520_QUEST_clinical_caseMIR	SENT1	-	-
-19	pierna	pierna	NCFS000	C1279606#C0230443_1	estructura_corporal_1	90-96	520_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-20	izquierda	izquierdo	AQ0FS0	C1279606#C0230443_2	estructura_corporal_2	97-106	520_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-21	asociado	asociar	VMP00SM	-	-	107-115	520_QUEST_clinical_caseMIR	SENT1	-	-
-22	a	a	SPS00	-	-	116-117	520_QUEST_clinical_caseMIR	SENT1	-	-
-23	una	una		C0205447_1	calificador_1	118-121	520_QUEST_clinical_caseMIR	SENT1	-	-
-24	pérdida	pérdida	NCFS000	-	-	122-129	520_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	de	de	SPS00	C0332285	atributo	130-132	520_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-26	sensibilidad	sensibilidad	NCFS000	C0234198#C0576682_1	entidad_observable#hallazgo_1	133-145	520_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-27	vibratoria	vibratorio	AQ0FS0	C0234198#C0576682_2	entidad_observable#hallazgo_2	146-156	520_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-28	y	y	CC	C1706368	calificador	157-158	520_QUEST_clinical_caseMIR	SENT1	-	-
-29	posicional	posicional	AQ0CS0	-	-	159-169	520_QUEST_clinical_caseMIR	SENT1	-	-
-30	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	520_QUEST_clinical_caseMIR	SENT1	-	-
-31	la	el	DA0FS0	-	-	173-175	520_QUEST_clinical_caseMIR	SENT1	-	-
-32	pierna	pierna	NCFS000	C1279605#C0230442_1	estructura_corporal_1	176-182	520_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-33	derecha	derecho	AQ0FS0	C1279605#C0230442_2	estructura_corporal_2	183-190	520_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-34	.	.	Fp	-	-	190-191	520_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	520_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	520_QUEST_clinical_caseMIR	SENT1	-	-
+3	presenta	presentar	VMIP3S0	-	-	10-18	520_QUEST_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	19-21	520_QUEST_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	22-24	520_QUEST_clinical_caseMIR	SENT1	-	-
+6	exploración	exploración	NCFS000	C1280903	procedimiento	25-36	520_QUEST_clinical_caseMIR	SENT1	-	-
+7	neurológica	neurológico	AQ0FS0	C0205494	calificador	37-48	520_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	un	un		C0205447_1	calificador_1	49-51	520_QUEST_clinical_caseMIR	SENT1	-	-
+9	déficit	déficit	NCMS000	C0162429	hallazgo	52-59	520_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	sensitivo	sensitivo	AQ0MS0	C0445254	calificador	60-69	520_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	termoalgésico	termoalgésico	AQ0MS00	-	-	70-83	520_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	84-86	520_QUEST_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	87-89	520_QUEST_clinical_caseMIR	SENT1	-	-
+14	pierna	pierna	NCFS000	C1279606#C0230443_1	estructura_corporal_1	90-96	520_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	izquierda	izquierdo	AQ0FS0	C1279606#C0230443_2	estructura_corporal_2	97-106	520_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	asociado	asociar	VMP00SM	-	-	107-115	520_QUEST_clinical_caseMIR	SENT1	-	-
+17	a	a	SPS00	-	-	116-117	520_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	118-121	520_QUEST_clinical_caseMIR	SENT1	-	-
+19	pérdida	pérdida	NCFS000	-	-	122-129	520_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	130-132	520_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	sensibilidad	sensibilidad	NCFS000	C0234198#C0576682_1	entidad_observable#hallazgo_1	133-145	520_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	vibratoria	vibratorio	AQ0FS0	C0234198#C0576682_2	entidad_observable#hallazgo_2	146-156	520_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	y	y	CC	C1706368	calificador	157-158	520_QUEST_clinical_caseMIR	SENT1	-	-
+24	posicional	posicional	AQ0CS0	-	-	159-169	520_QUEST_clinical_caseMIR	SENT1	-	-
+25	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	520_QUEST_clinical_caseMIR	SENT1	-	-
+26	la	el	DA0FS0	-	-	173-175	520_QUEST_clinical_caseMIR	SENT1	-	-
+27	pierna	pierna	NCFS000	C1279605#C0230442_1	estructura_corporal_1	176-182	520_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	derecha	derecho	AQ0FS0	C1279605#C0230442_2	estructura_corporal_2	183-190	520_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+29	.	.	Fp	-	-	190-191	520_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Al	al	SP+DA	-	-	192-194	520_QUEST_clinical_caseMIR	SENT2	-	-
 2	mismo	mismo	AQ0MS0	C0445247	calificador	195-200	520_QUEST_clinical_caseMIR	SENT2	-	-
@@ -57,13 +52,12 @@
 22	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	313-322	520_QUEST_clinical_caseMIR	SENT2	-	-
 23	.	.	Fp	-	-	322-323	520_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	¿	¿	Fia	-	-	324-325	520_QUEST_clinical_caseMIR	SENT3	-	-
-2	Cuál	cuál	PT0CS000	-	-	325-329	520_QUEST_clinical_caseMIR	SENT3	-	-
-3	de	de	SPS00	C0332285	atributo	330-332	520_QUEST_clinical_caseMIR	SENT3	-	-
-4	las	el	DA0FP0	-	-	333-336	520_QUEST_clinical_caseMIR	SENT3	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	337-347	520_QUEST_clinical_caseMIR	SENT3	-	-
-6	afirmaciones	afirmación	NCFP000	-	-	348-360	520_QUEST_clinical_caseMIR	SENT3	-	-
-7	es	ser	VSIP3S0	-	-	361-363	520_QUEST_clinical_caseMIR	SENT3	-	-
-8	cierta	cierto	AQ0FS0	C0205423	calificador	364-370	520_QUEST_clinical_caseMIR	SENT3	-	-
-9	?	?	Fit	-	-	370-371	520_QUEST_clinical_caseMIR	SENT3	-	-
+1	Cuál	cuál	PT0CS000	-	-	324-328	520_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	329-331	520_QUEST_clinical_caseMIR	SENT3	-	-
+3	las	el	DA0FP0	-	-	332-335	520_QUEST_clinical_caseMIR	SENT3	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	336-346	520_QUEST_clinical_caseMIR	SENT3	-	-
+5	afirmaciones	afirmación	NCFP000	-	-	347-359	520_QUEST_clinical_caseMIR	SENT3	-	-
+6	es	ser	VSIP3S0	-	-	360-362	520_QUEST_clinical_caseMIR	SENT3	-	-
+7	cierta	cierto	AQ0FS0	C0205423	calificador	363-369	520_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	369-370	520_QUEST_clinical_caseMIR	SENT3	-	-
 

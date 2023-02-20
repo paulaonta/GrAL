@@ -39,3 +39,30 @@
 6	asintomático	asintomático	AQ0MS0	-	-	227-239	351_QUEST_clinical_caseMIR	SENT2	-	-
 7	.	.	Fp	-	-	239-240	351_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	La	el	DA0FS0	-	-	241-243	351_QUEST_clinical_caseMIR	SENT3	-	-
+2	oclusión	oclusión	NCFS000	C0028778	anomalía_morfológica	244-252	351_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	de	de	SPS00	C0332285	atributo	253-255	351_QUEST_clinical_caseMIR	SENT3	-	-
+4	la	el	DA0FS0	-	-	256-258	351_QUEST_clinical_caseMIR	SENT3	-	-
+5	arteria	arteria	NCFS000	C1269016#C0162860_1	estructura_corporal_1	259-266	351_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	mesentérica	mesentérico	AQ0FS0	C1269016#C0162860_2	estructura_corporal_2	267-278	351_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+7	inferior	inferior	NCCS000	C1269016#C0162860_3	estructura_corporal_3	279-287	351_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+8	cursa	cursar	VMIP3S0	-	-	288-293	351_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	294-296	351_QUEST_clinical_caseMIR	SENT3	-	-
+10	manera	manera	NCFS000	-	-	297-303	351_QUEST_clinical_caseMIR	SENT3	-	-
+11	asintomática	asintomático	AQ0FS0	-	-	304-316	351_QUEST_clinical_caseMIR	SENT3	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	317-319	351_QUEST_clinical_caseMIR	SENT3	-	-
+13	muchas	mucho	DI0FP0	C0439064	-	320-326	351_QUEST_clinical_caseMIR	SENT3	-	-
+14	ocasiones	ocasión	NCFP000	-	-	327-336	351_QUEST_clinical_caseMIR	SENT3	-	-
+15	ya	ya	RG	-	-	337-339	351_QUEST_clinical_caseMIR	SENT3	-	-
+16	que	que	PR0CN000	-	-	340-343	351_QUEST_clinical_caseMIR	SENT3	-	-
+17	el	el	DA0MS0	-	-	344-346	351_QUEST_clinical_caseMIR	SENT3	-	-
+18	territorio	territorio	NCMS000	-	-	347-357	351_QUEST_clinical_caseMIR	SENT3	-	-
+19	que	que	PR0CN000	-	-	358-361	351_QUEST_clinical_caseMIR	SENT3	-	-
+20	irriga	irrigar	VMIP3S0	-	-	362-368	351_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+21	puede	poder	VMIP3S0	-	-	369-374	351_QUEST_clinical_caseMIR	SENT3	-	-
+22	recibir	recibir	VMN0000	-	-	375-382	351_QUEST_clinical_caseMIR	SENT3	-	-
+23	flujo	flujo	NCMS000	-	-	383-388	351_QUEST_clinical_caseMIR	SENT3	-	-
+24	proveniente	proveniente	AQ0CS0	C0332285_1	atributo_1	389-400	351_QUEST_clinical_caseMIR	SENT3	-	-
+25	de	de	SPS00	C0332285_2	atributo_2	401-403	351_QUEST_clinical_caseMIR	SENT3	-	-
+26	.	.	Fp	-	-	403-404	351_QUEST_clinical_caseMIR	SENT3	-	-
+

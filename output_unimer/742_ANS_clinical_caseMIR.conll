@@ -1,16 +1,6 @@
-1	¿	¿	Fia	-	-	477-478	742_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	478-482	742_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	483-485	742_ANS_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	486-489	742_ANS_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	490-500	742_ANS_clinical_caseMIR	SENT1	-	-
-6	afirmaciones	afirmación	NCFP000	-	-	501-513	742_ANS_clinical_caseMIR	SENT1	-	-
-7	es	ser	VSIP3S0	-	-	514-516	742_ANS_clinical_caseMIR	SENT1	-	-
-8	cierta	cierto	AQ0FS0	C0205423	calificador	517-523	742_ANS_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	523-524	742_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	524-525	742_ANS_clinical_caseMIR	SENT1	-	-
-11	Maltrato	maltrato	NCMS000	C1621955#C0562383_1	trastorno#hallazgo#evento_1	0-8	742_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	físico	físico	NCMS000	C1621955#C0562383_2	trastorno#hallazgo#evento_2	9-15	742_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-13	.	.	Fp	-	-	15-16	742_ANS_clinical_caseMIR	SENT1	-	-
+1	Maltrato	maltrato	NCMS000	C1621955#C0562383_1	trastorno#hallazgo#evento_1	0-8	742_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	físico	físico	NCMS000	C1621955#C0562383_2	trastorno#hallazgo#evento_2	9-15	742_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	15-16	742_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Politraumatismo	politraumatismo	NCMS000	-	-	0-15	742_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	por	por	SPS00	C0678226	atributo	16-19	742_ANS_clinical_caseMIR	SENT2	-	-

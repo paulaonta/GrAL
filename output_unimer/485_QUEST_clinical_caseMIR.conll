@@ -1,21 +1,12 @@
-1	¿	¿	Fia	-	-	217-218	485_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	218-222	485_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	223-225	485_QUEST_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	226-228	485_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	229-240	485_QUEST_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205172	calificador	241-244	485_QUEST_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	245-253	485_QUEST_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	253-254	485_QUEST_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	254-255	485_QUEST_clinical_caseMIR	SENT1	-	-
-10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	485_QUEST_clinical_caseMIR	SENT1	-	-
-11	de	de	SPS00	C0332285	atributo	6-8	485_QUEST_clinical_caseMIR	SENT1	-	-
-12	40	40		-	-	9-11	485_QUEST_clinical_caseMIR	SENT1	-	-
-13	años	año	NCMP000	C0439234	calificador	12-16	485_QUEST_clinical_caseMIR	SENT1	-	-
-14	que	que	PR0CN000	-	-	17-20	485_QUEST_clinical_caseMIR	SENT1	-	-
-15	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	485_QUEST_clinical_caseMIR	SENT1	-	-
-16	por	por	SPS00	C1704447_2	calificador_2	30-33	485_QUEST_clinical_caseMIR	SENT1	-	-
-17	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	34-40	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	.	.	Fp	-	-	40-41	485_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	485_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	485_QUEST_clinical_caseMIR	SENT1	-	-
+3	40	40		-	-	9-11	485_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	485_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	485_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	485_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	485_QUEST_clinical_caseMIR	SENT1	-	-
+8	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	34-40	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	40-41	485_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	485_QUEST_clinical_caseMIR	SENT2	-	-
 2	la	el	DA0FS0	-	-	45-47	485_QUEST_clinical_caseMIR	SENT2	-	-
@@ -66,16 +57,15 @@
 19	10	10	Z	-	-	278-280	485_QUEST_clinical_caseMIR	SENT4	-	-
 20	mg	mg	NCMN000	-	-	281-283	485_QUEST_clinical_caseMIR	SENT4	-	-
 21	/	/	Fh	-	-	283-284	485_QUEST_clinical_caseMIR	SENT4	-	-
-22	d.	d.	VMIP3S0	-	-	284-286	485_QUEST_clinical_caseMIR	SENT4	-	-
-23	¿	¿	Fia	-	-	287-288	485_QUEST_clinical_caseMIR	SENT4	-	-
-24	Cuál	cuál	PT0CS000	-	-	288-292	485_QUEST_clinical_caseMIR	SENT4	-	-
-25	considera	considerar	VMIP3S0	-	-	293-302	485_QUEST_clinical_caseMIR	SENT4	-	-
-26	la	el	DA0FS0	-	-	303-305	485_QUEST_clinical_caseMIR	SENT4	-	-
-27	causa	causa	NCFS000	-	-	306-311	485_QUEST_clinical_caseMIR	SENT4	-	-
-28	más	más	RG	C0205172	calificador	312-315	485_QUEST_clinical_caseMIR	SENT4	-	-
-29	probable	probable	AQ0CS0	C0332148	calificador	316-324	485_QUEST_clinical_caseMIR	SENT4	-	-
-30	de	de	SPS00	C0332285	atributo	325-327	485_QUEST_clinical_caseMIR	SENT4	-	-
-31	la	el	DA0FS0	-	-	328-330	485_QUEST_clinical_caseMIR	SENT4	-	-
-32	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	331-337	485_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-33	?	?	Fit	-	-	337-338	485_QUEST_clinical_caseMIR	SENT4	-	-
+22	d.	d.	NCFS000	-	-	284-286	485_QUEST_clinical_caseMIR	SENT4	-	-
+23	Cuál	cuál	PT0CS000	-	-	287-291	485_QUEST_clinical_caseMIR	SENT4	-	-
+24	considera	considerar	VMIP3S0	-	-	292-301	485_QUEST_clinical_caseMIR	SENT4	-	-
+25	la	el	DA0FS0	-	-	302-304	485_QUEST_clinical_caseMIR	SENT4	-	-
+26	causa	causa	NCFS000	-	-	305-310	485_QUEST_clinical_caseMIR	SENT4	-	-
+27	más	más	RG	C0205172	calificador	311-314	485_QUEST_clinical_caseMIR	SENT4	-	-
+28	probable	probable	AQ0CS0	C0332148	calificador	315-323	485_QUEST_clinical_caseMIR	SENT4	-	-
+29	de	de	SPS00	C0332285	atributo	324-326	485_QUEST_clinical_caseMIR	SENT4	-	-
+30	la	el	DA0FS0	-	-	327-329	485_QUEST_clinical_caseMIR	SENT4	-	-
+31	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	330-336	485_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+32	.	.	Fp	-	-	336-337	485_QUEST_clinical_caseMIR	SENT4	-	-
 

@@ -1,46 +1,14 @@
-1	¿	¿	Fia	-	-	427-428	582_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	428-432	582_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	433-435	582_ANS_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	436-438	582_ANS_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	439-450	582_ANS_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205172	calificador	451-454	582_ANS_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	455-463	582_ANS_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	463-464	582_ANS_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	464-465	582_ANS_clinical_caseMIR	SENT1	-	-
-10	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	582_ANS_clinical_caseMIR	SENT1	-	-
-11	un	un		C0205447_1	calificador_1	3-5	582_ANS_clinical_caseMIR	SENT1	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	6-14	582_ANS_clinical_caseMIR	SENT1	-	-
-13	de	de	SPS00	C0332285	atributo	15-17	582_ANS_clinical_caseMIR	SENT1	-	-
-14	85	85		-	-	18-20	582_ANS_clinical_caseMIR	SENT1	-	-
-15	años	año	NCMP000	C0439234	calificador	21-25	582_ANS_clinical_caseMIR	SENT1	-	-
-16	con	con	SPS00	C0332287	atributo	26-29	582_ANS_clinical_caseMIR	SENT1	-	-
-17	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	30-39	582_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	cognitivo	cognitivo	AQ0MS0	-	-	40-49	582_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-19	y	y	CC	C1706368	calificador	50-51	582_ANS_clinical_caseMIR	SENT1	-	-
-20	un	un		C0205447_1	calificador_1	52-54	582_ANS_clinical_caseMIR	SENT1	-	-
-21	episodio	episodio	NCMS000	C0332189	atributo	55-63	582_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-22	depresivo	depresivo	NCMS000	-	-	64-73	582_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-23	,	,	Fc	-	-	73-74	582_ANS_clinical_caseMIR	SENT1	-	-
-24	señale	señalar	VMSP3S0	-	-	75-81	582_ANS_clinical_caseMIR	SENT1	-	-
-25	el	el	DA0MS0	-	-	82-84	582_ANS_clinical_caseMIR	SENT1	-	-
-26	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	85-96	582_ANS_clinical_caseMIR	SENT1	-	-
-27	antidepresivo	antidepresivo	NCMS000	C0003289	sustancia	97-110	582_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-28	que	que	PR0CN000	-	-	111-114	582_ANS_clinical_caseMIR	SENT1	-	-
-29	se	se	P00CN000	-	-	115-117	582_ANS_clinical_caseMIR	SENT1	-	-
-30	debe	deber	VMIP3S0	-	-	118-122	582_ANS_clinical_caseMIR	SENT1	-	-
-31	EVITAR	evitar	VMN0000	-	-	123-129	582_ANS_clinical_caseMIR	SENT1	-	-
-32	:	:	Fd	-	-	129-130	582_ANS_clinical_caseMIR	SENT1	-	-
-33	Realizar	realizar	VMN0000	-	-	0-8	582_ANS_clinical_caseMIR	SENT1	-	-
-34	seguimiento	seguimiento	NCMS000	-	-	9-20	582_ANS_clinical_caseMIR	SENT1	-	-
-35	anual	anual	AQ0CS0	C0332181	calificador	21-26	582_ANS_clinical_caseMIR	SENT1	-	-
-36	de	de	SPS00	C0332285	atributo	27-29	582_ANS_clinical_caseMIR	SENT1	-	-
-37	calcemia	calcemia	NCFS000	-	-	30-38	582_ANS_clinical_caseMIR	SENT1	-	-
-38	y	y	CC	C1706368	calificador	39-40	582_ANS_clinical_caseMIR	SENT1	-	-
-39	pautar	pautar	VMN0000	-	-	41-47	582_ANS_clinical_caseMIR	SENT1	-	-
-40	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	48-59	582_ANS_clinical_caseMIR	SENT1	-	-
-41	con	con	SPS00	C0332287	atributo	60-63	582_ANS_clinical_caseMIR	SENT1	-	-
-42	cinacalcet	cinacalcet	NC00SC0	C1337242	producto#sustancia	64-74	582_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-43	.	.	Fp	-	-	74-75	582_ANS_clinical_caseMIR	SENT1	-	-
+1	Realizar	realizar	VMN0000	-	-	0-8	582_ANS_clinical_caseMIR	SENT1	-	-
+2	seguimiento	seguimiento	NCMS000	-	-	9-20	582_ANS_clinical_caseMIR	SENT1	-	-
+3	anual	anual	AQ0CS0	C0332181	calificador	21-26	582_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	27-29	582_ANS_clinical_caseMIR	SENT1	-	-
+5	calcemia	calcemia	NCFS000	-	-	30-38	582_ANS_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	39-40	582_ANS_clinical_caseMIR	SENT1	-	-
+7	pautar	pautar	VMN0000	-	-	41-47	582_ANS_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	48-59	582_ANS_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	60-63	582_ANS_clinical_caseMIR	SENT1	-	-
+10	cinacalcet	cinacalcet	NC00SC0	C1337242	producto#sustancia	64-74	582_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	.	.	Fp	-	-	74-75	582_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Realizar	realizar	VMN0000	-	-	0-8	582_ANS_clinical_caseMIR	SENT2	-	-
 2	balance	balance	NCMS000	C0205415#C0014653	calificador#entidad_observable	9-16	582_ANS_clinical_caseMIR	SENT2	-	-

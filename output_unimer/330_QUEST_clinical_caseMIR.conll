@@ -83,18 +83,17 @@
 50	ventilación	ventilación	NCFS000	C2945579	función	503-514	330_QUEST_clinical_caseMIR	SENT2	-	-
 51	.	.	Fp	-	-	514-515	330_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	¿	¿	Fia	-	-	516-517	330_QUEST_clinical_caseMIR	SENT3	-	-
-2	Cuál	cuál	PT0CS000	-	-	517-521	330_QUEST_clinical_caseMIR	SENT3	-	-
-3	sería	ser	VSIC1S0	-	-	522-527	330_QUEST_clinical_caseMIR	SENT3	-	-
-4	su	su	DP3CS0	-	-	528-530	330_QUEST_clinical_caseMIR	SENT3	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	531-542	330_QUEST_clinical_caseMIR	SENT3	-	-
-6	de	de	SPS00	C0332285	atributo	543-545	330_QUEST_clinical_caseMIR	SENT3	-	-
-7	presunción	presunción	NCFS000	-	-	546-556	330_QUEST_clinical_caseMIR	SENT3	-	-
-8	y	y	CC	C1706368	calificador	557-558	330_QUEST_clinical_caseMIR	SENT3	-	-
-9	su	su	DP3CS0	-	-	559-561	330_QUEST_clinical_caseMIR	SENT3	-	-
-10	actitud	actitud	NCFS000	C0004271	entidad_observable	562-569	330_QUEST_clinical_caseMIR	SENT3	-	-
-11	ante	ante	SPS00	-	-	570-574	330_QUEST_clinical_caseMIR	SENT3	-	-
-12	este	este	DD0MS0	-	-	575-579	330_QUEST_clinical_caseMIR	SENT3	-	-
-13	hallazgo	hallazgo	NCMS000	C0243095	hallazgo	580-588	330_QUEST_clinical_caseMIR	SENT3	-	-
-14	?	?	Fit	-	-	588-589	330_QUEST_clinical_caseMIR	SENT3	-	-
+1	Cuál	cuál	PT0CS000	-	-	516-520	330_QUEST_clinical_caseMIR	SENT3	-	-
+2	sería	ser	VSIC1S0	-	-	521-526	330_QUEST_clinical_caseMIR	SENT3	-	-
+3	su	su	DP3CS0	-	-	527-529	330_QUEST_clinical_caseMIR	SENT3	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	530-541	330_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	542-544	330_QUEST_clinical_caseMIR	SENT3	-	-
+6	presunción	presunción	NCFS000	-	-	545-555	330_QUEST_clinical_caseMIR	SENT3	-	-
+7	y	y	CC	C1706368	calificador	556-557	330_QUEST_clinical_caseMIR	SENT3	-	-
+8	su	su	DP3CS0	-	-	558-560	330_QUEST_clinical_caseMIR	SENT3	-	-
+9	actitud	actitud	NCFS000	C0004271	entidad_observable	561-568	330_QUEST_clinical_caseMIR	SENT3	-	-
+10	ante	ante	SPS00	-	-	569-573	330_QUEST_clinical_caseMIR	SENT3	-	-
+11	este	este	DD0MS0	-	-	574-578	330_QUEST_clinical_caseMIR	SENT3	-	-
+12	hallazgo	hallazgo	NCMS000	C0243095	hallazgo	579-587	330_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	587-588	330_QUEST_clinical_caseMIR	SENT3	-	-
 

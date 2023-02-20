@@ -1,22 +1,11 @@
-1	¿	¿	Fia	-	-	460-461	93_ANS_clinical_caseMIR	SENT1	-	-
-2	Que	que	PR0CN000	-	-	461-464	93_ANS_clinical_caseMIR	SENT1	-	-
-3	régimen	régimen	NCMS000	C0012155	hallazgo	465-472	93_ANS_clinical_caseMIR	SENT1	-	-
-4	seleccionaría	seleccionar	VMIC3S0	-	-	473-486	93_ANS_clinical_caseMIR	SENT1	-	-
-5	en	en	SPS00	C1720294#C0332285	calificador#atributo	487-489	93_ANS_clinical_caseMIR	SENT1	-	-
-6	función	función	NCFS000	C0542341	entidad_observable#atributo	490-497	93_ANS_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	498-500	93_ANS_clinical_caseMIR	SENT1	-	-
-8	este	este	DD0MS0	-	-	501-505	93_ANS_clinical_caseMIR	SENT1	-	-
-9	informe	informe	NCMS000	C0684224	elemento_de_registro	506-513	93_ANS_clinical_caseMIR	SENT1	-	-
-10	?	?	Fit	-	-	513-514	93_ANS_clinical_caseMIR	SENT1	-	-
-11	:	:	Fd	-	-	514-515	93_ANS_clinical_caseMIR	SENT1	-	-
-12	Solicitar	solicitar	VMN0000	-	-	0-9	93_ANS_clinical_caseMIR	SENT1	-	-
-13	una	una		C0205447_1	calificador_1	10-13	93_ANS_clinical_caseMIR	SENT1	-	-
-14	ecografía	ecografía	NCFS000	C0554756#C0162481_1	procedimiento_1	14-23	93_ANS_clinical_caseMIR	SENT1	-	-
-15	doppler	doppler		C0554756#C0162481_2	procedimiento_2	24-31	93_ANS_clinical_caseMIR	SENT1	-	-
-16	de	de	SPS00	C0332285	atributo	32-34	93_ANS_clinical_caseMIR	SENT1	-	-
-17	arterias	arteria	NCFP000	C1285085#C0003842	estructura_corporal	35-43	93_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-18	temporales	temporal	AQ0CP0	C0442043#C0205374	calificador	44-54	93_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-19	.	.	Fp	-	-	54-55	93_ANS_clinical_caseMIR	SENT1	-	-
+1	Solicitar	solicitar	VMN0000	-	-	0-9	93_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	10-13	93_ANS_clinical_caseMIR	SENT1	-	-
+3	ecografía	ecografía	NCFS000	C0554756#C0162481_1	procedimiento_1	14-23	93_ANS_clinical_caseMIR	SENT1	-	-
+4	doppler	doppler		C0554756#C0162481_2	procedimiento_2	24-31	93_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	32-34	93_ANS_clinical_caseMIR	SENT1	-	-
+6	arterias	arteria	NCFP000	C1285085#C0003842	estructura_corporal	35-43	93_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	temporales	temporal	AQ0CP0	C0442043#C0205374	calificador	44-54	93_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+8	.	.	Fp	-	-	54-55	93_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Iniciar	iniciar	VMN0000	-	-	0-7	93_ANS_clinical_caseMIR	SENT2	-	-
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	93_ANS_clinical_caseMIR	SENT2	-	-

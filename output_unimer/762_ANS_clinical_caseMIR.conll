@@ -1,13 +1,8 @@
-1	Señale	señalar	VMM03S0	-	-	217-223	762_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	224-226	762_ANS_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	227-236	762_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	237-245	762_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	245-246	762_ANS_clinical_caseMIR	SENT1	-	-
-6	Válvula	válvula	NCFS000	C0149630_1	trastorno_1	0-7	762_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-7	aórtica	aórtico	AQ0FS0	C0149630_2	trastorno_2	8-15	762_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-8	bicúspide	bicúspide	NCFS000	C0149630_3	trastorno_3	16-25	762_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-9	estenótica	estenótica	AQ0FS00	-	-	26-36	762_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-10	.	.	Fp	-	-	36-37	762_ANS_clinical_caseMIR	SENT1	-	-
+1	Válvula	válvula	NCFS000	C0149630_1	trastorno_1	0-7	762_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+2	aórtica	aórtico	AQ0FS0	C0149630_2	trastorno_2	8-15	762_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+3	bicúspide	bicúspide	NCFS000	C0149630_3	trastorno_3	16-25	762_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+4	estenótica	estenótica	AQ0FS00	-	-	26-36	762_ANS_clinical_caseMIR	SENT1	-	-
+5	.	.	Fp	-	-	36-37	762_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Comunicación	comunicación	NCFS000	C0009452#C0015826	atributo#anomalía_morfológica	0-12	762_ANS_clinical_caseMIR	SENT2	-	-
 2	interventricular	interventricular	AQ0CS0	-	-	13-29	762_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

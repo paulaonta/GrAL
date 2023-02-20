@@ -32,19 +32,26 @@
 32	el	el	DA0MS0	-	-	170-172	4_QUEST_clinical_caseMIR	SENT1	-	-
 33	siguiente	siguiente	AQ0CS0	C0332282	atributo	173-182	4_QUEST_clinical_caseMIR	SENT1	-	-
 34	patrón	patrón	NCMS000	C0449774	atributo	183-189	4_QUEST_clinical_caseMIR	SENT1	-	-
-35	:	:	Fd	-	-	189-190	4_QUEST_clinical_caseMIR	SENT1	-	-
-36	Anti-VHA	anti-vha	NCFS000	-	-	191-199	4_QUEST_clinical_caseMIR	SENT1	-	-
-37	IgM	igm	NCMS000	-	-	200-203	4_QUEST_clinical_caseMIR	SENT1	-	-
-38	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	204-212	4_QUEST_clinical_caseMIR	SENT1	-	-
-39	,	,	Fc	-	-	212-213	4_QUEST_clinical_caseMIR	SENT1	-	-
-40	HBsAg	hepatitis_b_surface_antigen_(antígeno_de_superficie_de_la_hepatitis_b_o_antígeno_australia)	NC00YL0	-	-	214-219	4_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
-41	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	220-228	4_QUEST_clinical_caseMIR	SENT1	-	-
-42	,	,	Fc	-	-	228-229	4_QUEST_clinical_caseMIR	SENT1	-	-
-43	anti-HBc	anti-hbc	RG	-	-	230-238	4_QUEST_clinical_caseMIR	SENT1	-	-
-44	IgM	igm	NCMS000	-	-	239-242	4_QUEST_clinical_caseMIR	SENT1	-	-
-45	positivo	positivo	AQ0MS0	C1446409	calificador	243-251	4_QUEST_clinical_caseMIR	SENT1	-	-
-46	y	y	CC	C1706368	calificador	252-253	4_QUEST_clinical_caseMIR	SENT1	-	-
-47	anti-VHC	anticuerpos_contra_el_virus_de_la_hepatitis_c	NC00YL0	-	-	254-262	4_QUEST_clinical_caseMIR	SENT1	-	-
-48	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	263-271	4_QUEST_clinical_caseMIR	SENT1	-	-
-49	.	.	Fp	-	-	271-272	4_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	189-190	4_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Anti-VHA	anti-vha	VMIP3S0	-	-	191-199	4_QUEST_clinical_caseMIR	SENT2	-	-
+2	IgM	igm	NCMS000	-	-	200-203	4_QUEST_clinical_caseMIR	SENT2	-	-
+3	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	204-212	4_QUEST_clinical_caseMIR	SENT2	-	-
+4	,	,	Fc	-	-	212-213	4_QUEST_clinical_caseMIR	SENT2	-	-
+5	HBsAg	hepatitis_b_surface_antigen_(antígeno_de_superficie_de_la_hepatitis_b_o_antígeno_australia)	NC00YL0	-	-	214-219	4_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+6	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	220-228	4_QUEST_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	228-229	4_QUEST_clinical_caseMIR	SENT2	-	-
+8	anti-HBc	anti-hbc	RG	-	-	230-238	4_QUEST_clinical_caseMIR	SENT2	-	-
+9	IgM	igm	NCMS000	-	-	239-242	4_QUEST_clinical_caseMIR	SENT2	-	-
+10	positivo	positivo	AQ0MS0	C1446409	calificador	243-251	4_QUEST_clinical_caseMIR	SENT2	-	-
+11	y	y	CC	C1706368	calificador	252-253	4_QUEST_clinical_caseMIR	SENT2	-	-
+12	anti-VHC	anticuerpos_contra_el_virus_de_la_hepatitis_c	NC00YL0	-	-	254-262	4_QUEST_clinical_caseMIR	SENT2	-	-
+13	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	263-271	4_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	271-272	4_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	273-277	4_QUEST_clinical_caseMIR	SENT3	-	-
+2	es	ser	VSIP3S0	-	-	278-280	4_QUEST_clinical_caseMIR	SENT3	-	-
+3	su	su	DP3CS0	-	-	281-283	4_QUEST_clinical_caseMIR	SENT3	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	284-295	4_QUEST_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	295-296	4_QUEST_clinical_caseMIR	SENT3	-	-
 

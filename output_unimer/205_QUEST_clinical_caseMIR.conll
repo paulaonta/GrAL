@@ -184,3 +184,17 @@
 72	%	%	Ft	-	-	971-972	205_QUEST_clinical_caseMIR	SENT7	-	-
 73	.	.	Fp	-	-	972-973	205_QUEST_clinical_caseMIR	SENT7	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	974-978	205_QUEST_clinical_caseMIR	SENT8	-	-
+2	es	ser	VSIP3S0	-	-	979-981	205_QUEST_clinical_caseMIR	SENT8	-	-
+3	el	el	DA0MS0	-	-	982-984	205_QUEST_clinical_caseMIR	SENT8	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	985-996	205_QUEST_clinical_caseMIR	SENT8	-	-
+5	más	más	RG	C0205172	calificador	997-1000	205_QUEST_clinical_caseMIR	SENT8	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	1001-1009	205_QUEST_clinical_caseMIR	SENT8	-	-
+7	del	del	SP+DA	-	-	1010-1013	205_QUEST_clinical_caseMIR	SENT8	-	-
+8	cuadro	cuadro	NCMS000	-	-	1014-1020	205_QUEST_clinical_caseMIR	SENT8	-	-
+9	que	que	PR0CN000	-	-	1021-1024	205_QUEST_clinical_caseMIR	SENT8	-	-
+10	presenta	presentar	VMIP3S0	-	-	1025-1033	205_QUEST_clinical_caseMIR	SENT8	-	-
+11	la	el	DA0FS0	-	-	1034-1036	205_QUEST_clinical_caseMIR	SENT8	-	-
+12	paciente	paciente	NCCS000	C0030705	persona	1037-1045	205_QUEST_clinical_caseMIR	SENT8	-	-
+13	.	.	Fp	-	-	1045-1046	205_QUEST_clinical_caseMIR	SENT8	-	-
+

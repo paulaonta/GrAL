@@ -91,3 +91,18 @@
 9	moderado	moderar	VMP00SM	-	-	468-476	719_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
 10	.	.	Fp	-	-	476-477	719_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	478-482	719_QUEST_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	483-485	719_QUEST_clinical_caseMIR	SENT4	-	-
+3	los	el	DA0MP0	-	-	486-489	719_QUEST_clinical_caseMIR	SENT4	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	490-500	719_QUEST_clinical_caseMIR	SENT4	-	-
+5	criterios	criterio	NCMP000	-	-	501-510	719_QUEST_clinical_caseMIR	SENT4	-	-
+6	indica	indicar	VMIP3S0	-	-	511-517	719_QUEST_clinical_caseMIR	SENT4	-	-
+7	mal	mal	RG	C0278252_1	hallazgo_1	518-521	719_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	pronóstico	pronóstico	NCMS000	C0278252_2	hallazgo_2	522-532	719_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	533-534	719_QUEST_clinical_caseMIR	SENT4	-	-
+10	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	535-543	719_QUEST_clinical_caseMIR	SENT4	-	-
+11	el	el	DA0MS0	-	-	544-546	719_QUEST_clinical_caseMIR	SENT4	-	-
+12	ingreso	ingreso	NCMS000	C0184666_1	procedimiento_1	547-554	719_QUEST_clinical_caseMIR	SENT4	-	-
+13	hospitalario	hospitalario	NC00SC0	C0184666_2	procedimiento_2	555-567	719_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	567-568	719_QUEST_clinical_caseMIR	SENT4	-	-
+

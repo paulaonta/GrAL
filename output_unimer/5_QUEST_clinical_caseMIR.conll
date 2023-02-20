@@ -1,35 +1,25 @@
-1	Señale	señalar	VMM03S0	-	-	417-423	5_QUEST_clinical_caseMIR	SENT1	-	-
-2	cuál	cuál	PT0CS000	-	-	424-428	5_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	429-431	5_QUEST_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	432-435	5_QUEST_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	436-446	5_QUEST_clinical_caseMIR	SENT1	-	-
-6	afirmaciones	afirmación	NCFP000	-	-	447-459	5_QUEST_clinical_caseMIR	SENT1	-	-
-7	es	ser	VSIP3S0	-	-	460-462	5_QUEST_clinical_caseMIR	SENT1	-	-
-8	la	el	DA0FS0	-	-	463-465	5_QUEST_clinical_caseMIR	SENT1	-	-
-9	correcta	correcto	AQ0FS0	C0205170	calificador	466-474	5_QUEST_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	474-475	5_QUEST_clinical_caseMIR	SENT1	-	-
-11	Un	Un		C0205447_1	calificador_1	0-2	5_QUEST_clinical_caseMIR	SENT1	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	3-11	5_QUEST_clinical_caseMIR	SENT1	-	-
-13	de	de	SPS00	C0332285	atributo	12-14	5_QUEST_clinical_caseMIR	SENT1	-	-
-14	87	87		-	-	15-17	5_QUEST_clinical_caseMIR	SENT1	-	-
-15	años	año	NCMP000	C0439234	calificador	18-22	5_QUEST_clinical_caseMIR	SENT1	-	-
-16	con	con	SPS00	C0332287	atributo	23-26	5_QUEST_clinical_caseMIR	SENT1	-	-
-17	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	27-39	5_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332119_2	situación_2	40-42	5_QUEST_clinical_caseMIR	SENT1	-	-
-19	bronquitis	bronquitis	NCFN000	C0008677_1	trastorno_1	43-53	5_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-20	crónica	crónico	AQ0FS0	C0008677_2	trastorno_2	54-61	5_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-21	e	y	CC	C1706368	calificador	62-63	5_QUEST_clinical_caseMIR	SENT1	-	-
-22	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	64-77	5_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-23	cardiaca	cardiaco	AQ0FS0	-	-	78-86	5_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-24	,	,	Fc	-	-	86-87	5_QUEST_clinical_caseMIR	SENT1	-	-
-25	ha	haber	VAIP3S0	-	-	88-90	5_QUEST_clinical_caseMIR	SENT1	-	-
-26	sido	ser	VSP00SM	-	-	91-95	5_QUEST_clinical_caseMIR	SENT1	-	-
-27	diagnosticado	diagnosticar	VMP00SM	-	-	96-109	5_QUEST_clinical_caseMIR	SENT1	-	-
-28	de	de	SPS00	C0332285	atributo	110-112	5_QUEST_clinical_caseMIR	SENT1	-	-
-29	colecistitis	colecistitis	NCFN000	C0149520_1	trastorno_1	113-125	5_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-30	aguda	agudo	AQ0FS0	C0149520_2	trastorno_2	126-131	5_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-31	Litiásica	litiásico	AQ0FS0	-	-	132-141	5_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-32	.	.	Fp	-	-	141-142	5_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	5_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	5_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	5_QUEST_clinical_caseMIR	SENT1	-	-
+4	87	87		-	-	15-17	5_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	5_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	23-26	5_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	27-39	5_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	40-42	5_QUEST_clinical_caseMIR	SENT1	-	-
+9	bronquitis	bronquitis	NCFN000	C0008677_1	trastorno_1	43-53	5_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	crónica	crónico	AQ0FS0	C0008677_2	trastorno_2	54-61	5_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	e	y	CC	C1706368	calificador	62-63	5_QUEST_clinical_caseMIR	SENT1	-	-
+12	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	64-77	5_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	cardiaca	cardiaco	AQ0FS0	-	-	78-86	5_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	,	,	Fc	-	-	86-87	5_QUEST_clinical_caseMIR	SENT1	-	-
+15	ha	haber	VAIP3S0	-	-	88-90	5_QUEST_clinical_caseMIR	SENT1	-	-
+16	sido	ser	VSP00SM	-	-	91-95	5_QUEST_clinical_caseMIR	SENT1	-	-
+17	diagnosticado	diagnosticar	VMP00SM	-	-	96-109	5_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	110-112	5_QUEST_clinical_caseMIR	SENT1	-	-
+19	colecistitis	colecistitis	NCFN000	C0149520_1	trastorno_1	113-125	5_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	aguda	agudo	AQ0FS0	C0149520_2	trastorno_2	126-131	5_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	Litiásica	litiásico	AQ0FS0	-	-	132-141	5_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	.	.	Fp	-	-	141-142	5_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Tras	tras	SPS00	-	-	143-147	5_QUEST_clinical_caseMIR	SENT2	-	-
 2	cuatro	cuatro		-	-	148-154	5_QUEST_clinical_caseMIR	SENT2	-	-
@@ -60,4 +50,14 @@
 27	y	y	CC	C1706368	calificador	314-315	5_QUEST_clinical_caseMIR	SENT2	-	-
 28	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	316-328	5_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 29	.	.	Fp	-	-	328-329	5_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	330-332	5_QUEST_clinical_caseMIR	SENT3	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	333-340	5_QUEST_clinical_caseMIR	SENT3	-	-
+3	más	más	RG	C0205172	calificador	341-344	5_QUEST_clinical_caseMIR	SENT3	-	-
+4	adecuada	adecuar	VMP00SF	-	-	345-353	5_QUEST_clinical_caseMIR	SENT3	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	354-356	5_QUEST_clinical_caseMIR	SENT3	-	-
+6	este	este	DD0MS0	-	-	357-361	5_QUEST_clinical_caseMIR	SENT3	-	-
+7	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	362-369	5_QUEST_clinical_caseMIR	SENT3	-	-
+8	sería	ser	VSIC1S0	-	-	370-375	5_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	375-376	5_QUEST_clinical_caseMIR	SENT3	-	-
 

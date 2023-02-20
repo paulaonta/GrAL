@@ -52,7 +52,7 @@
 5	los	el	DA0MP0	-	-	282-285	768_QUEST_clinical_caseMIR	SENT3	-	-
 6	siguientes	siguiente	AQ0CP0	C0332282	atributo	286-296	768_QUEST_clinical_caseMIR	SENT3	-	-
 7	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	297-307	768_QUEST_clinical_caseMIR	SENT3	-	-
-8	:	:	Fd	-	-	307-308	768_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	307-308	768_QUEST_clinical_caseMIR	SENT3	-	-
 9	colesterol	colesterol	NCMS000	C0543421_1	sustancia_1	309-319	768_QUEST_clinical_caseMIR	SENT3	-	-
 10	total	total	NCMS000	C0543421_2	sustancia_2	320-325	768_QUEST_clinical_caseMIR	SENT3	-	-
 11	302	302	Z	-	-	326-329	768_QUEST_clinical_caseMIR	SENT3	-	-
@@ -96,4 +96,19 @@
 18	de	de	SPS00	C0332285	atributo	502-504	768_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
 19	Aquiles	aquiles	NCMP000	-	-	505-512	768_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
 20	.	.	Fp	-	-	512-513	768_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Con	con	SPS00	C0332287	atributo	514-517	768_QUEST_clinical_caseMIR	SENT5	-	-
+2	respecto	respecto	NCMS000	-	-	518-526	768_QUEST_clinical_caseMIR	SENT5	-	-
+3	a	a	SPS00	-	-	527-528	768_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	529-531	768_QUEST_clinical_caseMIR	SENT5	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	532-540	768_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	541-552	768_QUEST_clinical_caseMIR	SENT5	-	-
+7	y	y	CC	C1706368	calificador	553-554	768_QUEST_clinical_caseMIR	SENT5	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	555-566	768_QUEST_clinical_caseMIR	SENT5	-	-
+9	,	,	Fc	-	-	566-567	768_QUEST_clinical_caseMIR	SENT5	-	-
+10	señale	señalar	VMSP3S0	-	-	568-574	768_QUEST_clinical_caseMIR	SENT5	-	-
+11	la	el	DA0FS0	-	-	575-577	768_QUEST_clinical_caseMIR	SENT5	-	-
+12	afirmación	afirmación	NCFS000	-	-	578-588	768_QUEST_clinical_caseMIR	SENT5	-	-
+13	INCORRECTA	incorrecto	AQ0FS0	-	-	589-599	768_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	599-600	768_QUEST_clinical_caseMIR	SENT5	-	-
 

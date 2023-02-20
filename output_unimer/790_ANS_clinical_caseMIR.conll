@@ -1,24 +1,15 @@
-1	¿	¿	Fia	-	-	163-164	790_ANS_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	164-167	790_ANS_clinical_caseMIR	SENT1	-	-
-3	consejo	consejo	NCMS000	-	-	168-175	790_ANS_clinical_caseMIR	SENT1	-	-
-4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	176-178	790_ANS_clinical_caseMIR	SENT1	-	-
-5	parece	parecer	VMIP3S0	-	-	179-185	790_ANS_clinical_caseMIR	SENT1	-	-
-6	el	el	DA0MS0	-	-	186-188	790_ANS_clinical_caseMIR	SENT1	-	-
-7	adecuado	adecuado	NC00SC0	C0205411	calificador	189-197	790_ANS_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	197-198	790_ANS_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	198-199	790_ANS_clinical_caseMIR	SENT1	-	-
-10	40	40		-	-	0-2	790_ANS_clinical_caseMIR	SENT1	-	-
-11	mg/kg/10	mg/kg/10	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT1	-	-
-12	h	h	NCMN000	C0439227	calificador	12-13	790_ANS_clinical_caseMIR	SENT1	-	-
-13	(	(	Fpa	-	-	14-15	790_ANS_clinical_caseMIR	SENT1	-	-
-14	no	no	RN	C1298908	calificador	15-17	790_ANS_clinical_caseMIR	SENT1	-	-
-15	se	se	P00CN000	-	-	18-20	790_ANS_clinical_caseMIR	SENT1	-	-
-16	requiere	requerir	VMIP3S0	-	-	21-29	790_ANS_clinical_caseMIR	SENT1	-	-
-17	ajuste	ajuste	NCMS000	C0376209#C0456081	atributo#procedimiento	30-36	790_ANS_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	37-39	790_ANS_clinical_caseMIR	SENT1	-	-
-19	dosificación	dosificación	NCFS000	-	-	40-52	790_ANS_clinical_caseMIR	SENT1	-	-
-20	)	)	Fpt	-	-	52-53	790_ANS_clinical_caseMIR	SENT1	-	-
-21	.	.	Fp	-	-	53-54	790_ANS_clinical_caseMIR	SENT1	-	-
+1	40	40		-	-	0-2	790_ANS_clinical_caseMIR	SENT1	-	-
+2	mg/kg/10	mg/kg/10	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT1	-	-
+3	h	h	NCMN000	C0439227	calificador	12-13	790_ANS_clinical_caseMIR	SENT1	-	-
+4	(	(	Fpa	-	-	14-15	790_ANS_clinical_caseMIR	SENT1	-	-
+5	no	no	RN	C1298908	calificador	15-17	790_ANS_clinical_caseMIR	SENT1	-	-
+6	se	se	P00CN000	-	-	18-20	790_ANS_clinical_caseMIR	SENT1	-	-
+7	requiere	requerir	VMIP3S0	-	-	21-29	790_ANS_clinical_caseMIR	SENT1	-	-
+8	ajuste	ajuste	NCMS000	C0376209#C0456081	atributo#procedimiento	30-36	790_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	37-39	790_ANS_clinical_caseMIR	SENT1	-	-
+10	dosificación	dosificación	NCFS000	-	-	40-52	790_ANS_clinical_caseMIR	SENT1	-	-
+11	)	)	Fpt	-	-	52-53	790_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	53-54	790_ANS_clinical_caseMIR	SENT1	-	-
 
 1	30	30		-	-	0-2	790_ANS_clinical_caseMIR	SENT2	-	-
 2	mg/kg/10	mg/kg/10	Z	-	-	3-11	790_ANS_clinical_caseMIR	SENT2	-	-

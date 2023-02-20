@@ -1,9 +1,6 @@
-1	Señale	señalar	VMM03S0	-	-	489-495	647_ANS_clinical_caseMIR	SENT1	-	-
-2	lo	lo	PP3CNA00	-	-	495-497	647_ANS_clinical_caseMIR	SENT1	-	-
-3	:	:	Fd	-	-	497-498	647_ANS_clinical_caseMIR	SENT1	-	-
-4	Añadir	añadir	VMN0000	-	-	0-6	647_ANS_clinical_caseMIR	SENT1	-	-
-5	ivabradina	ivabradina	NC00SC0	C0257190	sustancia#producto	7-17	647_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-6	.	.	Fp	-	-	17-18	647_ANS_clinical_caseMIR	SENT1	-	-
+1	Añadir	añadir	VMN0000	-	-	0-6	647_ANS_clinical_caseMIR	SENT1	-	-
+2	ivabradina	ivabradina	NC00SC0	C0257190	sustancia#producto	7-17	647_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	.	.	Fp	-	-	17-18	647_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Aumentar	aumentar	VMN0000	-	-	0-8	647_ANS_clinical_caseMIR	SENT2	-	-
 2	dosis	dosis	NCFN000	-	-	9-14	647_ANS_clinical_caseMIR	SENT2	-	-

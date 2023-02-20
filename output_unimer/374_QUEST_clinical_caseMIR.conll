@@ -1,31 +1,22 @@
-1	¿	¿	Fia	-	-	661-662	374_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	662-666	374_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	667-669	374_QUEST_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	670-672	374_QUEST_clinical_caseMIR	SENT1	-	-
-5	etiología	etiología	NCFS000	C1314792	atributo	673-682	374_QUEST_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205172	calificador	683-686	374_QUEST_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	687-695	374_QUEST_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	695-696	374_QUEST_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	696-697	374_QUEST_clinical_caseMIR	SENT1	-	-
-10	Un	Un		C0205447_1	calificador_1	0-2	374_QUEST_clinical_caseMIR	SENT1	-	-
-11	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	374_QUEST_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	10-12	374_QUEST_clinical_caseMIR	SENT1	-	-
-13	47	47		-	-	13-15	374_QUEST_clinical_caseMIR	SENT1	-	-
-14	años	año	NCMP000	C0439234	calificador	16-20	374_QUEST_clinical_caseMIR	SENT1	-	-
-15	sin	sin	SPS00	C0332122_1	calificador_1	21-24	374_QUEST_clinical_caseMIR	SENT1	-	-
-16	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	25-37	374_QUEST_clinical_caseMIR	SENT1	-	-
-17	de	de	SPS00	C0332122_3	calificador_3	38-40	374_QUEST_clinical_caseMIR	SENT1	-	-
-18	interés	interés	NCMS000	-	-	41-48	374_QUEST_clinical_caseMIR	SENT1	-	-
-19	,	,	Fc	-	-	48-49	374_QUEST_clinical_caseMIR	SENT1	-	-
-20	es	ser	VSIP3S0	-	-	50-52	374_QUEST_clinical_caseMIR	SENT1	-	-
-21	diagnosticado	diagnosticar	VMP00SM	-	-	53-66	374_QUEST_clinical_caseMIR	SENT1	-	-
-22	de	de	SPS00	C0332285	atributo	67-69	374_QUEST_clinical_caseMIR	SENT1	-	-
-23	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	70-82	374_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-24	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	83-91	374_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-25	hace	hacer	VMIP3S0	-	-	92-96	374_QUEST_clinical_caseMIR	SENT1	-	-
-26	un	un		C0205447_1	calificador_1	97-99	374_QUEST_clinical_caseMIR	SENT1	-	-
-27	año	año	NCMS000	C0439234	calificador	100-103	374_QUEST_clinical_caseMIR	SENT1	-	-
-28	.	.	Fp	-	-	103-104	374_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	374_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	374_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	374_QUEST_clinical_caseMIR	SENT1	-	-
+4	47	47		-	-	13-15	374_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	374_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332122_1	calificador_1	21-24	374_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	25-37	374_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332122_3	calificador_3	38-40	374_QUEST_clinical_caseMIR	SENT1	-	-
+9	interés	interés	NCMS000	-	-	41-48	374_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	48-49	374_QUEST_clinical_caseMIR	SENT1	-	-
+11	es	ser	VSIP3S0	-	-	50-52	374_QUEST_clinical_caseMIR	SENT1	-	-
+12	diagnosticado	diagnosticar	VMP00SM	-	-	53-66	374_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	67-69	374_QUEST_clinical_caseMIR	SENT1	-	-
+14	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	70-82	374_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	83-91	374_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	hace	hacer	VMIP3S0	-	-	92-96	374_QUEST_clinical_caseMIR	SENT1	-	-
+17	un	un		C0205447_1	calificador_1	97-99	374_QUEST_clinical_caseMIR	SENT1	-	-
+18	año	año	NCMS000	C0439234	calificador	100-103	374_QUEST_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	103-104	374_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Sigue	seguir	VMIP3S0	-	-	105-110	374_QUEST_clinical_caseMIR	SENT2	-	-
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	111-122	374_QUEST_clinical_caseMIR	SENT2	-	-
@@ -68,13 +59,12 @@
 10	mmHg	mmHg	NCMP000	-	-	292-296	374_QUEST_clinical_caseMIR	SENT3	-	-
 11	.	.	Fp	-	-	296-297	374_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	¿	¿	Fia	-	-	298-299	374_QUEST_clinical_caseMIR	SENT4	-	-
-2	Cuál	cuál	PT0CS000	-	-	299-303	374_QUEST_clinical_caseMIR	SENT4	-	-
-3	es	ser	VSIP3S0	-	-	304-306	374_QUEST_clinical_caseMIR	SENT4	-	-
-4	el	el	DA0MS0	-	-	307-309	374_QUEST_clinical_caseMIR	SENT4	-	-
-5	siguiente	siguiente	AQ0CS0	C0332282	atributo	310-319	374_QUEST_clinical_caseMIR	SENT4	-	-
-6	paso	paso	NCMS000	C1261552	calificador	320-324	374_QUEST_clinical_caseMIR	SENT4	-	-
-7	a	a	SPS00	-	-	325-326	374_QUEST_clinical_caseMIR	SENT4	-	-
-8	realizar	realizar	VMN0000	-	-	327-335	374_QUEST_clinical_caseMIR	SENT4	-	-
-9	?	?	Fit	-	-	335-336	374_QUEST_clinical_caseMIR	SENT4	-	-
+1	Cuál	cuál	PT0CS000	-	-	298-302	374_QUEST_clinical_caseMIR	SENT4	-	-
+2	es	ser	VSIP3S0	-	-	303-305	374_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	306-308	374_QUEST_clinical_caseMIR	SENT4	-	-
+4	siguiente	siguiente	AQ0CS0	C0332282	atributo	309-318	374_QUEST_clinical_caseMIR	SENT4	-	-
+5	paso	paso	NCMS000	C1261552	calificador	319-323	374_QUEST_clinical_caseMIR	SENT4	-	-
+6	a	a	SPS00	-	-	324-325	374_QUEST_clinical_caseMIR	SENT4	-	-
+7	realizar	realizar	VMN0000	-	-	326-334	374_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	334-335	374_QUEST_clinical_caseMIR	SENT4	-	-
 

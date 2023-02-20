@@ -1,17 +1,7 @@
-1	¿	¿	Fia	-	-	188-189	276_ANS_clinical_caseMIR	SENT1	-	-
-2	Cual	cual	PI0CS000	-	-	189-193	276_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	194-196	276_ANS_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	197-200	276_ANS_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	201-211	276_ANS_clinical_caseMIR	SENT1	-	-
-6	afirmaciones	afirmación	NCFP000	-	-	212-224	276_ANS_clinical_caseMIR	SENT1	-	-
-7	es	ser	VSIP3S0	-	-	225-227	276_ANS_clinical_caseMIR	SENT1	-	-
-8	FALSA	falso	AQ0FS0	C0205237	calificador	228-233	276_ANS_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	233-234	276_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	234-235	276_ANS_clinical_caseMIR	SENT1	-	-
-11	Hernia	herniar	VMM02S0	C0019295_1	trastorno_1	0-6	276_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	inguinal	inguinal	NC00SC0	C0019295_2	trastorno_2	7-15	276_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	directa	directo	AQ0FS0	C0019295_3	trastorno_3	16-23	276_ANS_clinical_caseMIR	SENT1	-	-
-14	.	.	Fp	-	-	23-24	276_ANS_clinical_caseMIR	SENT1	-	-
+1	Hernia	herniar	VMM02S0	C0019295_1	trastorno_1	0-6	276_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	inguinal	inguinal	NC00SC0	C0019295_2	trastorno_2	7-15	276_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	directa	directo	AQ0FS0	C0019295_3	trastorno_3	16-23	276_ANS_clinical_caseMIR	SENT1	-	-
+4	.	.	Fp	-	-	23-24	276_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Hernia	herniar	VMM02S0	-	-	0-6	276_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	de	de	SPS00	C0332285	atributo	7-9	276_ANS_clinical_caseMIR	SENT2	-	-

@@ -54,3 +54,13 @@
 27	muslo	muslo	NCMS000	C1285003#C0446562_4	estructura_corporal_4	274-279	673_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 28	.	.	Fp	-	-	279-280	673_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	281-285	673_QUEST_clinical_caseMIR	SENT4	-	-
+2	es	ser	VSIP3S0	-	-	286-288	673_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	289-291	673_QUEST_clinical_caseMIR	SENT4	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	292-303	673_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	304-306	673_QUEST_clinical_caseMIR	SENT4	-	-
+6	sospecha	sospecha	NCFS000	C0750491	calificador	307-315	673_QUEST_clinical_caseMIR	SENT4	-	-
+7	más	más	RG	C0205172	calificador	316-319	673_QUEST_clinical_caseMIR	SENT4	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	320-328	673_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	328-329	673_QUEST_clinical_caseMIR	SENT4	-	-
+

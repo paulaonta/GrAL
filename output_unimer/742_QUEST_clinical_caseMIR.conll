@@ -68,3 +68,18 @@
 32	costilla	costilla	NCFS000	C1280232#C0222847_2	estructura_corporal_2	385-393	742_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 33	.	.	Fp	-	-	393-394	742_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	395-399	742_QUEST_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	400-402	742_QUEST_clinical_caseMIR	SENT4	-	-
+3	los	el	DA0MP0	-	-	403-406	742_QUEST_clinical_caseMIR	SENT4	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	407-417	742_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	418-430	742_QUEST_clinical_caseMIR	SENT4	-	-
+6	considera	considerar	VMIP3S0	-	-	431-440	742_QUEST_clinical_caseMIR	SENT4	-	-
+7	más	más	RG	C0205172	calificador	441-444	742_QUEST_clinical_caseMIR	SENT4	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	445-453	742_QUEST_clinical_caseMIR	SENT4	-	-
+9	como	como	CS	C0332257	calificador	454-458	742_QUEST_clinical_caseMIR	SENT4	-	-
+10	responsable	responsable	NCCS000	C1273518_1	atributo_1	459-470	742_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C1273518_2	atributo_2	471-473	742_QUEST_clinical_caseMIR	SENT4	-	-
+12	estas	este	DD0FP0	-	-	474-479	742_QUEST_clinical_caseMIR	SENT4	-	-
+13	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	480-488	742_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	.	.	Fp	-	-	488-489	742_QUEST_clinical_caseMIR	SENT4	-	-
+

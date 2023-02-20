@@ -1,17 +1,11 @@
-1	El	el	DA0MS0	-	-	258-260	216_ANS_clinical_caseMIR	SENT1	-	-
-2	estadiaje	estadiaje	NCMS000	-	-	261-270	216_ANS_clinical_caseMIR	SENT1	-	-
-3	del	del	SP+DA	-	-	271-274	216_ANS_clinical_caseMIR	SENT1	-	-
-4	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	275-280	216_ANS_clinical_caseMIR	SENT1	-	-
-5	será	ser	VSIF3S0	-	-	281-285	216_ANS_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	285-286	216_ANS_clinical_caseMIR	SENT1	-	-
-7	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	216_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-8	por	por	SPS00	C0678226	atributo	11-14	216_ANS_clinical_caseMIR	SENT1	-	-
-9	depósito	depósito	NCMS000	C0442627#C0333562	medio_ambiente#anomalía_morfológica	15-23	216_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-10	de	de	SPS00	C0332285	atributo	24-26	216_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-11	cadenas	cadena	NCFP000	C3540771#C0337112	metadato_fundacional#objeto_físico	27-34	216_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-12	ligeras	ligero	AQ0FP0	-	-	35-42	216_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-13	kappa	kappa	NCFS000	C0439099	calificador	43-48	216_ANS_clinical_caseMIR	SENT1	I-Calificador	-
-14	.	.	Fp	-	-	48-49	216_ANS_clinical_caseMIR	SENT1	-	-
+1	Enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	0-10	216_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	por	por	SPS00	C0678226	atributo	11-14	216_ANS_clinical_caseMIR	SENT1	-	-
+3	depósito	depósito	NCMS000	C0442627#C0333562	medio_ambiente#anomalía_morfológica	15-23	216_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0332285	atributo	24-26	216_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+5	cadenas	cadena	NCFP000	C3540771#C0337112	metadato_fundacional#objeto_físico	27-34	216_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+6	ligeras	ligero	AQ0FP0	-	-	35-42	216_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	kappa	kappa	NCFS000	C0439099	calificador	43-48	216_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+8	.	.	Fp	-	-	48-49	216_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Síndrome	síndrome	NCMS000	C0027726_1	trastorno_1	0-8	216_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	nefrótico	nefrótico		C0027726_2	trastorno_2	9-18	216_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-

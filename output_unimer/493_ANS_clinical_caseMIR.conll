@@ -1,18 +1,8 @@
-1	Señalar	señalar	VMN0000	-	-	462-469	493_ANS_clinical_caseMIR	SENT1	-	-
-2	cual	cual	PI0CS000	-	-	470-474	493_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	475-477	493_ANS_clinical_caseMIR	SENT1	-	-
-4	los	el	DA0MP0	-	-	478-481	493_ANS_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	482-492	493_ANS_clinical_caseMIR	SENT1	-	-
-6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	493-505	493_ANS_clinical_caseMIR	SENT1	-	-
-7	es	ser	VSIP3S0	-	-	506-508	493_ANS_clinical_caseMIR	SENT1	-	-
-8	el	el	DA0MS0	-	-	509-511	493_ANS_clinical_caseMIR	SENT1	-	-
-9	apropiado	apropiar	VMP00SM	-	-	512-521	493_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	521-522	493_ANS_clinical_caseMIR	SENT1	-	-
-11	Mefloquina	mefloquina	NC00SC0	C0025153	producto#sustancia	0-10	493_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-12	por	por	SPS00	C0678226	atributo	11-14	493_ANS_clinical_caseMIR	SENT1	-	-
-13	vía	vía	NCFS000	C1527415_1	calificador_1	15-18	493_ANS_clinical_caseMIR	SENT1	-	-
-14	oral	oral	NC00SC0	C1527415_2	calificador_2	19-23	493_ANS_clinical_caseMIR	SENT1	-	-
-15	.	.	Fp	-	-	23-24	493_ANS_clinical_caseMIR	SENT1	-	-
+1	Mefloquina	mefloquina	NC00SC0	C0025153	producto#sustancia	0-10	493_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	por	por	SPS00	C0678226	atributo	11-14	493_ANS_clinical_caseMIR	SENT1	-	-
+3	vía	vía	NCFS000	C1527415_1	calificador_1	15-18	493_ANS_clinical_caseMIR	SENT1	-	-
+4	oral	oral	NC00SC0	C1527415_2	calificador_2	19-23	493_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	23-24	493_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Artesunato	artesunato	NC00SC0	C0052432	sustancia#producto	0-10	493_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
 2	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	11-22	493_ANS_clinical_caseMIR	SENT2	-	-

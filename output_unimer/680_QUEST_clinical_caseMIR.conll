@@ -41,44 +41,53 @@
 16	.	.	Fp	-	-	230-231	680_QUEST_clinical_caseMIR	SENT2	-	-
 
 1	Analítica	analítica	NCFS000	-	-	232-241	680_QUEST_clinical_caseMIR	SENT3	-	-
-2	:	:	Fd	-	-	241-242	680_QUEST_clinical_caseMIR	SENT3	-	-
-3	Leucocitos	leucocito	NCMP000	C0023516	célula	243-253	680_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
-4	7,2	7,2		-	-	254-257	680_QUEST_clinical_caseMIR	SENT3	-	-
-5	x103/μL	x103/μL		-	-	258-265	680_QUEST_clinical_caseMIR	SENT3	-	-
-6	,	,	Fc	-	-	265-266	680_QUEST_clinical_caseMIR	SENT3	-	-
-7	Hb	hb	NC00YL0	-	-	267-269	680_QUEST_clinical_caseMIR	SENT3	-	-
-8	12,3	12.3	Z	-	-	270-274	680_QUEST_clinical_caseMIR	SENT3	-	-
-9	g	g	NCMN000	-	-	275-276	680_QUEST_clinical_caseMIR	SENT3	-	-
-10	/	/	Fh	-	-	276-277	680_QUEST_clinical_caseMIR	SENT3	-	-
-11	dL	decilitro	NCMN000	C0439241	calificador	277-279	680_QUEST_clinical_caseMIR	SENT3	-	-
-12	,	,	Fc	-	-	279-280	680_QUEST_clinical_caseMIR	SENT3	-	-
-13	Plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	281-290	680_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
-14	6,0	6,0		-	-	291-294	680_QUEST_clinical_caseMIR	SENT3	-	-
-15	x103/μL	x103/μL		-	-	295-302	680_QUEST_clinical_caseMIR	SENT3	-	-
-16	.	.	Fp	-	-	302-303	680_QUEST_clinical_caseMIR	SENT3	-	-
+2	.	.	Fp	-	-	241-242	680_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	La	el	DA0FS0	-	-	304-306	680_QUEST_clinical_caseMIR	SENT4	-	-
-2	trombocitopenia	trombocitopenia	NC00SC0	C0040034_1	trastorno#hallazgo_1	307-322	680_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-3	se	se	P00CN000	-	-	323-325	680_QUEST_clinical_caseMIR	SENT4	-	-
-4	confirma	confirmar	VMIP3S0	-	-	326-334	680_QUEST_clinical_caseMIR	SENT4	-	-
-5	en	en	SPS00	C1720294#C0332285	calificador#atributo	335-337	680_QUEST_clinical_caseMIR	SENT4	-	-
-6	el	el	DA0MS0	-	-	338-340	680_QUEST_clinical_caseMIR	SENT4	-	-
-7	frotis	frotis	NCMN000	-	-	341-347	680_QUEST_clinical_caseMIR	SENT4	-	-
-8	,	,	Fc	-	-	347-348	680_QUEST_clinical_caseMIR	SENT4	-	-
-9	donde	donde	PR000000	-	-	349-354	680_QUEST_clinical_caseMIR	SENT4	-	-
-10	se	se	P00CN000	-	-	355-357	680_QUEST_clinical_caseMIR	SENT4	-	-
-11	observan	observar	VMIP3P0	-	-	358-366	680_QUEST_clinical_caseMIR	SENT4	-	-
-12	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	367-376	680_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
-13	de	de	SPS00	C0332285	atributo	377-379	680_QUEST_clinical_caseMIR	SENT4	-	-
-14	tamaño	tamaño	NCMS000	C0332509_1	hallazgo_1	380-386	680_QUEST_clinical_caseMIR	SENT4	-	-
-15	aumentado	aumentar	VMP00SM	C0332509_2	hallazgo_2	387-396	680_QUEST_clinical_caseMIR	SENT4	-	-
-16	.	.	Fp	-	-	396-397	680_QUEST_clinical_caseMIR	SENT4	-	-
+1	Leucocitos	leucocito	NCMP000	C0023516	célula	243-253	680_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+2	7,2	7,2		-	-	254-257	680_QUEST_clinical_caseMIR	SENT4	-	-
+3	x103/μL	x103/μL		-	-	258-265	680_QUEST_clinical_caseMIR	SENT4	-	-
+4	,	,	Fc	-	-	265-266	680_QUEST_clinical_caseMIR	SENT4	-	-
+5	Hb	hb	NC00YL0	-	-	267-269	680_QUEST_clinical_caseMIR	SENT4	-	-
+6	12,3	12.3	Z	-	-	270-274	680_QUEST_clinical_caseMIR	SENT4	-	-
+7	g	g	NCMN000	-	-	275-276	680_QUEST_clinical_caseMIR	SENT4	-	-
+8	/	/	Fh	-	-	276-277	680_QUEST_clinical_caseMIR	SENT4	-	-
+9	dL	decilitro	NCMN000	C0439241	calificador	277-279	680_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	279-280	680_QUEST_clinical_caseMIR	SENT4	-	-
+11	Plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	281-290	680_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+12	6,0	6,0		-	-	291-294	680_QUEST_clinical_caseMIR	SENT4	-	-
+13	x103/μL	x103/μL		-	-	295-302	680_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	302-303	680_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	398-405	680_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	406-408	680_QUEST_clinical_caseMIR	SENT5	-	-
-3	coagulación	coagulación	NCFS000	C0441509	procedimiento	409-420	680_QUEST_clinical_caseMIR	SENT5	-	-
-4	y	y	CC	C1706368	calificador	421-422	680_QUEST_clinical_caseMIR	SENT5	-	-
-5	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	423-433	680_QUEST_clinical_caseMIR	SENT5	-	-
-6	normales	normal	AQ0CP0	C0205307	calificador	434-442	680_QUEST_clinical_caseMIR	SENT5	-	-
-7	.	.	Fp	-	-	442-443	680_QUEST_clinical_caseMIR	SENT5	-	-
+1	La	el	DA0FS0	-	-	304-306	680_QUEST_clinical_caseMIR	SENT5	-	-
+2	trombocitopenia	trombocitopenia	NC00SC0	C0040034_1	trastorno#hallazgo_1	307-322	680_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+3	se	se	P00CN000	-	-	323-325	680_QUEST_clinical_caseMIR	SENT5	-	-
+4	confirma	confirmar	VMIP3S0	-	-	326-334	680_QUEST_clinical_caseMIR	SENT5	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	335-337	680_QUEST_clinical_caseMIR	SENT5	-	-
+6	el	el	DA0MS0	-	-	338-340	680_QUEST_clinical_caseMIR	SENT5	-	-
+7	frotis	frotis	NCMN000	-	-	341-347	680_QUEST_clinical_caseMIR	SENT5	-	-
+8	,	,	Fc	-	-	347-348	680_QUEST_clinical_caseMIR	SENT5	-	-
+9	donde	donde	PR000000	-	-	349-354	680_QUEST_clinical_caseMIR	SENT5	-	-
+10	se	se	P00CN000	-	-	355-357	680_QUEST_clinical_caseMIR	SENT5	-	-
+11	observan	observar	VMIP3P0	-	-	358-366	680_QUEST_clinical_caseMIR	SENT5	-	-
+12	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	367-376	680_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+13	de	de	SPS00	C0332285	atributo	377-379	680_QUEST_clinical_caseMIR	SENT5	-	-
+14	tamaño	tamaño	NCMS000	C0332509_1	hallazgo_1	380-386	680_QUEST_clinical_caseMIR	SENT5	-	-
+15	aumentado	aumentar	VMP00SM	C0332509_2	hallazgo_2	387-396	680_QUEST_clinical_caseMIR	SENT5	-	-
+16	.	.	Fp	-	-	396-397	680_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	398-405	680_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332285	atributo	406-408	680_QUEST_clinical_caseMIR	SENT6	-	-
+3	coagulación	coagulación	NCFS000	C0441509	procedimiento	409-420	680_QUEST_clinical_caseMIR	SENT6	-	-
+4	y	y	CC	C1706368	calificador	421-422	680_QUEST_clinical_caseMIR	SENT6	-	-
+5	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	423-433	680_QUEST_clinical_caseMIR	SENT6	-	-
+6	normales	normal	AQ0CP0	C0205307	calificador	434-442	680_QUEST_clinical_caseMIR	SENT6	-	-
+7	.	.	Fp	-	-	442-443	680_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	444-448	680_QUEST_clinical_caseMIR	SENT7	-	-
+2	considera	considerar	VMIP3S0	-	-	449-458	680_QUEST_clinical_caseMIR	SENT7	-	-
+3	el	el	DA0MS0	-	-	459-461	680_QUEST_clinical_caseMIR	SENT7	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	462-473	680_QUEST_clinical_caseMIR	SENT7	-	-
+5	más	más	RG	C0205172	calificador	474-477	680_QUEST_clinical_caseMIR	SENT7	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	478-486	680_QUEST_clinical_caseMIR	SENT7	-	-
+7	.	.	Fp	-	-	486-487	680_QUEST_clinical_caseMIR	SENT7	-	-
 

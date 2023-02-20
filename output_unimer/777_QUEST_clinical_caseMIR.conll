@@ -44,3 +44,22 @@
 25	pájaro	pájaro	NCMS000	C0005595#C0324556	organismo#organismo_vivo	217-223	777_QUEST_clinical_caseMIR	SENT2	-	-
 26	.	.	Fp	-	-	223-224	777_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	El	el	DA0MS0	-	-	225-227	777_QUEST_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	228-239	777_QUEST_clinical_caseMIR	SENT3	-	-
+3	,	,	Fc	-	-	239-240	777_QUEST_clinical_caseMIR	SENT3	-	-
+4	si	si	CS	-	-	241-243	777_QUEST_clinical_caseMIR	SENT3	-	-
+5	no	no	RN	C1298908	calificador	244-246	777_QUEST_clinical_caseMIR	SENT3	-	-
+6	existen	existir	VMIP3P0	-	-	247-254	777_QUEST_clinical_caseMIR	SENT3	-	-
+7	signos	signo	NCMP000	C0311392	hallazgo	255-261	777_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	262-264	777_QUEST_clinical_caseMIR	SENT3	-	-
+9	gangrena	gangrena	NCFS000	C0017086	anomalía_morfológica	265-273	777_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+10	o	o	CC	-	-	274-275	777_QUEST_clinical_caseMIR	SENT3	-	-
+11	peritonitis	peritonitis	NCFN000	C0031154	trastorno	276-287	777_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+12	,	,	Fc	-	-	287-288	777_QUEST_clinical_caseMIR	SENT3	-	-
+13	consistirá	consistir	VMIF3S0	-	-	289-299	777_QUEST_clinical_caseMIR	SENT3	-	-
+14	en	en	SPS00	C1279901_1	calificador_1	300-302	777_QUEST_clinical_caseMIR	SENT3	-	-
+15	primer	1	AO0MS0	C1279901_2	calificador_2	303-309	777_QUEST_clinical_caseMIR	SENT3	-	-
+16	lugar	lugar	NCMS000	C1279901_3	calificador_3	310-315	777_QUEST_clinical_caseMIR	SENT3	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	316-318	777_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	318-319	777_QUEST_clinical_caseMIR	SENT3	-	-
+

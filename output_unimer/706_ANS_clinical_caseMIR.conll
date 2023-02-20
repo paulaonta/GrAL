@@ -1,29 +1,20 @@
-1	¿	¿	Fia	-	-	462-463	706_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	463-467	706_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	468-470	706_ANS_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	471-473	706_ANS_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	474-485	706_ANS_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205172	calificador	486-489	706_ANS_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	490-498	706_ANS_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	498-499	706_ANS_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	499-500	706_ANS_clinical_caseMIR	SENT1	-	-
-10	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT1	-	-
-11	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT1	-	-
-12	del	del	SP+DA	-	-	9-12	706_ANS_clinical_caseMIR	SENT1	-	-
-13	debut	debut	NCMS000	-	-	13-18	706_ANS_clinical_caseMIR	SENT1	-	-
-14	típico	típico	AQ0MS0	-	-	19-25	706_ANS_clinical_caseMIR	SENT1	-	-
-15	de	de	SPS00	C0332285	atributo	26-28	706_ANS_clinical_caseMIR	SENT1	-	-
-16	una	una		C0205447_1	calificador_1	29-32	706_ANS_clinical_caseMIR	SENT1	-	-
-17	demencia	demencia	NCFS000	C0497327	trastorno	33-41	706_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	706_ANS_clinical_caseMIR	SENT1	-	-
-19	un	un		C0205447_1	calificador_1	45-47	706_ANS_clinical_caseMIR	SENT1	-	-
-20	paciente	paciente	NCCS000	C0030705	persona	48-56	706_ANS_clinical_caseMIR	SENT1	-	-
-21	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	57-62	706_ANS_clinical_caseMIR	SENT1	-	-
-22	con	con	SPS00	C0332287	atributo	63-66	706_ANS_clinical_caseMIR	SENT1	-	-
-23	una	una		C0205447_1	calificador_1	67-70	706_ANS_clinical_caseMIR	SENT1	-	-
-24	infección	infección	NCFS000	C0009450	trastorno	71-80	706_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	grave	grave	AQ0CS0	C0439808#C0205082	calificador	81-86	706_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-26	.	.	Fp	-	-	86-87	706_ANS_clinical_caseMIR	SENT1	-	-
+1	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT1	-	-
+3	del	del	SP+DA	-	-	9-12	706_ANS_clinical_caseMIR	SENT1	-	-
+4	debut	debut	NCMS000	-	-	13-18	706_ANS_clinical_caseMIR	SENT1	-	-
+5	típico	típico	AQ0MS0	-	-	19-25	706_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	706_ANS_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	29-32	706_ANS_clinical_caseMIR	SENT1	-	-
+8	demencia	demencia	NCFS000	C0497327	trastorno	33-41	706_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	706_ANS_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	45-47	706_ANS_clinical_caseMIR	SENT1	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	48-56	706_ANS_clinical_caseMIR	SENT1	-	-
+12	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	57-62	706_ANS_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	63-66	706_ANS_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	67-70	706_ANS_clinical_caseMIR	SENT1	-	-
+15	infección	infección	NCFS000	C0009450	trastorno	71-80	706_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	grave	grave	AQ0CS0	C0439808#C0205082	calificador	81-86	706_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+17	.	.	Fp	-	-	86-87	706_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Se	se	P00CN000	-	-	0-2	706_ANS_clinical_caseMIR	SENT2	-	-
 2	trata	tratar	VMIP3S0	-	-	3-8	706_ANS_clinical_caseMIR	SENT2	-	-

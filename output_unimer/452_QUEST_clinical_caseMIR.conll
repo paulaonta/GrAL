@@ -87,18 +87,19 @@
 14	de	de	SPS00	C0332285	atributo	416-418	452_QUEST_clinical_caseMIR	SENT4	-	-
 15	25,5	25,5		-	-	419-423	452_QUEST_clinical_caseMIR	SENT4	-	-
 16	kg/m2	kg/m2		-	-	424-429	452_QUEST_clinical_caseMIR	SENT4	-	-
-17	¿	¿	Fia	-	-	430-431	452_QUEST_clinical_caseMIR	SENT4	-	-
-18	Que	que	CS	-	-	431-434	452_QUEST_clinical_caseMIR	SENT4	-	-
-19	prueba	prueba	NCFS000	-	-	435-441	452_QUEST_clinical_caseMIR	SENT4	-	-
-20	de	de	SPS00	C0332285	atributo	442-444	452_QUEST_clinical_caseMIR	SENT4	-	-
-21	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	445-451	452_QUEST_clinical_caseMIR	SENT4	-	-
-22	es	ser	VSIP3S0	-	-	452-454	452_QUEST_clinical_caseMIR	SENT4	-	-
-23	la	lo	PP3FSA00	C0205393_1	calificador_1	455-457	452_QUEST_clinical_caseMIR	SENT4	-	-
-24	más	más	RG	C0205393_2	calificador_2	458-461	452_QUEST_clinical_caseMIR	SENT4	-	-
-25	sensible	sensible	AQ0CS0	C0332324	calificador	462-470	452_QUEST_clinical_caseMIR	SENT4	-	-
-26	para	para	SPS00	C0521125	calificador	471-475	452_QUEST_clinical_caseMIR	SENT4	-	-
-27	realizar	realizar	VMN0000	-	-	476-484	452_QUEST_clinical_caseMIR	SENT4	-	-
-28	el	el	DA0MS0	-	-	485-487	452_QUEST_clinical_caseMIR	SENT4	-	-
-29	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	488-499	452_QUEST_clinical_caseMIR	SENT4	-	-
-30	?	?	Fit	-	-	499-500	452_QUEST_clinical_caseMIR	SENT4	-	-
+17	.	.	Fp	-	-	430-431	452_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Que	que	CS	-	-	432-435	452_QUEST_clinical_caseMIR	SENT5	-	-
+2	prueba	prueba	NCFS000	-	-	436-442	452_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	443-445	452_QUEST_clinical_caseMIR	SENT5	-	-
+4	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	446-452	452_QUEST_clinical_caseMIR	SENT5	-	-
+5	es	ser	VSIP3S0	-	-	453-455	452_QUEST_clinical_caseMIR	SENT5	-	-
+6	la	lo	PP3FSA00	C0205393_1	calificador_1	456-458	452_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205393_2	calificador_2	459-462	452_QUEST_clinical_caseMIR	SENT5	-	-
+8	sensible	sensible	AQ0CS0	C0332324	calificador	463-471	452_QUEST_clinical_caseMIR	SENT5	-	-
+9	para	para	SPS00	C0521125	calificador	472-476	452_QUEST_clinical_caseMIR	SENT5	-	-
+10	realizar	realizar	VMN0000	-	-	477-485	452_QUEST_clinical_caseMIR	SENT5	-	-
+11	el	el	DA0MS0	-	-	486-488	452_QUEST_clinical_caseMIR	SENT5	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	489-500	452_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	500-501	452_QUEST_clinical_caseMIR	SENT5	-	-
 

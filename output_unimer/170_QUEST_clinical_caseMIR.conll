@@ -1,26 +1,21 @@
-1	El	el	DA0MS0	-	-	631-633	170_QUEST_clinical_caseMIR	SENT1	-	-
-2	cuadro	cuadro	NCMS000	-	-	634-640	170_QUEST_clinical_caseMIR	SENT1	-	-
-3	clínico	clínico	AQ0MS0	C0205210	calificador	641-648	170_QUEST_clinical_caseMIR	SENT1	-	-
-4	sugiere	sugerir	VMIP3S0	-	-	649-656	170_QUEST_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	656-657	170_QUEST_clinical_caseMIR	SENT1	-	-
-6	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	170_QUEST_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	6-8	170_QUEST_clinical_caseMIR	SENT1	-	-
-8	26	26		-	-	9-11	170_QUEST_clinical_caseMIR	SENT1	-	-
-9	años	año	NCMP000	C0439234	calificador	12-16	170_QUEST_clinical_caseMIR	SENT1	-	-
-10	,	,	Fc	-	-	16-17	170_QUEST_clinical_caseMIR	SENT1	-	-
-11	prímigesta	prímigesta	NCFS000	-	-	18-28	170_QUEST_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	29-31	170_QUEST_clinical_caseMIR	SENT1	-	-
-13	32	32		-	-	32-34	170_QUEST_clinical_caseMIR	SENT1	-	-
-14	semanas	semana	NCFP000	C0439230	calificador	35-42	170_QUEST_clinical_caseMIR	SENT1	-	-
-15	acude	acudir	VMIP3S0	-	-	43-48	170_QUEST_clinical_caseMIR	SENT1	-	-
-16	a	a	SPS00	-	-	49-50	170_QUEST_clinical_caseMIR	SENT1	-	-
-17	urgencias	urgencia	NCFP000	C0439609	calificador	51-60	170_QUEST_clinical_caseMIR	SENT1	-	-
-18	por	por	SPS00	C0678226	atributo	61-64	170_QUEST_clinical_caseMIR	SENT1	-	-
-19	dolor	dolor	NCMS000	C0232488#C0458254_1	hallazgo_1	65-70	170_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-20	cólico	cólico	NCMS000	C0232488#C0458254_2	hallazgo_2	71-77	170_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-21	y	y	CC	C1706368	calificador	78-79	170_QUEST_clinical_caseMIR	SENT1	-	-
-22	lumbalgia	lumbalgia	NCFS000	C0024031	trastorno	80-89	170_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-23	.	.	Fp	-	-	89-90	170_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	170_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	170_QUEST_clinical_caseMIR	SENT1	-	-
+3	26	26		-	-	9-11	170_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	170_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	170_QUEST_clinical_caseMIR	SENT1	-	-
+6	prímigesta	prímigesta	NCFS000	-	-	18-28	170_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	29-31	170_QUEST_clinical_caseMIR	SENT1	-	-
+8	32	32		-	-	32-34	170_QUEST_clinical_caseMIR	SENT1	-	-
+9	semanas	semana	NCFP000	C0439230	calificador	35-42	170_QUEST_clinical_caseMIR	SENT1	-	-
+10	acude	acudir	VMIP3S0	-	-	43-48	170_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	49-50	170_QUEST_clinical_caseMIR	SENT1	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	51-60	170_QUEST_clinical_caseMIR	SENT1	-	-
+13	por	por	SPS00	C0678226	atributo	61-64	170_QUEST_clinical_caseMIR	SENT1	-	-
+14	dolor	dolor	NCMS000	C0232488#C0458254_1	hallazgo_1	65-70	170_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	cólico	cólico	NCMS000	C0232488#C0458254_2	hallazgo_2	71-77	170_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	y	y	CC	C1706368	calificador	78-79	170_QUEST_clinical_caseMIR	SENT1	-	-
+17	lumbalgia	lumbalgia	NCFS000	C0024031	trastorno	80-89	170_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	.	.	Fp	-	-	89-90	170_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	No	no	RN	C1298908	calificador	91-93	170_QUEST_clinical_caseMIR	SENT2	-	-
 2	refiere	referir	VMIP3S0	-	-	94-101	170_QUEST_clinical_caseMIR	SENT2	-	-
@@ -76,4 +71,14 @@
 10	3	3		-	-	376-377	170_QUEST_clinical_caseMIR	SENT5	-	-
 11	contracciones	contracción	NCFP000	C1140999	hallazgo	378-391	170_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 12	.	.	Fp	-	-	391-392	170_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Qué	qué	PT0CN000	-	-	393-396	170_QUEST_clinical_caseMIR	SENT6	-	-
+2	pensaría	pensar	VMIC3S0	-	-	397-405	170_QUEST_clinical_caseMIR	SENT6	-	-
+3	como	como	CS	C0332257	calificador	406-410	170_QUEST_clinical_caseMIR	SENT6	-	-
+4	primera	1	AO0FS0	-	-	411-418	170_QUEST_clinical_caseMIR	SENT6	-	-
+5	opción	opción	NCFS000	-	-	419-425	170_QUEST_clinical_caseMIR	SENT6	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	426-428	170_QUEST_clinical_caseMIR	SENT6	-	-
+7	esta	este	DD0FS0	-	-	429-433	170_QUEST_clinical_caseMIR	SENT6	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	434-442	170_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	442-443	170_QUEST_clinical_caseMIR	SENT6	-	-
 

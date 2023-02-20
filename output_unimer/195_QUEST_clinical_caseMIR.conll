@@ -55,7 +55,7 @@
 8	.	.	Fp	-	-	293-294	195_QUEST_clinical_caseMIR	SENT4	-	-
 
 1	TA	ta	I	-	-	295-297	195_QUEST_clinical_caseMIR	SENT5	-	-
-2	:	:	Fd	-	-	297-298	195_QUEST_clinical_caseMIR	SENT5	-	-
+2	.	.	Fp	-	-	297-298	195_QUEST_clinical_caseMIR	SENT5	-	-
 3	120/80	120/80	Z	-	-	299-305	195_QUEST_clinical_caseMIR	SENT5	-	-
 4	mm	mm	NCMN000	-	-	306-308	195_QUEST_clinical_caseMIR	SENT5	-	-
 5	Hg	hectogramo	NCMN000	-	-	309-311	195_QUEST_clinical_caseMIR	SENT5	-	-
@@ -107,7 +107,7 @@
 4	.	.	Fp	-	-	501-502	195_QUEST_clinical_caseMIR	SENT10	-	-
 
 1	ECG	ecg	NC00YL0	C1623258	procedimiento	503-506	195_QUEST_clinical_caseMIR	SENT11	-	-
-2	:	:	Fd	-	-	506-507	195_QUEST_clinical_caseMIR	SENT11	-	-
+2	.	.	Fp	-	-	506-507	195_QUEST_clinical_caseMIR	SENT11	-	-
 3	arritmia	arritmia	NCFS000	C0003811	trastorno	508-516	195_QUEST_clinical_caseMIR	SENT11	B-Grp_Enfermedad	-
 4	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	517-525	195_QUEST_clinical_caseMIR	SENT11	B-Calificador	-
 5	por	por	SPS00	C0678226	atributo	526-529	195_QUEST_clinical_caseMIR	SENT11	-	-
@@ -119,7 +119,7 @@
 11	.	.	Fp	-	-	561-562	195_QUEST_clinical_caseMIR	SENT11	-	-
 
 1	AQRS	aqrs	NC00YL0	-	-	563-567	195_QUEST_clinical_caseMIR	SENT12	-	-
-2	:	:	Fd	-	-	567-568	195_QUEST_clinical_caseMIR	SENT12	-	-
+2	.	.	Fp	-	-	567-568	195_QUEST_clinical_caseMIR	SENT12	-	-
 3	+120	+120		-	-	569-573	195_QUEST_clinical_caseMIR	SENT12	-	-
 4	"	"	Fe	-	-	573-574	195_QUEST_clinical_caseMIR	SENT12	-	-
 5	.	.	Fp	-	-	574-575	195_QUEST_clinical_caseMIR	SENT12	-	-
@@ -136,4 +136,11 @@
 10	de	de	SPS00	C0006382_2	estructura_corporal_2	627-629	195_QUEST_clinical_caseMIR	SENT13	I-Estructura_Corporal	-
 11	His	His		C0006382_3	estructura_corporal_3	630-633	195_QUEST_clinical_caseMIR	SENT13	I-Estructura_Corporal	-
 12	.	.	Fp	-	-	633-634	195_QUEST_clinical_caseMIR	SENT13	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	635-639	195_QUEST_clinical_caseMIR	SENT14	-	-
+2	es	ser	VSIP3S0	-	-	640-642	195_QUEST_clinical_caseMIR	SENT14	-	-
+3	su	su	DP3CS0	-	-	643-645	195_QUEST_clinical_caseMIR	SENT14	-	-
+4	orientación	orientación	NCFS000	C0029266	función	646-657	195_QUEST_clinical_caseMIR	SENT14	-	-
+5	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	658-669	195_QUEST_clinical_caseMIR	SENT14	-	-
+6	.	.	Fp	-	-	669-670	195_QUEST_clinical_caseMIR	SENT14	-	-
 

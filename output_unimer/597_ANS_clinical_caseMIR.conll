@@ -1,39 +1,30 @@
-1	¿	¿	Fia	-	-	854-855	597_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	855-859	597_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	860-862	597_ANS_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	863-865	597_ANS_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	866-877	597_ANS_clinical_caseMIR	SENT1	-	-
-6	MENOS	menos	RG	C0332288	atributo	878-883	597_ANS_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	884-892	597_ANS_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	892-893	597_ANS_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	893-894	597_ANS_clinical_caseMIR	SENT1	-	-
-10	Transfundir	transfundir	VMN0000	-	-	0-11	597_ANS_clinical_caseMIR	SENT1	-	-
-11	un	un		C0205447_1	calificador_1	12-14	597_ANS_clinical_caseMIR	SENT1	-	-
-12	concentrado	concentrar	VMP00SM	-	-	15-26	597_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-13	de	de	SPS00	C0332285	atributo	27-29	597_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-14	hematíes	hematíe	NCMP000	-	-	30-38	597_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-15	,	,	Fc	-	-	38-39	597_ANS_clinical_caseMIR	SENT1	-	-
-16	indicar	indicar	VMN0000	-	-	40-47	597_ANS_clinical_caseMIR	SENT1	-	-
-17	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	47-49	597_ANS_clinical_caseMIR	SENT1	-	-
-18	dieta	dieta	NCFS000	C0012169_1	hallazgo_1	50-55	597_ANS_clinical_caseMIR	SENT1	-	-
-19	pobre	pobre	NCCS000	C0012169_2	hallazgo_2	56-61	597_ANS_clinical_caseMIR	SENT1	-	-
-20	en	en	SPS00	C0012169_3	hallazgo_3	62-64	597_ANS_clinical_caseMIR	SENT1	-	-
-21	sal	salir	VMM02S0	C0012169_4	hallazgo_4	65-68	597_ANS_clinical_caseMIR	SENT1	-	-
-22	y	y	CC	C1706368	calificador	69-70	597_ANS_clinical_caseMIR	SENT1	-	-
-23	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	597_ANS_clinical_caseMIR	SENT1	-	-
-24	potasio	potasio	NCMS000	C0032821	sustancia#producto	74-81	597_ANS_clinical_caseMIR	SENT1	-	-
-25	,	,	Fc	-	-	81-82	597_ANS_clinical_caseMIR	SENT1	-	-
-26	subir	subir	VMN0000	-	-	83-88	597_ANS_clinical_caseMIR	SENT1	-	-
-27	la	el	DA0FS0	-	-	89-91	597_ANS_clinical_caseMIR	SENT1	-	-
-28	dosis	dosis	NCFN000	-	-	92-97	597_ANS_clinical_caseMIR	SENT1	-	-
-29	de	de	SPS00	C0332285	atributo	98-100	597_ANS_clinical_caseMIR	SENT1	-	-
-30	valsartán	valsartán	NC00SC0	C0216784	producto#sustancia	101-110	597_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-31	y	y	CC	C1706368	calificador	111-112	597_ANS_clinical_caseMIR	SENT1	-	-
-32	pedir	pedir	VMN0000	-	-	113-118	597_ANS_clinical_caseMIR	SENT1	-	-
-33	una	una		C0205447_1	calificador_1	119-122	597_ANS_clinical_caseMIR	SENT1	-	-
-34	angioTC	angiotc	NC00000	-	-	123-130	597_ANS_clinical_caseMIR	SENT1	-	-
-35	ambulatoriamente	ambulatoriamente	RG	-	-	131-147	597_ANS_clinical_caseMIR	SENT1	-	-
-36	.	.	Fp	-	-	147-148	597_ANS_clinical_caseMIR	SENT1	-	-
+1	Transfundir	transfundir	VMN0000	-	-	0-11	597_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	12-14	597_ANS_clinical_caseMIR	SENT1	-	-
+3	concentrado	concentrar	VMP00SM	-	-	15-26	597_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	de	de	SPS00	C0332285	atributo	27-29	597_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+5	hematíes	hematíe	NCMP000	-	-	30-38	597_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	,	,	Fc	-	-	38-39	597_ANS_clinical_caseMIR	SENT1	-	-
+7	indicar	indicar	VMN0000	-	-	40-47	597_ANS_clinical_caseMIR	SENT1	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	47-49	597_ANS_clinical_caseMIR	SENT1	-	-
+9	dieta	dieta	NCFS000	C0012169_1	hallazgo_1	50-55	597_ANS_clinical_caseMIR	SENT1	-	-
+10	pobre	pobre	NCCS000	C0012169_2	hallazgo_2	56-61	597_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C0012169_3	hallazgo_3	62-64	597_ANS_clinical_caseMIR	SENT1	-	-
+12	sal	salir	VMM02S0	C0012169_4	hallazgo_4	65-68	597_ANS_clinical_caseMIR	SENT1	-	-
+13	y	y	CC	C1706368	calificador	69-70	597_ANS_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	597_ANS_clinical_caseMIR	SENT1	-	-
+15	potasio	potasio	NCMS000	C0032821	sustancia#producto	74-81	597_ANS_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	81-82	597_ANS_clinical_caseMIR	SENT1	-	-
+17	subir	subir	VMN0000	-	-	83-88	597_ANS_clinical_caseMIR	SENT1	-	-
+18	la	el	DA0FS0	-	-	89-91	597_ANS_clinical_caseMIR	SENT1	-	-
+19	dosis	dosis	NCFN000	-	-	92-97	597_ANS_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	98-100	597_ANS_clinical_caseMIR	SENT1	-	-
+21	valsartán	valsartán	NC00SC0	C0216784	producto#sustancia	101-110	597_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	y	y	CC	C1706368	calificador	111-112	597_ANS_clinical_caseMIR	SENT1	-	-
+23	pedir	pedir	VMN0000	-	-	113-118	597_ANS_clinical_caseMIR	SENT1	-	-
+24	una	una		C0205447_1	calificador_1	119-122	597_ANS_clinical_caseMIR	SENT1	-	-
+25	angioTC	angiotc	NC00000	-	-	123-130	597_ANS_clinical_caseMIR	SENT1	-	-
+26	ambulatoriamente	ambulatoriamente	RG	-	-	131-147	597_ANS_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	147-148	597_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Hacer	hacer	VMN0000	-	-	0-5	597_ANS_clinical_caseMIR	SENT2	-	-
 2	un	un		C0205447_1	calificador_1	6-8	597_ANS_clinical_caseMIR	SENT2	-	-

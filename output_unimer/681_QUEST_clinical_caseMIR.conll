@@ -1,23 +1,17 @@
-1	El	el	DA0MS0	-	-	511-513	681_QUEST_clinical_caseMIR	SENT1	-	-
-2	siguiente	siguiente	AQ0CS0	C0332282	atributo	514-523	681_QUEST_clinical_caseMIR	SENT1	-	-
-3	paso	paso	NCMS000	C1261552	calificador	524-528	681_QUEST_clinical_caseMIR	SENT1	-	-
-4	debe	deber	VMIP3S0	-	-	529-533	681_QUEST_clinical_caseMIR	SENT1	-	-
-5	ser	ser	VSN0000	-	-	534-537	681_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	537-538	681_QUEST_clinical_caseMIR	SENT1	-	-
-7	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	681_QUEST_clinical_caseMIR	SENT1	-	-
-8	de	de	SPS00	C0332285	atributo	7-9	681_QUEST_clinical_caseMIR	SENT1	-	-
-9	54	54		-	-	10-12	681_QUEST_clinical_caseMIR	SENT1	-	-
-10	años	año	NCMP000	C0439234	calificador	13-17	681_QUEST_clinical_caseMIR	SENT1	-	-
-11	que	que	CS	-	-	18-21	681_QUEST_clinical_caseMIR	SENT1	-	-
-12	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	681_QUEST_clinical_caseMIR	SENT1	-	-
-13	por	por	SPS00	C1704447_2	calificador_2	31-34	681_QUEST_clinical_caseMIR	SENT1	-	-
-14	clínica	clínico	AQ0FS0	C0205210	calificador	35-42	681_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-15	miccional	miccional	AQ0CS00	-	-	43-52	681_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-16	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	53-63	681_QUEST_clinical_caseMIR	SENT1	-	-
-17	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	64-67	681_QUEST_clinical_caseMIR	SENT1	-	-
-18	patología	patología	NCFS000	C0030664	calificador	68-77	681_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
-19	prostática	prostático	AQ0FS0	C0033572	calificador	78-88	681_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-20	.	.	Fp	-	-	88-89	681_QUEST_clinical_caseMIR	SENT1	-	-
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	681_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	681_QUEST_clinical_caseMIR	SENT1	-	-
+3	54	54		-	-	10-12	681_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	681_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	18-21	681_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	681_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	31-34	681_QUEST_clinical_caseMIR	SENT1	-	-
+8	clínica	clínico	AQ0FS0	C0205210	calificador	35-42	681_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	miccional	miccional	AQ0CS00	-	-	43-52	681_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	53-63	681_QUEST_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	64-67	681_QUEST_clinical_caseMIR	SENT1	-	-
+12	patología	patología	NCFS000	C0030664	calificador	68-77	681_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+13	prostática	prostático	AQ0FS0	C0033572	calificador	78-88	681_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	88-89	681_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	IPSS=22+4	IPSS=22+4		-	-	90-99	681_QUEST_clinical_caseMIR	SENT2	-	-
 2	,	,	Fc	-	-	99-100	681_QUEST_clinical_caseMIR	SENT2	-	-
@@ -47,4 +41,11 @@
 26	31	31		-	-	207-209	681_QUEST_clinical_caseMIR	SENT2	-	-
 27	cc	cc	NC00YL0	-	-	210-212	681_QUEST_clinical_caseMIR	SENT2	-	-
 28	.	.	Fp	-	-	212-213	681_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Su	su	DP3CS0	-	-	214-216	681_QUEST_clinical_caseMIR	SENT3	-	-
+2	primera	1	AO0FS0	-	-	217-224	681_QUEST_clinical_caseMIR	SENT3	-	-
+3	recomendación	recomendación	NCFS000	C0150600	procedimiento	225-238	681_QUEST_clinical_caseMIR	SENT3	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	239-250	681_QUEST_clinical_caseMIR	SENT3	-	-
+5	será	ser	VSIF3S0	-	-	251-255	681_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	255-256	681_QUEST_clinical_caseMIR	SENT3	-	-
 

@@ -248,17 +248,16 @@
 57	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	1271-1278	427_QUEST_clinical_caseMIR	SENT8	-	-
 58	.	.	Fp	-	-	1278-1279	427_QUEST_clinical_caseMIR	SENT8	-	-
 
-1	¿	¿	Fia	-	-	1280-1281	427_QUEST_clinical_caseMIR	SENT9	-	-
-2	Cuál	cuál	PT0CS000	-	-	1281-1285	427_QUEST_clinical_caseMIR	SENT9	-	-
-3	de	de	SPS00	C0332285	atributo	1286-1288	427_QUEST_clinical_caseMIR	SENT9	-	-
-4	los	el	DA0MP0	-	-	1289-1292	427_QUEST_clinical_caseMIR	SENT9	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	1293-1303	427_QUEST_clinical_caseMIR	SENT9	-	-
-6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	1304-1316	427_QUEST_clinical_caseMIR	SENT9	-	-
-7	es	ser	VSIP3S0	-	-	1317-1319	427_QUEST_clinical_caseMIR	SENT9	-	-
-8	poco	poco	RG	C0700321#C1282918	-	1320-1324	427_QUEST_clinical_caseMIR	SENT9	-	-
-9	probable	probable	AQ0CS0	C0332148	calificador	1325-1333	427_QUEST_clinical_caseMIR	SENT9	-	-
-10	en	en	SPS00	C1720294#C0332285	calificador#atributo	1334-1336	427_QUEST_clinical_caseMIR	SENT9	-	-
-11	este	este	DD0MS0	-	-	1337-1341	427_QUEST_clinical_caseMIR	SENT9	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	1342-1350	427_QUEST_clinical_caseMIR	SENT9	-	-
-13	?	?	Fit	-	-	1350-1351	427_QUEST_clinical_caseMIR	SENT9	-	-
+1	Cuál	cuál	PT0CS000	-	-	1280-1284	427_QUEST_clinical_caseMIR	SENT9	-	-
+2	de	de	SPS00	C0332285	atributo	1285-1287	427_QUEST_clinical_caseMIR	SENT9	-	-
+3	los	el	DA0MP0	-	-	1288-1291	427_QUEST_clinical_caseMIR	SENT9	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	1292-1302	427_QUEST_clinical_caseMIR	SENT9	-	-
+5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	1303-1315	427_QUEST_clinical_caseMIR	SENT9	-	-
+6	es	ser	VSIP3S0	-	-	1316-1318	427_QUEST_clinical_caseMIR	SENT9	-	-
+7	poco	poco	RG	C0700321#C1282918	-	1319-1323	427_QUEST_clinical_caseMIR	SENT9	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	1324-1332	427_QUEST_clinical_caseMIR	SENT9	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	1333-1335	427_QUEST_clinical_caseMIR	SENT9	-	-
+10	este	este	DD0MS0	-	-	1336-1340	427_QUEST_clinical_caseMIR	SENT9	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	1341-1349	427_QUEST_clinical_caseMIR	SENT9	-	-
+12	.	.	Fp	-	-	1349-1350	427_QUEST_clinical_caseMIR	SENT9	-	-
 

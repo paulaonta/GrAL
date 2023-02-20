@@ -1,22 +1,16 @@
-1	¿	¿	Fia	-	-	311-312	649_QUEST_clinical_caseMIR	SENT1	-	-
-2	Que	que	PR0CN000	-	-	312-315	649_QUEST_clinical_caseMIR	SENT1	-	-
-3	actitud	actitud	NCFS000	C0004271	entidad_observable	316-323	649_QUEST_clinical_caseMIR	SENT1	-	-
-4	recomendaría	recomendar	VMIC3S0	-	-	324-336	649_QUEST_clinical_caseMIR	SENT1	-	-
-5	?	?	Fit	-	-	336-337	649_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	337-338	649_QUEST_clinical_caseMIR	SENT1	-	-
-7	Acude	acudir	VMIP3S0	-	-	0-5	649_QUEST_clinical_caseMIR	SENT1	-	-
-8	a	a	SPS00	-	-	6-7	649_QUEST_clinical_caseMIR	SENT1	-	-
-9	urgencias	urgencia	NCFP000	C0439609	calificador	8-17	649_QUEST_clinical_caseMIR	SENT1	-	-
-10	una	una		C0205447_1	calificador_1	18-21	649_QUEST_clinical_caseMIR	SENT1	-	-
-11	gestante	gestante	NCFS000	-	-	22-30	649_QUEST_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	31-33	649_QUEST_clinical_caseMIR	SENT1	-	-
-13	36	36		-	-	34-36	649_QUEST_clinical_caseMIR	SENT1	-	-
-14	semanas	semana	NCFP000	C0439230	calificador	37-44	649_QUEST_clinical_caseMIR	SENT1	-	-
-15	sangrando	sangrar	VMG0000	-	-	45-54	649_QUEST_clinical_caseMIR	SENT1	-	-
-16	como	como	CS	C0332257	calificador	55-59	649_QUEST_clinical_caseMIR	SENT1	-	-
-17	una	una		C0205447_1	calificador_1	60-63	649_QUEST_clinical_caseMIR	SENT1	-	-
-18	regla	regla	NCFS000	C0522637	objeto_físico	64-69	649_QUEST_clinical_caseMIR	SENT1	-	-
-19	.	.	Fp	-	-	69-70	649_QUEST_clinical_caseMIR	SENT1	-	-
+1	Acude	acudir	VMIP3S0	-	-	0-5	649_QUEST_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	6-7	649_QUEST_clinical_caseMIR	SENT1	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	8-17	649_QUEST_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	18-21	649_QUEST_clinical_caseMIR	SENT1	-	-
+5	gestante	gestante	NCFS000	-	-	22-30	649_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	31-33	649_QUEST_clinical_caseMIR	SENT1	-	-
+7	36	36		-	-	34-36	649_QUEST_clinical_caseMIR	SENT1	-	-
+8	semanas	semana	NCFP000	C0439230	calificador	37-44	649_QUEST_clinical_caseMIR	SENT1	-	-
+9	sangrando	sangrar	VMG0000	-	-	45-54	649_QUEST_clinical_caseMIR	SENT1	-	-
+10	como	como	CS	C0332257	calificador	55-59	649_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	60-63	649_QUEST_clinical_caseMIR	SENT1	-	-
+12	regla	regla	NCFS000	C0522637	objeto_físico	64-69	649_QUEST_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	69-70	649_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Como	como	CS	C0332257	calificador	71-75	649_QUEST_clinical_caseMIR	SENT2	-	-
 2	antecedentes	antecedente	NCMP000	C0425963_1	entidad_observable_1	76-88	649_QUEST_clinical_caseMIR	SENT2	-	-
@@ -51,15 +45,14 @@
 11	lpm	lpm	NC00YL0	-	-	253-256	649_QUEST_clinical_caseMIR	SENT4	-	-
 12	.	.	Fp	-	-	256-257	649_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	¿	¿	Fia	-	-	258-259	649_QUEST_clinical_caseMIR	SENT5	-	-
-2	Cuál	cuál	PT0CS000	-	-	259-263	649_QUEST_clinical_caseMIR	SENT5	-	-
-3	es	ser	VSIP3S0	-	-	264-266	649_QUEST_clinical_caseMIR	SENT5	-	-
-4	el	el	DA0MS0	-	-	267-269	649_QUEST_clinical_caseMIR	SENT5	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	270-281	649_QUEST_clinical_caseMIR	SENT5	-	-
-6	más	más	RG	C0205172	calificador	282-285	649_QUEST_clinical_caseMIR	SENT5	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	286-294	649_QUEST_clinical_caseMIR	SENT5	-	-
-8	de	de	SPS00	C0332285	atributo	295-297	649_QUEST_clinical_caseMIR	SENT5	-	-
-9	esta	este	DD0FS0	-	-	298-302	649_QUEST_clinical_caseMIR	SENT5	-	-
-10	gestante	gestante	NCFS000	-	-	303-311	649_QUEST_clinical_caseMIR	SENT5	-	-
-11	?	?	Fit	-	-	311-312	649_QUEST_clinical_caseMIR	SENT5	-	-
+1	Cuál	cuál	PT0CS000	-	-	258-262	649_QUEST_clinical_caseMIR	SENT5	-	-
+2	es	ser	VSIP3S0	-	-	263-265	649_QUEST_clinical_caseMIR	SENT5	-	-
+3	el	el	DA0MS0	-	-	266-268	649_QUEST_clinical_caseMIR	SENT5	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	269-280	649_QUEST_clinical_caseMIR	SENT5	-	-
+5	más	más	RG	C0205172	calificador	281-284	649_QUEST_clinical_caseMIR	SENT5	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	285-293	649_QUEST_clinical_caseMIR	SENT5	-	-
+7	de	de	SPS00	C0332285	atributo	294-296	649_QUEST_clinical_caseMIR	SENT5	-	-
+8	esta	este	DD0FS0	-	-	297-301	649_QUEST_clinical_caseMIR	SENT5	-	-
+9	gestante	gestante	NCFS000	-	-	302-310	649_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	310-311	649_QUEST_clinical_caseMIR	SENT5	-	-
 

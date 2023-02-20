@@ -1,22 +1,11 @@
-1	¿	¿	Fia	-	-	228-229	175_ANS_clinical_caseMIR	SENT1	-	-
-2	Se	se	P00CN000	-	-	229-231	175_ANS_clinical_caseMIR	SENT1	-	-
-3	plantearía	plantear	VMIC3S0	-	-	232-242	175_ANS_clinical_caseMIR	SENT1	-	-
-4	hacer	hacer	VMN0000	-	-	243-248	175_ANS_clinical_caseMIR	SENT1	-	-
-5	alguna	alguno	DI0FS0	C0205392	calificador	249-255	175_ANS_clinical_caseMIR	SENT1	-	-
-6	modificación	modificación	NCFS000	-	-	256-268	175_ANS_clinical_caseMIR	SENT1	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	175_ANS_clinical_caseMIR	SENT1	-	-
-8	su	su	DP3CS0	-	-	272-274	175_ANS_clinical_caseMIR	SENT1	-	-
-9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	275-286	175_ANS_clinical_caseMIR	SENT1	-	-
-10	?	?	Fit	-	-	286-287	175_ANS_clinical_caseMIR	SENT1	-	-
-11	:	:	Fd	-	-	287-288	175_ANS_clinical_caseMIR	SENT1	-	-
-12	Lo	el	DA0NS0	-	-	0-2	175_ANS_clinical_caseMIR	SENT1	-	-
-13	prioritario	prioritario	AQ0MS0	-	-	3-14	175_ANS_clinical_caseMIR	SENT1	-	-
-14	es	ser	VSIP3S0	-	-	15-17	175_ANS_clinical_caseMIR	SENT1	-	-
-15	canalizar	canalizar	VMN0000	-	-	18-27	175_ANS_clinical_caseMIR	SENT1	-	-
-16	una	una		C0205447_1	calificador_1	28-31	175_ANS_clinical_caseMIR	SENT1	-	-
-17	vía	vía	NCFS000	C0449444	atributo	32-35	175_ANS_clinical_caseMIR	SENT1	-	-
-18	venosa	venoso	AQ0FS0	C0348013	calificador	36-42	175_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-19	.	.	Fp	-	-	42-43	175_ANS_clinical_caseMIR	SENT1	-	-
+1	Lo	el	DA0NS0	-	-	0-2	175_ANS_clinical_caseMIR	SENT1	-	-
+2	prioritario	prioritario	AQ0MS0	-	-	3-14	175_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	15-17	175_ANS_clinical_caseMIR	SENT1	-	-
+4	canalizar	canalizar	VMN0000	-	-	18-27	175_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	28-31	175_ANS_clinical_caseMIR	SENT1	-	-
+6	vía	vía	NCFS000	C0449444	atributo	32-35	175_ANS_clinical_caseMIR	SENT1	-	-
+7	venosa	venoso	AQ0FS0	C0348013	calificador	36-42	175_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	42-43	175_ANS_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	0-2	175_ANS_clinical_caseMIR	SENT2	-	-
 2	metilprednisolona	metilprednisolona	NC00SC0	C0025815	sustancia	3-20	175_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-

@@ -1,16 +1,11 @@
-1	Señale	señalar	VMM03S0	-	-	470-476	483_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	477-479	483_ANS_clinical_caseMIR	SENT1	-	-
-3	afirmación	afirmación	NCFS000	-	-	480-490	483_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	491-499	483_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	499-500	483_ANS_clinical_caseMIR	SENT1	-	-
-6	Hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	0-14	483_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-7	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	15-24	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-8	que	que	PR0CN000	-	-	25-28	483_ANS_clinical_caseMIR	SENT1	-	-
-9	incluya	incluir	VMSP3S0	-	-	29-36	483_ANS_clinical_caseMIR	SENT1	-	-
-10	inhibidores	inhibidor	NCMP000	-	-	37-48	483_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-11	de	de	SPS00	C0332285	atributo	49-51	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-12	aromatasa	aromatasa	NCFS000	-	-	52-61	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-13	.	.	Fp	-	-	61-62	483_ANS_clinical_caseMIR	SENT1	-	-
+1	Hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	0-14	483_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	15-24	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+3	que	que	PR0CN000	-	-	25-28	483_ANS_clinical_caseMIR	SENT1	-	-
+4	incluya	incluir	VMSP3S0	-	-	29-36	483_ANS_clinical_caseMIR	SENT1	-	-
+5	inhibidores	inhibidor	NCMP000	-	-	37-48	483_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	de	de	SPS00	C0332285	atributo	49-51	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	aromatasa	aromatasa	NCFS000	-	-	52-61	483_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	.	.	Fp	-	-	61-62	483_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	483_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
 2	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	14-23	483_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-

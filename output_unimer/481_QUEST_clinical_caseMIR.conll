@@ -47,3 +47,16 @@
 47	)	)	Fpt	-	-	203-204	481_QUEST_clinical_caseMIR	SENT1	-	-
 48	.	.	Fp	-	-	204-205	481_QUEST_clinical_caseMIR	SENT1	-	-
 
+1	Deberemos	deber	VMIF1P0	-	-	206-215	481_QUEST_clinical_caseMIR	SENT2	-	-
+2	realizar	realizar	VMN0000	-	-	216-224	481_QUEST_clinical_caseMIR	SENT2	-	-
+3	un	un		C0205447_1	calificador_1	225-227	481_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011906_1	calificador_1	228-239	481_QUEST_clinical_caseMIR	SENT2	-	-
+5	diferencial	diferencial	NCMS000	C0011906_2	calificador_2	240-251	481_QUEST_clinical_caseMIR	SENT2	-	-
+6	entre	entre	SPS00	C0205103	calificador	252-257	481_QUEST_clinical_caseMIR	SENT2	-	-
+7	las	el	DA0FP0	-	-	258-261	481_QUEST_clinical_caseMIR	SENT2	-	-
+8	siguientes	siguiente	AQ0CP0	C0332282	atributo	262-272	481_QUEST_clinical_caseMIR	SENT2	-	-
+9	situaciones	situación	NCFP000	-	-	273-284	481_QUEST_clinical_caseMIR	SENT2	-	-
+10	clínicas	clínico	AQ0FP0	C0205210	calificador	285-293	481_QUEST_clinical_caseMIR	SENT2	-	-
+11	EXCEPTO	excepto	SPS00	-	-	294-301	481_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	301-302	481_QUEST_clinical_caseMIR	SENT2	-	-
+

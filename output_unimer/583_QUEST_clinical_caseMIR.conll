@@ -33,41 +33,41 @@
 
 1	Se	se	P00CN000	-	-	168-170	583_QUEST_clinical_caseMIR	SENT3	-	-
 2	realiza	realizar	VMIP3S0	-	-	171-178	583_QUEST_clinical_caseMIR	SENT3	-	-
-3	analítica	analítica	NCFS000	-	-	179-188	583_QUEST_clinical_caseMIR	SENT3	-	-
-4	:	:	Fd	-	-	188-189	583_QUEST_clinical_caseMIR	SENT3	-	-
-5	Cr	creatinina	NC00YL0	C0010294	sustancia	190-192	583_QUEST_clinical_caseMIR	SENT3	-	-
-6	0,9	0.9	Z	-	-	193-196	583_QUEST_clinical_caseMIR	SENT3	-	-
-7	mg	mg	NCMN000	-	-	197-199	583_QUEST_clinical_caseMIR	SENT3	-	-
-8	/	/	Fh	-	-	199-200	583_QUEST_clinical_caseMIR	SENT3	-	-
-9	dL	decilitro	NCMN000	C0439241	calificador	200-202	583_QUEST_clinical_caseMIR	SENT3	-	-
-10	,	,	Fc	-	-	202-203	583_QUEST_clinical_caseMIR	SENT3	-	-
-11	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	204-206	583_QUEST_clinical_caseMIR	SENT3	-	-
-12	137	137		-	-	207-210	583_QUEST_clinical_caseMIR	SENT3	-	-
-13	mmol	milimol	NC00YL0	C0439190	calificador	211-215	583_QUEST_clinical_caseMIR	SENT3	-	-
-14	/	/	Fh	-	-	215-216	583_QUEST_clinical_caseMIR	SENT3	-	-
-15	L	l	NCFS000	-	-	216-217	583_QUEST_clinical_caseMIR	SENT3	-	-
-16	,	,	Fc	-	-	217-218	583_QUEST_clinical_caseMIR	SENT3	-	-
-17	K	k	NCFS000	-	-	219-220	583_QUEST_clinical_caseMIR	SENT3	-	-
-18	2,9	2,9		-	-	221-224	583_QUEST_clinical_caseMIR	SENT3	-	-
-19	mmol	milimol	NC00YL0	C0439190	calificador	225-229	583_QUEST_clinical_caseMIR	SENT3	-	-
-20	/	/	Fh	-	-	229-230	583_QUEST_clinical_caseMIR	SENT3	-	-
-21	L	l	NCFS000	-	-	230-231	583_QUEST_clinical_caseMIR	SENT3	-	-
-22	,	,	Fc	-	-	231-232	583_QUEST_clinical_caseMIR	SENT3	-	-
-23	cociente	cociente	NCMS000	C0456603	calificador	233-241	583_QUEST_clinical_caseMIR	SENT3	-	-
-24	aldosterona	aldosterona	NCFS000	C0002006	sustancia	242-253	583_QUEST_clinical_caseMIR	SENT3	-	-
-25	/	/	Fh	-	-	253-254	583_QUEST_clinical_caseMIR	SENT3	-	-
-26	actividad	actividad	NCFS000	C0441655	entidad_observable	254-263	583_QUEST_clinical_caseMIR	SENT3	-	-
-27	de	de	SPS00	C0332285	atributo	264-266	583_QUEST_clinical_caseMIR	SENT3	-	-
-28	renina	renina	NC00SC0	C0035094	sustancia	267-273	583_QUEST_clinical_caseMIR	SENT3	-	-
-29	de	de	SPS00	C0332285	atributo	274-276	583_QUEST_clinical_caseMIR	SENT3	-	-
-30	30	30		-	-	277-279	583_QUEST_clinical_caseMIR	SENT3	-	-
-31	.	.	Fp	-	-	279-280	583_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítico	AQ0FS0	-	-	179-188	583_QUEST_clinical_caseMIR	SENT3	-	-
+4	.	.	Fp	-	-	188-189	583_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	¿	¿	Fia	-	-	281-282	583_QUEST_clinical_caseMIR	SENT4	-	-
-2	Cuál	cuál	PT0CS000	-	-	282-286	583_QUEST_clinical_caseMIR	SENT4	-	-
-3	es	ser	VSIP3S0	-	-	287-289	583_QUEST_clinical_caseMIR	SENT4	-	-
-4	la	el	DA0FS0	-	-	290-292	583_QUEST_clinical_caseMIR	SENT4	-	-
-5	opción	opción	NCFS000	-	-	293-299	583_QUEST_clinical_caseMIR	SENT4	-	-
-6	correcta	correcto	AQ0FS0	C0205170	calificador	300-308	583_QUEST_clinical_caseMIR	SENT4	-	-
-7	?	?	Fit	-	-	308-309	583_QUEST_clinical_caseMIR	SENT4	-	-
+1	Cr	creatinina	NC00YL0	C0010294	sustancia	190-192	583_QUEST_clinical_caseMIR	SENT4	-	-
+2	0,9	0.9	Z	-	-	193-196	583_QUEST_clinical_caseMIR	SENT4	-	-
+3	mg	mg	NCMN000	-	-	197-199	583_QUEST_clinical_caseMIR	SENT4	-	-
+4	/	/	Fh	-	-	199-200	583_QUEST_clinical_caseMIR	SENT4	-	-
+5	dL	decilitro	NCMN000	C0439241	calificador	200-202	583_QUEST_clinical_caseMIR	SENT4	-	-
+6	,	,	Fc	-	-	202-203	583_QUEST_clinical_caseMIR	SENT4	-	-
+7	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	204-206	583_QUEST_clinical_caseMIR	SENT4	-	-
+8	137	137		-	-	207-210	583_QUEST_clinical_caseMIR	SENT4	-	-
+9	mmol	milimol	NC00YL0	C0439190	calificador	211-215	583_QUEST_clinical_caseMIR	SENT4	-	-
+10	/	/	Fh	-	-	215-216	583_QUEST_clinical_caseMIR	SENT4	-	-
+11	L	l	NCFS000	-	-	216-217	583_QUEST_clinical_caseMIR	SENT4	-	-
+12	,	,	Fc	-	-	217-218	583_QUEST_clinical_caseMIR	SENT4	-	-
+13	K	k	NCFS000	-	-	219-220	583_QUEST_clinical_caseMIR	SENT4	-	-
+14	2,9	2,9		-	-	221-224	583_QUEST_clinical_caseMIR	SENT4	-	-
+15	mmol	milimol	NC00YL0	C0439190	calificador	225-229	583_QUEST_clinical_caseMIR	SENT4	-	-
+16	/	/	Fh	-	-	229-230	583_QUEST_clinical_caseMIR	SENT4	-	-
+17	L	l	NCFS000	-	-	230-231	583_QUEST_clinical_caseMIR	SENT4	-	-
+18	,	,	Fc	-	-	231-232	583_QUEST_clinical_caseMIR	SENT4	-	-
+19	cociente	cociente	NCMS000	C0456603	calificador	233-241	583_QUEST_clinical_caseMIR	SENT4	-	-
+20	aldosterona	aldosterona	NCFS000	C0002006	sustancia	242-253	583_QUEST_clinical_caseMIR	SENT4	-	-
+21	/	/	Fh	-	-	253-254	583_QUEST_clinical_caseMIR	SENT4	-	-
+22	actividad	actividad	NCFS000	C0441655	entidad_observable	254-263	583_QUEST_clinical_caseMIR	SENT4	-	-
+23	de	de	SPS00	C0332285	atributo	264-266	583_QUEST_clinical_caseMIR	SENT4	-	-
+24	renina	renina	NC00SC0	C0035094	sustancia	267-273	583_QUEST_clinical_caseMIR	SENT4	-	-
+25	de	de	SPS00	C0332285	atributo	274-276	583_QUEST_clinical_caseMIR	SENT4	-	-
+26	30	30		-	-	277-279	583_QUEST_clinical_caseMIR	SENT4	-	-
+27	.	.	Fp	-	-	279-280	583_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	281-285	583_QUEST_clinical_caseMIR	SENT5	-	-
+2	es	ser	VSIP3S0	-	-	286-288	583_QUEST_clinical_caseMIR	SENT5	-	-
+3	la	el	DA0FS0	-	-	289-291	583_QUEST_clinical_caseMIR	SENT5	-	-
+4	opción	opción	NCFS000	-	-	292-298	583_QUEST_clinical_caseMIR	SENT5	-	-
+5	correcta	correcto	AQ0FS0	C0205170	calificador	299-307	583_QUEST_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	307-308	583_QUEST_clinical_caseMIR	SENT5	-	-
 

@@ -89,3 +89,20 @@
 18	"	"	Fe	-	-	463-464	380_QUEST_clinical_caseMIR	SENT6	-	-
 19	.	.	Fp	-	-	464-465	380_QUEST_clinical_caseMIR	SENT6	-	-
 
+1	Señale	señalar	VMSP3S0	-	-	466-472	380_QUEST_clinical_caseMIR	SENT7	-	-
+2	según	según	SPS00	-	-	473-478	380_QUEST_clinical_caseMIR	SENT7	-	-
+3	el	el	DA0MS0	-	-	479-481	380_QUEST_clinical_caseMIR	SENT7	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	482-493	380_QUEST_clinical_caseMIR	SENT7	-	-
+5	que	que	PR0CN000	-	-	494-497	380_QUEST_clinical_caseMIR	SENT7	-	-
+6	sospeche	sospechar	VMSP3S0	-	-	498-506	380_QUEST_clinical_caseMIR	SENT7	-	-
+7	la	el	DA0FS0	-	-	507-509	380_QUEST_clinical_caseMIR	SENT7	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	510-517	380_QUEST_clinical_caseMIR	SENT7	-	-
+9	más	más	RG	C0205172	calificador	518-521	380_QUEST_clinical_caseMIR	SENT7	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	522-530	380_QUEST_clinical_caseMIR	SENT7	-	-
+11	a	a	SPS00	-	-	531-532	380_QUEST_clinical_caseMIR	SENT7	-	-
+12	seguir	seguir	VMN0000	-	-	533-539	380_QUEST_clinical_caseMIR	SENT7	-	-
+13	de	de	SPS00	C0332285	atributo	540-542	380_QUEST_clinical_caseMIR	SENT7	-	-
+14	las	el	DA0FP0	-	-	543-546	380_QUEST_clinical_caseMIR	SENT7	-	-
+15	siguientes	siguiente	AQ0CP0	C0332282	atributo	547-557	380_QUEST_clinical_caseMIR	SENT7	-	-
+16	.	.	Fp	-	-	557-558	380_QUEST_clinical_caseMIR	SENT7	-	-
+

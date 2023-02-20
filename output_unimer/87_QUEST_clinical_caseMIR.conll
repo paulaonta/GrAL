@@ -1,29 +1,16 @@
-1	¿	¿	Fia	-	-	652-653	87_QUEST_clinical_caseMIR	SENT1	-	-
-2	A	a	SPS00	-	-	653-654	87_QUEST_clinical_caseMIR	SENT1	-	-
-3	qué	qué	DT0CN0	-	-	655-658	87_QUEST_clinical_caseMIR	SENT1	-	-
-4	nivel	nivel	NCMS000	C0456079	atributo	659-664	87_QUEST_clinical_caseMIR	SENT1	-	-
-5	tiene	tener	VMIP3S0	-	-	665-670	87_QUEST_clinical_caseMIR	SENT1	-	-
-6	el	el	DA0MS0	-	-	671-673	87_QUEST_clinical_caseMIR	SENT1	-	-
-7	enfermo	enfermo	NCMS000	-	-	674-681	87_QUEST_clinical_caseMIR	SENT1	-	-
-8	lesionada	lesionar	VMP00SF	-	-	682-691	87_QUEST_clinical_caseMIR	SENT1	-	-
-9	la	el	DA0FS0	-	-	692-694	87_QUEST_clinical_caseMIR	SENT1	-	-
-10	mano	mano	NCFS000	C0230371#C1288949_1	estructura_corporal_1	695-699	87_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-11	izquierda	izquierdo	AQ0FS0	C0230371#C1288949_2	estructura_corporal_2	700-709	87_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-12	?	?	Fit	-	-	709-710	87_QUEST_clinical_caseMIR	SENT1	-	-
-13	:	:	Fd	-	-	710-711	87_QUEST_clinical_caseMIR	SENT1	-	-
-14	Un	Un		C0205447_1	calificador_1	0-2	87_QUEST_clinical_caseMIR	SENT1	-	-
-15	paciente	paciente	NCCS000	C0030705	persona	3-11	87_QUEST_clinical_caseMIR	SENT1	-	-
-16	de	de	SPS00	C0332285	atributo	12-14	87_QUEST_clinical_caseMIR	SENT1	-	-
-17	52	52		-	-	15-17	87_QUEST_clinical_caseMIR	SENT1	-	-
-18	años	año	NCMP000	C0439234	calificador	18-22	87_QUEST_clinical_caseMIR	SENT1	-	-
-19	ingresa	ingresar	VMIP3S0	-	-	23-30	87_QUEST_clinical_caseMIR	SENT1	-	-
-20	en	en	SPS00	C1720294#C0332285	calificador#atributo	31-33	87_QUEST_clinical_caseMIR	SENT1	-	-
-21	el	el	DA0MS0	-	-	34-36	87_QUEST_clinical_caseMIR	SENT1	-	-
-22	Hospital	hospital	NCMS000	C1510665	medio_ambiente	37-45	87_QUEST_clinical_caseMIR	SENT1	-	-
-23	por	por	SPS00	C0678226	atributo	46-49	87_QUEST_clinical_caseMIR	SENT1	-	-
-24	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	50-58	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	grave	grave	AQ0CS0	C0439808#C0205082	calificador	59-64	87_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-26	.	.	Fp	-	-	64-65	87_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	87_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	87_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	87_QUEST_clinical_caseMIR	SENT1	-	-
+4	52	52		-	-	15-17	87_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	87_QUEST_clinical_caseMIR	SENT1	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	23-30	87_QUEST_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	31-33	87_QUEST_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	34-36	87_QUEST_clinical_caseMIR	SENT1	-	-
+9	Hospital	hospital	NCMS000	C1510665	medio_ambiente	37-45	87_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C0678226	atributo	46-49	87_QUEST_clinical_caseMIR	SENT1	-	-
+11	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	50-58	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	grave	grave	AQ0CS0	C0439808#C0205082	calificador	59-64	87_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	.	.	Fp	-	-	64-65	87_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Con	con	SPS00	C0332287	atributo	66-69	87_QUEST_clinical_caseMIR	SENT2	-	-
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	70-81	87_QUEST_clinical_caseMIR	SENT2	-	-
@@ -56,4 +43,16 @@
 19	diarreico	diarreico	AQ0MS0	-	-	233-242	87_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
 20	grave	grave	AQ0CS0	C0439808#C0205082	calificador	243-248	87_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
 21	.	.	Fp	-	-	248-249	87_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Cual	cual	PI0CS000	-	-	250-254	87_QUEST_clinical_caseMIR	SENT4	-	-
+2	sería	ser	VSIC1S0	-	-	255-260	87_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	261-263	87_QUEST_clinical_caseMIR	SENT4	-	-
+4	microorganismo	microorganismo	NCMS000	C0445623	organismo	264-278	87_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	279-282	87_QUEST_clinical_caseMIR	SENT4	-	-
+6	frecuentemente	frecuentemente	RG	C0332183	calificador	283-297	87_QUEST_clinical_caseMIR	SENT4	-	-
+7	responsable	responsable	NCCS000	C1273518_1	atributo_1	298-309	87_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C1273518_2	atributo_2	310-312	87_QUEST_clinical_caseMIR	SENT4	-	-
+9	este	este	DD0MS0	-	-	313-317	87_QUEST_clinical_caseMIR	SENT4	-	-
+10	cuadro	cuadro	NCMS000	-	-	318-324	87_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	324-325	87_QUEST_clinical_caseMIR	SENT4	-	-
 

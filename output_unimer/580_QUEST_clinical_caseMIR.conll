@@ -1,50 +1,34 @@
-1	¿	¿	Fia	-	-	382-383	580_QUEST_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	383-386	580_QUEST_clinical_caseMIR	SENT1	-	-
-3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	387-398	580_QUEST_clinical_caseMIR	SENT1	-	-
-4	sería	ser	VSIC1S0	-	-	399-404	580_QUEST_clinical_caseMIR	SENT1	-	-
-5	el	el	DA0MS0	C0205393_1	calificador_1	405-407	580_QUEST_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205393_2	calificador_2	408-411	580_QUEST_clinical_caseMIR	SENT1	-	-
-7	adecuado	adecuar	VMP00SM	-	-	412-420	580_QUEST_clinical_caseMIR	SENT1	-	-
-8	para	para	SPS00	C0521125	calificador	421-425	580_QUEST_clinical_caseMIR	SENT1	-	-
-9	nuestro	nuestro	DP1MSP	-	-	426-433	580_QUEST_clinical_caseMIR	SENT1	-	-
-10	paciente	paciente	NCCS000	C0030705	persona	434-442	580_QUEST_clinical_caseMIR	SENT1	-	-
-11	en	en	SPS00	C1720294#C0332285	calificador#atributo	443-445	580_QUEST_clinical_caseMIR	SENT1	-	-
-12	el	el	DA0MS0	-	-	446-448	580_QUEST_clinical_caseMIR	SENT1	-	-
-13	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	449-456	580_QUEST_clinical_caseMIR	SENT1	-	-
-14	actual	actual	AQ0CS0	C0521116	calificador	457-463	580_QUEST_clinical_caseMIR	SENT1	-	-
-15	?	?	Fit	-	-	463-464	580_QUEST_clinical_caseMIR	SENT1	-	-
-16	:	:	Fd	-	-	464-465	580_QUEST_clinical_caseMIR	SENT1	-	-
-17	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	580_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	7-9	580_QUEST_clinical_caseMIR	SENT1	-	-
-19	43	43		-	-	10-12	580_QUEST_clinical_caseMIR	SENT1	-	-
-20	años	año	NCMP000	C0439234	calificador	13-17	580_QUEST_clinical_caseMIR	SENT1	-	-
-21	que	que	PR0CN000	-	-	18-21	580_QUEST_clinical_caseMIR	SENT1	-	-
-22	acude	acudir	VMIP3S0	-	-	22-27	580_QUEST_clinical_caseMIR	SENT1	-	-
-23	a	a	SPS00	-	-	28-29	580_QUEST_clinical_caseMIR	SENT1	-	-
-24	su	su	DP3CS0	-	-	30-32	580_QUEST_clinical_caseMIR	SENT1	-	-
-25	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	33-41	580_QUEST_clinical_caseMIR	SENT1	-	-
-26	,	,	Fc	-	-	41-42	580_QUEST_clinical_caseMIR	SENT1	-	-
-27	con	con	SPS00	C0332287	atributo	43-46	580_QUEST_clinical_caseMIR	SENT1	-	-
-28	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	47-59	580_QUEST_clinical_caseMIR	SENT1	-	-
-29	de	de	SPS00	C0332119_2	situación_2	60-62	580_QUEST_clinical_caseMIR	SENT1	-	-
-30	cardiopatía	cardiopatía	NCFS000	C0002962#C0151744_1	trastorno_1	63-74	580_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-31	isquémica	isquémico	AQ0FS0	C0002962#C0151744_2	trastorno_2	75-84	580_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-32	,	,	Fc	-	-	84-85	580_QUEST_clinical_caseMIR	SENT1	-	-
-33	con	con	SPS00	C0332287	atributo	86-89	580_QUEST_clinical_caseMIR	SENT1	-	-
-34	un	un		C0205447_1	calificador_1	90-92	580_QUEST_clinical_caseMIR	SENT1	-	-
-35	IAM	iam	NC00SC0	C0155626	trastorno	93-96	580_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-36	a	a	SPS00	-	-	97-98	580_QUEST_clinical_caseMIR	SENT1	-	-
-37	los	el	DA0MP0	-	-	99-102	580_QUEST_clinical_caseMIR	SENT1	-	-
-38	38	38		-	-	103-105	580_QUEST_clinical_caseMIR	SENT1	-	-
-39	años	año	NCMP000	C0439234	calificador	106-110	580_QUEST_clinical_caseMIR	SENT1	-	-
-40	.	.	Fp	-	-	110-111	580_QUEST_clinical_caseMIR	SENT1	-	-
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	580_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	580_QUEST_clinical_caseMIR	SENT1	-	-
+3	43	43		-	-	10-12	580_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	580_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	580_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	580_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	28-29	580_QUEST_clinical_caseMIR	SENT1	-	-
+8	su	su	DP3CS0	-	-	30-32	580_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	33-41	580_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	41-42	580_QUEST_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0332287	atributo	43-46	580_QUEST_clinical_caseMIR	SENT1	-	-
+12	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	47-59	580_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332119_2	situación_2	60-62	580_QUEST_clinical_caseMIR	SENT1	-	-
+14	cardiopatía	cardiopatía	NCFS000	C0002962#C0151744_1	trastorno_1	63-74	580_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	isquémica	isquémico	AQ0FS0	C0002962#C0151744_2	trastorno_2	75-84	580_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	,	,	Fc	-	-	84-85	580_QUEST_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0332287	atributo	86-89	580_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	90-92	580_QUEST_clinical_caseMIR	SENT1	-	-
+19	IAM	iam	NC00SC0	C0155626	trastorno	93-96	580_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	a	a	SPS00	-	-	97-98	580_QUEST_clinical_caseMIR	SENT1	-	-
+21	los	el	DA0MP0	-	-	99-102	580_QUEST_clinical_caseMIR	SENT1	-	-
+22	38	38		-	-	103-105	580_QUEST_clinical_caseMIR	SENT1	-	-
+23	años	año	NCMP000	C0439234	calificador	106-110	580_QUEST_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	110-111	580_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Tiene	tener	VMIP3S0	-	-	112-117	580_QUEST_clinical_caseMIR	SENT2	-	-
 2	el	el	DA0MS0	-	-	118-120	580_QUEST_clinical_caseMIR	SENT2	-	-
 3	siguiente	siguiente	AQ0CS0	C0332282	atributo	121-130	580_QUEST_clinical_caseMIR	SENT2	-	-
 4	perfil	perfil	NCMS000	-	-	131-137	580_QUEST_clinical_caseMIR	SENT2	-	-
 5	lipídico	lipídico	AQ0MS0	-	-	138-146	580_QUEST_clinical_caseMIR	SENT2	-	-
-6	:	:	Fd	-	-	146-147	580_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	146-147	580_QUEST_clinical_caseMIR	SENT2	-	-
 7	colesterol	colesterol	NCMS000	C0543421_1	sustancia_1	148-158	580_QUEST_clinical_caseMIR	SENT2	-	-
 8	total	total	NCMS000	C0543421_2	sustancia_2	159-164	580_QUEST_clinical_caseMIR	SENT2	-	-
 9	276	276	Z	-	-	165-168	580_QUEST_clinical_caseMIR	SENT2	-	-
@@ -132,12 +116,11 @@
 25	mmHg	mmHg	NCMP000	-	-	525-529	580_QUEST_clinical_caseMIR	SENT5	-	-
 26	.	.	Fp	-	-	529-530	580_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	531-532	580_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	532-536	580_QUEST_clinical_caseMIR	SENT6	-	-
-3	es	ser	VSIP3S0	-	-	537-539	580_QUEST_clinical_caseMIR	SENT6	-	-
-4	el	el	DA0MS0	-	-	540-542	580_QUEST_clinical_caseMIR	SENT6	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	543-554	580_QUEST_clinical_caseMIR	SENT6	-	-
-6	más	más	RG	C0205172	calificador	555-558	580_QUEST_clinical_caseMIR	SENT6	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	559-567	580_QUEST_clinical_caseMIR	SENT6	-	-
-8	?	?	Fit	-	-	567-568	580_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	531-535	580_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	536-538	580_QUEST_clinical_caseMIR	SENT6	-	-
+3	el	el	DA0MS0	-	-	539-541	580_QUEST_clinical_caseMIR	SENT6	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	542-553	580_QUEST_clinical_caseMIR	SENT6	-	-
+5	más	más	RG	C0205172	calificador	554-557	580_QUEST_clinical_caseMIR	SENT6	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	558-566	580_QUEST_clinical_caseMIR	SENT6	-	-
+7	.	.	Fp	-	-	566-567	580_QUEST_clinical_caseMIR	SENT6	-	-
 

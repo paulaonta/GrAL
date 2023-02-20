@@ -1,0 +1,38 @@
+1	Ante	ante	SPS00	-	-	0-4	80_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	5-8	80_QUEST_clinical_caseMIR	SENT1	-	-
+3	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	9-14	80_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	15-17	80_QUEST_clinical_caseMIR	SENT1	-	-
+5	23	23		-	-	18-20	80_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	21-25	80_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	80_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	30-38	80_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	39-42	80_QUEST_clinical_caseMIR	SENT1	-	-
+10	ciclos	ciclo	NCMP000	-	-	43-49	80_QUEST_clinical_caseMIR	SENT1	-	-
+11	largos	largo	AQ0MP0	C0205166#C0392744	calificador	50-56	80_QUEST_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	57-60	80_QUEST_clinical_caseMIR	SENT1	-	-
+13	baches	bache	NCMP000	C0562973	medio_ambiente	61-67	80_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	amenorreicos	amenorreicos	AQ0MP00	-	-	68-80	80_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	de	de	SPS00	C0332285	atributo	81-83	80_QUEST_clinical_caseMIR	SENT1	-	-
+16	hasta	hasta	SPS00	-	-	84-89	80_QUEST_clinical_caseMIR	SENT1	-	-
+17	3	3		-	-	90-91	80_QUEST_clinical_caseMIR	SENT1	-	-
+18	meses	mes	NCMP000	C0439231	calificador	92-97	80_QUEST_clinical_caseMIR	SENT1	-	-
+19	,	,	Fc	-	-	97-98	80_QUEST_clinical_caseMIR	SENT1	-	-
+20	acné	acné	NCMS000	C0702166	trastorno	99-103	80_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	facial	facial	AQ0CS0	-	-	104-110	80_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	y	y	CC	C1706368	calificador	111-112	80_QUEST_clinical_caseMIR	SENT1	-	-
+23	aumento	aumento	NCMS000	C0442805	calificador	113-120	80_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	del	del	SP+DA	-	-	121-124	80_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+25	vello	vello	NCMS000	C0221959	estructura_corporal	125-130	80_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+26	,	,	Fc	-	-	130-131	80_QUEST_clinical_caseMIR	SENT1	-	-
+27	la	el	DA0FS0	-	-	132-134	80_QUEST_clinical_caseMIR	SENT1	-	-
+28	prueba	prueba	NCFS000	-	-	135-141	80_QUEST_clinical_caseMIR	SENT1	-	-
+29	complementaria	complementario	AQ0FS0	-	-	142-156	80_QUEST_clinical_caseMIR	SENT1	-	-
+30	que	que	PR0CN000	-	-	157-160	80_QUEST_clinical_caseMIR	SENT1	-	-
+31	mejor	mejor	RG	C0332272	calificador	161-166	80_QUEST_clinical_caseMIR	SENT1	-	-
+32	nos	nos	PP1CP000	-	-	167-170	80_QUEST_clinical_caseMIR	SENT1	-	-
+33	orientará	orientar	VMIF3S0	-	-	171-180	80_QUEST_clinical_caseMIR	SENT1	-	-
+34	el	el	DA0MS0	-	-	181-183	80_QUEST_clinical_caseMIR	SENT1	-	-
+35	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	184-195	80_QUEST_clinical_caseMIR	SENT1	-	-
+36	será	ser	VSIF3S0	-	-	196-200	80_QUEST_clinical_caseMIR	SENT1	-	-
+37	.	.	Fp	-	-	200-201	80_QUEST_clinical_caseMIR	SENT1	-	-
+

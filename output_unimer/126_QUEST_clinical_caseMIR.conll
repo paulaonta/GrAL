@@ -1,26 +1,20 @@
-1	Señale	señalar	VMM03S0	-	-	385-391	126_QUEST_clinical_caseMIR	SENT1	-	-
-2	el	el	DA0MS0	-	-	392-394	126_QUEST_clinical_caseMIR	SENT1	-	-
-3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	395-406	126_QUEST_clinical_caseMIR	SENT1	-	-
-4	más	más	RG	C0205172	calificador	407-410	126_QUEST_clinical_caseMIR	SENT1	-	-
-5	probable	probable	AQ0CS0	C0332148	calificador	411-419	126_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	419-420	126_QUEST_clinical_caseMIR	SENT1	-	-
-7	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	126_QUEST_clinical_caseMIR	SENT1	-	-
-8	de	de	SPS00	C0332285	atributo	6-8	126_QUEST_clinical_caseMIR	SENT1	-	-
-9	70	70		-	-	9-11	126_QUEST_clinical_caseMIR	SENT1	-	-
-10	años	año	NCMP000	C0439234	calificador	12-16	126_QUEST_clinical_caseMIR	SENT1	-	-
-11	,	,	Fc	-	-	16-17	126_QUEST_clinical_caseMIR	SENT1	-	-
-12	hipertensa	hipertenso	AQ0FS0	-	-	18-28	126_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-13	y	y	CC	C1706368	calificador	29-30	126_QUEST_clinical_caseMIR	SENT1	-	-
-14	diabética	diabético	AQ0FS0	-	-	31-40	126_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-15	que	que	PR0CN000	-	-	41-44	126_QUEST_clinical_caseMIR	SENT1	-	-
-16	ha	haber	VAIP3S0	-	-	45-47	126_QUEST_clinical_caseMIR	SENT1	-	-
-17	trabajado	trabajar	VMP00SM	-	-	48-57	126_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	58-60	126_QUEST_clinical_caseMIR	SENT1	-	-
-19	dependienta	dependiente	NCFS000	C0851827	calificador	61-72	126_QUEST_clinical_caseMIR	SENT1	-	-
-20	toda	todo	DI0FS0	C0205197#C0439810#C0444868#C0444667	calificador	73-77	126_QUEST_clinical_caseMIR	SENT1	-	-
-21	su	su	DP3CS0	-	-	78-80	126_QUEST_clinical_caseMIR	SENT1	-	-
-22	vida	vida	NCFS000	-	-	81-85	126_QUEST_clinical_caseMIR	SENT1	-	-
-23	.	.	Fp	-	-	85-86	126_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	126_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	126_QUEST_clinical_caseMIR	SENT1	-	-
+3	70	70		-	-	9-11	126_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	126_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	126_QUEST_clinical_caseMIR	SENT1	-	-
+6	hipertensa	hipertenso	AQ0FS0	-	-	18-28	126_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	29-30	126_QUEST_clinical_caseMIR	SENT1	-	-
+8	diabética	diabético	AQ0FS0	-	-	31-40	126_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	que	que	PR0CN000	-	-	41-44	126_QUEST_clinical_caseMIR	SENT1	-	-
+10	ha	haber	VAIP3S0	-	-	45-47	126_QUEST_clinical_caseMIR	SENT1	-	-
+11	trabajado	trabajar	VMP00SM	-	-	48-57	126_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	58-60	126_QUEST_clinical_caseMIR	SENT1	-	-
+13	dependienta	dependiente	NCFS000	C0851827	calificador	61-72	126_QUEST_clinical_caseMIR	SENT1	-	-
+14	toda	todo	DI0FS0	C0205197#C0439810#C0444868#C0444667	calificador	73-77	126_QUEST_clinical_caseMIR	SENT1	-	-
+15	su	su	DP3CS0	-	-	78-80	126_QUEST_clinical_caseMIR	SENT1	-	-
+16	vida	vida	NCFS000	-	-	81-85	126_QUEST_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	85-86	126_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	87-95	126_QUEST_clinical_caseMIR	SENT2	-	-
 2	por	por	SPS00	C1704447_2	calificador_2	96-99	126_QUEST_clinical_caseMIR	SENT2	-	-
@@ -68,4 +62,13 @@
 20	de	de	SPS00	C0332197_2	calificador_2	352-354	126_QUEST_clinical_caseMIR	SENT3	-	-
 21	distales	distal	AQ0CP0	C0205108	calificador	355-363	126_QUEST_clinical_caseMIR	SENT3	-	-
 22	.	.	Fp	-	-	363-364	126_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Qué	qué	DE0CN0	-	-	365-368	126_QUEST_clinical_caseMIR	SENT4	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	369-380	126_QUEST_clinical_caseMIR	SENT4	-	-
+3	deberíamos	deber	VMIC1P0	-	-	381-391	126_QUEST_clinical_caseMIR	SENT4	-	-
+4	realizar	realizar	VMN0000	-	-	392-400	126_QUEST_clinical_caseMIR	SENT4	-	-
+5	en	en	SPS00	C1279901_1	calificador_1	401-403	126_QUEST_clinical_caseMIR	SENT4	-	-
+6	primer	1	AO0MS0	C1279901_2	calificador_2	404-410	126_QUEST_clinical_caseMIR	SENT4	-	-
+7	lugar	lugar	NCMS000	C1279901_3	calificador_3	411-416	126_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	416-417	126_QUEST_clinical_caseMIR	SENT4	-	-
 

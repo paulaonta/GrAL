@@ -1,20 +1,15 @@
-1	En	en	SPS00	C1720294#C0332285	calificador#atributo	570-572	207_QUEST_clinical_caseMIR	SENT1	-	-
-2	este	este	DD0MS0	-	-	573-577	207_QUEST_clinical_caseMIR	SENT1	-	-
-3	caso	caso	NCMS000	C0868928	calificador	578-582	207_QUEST_clinical_caseMIR	SENT1	-	-
-4	concreto	concreto	AQ0MS0	C0557857	sustancia	583-591	207_QUEST_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	591-592	207_QUEST_clinical_caseMIR	SENT1	-	-
-6	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	207_QUEST_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	7-9	207_QUEST_clinical_caseMIR	SENT1	-	-
-8	54	54		-	-	10-12	207_QUEST_clinical_caseMIR	SENT1	-	-
-9	años	año	NCMP000	C0439234	calificador	13-17	207_QUEST_clinical_caseMIR	SENT1	-	-
-10	que	que	PR0CN000	-	-	18-21	207_QUEST_clinical_caseMIR	SENT1	-	-
-11	acude	acudir	VMIP3S0	-	-	22-27	207_QUEST_clinical_caseMIR	SENT1	-	-
-12	a	a	SPS00	-	-	28-29	207_QUEST_clinical_caseMIR	SENT1	-	-
-13	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	30-38	207_QUEST_clinical_caseMIR	SENT1	-	-
-14	en	en	SPS00	C1720294#C0332285	calificador#atributo	39-41	207_QUEST_clinical_caseMIR	SENT1	-	-
-15	su	su	DP3CS0	-	-	42-44	207_QUEST_clinical_caseMIR	SENT1	-	-
-16	empresa	empresa	NCFS000	-	-	45-52	207_QUEST_clinical_caseMIR	SENT1	-	-
-17	.	.	Fp	-	-	52-53	207_QUEST_clinical_caseMIR	SENT1	-	-
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	207_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	207_QUEST_clinical_caseMIR	SENT1	-	-
+3	54	54		-	-	10-12	207_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	207_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	207_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	207_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	28-29	207_QUEST_clinical_caseMIR	SENT1	-	-
+8	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	30-38	207_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	39-41	207_QUEST_clinical_caseMIR	SENT1	-	-
+10	su	su	DP3CS0	-	-	42-44	207_QUEST_clinical_caseMIR	SENT1	-	-
+11	empresa	empresa	NCFS000	-	-	45-52	207_QUEST_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	52-53	207_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Se	se	P00CN000	-	-	54-56	207_QUEST_clinical_caseMIR	SENT2	-	-
 2	detecta	detectar	VMIP3S0	-	-	57-64	207_QUEST_clinical_caseMIR	SENT2	-	-
@@ -44,4 +39,13 @@
 26	/	/	Fh	-	-	168-169	207_QUEST_clinical_caseMIR	SENT2	-	-
 27	dL	decilitro	NCMN000	C0439241	calificador	169-171	207_QUEST_clinical_caseMIR	SENT2	-	-
 28	.	.	Fp	-	-	171-172	207_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Qué	qué	DE0CN0	-	-	173-176	207_QUEST_clinical_caseMIR	SENT3	-	-
+2	recomendación	recomendación	NCFS000	C0150600	procedimiento	177-190	207_QUEST_clinical_caseMIR	SENT3	-	-
+3	terapéutica	terapéutico	AQ0FS0	-	-	191-202	207_QUEST_clinical_caseMIR	SENT3	-	-
+4	efectuaría	efectuar	VMIC3S0	-	-	203-213	207_QUEST_clinical_caseMIR	SENT3	-	-
+5	en	en	SPS00	C1279901_1	calificador_1	214-216	207_QUEST_clinical_caseMIR	SENT3	-	-
+6	primer	1	AO0MS0	C1279901_2	calificador_2	217-223	207_QUEST_clinical_caseMIR	SENT3	-	-
+7	lugar	lugar	NCMS000	C1279901_3	calificador_3	224-229	207_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	229-230	207_QUEST_clinical_caseMIR	SENT3	-	-
 

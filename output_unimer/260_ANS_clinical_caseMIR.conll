@@ -1,23 +1,6 @@
-1	El	el	DA0MS0	-	-	174-176	260_ANS_clinical_caseMIR	SENT1	-	-
-2	proceso	proceso	NCMS000	C1522240	entidad_observable	177-184	260_ANS_clinical_caseMIR	SENT1	-	-
-3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	185-196	260_ANS_clinical_caseMIR	SENT1	-	-
-4	que	que	PR0CN000	-	-	197-200	260_ANS_clinical_caseMIR	SENT1	-	-
-5	debemos	deber	VMIP1P0	-	-	201-208	260_ANS_clinical_caseMIR	SENT1	-	-
-6	desarrollar	desarrollar	VMN0000	-	-	209-220	260_ANS_clinical_caseMIR	SENT1	-	-
-7	durante	durante	SPS00	C1444752#C0347984	atributo	221-228	260_ANS_clinical_caseMIR	SENT1	-	-
-8	su	su	DP3CS0	-	-	229-231	260_ANS_clinical_caseMIR	SENT1	-	-
-9	ingreso	ingreso	NCMS000	-	-	232-239	260_ANS_clinical_caseMIR	SENT1	-	-
-10	será	ser	VSIF3S0	-	-	240-244	260_ANS_clinical_caseMIR	SENT1	-	-
-11	guiado	guiar	VMP00SM	-	-	245-251	260_ANS_clinical_caseMIR	SENT1	-	-
-12	por	por	SPS00	C0678226	atributo	252-255	260_ANS_clinical_caseMIR	SENT1	-	-
-13	los	el	DA0MP0	-	-	256-259	260_ANS_clinical_caseMIR	SENT1	-	-
-14	siguientes	siguiente	AQ0CP0	C0332282	atributo	260-270	260_ANS_clinical_caseMIR	SENT1	-	-
-15	principios	principio	NCMP000	-	-	271-281	260_ANS_clinical_caseMIR	SENT1	-	-
-16	EXCEPTO	excepto	SPS00	-	-	282-289	260_ANS_clinical_caseMIR	SENT1	-	-
-17	:	:	Fd	-	-	289-290	260_ANS_clinical_caseMIR	SENT1	-	-
-18	Acidosis	acidosis	NCFN000	C0001122	trastorno	0-8	260_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-19	grave	grave	AQ0CS0	C0439808#C0205082	calificador	9-14	260_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-20	.	.	Fp	-	-	14-15	260_ANS_clinical_caseMIR	SENT1	-	-
+1	Acidosis	acidosis	NCFN000	C0001122	trastorno	0-8	260_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	grave	grave	AQ0CS0	C0439808#C0205082	calificador	9-14	260_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	14-15	260_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Cesárea	cesárea	NCFS000	-	-	16-23	260_ANS_clinical_caseMIR	SENT2	-	-
 2	urgente	urgente	AQ0CS0	C0439609	calificador	24-31	260_ANS_clinical_caseMIR	SENT2	-	-

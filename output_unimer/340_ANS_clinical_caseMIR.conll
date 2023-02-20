@@ -1,14 +1,6 @@
-1	¿	¿	Fia	-	-	258-259	340_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	259-263	340_ANS_clinical_caseMIR	SENT1	-	-
-3	será	ser	VSIF3S0	-	-	264-268	340_ANS_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	269-271	340_ANS_clinical_caseMIR	SENT1	-	-
-5	actitud	actitud	NCFS000	C0004271	entidad_observable	272-279	340_ANS_clinical_caseMIR	SENT1	-	-
-6	correcta	correcto	AQ0FS0	C0205170	calificador	280-288	340_ANS_clinical_caseMIR	SENT1	-	-
-7	?	?	Fit	-	-	288-289	340_ANS_clinical_caseMIR	SENT1	-	-
-8	:	:	Fd	-	-	289-290	340_ANS_clinical_caseMIR	SENT1	-	-
-9	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	340_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-10	obsesivo	obsesivo	AQ0MS0	-	-	10-18	340_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-11	.	.	Fp	-	-	18-19	340_ANS_clinical_caseMIR	SENT1	-	-
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	340_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	obsesivo	obsesivo	AQ0MS0	-	-	10-18	340_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	.	.	Fp	-	-	18-19	340_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Trastorno	trastorno	NCMS000	C0001546_1	trastorno_1	0-9	340_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	adaptativo	adaptativo	AQ0MS0	C0001546_2	trastorno_2	10-20	340_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-

@@ -1,35 +1,29 @@
-1	El	el	DA0MS0	-	-	389-391	350_QUEST_clinical_caseMIR	SENT1	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	392-403	350_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	404-406	350_QUEST_clinical_caseMIR	SENT1	-	-
-4	sospecha	sospecha	NCFS000	C0750491	calificador	407-415	350_QUEST_clinical_caseMIR	SENT1	-	-
-5	será	ser	VSIF3S0	-	-	416-420	350_QUEST_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	420-421	350_QUEST_clinical_caseMIR	SENT1	-	-
-7	A	a	SPS00	-	-	0-1	350_QUEST_clinical_caseMIR	SENT1	-	-
-8	una	una		C0205447_1	calificador_1	2-5	350_QUEST_clinical_caseMIR	SENT1	-	-
-9	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	6-11	350_QUEST_clinical_caseMIR	SENT1	-	-
-10	de	de	SPS00	C0332285	atributo	12-14	350_QUEST_clinical_caseMIR	SENT1	-	-
-11	52	52		-	-	15-17	350_QUEST_clinical_caseMIR	SENT1	-	-
-12	años	año	NCMP000	C0439234	calificador	18-22	350_QUEST_clinical_caseMIR	SENT1	-	-
-13	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	23-25	350_QUEST_clinical_caseMIR	SENT1	-	-
-14	detectan	detectar	VMIP3P0	-	-	26-34	350_QUEST_clinical_caseMIR	SENT1	-	-
-15	en	en	SPS00	C1720294#C0332285	calificador#atributo	35-37	350_QUEST_clinical_caseMIR	SENT1	-	-
-16	una	una		C0205447_1	calificador_1	38-41	350_QUEST_clinical_caseMIR	SENT1	-	-
-17	mamografía	mamografía	NCFS000	C0024671	procedimiento	42-52	350_QUEST_clinical_caseMIR	SENT1	-	-
-18	un	un		C0205447_1	calificador_1	53-55	350_QUEST_clinical_caseMIR	SENT1	-	-
-19	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	56-62	350_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-20	y	y	CC	C1706368	calificador	63-64	350_QUEST_clinical_caseMIR	SENT1	-	-
-21	se	se	P00CN000	-	-	65-67	350_QUEST_clinical_caseMIR	SENT1	-	-
-22	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	68-70	350_QUEST_clinical_caseMIR	SENT1	-	-
-23	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	71-79	350_QUEST_clinical_caseMIR	SENT1	-	-
-24	hacer	hacer	VMN0000	-	-	80-85	350_QUEST_clinical_caseMIR	SENT1	-	-
-25	una	una		C0205447_1	calificador_1	86-89	350_QUEST_clinical_caseMIR	SENT1	-	-
-26	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	90-97	350_QUEST_clinical_caseMIR	SENT1	-	-
-27	mediante	mediante	SPS00	-	-	98-106	350_QUEST_clinical_caseMIR	SENT1	-	-
-28	punción	punción	NCFS000	C0033119	anomalía_morfológica	107-114	350_QUEST_clinical_caseMIR	SENT1	-	-
-29	con	con	SPS00	C0332287	atributo	115-118	350_QUEST_clinical_caseMIR	SENT1	-	-
-30	control	control	NCMS000	C2587213	atributo	119-126	350_QUEST_clinical_caseMIR	SENT1	-	-
-31	ecográfico	ecográfico	AQ0MS00	-	-	127-137	350_QUEST_clinical_caseMIR	SENT1	-	-
-32	.	.	Fp	-	-	137-138	350_QUEST_clinical_caseMIR	SENT1	-	-
+1	A	a	SPS00	-	-	0-1	350_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	2-5	350_QUEST_clinical_caseMIR	SENT1	-	-
+3	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	6-11	350_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	350_QUEST_clinical_caseMIR	SENT1	-	-
+5	52	52		-	-	15-17	350_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	18-22	350_QUEST_clinical_caseMIR	SENT1	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	23-25	350_QUEST_clinical_caseMIR	SENT1	-	-
+8	detectan	detectar	VMIP3P0	-	-	26-34	350_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	35-37	350_QUEST_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	38-41	350_QUEST_clinical_caseMIR	SENT1	-	-
+11	mamografía	mamografía	NCFS000	C0024671	procedimiento	42-52	350_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	53-55	350_QUEST_clinical_caseMIR	SENT1	-	-
+13	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	56-62	350_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	63-64	350_QUEST_clinical_caseMIR	SENT1	-	-
+15	se	se	P00CN000	-	-	65-67	350_QUEST_clinical_caseMIR	SENT1	-	-
+16	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	68-70	350_QUEST_clinical_caseMIR	SENT1	-	-
+17	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	71-79	350_QUEST_clinical_caseMIR	SENT1	-	-
+18	hacer	hacer	VMN0000	-	-	80-85	350_QUEST_clinical_caseMIR	SENT1	-	-
+19	una	una		C0205447_1	calificador_1	86-89	350_QUEST_clinical_caseMIR	SENT1	-	-
+20	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	90-97	350_QUEST_clinical_caseMIR	SENT1	-	-
+21	mediante	mediante	SPS00	-	-	98-106	350_QUEST_clinical_caseMIR	SENT1	-	-
+22	punción	punción	NCFS000	C0033119	anomalía_morfológica	107-114	350_QUEST_clinical_caseMIR	SENT1	-	-
+23	con	con	SPS00	C0332287	atributo	115-118	350_QUEST_clinical_caseMIR	SENT1	-	-
+24	control	control	NCMS000	C2587213	atributo	119-126	350_QUEST_clinical_caseMIR	SENT1	-	-
+25	ecográfico	ecográfico	AQ0MS00	-	-	127-137	350_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	137-138	350_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	139-141	350_QUEST_clinical_caseMIR	SENT2	-	-
 2	paciente	paciente	NCCS000	C0030705	persona	142-150	350_QUEST_clinical_caseMIR	SENT2	-	-
@@ -109,4 +103,13 @@
 28	en	en	SPS00	C1720294#C0332285	calificador#atributo	510-512	350_QUEST_clinical_caseMIR	SENT4	-	-
 29	88	88		-	-	513-515	350_QUEST_clinical_caseMIR	SENT4	-	-
 30	.	.	Fp	-	-	515-516	350_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Con	con	SPS00	C0332287	atributo	517-520	350_QUEST_clinical_caseMIR	SENT5	-	-
+2	estos	este	DD0MP0	-	-	521-526	350_QUEST_clinical_caseMIR	SENT5	-	-
+3	datos	dato	NCMP000	-	-	527-532	350_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	533-535	350_QUEST_clinical_caseMIR	SENT5	-	-
+5	respuesta	respuesta	NCFS000	-	-	536-545	350_QUEST_clinical_caseMIR	SENT5	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	546-554	350_QUEST_clinical_caseMIR	SENT5	-	-
+7	es	ser	VSIP3S0	-	-	555-557	350_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	557-558	350_QUEST_clinical_caseMIR	SENT5	-	-
 

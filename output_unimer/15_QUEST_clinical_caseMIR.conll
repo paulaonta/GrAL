@@ -118,3 +118,11 @@
 30	V6	V6		-	-	630-632	15_QUEST_clinical_caseMIR	SENT5	-	-
 31	.	.	Fp	-	-	632-633	15_QUEST_clinical_caseMIR	SENT5	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	634-638	15_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	639-641	15_QUEST_clinical_caseMIR	SENT6	-	-
+3	el	el	DA0MS0	-	-	642-644	15_QUEST_clinical_caseMIR	SENT6	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	645-656	15_QUEST_clinical_caseMIR	SENT6	-	-
+5	más	más	RG	C0205172	calificador	657-660	15_QUEST_clinical_caseMIR	SENT6	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	661-669	15_QUEST_clinical_caseMIR	SENT6	-	-
+7	.	.	Fp	-	-	669-670	15_QUEST_clinical_caseMIR	SENT6	-	-
+

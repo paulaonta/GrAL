@@ -1,36 +1,27 @@
-1	Señale	señalar	VMM03S0	-	-	391-397	398_QUEST_clinical_caseMIR	SENT1	-	-
-2	cuál	cuál	PT0CS000	-	-	398-402	398_QUEST_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	403-405	398_QUEST_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	406-409	398_QUEST_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	410-420	398_QUEST_clinical_caseMIR	SENT1	-	-
-6	respuestas	respuesta	NCFP000	-	-	421-431	398_QUEST_clinical_caseMIR	SENT1	-	-
-7	es	ser	VSIP3S0	-	-	432-434	398_QUEST_clinical_caseMIR	SENT1	-	-
-8	INCORRECTA	incorrecto	AQ0FS0	-	-	435-445	398_QUEST_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	445-446	398_QUEST_clinical_caseMIR	SENT1	-	-
-10	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	398_QUEST_clinical_caseMIR	SENT1	-	-
-11	de	de	SPS00	C0332285	atributo	7-9	398_QUEST_clinical_caseMIR	SENT1	-	-
-12	45	45		-	-	10-12	398_QUEST_clinical_caseMIR	SENT1	-	-
-13	años	año	NCMP000	C0439234	calificador	13-17	398_QUEST_clinical_caseMIR	SENT1	-	-
-14	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	398_QUEST_clinical_caseMIR	SENT1	-	-
-15	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	398_QUEST_clinical_caseMIR	SENT1	-	-
-16	que	que	PR0CN000	-	-	26-29	398_QUEST_clinical_caseMIR	SENT1	-	-
-17	acude	acudir	VMIP3S0	-	-	30-35	398_QUEST_clinical_caseMIR	SENT1	-	-
-18	a	a	SPS00	-	-	36-37	398_QUEST_clinical_caseMIR	SENT1	-	-
-19	consulta	consultar	VMM02S0	C1704447_1	calificador_1	38-46	398_QUEST_clinical_caseMIR	SENT1	-	-
-20	por	por	SPS00	C1704447_2	calificador_2	47-50	398_QUEST_clinical_caseMIR	SENT1	-	-
-21	presentar	presentar	VMN0000	-	-	51-60	398_QUEST_clinical_caseMIR	SENT1	-	-
-22	otorrea	otorrea	NCFS000	C0155540	trastorno	61-68	398_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-23	fétida	fétido	AQ0FS0	-	-	69-75	398_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-24	intermitente	intermitente	NCMS000	C0205267	calificador	76-88	398_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-25	de	de	SPS00	C0332285	atributo	89-91	398_QUEST_clinical_caseMIR	SENT1	-	-
-26	oído	oír	VMP00SM	C0229298_1	estructura_corporal_1	92-96	398_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-27	derecho	derecho	NCMS000	C0229298_2	estructura_corporal_2	97-104	398_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-28	de	de	SPS00	C0332285	atributo	105-107	398_QUEST_clinical_caseMIR	SENT1	-	-
-29	cuatro	cuatro		-	-	108-114	398_QUEST_clinical_caseMIR	SENT1	-	-
-30	años	año	NCMP000	C0439234	calificador	115-119	398_QUEST_clinical_caseMIR	SENT1	-	-
-31	de	de	SPS00	C0332285	atributo	120-122	398_QUEST_clinical_caseMIR	SENT1	-	-
-32	evolución	evolución	NCFS000	-	-	123-132	398_QUEST_clinical_caseMIR	SENT1	-	-
-33	.	.	Fp	-	-	132-133	398_QUEST_clinical_caseMIR	SENT1	-	-
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	398_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	398_QUEST_clinical_caseMIR	SENT1	-	-
+3	45	45		-	-	10-12	398_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	398_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	398_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	398_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	398_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	30-35	398_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	36-37	398_QUEST_clinical_caseMIR	SENT1	-	-
+10	consulta	consultar	VMM02S0	C1704447_1	calificador_1	38-46	398_QUEST_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C1704447_2	calificador_2	47-50	398_QUEST_clinical_caseMIR	SENT1	-	-
+12	presentar	presentar	VMN0000	-	-	51-60	398_QUEST_clinical_caseMIR	SENT1	-	-
+13	otorrea	otorrea	NCFS000	C0155540	trastorno	61-68	398_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	fétida	fétido	AQ0FS0	-	-	69-75	398_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	intermitente	intermitente	NCMS000	C0205267	calificador	76-88	398_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	de	de	SPS00	C0332285	atributo	89-91	398_QUEST_clinical_caseMIR	SENT1	-	-
+17	oído	oír	VMP00SM	C0229298_1	estructura_corporal_1	92-96	398_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	derecho	derecho	NCMS000	C0229298_2	estructura_corporal_2	97-104	398_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	de	de	SPS00	C0332285	atributo	105-107	398_QUEST_clinical_caseMIR	SENT1	-	-
+20	cuatro	cuatro		-	-	108-114	398_QUEST_clinical_caseMIR	SENT1	-	-
+21	años	año	NCMP000	C0439234	calificador	115-119	398_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	120-122	398_QUEST_clinical_caseMIR	SENT1	-	-
+23	evolución	evolución	NCFS000	-	-	123-132	398_QUEST_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	132-133	398_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	134-136	398_QUEST_clinical_caseMIR	SENT2	-	-
 2	exploración	exploración	NCFS000	C1280903	procedimiento	137-148	398_QUEST_clinical_caseMIR	SENT2	-	-
@@ -104,12 +95,12 @@
 2	esta	este	DD0FS0	-	-	526-530	398_QUEST_clinical_caseMIR	SENT5	-	-
 3	situación	situación	NCFS000	-	-	531-540	398_QUEST_clinical_caseMIR	SENT5	-	-
 4	,	,	Fc	-	-	540-541	398_QUEST_clinical_caseMIR	SENT5	-	-
-5	¿	¿	Fia	-	-	542-543	398_QUEST_clinical_caseMIR	SENT5	-	-
-6	cuál	cuál	PT0CS000	-	-	543-547	398_QUEST_clinical_caseMIR	SENT5	-	-
-7	considera	considerar	VMIP3S0	-	-	548-557	398_QUEST_clinical_caseMIR	SENT5	-	-
-8	la	el	DA0FS0	-	-	558-560	398_QUEST_clinical_caseMIR	SENT5	-	-
-9	opción	opción	NCFS000	-	-	561-567	398_QUEST_clinical_caseMIR	SENT5	-	-
-10	más	más	RG	C0205172	calificador	568-571	398_QUEST_clinical_caseMIR	SENT5	-	-
-11	adecuada	adecuar	VMP00SF	-	-	572-580	398_QUEST_clinical_caseMIR	SENT5	-	-
-12	?	?	Fit	-	-	580-581	398_QUEST_clinical_caseMIR	SENT5	-	-
+5	.	.	Fp	-	-	542-543	398_QUEST_clinical_caseMIR	SENT5	-	-
+6	cuál	cuál	PT0CS000	-	-	544-548	398_QUEST_clinical_caseMIR	SENT5	-	-
+7	considera	considerar	VMIP3S0	-	-	549-558	398_QUEST_clinical_caseMIR	SENT5	-	-
+8	la	el	DA0FS0	-	-	559-561	398_QUEST_clinical_caseMIR	SENT5	-	-
+9	opción	opción	NCFS000	-	-	562-568	398_QUEST_clinical_caseMIR	SENT5	-	-
+10	más	más	RG	C0205172	calificador	569-572	398_QUEST_clinical_caseMIR	SENT5	-	-
+11	adecuada	adecuar	VMP00SF	-	-	573-581	398_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	581-582	398_QUEST_clinical_caseMIR	SENT5	-	-
 

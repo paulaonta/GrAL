@@ -1,21 +1,7 @@
-1	Señale	señalar	VMM03S0	-	-	227-233	259_ANS_clinical_caseMIR	SENT1	-	-
-2	cuál	cuál	PT0CS000	-	-	234-238	259_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	239-241	259_ANS_clinical_caseMIR	SENT1	-	-
-4	,	,	Fc	-	-	241-242	259_ANS_clinical_caseMIR	SENT1	-	-
-5	entre	entre	SPS00	C0205103	calificador	243-248	259_ANS_clinical_caseMIR	SENT1	-	-
-6	las	el	DA0FP0	-	-	249-252	259_ANS_clinical_caseMIR	SENT1	-	-
-7	siguientes	siguiente	AQ0CP0	C0332282	atributo	253-263	259_ANS_clinical_caseMIR	SENT1	-	-
-8	,	,	Fc	-	-	263-264	259_ANS_clinical_caseMIR	SENT1	-	-
-9	la	el	DA0FS0	-	-	265-267	259_ANS_clinical_caseMIR	SENT1	-	-
-10	orientación	orientación	NCFS000	C0029266	función	268-279	259_ANS_clinical_caseMIR	SENT1	-	-
-11	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	280-291	259_ANS_clinical_caseMIR	SENT1	-	-
-12	más	más	RG	C0205172	calificador	292-295	259_ANS_clinical_caseMIR	SENT1	-	-
-13	probable	probable	AQ0CS0	C0332148	calificador	296-304	259_ANS_clinical_caseMIR	SENT1	-	-
-14	:	:	Fd	-	-	304-305	259_ANS_clinical_caseMIR	SENT1	-	-
-15	Provocar	provocar	VMN0000	-	-	0-8	259_ANS_clinical_caseMIR	SENT1	-	-
-16	el	el	DA0MS0	-	-	9-11	259_ANS_clinical_caseMIR	SENT1	-	-
-17	vómito	vómito	NCMS000	C0042963#C0042965	trastorno#sustancia	12-18	259_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	.	.	Fp	-	-	18-19	259_ANS_clinical_caseMIR	SENT1	-	-
+1	Provocar	provocar	VMN0000	-	-	0-8	259_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	9-11	259_ANS_clinical_caseMIR	SENT1	-	-
+3	vómito	vómito	NCMS000	C0042963#C0042965	trastorno#sustancia	12-18	259_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	.	.	Fp	-	-	18-19	259_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	0-10	259_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
 2	1/1000	1/1000		-	-	11-17	259_ANS_clinical_caseMIR	SENT2	-	-

@@ -58,3 +58,33 @@
 29	%	%	Ft	-	-	316-317	11_QUEST_clinical_caseMIR	SENT2	-	-
 30	.	.	Fp	-	-	317-318	11_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	El	el	DA0MS0	-	-	319-321	11_QUEST_clinical_caseMIR	SENT3	-	-
+2	ECG	ecg	NC00YL0	C1623258	procedimiento	322-325	11_QUEST_clinical_caseMIR	SENT3	-	-
+3	muestra	mostrar	VMIP3S0	-	-	326-333	11_QUEST_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	334-337	11_QUEST_clinical_caseMIR	SENT3	-	-
+5	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	338-349	11_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	regular	regular	AQ0CS0	C0205272	calificador	350-357	11_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+7	de	de	SPS00	C0332285	atributo	358-360	11_QUEST_clinical_caseMIR	SENT3	-	-
+8	QRS	qrs	NC00YL0	-	-	361-364	11_QUEST_clinical_caseMIR	SENT3	-	-
+9	estrecho	estrecho	AQ0MS0	-	-	365-373	11_QUEST_clinical_caseMIR	SENT3	-	-
+10	a	a	SPS00	-	-	374-375	11_QUEST_clinical_caseMIR	SENT3	-	-
+11	195	195		-	-	376-379	11_QUEST_clinical_caseMIR	SENT3	-	-
+12	Ipm	ipm	NCMS000	-	-	380-383	11_QUEST_clinical_caseMIR	SENT3	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	384-386	11_QUEST_clinical_caseMIR	SENT3	-	-
+14	la	el	DA0FS0	-	-	387-389	11_QUEST_clinical_caseMIR	SENT3	-	-
+15	que	que	PR0CN000	-	-	390-393	11_QUEST_clinical_caseMIR	SENT3	-	-
+16	no	no	RN	C1298908	calificador	394-396	11_QUEST_clinical_caseMIR	SENT3	-	-
+17	es	ser	VSIP3S0	-	-	397-399	11_QUEST_clinical_caseMIR	SENT3	-	-
+18	discernible	discernible	AQ0CS0	C0205396	calificador	400-411	11_QUEST_clinical_caseMIR	SENT3	-	-
+19	la	el	DA0FS0	-	-	412-414	11_QUEST_clinical_caseMIR	SENT3	-	-
+20	onda	onda	NCFS000	-	-	415-419	11_QUEST_clinical_caseMIR	SENT3	-	-
+21	P.	p.	AQ0CS00	-	-	420-422	11_QUEST_clinical_caseMIR	SENT3	-	-
+22	Cual	cual	PR0CS000	-	-	423-427	11_QUEST_clinical_caseMIR	SENT3	-	-
+23	sería	ser	VSIC1S0	-	-	428-433	11_QUEST_clinical_caseMIR	SENT3	-	-
+24	el	el	DA0MS0	-	-	434-436	11_QUEST_clinical_caseMIR	SENT3	-	-
+25	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	437-448	11_QUEST_clinical_caseMIR	SENT3	-	-
+26	de	de	SPS00	C0332285	atributo	449-451	11_QUEST_clinical_caseMIR	SENT3	-	-
+27	primera	1	AO0FS0	-	-	452-459	11_QUEST_clinical_caseMIR	SENT3	-	-
+28	elección	elección	NCFS000	-	-	460-468	11_QUEST_clinical_caseMIR	SENT3	-	-
+29	.	.	Fp	-	-	468-469	11_QUEST_clinical_caseMIR	SENT3	-	-
+

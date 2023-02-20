@@ -1,18 +1,8 @@
-1	Como	como	CS	C0332257	calificador	158-162	169_ANS_clinical_caseMIR	SENT1	-	-
-2	tratamiento	tratamiento	NCMS000	C0199176#C0199175_1	procedimiento_1	163-174	169_ANS_clinical_caseMIR	SENT1	-	-
-3	preventivo	preventivo	AQ0MS0	C0199176#C0199175_2	procedimiento_2	175-185	169_ANS_clinical_caseMIR	SENT1	-	-
-4	NO	no	RN	C1298908	calificador	186-188	169_ANS_clinical_caseMIR	SENT1	-	-
-5	consideraría	considerar	VMIC3S0	-	-	189-201	169_ANS_clinical_caseMIR	SENT1	-	-
-6	uno	uno		C0205447_1	calificador_1	202-205	169_ANS_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	206-208	169_ANS_clinical_caseMIR	SENT1	-	-
-8	estos	este	DD0MP0	-	-	209-214	169_ANS_clinical_caseMIR	SENT1	-	-
-9	fármacos	fármaco	NCMP000	C0013227	sustancia	215-223	169_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-10	:	:	Fd	-	-	223-224	169_ANS_clinical_caseMIR	SENT1	-	-
-11	Rotura	rotura	NCFS000	-	-	0-6	169_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	esplénica	esplénico	AQ0FS0	-	-	7-16	169_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	con	con	SPS00	C0332287	atributo	17-20	169_ANS_clinical_caseMIR	SENT1	-	-
-14	hemoperitoneo	hemoperitoneo	NC00SC0	C0019066#C0019065	trastorno	21-34	169_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-15	.	.	Fp	-	-	34-35	169_ANS_clinical_caseMIR	SENT1	-	-
+1	Rotura	rotura	NCFS000	-	-	0-6	169_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	esplénica	esplénico	AQ0FS0	-	-	7-16	169_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	con	con	SPS00	C0332287	atributo	17-20	169_ANS_clinical_caseMIR	SENT1	-	-
+4	hemoperitoneo	hemoperitoneo	NC00SC0	C0019066#C0019065	trastorno	21-34	169_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	.	.	Fp	-	-	34-35	169_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Desprendimiento	desprendimiento	NCMS000	C0000832_1	trastorno_1	0-15	169_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	prematuro	prematuro	NCMS000	C0000832_2	trastorno_2	16-25	169_ANS_clinical_caseMIR	SENT2	B-Calificador	-

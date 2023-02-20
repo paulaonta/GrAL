@@ -1,32 +1,28 @@
-1	El	el	DA0MS0	-	-	423-425	359_QUEST_clinical_caseMIR	SENT1	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	426-437	359_QUEST_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	438-443	359_QUEST_clinical_caseMIR	SENT1	-	-
-4	:	:	Fd	-	-	443-444	359_QUEST_clinical_caseMIR	SENT1	-	-
-5	Ante	ante	SPS00	-	-	0-4	359_QUEST_clinical_caseMIR	SENT1	-	-
-6	una	una		C0205447_1	calificador_1	5-8	359_QUEST_clinical_caseMIR	SENT1	-	-
-7	niña	niño	NCFS000	C0008059#C0870221	persona	9-13	359_QUEST_clinical_caseMIR	SENT1	-	-
-8	de	de	SPS00	C0332285	atributo	14-16	359_QUEST_clinical_caseMIR	SENT1	-	-
-9	7	7		-	-	17-18	359_QUEST_clinical_caseMIR	SENT1	-	-
-10	meses	mes	NCMP000	C0439231	calificador	19-24	359_QUEST_clinical_caseMIR	SENT1	-	-
-11	de	de	SPS00	C0001779_1	entidad_observable_1	25-27	359_QUEST_clinical_caseMIR	SENT1	-	-
-12	edad	edad	NCFS000	C0001779_2	entidad_observable_2	28-32	359_QUEST_clinical_caseMIR	SENT1	-	-
-13	que	que	PR0CN000	-	-	33-36	359_QUEST_clinical_caseMIR	SENT1	-	-
-14	acude	acudir	VMIP3S0	-	-	37-42	359_QUEST_clinical_caseMIR	SENT1	-	-
-15	a	a	SPS00	-	-	43-44	359_QUEST_clinical_caseMIR	SENT1	-	-
-16	urgencias	urgencia	NCFP000	C0439609	calificador	45-54	359_QUEST_clinical_caseMIR	SENT1	-	-
-17	con	con	SPS00	C0332287	atributo	55-58	359_QUEST_clinical_caseMIR	SENT1	-	-
-18	un	un		C0205447_1	calificador_1	59-61	359_QUEST_clinical_caseMIR	SENT1	-	-
-19	cuadro	cuadro	NCMS000	-	-	62-68	359_QUEST_clinical_caseMIR	SENT1	-	-
-20	sugerente	sugerente	AQ0CS0	-	-	69-78	359_QUEST_clinical_caseMIR	SENT1	-	-
-21	de	de	SPS00	C0332285	atributo	79-81	359_QUEST_clinical_caseMIR	SENT1	-	-
-22	bronquiolitis	bronquiolitis	NCFN000	C0006271	trastorno	82-95	359_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
-23	¿	¿	Fia	-	-	96-97	359_QUEST_clinical_caseMIR	SENT1	-	-
-24	cuál	cuál	PT0CS000	-	-	97-101	359_QUEST_clinical_caseMIR	SENT1	-	-
-25	sería	ser	VSIC1S0	-	-	102-107	359_QUEST_clinical_caseMIR	SENT1	-	-
-26	el	el	DA0MS0	-	-	108-110	359_QUEST_clinical_caseMIR	SENT1	-	-
-27	agente	agente	NCCS000	C0450442	atributo	111-117	359_QUEST_clinical_caseMIR	SENT1	-	-
-28	etiológico	etiológico	AQ0MS0	-	-	118-128	359_QUEST_clinical_caseMIR	SENT1	-	-
-29	más	más	RG	C0205172	calificador	129-132	359_QUEST_clinical_caseMIR	SENT1	-	-
-30	probable	probable	AQ0CS0	C0332148	calificador	133-141	359_QUEST_clinical_caseMIR	SENT1	-	-
-31	?	?	Fit	-	-	141-142	359_QUEST_clinical_caseMIR	SENT1	-	-
+1	Ante	ante	SPS00	-	-	0-4	359_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	5-8	359_QUEST_clinical_caseMIR	SENT1	-	-
+3	niña	niño	NCFS000	C0008059#C0870221	persona	9-13	359_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	14-16	359_QUEST_clinical_caseMIR	SENT1	-	-
+5	7	7		-	-	17-18	359_QUEST_clinical_caseMIR	SENT1	-	-
+6	meses	mes	NCMP000	C0439231	calificador	19-24	359_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0001779_1	entidad_observable_1	25-27	359_QUEST_clinical_caseMIR	SENT1	-	-
+8	edad	edad	NCFS000	C0001779_2	entidad_observable_2	28-32	359_QUEST_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	33-36	359_QUEST_clinical_caseMIR	SENT1	-	-
+10	acude	acudir	VMIP3S0	-	-	37-42	359_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	43-44	359_QUEST_clinical_caseMIR	SENT1	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	45-54	359_QUEST_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	55-58	359_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	59-61	359_QUEST_clinical_caseMIR	SENT1	-	-
+15	cuadro	cuadro	NCMS000	-	-	62-68	359_QUEST_clinical_caseMIR	SENT1	-	-
+16	sugerente	sugerente	AQ0CS0	-	-	69-78	359_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	79-81	359_QUEST_clinical_caseMIR	SENT1	-	-
+18	bronquiolitis	bronquiolitis	NCFN000	C0006271	trastorno	82-95	359_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+19	.	.	Fp	-	-	96-97	359_QUEST_clinical_caseMIR	SENT1	-	-
+20	cuál	cuál	PT0CS000	-	-	98-102	359_QUEST_clinical_caseMIR	SENT1	-	-
+21	sería	ser	VSIC1S0	-	-	103-108	359_QUEST_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	109-111	359_QUEST_clinical_caseMIR	SENT1	-	-
+23	agente	agente	NCCS000	C0450442	atributo	112-118	359_QUEST_clinical_caseMIR	SENT1	-	-
+24	etiológico	etiológico	AQ0MS0	-	-	119-129	359_QUEST_clinical_caseMIR	SENT1	-	-
+25	más	más	RG	C0205172	calificador	130-133	359_QUEST_clinical_caseMIR	SENT1	-	-
+26	probable	probable	AQ0CS0	C0332148	calificador	134-142	359_QUEST_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	142-143	359_QUEST_clinical_caseMIR	SENT1	-	-
 

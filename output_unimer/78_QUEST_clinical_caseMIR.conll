@@ -75,3 +75,13 @@
 19	diámetro	diámetro	NCMS000	C1301886	calificador	395-403	78_QUEST_clinical_caseMIR	SENT4	-	-
 20	.	.	Fp	-	-	403-404	78_QUEST_clinical_caseMIR	SENT4	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	405-409	78_QUEST_clinical_caseMIR	SENT5	-	-
+2	es	ser	VSIP3S0	-	-	410-412	78_QUEST_clinical_caseMIR	SENT5	-	-
+3	el	el	DA0MS0	-	-	413-415	78_QUEST_clinical_caseMIR	SENT5	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	416-427	78_QUEST_clinical_caseMIR	SENT5	-	-
+5	indicado	indicar	VMP00SM	-	-	428-436	78_QUEST_clinical_caseMIR	SENT5	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	437-439	78_QUEST_clinical_caseMIR	SENT5	-	-
+7	esta	este	DD0FS0	-	-	440-444	78_QUEST_clinical_caseMIR	SENT5	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	445-453	78_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	453-454	78_QUEST_clinical_caseMIR	SENT5	-	-
+

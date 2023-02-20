@@ -1,23 +1,6 @@
-1	¿	¿	Fia	-	-	879-880	694_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	880-884	694_ANS_clinical_caseMIR	SENT1	-	-
-3	cree	creer	VMIP3S0	-	-	885-889	694_ANS_clinical_caseMIR	SENT1	-	-
-4	que	que	CS	-	-	890-893	694_ANS_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	894-896	694_ANS_clinical_caseMIR	SENT1	-	-
-6	,	,	Fc	-	-	896-897	694_ANS_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	898-900	694_ANS_clinical_caseMIR	SENT1	-	-
-8	los	el	DA0MP0	-	-	901-904	694_ANS_clinical_caseMIR	SENT1	-	-
-9	siguientes	siguiente	AQ0CP0	C0332282	atributo	905-915	694_ANS_clinical_caseMIR	SENT1	-	-
-10	,	,	Fc	-	-	915-916	694_ANS_clinical_caseMIR	SENT1	-	-
-11	el	el	DA0MS0	-	-	917-919	694_ANS_clinical_caseMIR	SENT1	-	-
-12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	920-931	694_ANS_clinical_caseMIR	SENT1	-	-
-13	inicial	inicial	AQ0CS0	C0205265	calificador	932-939	694_ANS_clinical_caseMIR	SENT1	-	-
-14	más	más	RG	C0205172	calificador	940-943	694_ANS_clinical_caseMIR	SENT1	-	-
-15	adecuado	adecuar	VMP00SM	-	-	944-952	694_ANS_clinical_caseMIR	SENT1	-	-
-16	?	?	Fit	-	-	952-953	694_ANS_clinical_caseMIR	SENT1	-	-
-17	:	:	Fd	-	-	953-954	694_ANS_clinical_caseMIR	SENT1	-	-
-18	Esofaguectomía	esofaguectomía	NCFS000	-	-	0-14	694_ANS_clinical_caseMIR	SENT1	-	-
-19	transhiatal	transhiatal	AQ0CS00	-	-	15-26	694_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-20	.	.	Fp	-	-	26-27	694_ANS_clinical_caseMIR	SENT1	-	-
+1	Esofaguectomía	esofaguectomía	NCFS000	-	-	0-14	694_ANS_clinical_caseMIR	SENT1	-	-
+2	transhiatal	transhiatal	AQ0CS00	-	-	15-26	694_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	26-27	694_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Esofaguectomía	esofaguectomía	NCFS000	-	-	0-14	694_ANS_clinical_caseMIR	SENT2	-	-
 2	según	según	SPS00	-	-	15-20	694_ANS_clinical_caseMIR	SENT2	-	-

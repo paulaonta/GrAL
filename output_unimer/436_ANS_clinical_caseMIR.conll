@@ -1,15 +1,7 @@
-1	¿	¿	Fia	-	-	400-401	436_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	401-405	436_ANS_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	406-411	436_ANS_clinical_caseMIR	SENT1	-	-
-4	su	su	DP3CS0	-	-	412-414	436_ANS_clinical_caseMIR	SENT1	-	-
-5	manejo	manejo	NCMS000	C1273870	procedimiento	415-421	436_ANS_clinical_caseMIR	SENT1	-	-
-6	inicial	inicial	AQ0CS0	C0205265	calificador	422-429	436_ANS_clinical_caseMIR	SENT1	-	-
-7	?	?	Fit	-	-	429-430	436_ANS_clinical_caseMIR	SENT1	-	-
-8	:	:	Fd	-	-	430-431	436_ANS_clinical_caseMIR	SENT1	-	-
-9	Osteonecrosis	osteonecrosis	NC00CE0	-	-	0-13	436_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-10	de	de	SPS00	C0332285	atributo	14-16	436_ANS_clinical_caseMIR	SENT1	-	-
-11	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	17-24	436_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-12	.	.	Fp	-	-	24-25	436_ANS_clinical_caseMIR	SENT1	-	-
+1	Osteonecrosis	osteonecrosis	NC00CE0	-	-	0-13	436_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	14-16	436_ANS_clinical_caseMIR	SENT1	-	-
+3	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	17-24	436_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	.	.	Fp	-	-	24-25	436_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Artritis	artritis	NCFN000	C0003868_1	trastorno_1	0-8	436_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	gotosa	gotoso	NCFS000	C0003868_2	trastorno_2	9-15	436_ANS_clinical_caseMIR	SENT2	B-Calificador	-

@@ -1,15 +1,7 @@
-1	¿	¿	Fia	-	-	179-180	312_ANS_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	180-183	312_ANS_clinical_caseMIR	SENT1	-	-
-3	nervios	nervio	NCMP000	C1280541#C0027740	estructura_corporal	184-191	312_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-4	espinales	espinal	AQ0CP0	-	-	192-201	312_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-5	estarán	estar	VAIF3P0	-	-	202-209	312_ANS_clinical_caseMIR	SENT1	-	-
-6	lesionados	lesionar	VMP00PM	-	-	210-220	312_ANS_clinical_caseMIR	SENT1	-	-
-7	?	?	Fit	-	-	220-221	312_ANS_clinical_caseMIR	SENT1	-	-
-8	:	:	Fd	-	-	221-222	312_ANS_clinical_caseMIR	SENT1	-	-
-9	Insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	0-13	312_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-10	suprarrenal	suprarrenal	NC00SC0	C0449207	estructura_corporal	14-25	312_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-11	primaria	primario	AQ0FS0	C0205225	calificador	26-34	312_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-12	.	.	Fp	-	-	34-35	312_ANS_clinical_caseMIR	SENT1	-	-
+1	Insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	0-13	312_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	suprarrenal	suprarrenal	NC00SC0	C0449207	estructura_corporal	14-25	312_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	primaria	primario	AQ0FS0	C0205225	calificador	26-34	312_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	.	.	Fp	-	-	34-35	312_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Insuficiencia	insuficiencia	NCFS000	C0405580_1	trastorno_1	0-13	312_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	suprarrenal	suprarrenal	NC00SC0	C0405580_2	trastorno_2	14-25	312_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

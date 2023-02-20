@@ -1,31 +1,24 @@
-1	¿	¿	Fia	-	-	383-384	640_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	384-388	640_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	389-391	640_QUEST_clinical_caseMIR	SENT1	-	-
-4	su	su	DP3CS0	-	-	392-394	640_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	395-406	640_QUEST_clinical_caseMIR	SENT1	-	-
-6	?	?	Fit	-	-	406-407	640_QUEST_clinical_caseMIR	SENT1	-	-
-7	:	:	Fd	-	-	407-408	640_QUEST_clinical_caseMIR	SENT1	-	-
-8	Acude	acudir	VMIP3S0	-	-	0-5	640_QUEST_clinical_caseMIR	SENT1	-	-
-9	al	al	SP+DA	-	-	6-8	640_QUEST_clinical_caseMIR	SENT1	-	-
-10	domicilio	domicilio	NCMS000	C1442065	entidad_observable	9-18	640_QUEST_clinical_caseMIR	SENT1	-	-
-11	de	de	SPS00	C0332285	atributo	19-21	640_QUEST_clinical_caseMIR	SENT1	-	-
-12	un	un		C0205447_1	calificador_1	22-24	640_QUEST_clinical_caseMIR	SENT1	-	-
-13	paciente	paciente	NCCS000	C0030705	persona	25-33	640_QUEST_clinical_caseMIR	SENT1	-	-
-14	tras	tras	SPS00	-	-	34-38	640_QUEST_clinical_caseMIR	SENT1	-	-
-15	llamada	llamada	NCFS000	-	-	39-46	640_QUEST_clinical_caseMIR	SENT1	-	-
-16	porque	porque	CS	-	-	47-53	640_QUEST_clinical_caseMIR	SENT1	-	-
-17	el	el	DA0MS0	-	-	54-56	640_QUEST_clinical_caseMIR	SENT1	-	-
-18	paciente	paciente	NCCS000	C0030705	persona	57-65	640_QUEST_clinical_caseMIR	SENT1	-	-
-19	en	en	SPS00	C1720294#C0332285	calificador#atributo	66-68	640_QUEST_clinical_caseMIR	SENT1	-	-
-20	los	el	DA0MP0	-	-	69-72	640_QUEST_clinical_caseMIR	SENT1	-	-
-21	últimos	último	AO0MP0	-	-	73-80	640_QUEST_clinical_caseMIR	SENT1	-	-
-22	días	día	NCMP000	C0439228#C0332169	calificador	81-85	640_QUEST_clinical_caseMIR	SENT1	-	-
-23	ha	haber	VAIP3S0	-	-	86-88	640_QUEST_clinical_caseMIR	SENT1	-	-
-24	cambiado	cambiar	VMP00SM	-	-	89-97	640_QUEST_clinical_caseMIR	SENT1	-	-
-25	de	de	SPS00	C0332285	atributo	98-100	640_QUEST_clinical_caseMIR	SENT1	-	-
-26	situación	situación	NCFS000	-	-	101-110	640_QUEST_clinical_caseMIR	SENT1	-	-
-27	clínica	clínico	AQ0FS0	C0205210	calificador	111-118	640_QUEST_clinical_caseMIR	SENT1	-	-
-28	.	.	Fp	-	-	118-119	640_QUEST_clinical_caseMIR	SENT1	-	-
+1	Acude	acudir	VMIP3S0	-	-	0-5	640_QUEST_clinical_caseMIR	SENT1	-	-
+2	al	al	SP+DA	-	-	6-8	640_QUEST_clinical_caseMIR	SENT1	-	-
+3	domicilio	domicilio	NCMS000	C1442065	entidad_observable	9-18	640_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	19-21	640_QUEST_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	22-24	640_QUEST_clinical_caseMIR	SENT1	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	25-33	640_QUEST_clinical_caseMIR	SENT1	-	-
+7	tras	tras	SPS00	-	-	34-38	640_QUEST_clinical_caseMIR	SENT1	-	-
+8	llamada	llamada	NCFS000	-	-	39-46	640_QUEST_clinical_caseMIR	SENT1	-	-
+9	porque	porque	CS	-	-	47-53	640_QUEST_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	54-56	640_QUEST_clinical_caseMIR	SENT1	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	57-65	640_QUEST_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	66-68	640_QUEST_clinical_caseMIR	SENT1	-	-
+13	los	el	DA0MP0	-	-	69-72	640_QUEST_clinical_caseMIR	SENT1	-	-
+14	últimos	último	AO0MP0	-	-	73-80	640_QUEST_clinical_caseMIR	SENT1	-	-
+15	días	día	NCMP000	C0439228#C0332169	calificador	81-85	640_QUEST_clinical_caseMIR	SENT1	-	-
+16	ha	haber	VAIP3S0	-	-	86-88	640_QUEST_clinical_caseMIR	SENT1	-	-
+17	cambiado	cambiar	VMP00SM	-	-	89-97	640_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	98-100	640_QUEST_clinical_caseMIR	SENT1	-	-
+19	situación	situación	NCFS000	-	-	101-110	640_QUEST_clinical_caseMIR	SENT1	-	-
+20	clínica	clínico	AQ0FS0	C0205210	calificador	111-118	640_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	118-119	640_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Refiere	referir	VMIP3S0	-	-	120-127	640_QUEST_clinical_caseMIR	SENT2	-	-
 2	debilidad	debilidad	NCFS000	C0424594#C0004093#C3714552	hallazgo	128-137	640_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
@@ -82,4 +75,12 @@
 11	vida	vida	NCFS000	-	-	423-427	640_QUEST_clinical_caseMIR	SENT3	-	-
 12	”	”	Frc	-	-	427-428	640_QUEST_clinical_caseMIR	SENT3	-	-
 13	.	.	Fp	-	-	428-429	640_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Ante	ante	SPS00	-	-	430-434	640_QUEST_clinical_caseMIR	SENT4	-	-
+2	esta	este	DD0FS0	-	-	435-439	640_QUEST_clinical_caseMIR	SENT4	-	-
+3	situación	situación	NCFS000	-	-	440-449	640_QUEST_clinical_caseMIR	SENT4	-	-
+4	NO	no	RN	C1298908	calificador	450-452	640_QUEST_clinical_caseMIR	SENT4	-	-
+5	se	se	P00CN000	-	-	453-455	640_QUEST_clinical_caseMIR	SENT4	-	-
+6	recomienda	recomendar	VMIP3S0	-	-	456-466	640_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	466-467	640_QUEST_clinical_caseMIR	SENT4	-	-
 

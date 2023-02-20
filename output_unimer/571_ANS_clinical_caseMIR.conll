@@ -1,16 +1,6 @@
-1	¿	¿	Fia	-	-	591-592	571_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	592-596	571_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	597-599	571_ANS_clinical_caseMIR	SENT1	-	-
-4	estas	este	DD0FP0	-	-	600-605	571_ANS_clinical_caseMIR	SENT1	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	606-618	571_ANS_clinical_caseMIR	SENT1	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	619-621	571_ANS_clinical_caseMIR	SENT1	-	-
-7	parece	parecer	VMIP3S0	-	-	622-628	571_ANS_clinical_caseMIR	SENT1	-	-
-8	correcta	correcto	AQ0FS0	C0205170	calificador	629-637	571_ANS_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	637-638	571_ANS_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	638-639	571_ANS_clinical_caseMIR	SENT1	-	-
-11	Liquen	liquen	NCMS000	C0023646_1	trastorno_1	0-6	571_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	plano	plano	NCMS000	C0023646_2	trastorno_2	7-12	571_ANS_clinical_caseMIR	SENT1	-	-
-13	.	.	Fp	-	-	12-13	571_ANS_clinical_caseMIR	SENT1	-	-
+1	Liquen	liquen	NCMS000	C0023646_1	trastorno_1	0-6	571_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	plano	plano	NCMS000	C0023646_2	trastorno_2	7-12	571_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	12-13	571_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Xantoma	xantoma	NCMS000	C0302164#C0020479_1	trastorno_1	0-7	571_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	tuberoso	tuberoso	NC00SC0	C0302164#C0020479_2	trastorno_2	8-16	571_ANS_clinical_caseMIR	SENT2	B-Calificador	-

@@ -46,22 +46,21 @@
 18	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	184-193	547_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 19	.	.	Fp	-	-	193-194	547_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	¿	¿	Fia	-	-	195-196	547_QUEST_clinical_caseMIR	SENT3	-	-
-2	Cuál	cuál	PT0CS000	-	-	196-200	547_QUEST_clinical_caseMIR	SENT3	-	-
-3	de	de	SPS00	C0332285	atributo	201-203	547_QUEST_clinical_caseMIR	SENT3	-	-
-4	los	el	DA0MP0	-	-	204-207	547_QUEST_clinical_caseMIR	SENT3	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	208-218	547_QUEST_clinical_caseMIR	SENT3	-	-
-6	grupos	grupo	NCMP000	C0441833#C1257890	atributo#contexto_social	219-225	547_QUEST_clinical_caseMIR	SENT3	-	-
-7	farmacológicos	farmacológico	AQ0MP0	C0205464	calificador	226-240	547_QUEST_clinical_caseMIR	SENT3	-	-
-8	es	ser	VSIP3S0	-	-	241-243	547_QUEST_clinical_caseMIR	SENT3	-	-
-9	el	el	DA0MS0	C0205393_1	calificador_1	244-246	547_QUEST_clinical_caseMIR	SENT3	-	-
-10	más	más	RG	C0205393_2	calificador_2	247-250	547_QUEST_clinical_caseMIR	SENT3	-	-
-11	indicado	indicar	VMP00SM	-	-	251-259	547_QUEST_clinical_caseMIR	SENT3	-	-
-12	como	como	CS	C0332257	calificador	260-264	547_QUEST_clinical_caseMIR	SENT3	-	-
-13	primera	1	AO0FS0	-	-	265-272	547_QUEST_clinical_caseMIR	SENT3	-	-
-14	elección	elección	NCFS000	-	-	273-281	547_QUEST_clinical_caseMIR	SENT3	-	-
-15	como	como	CS	C0332257	calificador	282-286	547_QUEST_clinical_caseMIR	SENT3	-	-
-16	tratamiento	tratamiento	NCMS000	C1319428_1	procedimiento_1	287-298	547_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
-17	hipotensor	hipotensor		C1319428_2	procedimiento_2	299-309	547_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
-18	?	?	Fit	-	-	309-310	547_QUEST_clinical_caseMIR	SENT3	-	-
+1	Cuál	cuál	PT0CS000	-	-	195-199	547_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	200-202	547_QUEST_clinical_caseMIR	SENT3	-	-
+3	los	el	DA0MP0	-	-	203-206	547_QUEST_clinical_caseMIR	SENT3	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	207-217	547_QUEST_clinical_caseMIR	SENT3	-	-
+5	grupos	grupo	NCMP000	C0441833#C1257890	atributo#contexto_social	218-224	547_QUEST_clinical_caseMIR	SENT3	-	-
+6	farmacológicos	farmacológico	AQ0MP0	C0205464	calificador	225-239	547_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	240-242	547_QUEST_clinical_caseMIR	SENT3	-	-
+8	el	el	DA0MS0	C0205393_1	calificador_1	243-245	547_QUEST_clinical_caseMIR	SENT3	-	-
+9	más	más	RG	C0205393_2	calificador_2	246-249	547_QUEST_clinical_caseMIR	SENT3	-	-
+10	indicado	indicar	VMP00SM	-	-	250-258	547_QUEST_clinical_caseMIR	SENT3	-	-
+11	como	como	CS	C0332257	calificador	259-263	547_QUEST_clinical_caseMIR	SENT3	-	-
+12	primera	1	AO0FS0	-	-	264-271	547_QUEST_clinical_caseMIR	SENT3	-	-
+13	elección	elección	NCFS000	-	-	272-280	547_QUEST_clinical_caseMIR	SENT3	-	-
+14	como	como	CS	C0332257	calificador	281-285	547_QUEST_clinical_caseMIR	SENT3	-	-
+15	tratamiento	tratamiento	NCMS000	C1319428_1	procedimiento_1	286-297	547_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+16	hipotensor	hipotensor		C1319428_2	procedimiento_2	298-308	547_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+17	.	.	Fp	-	-	308-309	547_QUEST_clinical_caseMIR	SENT3	-	-
 

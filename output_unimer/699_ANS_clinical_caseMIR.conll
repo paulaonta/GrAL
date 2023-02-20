@@ -1,29 +1,20 @@
-1	¿	¿	Fia	-	-	439-440	699_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	440-444	699_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	445-447	699_ANS_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	448-451	699_ANS_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	452-462	699_ANS_clinical_caseMIR	SENT1	-	-
-6	es	ser	VSIP3S0	-	-	463-465	699_ANS_clinical_caseMIR	SENT1	-	-
-7	FALSA	falso	AQ0FS0	C0205237	calificador	466-471	699_ANS_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	471-472	699_ANS_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	472-473	699_ANS_clinical_caseMIR	SENT1	-	-
-10	El	el	DA0MS0	-	-	0-2	699_ANS_clinical_caseMIR	SENT1	-	-
-11	vasoespasmo	vasoespasmo	NC00SC0	C0085616	hallazgo	3-14	699_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	ocurre	ocurrir	VMIP3S0	-	-	15-21	699_ANS_clinical_caseMIR	SENT1	-	-
-13	con	con	SPS00	C0332287	atributo	22-25	699_ANS_clinical_caseMIR	SENT1	-	-
-14	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	26-31	699_ANS_clinical_caseMIR	SENT1	-	-
-15	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	32-42	699_ANS_clinical_caseMIR	SENT1	-	-
-16	entre	entre	SPS00	C0205103	calificador	43-48	699_ANS_clinical_caseMIR	SENT1	-	-
-17	los	el	DA0MP0	-	-	49-52	699_ANS_clinical_caseMIR	SENT1	-	-
-18	días	día	NCMP000	C0439228#C0332169	calificador	53-57	699_ANS_clinical_caseMIR	SENT1	-	-
-19	4	4		-	-	58-59	699_ANS_clinical_caseMIR	SENT1	-	-
-20	y	y	CC	C1706368	calificador	60-61	699_ANS_clinical_caseMIR	SENT1	-	-
-21	14	14		-	-	62-64	699_ANS_clinical_caseMIR	SENT1	-	-
-22	tras	tras	SPS00	-	-	65-69	699_ANS_clinical_caseMIR	SENT1	-	-
-23	la	el	DA0FS0	-	-	70-72	699_ANS_clinical_caseMIR	SENT1	-	-
-24	hemorragia	hemorragia	NCFS000	C0038525_1	trastorno_1	73-83	699_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	subaracnoidea	subaracnoideo	AQ0FS0	C0038525_2	trastorno_2	84-97	699_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-26	.	.	Fp	-	-	97-98	699_ANS_clinical_caseMIR	SENT1	-	-
+1	El	el	DA0MS0	-	-	0-2	699_ANS_clinical_caseMIR	SENT1	-	-
+2	vasoespasmo	vasoespasmo	NC00SC0	C0085616	hallazgo	3-14	699_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+3	ocurre	ocurrir	VMIP3S0	-	-	15-21	699_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	22-25	699_ANS_clinical_caseMIR	SENT1	-	-
+5	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	26-31	699_ANS_clinical_caseMIR	SENT1	-	-
+6	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	32-42	699_ANS_clinical_caseMIR	SENT1	-	-
+7	entre	entre	SPS00	C0205103	calificador	43-48	699_ANS_clinical_caseMIR	SENT1	-	-
+8	los	el	DA0MP0	-	-	49-52	699_ANS_clinical_caseMIR	SENT1	-	-
+9	días	día	NCMP000	C0439228#C0332169	calificador	53-57	699_ANS_clinical_caseMIR	SENT1	-	-
+10	4	4		-	-	58-59	699_ANS_clinical_caseMIR	SENT1	-	-
+11	y	y	CC	C1706368	calificador	60-61	699_ANS_clinical_caseMIR	SENT1	-	-
+12	14	14		-	-	62-64	699_ANS_clinical_caseMIR	SENT1	-	-
+13	tras	tras	SPS00	-	-	65-69	699_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	70-72	699_ANS_clinical_caseMIR	SENT1	-	-
+15	hemorragia	hemorragia	NCFS000	C0038525_1	trastorno_1	73-83	699_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	subaracnoidea	subaracnoideo	AQ0FS0	C0038525_2	trastorno_2	84-97	699_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	97-98	699_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Cuanto	cuanto	RG	-	-	0-6	699_ANS_clinical_caseMIR	SENT2	-	-
 2	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	7-12	699_ANS_clinical_caseMIR	SENT2	-	-

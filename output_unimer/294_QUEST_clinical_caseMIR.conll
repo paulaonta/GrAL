@@ -30,3 +30,14 @@
 30	náuseas	náusea	NCFP000	-	-	149-156	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
 31	.	.	Fp	-	-	156-157	294_QUEST_clinical_caseMIR	SENT1	-	-
 
+1	Como	como	CS	C0332257	calificador	158-162	294_QUEST_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C0199176#C0199175_1	procedimiento_1	163-174	294_QUEST_clinical_caseMIR	SENT2	-	-
+3	preventivo	preventivo	AQ0MS0	C0199176#C0199175_2	procedimiento_2	175-185	294_QUEST_clinical_caseMIR	SENT2	-	-
+4	NO	no	RN	C1298908	calificador	186-188	294_QUEST_clinical_caseMIR	SENT2	-	-
+5	consideraría	considerar	VMIC3S0	-	-	189-201	294_QUEST_clinical_caseMIR	SENT2	-	-
+6	uno	uno		C0205447_1	calificador_1	202-205	294_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	206-208	294_QUEST_clinical_caseMIR	SENT2	-	-
+8	estos	este	DD0MP0	-	-	209-214	294_QUEST_clinical_caseMIR	SENT2	-	-
+9	fármacos	fármaco	NCMP000	C0013227	sustancia	215-223	294_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	223-224	294_QUEST_clinical_caseMIR	SENT2	-	-
+

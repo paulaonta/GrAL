@@ -1,30 +1,7 @@
-1	Ante	ante	SPS00	-	-	610-614	680_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	615-617	680_ANS_clinical_caseMIR	SENT1	-	-
-3	posibilidad	posibilidad	NCFS000	-	-	618-629	680_ANS_clinical_caseMIR	SENT1	-	-
-4	de	de	SPS00	C0332285	atributo	630-632	680_ANS_clinical_caseMIR	SENT1	-	-
-5	añadir	añadir	VMN0000	-	-	633-639	680_ANS_clinical_caseMIR	SENT1	-	-
-6	un	un		C0205447_1	calificador_1	640-642	680_ANS_clinical_caseMIR	SENT1	-	-
-7	fármaco	fármaco	NCMS000	C0013227	sustancia	643-650	680_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-8	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	651-657	680_ANS_clinical_caseMIR	SENT1	-	-
-9	a	a	SPS00	-	-	658-659	680_ANS_clinical_caseMIR	SENT1	-	-
-10	la	el	DA0FS0	-	-	660-662	680_ANS_clinical_caseMIR	SENT1	-	-
-11	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	663-671	680_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	,	,	Fc	-	-	671-672	680_ANS_clinical_caseMIR	SENT1	-	-
-13	¿	¿	Fia	-	-	673-674	680_ANS_clinical_caseMIR	SENT1	-	-
-14	cuál	cuál	PT0CS000	-	-	674-678	680_ANS_clinical_caseMIR	SENT1	-	-
-15	utilizaría	utilizar	VMIC3S0	-	-	679-689	680_ANS_clinical_caseMIR	SENT1	-	-
-16	para	para	SPS00	C0521125	calificador	690-694	680_ANS_clinical_caseMIR	SENT1	-	-
-17	disminuir	disminuir	VMN0000	-	-	695-704	680_ANS_clinical_caseMIR	SENT1	-	-
-18	la	el	DA0FS0	-	-	705-707	680_ANS_clinical_caseMIR	SENT1	-	-
-19	absorción	absorción	NCFS000	-	-	708-717	680_ANS_clinical_caseMIR	SENT1	-	-
-20	de	de	SPS00	C0332285	atributo	718-720	680_ANS_clinical_caseMIR	SENT1	-	-
-21	grasas	grasa	NCFP000	C0225324#C0015677	estructura_corporal#sustancia	721-727	680_ANS_clinical_caseMIR	SENT1	-	-
-22	?	?	Fit	-	-	727-728	680_ANS_clinical_caseMIR	SENT1	-	-
-23	:	:	Fd	-	-	728-729	680_ANS_clinical_caseMIR	SENT1	-	-
-24	Púrpura	púrpura	NCMS000	C0439542#C0034150	calificador#hallazgo#anomalía_morfológica	0-7	680_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	trombótica	trombótica	AQ0FS00	-	-	8-18	680_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-26	trombocitopénica	trombocitopénica	AQ0FS00	-	-	19-35	680_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-27	.	.	Fp	-	-	35-36	680_ANS_clinical_caseMIR	SENT1	-	-
+1	Púrpura	púrpura	NCMS000	C0439542#C0034150	calificador#hallazgo#anomalía_morfológica	0-7	680_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	trombótica	trombótica	AQ0FS00	-	-	8-18	680_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	trombocitopénica	trombocitopénica	AQ0FS00	-	-	19-35	680_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	.	.	Fp	-	-	35-36	680_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Coagulación	coagulación	NCFS000	C0012739_1	trastorno_1	0-11	680_ANS_clinical_caseMIR	SENT2	-	-
 2	intravascular	intravascular	NC00SC0	C0012739_2	trastorno_2	12-25	680_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

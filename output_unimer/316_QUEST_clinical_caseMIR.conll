@@ -69,12 +69,11 @@
 16	dL	decilitro	NCMN000	C0439241	calificador	349-351	316_QUEST_clinical_caseMIR	SENT3	-	-
 17	.	.	Fp	-	-	351-352	316_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	¿	¿	Fia	-	-	353-354	316_QUEST_clinical_caseMIR	SENT4	-	-
-2	Cuál	cuál	PT0CS000	-	-	354-358	316_QUEST_clinical_caseMIR	SENT4	-	-
-3	es	ser	VSIP3S0	-	-	359-361	316_QUEST_clinical_caseMIR	SENT4	-	-
-4	el	el	DA0MS0	-	-	362-364	316_QUEST_clinical_caseMIR	SENT4	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	365-376	316_QUEST_clinical_caseMIR	SENT4	-	-
-6	más	más	RG	C0205172	calificador	377-380	316_QUEST_clinical_caseMIR	SENT4	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	381-389	316_QUEST_clinical_caseMIR	SENT4	-	-
-8	?	?	Fit	-	-	389-390	316_QUEST_clinical_caseMIR	SENT4	-	-
+1	Cuál	cuál	PT0CS000	-	-	353-357	316_QUEST_clinical_caseMIR	SENT4	-	-
+2	es	ser	VSIP3S0	-	-	358-360	316_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	361-363	316_QUEST_clinical_caseMIR	SENT4	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	364-375	316_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	376-379	316_QUEST_clinical_caseMIR	SENT4	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	380-388	316_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	388-389	316_QUEST_clinical_caseMIR	SENT4	-	-
 

@@ -1,29 +1,24 @@
-1	Señale	señalar	VMM03S0	-	-	449-455	598_QUEST_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	456-458	598_QUEST_clinical_caseMIR	SENT1	-	-
-3	afirmación	afirmación	NCFS000	-	-	459-469	598_QUEST_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	470-478	598_QUEST_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	478-479	598_QUEST_clinical_caseMIR	SENT1	-	-
-6	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	598_QUEST_clinical_caseMIR	SENT1	-	-
-7	de	de	SPS00	C0332285	atributo	7-9	598_QUEST_clinical_caseMIR	SENT1	-	-
-8	45	45		-	-	10-12	598_QUEST_clinical_caseMIR	SENT1	-	-
-9	años	año	NCMP000	C0439234	calificador	13-17	598_QUEST_clinical_caseMIR	SENT1	-	-
-10	con	con	SPS00	C0332287	atributo	18-21	598_QUEST_clinical_caseMIR	SENT1	-	-
-11	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	22-35	598_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	renal	renal	AQ0CS0	C0403447_2	trastorno_2	36-41	598_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	42-49	598_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-14	secundaria	secundario	AQ0FS0	C0175668	calificador	50-60	598_QUEST_clinical_caseMIR	SENT1	-	-
-15	a	a	SPS00	-	-	61-62	598_QUEST_clinical_caseMIR	SENT1	-	-
-16	nefropatía	nefropatía	NCFS000	C0011881_1	trastorno_1	63-73	598_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-17	diabética	diabético	NCFS000	C0011881_2	trastorno_2	74-83	598_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-18	que	que	PR0CN000	-	-	84-87	598_QUEST_clinical_caseMIR	SENT1	-	-
-19	recibe	recibir	VMIP3S0	-	-	88-94	598_QUEST_clinical_caseMIR	SENT1	-	-
-20	un	un		C0205447_1	calificador_1	95-97	598_QUEST_clinical_caseMIR	SENT1	-	-
-21	trasplante	trasplante	NCMS000	C0022671_1	procedimiento_1	98-108	598_QUEST_clinical_caseMIR	SENT1	-	-
-22	renal	renal	AQ0CS0	C0022671_2	procedimiento_2	109-114	598_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-23	de	de	SPS00	C0332285	atributo	115-117	598_QUEST_clinical_caseMIR	SENT1	-	-
-24	donante	donante	NCCS000	C0013018	calificador	118-125	598_QUEST_clinical_caseMIR	SENT1	-	-
-25	fallecido	fallecer	VMP00SM	-	-	126-135	598_QUEST_clinical_caseMIR	SENT1	-	-
-26	.	.	Fp	-	-	135-136	598_QUEST_clinical_caseMIR	SENT1	-	-
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	598_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	598_QUEST_clinical_caseMIR	SENT1	-	-
+3	45	45		-	-	10-12	598_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	598_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	598_QUEST_clinical_caseMIR	SENT1	-	-
+6	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	22-35	598_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	renal	renal	AQ0CS0	C0403447_2	trastorno_2	36-41	598_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	42-49	598_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	secundaria	secundario	AQ0FS0	C0175668	calificador	50-60	598_QUEST_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	61-62	598_QUEST_clinical_caseMIR	SENT1	-	-
+11	nefropatía	nefropatía	NCFS000	C0011881_1	trastorno_1	63-73	598_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	diabética	diabético	NCFS000	C0011881_2	trastorno_2	74-83	598_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	que	que	PR0CN000	-	-	84-87	598_QUEST_clinical_caseMIR	SENT1	-	-
+14	recibe	recibir	VMIP3S0	-	-	88-94	598_QUEST_clinical_caseMIR	SENT1	-	-
+15	un	un		C0205447_1	calificador_1	95-97	598_QUEST_clinical_caseMIR	SENT1	-	-
+16	trasplante	trasplante	NCMS000	C0022671_1	procedimiento_1	98-108	598_QUEST_clinical_caseMIR	SENT1	-	-
+17	renal	renal	AQ0CS0	C0022671_2	procedimiento_2	109-114	598_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	de	de	SPS00	C0332285	atributo	115-117	598_QUEST_clinical_caseMIR	SENT1	-	-
+19	donante	donante	NCCS000	C0013018	calificador	118-125	598_QUEST_clinical_caseMIR	SENT1	-	-
+20	fallecido	fallecer	VMP00SM	-	-	126-135	598_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	135-136	598_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Se	se	P00CN000	-	-	137-139	598_QUEST_clinical_caseMIR	SENT2	-	-
 2	establece	establecer	VMIP3S0	-	-	140-149	598_QUEST_clinical_caseMIR	SENT2	-	-
@@ -87,15 +82,14 @@
 20	dL	decilitro	NCMN000	C0439241	calificador	489-491	598_QUEST_clinical_caseMIR	SENT4	-	-
 21	.	.	Fp	-	-	491-492	598_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	¿	¿	Fia	-	-	493-494	598_QUEST_clinical_caseMIR	SENT5	-	-
-2	Cuál	cuál	PT0CS000	-	-	494-498	598_QUEST_clinical_caseMIR	SENT5	-	-
-3	de	de	SPS00	C0332285	atributo	499-501	598_QUEST_clinical_caseMIR	SENT5	-	-
-4	los	el	DA0MP0	-	-	502-505	598_QUEST_clinical_caseMIR	SENT5	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	506-516	598_QUEST_clinical_caseMIR	SENT5	-	-
-6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	517-529	598_QUEST_clinical_caseMIR	SENT5	-	-
-7	seria	serio	AQ0FS0	C0205404	calificador	530-535	598_QUEST_clinical_caseMIR	SENT5	-	-
-8	el	el	DA0MS0	-	-	536-538	598_QUEST_clinical_caseMIR	SENT5	-	-
-9	MENOS	menos	RG	C0332288	atributo	539-544	598_QUEST_clinical_caseMIR	SENT5	-	-
-10	probable	probable	AQ0CS0	C0332148	calificador	545-553	598_QUEST_clinical_caseMIR	SENT5	-	-
-11	?	?	Fit	-	-	553-554	598_QUEST_clinical_caseMIR	SENT5	-	-
+1	Cuál	cuál	PT0CS000	-	-	493-497	598_QUEST_clinical_caseMIR	SENT5	-	-
+2	de	de	SPS00	C0332285	atributo	498-500	598_QUEST_clinical_caseMIR	SENT5	-	-
+3	los	el	DA0MP0	-	-	501-504	598_QUEST_clinical_caseMIR	SENT5	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	505-515	598_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	516-528	598_QUEST_clinical_caseMIR	SENT5	-	-
+6	seria	serio	AQ0FS0	C0205404	calificador	529-534	598_QUEST_clinical_caseMIR	SENT5	-	-
+7	el	el	DA0MS0	-	-	535-537	598_QUEST_clinical_caseMIR	SENT5	-	-
+8	MENOS	menos	RG	C0332288	atributo	538-543	598_QUEST_clinical_caseMIR	SENT5	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	544-552	598_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	552-553	598_QUEST_clinical_caseMIR	SENT5	-	-
 

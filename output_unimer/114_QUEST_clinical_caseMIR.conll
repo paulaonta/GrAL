@@ -1,25 +1,20 @@
-1	Señale	señalar	VMM03S0	-	-	328-334	114_QUEST_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	335-337	114_QUEST_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	338-347	114_QUEST_clinical_caseMIR	SENT1	-	-
-4	FALSA	falso	AQ0FS0	C0205237	calificador	348-353	114_QUEST_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	353-354	114_QUEST_clinical_caseMIR	SENT1	-	-
-6	Remiten	remitir	VMIP3P0	C0439600	calificador	0-7	114_QUEST_clinical_caseMIR	SENT1	-	-
-7	a	a	SPS00	-	-	8-9	114_QUEST_clinical_caseMIR	SENT1	-	-
-8	su	su	DP3CS0	-	-	10-12	114_QUEST_clinical_caseMIR	SENT1	-	-
-9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	13-21	114_QUEST_clinical_caseMIR	SENT1	-	-
-10	a	a	SPS00	-	-	22-23	114_QUEST_clinical_caseMIR	SENT1	-	-
-11	un	un		C0205447_1	calificador_1	24-26	114_QUEST_clinical_caseMIR	SENT1	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	27-35	114_QUEST_clinical_caseMIR	SENT1	-	-
-13	con	con	SPS00	C0332287	atributo	36-39	114_QUEST_clinical_caseMIR	SENT1	-	-
-14	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	40-48	114_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-15	(	(	Fpa	-	-	49-50	114_QUEST_clinical_caseMIR	SENT1	-	-
-16	índice	índice	NCMS000	C1305855_1	entidad_observable_1	50-56	114_QUEST_clinical_caseMIR	SENT1	-	-
-17	de	de	SPS00	C1305855_2	entidad_observable_2	57-59	114_QUEST_clinical_caseMIR	SENT1	-	-
-18	masa	masa	NCFS000	C1305855_3	entidad_observable_3	60-64	114_QUEST_clinical_caseMIR	SENT1	-	-
-19	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	65-73	114_QUEST_clinical_caseMIR	SENT1	-	-
-20	38	38		-	-	74-76	114_QUEST_clinical_caseMIR	SENT1	-	-
-21	)	)	Fpt	-	-	76-77	114_QUEST_clinical_caseMIR	SENT1	-	-
-22	.	.	Fp	-	-	77-78	114_QUEST_clinical_caseMIR	SENT1	-	-
+1	Remiten	remitir	VMIP3P0	C0439600	calificador	0-7	114_QUEST_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	8-9	114_QUEST_clinical_caseMIR	SENT1	-	-
+3	su	su	DP3CS0	-	-	10-12	114_QUEST_clinical_caseMIR	SENT1	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	13-21	114_QUEST_clinical_caseMIR	SENT1	-	-
+5	a	a	SPS00	-	-	22-23	114_QUEST_clinical_caseMIR	SENT1	-	-
+6	un	un		C0205447_1	calificador_1	24-26	114_QUEST_clinical_caseMIR	SENT1	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	27-35	114_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	36-39	114_QUEST_clinical_caseMIR	SENT1	-	-
+9	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	40-48	114_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	(	(	Fpa	-	-	49-50	114_QUEST_clinical_caseMIR	SENT1	-	-
+11	índice	índice	NCMS000	C1305855_1	entidad_observable_1	50-56	114_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C1305855_2	entidad_observable_2	57-59	114_QUEST_clinical_caseMIR	SENT1	-	-
+13	masa	masa	NCFS000	C1305855_3	entidad_observable_3	60-64	114_QUEST_clinical_caseMIR	SENT1	-	-
+14	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	65-73	114_QUEST_clinical_caseMIR	SENT1	-	-
+15	38	38		-	-	74-76	114_QUEST_clinical_caseMIR	SENT1	-	-
+16	)	)	Fpt	-	-	76-77	114_QUEST_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	77-78	114_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	79-81	114_QUEST_clinical_caseMIR	SENT2	-	-
 2	la	el	DA0FS0	-	-	82-84	114_QUEST_clinical_caseMIR	SENT2	-	-
@@ -122,4 +117,27 @@
 12	kg	kg	NCMN000	-	-	602-604	114_QUEST_clinical_caseMIR	SENT4	-	-
 13	más	más	RG	C0205172	calificador	605-608	114_QUEST_clinical_caseMIR	SENT4	-	-
 14	.	.	Fp	-	-	608-609	114_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Ante	ante	SPS00	-	-	610-614	114_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	615-617	114_QUEST_clinical_caseMIR	SENT5	-	-
+3	posibilidad	posibilidad	NCFS000	-	-	618-629	114_QUEST_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	630-632	114_QUEST_clinical_caseMIR	SENT5	-	-
+5	añadir	añadir	VMN0000	-	-	633-639	114_QUEST_clinical_caseMIR	SENT5	-	-
+6	un	un		C0205447_1	calificador_1	640-642	114_QUEST_clinical_caseMIR	SENT5	-	-
+7	fármaco	fármaco	NCMS000	C0013227	sustancia	643-650	114_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+8	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	651-657	114_QUEST_clinical_caseMIR	SENT5	-	-
+9	a	a	SPS00	-	-	658-659	114_QUEST_clinical_caseMIR	SENT5	-	-
+10	la	el	DA0FS0	-	-	660-662	114_QUEST_clinical_caseMIR	SENT5	-	-
+11	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	663-671	114_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	671-672	114_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	673-674	114_QUEST_clinical_caseMIR	SENT5	-	-
+14	cuál	cuál	PT0CS000	-	-	675-679	114_QUEST_clinical_caseMIR	SENT5	-	-
+15	utilizaría	utilizar	VMIC3S0	-	-	680-690	114_QUEST_clinical_caseMIR	SENT5	-	-
+16	para	para	SPS00	C0521125	calificador	691-695	114_QUEST_clinical_caseMIR	SENT5	-	-
+17	disminuir	disminuir	VMN0000	-	-	696-705	114_QUEST_clinical_caseMIR	SENT5	-	-
+18	la	el	DA0FS0	-	-	706-708	114_QUEST_clinical_caseMIR	SENT5	-	-
+19	absorción	absorción	NCFS000	-	-	709-718	114_QUEST_clinical_caseMIR	SENT5	-	-
+20	de	de	SPS00	C0332285	atributo	719-721	114_QUEST_clinical_caseMIR	SENT5	-	-
+21	grasas	grasa	NCFP000	C0225324#C0015677	estructura_corporal#sustancia	722-728	114_QUEST_clinical_caseMIR	SENT5	-	-
+22	.	.	Fp	-	-	728-729	114_QUEST_clinical_caseMIR	SENT5	-	-
 

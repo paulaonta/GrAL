@@ -1,24 +1,16 @@
-1	Indique	indicar	VMM03S0	-	-	312-319	475_QUEST_clinical_caseMIR	SENT1	-	-
-2	el	el	DA0MS0	-	-	320-322	475_QUEST_clinical_caseMIR	SENT1	-	-
-3	tipo	tipo	NCMS000	C0332307	calificador#atributo	323-327	475_QUEST_clinical_caseMIR	SENT1	-	-
-4	de	de	SPS00	C0332285	atributo	328-330	475_QUEST_clinical_caseMIR	SENT1	-	-
-5	estudio	estudio	NCMS000	C0557651	medio_ambiente	331-338	475_QUEST_clinical_caseMIR	SENT1	-	-
-6	farmacoeconómico	farmacoeconómico	AQ0MS00	-	-	339-355	475_QUEST_clinical_caseMIR	SENT1	-	-
-7	realizado	realizado	NC00SC0	C1272695	calificador	356-365	475_QUEST_clinical_caseMIR	SENT1	-	-
-8	:	:	Fd	-	-	365-366	475_QUEST_clinical_caseMIR	SENT1	-	-
-9	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	475_QUEST_clinical_caseMIR	SENT1	-	-
-10	de	de	SPS00	C0332285	atributo	6-8	475_QUEST_clinical_caseMIR	SENT1	-	-
-11	34	34		-	-	9-11	475_QUEST_clinical_caseMIR	SENT1	-	-
-12	años	año	NCMP000	C0439234	calificador	12-16	475_QUEST_clinical_caseMIR	SENT1	-	-
-13	que	que	PR0CN000	-	-	17-20	475_QUEST_clinical_caseMIR	SENT1	-	-
-14	ingresa	ingresar	VMIP3S0	-	-	21-28	475_QUEST_clinical_caseMIR	SENT1	-	-
-15	para	para	SPS00	C0521125	calificador	29-33	475_QUEST_clinical_caseMIR	SENT1	-	-
-16	estudio	estudio	NCMS000	C0557651	medio_ambiente	34-41	475_QUEST_clinical_caseMIR	SENT1	-	-
-17	de	de	SPS00	C0332285	atributo	42-44	475_QUEST_clinical_caseMIR	SENT1	-	-
-18	poliuria	poliuria	NCFS000	C0032617	hallazgo#trastorno	45-53	475_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-19	y	y	CC	C1706368	calificador	54-55	475_QUEST_clinical_caseMIR	SENT1	-	-
-20	polidipsia	polidipsia	NCFS000	C1994994#C0085602	hallazgo	56-66	475_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-21	.	.	Fp	-	-	66-67	475_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	475_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	475_QUEST_clinical_caseMIR	SENT1	-	-
+3	34	34		-	-	9-11	475_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	475_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	475_QUEST_clinical_caseMIR	SENT1	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	21-28	475_QUEST_clinical_caseMIR	SENT1	-	-
+7	para	para	SPS00	C0521125	calificador	29-33	475_QUEST_clinical_caseMIR	SENT1	-	-
+8	estudio	estudio	NCMS000	C0557651	medio_ambiente	34-41	475_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	42-44	475_QUEST_clinical_caseMIR	SENT1	-	-
+10	poliuria	poliuria	NCFS000	C0032617	hallazgo#trastorno	45-53	475_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	54-55	475_QUEST_clinical_caseMIR	SENT1	-	-
+12	polidipsia	polidipsia	NCFS000	C1994994#C0085602	hallazgo	56-66	475_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	.	.	Fp	-	-	66-67	475_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	68-70	475_QUEST_clinical_caseMIR	SENT2	-	-
 2	las	el	DA0FP0	-	-	71-74	475_QUEST_clinical_caseMIR	SENT2	-	-
@@ -73,14 +65,13 @@
 51	kg	kilogramo	NCMN000	C0439209	calificador	306-308	475_QUEST_clinical_caseMIR	SENT2	-	-
 52	.	.	Fp	-	-	308-309	475_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	¿	¿	Fia	-	-	310-311	475_QUEST_clinical_caseMIR	SENT3	-	-
-2	Qué	qué	DT0CN0	-	-	311-314	475_QUEST_clinical_caseMIR	SENT3	-	-
-3	prueba	prueba	NCFS000	-	-	315-321	475_QUEST_clinical_caseMIR	SENT3	-	-
-4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	322-333	475_QUEST_clinical_caseMIR	SENT3	-	-
-5	debe	deber	VMIP3S0	-	-	334-338	475_QUEST_clinical_caseMIR	SENT3	-	-
-6	realizar	realizar	VMN0000	-	-	339-347	475_QUEST_clinical_caseMIR	SENT3	-	-
-7	se	se	PP3CN000	-	-	347-349	475_QUEST_clinical_caseMIR	SENT3	-	-
-8	a	a	SPS00	-	-	350-351	475_QUEST_clinical_caseMIR	SENT3	-	-
-9	continuación	continuación	NCFS000	-	-	352-364	475_QUEST_clinical_caseMIR	SENT3	-	-
-10	?	?	Fit	-	-	364-365	475_QUEST_clinical_caseMIR	SENT3	-	-
+1	Qué	qué	DE0CN0	-	-	310-313	475_QUEST_clinical_caseMIR	SENT3	-	-
+2	prueba	prueba	NCFS000	-	-	314-320	475_QUEST_clinical_caseMIR	SENT3	-	-
+3	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	321-332	475_QUEST_clinical_caseMIR	SENT3	-	-
+4	debe	deber	VMIP3S0	-	-	333-337	475_QUEST_clinical_caseMIR	SENT3	-	-
+5	realizar	realizar	VMN0000	-	-	338-346	475_QUEST_clinical_caseMIR	SENT3	-	-
+6	se	se	PP3CN000	-	-	346-348	475_QUEST_clinical_caseMIR	SENT3	-	-
+7	a	a	SPS00	-	-	349-350	475_QUEST_clinical_caseMIR	SENT3	-	-
+8	continuación	continuación	NCFS000	-	-	351-363	475_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	363-364	475_QUEST_clinical_caseMIR	SENT3	-	-
 

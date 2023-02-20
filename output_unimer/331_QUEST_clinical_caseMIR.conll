@@ -1,28 +1,18 @@
-1	¿	¿	Fia	-	-	652-653	331_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	653-657	331_QUEST_clinical_caseMIR	SENT1	-	-
-3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	658-660	331_QUEST_clinical_caseMIR	SENT1	-	-
-4	parece	parecer	VMIP3S0	-	-	661-667	331_QUEST_clinical_caseMIR	SENT1	-	-
-5	la	el	DA0FS0	-	-	668-670	331_QUEST_clinical_caseMIR	SENT1	-	-
-6	respuesta	respuesta	NCFS000	-	-	671-680	331_QUEST_clinical_caseMIR	SENT1	-	-
-7	más	más	RG	C0205172	calificador	681-684	331_QUEST_clinical_caseMIR	SENT1	-	-
-8	idónea	idóneo	AQ0FS0	-	-	685-691	331_QUEST_clinical_caseMIR	SENT1	-	-
-9	?	?	Fit	-	-	691-692	331_QUEST_clinical_caseMIR	SENT1	-	-
-10	:	:	Fd	-	-	692-693	331_QUEST_clinical_caseMIR	SENT1	-	-
-11	JMC	jmc	NC00000	-	-	0-3	331_QUEST_clinical_caseMIR	SENT1	-	-
-12	paciente	paciente	AQ0CS0	C0030705	persona	4-12	331_QUEST_clinical_caseMIR	SENT1	-	-
-13	de	de	SPS00	C0332285	atributo	13-15	331_QUEST_clinical_caseMIR	SENT1	-	-
-14	14	14		-	-	16-18	331_QUEST_clinical_caseMIR	SENT1	-	-
-15	años	año	NCMP000	C0439234	calificador	19-23	331_QUEST_clinical_caseMIR	SENT1	-	-
-16	de	de	SPS00	C0001779_1	entidad_observable_1	24-26	331_QUEST_clinical_caseMIR	SENT1	-	-
-17	edad	edad	NCFS000	C0001779_2	entidad_observable_2	27-31	331_QUEST_clinical_caseMIR	SENT1	-	-
-18	que	que	PR0CN000	-	-	32-35	331_QUEST_clinical_caseMIR	SENT1	-	-
-19	ingresa	ingresar	VMIP3S0	-	-	36-43	331_QUEST_clinical_caseMIR	SENT1	-	-
-20	en	en	SPS00	C1720294#C0332285	calificador#atributo	44-46	331_QUEST_clinical_caseMIR	SENT1	-	-
-21	el	el	DA0MS0	-	-	47-49	331_QUEST_clinical_caseMIR	SENT1	-	-
-22	servicio	servicio	NCMS000	-	-	50-58	331_QUEST_clinical_caseMIR	SENT1	-	-
-23	de	de	SPS00	C0332285	atributo	59-61	331_QUEST_clinical_caseMIR	SENT1	-	-
-24	Urgencias	urgencia	NCFP000	C0439609	calificador	62-71	331_QUEST_clinical_caseMIR	SENT1	-	-
-25	.	.	Fp	-	-	71-72	331_QUEST_clinical_caseMIR	SENT1	-	-
+1	JMC	jmc	NC00000	-	-	0-3	331_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	AQ0CS0	C0030705	persona	4-12	331_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	331_QUEST_clinical_caseMIR	SENT1	-	-
+4	14	14		-	-	16-18	331_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	331_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	24-26	331_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	27-31	331_QUEST_clinical_caseMIR	SENT1	-	-
+8	que	que	PR0CN000	-	-	32-35	331_QUEST_clinical_caseMIR	SENT1	-	-
+9	ingresa	ingresar	VMIP3S0	-	-	36-43	331_QUEST_clinical_caseMIR	SENT1	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	44-46	331_QUEST_clinical_caseMIR	SENT1	-	-
+11	el	el	DA0MS0	-	-	47-49	331_QUEST_clinical_caseMIR	SENT1	-	-
+12	servicio	servicio	NCMS000	-	-	50-58	331_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	59-61	331_QUEST_clinical_caseMIR	SENT1	-	-
+14	Urgencias	urgencia	NCFP000	C0439609	calificador	62-71	331_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	71-72	331_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	El	el	DA0MS0	-	-	73-75	331_QUEST_clinical_caseMIR	SENT2	-	-
 2	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	76-82	331_QUEST_clinical_caseMIR	SENT2	-	-
@@ -94,15 +84,14 @@
 14	religioso	religioso	AQ0MS0	C0335021	ocupación	453-462	331_QUEST_clinical_caseMIR	SENT5	-	-
 15	.	.	Fp	-	-	462-463	331_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	464-465	331_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	465-469	331_QUEST_clinical_caseMIR	SENT6	-	-
-3	de	de	SPS00	C0332285	atributo	470-472	331_QUEST_clinical_caseMIR	SENT6	-	-
-4	las	el	DA0FP0	-	-	473-476	331_QUEST_clinical_caseMIR	SENT6	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	477-487	331_QUEST_clinical_caseMIR	SENT6	-	-
-6	opciones	opción	NCFP000	-	-	488-496	331_QUEST_clinical_caseMIR	SENT6	-	-
-7	sería	ser	VSIC1S0	-	-	497-502	331_QUEST_clinical_caseMIR	SENT6	-	-
-8	la	lo	PP3FSA00	C0205393_1	calificador_1	503-505	331_QUEST_clinical_caseMIR	SENT6	-	-
-9	más	más	RG	C0205393_2	calificador_2	506-509	331_QUEST_clinical_caseMIR	SENT6	-	-
-10	correcta	correcto	AQ0FS0	C0205170	calificador	510-518	331_QUEST_clinical_caseMIR	SENT6	-	-
-11	?	?	Fit	-	-	518-519	331_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	464-468	331_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332285	atributo	469-471	331_QUEST_clinical_caseMIR	SENT6	-	-
+3	las	el	DA0FP0	-	-	472-475	331_QUEST_clinical_caseMIR	SENT6	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	476-486	331_QUEST_clinical_caseMIR	SENT6	-	-
+5	opciones	opción	NCFP000	-	-	487-495	331_QUEST_clinical_caseMIR	SENT6	-	-
+6	sería	ser	VSIC1S0	-	-	496-501	331_QUEST_clinical_caseMIR	SENT6	-	-
+7	la	lo	PP3FSA00	C0205393_1	calificador_1	502-504	331_QUEST_clinical_caseMIR	SENT6	-	-
+8	más	más	RG	C0205393_2	calificador_2	505-508	331_QUEST_clinical_caseMIR	SENT6	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	509-517	331_QUEST_clinical_caseMIR	SENT6	-	-
+10	.	.	Fp	-	-	517-518	331_QUEST_clinical_caseMIR	SENT6	-	-
 

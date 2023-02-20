@@ -81,7 +81,7 @@
 11	.	.	Fp	-	-	434-435	42_QUEST_clinical_caseMIR	SENT8	-	-
 
 1	Analítica	analítica	NCFS000	-	-	436-445	42_QUEST_clinical_caseMIR	SENT9	-	-
-2	:	:	Fd	-	-	445-446	42_QUEST_clinical_caseMIR	SENT9	-	-
+2	.	.	Fp	-	-	445-446	42_QUEST_clinical_caseMIR	SENT9	-	-
 3	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	447-458	42_QUEST_clinical_caseMIR	SENT9	-	-
 4	14,4	14.4	Z	-	-	459-463	42_QUEST_clinical_caseMIR	SENT9	-	-
 5	g	g	NCMN000	-	-	464-465	42_QUEST_clinical_caseMIR	SENT9	-	-
@@ -125,7 +125,7 @@
 1	Analítica	analítica	NCFS000	-	-	584-593	42_QUEST_clinical_caseMIR	SENT10	-	-
 2	de	de	SPS00	C0332285	atributo	594-596	42_QUEST_clinical_caseMIR	SENT10	-	-
 3	orina	orina	NCFS000	C0042036	sustancia	597-602	42_QUEST_clinical_caseMIR	SENT10	-	-
-4	:	:	Fd	-	-	602-603	42_QUEST_clinical_caseMIR	SENT10	-	-
+4	.	.	Fp	-	-	602-603	42_QUEST_clinical_caseMIR	SENT10	-	-
 5	densidad	densidad	NCFS000	C0178587	calificador	604-612	42_QUEST_clinical_caseMIR	SENT10	-	-
 6	1012	1012		-	-	613-617	42_QUEST_clinical_caseMIR	SENT10	-	-
 7	.	.	Fp	-	-	617-618	42_QUEST_clinical_caseMIR	SENT10	-	-
@@ -150,4 +150,31 @@
 2	renal	renal	AQ0CS0	-	-	696-701	42_QUEST_clinical_caseMIR	SENT11	B-Estructura_Corporal	-
 3	normal	normal	AQ0CS0	C0205307	calificador	702-708	42_QUEST_clinical_caseMIR	SENT11	-	-
 4	.	.	Fp	-	-	708-709	42_QUEST_clinical_caseMIR	SENT11	-	-
+
+1	A	a	SPS00	-	-	710-711	42_QUEST_clinical_caseMIR	SENT12	-	-
+2	cuál	cuál	PT0CS000	-	-	712-716	42_QUEST_clinical_caseMIR	SENT12	-	-
+3	de	de	SPS00	C0332285	atributo	717-719	42_QUEST_clinical_caseMIR	SENT12	-	-
+4	las	el	DA0FP0	-	-	720-723	42_QUEST_clinical_caseMIR	SENT12	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	724-734	42_QUEST_clinical_caseMIR	SENT12	-	-
+6	pruebas	prueba	NCFP000	-	-	735-742	42_QUEST_clinical_caseMIR	SENT12	-	-
+7	o	o	CC	-	-	743-744	42_QUEST_clinical_caseMIR	SENT12	-	-
+8	determinaciones	determinación	NCFP000	C0242485	procedimiento	745-760	42_QUEST_clinical_caseMIR	SENT12	-	-
+9	analíticas	analítico	AQ0FP0	-	-	761-771	42_QUEST_clinical_caseMIR	SENT12	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	772-774	42_QUEST_clinical_caseMIR	SENT12	-	-
+11	ve	ver	VMIP3S0	-	-	775-777	42_QUEST_clinical_caseMIR	SENT12	-	-
+12	más	más	RG	C0205172	calificador	778-781	42_QUEST_clinical_caseMIR	SENT12	-	-
+13	utilidad	utilidad	NCFS000	-	-	782-790	42_QUEST_clinical_caseMIR	SENT12	-	-
+14	inmediata	inmediato	AQ0FS0	C0205253	calificador	791-800	42_QUEST_clinical_caseMIR	SENT12	-	-
+15	para	para	SPS00	C0521125	calificador	801-805	42_QUEST_clinical_caseMIR	SENT12	-	-
+16	identificar	identificar	VMN0000	-	-	806-817	42_QUEST_clinical_caseMIR	SENT12	-	-
+17	la	el	DA0FS0	-	-	818-820	42_QUEST_clinical_caseMIR	SENT12	-	-
+18	causa	causa	NCFS000	-	-	821-826	42_QUEST_clinical_caseMIR	SENT12	-	-
+19	de	de	SPS00	C0332285	atributo	827-829	42_QUEST_clinical_caseMIR	SENT12	-	-
+20	la	el	DA0FS0	-	-	830-832	42_QUEST_clinical_caseMIR	SENT12	-	-
+21	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	833-846	42_QUEST_clinical_caseMIR	SENT12	B-Grp_Enfermedad	-
+22	renal	renal	AQ0CS0	-	-	847-852	42_QUEST_clinical_caseMIR	SENT12	B-Estructura_Corporal	-
+23	de	de	SPS00	C0332285	atributo	853-855	42_QUEST_clinical_caseMIR	SENT12	-	-
+24	este	este	DD0MS0	-	-	856-860	42_QUEST_clinical_caseMIR	SENT12	-	-
+25	paciente	paciente	NCCS000	C0030705	persona	861-869	42_QUEST_clinical_caseMIR	SENT12	-	-
+26	.	.	Fp	-	-	869-870	42_QUEST_clinical_caseMIR	SENT12	-	-
 

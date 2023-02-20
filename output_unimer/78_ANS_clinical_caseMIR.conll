@@ -1,11 +1,6 @@
-1	Elija	elegir	VMM03S0	-	-	165-170	78_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	171-173	78_ANS_clinical_caseMIR	SENT1	-	-
-3	opción	opción	NCFS000	-	-	174-180	78_ANS_clinical_caseMIR	SENT1	-	-
-4	correcta	correcto	AQ0FS0	C0205170	calificador	181-189	78_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	189-190	78_ANS_clinical_caseMIR	SENT1	-	-
-6	Anticonceptivos	anticonceptivo	NCMP000	-	-	0-15	78_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-7	orales	orar	VMM02S0	-	-	16-22	78_ANS_clinical_caseMIR	SENT1	-	-
-8	.	.	Fp	-	-	22-23	78_ANS_clinical_caseMIR	SENT1	-	-
+1	Anticonceptivos	anticonceptivo	NCMP000	-	-	0-15	78_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	orales	orar	VMM02S0	-	-	16-22	78_ANS_clinical_caseMIR	SENT1	-	-
+3	.	.	Fp	-	-	22-23	78_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Quistectomía	quistectomía	NCFS000	-	-	0-12	78_ANS_clinical_caseMIR	SENT2	-	-
 2	ovárica	ovárico	AQ0FS0	-	-	13-20	78_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

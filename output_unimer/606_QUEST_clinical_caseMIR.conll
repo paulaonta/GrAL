@@ -1,61 +1,34 @@
-1	Las	el	DA0FP0	-	-	497-500	606_QUEST_clinical_caseMIR	SENT1	-	-
-2	manifestaciones	manifestación	NCFP000	-	-	501-516	606_QUEST_clinical_caseMIR	SENT1	-	-
-3	clínicas	clínico	AQ0FP0	C0205210	calificador	517-525	606_QUEST_clinical_caseMIR	SENT1	-	-
-4	del	del	SP+DA	-	-	526-529	606_QUEST_clinical_caseMIR	SENT1	-	-
-5	paciente	paciente	NCCS000	C0030705	persona	530-538	606_QUEST_clinical_caseMIR	SENT1	-	-
-6	y	y	CC	C1706368	calificador	539-540	606_QUEST_clinical_caseMIR	SENT1	-	-
-7	este	este	DD0MS0	-	-	541-545	606_QUEST_clinical_caseMIR	SENT1	-	-
-8	hallazgo	hallazgo	NCMS000	C0243095	hallazgo	546-554	606_QUEST_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0332285	atributo	555-557	606_QUEST_clinical_caseMIR	SENT1	-	-
-10	la	el	DA0FS0	-	-	558-560	606_QUEST_clinical_caseMIR	SENT1	-	-
-11	biopsia	biopsia	NCFS000	C0150866_1	procedimiento_1	561-568	606_QUEST_clinical_caseMIR	SENT1	-	-
-12	cutánea	cutáneo	AQ0FS0	C0150866_2	procedimiento_2	569-576	606_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	577-579	606_QUEST_clinical_caseMIR	SENT1	-	-
-14	llevará	llevar	VMIF3S0	-	-	580-587	606_QUEST_clinical_caseMIR	SENT1	-	-
-15	a	a	SPS00	-	-	588-589	606_QUEST_clinical_caseMIR	SENT1	-	-
-16	realizar	realizar	VMN0000	-	-	590-598	606_QUEST_clinical_caseMIR	SENT1	-	-
-17	una	una		C0205447_1	calificador_1	599-602	606_QUEST_clinical_caseMIR	SENT1	-	-
-18	de	de	SPS00	C0332285	atributo	603-605	606_QUEST_clinical_caseMIR	SENT1	-	-
-19	las	el	DA0FP0	-	-	606-609	606_QUEST_clinical_caseMIR	SENT1	-	-
-20	siguientes	siguiente	AQ0CP0	C0332282	atributo	610-620	606_QUEST_clinical_caseMIR	SENT1	-	-
-21	pruebas	prueba	NCFP000	-	-	621-628	606_QUEST_clinical_caseMIR	SENT1	-	-
-22	para	para	SPS00	C0521125	calificador	629-633	606_QUEST_clinical_caseMIR	SENT1	-	-
-23	hacer	hacer	VMN0000	-	-	634-639	606_QUEST_clinical_caseMIR	SENT1	-	-
-24	el	el	DA0MS0	-	-	640-642	606_QUEST_clinical_caseMIR	SENT1	-	-
-25	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	643-654	606_QUEST_clinical_caseMIR	SENT1	-	-
-26	definitivo	definitivo	AQ0MS0	C0443196	calificador	655-665	606_QUEST_clinical_caseMIR	SENT1	-	-
-27	:	:	Fd	-	-	665-666	606_QUEST_clinical_caseMIR	SENT1	-	-
-28	Un	Un		C0205447_1	calificador_1	0-2	606_QUEST_clinical_caseMIR	SENT1	-	-
-29	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	606_QUEST_clinical_caseMIR	SENT1	-	-
-30	de	de	SPS00	C0332285	atributo	10-12	606_QUEST_clinical_caseMIR	SENT1	-	-
-31	58	58		-	-	13-15	606_QUEST_clinical_caseMIR	SENT1	-	-
-32	años	año	NCMP000	C0439234	calificador	16-20	606_QUEST_clinical_caseMIR	SENT1	-	-
-33	,	,	Fc	-	-	20-21	606_QUEST_clinical_caseMIR	SENT1	-	-
-34	a	a	SPS00	-	-	22-23	606_QUEST_clinical_caseMIR	SENT1	-	-
-35	las	el	DA0FP0	-	-	24-27	606_QUEST_clinical_caseMIR	SENT1	-	-
-36	tres	tres		-	-	28-32	606_QUEST_clinical_caseMIR	SENT1	-	-
-37	semanas	semana	NCFP000	C0439230	calificador	33-40	606_QUEST_clinical_caseMIR	SENT1	-	-
-38	de	de	SPS00	C0332285	atributo	41-43	606_QUEST_clinical_caseMIR	SENT1	-	-
-39	un	un		C0205447_1	calificador_1	44-46	606_QUEST_clinical_caseMIR	SENT1	-	-
-40	esguince	esguince	NCMS000	C0038045#C0409497	anomalía_morfológica	47-55	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-41	grave	grave	AQ0CS0	C0439808#C0205082	calificador	56-61	606_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-42	de	de	SPS00	C0332285	atributo	62-64	606_QUEST_clinical_caseMIR	SENT1	-	-
-43	tobillo	tobillo	NCMS000	C1261192#C0003086	estructura_corporal	65-72	606_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-44	presenta	presentar	VMIP3S0	-	-	73-81	606_QUEST_clinical_caseMIR	SENT1	-	-
-45	,	,	Fc	-	-	81-82	606_QUEST_clinical_caseMIR	SENT1	-	-
-46	de	de	SPS00	C0332285	atributo	83-85	606_QUEST_clinical_caseMIR	SENT1	-	-
-47	forma	forma	NCFS000	C0348078	atributo	86-91	606_QUEST_clinical_caseMIR	SENT1	-	-
-48	rápidamente	rápidamente	RG	C0439831	calificador	92-103	606_QUEST_clinical_caseMIR	SENT1	-	-
-49	progresiva	progresivo	AQ0FS0	C0205329	calificador	104-114	606_QUEST_clinical_caseMIR	SENT1	-	-
-50	,	,	Fc	-	-	114-115	606_QUEST_clinical_caseMIR	SENT1	-	-
-51	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	116-122	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-52	de	de	SPS00	C0332285	atributo	123-125	606_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-53	reposo	reposo	NCMS000	-	-	126-132	606_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-54	,	,	Fc	-	-	132-133	606_QUEST_clinical_caseMIR	SENT1	-	-
-55	mareo	mareo	NCMS000	C0012833#C0220870	hallazgo	134-139	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-56	y	y	CC	C1706368	calificador	140-141	606_QUEST_clinical_caseMIR	SENT1	-	-
-57	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	142-149	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-58	.	.	Fp	-	-	149-150	606_QUEST_clinical_caseMIR	SENT1	-	-
+1	Un	Un		C0205447_1	calificador_1	0-2	606_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	606_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	606_QUEST_clinical_caseMIR	SENT1	-	-
+4	58	58		-	-	13-15	606_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	606_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	606_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	22-23	606_QUEST_clinical_caseMIR	SENT1	-	-
+8	las	el	DA0FP0	-	-	24-27	606_QUEST_clinical_caseMIR	SENT1	-	-
+9	tres	tres		-	-	28-32	606_QUEST_clinical_caseMIR	SENT1	-	-
+10	semanas	semana	NCFP000	C0439230	calificador	33-40	606_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	41-43	606_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	44-46	606_QUEST_clinical_caseMIR	SENT1	-	-
+13	esguince	esguince	NCMS000	C0038045#C0409497	anomalía_morfológica	47-55	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	grave	grave	AQ0CS0	C0439808#C0205082	calificador	56-61	606_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	de	de	SPS00	C0332285	atributo	62-64	606_QUEST_clinical_caseMIR	SENT1	-	-
+16	tobillo	tobillo	NCMS000	C1261192#C0003086	estructura_corporal	65-72	606_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	presenta	presentar	VMIP3S0	-	-	73-81	606_QUEST_clinical_caseMIR	SENT1	-	-
+18	,	,	Fc	-	-	81-82	606_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	83-85	606_QUEST_clinical_caseMIR	SENT1	-	-
+20	forma	forma	NCFS000	C0348078	atributo	86-91	606_QUEST_clinical_caseMIR	SENT1	-	-
+21	rápidamente	rápidamente	RG	C0439831	calificador	92-103	606_QUEST_clinical_caseMIR	SENT1	-	-
+22	progresiva	progresivo	AQ0FS0	C0205329	calificador	104-114	606_QUEST_clinical_caseMIR	SENT1	-	-
+23	,	,	Fc	-	-	114-115	606_QUEST_clinical_caseMIR	SENT1	-	-
+24	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	116-122	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	de	de	SPS00	C0332285	atributo	123-125	606_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	reposo	reposo	NCMS000	-	-	126-132	606_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+27	,	,	Fc	-	-	132-133	606_QUEST_clinical_caseMIR	SENT1	-	-
+28	mareo	mareo	NCMS000	C0012833#C0220870	hallazgo	134-139	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	y	y	CC	C1706368	calificador	140-141	606_QUEST_clinical_caseMIR	SENT1	-	-
+30	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	142-149	606_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	.	.	Fp	-	-	149-150	606_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Al	al	SP+DA	-	-	151-153	606_QUEST_clinical_caseMIR	SENT2	-	-
 2	llegar	llegar	VMN0000	-	-	154-160	606_QUEST_clinical_caseMIR	SENT2	-	-
@@ -116,22 +89,21 @@
 14	principales	principal	AQ0CP0	C0205225	calificador	479-490	606_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
 15	.	.	Fp	-	-	490-491	606_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	492-493	606_QUEST_clinical_caseMIR	SENT6	-	-
-2	Cuál	cuál	PT0CS000	-	-	493-497	606_QUEST_clinical_caseMIR	SENT6	-	-
-3	de	de	SPS00	C0332285	atributo	498-500	606_QUEST_clinical_caseMIR	SENT6	-	-
-4	los	el	DA0MP0	-	-	501-504	606_QUEST_clinical_caseMIR	SENT6	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	505-515	606_QUEST_clinical_caseMIR	SENT6	-	-
-6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	516-528	606_QUEST_clinical_caseMIR	SENT6	-	-
-7	se	se	P00CN000	-	-	529-531	606_QUEST_clinical_caseMIR	SENT6	-	-
-8	asociaría	asociar	VMIC3S0	-	-	532-541	606_QUEST_clinical_caseMIR	SENT6	-	-
-9	a	a	SPS00	-	-	542-543	606_QUEST_clinical_caseMIR	SENT6	-	-
-10	una	una		C0205447_1	calificador_1	544-547	606_QUEST_clinical_caseMIR	SENT6	-	-
-11	mejoría	mejoría	NCFS000	-	-	548-555	606_QUEST_clinical_caseMIR	SENT6	-	-
-12	hemodinámica	hemodinámica	AQ0FS00	-	-	556-568	606_QUEST_clinical_caseMIR	SENT6	-	-
-13	más	más	RG	C0205172	calificador	569-572	606_QUEST_clinical_caseMIR	SENT6	-	-
-14	rápida	rápido	AQ0FS0	C0456962	calificador	573-579	606_QUEST_clinical_caseMIR	SENT6	-	-
-15	en	en	SPS00	C1720294#C0332285	calificador#atributo	580-582	606_QUEST_clinical_caseMIR	SENT6	-	-
-16	este	este	DD0MS0	-	-	583-587	606_QUEST_clinical_caseMIR	SENT6	-	-
-17	caso	caso	NCMS000	C0868928	calificador	588-592	606_QUEST_clinical_caseMIR	SENT6	-	-
-18	?	?	Fit	-	-	592-593	606_QUEST_clinical_caseMIR	SENT6	-	-
+1	Cuál	cuál	PT0CS000	-	-	492-496	606_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332285	atributo	497-499	606_QUEST_clinical_caseMIR	SENT6	-	-
+3	los	el	DA0MP0	-	-	500-503	606_QUEST_clinical_caseMIR	SENT6	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	504-514	606_QUEST_clinical_caseMIR	SENT6	-	-
+5	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	515-527	606_QUEST_clinical_caseMIR	SENT6	-	-
+6	se	se	P00CN000	-	-	528-530	606_QUEST_clinical_caseMIR	SENT6	-	-
+7	asociaría	asociar	VMIC3S0	-	-	531-540	606_QUEST_clinical_caseMIR	SENT6	-	-
+8	a	a	SPS00	-	-	541-542	606_QUEST_clinical_caseMIR	SENT6	-	-
+9	una	una		C0205447_1	calificador_1	543-546	606_QUEST_clinical_caseMIR	SENT6	-	-
+10	mejoría	mejoría	NCFS000	-	-	547-554	606_QUEST_clinical_caseMIR	SENT6	-	-
+11	hemodinámica	hemodinámica	AQ0FS00	-	-	555-567	606_QUEST_clinical_caseMIR	SENT6	-	-
+12	más	más	RG	C0205172	calificador	568-571	606_QUEST_clinical_caseMIR	SENT6	-	-
+13	rápida	rápido	AQ0FS0	C0456962	calificador	572-578	606_QUEST_clinical_caseMIR	SENT6	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	579-581	606_QUEST_clinical_caseMIR	SENT6	-	-
+15	este	este	DD0MS0	-	-	582-586	606_QUEST_clinical_caseMIR	SENT6	-	-
+16	caso	caso	NCMS000	C0868928	calificador	587-591	606_QUEST_clinical_caseMIR	SENT6	-	-
+17	.	.	Fp	-	-	591-592	606_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -36,3 +36,67 @@
 36	acentuada	acentuar	VMP00SF	-	-	207-216	17_QUEST_clinical_caseMIR	SENT1	-	-
 37	.	.	Fp	-	-	216-217	17_QUEST_clinical_caseMIR	SENT1	-	-
 
+1	Tras	tras	SPS00	-	-	218-222	17_QUEST_clinical_caseMIR	SENT2	-	-
+2	recibir	recibir	VMN0000	-	-	223-230	17_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	231-242	17_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	243-246	17_QUEST_clinical_caseMIR	SENT2	-	-
+5	oxígeno	oxígeno	NCMS000	C0030054	sustancia	247-254	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	a	a	SPS00	-	-	255-256	17_QUEST_clinical_caseMIR	SENT2	-	-
+7	bajas	bajo	AQ0FP0	C0205251	calificador	257-262	17_QUEST_clinical_caseMIR	SENT2	-	-
+8	concentraciones	concentración	NCFP000	C0086045	entidad_observable	263-278	17_QUEST_clinical_caseMIR	SENT2	-	-
+9	,	,	Fc	-	-	278-279	17_QUEST_clinical_caseMIR	SENT2	-	-
+10	broncodilatadores	broncodilatadores	NCMP000	-	-	280-297	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+11	y	y	CC	C1706368	calificador	298-299	17_QUEST_clinical_caseMIR	SENT2	-	-
+12	corticoides	corticoide	NCMP000	-	-	300-311	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	se	se	P00CN000	-	-	312-314	17_QUEST_clinical_caseMIR	SENT2	-	-
+14	realiza	realizar	VMIP3S0	-	-	315-322	17_QUEST_clinical_caseMIR	SENT2	-	-
+15	una	una		C0205447_1	calificador_1	323-326	17_QUEST_clinical_caseMIR	SENT2	-	-
+16	segunda	2	AO0FS0	-	-	327-334	17_QUEST_clinical_caseMIR	SENT2	-	-
+17	gasometría	gasometría	NCFS000	-	-	335-345	17_QUEST_clinical_caseMIR	SENT2	-	-
+18	arterial	arterial	AQ0CS0	C0221464	calificador	346-354	17_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	con	con	SPS00	C0332287	atributo	355-358	17_QUEST_clinical_caseMIR	SENT2	-	-
+20	fracción	fracción	NCFS000	-	-	359-367	17_QUEST_clinical_caseMIR	SENT2	-	-
+21	inspiratoria	inspiratoria	AQ0FS00	-	-	368-380	17_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0332285	atributo	381-383	17_QUEST_clinical_caseMIR	SENT2	-	-
+23	oxígeno	oxígeno	NCMS000	C0030054	sustancia	384-391	17_QUEST_clinical_caseMIR	SENT2	-	-
+24	al	al	SP+DA	-	-	392-394	17_QUEST_clinical_caseMIR	SENT2	-	-
+25	28	28	Z	-	-	395-397	17_QUEST_clinical_caseMIR	SENT2	-	-
+26	%	%	Ft	-	-	397-398	17_QUEST_clinical_caseMIR	SENT2	-	-
+27	que	que	PR0CN000	-	-	399-402	17_QUEST_clinical_caseMIR	SENT2	-	-
+28	muestra	mostrar	VMIP3S0	-	-	403-410	17_QUEST_clinical_caseMIR	SENT2	-	-
+29	un	un		C0205447_1	calificador_1	411-413	17_QUEST_clinical_caseMIR	SENT2	-	-
+30	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	414-416	17_QUEST_clinical_caseMIR	SENT2	-	-
+31	de	de	SPS00	C0332285	atributo	417-419	17_QUEST_clinical_caseMIR	SENT2	-	-
+32	7.32	7.32		-	-	420-424	17_QUEST_clinical_caseMIR	SENT2	-	-
+33	,	,	Fc	-	-	424-425	17_QUEST_clinical_caseMIR	SENT2	-	-
+34	P02	P02		-	-	426-429	17_QUEST_clinical_caseMIR	SENT2	-	-
+35	61	61	Z	-	-	430-432	17_QUEST_clinical_caseMIR	SENT2	-	-
+36	mmHg	mmHg	NCMP000	-	-	433-437	17_QUEST_clinical_caseMIR	SENT2	-	-
+37	,	,	Fc	-	-	437-438	17_QUEST_clinical_caseMIR	SENT2	-	-
+38	PC02	PC02		-	-	439-443	17_QUEST_clinical_caseMIR	SENT2	-	-
+39	58	58	Z	-	-	444-446	17_QUEST_clinical_caseMIR	SENT2	-	-
+40	mmHg	mmHg	NCMP000	-	-	447-451	17_QUEST_clinical_caseMIR	SENT2	-	-
+41	,	,	Fc	-	-	451-452	17_QUEST_clinical_caseMIR	SENT2	-	-
+42	HC03	HC03		-	-	453-457	17_QUEST_clinical_caseMIR	SENT2	-	-
+43	-	-	Fg	-	-	457-458	17_QUEST_clinical_caseMIR	SENT2	-	-
+44	29	29		-	-	459-461	17_QUEST_clinical_caseMIR	SENT2	-	-
+45	mmol	milimol	NC00YL0	C0439190	calificador	462-466	17_QUEST_clinical_caseMIR	SENT2	-	-
+46	/	/	Fh	-	-	466-467	17_QUEST_clinical_caseMIR	SENT2	-	-
+47	L.	l.	NCFS000	-	-	467-469	17_QUEST_clinical_caseMIR	SENT2	-	-
+48	Cuál	cuál	PT0CS000	-	-	470-474	17_QUEST_clinical_caseMIR	SENT2	-	-
+49	sería	ser	VSIC1S0	-	-	475-480	17_QUEST_clinical_caseMIR	SENT2	-	-
+50	la	el	DA0FS0	-	-	481-483	17_QUEST_clinical_caseMIR	SENT2	-	-
+51	interpretación	interpretación	NCFS000	C0459471	atributo	484-498	17_QUEST_clinical_caseMIR	SENT2	-	-
+52	que	que	PR0CN000	-	-	499-502	17_QUEST_clinical_caseMIR	SENT2	-	-
+53	haría	hacer	VMIC3S0	-	-	503-508	17_QUEST_clinical_caseMIR	SENT2	-	-
+54	usted	usted	PP2CS00P	-	-	509-514	17_QUEST_clinical_caseMIR	SENT2	-	-
+55	de	de	SPS00	C0332285	atributo	515-517	17_QUEST_clinical_caseMIR	SENT2	-	-
+56	la	el	DA0FS0	-	-	518-520	17_QUEST_clinical_caseMIR	SENT2	-	-
+57	gasometría	gasometría	NCFS000	-	-	521-531	17_QUEST_clinical_caseMIR	SENT2	-	-
+58	arterial	arterial	AQ0CS0	C0221464	calificador	532-540	17_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+59	y	y	CC	C1706368	calificador	541-542	17_QUEST_clinical_caseMIR	SENT2	-	-
+60	qué	qué	DT0CN0	-	-	543-546	17_QUEST_clinical_caseMIR	SENT2	-	-
+61	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	547-558	17_QUEST_clinical_caseMIR	SENT2	-	-
+62	utilizaría	utilizar	VMIC3S0	-	-	559-569	17_QUEST_clinical_caseMIR	SENT2	-	-
+63	.	.	Fp	-	-	569-570	17_QUEST_clinical_caseMIR	SENT2	-	-
+

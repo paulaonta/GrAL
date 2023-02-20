@@ -1,16 +1,10 @@
-1	Su	su	DP3CS0	-	-	214-216	73_ANS_clinical_caseMIR	SENT1	-	-
-2	primera	1	AO0FS0	-	-	217-224	73_ANS_clinical_caseMIR	SENT1	-	-
-3	recomendación	recomendación	NCFS000	C0150600	procedimiento	225-238	73_ANS_clinical_caseMIR	SENT1	-	-
-4	terapéutica	terapéutico	AQ0FS0	-	-	239-250	73_ANS_clinical_caseMIR	SENT1	-	-
-5	será	ser	VSIF3S0	-	-	251-255	73_ANS_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	255-256	73_ANS_clinical_caseMIR	SENT1	-	-
-7	Necesita	necesitar	VMIP3S0	-	-	0-8	73_ANS_clinical_caseMIR	SENT1	-	-
-8	tratamiento	tratamiento	NCMS000	C0585944_1	procedimiento_1	9-20	73_ANS_clinical_caseMIR	SENT1	-	-
-9	de	de	SPS00	C0585944_2	procedimiento_2	21-23	73_ANS_clinical_caseMIR	SENT1	-	-
-10	la	lo	PP3FSA00	C0585944_3	procedimiento_3	24-26	73_ANS_clinical_caseMIR	SENT1	-	-
-11	insuficiencia	insuficiencia	NCFS000	C0585944_4	procedimiento_4	27-40	73_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-12	Cardíaca	cardíaco	NCFS000	C0585944_5	procedimiento_5	41-49	73_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-13	.	.	Fp	-	-	49-50	73_ANS_clinical_caseMIR	SENT1	-	-
+1	Necesita	necesitar	VMIP3S0	-	-	0-8	73_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C0585944_1	procedimiento_1	9-20	73_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0585944_2	procedimiento_2	21-23	73_ANS_clinical_caseMIR	SENT1	-	-
+4	la	lo	PP3FSA00	C0585944_3	procedimiento_3	24-26	73_ANS_clinical_caseMIR	SENT1	-	-
+5	insuficiencia	insuficiencia	NCFS000	C0585944_4	procedimiento_4	27-40	73_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	Cardíaca	cardíaco	NCFS000	C0585944_5	procedimiento_5	41-49	73_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	49-50	73_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Puede	poder	VMIP3S0	-	-	0-5	73_ANS_clinical_caseMIR	SENT2	-	-
 2	presentar	presentar	VMN0000	-	-	6-15	73_ANS_clinical_caseMIR	SENT2	-	-

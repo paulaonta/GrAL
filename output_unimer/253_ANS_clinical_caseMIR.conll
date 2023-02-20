@@ -1,19 +1,8 @@
-1	¿	¿	Fia	-	-	389-390	253_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	390-394	253_ANS_clinical_caseMIR	SENT1	-	-
-3	de	de	SPS00	C0332285	atributo	395-397	253_ANS_clinical_caseMIR	SENT1	-	-
-4	las	el	DA0FP0	-	-	398-401	253_ANS_clinical_caseMIR	SENT1	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	402-412	253_ANS_clinical_caseMIR	SENT1	-	-
-6	decisiones	decisión	NCFP000	-	-	413-423	253_ANS_clinical_caseMIR	SENT1	-	-
-7	tomará	tomar	VMIF3S0	C1515187	calificador	424-430	253_ANS_clinical_caseMIR	SENT1	-	-
-8	a	a	SPS00	-	-	431-432	253_ANS_clinical_caseMIR	SENT1	-	-
-9	continuación	continuación	NCFS000	-	-	433-445	253_ANS_clinical_caseMIR	SENT1	-	-
-10	?	?	Fit	-	-	445-446	253_ANS_clinical_caseMIR	SENT1	-	-
-11	:	:	Fd	-	-	446-447	253_ANS_clinical_caseMIR	SENT1	-	-
-12	Empezar	empezar	VMN0000	-	-	0-7	253_ANS_clinical_caseMIR	SENT1	-	-
-13	tratamiento	tratamiento	NCMS000	C0338237_1	procedimiento_1	8-19	253_ANS_clinical_caseMIR	SENT1	-	-
-14	con	con	SPS00	C0338237_2	procedimiento_2	20-23	253_ANS_clinical_caseMIR	SENT1	-	-
-15	antibióticos	antibiótico	NCMP000	C0338237_3	procedimiento_3	24-36	253_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-16	.	.	Fp	-	-	36-37	253_ANS_clinical_caseMIR	SENT1	-	-
+1	Empezar	empezar	VMN0000	-	-	0-7	253_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C0338237_1	procedimiento_1	8-19	253_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0338237_2	procedimiento_2	20-23	253_ANS_clinical_caseMIR	SENT1	-	-
+4	antibióticos	antibiótico	NCMP000	C0338237_3	procedimiento_3	24-36	253_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	.	.	Fp	-	-	36-37	253_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Cultivar	cultivar	VMN0000	-	-	0-8	253_ANS_clinical_caseMIR	SENT2	-	-
 2	el	el	DA0MS0	-	-	9-11	253_ANS_clinical_caseMIR	SENT2	-	-

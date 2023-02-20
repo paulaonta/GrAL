@@ -98,19 +98,18 @@
 18	indetectable	indetectable	AQ0CS0	-	-	485-497	302_QUEST_clinical_caseMIR	SENT5	-	-
 19	.	.	Fp	-	-	497-498	302_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	¿	¿	Fia	-	-	499-500	302_QUEST_clinical_caseMIR	SENT6	-	-
-2	Qué	qué	DT0CN0	-	-	500-503	302_QUEST_clinical_caseMIR	SENT6	-	-
-3	prueba	prueba	NCFS000	-	-	504-510	302_QUEST_clinical_caseMIR	SENT6	-	-
-4	es	ser	VSIP3S0	-	-	511-513	302_QUEST_clinical_caseMIR	SENT6	-	-
-5	la	lo	PP3FSA00	C0205393_1	calificador_1	514-516	302_QUEST_clinical_caseMIR	SENT6	-	-
-6	más	más	RG	C0205393_2	calificador_2	517-520	302_QUEST_clinical_caseMIR	SENT6	-	-
-7	apropiada	apropiar	VMP00SF	-	-	521-530	302_QUEST_clinical_caseMIR	SENT6	-	-
-8	para	para	SPS00	C0521125	calificador	531-535	302_QUEST_clinical_caseMIR	SENT6	-	-
-9	orientar	orientar	VMN0000	-	-	536-544	302_QUEST_clinical_caseMIR	SENT6	-	-
-10	el	el	DA0MS0	-	-	545-547	302_QUEST_clinical_caseMIR	SENT6	-	-
-11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	548-559	302_QUEST_clinical_caseMIR	SENT6	-	-
-12	de	de	SPS00	C0332285	atributo	560-562	302_QUEST_clinical_caseMIR	SENT6	-	-
-13	la	el	DA0FS0	-	-	563-565	302_QUEST_clinical_caseMIR	SENT6	-	-
-14	paciente	paciente	NCCS000	C0030705	persona	566-574	302_QUEST_clinical_caseMIR	SENT6	-	-
-15	?	?	Fit	-	-	574-575	302_QUEST_clinical_caseMIR	SENT6	-	-
+1	Qué	qué	DE0CN0	-	-	499-502	302_QUEST_clinical_caseMIR	SENT6	-	-
+2	prueba	prueba	NCFS000	-	-	503-509	302_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	510-512	302_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	lo	PP3FSA00	C0205393_1	calificador_1	513-515	302_QUEST_clinical_caseMIR	SENT6	-	-
+5	más	más	RG	C0205393_2	calificador_2	516-519	302_QUEST_clinical_caseMIR	SENT6	-	-
+6	apropiada	apropiar	VMP00SF	-	-	520-529	302_QUEST_clinical_caseMIR	SENT6	-	-
+7	para	para	SPS00	C0521125	calificador	530-534	302_QUEST_clinical_caseMIR	SENT6	-	-
+8	orientar	orientar	VMN0000	-	-	535-543	302_QUEST_clinical_caseMIR	SENT6	-	-
+9	el	el	DA0MS0	-	-	544-546	302_QUEST_clinical_caseMIR	SENT6	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	547-558	302_QUEST_clinical_caseMIR	SENT6	-	-
+11	de	de	SPS00	C0332285	atributo	559-561	302_QUEST_clinical_caseMIR	SENT6	-	-
+12	la	el	DA0FS0	-	-	562-564	302_QUEST_clinical_caseMIR	SENT6	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	565-573	302_QUEST_clinical_caseMIR	SENT6	-	-
+14	.	.	Fp	-	-	573-574	302_QUEST_clinical_caseMIR	SENT6	-	-
 

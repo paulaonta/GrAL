@@ -57,3 +57,10 @@
 29	colágeno	colágeno	NCMS000	C0009325	sustancia	315-323	571_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
 30	.	.	Fp	-	-	323-324	571_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	El	el	DA0MS0	-	-	325-327	571_QUEST_clinical_caseMIR	SENT3	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	328-339	571_QUEST_clinical_caseMIR	SENT3	-	-
+3	más	más	RG	C0205172	calificador	340-343	571_QUEST_clinical_caseMIR	SENT3	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	344-352	571_QUEST_clinical_caseMIR	SENT3	-	-
+5	es	ser	VSIP3S0	-	-	353-355	571_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	355-356	571_QUEST_clinical_caseMIR	SENT3	-	-
+

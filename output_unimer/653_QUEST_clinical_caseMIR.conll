@@ -21,3 +21,20 @@
 4	intelectual	intelectual	NCCS000	-	-	97-108	653_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
 5	.	.	Fp	-	-	108-109	653_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	110-114	653_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	115-117	653_QUEST_clinical_caseMIR	SENT3	-	-
+3	las	el	DA0FP0	-	-	118-121	653_QUEST_clinical_caseMIR	SENT3	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	122-132	653_QUEST_clinical_caseMIR	SENT3	-	-
+5	pruebas	prueba	NCFP000	-	-	133-140	653_QUEST_clinical_caseMIR	SENT3	-	-
+6	genéticas	genético	AQ0FP0	-	-	141-150	653_QUEST_clinical_caseMIR	SENT3	-	-
+7	se	se	P00CN000	-	-	151-153	653_QUEST_clinical_caseMIR	SENT3	-	-
+8	utilizaría	utilizar	VMIC3S0	-	-	154-164	653_QUEST_clinical_caseMIR	SENT3	-	-
+9	habitualmente	habitualmente	RG	-	-	165-178	653_QUEST_clinical_caseMIR	SENT3	-	-
+10	para	para	SPS00	C0521125	calificador	179-183	653_QUEST_clinical_caseMIR	SENT3	-	-
+11	el	el	DA0MS0	-	-	184-186	653_QUEST_clinical_caseMIR	SENT3	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	187-198	653_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	199-201	653_QUEST_clinical_caseMIR	SENT3	-	-
+14	esta	este	DD0FS0	-	-	202-206	653_QUEST_clinical_caseMIR	SENT3	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	207-215	653_QUEST_clinical_caseMIR	SENT3	-	-
+16	.	.	Fp	-	-	215-216	653_QUEST_clinical_caseMIR	SENT3	-	-
+

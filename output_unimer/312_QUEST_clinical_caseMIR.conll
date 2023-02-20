@@ -77,17 +77,16 @@
 13	(	(	Fpa	-	-	351-352	312_QUEST_clinical_caseMIR	SENT4	-	-
 14	valor	valor	NCMS000	C0475208	calificador	352-357	312_QUEST_clinical_caseMIR	SENT4	-	-
 15	normal	normal	AQ0CS0	C0205307	calificador	358-364	312_QUEST_clinical_caseMIR	SENT4	-	-
-16	:	:	Fd	-	-	364-365	312_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	364-365	312_QUEST_clinical_caseMIR	SENT4	-	-
 17	2-12	2-12		-	-	366-370	312_QUEST_clinical_caseMIR	SENT4	-	-
 18	)	)	Fpt	-	-	370-371	312_QUEST_clinical_caseMIR	SENT4	-	-
 19	.	.	Fp	-	-	371-372	312_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	¿	¿	Fia	-	-	373-374	312_QUEST_clinical_caseMIR	SENT5	-	-
-2	Cuál	cuál	PT0CS000	-	-	374-378	312_QUEST_clinical_caseMIR	SENT5	-	-
-3	es	ser	VSIP3S0	-	-	379-381	312_QUEST_clinical_caseMIR	SENT5	-	-
-4	el	el	DA0MS0	-	-	382-384	312_QUEST_clinical_caseMIR	SENT5	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	385-396	312_QUEST_clinical_caseMIR	SENT5	-	-
-6	más	más	RG	C0205172	calificador	397-400	312_QUEST_clinical_caseMIR	SENT5	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	401-409	312_QUEST_clinical_caseMIR	SENT5	-	-
-8	?	?	Fit	-	-	409-410	312_QUEST_clinical_caseMIR	SENT5	-	-
+1	Cuál	cuál	PT0CS000	-	-	373-377	312_QUEST_clinical_caseMIR	SENT5	-	-
+2	es	ser	VSIP3S0	-	-	378-380	312_QUEST_clinical_caseMIR	SENT5	-	-
+3	el	el	DA0MS0	-	-	381-383	312_QUEST_clinical_caseMIR	SENT5	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	384-395	312_QUEST_clinical_caseMIR	SENT5	-	-
+5	más	más	RG	C0205172	calificador	396-399	312_QUEST_clinical_caseMIR	SENT5	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	400-408	312_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	408-409	312_QUEST_clinical_caseMIR	SENT5	-	-
 

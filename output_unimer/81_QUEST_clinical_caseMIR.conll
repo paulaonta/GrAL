@@ -1,37 +1,23 @@
-1	¿	¿	Fia	-	-	360-361	81_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	361-365	81_QUEST_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	366-371	81_QUEST_clinical_caseMIR	SENT1	-	-
-4	la	el	DA0FS0	-	-	372-374	81_QUEST_clinical_caseMIR	SENT1	-	-
-5	prueba	prueba	NCFS000	-	-	375-381	81_QUEST_clinical_caseMIR	SENT1	-	-
-6	complementaria	complementario	AQ0FS0	-	-	382-396	81_QUEST_clinical_caseMIR	SENT1	-	-
-7	para	para	SPS00	C0521125	calificador	397-401	81_QUEST_clinical_caseMIR	SENT1	-	-
-8	confirmar	confirmar	VMN0000	-	-	402-411	81_QUEST_clinical_caseMIR	SENT1	-	-
-9	el	el	DA0MS0	-	-	412-414	81_QUEST_clinical_caseMIR	SENT1	-	-
-10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	415-426	81_QUEST_clinical_caseMIR	SENT1	-	-
-11	más	más	RG	C0205172	calificador	427-430	81_QUEST_clinical_caseMIR	SENT1	-	-
-12	probable	probable	AQ0CS0	C0332148	calificador	431-439	81_QUEST_clinical_caseMIR	SENT1	-	-
-13	?	?	Fit	-	-	439-440	81_QUEST_clinical_caseMIR	SENT1	-	-
-14	:	:	Fd	-	-	440-441	81_QUEST_clinical_caseMIR	SENT1	-	-
-15	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	81_QUEST_clinical_caseMIR	SENT1	-	-
-16	de	de	SPS00	C0332285	atributo	6-8	81_QUEST_clinical_caseMIR	SENT1	-	-
-17	17	17		-	-	9-11	81_QUEST_clinical_caseMIR	SENT1	-	-
-18	años	año	NCMP000	C0439234	calificador	12-16	81_QUEST_clinical_caseMIR	SENT1	-	-
-19	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	81_QUEST_clinical_caseMIR	SENT1	-	-
-20	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	81_QUEST_clinical_caseMIR	SENT1	-	-
-21	que	que	PR0CN000	-	-	25-28	81_QUEST_clinical_caseMIR	SENT1	-	-
-22	acude	acudir	VMIP3S0	-	-	29-34	81_QUEST_clinical_caseMIR	SENT1	-	-
-23	a	a	SPS00	-	-	35-36	81_QUEST_clinical_caseMIR	SENT1	-	-
-24	la	el	DA0FS0	-	-	37-39	81_QUEST_clinical_caseMIR	SENT1	-	-
-25	consulta	consultar	VMM02S0	C1704447_1	calificador_1	40-48	81_QUEST_clinical_caseMIR	SENT1	-	-
-26	por	por	SPS00	C1704447_2	calificador_2	49-52	81_QUEST_clinical_caseMIR	SENT1	-	-
-27	retraso	retraso	NCMS000	-	-	53-60	81_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-28	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	81_QUEST_clinical_caseMIR	SENT1	-	-
-29	el	el	DA0MS0	-	-	64-66	81_QUEST_clinical_caseMIR	SENT1	-	-
-30	inicio	inicio	NCMS000	C0332162_1	calificador_1	67-73	81_QUEST_clinical_caseMIR	SENT1	-	-
-31	de	de	SPS00	C0332162_2	calificador_2	74-76	81_QUEST_clinical_caseMIR	SENT1	-	-
-32	la	el	DA0FS0	-	-	77-79	81_QUEST_clinical_caseMIR	SENT1	-	-
-33	pubertad	pubertad	NCFS000	C0034011	hallazgo	80-88	81_QUEST_clinical_caseMIR	SENT1	-	-
-34	.	.	Fp	-	-	88-89	81_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	81_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	81_QUEST_clinical_caseMIR	SENT1	-	-
+3	17	17		-	-	9-11	81_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	81_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	81_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	81_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	81_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	29-34	81_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	35-36	81_QUEST_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	37-39	81_QUEST_clinical_caseMIR	SENT1	-	-
+11	consulta	consultar	VMM02S0	C1704447_1	calificador_1	40-48	81_QUEST_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C1704447_2	calificador_2	49-52	81_QUEST_clinical_caseMIR	SENT1	-	-
+13	retraso	retraso	NCMS000	-	-	53-60	81_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	81_QUEST_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	64-66	81_QUEST_clinical_caseMIR	SENT1	-	-
+16	inicio	inicio	NCMS000	C0332162_1	calificador_1	67-73	81_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332162_2	calificador_2	74-76	81_QUEST_clinical_caseMIR	SENT1	-	-
+18	la	el	DA0FS0	-	-	77-79	81_QUEST_clinical_caseMIR	SENT1	-	-
+19	pubertad	pubertad	NCFS000	C0034011	hallazgo	80-88	81_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	88-89	81_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Refiere	referir	VMIP3S0	-	-	90-97	81_QUEST_clinical_caseMIR	SENT2	-	-
 2	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	98-106	81_QUEST_clinical_caseMIR	SENT2	-	-
@@ -47,7 +33,7 @@
 6	los	el	DA0MP0	-	-	155-158	81_QUEST_clinical_caseMIR	SENT3	-	-
 7	siguientes	siguiente	AQ0CP0	C0332282	atributo	159-169	81_QUEST_clinical_caseMIR	SENT3	-	-
 8	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	170-179	81_QUEST_clinical_caseMIR	SENT3	-	-
-9	:	:	Fd	-	-	179-180	81_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	179-180	81_QUEST_clinical_caseMIR	SENT3	-	-
 10	talla	talla	NCFS000	-	-	181-186	81_QUEST_clinical_caseMIR	SENT3	-	-
 11	1.49	1.49	Z	-	-	187-191	81_QUEST_clinical_caseMIR	SENT3	-	-
 12	cm	cm	NCMN000	-	-	192-194	81_QUEST_clinical_caseMIR	SENT3	-	-
@@ -74,4 +60,18 @@
 33	de	de	SPS00	C0332285	atributo	288-290	81_QUEST_clinical_caseMIR	SENT3	-	-
 34	Tanner	tanner	VMN0000	-	-	291-297	81_QUEST_clinical_caseMIR	SENT3	-	-
 35	.	.	Fp	-	-	297-298	81_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Señale	señalar	VMM03S0	-	-	299-305	81_QUEST_clinical_caseMIR	SENT4	-	-
+2	cuál	cuál	PT0CS000	-	-	306-310	81_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	311-313	81_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	314-317	81_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	318-328	81_QUEST_clinical_caseMIR	SENT4	-	-
+6	pruebas	prueba	NCFP000	-	-	329-336	81_QUEST_clinical_caseMIR	SENT4	-	-
+7	confirmará	confirmar	VMIF3S0	-	-	337-347	81_QUEST_clinical_caseMIR	SENT4	-	-
+8	el	el	DA0MS0	-	-	348-350	81_QUEST_clinical_caseMIR	SENT4	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	351-362	81_QUEST_clinical_caseMIR	SENT4	-	-
+10	con	con	SPS00	C0332287	atributo	363-366	81_QUEST_clinical_caseMIR	SENT4	-	-
+11	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	367-372	81_QUEST_clinical_caseMIR	SENT4	-	-
+12	probabilidad	probabilidad	NCFS000	-	-	373-385	81_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	385-386	81_QUEST_clinical_caseMIR	SENT4	-	-
 

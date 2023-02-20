@@ -1,21 +1,13 @@
-1	¿	¿	Fia	-	-	293-294	381_ANS_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	294-297	381_ANS_clinical_caseMIR	SENT1	-	-
-3	actitud	actitud	NCFS000	C0004271	entidad_observable	298-305	381_ANS_clinical_caseMIR	SENT1	-	-
-4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	306-308	381_ANS_clinical_caseMIR	SENT1	-	-
-5	parece	parecer	VMIP3S0	-	-	309-315	381_ANS_clinical_caseMIR	SENT1	-	-
-6	correcta	correcto	AQ0FS0	C0205170	calificador	316-324	381_ANS_clinical_caseMIR	SENT1	-	-
-7	?	?	Fit	-	-	324-325	381_ANS_clinical_caseMIR	SENT1	-	-
-8	:	:	Fd	-	-	325-326	381_ANS_clinical_caseMIR	SENT1	-	-
-9	Debe	deber	VMIP3S0	-	-	0-4	381_ANS_clinical_caseMIR	SENT1	-	-
-10	realizar	realizar	VMN0000	-	-	5-13	381_ANS_clinical_caseMIR	SENT1	-	-
-11	se	se	PP3CN000	-	-	13-15	381_ANS_clinical_caseMIR	SENT1	-	-
-12	una	una		C0205447_1	calificador_1	16-19	381_ANS_clinical_caseMIR	SENT1	-	-
-13	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	20-29	381_ANS_clinical_caseMIR	SENT1	-	-
-14	para	para	SPS00	C0521125	calificador	30-34	381_ANS_clinical_caseMIR	SENT1	-	-
-15	confirmar	confirmar	VMN0000	-	-	35-44	381_ANS_clinical_caseMIR	SENT1	-	-
-16	el	el	DA0MS0	-	-	45-47	381_ANS_clinical_caseMIR	SENT1	-	-
-17	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	48-59	381_ANS_clinical_caseMIR	SENT1	-	-
-18	.	.	Fp	-	-	59-60	381_ANS_clinical_caseMIR	SENT1	-	-
+1	Debe	deber	VMIP3S0	-	-	0-4	381_ANS_clinical_caseMIR	SENT1	-	-
+2	realizar	realizar	VMN0000	-	-	5-13	381_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	PP3CN000	-	-	13-15	381_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	16-19	381_ANS_clinical_caseMIR	SENT1	-	-
+5	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	20-29	381_ANS_clinical_caseMIR	SENT1	-	-
+6	para	para	SPS00	C0521125	calificador	30-34	381_ANS_clinical_caseMIR	SENT1	-	-
+7	confirmar	confirmar	VMN0000	-	-	35-44	381_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	45-47	381_ANS_clinical_caseMIR	SENT1	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	48-59	381_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	59-60	381_ANS_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	0-2	381_ANS_clinical_caseMIR	SENT2	-	-
 2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	3-14	381_ANS_clinical_caseMIR	SENT2	-	-

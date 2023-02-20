@@ -1,16 +1,11 @@
-1	Ante	ante	SPS00	-	-	622-626	323_ANS_clinical_caseMIR	SENT1	-	-
-2	esto	este	PD0NS000	-	-	627-631	323_ANS_clinical_caseMIR	SENT1	-	-
-3	usted	usted	PP2CS00P	-	-	632-637	323_ANS_clinical_caseMIR	SENT1	-	-
-4	diría	decir	VMIC3S0	-	-	638-643	323_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	643-644	323_ANS_clinical_caseMIR	SENT1	-	-
-6	Iniciar	iniciar	VMN0000	-	-	0-7	323_ANS_clinical_caseMIR	SENT1	-	-
-7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	323_ANS_clinical_caseMIR	SENT1	-	-
-8	con	con	SPS00	C0332287	atributo	20-23	323_ANS_clinical_caseMIR	SENT1	-	-
-9	corticoides	corticoide	NCMP000	-	-	24-35	323_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-10	por	por	SPS00	C0678226	atributo	36-39	323_ANS_clinical_caseMIR	SENT1	-	-
-11	vía	vía	NCFS000	C1527415_1	calificador_1	40-43	323_ANS_clinical_caseMIR	SENT1	-	-
-12	oral	oral	NC00SC0	C1527415_2	calificador_2	44-48	323_ANS_clinical_caseMIR	SENT1	-	-
-13	.	.	Fp	-	-	48-49	323_ANS_clinical_caseMIR	SENT1	-	-
+1	Iniciar	iniciar	VMN0000	-	-	0-7	323_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	323_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	323_ANS_clinical_caseMIR	SENT1	-	-
+4	corticoides	corticoide	NCMP000	-	-	24-35	323_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	por	por	SPS00	C0678226	atributo	36-39	323_ANS_clinical_caseMIR	SENT1	-	-
+6	vía	vía	NCFS000	C1527415_1	calificador_1	40-43	323_ANS_clinical_caseMIR	SENT1	-	-
+7	oral	oral	NC00SC0	C1527415_2	calificador_2	44-48	323_ANS_clinical_caseMIR	SENT1	-	-
+8	.	.	Fp	-	-	48-49	323_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Iniciar	iniciar	VMN0000	-	-	0-7	323_ANS_clinical_caseMIR	SENT2	-	-
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	323_ANS_clinical_caseMIR	SENT2	-	-

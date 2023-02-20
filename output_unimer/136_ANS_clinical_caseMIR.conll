@@ -1,19 +1,13 @@
-1	La	el	DA0FS0	-	-	188-190	136_ANS_clinical_caseMIR	SENT1	-	-
-2	etiología	etiología	NCFS000	C1314792	atributo	191-200	136_ANS_clinical_caseMIR	SENT1	-	-
-3	más	más	RG	C0205172	calificador	201-204	136_ANS_clinical_caseMIR	SENT1	-	-
-4	probable	probable	AQ0CS0	C0332148	calificador	205-213	136_ANS_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	214-216	136_ANS_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	216-217	136_ANS_clinical_caseMIR	SENT1	-	-
-7	Una	Una		C0205447_1	calificador_1	0-3	136_ANS_clinical_caseMIR	SENT1	-	-
-8	tomografia	tomografia	NCFS000	-	-	4-14	136_ANS_clinical_caseMIR	SENT1	-	-
-9	axial	axial	AQ0CS0	C0205131	calificador	15-20	136_ANS_clinical_caseMIR	SENT1	-	-
-10	computarizada	computarizada	VMP00SF	-	-	21-34	136_ANS_clinical_caseMIR	SENT1	-	-
-11	(	(	Fpa	-	-	35-36	136_ANS_clinical_caseMIR	SENT1	-	-
-12	TAC	tac	NC00YL0	C0040405	procedimiento	36-39	136_ANS_clinical_caseMIR	SENT1	-	-
-13	)	)	Fpt	-	-	39-40	136_ANS_clinical_caseMIR	SENT1	-	-
-14	de	de	SPS00	C0332285	atributo	41-43	136_ANS_clinical_caseMIR	SENT1	-	-
-15	abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	44-51	136_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-16	.	.	Fp	-	-	51-52	136_ANS_clinical_caseMIR	SENT1	-	-
+1	Una	Una		C0205447_1	calificador_1	0-3	136_ANS_clinical_caseMIR	SENT1	-	-
+2	tomografia	tomografia	NCFS000	-	-	4-14	136_ANS_clinical_caseMIR	SENT1	-	-
+3	axial	axial	AQ0CS0	C0205131	calificador	15-20	136_ANS_clinical_caseMIR	SENT1	-	-
+4	computarizada	computarizada	VMP00SF	-	-	21-34	136_ANS_clinical_caseMIR	SENT1	-	-
+5	(	(	Fpa	-	-	35-36	136_ANS_clinical_caseMIR	SENT1	-	-
+6	TAC	tac	NC00YL0	C0040405	procedimiento	36-39	136_ANS_clinical_caseMIR	SENT1	-	-
+7	)	)	Fpt	-	-	39-40	136_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	41-43	136_ANS_clinical_caseMIR	SENT1	-	-
+9	abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	44-51	136_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	.	.	Fp	-	-	51-52	136_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Un	Un		C0205447_1	calificador_1	0-2	136_ANS_clinical_caseMIR	SENT2	-	-
 2	estudio	estudio	NCMS000	C0557651	medio_ambiente	3-10	136_ANS_clinical_caseMIR	SENT2	-	-

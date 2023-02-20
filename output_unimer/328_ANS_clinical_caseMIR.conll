@@ -1,21 +1,5 @@
-1	¿	¿	Fia	-	-	220-221	328_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	221-225	328_ANS_clinical_caseMIR	SENT1	-	-
-3	sería	ser	VSIC1S0	-	-	226-231	328_ANS_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	232-234	328_ANS_clinical_caseMIR	SENT1	-	-
-5	objetivo	objetivo	NCMS000	C1571702	calificador	235-243	328_ANS_clinical_caseMIR	SENT1	-	-
-6	terapéutico	terapéutico	AQ0MS0	-	-	244-255	328_ANS_clinical_caseMIR	SENT1	-	-
-7	apropiado	apropiar	VMP00SM	-	-	256-265	328_ANS_clinical_caseMIR	SENT1	-	-
-8	en	en	SPS00	C1720294#C0332285	calificador#atributo	266-268	328_ANS_clinical_caseMIR	SENT1	-	-
-9	el	el	DA0MS0	-	-	269-271	328_ANS_clinical_caseMIR	SENT1	-	-
-10	control	control	NCMS000	C2587213	atributo	272-279	328_ANS_clinical_caseMIR	SENT1	-	-
-11	glucémico	glucémico	AQ0MS0	-	-	280-289	328_ANS_clinical_caseMIR	SENT1	-	-
-12	de	de	SPS00	C0332285	atributo	290-292	328_ANS_clinical_caseMIR	SENT1	-	-
-13	este	este	DD0MS0	-	-	293-297	328_ANS_clinical_caseMIR	SENT1	-	-
-14	paciente	paciente	NCCS000	C0030705	persona	298-306	328_ANS_clinical_caseMIR	SENT1	-	-
-15	?	?	Fit	-	-	306-307	328_ANS_clinical_caseMIR	SENT1	-	-
-16	:	:	Fd	-	-	307-308	328_ANS_clinical_caseMIR	SENT1	-	-
-17	Ceftazidima	ceftazidima	NC00SC0	C0007559	sustancia	0-11	328_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-18	.	.	Fp	-	-	11-12	328_ANS_clinical_caseMIR	SENT1	-	-
+1	Ceftazidima	ceftazidima	NC00SC0	C0007559	sustancia	0-11	328_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	11-12	328_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Claritromicina	claritromicina	NC00SC0	C0055856	producto#sustancia	0-14	328_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
 2	.	.	Fp	-	-	14-15	328_ANS_clinical_caseMIR	SENT2	-	-

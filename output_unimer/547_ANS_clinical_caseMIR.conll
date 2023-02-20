@@ -1,15 +1,9 @@
-1	La	el	DA0FS0	-	-	394-396	547_ANS_clinical_caseMIR	SENT1	-	-
-2	conducta	conducta	NCFS000	C0004927	hallazgo	397-405	547_ANS_clinical_caseMIR	SENT1	-	-
-3	más	más	RG	C0205172	calificador	406-409	547_ANS_clinical_caseMIR	SENT1	-	-
-4	adecuada	adecuar	VMP00SF	-	-	410-418	547_ANS_clinical_caseMIR	SENT1	-	-
-5	es	ser	VSIP3S0	-	-	419-421	547_ANS_clinical_caseMIR	SENT1	-	-
-6	:	:	Fd	-	-	421-422	547_ANS_clinical_caseMIR	SENT1	-	-
-7	Inhibidores	inhibidor	NCMP000	-	-	0-11	547_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-8	de	de	SPS00	C0332285	atributo	12-14	547_ANS_clinical_caseMIR	SENT1	-	-
-9	la	lo	PP3FSA00	-	-	15-17	547_ANS_clinical_caseMIR	SENT1	-	-
-10	anhidrasa	anhidrasa		-	-	18-27	547_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-11	carbónica	carbónico	AQ0FS0	-	-	28-37	547_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
-12	.	.	Fp	-	-	37-38	547_ANS_clinical_caseMIR	SENT1	-	-
+1	Inhibidores	inhibidor	NCMP000	-	-	0-11	547_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	de	de	SPS00	C0332285	atributo	12-14	547_ANS_clinical_caseMIR	SENT1	-	-
+3	la	lo	PP3FSA00	-	-	15-17	547_ANS_clinical_caseMIR	SENT1	-	-
+4	anhidrasa	anhidrasa		-	-	18-27	547_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	carbónica	carbónico	AQ0FS0	-	-	28-37	547_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	.	.	Fp	-	-	37-38	547_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Beta-bloqueantes	beta-bloqueantes	NC00AO0	-	-	0-16	547_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
 2	.	.	Fp	-	-	16-17	547_ANS_clinical_caseMIR	SENT2	-	-

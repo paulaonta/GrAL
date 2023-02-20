@@ -62,3 +62,23 @@
 26	penicilina	penicilina	NCFS000	-	-	335-345	49_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
 27	.	.	Fp	-	-	345-346	49_QUEST_clinical_caseMIR	SENT3	-	-
 
+1	Tras	tras	SPS00	-	-	347-351	49_QUEST_clinical_caseMIR	SENT4	-	-
+2	iniciar	iniciar	VMN0000	-	-	352-359	49_QUEST_clinical_caseMIR	SENT4	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	360-371	49_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	372-374	49_QUEST_clinical_caseMIR	SENT4	-	-
+5	endocarditis	endocarditis	NCFN000	C0014118	trastorno	375-387	49_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	,	,	Fc	-	-	387-388	49_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	389-390	49_QUEST_clinical_caseMIR	SENT4	-	-
+8	cuál	cuál	PT0CS000	-	-	391-395	49_QUEST_clinical_caseMIR	SENT4	-	-
+9	de	de	SPS00	C0332285	atributo	396-398	49_QUEST_clinical_caseMIR	SENT4	-	-
+10	las	el	DA0FP0	-	-	399-402	49_QUEST_clinical_caseMIR	SENT4	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	403-413	49_QUEST_clinical_caseMIR	SENT4	-	-
+12	exploraciones	exploración	NCFP000	C1280903	procedimiento	414-427	49_QUEST_clinical_caseMIR	SENT4	-	-
+13	nos	nos	PP1CP000	-	-	428-431	49_QUEST_clinical_caseMIR	SENT4	-	-
+14	podría	poder	VMIC3S0	-	-	432-438	49_QUEST_clinical_caseMIR	SENT4	-	-
+15	ayudar	ayudar	VMN0000	-	-	439-445	49_QUEST_clinical_caseMIR	SENT4	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	446-448	49_QUEST_clinical_caseMIR	SENT4	-	-
+17	el	el	DA0MS0	-	-	449-451	49_QUEST_clinical_caseMIR	SENT4	-	-
+18	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	452-463	49_QUEST_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	463-464	49_QUEST_clinical_caseMIR	SENT4	-	-
+

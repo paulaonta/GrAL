@@ -77,16 +77,15 @@
 38	diurnas	diurno	AQ0FP0	C0332169	calificador	434-441	286_QUEST_clinical_caseMIR	SENT4	-	-
 39	.	.	Fp	-	-	441-442	286_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	¿	¿	Fia	-	-	443-444	286_QUEST_clinical_caseMIR	SENT5	-	-
-2	Qué	qué	DT0CN0	-	-	444-447	286_QUEST_clinical_caseMIR	SENT5	-	-
-3	prueba	prueba	NCFS000	-	-	448-454	286_QUEST_clinical_caseMIR	SENT5	-	-
-4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	455-466	286_QUEST_clinical_caseMIR	SENT5	-	-
-5	solicitaría	solicitar	VMIC3S0	-	-	467-478	286_QUEST_clinical_caseMIR	SENT5	-	-
-6	a	a	SPS00	-	-	479-480	286_QUEST_clinical_caseMIR	SENT5	-	-
-7	continuación	continuación	NCFS000	-	-	481-493	286_QUEST_clinical_caseMIR	SENT5	-	-
-8	con	con	SPS00	C0332287	atributo	494-497	286_QUEST_clinical_caseMIR	SENT5	-	-
-9	su	su	DP3CS0	-	-	498-500	286_QUEST_clinical_caseMIR	SENT5	-	-
-10	sospecha	sospecha	NCFS000	C0750491	calificador	501-509	286_QUEST_clinical_caseMIR	SENT5	-	-
-11	clínica	clínico	AQ0FS0	C0205210	calificador	510-517	286_QUEST_clinical_caseMIR	SENT5	-	-
-12	?	?	Fit	-	-	517-518	286_QUEST_clinical_caseMIR	SENT5	-	-
+1	Qué	qué	DE0CN0	-	-	443-446	286_QUEST_clinical_caseMIR	SENT5	-	-
+2	prueba	prueba	NCFS000	-	-	447-453	286_QUEST_clinical_caseMIR	SENT5	-	-
+3	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	454-465	286_QUEST_clinical_caseMIR	SENT5	-	-
+4	solicitaría	solicitar	VMIC3S0	-	-	466-477	286_QUEST_clinical_caseMIR	SENT5	-	-
+5	a	a	SPS00	-	-	478-479	286_QUEST_clinical_caseMIR	SENT5	-	-
+6	continuación	continuación	NCFS000	-	-	480-492	286_QUEST_clinical_caseMIR	SENT5	-	-
+7	con	con	SPS00	C0332287	atributo	493-496	286_QUEST_clinical_caseMIR	SENT5	-	-
+8	su	su	DP3CS0	-	-	497-499	286_QUEST_clinical_caseMIR	SENT5	-	-
+9	sospecha	sospecha	NCFS000	C0750491	calificador	500-508	286_QUEST_clinical_caseMIR	SENT5	-	-
+10	clínica	clínico	AQ0FS0	C0205210	calificador	509-516	286_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	516-517	286_QUEST_clinical_caseMIR	SENT5	-	-
 

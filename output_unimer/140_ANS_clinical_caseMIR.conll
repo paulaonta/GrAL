@@ -1,15 +1,8 @@
-1	¿	¿	Fia	-	-	192-193	140_ANS_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	193-196	140_ANS_clinical_caseMIR	SENT1	-	-
-3	exploración	exploración	NCFS000	C1280903	procedimiento	197-208	140_ANS_clinical_caseMIR	SENT1	-	-
-4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	209-220	140_ANS_clinical_caseMIR	SENT1	-	-
-5	solicitaría	solicitar	VMIC3S0	-	-	221-232	140_ANS_clinical_caseMIR	SENT1	-	-
-6	?	?	Fit	-	-	232-233	140_ANS_clinical_caseMIR	SENT1	-	-
-7	:	:	Fd	-	-	233-234	140_ANS_clinical_caseMIR	SENT1	-	-
-8	Fractura	fractura	NCFS000	C0016658	anomalía_morfológica	0-8	140_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-9	subtrocantérea	subtrocantérea	AQ0FS00	-	-	9-23	140_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-10	de	de	SPS00	C0332285	atributo	24-26	140_ANS_clinical_caseMIR	SENT1	-	-
-11	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	27-32	140_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-12	.	.	Fp	-	-	32-33	140_ANS_clinical_caseMIR	SENT1	-	-
+1	Fractura	fractura	NCFS000	C0016658	anomalía_morfológica	0-8	140_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	subtrocantérea	subtrocantérea	AQ0FS00	-	-	9-23	140_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	de	de	SPS00	C0332285	atributo	24-26	140_ANS_clinical_caseMIR	SENT1	-	-
+4	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	27-32	140_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	.	.	Fp	-	-	32-33	140_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Fractura	fractura	NCFS000	C0016658	anomalía_morfológica	0-8	140_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	subcapital	subcapital	AQ0CS0	-	-	9-19	140_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-

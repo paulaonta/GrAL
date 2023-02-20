@@ -1,13 +1,8 @@
-1	Señale	señalar	VMM03S0	-	-	438-444	400_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	445-447	400_ANS_clinical_caseMIR	SENT1	-	-
-3	respuesta	respuesta	NCFS000	-	-	448-457	400_ANS_clinical_caseMIR	SENT1	-	-
-4	verdadera	verdadero	AQ0FS0	C0205238	calificador	458-467	400_ANS_clinical_caseMIR	SENT1	-	-
-5	:	:	Fd	-	-	467-468	400_ANS_clinical_caseMIR	SENT1	-	-
-6	Enfermedad	enfermedad	NCFS000	C0027721_1	trastorno_1	0-10	400_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-7	de	de	SPS00	C0027721_2	trastorno_2	11-13	400_ANS_clinical_caseMIR	SENT1	-	-
-8	cambios	cambio	NCMP000	C0027721_3	trastorno_3	14-21	400_ANS_clinical_caseMIR	SENT1	-	-
-9	mínimos	mínimo	NCMP000	C0027721_4	trastorno_4	22-29	400_ANS_clinical_caseMIR	SENT1	-	-
-10	.	.	Fp	-	-	29-30	400_ANS_clinical_caseMIR	SENT1	-	-
+1	Enfermedad	enfermedad	NCFS000	C0027721_1	trastorno_1	0-10	400_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0027721_2	trastorno_2	11-13	400_ANS_clinical_caseMIR	SENT1	-	-
+3	cambios	cambio	NCMP000	C0027721_3	trastorno_3	14-21	400_ANS_clinical_caseMIR	SENT1	-	-
+4	mínimos	mínimo	NCMP000	C0027721_4	trastorno_4	22-29	400_ANS_clinical_caseMIR	SENT1	-	-
+5	.	.	Fp	-	-	29-30	400_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Glomeruloesclerosis	glomeruloesclerosis	NC00SC0	C0017668_1	trastorno_1	0-19	400_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	focal	focal	NC00SC0	C0017668_2	trastorno_2	20-25	400_ANS_clinical_caseMIR	SENT2	B-Calificador	-

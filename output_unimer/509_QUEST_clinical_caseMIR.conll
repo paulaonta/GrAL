@@ -84,8 +84,8 @@
 4	.	.	Fp	-	-	516-517	509_QUEST_clinical_caseMIR	SENT4	-	-
 
 1	Abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	518-525	509_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
-2	:	:	Fd	-	-	525-526	509_QUEST_clinical_caseMIR	SENT5	-	-
-3	blando	blando	AQ0MS0	C0205358	calificador	527-533	509_QUEST_clinical_caseMIR	SENT5	-	-
+2	.	.	Fp	-	-	525-526	509_QUEST_clinical_caseMIR	SENT5	-	-
+3	blando	blando	NC00SC0	C0205358	calificador	527-533	509_QUEST_clinical_caseMIR	SENT5	-	-
 4	y	y	CC	C1706368	calificador	534-535	509_QUEST_clinical_caseMIR	SENT5	-	-
 5	depresible	depresible	NC00SC0	C0205323	calificador	536-546	509_QUEST_clinical_caseMIR	SENT5	-	-
 6	sin	sin	SPS00	C0332288	atributo	547-550	509_QUEST_clinical_caseMIR	SENT5	-	-
@@ -110,18 +110,17 @@
 5	cráneo-cérvico-torácico-abdomino-pélvico	cráneo-cérvico-torácico-abdomino-pélvico	AQ0MS00	-	-	645-685	509_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
 6	.	.	Fp	-	-	685-686	509_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	¿	¿	Fia	-	-	687-688	509_QUEST_clinical_caseMIR	SENT8	-	-
-2	Qué	qué	DT0CN0	-	-	688-691	509_QUEST_clinical_caseMIR	SENT8	-	-
-3	hallazgo	hallazgo	NCMS000	C1290916_1	hallazgo_1	692-700	509_QUEST_clinical_caseMIR	SENT8	-	-
-4	radiológico	radiológico	NC00SC0	C1290916_2	hallazgo_2	701-712	509_QUEST_clinical_caseMIR	SENT8	-	-
-5	NO	no	RN	C1298908	calificador	713-715	509_QUEST_clinical_caseMIR	SENT8	-	-
-6	sería	ser	VSIC1S0	-	-	716-721	509_QUEST_clinical_caseMIR	SENT8	-	-
-7	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	722-732	509_QUEST_clinical_caseMIR	SENT8	-	-
-8	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	733-736	509_QUEST_clinical_caseMIR	SENT8	-	-
-9	una	una		C0205447_1	calificador_1	737-740	509_QUEST_clinical_caseMIR	SENT8	-	-
-10	rotura	rotura	NCFS000	-	-	741-747	509_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Especulacion
-11	de	de	SPS00	C0332285	atributo	748-750	509_QUEST_clinical_caseMIR	SENT8	-	-
-12	aorta	aorta	NCFS000	C1278934	estructura_corporal	751-756	509_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
-13	contenida	contener	VMP00SF	-	-	757-766	509_QUEST_clinical_caseMIR	SENT8	-	-
-14	?	?	Fit	-	-	766-767	509_QUEST_clinical_caseMIR	SENT8	-	-
+1	Qué	qué	DE0CN0	-	-	687-690	509_QUEST_clinical_caseMIR	SENT8	-	-
+2	hallazgo	hallazgo	NCMS000	C1290916_1	hallazgo_1	691-699	509_QUEST_clinical_caseMIR	SENT8	-	-
+3	radiológico	radiológico	NC00SC0	C1290916_2	hallazgo_2	700-711	509_QUEST_clinical_caseMIR	SENT8	-	-
+4	NO	no	RN	C1298908	calificador	712-714	509_QUEST_clinical_caseMIR	SENT8	-	-
+5	sería	ser	VSIC1S0	-	-	715-720	509_QUEST_clinical_caseMIR	SENT8	-	-
+6	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	721-731	509_QUEST_clinical_caseMIR	SENT8	-	-
+7	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	732-735	509_QUEST_clinical_caseMIR	SENT8	-	-
+8	una	una		C0205447_1	calificador_1	736-739	509_QUEST_clinical_caseMIR	SENT8	-	-
+9	rotura	rotura	NCFS000	-	-	740-746	509_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Especulacion
+10	de	de	SPS00	C0332285	atributo	747-749	509_QUEST_clinical_caseMIR	SENT8	-	-
+11	aorta	aorta	NCFS000	C1278934	estructura_corporal	750-755	509_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+12	contenida	contener	VMP00SF	-	-	756-765	509_QUEST_clinical_caseMIR	SENT8	-	-
+13	.	.	Fp	-	-	765-766	509_QUEST_clinical_caseMIR	SENT8	-	-
 

@@ -1,16 +1,7 @@
-1	¿	¿	Fia	-	-	225-226	533_ANS_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	226-230	533_ANS_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	231-233	533_ANS_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	234-236	533_ANS_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	237-248	533_ANS_clinical_caseMIR	SENT1	-	-
-6	MENOS	menos	RG	C0332288	atributo	249-254	533_ANS_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	255-263	533_ANS_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	263-264	533_ANS_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	264-265	533_ANS_clinical_caseMIR	SENT1	-	-
-10	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	533_ANS_clinical_caseMIR	SENT1	-	-
-11	con	con	SPS00	C0332287	atributo	12-15	533_ANS_clinical_caseMIR	SENT1	-	-
-12	febuxostat	febuxostat	NC00SC0	C0249529	sustancia#producto	16-26	533_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
-13	.	.	Fp	-	-	26-27	533_ANS_clinical_caseMIR	SENT1	-	-
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	533_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	533_ANS_clinical_caseMIR	SENT1	-	-
+3	febuxostat	febuxostat	NC00SC0	C0249529	sustancia#producto	16-26	533_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	.	.	Fp	-	-	26-27	533_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	533_ANS_clinical_caseMIR	SENT2	-	-
 2	con	con	SPS00	C0332287	atributo	12-15	533_ANS_clinical_caseMIR	SENT2	-	-

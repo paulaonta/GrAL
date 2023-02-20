@@ -1,0 +1,37 @@
+1	.	.	Fp	-	-	0-1	737_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Cuál	cuál	PT0CS000	-	-	2-6	737_QUEST_clinical_caseMIR	SENT2	-	-
+2	sería	ser	VSIC1S0	-	-	7-12	737_QUEST_clinical_caseMIR	SENT2	-	-
+3	el	el	DA0MS0	-	-	13-15	737_QUEST_clinical_caseMIR	SENT2	-	-
+4	método	método	NCMS000	C0025663	atributo	16-22	737_QUEST_clinical_caseMIR	SENT2	-	-
+5	anticonceptivo	anticonceptivo	AQ0MS0	-	-	23-37	737_QUEST_clinical_caseMIR	SENT2	-	-
+6	más	más	RG	C0205172	calificador	38-41	737_QUEST_clinical_caseMIR	SENT2	-	-
+7	aconsejable	aconsejable	AQ0CS0	-	-	42-53	737_QUEST_clinical_caseMIR	SENT2	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	54-56	737_QUEST_clinical_caseMIR	SENT2	-	-
+9	una	una		C0205447_1	calificador_1	57-60	737_QUEST_clinical_caseMIR	SENT2	-	-
+10	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	61-66	737_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	67-69	737_QUEST_clinical_caseMIR	SENT2	-	-
+12	37	37		-	-	70-72	737_QUEST_clinical_caseMIR	SENT2	-	-
+13	años	año	NCMP000	C0439234	calificador	73-77	737_QUEST_clinical_caseMIR	SENT2	-	-
+14	sin	sin	SPS00	C0332122_1	calificador_1	78-81	737_QUEST_clinical_caseMIR	SENT2	-	-
+15	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	82-94	737_QUEST_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332122_3	calificador_3	95-97	737_QUEST_clinical_caseMIR	SENT2	-	-
+17	interés	interés	NCMS000	-	-	98-105	737_QUEST_clinical_caseMIR	SENT2	-	-
+18	cuyo	cuyo	PR0MS000	-	-	106-110	737_QUEST_clinical_caseMIR	SENT2	-	-
+19	parto	parto	NCMS000	C1148523	entidad_observable	111-116	737_QUEST_clinical_caseMIR	SENT2	-	-
+20	fue	ser	VSIS3S0	-	-	117-120	737_QUEST_clinical_caseMIR	SENT2	-	-
+21	hace	hacer	VMIP3S0	-	-	121-125	737_QUEST_clinical_caseMIR	SENT2	-	-
+22	4	4		-	-	126-127	737_QUEST_clinical_caseMIR	SENT2	-	-
+23	meses	mes	NCMP000	C0439231	calificador	128-133	737_QUEST_clinical_caseMIR	SENT2	-	-
+24	,	,	Fc	-	-	133-134	737_QUEST_clinical_caseMIR	SENT2	-	-
+25	ha	haber	VAIP3S0	-	-	135-137	737_QUEST_clinical_caseMIR	SENT2	-	-
+26	reiniciado	reiniciar	VMP00SM	-	-	138-148	737_QUEST_clinical_caseMIR	SENT2	-	-
+27	sus	su	DP3CP0	-	-	149-152	737_QUEST_clinical_caseMIR	SENT2	-	-
+28	ciclos	ciclo	NCMP000	-	-	153-159	737_QUEST_clinical_caseMIR	SENT2	-	-
+29	menstruales	menstrual	AQ0CP0	-	-	160-171	737_QUEST_clinical_caseMIR	SENT2	-	-
+30	y	y	CC	C1706368	calificador	172-173	737_QUEST_clinical_caseMIR	SENT2	-	-
+31	mantiene	mantener	VMIP3S0	-	-	174-182	737_QUEST_clinical_caseMIR	SENT2	-	-
+32	lactancia	lactancia	NCFS000	C0006147_1	función_1	183-192	737_QUEST_clinical_caseMIR	SENT2	-	-
+33	materna	materno	AQ0FS0	C0006147_2	función_2	193-200	737_QUEST_clinical_caseMIR	SENT2	-	-
+34	.	.	Fp	-	-	200-201	737_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,26 +1,32 @@
-1	¿	¿	Fia	-	-	532-533	231_QUEST_clinical_caseMIR	SENT1	-	-
-2	Cuál	cuál	PT0CS000	-	-	533-537	231_QUEST_clinical_caseMIR	SENT1	-	-
-3	es	ser	VSIP3S0	-	-	538-540	231_QUEST_clinical_caseMIR	SENT1	-	-
-4	el	el	DA0MS0	-	-	541-543	231_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	544-555	231_QUEST_clinical_caseMIR	SENT1	-	-
-6	más	más	RG	C0205172	calificador	556-559	231_QUEST_clinical_caseMIR	SENT1	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	560-568	231_QUEST_clinical_caseMIR	SENT1	-	-
-8	?	?	Fit	-	-	568-569	231_QUEST_clinical_caseMIR	SENT1	-	-
-9	:	:	Fd	-	-	569-570	231_QUEST_clinical_caseMIR	SENT1	-	-
-10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	231_QUEST_clinical_caseMIR	SENT1	-	-
-11	de	de	SPS00	C0332285	atributo	6-8	231_QUEST_clinical_caseMIR	SENT1	-	-
-12	72	72		-	-	9-11	231_QUEST_clinical_caseMIR	SENT1	-	-
-13	años	año	NCMP000	C0439234	calificador	12-16	231_QUEST_clinical_caseMIR	SENT1	-	-
-14	con	con	SPS00	C0332287	atributo	17-20	231_QUEST_clinical_caseMIR	SENT1	-	-
-15	diabetes	diabetes	NCFN000	-	-	21-29	231_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-16	tipo	tipo	NCMS000	C0332307	calificador#atributo	30-34	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-17	2	2	Z	-	-	35-36	231_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-18	e	y	CC	C1706368	calificador	37-38	231_QUEST_clinical_caseMIR	SENT1	-	-
-19	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	39-52	231_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-20	renal	renal	AQ0CS0	C0403447_2	trastorno_2	53-58	231_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-21	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	59-66	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-22	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	231_QUEST_clinical_caseMIR	SENT1	-	-
-23	estadio	estadio	NCMS000	C0441777_1	calificador_1	70-77	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-24	5	5	Z	C0441777_2	calificador_2	79-80	231_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
-25	.	.	Fp	-	-	80-81	231_QUEST_clinical_caseMIR	SENT1	-	-
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	231_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	231_QUEST_clinical_caseMIR	SENT1	-	-
+3	72	72		-	-	9-11	231_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	231_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	231_QUEST_clinical_caseMIR	SENT1	-	-
+6	diabetes	diabetes	NCFN000	-	-	21-29	231_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	tipo	tipo	NCMS000	C0332307	calificador#atributo	30-34	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+8	2	2	Z	-	-	35-36	231_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+9	e	y	CC	C1706368	calificador	37-38	231_QUEST_clinical_caseMIR	SENT1	-	-
+10	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	39-52	231_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	renal	renal	AQ0CS0	C0403447_2	trastorno_2	53-58	231_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	59-66	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	231_QUEST_clinical_caseMIR	SENT1	-	-
+14	estadio	estadio	NCMS000	C0441777_1	calificador_1	70-77	231_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	5	5	Z	C0441777_2	calificador_2	79-80	231_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+16	.	.	Fp	-	-	80-81	231_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Ante	ante	SPS00	-	-	82-86	231_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	87-89	231_QUEST_clinical_caseMIR	SENT2	-	-
+3	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	90-98	231_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332147_2	calificador_2	99-101	231_QUEST_clinical_caseMIR	SENT2	-	-
+5	un	un		C0205447_1	calificador_1	102-104	231_QUEST_clinical_caseMIR	SENT2	-	-
+6	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	105-120	231_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+7	pulmonar	pulmonar	NC00SC0	C2709248	calificador	121-129	231_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	indique	indicar	VMM03S0	-	-	130-137	231_QUEST_clinical_caseMIR	SENT2	-	-
+9	qué	qué	DT0CN0	-	-	138-141	231_QUEST_clinical_caseMIR	SENT2	-	-
+10	prueba	prueba	NCFS000	-	-	142-148	231_QUEST_clinical_caseMIR	SENT2	-	-
+11	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	149-160	231_QUEST_clinical_caseMIR	SENT2	-	-
+12	estaría	estar	VAIC1S0	-	-	161-168	231_QUEST_clinical_caseMIR	SENT2	-	-
+13	contraindicada	contraindicar	VMP00SF	-	-	169-183	231_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	183-184	231_QUEST_clinical_caseMIR	SENT2	-	-
 

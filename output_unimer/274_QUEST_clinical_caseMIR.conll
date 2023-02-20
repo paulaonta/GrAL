@@ -55,3 +55,19 @@
 12	bilateral	bilateral	AQ0CS0	C0238767	calificador	290-299	274_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
 13	.	.	Fp	-	-	299-300	274_QUEST_clinical_caseMIR	SENT2	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	301-305	274_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	306-308	274_QUEST_clinical_caseMIR	SENT3	-	-
+3	estas	este	DD0FP0	-	-	309-314	274_QUEST_clinical_caseMIR	SENT3	-	-
+4	pruebas	prueba	NCFP000	-	-	315-322	274_QUEST_clinical_caseMIR	SENT3	-	-
+5	cree	creer	VMIP3S0	-	-	323-327	274_QUEST_clinical_caseMIR	SENT3	-	-
+6	que	que	CS	-	-	328-331	274_QUEST_clinical_caseMIR	SENT3	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	332-334	274_QUEST_clinical_caseMIR	SENT3	-	-
+8	va	ir	VMIP3S0	-	-	335-337	274_QUEST_clinical_caseMIR	SENT3	-	-
+9	a	a	SPS00	-	-	338-339	274_QUEST_clinical_caseMIR	SENT3	-	-
+10	permitir	permitir	VMN0000	-	-	340-348	274_QUEST_clinical_caseMIR	SENT3	-	-
+11	confirmar	confirmar	VMN0000	-	-	349-358	274_QUEST_clinical_caseMIR	SENT3	-	-
+12	plenamente	plenamente	RG	-	-	359-369	274_QUEST_clinical_caseMIR	SENT3	-	-
+13	su	su	DP3CS0	-	-	370-372	274_QUEST_clinical_caseMIR	SENT3	-	-
+14	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	373-384	274_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	384-385	274_QUEST_clinical_caseMIR	SENT3	-	-
+

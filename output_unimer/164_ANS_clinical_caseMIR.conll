@@ -1,22 +1,8 @@
-1	¿	¿	Fia	-	-	439-440	164_ANS_clinical_caseMIR	SENT1	-	-
-2	Qué	qué	DT0CN0	-	-	440-443	164_ANS_clinical_caseMIR	SENT1	-	-
-3	decisión	decisión	NCFS000	-	-	444-452	164_ANS_clinical_caseMIR	SENT1	-	-
-4	se	se	P00CN000	-	-	453-455	164_ANS_clinical_caseMIR	SENT1	-	-
-5	debería	deber	VMIC3S0	-	-	456-463	164_ANS_clinical_caseMIR	SENT1	-	-
-6	tomar	tomar	VMN0000	C1515187	calificador	464-469	164_ANS_clinical_caseMIR	SENT1	-	-
-7	sobre	sobre	SPS00	C1720294#C0205136	calificador	470-475	164_ANS_clinical_caseMIR	SENT1	-	-
-8	la	el	DA0FS0	-	-	476-478	164_ANS_clinical_caseMIR	SENT1	-	-
-9	antiagregación	antiagregación	NCFS000	-	-	479-493	164_ANS_clinical_caseMIR	SENT1	-	-
-10	preoperatoria	preoperatorio	AQ0FS0	C0445204	calificador	494-507	164_ANS_clinical_caseMIR	SENT1	-	-
-11	del	del	SP+DA	-	-	508-511	164_ANS_clinical_caseMIR	SENT1	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	512-520	164_ANS_clinical_caseMIR	SENT1	-	-
-13	?	?	Fit	-	-	520-521	164_ANS_clinical_caseMIR	SENT1	-	-
-14	:	:	Fd	-	-	521-522	164_ANS_clinical_caseMIR	SENT1	-	-
-15	Mucocele	mucocele	NCMS000	C0026683	anomalía_morfológica	0-8	164_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-16	de	de	SPS00	C0332285	atributo	9-11	164_ANS_clinical_caseMIR	SENT1	-	-
-17	seno	seno	NCMS000	C1278899#C0024957_1	estructura_corporal_1	12-16	164_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-18	maxilar	maxilar	NCMS000	C1278899#C0024957_2	estructura_corporal_2	17-24	164_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-19	.	.	Fp	-	-	24-25	164_ANS_clinical_caseMIR	SENT1	-	-
+1	Mucocele	mucocele	NCMS000	C0026683	anomalía_morfológica	0-8	164_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	9-11	164_ANS_clinical_caseMIR	SENT1	-	-
+3	seno	seno	NCMS000	C1278899#C0024957_1	estructura_corporal_1	12-16	164_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	maxilar	maxilar	NCMS000	C1278899#C0024957_2	estructura_corporal_2	17-24	164_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	24-25	164_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Sinusitis	sinusitis	NCFN000	C0275556_1	trastorno_1	0-9	164_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	bacteriana	bacteriano	AQ0FS0	C0275556_2	trastorno_2	10-20	164_ANS_clinical_caseMIR	SENT2	B-Calificador	-

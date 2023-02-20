@@ -1,22 +1,6 @@
-1	A	a	SPS00	-	-	323-324	148_ANS_clinical_caseMIR	SENT1	-	-
-2	la	el	DA0FS0	-	-	325-327	148_ANS_clinical_caseMIR	SENT1	-	-
-3	vista	vista	NCFS000	C0449911	atributo	328-333	148_ANS_clinical_caseMIR	SENT1	-	-
-4	de	de	SPS00	C0332285	atributo	334-336	148_ANS_clinical_caseMIR	SENT1	-	-
-5	estos	este	DD0MP0	-	-	337-342	148_ANS_clinical_caseMIR	SENT1	-	-
-6	datos	dato	NCMP000	-	-	343-348	148_ANS_clinical_caseMIR	SENT1	-	-
-7	,	,	Fc	-	-	348-349	148_ANS_clinical_caseMIR	SENT1	-	-
-8	¿	¿	Fia	-	-	350-351	148_ANS_clinical_caseMIR	SENT1	-	-
-9	cuál	cuál	PT0CS000	-	-	351-355	148_ANS_clinical_caseMIR	SENT1	-	-
-10	es	ser	VSIP3S0	-	-	356-358	148_ANS_clinical_caseMIR	SENT1	-	-
-11	el	el	DA0MS0	-	-	359-361	148_ANS_clinical_caseMIR	SENT1	-	-
-12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	362-373	148_ANS_clinical_caseMIR	SENT1	-	-
-13	más	más	RG	C0205172	calificador	374-377	148_ANS_clinical_caseMIR	SENT1	-	-
-14	probable	probable	AQ0CS0	C0332148	calificador	378-386	148_ANS_clinical_caseMIR	SENT1	-	-
-15	?	?	Fit	-	-	386-387	148_ANS_clinical_caseMIR	SENT1	-	-
-16	:	:	Fd	-	-	387-388	148_ANS_clinical_caseMIR	SENT1	-	-
-17	Insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	0-13	148_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	renal	renal	AQ0CS0	-	-	14-19	148_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-19	.	.	Fp	-	-	19-20	148_ANS_clinical_caseMIR	SENT1	-	-
+1	Insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	0-13	148_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	renal	renal	AQ0CS0	-	-	14-19	148_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	19-20	148_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Hiponatremia	hiponatremia	NCFS000	C0020625#C1971019	trastorno	0-12	148_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	.	.	Fp	-	-	12-13	148_ANS_clinical_caseMIR	SENT2	-	-

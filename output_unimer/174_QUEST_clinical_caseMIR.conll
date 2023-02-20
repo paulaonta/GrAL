@@ -47,7 +47,7 @@
 3	pruebas	prueba	NCFP000	-	-	258-265	174_QUEST_clinical_caseMIR	SENT3	-	-
 4	complementarias	complementario	AQ0FP0	-	-	266-281	174_QUEST_clinical_caseMIR	SENT3	-	-
 5	destaca	destacar	VMIP3S0	-	-	282-289	174_QUEST_clinical_caseMIR	SENT3	-	-
-6	:	:	Fd	-	-	289-290	174_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	289-290	174_QUEST_clinical_caseMIR	SENT3	-	-
 7	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	291-302	174_QUEST_clinical_caseMIR	SENT3	-	-
 8	8,5	8.5	Z	-	-	303-306	174_QUEST_clinical_caseMIR	SENT3	-	-
 9	mg	mg	NCMN000	-	-	307-309	174_QUEST_clinical_caseMIR	SENT3	-	-
@@ -96,4 +96,18 @@
 52	de	de	SPS00	C0332285	atributo	493-495	174_QUEST_clinical_caseMIR	SENT3	-	-
 53	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	496-501	174_QUEST_clinical_caseMIR	SENT3	-	-
 54	.	.	Fp	-	-	501-502	174_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Señale	señalar	VMM03S0	-	-	503-509	174_QUEST_clinical_caseMIR	SENT4	-	-
+2	el	el	DA0MS0	-	-	510-512	174_QUEST_clinical_caseMIR	SENT4	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	513-524	174_QUEST_clinical_caseMIR	SENT4	-	-
+4	más	más	RG	C0205172	calificador	525-528	174_QUEST_clinical_caseMIR	SENT4	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	529-537	174_QUEST_clinical_caseMIR	SENT4	-	-
+6	con	con	SPS00	C0332287	atributo	538-541	174_QUEST_clinical_caseMIR	SENT4	-	-
+7	los	el	DA0MP0	-	-	542-545	174_QUEST_clinical_caseMIR	SENT4	-	-
+8	datos	dato	NCMP000	-	-	546-551	174_QUEST_clinical_caseMIR	SENT4	-	-
+9	disponibles	disponible	AQ0CP0	C0470187	calificador	552-563	174_QUEST_clinical_caseMIR	SENT4	-	-
+10	hasta	hasta	SPS00	-	-	564-569	174_QUEST_clinical_caseMIR	SENT4	-	-
+11	este	este	DD0MS0	-	-	570-574	174_QUEST_clinical_caseMIR	SENT4	-	-
+12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	575-582	174_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	582-583	174_QUEST_clinical_caseMIR	SENT4	-	-
 

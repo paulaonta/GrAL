@@ -87,3 +87,13 @@
 17	indemne	indemne	AQ0CS0	-	-	465-472	754_QUEST_clinical_caseMIR	SENT5	-	-
 18	.	.	Fp	-	-	472-473	754_QUEST_clinical_caseMIR	SENT5	-	-
 
+1	Cuál	cuál	PT0CS000	-	-	474-478	754_QUEST_clinical_caseMIR	SENT6	-	-
+2	es	ser	VSIP3S0	-	-	479-481	754_QUEST_clinical_caseMIR	SENT6	-	-
+3	el	el	DA0MS0	-	-	482-484	754_QUEST_clinical_caseMIR	SENT6	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	485-496	754_QUEST_clinical_caseMIR	SENT6	-	-
+5	de	de	SPS00	C0332285	atributo	497-499	754_QUEST_clinical_caseMIR	SENT6	-	-
+6	sospecha	sospecha	NCFS000	C0750491	calificador	500-508	754_QUEST_clinical_caseMIR	SENT6	-	-
+7	más	más	RG	C0205172	calificador	509-512	754_QUEST_clinical_caseMIR	SENT6	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	513-521	754_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	521-522	754_QUEST_clinical_caseMIR	SENT6	-	-
+

@@ -52,7 +52,7 @@
 6	.	.	Fp	-	-	298-299	26_QUEST_clinical_caseMIR	SENT3	-	-
 
 1	Exploración	exploración	NCFS000	C1280903	procedimiento	300-311	26_QUEST_clinical_caseMIR	SENT4	-	-
-2	:	:	Fd	-	-	311-312	26_QUEST_clinical_caseMIR	SENT4	-	-
+2	.	.	Fp	-	-	311-312	26_QUEST_clinical_caseMIR	SENT4	-	-
 3	aspecto	aspecto	NCMS000	C0700364#C0233426#C0332441	calificador#función	313-320	26_QUEST_clinical_caseMIR	SENT4	-	-
 4	de	de	SPS00	C0332285	atributo	321-323	26_QUEST_clinical_caseMIR	SENT4	-	-
 5	gravedad	gravedad	NCFS000	C0282189#C0439793	fuerza_física#calificador	324-332	26_QUEST_clinical_caseMIR	SENT4	-	-
@@ -86,7 +86,7 @@
 3	.	.	Fp	-	-	466-467	26_QUEST_clinical_caseMIR	SENT5	-	-
 
 1	Analítica	analítica	NCFS000	-	-	468-477	26_QUEST_clinical_caseMIR	SENT6	-	-
-2	:	:	Fd	-	-	477-478	26_QUEST_clinical_caseMIR	SENT6	-	-
+2	.	.	Fp	-	-	477-478	26_QUEST_clinical_caseMIR	SENT6	-	-
 3	glucemia	glucemia	NCFS000	C2585282	entidad_observable	479-487	26_QUEST_clinical_caseMIR	SENT6	-	-
 4	420	420	Z	-	-	488-491	26_QUEST_clinical_caseMIR	SENT6	-	-
 5	mg	mg	NCMN000	-	-	492-494	26_QUEST_clinical_caseMIR	SENT6	-	-
@@ -118,4 +118,12 @@
 31	+	+	Fz	-	-	568-569	26_QUEST_clinical_caseMIR	SENT6	-	-
 32	)	)	Fpt	-	-	569-570	26_QUEST_clinical_caseMIR	SENT6	-	-
 33	.	.	Fp	-	-	570-571	26_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Qué	qué	DE0CN0	-	-	572-575	26_QUEST_clinical_caseMIR	SENT7	-	-
+2	respuesta	respuesta	NCFS000	-	-	576-585	26_QUEST_clinical_caseMIR	SENT7	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	586-588	26_QUEST_clinical_caseMIR	SENT7	-	-
+4	parece	parecer	VMIP3S0	-	-	589-595	26_QUEST_clinical_caseMIR	SENT7	-	-
+5	más	más	RG	C0205172	calificador	596-599	26_QUEST_clinical_caseMIR	SENT7	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	600-608	26_QUEST_clinical_caseMIR	SENT7	-	-
+7	.	.	Fp	-	-	608-609	26_QUEST_clinical_caseMIR	SENT7	-	-
 
