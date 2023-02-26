@@ -95,14 +95,17 @@
 15	dl	decilitro	NCMN000	C0439241	calificador	481-483	217_QUEST_clinical_caseMIR	SENT5	-	-
 16	.	.	Fp	-	-	483-484	217_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	485-489	217_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	490-492	217_QUEST_clinical_caseMIR	SENT6	-	-
-3	el	el	DA0MS0	-	-	493-495	217_QUEST_clinical_caseMIR	SENT6	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	496-507	217_QUEST_clinical_caseMIR	SENT6	-	-
-5	más	más	RG	C0205172	calificador	508-511	217_QUEST_clinical_caseMIR	SENT6	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	512-520	217_QUEST_clinical_caseMIR	SENT6	-	-
-7	de	de	SPS00	C0332285	atributo	521-523	217_QUEST_clinical_caseMIR	SENT6	-	-
-8	la	el	DA0FS0	-	-	524-526	217_QUEST_clinical_caseMIR	SENT6	-	-
-9	paciente	paciente	NCCS000	C0030705	persona	527-535	217_QUEST_clinical_caseMIR	SENT6	-	-
-10	.	.	Fp	-	-	535-536	217_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	485-486	217_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	486-490	217_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	491-493	217_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	494-496	217_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	497-508	217_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	509-512	217_QUEST_clinical_caseMIR	SENT6	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	513-521	217_QUEST_clinical_caseMIR	SENT6	-	-
+8	de	de	SPS00	C0332285	atributo	522-524	217_QUEST_clinical_caseMIR	SENT6	-	-
+9	la	el	DA0FS0	-	-	525-527	217_QUEST_clinical_caseMIR	SENT6	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	528-536	217_QUEST_clinical_caseMIR	SENT6	-	-
+11	?	?	Fit	-	-	536-537	217_QUEST_clinical_caseMIR	SENT6	-	-
+12	:	:	Fd	-	-	537-538	217_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	538-539	217_QUEST_clinical_caseMIR	SENT6	-	-
 

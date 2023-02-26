@@ -1,0 +1,21 @@
+1	Debut	debut	NCMS000	-	-	0-5	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	una	una		C0205447_1	calificador_1	9-12	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	13-21	26(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	22-30	26(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+6	tipo	tipo	NCMS000	C0011860_3	trastorno_3	31-35	26(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	2	2	Z	C0011860_4	trastorno_4	36-37	26(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+8	con	con	SPS00	C0332287	atributo	38-41	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	42-48	26(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	probablemente	probablemente	RG	C0332148	calificador	49-62	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	63-66	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	67-75	26(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+13	o	o	CC	-	-	76-77	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	78-93	26(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+15	.	.	Fp	-	-	93-94	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	ya	ya	RG	-	-	95-97	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	98-101	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	toma	tomar	VMIP3S0	C1515187	calificador	102-106	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	anovulatorios	anovulatorios	AQ0MP00	-	-	107-120	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	120-121	26(0)_ANS_clinical_caseMIR	SENT1	-	-
+

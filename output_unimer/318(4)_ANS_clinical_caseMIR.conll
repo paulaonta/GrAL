@@ -1,0 +1,21 @@
+1	La	el	DA0FS0	-	-	0-2	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	tiene	tener	VMIP3S0	-	-	12-17	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	18-21	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	pielonefritis	pielonefritis	NC00SC0	C0520575_1	trastorno_1	22-35	318(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	aguda	agudo	AQ0FS0	C0520575_2	trastorno_2	36-41	318(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	y	y	CC	C1706368	calificador	42-43	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	44-46	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	47-58	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	óptimo	bueno	AQSMS0	C0205170	calificador	59-65	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	es	ser	VSIP3S0	-	-	66-68	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	69-71	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	combinación	combinación	NCFS000	C0205195#C0453882	calificador#objeto_físico	72-83	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	84-86	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	sondaje	sondaje	NCMS000	-	-	87-94	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	vesical	vesical	AQ0CS0	-	-	95-102	318(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	con	con	SPS00	C0332287	atributo	103-106	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	antibioterapia	antibioterapia	NCFS000	-	-	107-121	318(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	endovenosa	endovenoso	AQ0FS0	-	-	122-132	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	132-133	318(4)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -56,7 +56,7 @@
 4	basa	basar	VMM02S0	-	-	307-311	30_QUEST_clinical_caseMIR	SENT3	-	-
 5	les	le	PP3CPD00	C1292157#C0409974	hallazgo#trastorno	311-314	30_QUEST_clinical_caseMIR	SENT3	-	-
 6	son	ser	VSIP3P0	-	-	315-318	30_QUEST_clinical_caseMIR	SENT3	-	-
-7	.	.	Fp	-	-	318-319	30_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	318-319	30_QUEST_clinical_caseMIR	SENT3	-	-
 8	glucemia	glucemia	NCFS000	C2585282	entidad_observable	320-328	30_QUEST_clinical_caseMIR	SENT3	-	-
 9	120	120	Z	-	-	329-332	30_QUEST_clinical_caseMIR	SENT3	-	-
 10	mg	mg	NCMN000	-	-	333-335	30_QUEST_clinical_caseMIR	SENT3	-	-
@@ -87,5 +87,6 @@
 8	de	de	SPS00	C0332285	atributo	431-433	30_QUEST_clinical_caseMIR	SENT4	-	-
 9	lípidos	lípido	NCMP000	C0023779	sustancia	434-441	30_QUEST_clinical_caseMIR	SENT4	-	-
 10	que	que	PR0CN000	-	-	442-445	30_QUEST_clinical_caseMIR	SENT4	-	-
-11	.	.	Fp	-	-	445-446	30_QUEST_clinical_caseMIR	SENT4	-	-
+11	:	:	Fd	-	-	445-446	30_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	446-447	30_QUEST_clinical_caseMIR	SENT4	-	-
 

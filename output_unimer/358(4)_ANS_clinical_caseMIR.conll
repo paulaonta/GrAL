@@ -1,0 +1,16 @@
+1	El	el	DA0MS0	C0025320_1	entidad_observable_1	0-2	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	cambio	cambio	NCMS000	C0025320_2	entidad_observable_2	3-9	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	ciprofloxacino	ciprofloxacino	NC00SC0	C0008809	sustancia	13-27	358(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	por	por	SPS00	C0678226	atributo	28-31	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	fosfomicina	fosfomicina	NC00SC0	C0016610	producto#sustancia	32-43	358(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	fue	ser	VSIS3S0	-	-	44-47	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	correcto	correcto	AQ0MS0	C0205170	calificador	48-56	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	56-57	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	según	según	SPS00	-	-	58-63	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	los	el	DA0MP0	-	-	64-67	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	68-78	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	del	del	SP+DA	-	-	79-82	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	83-95	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	95-96	358(4)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -64,11 +64,14 @@
 19	externo	externo	NCMS000	C0013444#C1268970_3	estructura_corporal_3	365-372	665_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 20	.	.	Fp	-	-	372-373	665_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	374-378	665_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	379-381	665_QUEST_clinical_caseMIR	SENT3	-	-
-3	el	el	DA0MS0	-	-	382-384	665_QUEST_clinical_caseMIR	SENT3	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	385-396	665_QUEST_clinical_caseMIR	SENT3	-	-
-5	más	más	RG	C0205172	calificador	397-400	665_QUEST_clinical_caseMIR	SENT3	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	401-409	665_QUEST_clinical_caseMIR	SENT3	-	-
-7	.	.	Fp	-	-	409-410	665_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	374-375	665_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	375-379	665_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	380-382	665_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	383-385	665_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	386-397	665_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	398-401	665_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	402-410	665_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	410-411	665_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	411-412	665_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	412-413	665_QUEST_clinical_caseMIR	SENT3	-	-
 

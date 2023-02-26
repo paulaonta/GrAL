@@ -1,0 +1,17 @@
+1	Al	al	SP+DA	-	-	0-2	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	ser	ser	VSN0000	-	-	3-6	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	el	el	DA0MS0	-	-	7-9	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	primer	1	AO0MS0	C0439615_1	calificador_1	10-16	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	episodio	episodio	NCMS000	C0439615_2	calificador_2	17-25	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	lumbalgia	lumbalgia	NCFS000	C0024031	trastorno	29-38	755(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	,	,	Fc	-	-	38-39	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	únicamente	únicamente	RG	-	-	40-50	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	51-54	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	55-66	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	simple	simple	NCCS000	C1306645_2	procedimiento_2	67-73	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	74-76	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	columna	columna	NCFS000	C0024091#C1269871_1	estructura_corporal_1	77-84	755(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	lumbar	lumbar	NC00SC0	C0024091#C1269871_2	estructura_corporal_2	85-91	755(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	.	.	Fp	-	-	91-92	755(0)_ANS_clinical_caseMIR	SENT1	-	-
+

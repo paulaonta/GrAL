@@ -41,7 +41,7 @@
 4	de	de	SPS00	C0702196_2	situación_2	211-213	715_QUEST_clinical_caseMIR	SENT3	-	-
 5	sangre	sangre	NCFS000	C0702196_3	situación_3	214-220	715_QUEST_clinical_caseMIR	SENT3	-	-
 6	destaca	destacar	VMIP3S0	-	-	221-228	715_QUEST_clinical_caseMIR	SENT3	-	-
-7	.	.	Fp	-	-	228-229	715_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	228-229	715_QUEST_clinical_caseMIR	SENT3	-	-
 8	hemograma	hemograma	NCMS000	C0200631	procedimiento	229-238	715_QUEST_clinical_caseMIR	SENT3	-	-
 9	normal	normal	AQ0CS0	C0205307	calificador	239-245	715_QUEST_clinical_caseMIR	SENT3	-	-
 10	;	;	Fx	-	-	245-246	715_QUEST_clinical_caseMIR	SENT3	-	-
@@ -97,12 +97,15 @@
 15	bilateral	bilateral	AQ0CS0	C0238767	calificador	466-475	715_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
 16	.	.	Fp	-	-	475-476	715_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	477-481	715_QUEST_clinical_caseMIR	SENT6	-	-
-2	de	de	SPS00	C0332285	atributo	482-484	715_QUEST_clinical_caseMIR	SENT6	-	-
-3	las	el	DA0FP0	-	-	485-488	715_QUEST_clinical_caseMIR	SENT6	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	489-499	715_QUEST_clinical_caseMIR	SENT6	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	500-512	715_QUEST_clinical_caseMIR	SENT6	-	-
-6	es	ser	VSIP3S0	-	-	513-515	715_QUEST_clinical_caseMIR	SENT6	-	-
-7	cierta	cierto	AQ0FS0	C0205423	calificador	516-522	715_QUEST_clinical_caseMIR	SENT6	-	-
-8	.	.	Fp	-	-	522-523	715_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	477-478	715_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	478-482	715_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	483-485	715_QUEST_clinical_caseMIR	SENT6	-	-
+4	las	el	DA0FP0	-	-	486-489	715_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	490-500	715_QUEST_clinical_caseMIR	SENT6	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	501-513	715_QUEST_clinical_caseMIR	SENT6	-	-
+7	es	ser	VSIP3S0	-	-	514-516	715_QUEST_clinical_caseMIR	SENT6	-	-
+8	cierta	cierto	AQ0FS0	C0205423	calificador	517-523	715_QUEST_clinical_caseMIR	SENT6	-	-
+9	?	?	Fit	-	-	523-524	715_QUEST_clinical_caseMIR	SENT6	-	-
+10	:	:	Fd	-	-	524-525	715_QUEST_clinical_caseMIR	SENT6	-	-
+11	.	.	Fp	-	-	525-526	715_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -53,9 +53,12 @@
 29	ojos	ojo	NCMP000	C1456809#C0229118_2	estructura_corporal_2	304-308	166_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 30	.	.	Fp	-	-	308-309	166_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	310-314	166_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	315-317	166_QUEST_clinical_caseMIR	SENT3	-	-
-3	su	su	DP3CS0	-	-	318-320	166_QUEST_clinical_caseMIR	SENT3	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	321-332	166_QUEST_clinical_caseMIR	SENT3	-	-
-5	.	.	Fp	-	-	332-333	166_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	310-311	166_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	311-315	166_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	316-318	166_QUEST_clinical_caseMIR	SENT3	-	-
+4	su	su	DP3CS0	-	-	319-321	166_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	322-333	166_QUEST_clinical_caseMIR	SENT3	-	-
+6	?	?	Fit	-	-	333-334	166_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	334-335	166_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	335-336	166_QUEST_clinical_caseMIR	SENT3	-	-
 

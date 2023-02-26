@@ -116,13 +116,16 @@
 23	negativas	negativo	AQ0FP0	C0205160#C0549184	calificador	649-658	222_QUEST_clinical_caseMIR	SENT6	-	-
 24	.	.	Fp	-	-	658-659	222_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	660-664	222_QUEST_clinical_caseMIR	SENT7	-	-
-2	es	ser	VSIP3S0	-	-	665-667	222_QUEST_clinical_caseMIR	SENT7	-	-
-3	el	el	DA0MS0	-	-	668-670	222_QUEST_clinical_caseMIR	SENT7	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	671-682	222_QUEST_clinical_caseMIR	SENT7	-	-
-5	de	de	SPS00	C0332285	atributo	683-685	222_QUEST_clinical_caseMIR	SENT7	-	-
-6	sospecha	sospecha	NCFS000	C0750491	calificador	686-694	222_QUEST_clinical_caseMIR	SENT7	-	-
-7	más	más	RG	C0205172	calificador	695-698	222_QUEST_clinical_caseMIR	SENT7	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	699-707	222_QUEST_clinical_caseMIR	SENT7	-	-
-9	.	.	Fp	-	-	707-708	222_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	660-661	222_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	661-665	222_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	666-668	222_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	669-671	222_QUEST_clinical_caseMIR	SENT7	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	672-683	222_QUEST_clinical_caseMIR	SENT7	-	-
+6	de	de	SPS00	C0332285	atributo	684-686	222_QUEST_clinical_caseMIR	SENT7	-	-
+7	sospecha	sospecha	NCFS000	C0750491	calificador	687-695	222_QUEST_clinical_caseMIR	SENT7	-	-
+8	más	más	RG	C0205172	calificador	696-699	222_QUEST_clinical_caseMIR	SENT7	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	700-708	222_QUEST_clinical_caseMIR	SENT7	-	-
+10	?	?	Fit	-	-	708-709	222_QUEST_clinical_caseMIR	SENT7	-	-
+11	:	:	Fd	-	-	709-710	222_QUEST_clinical_caseMIR	SENT7	-	-
+12	.	.	Fp	-	-	710-711	222_QUEST_clinical_caseMIR	SENT7	-	-
 

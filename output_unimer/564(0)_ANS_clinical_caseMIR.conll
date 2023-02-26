@@ -1,0 +1,23 @@
+1	A	a	SPS00	-	-	0-1	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	lo	PP3FSA00	-	-	2-4	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	espera	esperar	VMM02S0	-	-	5-11	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	15-18	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	se	se	P00CN000	-	-	19-21	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	confirme	confirmar	VMSP3S0	-	-	22-30	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	31-33	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	sensibilidad	sensibilidad	NCFS000	C1264642#C0439823#C0312418	calificador#hallazgo	34-46	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	47-49	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	cefotaxima	cefotaxima	NC00SC0	C0007554	sustancia	50-60	564(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	,	,	Fc	-	-	60-61	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	mantener	mantener	VMN0000	-	-	62-70	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	el	el	DA0MS0	-	-	71-73	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	74-85	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	con	con	SPS00	C0332287	atributo	86-89	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	esta	este	DD0FS0	-	-	90-94	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	cefalosporina	cefalosporina	NCFS000	-	-	95-108	564(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	de	de	SPS00	C0332285	atributo	109-111	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	amplio	amplio	AQ0MS0	-	-	112-118	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	espectro	espectro	NCMS000	-	-	119-127	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	127-128	564(0)_ANS_clinical_caseMIR	SENT1	-	-
+

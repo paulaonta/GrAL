@@ -103,11 +103,13 @@
 3	maleolares	maleolar	AQ0CP0	-	-	590-600	287_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 4	.	.	Fp	-	-	600-601	287_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	602-606	287_QUEST_clinical_caseMIR	SENT7	-	-
-2	es	ser	VSIP3S0	-	-	607-609	287_QUEST_clinical_caseMIR	SENT7	-	-
-3	el	el	DA0MS0	-	-	610-612	287_QUEST_clinical_caseMIR	SENT7	-	-
-4	planteamiento	planteamiento	NCMS000	-	-	613-626	287_QUEST_clinical_caseMIR	SENT7	-	-
-5	a	a	SPS00	-	-	627-628	287_QUEST_clinical_caseMIR	SENT7	-	-
-6	seguir	seguir	VMN0000	-	-	629-635	287_QUEST_clinical_caseMIR	SENT7	-	-
-7	.	.	Fp	-	-	635-636	287_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	602-603	287_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	603-607	287_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	608-610	287_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	611-613	287_QUEST_clinical_caseMIR	SENT7	-	-
+5	planteamiento	planteamiento	NCMS000	-	-	614-627	287_QUEST_clinical_caseMIR	SENT7	-	-
+6	a	a	SPS00	-	-	628-629	287_QUEST_clinical_caseMIR	SENT7	-	-
+7	seguir	seguir	VMN0000	-	-	630-636	287_QUEST_clinical_caseMIR	SENT7	-	-
+8	?	?	Fit	-	-	636-637	287_QUEST_clinical_caseMIR	SENT7	-	-
+9	.	.	Fp	-	-	637-638	287_QUEST_clinical_caseMIR	SENT7	-	-
 

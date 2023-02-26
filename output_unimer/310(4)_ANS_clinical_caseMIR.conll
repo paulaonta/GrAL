@@ -1,0 +1,16 @@
+1	El	el	DA0MS0	-	-	0-2	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	15-18	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	testosterona	testosterona	NCFS000	C0039601	producto#sustancia	19-31	310(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	no	no	RN	C1298908	calificador	32-34	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	requiere	requerir	VMIP3S0	-	-	35-43	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	44-46	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	monitorización	monitorización	NCFS000	-	-	47-61	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	62-64	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	las	el	DA0FP0	-	-	65-68	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	concentraciones	concentración	NCFP000	C0086045	entidad_observable	69-84	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	85-87	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	hormona	hormona	NCFS000	C0023607_1	sustancia_1	88-95	310(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	luteinizante	luteinizante		C0023607_2	sustancia_2	96-108	310(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+15	.	.	Fp	-	-	108-109	310(4)_ANS_clinical_caseMIR	SENT1	-	-
+

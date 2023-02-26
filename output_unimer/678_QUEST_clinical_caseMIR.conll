@@ -54,10 +54,13 @@
 32	x103/μL	x103/μL		-	-	284-291	678_QUEST_clinical_caseMIR	SENT2	-	-
 33	.	.	Fp	-	-	291-292	678_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	293-296	678_QUEST_clinical_caseMIR	SENT3	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	297-304	678_QUEST_clinical_caseMIR	SENT3	-	-
-3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	305-307	678_QUEST_clinical_caseMIR	SENT3	-	-
-4	parece	parecer	VMIP3S0	-	-	308-314	678_QUEST_clinical_caseMIR	SENT3	-	-
-5	correcta	correcto	AQ0FS0	C0205170	calificador	315-323	678_QUEST_clinical_caseMIR	SENT3	-	-
-6	.	.	Fp	-	-	323-324	678_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	293-294	678_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	294-297	678_QUEST_clinical_caseMIR	SENT3	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	298-305	678_QUEST_clinical_caseMIR	SENT3	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	306-308	678_QUEST_clinical_caseMIR	SENT3	-	-
+5	parece	parecer	VMIP3S0	-	-	309-315	678_QUEST_clinical_caseMIR	SENT3	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	316-324	678_QUEST_clinical_caseMIR	SENT3	-	-
+7	?	?	Fit	-	-	324-325	678_QUEST_clinical_caseMIR	SENT3	-	-
+8	:	:	Fd	-	-	325-326	678_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	326-327	678_QUEST_clinical_caseMIR	SENT3	-	-
 

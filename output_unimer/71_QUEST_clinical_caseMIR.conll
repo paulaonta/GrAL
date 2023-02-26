@@ -50,11 +50,14 @@
 50	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	287-294	71_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
 51	.	.	Fp	-	-	294-295	71_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Qué	qué	DE0CN0	-	-	296-299	71_QUEST_clinical_caseMIR	SENT2	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	300-311	71_QUEST_clinical_caseMIR	SENT2	-	-
-3	sería	ser	VSIC1S0	-	-	312-317	71_QUEST_clinical_caseMIR	SENT2	-	-
-4	el	el	DA0MS0	C0205393_1	calificador_1	318-320	71_QUEST_clinical_caseMIR	SENT2	-	-
-5	más	más	RG	C0205393_2	calificador_2	321-324	71_QUEST_clinical_caseMIR	SENT2	-	-
-6	adecuado	adecuar	VMP00SM	-	-	325-333	71_QUEST_clinical_caseMIR	SENT2	-	-
-7	.	.	Fp	-	-	333-334	71_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	296-297	71_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	297-300	71_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	301-312	71_QUEST_clinical_caseMIR	SENT2	-	-
+4	sería	ser	VSIC1S0	-	-	313-318	71_QUEST_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	C0205393_1	calificador_1	319-321	71_QUEST_clinical_caseMIR	SENT2	-	-
+6	más	más	RG	C0205393_2	calificador_2	322-325	71_QUEST_clinical_caseMIR	SENT2	-	-
+7	adecuado	adecuar	VMP00SM	-	-	326-334	71_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	334-335	71_QUEST_clinical_caseMIR	SENT2	-	-
+9	:	:	Fd	-	-	335-336	71_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	336-337	71_QUEST_clinical_caseMIR	SENT2	-	-
 

@@ -68,7 +68,7 @@
 5	.	.	Fp	-	-	348-349	27_QUEST_clinical_caseMIR	SENT4	-	-
 
 1	Exploración	exploración	NCFS000	C1280903	procedimiento	350-361	27_QUEST_clinical_caseMIR	SENT5	-	-
-2	.	.	Fp	-	-	361-362	27_QUEST_clinical_caseMIR	SENT5	-	-
+2	:	:	Fd	-	-	361-362	27_QUEST_clinical_caseMIR	SENT5	-	-
 3	talla	tallar	VMM02S0	C0349588_1	situación_1	363-368	27_QUEST_clinical_caseMIR	SENT5	-	-
 4	baja	bajo	AQ0FS0	C0349588_2	situación_2	369-373	27_QUEST_clinical_caseMIR	SENT5	-	-
 5	situada	situar	VMP00SF	-	-	374-381	27_QUEST_clinical_caseMIR	SENT5	-	-
@@ -100,7 +100,7 @@
 
 1	Edad	edad	NCFS000	C0429620_1	entidad_observable_1	551-555	27_QUEST_clinical_caseMIR	SENT7	-	-
 2	ósea	óseo	AQ0FS0	C0429620_2	entidad_observable_2	556-560	27_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
-3	.	.	Fp	-	-	560-561	27_QUEST_clinical_caseMIR	SENT7	-	-
+3	:	:	Fd	-	-	560-561	27_QUEST_clinical_caseMIR	SENT7	-	-
 4	retraso	retraso	NCMS000	-	-	562-569	27_QUEST_clinical_caseMIR	SENT7	-	-
 5	de	de	SPS00	C0332285	atributo	570-572	27_QUEST_clinical_caseMIR	SENT7	-	-
 6	2	2		-	-	573-574	27_QUEST_clinical_caseMIR	SENT7	-	-
@@ -123,12 +123,15 @@
 9	bajos	bajo	AQ0MP0	C0205251	calificador	645-650	27_QUEST_clinical_caseMIR	SENT9	-	-
 10	.	.	Fp	-	-	650-651	27_QUEST_clinical_caseMIR	SENT9	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	652-656	27_QUEST_clinical_caseMIR	SENT10	-	-
-2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	657-659	27_QUEST_clinical_caseMIR	SENT10	-	-
-3	parece	parecer	VMIP3S0	-	-	660-666	27_QUEST_clinical_caseMIR	SENT10	-	-
-4	la	el	DA0FS0	-	-	667-669	27_QUEST_clinical_caseMIR	SENT10	-	-
-5	respuesta	respuesta	NCFS000	-	-	670-679	27_QUEST_clinical_caseMIR	SENT10	-	-
-6	más	más	RG	C0205172	calificador	680-683	27_QUEST_clinical_caseMIR	SENT10	-	-
-7	idónea	idóneo	AQ0FS0	-	-	684-690	27_QUEST_clinical_caseMIR	SENT10	-	-
-8	.	.	Fp	-	-	690-691	27_QUEST_clinical_caseMIR	SENT10	-	-
+1	¿	¿	Fia	-	-	652-653	27_QUEST_clinical_caseMIR	SENT10	-	-
+2	Cuál	cuál	PT0CS000	-	-	653-657	27_QUEST_clinical_caseMIR	SENT10	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	658-660	27_QUEST_clinical_caseMIR	SENT10	-	-
+4	parece	parecer	VMIP3S0	-	-	661-667	27_QUEST_clinical_caseMIR	SENT10	-	-
+5	la	el	DA0FS0	-	-	668-670	27_QUEST_clinical_caseMIR	SENT10	-	-
+6	respuesta	respuesta	NCFS000	-	-	671-680	27_QUEST_clinical_caseMIR	SENT10	-	-
+7	más	más	RG	C0205172	calificador	681-684	27_QUEST_clinical_caseMIR	SENT10	-	-
+8	idónea	idóneo	AQ0FS0	-	-	685-691	27_QUEST_clinical_caseMIR	SENT10	-	-
+9	?	?	Fit	-	-	691-692	27_QUEST_clinical_caseMIR	SENT10	-	-
+10	:	:	Fd	-	-	692-693	27_QUEST_clinical_caseMIR	SENT10	-	-
+11	.	.	Fp	-	-	693-694	27_QUEST_clinical_caseMIR	SENT10	-	-
 

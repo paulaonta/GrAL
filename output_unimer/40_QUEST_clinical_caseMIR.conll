@@ -68,14 +68,17 @@
 8	normalidad	normalidad	NCFS000	-	-	363-373	40_QUEST_clinical_caseMIR	SENT2	-	-
 9	.	.	Fp	-	-	373-374	40_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	375-378	40_QUEST_clinical_caseMIR	SENT3	-	-
-2	exploración	exploración	NCFS000	C1280903	procedimiento	379-390	40_QUEST_clinical_caseMIR	SENT3	-	-
-3	complementaria	complementario	AQ0FS0	-	-	391-405	40_QUEST_clinical_caseMIR	SENT3	-	-
-4	entre	entre	SPS00	C0205103	calificador	406-411	40_QUEST_clinical_caseMIR	SENT3	-	-
-5	los	el	DA0MP0	-	-	412-415	40_QUEST_clinical_caseMIR	SENT3	-	-
-6	siguientes	siguiente	AQ0CP0	C0332282	atributo	416-426	40_QUEST_clinical_caseMIR	SENT3	-	-
-7	pediría	pedir	VMIC3S0	-	-	427-434	40_QUEST_clinical_caseMIR	SENT3	-	-
-8	a	a	SPS00	-	-	435-436	40_QUEST_clinical_caseMIR	SENT3	-	-
-9	continuación	continuación	NCFS000	-	-	437-449	40_QUEST_clinical_caseMIR	SENT3	-	-
-10	.	.	Fp	-	-	449-450	40_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	375-376	40_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	376-379	40_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	380-391	40_QUEST_clinical_caseMIR	SENT3	-	-
+4	complementaria	complementario	AQ0FS0	-	-	392-406	40_QUEST_clinical_caseMIR	SENT3	-	-
+5	entre	entre	SPS00	C0205103	calificador	407-412	40_QUEST_clinical_caseMIR	SENT3	-	-
+6	los	el	DA0MP0	-	-	413-416	40_QUEST_clinical_caseMIR	SENT3	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	417-427	40_QUEST_clinical_caseMIR	SENT3	-	-
+8	pediría	pedir	VMIC3S0	-	-	428-435	40_QUEST_clinical_caseMIR	SENT3	-	-
+9	a	a	SPS00	-	-	436-437	40_QUEST_clinical_caseMIR	SENT3	-	-
+10	continuación	continuación	NCFS000	-	-	438-450	40_QUEST_clinical_caseMIR	SENT3	-	-
+11	?	?	Fit	-	-	450-451	40_QUEST_clinical_caseMIR	SENT3	-	-
+12	:	:	Fd	-	-	451-452	40_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	452-453	40_QUEST_clinical_caseMIR	SENT3	-	-
 

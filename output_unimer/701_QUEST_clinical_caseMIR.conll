@@ -38,7 +38,7 @@
 18	.	.	Fp	-	-	204-205	701_QUEST_clinical_caseMIR	SENT2	-	-
 
 1	Exploración	exploración	NCFS000	C1280903	procedimiento	206-217	701_QUEST_clinical_caseMIR	SENT3	-	-
-2	.	.	Fp	-	-	217-218	701_QUEST_clinical_caseMIR	SENT3	-	-
+2	:	:	Fd	-	-	217-218	701_QUEST_clinical_caseMIR	SENT3	-	-
 3	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	219-226	701_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 4	globulosa	globuloso	AQ0FS0	-	-	227-236	701_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
 5	,	,	Fc	-	-	236-237	701_QUEST_clinical_caseMIR	SENT3	-	-
@@ -72,10 +72,13 @@
 13	medial	medial	AQ0CS0	C0205098#C2939193#C0444598#C0549183	calificador	392-398	701_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
 14	.	.	Fp	-	-	398-399	701_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	400-404	701_QUEST_clinical_caseMIR	SENT5	-	-
-2	sería	ser	VSIC1S0	-	-	405-410	701_QUEST_clinical_caseMIR	SENT5	-	-
-3	su	su	DP3CS0	-	-	411-413	701_QUEST_clinical_caseMIR	SENT5	-	-
-4	manejo	manejo	NCMS000	C1273870	procedimiento	414-420	701_QUEST_clinical_caseMIR	SENT5	-	-
-5	inicial	inicial	AQ0CS0	C0205265	calificador	421-428	701_QUEST_clinical_caseMIR	SENT5	-	-
-6	.	.	Fp	-	-	428-429	701_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	400-401	701_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	401-405	701_QUEST_clinical_caseMIR	SENT5	-	-
+3	sería	ser	VSIC1S0	-	-	406-411	701_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	412-414	701_QUEST_clinical_caseMIR	SENT5	-	-
+5	manejo	manejo	NCMS000	C1273870	procedimiento	415-421	701_QUEST_clinical_caseMIR	SENT5	-	-
+6	inicial	inicial	AQ0CS0	C0205265	calificador	422-429	701_QUEST_clinical_caseMIR	SENT5	-	-
+7	?	?	Fit	-	-	429-430	701_QUEST_clinical_caseMIR	SENT5	-	-
+8	:	:	Fd	-	-	430-431	701_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	431-432	701_QUEST_clinical_caseMIR	SENT5	-	-
 

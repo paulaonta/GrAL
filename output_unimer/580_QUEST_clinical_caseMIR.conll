@@ -28,7 +28,7 @@
 3	siguiente	siguiente	AQ0CS0	C0332282	atributo	121-130	580_QUEST_clinical_caseMIR	SENT2	-	-
 4	perfil	perfil	NCMS000	-	-	131-137	580_QUEST_clinical_caseMIR	SENT2	-	-
 5	lipídico	lipídico	AQ0MS0	-	-	138-146	580_QUEST_clinical_caseMIR	SENT2	-	-
-6	.	.	Fp	-	-	146-147	580_QUEST_clinical_caseMIR	SENT2	-	-
+6	:	:	Fd	-	-	146-147	580_QUEST_clinical_caseMIR	SENT2	-	-
 7	colesterol	colesterol	NCMS000	C0543421_1	sustancia_1	148-158	580_QUEST_clinical_caseMIR	SENT2	-	-
 8	total	total	NCMS000	C0543421_2	sustancia_2	159-164	580_QUEST_clinical_caseMIR	SENT2	-	-
 9	276	276	Z	-	-	165-168	580_QUEST_clinical_caseMIR	SENT2	-	-
@@ -116,11 +116,13 @@
 25	mmHg	mmHg	NCMP000	-	-	525-529	580_QUEST_clinical_caseMIR	SENT5	-	-
 26	.	.	Fp	-	-	529-530	580_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	531-535	580_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	536-538	580_QUEST_clinical_caseMIR	SENT6	-	-
-3	el	el	DA0MS0	-	-	539-541	580_QUEST_clinical_caseMIR	SENT6	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	542-553	580_QUEST_clinical_caseMIR	SENT6	-	-
-5	más	más	RG	C0205172	calificador	554-557	580_QUEST_clinical_caseMIR	SENT6	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	558-566	580_QUEST_clinical_caseMIR	SENT6	-	-
-7	.	.	Fp	-	-	566-567	580_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	531-532	580_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	532-536	580_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	537-539	580_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	540-542	580_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	543-554	580_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	555-558	580_QUEST_clinical_caseMIR	SENT6	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	559-567	580_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	567-568	580_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	568-569	580_QUEST_clinical_caseMIR	SENT6	-	-
 

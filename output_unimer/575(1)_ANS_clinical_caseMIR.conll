@@ -1,0 +1,12 @@
+1	Ondas	onda	NCFP000	-	-	0-5	575(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	peristálticas	peristáltico	AQ0FP0	-	-	6-19	575(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	20-22	575(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	cuerpo	cuerpo	NCMS000	-	-	23-29	575(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	esofágico	esofágico	AQ0MS0	-	-	30-39	575(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+6	y	y	CC	C1706368	calificador	40-41	575(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	esfínter	esfínter	NCMS000	C0014865_1	estructura_corporal_1	42-50	575(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	esofágico	esofágico	AQ0MS0	C0014865_2	estructura_corporal_2	51-60	575(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	superior	superior	AQ0CS0	C1282910	calificador	61-69	575(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+10	hipotenso	hipotenso	AQ0MS0	-	-	70-79	575(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	79-80	575(1)_ANS_clinical_caseMIR	SENT1	-	-
+

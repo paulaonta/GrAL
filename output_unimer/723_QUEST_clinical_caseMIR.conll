@@ -69,7 +69,7 @@
 24	los	el	DA0MP0	-	-	357-360	723_QUEST_clinical_caseMIR	SENT4	-	-
 25	siguientes	siguiente	AQ0CP0	C0332282	atributo	361-371	723_QUEST_clinical_caseMIR	SENT4	-	-
 26	datos	dato	NCMP000	-	-	372-377	723_QUEST_clinical_caseMIR	SENT4	-	-
-27	.	.	Fp	-	-	377-378	723_QUEST_clinical_caseMIR	SENT4	-	-
+27	:	:	Fd	-	-	377-378	723_QUEST_clinical_caseMIR	SENT4	-	-
 28	presión	presión	NCFS000	C0460139	hallazgo	379-386	723_QUEST_clinical_caseMIR	SENT4	-	-
 29	de	de	SPS00	C0332285	atributo	387-389	723_QUEST_clinical_caseMIR	SENT4	-	-
 30	apertura	apertura	NCFS000	C0547049#C0175566	calificador	390-398	723_QUEST_clinical_caseMIR	SENT4	-	-
@@ -97,11 +97,14 @@
 52	g	g	NCMN000	-	-	482-483	723_QUEST_clinical_caseMIR	SENT4	-	-
 53	/	/	Fh	-	-	483-484	723_QUEST_clinical_caseMIR	SENT4	-	-
 54	L.	l.	NCFS000	-	-	484-486	723_QUEST_clinical_caseMIR	SENT4	-	-
-55	Cuál	cuál	PT0CS000	-	-	487-491	723_QUEST_clinical_caseMIR	SENT4	-	-
-56	es	ser	VSIP3S0	-	-	492-494	723_QUEST_clinical_caseMIR	SENT4	-	-
-57	la	el	DA0FS0	-	-	495-497	723_QUEST_clinical_caseMIR	SENT4	-	-
-58	etiología	etiología	NCFS000	C1314792	atributo	498-507	723_QUEST_clinical_caseMIR	SENT4	-	-
-59	más	más	RG	C0205172	calificador	508-511	723_QUEST_clinical_caseMIR	SENT4	-	-
-60	probable	probable	AQ0CS0	C0332148	calificador	512-520	723_QUEST_clinical_caseMIR	SENT4	-	-
-61	.	.	Fp	-	-	520-521	723_QUEST_clinical_caseMIR	SENT4	-	-
+55	¿	¿	Fia	-	-	487-488	723_QUEST_clinical_caseMIR	SENT4	-	-
+56	Cuál	cuál	PT0CS000	-	-	488-492	723_QUEST_clinical_caseMIR	SENT4	-	-
+57	es	ser	VSIP3S0	-	-	493-495	723_QUEST_clinical_caseMIR	SENT4	-	-
+58	la	el	DA0FS0	-	-	496-498	723_QUEST_clinical_caseMIR	SENT4	-	-
+59	etiología	etiología	NCFS000	C1314792	atributo	499-508	723_QUEST_clinical_caseMIR	SENT4	-	-
+60	más	más	RG	C0205172	calificador	509-512	723_QUEST_clinical_caseMIR	SENT4	-	-
+61	probable	probable	AQ0CS0	C0332148	calificador	513-521	723_QUEST_clinical_caseMIR	SENT4	-	-
+62	?	?	Fit	-	-	521-522	723_QUEST_clinical_caseMIR	SENT4	-	-
+63	:	:	Fd	-	-	522-523	723_QUEST_clinical_caseMIR	SENT4	-	-
+64	.	.	Fp	-	-	523-524	723_QUEST_clinical_caseMIR	SENT4	-	-
 

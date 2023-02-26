@@ -86,17 +86,19 @@
 22	120.000/uL	120.000/uL		-	-	442-452	307_QUEST_clinical_caseMIR	SENT5	-	-
 23	.	.	Fp	-	-	452-453	307_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	454-458	307_QUEST_clinical_caseMIR	SENT6	-	-
-2	de	de	SPS00	C0332285	atributo	459-461	307_QUEST_clinical_caseMIR	SENT6	-	-
-3	las	el	DA0FP0	-	-	462-465	307_QUEST_clinical_caseMIR	SENT6	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	466-476	307_QUEST_clinical_caseMIR	SENT6	-	-
-5	pruebas	prueba	NCFP000	-	-	477-484	307_QUEST_clinical_caseMIR	SENT6	-	-
-6	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	485-497	307_QUEST_clinical_caseMIR	SENT6	-	-
-7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	498-500	307_QUEST_clinical_caseMIR	SENT6	-	-
-8	ayudaría	ayudar	VMIC3S0	-	-	501-509	307_QUEST_clinical_caseMIR	SENT6	-	-
-9	más	más	RG	C0205172	calificador	510-513	307_QUEST_clinical_caseMIR	SENT6	-	-
-10	en	en	SPS00	C1720294#C0332285	calificador#atributo	514-516	307_QUEST_clinical_caseMIR	SENT6	-	-
-11	el	el	DA0MS0	-	-	517-519	307_QUEST_clinical_caseMIR	SENT6	-	-
-12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	520-531	307_QUEST_clinical_caseMIR	SENT6	-	-
-13	.	.	Fp	-	-	531-532	307_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	454-455	307_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	455-459	307_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	460-462	307_QUEST_clinical_caseMIR	SENT6	-	-
+4	las	el	DA0FP0	-	-	463-466	307_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	467-477	307_QUEST_clinical_caseMIR	SENT6	-	-
+6	pruebas	prueba	NCFP000	-	-	478-485	307_QUEST_clinical_caseMIR	SENT6	-	-
+7	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	486-498	307_QUEST_clinical_caseMIR	SENT6	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	499-501	307_QUEST_clinical_caseMIR	SENT6	-	-
+9	ayudaría	ayudar	VMIC3S0	-	-	502-510	307_QUEST_clinical_caseMIR	SENT6	-	-
+10	más	más	RG	C0205172	calificador	511-514	307_QUEST_clinical_caseMIR	SENT6	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	515-517	307_QUEST_clinical_caseMIR	SENT6	-	-
+12	el	el	DA0MS0	-	-	518-520	307_QUEST_clinical_caseMIR	SENT6	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	521-532	307_QUEST_clinical_caseMIR	SENT6	-	-
+14	?	?	Fit	-	-	532-533	307_QUEST_clinical_caseMIR	SENT6	-	-
+15	.	.	Fp	-	-	533-534	307_QUEST_clinical_caseMIR	SENT6	-	-
 

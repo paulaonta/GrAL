@@ -92,11 +92,14 @@
 37	pierna	pierna	NCFS000	C1269079#C1285009#C1140621	estructura_corporal	479-485	700_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 38	.	.	Fp	-	-	485-486	700_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuándo	cuándo	PT000000	-	-	487-493	700_QUEST_clinical_caseMIR	SENT6	-	-
-2	y	y	CC	C1706368	calificador	494-495	700_QUEST_clinical_caseMIR	SENT6	-	-
-3	cómo	cómo	PT000000	-	-	496-500	700_QUEST_clinical_caseMIR	SENT6	-	-
-4	debe	deber	VMIP3S0	-	-	501-505	700_QUEST_clinical_caseMIR	SENT6	-	-
-5	tratar	tratar	VMN0000	-	-	506-512	700_QUEST_clinical_caseMIR	SENT6	-	-
-6	se	se	PP3CN000	-	-	512-514	700_QUEST_clinical_caseMIR	SENT6	-	-
-7	.	.	Fp	-	-	514-515	700_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	487-488	700_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuándo	cuándo	PT000000	-	-	488-494	700_QUEST_clinical_caseMIR	SENT6	-	-
+3	y	y	CC	C1706368	calificador	495-496	700_QUEST_clinical_caseMIR	SENT6	-	-
+4	cómo	cómo	PT000000	-	-	497-501	700_QUEST_clinical_caseMIR	SENT6	-	-
+5	debe	deber	VMIP3S0	-	-	502-506	700_QUEST_clinical_caseMIR	SENT6	-	-
+6	tratar	tratar	VMN0000	-	-	507-513	700_QUEST_clinical_caseMIR	SENT6	-	-
+7	se	se	PP3CN000	-	-	513-515	700_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	515-516	700_QUEST_clinical_caseMIR	SENT6	-	-
+9	:	:	Fd	-	-	516-517	700_QUEST_clinical_caseMIR	SENT6	-	-
+10	.	.	Fp	-	-	517-518	700_QUEST_clinical_caseMIR	SENT6	-	-
 

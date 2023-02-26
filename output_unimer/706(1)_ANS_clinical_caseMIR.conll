@@ -1,0 +1,17 @@
+1	Se	se	P00CN000	-	-	0-2	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	un	un		C0205447_1	calificador_1	12-14	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	cuadro	cuadro	NCMS000	-	-	15-21	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	22-24	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	delirium	delirium	NCMS000	-	-	25-33	706(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	37-39	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	40-48	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	49-54	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	55-58	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	59-62	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	infección	infección	NCFS000	C0009450	trastorno	63-72	706(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	grave	grave	AQ0CS0	C0439808#C0205082	calificador	73-78	706(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+16	.	.	Fp	-	-	78-79	706(1)_ANS_clinical_caseMIR	SENT1	-	-
+

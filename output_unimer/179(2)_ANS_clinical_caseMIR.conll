@@ -1,0 +1,26 @@
+1	A	a	SPS00	-	-	0-1	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	nivel	nivel	NCMS000	C0456079	atributo	2-7	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	las	el	DA0FP0	-	-	11-14	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	raíces	raíz	NCFP000	-	-	15-21	179(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	espinales	espinal	AQ0CP0	-	-	22-31	179(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+7	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	32-42	179(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+8	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	43-53	179(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	al	al	SP+DA	-	-	54-56	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	entrar	entrar	VMN0000	-	-	57-63	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	64-66	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	67-69	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	plexo	plexo	NCMS000	C1278841#C0006090_1	estructura_corporal_1	70-75	179(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	braquial	braquial	NC00SC0	C1278841#C0006090_2	estructura_corporal_2	76-84	179(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+15	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	85-94	179(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	,	,	Fc	-	-	94-95	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	96-99	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	invasión	invasión	NCFS000	-	-	100-108	179(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	de	de	SPS00	C0332285	atributo	109-111	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	un	un		C0205447_1	calificador_1	112-114	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	tumor	tumor	NCMS000	C0549471_1	trastorno_1	115-120	179(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	del	del	SP+DA	C0549471_2	trastorno_2	121-124	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	vértice	vértice	NCMS000	C0549471_3	trastorno_3	125-132	179(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	pulmonar	pulmonar	NC00SC0	C0549471_4	trastorno_4	133-141	179(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	.	.	Fp	-	-	141-142	179(2)_ANS_clinical_caseMIR	SENT1	-	-
+

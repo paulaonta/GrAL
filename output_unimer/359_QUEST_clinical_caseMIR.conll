@@ -16,13 +16,14 @@
 16	sugerente	sugerente	AQ0CS0	-	-	69-78	359_QUEST_clinical_caseMIR	SENT1	-	-
 17	de	de	SPS00	C0332285	atributo	79-81	359_QUEST_clinical_caseMIR	SENT1	-	-
 18	bronquiolitis	bronquiolitis	NCFN000	C0006271	trastorno	82-95	359_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
-19	.	.	Fp	-	-	96-97	359_QUEST_clinical_caseMIR	SENT1	-	-
-20	cuál	cuál	PT0CS000	-	-	98-102	359_QUEST_clinical_caseMIR	SENT1	-	-
-21	sería	ser	VSIC1S0	-	-	103-108	359_QUEST_clinical_caseMIR	SENT1	-	-
-22	el	el	DA0MS0	-	-	109-111	359_QUEST_clinical_caseMIR	SENT1	-	-
-23	agente	agente	NCCS000	C0450442	atributo	112-118	359_QUEST_clinical_caseMIR	SENT1	-	-
-24	etiológico	etiológico	AQ0MS0	-	-	119-129	359_QUEST_clinical_caseMIR	SENT1	-	-
-25	más	más	RG	C0205172	calificador	130-133	359_QUEST_clinical_caseMIR	SENT1	-	-
-26	probable	probable	AQ0CS0	C0332148	calificador	134-142	359_QUEST_clinical_caseMIR	SENT1	-	-
-27	.	.	Fp	-	-	142-143	359_QUEST_clinical_caseMIR	SENT1	-	-
+19	¿	¿	Fia	-	-	96-97	359_QUEST_clinical_caseMIR	SENT1	-	-
+20	cuál	cuál	PT0CS000	-	-	97-101	359_QUEST_clinical_caseMIR	SENT1	-	-
+21	sería	ser	VSIC1S0	-	-	102-107	359_QUEST_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	108-110	359_QUEST_clinical_caseMIR	SENT1	-	-
+23	agente	agente	NCCS000	C0450442	atributo	111-117	359_QUEST_clinical_caseMIR	SENT1	-	-
+24	etiológico	etiológico	AQ0MS0	-	-	118-128	359_QUEST_clinical_caseMIR	SENT1	-	-
+25	más	más	RG	C0205172	calificador	129-132	359_QUEST_clinical_caseMIR	SENT1	-	-
+26	probable	probable	AQ0CS0	C0332148	calificador	133-141	359_QUEST_clinical_caseMIR	SENT1	-	-
+27	?	?	Fit	-	-	141-142	359_QUEST_clinical_caseMIR	SENT1	-	-
+28	.	.	Fp	-	-	142-143	359_QUEST_clinical_caseMIR	SENT1	-	-
 

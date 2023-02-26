@@ -38,10 +38,12 @@
 23	cm	cm	NCMN000	-	-	250-252	541_QUEST_clinical_caseMIR	SENT2	-	-
 24	.	.	Fp	-	-	252-253	541_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	254-258	541_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	259-261	541_QUEST_clinical_caseMIR	SENT3	-	-
-3	el	el	DA0MS0	-	-	262-264	541_QUEST_clinical_caseMIR	SENT3	-	-
-4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	265-276	541_QUEST_clinical_caseMIR	SENT3	-	-
-5	indicado	indicar	VMP00SM	-	-	277-285	541_QUEST_clinical_caseMIR	SENT3	-	-
-6	.	.	Fp	-	-	285-286	541_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	254-255	541_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	255-259	541_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	260-262	541_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	263-265	541_QUEST_clinical_caseMIR	SENT3	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	266-277	541_QUEST_clinical_caseMIR	SENT3	-	-
+6	indicado	indicar	VMP00SM	-	-	278-286	541_QUEST_clinical_caseMIR	SENT3	-	-
+7	?	?	Fit	-	-	286-287	541_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	287-288	541_QUEST_clinical_caseMIR	SENT3	-	-
 

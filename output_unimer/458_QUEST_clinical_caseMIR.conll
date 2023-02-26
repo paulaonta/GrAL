@@ -66,19 +66,22 @@
 3	datos	dato	NCMP000	-	-	350-355	458_QUEST_clinical_caseMIR	SENT3	-	-
 4	recogidos	recoger	VMP00PM	-	-	356-365	458_QUEST_clinical_caseMIR	SENT3	-	-
 5	.	.	Fp	-	-	365-366	458_QUEST_clinical_caseMIR	SENT3	-	-
-6	cuál	cuál	PT0CS000	-	-	367-371	458_QUEST_clinical_caseMIR	SENT3	-	-
-7	es	ser	VSIP3S0	-	-	372-374	458_QUEST_clinical_caseMIR	SENT3	-	-
-8	la	el	DA0FS0	-	-	375-377	458_QUEST_clinical_caseMIR	SENT3	-	-
-9	probabilidad	probabilidad	NCFS000	-	-	378-390	458_QUEST_clinical_caseMIR	SENT3	-	-
-10	de	de	SPS00	C0332285	atributo	391-393	458_QUEST_clinical_caseMIR	SENT3	-	-
-11	que	que	PR0CN000	-	-	394-397	458_QUEST_clinical_caseMIR	SENT3	-	-
-12	María	maría	NCFS000	-	-	398-403	458_QUEST_clinical_caseMIR	SENT3	-	-
-13	sea	ser	VSSP1S0	-	-	404-407	458_QUEST_clinical_caseMIR	SENT3	-	-
-14	portadora	portador	AQ0FS0	C0560175	hallazgo	408-417	458_QUEST_clinical_caseMIR	SENT3	-	-
-15	de	de	SPS00	C0332285	atributo	418-420	458_QUEST_clinical_caseMIR	SENT3	-	-
-16	la	el	DA0FS0	-	-	421-423	458_QUEST_clinical_caseMIR	SENT3	-	-
-17	enfermedad	enfermedad	NCFS000	C0039223#C1282408_1	trastorno_1	424-434	458_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
-18	de	de	SPS00	C0039223#C1282408_2	trastorno_2	435-437	458_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
-19	Duchenne	Duchenne		C0039223#C1282408_3	trastorno_3	438-446	458_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
-20	.	.	Fp	-	-	446-447	458_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	367-368	458_QUEST_clinical_caseMIR	SENT4	-	-
+2	cuál	cuál	PT0CS000	-	-	368-372	458_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	373-375	458_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	376-378	458_QUEST_clinical_caseMIR	SENT4	-	-
+5	probabilidad	probabilidad	NCFS000	-	-	379-391	458_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	392-394	458_QUEST_clinical_caseMIR	SENT4	-	-
+7	que	que	PR0CN000	-	-	395-398	458_QUEST_clinical_caseMIR	SENT4	-	-
+8	María	maría	NCFS000	-	-	399-404	458_QUEST_clinical_caseMIR	SENT4	-	-
+9	sea	ser	VSSP1S0	-	-	405-408	458_QUEST_clinical_caseMIR	SENT4	-	-
+10	portadora	portador	AQ0FS0	C0560175	hallazgo	409-418	458_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	419-421	458_QUEST_clinical_caseMIR	SENT4	-	-
+12	la	el	DA0FS0	-	-	422-424	458_QUEST_clinical_caseMIR	SENT4	-	-
+13	enfermedad	enfermedad	NCFS000	C0039223#C1282408_1	trastorno_1	425-435	458_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0039223#C1282408_2	trastorno_2	436-438	458_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+15	Duchenne	Duchenne		C0039223#C1282408_3	trastorno_3	439-447	458_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+16	?	?	Fit	-	-	447-448	458_QUEST_clinical_caseMIR	SENT4	-	-
+17	.	.	Fp	-	-	448-449	458_QUEST_clinical_caseMIR	SENT4	-	-
 

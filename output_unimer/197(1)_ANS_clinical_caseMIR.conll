@@ -1,0 +1,25 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	aumentar	aumentar	VMN0000	-	-	11-19	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	20-22	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	23-29	197(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0231807_2	hallazgo_2	30-32	197(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	33-41	197(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+9	,	,	Fc	-	-	41-42	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	debe	deber	VMIP3S0	-	-	43-47	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	practicar	practicar	VMN0000	-	-	48-57	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	se	se	PP3CN000	-	-	57-59	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	60-63	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	64-74	197(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	percutanea	percutanea	VMIP3S0	-	-	75-85	197(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	de	de	SPS00	C0332285	atributo	86-88	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	89-91	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	válvula	válvula	NCFS000	C1269005#C0003501_1	estructura_corporal_1	92-99	197(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	aórtica	aórtico	AQ0FS0	C1269005#C0003501_2	estructura_corporal_2	100-107	197(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	con	con	SPS00	C0332287	atributo	108-111	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	catéter	catéter	NCMS000	C0085590	objeto_físico	112-119	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	120-122	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	balón	balón	NCMS000	-	-	123-128	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	128-129	197(1)_ANS_clinical_caseMIR	SENT1	-	-
+

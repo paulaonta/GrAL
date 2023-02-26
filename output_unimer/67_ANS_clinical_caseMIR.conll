@@ -1,8 +1,10 @@
-1	Reacción	reacción	NCFS000	C0443286	calificador	0-8	67_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-2	de	de	SPS00	C0332285	atributo	9-11	67_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-3	estrés	estrés	NCMS000	C0038435	hallazgo#calificador	12-18	67_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-4	post-traumático	post-traumático	AQ0MS00	-	-	19-34	67_ANS_clinical_caseMIR	SENT1	B-Calificador	-
-5	.	.	Fp	-	-	34-35	67_ANS_clinical_caseMIR	SENT1	-	-
+1	Hemofilia	hemofilia	NCFS000	C0684275	trastorno	0-9	67_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	A.	a.	AQ0CS00	-	-	10-12	67_ANS_clinical_caseMIR	SENT1	-	-
+3	Reacción	reacción	NCFS000	C0443286	calificador	0-8	67_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0332285	atributo	9-11	67_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+5	estrés	estrés	NCMS000	C0038435	hallazgo#calificador	12-18	67_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+6	post-traumático	post-traumático	AQ0MS00	-	-	19-34	67_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	.	.	Fp	-	-	34-35	67_ANS_clinical_caseMIR	SENT1	-	-
 
 1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	0-9	67_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 2	agudo	agudo	AQ0MS0	C0205178	calificador	10-15	67_ANS_clinical_caseMIR	SENT2	B-Calificador	-

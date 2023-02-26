@@ -44,15 +44,18 @@
 18	normal	normal	AQ0CS0	C0205307	calificador	230-236	702_QUEST_clinical_caseMIR	SENT3	-	-
 19	.	.	Fp	-	-	236-237	702_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Qué	qué	DE0CN0	-	-	238-241	702_QUEST_clinical_caseMIR	SENT4	-	-
-2	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	242-248	702_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-3	espera	esperar	VMIP3S0	-	-	249-255	702_QUEST_clinical_caseMIR	SENT4	-	-
-4	encontrar	encontrar	VMN0000	-	-	256-265	702_QUEST_clinical_caseMIR	SENT4	-	-
-5	en	en	SPS00	C1720294#C0332285	calificador#atributo	266-268	702_QUEST_clinical_caseMIR	SENT4	-	-
-6	la	el	DA0FS0	-	-	269-271	702_QUEST_clinical_caseMIR	SENT4	-	-
-7	radiografía	radiografía	NCFS000	C1306645	procedimiento	272-283	702_QUEST_clinical_caseMIR	SENT4	-	-
-8	urgente	urgente	AQ0CS0	C0439609	calificador	284-291	702_QUEST_clinical_caseMIR	SENT4	-	-
-9	que	que	PR0CN000	-	-	292-295	702_QUEST_clinical_caseMIR	SENT4	-	-
-10	solicita	solicitar	VMIP3S0	-	-	296-304	702_QUEST_clinical_caseMIR	SENT4	-	-
-11	.	.	Fp	-	-	304-305	702_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	238-239	702_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	239-242	702_QUEST_clinical_caseMIR	SENT4	-	-
+3	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	243-249	702_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	espera	esperar	VMIP3S0	-	-	250-256	702_QUEST_clinical_caseMIR	SENT4	-	-
+5	encontrar	encontrar	VMN0000	-	-	257-266	702_QUEST_clinical_caseMIR	SENT4	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	267-269	702_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	270-272	702_QUEST_clinical_caseMIR	SENT4	-	-
+8	radiografía	radiografía	NCFS000	C1306645	procedimiento	273-284	702_QUEST_clinical_caseMIR	SENT4	-	-
+9	urgente	urgente	AQ0CS0	C0439609	calificador	285-292	702_QUEST_clinical_caseMIR	SENT4	-	-
+10	que	que	PR0CN000	-	-	293-296	702_QUEST_clinical_caseMIR	SENT4	-	-
+11	solicita	solicitar	VMIP3S0	-	-	297-305	702_QUEST_clinical_caseMIR	SENT4	-	-
+12	?	?	Fit	-	-	305-306	702_QUEST_clinical_caseMIR	SENT4	-	-
+13	:	:	Fd	-	-	306-307	702_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	307-308	702_QUEST_clinical_caseMIR	SENT4	-	-
 

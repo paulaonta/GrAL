@@ -37,12 +37,15 @@
 16	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	181-186	3_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
 17	.	.	Fp	-	-	186-187	3_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cual	cual	PI0CS000	-	-	188-192	3_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	193-195	3_QUEST_clinical_caseMIR	SENT3	-	-
-3	las	el	DA0FP0	-	-	196-199	3_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	200-210	3_QUEST_clinical_caseMIR	SENT3	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	211-223	3_QUEST_clinical_caseMIR	SENT3	-	-
-6	es	ser	VSIP3S0	-	-	224-226	3_QUEST_clinical_caseMIR	SENT3	-	-
-7	FALSA	falso	AQ0FS0	C0205237	calificador	227-232	3_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	232-233	3_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	188-189	3_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cual	cual	PI0CS000	-	-	189-193	3_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	194-196	3_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	197-200	3_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	201-211	3_QUEST_clinical_caseMIR	SENT3	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	212-224	3_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	225-227	3_QUEST_clinical_caseMIR	SENT3	-	-
+8	FALSA	falso	AQ0FS0	C0205237	calificador	228-233	3_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	233-234	3_QUEST_clinical_caseMIR	SENT3	-	-
+10	:	:	Fd	-	-	234-235	3_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	235-236	3_QUEST_clinical_caseMIR	SENT3	-	-
 

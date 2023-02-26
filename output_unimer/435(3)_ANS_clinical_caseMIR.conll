@@ -1,0 +1,25 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	9-11	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	12-23	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	24-26	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	osteoporosis	osteoporosis	NCFN000	C0238479_1	trastorno_1	27-39	435(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	transitoria	transitorio	AQ0FS0	C0238479_2	trastorno_2	40-51	435(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	de	de	SPS00	C0238479_3	trastorno_3	52-54	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	cadera	cadera	NCFS000	C0238479_4	trastorno_4	55-61	435(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	izquierda	izquierdo	AQ0FS0	C0205091	calificador	62-71	435(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+10	,	,	Fc	-	-	71-72	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	indicar	indicar	VMN0000	-	-	73-80	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	2	2		-	-	81-82	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	meses	mes	NCMP000	C0439231	calificador	83-88	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	89-91	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	descarga	descarga	NCFS000	-	-	92-100	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	y	y	CC	C1706368	calificador	101-102	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	repetir	repetir	VMN0000	C0205341	calificador	103-110	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	el	el	DA0MS0	-	-	111-113	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	estudio	estudio	NCMS000	C0557651	medio_ambiente	114-121	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	radiológico	radiológico	AQ0MS0	C0205483	calificador	122-133	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	ese	ese	DD0MS0	-	-	137-140	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	141-148	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	148-149	435(3)_ANS_clinical_caseMIR	SENT1	-	-
+

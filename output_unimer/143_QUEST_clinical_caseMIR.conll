@@ -94,11 +94,14 @@
 36	mL	mililitro	NCMN000	C0439242	calificador	528-530	143_QUEST_clinical_caseMIR	SENT3	-	-
 37	.	.	Fp	-	-	530-531	143_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	532-536	143_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	537-539	143_QUEST_clinical_caseMIR	SENT4	-	-
-3	el	el	DA0MS0	-	-	540-542	143_QUEST_clinical_caseMIR	SENT4	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	543-554	143_QUEST_clinical_caseMIR	SENT4	-	-
-5	más	más	RG	C0205172	calificador	555-558	143_QUEST_clinical_caseMIR	SENT4	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	559-567	143_QUEST_clinical_caseMIR	SENT4	-	-
-7	.	.	Fp	-	-	567-568	143_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	532-533	143_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	533-537	143_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	538-540	143_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	541-543	143_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	544-555	143_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	556-559	143_QUEST_clinical_caseMIR	SENT4	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	560-568	143_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	568-569	143_QUEST_clinical_caseMIR	SENT4	-	-
+9	:	:	Fd	-	-	569-570	143_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	570-571	143_QUEST_clinical_caseMIR	SENT4	-	-
 

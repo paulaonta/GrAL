@@ -1,0 +1,15 @@
+1	Insulina	insulina	NCFS000	C0021641	sustancia	0-8	604(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	rápida	rápido	AQ0FS0	C0456962	calificador	9-15	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	humana	humano	AQ0FS0	C0086418	organismo	16-22	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	iv.	iv.	NCFS000	-	-	23-26	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	Toracostomia	toracostomia	NCFS000	-	-	0-12	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	13-16	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	catéter	catéter	NCMS000	C0085590	objeto_físico	17-24	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	e	y	CC	C1706368	calificador	25-26	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	inserción	inserción	NCFS000	C1293116#C0441587	procedimiento#calificador	27-36	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	37-39	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	40-42	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	agente	agente	NCCS000	C0036426#C1442875#C0700592_1	producto#sustancia_1	43-49	604(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	esclerosante	esclerosante	NC00SC0	C0036426#C1442875#C0700592_2	producto#sustancia_2	50-62	604(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+14	.	.	Fp	-	-	62-63	604(3)_ANS_clinical_caseMIR	SENT1	-	-
+

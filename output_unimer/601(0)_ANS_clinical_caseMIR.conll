@@ -1,0 +1,13 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	12-23	601(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	al	al	SP+DA	-	-	24-26	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	tratar	tratar	VMN0000	-	-	27-33	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	se	se	PP3CN000	-	-	33-35	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	probablemente	probablemente	RG	C0332148	calificador	36-49	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	50-52	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	una	una		C0205447_1	calificador_1	53-56	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	infección	infección	NCFS000	C0009450	trastorno	57-66	601(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+10	de	de	SPS00	C0332285	atributo	67-69	601(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	orina	orinar	VMM02S0	-	-	70-75	601(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+12	.	.	Fp	-	-	75-76	601(0)_ANS_clinical_caseMIR	SENT1	-	-
+

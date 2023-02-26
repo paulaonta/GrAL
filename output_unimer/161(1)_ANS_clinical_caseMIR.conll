@@ -1,0 +1,39 @@
+1	El	el	DA0MS0	-	-	0-2	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	más	más	RG	C0205172	calificador	15-18	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	19-27	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	es	ser	VSIP3S0	-	-	28-30	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	una	una		C0205447_1	calificador_1	31-34	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	sepsis	sepsis	NCFN000	C0243026	trastorno	35-41	161(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+8	de	de	SPS00	C0332285	atributo	42-44	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	origen	origen	NCMS000	C0439659	atributo	45-51	161(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	biliar	biliar	AQ0CS0	-	-	52-58	161(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	.	.	Fp	-	-	58-59	161(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	60-62	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	deben	deber	VMIP3P0	-	-	63-68	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	obtener	obtener	VMN0000	-	-	69-76	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	hemocultivos	hemocultivos	NCMP000	-	-	77-89	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	,	,	Fc	-	-	89-90	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	administrar	administrar	VMN0000	C1621583	calificador	91-102	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	un	un		C0205447_1	calificador_1	103-105	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	106-117	161(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	de	de	SPS00	C0332285	atributo	118-120	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+10	amplio	amplio	AQ0MS0	-	-	121-127	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	espectro	espectro	NCMS000	-	-	128-136	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	136-137	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	138-149	161(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+14	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	150-161	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	162-163	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+16	aumentar	aumentar	VMN0000	-	-	164-172	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+17	la	el	DA0FS0	-	-	173-175	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+18	proporción	proporción	NCFS000	-	-	176-186	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+19	inhalada	inhalar	VMP00SF	-	-	187-195	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+20	de	de	SPS00	C0332285	atributo	196-198	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+21	isoflurano	isoflurano	NC00SC0	C0022180	producto#sustancia	199-209	161(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+22	para	para	SPS00	C0521125	calificador	210-214	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+23	profundizar	profundizar	VMN0000	-	-	215-226	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+24	la	el	DA0FS0	-	-	227-229	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+25	anestesia	anestesia	NCFS000	C0278134	hallazgo	230-239	161(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+26	.	.	Fp	-	-	239-240	161(1)_ANS_clinical_caseMIR	SENT2	-	-
+

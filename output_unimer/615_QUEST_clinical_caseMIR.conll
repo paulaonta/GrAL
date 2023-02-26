@@ -42,19 +42,21 @@
 42	madre	madre	NCFS000	C0026591	persona	193-198	615_QUEST_clinical_caseMIR	SENT1	-	-
 43	.	.	Fp	-	-	198-199	615_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	200-204	615_QUEST_clinical_caseMIR	SENT2	-	-
-2	de	de	SPS00	C0332285	atributo	205-207	615_QUEST_clinical_caseMIR	SENT2	-	-
-3	los	el	DA0MP0	-	-	208-211	615_QUEST_clinical_caseMIR	SENT2	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	212-222	615_QUEST_clinical_caseMIR	SENT2	-	-
-5	tumores	tumor	NCMP000	C0027651	anomalía_morfológica	223-230	615_QUEST_clinical_caseMIR	SENT2	-	-
-6	tienen	tener	VMIP3P0	-	-	231-237	615_QUEST_clinical_caseMIR	SENT2	-	-
-7	más	más	RG	C0205172	calificador	238-241	615_QUEST_clinical_caseMIR	SENT2	-	-
-8	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	242-248	615_QUEST_clinical_caseMIR	SENT2	-	-
-9	de	de	SPS00	C0035647_2	calificador_2	249-251	615_QUEST_clinical_caseMIR	SENT2	-	-
-10	presentar	presentar	VMN0000	-	-	252-261	615_QUEST_clinical_caseMIR	SENT2	-	-
-11	se	se	PP3CN000	-	-	261-263	615_QUEST_clinical_caseMIR	SENT2	-	-
-12	en	en	SPS00	C1720294#C0332285	calificador#atributo	264-266	615_QUEST_clinical_caseMIR	SENT2	-	-
-13	esta	este	DD0FS0	-	-	267-271	615_QUEST_clinical_caseMIR	SENT2	-	-
-14	paciente	paciente	NCCS000	C0030705	persona	272-280	615_QUEST_clinical_caseMIR	SENT2	-	-
-15	.	.	Fp	-	-	280-281	615_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	200-201	615_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	201-205	615_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	206-208	615_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	209-212	615_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	213-223	615_QUEST_clinical_caseMIR	SENT2	-	-
+6	tumores	tumor	NCMP000	C0027651	anomalía_morfológica	224-231	615_QUEST_clinical_caseMIR	SENT2	-	-
+7	tienen	tener	VMIP3P0	-	-	232-238	615_QUEST_clinical_caseMIR	SENT2	-	-
+8	más	más	RG	C0205172	calificador	239-242	615_QUEST_clinical_caseMIR	SENT2	-	-
+9	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	243-249	615_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0035647_2	calificador_2	250-252	615_QUEST_clinical_caseMIR	SENT2	-	-
+11	presentar	presentar	VMN0000	-	-	253-262	615_QUEST_clinical_caseMIR	SENT2	-	-
+12	se	se	PP3CN000	-	-	262-264	615_QUEST_clinical_caseMIR	SENT2	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	265-267	615_QUEST_clinical_caseMIR	SENT2	-	-
+14	esta	este	DD0FS0	-	-	268-272	615_QUEST_clinical_caseMIR	SENT2	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	273-281	615_QUEST_clinical_caseMIR	SENT2	-	-
+16	?	?	Fit	-	-	281-282	615_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	282-283	615_QUEST_clinical_caseMIR	SENT2	-	-
 

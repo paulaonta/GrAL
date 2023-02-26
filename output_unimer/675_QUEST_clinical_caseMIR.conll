@@ -79,11 +79,13 @@
 18	contexto	contexto	NCMS000	C0449255	atributo	403-411	675_QUEST_clinical_caseMIR	SENT6	-	-
 19	clínico	clínico	AQ0MS0	C0205210	calificador	412-419	675_QUEST_clinical_caseMIR	SENT6	-	-
 20	,	,	Fc	-	-	419-420	675_QUEST_clinical_caseMIR	SENT6	-	-
-21	.	.	Fp	-	-	421-422	675_QUEST_clinical_caseMIR	SENT6	-	-
-22	qué	qué	DT0CN0	-	-	423-426	675_QUEST_clinical_caseMIR	SENT6	-	-
-23	etiología	etiología	NCFS000	C1314792	atributo	427-436	675_QUEST_clinical_caseMIR	SENT6	-	-
-24	explicaría	explicar	VMIC3S0	-	-	437-447	675_QUEST_clinical_caseMIR	SENT6	-	-
-25	el	el	DA0MS0	-	-	448-450	675_QUEST_clinical_caseMIR	SENT6	-	-
-26	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	451-458	675_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
-27	.	.	Fp	-	-	458-459	675_QUEST_clinical_caseMIR	SENT6	-	-
+21	¿	¿	Fia	-	-	421-422	675_QUEST_clinical_caseMIR	SENT6	-	-
+22	qué	qué	DT0CN0	-	-	422-425	675_QUEST_clinical_caseMIR	SENT6	-	-
+23	etiología	etiología	NCFS000	C1314792	atributo	426-435	675_QUEST_clinical_caseMIR	SENT6	-	-
+24	explicaría	explicar	VMIC3S0	-	-	436-446	675_QUEST_clinical_caseMIR	SENT6	-	-
+25	el	el	DA0MS0	-	-	447-449	675_QUEST_clinical_caseMIR	SENT6	-	-
+26	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	450-457	675_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+27	?	?	Fit	-	-	457-458	675_QUEST_clinical_caseMIR	SENT6	-	-
+28	:	:	Fd	-	-	458-459	675_QUEST_clinical_caseMIR	SENT6	-	-
+29	.	.	Fp	-	-	459-460	675_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -76,12 +76,14 @@
 15	derecha	derecha	NCFS000	-	-	440-447	434_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 16	.	.	Fp	-	-	447-448	434_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	449-453	434_QUEST_clinical_caseMIR	SENT4	-	-
-2	será	ser	VSIF3S0	-	-	454-458	434_QUEST_clinical_caseMIR	SENT4	-	-
-3	la	el	DA0FS0	-	-	459-461	434_QUEST_clinical_caseMIR	SENT4	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	462-469	434_QUEST_clinical_caseMIR	SENT4	-	-
-5	terapéutica	terapéutico	AQ0FS0	-	-	470-481	434_QUEST_clinical_caseMIR	SENT4	-	-
-6	a	a	SPS00	-	-	482-483	434_QUEST_clinical_caseMIR	SENT4	-	-
-7	realizar	realizar	VMN0000	-	-	484-492	434_QUEST_clinical_caseMIR	SENT4	-	-
-8	.	.	Fp	-	-	492-493	434_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	449-450	434_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	450-454	434_QUEST_clinical_caseMIR	SENT4	-	-
+3	será	ser	VSIF3S0	-	-	455-459	434_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	460-462	434_QUEST_clinical_caseMIR	SENT4	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	463-470	434_QUEST_clinical_caseMIR	SENT4	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	471-482	434_QUEST_clinical_caseMIR	SENT4	-	-
+7	a	a	SPS00	-	-	483-484	434_QUEST_clinical_caseMIR	SENT4	-	-
+8	realizar	realizar	VMN0000	-	-	485-493	434_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	493-494	434_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	494-495	434_QUEST_clinical_caseMIR	SENT4	-	-
 

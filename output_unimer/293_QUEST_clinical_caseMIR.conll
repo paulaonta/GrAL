@@ -38,9 +38,11 @@
 16	costillas	costilla	NCFP000	C0035561#C1281577	estructura_corporal	210-219	293_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 17	.	.	Fp	-	-	219-220	293_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	221-225	293_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	226-228	293_QUEST_clinical_caseMIR	SENT4	-	-
-3	su	su	DP3CS0	-	-	229-231	293_QUEST_clinical_caseMIR	SENT4	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	232-243	293_QUEST_clinical_caseMIR	SENT4	-	-
-5	.	.	Fp	-	-	243-244	293_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	221-222	293_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	222-226	293_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	227-229	293_QUEST_clinical_caseMIR	SENT4	-	-
+4	su	su	DP3CS0	-	-	230-232	293_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	233-244	293_QUEST_clinical_caseMIR	SENT4	-	-
+6	?	?	Fit	-	-	244-245	293_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	245-246	293_QUEST_clinical_caseMIR	SENT4	-	-
 

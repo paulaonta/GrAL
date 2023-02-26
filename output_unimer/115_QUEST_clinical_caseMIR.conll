@@ -102,11 +102,14 @@
 20	superior	superior	NCMS000	C1704458_2	calificador_2	491-499	115_QUEST_clinical_caseMIR	SENT4	-	-
 21	.	.	Fp	-	-	499-500	115_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	501-505	115_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	506-508	115_QUEST_clinical_caseMIR	SENT5	-	-
-3	el	el	DA0MS0	-	-	509-511	115_QUEST_clinical_caseMIR	SENT5	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	512-523	115_QUEST_clinical_caseMIR	SENT5	-	-
-5	más	más	RG	C0205172	calificador	524-527	115_QUEST_clinical_caseMIR	SENT5	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	528-536	115_QUEST_clinical_caseMIR	SENT5	-	-
-7	.	.	Fp	-	-	536-537	115_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	501-502	115_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	502-506	115_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	507-509	115_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	510-512	115_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	513-524	115_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	525-528	115_QUEST_clinical_caseMIR	SENT5	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	529-537	115_QUEST_clinical_caseMIR	SENT5	-	-
+8	?	?	Fit	-	-	537-538	115_QUEST_clinical_caseMIR	SENT5	-	-
+9	:	:	Fd	-	-	538-539	115_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	539-540	115_QUEST_clinical_caseMIR	SENT5	-	-
 

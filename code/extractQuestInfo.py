@@ -1,7 +1,6 @@
 import os
 import csv
 
-
 def createFile(path):
     mydirname = './' + path
     if not os.path.exists(mydirname):
@@ -14,7 +13,11 @@ question_file_partial_name = "_QUEST_clinical_caseMIR.conll"
 csv_path = "./data/QUEST_clinical_caseMIR.csv"
 
 #define variables
-max_files = 790
+question_pos = 5
+answer_pos = 12
+num_answer = 5
+
+max_files = 791
 SnoMot_pos = 5
 SnoKod_pos = 4
 Deepent_pos = 9
@@ -40,8 +43,9 @@ for i in range(max_files): #iterate all the cases
         if len(elements) > 1: #not iterate  empty rows
             if elements[SnoMot_pos].find("hallazgo") != -1:
                 if not isPartS:
-                    sintomak.append(elements[name_pos])
-                    sintomakUMLS.append(elements[SnoKod_pos])
+                    if elements[name_pos] not in sintomak and elements[name_pos] != "le":
+                        sintomak.append(elements[name_pos])
+                        sintomakUMLS.append(elements[SnoKod_pos])
 
                 if elements[SnoMot_pos][-2] == "_":
                     if isPartS:
@@ -53,8 +57,9 @@ for i in range(max_files): #iterate all the cases
                 isPartG = False
             if elements[SnoMot_pos].find("trastorno") != -1 or elements[SnoMot_pos].find("anomalía_morfológica") != -1:
                 if not isPartG:
-                    gaixotasunak.append(elements[name_pos])
-                    gaixotasunakUMLS.append(elements[SnoKod_pos])
+                    if  elements[name_pos] not in gaixotasunak and elements[name_pos] != "le":
+                        gaixotasunak.append(elements[name_pos])
+                        gaixotasunakUMLS.append(elements[SnoKod_pos])
 
                 if elements[SnoMot_pos][-2] == "_":
                     if isPartG:
@@ -67,8 +72,9 @@ for i in range(max_files): #iterate all the cases
             if not findSno and elements[Deepent_pos].find("Grp_Enfermedad") != -1 or elements[Deepent_pos].find("Alergia") != -1:
                 # hemen sartzen baldin bada, bada SnoMot ez daukalako edo ez dagoelako def. artean, beraz ezin da jakin
                 # sintoma edo gaixotasuna den
-                gaixSin.append(elements[name_pos])
-                gaixSinUMLS.append(elements[SnoKod_pos])
+                if elements[name_pos] not in gaixSin and elements[name_pos] !="le":
+                    gaixSin.append(elements[name_pos])
+                    gaixSinUMLS.append(elements[SnoKod_pos])
     #write in the csv
     row = [str(i), ",".join(gaixotasunak), ",".join(gaixotasunakUMLS), ",".join(sintomak), ",".join(sintomakUMLS),
            ",".join(gaixSin), ",".join(gaixSinUMLS)]

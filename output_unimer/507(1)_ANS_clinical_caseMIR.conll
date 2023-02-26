@@ -1,0 +1,18 @@
+1	Ingreso	ingreso	NCMS000	-	-	0-7	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	8-11	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	hidratación	hidratación	NCFS000	-	-	12-23	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	24-35	507(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	,	,	Fc	-	-	35-36	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	así	así	RG	-	-	37-40	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	como	como	SPS00	C0332257	calificador	41-45	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	46-57	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	58-69	507(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	,	,	Fc	-	-	69-70	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	dada	dar	VMP00SF	C1947971	calificador	71-75	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	76-78	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	sospecha	sospechar	VMM02S0	C1277624_1	situación_1	79-87	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C1277624_2	situación_2	88-90	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	infección	infección	NCFS000	C1277624_3	situación_3	91-100	507(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+16	urinaria	urinario	AQ0FS0	C1277624_4	situación_4	101-109	507(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	109-110	507(1)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -45,13 +45,15 @@
 18	hombro	hombro	NCMS000	C0427048_3	entidad_observable_3	258-264	536_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
 19	.	.	Fp	-	-	264-265	536_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Qué	qué	DE0CN0	-	-	266-269	536_QUEST_clinical_caseMIR	SENT4	-	-
-2	cuadro	cuadro	NCMS000	-	-	270-276	536_QUEST_clinical_caseMIR	SENT4	-	-
-3	clínico	clínico	AQ0MS0	C0205210	calificador	277-284	536_QUEST_clinical_caseMIR	SENT4	-	-
-4	sospecha	sospechar	VMIP3S0	-	-	285-293	536_QUEST_clinical_caseMIR	SENT4	-	-
-5	como	como	CS	C0332257	calificador	294-298	536_QUEST_clinical_caseMIR	SENT4	-	-
-6	primera	1	AO0FS0	-	-	299-306	536_QUEST_clinical_caseMIR	SENT4	-	-
-7	posibilidad	posibilidad	NCFS000	-	-	307-318	536_QUEST_clinical_caseMIR	SENT4	-	-
-8	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	319-330	536_QUEST_clinical_caseMIR	SENT4	-	-
-9	.	.	Fp	-	-	330-331	536_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	266-267	536_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	267-270	536_QUEST_clinical_caseMIR	SENT4	-	-
+3	cuadro	cuadro	NCMS000	-	-	271-277	536_QUEST_clinical_caseMIR	SENT4	-	-
+4	clínico	clínico	AQ0MS0	C0205210	calificador	278-285	536_QUEST_clinical_caseMIR	SENT4	-	-
+5	sospecha	sospechar	VMIP3S0	-	-	286-294	536_QUEST_clinical_caseMIR	SENT4	-	-
+6	como	como	CS	C0332257	calificador	295-299	536_QUEST_clinical_caseMIR	SENT4	-	-
+7	primera	1	AO0FS0	-	-	300-307	536_QUEST_clinical_caseMIR	SENT4	-	-
+8	posibilidad	posibilidad	NCFS000	-	-	308-319	536_QUEST_clinical_caseMIR	SENT4	-	-
+9	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	320-331	536_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	331-332	536_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	332-333	536_QUEST_clinical_caseMIR	SENT4	-	-
 

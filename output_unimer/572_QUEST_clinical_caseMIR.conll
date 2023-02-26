@@ -116,11 +116,13 @@
 16	transaminasas	transaminasa	NCFP000	C1152208#C0002594	función_biológica#sustancia	622-635	572_QUEST_clinical_caseMIR	SENT5	I-Calificador	-
 17	.	.	Fp	-	-	635-636	572_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	637-641	572_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	642-644	572_QUEST_clinical_caseMIR	SENT6	-	-
-3	la	el	DA0FS0	-	-	645-647	572_QUEST_clinical_caseMIR	SENT6	-	-
-4	causa	causa	NCFS000	-	-	648-653	572_QUEST_clinical_caseMIR	SENT6	-	-
-5	más	más	RG	C0205172	calificador	654-657	572_QUEST_clinical_caseMIR	SENT6	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	658-666	572_QUEST_clinical_caseMIR	SENT6	-	-
-7	.	.	Fp	-	-	666-667	572_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	637-638	572_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	638-642	572_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	643-645	572_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	el	DA0FS0	-	-	646-648	572_QUEST_clinical_caseMIR	SENT6	-	-
+5	causa	causa	NCFS000	-	-	649-654	572_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	655-658	572_QUEST_clinical_caseMIR	SENT6	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	659-667	572_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	667-668	572_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	668-669	572_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -1,0 +1,14 @@
+1	Sueroterapia	sueroterapia	NCFS000	-	-	0-12	506(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	12-13	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	antitérmicos	antitérmico	NCMP000	C0003419	sustancia	14-26	506(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	,	,	Fc	-	-	26-27	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	toma	tomar	VMIP3S0	C1515187	calificador	28-32	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	33-35	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	urocultivo	urocultivo	NC00SC0	C0430404	procedimiento	36-46	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	46-47	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	antibiote_x0002_rapia	antibiote_x0002_rapia		-	-	48-69	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	70-71	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	Tc	símbolo_químico_del_tecnecio	NC00YL0	-	-	72-74	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	toracoabdominal	toracoabdominal	NC00SC0	C0444467	calificador	75-90	506(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	90-91	506(0)_ANS_clinical_caseMIR	SENT1	-	-
+

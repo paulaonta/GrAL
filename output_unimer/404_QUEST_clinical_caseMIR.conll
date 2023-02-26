@@ -86,7 +86,7 @@
 4	de	de	SPS00	C0332285	atributo	450-452	404_QUEST_clinical_caseMIR	SENT5	-	-
 5	urgencia	urgencia	NCFS000	C0439609	calificador	453-461	404_QUEST_clinical_caseMIR	SENT5	-	-
 6	destaca	destacar	VMIP3S0	-	-	462-469	404_QUEST_clinical_caseMIR	SENT5	-	-
-7	.	.	Fp	-	-	469-470	404_QUEST_clinical_caseMIR	SENT5	-	-
+7	:	:	Fd	-	-	469-470	404_QUEST_clinical_caseMIR	SENT5	-	-
 8	anemia	anemia	NCFS000	C0085576_1	trastorno_1	471-477	404_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 9	microcítica	microcítico	AQ0FS0	C0085576_2	trastorno_2	478-489	404_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
 10	moderada	moderar	VMP00SF	-	-	490-498	404_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
@@ -130,7 +130,7 @@
 48	En	en	SPS00	C1720294#C0332285	calificador#atributo	599-601	404_QUEST_clinical_caseMIR	SENT5	-	-
 49	la	el	DA0FS0	-	-	602-604	404_QUEST_clinical_caseMIR	SENT5	-	-
 50	orina	orina	NCFS000	C0042036	sustancia	605-610	404_QUEST_clinical_caseMIR	SENT5	-	-
-51	.	.	Fp	-	-	610-611	404_QUEST_clinical_caseMIR	SENT5	-	-
+51	:	:	Fd	-	-	610-611	404_QUEST_clinical_caseMIR	SENT5	-	-
 52	microhematuria	microhematuria	NC00SC0	C0239937	trastorno	612-626	404_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 53	+	+	Fz	-	-	627-628	404_QUEST_clinical_caseMIR	SENT5	-	-
 54	+	+	Fz	-	-	628-629	404_QUEST_clinical_caseMIR	SENT5	-	-
@@ -179,13 +179,15 @@
 10	bilateral	bilateral	AQ0CS0	C0238767	calificador	857-866	404_QUEST_clinical_caseMIR	SENT8	B-Calificador	-
 11	.	.	Fp	-	-	866-867	404_QUEST_clinical_caseMIR	SENT8	-	-
 
-1	A	a	SPS00	-	-	868-869	404_QUEST_clinical_caseMIR	SENT9	-	-
-2	qué	qué	PT0CN000	-	-	870-873	404_QUEST_clinical_caseMIR	SENT9	-	-
-3	puede	poder	VMIP3S0	-	-	874-879	404_QUEST_clinical_caseMIR	SENT9	-	-
-4	deber	deber	VMN0000	-	-	880-885	404_QUEST_clinical_caseMIR	SENT9	-	-
-5	se	se	PP3CN000	-	-	885-887	404_QUEST_clinical_caseMIR	SENT9	-	-
-6	el	el	DA0MS0	-	-	888-890	404_QUEST_clinical_caseMIR	SENT9	-	-
-7	cuadro	cuadro	NCMS000	-	-	891-897	404_QUEST_clinical_caseMIR	SENT9	-	-
-8	actual	actual	AQ0CS0	C0521116	calificador	898-904	404_QUEST_clinical_caseMIR	SENT9	-	-
-9	.	.	Fp	-	-	904-905	404_QUEST_clinical_caseMIR	SENT9	-	-
+1	¿	¿	Fia	-	-	868-869	404_QUEST_clinical_caseMIR	SENT9	-	-
+2	A	a	SPS00	-	-	869-870	404_QUEST_clinical_caseMIR	SENT9	-	-
+3	qué	qué	PT0CN000	-	-	871-874	404_QUEST_clinical_caseMIR	SENT9	-	-
+4	puede	poder	VMIP3S0	-	-	875-880	404_QUEST_clinical_caseMIR	SENT9	-	-
+5	deber	deber	VMN0000	-	-	881-886	404_QUEST_clinical_caseMIR	SENT9	-	-
+6	se	se	PP3CN000	-	-	886-888	404_QUEST_clinical_caseMIR	SENT9	-	-
+7	el	el	DA0MS0	-	-	889-891	404_QUEST_clinical_caseMIR	SENT9	-	-
+8	cuadro	cuadro	NCMS000	-	-	892-898	404_QUEST_clinical_caseMIR	SENT9	-	-
+9	actual	actual	AQ0CS0	C0521116	calificador	899-905	404_QUEST_clinical_caseMIR	SENT9	-	-
+10	?	?	Fit	-	-	905-906	404_QUEST_clinical_caseMIR	SENT9	-	-
+11	.	.	Fp	-	-	906-907	404_QUEST_clinical_caseMIR	SENT9	-	-
 

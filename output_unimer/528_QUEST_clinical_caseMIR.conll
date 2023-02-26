@@ -51,13 +51,15 @@
 51	azuladas	azular	VMP00PF	-	-	301-309	528_QUEST_clinical_caseMIR	SENT1	-	-
 52	.	.	Fp	-	-	309-310	528_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Qué	qué	DE0CN0	-	-	311-314	528_QUEST_clinical_caseMIR	SENT2	-	-
-2	puntuación	puntuación	NCFS000	C0449820	atributo	315-325	528_QUEST_clinical_caseMIR	SENT2	-	-
-3	del	del	SP+DA	-	-	326-329	528_QUEST_clinical_caseMIR	SENT2	-	-
-4	test	test	NCMS000	-	-	330-334	528_QUEST_clinical_caseMIR	SENT2	-	-
-5	de	de	SPS00	C0332285	atributo	335-337	528_QUEST_clinical_caseMIR	SENT2	-	-
-6	Apgar	apgar	VMN0000	-	-	338-343	528_QUEST_clinical_caseMIR	SENT2	-	-
-7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	344-346	528_QUEST_clinical_caseMIR	SENT2	-	-
-8	corresponde	corresponder	VMIP3S0	-	-	347-358	528_QUEST_clinical_caseMIR	SENT2	-	-
-9	.	.	Fp	-	-	358-359	528_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	311-312	528_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	312-315	528_QUEST_clinical_caseMIR	SENT2	-	-
+3	puntuación	puntuación	NCFS000	C0449820	atributo	316-326	528_QUEST_clinical_caseMIR	SENT2	-	-
+4	del	del	SP+DA	-	-	327-330	528_QUEST_clinical_caseMIR	SENT2	-	-
+5	test	test	NCMS000	-	-	331-335	528_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	336-338	528_QUEST_clinical_caseMIR	SENT2	-	-
+7	Apgar	apgar	VMN0000	-	-	339-344	528_QUEST_clinical_caseMIR	SENT2	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	345-347	528_QUEST_clinical_caseMIR	SENT2	-	-
+9	corresponde	corresponder	VMIP3S0	-	-	348-359	528_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	359-360	528_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	360-361	528_QUEST_clinical_caseMIR	SENT2	-	-
 

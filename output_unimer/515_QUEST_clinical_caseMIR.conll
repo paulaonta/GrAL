@@ -11,7 +11,7 @@
 11	siguientes	siguiente	AQ0CP0	C0332282	atributo	56-66	515_QUEST_clinical_caseMIR	SENT1	-	-
 12	características	característica	NCFP000	-	-	67-82	515_QUEST_clinical_caseMIR	SENT1	-	-
 13	clínicas	clínico	AQ0FP0	C0205210	calificador	83-91	515_QUEST_clinical_caseMIR	SENT1	-	-
-14	.	.	Fp	-	-	91-92	515_QUEST_clinical_caseMIR	SENT1	-	-
+14	:	:	Fd	-	-	91-92	515_QUEST_clinical_caseMIR	SENT1	-	-
 15	aura	aura	NCFS000	C0236018	hallazgo	93-97	515_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
 16	epigástrica	epigástrico	AQ0FS0	-	-	98-109	515_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
 17	,	,	Fc	-	-	109-110	515_QUEST_clinical_caseMIR	SENT1	-	-
@@ -38,13 +38,14 @@
 38	)	)	Fpt	-	-	225-226	515_QUEST_clinical_caseMIR	SENT1	-	-
 39	y	y	CC	C1706368	calificador	227-228	515_QUEST_clinical_caseMIR	SENT1	-	-
 40	amnesia	amnesia	NCFS000	C0002622	hallazgo	229-236	515_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-41	posterítica	posterítica	AQ0FS00	-	-	237-248	515_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+41	posterítica	posterítica	AQ0FS00	-	-	237-248	515_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
 42	,	,	Fc	-	-	248-249	515_QUEST_clinical_caseMIR	SENT1	-	-
-43	.	.	Fp	-	-	250-251	515_QUEST_clinical_caseMIR	SENT1	-	-
-44	cuál	cuál	PT0CS000	-	-	252-256	515_QUEST_clinical_caseMIR	SENT1	-	-
-45	es	ser	VSIP3S0	-	-	257-259	515_QUEST_clinical_caseMIR	SENT1	-	-
-46	su	su	DP3CS0	-	-	260-262	515_QUEST_clinical_caseMIR	SENT1	-	-
-47	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	263-271	515_QUEST_clinical_caseMIR	SENT1	-	-
-48	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	272-283	515_QUEST_clinical_caseMIR	SENT1	-	-
-49	.	.	Fp	-	-	283-284	515_QUEST_clinical_caseMIR	SENT1	-	-
+43	¿	¿	Fia	-	-	250-251	515_QUEST_clinical_caseMIR	SENT1	-	-
+44	cuál	cuál	PT0CS000	-	-	251-255	515_QUEST_clinical_caseMIR	SENT1	-	-
+45	es	ser	VSIP3S0	-	-	256-258	515_QUEST_clinical_caseMIR	SENT1	-	-
+46	su	su	DP3CS0	-	-	259-261	515_QUEST_clinical_caseMIR	SENT1	-	-
+47	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	262-270	515_QUEST_clinical_caseMIR	SENT1	-	-
+48	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	271-282	515_QUEST_clinical_caseMIR	SENT1	-	-
+49	?	?	Fit	-	-	282-283	515_QUEST_clinical_caseMIR	SENT1	-	-
+50	.	.	Fp	-	-	283-284	515_QUEST_clinical_caseMIR	SENT1	-	-
 

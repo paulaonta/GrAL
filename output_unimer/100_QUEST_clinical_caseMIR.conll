@@ -57,15 +57,18 @@
 57	angio-TAC	angio-tac	NCMS000	-	-	301-310	100_QUEST_clinical_caseMIR	SENT1	-	-
 58	.	.	Fp	-	-	310-311	100_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	312-316	100_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	317-319	100_QUEST_clinical_caseMIR	SENT2	-	-
-3	la	el	DA0FS0	-	-	320-322	100_QUEST_clinical_caseMIR	SENT2	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	323-330	100_QUEST_clinical_caseMIR	SENT2	-	-
-5	terapéutica	terapéutico	AQ0FS0	-	-	331-342	100_QUEST_clinical_caseMIR	SENT2	-	-
-6	más	más	RG	C0205172	calificador	343-346	100_QUEST_clinical_caseMIR	SENT2	-	-
-7	correcta	correcto	AQ0FS0	C0205170	calificador	347-355	100_QUEST_clinical_caseMIR	SENT2	-	-
-8	en	en	SPS00	C1720294#C0332285	calificador#atributo	356-358	100_QUEST_clinical_caseMIR	SENT2	-	-
-9	este	este	DD0MS0	-	-	359-363	100_QUEST_clinical_caseMIR	SENT2	-	-
-10	caso	caso	NCMS000	C0868928	calificador	364-368	100_QUEST_clinical_caseMIR	SENT2	-	-
-11	.	.	Fp	-	-	368-369	100_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	312-313	100_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	313-317	100_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	318-320	100_QUEST_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	321-323	100_QUEST_clinical_caseMIR	SENT2	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	324-331	100_QUEST_clinical_caseMIR	SENT2	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	332-343	100_QUEST_clinical_caseMIR	SENT2	-	-
+7	más	más	RG	C0205172	calificador	344-347	100_QUEST_clinical_caseMIR	SENT2	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	348-356	100_QUEST_clinical_caseMIR	SENT2	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	357-359	100_QUEST_clinical_caseMIR	SENT2	-	-
+10	este	este	DD0MS0	-	-	360-364	100_QUEST_clinical_caseMIR	SENT2	-	-
+11	caso	caso	NCMS000	C0868928	calificador	365-369	100_QUEST_clinical_caseMIR	SENT2	-	-
+12	?	?	Fit	-	-	369-370	100_QUEST_clinical_caseMIR	SENT2	-	-
+13	:	:	Fd	-	-	370-371	100_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	371-372	100_QUEST_clinical_caseMIR	SENT2	-	-
 

@@ -54,24 +54,27 @@
 27	warfarina	warfarina	NCFS000	C0043031	sustancia	272-281	731_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
 28	.	.	Fp	-	-	281-282	731_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	283-287	731_QUEST_clinical_caseMIR	SENT4	-	-
-2	sería	ser	VSIC1S0	-	-	288-293	731_QUEST_clinical_caseMIR	SENT4	-	-
-3	el	el	DA0MS0	-	-	294-296	731_QUEST_clinical_caseMIR	SENT4	-	-
-4	número	número	NCMS000	C0237753#C1265611	calificador#atributo	297-303	731_QUEST_clinical_caseMIR	SENT4	-	-
-5	necesario	necesario	AQ0MS0	-	-	304-313	731_QUEST_clinical_caseMIR	SENT4	-	-
-6	a	a	SPS00	-	-	314-315	731_QUEST_clinical_caseMIR	SENT4	-	-
-7	tratar	tratar	VMN0000	-	-	316-322	731_QUEST_clinical_caseMIR	SENT4	-	-
-8	(	(	Fpa	-	-	323-324	731_QUEST_clinical_caseMIR	SENT4	-	-
-9	NNT	nnt	NCMS000	-	-	324-327	731_QUEST_clinical_caseMIR	SENT4	-	-
-10	)	)	Fpt	-	-	327-328	731_QUEST_clinical_caseMIR	SENT4	-	-
-11	para	para	SPS00	C0521125	calificador	329-333	731_QUEST_clinical_caseMIR	SENT4	-	-
-12	prevenir	prevenir	VMN0000	-	-	334-342	731_QUEST_clinical_caseMIR	SENT4	-	-
-13	un	un		C0205447_1	calificador_1	343-345	731_QUEST_clinical_caseMIR	SENT4	-	-
-14	ictus	ictus	NCMN000	-	-	346-351	731_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-15	embolígeno	embolígeno	NCMS000	-	-	352-362	731_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
-16	con	con	SPS00	C0332287	atributo	363-366	731_QUEST_clinical_caseMIR	SENT4	-	-
-17	el	el	DA0MS0	-	-	367-369	731_QUEST_clinical_caseMIR	SENT4	-	-
-18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	370-381	731_QUEST_clinical_caseMIR	SENT4	-	-
-19	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	382-396	731_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
-20	.	.	Fp	-	-	396-397	731_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	283-284	731_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	284-288	731_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	289-294	731_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	295-297	731_QUEST_clinical_caseMIR	SENT4	-	-
+5	número	número	NCMS000	C0237753#C1265611	calificador#atributo	298-304	731_QUEST_clinical_caseMIR	SENT4	-	-
+6	necesario	necesario	AQ0MS0	-	-	305-314	731_QUEST_clinical_caseMIR	SENT4	-	-
+7	a	a	SPS00	-	-	315-316	731_QUEST_clinical_caseMIR	SENT4	-	-
+8	tratar	tratar	VMN0000	-	-	317-323	731_QUEST_clinical_caseMIR	SENT4	-	-
+9	(	(	Fpa	-	-	324-325	731_QUEST_clinical_caseMIR	SENT4	-	-
+10	NNT	nnt	NCMS000	-	-	325-328	731_QUEST_clinical_caseMIR	SENT4	-	-
+11	)	)	Fpt	-	-	328-329	731_QUEST_clinical_caseMIR	SENT4	-	-
+12	para	para	SPS00	C0521125	calificador	330-334	731_QUEST_clinical_caseMIR	SENT4	-	-
+13	prevenir	prevenir	VMN0000	-	-	335-343	731_QUEST_clinical_caseMIR	SENT4	-	-
+14	un	un		C0205447_1	calificador_1	344-346	731_QUEST_clinical_caseMIR	SENT4	-	-
+15	ictus	ictus	NCMN000	-	-	347-352	731_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+16	embolígeno	embolígeno	NCMS000	-	-	353-363	731_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+17	con	con	SPS00	C0332287	atributo	364-367	731_QUEST_clinical_caseMIR	SENT4	-	-
+18	el	el	DA0MS0	-	-	368-370	731_QUEST_clinical_caseMIR	SENT4	-	-
+19	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	371-382	731_QUEST_clinical_caseMIR	SENT4	-	-
+20	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	383-397	731_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+21	?	?	Fit	-	-	397-398	731_QUEST_clinical_caseMIR	SENT4	-	-
+22	:	:	Fd	-	-	398-399	731_QUEST_clinical_caseMIR	SENT4	-	-
+23	.	.	Fp	-	-	399-400	731_QUEST_clinical_caseMIR	SENT4	-	-
 

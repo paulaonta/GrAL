@@ -1,0 +1,23 @@
+1	Esta	este	DD0FS0	-	-	0-4	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	5-13	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	tiene	tener	VMIP3S0	-	-	14-19	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	20-23	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	infección	infección	NCFS000	C0009450	trastorno	24-33	318(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	del	del	SP+DA	-	-	34-37	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	tracto	tracto	NCMS000	-	-	38-44	318(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	urinario	urinario	NCMS000	-	-	45-53	318(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	complicada	complicar	VMP00SF	-	-	54-64	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	65-66	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	lo	lo	PP3CNA00	-	-	67-69	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	más	más	RG	C0205172	calificador	70-73	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	probable	probable	AQ0CS0	C0332148	calificador	74-82	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	es	ser	VSIP3S0	-	-	83-85	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	que	que	CS	-	-	86-89	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	el	el	DA0MS0	-	-	90-92	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	germen	germen	NCMS000	-	-	93-99	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	causante	causante	AQ0CS0	-	-	100-108	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	sea	ser	VSSP1S0	-	-	109-112	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	S.	s.	AQ0CS00	-	-	113-115	318(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	aureus	aureus	NCMN000	-	-	116-122	318(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+22	.	.	Fp	-	-	122-123	318(2)_ANS_clinical_caseMIR	SENT1	-	-
+

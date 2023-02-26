@@ -1,28 +1,33 @@
-1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	590_QUEST_clinical_caseMIR	SENT1	-	-
-2	de	de	SPS00	C0332285	atributo	6-8	590_QUEST_clinical_caseMIR	SENT1	-	-
-3	47	47		-	-	9-11	590_QUEST_clinical_caseMIR	SENT1	-	-
-4	años	año	NCMP000	C0439234	calificador	12-16	590_QUEST_clinical_caseMIR	SENT1	-	-
-5	diagnosticada	diagnosticar	VMP00SF	-	-	17-30	590_QUEST_clinical_caseMIR	SENT1	-	-
-6	de	de	SPS00	C0332285	atributo	31-33	590_QUEST_clinical_caseMIR	SENT1	-	-
-7	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	34-44	590_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-8	de	de	SPS00	C0332285	atributo	45-47	590_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-9	Waldenström	waldenström	NCMS000	-	-	48-59	590_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
-10	agresiva	agresivo	AQ0FS0	C0580822	calificador	60-68	590_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-11	tras	tras	SPS00	-	-	69-73	590_QUEST_clinical_caseMIR	SENT1	-	-
-12	4	4		-	-	74-75	590_QUEST_clinical_caseMIR	SENT1	-	-
-13	líneas	línea	NCFP000	C0205132	calificador	76-82	590_QUEST_clinical_caseMIR	SENT1	-	-
-14	de	de	SPS00	C0332285	atributo	83-85	590_QUEST_clinical_caseMIR	SENT1	-	-
-15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	86-97	590_QUEST_clinical_caseMIR	SENT1	-	-
-16	y	y	CC	C1706368	calificador	98-99	590_QUEST_clinical_caseMIR	SENT1	-	-
-17	recidiva	recidiva	NCFS000	C0034897#C2945760#C0035020	calificador	100-108	590_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-18	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	109-115	590_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
-19	post	post	AQ0CN0	-	-	116-120	590_QUEST_clinical_caseMIR	SENT1	-	-
-20	trasplante	trasplante	NCMS000	C0040736_1	procedimiento_1	121-131	590_QUEST_clinical_caseMIR	SENT1	-	-
-21	autólogo	autólogo	NC00SC0	C0040736_2	procedimiento_2	132-140	590_QUEST_clinical_caseMIR	SENT1	-	-
-22	de	de	SPS00	C0332285	atributo	141-143	590_QUEST_clinical_caseMIR	SENT1	-	-
-23	progenitores	progenitor	NCMP000	-	-	144-156	590_QUEST_clinical_caseMIR	SENT1	-	-
-24	hematopoyéticos	hematopoyético	AQ0MP0	-	-	157-172	590_QUEST_clinical_caseMIR	SENT1	-	-
-25	.	.	Fp	-	-	172-173	590_QUEST_clinical_caseMIR	SENT1	-	-
+1	Estreptococo	estreptococo	NCMS000	C0038402	organismo	0-12	590_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	beta-hemolítico	beta-hemolítico	AQ0MS00	-	-	13-28	590_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+3	,	,	Fc	-	-	28-29	590_QUEST_clinical_caseMIR	SENT1	-	-
+4	grupo	grupo	NCMS000	C0441833#C1257890	atributo#contexto_social	30-35	590_QUEST_clinical_caseMIR	SENT1	-	-
+5	A.	a.	AQ0CS00	-	-	36-38	590_QUEST_clinical_caseMIR	SENT1	-	-
+6	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	590_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	6-8	590_QUEST_clinical_caseMIR	SENT1	-	-
+8	47	47		-	-	9-11	590_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	12-16	590_QUEST_clinical_caseMIR	SENT1	-	-
+10	diagnosticada	diagnosticar	VMP00SF	-	-	17-30	590_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	31-33	590_QUEST_clinical_caseMIR	SENT1	-	-
+12	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	34-44	590_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	45-47	590_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+14	Waldenström	waldenström	NCMS000	-	-	48-59	590_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+15	agresiva	agresivo	AQ0FS0	C0580822	calificador	60-68	590_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	tras	tras	SPS00	-	-	69-73	590_QUEST_clinical_caseMIR	SENT1	-	-
+17	4	4		-	-	74-75	590_QUEST_clinical_caseMIR	SENT1	-	-
+18	líneas	línea	NCFP000	C0205132	calificador	76-82	590_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	83-85	590_QUEST_clinical_caseMIR	SENT1	-	-
+20	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	86-97	590_QUEST_clinical_caseMIR	SENT1	-	-
+21	y	y	CC	C1706368	calificador	98-99	590_QUEST_clinical_caseMIR	SENT1	-	-
+22	recidiva	recidiva	NCFS000	C0034897#C2945760#C0035020	calificador	100-108	590_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	109-115	590_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	post	post	AQ0CN0	-	-	116-120	590_QUEST_clinical_caseMIR	SENT1	-	-
+25	trasplante	trasplante	NCMS000	C0040736_1	procedimiento_1	121-131	590_QUEST_clinical_caseMIR	SENT1	-	-
+26	autólogo	autólogo	NC00SC0	C0040736_2	procedimiento_2	132-140	590_QUEST_clinical_caseMIR	SENT1	-	-
+27	de	de	SPS00	C0332285	atributo	141-143	590_QUEST_clinical_caseMIR	SENT1	-	-
+28	progenitores	progenitor	NCMP000	-	-	144-156	590_QUEST_clinical_caseMIR	SENT1	-	-
+29	hematopoyéticos	hematopoyético	AQ0MP0	-	-	157-172	590_QUEST_clinical_caseMIR	SENT1	-	-
+30	.	.	Fp	-	-	172-173	590_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Tras	tras	SPS00	-	-	174-178	590_QUEST_clinical_caseMIR	SENT2	-	-
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	179-190	590_QUEST_clinical_caseMIR	SENT2	-	-
@@ -98,14 +103,16 @@
 40	positiva	positivo	AQ0FS0	C1446409	calificador	618-626	590_QUEST_clinical_caseMIR	SENT4	-	-
 41	.	.	Fp	-	-	626-627	590_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	628-632	590_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	633-635	590_QUEST_clinical_caseMIR	SENT5	-	-
-3	la	el	DA0FS0	-	-	636-638	590_QUEST_clinical_caseMIR	SENT5	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	639-646	590_QUEST_clinical_caseMIR	SENT5	-	-
-5	más	más	RG	C0205172	calificador	647-650	590_QUEST_clinical_caseMIR	SENT5	-	-
-6	adecuada	adecuar	VMP00SF	-	-	651-659	590_QUEST_clinical_caseMIR	SENT5	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	660-662	590_QUEST_clinical_caseMIR	SENT5	-	-
-8	este	este	DD0MS0	-	-	663-667	590_QUEST_clinical_caseMIR	SENT5	-	-
-9	caso	caso	NCMS000	C0868928	calificador	668-672	590_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	672-673	590_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	628-629	590_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	629-633	590_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	634-636	590_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	637-639	590_QUEST_clinical_caseMIR	SENT5	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	640-647	590_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	648-651	590_QUEST_clinical_caseMIR	SENT5	-	-
+7	adecuada	adecuar	VMP00SF	-	-	652-660	590_QUEST_clinical_caseMIR	SENT5	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	661-663	590_QUEST_clinical_caseMIR	SENT5	-	-
+9	este	este	DD0MS0	-	-	664-668	590_QUEST_clinical_caseMIR	SENT5	-	-
+10	caso	caso	NCMS000	C0868928	calificador	669-673	590_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	673-674	590_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	674-675	590_QUEST_clinical_caseMIR	SENT5	-	-
 

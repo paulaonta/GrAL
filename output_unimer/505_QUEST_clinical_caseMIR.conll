@@ -30,16 +30,18 @@
 30	)	)	Fpt	-	-	175-176	505_QUEST_clinical_caseMIR	SENT1	-	-
 31	.	.	Fp	-	-	176-177	505_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	178-182	505_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	183-185	505_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	186-188	505_QUEST_clinical_caseMIR	SENT2	-	-
-4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	189-200	505_QUEST_clinical_caseMIR	SENT2	-	-
-5	más	más	RG	C0205172	calificador	201-204	505_QUEST_clinical_caseMIR	SENT2	-	-
-6	adecuado	adecuar	VMP00SM	-	-	205-213	505_QUEST_clinical_caseMIR	SENT2	-	-
-7	de	de	SPS00	C0332285	atributo	214-216	505_QUEST_clinical_caseMIR	SENT2	-	-
-8	inicio	inicio	NCMS000	C0332162	atributo	217-223	505_QUEST_clinical_caseMIR	SENT2	-	-
-9	ante	ante	SPS00	-	-	224-228	505_QUEST_clinical_caseMIR	SENT2	-	-
-10	esta	este	DD0FS0	-	-	229-233	505_QUEST_clinical_caseMIR	SENT2	-	-
-11	patología	patología	NCFS000	C0030664	calificador	234-243	505_QUEST_clinical_caseMIR	SENT2	-	-
-12	.	.	Fp	-	-	243-244	505_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	178-179	505_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	179-183	505_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	184-186	505_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	187-189	505_QUEST_clinical_caseMIR	SENT2	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	190-201	505_QUEST_clinical_caseMIR	SENT2	-	-
+6	más	más	RG	C0205172	calificador	202-205	505_QUEST_clinical_caseMIR	SENT2	-	-
+7	adecuado	adecuar	VMP00SM	-	-	206-214	505_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	215-217	505_QUEST_clinical_caseMIR	SENT2	-	-
+9	inicio	inicio	NCMS000	C0332162	atributo	218-224	505_QUEST_clinical_caseMIR	SENT2	-	-
+10	ante	ante	SPS00	-	-	225-229	505_QUEST_clinical_caseMIR	SENT2	-	-
+11	esta	este	DD0FS0	-	-	230-234	505_QUEST_clinical_caseMIR	SENT2	-	-
+12	patología	patología	NCFS000	C0030664	calificador	235-244	505_QUEST_clinical_caseMIR	SENT2	-	-
+13	?	?	Fit	-	-	244-245	505_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	245-246	505_QUEST_clinical_caseMIR	SENT2	-	-
 

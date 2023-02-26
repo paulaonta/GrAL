@@ -33,15 +33,18 @@
 11	cortical	cortical	AQ0CS0	-	-	167-175	250_QUEST_clinical_caseMIR	SENT2	-	-
 12	.	.	Fp	-	-	175-176	250_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	En	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	250_QUEST_clinical_caseMIR	SENT3	-	-
-2	qué	qué	DT0CN0	-	-	180-183	250_QUEST_clinical_caseMIR	SENT3	-	-
-3	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	184-190	250_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
-4	tumoral	tumoral	AQ0CS0	-	-	191-198	250_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
-5	habrá	haber	VMIF3S0	-	-	199-204	250_QUEST_clinical_caseMIR	SENT3	-	-
-6	que	que	CS	-	-	205-208	250_QUEST_clinical_caseMIR	SENT3	-	-
-7	pensar	pensar	VMN0000	-	-	209-215	250_QUEST_clinical_caseMIR	SENT3	-	-
-8	como	como	CS	C0332257	calificador	216-220	250_QUEST_clinical_caseMIR	SENT3	-	-
-9	más	más	RG	C0205172	calificador	221-224	250_QUEST_clinical_caseMIR	SENT3	-	-
-10	probable	probable	AQ0CS0	C0332148	calificador	225-233	250_QUEST_clinical_caseMIR	SENT3	-	-
-11	.	.	Fp	-	-	233-234	250_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	177-178	250_QUEST_clinical_caseMIR	SENT3	-	-
+2	En	en	SPS00	C1720294#C0332285	calificador#atributo	178-180	250_QUEST_clinical_caseMIR	SENT3	-	-
+3	qué	qué	DT0CN0	-	-	181-184	250_QUEST_clinical_caseMIR	SENT3	-	-
+4	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	185-191	250_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	tumoral	tumoral	AQ0CS0	-	-	192-199	250_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+6	habrá	haber	VMIF3S0	-	-	200-205	250_QUEST_clinical_caseMIR	SENT3	-	-
+7	que	que	CS	-	-	206-209	250_QUEST_clinical_caseMIR	SENT3	-	-
+8	pensar	pensar	VMN0000	-	-	210-216	250_QUEST_clinical_caseMIR	SENT3	-	-
+9	como	como	CS	C0332257	calificador	217-221	250_QUEST_clinical_caseMIR	SENT3	-	-
+10	más	más	RG	C0205172	calificador	222-225	250_QUEST_clinical_caseMIR	SENT3	-	-
+11	probable	probable	AQ0CS0	C0332148	calificador	226-234	250_QUEST_clinical_caseMIR	SENT3	-	-
+12	?	?	Fit	-	-	234-235	250_QUEST_clinical_caseMIR	SENT3	-	-
+13	:	:	Fd	-	-	235-236	250_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	236-237	250_QUEST_clinical_caseMIR	SENT3	-	-
 

@@ -50,14 +50,17 @@
 12	patológicas	patológico	AQ0FP0	C1521733	calificador	292-303	694_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
 13	.	.	Fp	-	-	303-304	694_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	305-309	694_QUEST_clinical_caseMIR	SENT4	-	-
-2	de	de	SPS00	C0332285	atributo	310-312	694_QUEST_clinical_caseMIR	SENT4	-	-
-3	las	el	DA0FP0	-	-	313-316	694_QUEST_clinical_caseMIR	SENT4	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	317-327	694_QUEST_clinical_caseMIR	SENT4	-	-
-5	opciones	opción	NCFP000	-	-	328-336	694_QUEST_clinical_caseMIR	SENT4	-	-
-6	sería	ser	VSIC1S0	-	-	337-342	694_QUEST_clinical_caseMIR	SENT4	-	-
-7	la	lo	PP3FSA00	C0205393_1	calificador_1	343-345	694_QUEST_clinical_caseMIR	SENT4	-	-
-8	más	más	RG	C0205393_2	calificador_2	346-349	694_QUEST_clinical_caseMIR	SENT4	-	-
-9	correcta	correcto	AQ0FS0	C0205170	calificador	350-358	694_QUEST_clinical_caseMIR	SENT4	-	-
-10	.	.	Fp	-	-	358-359	694_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	305-306	694_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	306-310	694_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	311-313	694_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	314-317	694_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	318-328	694_QUEST_clinical_caseMIR	SENT4	-	-
+6	opciones	opción	NCFP000	-	-	329-337	694_QUEST_clinical_caseMIR	SENT4	-	-
+7	sería	ser	VSIC1S0	-	-	338-343	694_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	344-346	694_QUEST_clinical_caseMIR	SENT4	-	-
+9	más	más	RG	C0205393_2	calificador_2	347-350	694_QUEST_clinical_caseMIR	SENT4	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	351-359	694_QUEST_clinical_caseMIR	SENT4	-	-
+11	?	?	Fit	-	-	359-360	694_QUEST_clinical_caseMIR	SENT4	-	-
+12	:	:	Fd	-	-	360-361	694_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	361-362	694_QUEST_clinical_caseMIR	SENT4	-	-
 

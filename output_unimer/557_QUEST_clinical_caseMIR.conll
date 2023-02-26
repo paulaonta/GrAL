@@ -88,18 +88,20 @@
 32	mefenámico	mefenámico		C0025152_2	sustancia_2	460-470	557_QUEST_clinical_caseMIR	SENT6	I-Grp_Medicamento	-
 33	.	.	Fp	-	-	470-471	557_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	472-476	557_QUEST_clinical_caseMIR	SENT7	-	-
-2	de	de	SPS00	C0332285	atributo	477-479	557_QUEST_clinical_caseMIR	SENT7	-	-
-3	los	el	DA0MP0	-	-	480-483	557_QUEST_clinical_caseMIR	SENT7	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	484-494	557_QUEST_clinical_caseMIR	SENT7	-	-
-5	es	ser	VSIP3S0	-	-	495-497	557_QUEST_clinical_caseMIR	SENT7	-	-
-6	el	el	DA0MS0	-	-	498-500	557_QUEST_clinical_caseMIR	SENT7	-	-
-7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	501-512	557_QUEST_clinical_caseMIR	SENT7	-	-
-8	de	de	SPS00	C0332285	atributo	513-515	557_QUEST_clinical_caseMIR	SENT7	-	-
-9	primera	1	AO0FS0	-	-	516-523	557_QUEST_clinical_caseMIR	SENT7	-	-
-10	elección	elección	NCFS000	-	-	524-532	557_QUEST_clinical_caseMIR	SENT7	-	-
-11	en	en	SPS00	C1720294#C0332285	calificador#atributo	533-535	557_QUEST_clinical_caseMIR	SENT7	-	-
-12	esta	este	DD0FS0	-	-	536-540	557_QUEST_clinical_caseMIR	SENT7	-	-
-13	paciente	paciente	NCCS000	C0030705	persona	541-549	557_QUEST_clinical_caseMIR	SENT7	-	-
-14	.	.	Fp	-	-	549-550	557_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	472-473	557_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	473-477	557_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	478-480	557_QUEST_clinical_caseMIR	SENT7	-	-
+4	los	el	DA0MP0	-	-	481-484	557_QUEST_clinical_caseMIR	SENT7	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	485-495	557_QUEST_clinical_caseMIR	SENT7	-	-
+6	es	ser	VSIP3S0	-	-	496-498	557_QUEST_clinical_caseMIR	SENT7	-	-
+7	el	el	DA0MS0	-	-	499-501	557_QUEST_clinical_caseMIR	SENT7	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	502-513	557_QUEST_clinical_caseMIR	SENT7	-	-
+9	de	de	SPS00	C0332285	atributo	514-516	557_QUEST_clinical_caseMIR	SENT7	-	-
+10	primera	1	AO0FS0	-	-	517-524	557_QUEST_clinical_caseMIR	SENT7	-	-
+11	elección	elección	NCFS000	-	-	525-533	557_QUEST_clinical_caseMIR	SENT7	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	534-536	557_QUEST_clinical_caseMIR	SENT7	-	-
+13	esta	este	DD0FS0	-	-	537-541	557_QUEST_clinical_caseMIR	SENT7	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	542-550	557_QUEST_clinical_caseMIR	SENT7	-	-
+15	?	?	Fit	-	-	550-551	557_QUEST_clinical_caseMIR	SENT7	-	-
+16	.	.	Fp	-	-	551-552	557_QUEST_clinical_caseMIR	SENT7	-	-
 

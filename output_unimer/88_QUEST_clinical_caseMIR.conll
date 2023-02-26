@@ -32,10 +32,13 @@
 32	torácicas	torácico	AQ0FP0	C0817096	calificador	168-177	88_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
 33	.	.	Fp	-	-	177-178	88_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Qué	qué	DE0CN0	-	-	179-182	88_QUEST_clinical_caseMIR	SENT2	-	-
-2	nervios	nervio	NCMP000	C1280541#C0027740	estructura_corporal	183-190	88_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
-3	espinales	espinal	AQ0CP0	-	-	191-200	88_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
-4	estarán	estar	VAIF3P0	-	-	201-208	88_QUEST_clinical_caseMIR	SENT2	-	-
-5	lesionados	lesionar	VMP00PM	-	-	209-219	88_QUEST_clinical_caseMIR	SENT2	-	-
-6	.	.	Fp	-	-	219-220	88_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	179-180	88_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	180-183	88_QUEST_clinical_caseMIR	SENT2	-	-
+3	nervios	nervio	NCMP000	C1280541#C0027740	estructura_corporal	184-191	88_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	espinales	espinal	AQ0CP0	-	-	192-201	88_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+5	estarán	estar	VAIF3P0	-	-	202-209	88_QUEST_clinical_caseMIR	SENT2	-	-
+6	lesionados	lesionar	VMP00PM	-	-	210-220	88_QUEST_clinical_caseMIR	SENT2	-	-
+7	?	?	Fit	-	-	220-221	88_QUEST_clinical_caseMIR	SENT2	-	-
+8	:	:	Fd	-	-	221-222	88_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	222-223	88_QUEST_clinical_caseMIR	SENT2	-	-
 

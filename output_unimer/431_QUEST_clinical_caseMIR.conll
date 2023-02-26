@@ -63,11 +63,13 @@
 14	izquierdo	izquierdo	NC00SC0	C1279999#C0230461_2	estructura_corporal_2	298-307	431_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 15	.	.	Fp	-	-	307-308	431_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	309-312	431_QUEST_clinical_caseMIR	SENT3	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	313-324	431_QUEST_clinical_caseMIR	SENT3	-	-
-3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	325-327	431_QUEST_clinical_caseMIR	SENT3	-	-
-4	parece	parecer	VMIP3S0	-	-	328-334	431_QUEST_clinical_caseMIR	SENT3	-	-
-5	más	más	RG	C0205172	calificador	335-338	431_QUEST_clinical_caseMIR	SENT3	-	-
-6	indicado	indicar	VMP00SM	-	-	339-347	431_QUEST_clinical_caseMIR	SENT3	-	-
-7	.	.	Fp	-	-	347-348	431_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	309-310	431_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	310-313	431_QUEST_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	314-325	431_QUEST_clinical_caseMIR	SENT3	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	326-328	431_QUEST_clinical_caseMIR	SENT3	-	-
+5	parece	parecer	VMIP3S0	-	-	329-335	431_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	336-339	431_QUEST_clinical_caseMIR	SENT3	-	-
+7	indicado	indicar	VMP00SM	-	-	340-348	431_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	348-349	431_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	349-350	431_QUEST_clinical_caseMIR	SENT3	-	-
 

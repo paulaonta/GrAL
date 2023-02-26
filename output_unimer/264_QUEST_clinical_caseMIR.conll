@@ -76,10 +76,13 @@
 15	μl	μl	NCMS000	-	-	359-361	264_QUEST_clinical_caseMIR	SENT3	-	-
 16	.	.	Fp	-	-	361-362	264_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Qué	qué	DE0CN0	-	-	363-366	264_QUEST_clinical_caseMIR	SENT4	-	-
-2	vacunas	vacuno	AQ0FP0	-	-	367-374	264_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
-3	deberíamos	deber	VMIC1P0	-	-	375-385	264_QUEST_clinical_caseMIR	SENT4	-	-
-4	recomendar	recomendar	VMN0000	-	-	386-396	264_QUEST_clinical_caseMIR	SENT4	-	-
-5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	396-398	264_QUEST_clinical_caseMIR	SENT4	-	-
-6	.	.	Fp	-	-	398-399	264_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	363-364	264_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	364-367	264_QUEST_clinical_caseMIR	SENT4	-	-
+3	vacunas	vacuna	NCFP000	C0042210	producto#sustancia	368-375	264_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	deberíamos	deber	VMIC1P0	-	-	376-386	264_QUEST_clinical_caseMIR	SENT4	-	-
+5	recomendar	recomendar	VMN0000	-	-	387-397	264_QUEST_clinical_caseMIR	SENT4	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	397-399	264_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	399-400	264_QUEST_clinical_caseMIR	SENT4	-	-
+8	:	:	Fd	-	-	400-401	264_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	401-402	264_QUEST_clinical_caseMIR	SENT4	-	-
 

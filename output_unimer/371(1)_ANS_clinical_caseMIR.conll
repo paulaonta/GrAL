@@ -1,0 +1,25 @@
+1	Se	se	P00CN000	-	-	0-2	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	infección	infección	NCFS000	C0035243_1	trastorno_1	16-25	371(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	26-38	371(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	típica	típico	AQ0FS0	-	-	39-45	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	46-48	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	la	el	DA0FS0	-	-	49-51	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	época	época	NCFS000	-	-	52-57	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	del	del	SP+DA	-	-	58-61	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	año	año	NCMS000	C0439234	calificador	62-65	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	65-66	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	67-70	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	requiere	requerir	VMIP3S0	-	-	71-79	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	80-91	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	92-103	371(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+18	sin	sin	SPS00	C0332288	atributo	104-107	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	necesidad	necesidad	NCFS000	-	-	108-117	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	118-120	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	realizar	realizar	VMN0000	-	-	121-129	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	pruebas	prueba	NCFP000	-	-	130-137	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	adicionales	adicional	AQ0CP0	-	-	138-149	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	149-150	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+

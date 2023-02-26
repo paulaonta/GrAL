@@ -104,19 +104,22 @@
 19	dl	decilitro	NCMN000	C0439241	calificador	527-529	209_QUEST_clinical_caseMIR	SENT5	-	-
 20	.	.	Fp	-	-	529-530	209_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	531-535	209_QUEST_clinical_caseMIR	SENT6	-	-
-2	de	de	SPS00	C0332285	atributo	536-538	209_QUEST_clinical_caseMIR	SENT6	-	-
-3	los	el	DA0MP0	-	-	539-542	209_QUEST_clinical_caseMIR	SENT6	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	543-553	209_QUEST_clinical_caseMIR	SENT6	-	-
-5	se	se	P00CN000	-	-	554-556	209_QUEST_clinical_caseMIR	SENT6	-	-
-6	asocia	asociar	VMIP3S0	-	-	557-563	209_QUEST_clinical_caseMIR	SENT6	-	-
-7	con	con	SPS00	C0332287	atributo	564-567	209_QUEST_clinical_caseMIR	SENT6	-	-
-8	una	una		C0205447_1	calificador_1	568-571	209_QUEST_clinical_caseMIR	SENT6	-	-
-9	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	572-577	209_QUEST_clinical_caseMIR	SENT6	-	-
-10	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	578-587	209_QUEST_clinical_caseMIR	SENT6	-	-
-11	del	del	SP+DA	-	-	588-591	209_QUEST_clinical_caseMIR	SENT6	-	-
-12	riesgo	riesgo	NCMS000	C1277291_1	escala_de_evaluación_1	592-598	209_QUEST_clinical_caseMIR	SENT6	-	-
-13	de	de	SPS00	C1277291_2	escala_de_evaluación_2	599-601	209_QUEST_clinical_caseMIR	SENT6	-	-
-14	ACV	acv	NC00YL0	C1277291_3	escala_de_evaluación_3	602-605	209_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
-15	.	.	Fp	-	-	605-606	209_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	531-532	209_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	532-536	209_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	537-539	209_QUEST_clinical_caseMIR	SENT6	-	-
+4	los	el	DA0MP0	-	-	540-543	209_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	544-554	209_QUEST_clinical_caseMIR	SENT6	-	-
+6	se	se	P00CN000	-	-	555-557	209_QUEST_clinical_caseMIR	SENT6	-	-
+7	asocia	asociar	VMIP3S0	-	-	558-564	209_QUEST_clinical_caseMIR	SENT6	-	-
+8	con	con	SPS00	C0332287	atributo	565-568	209_QUEST_clinical_caseMIR	SENT6	-	-
+9	una	una		C0205447_1	calificador_1	569-572	209_QUEST_clinical_caseMIR	SENT6	-	-
+10	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	573-578	209_QUEST_clinical_caseMIR	SENT6	-	-
+11	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	579-588	209_QUEST_clinical_caseMIR	SENT6	-	-
+12	del	del	SP+DA	-	-	589-592	209_QUEST_clinical_caseMIR	SENT6	-	-
+13	riesgo	riesgo	NCMS000	C1277291_1	escala_de_evaluación_1	593-599	209_QUEST_clinical_caseMIR	SENT6	-	-
+14	de	de	SPS00	C1277291_2	escala_de_evaluación_2	600-602	209_QUEST_clinical_caseMIR	SENT6	-	-
+15	ACV	acv	NC00YL0	C1277291_3	escala_de_evaluación_3	603-606	209_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+16	?	?	Fit	-	-	606-607	209_QUEST_clinical_caseMIR	SENT6	-	-
+17	:	:	Fd	-	-	607-608	209_QUEST_clinical_caseMIR	SENT6	-	-
+18	.	.	Fp	-	-	608-609	209_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -66,62 +66,64 @@
 21	.	.	Fp	-	-	375-376	57_QUEST_clinical_caseMIR	SENT3	-	-
 
 1	Exploración	exploración	NCFS000	C1280903	procedimiento	377-388	57_QUEST_clinical_caseMIR	SENT4	-	-
-2	.	.	Fp	-	-	388-389	57_QUEST_clinical_caseMIR	SENT4	-	-
+2	:	:	Fd	-	-	388-389	57_QUEST_clinical_caseMIR	SENT4	-	-
+3	Paciente	paciente	NCCS000	C0030705	persona	390-398	57_QUEST_clinical_caseMIR	SENT4	-	-
+4	confusa	confuso	AQ0FS0	-	-	399-406	57_QUEST_clinical_caseMIR	SENT4	-	-
+5	.	.	Fp	-	-	406-407	57_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Paciente	paciente	NCCS000	C0030705	persona	390-398	57_QUEST_clinical_caseMIR	SENT5	-	-
-2	confusa	confuso	AQ0FS0	-	-	399-406	57_QUEST_clinical_caseMIR	SENT5	-	-
-3	.	.	Fp	-	-	406-407	57_QUEST_clinical_caseMIR	SENT5	-	-
+1	Pulso	pulsar	VMIP1S0	-	-	408-413	57_QUEST_clinical_caseMIR	SENT5	-	-
+2	90	90		-	-	414-416	57_QUEST_clinical_caseMIR	SENT5	-	-
+3	Ipm	ipm	NCMS000	-	-	417-420	57_QUEST_clinical_caseMIR	SENT5	-	-
+4	,	,	Fc	-	-	420-421	57_QUEST_clinical_caseMIR	SENT5	-	-
+5	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	422-432	57_QUEST_clinical_caseMIR	SENT5	-	-
+6	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	433-445	57_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+7	20	20		-	-	446-448	57_QUEST_clinical_caseMIR	SENT5	-	-
+8	rpm	r.p.m.	NCFN000	-	-	449-452	57_QUEST_clinical_caseMIR	SENT5	-	-
+9	,	,	Fc	-	-	452-453	57_QUEST_clinical_caseMIR	SENT5	-	-
+10	TA	ta	NC00YL0	-	-	454-456	57_QUEST_clinical_caseMIR	SENT5	-	-
+11	170/88	170/88	Z	-	-	457-463	57_QUEST_clinical_caseMIR	SENT5	-	-
+12	mmHg	mmHg	NCMP000	-	-	464-468	57_QUEST_clinical_caseMIR	SENT5	-	-
+13	,	,	Fc	-	-	468-469	57_QUEST_clinical_caseMIR	SENT5	-	-
+14	presión	presión	NCFS000	C0520859_1	hallazgo_1	470-477	57_QUEST_clinical_caseMIR	SENT5	-	-
+15	venosa	venoso	AQ0FS0	C0520859_2	hallazgo_2	478-484	57_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+16	yugular	yugular	VMN0000	C0520859_3	hallazgo_3	485-492	57_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+17	normal	normal	NCFS000	C0520859_4	hallazgo_4	493-499	57_QUEST_clinical_caseMIR	SENT5	-	-
+18	.	.	Fp	-	-	499-500	57_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Pulso	pulsar	VMIP1S0	-	-	408-413	57_QUEST_clinical_caseMIR	SENT6	-	-
-2	90	90		-	-	414-416	57_QUEST_clinical_caseMIR	SENT6	-	-
-3	Ipm	ipm	NCMS000	-	-	417-420	57_QUEST_clinical_caseMIR	SENT6	-	-
-4	,	,	Fc	-	-	420-421	57_QUEST_clinical_caseMIR	SENT6	-	-
-5	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	422-432	57_QUEST_clinical_caseMIR	SENT6	-	-
-6	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	433-445	57_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
-7	20	20		-	-	446-448	57_QUEST_clinical_caseMIR	SENT6	-	-
-8	rpm	r.p.m.	NCFN000	-	-	449-452	57_QUEST_clinical_caseMIR	SENT6	-	-
-9	,	,	Fc	-	-	452-453	57_QUEST_clinical_caseMIR	SENT6	-	-
-10	TA	ta	NC00YL0	-	-	454-456	57_QUEST_clinical_caseMIR	SENT6	-	-
-11	170/88	170/88	Z	-	-	457-463	57_QUEST_clinical_caseMIR	SENT6	-	-
-12	mmHg	mmHg	NCMP000	-	-	464-468	57_QUEST_clinical_caseMIR	SENT6	-	-
-13	,	,	Fc	-	-	468-469	57_QUEST_clinical_caseMIR	SENT6	-	-
-14	presión	presión	NCFS000	C0520859_1	hallazgo_1	470-477	57_QUEST_clinical_caseMIR	SENT6	-	-
-15	venosa	venoso	AQ0FS0	C0520859_2	hallazgo_2	478-484	57_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
-16	yugular	yugular	VMN0000	C0520859_3	hallazgo_3	485-492	57_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
-17	normal	normal	NCFS000	C0520859_4	hallazgo_4	493-499	57_QUEST_clinical_caseMIR	SENT6	-	-
-18	.	.	Fp	-	-	499-500	57_QUEST_clinical_caseMIR	SENT6	-	-
+1	La	el	DA0FS0	-	-	501-503	57_QUEST_clinical_caseMIR	SENT6	-	-
+2	analítica	analítica	NCFS000	-	-	504-513	57_QUEST_clinical_caseMIR	SENT6	-	-
+3	y	y	CC	C1706368	calificador	514-515	57_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	el	DA0FS0	-	-	516-518	57_QUEST_clinical_caseMIR	SENT6	-	-
+5	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	519-530	57_QUEST_clinical_caseMIR	SENT6	-	-
+6	de	de	SPS00	C0039985_2	procedimiento_2	531-533	57_QUEST_clinical_caseMIR	SENT6	-	-
+7	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	534-539	57_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+8	son	ser	VSIP3P0	-	-	540-543	57_QUEST_clinical_caseMIR	SENT6	-	-
+9	normales	normal	AQ0CP0	C0205307	calificador	544-552	57_QUEST_clinical_caseMIR	SENT6	-	-
+10	.	.	Fp	-	-	552-553	57_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	La	el	DA0FS0	-	-	501-503	57_QUEST_clinical_caseMIR	SENT7	-	-
-2	analítica	analítica	NCFS000	-	-	504-513	57_QUEST_clinical_caseMIR	SENT7	-	-
-3	y	y	CC	C1706368	calificador	514-515	57_QUEST_clinical_caseMIR	SENT7	-	-
-4	la	el	DA0FS0	-	-	516-518	57_QUEST_clinical_caseMIR	SENT7	-	-
-5	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	519-530	57_QUEST_clinical_caseMIR	SENT7	-	-
-6	de	de	SPS00	C0039985_2	procedimiento_2	531-533	57_QUEST_clinical_caseMIR	SENT7	-	-
-7	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	534-539	57_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
-8	son	ser	VSIP3P0	-	-	540-543	57_QUEST_clinical_caseMIR	SENT7	-	-
-9	normales	normal	AQ0CP0	C0205307	calificador	544-552	57_QUEST_clinical_caseMIR	SENT7	-	-
-10	.	.	Fp	-	-	552-553	57_QUEST_clinical_caseMIR	SENT7	-	-
+1	El	el	DA0MS0	-	-	554-556	57_QUEST_clinical_caseMIR	SENT7	-	-
+2	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	557-575	57_QUEST_clinical_caseMIR	SENT7	-	-
+3	muestra	mostrar	VMIP3S0	-	-	576-583	57_QUEST_clinical_caseMIR	SENT7	-	-
+4	un	un		C0205447_1	calificador_1	584-586	57_QUEST_clinical_caseMIR	SENT7	-	-
+5	ritmo	ritmo	NCMS000	C0232201_1	hallazgo_1	587-592	57_QUEST_clinical_caseMIR	SENT7	-	-
+6	sinusal	sinusal		C0232201_2	hallazgo_2	593-600	57_QUEST_clinical_caseMIR	SENT7	-	-
+7	sin	sin	SPS00	C0332288	atributo	601-604	57_QUEST_clinical_caseMIR	SENT7	-	-
+8	alteraciones	alteración	NCFP000	-	-	605-617	57_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	Negacion
+9	isquémicas	isquémico	AQ0FP0	C0475224	calificador	618-628	57_QUEST_clinical_caseMIR	SENT7	B-Calificador	-
+10	.	.	Fp	-	-	628-629	57_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	El	el	DA0MS0	-	-	554-556	57_QUEST_clinical_caseMIR	SENT8	-	-
-2	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	557-575	57_QUEST_clinical_caseMIR	SENT8	-	-
-3	muestra	mostrar	VMIP3S0	-	-	576-583	57_QUEST_clinical_caseMIR	SENT8	-	-
-4	un	un		C0205447_1	calificador_1	584-586	57_QUEST_clinical_caseMIR	SENT8	-	-
-5	ritmo	ritmo	NCMS000	C0232201_1	hallazgo_1	587-592	57_QUEST_clinical_caseMIR	SENT8	-	-
-6	sinusal	sinusal		C0232201_2	hallazgo_2	593-600	57_QUEST_clinical_caseMIR	SENT8	-	-
-7	sin	sin	SPS00	C0332288	atributo	601-604	57_QUEST_clinical_caseMIR	SENT8	-	-
-8	alteraciones	alteración	NCFP000	-	-	605-617	57_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Negacion
-9	isquémicas	isquémico	AQ0FP0	C0475224	calificador	618-628	57_QUEST_clinical_caseMIR	SENT8	B-Calificador	-
-10	.	.	Fp	-	-	628-629	57_QUEST_clinical_caseMIR	SENT8	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	630-634	57_QUEST_clinical_caseMIR	SENT9	-	-
-2	de	de	SPS00	C0332285	atributo	635-637	57_QUEST_clinical_caseMIR	SENT9	-	-
-3	las	el	DA0FP0	-	-	638-641	57_QUEST_clinical_caseMIR	SENT9	-	-
-4	siguíentes	siguíentes	NCCP000	-	-	642-652	57_QUEST_clinical_caseMIR	SENT9	-	-
-5	es	ser	VSIP3S0	-	-	653-655	57_QUEST_clinical_caseMIR	SENT9	-	-
-6	la	el	DA0FS0	-	-	656-658	57_QUEST_clinical_caseMIR	SENT9	-	-
-7	actitud	actitud	NCFS000	C0004271	entidad_observable	659-666	57_QUEST_clinical_caseMIR	SENT9	-	-
-8	terapéutica	terapéutico	AQ0FS0	-	-	667-678	57_QUEST_clinical_caseMIR	SENT9	-	-
-9	más	más	RG	C0205172	calificador	679-682	57_QUEST_clinical_caseMIR	SENT9	-	-
-10	correcta	correcto	AQ0FS0	C0205170	calificador	683-691	57_QUEST_clinical_caseMIR	SENT9	-	-
-11	.	.	Fp	-	-	691-692	57_QUEST_clinical_caseMIR	SENT9	-	-
+1	¿	¿	Fia	-	-	630-631	57_QUEST_clinical_caseMIR	SENT8	-	-
+2	Cuál	cuál	PT0CS000	-	-	631-635	57_QUEST_clinical_caseMIR	SENT8	-	-
+3	de	de	SPS00	C0332285	atributo	636-638	57_QUEST_clinical_caseMIR	SENT8	-	-
+4	las	el	DA0FP0	-	-	639-642	57_QUEST_clinical_caseMIR	SENT8	-	-
+5	siguíentes	siguíentes	NCCP000	-	-	643-653	57_QUEST_clinical_caseMIR	SENT8	-	-
+6	es	ser	VSIP3S0	-	-	654-656	57_QUEST_clinical_caseMIR	SENT8	-	-
+7	la	el	DA0FS0	-	-	657-659	57_QUEST_clinical_caseMIR	SENT8	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	660-667	57_QUEST_clinical_caseMIR	SENT8	-	-
+9	terapéutica	terapéutico	AQ0FS0	-	-	668-679	57_QUEST_clinical_caseMIR	SENT8	-	-
+10	más	más	RG	C0205172	calificador	680-683	57_QUEST_clinical_caseMIR	SENT8	-	-
+11	correcta	correcto	AQ0FS0	C0205170	calificador	684-692	57_QUEST_clinical_caseMIR	SENT8	-	-
+12	?	?	Fit	-	-	692-693	57_QUEST_clinical_caseMIR	SENT8	-	-
+13	:	:	Fd	-	-	693-694	57_QUEST_clinical_caseMIR	SENT8	-	-
+14	.	.	Fp	-	-	694-695	57_QUEST_clinical_caseMIR	SENT8	-	-
 

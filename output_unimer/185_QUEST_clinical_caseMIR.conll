@@ -72,7 +72,7 @@
 34	analítica	analítica	NCFS000	-	-	272-281	185_QUEST_clinical_caseMIR	SENT2	-	-
 35	de	de	SPS00	C0332285	atributo	282-284	185_QUEST_clinical_caseMIR	SENT2	-	-
 36	orina	orina	NCFS000	C0042036	sustancia	285-290	185_QUEST_clinical_caseMIR	SENT2	-	-
-37	.	.	Fp	-	-	290-291	185_QUEST_clinical_caseMIR	SENT2	-	-
+37	:	:	Fd	-	-	290-291	185_QUEST_clinical_caseMIR	SENT2	-	-
 38	sedimento	sedimento	NCMS000	C0333562	anomalía_morfológica	292-301	185_QUEST_clinical_caseMIR	SENT2	-	-
 39	sin	sin	SPS00	C0332288	atributo	302-305	185_QUEST_clinical_caseMIR	SENT2	-	-
 40	alteraciones	alteración	NCFP000	-	-	306-318	185_QUEST_clinical_caseMIR	SENT2	-	-
@@ -87,14 +87,17 @@
 49	6.3	6.3		-	-	353-356	185_QUEST_clinical_caseMIR	SENT2	-	-
 50	gr/24	gr/24		-	-	357-362	185_QUEST_clinical_caseMIR	SENT2	-	-
 51	h.	h.	NCFS000	-	-	363-365	185_QUEST_clinical_caseMIR	SENT2	-	-
-52	Cual	cual	PR0CS000	-	-	366-370	185_QUEST_clinical_caseMIR	SENT2	-	-
-53	de	de	SPS00	C0332285	atributo	371-373	185_QUEST_clinical_caseMIR	SENT2	-	-
-54	las	el	DA0FP0	-	-	374-377	185_QUEST_clinical_caseMIR	SENT2	-	-
-55	siguientes	siguiente	AQ0CP0	C0332282	atributo	378-388	185_QUEST_clinical_caseMIR	SENT2	-	-
-56	entidades	entidad	NCFP000	-	-	389-398	185_QUEST_clinical_caseMIR	SENT2	-	-
-57	presentará	presentar	VMIF3S0	-	-	399-409	185_QUEST_clinical_caseMIR	SENT2	-	-
-58	con	con	SPS00	C0332287	atributo	410-413	185_QUEST_clinical_caseMIR	SENT2	-	-
-59	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	414-419	185_QUEST_clinical_caseMIR	SENT2	-	-
-60	probabilidad	probabilidad	NCFS000	-	-	420-432	185_QUEST_clinical_caseMIR	SENT2	-	-
-61	.	.	Fp	-	-	432-433	185_QUEST_clinical_caseMIR	SENT2	-	-
+52	¿	¿	Fia	-	-	366-367	185_QUEST_clinical_caseMIR	SENT2	-	-
+53	Cual	cual	PI0CS000	-	-	367-371	185_QUEST_clinical_caseMIR	SENT2	-	-
+54	de	de	SPS00	C0332285	atributo	372-374	185_QUEST_clinical_caseMIR	SENT2	-	-
+55	las	el	DA0FP0	-	-	375-378	185_QUEST_clinical_caseMIR	SENT2	-	-
+56	siguientes	siguiente	AQ0CP0	C0332282	atributo	379-389	185_QUEST_clinical_caseMIR	SENT2	-	-
+57	entidades	entidad	NCFP000	-	-	390-399	185_QUEST_clinical_caseMIR	SENT2	-	-
+58	presentará	presentar	VMIF3S0	-	-	400-410	185_QUEST_clinical_caseMIR	SENT2	-	-
+59	con	con	SPS00	C0332287	atributo	411-414	185_QUEST_clinical_caseMIR	SENT2	-	-
+60	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	415-420	185_QUEST_clinical_caseMIR	SENT2	-	-
+61	probabilidad	probabilidad	NCFS000	-	-	421-433	185_QUEST_clinical_caseMIR	SENT2	-	-
+62	?	?	Fit	-	-	433-434	185_QUEST_clinical_caseMIR	SENT2	-	-
+63	:	:	Fd	-	-	434-435	185_QUEST_clinical_caseMIR	SENT2	-	-
+64	.	.	Fp	-	-	435-436	185_QUEST_clinical_caseMIR	SENT2	-	-
 

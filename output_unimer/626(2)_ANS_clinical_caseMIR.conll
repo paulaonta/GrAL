@@ -1,0 +1,17 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	3-5	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	6-17	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	simple	simple	NCCS000	C1306645_2	procedimiento_2	18-24	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	25-27	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	28-35	626(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	lo	el	DA0NS0	-	-	36-38	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	esperable	esperable	AQ0CS0	-	-	39-48	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	es	ser	VSIP3S0	-	-	49-51	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	encontrar	encontrar	VMN0000	-	-	52-61	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	únicamente	únicamente	RG	-	-	62-72	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	aumento	aumento	NCMS000	C0442805	calificador	73-80	626(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	81-83	626(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+14	panes	pan	NCMP000	C0006138	sustancia	84-89	626(2)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+15	blandas	blando	AQ0FP0	C0205358	calificador	90-97	626(2)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+16	.	.	Fp	-	-	97-98	626(2)_ANS_clinical_caseMIR	SENT1	-	-
+

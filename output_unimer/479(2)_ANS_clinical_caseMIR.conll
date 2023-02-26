@@ -1,0 +1,13 @@
+1	Histeroscopia	histeroscopia	NC00SC0	C0020710	procedimiento	0-13	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	14-17	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	sedación	sedación	NCFS000	C0344106	procedimiento	18-26	479(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	y	y	CC	C1706368	calificador	27-28	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	29-36	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	dirigida	dirigir	VMP00SF	-	-	37-45	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	si	si	CS	-	-	46-48	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	se	se	P00CN000	-	-	49-51	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	ve	ver	VMIP3S0	-	-	52-54	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	alguna	alguno	DI0FS0	C0205392	calificador	55-61	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	62-68	479(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	.	.	Fp	-	-	68-69	479(2)_ANS_clinical_caseMIR	SENT1	-	-
+

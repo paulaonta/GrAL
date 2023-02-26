@@ -1,0 +1,48 @@
+1	El	el	DA0MS0	-	-	0-2	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	cuadro	cuadro	NCMS000	-	-	3-9	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	clínico	clínico	AQ0MS0	C0205210	calificador	10-17	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	es	ser	VSIP3S0	-	-	18-20	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	21-31	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	32-35	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	36-39	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	crisis	crisis	NCFN000	C0700031_1	hallazgo_1	40-46	251(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+9	de	de	SPS00	C0700031_2	hallazgo_2	47-49	251(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	ansiedad	ansiedad	NCFS000	C0700031_3	hallazgo_3	50-58	251(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	provocada	provocar	VMP00SF	-	-	59-68	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C0678226	atributo	69-72	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	73-75	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	dolor	dolor	NCMS000	C0030193	hallazgo	76-81	251(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	durante	durante	SPS00	C1444752#C0347984	atributo	82-89	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	la	el	DA0FS0	-	-	90-92	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	implantación	implantación	NCFS000	-	-	93-105	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	del	del	SP+DA	-	-	106-109	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	marcapasos	marcapasos	NCMN000	-	-	110-120	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	120-121	251(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	122-124	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	125-136	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	correcto	correcto	AQ0MS0	C0205170	calificador	137-145	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+4	incluye	incluir	VMIP3S0	-	-	146-153	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+5	una	una		C0205447_1	calificador_1	154-157	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+6	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	158-163	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+7	infiltración	infiltración	NCFS000	C0702249#C0332448	procedimiento#anomalía_morfológica	164-176	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+8	con	con	SPS00	C0332287	atributo	177-180	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	181-183	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+10	anestésico	anestésico	NC00SC0	C0002934_1	sustancia_1	184-194	251(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+11	local	local	NCMS000	C0002934_2	sustancia_2	195-200	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+12	para	para	SPS00	C0521125	calificador	201-205	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+13	aliviar	aliviar	VMN0000	-	-	206-213	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+14	el	el	DA0MS0	-	-	214-216	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+15	dolor	dolor	NCMS000	C0030193	hallazgo	217-222	251(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	y	y	CC	C1706368	calificador	223-224	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+17	la	el	DA0FS0	-	-	225-227	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+18	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	228-242	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+19	de	de	SPS00	C0332285	atributo	243-245	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+20	diacepam	diacepam	NC00SC0	C0012010	sustancia	246-254	251(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+21	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	255-266	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+22	por	por	SPS00	C0678226	atributo	267-270	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+23	sus	su	DP3CP0	-	-	271-274	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+24	efectos	efecto	NCMP000	C1704419#C1280500#C1280519	calificador	275-282	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+25	ansiolíticos	ansiolíticos	NC00SC0	C0040616	producto	283-295	251(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+26	.	.	Fp	-	-	295-296	251(2)_ANS_clinical_caseMIR	SENT2	-	-
+

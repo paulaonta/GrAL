@@ -1,0 +1,20 @@
+1	Se	se	P00CN000	-	-	0-2	583(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	583(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	probablemente	probablemente	RG	C0332148	calificador	9-22	583(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	583(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	26-28	583(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	hiperaldosteronismo	hiperaldosteronismo	NC00SC0	C1384514#C0392593_1	trastorno_1	29-48	583(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+7	primario	primario	NCMS000	C1384514#C0392593_2	trastorno_2	49-57	583(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	57-58	583(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	59-61	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	siguiente	siguiente	AQ0CS0	C0332282	atributo	62-71	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	paso	paso	NCMS000	C1261552	calificador	72-76	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	sería	ser	VSIC1S0	-	-	77-82	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	realizar	realizar	VMN0000	-	-	83-91	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+6	TC	símbolo_químico_del_tecnecio	NC00YL0	C0412622_1	procedimiento_1	92-94	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0412622_2	procedimiento_2	95-97	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+8	glándulas	glándula	NCFP000	C0412622_3	procedimiento_3	98-107	583(0)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	suprarrenales	suprarrenal	AQ0CP0	C0412622_4	procedimiento_4	108-121	583(0)_ANS_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	.	.	Fp	-	-	121-122	583(0)_ANS_clinical_caseMIR	SENT2	-	-
+

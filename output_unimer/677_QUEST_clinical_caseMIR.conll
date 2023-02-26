@@ -66,7 +66,7 @@
 1	La	el	DA0FS0	-	-	352-354	677_QUEST_clinical_caseMIR	SENT5	-	-
 2	analítica	analítico	AQ0FS0	-	-	355-364	677_QUEST_clinical_caseMIR	SENT5	-	-
 3	muestra	muestra	NCFS000	C0370003	espécimen	365-372	677_QUEST_clinical_caseMIR	SENT5	-	-
-4	.	.	Fp	-	-	372-373	677_QUEST_clinical_caseMIR	SENT5	-	-
+4	:	:	Fd	-	-	372-373	677_QUEST_clinical_caseMIR	SENT5	-	-
 5	aspartato	aspartato	NC00SC0	C0004002_1	sustancia_1	374-383	677_QUEST_clinical_caseMIR	SENT5	-	-
 6	aminotransferasa	aminotransferasa	NC00SC0	C0004002_2	sustancia_2	384-400	677_QUEST_clinical_caseMIR	SENT5	-	-
 7	(	(	Fpa	-	-	401-402	677_QUEST_clinical_caseMIR	SENT5	-	-
@@ -160,5 +160,6 @@
 3	afirmación	afirmación	NCFS000	-	-	764-774	677_QUEST_clinical_caseMIR	SENT9	-	-
 4	más	más	RG	C0205172	calificador	775-778	677_QUEST_clinical_caseMIR	SENT9	-	-
 5	apropiada	apropiar	VMP00SF	-	-	779-788	677_QUEST_clinical_caseMIR	SENT9	-	-
-6	.	.	Fp	-	-	788-789	677_QUEST_clinical_caseMIR	SENT9	-	-
+6	:	:	Fd	-	-	788-789	677_QUEST_clinical_caseMIR	SENT9	-	-
+7	.	.	Fp	-	-	789-790	677_QUEST_clinical_caseMIR	SENT9	-	-
 

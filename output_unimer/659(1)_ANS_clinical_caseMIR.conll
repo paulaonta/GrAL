@@ -1,0 +1,13 @@
+1	Regreso	regreso	NCMS000	C0332156_1	calificador_1	0-7	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	C0332156_2	calificador_2	8-9	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	domicilio	domicilio	NCMS000	C1442065	entidad_observable	10-19	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	y	y	CC	C1706368	calificador	20-21	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	profilaxis	profilaxis	NCFN000	C0199176	procedimiento	22-32	659(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	antibiótica	antibiótico	AQ0FS0	C0003232	producto#sustancia	33-44	659(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	con	con	SPS00	C0332287	atributo	45-48	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	penicilina	penicilina	NCFS000	-	-	49-59	659(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	periodo	periodo	NCMS000	-	-	63-70	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	expulsivo	expulsivo	NCMS000	-	-	71-80	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	80-81	659(1)_ANS_clinical_caseMIR	SENT1	-	-
+

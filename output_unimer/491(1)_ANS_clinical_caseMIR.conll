@@ -1,0 +1,22 @@
+1	Se	se	P00CN000	-	-	0-2	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	realizará	realizar	VMIF3S0	-	-	3-12	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	13-24	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	25-33	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	34-37	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	38-49	491(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	intramuscular	intramuscular	AQ0CS0	C0442117	calificador	50-63	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	64-65	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	azitromicina	azitromicina	NC00SC0	C0052796	producto#sustancia	66-78	491(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	vía	vía	NCFS000	C1527415_1	calificador_1	79-82	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	oral	oral	NC00SC0	C1527415_2	calificador_2	83-87	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	88-90	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	dosis	dosis	NCFN000	-	-	91-96	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	únicas	único	AQ0FP0	C0205171	calificador	97-103	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	104-106	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	espera	esperar	VMM02S0	-	-	107-113	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	114-116	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	los	el	DA0MP0	-	-	117-120	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	121-131	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	microbiológicos	microbiológico	AQ0MP0	-	-	132-147	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	147-148	491(1)_ANS_clinical_caseMIR	SENT1	-	-
+

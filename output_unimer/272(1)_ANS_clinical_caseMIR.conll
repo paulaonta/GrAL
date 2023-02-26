@@ -1,0 +1,25 @@
+1	Al	al	SP+DA	-	-	0-2	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratar	tratar	VMN0000	-	-	3-9	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	PP3CN000	-	-	9-11	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	15-18	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	hemorragia	hemorragia	NCFS000	C0019080	hallazgo#anomalía_morfológica	19-29	272(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	intratorácica	intratorácica	AQ0FS00	-	-	30-43	272(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	,	,	Fc	-	-	43-44	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	es	ser	VSIP3S0	-	-	45-47	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	48-50	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	esperar	esperar	VMN0000	-	-	51-58	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	una	una		C0205447_1	calificador_1	59-62	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	hemostasia	hemostasia	NCFS000	C0019116#C0005778	entidad_observable	63-73	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	espontánea	espontáneo	AQ0FS0	C0205359	calificador	74-84	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C0678226	atributo	85-88	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	lo	el	DA0NS0	-	-	89-91	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	92-95	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	no	no	RN	C1298908	calificador	96-98	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	está	estar	VAIP3S0	-	-	99-103	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	indicada	indicar	VMP00SF	-	-	104-112	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	113-120	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	medida	medida	NCFS000	C0079809	atributo	121-127	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	terapéutica	terapéutico	AQ0FS0	-	-	128-139	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	139-140	272(1)_ANS_clinical_caseMIR	SENT1	-	-
+

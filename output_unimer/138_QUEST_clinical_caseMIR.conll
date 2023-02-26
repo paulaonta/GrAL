@@ -36,9 +36,12 @@
 9	bilaterales	bilateral	AQ0CP0	C0238767	calificador	213-224	138_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
 10	.	.	Fp	-	-	224-225	138_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	226-230	138_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	231-233	138_QUEST_clinical_caseMIR	SENT3	-	-
-3	el	el	DA0MS0	-	-	234-236	138_QUEST_clinical_caseMIR	SENT3	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	237-248	138_QUEST_clinical_caseMIR	SENT3	-	-
-5	.	.	Fp	-	-	248-249	138_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	226-227	138_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	227-231	138_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	232-234	138_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	235-237	138_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	238-249	138_QUEST_clinical_caseMIR	SENT3	-	-
+6	?	?	Fit	-	-	249-250	138_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	250-251	138_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	251-252	138_QUEST_clinical_caseMIR	SENT3	-	-
 

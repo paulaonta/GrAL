@@ -100,9 +100,12 @@
 9	ósea	óseo	AQ0FS0	C0221434_2	anomalía_morfológica_2	565-569	64_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 10	.	.	Fp	-	-	569-570	64_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cual	cual	PI0CS000	-	-	571-575	64_QUEST_clinical_caseMIR	SENT6	-	-
-2	sería	ser	VSIC1S0	-	-	576-581	64_QUEST_clinical_caseMIR	SENT6	-	-
-3	su	su	DP3CS0	-	-	582-584	64_QUEST_clinical_caseMIR	SENT6	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	585-596	64_QUEST_clinical_caseMIR	SENT6	-	-
-5	.	.	Fp	-	-	596-597	64_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	571-572	64_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cual	cual	PR0CS000	-	-	572-576	64_QUEST_clinical_caseMIR	SENT6	-	-
+3	sería	ser	VSIC1S0	-	-	577-582	64_QUEST_clinical_caseMIR	SENT6	-	-
+4	su	su	DP3CS0	-	-	583-585	64_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	586-597	64_QUEST_clinical_caseMIR	SENT6	-	-
+6	?	?	Fit	-	-	597-598	64_QUEST_clinical_caseMIR	SENT6	-	-
+7	:	:	Fd	-	-	598-599	64_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	599-600	64_QUEST_clinical_caseMIR	SENT6	-	-
 

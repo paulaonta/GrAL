@@ -1,0 +1,51 @@
+1	La	el	DA0FS0	-	-	0-2	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	sintomatologia	sintomatologia	NCFS000	-	-	3-17	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	18-20	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	claramente	claramente	RG	-	-	21-31	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	32-42	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	43-46	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	47-49	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	ictus	ictus	NCMN000	-	-	50-55	251(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+9	isquémico	isquémico	NC00SC0	C0475224	calificador	56-65	251(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+10	agudo	agudo	AQ0MS0	C0205178	calificador	66-71	251(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	.	.	Fp	-	-	71-72	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Hay	haber	VMIP3S0	-	-	73-76	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	que	que	CS	-	-	77-80	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	completar	completar	VMN0000	-	-	81-90	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	91-93	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	examen	examen	NCMS000	-	-	94-100	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	neurològico	neurològico	AQ0MS00	-	-	101-112	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	una	una		C0205447_1	calificador_1	113-116	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	vez	vez	NCFS000	-	-	117-120	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+9	finalizada	finalizar	VMP00SF	-	-	121-131	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	132-134	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	implantación	implantación	NCFS000	-	-	135-147	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	del	del	SP+DA	-	-	148-151	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	marcapasos	marcapasos	NCMN000	-	-	152-162	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+14	e	y	CC	C1706368	calificador	163-164	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	iniciar	iniciar	VMN0000	-	-	165-172	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	173-184	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+17	con	con	SPS00	C0332287	atributo	185-188	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+18	heparína	heparína	NCFS000	-	-	189-197	251(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+19	de	de	SPS00	C0332285	atributo	198-200	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+20	bajo	bajo	SPS00	C0205251	calificador	201-205	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+21	peso	peso	NCMS000	C0043100	calificador	206-210	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+22	molecular	molecular	AQ0CS0	-	-	211-220	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+23	a	a	SPS00	-	-	221-222	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+24	una	una		C0205447_1	calificador_1	223-226	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+25	dosis	dosis	NCFN000	-	-	227-232	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+26	de	de	SPS00	C0332285	atributo	233-235	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+27	0.5	0.5	Z	-	-	236-239	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+28	mg	mg	NCMN000	-	-	240-242	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+29	por	por	SPS00	C0678226	atributo	243-246	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+30	kg	kilogramo	NCMN000	C0439209	calificador	247-249	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+31	y	y	CC	C1706368	calificador	250-251	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+32	día	día	NCMS000	C0439228#C0332169	calificador	252-255	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+33	tras	tras	SPS00	-	-	256-260	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+34	realizar	realizar	VMN0000	-	-	261-269	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+35	un	un		C0205447_1	calificador_1	270-272	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+36	TAC	tac	NC00YL0	C0040405	procedimiento	273-276	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+37	urgente	urgente	AQ0CS0	C0439609	calificador	277-284	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+38	.	.	Fp	-	-	284-285	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+

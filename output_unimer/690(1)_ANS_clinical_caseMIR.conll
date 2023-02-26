@@ -1,0 +1,26 @@
+1	Si	si	CS	-	-	0-2	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	3-5	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	6-17	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	neurológica	neurológico	AQ0FS0	C0205494	calificador	18-29	690(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	muestra	mostrar	VMIP3S0	-	-	30-37	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	adormecimiento	adormecimiento	NCMS000	-	-	38-52	690(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	53-55	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	los	el	DA0MP0	-	-	56-59	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	60-65	690(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	primero	primero	RG	C1279901#C0205435	calificador	66-73	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	74-75	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	tercero	3	AO0MS0	-	-	76-83	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	pensaremos	pensar	VMIF1P0	-	-	84-94	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	95-97	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	afectación	afectación	NCFS000	-	-	98-108	690(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	del	del	SP+DA	-	-	109-112	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	nervio	nervio	NCMS000	C1278845#C0025058_1	estructura_corporal_1	113-119	690(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	mediano	mediano	NC00SC0	C1278845#C0025058_2	estructura_corporal_2	120-127	690(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	a	a	SPS00	-	-	128-129	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	nivel	nivel	NCMS000	C0456079	atributo	130-135	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	del	del	SP+DA	-	-	136-139	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	canal	canal	NCMS000	C0205149#C1267211#C0442636#C0439799	calificador#estructura_corporal#medio_ambiente	140-145	690(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	del	del	SP+DA	-	-	146-149	690(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	150-155	690(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	.	.	Fp	-	-	155-156	690(1)_ANS_clinical_caseMIR	SENT1	-	-
+

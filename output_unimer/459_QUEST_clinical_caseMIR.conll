@@ -26,7 +26,7 @@
 1	Analítica	analítica	NCFS000	-	-	132-141	459_QUEST_clinical_caseMIR	SENT3	-	-
 2	de	de	SPS00	C0332285	atributo	142-144	459_QUEST_clinical_caseMIR	SENT3	-	-
 3	sangre	sangre	NCFS000	C0005767	sustancia	145-151	459_QUEST_clinical_caseMIR	SENT3	-	-
-4	.	.	Fp	-	-	151-152	459_QUEST_clinical_caseMIR	SENT3	-	-
+4	:	:	Fd	-	-	151-152	459_QUEST_clinical_caseMIR	SENT3	-	-
 5	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	153-165	459_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
 6	con	con	SPS00	C0332287	atributo	166-169	459_QUEST_clinical_caseMIR	SENT3	-	-
 7	desviación	desviación	NCFS000	C0185033#C0333051	procedimiento#anomalía_morfológica	170-180	459_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
@@ -169,9 +169,10 @@
 5	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	927-936	459_QUEST_clinical_caseMIR	SENT11	-	-
 6	definitivo	definitivo	AQ0MS0	C0443196	calificador	937-947	459_QUEST_clinical_caseMIR	SENT11	-	-
 7	,	,	Fc	-	-	947-948	459_QUEST_clinical_caseMIR	SENT11	-	-
-8	.	.	Fp	-	-	949-950	459_QUEST_clinical_caseMIR	SENT11	-	-
-9	qué	qué	PT0CN000	-	-	951-954	459_QUEST_clinical_caseMIR	SENT11	-	-
-10	recomendaría	recomendar	VMIC3S0	-	-	955-967	459_QUEST_clinical_caseMIR	SENT11	-	-
-11	usted	usted	PP2CS00P	-	-	968-973	459_QUEST_clinical_caseMIR	SENT11	-	-
-12	.	.	Fp	-	-	973-974	459_QUEST_clinical_caseMIR	SENT11	-	-
+8	¿	¿	Fia	-	-	949-950	459_QUEST_clinical_caseMIR	SENT11	-	-
+9	qué	qué	PT0CN000	-	-	950-953	459_QUEST_clinical_caseMIR	SENT11	-	-
+10	recomendaría	recomendar	VMIC3S0	-	-	954-966	459_QUEST_clinical_caseMIR	SENT11	-	-
+11	usted	usted	PP2CS00P	-	-	967-972	459_QUEST_clinical_caseMIR	SENT11	-	-
+12	?	?	Fit	-	-	972-973	459_QUEST_clinical_caseMIR	SENT11	-	-
+13	.	.	Fp	-	-	973-974	459_QUEST_clinical_caseMIR	SENT11	-	-
 

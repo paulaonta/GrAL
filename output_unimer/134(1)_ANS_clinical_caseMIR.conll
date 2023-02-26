@@ -1,0 +1,32 @@
+1	Análisis	análisis	NCMN000	C0002778	calificador	0-8	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	bioquímico	bioquímico	AQ0MS0	C0205474#C0175854	calificador#ocupación	9-19	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	del	del	SP+DA	-	-	20-23	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	24-31	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	obtenido	obtener	VMP00SM	-	-	32-40	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	40-41	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	y	y	CC	C1706368	calificador	42-43	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	cultivo	cultivo	NCMS000	-	-	44-51	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	del	del	SP+DA	-	-	52-55	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	mismo	mismo	PI0MS000	C0445247	calificador	56-61	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	61-62	134(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Si	si	CS	-	-	63-65	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	los	el	DA0MP0	-	-	66-69	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	70-80	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	confirman	confirmar	VMIP3P0	-	-	81-90	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	-	-	91-93	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	94-105	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	106-108	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	artritis	artritis	NCFN000	C0003869#C1692886_1	trastorno_1	109-117	134(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	séptica	séptico	AQ0FS0	C0003869#C1692886_2	trastorno_2	118-125	134(1)_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+10	,	,	Fc	-	-	125-126	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	realizar	realizar	VMN0000	-	-	127-135	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	el	el	DA0MS0	-	-	136-138	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	drenaje	drenaje	NCMS000	C0595843_1	calificador_1	139-146	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+14	quirúrgico	quirúrgico	NC00SC0	C0595843_2	calificador_2	147-157	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	158-159	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+16	la	el	DA0FS0	-	-	160-162	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+17	antibioterapia	antibioterapia	NCFS000	-	-	163-177	134(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+18	específica	específico	AQ0FS0	C0205369	calificador	178-188	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	188-189	134(1)_ANS_clinical_caseMIR	SENT2	-	-
+

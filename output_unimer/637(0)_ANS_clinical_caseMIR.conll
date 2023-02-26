@@ -1,0 +1,46 @@
+1	El	el	DA0MS0	-	-	0-2	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	ha	haber	VAIP3S0	-	-	12-14	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	sufrido	sufrir	VMP00SM	-	-	15-22	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	23-26	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	quemadura	quemadura	NCFS000	C0006435_1	trastorno_1	27-36	637(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	química	químico	NCFS000	C0006435_2	trastorno_2	37-44	637(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	por	por	SPS00	C0678226	atributo	45-48	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	49-51	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	ácido	ácido	NCMS000	C0001128	sustancia	52-57	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	58-61	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	lo	el	DA0NS0	-	-	62-64	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	que	que	PR0CN000	-	-	65-68	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	se	se	P00CN000	-	-	69-71	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	debe	deber	VMIP3S0	-	-	72-76	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	realizar	realizar	VMN0000	-	-	77-85	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	cura	cura	NCMS000	C1292734	atributo	86-90	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	91-94	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	un	un		C0205447_1	calificador_1	95-97	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	álcalis	álcali	NCMP000	C0002055	sustancia	98-105	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	para	para	SPS00	C0521125	calificador	106-110	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	parar	parar	VMN0000	-	-	111-116	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	la	el	DA0FS0	-	-	117-119	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	reacción	reacción	NCFS000	C0443286	calificador	120-128	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	química	químico	AQ0FS0	C0334707#C0220806	ocupación#sustancia	129-136	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	136-137	637(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Posteriormente	posteriormente	RG	-	-	138-152	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	cura	cura	NCMS000	C1292734	atributo	153-157	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	158-160	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	161-163	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	quemadura	quemadura	NCFS000	C0006434_1	trastorno#anomalía_morfológica_1	164-173	637(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	con	con	SPS00	C0332287	atributo	174-177	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+7	sulfadiacina	sulfadiacina	NCFS000	C0038675	sustancia	178-190	637(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	argéntica	argéntica	AQ0FS00	-	-	191-200	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+9	y	y	CC	C1706368	calificador	201-202	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+10	reevaluación	reevaluación	NCFS000	-	-	203-215	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	216-218	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	219-221	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+13	misma	mismo	AQ0FS0	C0445247	calificador	222-227	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	228-230	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+15	las	el	DA0FP0	-	-	231-234	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+16	siguientes	siguiente	AQ0CP0	C0332282	atributo	235-245	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+17	horas	hora	NCFP000	C0040223#C0439227	calificador	246-251	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	251-252	637(0)_ANS_clinical_caseMIR	SENT2	-	-
+

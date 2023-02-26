@@ -1,0 +1,16 @@
+1	Los	el	DA0MP0	-	-	0-3	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	anticoagulantes	anticoagulante	NCMP000	C0003280	producto#sustancia	4-19	34(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	están	estar	VAIP3P0	-	-	20-25	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	contraindicados	contraindicar	VMP00PM	-	-	26-41	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	el	el	DA0MS0	-	-	45-47	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	48-56	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	.	.	Fp	-	-	56-57	34(4)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Sólo	sólo	RG	-	-	58-62	34(4)_ANS_clinical_caseMIR	SENT2	-	-
+2	medias	medio	PI0FP000	C0453912_1	objeto_físico_1	63-69	34(4)_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0453912_2	objeto_físico_2	70-72	34(4)_ANS_clinical_caseMIR	SENT2	-	-
+4	compresión	compresión	NCFS000	C0453912_3	objeto_físico_3	73-83	34(4)_ANS_clinical_caseMIR	SENT2	-	-
+5	fuerte	fuerte	AQ0CS0	C0442821	calificador	84-90	34(4)_ANS_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	90-91	34(4)_ANS_clinical_caseMIR	SENT2	-	-
+

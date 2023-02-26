@@ -98,12 +98,14 @@
 5	subpleural	subpleural	AQ0CS0	-	-	575-585	366_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 6	.	.	Fp	-	-	585-586	366_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	El	el	DA0MS0	-	-	587-589	366_QUEST_clinical_caseMIR	SENT7	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	590-601	366_QUEST_clinical_caseMIR	SENT7	-	-
-3	de	de	SPS00	C0332285	atributo	602-604	366_QUEST_clinical_caseMIR	SENT7	-	-
-4	la	el	DA0FS0	-	-	605-607	366_QUEST_clinical_caseMIR	SENT7	-	-
-5	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	608-614	366_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
-6	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	615-623	366_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
-7	es	ser	VSIP3S0	-	-	624-626	366_QUEST_clinical_caseMIR	SENT7	-	-
-8	.	.	Fp	-	-	626-627	366_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	587-588	366_QUEST_clinical_caseMIR	SENT7	-	-
+2	El	el	DA0MS0	-	-	588-590	366_QUEST_clinical_caseMIR	SENT7	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	591-602	366_QUEST_clinical_caseMIR	SENT7	-	-
+4	de	de	SPS00	C0332285	atributo	603-605	366_QUEST_clinical_caseMIR	SENT7	-	-
+5	la	el	DA0FS0	-	-	606-608	366_QUEST_clinical_caseMIR	SENT7	-	-
+6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	609-615	366_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
+7	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	616-624	366_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
+8	es	ser	VSIP3S0	-	-	625-627	366_QUEST_clinical_caseMIR	SENT7	-	-
+9	?	?	Fit	-	-	627-628	366_QUEST_clinical_caseMIR	SENT7	-	-
+10	.	.	Fp	-	-	628-629	366_QUEST_clinical_caseMIR	SENT7	-	-
 

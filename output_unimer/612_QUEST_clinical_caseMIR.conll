@@ -105,16 +105,18 @@
 10	normal	normal	AQ0CS0	C0205307	calificador	513-519	612_QUEST_clinical_caseMIR	SENT4	-	-
 11	.	.	Fp	-	-	519-520	612_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	521-525	612_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	526-528	612_QUEST_clinical_caseMIR	SENT5	-	-
-3	las	el	DA0FP0	-	-	529-532	612_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	533-543	612_QUEST_clinical_caseMIR	SENT5	-	-
-5	opciones	opción	NCFP000	-	-	544-552	612_QUEST_clinical_caseMIR	SENT5	-	-
-6	es	ser	VSIP3S0	-	-	553-555	612_QUEST_clinical_caseMIR	SENT5	-	-
-7	de	de	SPS00	C0332285	atributo	556-558	612_QUEST_clinical_caseMIR	SENT5	-	-
-8	elección	elección	NCFS000	-	-	559-567	612_QUEST_clinical_caseMIR	SENT5	-	-
-9	en	en	SPS00	C1720294#C0332285	calificador#atributo	568-570	612_QUEST_clinical_caseMIR	SENT5	-	-
-10	esta	este	DD0FS0	-	-	571-575	612_QUEST_clinical_caseMIR	SENT5	-	-
-11	pareja	pareja	NCFS000	-	-	576-582	612_QUEST_clinical_caseMIR	SENT5	-	-
-12	.	.	Fp	-	-	582-583	612_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	521-522	612_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	522-526	612_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	527-529	612_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	530-533	612_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	534-544	612_QUEST_clinical_caseMIR	SENT5	-	-
+6	opciones	opción	NCFP000	-	-	545-553	612_QUEST_clinical_caseMIR	SENT5	-	-
+7	es	ser	VSIP3S0	-	-	554-556	612_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	557-559	612_QUEST_clinical_caseMIR	SENT5	-	-
+9	elección	elección	NCFS000	-	-	560-568	612_QUEST_clinical_caseMIR	SENT5	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	569-571	612_QUEST_clinical_caseMIR	SENT5	-	-
+11	esta	este	DD0FS0	-	-	572-576	612_QUEST_clinical_caseMIR	SENT5	-	-
+12	pareja	pareja	NCFS000	-	-	577-583	612_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	583-584	612_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	584-585	612_QUEST_clinical_caseMIR	SENT5	-	-
 

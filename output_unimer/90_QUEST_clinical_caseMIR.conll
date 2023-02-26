@@ -86,19 +86,22 @@
 23	fetal	fetal	AQ0CS0	-	-	461-466	90_QUEST_clinical_caseMIR	SENT3	-	-
 24	.	.	Fp	-	-	466-467	90_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Está	estar	VAIP3S0	-	-	468-472	90_QUEST_clinical_caseMIR	SENT4	-	-
-2	indicado	indicar	VMP00SM	-	-	473-481	90_QUEST_clinical_caseMIR	SENT4	-	-
-3	este	este	DD0MS0	-	-	482-486	90_QUEST_clinical_caseMIR	SENT4	-	-
-4	procedimiento	procedimiento	NCMS000	C0348025_1	calificador#procedimiento_1	487-500	90_QUEST_clinical_caseMIR	SENT4	-	-
-5	invasivo	invasivo	NC00SC0	C0348025_2	calificador#procedimiento_2	501-509	90_QUEST_clinical_caseMIR	SENT4	-	-
-6	como	como	CS	C0332257	calificador	510-514	90_QUEST_clinical_caseMIR	SENT4	-	-
-7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	515-526	90_QUEST_clinical_caseMIR	SENT4	-	-
-8	prenatal	prenatal	AQ0CS0	C2828394	calificador	527-535	90_QUEST_clinical_caseMIR	SENT4	-	-
-9	(	(	Fpa	-	-	536-537	90_QUEST_clinical_caseMIR	SENT4	-	-
-10	DPN	dpn	NC00YL0	-	-	537-540	90_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-11	)	)	Fpt	-	-	540-541	90_QUEST_clinical_caseMIR	SENT4	-	-
-12	en	en	SPS00	C1720294#C0332285	calificador#atributo	542-544	90_QUEST_clinical_caseMIR	SENT4	-	-
-13	este	este	DD0MS0	-	-	545-549	90_QUEST_clinical_caseMIR	SENT4	-	-
-14	caso	caso	NCMS000	C0868928	calificador	550-554	90_QUEST_clinical_caseMIR	SENT4	-	-
-15	.	.	Fp	-	-	554-555	90_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	468-469	90_QUEST_clinical_caseMIR	SENT4	-	-
+2	Está	estar	VAIP3S0	-	-	469-473	90_QUEST_clinical_caseMIR	SENT4	-	-
+3	indicado	indicar	VMP00SM	-	-	474-482	90_QUEST_clinical_caseMIR	SENT4	-	-
+4	este	este	DD0MS0	-	-	483-487	90_QUEST_clinical_caseMIR	SENT4	-	-
+5	procedimiento	procedimiento	NCMS000	C0348025_1	calificador#procedimiento_1	488-501	90_QUEST_clinical_caseMIR	SENT4	-	-
+6	invasivo	invasivo	NC00SC0	C0348025_2	calificador#procedimiento_2	502-510	90_QUEST_clinical_caseMIR	SENT4	-	-
+7	como	como	CS	C0332257	calificador	511-515	90_QUEST_clinical_caseMIR	SENT4	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	516-527	90_QUEST_clinical_caseMIR	SENT4	-	-
+9	prenatal	prenatal	AQ0CS0	C2828394	calificador	528-536	90_QUEST_clinical_caseMIR	SENT4	-	-
+10	(	(	Fpa	-	-	537-538	90_QUEST_clinical_caseMIR	SENT4	-	-
+11	DPN	dpn	NC00YL0	-	-	538-541	90_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+12	)	)	Fpt	-	-	541-542	90_QUEST_clinical_caseMIR	SENT4	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	543-545	90_QUEST_clinical_caseMIR	SENT4	-	-
+14	este	este	DD0MS0	-	-	546-550	90_QUEST_clinical_caseMIR	SENT4	-	-
+15	caso	caso	NCMS000	C0868928	calificador	551-555	90_QUEST_clinical_caseMIR	SENT4	-	-
+16	?	?	Fit	-	-	555-556	90_QUEST_clinical_caseMIR	SENT4	-	-
+17	:	:	Fd	-	-	556-557	90_QUEST_clinical_caseMIR	SENT4	-	-
+18	.	.	Fp	-	-	557-558	90_QUEST_clinical_caseMIR	SENT4	-	-
 

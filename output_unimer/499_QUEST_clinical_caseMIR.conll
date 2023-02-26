@@ -46,13 +46,13 @@
 46	región	región	NCFS000	C0222083#C0458248_4	estructura_corporal_4	262-268	499_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
 47	preauricular	preauricular	AQ0CS0	C0222083#C0458248_5	estructura_corporal_5	269-281	499_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
 48	,	,	Fc	-	-	281-282	499_QUEST_clinical_caseMIR	SENT1	-	-
-49	.	.	Fp	-	-	283-284	499_QUEST_clinical_caseMIR	SENT1	-	-
-
-1	Qué	qué	DE0CN0	-	-	285-288	499_QUEST_clinical_caseMIR	SENT2	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	289-300	499_QUEST_clinical_caseMIR	SENT2	-	-
-3	sería	ser	VSIC1S0	-	-	301-306	499_QUEST_clinical_caseMIR	SENT2	-	-
-4	el	el	DA0MS0	-	-	307-309	499_QUEST_clinical_caseMIR	SENT2	-	-
-5	de	de	SPS00	C0332285	atributo	310-312	499_QUEST_clinical_caseMIR	SENT2	-	-
-6	elección	elección	NCFS000	-	-	313-321	499_QUEST_clinical_caseMIR	SENT2	-	-
-7	.	.	Fp	-	-	321-322	499_QUEST_clinical_caseMIR	SENT2	-	-
+49	¿	¿	Fia	-	-	283-284	499_QUEST_clinical_caseMIR	SENT1	-	-
+50	Qué	qué	DE0CN0	-	-	284-287	499_QUEST_clinical_caseMIR	SENT1	-	-
+51	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	288-299	499_QUEST_clinical_caseMIR	SENT1	-	-
+52	sería	ser	VSIC1S0	-	-	300-305	499_QUEST_clinical_caseMIR	SENT1	-	-
+53	el	el	DA0MS0	-	-	306-308	499_QUEST_clinical_caseMIR	SENT1	-	-
+54	de	de	SPS00	C0332285	atributo	309-311	499_QUEST_clinical_caseMIR	SENT1	-	-
+55	elección	elección	NCFS000	-	-	312-320	499_QUEST_clinical_caseMIR	SENT1	-	-
+56	?	?	Fit	-	-	320-321	499_QUEST_clinical_caseMIR	SENT1	-	-
+57	.	.	Fp	-	-	321-322	499_QUEST_clinical_caseMIR	SENT1	-	-
 

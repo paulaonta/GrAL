@@ -47,7 +47,7 @@
 3	pruebas	prueba	NCFP000	-	-	258-265	174_QUEST_clinical_caseMIR	SENT3	-	-
 4	complementarias	complementario	AQ0FP0	-	-	266-281	174_QUEST_clinical_caseMIR	SENT3	-	-
 5	destaca	destacar	VMIP3S0	-	-	282-289	174_QUEST_clinical_caseMIR	SENT3	-	-
-6	.	.	Fp	-	-	289-290	174_QUEST_clinical_caseMIR	SENT3	-	-
+6	:	:	Fd	-	-	289-290	174_QUEST_clinical_caseMIR	SENT3	-	-
 7	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	291-302	174_QUEST_clinical_caseMIR	SENT3	-	-
 8	8,5	8.5	Z	-	-	303-306	174_QUEST_clinical_caseMIR	SENT3	-	-
 9	mg	mg	NCMN000	-	-	307-309	174_QUEST_clinical_caseMIR	SENT3	-	-
@@ -109,5 +109,6 @@
 10	hasta	hasta	SPS00	-	-	564-569	174_QUEST_clinical_caseMIR	SENT4	-	-
 11	este	este	DD0MS0	-	-	570-574	174_QUEST_clinical_caseMIR	SENT4	-	-
 12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	575-582	174_QUEST_clinical_caseMIR	SENT4	-	-
-13	.	.	Fp	-	-	582-583	174_QUEST_clinical_caseMIR	SENT4	-	-
+13	:	:	Fd	-	-	582-583	174_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	583-584	174_QUEST_clinical_caseMIR	SENT4	-	-
 

@@ -28,7 +28,7 @@
 3	gasometría	gasometría	NCFS000	-	-	144-154	511_QUEST_clinical_caseMIR	SENT2	-	-
 4	arterial	arterial	AQ0CS0	C0221464	calificador	155-163	511_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
 5	destaca	destacar	VMIP3S0	-	-	164-171	511_QUEST_clinical_caseMIR	SENT2	-	-
-6	.	.	Fp	-	-	171-172	511_QUEST_clinical_caseMIR	SENT2	-	-
+6	:	:	Fd	-	-	171-172	511_QUEST_clinical_caseMIR	SENT2	-	-
 7	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	173-175	511_QUEST_clinical_caseMIR	SENT2	-	-
 8	6,94	6,94		-	-	176-180	511_QUEST_clinical_caseMIR	SENT2	-	-
 9	;	;	Fx	-	-	180-181	511_QUEST_clinical_caseMIR	SENT2	-	-
@@ -104,5 +104,6 @@
 2	la	el	DA0FS0	-	-	477-479	511_QUEST_clinical_caseMIR	SENT6	-	-
 3	afirmación	afirmación	NCFS000	-	-	480-490	511_QUEST_clinical_caseMIR	SENT6	-	-
 4	correcta	correcto	AQ0FS0	C0205170	calificador	491-499	511_QUEST_clinical_caseMIR	SENT6	-	-
-5	.	.	Fp	-	-	499-500	511_QUEST_clinical_caseMIR	SENT6	-	-
+5	:	:	Fd	-	-	499-500	511_QUEST_clinical_caseMIR	SENT6	-	-
+6	.	.	Fp	-	-	500-501	511_QUEST_clinical_caseMIR	SENT6	-	-
 

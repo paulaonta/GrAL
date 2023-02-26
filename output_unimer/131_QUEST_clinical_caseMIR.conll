@@ -69,16 +69,19 @@
 14	V4	V4		-	-	344-346	131_QUEST_clinical_caseMIR	SENT3	-	-
 15	.	.	Fp	-	-	346-347	131_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	348-352	131_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	353-355	131_QUEST_clinical_caseMIR	SENT4	-	-
-3	la	el	DA0FS0	-	-	356-358	131_QUEST_clinical_caseMIR	SENT4	-	-
-4	conducta	conducta	NCFS000	C0004927	hallazgo	359-367	131_QUEST_clinical_caseMIR	SENT4	-	-
-5	clínica	clínico	AQ0FS0	C0205210	calificador	368-375	131_QUEST_clinical_caseMIR	SENT4	-	-
-6	más	más	RG	C0205172	calificador	376-379	131_QUEST_clinical_caseMIR	SENT4	-	-
-7	adecuada	adecuar	VMP00SF	-	-	380-388	131_QUEST_clinical_caseMIR	SENT4	-	-
-8	para	para	SPS00	C0521125	calificador	389-393	131_QUEST_clinical_caseMIR	SENT4	-	-
-9	realizar	realizar	VMN0000	-	-	394-402	131_QUEST_clinical_caseMIR	SENT4	-	-
-10	a	a	SPS00	-	-	403-404	131_QUEST_clinical_caseMIR	SENT4	-	-
-11	continuación	continuación	NCFS000	-	-	405-417	131_QUEST_clinical_caseMIR	SENT4	-	-
-12	.	.	Fp	-	-	417-418	131_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	348-349	131_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	349-353	131_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	354-356	131_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	357-359	131_QUEST_clinical_caseMIR	SENT4	-	-
+5	conducta	conducta	NCFS000	C0004927	hallazgo	360-368	131_QUEST_clinical_caseMIR	SENT4	-	-
+6	clínica	clínico	AQ0FS0	C0205210	calificador	369-376	131_QUEST_clinical_caseMIR	SENT4	-	-
+7	más	más	RG	C0205172	calificador	377-380	131_QUEST_clinical_caseMIR	SENT4	-	-
+8	adecuada	adecuar	VMP00SF	-	-	381-389	131_QUEST_clinical_caseMIR	SENT4	-	-
+9	para	para	SPS00	C0521125	calificador	390-394	131_QUEST_clinical_caseMIR	SENT4	-	-
+10	realizar	realizar	VMN0000	-	-	395-403	131_QUEST_clinical_caseMIR	SENT4	-	-
+11	a	a	SPS00	-	-	404-405	131_QUEST_clinical_caseMIR	SENT4	-	-
+12	continuación	continuación	NCFS000	-	-	406-418	131_QUEST_clinical_caseMIR	SENT4	-	-
+13	?	?	Fit	-	-	418-419	131_QUEST_clinical_caseMIR	SENT4	-	-
+14	:	:	Fd	-	-	419-420	131_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	420-421	131_QUEST_clinical_caseMIR	SENT4	-	-
 

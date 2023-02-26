@@ -51,13 +51,16 @@
 14	antiasmática	antiasmático	AQ0FS0	C0304440#C0282556	producto	295-307	262_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
 15	.	.	Fp	-	-	307-308	262_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	309-313	262_QUEST_clinical_caseMIR	SENT4	-	-
-2	de	de	SPS00	C0332285	atributo	314-316	262_QUEST_clinical_caseMIR	SENT4	-	-
-3	las	el	DA0FP0	-	-	317-320	262_QUEST_clinical_caseMIR	SENT4	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	321-331	262_QUEST_clinical_caseMIR	SENT4	-	-
-5	sería	ser	VSIC1S0	-	-	332-337	262_QUEST_clinical_caseMIR	SENT4	-	-
-6	la	el	DA0FS0	-	-	338-340	262_QUEST_clinical_caseMIR	SENT4	-	-
-7	actitud	actitud	NCFS000	C0004271	entidad_observable	341-348	262_QUEST_clinical_caseMIR	SENT4	-	-
-8	correcta	correcto	AQ0FS0	C0205170	calificador	349-357	262_QUEST_clinical_caseMIR	SENT4	-	-
-9	.	.	Fp	-	-	357-358	262_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	309-310	262_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	310-314	262_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	315-317	262_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	318-321	262_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	322-332	262_QUEST_clinical_caseMIR	SENT4	-	-
+6	sería	ser	VSIC1S0	-	-	333-338	262_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	339-341	262_QUEST_clinical_caseMIR	SENT4	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	342-349	262_QUEST_clinical_caseMIR	SENT4	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	350-358	262_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	358-359	262_QUEST_clinical_caseMIR	SENT4	-	-
+11	:	:	Fd	-	-	359-360	262_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	360-361	262_QUEST_clinical_caseMIR	SENT4	-	-
 

@@ -100,12 +100,13 @@
 62	(	(	Fpa	-	-	402-403	212_QUEST_clinical_caseMIR	SENT2	-	-
 63	35-52	35-52		-	-	403-408	212_QUEST_clinical_caseMIR	SENT2	-	-
 64	)	)	Fpt	-	-	408-409	212_QUEST_clinical_caseMIR	SENT2	-	-
-65	.	.	Fp	-	-	410-411	212_QUEST_clinical_caseMIR	SENT2	-	-
-
-1	Con	con	SPS00	C0332287	atributo	412-415	212_QUEST_clinical_caseMIR	SENT3	-	-
-2	qué	qué	PT0CN000	-	-	416-419	212_QUEST_clinical_caseMIR	SENT3	-	-
-3	iniciaría	iniciar	VMIC3S0	-	-	420-429	212_QUEST_clinical_caseMIR	SENT3	-	-
-4	el	el	DA0MS0	-	-	430-432	212_QUEST_clinical_caseMIR	SENT3	-	-
-5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	433-444	212_QUEST_clinical_caseMIR	SENT3	-	-
-6	.	.	Fp	-	-	444-445	212_QUEST_clinical_caseMIR	SENT3	-	-
+65	¿	¿	Fia	-	-	410-411	212_QUEST_clinical_caseMIR	SENT2	-	-
+66	Con	con	SPS00	C0332287	atributo	411-414	212_QUEST_clinical_caseMIR	SENT2	-	-
+67	qué	qué	PT0CN000	-	-	415-418	212_QUEST_clinical_caseMIR	SENT2	-	-
+68	iniciaría	iniciar	VMIC3S0	-	-	419-428	212_QUEST_clinical_caseMIR	SENT2	-	-
+69	el	el	DA0MS0	-	-	429-431	212_QUEST_clinical_caseMIR	SENT2	-	-
+70	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	432-443	212_QUEST_clinical_caseMIR	SENT2	-	-
+71	?	?	Fit	-	-	443-444	212_QUEST_clinical_caseMIR	SENT2	-	-
+72	:	:	Fd	-	-	444-445	212_QUEST_clinical_caseMIR	SENT2	-	-
+73	.	.	Fp	-	-	445-446	212_QUEST_clinical_caseMIR	SENT2	-	-
 

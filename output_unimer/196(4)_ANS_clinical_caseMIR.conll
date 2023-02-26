@@ -1,0 +1,23 @@
+1	Cateterismo	cateterismo	NCMS000	C0007430	procedimiento	0-11	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	terapéutico	terapéutico	AQ0MS0	-	-	12-23	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	para	para	SPS00	C0521125	calificador	24-28	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	dilatar	dilatar	VMN0000	-	-	29-36	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	37-39	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	40-46	196(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	47-49	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	50-52	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	arteria	arteria	NCFS000	C1285085#C0003842	estructura_corporal	53-60	196(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	enferma	enfermo	AQ0FS0	-	-	61-68	196(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	e	y	CC	C1706368	calificador	69-70	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	implantación	implantación	NCFS000	-	-	71-83	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	84-86	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	87-89	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	"	"	Fe	-	-	90-91	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	stent	stent	NC00SC0	C0038257	objeto_físico	91-96	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	"	"	Fe	-	-	96-97	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	98-100	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+19	la	el	DA0FS0	-	-	101-103	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+20	zona	zona	NCFS000	C0019360	trastorno	104-108	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+21	dilatada	dilatar	VMP00SF	-	-	109-117	196(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	.	.	Fp	-	-	117-118	196(4)_ANS_clinical_caseMIR	SENT1	-	-
+

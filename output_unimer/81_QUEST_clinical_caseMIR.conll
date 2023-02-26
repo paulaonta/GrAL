@@ -33,7 +33,7 @@
 6	los	el	DA0MP0	-	-	155-158	81_QUEST_clinical_caseMIR	SENT3	-	-
 7	siguientes	siguiente	AQ0CP0	C0332282	atributo	159-169	81_QUEST_clinical_caseMIR	SENT3	-	-
 8	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	170-179	81_QUEST_clinical_caseMIR	SENT3	-	-
-9	.	.	Fp	-	-	179-180	81_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	179-180	81_QUEST_clinical_caseMIR	SENT3	-	-
 10	talla	talla	NCFS000	-	-	181-186	81_QUEST_clinical_caseMIR	SENT3	-	-
 11	1.49	1.49	Z	-	-	187-191	81_QUEST_clinical_caseMIR	SENT3	-	-
 12	cm	cm	NCMN000	-	-	192-194	81_QUEST_clinical_caseMIR	SENT3	-	-
@@ -73,5 +73,6 @@
 10	con	con	SPS00	C0332287	atributo	363-366	81_QUEST_clinical_caseMIR	SENT4	-	-
 11	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	367-372	81_QUEST_clinical_caseMIR	SENT4	-	-
 12	probabilidad	probabilidad	NCFS000	-	-	373-385	81_QUEST_clinical_caseMIR	SENT4	-	-
-13	.	.	Fp	-	-	385-386	81_QUEST_clinical_caseMIR	SENT4	-	-
+13	:	:	Fd	-	-	385-386	81_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	386-387	81_QUEST_clinical_caseMIR	SENT4	-	-
 

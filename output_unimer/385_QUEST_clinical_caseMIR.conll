@@ -83,7 +83,7 @@
 5	hace	hacer	VMIP3S0	-	-	440-444	385_QUEST_clinical_caseMIR	SENT3	-	-
 6	dos	dos		-	-	445-448	385_QUEST_clinical_caseMIR	SENT3	-	-
 7	años	año	NCMP000	C0439234	calificador	449-453	385_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	453-454	385_QUEST_clinical_caseMIR	SENT3	-	-
+8	:	:	Fd	-	-	453-454	385_QUEST_clinical_caseMIR	SENT3	-	-
 9	una	una		C0205447_1	calificador_1	455-458	385_QUEST_clinical_caseMIR	SENT3	-	-
 10	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	459-468	385_QUEST_clinical_caseMIR	SENT3	-	-
 11	abdominal	abdominal	AQ0CS0	C0000726	calificador	469-478	385_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
@@ -127,18 +127,20 @@
 49	conocida	conocer	VMP00SF	-	-	679-687	385_QUEST_clinical_caseMIR	SENT3	-	-
 50	.	.	Fp	-	-	687-688	385_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	689-693	385_QUEST_clinical_caseMIR	SENT4	-	-
-2	de	de	SPS00	C0332285	atributo	694-696	385_QUEST_clinical_caseMIR	SENT4	-	-
-3	las	el	DA0FP0	-	-	697-700	385_QUEST_clinical_caseMIR	SENT4	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	701-711	385_QUEST_clinical_caseMIR	SENT4	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	712-724	385_QUEST_clinical_caseMIR	SENT4	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	725-727	385_QUEST_clinical_caseMIR	SENT4	-	-
-7	parece	parecer	VMIP3S0	-	-	728-734	385_QUEST_clinical_caseMIR	SENT4	-	-
-8	la	el	DA0FS0	-	-	735-737	385_QUEST_clinical_caseMIR	SENT4	-	-
-9	MENOS	menos	RG	C0332288	atributo	738-743	385_QUEST_clinical_caseMIR	SENT4	-	-
-10	adecuada	adecuar	VMP00SF	-	-	744-752	385_QUEST_clinical_caseMIR	SENT4	-	-
-11	para	para	SPS00	C0521125	calificador	753-757	385_QUEST_clinical_caseMIR	SENT4	-	-
-12	este	este	DD0MS0	-	-	758-762	385_QUEST_clinical_caseMIR	SENT4	-	-
-13	paciente	paciente	NCCS000	C0030705	persona	763-771	385_QUEST_clinical_caseMIR	SENT4	-	-
-14	.	.	Fp	-	-	771-772	385_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	689-690	385_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	690-694	385_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	695-697	385_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	698-701	385_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	702-712	385_QUEST_clinical_caseMIR	SENT4	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	713-725	385_QUEST_clinical_caseMIR	SENT4	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	726-728	385_QUEST_clinical_caseMIR	SENT4	-	-
+8	parece	parecer	VMIP3S0	-	-	729-735	385_QUEST_clinical_caseMIR	SENT4	-	-
+9	la	el	DA0FS0	-	-	736-738	385_QUEST_clinical_caseMIR	SENT4	-	-
+10	MENOS	menos	RG	C0332288	atributo	739-744	385_QUEST_clinical_caseMIR	SENT4	-	-
+11	adecuada	adecuar	VMP00SF	-	-	745-753	385_QUEST_clinical_caseMIR	SENT4	-	-
+12	para	para	SPS00	C0521125	calificador	754-758	385_QUEST_clinical_caseMIR	SENT4	-	-
+13	este	este	DD0MS0	-	-	759-763	385_QUEST_clinical_caseMIR	SENT4	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	764-772	385_QUEST_clinical_caseMIR	SENT4	-	-
+15	?	?	Fit	-	-	772-773	385_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	773-774	385_QUEST_clinical_caseMIR	SENT4	-	-
 

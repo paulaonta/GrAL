@@ -82,18 +82,18 @@
 64	respirando	respirar	VMG0000	-	-	477-487	449_QUEST_clinical_caseMIR	SENT2	-	-
 65	aire	aire	NCMS000	C0001861	sustancia	488-492	449_QUEST_clinical_caseMIR	SENT2	-	-
 66	ambiente	ambiente	NCMS000	-	-	493-501	449_QUEST_clinical_caseMIR	SENT2	-	-
-67	.	.	Fp	-	-	502-503	449_QUEST_clinical_caseMIR	SENT2	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	504-508	449_QUEST_clinical_caseMIR	SENT3	-	-
-2	debería	deber	VMIC3S0	-	-	509-516	449_QUEST_clinical_caseMIR	SENT3	-	-
-3	ser	ser	VSN0000	-	-	517-520	449_QUEST_clinical_caseMIR	SENT3	-	-
-4	la	el	DA0FS0	-	-	521-523	449_QUEST_clinical_caseMIR	SENT3	-	-
-5	primera	1	AO0FS0	-	-	524-531	449_QUEST_clinical_caseMIR	SENT3	-	-
-6	acción	acción	NCFS000	C0441472#C3266814	calificador#atributo	532-538	449_QUEST_clinical_caseMIR	SENT3	-	-
-7	del	del	SP+DA	-	-	539-542	449_QUEST_clinical_caseMIR	SENT3	-	-
-8	equipo	equipo	NCMS000	C0014672#C1690540	atributo#calificador	543-549	449_QUEST_clinical_caseMIR	SENT3	-	-
-9	de	de	SPS00	C0332285	atributo	550-552	449_QUEST_clinical_caseMIR	SENT3	-	-
-10	emergencias	emergencia	NCFP000	C0175673	calificador	553-564	449_QUEST_clinical_caseMIR	SENT3	-	-
-11	extrahospitalarias	extrahospitalario	AQ0FP0	-	-	565-583	449_QUEST_clinical_caseMIR	SENT3	-	-
-12	.	.	Fp	-	-	583-584	449_QUEST_clinical_caseMIR	SENT3	-	-
+67	¿	¿	Fia	-	-	502-503	449_QUEST_clinical_caseMIR	SENT2	-	-
+68	Cuál	cuál	PT0CS000	-	-	503-507	449_QUEST_clinical_caseMIR	SENT2	-	-
+69	debería	deber	VMIC3S0	-	-	508-515	449_QUEST_clinical_caseMIR	SENT2	-	-
+70	ser	ser	VSN0000	-	-	516-519	449_QUEST_clinical_caseMIR	SENT2	-	-
+71	la	el	DA0FS0	-	-	520-522	449_QUEST_clinical_caseMIR	SENT2	-	-
+72	primera	1	AO0FS0	-	-	523-530	449_QUEST_clinical_caseMIR	SENT2	-	-
+73	acción	acción	NCFS000	C0441472#C3266814	calificador#atributo	531-537	449_QUEST_clinical_caseMIR	SENT2	-	-
+74	del	del	SP+DA	-	-	538-541	449_QUEST_clinical_caseMIR	SENT2	-	-
+75	equipo	equipo	NCMS000	C0014672#C1690540	atributo#calificador	542-548	449_QUEST_clinical_caseMIR	SENT2	-	-
+76	de	de	SPS00	C0332285	atributo	549-551	449_QUEST_clinical_caseMIR	SENT2	-	-
+77	emergencias	emergencia	NCFP000	C0175673	calificador	552-563	449_QUEST_clinical_caseMIR	SENT2	-	-
+78	extrahospitalarias	extrahospitalario	AQ0FP0	-	-	564-582	449_QUEST_clinical_caseMIR	SENT2	-	-
+79	?	?	Fit	-	-	582-583	449_QUEST_clinical_caseMIR	SENT2	-	-
+80	.	.	Fp	-	-	583-584	449_QUEST_clinical_caseMIR	SENT2	-	-
 

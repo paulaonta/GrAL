@@ -69,18 +69,20 @@
 24	concluyente	concluyente	AQ0CS0	-	-	355-366	479_QUEST_clinical_caseMIR	SENT6	-	-
 25	.	.	Fp	-	-	366-367	479_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	368-372	479_QUEST_clinical_caseMIR	SENT7	-	-
-2	de	de	SPS00	C0332285	atributo	373-375	479_QUEST_clinical_caseMIR	SENT7	-	-
-3	las	el	DA0FP0	-	-	376-379	479_QUEST_clinical_caseMIR	SENT7	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	380-390	479_QUEST_clinical_caseMIR	SENT7	-	-
-5	conductas	conducta	NCFP000	C0004927	hallazgo	391-400	479_QUEST_clinical_caseMIR	SENT7	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	401-403	479_QUEST_clinical_caseMIR	SENT7	-	-
-7	parece	parecer	VMIP3S0	-	-	404-410	479_QUEST_clinical_caseMIR	SENT7	-	-
-8	más	más	RG	C0205172	calificador	411-414	479_QUEST_clinical_caseMIR	SENT7	-	-
-9	adecuada	adecuar	VMP00SF	-	-	415-423	479_QUEST_clinical_caseMIR	SENT7	-	-
-10	como	como	CS	C0332257	calificador	424-428	479_QUEST_clinical_caseMIR	SENT7	-	-
-11	primera	1	AO0FS0	-	-	429-436	479_QUEST_clinical_caseMIR	SENT7	-	-
-12	aproximación	aproximación	NCFS000	-	-	437-449	479_QUEST_clinical_caseMIR	SENT7	-	-
-13	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	450-461	479_QUEST_clinical_caseMIR	SENT7	-	-
-14	.	.	Fp	-	-	461-462	479_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	368-369	479_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	369-373	479_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	374-376	479_QUEST_clinical_caseMIR	SENT7	-	-
+4	las	el	DA0FP0	-	-	377-380	479_QUEST_clinical_caseMIR	SENT7	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	381-391	479_QUEST_clinical_caseMIR	SENT7	-	-
+6	conductas	conducta	NCFP000	C0004927	hallazgo	392-401	479_QUEST_clinical_caseMIR	SENT7	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	402-404	479_QUEST_clinical_caseMIR	SENT7	-	-
+8	parece	parecer	VMIP3S0	-	-	405-411	479_QUEST_clinical_caseMIR	SENT7	-	-
+9	más	más	RG	C0205172	calificador	412-415	479_QUEST_clinical_caseMIR	SENT7	-	-
+10	adecuada	adecuar	VMP00SF	-	-	416-424	479_QUEST_clinical_caseMIR	SENT7	-	-
+11	como	como	CS	C0332257	calificador	425-429	479_QUEST_clinical_caseMIR	SENT7	-	-
+12	primera	1	AO0FS0	-	-	430-437	479_QUEST_clinical_caseMIR	SENT7	-	-
+13	aproximación	aproximación	NCFS000	-	-	438-450	479_QUEST_clinical_caseMIR	SENT7	-	-
+14	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	451-462	479_QUEST_clinical_caseMIR	SENT7	-	-
+15	?	?	Fit	-	-	462-463	479_QUEST_clinical_caseMIR	SENT7	-	-
+16	.	.	Fp	-	-	463-464	479_QUEST_clinical_caseMIR	SENT7	-	-
 

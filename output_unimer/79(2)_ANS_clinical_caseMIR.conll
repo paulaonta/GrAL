@@ -1,0 +1,11 @@
+1	Diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	0-11	79(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	79(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	preeclampsia	preeclampsia	NC00SC0	C0032914_1	trastorno_1	15-27	79(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	.	.	Fp	-	-	27-28	79(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Reposo	reposo	NCMS000	-	-	29-35	79(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	y	y	CC	C1706368	calificador	36-37	79(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C0585941_1	procedimiento_1	38-49	79(2)_ANS_clinical_caseMIR	SENT2	-	-
+4	antihipertensivo	antihipertensivo	AQ0MS0	C0585941_2	procedimiento_2	50-66	79(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+5	.	.	Fp	-	-	66-67	79(2)_ANS_clinical_caseMIR	SENT2	-	-
+

@@ -47,13 +47,16 @@
 24	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	229-232	228_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
 25	.	.	Fp	-	-	232-233	228_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Indica	indicar	VMIP3S0	-	-	234-240	228_QUEST_clinical_caseMIR	SENT3	-	-
-2	cuál	cuál	PT0CS000	-	-	241-245	228_QUEST_clinical_caseMIR	SENT3	-	-
-3	de	de	SPS00	C0332285	atributo	246-248	228_QUEST_clinical_caseMIR	SENT3	-	-
-4	las	el	DA0FP0	-	-	249-252	228_QUEST_clinical_caseMIR	SENT3	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	253-263	228_QUEST_clinical_caseMIR	SENT3	-	-
-6	respuestas	respuesta	NCFP000	-	-	264-274	228_QUEST_clinical_caseMIR	SENT3	-	-
-7	es	ser	VSIP3S0	-	-	275-277	228_QUEST_clinical_caseMIR	SENT3	-	-
-8	verdadera	verdadero	AQ0FS0	C0205238	calificador	278-287	228_QUEST_clinical_caseMIR	SENT3	-	-
-9	.	.	Fp	-	-	287-288	228_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	234-235	228_QUEST_clinical_caseMIR	SENT3	-	-
+2	Indica	indicar	VMIP3S0	-	-	235-241	228_QUEST_clinical_caseMIR	SENT3	-	-
+3	cuál	cuál	PT0CS000	-	-	242-246	228_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	247-249	228_QUEST_clinical_caseMIR	SENT3	-	-
+5	las	el	DA0FP0	-	-	250-253	228_QUEST_clinical_caseMIR	SENT3	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	254-264	228_QUEST_clinical_caseMIR	SENT3	-	-
+7	respuestas	respuesta	NCFP000	-	-	265-275	228_QUEST_clinical_caseMIR	SENT3	-	-
+8	es	ser	VSIP3S0	-	-	276-278	228_QUEST_clinical_caseMIR	SENT3	-	-
+9	verdadera	verdadero	AQ0FS0	C0205238	calificador	279-288	228_QUEST_clinical_caseMIR	SENT3	-	-
+10	?	?	Fit	-	-	288-289	228_QUEST_clinical_caseMIR	SENT3	-	-
+11	:	:	Fd	-	-	289-290	228_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	290-291	228_QUEST_clinical_caseMIR	SENT3	-	-
 

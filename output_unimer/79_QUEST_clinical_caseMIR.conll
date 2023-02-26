@@ -78,13 +78,16 @@
 22	normales	normal	AQ0CP0	C0205307	calificador	379-387	79_QUEST_clinical_caseMIR	SENT4	-	-
 23	.	.	Fp	-	-	387-388	79_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	389-393	79_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	394-396	79_QUEST_clinical_caseMIR	SENT5	-	-
-3	las	el	DA0FP0	-	-	397-400	79_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	401-411	79_QUEST_clinical_caseMIR	SENT5	-	-
-5	decisiones	decisión	NCFP000	-	-	412-422	79_QUEST_clinical_caseMIR	SENT5	-	-
-6	tomará	tomar	VMIF3S0	C1515187	calificador	423-429	79_QUEST_clinical_caseMIR	SENT5	-	-
-7	a	a	SPS00	-	-	430-431	79_QUEST_clinical_caseMIR	SENT5	-	-
-8	continuación	continuación	NCFS000	-	-	432-444	79_QUEST_clinical_caseMIR	SENT5	-	-
-9	.	.	Fp	-	-	444-445	79_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	389-390	79_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	390-394	79_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	395-397	79_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	398-401	79_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	402-412	79_QUEST_clinical_caseMIR	SENT5	-	-
+6	decisiones	decisión	NCFP000	-	-	413-423	79_QUEST_clinical_caseMIR	SENT5	-	-
+7	tomará	tomar	VMIF3S0	C1515187	calificador	424-430	79_QUEST_clinical_caseMIR	SENT5	-	-
+8	a	a	SPS00	-	-	431-432	79_QUEST_clinical_caseMIR	SENT5	-	-
+9	continuación	continuación	NCFS000	-	-	433-445	79_QUEST_clinical_caseMIR	SENT5	-	-
+10	?	?	Fit	-	-	445-446	79_QUEST_clinical_caseMIR	SENT5	-	-
+11	:	:	Fd	-	-	446-447	79_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	447-448	79_QUEST_clinical_caseMIR	SENT5	-	-
 

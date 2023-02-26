@@ -52,13 +52,16 @@
 8	38°C	38°C		-	-	265-269	225_QUEST_clinical_caseMIR	SENT3	-	-
 9	.	.	Fp	-	-	269-270	225_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	271-275	225_QUEST_clinical_caseMIR	SENT4	-	-
-2	de	de	SPS00	C0332285	atributo	276-278	225_QUEST_clinical_caseMIR	SENT4	-	-
-3	las	el	DA0FP0	-	-	279-282	225_QUEST_clinical_caseMIR	SENT4	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	283-293	225_QUEST_clinical_caseMIR	SENT4	-	-
-5	decisiones	decisión	NCFP000	-	-	294-304	225_QUEST_clinical_caseMIR	SENT4	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	305-307	225_QUEST_clinical_caseMIR	SENT4	-	-
-7	parece	parecer	VMIP3S0	-	-	308-314	225_QUEST_clinical_caseMIR	SENT4	-	-
-8	correcta	correcto	AQ0FS0	C0205170	calificador	315-323	225_QUEST_clinical_caseMIR	SENT4	-	-
-9	.	.	Fp	-	-	323-324	225_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	271-272	225_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	272-276	225_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	277-279	225_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	280-283	225_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	284-294	225_QUEST_clinical_caseMIR	SENT4	-	-
+6	decisiones	decisión	NCFP000	-	-	295-305	225_QUEST_clinical_caseMIR	SENT4	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	306-308	225_QUEST_clinical_caseMIR	SENT4	-	-
+8	parece	parecer	VMIP3S0	-	-	309-315	225_QUEST_clinical_caseMIR	SENT4	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	316-324	225_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	324-325	225_QUEST_clinical_caseMIR	SENT4	-	-
+11	:	:	Fd	-	-	325-326	225_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	326-327	225_QUEST_clinical_caseMIR	SENT4	-	-
 

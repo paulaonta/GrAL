@@ -110,13 +110,16 @@
 24	%	%	Ft	-	-	544-545	763_QUEST_clinical_caseMIR	SENT6	-	-
 25	.	.	Fp	-	-	545-546	763_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Qué	qué	DE0CN0	-	-	547-550	763_QUEST_clinical_caseMIR	SENT7	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	551-562	763_QUEST_clinical_caseMIR	SENT7	-	-
-3	debe	deber	VMIP3S0	-	-	563-567	763_QUEST_clinical_caseMIR	SENT7	-	-
-4	ofrecer	ofrecer	VMN0000	-	-	568-575	763_QUEST_clinical_caseMIR	SENT7	-	-
-5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	575-577	763_QUEST_clinical_caseMIR	SENT7	-	-
-6	en	en	SPS00	C1720294#C0332285	calificador#atributo	578-580	763_QUEST_clinical_caseMIR	SENT7	-	-
-7	ese	ese	DD0MS0	-	-	581-584	763_QUEST_clinical_caseMIR	SENT7	-	-
-8	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	585-592	763_QUEST_clinical_caseMIR	SENT7	-	-
-9	.	.	Fp	-	-	592-593	763_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	547-548	763_QUEST_clinical_caseMIR	SENT7	-	-
+2	Qué	qué	DT0CN0	-	-	548-551	763_QUEST_clinical_caseMIR	SENT7	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	552-563	763_QUEST_clinical_caseMIR	SENT7	-	-
+4	debe	deber	VMIP3S0	-	-	564-568	763_QUEST_clinical_caseMIR	SENT7	-	-
+5	ofrecer	ofrecer	VMN0000	-	-	569-576	763_QUEST_clinical_caseMIR	SENT7	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	576-578	763_QUEST_clinical_caseMIR	SENT7	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	579-581	763_QUEST_clinical_caseMIR	SENT7	-	-
+8	ese	ese	DD0MS0	-	-	582-585	763_QUEST_clinical_caseMIR	SENT7	-	-
+9	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	586-593	763_QUEST_clinical_caseMIR	SENT7	-	-
+10	?	?	Fit	-	-	593-594	763_QUEST_clinical_caseMIR	SENT7	-	-
+11	:	:	Fd	-	-	594-595	763_QUEST_clinical_caseMIR	SENT7	-	-
+12	.	.	Fp	-	-	595-596	763_QUEST_clinical_caseMIR	SENT7	-	-
 

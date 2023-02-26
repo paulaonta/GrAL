@@ -1,0 +1,14 @@
+1	Gripe	gripe	NCFS000	C0021400	trastorno	0-5	502(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	estacional	estacional	AQ0CS0	C0439601	calificador	6-16	502(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	,	,	Fc	-	-	16-17	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	neumocócica	neumocócica	AQ0FS00	-	-	18-29	502(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	,	,	Fc	-	-	29-30	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	meningitis	meningitis	NCFN000	C0025289	trastorno	31-41	502(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	tetravalente	tetravalente	AQ0CS0	-	-	42-54	502(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	y	y	CC	C1706368	calificador	55-56	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	hepatitis	hepatitis	NCFN000	C0019158	-	57-66	502(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	A.	a.	AQ0CS00	-	-	67-69	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	Renograma	Renograma		C0203835#C0412412_1	procedimiento_1	0-9	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	isotópico	isotópico	AQ0MS0	C0203835#C0412412_2	procedimiento_2	10-19	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	19-20	502(0)_ANS_clinical_caseMIR	SENT1	-	-
+

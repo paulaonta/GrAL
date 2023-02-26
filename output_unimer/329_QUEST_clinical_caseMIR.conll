@@ -28,7 +28,7 @@
 28	días	d	NCMP000	-	-	143-147	329_QUEST_clinical_caseMIR	SENT1	-	-
 29	de	de	SPS00	C0332285	atributo	148-150	329_QUEST_clinical_caseMIR	SENT1	-	-
 30	evolución	evolución	NCFS000	-	-	151-160	329_QUEST_clinical_caseMIR	SENT1	-	-
-31	.	.	Fp	-	-	160-161	329_QUEST_clinical_caseMIR	SENT1	-	-
+31	:	:	Fd	-	-	160-161	329_QUEST_clinical_caseMIR	SENT1	-	-
 32	además	además	RG	-	-	162-168	329_QUEST_clinical_caseMIR	SENT1	-	-
 33	refieren	referir	VMIP3P0	-	-	169-177	329_QUEST_clinical_caseMIR	SENT1	-	-
 34	tendencia	tendencia	NCFS000	-	-	178-187	329_QUEST_clinical_caseMIR	SENT1	-	-
@@ -147,5 +147,6 @@
 2	la	el	DA0FS0	-	-	799-801	329_QUEST_clinical_caseMIR	SENT10	-	-
 3	respuesta	respuesta	NCFS000	-	-	802-811	329_QUEST_clinical_caseMIR	SENT10	-	-
 4	VERDADERA	verdadero	AQ0FS0	C0205238	calificador	812-821	329_QUEST_clinical_caseMIR	SENT10	-	-
-5	.	.	Fp	-	-	821-822	329_QUEST_clinical_caseMIR	SENT10	-	-
+5	:	:	Fd	-	-	821-822	329_QUEST_clinical_caseMIR	SENT10	-	-
+6	.	.	Fp	-	-	822-823	329_QUEST_clinical_caseMIR	SENT10	-	-
 

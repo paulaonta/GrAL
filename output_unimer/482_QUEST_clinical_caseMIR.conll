@@ -57,15 +57,17 @@
 28	longitud	longitud	NCFS000	C1444754	calificador#atributo	296-304	482_QUEST_clinical_caseMIR	SENT3	-	-
 29	.	.	Fp	-	-	304-305	482_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Qué	qué	DE0CN0	-	-	306-309	482_QUEST_clinical_caseMIR	SENT4	-	-
-2	opción	opción	NCFS000	-	-	310-316	482_QUEST_clinical_caseMIR	SENT4	-	-
-3	terapéutica	terapéutico	AQ0FS0	-	-	317-328	482_QUEST_clinical_caseMIR	SENT4	-	-
-4	es	ser	VSIP3S0	-	-	329-331	482_QUEST_clinical_caseMIR	SENT4	-	-
-5	la	lo	PP3FSA00	C0205393_1	calificador_1	332-334	482_QUEST_clinical_caseMIR	SENT4	-	-
-6	más	más	RG	C0205393_2	calificador_2	335-338	482_QUEST_clinical_caseMIR	SENT4	-	-
-7	adecuada	adecuar	VMP00SF	-	-	339-347	482_QUEST_clinical_caseMIR	SENT4	-	-
-8	para	para	SPS00	C0521125	calificador	348-352	482_QUEST_clinical_caseMIR	SENT4	-	-
-9	esta	este	DD0FS0	-	-	353-357	482_QUEST_clinical_caseMIR	SENT4	-	-
-10	paciente	paciente	NCCS000	C0030705	persona	358-366	482_QUEST_clinical_caseMIR	SENT4	-	-
-11	.	.	Fp	-	-	366-367	482_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	306-307	482_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	307-310	482_QUEST_clinical_caseMIR	SENT4	-	-
+3	opción	opción	NCFS000	-	-	311-317	482_QUEST_clinical_caseMIR	SENT4	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	318-329	482_QUEST_clinical_caseMIR	SENT4	-	-
+5	es	ser	VSIP3S0	-	-	330-332	482_QUEST_clinical_caseMIR	SENT4	-	-
+6	la	lo	PP3FSA00	C0205393_1	calificador_1	333-335	482_QUEST_clinical_caseMIR	SENT4	-	-
+7	más	más	RG	C0205393_2	calificador_2	336-339	482_QUEST_clinical_caseMIR	SENT4	-	-
+8	adecuada	adecuar	VMP00SF	-	-	340-348	482_QUEST_clinical_caseMIR	SENT4	-	-
+9	para	para	SPS00	C0521125	calificador	349-353	482_QUEST_clinical_caseMIR	SENT4	-	-
+10	esta	este	DD0FS0	-	-	354-358	482_QUEST_clinical_caseMIR	SENT4	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	359-367	482_QUEST_clinical_caseMIR	SENT4	-	-
+12	?	?	Fit	-	-	367-368	482_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	368-369	482_QUEST_clinical_caseMIR	SENT4	-	-
 

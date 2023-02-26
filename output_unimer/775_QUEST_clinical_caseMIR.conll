@@ -116,11 +116,14 @@
 59	epiteliales	epitelial	AQ0CP0	C0014597_2	estructura_corporal_2	679-690	775_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
 60	.	.	Fp	-	-	690-691	775_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	692-696	775_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	697-699	775_QUEST_clinical_caseMIR	SENT5	-	-
-3	el	el	DA0MS0	-	-	700-702	775_QUEST_clinical_caseMIR	SENT5	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	703-714	775_QUEST_clinical_caseMIR	SENT5	-	-
-5	más	más	RG	C0205172	calificador	715-718	775_QUEST_clinical_caseMIR	SENT5	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	719-727	775_QUEST_clinical_caseMIR	SENT5	-	-
-7	.	.	Fp	-	-	727-728	775_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	692-693	775_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	693-697	775_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	698-700	775_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	701-703	775_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	704-715	775_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	716-719	775_QUEST_clinical_caseMIR	SENT5	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	720-728	775_QUEST_clinical_caseMIR	SENT5	-	-
+8	?	?	Fit	-	-	728-729	775_QUEST_clinical_caseMIR	SENT5	-	-
+9	:	:	Fd	-	-	729-730	775_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	730-731	775_QUEST_clinical_caseMIR	SENT5	-	-
 

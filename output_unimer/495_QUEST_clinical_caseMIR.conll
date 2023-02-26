@@ -92,16 +92,18 @@
 21	pus	pus	NCMS000	C0034161	anomalía_morfológica#sustancia	421-424	495_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
 22	.	.	Fp	-	-	424-425	495_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	426-430	495_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	431-433	495_QUEST_clinical_caseMIR	SENT5	-	-
-3	las	el	DA0FP0	-	-	434-437	495_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	438-448	495_QUEST_clinical_caseMIR	SENT5	-	-
-5	actuaciones	actuación	NCFP000	C0699820	hallazgo	449-460	495_QUEST_clinical_caseMIR	SENT5	-	-
-6	está	estar	VAIP3S0	-	-	461-465	495_QUEST_clinical_caseMIR	SENT5	-	-
-7	más	más	RG	C0205172	calificador	466-469	495_QUEST_clinical_caseMIR	SENT5	-	-
-8	indicada	indicar	VMP00SF	-	-	470-478	495_QUEST_clinical_caseMIR	SENT5	-	-
-9	en	en	SPS00	C1720294#C0332285	calificador#atributo	479-481	495_QUEST_clinical_caseMIR	SENT5	-	-
-10	este	este	DD0MS0	-	-	482-486	495_QUEST_clinical_caseMIR	SENT5	-	-
-11	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	487-494	495_QUEST_clinical_caseMIR	SENT5	-	-
-12	.	.	Fp	-	-	494-495	495_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	426-427	495_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	427-431	495_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	432-434	495_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	435-438	495_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	439-449	495_QUEST_clinical_caseMIR	SENT5	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	450-461	495_QUEST_clinical_caseMIR	SENT5	-	-
+7	está	estar	VAIP3S0	-	-	462-466	495_QUEST_clinical_caseMIR	SENT5	-	-
+8	más	más	RG	C0205172	calificador	467-470	495_QUEST_clinical_caseMIR	SENT5	-	-
+9	indicada	indicar	VMP00SF	-	-	471-479	495_QUEST_clinical_caseMIR	SENT5	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	480-482	495_QUEST_clinical_caseMIR	SENT5	-	-
+11	este	este	DD0MS0	-	-	483-487	495_QUEST_clinical_caseMIR	SENT5	-	-
+12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	488-495	495_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	495-496	495_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	496-497	495_QUEST_clinical_caseMIR	SENT5	-	-
 

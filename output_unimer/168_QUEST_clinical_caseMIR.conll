@@ -28,8 +28,11 @@
 8	normales	normal	AQ0CP0	C0205307	calificador	144-152	168_QUEST_clinical_caseMIR	SENT2	-	-
 9	.	.	Fp	-	-	152-153	168_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	154-157	168_QUEST_clinical_caseMIR	SENT3	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	158-165	168_QUEST_clinical_caseMIR	SENT3	-	-
-3	tomaría	tomar	VMIC3S0	C1515187	calificador	166-173	168_QUEST_clinical_caseMIR	SENT3	-	-
-4	.	.	Fp	-	-	173-174	168_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	154-155	168_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	155-158	168_QUEST_clinical_caseMIR	SENT3	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	159-166	168_QUEST_clinical_caseMIR	SENT3	-	-
+4	tomaría	tomar	VMIC3S0	C1515187	calificador	167-174	168_QUEST_clinical_caseMIR	SENT3	-	-
+5	?	?	Fit	-	-	174-175	168_QUEST_clinical_caseMIR	SENT3	-	-
+6	:	:	Fd	-	-	175-176	168_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	176-177	168_QUEST_clinical_caseMIR	SENT3	-	-
 

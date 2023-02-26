@@ -1,0 +1,21 @@
+1	Si	si	CS	-	-	0-2	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	está	estar	VAIP3S0	-	-	3-7	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	asintomática	asintomático	AQ0FS0	-	-	8-20	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	se	se	P00CN000	-	-	21-23	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	iniciará	iniciar	VMIF3S0	-	-	24-32	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	ácido	ácido	NCMS000	C0001128	sustancia	33-38	679(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	trans	trans	AQ0CN0	-	-	39-44	679(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	retinoico	retinoico	AQ0MS00	-	-	45-54	679(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	(	(	Fpa	-	-	55-56	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	ATRA	all-transretinoic_acid_(ácido_transretinoico)	NC00YL0	-	-	56-60	679(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	)	)	Fpt	-	-	60-61	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	y	y	CC	C1706368	calificador	62-63	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	se	se	P00CN000	-	-	64-66	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	recomendarán	recomendar	VMIF3P0	-	-	67-79	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	controles	control	NCMP000	C2587213	atributo	80-89	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	90-92	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	hospital	hospital	NCMS000	C0587438#C0175952_1	medio_ambiente_1	93-101	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0587438#C0175952_2	medio_ambiente_2	102-104	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	día	día	NCMS000	C0587438#C0175952_3	medio_ambiente_3	105-108	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	108-109	679(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,22 @@
+1	Debut	debut	NCMS000	-	-	0-5	26(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	26(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	diabetes	diabetes	NCFN000	-	-	9-17	26(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	tipo	tipo	NCMS000	C0332307	calificador#atributo	18-22	26(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	1	1	Z	-	-	23-24	26(2)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+6	con	con	SPS00	C0332287	atributo	25-28	26(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	cetoacidosis	cetoacidosis	NCFN000	C0220982	trastorno	29-41	26(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	.	.	Fp	-	-	41-42	26(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Tratar	tratar	VMN0000	-	-	43-49	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	con	con	SPS00	C0332287	atributo	50-53	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	54-65	26(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	y	y	CC	C1706368	calificador	66-67	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+5	tras	tras	SPS00	-	-	68-72	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+6	corregir	corregir	VMN0000	-	-	73-81	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+7	la	el	DA0FS0	-	-	82-84	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+8	acidosis	acidosis	NCFN000	C0001122	trastorno	85-93	26(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	añadir	añadir	VMN0000	-	-	94-100	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+10	insulina	insulina	NCFS000	C0021641	sustancia	101-109	26(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+11	endovenosa	endovenoso	AQ0FS0	-	-	110-120	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	120-121	26(2)_ANS_clinical_caseMIR	SENT2	-	-
+

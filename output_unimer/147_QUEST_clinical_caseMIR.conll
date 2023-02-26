@@ -50,11 +50,14 @@
 50	horas	hora	NCFP000	C0439584_2	calificador_2	277-282	147_QUEST_clinical_caseMIR	SENT1	-	-
 51	.	.	Fp	-	-	282-283	147_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	284-288	147_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	289-291	147_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	292-294	147_QUEST_clinical_caseMIR	SENT2	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	295-306	147_QUEST_clinical_caseMIR	SENT2	-	-
-5	más	más	RG	C0205172	calificador	307-310	147_QUEST_clinical_caseMIR	SENT2	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	311-319	147_QUEST_clinical_caseMIR	SENT2	-	-
-7	.	.	Fp	-	-	319-320	147_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	284-285	147_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	285-289	147_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	290-292	147_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	293-295	147_QUEST_clinical_caseMIR	SENT2	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	296-307	147_QUEST_clinical_caseMIR	SENT2	-	-
+6	más	más	RG	C0205172	calificador	308-311	147_QUEST_clinical_caseMIR	SENT2	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	312-320	147_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	320-321	147_QUEST_clinical_caseMIR	SENT2	-	-
+9	:	:	Fd	-	-	321-322	147_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	322-323	147_QUEST_clinical_caseMIR	SENT2	-	-
 

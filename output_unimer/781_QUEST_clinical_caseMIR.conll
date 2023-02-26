@@ -55,10 +55,13 @@
 12	completamente	completamente	RG	-	-	296-309	781_QUEST_clinical_caseMIR	SENT4	-	-
 13	.	.	Fp	-	-	309-310	781_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	311-315	781_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	316-318	781_QUEST_clinical_caseMIR	SENT5	-	-
-3	su	su	DP3CS0	-	-	319-321	781_QUEST_clinical_caseMIR	SENT5	-	-
-4	hipótesis	hipótesis	NCFN000	-	-	322-331	781_QUEST_clinical_caseMIR	SENT5	-	-
-5	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	332-343	781_QUEST_clinical_caseMIR	SENT5	-	-
-6	.	.	Fp	-	-	343-344	781_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	311-312	781_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	312-316	781_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	317-319	781_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	320-322	781_QUEST_clinical_caseMIR	SENT5	-	-
+5	hipótesis	hipótesis	NCFN000	-	-	323-332	781_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	333-344	781_QUEST_clinical_caseMIR	SENT5	-	-
+7	?	?	Fit	-	-	344-345	781_QUEST_clinical_caseMIR	SENT5	-	-
+8	:	:	Fd	-	-	345-346	781_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	346-347	781_QUEST_clinical_caseMIR	SENT5	-	-
 

@@ -49,9 +49,11 @@
 13	dL	decilitro	NCMN000	C0439241	calificador	253-255	420_QUEST_clinical_caseMIR	SENT3	-	-
 14	.	.	Fp	-	-	255-256	420_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Qué	qué	DE0CN0	-	-	257-260	420_QUEST_clinical_caseMIR	SENT4	-	-
-2	prueba	prueba	NCFS000	-	-	261-267	420_QUEST_clinical_caseMIR	SENT4	-	-
-3	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	268-279	420_QUEST_clinical_caseMIR	SENT4	-	-
-4	solicitaría	solicitar	VMIC3S0	-	-	280-291	420_QUEST_clinical_caseMIR	SENT4	-	-
-5	.	.	Fp	-	-	291-292	420_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	257-258	420_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	258-261	420_QUEST_clinical_caseMIR	SENT4	-	-
+3	prueba	prueba	NCFS000	-	-	262-268	420_QUEST_clinical_caseMIR	SENT4	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	269-280	420_QUEST_clinical_caseMIR	SENT4	-	-
+5	solicitaría	solicitar	VMIC3S0	-	-	281-292	420_QUEST_clinical_caseMIR	SENT4	-	-
+6	?	?	Fit	-	-	292-293	420_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	293-294	420_QUEST_clinical_caseMIR	SENT4	-	-
 

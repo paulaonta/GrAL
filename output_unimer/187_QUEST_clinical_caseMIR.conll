@@ -15,11 +15,14 @@
 15	severa	severo	AQ0FS0	C0205082	calificador	78-84	187_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
 16	.	.	Fp	-	-	84-85	187_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	86-90	187_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	91-93	187_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	94-96	187_QUEST_clinical_caseMIR	SENT2	-	-
-4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	97-108	187_QUEST_clinical_caseMIR	SENT2	-	-
-5	de	de	SPS00	C0332285	atributo	109-111	187_QUEST_clinical_caseMIR	SENT2	-	-
-6	elección	elección	NCFS000	-	-	112-120	187_QUEST_clinical_caseMIR	SENT2	-	-
-7	.	.	Fp	-	-	120-121	187_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	86-87	187_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	87-91	187_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	92-94	187_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	95-97	187_QUEST_clinical_caseMIR	SENT2	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	98-109	187_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	110-112	187_QUEST_clinical_caseMIR	SENT2	-	-
+7	elección	elección	NCFS000	-	-	113-121	187_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	121-122	187_QUEST_clinical_caseMIR	SENT2	-	-
+9	:	:	Fd	-	-	122-123	187_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	123-124	187_QUEST_clinical_caseMIR	SENT2	-	-
 

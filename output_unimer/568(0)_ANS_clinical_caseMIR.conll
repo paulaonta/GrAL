@@ -1,0 +1,18 @@
+1	Prescribir	prescribir	VMN0000	-	-	0-10	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	al	al	SP+DA	-	-	11-13	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	14-22	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	180	180	Z	-	-	23-26	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	mg	mg	NCMN000	-	-	27-29	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	30-32	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	ticagrelor	ticagrelor	NCMS000	-	-	33-43	568(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	como	como	CS	C0332257	calificador	44-48	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	dosis	dosis	NCFN000	-	-	49-54	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	55-57	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	carga	carga	NCFS000	-	-	58-63	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	previa	previo	AQ0FS0	C0205156	calificador	64-70	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	71-72	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	73-75	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	angioplastia	angioplastia	NC00SC0	C0162577#C2364034	procedimiento	76-88	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	primaria	primario	AQ0FS0	C0205225	calificador	89-97	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	97-98	568(0)_ANS_clinical_caseMIR	SENT1	-	-
+

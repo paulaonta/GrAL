@@ -190,14 +190,17 @@
 36	previa	previo	AQ0FS0	C0205156	calificador	1016-1022	119_QUEST_clinical_caseMIR	SENT6	-	-
 37	.	.	Fp	-	-	1022-1023	119_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	1024-1028	119_QUEST_clinical_caseMIR	SENT7	-	-
-2	es	ser	VSIP3S0	-	-	1029-1031	119_QUEST_clinical_caseMIR	SENT7	-	-
-3	el	el	DA0MS0	-	-	1032-1034	119_QUEST_clinical_caseMIR	SENT7	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	1035-1046	119_QUEST_clinical_caseMIR	SENT7	-	-
-5	más	más	RG	C0205172	calificador	1047-1050	119_QUEST_clinical_caseMIR	SENT7	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	1051-1059	119_QUEST_clinical_caseMIR	SENT7	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	1060-1062	119_QUEST_clinical_caseMIR	SENT7	-	-
-8	este	este	DD0MS0	-	-	1063-1067	119_QUEST_clinical_caseMIR	SENT7	-	-
-9	paciente	paciente	NCCS000	C0030705	persona	1068-1076	119_QUEST_clinical_caseMIR	SENT7	-	-
-10	.	.	Fp	-	-	1076-1077	119_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	1024-1025	119_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	1025-1029	119_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	1030-1032	119_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	1033-1035	119_QUEST_clinical_caseMIR	SENT7	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	1036-1047	119_QUEST_clinical_caseMIR	SENT7	-	-
+6	más	más	RG	C0205172	calificador	1048-1051	119_QUEST_clinical_caseMIR	SENT7	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	1052-1060	119_QUEST_clinical_caseMIR	SENT7	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	1061-1063	119_QUEST_clinical_caseMIR	SENT7	-	-
+9	este	este	DD0MS0	-	-	1064-1068	119_QUEST_clinical_caseMIR	SENT7	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	1069-1077	119_QUEST_clinical_caseMIR	SENT7	-	-
+11	?	?	Fit	-	-	1077-1078	119_QUEST_clinical_caseMIR	SENT7	-	-
+12	:	:	Fd	-	-	1078-1079	119_QUEST_clinical_caseMIR	SENT7	-	-
+13	.	.	Fp	-	-	1079-1080	119_QUEST_clinical_caseMIR	SENT7	-	-
 

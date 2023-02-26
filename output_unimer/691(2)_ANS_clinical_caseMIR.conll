@@ -1,0 +1,16 @@
+1	Gastritis	gastritis	NCFN000	C0017152	trastorno	0-9	691(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	tipo	tipo	NCMS000	C0332307	calificador#atributo	10-14	691(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	A.	a.	VMIP3S0	-	-	15-17	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	El	el	DA0MS0	-	-	0-2	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	consiste	consistir	VMIP3S0	-	-	15-23	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	embolectomía	embolectomía	NCFS000	C0397734#C1301167_1	procedimiento_1	27-39	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	arterial	arterial	NC00SC0	C0397734#C1301167_2	procedimiento_2	40-48	691(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	femoral	femoral	AQ0CS0	C0015811	calificador	49-56	691(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	con	con	SPS00	C0332287	atributo	57-60	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	sonda	sonda	NCFS000	C0182400	objeto_físico	61-66	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	67-69	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	Fogarty	fogarty	RG	-	-	70-77	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	77-78	691(2)_ANS_clinical_caseMIR	SENT1	-	-
+

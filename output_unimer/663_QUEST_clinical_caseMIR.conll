@@ -54,10 +54,13 @@
 9	ojos	ojo	NCMP000	C1456809#C0229118_2	estructura_corporal_2	252-256	663_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 10	.	.	Fp	-	-	256-257	663_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	258-262	663_QUEST_clinical_caseMIR	SENT4	-	-
-2	será	ser	VSIF3S0	-	-	263-267	663_QUEST_clinical_caseMIR	SENT4	-	-
-3	la	el	DA0FS0	-	-	268-270	663_QUEST_clinical_caseMIR	SENT4	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	271-278	663_QUEST_clinical_caseMIR	SENT4	-	-
-5	correcta	correcto	AQ0FS0	C0205170	calificador	279-287	663_QUEST_clinical_caseMIR	SENT4	-	-
-6	.	.	Fp	-	-	287-288	663_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	258-259	663_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	259-263	663_QUEST_clinical_caseMIR	SENT4	-	-
+3	será	ser	VSIF3S0	-	-	264-268	663_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	269-271	663_QUEST_clinical_caseMIR	SENT4	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	272-279	663_QUEST_clinical_caseMIR	SENT4	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	280-288	663_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	288-289	663_QUEST_clinical_caseMIR	SENT4	-	-
+8	:	:	Fd	-	-	289-290	663_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	290-291	663_QUEST_clinical_caseMIR	SENT4	-	-
 

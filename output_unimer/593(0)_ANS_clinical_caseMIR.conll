@@ -1,0 +1,19 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	10-12	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	cultivo	cultivo	NCMS000	C0430404_1	procedimiento_1	13-20	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0430404_2	procedimiento_2	21-23	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	orina	orinar	VMM02S0	C0430404_3	procedimiento_3	24-29	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	30-31	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	diferir	diferir	VMN0000	-	-	32-39	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	40-42	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	inicio	inicio	NCMS000	C0332162	atributo	43-49	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	del	del	SP+DA	-	-	50-53	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	54-65	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	66-77	593(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	hasta	hasta	SPS00	-	-	78-83	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	tener	tener	VMN0000	-	-	84-89	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	90-92	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	93-102	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	definitivo	definitivo	AQ0MS0	C0443196	calificador	103-113	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	113-114	593(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -37,7 +37,7 @@
 2	la	el	DA0FS0	-	-	198-200	493_QUEST_clinical_caseMIR	SENT2	-	-
 3	analítica	analítica	NCFS000	-	-	201-210	493_QUEST_clinical_caseMIR	SENT2	-	-
 4	destaca	destacar	VMIP3S0	-	-	211-218	493_QUEST_clinical_caseMIR	SENT2	-	-
-5	.	.	Fp	-	-	218-219	493_QUEST_clinical_caseMIR	SENT2	-	-
+5	:	:	Fd	-	-	218-219	493_QUEST_clinical_caseMIR	SENT2	-	-
 6	creatinina	creatinina	NC00SC0	C0010294	sustancia	220-230	493_QUEST_clinical_caseMIR	SENT2	-	-
 7	de	de	SPS00	C0332285	atributo	231-233	493_QUEST_clinical_caseMIR	SENT2	-	-
 8	3,4	3.4	Z	-	-	234-237	493_QUEST_clinical_caseMIR	SENT2	-	-
@@ -78,12 +78,14 @@
 43	%	%	Ft	-	-	385-386	493_QUEST_clinical_caseMIR	SENT2	-	-
 44	.	.	Fp	-	-	386-387	493_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	388-391	493_QUEST_clinical_caseMIR	SENT3	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	392-403	493_QUEST_clinical_caseMIR	SENT3	-	-
-3	instaurar	instaurar	VMN0000	-	-	404-413	493_QUEST_clinical_caseMIR	SENT3	-	-
-4	la	lo	PP3FSA00	-	-	413-415	493_QUEST_clinical_caseMIR	SENT3	-	-
-5	en	en	SPS00	C1720294#C0332285	calificador#atributo	416-418	493_QUEST_clinical_caseMIR	SENT3	-	-
-6	este	este	DD0MS0	-	-	419-423	493_QUEST_clinical_caseMIR	SENT3	-	-
-7	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	424-431	493_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	431-432	493_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	388-389	493_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	389-392	493_QUEST_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	393-404	493_QUEST_clinical_caseMIR	SENT3	-	-
+4	instaurar	instaurar	VMN0000	-	-	405-414	493_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	lo	PP3FSA00	-	-	414-416	493_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	417-419	493_QUEST_clinical_caseMIR	SENT3	-	-
+7	este	este	DD0MS0	-	-	420-424	493_QUEST_clinical_caseMIR	SENT3	-	-
+8	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	425-432	493_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	432-433	493_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	433-434	493_QUEST_clinical_caseMIR	SENT3	-	-
 

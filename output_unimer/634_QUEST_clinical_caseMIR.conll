@@ -33,12 +33,14 @@
 16	interno	interno	AQ0MS0	C0205102	calificador	194-201	634_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 17	.	.	Fp	-	-	201-202	634_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	203-207	634_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	208-210	634_QUEST_clinical_caseMIR	SENT3	-	-
-3	los	el	DA0MP0	-	-	211-214	634_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	215-225	634_QUEST_clinical_caseMIR	SENT3	-	-
-5	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	226-238	634_QUEST_clinical_caseMIR	SENT3	-	-
-6	es	ser	VSIP3S0	-	-	239-241	634_QUEST_clinical_caseMIR	SENT3	-	-
-7	INCORRECTO	incorrecto	AQ0MS0	-	-	242-252	634_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	252-253	634_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	203-204	634_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	204-208	634_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	209-211	634_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	212-215	634_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	216-226	634_QUEST_clinical_caseMIR	SENT3	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	227-239	634_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	240-242	634_QUEST_clinical_caseMIR	SENT3	-	-
+8	INCORRECTO	incorrecto	AQ0MS0	-	-	243-253	634_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	253-254	634_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	254-255	634_QUEST_clinical_caseMIR	SENT3	-	-
 

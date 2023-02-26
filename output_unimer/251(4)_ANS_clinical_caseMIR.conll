@@ -1,0 +1,22 @@
+1	Se	se	P00CN000	-	-	0-2	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	realizar	realizar	VMN0000	-	-	8-16	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	17-20	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	determinación	determinación	NCFS000	C0242485	procedimiento	21-34	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	urgente	urgente	AQ0CS0	C0439609	calificador	35-42	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	43-45	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	glucemia	glucemia	NCFS000	C2585282	entidad_observable	46-54	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	54-55	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	dado	dar	VMP00SM	C1947971	calificador	56-60	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	61-64	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	65-67	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	cuadro	cuadro	NCMS000	-	-	68-74	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	clínico	clínico	AQ0MS0	C0205210	calificador	75-82	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	podría	poder	VMIC3S0	-	-	83-89	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	corresponder	corresponder	VMN0000	-	-	90-102	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	a	a	SPS00	-	-	103-104	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	105-108	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+19	cetoacidosis	cetoacidosis	NCFN000	C0011880_1	trastorno_1	109-121	251(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+20	diabética	diabético	NCFS000	C0011880_2	trastorno_2	122-131	251(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+21	.	.	Fp	-	-	131-132	251(4)_ANS_clinical_caseMIR	SENT1	-	-
+

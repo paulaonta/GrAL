@@ -157,11 +157,14 @@
 28	memoria	memoria	NCFS000	C0025260	función	845-852	744_QUEST_clinical_caseMIR	SENT7	-	-
 29	.	.	Fp	-	-	852-853	744_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	854-858	744_QUEST_clinical_caseMIR	SENT8	-	-
-2	es	ser	VSIP3S0	-	-	859-861	744_QUEST_clinical_caseMIR	SENT8	-	-
-3	el	el	DA0MS0	-	-	862-864	744_QUEST_clinical_caseMIR	SENT8	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	865-876	744_QUEST_clinical_caseMIR	SENT8	-	-
-5	MENOS	menos	RG	C0332288	atributo	877-882	744_QUEST_clinical_caseMIR	SENT8	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	883-891	744_QUEST_clinical_caseMIR	SENT8	-	-
-7	.	.	Fp	-	-	891-892	744_QUEST_clinical_caseMIR	SENT8	-	-
+1	¿	¿	Fia	-	-	854-855	744_QUEST_clinical_caseMIR	SENT8	-	-
+2	Cuál	cuál	PT0CS000	-	-	855-859	744_QUEST_clinical_caseMIR	SENT8	-	-
+3	es	ser	VSIP3S0	-	-	860-862	744_QUEST_clinical_caseMIR	SENT8	-	-
+4	el	el	DA0MS0	-	-	863-865	744_QUEST_clinical_caseMIR	SENT8	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	866-877	744_QUEST_clinical_caseMIR	SENT8	-	-
+6	MENOS	menos	RG	C0332288	atributo	878-883	744_QUEST_clinical_caseMIR	SENT8	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	884-892	744_QUEST_clinical_caseMIR	SENT8	-	-
+8	?	?	Fit	-	-	892-893	744_QUEST_clinical_caseMIR	SENT8	-	-
+9	:	:	Fd	-	-	893-894	744_QUEST_clinical_caseMIR	SENT8	-	-
+10	.	.	Fp	-	-	894-895	744_QUEST_clinical_caseMIR	SENT8	-	-
 

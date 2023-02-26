@@ -58,14 +58,17 @@
 28	adductora	adductora	AQ0FS00	-	-	305-314	735_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
 29	.	.	Fp	-	-	314-315	735_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	316-320	735_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	321-323	735_QUEST_clinical_caseMIR	SENT3	-	-
-3	las	el	DA0FP0	-	-	324-327	735_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	328-338	735_QUEST_clinical_caseMIR	SENT3	-	-
-5	propuestas	propuesta	NCFP000	-	-	339-349	735_QUEST_clinical_caseMIR	SENT3	-	-
-6	de	de	SPS00	C0332285	atributo	350-352	735_QUEST_clinical_caseMIR	SENT3	-	-
-7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	353-364	735_QUEST_clinical_caseMIR	SENT3	-	-
-8	está	estar	VAIP3S0	-	-	365-369	735_QUEST_clinical_caseMIR	SENT3	-	-
-9	indicada	indicar	VMP00SF	-	-	370-378	735_QUEST_clinical_caseMIR	SENT3	-	-
-10	.	.	Fp	-	-	378-379	735_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	316-317	735_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	317-321	735_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	322-324	735_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	325-328	735_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	329-339	735_QUEST_clinical_caseMIR	SENT3	-	-
+6	propuestas	propuesta	NCFP000	-	-	340-350	735_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	351-353	735_QUEST_clinical_caseMIR	SENT3	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	354-365	735_QUEST_clinical_caseMIR	SENT3	-	-
+9	está	estar	VAIP3S0	-	-	366-370	735_QUEST_clinical_caseMIR	SENT3	-	-
+10	indicada	indicar	VMP00SF	-	-	371-379	735_QUEST_clinical_caseMIR	SENT3	-	-
+11	?	?	Fit	-	-	379-380	735_QUEST_clinical_caseMIR	SENT3	-	-
+12	:	:	Fd	-	-	380-381	735_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	381-382	735_QUEST_clinical_caseMIR	SENT3	-	-
 

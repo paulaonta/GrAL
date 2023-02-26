@@ -73,13 +73,14 @@
 9	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	364-371	151_QUEST_clinical_caseMIR	SENT6	-	-
 10	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	372-377	151_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
 11	percutánea	percutánea	AQ0FS00	-	-	378-388	151_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
-12	.	.	Fp	-	-	389-390	151_QUEST_clinical_caseMIR	SENT6	-	-
-
-1	Qué	qué	DE0CN0	-	-	391-394	151_QUEST_clinical_caseMIR	SENT7	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	395-402	151_QUEST_clinical_caseMIR	SENT7	-	-
-3	inicial	inicial	AQ0CS0	C0205265	calificador	403-410	151_QUEST_clinical_caseMIR	SENT7	-	-
-4	es	ser	VSIP3S0	-	-	411-413	151_QUEST_clinical_caseMIR	SENT7	-	-
-5	la	el	DA0FS0	-	-	414-416	151_QUEST_clinical_caseMIR	SENT7	-	-
-6	correcta	correcto	AQ0FS0	C0205170	calificador	417-425	151_QUEST_clinical_caseMIR	SENT7	-	-
-7	.	.	Fp	-	-	425-426	151_QUEST_clinical_caseMIR	SENT7	-	-
+12	¿	¿	Fia	-	-	389-390	151_QUEST_clinical_caseMIR	SENT6	-	-
+13	Qué	qué	DT0CN0	-	-	390-393	151_QUEST_clinical_caseMIR	SENT6	-	-
+14	actitud	actitud	NCFS000	C0004271	entidad_observable	394-401	151_QUEST_clinical_caseMIR	SENT6	-	-
+15	inicial	inicial	AQ0CS0	C0205265	calificador	402-409	151_QUEST_clinical_caseMIR	SENT6	-	-
+16	es	ser	VSIP3S0	-	-	410-412	151_QUEST_clinical_caseMIR	SENT6	-	-
+17	la	el	DA0FS0	-	-	413-415	151_QUEST_clinical_caseMIR	SENT6	-	-
+18	correcta	correcto	AQ0FS0	C0205170	calificador	416-424	151_QUEST_clinical_caseMIR	SENT6	-	-
+19	?	?	Fit	-	-	424-425	151_QUEST_clinical_caseMIR	SENT6	-	-
+20	:	:	Fd	-	-	425-426	151_QUEST_clinical_caseMIR	SENT6	-	-
+21	.	.	Fp	-	-	426-427	151_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -40,14 +40,17 @@
 40	profunda	profundo	AQ0FS0	C0205125#C0439808	calificador	238-246	710_QUEST_clinical_caseMIR	SENT1	-	-
 41	.	.	Fp	-	-	246-247	710_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	248-252	710_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	253-255	710_QUEST_clinical_caseMIR	SENT2	-	-
-3	la	el	DA0FS0	-	-	256-258	710_QUEST_clinical_caseMIR	SENT2	-	-
-4	valvulopatía	valvulopatía	NCFS000	C0018824	trastorno	259-271	710_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
-5	que	que	PR0CN000	C0332299_1	atributo_1	272-275	710_QUEST_clinical_caseMIR	SENT2	-	-
-6	sugiere	sugerir	VMM02S0	C0332299_2	atributo_2	276-283	710_QUEST_clinical_caseMIR	SENT2	-	-
-7	esta	este	DD0FS0	-	-	284-288	710_QUEST_clinical_caseMIR	SENT2	-	-
-8	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	289-300	710_QUEST_clinical_caseMIR	SENT2	-	-
-9	física	físico	NCFS000	C0031809_2	procedimiento_2	301-307	710_QUEST_clinical_caseMIR	SENT2	-	-
-10	.	.	Fp	-	-	307-308	710_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	248-249	710_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	249-253	710_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	254-256	710_QUEST_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	257-259	710_QUEST_clinical_caseMIR	SENT2	-	-
+5	valvulopatía	valvulopatía	NCFS000	C0018824	trastorno	260-272	710_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	que	que	PR0CN000	C0332299_1	atributo_1	273-276	710_QUEST_clinical_caseMIR	SENT2	-	-
+7	sugiere	sugerir	VMM02S0	C0332299_2	atributo_2	277-284	710_QUEST_clinical_caseMIR	SENT2	-	-
+8	esta	este	DD0FS0	-	-	285-289	710_QUEST_clinical_caseMIR	SENT2	-	-
+9	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	290-301	710_QUEST_clinical_caseMIR	SENT2	-	-
+10	física	físico	NCFS000	C0031809_2	procedimiento_2	302-308	710_QUEST_clinical_caseMIR	SENT2	-	-
+11	?	?	Fit	-	-	308-309	710_QUEST_clinical_caseMIR	SENT2	-	-
+12	:	:	Fd	-	-	309-310	710_QUEST_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	310-311	710_QUEST_clinical_caseMIR	SENT2	-	-
 

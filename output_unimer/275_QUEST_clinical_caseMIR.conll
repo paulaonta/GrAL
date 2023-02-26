@@ -87,16 +87,19 @@
 16	elevadas	elevar	VMP00PF	-	-	481-489	275_QUEST_clinical_caseMIR	SENT6	-	-
 17	.	.	Fp	-	-	489-490	275_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	491-495	275_QUEST_clinical_caseMIR	SENT7	-	-
-2	de	de	SPS00	C0332285	atributo	496-498	275_QUEST_clinical_caseMIR	SENT7	-	-
-3	las	el	DA0FP0	-	-	499-502	275_QUEST_clinical_caseMIR	SENT7	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	503-513	275_QUEST_clinical_caseMIR	SENT7	-	-
-5	entidades	entidad	NCFP000	-	-	514-523	275_QUEST_clinical_caseMIR	SENT7	-	-
-6	clínicas	clínico	AQ0FP0	C0205210	calificador	524-532	275_QUEST_clinical_caseMIR	SENT7	-	-
-7	sería	ser	VSIC1S0	-	-	533-538	275_QUEST_clinical_caseMIR	SENT7	-	-
-8	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	539-549	275_QUEST_clinical_caseMIR	SENT7	-	-
-9	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	550-553	275_QUEST_clinical_caseMIR	SENT7	-	-
-10	el	el	DA0MS0	-	-	554-556	275_QUEST_clinical_caseMIR	SENT7	-	-
-11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	557-568	275_QUEST_clinical_caseMIR	SENT7	-	-
-12	.	.	Fp	-	-	568-569	275_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	491-492	275_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	492-496	275_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	497-499	275_QUEST_clinical_caseMIR	SENT7	-	-
+4	las	el	DA0FP0	-	-	500-503	275_QUEST_clinical_caseMIR	SENT7	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	504-514	275_QUEST_clinical_caseMIR	SENT7	-	-
+6	entidades	entidad	NCFP000	-	-	515-524	275_QUEST_clinical_caseMIR	SENT7	-	-
+7	clínicas	clínico	AQ0FP0	C0205210	calificador	525-533	275_QUEST_clinical_caseMIR	SENT7	-	-
+8	sería	ser	VSIC1S0	-	-	534-539	275_QUEST_clinical_caseMIR	SENT7	-	-
+9	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	540-550	275_QUEST_clinical_caseMIR	SENT7	-	-
+10	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	551-554	275_QUEST_clinical_caseMIR	SENT7	-	-
+11	el	el	DA0MS0	-	-	555-557	275_QUEST_clinical_caseMIR	SENT7	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	558-569	275_QUEST_clinical_caseMIR	SENT7	-	-
+13	?	?	Fit	-	-	569-570	275_QUEST_clinical_caseMIR	SENT7	-	-
+14	:	:	Fd	-	-	570-571	275_QUEST_clinical_caseMIR	SENT7	-	-
+15	.	.	Fp	-	-	571-572	275_QUEST_clinical_caseMIR	SENT7	-	-
 

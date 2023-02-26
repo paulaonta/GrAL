@@ -45,25 +45,25 @@
 23	receptores	receptor	NCMP000	C0597357	sustancia	262-272	657_QUEST_clinical_caseMIR	SENT2	-	-
 24	de	de	SPS00	C0332285	atributo	273-275	657_QUEST_clinical_caseMIR	SENT2	-	-
 25	estrógenos	estrógeno	NCMP000	C0014939	sustancia	276-286	657_QUEST_clinical_caseMIR	SENT2	-	-
-26	.	.	Fp	-	-	286-287	657_QUEST_clinical_caseMIR	SENT2	-	-
+26	:	:	Fd	-	-	286-287	657_QUEST_clinical_caseMIR	SENT2	-	-
 27	0	0	Z	-	-	288-289	657_QUEST_clinical_caseMIR	SENT2	-	-
 28	%	%	Ft	-	-	289-290	657_QUEST_clinical_caseMIR	SENT2	-	-
 29	,	,	Fc	-	-	290-291	657_QUEST_clinical_caseMIR	SENT2	-	-
 30	receptores	receptor	NCMP000	C0597357	sustancia	292-302	657_QUEST_clinical_caseMIR	SENT2	-	-
 31	de	de	SPS00	C0332285	atributo	303-305	657_QUEST_clinical_caseMIR	SENT2	-	-
 32	progesterona	progesterona	NCFS000	C0033308	sustancia	306-318	657_QUEST_clinical_caseMIR	SENT2	-	-
-33	.	.	Fp	-	-	318-319	657_QUEST_clinical_caseMIR	SENT2	-	-
+33	:	:	Fd	-	-	318-319	657_QUEST_clinical_caseMIR	SENT2	-	-
 34	0	0	Z	-	-	320-321	657_QUEST_clinical_caseMIR	SENT2	-	-
 35	%	%	Ft	-	-	321-322	657_QUEST_clinical_caseMIR	SENT2	-	-
 36	,	,	Fc	-	-	322-323	657_QUEST_clinical_caseMIR	SENT2	-	-
 37	Ki	ki	NCMS000	-	-	324-326	657_QUEST_clinical_caseMIR	SENT2	-	-
 38	67	67		-	-	327-329	657_QUEST_clinical_caseMIR	SENT2	-	-
-39	.	.	Fp	-	-	329-330	657_QUEST_clinical_caseMIR	SENT2	-	-
+39	:	:	Fd	-	-	329-330	657_QUEST_clinical_caseMIR	SENT2	-	-
 40	70	70	Z	-	-	331-333	657_QUEST_clinical_caseMIR	SENT2	-	-
 41	%	%	Ft	-	-	333-334	657_QUEST_clinical_caseMIR	SENT2	-	-
 42	,	,	Fc	-	-	334-335	657_QUEST_clinical_caseMIR	SENT2	-	-
 43	HER2	HER2		-	-	336-340	657_QUEST_clinical_caseMIR	SENT2	-	-
-44	.	.	Fp	-	-	340-341	657_QUEST_clinical_caseMIR	SENT2	-	-
+44	:	:	Fd	-	-	340-341	657_QUEST_clinical_caseMIR	SENT2	-	-
 45	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	342-350	657_QUEST_clinical_caseMIR	SENT2	-	-
 46	.	.	Fp	-	-	350-351	657_QUEST_clinical_caseMIR	SENT2	-	-
 
@@ -79,5 +79,6 @@
 2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	392-403	657_QUEST_clinical_caseMIR	SENT4	-	-
 3	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	404-413	657_QUEST_clinical_caseMIR	SENT4	-	-
 4	sería	ser	VSIC1S0	-	-	414-419	657_QUEST_clinical_caseMIR	SENT4	-	-
-5	.	.	Fp	-	-	419-420	657_QUEST_clinical_caseMIR	SENT4	-	-
+5	:	:	Fd	-	-	419-420	657_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	420-421	657_QUEST_clinical_caseMIR	SENT4	-	-
 

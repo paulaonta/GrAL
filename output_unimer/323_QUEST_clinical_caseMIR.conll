@@ -69,14 +69,16 @@
 10	bilaterales	bilateral	AQ0CP0	C0238767	calificador	386-397	323_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
 11	.	.	Fp	-	-	397-398	323_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	399-403	323_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	404-406	323_QUEST_clinical_caseMIR	SENT5	-	-
-3	las	el	DA0FP0	-	-	407-410	323_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	411-421	323_QUEST_clinical_caseMIR	SENT5	-	-
-5	considera	considerar	VMIP3S0	-	-	422-431	323_QUEST_clinical_caseMIR	SENT5	-	-
-6	la	el	DA0FS0	-	-	432-434	323_QUEST_clinical_caseMIR	SENT5	-	-
-7	actitud	actitud	NCFS000	C0004271	entidad_observable	435-442	323_QUEST_clinical_caseMIR	SENT5	-	-
-8	más	más	RG	C0205172	calificador	443-446	323_QUEST_clinical_caseMIR	SENT5	-	-
-9	adecuada	adecuar	VMP00SF	-	-	447-455	323_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	455-456	323_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	399-400	323_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	400-404	323_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	405-407	323_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	408-411	323_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	412-422	323_QUEST_clinical_caseMIR	SENT5	-	-
+6	considera	considerar	VMIP3S0	-	-	423-432	323_QUEST_clinical_caseMIR	SENT5	-	-
+7	la	el	DA0FS0	-	-	433-435	323_QUEST_clinical_caseMIR	SENT5	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	436-443	323_QUEST_clinical_caseMIR	SENT5	-	-
+9	más	más	RG	C0205172	calificador	444-447	323_QUEST_clinical_caseMIR	SENT5	-	-
+10	adecuada	adecuar	VMP00SF	-	-	448-456	323_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	456-457	323_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	457-458	323_QUEST_clinical_caseMIR	SENT5	-	-
 

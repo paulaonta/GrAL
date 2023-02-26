@@ -155,18 +155,21 @@
 8	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	841-851	786_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-
 9	.	.	Fp	-	-	851-852	786_QUEST_clinical_caseMIR	SENT8	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	853-857	786_QUEST_clinical_caseMIR	SENT9	-	-
-2	es	ser	VSIP3S0	-	-	858-860	786_QUEST_clinical_caseMIR	SENT9	-	-
-3	el	el	DA0MS0	-	-	861-863	786_QUEST_clinical_caseMIR	SENT9	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0332142_1	calificador_1	864-875	786_QUEST_clinical_caseMIR	SENT9	-	-
-5	anatomopatológico	anatomopatológico	NC00SC0	C0332142_2	calificador_2	876-893	786_QUEST_clinical_caseMIR	SENT9	-	-
-6	de	de	SPS00	C0332285	atributo	894-896	786_QUEST_clinical_caseMIR	SENT9	-	-
-7	las	el	DA0FP0	-	-	897-900	786_QUEST_clinical_caseMIR	SENT9	-	-
-8	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	901-909	786_QUEST_clinical_caseMIR	SENT9	B-Grp_Enfermedad	-
-9	identificadas	identificar	VMP00PF	-	-	910-923	786_QUEST_clinical_caseMIR	SENT9	-	-
-10	en	en	SPS00	C1720294#C0332285	calificador#atributo	924-926	786_QUEST_clinical_caseMIR	SENT9	-	-
-11	la	el	DA0FS0	-	-	927-929	786_QUEST_clinical_caseMIR	SENT9	-	-
-12	tiroidectomía	tiroidectomía	NC00SC0	C0193788_1	procedimiento_1	930-943	786_QUEST_clinical_caseMIR	SENT9	-	-
-13	total	total	NCMS000	C0193788_2	procedimiento_2	944-949	786_QUEST_clinical_caseMIR	SENT9	-	-
-14	.	.	Fp	-	-	949-950	786_QUEST_clinical_caseMIR	SENT9	-	-
+1	¿	¿	Fia	-	-	853-854	786_QUEST_clinical_caseMIR	SENT9	-	-
+2	Cuál	cuál	PT0CS000	-	-	854-858	786_QUEST_clinical_caseMIR	SENT9	-	-
+3	es	ser	VSIP3S0	-	-	859-861	786_QUEST_clinical_caseMIR	SENT9	-	-
+4	el	el	DA0MS0	-	-	862-864	786_QUEST_clinical_caseMIR	SENT9	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0332142_1	calificador_1	865-876	786_QUEST_clinical_caseMIR	SENT9	-	-
+6	anatomopatológico	anatomopatológico	NC00SC0	C0332142_2	calificador_2	877-894	786_QUEST_clinical_caseMIR	SENT9	-	-
+7	de	de	SPS00	C0332285	atributo	895-897	786_QUEST_clinical_caseMIR	SENT9	-	-
+8	las	el	DA0FP0	-	-	898-901	786_QUEST_clinical_caseMIR	SENT9	-	-
+9	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	902-910	786_QUEST_clinical_caseMIR	SENT9	B-Grp_Enfermedad	-
+10	identificadas	identificar	VMP00PF	-	-	911-924	786_QUEST_clinical_caseMIR	SENT9	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	925-927	786_QUEST_clinical_caseMIR	SENT9	-	-
+12	la	el	DA0FS0	-	-	928-930	786_QUEST_clinical_caseMIR	SENT9	-	-
+13	tiroidectomía	tiroidectomía	NC00SC0	C0193788_1	procedimiento_1	931-944	786_QUEST_clinical_caseMIR	SENT9	-	-
+14	total	total	NCMS000	C0193788_2	procedimiento_2	945-950	786_QUEST_clinical_caseMIR	SENT9	-	-
+15	?	?	Fit	-	-	950-951	786_QUEST_clinical_caseMIR	SENT9	-	-
+16	:	:	Fd	-	-	951-952	786_QUEST_clinical_caseMIR	SENT9	-	-
+17	.	.	Fp	-	-	952-953	786_QUEST_clinical_caseMIR	SENT9	-	-
 

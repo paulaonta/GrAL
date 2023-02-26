@@ -73,32 +73,34 @@
 12	siesta	siesta	NCFS000	-	-	386-392	440_QUEST_clinical_caseMIR	SENT2	-	-
 13	.	.	Fp	-	-	392-393	440_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	394-398	440_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	399-401	440_QUEST_clinical_caseMIR	SENT3	-	-
-3	las	el	DA0FP0	-	-	402-405	440_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	406-416	440_QUEST_clinical_caseMIR	SENT3	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	417-429	440_QUEST_clinical_caseMIR	SENT3	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	430-432	440_QUEST_clinical_caseMIR	SENT3	-	-
-7	parece	parecer	VMIP3S0	-	-	433-439	440_QUEST_clinical_caseMIR	SENT3	-	-
-8	la	el	DA0FS0	-	-	440-442	440_QUEST_clinical_caseMIR	SENT3	-	-
-9	correcta	correcto	AQ0FS0	C0205170	calificador	443-451	440_QUEST_clinical_caseMIR	SENT3	-	-
-10	,	,	Fc	-	-	451-452	440_QUEST_clinical_caseMIR	SENT3	-	-
-11	teniendo	tener	VMG0000	-	-	453-461	440_QUEST_clinical_caseMIR	SENT3	-	-
-12	en	en	SPS00	C1720294#C0332285	calificador#atributo	462-464	440_QUEST_clinical_caseMIR	SENT3	-	-
-13	cuenta	cuenta	NCFS000	-	-	465-471	440_QUEST_clinical_caseMIR	SENT3	-	-
-14	que	que	CS	-	-	472-475	440_QUEST_clinical_caseMIR	SENT3	-	-
-15	la	el	DA0FS0	-	-	476-478	440_QUEST_clinical_caseMIR	SENT3	-	-
-16	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	479-490	440_QUEST_clinical_caseMIR	SENT3	-	-
-17	física	físico	NCFS000	C0031809_2	procedimiento_2	491-497	440_QUEST_clinical_caseMIR	SENT3	-	-
-18	es	ser	VSIP3S0	-	-	498-500	440_QUEST_clinical_caseMIR	SENT3	-	-
-19	normal	normal	AQ0CS0	C0205307	calificador	501-507	440_QUEST_clinical_caseMIR	SENT3	-	-
-20	y	y	CC	C1706368	calificador	508-509	440_QUEST_clinical_caseMIR	SENT3	-	-
-21	la	el	DA0FS0	-	-	510-512	440_QUEST_clinical_caseMIR	SENT3	-	-
-22	paciente	paciente	NCCS000	C0030705	persona	513-521	440_QUEST_clinical_caseMIR	SENT3	-	-
-23	presenta	presentar	VMIP3S0	-	-	522-530	440_QUEST_clinical_caseMIR	SENT3	-	-
-24	un	un		C0205447_1	calificador_1	531-533	440_QUEST_clinical_caseMIR	SENT3	-	-
-25	mini-mental	mini-mental	AQ0CS00	-	-	534-545	440_QUEST_clinical_caseMIR	SENT3	-	-
-26	de	de	SPS00	C0332285	atributo	546-548	440_QUEST_clinical_caseMIR	SENT3	-	-
-27	31/35	31/35		-	-	549-554	440_QUEST_clinical_caseMIR	SENT3	-	-
-28	.	.	Fp	-	-	554-555	440_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	394-395	440_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	395-399	440_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	400-402	440_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	403-406	440_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	407-417	440_QUEST_clinical_caseMIR	SENT3	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	418-430	440_QUEST_clinical_caseMIR	SENT3	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	431-433	440_QUEST_clinical_caseMIR	SENT3	-	-
+8	parece	parecer	VMIP3S0	-	-	434-440	440_QUEST_clinical_caseMIR	SENT3	-	-
+9	la	el	DA0FS0	-	-	441-443	440_QUEST_clinical_caseMIR	SENT3	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	444-452	440_QUEST_clinical_caseMIR	SENT3	-	-
+11	,	,	Fc	-	-	452-453	440_QUEST_clinical_caseMIR	SENT3	-	-
+12	teniendo	tener	VMG0000	-	-	454-462	440_QUEST_clinical_caseMIR	SENT3	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	463-465	440_QUEST_clinical_caseMIR	SENT3	-	-
+14	cuenta	cuenta	NCFS000	-	-	466-472	440_QUEST_clinical_caseMIR	SENT3	-	-
+15	que	que	CS	-	-	473-476	440_QUEST_clinical_caseMIR	SENT3	-	-
+16	la	el	DA0FS0	-	-	477-479	440_QUEST_clinical_caseMIR	SENT3	-	-
+17	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	480-491	440_QUEST_clinical_caseMIR	SENT3	-	-
+18	física	físico	NCFS000	C0031809_2	procedimiento_2	492-498	440_QUEST_clinical_caseMIR	SENT3	-	-
+19	es	ser	VSIP3S0	-	-	499-501	440_QUEST_clinical_caseMIR	SENT3	-	-
+20	normal	normal	AQ0CS0	C0205307	calificador	502-508	440_QUEST_clinical_caseMIR	SENT3	-	-
+21	y	y	CC	C1706368	calificador	509-510	440_QUEST_clinical_caseMIR	SENT3	-	-
+22	la	el	DA0FS0	-	-	511-513	440_QUEST_clinical_caseMIR	SENT3	-	-
+23	paciente	paciente	NCCS000	C0030705	persona	514-522	440_QUEST_clinical_caseMIR	SENT3	-	-
+24	presenta	presentar	VMIP3S0	-	-	523-531	440_QUEST_clinical_caseMIR	SENT3	-	-
+25	un	un		C0205447_1	calificador_1	532-534	440_QUEST_clinical_caseMIR	SENT3	-	-
+26	mini-mental	mini-mental	AQ0CS00	-	-	535-546	440_QUEST_clinical_caseMIR	SENT3	-	-
+27	de	de	SPS00	C0332285	atributo	547-549	440_QUEST_clinical_caseMIR	SENT3	-	-
+28	31/35	31/35		-	-	550-555	440_QUEST_clinical_caseMIR	SENT3	-	-
+29	?	?	Fit	-	-	555-556	440_QUEST_clinical_caseMIR	SENT3	-	-
+30	.	.	Fp	-	-	556-557	440_QUEST_clinical_caseMIR	SENT3	-	-
 

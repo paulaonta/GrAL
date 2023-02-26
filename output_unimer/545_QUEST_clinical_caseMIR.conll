@@ -163,17 +163,19 @@
 19	residencia	residencia	NCFS000	-	-	802-812	545_QUEST_clinical_caseMIR	SENT11	-	-
 20	.	.	Fp	-	-	812-813	545_QUEST_clinical_caseMIR	SENT11	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	814-818	545_QUEST_clinical_caseMIR	SENT12	-	-
-2	de	de	SPS00	C0332285	atributo	819-821	545_QUEST_clinical_caseMIR	SENT12	-	-
-3	las	el	DA0FP0	-	-	822-825	545_QUEST_clinical_caseMIR	SENT12	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	826-836	545_QUEST_clinical_caseMIR	SENT12	-	-
-5	actuaciones	actuación	NCFP000	C0699820	hallazgo	837-848	545_QUEST_clinical_caseMIR	SENT12	-	-
-6	es	ser	VSIP3S0	-	-	849-851	545_QUEST_clinical_caseMIR	SENT12	-	-
-7	la	lo	PP3FSA00	C0205393_1	calificador_1	852-854	545_QUEST_clinical_caseMIR	SENT12	-	-
-8	más	más	RG	C0205393_2	calificador_2	855-858	545_QUEST_clinical_caseMIR	SENT12	-	-
-9	apropiada	apropiar	VMP00SF	-	-	859-868	545_QUEST_clinical_caseMIR	SENT12	-	-
-10	para	para	SPS00	C0521125	calificador	869-873	545_QUEST_clinical_caseMIR	SENT12	-	-
-11	este	este	DD0MS0	-	-	874-878	545_QUEST_clinical_caseMIR	SENT12	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	879-887	545_QUEST_clinical_caseMIR	SENT12	-	-
-13	.	.	Fp	-	-	887-888	545_QUEST_clinical_caseMIR	SENT12	-	-
+1	¿	¿	Fia	-	-	814-815	545_QUEST_clinical_caseMIR	SENT12	-	-
+2	Cuál	cuál	PT0CS000	-	-	815-819	545_QUEST_clinical_caseMIR	SENT12	-	-
+3	de	de	SPS00	C0332285	atributo	820-822	545_QUEST_clinical_caseMIR	SENT12	-	-
+4	las	el	DA0FP0	-	-	823-826	545_QUEST_clinical_caseMIR	SENT12	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	827-837	545_QUEST_clinical_caseMIR	SENT12	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	838-849	545_QUEST_clinical_caseMIR	SENT12	-	-
+7	es	ser	VSIP3S0	-	-	850-852	545_QUEST_clinical_caseMIR	SENT12	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	853-855	545_QUEST_clinical_caseMIR	SENT12	-	-
+9	más	más	RG	C0205393_2	calificador_2	856-859	545_QUEST_clinical_caseMIR	SENT12	-	-
+10	apropiada	apropiar	VMP00SF	-	-	860-869	545_QUEST_clinical_caseMIR	SENT12	-	-
+11	para	para	SPS00	C0521125	calificador	870-874	545_QUEST_clinical_caseMIR	SENT12	-	-
+12	este	este	DD0MS0	-	-	875-879	545_QUEST_clinical_caseMIR	SENT12	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	880-888	545_QUEST_clinical_caseMIR	SENT12	-	-
+14	?	?	Fit	-	-	888-889	545_QUEST_clinical_caseMIR	SENT12	-	-
+15	.	.	Fp	-	-	889-890	545_QUEST_clinical_caseMIR	SENT12	-	-
 

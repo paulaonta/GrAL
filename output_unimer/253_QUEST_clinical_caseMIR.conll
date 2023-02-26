@@ -84,16 +84,19 @@
 25	úlcera	úlcera	NCFS000	C0041582_1	anomalía_morfológica#trastorno_1	421-427	253_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
 26	.	.	Fp	-	-	427-428	253_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	429-433	253_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	434-436	253_QUEST_clinical_caseMIR	SENT5	-	-
-3	la	el	DA0FS0	-	-	437-439	253_QUEST_clinical_caseMIR	SENT5	-	-
-4	primera	1	AO0FS0	-	-	440-447	253_QUEST_clinical_caseMIR	SENT5	-	-
-5	prioridad	prioridad	NCFS000	C0549179#C0439607	atributo#calificador	448-457	253_QUEST_clinical_caseMIR	SENT5	-	-
-6	en	en	SPS00	C1720294#C0332285	calificador#atributo	458-460	253_QUEST_clinical_caseMIR	SENT5	-	-
-7	los	el	DA0MP0	-	-	461-464	253_QUEST_clinical_caseMIR	SENT5	-	-
-8	cuidados	cuidado	NCMP000	-	-	465-473	253_QUEST_clinical_caseMIR	SENT5	-	-
-9	de	de	SPS00	C0332285	atributo	474-476	253_QUEST_clinical_caseMIR	SENT5	-	-
-10	esta	este	DD0FS0	-	-	477-481	253_QUEST_clinical_caseMIR	SENT5	-	-
-11	paciente	paciente	NCCS000	C0030705	persona	482-490	253_QUEST_clinical_caseMIR	SENT5	-	-
-12	.	.	Fp	-	-	490-491	253_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	429-430	253_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	430-434	253_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	435-437	253_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	438-440	253_QUEST_clinical_caseMIR	SENT5	-	-
+5	primera	1	AO0FS0	-	-	441-448	253_QUEST_clinical_caseMIR	SENT5	-	-
+6	prioridad	prioridad	NCFS000	C0549179#C0439607	atributo#calificador	449-458	253_QUEST_clinical_caseMIR	SENT5	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	459-461	253_QUEST_clinical_caseMIR	SENT5	-	-
+8	los	el	DA0MP0	-	-	462-465	253_QUEST_clinical_caseMIR	SENT5	-	-
+9	cuidados	cuidado	NCMP000	-	-	466-474	253_QUEST_clinical_caseMIR	SENT5	-	-
+10	de	de	SPS00	C0332285	atributo	475-477	253_QUEST_clinical_caseMIR	SENT5	-	-
+11	esta	este	DD0FS0	-	-	478-482	253_QUEST_clinical_caseMIR	SENT5	-	-
+12	paciente	paciente	NCCS000	C0030705	persona	483-491	253_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	491-492	253_QUEST_clinical_caseMIR	SENT5	-	-
+14	:	:	Fd	-	-	492-493	253_QUEST_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	493-494	253_QUEST_clinical_caseMIR	SENT5	-	-
 

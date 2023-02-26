@@ -72,13 +72,16 @@
 11	contracciones	contracción	NCFP000	C1140999	hallazgo	378-391	170_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 12	.	.	Fp	-	-	391-392	170_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Qué	qué	PT0CN000	-	-	393-396	170_QUEST_clinical_caseMIR	SENT6	-	-
-2	pensaría	pensar	VMIC3S0	-	-	397-405	170_QUEST_clinical_caseMIR	SENT6	-	-
-3	como	como	CS	C0332257	calificador	406-410	170_QUEST_clinical_caseMIR	SENT6	-	-
-4	primera	1	AO0FS0	-	-	411-418	170_QUEST_clinical_caseMIR	SENT6	-	-
-5	opción	opción	NCFS000	-	-	419-425	170_QUEST_clinical_caseMIR	SENT6	-	-
-6	en	en	SPS00	C1720294#C0332285	calificador#atributo	426-428	170_QUEST_clinical_caseMIR	SENT6	-	-
-7	esta	este	DD0FS0	-	-	429-433	170_QUEST_clinical_caseMIR	SENT6	-	-
-8	paciente	paciente	NCCS000	C0030705	persona	434-442	170_QUEST_clinical_caseMIR	SENT6	-	-
-9	.	.	Fp	-	-	442-443	170_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	393-394	170_QUEST_clinical_caseMIR	SENT6	-	-
+2	Qué	qué	PT0CN000	-	-	394-397	170_QUEST_clinical_caseMIR	SENT6	-	-
+3	pensaría	pensar	VMIC3S0	-	-	398-406	170_QUEST_clinical_caseMIR	SENT6	-	-
+4	como	como	CS	C0332257	calificador	407-411	170_QUEST_clinical_caseMIR	SENT6	-	-
+5	primera	1	AO0FS0	-	-	412-419	170_QUEST_clinical_caseMIR	SENT6	-	-
+6	opción	opción	NCFS000	-	-	420-426	170_QUEST_clinical_caseMIR	SENT6	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	427-429	170_QUEST_clinical_caseMIR	SENT6	-	-
+8	esta	este	DD0FS0	-	-	430-434	170_QUEST_clinical_caseMIR	SENT6	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	435-443	170_QUEST_clinical_caseMIR	SENT6	-	-
+10	?	?	Fit	-	-	443-444	170_QUEST_clinical_caseMIR	SENT6	-	-
+11	:	:	Fd	-	-	444-445	170_QUEST_clinical_caseMIR	SENT6	-	-
+12	.	.	Fp	-	-	445-446	170_QUEST_clinical_caseMIR	SENT6	-	-
 

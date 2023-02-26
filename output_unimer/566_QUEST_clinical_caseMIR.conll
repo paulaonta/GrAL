@@ -60,14 +60,16 @@
 13	II	ii	RG	-	-	313-315	566_QUEST_clinical_caseMIR	SENT4	-	-
 14	.	.	Fp	-	-	315-316	566_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	317-321	566_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	322-324	566_QUEST_clinical_caseMIR	SENT5	-	-
-3	el	el	DA0MS0	-	-	325-327	566_QUEST_clinical_caseMIR	SENT5	-	-
-4	planteamiento	planteamiento	NCMS000	-	-	328-341	566_QUEST_clinical_caseMIR	SENT5	-	-
-5	más	más	RG	C0205172	calificador	342-345	566_QUEST_clinical_caseMIR	SENT5	-	-
-6	lógico	lógico	AQ0MS0	-	-	346-352	566_QUEST_clinical_caseMIR	SENT5	-	-
-7	ante	ante	SPS00	-	-	353-357	566_QUEST_clinical_caseMIR	SENT5	-	-
-8	este	este	DD0MS0	-	-	358-362	566_QUEST_clinical_caseMIR	SENT5	-	-
-9	paciente	paciente	NCCS000	C0030705	persona	363-371	566_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	371-372	566_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	317-318	566_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	318-322	566_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	323-325	566_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	326-328	566_QUEST_clinical_caseMIR	SENT5	-	-
+5	planteamiento	planteamiento	NCMS000	-	-	329-342	566_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	343-346	566_QUEST_clinical_caseMIR	SENT5	-	-
+7	lógico	lógico	AQ0MS0	-	-	347-353	566_QUEST_clinical_caseMIR	SENT5	-	-
+8	ante	ante	SPS00	-	-	354-358	566_QUEST_clinical_caseMIR	SENT5	-	-
+9	este	este	DD0MS0	-	-	359-363	566_QUEST_clinical_caseMIR	SENT5	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	364-372	566_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	372-373	566_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	373-374	566_QUEST_clinical_caseMIR	SENT5	-	-
 

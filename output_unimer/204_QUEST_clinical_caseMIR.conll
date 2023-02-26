@@ -42,19 +42,22 @@
 28	mmHg	mmHg	NCMP000	-	-	247-251	204_QUEST_clinical_caseMIR	SENT2	-	-
 29	.	.	Fp	-	-	251-252	204_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	253-257	204_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	258-260	204_QUEST_clinical_caseMIR	SENT3	-	-
-3	las	el	DA0FP0	-	-	261-264	204_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	265-275	204_QUEST_clinical_caseMIR	SENT3	-	-
-5	acciones	acción	NCFP000	C0441472#C3266814	calificador#atributo	276-284	204_QUEST_clinical_caseMIR	SENT3	-	-
-6	NO	no	RN	C1298908	calificador	285-287	204_QUEST_clinical_caseMIR	SENT3	-	-
-7	realizaría	realizar	VMIC3S0	-	-	288-298	204_QUEST_clinical_caseMIR	SENT3	-	-
-8	en	en	SPS00	C1720294#C0332285	calificador#atributo	299-301	204_QUEST_clinical_caseMIR	SENT3	-	-
-9	la	el	DA0FS0	-	-	302-304	204_QUEST_clinical_caseMIR	SENT3	-	-
-10	atención	atención	NCFS000	C0004268	función	305-313	204_QUEST_clinical_caseMIR	SENT3	-	-
-11	inicial	inicial	AQ0CS0	C0205265	calificador	314-321	204_QUEST_clinical_caseMIR	SENT3	-	-
-12	a	a	SPS00	-	-	322-323	204_QUEST_clinical_caseMIR	SENT3	-	-
-13	este	este	DD0MS0	-	-	324-328	204_QUEST_clinical_caseMIR	SENT3	-	-
-14	paciente	paciente	NCCS000	C0030705	persona	329-337	204_QUEST_clinical_caseMIR	SENT3	-	-
-15	.	.	Fp	-	-	337-338	204_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	253-254	204_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	254-258	204_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	259-261	204_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	262-265	204_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	266-276	204_QUEST_clinical_caseMIR	SENT3	-	-
+6	acciones	acción	NCFP000	C0441472#C3266814	calificador#atributo	277-285	204_QUEST_clinical_caseMIR	SENT3	-	-
+7	NO	no	RN	C1298908	calificador	286-288	204_QUEST_clinical_caseMIR	SENT3	-	-
+8	realizaría	realizar	VMIC3S0	-	-	289-299	204_QUEST_clinical_caseMIR	SENT3	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	300-302	204_QUEST_clinical_caseMIR	SENT3	-	-
+10	la	el	DA0FS0	-	-	303-305	204_QUEST_clinical_caseMIR	SENT3	-	-
+11	atención	atención	NCFS000	C0004268	función	306-314	204_QUEST_clinical_caseMIR	SENT3	-	-
+12	inicial	inicial	AQ0CS0	C0205265	calificador	315-322	204_QUEST_clinical_caseMIR	SENT3	-	-
+13	a	a	SPS00	-	-	323-324	204_QUEST_clinical_caseMIR	SENT3	-	-
+14	este	este	DD0MS0	-	-	325-329	204_QUEST_clinical_caseMIR	SENT3	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	330-338	204_QUEST_clinical_caseMIR	SENT3	-	-
+16	?	?	Fit	-	-	338-339	204_QUEST_clinical_caseMIR	SENT3	-	-
+17	:	:	Fd	-	-	339-340	204_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	340-341	204_QUEST_clinical_caseMIR	SENT3	-	-
 

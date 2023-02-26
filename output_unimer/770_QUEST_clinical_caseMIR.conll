@@ -133,16 +133,19 @@
 16	cultivo	cultivo	NCMS000	-	-	748-755	770_QUEST_clinical_caseMIR	SENT7	-	-
 17	.	.	Fp	-	-	755-756	770_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	757-761	770_QUEST_clinical_caseMIR	SENT8	-	-
-2	es	ser	VSIP3S0	-	-	762-764	770_QUEST_clinical_caseMIR	SENT8	-	-
-3	el	el	DA0MS0	-	-	765-767	770_QUEST_clinical_caseMIR	SENT8	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	768-779	770_QUEST_clinical_caseMIR	SENT8	-	-
-5	de	de	SPS00	C0332285	atributo	780-782	770_QUEST_clinical_caseMIR	SENT8	-	-
-6	sospecha	sospecha	NCFS000	C0750491	calificador	783-791	770_QUEST_clinical_caseMIR	SENT8	-	-
-7	y	y	CC	C1706368	calificador	792-793	770_QUEST_clinical_caseMIR	SENT8	-	-
-8	la	el	DA0FS0	-	-	794-796	770_QUEST_clinical_caseMIR	SENT8	-	-
-9	actitud	actitud	NCFS000	C0004271	entidad_observable	797-804	770_QUEST_clinical_caseMIR	SENT8	-	-
-10	terapéutica	terapéutico	AQ0FS0	-	-	805-816	770_QUEST_clinical_caseMIR	SENT8	-	-
-11	inicial	inicial	AQ0CS0	C0205265	calificador	817-824	770_QUEST_clinical_caseMIR	SENT8	-	-
-12	.	.	Fp	-	-	824-825	770_QUEST_clinical_caseMIR	SENT8	-	-
+1	¿	¿	Fia	-	-	757-758	770_QUEST_clinical_caseMIR	SENT8	-	-
+2	Cuál	cuál	PT0CS000	-	-	758-762	770_QUEST_clinical_caseMIR	SENT8	-	-
+3	es	ser	VSIP3S0	-	-	763-765	770_QUEST_clinical_caseMIR	SENT8	-	-
+4	el	el	DA0MS0	-	-	766-768	770_QUEST_clinical_caseMIR	SENT8	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	769-780	770_QUEST_clinical_caseMIR	SENT8	-	-
+6	de	de	SPS00	C0332285	atributo	781-783	770_QUEST_clinical_caseMIR	SENT8	-	-
+7	sospecha	sospecha	NCFS000	C0750491	calificador	784-792	770_QUEST_clinical_caseMIR	SENT8	-	-
+8	y	y	CC	C1706368	calificador	793-794	770_QUEST_clinical_caseMIR	SENT8	-	-
+9	la	el	DA0FS0	-	-	795-797	770_QUEST_clinical_caseMIR	SENT8	-	-
+10	actitud	actitud	NCFS000	C0004271	entidad_observable	798-805	770_QUEST_clinical_caseMIR	SENT8	-	-
+11	terapéutica	terapéutico	AQ0FS0	-	-	806-817	770_QUEST_clinical_caseMIR	SENT8	-	-
+12	inicial	inicial	AQ0CS0	C0205265	calificador	818-825	770_QUEST_clinical_caseMIR	SENT8	-	-
+13	?	?	Fit	-	-	825-826	770_QUEST_clinical_caseMIR	SENT8	-	-
+14	:	:	Fd	-	-	826-827	770_QUEST_clinical_caseMIR	SENT8	-	-
+15	.	.	Fp	-	-	827-828	770_QUEST_clinical_caseMIR	SENT8	-	-
 

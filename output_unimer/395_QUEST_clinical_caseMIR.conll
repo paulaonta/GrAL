@@ -43,13 +43,15 @@
 22	intrauretral	intrauretral	AQ0CS00	-	-	222-234	395_QUEST_clinical_caseMIR	SENT2	-	-
 23	.	.	Fp	-	-	234-235	395_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	236-240	395_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	241-243	395_QUEST_clinical_caseMIR	SENT3	-	-
-3	los	el	DA0MP0	-	-	244-247	395_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	248-258	395_QUEST_clinical_caseMIR	SENT3	-	-
-5	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	259-271	395_QUEST_clinical_caseMIR	SENT3	-	-
-6	considera	considerar	VMIP3S0	-	-	272-281	395_QUEST_clinical_caseMIR	SENT3	-	-
-7	más	más	RG	C0205172	calificador	282-285	395_QUEST_clinical_caseMIR	SENT3	-	-
-8	adecuado	adecuar	VMP00SM	-	-	286-294	395_QUEST_clinical_caseMIR	SENT3	-	-
-9	.	.	Fp	-	-	294-295	395_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	236-237	395_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	237-241	395_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	242-244	395_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	245-248	395_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	249-259	395_QUEST_clinical_caseMIR	SENT3	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	260-272	395_QUEST_clinical_caseMIR	SENT3	-	-
+7	considera	considerar	VMIP3S0	-	-	273-282	395_QUEST_clinical_caseMIR	SENT3	-	-
+8	más	más	RG	C0205172	calificador	283-286	395_QUEST_clinical_caseMIR	SENT3	-	-
+9	adecuado	adecuar	VMP00SM	-	-	287-295	395_QUEST_clinical_caseMIR	SENT3	-	-
+10	?	?	Fit	-	-	295-296	395_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	296-297	395_QUEST_clinical_caseMIR	SENT3	-	-
 

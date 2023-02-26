@@ -1,0 +1,25 @@
+1	Enfermedad	enfermedad	NCFS000	C0019202_1	trastorno_1	0-10	716(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0019202_2	trastorno_2	11-13	716(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	Wilson	Wilson		C0019202_3	trastorno_3	14-20	716(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+4	.	.	Fp	-	-	20-21	716(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	22-31	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	hemocultivos	hemocultivos	NCMP000	-	-	32-44	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	,	,	Fc	-	-	44-45	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	pautar	pautar	VMN0000	-	-	46-52	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	53-64	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+6	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	65-76	716(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	empírico	empírico	AQ0MS0	-	-	77-85	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	86-87	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+9	dar	dolor_abdominal_recurrente	NC00YL0	-	-	88-91	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	92-94	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+11	alta	alto	AQ0FS0	C0205250	calificador	95-99	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+12	a	a	SPS00	-	-	100-101	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+13	domicilio	domicilio	NCMS000	C1442065	entidad_observable	102-111	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+14	tras	tras	SPS00	-	-	112-116	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+15	resolución	resolución	NCFS000	-	-	117-127	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332285	atributo	128-130	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+17	la	el	DA0FS0	-	-	131-133	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+18	fiebre	fiebre	NCFS000	C0015967	hallazgo	134-140	716(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	140-141	716(0)_ANS_clinical_caseMIR	SENT2	-	-
+

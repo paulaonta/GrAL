@@ -23,7 +23,7 @@
 23	.	.	Fp	-	-	130-131	421_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Antecedentes	antecedente	NCMP000	-	-	132-144	421_QUEST_clinical_caseMIR	SENT2	-	-
-2	.	.	Fp	-	-	144-145	421_QUEST_clinical_caseMIR	SENT2	-	-
+2	:	:	Fd	-	-	144-145	421_QUEST_clinical_caseMIR	SENT2	-	-
 3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	146-157	421_QUEST_clinical_caseMIR	SENT2	-	-
 4	prenatal	prenatal	AQ0CS0	C2828394	calificador	158-166	421_QUEST_clinical_caseMIR	SENT2	-	-
 5	de	de	SPS00	C0332285	atributo	167-169	421_QUEST_clinical_caseMIR	SENT2	-	-
@@ -54,12 +54,13 @@
 3	siguientes	siguiente	AQ0CP0	C0332282	atributo	298-308	421_QUEST_clinical_caseMIR	SENT4	-	-
 4	opciones	opción	NCFP000	-	-	309-317	421_QUEST_clinical_caseMIR	SENT4	-	-
 5	,	,	Fc	-	-	317-318	421_QUEST_clinical_caseMIR	SENT4	-	-
-6	.	.	Fp	-	-	319-320	421_QUEST_clinical_caseMIR	SENT4	-	-
-7	cuál	cuál	PT0CS000	-	-	321-325	421_QUEST_clinical_caseMIR	SENT4	-	-
-8	sería	ser	VSIC1S0	-	-	326-331	421_QUEST_clinical_caseMIR	SENT4	-	-
-9	la	el	DA0FS0	-	-	332-334	421_QUEST_clinical_caseMIR	SENT4	-	-
-10	indicación	indicación	NCFS000	-	-	335-345	421_QUEST_clinical_caseMIR	SENT4	-	-
-11	más	más	RG	C0205172	calificador	346-349	421_QUEST_clinical_caseMIR	SENT4	-	-
-12	recomendable	recomendable	AQ0CS0	-	-	350-362	421_QUEST_clinical_caseMIR	SENT4	-	-
-13	.	.	Fp	-	-	362-363	421_QUEST_clinical_caseMIR	SENT4	-	-
+6	¿	¿	Fia	-	-	319-320	421_QUEST_clinical_caseMIR	SENT4	-	-
+7	cuál	cuál	PT0CS000	-	-	320-324	421_QUEST_clinical_caseMIR	SENT4	-	-
+8	sería	ser	VSIC1S0	-	-	325-330	421_QUEST_clinical_caseMIR	SENT4	-	-
+9	la	el	DA0FS0	-	-	331-333	421_QUEST_clinical_caseMIR	SENT4	-	-
+10	indicación	indicación	NCFS000	-	-	334-344	421_QUEST_clinical_caseMIR	SENT4	-	-
+11	más	más	RG	C0205172	calificador	345-348	421_QUEST_clinical_caseMIR	SENT4	-	-
+12	recomendable	recomendable	AQ0CS0	-	-	349-361	421_QUEST_clinical_caseMIR	SENT4	-	-
+13	?	?	Fit	-	-	361-362	421_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	362-363	421_QUEST_clinical_caseMIR	SENT4	-	-
 

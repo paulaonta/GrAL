@@ -73,11 +73,14 @@
 11	evidentes	evidente	AQ0CP0	-	-	427-436	747_QUEST_clinical_caseMIR	SENT5	-	-
 12	.	.	Fp	-	-	436-437	747_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	438-442	747_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	443-445	747_QUEST_clinical_caseMIR	SENT6	-	-
-3	el	el	DA0MS0	-	-	446-448	747_QUEST_clinical_caseMIR	SENT6	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	449-460	747_QUEST_clinical_caseMIR	SENT6	-	-
-5	más	más	RG	C0205172	calificador	461-464	747_QUEST_clinical_caseMIR	SENT6	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	465-473	747_QUEST_clinical_caseMIR	SENT6	-	-
-7	.	.	Fp	-	-	473-474	747_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	438-439	747_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	439-443	747_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	444-446	747_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	447-449	747_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	450-461	747_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	462-465	747_QUEST_clinical_caseMIR	SENT6	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	466-474	747_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	474-475	747_QUEST_clinical_caseMIR	SENT6	-	-
+9	:	:	Fd	-	-	475-476	747_QUEST_clinical_caseMIR	SENT6	-	-
+10	.	.	Fp	-	-	476-477	747_QUEST_clinical_caseMIR	SENT6	-	-
 

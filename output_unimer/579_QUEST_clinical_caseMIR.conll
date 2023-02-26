@@ -65,15 +65,17 @@
 17	secundaria	secundario	AQ0FS0	C0175668	calificador	374-384	579_QUEST_clinical_caseMIR	SENT2	-	-
 18	.	.	Fp	-	-	384-385	579_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	386-389	579_QUEST_clinical_caseMIR	SENT3	-	-
-2	medicación	medicación	NCFS000	C0013227	sustancia	390-400	579_QUEST_clinical_caseMIR	SENT3	-	-
-3	pautaría	pautar	VMIC3S0	-	-	401-409	579_QUEST_clinical_caseMIR	SENT3	-	-
-4	para	para	SPS00	C0521125	calificador	410-414	579_QUEST_clinical_caseMIR	SENT3	-	-
-5	el	el	DA0MS0	-	-	415-417	579_QUEST_clinical_caseMIR	SENT3	-	-
-6	control	control	NCMS000	C2587213	atributo	418-425	579_QUEST_clinical_caseMIR	SENT3	-	-
-7	glicémico	glicémico	AQ0MS00	-	-	426-435	579_QUEST_clinical_caseMIR	SENT3	-	-
-8	durante	durante	SPS00	C1444752#C0347984	atributo	436-443	579_QUEST_clinical_caseMIR	SENT3	-	-
-9	su	su	DP3CS0	-	-	444-446	579_QUEST_clinical_caseMIR	SENT3	-	-
-10	hospitalización	hospitalización	NCFS000	-	-	447-462	579_QUEST_clinical_caseMIR	SENT3	-	-
-11	.	.	Fp	-	-	462-463	579_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	386-387	579_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	387-390	579_QUEST_clinical_caseMIR	SENT3	-	-
+3	medicación	medicación	NCFS000	C0013227	sustancia	391-401	579_QUEST_clinical_caseMIR	SENT3	-	-
+4	pautaría	pautar	VMIC3S0	-	-	402-410	579_QUEST_clinical_caseMIR	SENT3	-	-
+5	para	para	SPS00	C0521125	calificador	411-415	579_QUEST_clinical_caseMIR	SENT3	-	-
+6	el	el	DA0MS0	-	-	416-418	579_QUEST_clinical_caseMIR	SENT3	-	-
+7	control	control	NCMS000	C2587213	atributo	419-426	579_QUEST_clinical_caseMIR	SENT3	-	-
+8	glicémico	glicémico	AQ0MS00	-	-	427-436	579_QUEST_clinical_caseMIR	SENT3	-	-
+9	durante	durante	SPS00	C1444752#C0347984	atributo	437-444	579_QUEST_clinical_caseMIR	SENT3	-	-
+10	su	su	DP3CS0	-	-	445-447	579_QUEST_clinical_caseMIR	SENT3	-	-
+11	hospitalización	hospitalización	NCFS000	-	-	448-463	579_QUEST_clinical_caseMIR	SENT3	-	-
+12	?	?	Fit	-	-	463-464	579_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	464-465	579_QUEST_clinical_caseMIR	SENT3	-	-
 

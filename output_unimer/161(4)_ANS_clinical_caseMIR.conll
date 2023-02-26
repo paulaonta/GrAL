@@ -1,0 +1,52 @@
+1	El	el	DA0MS0	-	-	0-2	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	cuadro	cuadro	NCMS000	-	-	3-9	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	clínico	clínico	AQ0MS0	C0205210	calificador	10-17	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	podría	poder	VMIC3S0	-	-	18-24	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	corresponder	corresponder	VMN0000	-	-	25-37	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	38-39	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	40-43	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	hipertermia	hipertermia	NCFS000	C0024591_1	hallazgo_1	44-55	161(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+9	maligna	maligno	AQ0FS0	C0024591_2	hallazgo_2	56-63	161(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+10	y	y	CC	C1706368	calificador	64-65	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	es	ser	VSIP3S0	-	-	66-68	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	una	una		C0205447_1	calificador_1	69-72	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	urgencia	urgencia	NCFS000	C0439609	calificador	73-81	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	vital	vital	AQ0CS0	C0442732	calificador	82-87	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	87-88	161(4)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	89-91	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+2	deben	deber	VMIP3P0	-	-	92-97	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+3	descartar	descartar	VMN0000	C0332196	calificador	98-107	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+4	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	108-113	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+5	causas	causa	NCFP000	-	-	114-120	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	121-123	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+7	hipertermia	hipertermia	NCFS000	C0015967	hallazgo	124-135	161(4)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	,	,	Fc	-	-	135-136	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+9	suspender	suspender	VMN0000	-	-	137-146	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+10	el	el	DA0MS0	-	-	147-149	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+11	isoflurano	isoflurano	NC00SC0	C0022180	producto#sustancia	150-160	161(4)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+12	y	y	CC	C1706368	calificador	161-162	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+13	administrar	administrar	VMN0000	C1621583	calificador	163-174	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+14	oxígeno	oxígeno	NCMS000	C0030054	sustancia	175-182	161(4)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	al	al	SP+DA	-	-	183-185	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+16	100	100	Z	-	-	186-189	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+17	%	%	Ft	-	-	189-190	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+18	,	,	Fc	-	-	190-191	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+19	además	además	RG	C0332287_1	atributo_1	192-198	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+20	de	de	SPS00	C0332287_2	atributo_2	199-201	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+21	preparar	preparar	VMN0000	-	-	202-210	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+22	se	se	PP3CN000	-	-	210-212	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+23	para	para	SPS00	C0521125	calificador	213-217	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+24	la	el	DA0FS0	-	-	218-220	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+25	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	221-235	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+26	urgente	urgente	AQ0CS0	C0439609	calificador	236-243	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+27	de	de	SPS00	C0332285	atributo	244-246	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+28	dantroleno	dantroleno	NC00SC0	C0010977_1	sustancia_1	247-257	161(4)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+29	sódico	sódico	AQ0MS0	C0010977_2	sustancia_2	258-264	161(4)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+30	si	si	CS	-	-	265-267	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+31	se	se	P00CN000	-	-	268-270	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+32	confirma	confirmar	VMIP3S0	-	-	271-279	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+33	el	el	DA0MS0	-	-	280-282	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+34	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	283-294	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+35	.	.	Fp	-	-	294-295	161(4)_ANS_clinical_caseMIR	SENT2	-	-
+

@@ -102,7 +102,7 @@
 9	siguientes	siguiente	AQ0CP0	C0332282	atributo	592-602	97_QUEST_clinical_caseMIR	SENT7	-	-
 10	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	603-613	97_QUEST_clinical_caseMIR	SENT7	-	-
 11	patológicos	patológico	AQ0MP0	C1521733	calificador	614-625	97_QUEST_clinical_caseMIR	SENT7	-	-
-12	.	.	Fp	-	-	625-626	97_QUEST_clinical_caseMIR	SENT7	-	-
+12	:	:	Fd	-	-	625-626	97_QUEST_clinical_caseMIR	SENT7	-	-
 13	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	627-638	97_QUEST_clinical_caseMIR	SENT7	-	-
 14	total	total	NCMS000	C0201913_2	procedimiento_2	639-644	97_QUEST_clinical_caseMIR	SENT7	-	-
 15	3	3	Z	-	-	645-646	97_QUEST_clinical_caseMIR	SENT7	-	-
@@ -142,5 +142,6 @@
 16	presenta	presentar	VMIP3S0	-	-	837-845	97_QUEST_clinical_caseMIR	SENT8	-	-
 17	la	el	DA0FS0	-	-	846-848	97_QUEST_clinical_caseMIR	SENT8	-	-
 18	paciente	paciente	NCCS000	C0030705	persona	849-857	97_QUEST_clinical_caseMIR	SENT8	-	-
-19	.	.	Fp	-	-	857-858	97_QUEST_clinical_caseMIR	SENT8	-	-
+19	:	:	Fd	-	-	857-858	97_QUEST_clinical_caseMIR	SENT8	-	-
+20	.	.	Fp	-	-	858-859	97_QUEST_clinical_caseMIR	SENT8	-	-
 

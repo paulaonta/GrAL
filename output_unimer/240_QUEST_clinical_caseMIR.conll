@@ -20,40 +20,42 @@
 20	el	el	DA0MS0	-	-	110-112	240_QUEST_clinical_caseMIR	SENT1	-	-
 21	líquido	líquido	NCMS000	C0225778_1	sustancia_1	113-120	240_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
 22	pleural	pleural	NC00SC0	C0225778_2	sustancia_2	121-128	240_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-23	.	.	Fp	-	-	128-129	240_QUEST_clinical_caseMIR	SENT1	-	-
+23	:	:	Fd	-	-	128-129	240_QUEST_clinical_caseMIR	SENT1	-	-
+24	LDH	ldh	NC00SC0	C0022917	sustancia	130-133	240_QUEST_clinical_caseMIR	SENT1	-	-
+25	45	45		-	-	134-136	240_QUEST_clinical_caseMIR	SENT1	-	-
+26	U	o	CC	-	-	137-138	240_QUEST_clinical_caseMIR	SENT1	-	-
+27	/	/	Fh	-	-	138-139	240_QUEST_clinical_caseMIR	SENT1	-	-
+28	L	l	NCFS000	-	-	139-140	240_QUEST_clinical_caseMIR	SENT1	-	-
+29	(	(	Fpa	-	-	141-142	240_QUEST_clinical_caseMIR	SENT1	-	-
+30	sérica	sérico	AQ0FS0	-	-	142-148	240_QUEST_clinical_caseMIR	SENT1	-	-
+31	220	220		-	-	149-152	240_QUEST_clinical_caseMIR	SENT1	-	-
+32	U	o	CC	-	-	153-154	240_QUEST_clinical_caseMIR	SENT1	-	-
+33	/	/	Fh	-	-	154-155	240_QUEST_clinical_caseMIR	SENT1	-	-
+34	L	l	NCFS000	-	-	155-156	240_QUEST_clinical_caseMIR	SENT1	-	-
+35	)	)	Fpt	-	-	156-157	240_QUEST_clinical_caseMIR	SENT1	-	-
+36	,	,	Fc	-	-	157-158	240_QUEST_clinical_caseMIR	SENT1	-	-
+37	cociente	cociente	NCMS000	C0456603	calificador	159-167	240_QUEST_clinical_caseMIR	SENT1	-	-
+38	proteínas	proteína	NCFP000	C0033684	sustancia	168-177	240_QUEST_clinical_caseMIR	SENT1	-	-
+39	pleura	pleura	NCFS000	C1279036#C0449200#C0032225	estructura_corporal	178-184	240_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+40	/	/	Fh	-	-	184-185	240_QUEST_clinical_caseMIR	SENT1	-	-
+41	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	185-190	240_QUEST_clinical_caseMIR	SENT1	-	-
+42	0,3	0,3		-	-	191-194	240_QUEST_clinical_caseMIR	SENT1	-	-
+43	y	y	CC	C1706368	calificador	195-196	240_QUEST_clinical_caseMIR	SENT1	-	-
+44	cociente	cociente	NCMS000	C0456603	calificador	197-205	240_QUEST_clinical_caseMIR	SENT1	-	-
+45	LDH	ldh	NC00SC0	C0022917	sustancia	206-209	240_QUEST_clinical_caseMIR	SENT1	-	-
+46	pleura	pleura	NCFS000	C1279036#C0449200#C0032225	estructura_corporal	210-216	240_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+47	/	/	Fh	-	-	216-217	240_QUEST_clinical_caseMIR	SENT1	-	-
+48	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	217-222	240_QUEST_clinical_caseMIR	SENT1	-	-
+49	0,2	0,2		-	-	223-226	240_QUEST_clinical_caseMIR	SENT1	-	-
+50	.	.	Fp	-	-	226-227	240_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	LDH	ldh	NC00SC0	C0022917	sustancia	130-133	240_QUEST_clinical_caseMIR	SENT2	-	-
-2	45	45		-	-	134-136	240_QUEST_clinical_caseMIR	SENT2	-	-
-3	U	o	CC	-	-	137-138	240_QUEST_clinical_caseMIR	SENT2	-	-
-4	/	/	Fh	-	-	138-139	240_QUEST_clinical_caseMIR	SENT2	-	-
-5	L	l	NCFS000	-	-	139-140	240_QUEST_clinical_caseMIR	SENT2	-	-
-6	(	(	Fpa	-	-	141-142	240_QUEST_clinical_caseMIR	SENT2	-	-
-7	sérica	sérico	AQ0FS0	-	-	142-148	240_QUEST_clinical_caseMIR	SENT2	-	-
-8	220	220		-	-	149-152	240_QUEST_clinical_caseMIR	SENT2	-	-
-9	U	o	CC	-	-	153-154	240_QUEST_clinical_caseMIR	SENT2	-	-
-10	/	/	Fh	-	-	154-155	240_QUEST_clinical_caseMIR	SENT2	-	-
-11	L	l	NCFS000	-	-	155-156	240_QUEST_clinical_caseMIR	SENT2	-	-
-12	)	)	Fpt	-	-	156-157	240_QUEST_clinical_caseMIR	SENT2	-	-
-13	,	,	Fc	-	-	157-158	240_QUEST_clinical_caseMIR	SENT2	-	-
-14	cociente	cociente	NCMS000	C0456603	calificador	159-167	240_QUEST_clinical_caseMIR	SENT2	-	-
-15	proteínas	proteína	NCFP000	C0033684	sustancia	168-177	240_QUEST_clinical_caseMIR	SENT2	-	-
-16	pleura	pleura	NCFS000	C1279036#C0449200#C0032225	estructura_corporal	178-184	240_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
-17	/	/	Fh	-	-	184-185	240_QUEST_clinical_caseMIR	SENT2	-	-
-18	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	185-190	240_QUEST_clinical_caseMIR	SENT2	-	-
-19	0,3	0,3		-	-	191-194	240_QUEST_clinical_caseMIR	SENT2	-	-
-20	y	y	CC	C1706368	calificador	195-196	240_QUEST_clinical_caseMIR	SENT2	-	-
-21	cociente	cociente	NCMS000	C0456603	calificador	197-205	240_QUEST_clinical_caseMIR	SENT2	-	-
-22	LDH	ldh	NC00SC0	C0022917	sustancia	206-209	240_QUEST_clinical_caseMIR	SENT2	-	-
-23	pleura	pleura	NCFS000	C1279036#C0449200#C0032225	estructura_corporal	210-216	240_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
-24	/	/	Fh	-	-	216-217	240_QUEST_clinical_caseMIR	SENT2	-	-
-25	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	217-222	240_QUEST_clinical_caseMIR	SENT2	-	-
-26	0,2	0,2		-	-	223-226	240_QUEST_clinical_caseMIR	SENT2	-	-
-27	.	.	Fp	-	-	226-227	240_QUEST_clinical_caseMIR	SENT2	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	228-232	240_QUEST_clinical_caseMIR	SENT3	-	-
-2	sería	ser	VSIC1S0	-	-	233-238	240_QUEST_clinical_caseMIR	SENT3	-	-
-3	la	el	DA0FS0	-	-	239-241	240_QUEST_clinical_caseMIR	SENT3	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	242-249	240_QUEST_clinical_caseMIR	SENT3	-	-
-5	adecuada	adecuar	VMP00SF	-	-	250-258	240_QUEST_clinical_caseMIR	SENT3	-	-
-6	.	.	Fp	-	-	258-259	240_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	228-229	240_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	229-233	240_QUEST_clinical_caseMIR	SENT2	-	-
+3	sería	ser	VSIC1S0	-	-	234-239	240_QUEST_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	240-242	240_QUEST_clinical_caseMIR	SENT2	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	243-250	240_QUEST_clinical_caseMIR	SENT2	-	-
+6	adecuada	adecuar	VMP00SF	-	-	251-259	240_QUEST_clinical_caseMIR	SENT2	-	-
+7	?	?	Fit	-	-	259-260	240_QUEST_clinical_caseMIR	SENT2	-	-
+8	:	:	Fd	-	-	260-261	240_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	261-262	240_QUEST_clinical_caseMIR	SENT2	-	-
 

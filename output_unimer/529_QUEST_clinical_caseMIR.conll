@@ -43,12 +43,14 @@
 15	normal	normal	AQ0CS0	C0205307	calificador	236-242	529_QUEST_clinical_caseMIR	SENT2	-	-
 16	.	.	Fp	-	-	242-243	529_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	244-247	529_QUEST_clinical_caseMIR	SENT3	-	-
-2	tipo	tipo	NCMS000	C0449499_1	atributo_1	248-252	529_QUEST_clinical_caseMIR	SENT3	-	-
-3	de	de	SPS00	C0449499_2	atributo_2	253-255	529_QUEST_clinical_caseMIR	SENT3	-	-
-4	lesión	lesión	NCFS000	C0449499_3	atributo_3	256-262	529_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
-5	presenta	presentar	VMIP3S0	-	-	263-271	529_QUEST_clinical_caseMIR	SENT3	-	-
-6	el	el	DA0MS0	-	-	272-274	529_QUEST_clinical_caseMIR	SENT3	-	-
-7	paciente	paciente	NCCS000	C0030705	persona	275-283	529_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	283-284	529_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	244-245	529_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	245-248	529_QUEST_clinical_caseMIR	SENT3	-	-
+3	tipo	tipo	NCMS000	C0449499_1	atributo_1	249-253	529_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0449499_2	atributo_2	254-256	529_QUEST_clinical_caseMIR	SENT3	-	-
+5	lesión	lesión	NCFS000	C0449499_3	atributo_3	257-263	529_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	presenta	presentar	VMIP3S0	-	-	264-272	529_QUEST_clinical_caseMIR	SENT3	-	-
+7	el	el	DA0MS0	-	-	273-275	529_QUEST_clinical_caseMIR	SENT3	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	276-284	529_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	284-285	529_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	285-286	529_QUEST_clinical_caseMIR	SENT3	-	-
 

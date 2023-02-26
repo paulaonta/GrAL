@@ -1,0 +1,18 @@
+1	Remitiremos	remitir	VMIF1P0	C0439600	calificador	0-11	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	12-13	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	radiología	radiología	NCFS000	-	-	14-24	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	para	para	SPS00	C0521125	calificador	25-29	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	realizar	realizar	VMN0000	-	-	30-38	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	39-46	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	47-49	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	50-62	41(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	63-73	41(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+10	(	(	Fpa	-	-	74-75	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	pies	pie	NCMP000	C1281587#C0347981#C0016504	estructura_corporal#calificador	75-79	41(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	,	,	Fc	-	-	79-80	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	fémures	fémur	NCMP000	C0015811#C1279112	estructura_corporal	81-88	41(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	89-90	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	pelvis	pelvis	NCFN000	C1279864#C0449203#C0030797	estructura_corporal	91-97	41(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	)	)	Fpt	-	-	97-98	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	98-99	41(1)_ANS_clinical_caseMIR	SENT1	-	-
+

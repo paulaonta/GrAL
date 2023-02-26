@@ -1,0 +1,21 @@
+1	El	el	DA0MS0	-	-	0-2	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	tipo	tipo	NCMS000	C0332307	calificador#atributo	3-7	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	dolor	dolor	NCMS000	C0030193	hallazgo	11-16	430(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	17-19	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	raquis	raquis	NCMN000	C1267072	estructura_corporal	20-26	430(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	orienta	orientar	VMIP3S0	-	-	27-34	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	35-37	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	38-49	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	50-51	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	hernia	herniar	VMM02S0	C0678212_1	trastorno_1	52-58	430(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	discal	discal	AQ0CS0	C0678212_2	trastorno_2	59-65	430(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	65-66	430(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Derivo	derivo	NCMS000	-	-	67-73	430(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	al	al	SP+DA	-	-	74-76	430(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	77-85	430(2)_ANS_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	-	-	86-87	430(2)_ANS_clinical_caseMIR	SENT2	-	-
+5	Neurocirugía	neurocirugía	NCFS000	C0027926	calificador	88-100	430(2)_ANS_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	100-101	430(2)_ANS_clinical_caseMIR	SENT2	-	-
+

@@ -19,15 +19,18 @@
 19	conciencia	conciencia	NCFS000	C0234421#C1443086	-	95-105	13_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
 20	.	.	Fp	-	-	105-106	13_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	107-111	13_QUEST_clinical_caseMIR	SENT2	-	-
-2	entre	entre	SPS00	C0205103	calificador	112-117	13_QUEST_clinical_caseMIR	SENT2	-	-
-3	los	el	DA0MP0	-	-	118-121	13_QUEST_clinical_caseMIR	SENT2	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	122-132	13_QUEST_clinical_caseMIR	SENT2	-	-
-5	,	,	Fc	-	-	132-133	13_QUEST_clinical_caseMIR	SENT2	-	-
-6	tiene	tener	VMIP3S0	-	-	134-139	13_QUEST_clinical_caseMIR	SENT2	-	-
-7	un	un		C0205447_1	calificador_1	140-142	13_QUEST_clinical_caseMIR	SENT2	-	-
-8	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	143-148	13_QUEST_clinical_caseMIR	SENT2	-	-
-9	rendimiento	rendimiento	NCMS000	-	-	149-160	13_QUEST_clinical_caseMIR	SENT2	-	-
-10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	161-172	13_QUEST_clinical_caseMIR	SENT2	-	-
-11	.	.	Fp	-	-	172-173	13_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	107-108	13_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	108-112	13_QUEST_clinical_caseMIR	SENT2	-	-
+3	entre	entre	SPS00	C0205103	calificador	113-118	13_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	119-122	13_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	123-133	13_QUEST_clinical_caseMIR	SENT2	-	-
+6	,	,	Fc	-	-	133-134	13_QUEST_clinical_caseMIR	SENT2	-	-
+7	tiene	tener	VMIP3S0	-	-	135-140	13_QUEST_clinical_caseMIR	SENT2	-	-
+8	un	un		C0205447_1	calificador_1	141-143	13_QUEST_clinical_caseMIR	SENT2	-	-
+9	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	144-149	13_QUEST_clinical_caseMIR	SENT2	-	-
+10	rendimiento	rendimiento	NCMS000	-	-	150-161	13_QUEST_clinical_caseMIR	SENT2	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	162-173	13_QUEST_clinical_caseMIR	SENT2	-	-
+12	?	?	Fit	-	-	173-174	13_QUEST_clinical_caseMIR	SENT2	-	-
+13	:	:	Fd	-	-	174-175	13_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	175-176	13_QUEST_clinical_caseMIR	SENT2	-	-
 

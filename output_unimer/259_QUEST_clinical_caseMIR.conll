@@ -94,12 +94,15 @@
 29	diseminadas	diseminar	VMP00PF	-	-	466-477	259_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
 30	.	.	Fp	-	-	477-478	259_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	479-483	259_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	484-486	259_QUEST_clinical_caseMIR	SENT4	-	-
-3	el	el	DA0MS0	-	-	487-489	259_QUEST_clinical_caseMIR	SENT4	-	-
-4	primer	1	AO0MS0	-	-	490-496	259_QUEST_clinical_caseMIR	SENT4	-	-
-5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	497-508	259_QUEST_clinical_caseMIR	SENT4	-	-
-6	de	de	SPS00	C0332285	atributo	509-511	259_QUEST_clinical_caseMIR	SENT4	-	-
-7	elección	elección	NCFS000	-	-	512-520	259_QUEST_clinical_caseMIR	SENT4	-	-
-8	.	.	Fp	-	-	520-521	259_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	479-480	259_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	480-484	259_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	485-487	259_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	488-490	259_QUEST_clinical_caseMIR	SENT4	-	-
+5	primer	1	AO0MS0	-	-	491-497	259_QUEST_clinical_caseMIR	SENT4	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	498-509	259_QUEST_clinical_caseMIR	SENT4	-	-
+7	de	de	SPS00	C0332285	atributo	510-512	259_QUEST_clinical_caseMIR	SENT4	-	-
+8	elección	elección	NCFS000	-	-	513-521	259_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	521-522	259_QUEST_clinical_caseMIR	SENT4	-	-
+10	:	:	Fd	-	-	522-523	259_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	523-524	259_QUEST_clinical_caseMIR	SENT4	-	-
 

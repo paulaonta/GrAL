@@ -53,12 +53,15 @@
 30	cálcico	cálcico	AQ0MS0	-	-	304-311	666_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
 31	.	.	Fp	-	-	311-312	666_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	313-317	666_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	318-320	666_QUEST_clinical_caseMIR	SENT4	-	-
-3	el	el	DA0MS0	-	-	321-323	666_QUEST_clinical_caseMIR	SENT4	-	-
-4	objetivo	objetivo	NCMS000	C1571702	calificador	324-332	666_QUEST_clinical_caseMIR	SENT4	-	-
-5	de	de	SPS00	C0332285	atributo	333-335	666_QUEST_clinical_caseMIR	SENT4	-	-
-6	este	este	DD0MS0	-	-	336-340	666_QUEST_clinical_caseMIR	SENT4	-	-
-7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	341-352	666_QUEST_clinical_caseMIR	SENT4	-	-
-8	.	.	Fp	-	-	352-353	666_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	313-314	666_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	314-318	666_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	319-321	666_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	322-324	666_QUEST_clinical_caseMIR	SENT4	-	-
+5	objetivo	objetivo	NCMS000	C1571702	calificador	325-333	666_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	334-336	666_QUEST_clinical_caseMIR	SENT4	-	-
+7	este	este	DD0MS0	-	-	337-341	666_QUEST_clinical_caseMIR	SENT4	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	342-353	666_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	353-354	666_QUEST_clinical_caseMIR	SENT4	-	-
+10	:	:	Fd	-	-	354-355	666_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	355-356	666_QUEST_clinical_caseMIR	SENT4	-	-
 

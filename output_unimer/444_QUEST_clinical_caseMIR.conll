@@ -70,14 +70,16 @@
 17	controlado	controlar	VMP00SM	-	-	382-392	444_QUEST_clinical_caseMIR	SENT4	-	-
 18	.	.	Fp	-	-	392-393	444_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	394-398	444_QUEST_clinical_caseMIR	SENT5	-	-
-2	considera	considerar	VMIP3S0	-	-	399-408	444_QUEST_clinical_caseMIR	SENT5	-	-
-3	que	que	CS	-	-	409-412	444_QUEST_clinical_caseMIR	SENT5	-	-
-4	es	ser	VSIP3S0	-	-	413-415	444_QUEST_clinical_caseMIR	SENT5	-	-
-5	la	el	DA0FS0	-	-	416-418	444_QUEST_clinical_caseMIR	SENT5	-	-
-6	actitud	actitud	NCFS000	C0004271	entidad_observable	419-426	444_QUEST_clinical_caseMIR	SENT5	-	-
-7	terapéutica	terapéutico	AQ0FS0	-	-	427-438	444_QUEST_clinical_caseMIR	SENT5	-	-
-8	más	más	RG	C0205172	calificador	439-442	444_QUEST_clinical_caseMIR	SENT5	-	-
-9	adecuada	adecuar	VMP00SF	-	-	443-451	444_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	451-452	444_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	394-395	444_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	395-399	444_QUEST_clinical_caseMIR	SENT5	-	-
+3	considera	considerar	VMIP3S0	-	-	400-409	444_QUEST_clinical_caseMIR	SENT5	-	-
+4	que	que	CS	-	-	410-413	444_QUEST_clinical_caseMIR	SENT5	-	-
+5	es	ser	VSIP3S0	-	-	414-416	444_QUEST_clinical_caseMIR	SENT5	-	-
+6	la	el	DA0FS0	-	-	417-419	444_QUEST_clinical_caseMIR	SENT5	-	-
+7	actitud	actitud	NCFS000	C0004271	entidad_observable	420-427	444_QUEST_clinical_caseMIR	SENT5	-	-
+8	terapéutica	terapéutico	AQ0FS0	-	-	428-439	444_QUEST_clinical_caseMIR	SENT5	-	-
+9	más	más	RG	C0205172	calificador	440-443	444_QUEST_clinical_caseMIR	SENT5	-	-
+10	adecuada	adecuar	VMP00SF	-	-	444-452	444_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	452-453	444_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	453-454	444_QUEST_clinical_caseMIR	SENT5	-	-
 

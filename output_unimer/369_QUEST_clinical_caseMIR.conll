@@ -37,22 +37,24 @@
 15	madre	madre	NCFS000	C0026591	persona	188-193	369_QUEST_clinical_caseMIR	SENT2	-	-
 16	.	.	Fp	-	-	193-194	369_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	195-199	369_QUEST_clinical_caseMIR	SENT3	-	-
-2	sería	ser	VSIC1S0	-	-	200-205	369_QUEST_clinical_caseMIR	SENT3	-	-
-3	el	el	DA0MS0	-	-	206-208	369_QUEST_clinical_caseMIR	SENT3	-	-
-4	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	209-215	369_QUEST_clinical_caseMIR	SENT3	-	-
-5	de	de	SPS00	C0035647_2	calificador_2	216-218	369_QUEST_clinical_caseMIR	SENT3	-	-
-6	recurrencia	recurrencia	NCFS000	C0034897	calificador	219-230	369_QUEST_clinical_caseMIR	SENT3	-	-
-7	de	de	SPS00	C0332285	atributo	231-233	369_QUEST_clinical_caseMIR	SENT3	-	-
-8	síndrome	síndrome	NCMS000	C0013080_1	trastorno_1	234-242	369_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
-9	de	de	SPS00	C0013080_2	trastorno_2	243-245	369_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
-10	Down	Down		C0013080_3	trastorno_3	246-250	369_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
-11	en	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	369_QUEST_clinical_caseMIR	SENT3	-	-
-12	los	el	DA0MP0	-	-	254-257	369_QUEST_clinical_caseMIR	SENT3	-	-
-13	futuros	futuro	AQ0MP0	-	-	258-265	369_QUEST_clinical_caseMIR	SENT3	-	-
-14	hijos	hijo	NCMP000	-	-	266-271	369_QUEST_clinical_caseMIR	SENT3	-	-
-15	de	de	SPS00	C0332285	atributo	272-274	369_QUEST_clinical_caseMIR	SENT3	-	-
-16	esta	este	DD0FS0	-	-	275-279	369_QUEST_clinical_caseMIR	SENT3	-	-
-17	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	280-285	369_QUEST_clinical_caseMIR	SENT3	-	-
-18	.	.	Fp	-	-	285-286	369_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	195-196	369_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	196-200	369_QUEST_clinical_caseMIR	SENT3	-	-
+3	sería	ser	VSIC1S0	-	-	201-206	369_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	207-209	369_QUEST_clinical_caseMIR	SENT3	-	-
+5	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	210-216	369_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0035647_2	calificador_2	217-219	369_QUEST_clinical_caseMIR	SENT3	-	-
+7	recurrencia	recurrencia	NCFS000	C0034897	calificador	220-231	369_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	232-234	369_QUEST_clinical_caseMIR	SENT3	-	-
+9	síndrome	síndrome	NCMS000	C0013080_1	trastorno_1	235-243	369_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0013080_2	trastorno_2	244-246	369_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+11	Down	Down		C0013080_3	trastorno_3	247-251	369_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	252-254	369_QUEST_clinical_caseMIR	SENT3	-	-
+13	los	el	DA0MP0	-	-	255-258	369_QUEST_clinical_caseMIR	SENT3	-	-
+14	futuros	futuro	AQ0MP0	-	-	259-266	369_QUEST_clinical_caseMIR	SENT3	-	-
+15	hijos	hijo	NCMP000	-	-	267-272	369_QUEST_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	273-275	369_QUEST_clinical_caseMIR	SENT3	-	-
+17	esta	este	DD0FS0	-	-	276-280	369_QUEST_clinical_caseMIR	SENT3	-	-
+18	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	281-286	369_QUEST_clinical_caseMIR	SENT3	-	-
+19	?	?	Fit	-	-	286-287	369_QUEST_clinical_caseMIR	SENT3	-	-
+20	.	.	Fp	-	-	287-288	369_QUEST_clinical_caseMIR	SENT3	-	-
 

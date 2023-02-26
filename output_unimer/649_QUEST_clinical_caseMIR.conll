@@ -45,14 +45,16 @@
 11	lpm	lpm	NC00YL0	-	-	253-256	649_QUEST_clinical_caseMIR	SENT4	-	-
 12	.	.	Fp	-	-	256-257	649_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	258-262	649_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	263-265	649_QUEST_clinical_caseMIR	SENT5	-	-
-3	el	el	DA0MS0	-	-	266-268	649_QUEST_clinical_caseMIR	SENT5	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	269-280	649_QUEST_clinical_caseMIR	SENT5	-	-
-5	más	más	RG	C0205172	calificador	281-284	649_QUEST_clinical_caseMIR	SENT5	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	285-293	649_QUEST_clinical_caseMIR	SENT5	-	-
-7	de	de	SPS00	C0332285	atributo	294-296	649_QUEST_clinical_caseMIR	SENT5	-	-
-8	esta	este	DD0FS0	-	-	297-301	649_QUEST_clinical_caseMIR	SENT5	-	-
-9	gestante	gestante	NCFS000	-	-	302-310	649_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	310-311	649_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	258-259	649_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	259-263	649_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	264-266	649_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	267-269	649_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	270-281	649_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	282-285	649_QUEST_clinical_caseMIR	SENT5	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	286-294	649_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	295-297	649_QUEST_clinical_caseMIR	SENT5	-	-
+9	esta	este	DD0FS0	-	-	298-302	649_QUEST_clinical_caseMIR	SENT5	-	-
+10	gestante	gestante	NCFS000	-	-	303-311	649_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	311-312	649_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	312-313	649_QUEST_clinical_caseMIR	SENT5	-	-
 

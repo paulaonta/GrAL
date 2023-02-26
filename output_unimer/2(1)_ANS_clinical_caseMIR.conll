@@ -1,0 +1,25 @@
+1	Retirar	retirar	VMN0000	-	-	0-7	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	endoscopio	endoscopio	NCMS000	C0014243	objeto_físico	8-18	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	,	,	Fc	-	-	18-19	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	colocar	colocar	VMN0000	-	-	20-27	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	sonda	sondar	VMM02S0	C0085678_1	objeto_físico_1	28-33	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	nasogástrica	nasogástrica		C0085678_2	objeto_físico_2	34-46	2(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	para	para	SPS00	C0521125	calificador	47-51	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	52-62	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	continua	continuo	AQ0FS0	C0205322#C0549178	calificador	63-71	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	e	y	CC	C1706368	calificador	72-73	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	iniciar	iniciar	VMN0000	-	-	74-81	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	82-93	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	94-97	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	98-100	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	inhibidor	inhibidor	NCMS000	C0358591_1	producto#sustancia_1	101-110	2(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+16	de	de	SPS00	C0358591_2	producto#sustancia_2	111-113	2(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+17	la	lo	PP3FSA00	C0358591_3	producto#sustancia_3	114-116	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	bomba	bombo	AQ0FS0	C0358591_4	producto#sustancia_4	117-122	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0358591_5	producto#sustancia_5	123-125	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	protones	protón	NCMP000	C0358591_6	producto#sustancia_6	126-134	2(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	y	y	CC	C1706368	calificador	135-136	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	con	con	SPS00	C0332287	atributo	137-140	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	somatostatina	somatostatina	NCFS000	C0037659	sustancia	141-154	2(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+24	.	.	Fp	-	-	154-155	2(1)_ANS_clinical_caseMIR	SENT1	-	-
+

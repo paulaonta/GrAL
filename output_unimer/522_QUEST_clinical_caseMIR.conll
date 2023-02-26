@@ -15,15 +15,17 @@
 15	vida	vida	NCFS000	-	-	76-80	522_QUEST_clinical_caseMIR	SENT1	-	-
 16	.	.	Fp	-	-	80-81	522_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	82-86	522_QUEST_clinical_caseMIR	SENT2	-	-
-2	de	de	SPS00	C0332285	atributo	87-89	522_QUEST_clinical_caseMIR	SENT2	-	-
-3	los	el	DA0MP0	-	-	90-93	522_QUEST_clinical_caseMIR	SENT2	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	94-104	522_QUEST_clinical_caseMIR	SENT2	-	-
-5	tumores	tumor	NCMP000	C0027651	anomalía_morfológica	105-112	522_QUEST_clinical_caseMIR	SENT2	-	-
-6	es	ser	VSIP3S0	-	-	113-115	522_QUEST_clinical_caseMIR	SENT2	-	-
-7	más	más	RG	C0205172	calificador	116-119	522_QUEST_clinical_caseMIR	SENT2	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	120-128	522_QUEST_clinical_caseMIR	SENT2	-	-
-9	que	que	CS	-	-	129-132	522_QUEST_clinical_caseMIR	SENT2	-	-
-10	presente	presentar	VMSP3S0	-	-	133-141	522_QUEST_clinical_caseMIR	SENT2	-	-
-11	.	.	Fp	-	-	141-142	522_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	82-83	522_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	83-87	522_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	88-90	522_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	91-94	522_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	95-105	522_QUEST_clinical_caseMIR	SENT2	-	-
+6	tumores	tumor	NCMP000	C0027651	anomalía_morfológica	106-113	522_QUEST_clinical_caseMIR	SENT2	-	-
+7	es	ser	VSIP3S0	-	-	114-116	522_QUEST_clinical_caseMIR	SENT2	-	-
+8	más	más	RG	C0205172	calificador	117-120	522_QUEST_clinical_caseMIR	SENT2	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	121-129	522_QUEST_clinical_caseMIR	SENT2	-	-
+10	que	que	CS	-	-	130-133	522_QUEST_clinical_caseMIR	SENT2	-	-
+11	presente	presentar	VMSP3S0	-	-	134-142	522_QUEST_clinical_caseMIR	SENT2	-	-
+12	?	?	Fit	-	-	142-143	522_QUEST_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	143-144	522_QUEST_clinical_caseMIR	SENT2	-	-
 

@@ -1,0 +1,11 @@
+1	Suspender	suspender	VMN0000	-	-	0-9	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	lo	el	DA0NS0	-	-	10-12	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	antes	antes	RG	C0332152	atributo	13-18	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	posible	posible	AQ0CS0	C0332149#C2362652	calificador	19-26	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	el	el	DA0MS0	-	-	27-29	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	30-41	487(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	inmunosupresor	inmunosupresor	AQ0MS0	C0021081	producto#sustancia	42-56	487(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	con	con	SPS00	C0332287	atributo	57-60	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	tacrolimus	tacrolimus	NC00SC0	C0085149	producto#sustancia	61-71	487(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	71-72	487(0)_ANS_clinical_caseMIR	SENT1	-	-
+

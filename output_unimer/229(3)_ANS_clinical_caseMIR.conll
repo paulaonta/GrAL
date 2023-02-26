@@ -1,0 +1,18 @@
+1	Se	se	P00CN000	-	-	0-2	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	mononucleosis	mononucleosis	NCFN000	C0021345_1	trastorno_1	16-29	229(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	infecciosa	infeccioso	AQ0FS0	C0021345_2	trastorno_2	30-40	229(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	de	de	SPS00	C0332285	atributo	41-43	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	curso	curso	NCMS000	C0750729	atributo#calificador	44-49	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	grave	grave	AQ0CS0	C0439808#C0205082	calificador	50-55	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	56-57	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	se	se	P00CN000	-	-	58-60	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	debe	deber	VMIP3S0	-	-	61-65	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	iniciar	iniciar	VMN0000	-	-	66-73	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	74-85	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	86-89	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	aciclovir	aciclovir	NC00SC0	C0001367	sustancia	90-99	229(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+17	.	.	Fp	-	-	99-100	229(3)_ANS_clinical_caseMIR	SENT1	-	-
+

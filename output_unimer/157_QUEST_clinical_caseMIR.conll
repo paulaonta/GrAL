@@ -70,17 +70,20 @@
 15	cardiaco-ventilación	cardiaco-ventilación	NCFS000	-	-	378-398	157_QUEST_clinical_caseMIR	SENT3	-	-
 16	.	.	Fp	-	-	398-399	157_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuándo	cuándo	PT000000	-	-	400-406	157_QUEST_clinical_caseMIR	SENT4	-	-
-2	considera	considerar	VMIP3S0	-	-	407-416	157_QUEST_clinical_caseMIR	SENT4	-	-
-3	que	que	CS	-	-	417-420	157_QUEST_clinical_caseMIR	SENT4	-	-
-4	está	estar	VAIP3S0	-	-	421-425	157_QUEST_clinical_caseMIR	SENT4	-	-
-5	indicada	indicar	VMP00SF	-	-	426-434	157_QUEST_clinical_caseMIR	SENT4	-	-
-6	la	el	DA0FS0	-	-	435-437	157_QUEST_clinical_caseMIR	SENT4	-	-
-7	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	438-452	157_QUEST_clinical_caseMIR	SENT4	-	-
-8	de	de	SPS00	C0332285	atributo	453-455	157_QUEST_clinical_caseMIR	SENT4	-	-
-9	Amiodarona	amiodarona	NC00SC0	C0002598	producto#sustancia	456-466	157_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
-10	en	en	SPS00	C1720294#C0332285	calificador#atributo	467-469	157_QUEST_clinical_caseMIR	SENT4	-	-
-11	este	este	DD0MS0	-	-	470-474	157_QUEST_clinical_caseMIR	SENT4	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	475-483	157_QUEST_clinical_caseMIR	SENT4	-	-
-13	.	.	Fp	-	-	483-484	157_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	400-401	157_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuándo	cuándo	PT000000	-	-	401-407	157_QUEST_clinical_caseMIR	SENT4	-	-
+3	considera	considerar	VMIP3S0	-	-	408-417	157_QUEST_clinical_caseMIR	SENT4	-	-
+4	que	que	CS	-	-	418-421	157_QUEST_clinical_caseMIR	SENT4	-	-
+5	está	estar	VAIP3S0	-	-	422-426	157_QUEST_clinical_caseMIR	SENT4	-	-
+6	indicada	indicar	VMP00SF	-	-	427-435	157_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	436-438	157_QUEST_clinical_caseMIR	SENT4	-	-
+8	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	439-453	157_QUEST_clinical_caseMIR	SENT4	-	-
+9	de	de	SPS00	C0332285	atributo	454-456	157_QUEST_clinical_caseMIR	SENT4	-	-
+10	Amiodarona	amiodarona	NC00SC0	C0002598	producto#sustancia	457-467	157_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	468-470	157_QUEST_clinical_caseMIR	SENT4	-	-
+12	este	este	DD0MS0	-	-	471-475	157_QUEST_clinical_caseMIR	SENT4	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	476-484	157_QUEST_clinical_caseMIR	SENT4	-	-
+14	?	?	Fit	-	-	484-485	157_QUEST_clinical_caseMIR	SENT4	-	-
+15	:	:	Fd	-	-	485-486	157_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	486-487	157_QUEST_clinical_caseMIR	SENT4	-	-
 

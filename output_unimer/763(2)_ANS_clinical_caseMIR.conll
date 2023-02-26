@@ -1,0 +1,20 @@
+1	Añadir	añadir	VMN0000	-	-	0-6	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	digoxina	digoxina	NC00SC0	C0012265	sustancia	7-15	763(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	y	y	CC	C1706368	calificador	16-17	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	diuréticos	diurético	NCMP000	C0012798	sustancia	18-28	763(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	29-31	763(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	asa	asa	NCFS000	C0445022	calificador	32-35	763(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	36-37	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	esperar	esperar	VMN0000	-	-	38-45	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	6	6		-	-	49-50	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	meses	mes	NCMP000	C0439231	calificador	51-56	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	57-59	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	mejoría	mejoría	NCFS000	-	-	60-67	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	68-70	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	la	el	DA0FS0	-	-	71-73	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	fracción	fracción	NCFS000	C1264633_1	calificador_1	74-82	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C1264633_2	calificador_2	83-85	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	eyección	eyección	NCFS000	C0336969	calificador	86-94	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	94-95	763(2)_ANS_clinical_caseMIR	SENT1	-	-
+

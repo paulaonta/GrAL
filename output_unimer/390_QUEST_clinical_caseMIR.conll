@@ -39,11 +39,13 @@
 27	)	)	Fpt	-	-	212-213	390_QUEST_clinical_caseMIR	SENT2	-	-
 28	.	.	Fp	-	-	213-214	390_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	215-219	390_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	220-222	390_QUEST_clinical_caseMIR	SENT3	-	-
-3	el	el	DA0MS0	-	-	223-225	390_QUEST_clinical_caseMIR	SENT3	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	226-237	390_QUEST_clinical_caseMIR	SENT3	-	-
-5	más	más	RG	C0205172	calificador	238-241	390_QUEST_clinical_caseMIR	SENT3	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	242-250	390_QUEST_clinical_caseMIR	SENT3	-	-
-7	.	.	Fp	-	-	250-251	390_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	215-216	390_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	216-220	390_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	221-223	390_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	224-226	390_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	227-238	390_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	239-242	390_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	243-251	390_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	251-252	390_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	252-253	390_QUEST_clinical_caseMIR	SENT3	-	-
 

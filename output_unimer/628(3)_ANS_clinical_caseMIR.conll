@@ -1,0 +1,12 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	2	2		-	-	10-11	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	hemocultivos	hemocultivos	NCMP000	-	-	12-24	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	e	y	CC	C1706368	calificador	25-26	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	iniciar	iniciar	VMN0000	-	-	27-34	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	35-46	628(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	antimicrobiano	antimicrobiano	AQ0MS0	-	-	47-61	628(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	con	con	SPS00	C0332287	atributo	62-65	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	ceflazidima	ceflazidima	NCFS000	-	-	66-77	628(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	78-89	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	89-90	628(3)_ANS_clinical_caseMIR	SENT1	-	-
+

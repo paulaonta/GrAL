@@ -1,0 +1,16 @@
+1	El	el	DA0MS0	-	-	0-2	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	PTI	pti	NC00YL0	C0398650_1	trastorno_1	18-21	133(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	se	se	P00CN000	-	-	22-24	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	establece	establecer	VMIP3S0	-	-	25-34	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C0678226	atributo	35-38	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	exclusión	exclusión	NCFS000	-	-	39-48	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	49-51	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	52-57	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	procesos	proceso	NCMP000	C1522240	entidad_observable	58-66	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	causantes	causante	AQ0CP0	-	-	67-76	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	77-79	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	trombocitopenia	trombocitopenia	NC00SC0	C0040034_1	trastorno#hallazgo_1	80-95	133(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	.	.	Fp	-	-	95-96	133(3)_ANS_clinical_caseMIR	SENT1	-	-
+

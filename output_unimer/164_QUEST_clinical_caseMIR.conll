@@ -102,12 +102,14 @@
 1	Ante	ante	SPS00	-	-	573-577	164_QUEST_clinical_caseMIR	SENT6	-	-
 2	este	este	DD0MS0	-	-	578-582	164_QUEST_clinical_caseMIR	SENT6	-	-
 3	cuadro	cuadro	NCMS000	-	-	583-589	164_QUEST_clinical_caseMIR	SENT6	-	-
-4	.	.	Fp	-	-	590-591	164_QUEST_clinical_caseMIR	SENT6	-	-
-5	cuál	cuál	PT0CS000	-	-	592-596	164_QUEST_clinical_caseMIR	SENT6	-	-
-6	es	ser	VSIP3S0	-	-	597-599	164_QUEST_clinical_caseMIR	SENT6	-	-
-7	el	el	DA0MS0	-	-	600-602	164_QUEST_clinical_caseMIR	SENT6	-	-
-8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	603-614	164_QUEST_clinical_caseMIR	SENT6	-	-
-9	más	más	RG	C0205172	calificador	615-618	164_QUEST_clinical_caseMIR	SENT6	-	-
-10	probable	probable	AQ0CS0	C0332148	calificador	619-627	164_QUEST_clinical_caseMIR	SENT6	-	-
-11	.	.	Fp	-	-	627-628	164_QUEST_clinical_caseMIR	SENT6	-	-
+4	¿	¿	Fia	-	-	590-591	164_QUEST_clinical_caseMIR	SENT6	-	-
+5	cuál	cuál	PT0CS000	-	-	591-595	164_QUEST_clinical_caseMIR	SENT6	-	-
+6	es	ser	VSIP3S0	-	-	596-598	164_QUEST_clinical_caseMIR	SENT6	-	-
+7	el	el	DA0MS0	-	-	599-601	164_QUEST_clinical_caseMIR	SENT6	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	602-613	164_QUEST_clinical_caseMIR	SENT6	-	-
+9	más	más	RG	C0205172	calificador	614-617	164_QUEST_clinical_caseMIR	SENT6	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	618-626	164_QUEST_clinical_caseMIR	SENT6	-	-
+11	?	?	Fit	-	-	626-627	164_QUEST_clinical_caseMIR	SENT6	-	-
+12	:	:	Fd	-	-	627-628	164_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	628-629	164_QUEST_clinical_caseMIR	SENT6	-	-
 

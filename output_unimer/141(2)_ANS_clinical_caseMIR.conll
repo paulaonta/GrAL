@@ -1,0 +1,17 @@
+1	Cambiar	cambiar	VMN0000	-	-	0-7	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	8-10	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	11-22	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	antimicrobiano	antimicrobiano	AQ0MS0	-	-	23-37	141(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	a	a	SPS00	-	-	38-39	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	vancomicina	vancomicina	NC00SC0	C0042313	sustancia	40-51	141(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	52-53	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	rifampicina	rifampicina	NCFS000	C0035608	sustancia	54-65	141(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	,	,	Fc	-	-	65-66	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	67-68	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	realizar	realizar	VMN0000	-	-	69-77	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	valoración	valoración	NCFS000	-	-	78-88	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	89-91	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	92-99	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	cardiovascular	cardiovascular	AQ0CS0	-	-	100-114	141(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	.	.	Fp	-	-	114-115	141(2)_ANS_clinical_caseMIR	SENT1	-	-
+

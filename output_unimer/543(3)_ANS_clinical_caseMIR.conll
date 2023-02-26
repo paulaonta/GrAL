@@ -1,0 +1,29 @@
+1	Suspender	suspender	VMN0000	-	-	0-9	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	tramadol	tramadol	NC00SC0	C0040610	producto#sustancia	10-18	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	,	,	Fc	-	-	18-19	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	mantener	mantener	VMN0000	-	-	20-28	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	ibuprofeno	ibuprofeno	NCMS000	C0020740	sustancia	29-39	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	e	y	CC	C1706368	calificador	40-41	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	iniciar	iniciar	VMN0000	-	-	42-49	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	50-52	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	opioide	opioide	NC00SC0	C0242402#C0027409	producto#sustancia	53-60	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	61-66	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	como	como	CS	C0332257	calificador	67-71	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	morfina	morfina	NCFS000	C0026549	producto#sustancia	72-79	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	u	o	CC	-	-	80-81	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	oxicodona	oxicodona	NC00SC0	C0030049	producto#sustancia	82-91	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	,	,	Fc	-	-	91-92	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	y	y	CC	C1706368	calificador	93-94	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	a	a	SPS00	-	-	95-96	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	la	lo	PP3FSA00	-	-	97-99	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	vez	vez	NCFS000	-	-	100-103	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	104-115	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	para	para	SPS00	C0521125	calificador	116-120	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	121-123	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	dolor	dolor	NCMS000	C0030193	hallazgo	124-129	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	irruptivo	irruptivo	AQ0MS00	-	-	130-139	543(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+25	con	con	SPS00	C0332287	atributo	140-143	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	fentanilo	fentanilo	NC00SC0	C0015846	sustancia	144-153	543(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+27	sublingual	sublingual	AQ0CS0	C0558302	calificador	154-164	543(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	.	.	Fp	-	-	164-165	543(3)_ANS_clinical_caseMIR	SENT1	-	-
+

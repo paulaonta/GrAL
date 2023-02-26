@@ -1,0 +1,21 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	diverticulilis	diverticulilis	NCFN000	-	-	11-25	199(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	aguda	agudo	AQ0FS0	C0205178	calificador	26-31	199(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+6	no	no	RN	C1298908	calificador	32-34	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	complicada	complicar	VMP00SF	-	-	35-45	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	está	estar	VAIP3S0	-	-	46-50	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	indicada	indicar	VMP00SF	-	-	51-59	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	60-62	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	sigmoidectomia	sigmoidectomia	NCFS000	-	-	63-77	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	electiva	electivo	AQ0FS0	C0439608	calificador	78-86	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	tras	tras	SPS00	-	-	87-91	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	92-94	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	curación	curación	NCFS000	-	-	95-103	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	del	del	SP+DA	-	-	104-107	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	primer	1	AO0MS0	C0439615_1	calificador_1	108-114	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	episodio	episodio	NCMS000	C0439615_2	calificador_2	115-123	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	agudo	agudo	AQ0MS0	C0205178	calificador	124-129	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	129-130	199(3)_ANS_clinical_caseMIR	SENT1	-	-
+

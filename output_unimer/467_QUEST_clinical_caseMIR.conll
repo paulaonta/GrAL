@@ -44,14 +44,14 @@
 7	.	.	Fp	-	-	223-224	467_QUEST_clinical_caseMIR	SENT3	-	-
 
 1	Gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	225-237	467_QUEST_clinical_caseMIR	SENT4	-	-
-2	.	.	Fp	-	-	237-238	467_QUEST_clinical_caseMIR	SENT4	-	-
+2	:	:	Fd	-	-	237-238	467_QUEST_clinical_caseMIR	SENT4	-	-
 3	esófago	esófago	NCMS000	C0577015_1	hallazgo_1	239-246	467_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 4	normal	normal	NCFS000	C0577015_2	hallazgo_2	247-253	467_QUEST_clinical_caseMIR	SENT4	-	-
 5	,	,	Fc	-	-	253-254	467_QUEST_clinical_caseMIR	SENT4	-	-
 6	estómago	estómago	NCMS000	C3714551#C1278920	estructura_corporal	255-263	467_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 7	con	con	SPS00	C0332287	atributo	264-267	467_QUEST_clinical_caseMIR	SENT4	-	-
-8	restos	resto	NCMP000	-	-	268-274	467_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-9	alimentarios	alimentario	AQ0MP0	-	-	275-287	467_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+8	restos	resto	NCMP000	-	-	268-274	467_QUEST_clinical_caseMIR	SENT4	-	-
+9	alimentarios	alimentario	AQ0MP0	-	-	275-287	467_QUEST_clinical_caseMIR	SENT4	-	-
 10	y	y	CC	C1706368	calificador	288-289	467_QUEST_clinical_caseMIR	SENT4	-	-
 11	resto	resto	NCMS000	-	-	290-295	467_QUEST_clinical_caseMIR	SENT4	-	-
 12	de	de	SPS00	C0332285	atributo	296-298	467_QUEST_clinical_caseMIR	SENT4	-	-
@@ -65,16 +65,18 @@
 20	alteraciones	alteración	NCFP000	-	-	349-361	467_QUEST_clinical_caseMIR	SENT4	-	-
 21	.	.	Fp	-	-	361-362	467_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Qué	qué	DE0CN0	-	-	363-366	467_QUEST_clinical_caseMIR	SENT5	-	-
-2	prueba	prueba	NCFS000	-	-	367-373	467_QUEST_clinical_caseMIR	SENT5	-	-
-3	considera	considerar	VMIP3S0	-	-	374-383	467_QUEST_clinical_caseMIR	SENT5	-	-
-4	que	que	CS	-	-	384-387	467_QUEST_clinical_caseMIR	SENT5	-	-
-5	es	ser	VSIP3S0	-	-	388-390	467_QUEST_clinical_caseMIR	SENT5	-	-
-6	de	de	SPS00	C0332285	atributo	391-393	467_QUEST_clinical_caseMIR	SENT5	-	-
-7	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	394-399	467_QUEST_clinical_caseMIR	SENT5	-	-
-8	utilidad	utilidad	NCFS000	-	-	400-408	467_QUEST_clinical_caseMIR	SENT5	-	-
-9	para	para	SPS00	C0521125	calificador	409-413	467_QUEST_clinical_caseMIR	SENT5	-	-
-10	su	su	DP3CS0	-	-	414-416	467_QUEST_clinical_caseMIR	SENT5	-	-
-11	diagnósti_x0002_co	diagnósti_x0002_co		-	-	417-435	467_QUEST_clinical_caseMIR	SENT5	-	-
-12	.	.	Fp	-	-	435-436	467_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	363-364	467_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	364-367	467_QUEST_clinical_caseMIR	SENT5	-	-
+3	prueba	prueba	NCFS000	-	-	368-374	467_QUEST_clinical_caseMIR	SENT5	-	-
+4	considera	considerar	VMIP3S0	-	-	375-384	467_QUEST_clinical_caseMIR	SENT5	-	-
+5	que	que	CS	-	-	385-388	467_QUEST_clinical_caseMIR	SENT5	-	-
+6	es	ser	VSIP3S0	-	-	389-391	467_QUEST_clinical_caseMIR	SENT5	-	-
+7	de	de	SPS00	C0332285	atributo	392-394	467_QUEST_clinical_caseMIR	SENT5	-	-
+8	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	395-400	467_QUEST_clinical_caseMIR	SENT5	-	-
+9	utilidad	utilidad	NCFS000	-	-	401-409	467_QUEST_clinical_caseMIR	SENT5	-	-
+10	para	para	SPS00	C0521125	calificador	410-414	467_QUEST_clinical_caseMIR	SENT5	-	-
+11	su	su	DP3CS0	-	-	415-417	467_QUEST_clinical_caseMIR	SENT5	-	-
+12	diagnósti_x0002_co	diagnósti_x0002_co		-	-	418-436	467_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	436-437	467_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	437-438	467_QUEST_clinical_caseMIR	SENT5	-	-
 

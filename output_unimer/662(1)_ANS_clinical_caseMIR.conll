@@ -1,0 +1,26 @@
+1	Puede	poder	VMIP3S0	-	-	0-5	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratar	tratar	VMN0000	-	-	6-12	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	PP3CN000	-	-	12-14	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	15-17	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	18-21	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	ceguera	ceguera	NCFS000	C0155320_1	trastorno_1	22-29	662(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	cortical	cortical	AQ0CS0	C0155320_2	trastorno_2	30-38	662(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	y	y	CC	C1706368	calificador	39-40	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	se	se	P00CN000	-	-	41-43	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	debe	deber	VMIP3S0	-	-	44-48	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	49-51	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	realizar	realizar	VMN0000	-	-	52-60	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	61-63	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	campo	campo	NCMS000	C0042826_1	entidad_observable_1	64-69	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	visual	visual	NC00SC0	C0042826_2	entidad_observable_2	70-76	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	para	para	SPS00	C0521125	calificador	77-81	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	valorar	valorar	VMN0000	-	-	82-89	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	90-93	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	posible	posible	AQ0CS0	C0332149#C2362652	calificador	94-101	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	hemianopsia	hemianopsia	NCFS000	C0271202_1	hallazgo_1	102-113	662(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+21	homónima	homónimo	NCFS000	C0271202_2	hallazgo_2	114-122	662(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+22	con	con	SPS00	C0332287	atributo	123-126	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	respeto	respeto	NCMS000	-	-	127-134	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	macular	macular	AQ0CS0	-	-	135-142	662(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	.	.	Fp	-	-	142-143	662(1)_ANS_clinical_caseMIR	SENT1	-	-
+

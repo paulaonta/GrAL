@@ -78,13 +78,16 @@
 23	esputo	esputo	NCMS000	C0038056	sustancia	452-458	227_QUEST_clinical_caseMIR	SENT3	-	-
 24	.	.	Fp	-	-	458-459	227_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Que	que	CS	-	-	460-463	227_QUEST_clinical_caseMIR	SENT4	-	-
-2	régimen	régimen	NCMS000	C0012155	hallazgo	464-471	227_QUEST_clinical_caseMIR	SENT4	-	-
-3	seleccionaría	seleccionar	VMIC3S0	-	-	472-485	227_QUEST_clinical_caseMIR	SENT4	-	-
-4	en	en	SPS00	C1720294#C0332285	calificador#atributo	486-488	227_QUEST_clinical_caseMIR	SENT4	-	-
-5	función	función	NCFS000	C0542341	entidad_observable#atributo	489-496	227_QUEST_clinical_caseMIR	SENT4	-	-
-6	de	de	SPS00	C0332285	atributo	497-499	227_QUEST_clinical_caseMIR	SENT4	-	-
-7	este	este	DD0MS0	-	-	500-504	227_QUEST_clinical_caseMIR	SENT4	-	-
-8	informe	informe	NCMS000	C0684224	elemento_de_registro	505-512	227_QUEST_clinical_caseMIR	SENT4	-	-
-9	.	.	Fp	-	-	512-513	227_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	460-461	227_QUEST_clinical_caseMIR	SENT4	-	-
+2	Que	que	PR0CN000	-	-	461-464	227_QUEST_clinical_caseMIR	SENT4	-	-
+3	régimen	régimen	NCMS000	C0012155	hallazgo	465-472	227_QUEST_clinical_caseMIR	SENT4	-	-
+4	seleccionaría	seleccionar	VMIC3S0	-	-	473-486	227_QUEST_clinical_caseMIR	SENT4	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	487-489	227_QUEST_clinical_caseMIR	SENT4	-	-
+6	función	función	NCFS000	C0542341	entidad_observable#atributo	490-497	227_QUEST_clinical_caseMIR	SENT4	-	-
+7	de	de	SPS00	C0332285	atributo	498-500	227_QUEST_clinical_caseMIR	SENT4	-	-
+8	este	este	DD0MS0	-	-	501-505	227_QUEST_clinical_caseMIR	SENT4	-	-
+9	informe	informe	NCMS000	C0684224	elemento_de_registro	506-513	227_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	513-514	227_QUEST_clinical_caseMIR	SENT4	-	-
+11	:	:	Fd	-	-	514-515	227_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	515-516	227_QUEST_clinical_caseMIR	SENT4	-	-
 

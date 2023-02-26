@@ -1,27 +1,27 @@
-1	.	.	Fp	-	-	0-1	624_QUEST_clinical_caseMIR	SENT1	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	2-6	624_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	7-9	624_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	10-12	624_QUEST_clinical_caseMIR	SENT2	-	-
-4	anticonvulsivante	anticonvulsivante	NC00SC0	C0003286	sustancia	13-30	624_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
-5	que	que	PR0CN000	-	-	31-34	624_QUEST_clinical_caseMIR	SENT2	-	-
-6	evitaremos	evitar	VMIF1P0	-	-	35-45	624_QUEST_clinical_caseMIR	SENT2	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	624_QUEST_clinical_caseMIR	SENT2	-	-
-8	un	un		C0205447_1	calificador_1	49-51	624_QUEST_clinical_caseMIR	SENT2	-	-
-9	lactante	lactante	NCCS000	C0021270	persona	52-60	624_QUEST_clinical_caseMIR	SENT2	-	-
-10	de	de	SPS00	C0332285	atributo	61-63	624_QUEST_clinical_caseMIR	SENT2	-	-
-11	3	3		-	-	64-65	624_QUEST_clinical_caseMIR	SENT2	-	-
-12	meses	mes	NCMP000	C0439231	calificador	66-71	624_QUEST_clinical_caseMIR	SENT2	-	-
-13	con	con	SPS00	C0332287	atributo	72-75	624_QUEST_clinical_caseMIR	SENT2	-	-
-14	crisis	crisis	NCFN000	C0231224	hallazgo	76-82	624_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
-15	convulsiva	convulsivo	AQ0FS0	-	-	83-93	624_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
-16	y	y	CC	C1706368	calificador	94-95	624_QUEST_clinical_caseMIR	SENT2	-	-
-17	en	en	SPS00	C1720294#C0332285	calificador#atributo	96-98	624_QUEST_clinical_caseMIR	SENT2	-	-
-18	el	el	DA0MS0	-	-	99-101	624_QUEST_clinical_caseMIR	SENT2	-	-
-19	que	que	PR0CN000	-	-	102-105	624_QUEST_clinical_caseMIR	SENT2	-	-
-20	no	no	RN	C1298908	calificador	106-108	624_QUEST_clinical_caseMIR	SENT2	-	-
-21	podemos	poder	VMIP1P0	-	-	109-116	624_QUEST_clinical_caseMIR	SENT2	-	-
-22	descartar	descartar	VMN0000	C0332196	calificador	117-126	624_QUEST_clinical_caseMIR	SENT2	-	-
-23	metabolopatía	metabolopatía	NC00SC0	C0025517	trastorno	127-140	624_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
-24	.	.	Fp	-	-	140-141	624_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	0-1	624_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	1-5	624_QUEST_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	6-8	624_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	9-11	624_QUEST_clinical_caseMIR	SENT1	-	-
+5	anticonvulsivante	anticonvulsivante	NC00SC0	C0003286	sustancia	12-29	624_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	que	que	PR0CN000	-	-	30-33	624_QUEST_clinical_caseMIR	SENT1	-	-
+7	evitaremos	evitar	VMIF1P0	-	-	34-44	624_QUEST_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	45-47	624_QUEST_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	48-50	624_QUEST_clinical_caseMIR	SENT1	-	-
+10	lactante	lactante	NCCS000	C0021270	persona	51-59	624_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	60-62	624_QUEST_clinical_caseMIR	SENT1	-	-
+12	3	3		-	-	63-64	624_QUEST_clinical_caseMIR	SENT1	-	-
+13	meses	mes	NCMP000	C0439231	calificador	65-70	624_QUEST_clinical_caseMIR	SENT1	-	-
+14	con	con	SPS00	C0332287	atributo	71-74	624_QUEST_clinical_caseMIR	SENT1	-	-
+15	crisis	crisis	NCFN000	C0231224	hallazgo	75-81	624_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	convulsiva	convulsivo	AQ0FS0	-	-	82-92	624_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+17	y	y	CC	C1706368	calificador	93-94	624_QUEST_clinical_caseMIR	SENT1	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	95-97	624_QUEST_clinical_caseMIR	SENT1	-	-
+19	el	el	DA0MS0	-	-	98-100	624_QUEST_clinical_caseMIR	SENT1	-	-
+20	que	que	PR0CN000	-	-	101-104	624_QUEST_clinical_caseMIR	SENT1	-	-
+21	no	no	RN	C1298908	calificador	105-107	624_QUEST_clinical_caseMIR	SENT1	-	-
+22	podemos	poder	VMIP1P0	-	-	108-115	624_QUEST_clinical_caseMIR	SENT1	-	-
+23	descartar	descartar	VMN0000	C0332196	calificador	116-125	624_QUEST_clinical_caseMIR	SENT1	-	-
+24	metabolopatía	metabolopatía	NC00SC0	C0025517	trastorno	126-139	624_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+25	?	?	Fit	-	-	139-140	624_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	140-141	624_QUEST_clinical_caseMIR	SENT1	-	-
 

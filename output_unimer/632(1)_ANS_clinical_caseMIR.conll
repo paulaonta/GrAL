@@ -1,0 +1,13 @@
+1	Descompresión	descompresión	NCFS000	C1829459#C0021153	procedimiento	0-13	632(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	central	central	AQ0CS0	C0205099	calificador	14-21	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	22-24	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	25-27	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	cadera	cadera	NCFS000	C0019552	estructura_corporal	28-34	632(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	con	con	SPS00	C0332287	atributo	35-38	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	o	o	CC	-	-	39-40	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	sin	sin	SPS00	C0332288	atributo	41-44	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	45-52	632(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	celular	celular	AQ0CS0	-	-	53-60	632(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+11	complementaria	complementario	AQ0FS0	-	-	61-75	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	75-76	632(1)_ANS_clinical_caseMIR	SENT1	-	-
+

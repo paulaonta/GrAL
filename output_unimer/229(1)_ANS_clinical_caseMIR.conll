@@ -1,0 +1,20 @@
+1	Tiene	tener	VMIP3S0	-	-	0-5	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	6-9	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	sepsis	sepsis	NCFN000	C0684256_1	trastorno_1	10-16	229(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	bacteriana	bacteriano	AQ0FS0	C0684256_2	trastorno_2	17-27	229(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	de	de	SPS00	C0332285	atributo	28-30	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	origen	origen	NCMS000	C0439659	atributo	31-37	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	indeterminado	indeterminado	NC00SC0	C0205258	calificador	38-51	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	52-53	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	se	se	P00CN000	-	-	54-56	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	debe	deber	VMIP3S0	-	-	57-61	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	administrar	administrar	VMN0000	C1621583	calificador	62-73	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	vancomicina	vancomicina	NC00SC0	C0042313	sustancia	74-85	229(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	,	,	Fc	-	-	85-86	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	ceftacidima	ceftacidima	NCFS000	-	-	87-98	229(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	y	y	CC	C1706368	calificador	99-100	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	101-112	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	113-115	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	soporte	soporte	NCMS000	-	-	116-123	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	123-124	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+

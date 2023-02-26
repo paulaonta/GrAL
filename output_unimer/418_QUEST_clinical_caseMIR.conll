@@ -120,8 +120,10 @@
 7	paciente	paciente	NCCS000	C0030705	persona	624-632	418_QUEST_clinical_caseMIR	SENT8	-	-
 8	.	.	Fp	-	-	632-633	418_QUEST_clinical_caseMIR	SENT8	-	-
 
-1	Qué	qué	PT0CN000	-	-	634-637	418_QUEST_clinical_caseMIR	SENT9	-	-
-2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	638-640	418_QUEST_clinical_caseMIR	SENT9	-	-
-3	propondría	proponer	VMIC3S0	-	-	641-651	418_QUEST_clinical_caseMIR	SENT9	-	-
-4	.	.	Fp	-	-	651-652	418_QUEST_clinical_caseMIR	SENT9	-	-
+1	¿	¿	Fia	-	-	634-635	418_QUEST_clinical_caseMIR	SENT9	-	-
+2	Qué	qué	PT0CN000	-	-	635-638	418_QUEST_clinical_caseMIR	SENT9	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	639-641	418_QUEST_clinical_caseMIR	SENT9	-	-
+4	propondría	proponer	VMIC3S0	-	-	642-652	418_QUEST_clinical_caseMIR	SENT9	-	-
+5	?	?	Fit	-	-	652-653	418_QUEST_clinical_caseMIR	SENT9	-	-
+6	.	.	Fp	-	-	653-654	418_QUEST_clinical_caseMIR	SENT9	-	-
 

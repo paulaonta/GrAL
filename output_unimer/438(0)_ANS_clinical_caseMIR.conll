@@ -1,0 +1,20 @@
+1	La	el	DA0FS0	-	-	0-2	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	presenta	presentar	VMIP3S0	-	-	12-20	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	empeoramiento	empeoramiento	NCMS000	-	-	21-34	438(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	de	de	SPS00	C0332285	atributo	35-37	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	su	su	DP3CS0	-	-	38-40	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	ICC	insuficiencia_cardiaca_congestiva	NC00YL0	-	-	41-44	438(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	por	por	SPS00	C0678226	atributo	45-48	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	lo	el	DA0NS0	-	-	49-51	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	que	que	PR0CN000	-	-	52-55	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	se	se	P00CN000	-	-	56-58	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	debe	deber	VMIP3S0	-	-	59-63	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	remitir	remitir	VMN0000	C0439600	calificador	64-71	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	72-73	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	Urgencias	urgencia	NCFP000	C0439609	calificador	74-83	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	para	para	SPS00	C0521125	calificador	84-88	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	89-100	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	intensivo	intensivo	AQ0MS0	-	-	101-110	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	110-111	438(0)_ANS_clinical_caseMIR	SENT1	-	-
+

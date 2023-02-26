@@ -1,0 +1,14 @@
+1	Edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	0-4	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	,	,	Fc	-	-	4-5	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	peso	peso	NCMS000	C0043100	calificador	6-10	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	(	(	Fpa	-	-	11-12	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	12-14	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	Kg	kilogramo	NCMN000	C0439209	calificador	15-17	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	)	)	Fpt	-	-	17-18	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	18-19	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	género	género	NCMS000	C0079399#C1522384	entidad_observable#estructura_corporal	20-26	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	27-28	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	creatinina	creatinina	NC00SC0	C0010294	sustancia	29-39	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	plasmática	plasmático	AQ0FS0	-	-	40-50	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	50-51	182(0)_ANS_clinical_caseMIR	SENT1	-	-
+

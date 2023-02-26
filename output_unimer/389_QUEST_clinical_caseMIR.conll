@@ -71,12 +71,14 @@
 28	dL	decilitro	NCMN000	C0439241	calificador	298-300	389_QUEST_clinical_caseMIR	SENT4	-	-
 29	.	.	Fp	-	-	300-301	389_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Qué	qué	DE0CN0	-	-	302-305	389_QUEST_clinical_caseMIR	SENT5	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	306-313	389_QUEST_clinical_caseMIR	SENT5	-	-
-3	terapéutica	terapéutico	AQ0FS0	-	-	314-325	389_QUEST_clinical_caseMIR	SENT5	-	-
-4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	326-328	389_QUEST_clinical_caseMIR	SENT5	-	-
-5	parece	parecer	VMIP3S0	-	-	329-335	389_QUEST_clinical_caseMIR	SENT5	-	-
-6	más	más	RG	C0205172	calificador	336-339	389_QUEST_clinical_caseMIR	SENT5	-	-
-7	razonable	razonable	AQ0CS0	-	-	340-349	389_QUEST_clinical_caseMIR	SENT5	-	-
-8	.	.	Fp	-	-	349-350	389_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	302-303	389_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	303-306	389_QUEST_clinical_caseMIR	SENT5	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	307-314	389_QUEST_clinical_caseMIR	SENT5	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	315-326	389_QUEST_clinical_caseMIR	SENT5	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	327-329	389_QUEST_clinical_caseMIR	SENT5	-	-
+6	parece	parecer	VMIP3S0	-	-	330-336	389_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205172	calificador	337-340	389_QUEST_clinical_caseMIR	SENT5	-	-
+8	razonable	razonable	AQ0CS0	-	-	341-350	389_QUEST_clinical_caseMIR	SENT5	-	-
+9	?	?	Fit	-	-	350-351	389_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	351-352	389_QUEST_clinical_caseMIR	SENT5	-	-
 

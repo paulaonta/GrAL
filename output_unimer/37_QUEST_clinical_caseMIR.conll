@@ -87,7 +87,7 @@
 20	en	en	SPS00	C1720294#C0332285	calificador#atributo	501-503	37_QUEST_clinical_caseMIR	SENT5	-	-
 21	lado	lado	NCMS000	C0444532#C0205090#C0450415_1	calificador_1	504-508	37_QUEST_clinical_caseMIR	SENT5	-	-
 22	derecho	derecho	NCMS000	C0444532#C0205090#C0450415_2	calificador_2	509-516	37_QUEST_clinical_caseMIR	SENT5	-	-
-23	.	.	Fp	-	-	516-517	37_QUEST_clinical_caseMIR	SENT5	-	-
+23	:	:	Fd	-	-	516-517	37_QUEST_clinical_caseMIR	SENT5	-	-
 24	el	el	DA0MS0	-	-	518-520	37_QUEST_clinical_caseMIR	SENT5	-	-
 25	espacio	espacio	NCMS000	-	-	521-528	37_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 26	discal	discal	AQ0CS0	-	-	529-535	37_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
@@ -95,9 +95,12 @@
 28	conservado	conservar	VMP00SM	-	-	543-553	37_QUEST_clinical_caseMIR	SENT5	-	-
 29	.	.	Fp	-	-	553-554	37_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cual	cual	PI0CS000	-	-	555-559	37_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	560-562	37_QUEST_clinical_caseMIR	SENT6	-	-
-3	su	su	DP3CS0	-	-	563-565	37_QUEST_clinical_caseMIR	SENT6	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	566-577	37_QUEST_clinical_caseMIR	SENT6	-	-
-5	.	.	Fp	-	-	577-578	37_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	555-556	37_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cual	cual	PR0CS000	-	-	556-560	37_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	561-563	37_QUEST_clinical_caseMIR	SENT6	-	-
+4	su	su	DP3CS0	-	-	564-566	37_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	567-578	37_QUEST_clinical_caseMIR	SENT6	-	-
+6	?	?	Fit	-	-	578-579	37_QUEST_clinical_caseMIR	SENT6	-	-
+7	:	:	Fd	-	-	579-580	37_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	580-581	37_QUEST_clinical_caseMIR	SENT6	-	-
 

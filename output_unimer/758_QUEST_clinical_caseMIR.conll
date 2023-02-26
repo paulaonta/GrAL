@@ -35,13 +35,16 @@
 35	subagudo	subagudo	NC00SC0	C0024140_4	trastorno_4	236-244	758_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
 36	.	.	Fp	-	-	244-245	758_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	246-250	758_QUEST_clinical_caseMIR	SENT2	-	-
-2	de	de	SPS00	C0332285	atributo	251-253	758_QUEST_clinical_caseMIR	SENT2	-	-
-3	los	el	DA0MP0	-	-	254-257	758_QUEST_clinical_caseMIR	SENT2	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	258-268	758_QUEST_clinical_caseMIR	SENT2	-	-
-5	autoanticuerpos	autoanticuerpo	NCMP000	C0004358	sustancia	269-284	758_QUEST_clinical_caseMIR	SENT2	-	-
-6	debe	deber	VMIP3S0	-	-	285-289	758_QUEST_clinical_caseMIR	SENT2	-	-
-7	investigar	investigar	VMN0000	-	-	290-300	758_QUEST_clinical_caseMIR	SENT2	-	-
-8	se	se	PP3CN000	-	-	300-302	758_QUEST_clinical_caseMIR	SENT2	-	-
-9	.	.	Fp	-	-	302-303	758_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	246-247	758_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	247-251	758_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	252-254	758_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	255-258	758_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	259-269	758_QUEST_clinical_caseMIR	SENT2	-	-
+6	autoanticuerpos	autoanticuerpo	NCMP000	C0004358	sustancia	270-285	758_QUEST_clinical_caseMIR	SENT2	-	-
+7	debe	deber	VMIP3S0	-	-	286-290	758_QUEST_clinical_caseMIR	SENT2	-	-
+8	investigar	investigar	VMN0000	-	-	291-301	758_QUEST_clinical_caseMIR	SENT2	-	-
+9	se	se	PP3CN000	-	-	301-303	758_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	303-304	758_QUEST_clinical_caseMIR	SENT2	-	-
+11	:	:	Fd	-	-	304-305	758_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	305-306	758_QUEST_clinical_caseMIR	SENT2	-	-
 

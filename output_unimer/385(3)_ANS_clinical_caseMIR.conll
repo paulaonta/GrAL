@@ -1,0 +1,28 @@
+1	La	el	DA0FS0	-	-	0-2	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	instauración	instauración	NCFS000	-	-	3-15	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	del	del	SP+DA	-	-	16-19	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	20-31	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	diurético	diurético	AQ0MS0	C0012798	sustancia	32-41	385(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	debemos	deber	VMIP1P0	-	-	42-49	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	iniciar	iniciar	VMN0000	-	-	50-57	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	lo	PP3FSA00	-	-	57-59	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	63-65	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	período	período	NCMS000	-	-	66-73	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	corto	corto	AQ0MS0	C1806781#C1879313#C1282927	calificador	74-79	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	80-82	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	hospitalización	hospitalización	NCFS000	-	-	83-98	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	para	para	SPS00	C0521125	calificador	99-103	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	asegurar	asegurar	VMN0000	-	-	104-112	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	nos	nos	PP1CP000	-	-	112-115	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	que	que	CS	-	-	116-119	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	no	no	RN	C1298908	calificador	120-122	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	aparece	aparecer	VMIP3S0	-	-	123-130	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	fallo	fallo	NCMS000	C1565489_1	trastorno_1	131-136	385(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+22	renal	renal	AQ0CS0	C1565489_2	trastorno_2	137-142	385(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	o	o	CC	-	-	143-144	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	hiponatremia	hiponatremia	NCFS000	C0020625#C1971019	trastorno	145-157	385(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	grave	grave	AQ0CS0	C0439808#C0205082	calificador	158-163	385(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+26	asociada	asociar	VMP00SF	-	-	164-172	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	172-173	385(3)_ANS_clinical_caseMIR	SENT1	-	-
+

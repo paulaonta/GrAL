@@ -23,13 +23,15 @@
 23	significativo	significativo	AQ0MS0	C0750502	calificador	169-182	618_QUEST_clinical_caseMIR	SENT1	-	-
 24	.	.	Fp	-	-	182-183	618_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	184-188	618_QUEST_clinical_caseMIR	SENT2	-	-
-2	de	de	SPS00	C0332285	atributo	189-191	618_QUEST_clinical_caseMIR	SENT2	-	-
-3	los	el	DA0MP0	-	-	192-195	618_QUEST_clinical_caseMIR	SENT2	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	196-206	618_QUEST_clinical_caseMIR	SENT2	-	-
-5	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	207-216	618_QUEST_clinical_caseMIR	SENT2	-	-
-6	apoyaría	apoyar	VMIC3S0	-	-	217-225	618_QUEST_clinical_caseMIR	SENT2	-	-
-7	el	el	DA0MS0	-	-	226-228	618_QUEST_clinical_caseMIR	SENT2	-	-
-8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	229-240	618_QUEST_clinical_caseMIR	SENT2	-	-
-9	.	.	Fp	-	-	240-241	618_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	184-185	618_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	185-189	618_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	190-192	618_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	193-196	618_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	197-207	618_QUEST_clinical_caseMIR	SENT2	-	-
+6	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	208-217	618_QUEST_clinical_caseMIR	SENT2	-	-
+7	apoyaría	apoyar	VMIC3S0	-	-	218-226	618_QUEST_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	227-229	618_QUEST_clinical_caseMIR	SENT2	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	230-241	618_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	241-242	618_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	242-243	618_QUEST_clinical_caseMIR	SENT2	-	-
 

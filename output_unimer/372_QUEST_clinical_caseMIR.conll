@@ -54,15 +54,17 @@
 14	ampliado	ampliar	VMP00SM	-	-	315-323	372_QUEST_clinical_caseMIR	SENT4	-	-
 15	.	.	Fp	-	-	323-324	372_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Qué	qué	DE0CN0	-	-	325-328	372_QUEST_clinical_caseMIR	SENT5	-	-
-2	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	329-340	372_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
-3	,	,	Fc	-	-	340-341	372_QUEST_clinical_caseMIR	SENT5	-	-
-4	entre	entre	SPS00	C0205103	calificador	342-347	372_QUEST_clinical_caseMIR	SENT5	-	-
-5	los	el	DA0MP0	-	-	348-351	372_QUEST_clinical_caseMIR	SENT5	-	-
-6	siguientes	siguiente	AQ0CP0	C0332282	atributo	352-362	372_QUEST_clinical_caseMIR	SENT5	-	-
-7	,	,	Fc	-	-	362-363	372_QUEST_clinical_caseMIR	SENT5	-	-
-8	debe	deber	VMIP3S0	-	-	364-368	372_QUEST_clinical_caseMIR	SENT5	-	-
-9	utilizar	utilizar	VMN0000	-	-	369-377	372_QUEST_clinical_caseMIR	SENT5	-	-
-10	se	se	PP3CN000	-	-	377-379	372_QUEST_clinical_caseMIR	SENT5	-	-
-11	.	.	Fp	-	-	379-380	372_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	325-326	372_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	326-329	372_QUEST_clinical_caseMIR	SENT5	-	-
+3	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	330-341	372_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+4	,	,	Fc	-	-	341-342	372_QUEST_clinical_caseMIR	SENT5	-	-
+5	entre	entre	SPS00	C0205103	calificador	343-348	372_QUEST_clinical_caseMIR	SENT5	-	-
+6	los	el	DA0MP0	-	-	349-352	372_QUEST_clinical_caseMIR	SENT5	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	353-363	372_QUEST_clinical_caseMIR	SENT5	-	-
+8	,	,	Fc	-	-	363-364	372_QUEST_clinical_caseMIR	SENT5	-	-
+9	debe	deber	VMIP3S0	-	-	365-369	372_QUEST_clinical_caseMIR	SENT5	-	-
+10	utilizar	utilizar	VMN0000	-	-	370-378	372_QUEST_clinical_caseMIR	SENT5	-	-
+11	se	se	PP3CN000	-	-	378-380	372_QUEST_clinical_caseMIR	SENT5	-	-
+12	?	?	Fit	-	-	380-381	372_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	381-382	372_QUEST_clinical_caseMIR	SENT5	-	-
 

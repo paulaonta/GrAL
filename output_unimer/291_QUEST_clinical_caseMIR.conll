@@ -30,7 +30,7 @@
 2	constantes	constante	AQ0CP0	C0205361	calificador	138-148	291_QUEST_clinical_caseMIR	SENT3	-	-
 3	vitales	vital	AQ0CP0	C0442732	calificador	149-156	291_QUEST_clinical_caseMIR	SENT3	-	-
 4	son	ser	VSIP3P0	-	-	157-160	291_QUEST_clinical_caseMIR	SENT3	-	-
-5	.	.	Fp	-	-	160-161	291_QUEST_clinical_caseMIR	SENT3	-	-
+5	:	:	Fd	-	-	160-161	291_QUEST_clinical_caseMIR	SENT3	-	-
 6	temperatura	temperatura	NCFS000	C0039476	atributo	162-173	291_QUEST_clinical_caseMIR	SENT3	-	-
 7	37,8ºC	37,8ºC		-	-	174-180	291_QUEST_clinical_caseMIR	SENT3	-	-
 8	,	,	Fc	-	-	180-181	291_QUEST_clinical_caseMIR	SENT3	-	-
@@ -91,11 +91,13 @@
 8	normal	normal	AQ0CS0	C0205307	calificador	489-495	291_QUEST_clinical_caseMIR	SENT5	-	-
 9	.	.	Fp	-	-	495-496	291_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	497-501	291_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	502-504	291_QUEST_clinical_caseMIR	SENT6	-	-
-3	el	el	DA0MS0	-	-	505-507	291_QUEST_clinical_caseMIR	SENT6	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	508-519	291_QUEST_clinical_caseMIR	SENT6	-	-
-5	más	más	RG	C0205172	calificador	520-523	291_QUEST_clinical_caseMIR	SENT6	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	524-532	291_QUEST_clinical_caseMIR	SENT6	-	-
-7	.	.	Fp	-	-	532-533	291_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	497-498	291_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	498-502	291_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	503-505	291_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	506-508	291_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	509-520	291_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	521-524	291_QUEST_clinical_caseMIR	SENT6	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	525-533	291_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	533-534	291_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	534-535	291_QUEST_clinical_caseMIR	SENT6	-	-
 

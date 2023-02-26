@@ -67,14 +67,16 @@
 30	mL	mililitro	NCMN000	C0439242	calificador	310-312	506_QUEST_clinical_caseMIR	SENT2	-	-
 31	.	.	Fp	-	-	312-313	506_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	314-318	506_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	319-321	506_QUEST_clinical_caseMIR	SENT3	-	-
-3	la	el	DA0FS0	-	-	322-324	506_QUEST_clinical_caseMIR	SENT3	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	325-332	506_QUEST_clinical_caseMIR	SENT3	-	-
-5	a	a	SPS00	-	-	333-334	506_QUEST_clinical_caseMIR	SENT3	-	-
-6	seguir	seguir	VMN0000	-	-	335-341	506_QUEST_clinical_caseMIR	SENT3	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	342-344	506_QUEST_clinical_caseMIR	SENT3	-	-
-8	este	este	DD0MS0	-	-	345-349	506_QUEST_clinical_caseMIR	SENT3	-	-
-9	paciente	paciente	NCCS000	C0030705	persona	350-358	506_QUEST_clinical_caseMIR	SENT3	-	-
-10	.	.	Fp	-	-	358-359	506_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	314-315	506_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	315-319	506_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	320-322	506_QUEST_clinical_caseMIR	SENT3	-	-
+4	la	el	DA0FS0	-	-	323-325	506_QUEST_clinical_caseMIR	SENT3	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	326-333	506_QUEST_clinical_caseMIR	SENT3	-	-
+6	a	a	SPS00	-	-	334-335	506_QUEST_clinical_caseMIR	SENT3	-	-
+7	seguir	seguir	VMN0000	-	-	336-342	506_QUEST_clinical_caseMIR	SENT3	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	343-345	506_QUEST_clinical_caseMIR	SENT3	-	-
+9	este	este	DD0MS0	-	-	346-350	506_QUEST_clinical_caseMIR	SENT3	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	351-359	506_QUEST_clinical_caseMIR	SENT3	-	-
+11	?	?	Fit	-	-	359-360	506_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	360-361	506_QUEST_clinical_caseMIR	SENT3	-	-
 

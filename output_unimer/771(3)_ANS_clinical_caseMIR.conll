@@ -1,0 +1,21 @@
+1	Si	si	CS	-	-	0-2	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	sospecha	sospechar	VMIP3S0	-	-	3-11	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	compromiso	compromiso	NCMS000	C1314939	atributo	12-22	771(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+4	inmunitario	inmunitario	AQ0MS0	C0439662#C0205470	calificador	23-34	771(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+5	debe	deber	VMIP3S0	-	-	35-39	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	realizar	realizar	VMN0000	-	-	40-48	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	49-51	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	forma	forma	NCFS000	C0348078	atributo	52-57	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	inmediata	inmediato	AQ0FS0	C0205253	calificador	58-67	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	broncoscopia	broncoscopia	NC00SC0	C0189396_1	procedimiento_1	68-80	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0189396_2	procedimiento_2	81-84	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	biopsia	biopsia	NCFS000	C0189396_3	procedimiento_3	85-92	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	o	o	CC	-	-	93-94	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	95-105	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	106-109	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	aguja	aguja	NCFS000	C0027551	objeto_físico	110-115	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	guiada	guiar	VMP00SF	-	-	116-122	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	por	por	SPS00	C0678226	atributo	123-126	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	127-129	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	129-130	771(3)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,34 +1,40 @@
-1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	692_QUEST_clinical_caseMIR	SENT1	-	-
-2	de	de	SPS00	C0332285	atributo	7-9	692_QUEST_clinical_caseMIR	SENT1	-	-
-3	60	60		-	-	10-12	692_QUEST_clinical_caseMIR	SENT1	-	-
-4	años	año	NCMP000	C0439234	calificador	13-17	692_QUEST_clinical_caseMIR	SENT1	-	-
-5	,	,	Fc	-	-	17-18	692_QUEST_clinical_caseMIR	SENT1	-	-
-6	fumador	fumador	NCMS000	C0337664	hallazgo	19-26	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-7	de	de	SPS00	C0332285	atributo	27-29	692_QUEST_clinical_caseMIR	SENT1	-	-
-8	40	40		-	-	30-32	692_QUEST_clinical_caseMIR	SENT1	-	-
-9	paquetes	paquete	NCMP000	C1641805	calificador	33-41	692_QUEST_clinical_caseMIR	SENT1	-	-
-10	/	/	Fh	-	-	41-42	692_QUEST_clinical_caseMIR	SENT1	-	-
-11	año	año	NCMS000	C0439234	calificador	42-45	692_QUEST_clinical_caseMIR	SENT1	-	-
-12	,	,	Fc	-	-	45-46	692_QUEST_clinical_caseMIR	SENT1	-	-
-13	que	que	CS	-	-	47-50	692_QUEST_clinical_caseMIR	SENT1	-	-
-14	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	51-59	692_QUEST_clinical_caseMIR	SENT1	-	-
-15	por	por	SPS00	C1719974_2	procedimiento_2	60-63	692_QUEST_clinical_caseMIR	SENT1	-	-
-16	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	64-69	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-17	en	en	SPS00	C1720294#C0332285	calificador#atributo	70-72	692_QUEST_clinical_caseMIR	SENT1	-	-
-18	borde	borde	NCMS000	C0205154	calificador	73-78	692_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-19	cubital	cubital	AQ0CS0	C0442044	calificador	79-86	692_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-20	del	del	SP+DA	-	-	87-90	692_QUEST_clinical_caseMIR	SENT1	-	-
-21	brazo	brazo	NCMS000	C1268256#C0230347_1	estructura_corporal_1	91-96	692_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-22	izquierdo	izquierdo	NC00SC0	C1268256#C0230347_2	estructura_corporal_2	97-106	692_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-23	y	y	CC	C1706368	calificador	107-108	692_QUEST_clinical_caseMIR	SENT1	-	-
-24	ptosis	ptosis	NCFN000	C0005745_1	trastorno_1	109-115	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	palpebral	palpebral	AQ0CS0	C0005745_2	trastorno_2	116-125	692_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
-26	izquierda	izquierdo	AQ0FS0	C0205091	calificador	126-135	692_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
-27	desde	desde	SPS00	-	-	136-141	692_QUEST_clinical_caseMIR	SENT1	-	-
-28	hace	hacer	VMIP3S0	-	-	142-146	692_QUEST_clinical_caseMIR	SENT1	-	-
-29	un	un		C0205447_1	calificador_1	147-149	692_QUEST_clinical_caseMIR	SENT1	-	-
-30	mes	mes	NCMS000	C0439231	calificador	150-153	692_QUEST_clinical_caseMIR	SENT1	-	-
-31	.	.	Fp	-	-	153-154	692_QUEST_clinical_caseMIR	SENT1	-	-
+1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	692_QUEST_clinical_caseMIR	SENT1	-	-
+2	80	80	Z	-	-	12-14	692_QUEST_clinical_caseMIR	SENT1	-	-
+3	mg	mg	NCMN000	-	-	15-17	692_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	18-20	692_QUEST_clinical_caseMIR	SENT1	-	-
+5	metilprednisolona	metilprednisolona	NC00SC0	C0025815	sustancia	21-38	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	iv.	iv.	AQ0CS00	-	-	39-42	692_QUEST_clinical_caseMIR	SENT1	-	-
+7	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	692_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	7-9	692_QUEST_clinical_caseMIR	SENT1	-	-
+9	60	60		-	-	10-12	692_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	13-17	692_QUEST_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	17-18	692_QUEST_clinical_caseMIR	SENT1	-	-
+12	fumador	fumador	NCMS000	C0337664	hallazgo	19-26	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	27-29	692_QUEST_clinical_caseMIR	SENT1	-	-
+14	40	40		-	-	30-32	692_QUEST_clinical_caseMIR	SENT1	-	-
+15	paquetes	paquete	NCMP000	C1641805	calificador	33-41	692_QUEST_clinical_caseMIR	SENT1	-	-
+16	/	/	Fh	-	-	41-42	692_QUEST_clinical_caseMIR	SENT1	-	-
+17	año	año	NCMS000	C0439234	calificador	42-45	692_QUEST_clinical_caseMIR	SENT1	-	-
+18	,	,	Fc	-	-	45-46	692_QUEST_clinical_caseMIR	SENT1	-	-
+19	que	que	CS	-	-	47-50	692_QUEST_clinical_caseMIR	SENT1	-	-
+20	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	51-59	692_QUEST_clinical_caseMIR	SENT1	-	-
+21	por	por	SPS00	C1719974_2	procedimiento_2	60-63	692_QUEST_clinical_caseMIR	SENT1	-	-
+22	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	64-69	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	70-72	692_QUEST_clinical_caseMIR	SENT1	-	-
+24	borde	borde	NCMS000	C0205154	calificador	73-78	692_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	cubital	cubital	AQ0CS0	C0442044	calificador	79-86	692_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	del	del	SP+DA	-	-	87-90	692_QUEST_clinical_caseMIR	SENT1	-	-
+27	brazo	brazo	NCMS000	C1268256#C0230347_1	estructura_corporal_1	91-96	692_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	izquierdo	izquierdo	NC00SC0	C1268256#C0230347_2	estructura_corporal_2	97-106	692_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+29	y	y	CC	C1706368	calificador	107-108	692_QUEST_clinical_caseMIR	SENT1	-	-
+30	ptosis	ptosis	NCFN000	C0005745_1	trastorno_1	109-115	692_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	palpebral	palpebral	AQ0CS0	C0005745_2	trastorno_2	116-125	692_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	izquierda	izquierdo	AQ0FS0	C0205091	calificador	126-135	692_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+33	desde	desde	SPS00	-	-	136-141	692_QUEST_clinical_caseMIR	SENT1	-	-
+34	hace	hacer	VMIP3S0	-	-	142-146	692_QUEST_clinical_caseMIR	SENT1	-	-
+35	un	un		C0205447_1	calificador_1	147-149	692_QUEST_clinical_caseMIR	SENT1	-	-
+36	mes	mes	NCMS000	C0439231	calificador	150-153	692_QUEST_clinical_caseMIR	SENT1	-	-
+37	.	.	Fp	-	-	153-154	692_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	La	el	DA0FS0	-	-	155-157	692_QUEST_clinical_caseMIR	SENT2	-	-
 2	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	158-169	692_QUEST_clinical_caseMIR	SENT2	-	-
@@ -69,5 +75,6 @@
 11	más	más	RG	C0205172	calificador	351-354	692_QUEST_clinical_caseMIR	SENT3	-	-
 12	adecuado	adecuar	VMP00SM	-	-	355-363	692_QUEST_clinical_caseMIR	SENT3	-	-
 13	es	ser	VSIP3S0	-	-	364-366	692_QUEST_clinical_caseMIR	SENT3	-	-
-14	.	.	Fp	-	-	366-367	692_QUEST_clinical_caseMIR	SENT3	-	-
+14	:	:	Fd	-	-	366-367	692_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	367-368	692_QUEST_clinical_caseMIR	SENT3	-	-
 

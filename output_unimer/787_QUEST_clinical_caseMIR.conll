@@ -56,11 +56,14 @@
 3	estable	estable	NC00SC0	C0205360	calificador	298-305	787_QUEST_clinical_caseMIR	SENT3	-	-
 4	.	.	Fp	-	-	305-306	787_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	307-311	787_QUEST_clinical_caseMIR	SENT4	-	-
-2	sería	ser	VSIC1S0	-	-	312-317	787_QUEST_clinical_caseMIR	SENT4	-	-
-3	el	el	DA0MS0	-	-	318-320	787_QUEST_clinical_caseMIR	SENT4	-	-
-4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	321-332	787_QUEST_clinical_caseMIR	SENT4	-	-
-5	de	de	SPS00	C0332285	atributo	333-335	787_QUEST_clinical_caseMIR	SENT4	-	-
-6	elección	elección	NCFS000	-	-	336-344	787_QUEST_clinical_caseMIR	SENT4	-	-
-7	.	.	Fp	-	-	344-345	787_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	307-308	787_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	308-312	787_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	313-318	787_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	319-321	787_QUEST_clinical_caseMIR	SENT4	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	322-333	787_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	334-336	787_QUEST_clinical_caseMIR	SENT4	-	-
+7	elección	elección	NCFS000	-	-	337-345	787_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	345-346	787_QUEST_clinical_caseMIR	SENT4	-	-
+9	:	:	Fd	-	-	346-347	787_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	347-348	787_QUEST_clinical_caseMIR	SENT4	-	-
 

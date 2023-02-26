@@ -63,10 +63,13 @@
 27	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	342-349	771_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 28	.	.	Fp	-	-	349-350	771_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	351-355	771_QUEST_clinical_caseMIR	SENT4	-	-
-2	sería	ser	VSIC1S0	-	-	356-361	771_QUEST_clinical_caseMIR	SENT4	-	-
-3	la	el	DA0FS0	-	-	362-364	771_QUEST_clinical_caseMIR	SENT4	-	-
-4	respuesta	respuesta	NCFS000	-	-	365-374	771_QUEST_clinical_caseMIR	SENT4	-	-
-5	INCORRECTA	incorrecto	AQ0FS0	-	-	375-385	771_QUEST_clinical_caseMIR	SENT4	-	-
-6	.	.	Fp	-	-	385-386	771_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	351-352	771_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	352-356	771_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	357-362	771_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	363-365	771_QUEST_clinical_caseMIR	SENT4	-	-
+5	respuesta	respuesta	NCFS000	-	-	366-375	771_QUEST_clinical_caseMIR	SENT4	-	-
+6	INCORRECTA	incorrecto	AQ0FS0	-	-	376-386	771_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	386-387	771_QUEST_clinical_caseMIR	SENT4	-	-
+8	:	:	Fd	-	-	387-388	771_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	388-389	771_QUEST_clinical_caseMIR	SENT4	-	-
 

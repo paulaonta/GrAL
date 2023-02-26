@@ -153,17 +153,20 @@
 41	artificial	artificial	AQ0CS0	C2004457	calificador	795-805	56_QUEST_clinical_caseMIR	SENT8	-	-
 42	.	.	Fp	-	-	805-806	56_QUEST_clinical_caseMIR	SENT8	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	807-811	56_QUEST_clinical_caseMIR	SENT9	-	-
-2	de	de	SPS00	C0332285	atributo	812-814	56_QUEST_clinical_caseMIR	SENT9	-	-
-3	las	el	DA0FP0	-	-	815-818	56_QUEST_clinical_caseMIR	SENT9	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	819-829	56_QUEST_clinical_caseMIR	SENT9	-	-
-5	es	ser	VSIP3S0	-	-	830-832	56_QUEST_clinical_caseMIR	SENT9	-	-
-6	la	el	DA0FS0	-	-	833-835	56_QUEST_clinical_caseMIR	SENT9	-	-
-7	recomendación	recomendación	NCFS000	C0150600	procedimiento	836-849	56_QUEST_clinical_caseMIR	SENT9	-	-
-8	más	más	RG	C0205172	calificador	850-853	56_QUEST_clinical_caseMIR	SENT9	-	-
-9	apropiada	apropiar	VMP00SF	-	-	854-863	56_QUEST_clinical_caseMIR	SENT9	-	-
-10	para	para	SPS00	C0521125	calificador	864-868	56_QUEST_clinical_caseMIR	SENT9	-	-
-11	este	este	DD0MS0	-	-	869-873	56_QUEST_clinical_caseMIR	SENT9	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	874-882	56_QUEST_clinical_caseMIR	SENT9	-	-
-13	.	.	Fp	-	-	882-883	56_QUEST_clinical_caseMIR	SENT9	-	-
+1	¿	¿	Fia	-	-	807-808	56_QUEST_clinical_caseMIR	SENT9	-	-
+2	Cuál	cuál	PT0CS000	-	-	808-812	56_QUEST_clinical_caseMIR	SENT9	-	-
+3	de	de	SPS00	C0332285	atributo	813-815	56_QUEST_clinical_caseMIR	SENT9	-	-
+4	las	el	DA0FP0	-	-	816-819	56_QUEST_clinical_caseMIR	SENT9	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	820-830	56_QUEST_clinical_caseMIR	SENT9	-	-
+6	es	ser	VSIP3S0	-	-	831-833	56_QUEST_clinical_caseMIR	SENT9	-	-
+7	la	el	DA0FS0	-	-	834-836	56_QUEST_clinical_caseMIR	SENT9	-	-
+8	recomendación	recomendación	NCFS000	C0150600	procedimiento	837-850	56_QUEST_clinical_caseMIR	SENT9	-	-
+9	más	más	RG	C0205172	calificador	851-854	56_QUEST_clinical_caseMIR	SENT9	-	-
+10	apropiada	apropiar	VMP00SF	-	-	855-864	56_QUEST_clinical_caseMIR	SENT9	-	-
+11	para	para	SPS00	C0521125	calificador	865-869	56_QUEST_clinical_caseMIR	SENT9	-	-
+12	este	este	DD0MS0	-	-	870-874	56_QUEST_clinical_caseMIR	SENT9	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	875-883	56_QUEST_clinical_caseMIR	SENT9	-	-
+14	?	?	Fit	-	-	883-884	56_QUEST_clinical_caseMIR	SENT9	-	-
+15	:	:	Fd	-	-	884-885	56_QUEST_clinical_caseMIR	SENT9	-	-
+16	.	.	Fp	-	-	885-886	56_QUEST_clinical_caseMIR	SENT9	-	-
 

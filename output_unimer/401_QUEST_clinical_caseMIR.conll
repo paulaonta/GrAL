@@ -120,13 +120,15 @@
 13	min	minuto	NCMN000	C0439232	calificador	645-648	401_QUEST_clinical_caseMIR	SENT7	-	-
 14	.	.	Fp	-	-	648-649	401_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	Qué	qué	DE0CN0	-	-	650-653	401_QUEST_clinical_caseMIR	SENT8	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	654-665	401_QUEST_clinical_caseMIR	SENT8	-	-
-3	entre	entre	SPS00	C0205103	calificador	666-671	401_QUEST_clinical_caseMIR	SENT8	-	-
-4	los	el	DA0MP0	-	-	672-675	401_QUEST_clinical_caseMIR	SENT8	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	676-686	401_QUEST_clinical_caseMIR	SENT8	-	-
-6	es	ser	VSIP3S0	-	-	687-689	401_QUEST_clinical_caseMIR	SENT8	-	-
-7	más	más	RG	C0205172	calificador	690-693	401_QUEST_clinical_caseMIR	SENT8	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	694-702	401_QUEST_clinical_caseMIR	SENT8	-	-
-9	.	.	Fp	-	-	702-703	401_QUEST_clinical_caseMIR	SENT8	-	-
+1	¿	¿	Fia	-	-	650-651	401_QUEST_clinical_caseMIR	SENT8	-	-
+2	Qué	qué	DT0CN0	-	-	651-654	401_QUEST_clinical_caseMIR	SENT8	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	655-666	401_QUEST_clinical_caseMIR	SENT8	-	-
+4	entre	entre	SPS00	C0205103	calificador	667-672	401_QUEST_clinical_caseMIR	SENT8	-	-
+5	los	el	DA0MP0	-	-	673-676	401_QUEST_clinical_caseMIR	SENT8	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	677-687	401_QUEST_clinical_caseMIR	SENT8	-	-
+7	es	ser	VSIP3S0	-	-	688-690	401_QUEST_clinical_caseMIR	SENT8	-	-
+8	más	más	RG	C0205172	calificador	691-694	401_QUEST_clinical_caseMIR	SENT8	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	695-703	401_QUEST_clinical_caseMIR	SENT8	-	-
+10	?	?	Fit	-	-	703-704	401_QUEST_clinical_caseMIR	SENT8	-	-
+11	.	.	Fp	-	-	704-705	401_QUEST_clinical_caseMIR	SENT8	-	-
 

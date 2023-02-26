@@ -29,7 +29,7 @@
 29	los	el	DA0MP0	-	-	157-160	277_QUEST_clinical_caseMIR	SENT1	-	-
 30	siguientes	siguiente	AQ0CP0	C0332282	atributo	161-171	277_QUEST_clinical_caseMIR	SENT1	-	-
 31	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	172-181	277_QUEST_clinical_caseMIR	SENT1	-	-
-32	.	.	Fp	-	-	181-182	277_QUEST_clinical_caseMIR	SENT1	-	-
+32	:	:	Fd	-	-	181-182	277_QUEST_clinical_caseMIR	SENT1	-	-
 33	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	183-189	277_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
 34	polipoidea	polipoidea	NCFS000	-	-	190-200	277_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
 35	de	de	SPS00	C0332285	atributo	201-203	277_QUEST_clinical_caseMIR	SENT1	-	-
@@ -80,43 +80,43 @@
 
 1	Ecografía	ecografía	NCFS000	C2315751_1	procedimiento_1	422-431	277_QUEST_clinical_caseMIR	SENT4	-	-
 2	endorrectal	endorrectal		C2315751_2	procedimiento_2	432-443	277_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
-3	.	.	Fp	-	-	443-444	277_QUEST_clinical_caseMIR	SENT4	-	-
+3	:	:	Fd	-	-	443-444	277_QUEST_clinical_caseMIR	SENT4	-	-
 4	uT1N0	uT1N0		-	-	445-450	277_QUEST_clinical_caseMIR	SENT4	-	-
 5	.	.	Fp	-	-	450-451	277_QUEST_clinical_caseMIR	SENT4	-	-
 
 1	RM	rm	NC00YL0	-	-	452-454	277_QUEST_clinical_caseMIR	SENT5	-	-
 2	pélvica	pélvico	AQ0FS0	C0030797	calificador	455-462	277_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
-3	.	.	Fp	-	-	462-463	277_QUEST_clinical_caseMIR	SENT5	-	-
+3	:	:	Fd	-	-	462-463	277_QUEST_clinical_caseMIR	SENT5	-	-
+4	T1N0	T1N0		-	-	464-468	277_QUEST_clinical_caseMIR	SENT5	-	-
+5	.	.	Fp	-	-	468-469	277_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	T1N0	T1N0		-	-	464-468	277_QUEST_clinical_caseMIR	SENT6	-	-
-2	.	.	Fp	-	-	468-469	277_QUEST_clinical_caseMIR	SENT6	-	-
+1	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	470-472	277_QUEST_clinical_caseMIR	SENT6	-	-
+2	:	:	Fd	-	-	472-473	277_QUEST_clinical_caseMIR	SENT6	-	-
+3	Sin	sin	SPS00	C0332125_1	calificador_1	474-477	277_QUEST_clinical_caseMIR	SENT6	-	-
+4	evidencia	evidenciar	VMM02S0	C0332125_2	calificador_2	478-487	277_QUEST_clinical_caseMIR	SENT6	-	-
+5	de	de	SPS00	C0332125_3	calificador_3	488-490	277_QUEST_clinical_caseMIR	SENT6	-	-
+6	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	491-501	277_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Negacion
+7	a	a	SPS00	-	-	502-503	277_QUEST_clinical_caseMIR	SENT6	-	-
+8	distancia	distancia	NCFS000	C0012751	calificador	504-513	277_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	513-514	277_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	470-472	277_QUEST_clinical_caseMIR	SENT7	-	-
-2	.	.	Fp	-	-	472-473	277_QUEST_clinical_caseMIR	SENT7	-	-
-
-1	Sin	sin	SPS00	C0332125_1	calificador_1	474-477	277_QUEST_clinical_caseMIR	SENT8	-	-
-2	evidencia	evidenciar	VMM02S0	C0332125_2	calificador_2	478-487	277_QUEST_clinical_caseMIR	SENT8	-	-
-3	de	de	SPS00	C0332125_3	calificador_3	488-490	277_QUEST_clinical_caseMIR	SENT8	-	-
-4	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	491-501	277_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Negacion
-5	a	a	SPS00	-	-	502-503	277_QUEST_clinical_caseMIR	SENT8	-	-
-6	distancia	distancia	NCFS000	C0012751	calificador	504-513	277_QUEST_clinical_caseMIR	SENT8	-	-
-7	.	.	Fp	-	-	513-514	277_QUEST_clinical_caseMIR	SENT8	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	515-519	277_QUEST_clinical_caseMIR	SENT9	-	-
-2	será	ser	VSIF3S0	-	-	520-524	277_QUEST_clinical_caseMIR	SENT9	-	-
-3	la	el	DA0FS0	-	-	525-527	277_QUEST_clinical_caseMIR	SENT9	-	-
-4	decisión	decisión	NCFS000	-	-	528-536	277_QUEST_clinical_caseMIR	SENT9	-	-
-5	terapéutica	terapéutico	AQ0FS0	-	-	537-548	277_QUEST_clinical_caseMIR	SENT9	-	-
-6	más	más	RG	C0205172	calificador	549-552	277_QUEST_clinical_caseMIR	SENT9	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	553-561	277_QUEST_clinical_caseMIR	SENT9	-	-
-8	que	que	CS	-	-	562-565	277_QUEST_clinical_caseMIR	SENT9	-	-
-9	se	se	P00CN000	-	-	566-568	277_QUEST_clinical_caseMIR	SENT9	-	-
-10	tome	tomar	VMSP3S0	C1515187	calificador	569-573	277_QUEST_clinical_caseMIR	SENT9	-	-
-11	en	en	SPS00	C1720294#C0332285	calificador#atributo	574-576	277_QUEST_clinical_caseMIR	SENT9	-	-
-12	la	el	DA0FS0	-	-	577-579	277_QUEST_clinical_caseMIR	SENT9	-	-
-13	Comisión	comisión	NCFS000	-	-	580-588	277_QUEST_clinical_caseMIR	SENT9	-	-
-14	Multidisciplinar	multidisciplinar	AQ0CS0	-	-	589-605	277_QUEST_clinical_caseMIR	SENT9	-	-
-15	de	de	SPS00	C0332285	atributo	606-608	277_QUEST_clinical_caseMIR	SENT9	-	-
-16	Tumores	tumor	NCMP000	C0027651	anomalía_morfológica	609-616	277_QUEST_clinical_caseMIR	SENT9	-	-
-17	.	.	Fp	-	-	616-617	277_QUEST_clinical_caseMIR	SENT9	-	-
+1	¿	¿	Fia	-	-	515-516	277_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	516-520	277_QUEST_clinical_caseMIR	SENT7	-	-
+3	será	ser	VSIF3S0	-	-	521-525	277_QUEST_clinical_caseMIR	SENT7	-	-
+4	la	el	DA0FS0	-	-	526-528	277_QUEST_clinical_caseMIR	SENT7	-	-
+5	decisión	decisión	NCFS000	-	-	529-537	277_QUEST_clinical_caseMIR	SENT7	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	538-549	277_QUEST_clinical_caseMIR	SENT7	-	-
+7	más	más	RG	C0205172	calificador	550-553	277_QUEST_clinical_caseMIR	SENT7	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	554-562	277_QUEST_clinical_caseMIR	SENT7	-	-
+9	que	que	CS	-	-	563-566	277_QUEST_clinical_caseMIR	SENT7	-	-
+10	se	se	P00CN000	-	-	567-569	277_QUEST_clinical_caseMIR	SENT7	-	-
+11	tome	tomar	VMSP3S0	C1515187	calificador	570-574	277_QUEST_clinical_caseMIR	SENT7	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	575-577	277_QUEST_clinical_caseMIR	SENT7	-	-
+13	la	el	DA0FS0	-	-	578-580	277_QUEST_clinical_caseMIR	SENT7	-	-
+14	Comisión	comisión	NCFS000	-	-	581-589	277_QUEST_clinical_caseMIR	SENT7	-	-
+15	Multidisciplinar	multidisciplinar	AQ0CS0	-	-	590-606	277_QUEST_clinical_caseMIR	SENT7	-	-
+16	de	de	SPS00	C0332285	atributo	607-609	277_QUEST_clinical_caseMIR	SENT7	-	-
+17	Tumores	tumor	NCMP000	C0027651	anomalía_morfológica	610-617	277_QUEST_clinical_caseMIR	SENT7	-	-
+18	?	?	Fit	-	-	617-618	277_QUEST_clinical_caseMIR	SENT7	-	-
+19	.	.	Fp	-	-	618-619	277_QUEST_clinical_caseMIR	SENT7	-	-
 

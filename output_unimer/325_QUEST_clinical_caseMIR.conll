@@ -124,10 +124,12 @@
 14	positiva	positivo	AQ0FS0	C1446409	calificador	684-692	325_QUEST_clinical_caseMIR	SENT5	-	-
 15	.	.	Fp	-	-	692-693	325_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	694-698	325_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	699-701	325_QUEST_clinical_caseMIR	SENT6	-	-
-3	la	el	DA0FS0	-	-	702-704	325_QUEST_clinical_caseMIR	SENT6	-	-
-4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	705-713	325_QUEST_clinical_caseMIR	SENT6	-	-
-5	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	714-725	325_QUEST_clinical_caseMIR	SENT6	-	-
-6	.	.	Fp	-	-	725-726	325_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	694-695	325_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	695-699	325_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	700-702	325_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	el	DA0FS0	-	-	703-705	325_QUEST_clinical_caseMIR	SENT6	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	706-714	325_QUEST_clinical_caseMIR	SENT6	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	715-726	325_QUEST_clinical_caseMIR	SENT6	-	-
+7	?	?	Fit	-	-	726-727	325_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	727-728	325_QUEST_clinical_caseMIR	SENT6	-	-
 

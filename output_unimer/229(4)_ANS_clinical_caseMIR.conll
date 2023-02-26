@@ -1,0 +1,20 @@
+1	Realizaría	realizar	VMIC3S0	-	-	0-10	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	11-14	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	15-22	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	/	/	Fh	-	-	22-23	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	aspirado	aspirado	NC00SC0	C0370199	espécimen	23-31	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	32-34	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	medula	medula	NCFS000	-	-	35-41	229(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	42-46	229(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	y	y	CC	C1706368	calificador	47-48	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	si	si	CS	-	-	49-51	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	se	se	P00CN000	-	-	52-54	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	confirma	confirmar	VMIP3S0	-	-	55-63	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	hemofagocitosis	hemofagocitosis	NC00SC0	C0302486#C0876991	hallazgo	64-79	229(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	,	,	Fc	-	-	79-80	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	iniciaría	iniciar	VMIC3S0	-	-	81-90	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	91-102	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0332287	atributo	103-106	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	inmunosupresores	inmunosupresor	AQ0MP0	C0021081	producto#sustancia	107-123	229(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	.	.	Fp	-	-	123-124	229(4)_ANS_clinical_caseMIR	SENT1	-	-
+

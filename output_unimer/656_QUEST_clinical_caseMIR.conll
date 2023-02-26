@@ -1,38 +1,39 @@
-1	.	.	Fp	-	-	0-1	656_QUEST_clinical_caseMIR	SENT1	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	2-6	656_QUEST_clinical_caseMIR	SENT2	-	-
-2	sería	ser	VSIC1S0	-	-	7-12	656_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	13-15	656_QUEST_clinical_caseMIR	SENT2	-	-
-4	manejo	manejo	NCMS000	C1273870	procedimiento	16-22	656_QUEST_clinical_caseMIR	SENT2	-	-
-5	de	de	SPS00	C0332285	atributo	23-25	656_QUEST_clinical_caseMIR	SENT2	-	-
-6	una	una		C0205447_1	calificador_1	26-29	656_QUEST_clinical_caseMIR	SENT2	-	-
-7	paciente	paciente	NCCS000	C0030705	persona	30-38	656_QUEST_clinical_caseMIR	SENT2	-	-
-8	de	de	SPS00	C0332285	atributo	39-41	656_QUEST_clinical_caseMIR	SENT2	-	-
-9	31	31		-	-	42-44	656_QUEST_clinical_caseMIR	SENT2	-	-
-10	años	año	NCMP000	C0439234	calificador	45-49	656_QUEST_clinical_caseMIR	SENT2	-	-
-11	,	,	Fc	-	-	49-50	656_QUEST_clinical_caseMIR	SENT2	-	-
-12	nuligesta	nuligesta	NCFS000	-	-	51-60	656_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
-13	y	y	CC	C1706368	calificador	61-62	656_QUEST_clinical_caseMIR	SENT2	-	-
-14	asintomática	asintomático	AQ0FS0	-	-	63-75	656_QUEST_clinical_caseMIR	SENT2	-	-
-15	,	,	Fc	-	-	75-76	656_QUEST_clinical_caseMIR	SENT2	-	-
-16	a	a	SPS00	-	-	77-78	656_QUEST_clinical_caseMIR	SENT2	-	-
-17	la	el	DA0FS0	-	-	79-81	656_QUEST_clinical_caseMIR	SENT2	-	-
-18	que	que	PR0CN000	-	-	82-85	656_QUEST_clinical_caseMIR	SENT2	-	-
-19	diagnosticamos	diagnosticar	VMIP1P0	-	-	86-100	656_QUEST_clinical_caseMIR	SENT2	-	-
-20	en	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	656_QUEST_clinical_caseMIR	SENT2	-	-
-21	una	una		C0205447_1	calificador_1	104-107	656_QUEST_clinical_caseMIR	SENT2	-	-
-22	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	108-117	656_QUEST_clinical_caseMIR	SENT2	-	-
-23	rutinaria	rutinario	AQ0FS0	-	-	118-127	656_QUEST_clinical_caseMIR	SENT2	-	-
-24	una	una		C0205447_1	calificador_1	128-131	656_QUEST_clinical_caseMIR	SENT2	-	-
-25	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	132-138	656_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
-26	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	139-149	656_QUEST_clinical_caseMIR	SENT2	-	-
-27	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	150-153	656_QUEST_clinical_caseMIR	SENT2	-	-
-28	un	un		C0205447_1	calificador_1	154-156	656_QUEST_clinical_caseMIR	SENT2	-	-
-29	endometrioma	endometrioma	NC00SC0	C0269102#C1536148	anomalía_morfológica#trastorno	157-169	656_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
-30	ovárico	ovárico	AQ0MS0	-	-	170-177	656_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
-31	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	178-185	656_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
-32	de	de	SPS00	C0332285	atributo	186-188	656_QUEST_clinical_caseMIR	SENT2	-	-
-33	4	4	Z	-	-	189-190	656_QUEST_clinical_caseMIR	SENT2	-	-
-34	cm	cm	NCMN000	-	-	191-193	656_QUEST_clinical_caseMIR	SENT2	-	-
-35	.	.	Fp	-	-	193-194	656_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	0-1	656_QUEST_clinical_caseMIR	SENT1	-	-
+2	Cuál	cuál	PT0CS000	-	-	1-5	656_QUEST_clinical_caseMIR	SENT1	-	-
+3	sería	ser	VSIC1S0	-	-	6-11	656_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	12-14	656_QUEST_clinical_caseMIR	SENT1	-	-
+5	manejo	manejo	NCMS000	C1273870	procedimiento	15-21	656_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	22-24	656_QUEST_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	25-28	656_QUEST_clinical_caseMIR	SENT1	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	29-37	656_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	38-40	656_QUEST_clinical_caseMIR	SENT1	-	-
+10	31	31		-	-	41-43	656_QUEST_clinical_caseMIR	SENT1	-	-
+11	años	año	NCMP000	C0439234	calificador	44-48	656_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	48-49	656_QUEST_clinical_caseMIR	SENT1	-	-
+13	nuligesta	nuligesta	NCFS000	-	-	50-59	656_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	60-61	656_QUEST_clinical_caseMIR	SENT1	-	-
+15	asintomática	asintomático	AQ0FS0	-	-	62-74	656_QUEST_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	74-75	656_QUEST_clinical_caseMIR	SENT1	-	-
+17	a	a	SPS00	-	-	76-77	656_QUEST_clinical_caseMIR	SENT1	-	-
+18	la	el	DA0FS0	-	-	78-80	656_QUEST_clinical_caseMIR	SENT1	-	-
+19	que	que	PR0CN000	-	-	81-84	656_QUEST_clinical_caseMIR	SENT1	-	-
+20	diagnosticamos	diagnosticar	VMIP1P0	-	-	85-99	656_QUEST_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	100-102	656_QUEST_clinical_caseMIR	SENT1	-	-
+22	una	una		C0205447_1	calificador_1	103-106	656_QUEST_clinical_caseMIR	SENT1	-	-
+23	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	107-116	656_QUEST_clinical_caseMIR	SENT1	-	-
+24	rutinaria	rutinario	AQ0FS0	-	-	117-126	656_QUEST_clinical_caseMIR	SENT1	-	-
+25	una	una		C0205447_1	calificador_1	127-130	656_QUEST_clinical_caseMIR	SENT1	-	-
+26	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	131-137	656_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	138-148	656_QUEST_clinical_caseMIR	SENT1	-	-
+28	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	149-152	656_QUEST_clinical_caseMIR	SENT1	-	-
+29	un	un		C0205447_1	calificador_1	153-155	656_QUEST_clinical_caseMIR	SENT1	-	-
+30	endometrioma	endometrioma	NC00SC0	C0269102#C1536148	anomalía_morfológica#trastorno	156-168	656_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+31	ovárico	ovárico	AQ0MS0	-	-	169-176	656_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	177-184	656_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+33	de	de	SPS00	C0332285	atributo	185-187	656_QUEST_clinical_caseMIR	SENT1	-	-
+34	4	4	Z	-	-	188-189	656_QUEST_clinical_caseMIR	SENT1	-	-
+35	cm	cm	NCMN000	-	-	190-192	656_QUEST_clinical_caseMIR	SENT1	-	-
+36	?	?	Fit	-	-	192-193	656_QUEST_clinical_caseMIR	SENT1	-	-
+37	:	:	Fd	-	-	193-194	656_QUEST_clinical_caseMIR	SENT1	-	-
+38	.	.	Fp	-	-	194-195	656_QUEST_clinical_caseMIR	SENT1	-	-
 

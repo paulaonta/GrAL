@@ -101,118 +101,117 @@
 2	el	el	DA0MS0	-	-	563-565	711_QUEST_clinical_caseMIR	SENT4	-	-
 3	hemograma	hemograma	NCMS000	C0200631	procedimiento	566-575	711_QUEST_clinical_caseMIR	SENT4	-	-
 4	destaca	destacar	VMIP3S0	-	-	576-583	711_QUEST_clinical_caseMIR	SENT4	-	-
-5	.	.	Fp	-	-	583-584	711_QUEST_clinical_caseMIR	SENT4	-	-
+5	:	:	Fd	-	-	583-584	711_QUEST_clinical_caseMIR	SENT4	-	-
+6	Hb	hb	NC00YL0	-	-	585-587	711_QUEST_clinical_caseMIR	SENT4	-	-
+7	6	6	Z	-	-	588-589	711_QUEST_clinical_caseMIR	SENT4	-	-
+8	gr	g	NC00SC0	-	-	590-592	711_QUEST_clinical_caseMIR	SENT4	-	-
+9	/	/	Fh	-	-	592-593	711_QUEST_clinical_caseMIR	SENT4	-	-
+10	dL	decilitro	NCMN000	C0439241	calificador	593-595	711_QUEST_clinical_caseMIR	SENT4	-	-
+11	,	,	Fc	-	-	595-596	711_QUEST_clinical_caseMIR	SENT4	-	-
+12	Hto	hematócrito	NC00YL0	-	-	597-600	711_QUEST_clinical_caseMIR	SENT4	-	-
+13	27	27	Z	-	-	601-603	711_QUEST_clinical_caseMIR	SENT4	-	-
+14	%	%	Ft	-	-	604-605	711_QUEST_clinical_caseMIR	SENT4	-	-
+15	,	,	Fc	-	-	605-606	711_QUEST_clinical_caseMIR	SENT4	-	-
+16	VCM	vcm	NC00SC0	C0524587	entidad_observable	607-610	711_QUEST_clinical_caseMIR	SENT4	-	-
+17	105	105		-	-	611-614	711_QUEST_clinical_caseMIR	SENT4	-	-
+18	fL	fl	NC00SC0	C0475213	calificador	615-617	711_QUEST_clinical_caseMIR	SENT4	-	-
+19	,	,	Fc	-	-	617-618	711_QUEST_clinical_caseMIR	SENT4	-	-
+20	3.420	3.420		-	-	619-624	711_QUEST_clinical_caseMIR	SENT4	-	-
+21	leucocitos/mm3	leucocitos/mm3		-	-	625-639	711_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+22	(	(	Fpa	-	-	640-641	711_QUEST_clinical_caseMIR	SENT4	-	-
+23	2300	2300		-	-	641-645	711_QUEST_clinical_caseMIR	SENT4	-	-
+24	neutrófilos/mm3	neutrófilos/mm3		-	-	646-661	711_QUEST_clinical_caseMIR	SENT4	-	-
+25	,	,	Fc	-	-	661-662	711_QUEST_clinical_caseMIR	SENT4	-	-
+26	800	800		-	-	663-666	711_QUEST_clinical_caseMIR	SENT4	-	-
+27	linfocitos/mm3	linfocitos/mm3		-	-	667-681	711_QUEST_clinical_caseMIR	SENT4	-	-
+28	,	,	Fc	-	-	681-682	711_QUEST_clinical_caseMIR	SENT4	-	-
+29	250	250		-	-	683-686	711_QUEST_clinical_caseMIR	SENT4	-	-
+30	monocitos/mm3	monocitos/mm3		-	-	687-700	711_QUEST_clinical_caseMIR	SENT4	-	-
+31	,	,	Fc	-	-	700-701	711_QUEST_clinical_caseMIR	SENT4	-	-
+32	50	50		-	-	702-704	711_QUEST_clinical_caseMIR	SENT4	-	-
+33	eosinófilos/mm3	eosinófilos/mm3		-	-	705-720	711_QUEST_clinical_caseMIR	SENT4	-	-
+34	,	,	Fc	-	-	720-721	711_QUEST_clinical_caseMIR	SENT4	-	-
+35	20	20		-	-	722-724	711_QUEST_clinical_caseMIR	SENT4	-	-
+36	basófilos/mm3	basófilos/mm3		-	-	725-738	711_QUEST_clinical_caseMIR	SENT4	-	-
+37	)	)	Fpt	-	-	738-739	711_QUEST_clinical_caseMIR	SENT4	-	-
+38	,	,	Fc	-	-	739-740	711_QUEST_clinical_caseMIR	SENT4	-	-
+39	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	741-750	711_QUEST_clinical_caseMIR	SENT4	-	-
+40	170.000/mm3	170.000/mm3		-	-	751-762	711_QUEST_clinical_caseMIR	SENT4	-	-
+41	.	.	Fp	-	-	762-763	711_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Hb	hb	NC00YL0	-	-	585-587	711_QUEST_clinical_caseMIR	SENT5	-	-
-2	6	6	Z	-	-	588-589	711_QUEST_clinical_caseMIR	SENT5	-	-
-3	gr	g	NC00SC0	-	-	590-592	711_QUEST_clinical_caseMIR	SENT5	-	-
-4	/	/	Fh	-	-	592-593	711_QUEST_clinical_caseMIR	SENT5	-	-
-5	dL	decilitro	NCMN000	C0439241	calificador	593-595	711_QUEST_clinical_caseMIR	SENT5	-	-
-6	,	,	Fc	-	-	595-596	711_QUEST_clinical_caseMIR	SENT5	-	-
-7	Hto	hematócrito	NC00YL0	-	-	597-600	711_QUEST_clinical_caseMIR	SENT5	-	-
-8	27	27	Z	-	-	601-603	711_QUEST_clinical_caseMIR	SENT5	-	-
-9	%	%	Ft	-	-	604-605	711_QUEST_clinical_caseMIR	SENT5	-	-
-10	,	,	Fc	-	-	605-606	711_QUEST_clinical_caseMIR	SENT5	-	-
-11	VCM	vcm	NC00SC0	C0524587	entidad_observable	607-610	711_QUEST_clinical_caseMIR	SENT5	-	-
-12	105	105		-	-	611-614	711_QUEST_clinical_caseMIR	SENT5	-	-
-13	fL	fl	NC00SC0	C0475213	calificador	615-617	711_QUEST_clinical_caseMIR	SENT5	-	-
-14	,	,	Fc	-	-	617-618	711_QUEST_clinical_caseMIR	SENT5	-	-
-15	3.420	3.420		-	-	619-624	711_QUEST_clinical_caseMIR	SENT5	-	-
-16	leucocitos/mm3	leucocitos/mm3		-	-	625-639	711_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
-17	(	(	Fpa	-	-	640-641	711_QUEST_clinical_caseMIR	SENT5	-	-
-18	2300	2300		-	-	641-645	711_QUEST_clinical_caseMIR	SENT5	-	-
-19	neutrófilos/mm3	neutrófilos/mm3		-	-	646-661	711_QUEST_clinical_caseMIR	SENT5	-	-
-20	,	,	Fc	-	-	661-662	711_QUEST_clinical_caseMIR	SENT5	-	-
-21	800	800		-	-	663-666	711_QUEST_clinical_caseMIR	SENT5	-	-
-22	linfocitos/mm3	linfocitos/mm3		-	-	667-681	711_QUEST_clinical_caseMIR	SENT5	-	-
-23	,	,	Fc	-	-	681-682	711_QUEST_clinical_caseMIR	SENT5	-	-
-24	250	250		-	-	683-686	711_QUEST_clinical_caseMIR	SENT5	-	-
-25	monocitos/mm3	monocitos/mm3		-	-	687-700	711_QUEST_clinical_caseMIR	SENT5	-	-
-26	,	,	Fc	-	-	700-701	711_QUEST_clinical_caseMIR	SENT5	-	-
-27	50	50		-	-	702-704	711_QUEST_clinical_caseMIR	SENT5	-	-
-28	eosinófilos/mm3	eosinófilos/mm3		-	-	705-720	711_QUEST_clinical_caseMIR	SENT5	-	-
-29	,	,	Fc	-	-	720-721	711_QUEST_clinical_caseMIR	SENT5	-	-
-30	20	20		-	-	722-724	711_QUEST_clinical_caseMIR	SENT5	-	-
-31	basófilos/mm3	basófilos/mm3		-	-	725-738	711_QUEST_clinical_caseMIR	SENT5	-	-
-32	)	)	Fpt	-	-	738-739	711_QUEST_clinical_caseMIR	SENT5	-	-
-33	,	,	Fc	-	-	739-740	711_QUEST_clinical_caseMIR	SENT5	-	-
-34	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	741-750	711_QUEST_clinical_caseMIR	SENT5	-	-
-35	170.000/mm3	170.000/mm3		-	-	751-762	711_QUEST_clinical_caseMIR	SENT5	-	-
-36	.	.	Fp	-	-	762-763	711_QUEST_clinical_caseMIR	SENT5	-	-
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	764-766	711_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	767-769	711_QUEST_clinical_caseMIR	SENT5	-	-
+3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	770-780	711_QUEST_clinical_caseMIR	SENT5	-	-
+4	:	:	Fd	-	-	780-781	711_QUEST_clinical_caseMIR	SENT5	-	-
+5	AST	aspartato_transaminasa	NC00YL0	-	-	782-785	711_QUEST_clinical_caseMIR	SENT5	-	-
+6	30	30		-	-	786-788	711_QUEST_clinical_caseMIR	SENT5	-	-
+7	UI	ui	NC00SC0	C0439453	calificador	789-791	711_QUEST_clinical_caseMIR	SENT5	-	-
+8	/	/	Fh	-	-	791-792	711_QUEST_clinical_caseMIR	SENT5	-	-
+9	L	l	NCFS000	-	-	792-793	711_QUEST_clinical_caseMIR	SENT5	-	-
+10	,	,	Fc	-	-	793-794	711_QUEST_clinical_caseMIR	SENT5	-	-
+11	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	795-798	711_QUEST_clinical_caseMIR	SENT5	-	-
+12	35	35		-	-	799-801	711_QUEST_clinical_caseMIR	SENT5	-	-
+13	UI	ui	NC00SC0	C0439453	calificador	802-804	711_QUEST_clinical_caseMIR	SENT5	-	-
+14	/	/	Fh	-	-	804-805	711_QUEST_clinical_caseMIR	SENT5	-	-
+15	L	l	NCFS000	-	-	805-806	711_QUEST_clinical_caseMIR	SENT5	-	-
+16	,	,	Fc	-	-	806-807	711_QUEST_clinical_caseMIR	SENT5	-	-
+17	GGT	gammaglutamiltranspeptidasa	NC00YL0	-	-	808-811	711_QUEST_clinical_caseMIR	SENT5	-	-
+18	59	59		-	-	812-814	711_QUEST_clinical_caseMIR	SENT5	-	-
+19	UI	ui	NC00SC0	C0439453	calificador	815-817	711_QUEST_clinical_caseMIR	SENT5	-	-
+20	/	/	Fh	-	-	817-818	711_QUEST_clinical_caseMIR	SENT5	-	-
+21	L	l	NCFS000	-	-	818-819	711_QUEST_clinical_caseMIR	SENT5	-	-
+22	,	,	Fc	-	-	819-820	711_QUEST_clinical_caseMIR	SENT5	-	-
+23	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	821-830	711_QUEST_clinical_caseMIR	SENT5	-	-
+24	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	831-839	711_QUEST_clinical_caseMIR	SENT5	-	-
+25	105	105		-	-	840-843	711_QUEST_clinical_caseMIR	SENT5	-	-
+26	UI	ui	NC00SC0	C0439453	calificador	844-846	711_QUEST_clinical_caseMIR	SENT5	-	-
+27	/	/	Fh	-	-	846-847	711_QUEST_clinical_caseMIR	SENT5	-	-
+28	L	l	NCFS000	-	-	847-848	711_QUEST_clinical_caseMIR	SENT5	-	-
+29	,	,	Fc	-	-	848-849	711_QUEST_clinical_caseMIR	SENT5	-	-
+30	LDH	ldh	NC00SC0	C0022917	sustancia	850-853	711_QUEST_clinical_caseMIR	SENT5	-	-
+31	490	490		-	-	854-857	711_QUEST_clinical_caseMIR	SENT5	-	-
+32	UI	ui	NC00SC0	C0439453	calificador	858-860	711_QUEST_clinical_caseMIR	SENT5	-	-
+33	/	/	Fh	-	-	860-861	711_QUEST_clinical_caseMIR	SENT5	-	-
+34	L	l	NCFS000	-	-	861-862	711_QUEST_clinical_caseMIR	SENT5	-	-
+35	,	,	Fc	-	-	862-863	711_QUEST_clinical_caseMIR	SENT5	-	-
+36	urea	urea	NCFS000	C0041942	sustancia	864-868	711_QUEST_clinical_caseMIR	SENT5	-	-
+37	20	20	Z	-	-	869-871	711_QUEST_clinical_caseMIR	SENT5	-	-
+38	mg	mg	NCMN000	-	-	872-874	711_QUEST_clinical_caseMIR	SENT5	-	-
+39	/	/	Fh	-	-	874-875	711_QUEST_clinical_caseMIR	SENT5	-	-
+40	dL	decilitro	NCMN000	C0439241	calificador	875-877	711_QUEST_clinical_caseMIR	SENT5	-	-
+41	,	,	Fc	-	-	877-878	711_QUEST_clinical_caseMIR	SENT5	-	-
+42	creatinina	creatinina	NC00SC0	C0010294	sustancia	879-889	711_QUEST_clinical_caseMIR	SENT5	-	-
+43	0,8	0.8	Z	-	-	890-893	711_QUEST_clinical_caseMIR	SENT5	-	-
+44	mg	mg	NCMN000	-	-	894-896	711_QUEST_clinical_caseMIR	SENT5	-	-
+45	/	/	Fh	-	-	896-897	711_QUEST_clinical_caseMIR	SENT5	-	-
+46	dL	decilitro	NCMN000	C0439241	calificador	897-899	711_QUEST_clinical_caseMIR	SENT5	-	-
+47	.	.	Fp	-	-	899-900	711_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	En	en	SPS00	C1720294#C0332285	calificador#atributo	764-766	711_QUEST_clinical_caseMIR	SENT6	-	-
-2	la	el	DA0FS0	-	-	767-769	711_QUEST_clinical_caseMIR	SENT6	-	-
-3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	770-780	711_QUEST_clinical_caseMIR	SENT6	-	-
-4	.	.	Fp	-	-	780-781	711_QUEST_clinical_caseMIR	SENT6	-	-
-
-1	AST	aspartato_transaminasa	NC00YL0	-	-	782-785	711_QUEST_clinical_caseMIR	SENT7	-	-
-2	30	30		-	-	786-788	711_QUEST_clinical_caseMIR	SENT7	-	-
-3	UI	ui	NC00SC0	C0439453	calificador	789-791	711_QUEST_clinical_caseMIR	SENT7	-	-
-4	/	/	Fh	-	-	791-792	711_QUEST_clinical_caseMIR	SENT7	-	-
-5	L	l	NCFS000	-	-	792-793	711_QUEST_clinical_caseMIR	SENT7	-	-
-6	,	,	Fc	-	-	793-794	711_QUEST_clinical_caseMIR	SENT7	-	-
-7	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	795-798	711_QUEST_clinical_caseMIR	SENT7	-	-
-8	35	35		-	-	799-801	711_QUEST_clinical_caseMIR	SENT7	-	-
-9	UI	ui	NC00SC0	C0439453	calificador	802-804	711_QUEST_clinical_caseMIR	SENT7	-	-
-10	/	/	Fh	-	-	804-805	711_QUEST_clinical_caseMIR	SENT7	-	-
-11	L	l	NCFS000	-	-	805-806	711_QUEST_clinical_caseMIR	SENT7	-	-
-12	,	,	Fc	-	-	806-807	711_QUEST_clinical_caseMIR	SENT7	-	-
-13	GGT	gammaglutamiltranspeptidasa	NC00YL0	-	-	808-811	711_QUEST_clinical_caseMIR	SENT7	-	-
-14	59	59		-	-	812-814	711_QUEST_clinical_caseMIR	SENT7	-	-
-15	UI	ui	NC00SC0	C0439453	calificador	815-817	711_QUEST_clinical_caseMIR	SENT7	-	-
-16	/	/	Fh	-	-	817-818	711_QUEST_clinical_caseMIR	SENT7	-	-
-17	L	l	NCFS000	-	-	818-819	711_QUEST_clinical_caseMIR	SENT7	-	-
-18	,	,	Fc	-	-	819-820	711_QUEST_clinical_caseMIR	SENT7	-	-
-19	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	821-830	711_QUEST_clinical_caseMIR	SENT7	-	-
-20	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	831-839	711_QUEST_clinical_caseMIR	SENT7	-	-
-21	105	105		-	-	840-843	711_QUEST_clinical_caseMIR	SENT7	-	-
-22	UI	ui	NC00SC0	C0439453	calificador	844-846	711_QUEST_clinical_caseMIR	SENT7	-	-
-23	/	/	Fh	-	-	846-847	711_QUEST_clinical_caseMIR	SENT7	-	-
-24	L	l	NCFS000	-	-	847-848	711_QUEST_clinical_caseMIR	SENT7	-	-
-25	,	,	Fc	-	-	848-849	711_QUEST_clinical_caseMIR	SENT7	-	-
-26	LDH	ldh	NC00SC0	C0022917	sustancia	850-853	711_QUEST_clinical_caseMIR	SENT7	-	-
-27	490	490		-	-	854-857	711_QUEST_clinical_caseMIR	SENT7	-	-
-28	UI	ui	NC00SC0	C0439453	calificador	858-860	711_QUEST_clinical_caseMIR	SENT7	-	-
-29	/	/	Fh	-	-	860-861	711_QUEST_clinical_caseMIR	SENT7	-	-
-30	L	l	NCFS000	-	-	861-862	711_QUEST_clinical_caseMIR	SENT7	-	-
-31	,	,	Fc	-	-	862-863	711_QUEST_clinical_caseMIR	SENT7	-	-
-32	urea	urea	NCFS000	C0041942	sustancia	864-868	711_QUEST_clinical_caseMIR	SENT7	-	-
-33	20	20	Z	-	-	869-871	711_QUEST_clinical_caseMIR	SENT7	-	-
-34	mg	mg	NCMN000	-	-	872-874	711_QUEST_clinical_caseMIR	SENT7	-	-
-35	/	/	Fh	-	-	874-875	711_QUEST_clinical_caseMIR	SENT7	-	-
-36	dL	decilitro	NCMN000	C0439241	calificador	875-877	711_QUEST_clinical_caseMIR	SENT7	-	-
-37	,	,	Fc	-	-	877-878	711_QUEST_clinical_caseMIR	SENT7	-	-
-38	creatinina	creatinina	NC00SC0	C0010294	sustancia	879-889	711_QUEST_clinical_caseMIR	SENT7	-	-
-39	0,8	0.8	Z	-	-	890-893	711_QUEST_clinical_caseMIR	SENT7	-	-
-40	mg	mg	NCMN000	-	-	894-896	711_QUEST_clinical_caseMIR	SENT7	-	-
-41	/	/	Fh	-	-	896-897	711_QUEST_clinical_caseMIR	SENT7	-	-
-42	dL	decilitro	NCMN000	C0439241	calificador	897-899	711_QUEST_clinical_caseMIR	SENT7	-	-
-43	.	.	Fp	-	-	899-900	711_QUEST_clinical_caseMIR	SENT7	-	-
-
-1	Teniendo	tener	VMG0000	-	-	901-909	711_QUEST_clinical_caseMIR	SENT8	-	-
-2	en	en	SPS00	C1720294#C0332285	calificador#atributo	910-912	711_QUEST_clinical_caseMIR	SENT8	-	-
-3	cuenta	cuenta	NCFS000	-	-	913-919	711_QUEST_clinical_caseMIR	SENT8	-	-
-4	la	el	DA0FS0	-	-	920-922	711_QUEST_clinical_caseMIR	SENT8	-	-
-5	información	información	NCFS000	-	-	923-934	711_QUEST_clinical_caseMIR	SENT8	-	-
-6	disponible	disponible	AQ0CS0	C0470187	calificador	935-945	711_QUEST_clinical_caseMIR	SENT8	-	-
-7	,	,	Fc	-	-	945-946	711_QUEST_clinical_caseMIR	SENT8	-	-
-8	indique	indicar	VMM03S0	-	-	947-954	711_QUEST_clinical_caseMIR	SENT8	-	-
-9	cuál	cuál	PT0CS000	-	-	955-959	711_QUEST_clinical_caseMIR	SENT8	-	-
-10	de	de	SPS00	C0332285	atributo	960-962	711_QUEST_clinical_caseMIR	SENT8	-	-
-11	los	el	DA0MP0	-	-	963-966	711_QUEST_clinical_caseMIR	SENT8	-	-
-12	siguientes	siguiente	AQ0CP0	C0332282	atributo	967-977	711_QUEST_clinical_caseMIR	SENT8	-	-
-13	parámetros	parámetro	NCMP000	C0549193	atributo	978-988	711_QUEST_clinical_caseMIR	SENT8	-	-
-14	analíticos	analítico	AQ0MP0	-	-	989-999	711_QUEST_clinical_caseMIR	SENT8	-	-
-15	adicionales	adicional	AQ0CP0	-	-	1000-1011	711_QUEST_clinical_caseMIR	SENT8	-	-
-16	necesitaría	necesitar	VMIC3S0	-	-	1012-1023	711_QUEST_clinical_caseMIR	SENT8	-	-
-17	conocer	conocer	VMN0000	-	-	1024-1031	711_QUEST_clinical_caseMIR	SENT8	-	-
-18	para	para	SPS00	C0521125	calificador	1032-1036	711_QUEST_clinical_caseMIR	SENT8	-	-
-19	poder	poder	VMN0000	-	-	1037-1042	711_QUEST_clinical_caseMIR	SENT8	-	-
-20	tomar	tomar	VMN0000	C1515187	calificador	1043-1048	711_QUEST_clinical_caseMIR	SENT8	-	-
-21	la	el	DA0FS0	-	-	1049-1051	711_QUEST_clinical_caseMIR	SENT8	-	-
-22	decisión	decisión	NCFS000	-	-	1052-1060	711_QUEST_clinical_caseMIR	SENT8	-	-
-23	inmediata	inmediato	AQ0FS0	C0205253	calificador	1061-1070	711_QUEST_clinical_caseMIR	SENT8	-	-
-24	más	más	RG	C0205172	calificador	1071-1074	711_QUEST_clinical_caseMIR	SENT8	-	-
-25	apropiada	apropiar	VMP00SF	-	-	1075-1084	711_QUEST_clinical_caseMIR	SENT8	-	-
-26	.	.	Fp	-	-	1084-1085	711_QUEST_clinical_caseMIR	SENT8	-	-
+1	Teniendo	tener	VMG0000	-	-	901-909	711_QUEST_clinical_caseMIR	SENT6	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	910-912	711_QUEST_clinical_caseMIR	SENT6	-	-
+3	cuenta	cuenta	NCFS000	-	-	913-919	711_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	el	DA0FS0	-	-	920-922	711_QUEST_clinical_caseMIR	SENT6	-	-
+5	información	información	NCFS000	-	-	923-934	711_QUEST_clinical_caseMIR	SENT6	-	-
+6	disponible	disponible	AQ0CS0	C0470187	calificador	935-945	711_QUEST_clinical_caseMIR	SENT6	-	-
+7	,	,	Fc	-	-	945-946	711_QUEST_clinical_caseMIR	SENT6	-	-
+8	indique	indicar	VMM03S0	-	-	947-954	711_QUEST_clinical_caseMIR	SENT6	-	-
+9	cuál	cuál	PT0CS000	-	-	955-959	711_QUEST_clinical_caseMIR	SENT6	-	-
+10	de	de	SPS00	C0332285	atributo	960-962	711_QUEST_clinical_caseMIR	SENT6	-	-
+11	los	el	DA0MP0	-	-	963-966	711_QUEST_clinical_caseMIR	SENT6	-	-
+12	siguientes	siguiente	AQ0CP0	C0332282	atributo	967-977	711_QUEST_clinical_caseMIR	SENT6	-	-
+13	parámetros	parámetro	NCMP000	C0549193	atributo	978-988	711_QUEST_clinical_caseMIR	SENT6	-	-
+14	analíticos	analítico	AQ0MP0	-	-	989-999	711_QUEST_clinical_caseMIR	SENT6	-	-
+15	adicionales	adicional	AQ0CP0	-	-	1000-1011	711_QUEST_clinical_caseMIR	SENT6	-	-
+16	necesitaría	necesitar	VMIC3S0	-	-	1012-1023	711_QUEST_clinical_caseMIR	SENT6	-	-
+17	conocer	conocer	VMN0000	-	-	1024-1031	711_QUEST_clinical_caseMIR	SENT6	-	-
+18	para	para	SPS00	C0521125	calificador	1032-1036	711_QUEST_clinical_caseMIR	SENT6	-	-
+19	poder	poder	VMN0000	-	-	1037-1042	711_QUEST_clinical_caseMIR	SENT6	-	-
+20	tomar	tomar	VMN0000	C1515187	calificador	1043-1048	711_QUEST_clinical_caseMIR	SENT6	-	-
+21	la	el	DA0FS0	-	-	1049-1051	711_QUEST_clinical_caseMIR	SENT6	-	-
+22	decisión	decisión	NCFS000	-	-	1052-1060	711_QUEST_clinical_caseMIR	SENT6	-	-
+23	inmediata	inmediato	AQ0FS0	C0205253	calificador	1061-1070	711_QUEST_clinical_caseMIR	SENT6	-	-
+24	más	más	RG	C0205172	calificador	1071-1074	711_QUEST_clinical_caseMIR	SENT6	-	-
+25	apropiada	apropiar	VMP00SF	-	-	1075-1084	711_QUEST_clinical_caseMIR	SENT6	-	-
+26	:	:	Fd	-	-	1084-1085	711_QUEST_clinical_caseMIR	SENT6	-	-
+27	.	.	Fp	-	-	1085-1086	711_QUEST_clinical_caseMIR	SENT6	-	-
 

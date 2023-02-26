@@ -1,0 +1,16 @@
+1	Test	test	NCMS000	-	-	0-4	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	apoptosis	apoptosis	NCFN000	C0162638	anomalía_morfológica	8-17	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	(	(	Fpa	-	-	18-19	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	muerte	muerte	NCFS000	C0162638_1	anomalía_morfológica_1	19-25	356(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	celular	celular	AQ0CS0	C0162638_2	anomalía_morfológica_2	26-33	356(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+7	programada	programar	VMP00SF	C0162638_3	anomalía_morfológica_3	34-44	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	)	)	Fpt	-	-	44-45	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	46-48	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	los	el	DA0MP0	-	-	49-52	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	linfocitos	linfocito	NCMP000	C0024264	célula	53-63	356(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	circulantes	circulante	AQ0CP0	C0175630	calificador	64-75	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	del	del	SP+DA	-	-	76-79	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	80-88	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	88-89	356(2)_ANS_clinical_caseMIR	SENT1	-	-
+

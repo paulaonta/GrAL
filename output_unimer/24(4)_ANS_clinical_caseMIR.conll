@@ -1,0 +1,24 @@
+1	Punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	0-7	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	8-14	24(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	para	para	SPS00	C0521125	calificador	15-19	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	descartar	descartar	VMN0000	C0332196	calificador	20-29	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	meningitis	meningitis	NCFN000	C0025289	trastorno	30-40	24(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+6	bacteriana-previa	bacteriana-previa	AQ0FS00	-	-	41-58	24(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	inicio	inicio	NCMS000	C0332162_1	calificador_1	59-65	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332162_2	calificador_2	66-68	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	antibioterapia	antibioterapia	NCFS000	-	-	69-83	24(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	empírica	empírico	AQ0FS0	-	-	84-92	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	92-93	24(4)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Una	Una		C0205447_1	calificador_1	94-97	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+2	vez	vez	NCFS000	-	-	98-101	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+3	estabilizada	estabilizar	VMP00SF	-	-	102-114	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	115-117	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+5	paciente	paciente	AQ0CS0	C0030705	persona	118-126	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	127-134	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	135-137	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	138-140	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+9	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	141-145	24(4)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	selar	selar	AQ0CS00	-	-	146-151	24(4)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	.	.	Fp	-	-	151-152	24(4)_ANS_clinical_caseMIR	SENT2	-	-
+

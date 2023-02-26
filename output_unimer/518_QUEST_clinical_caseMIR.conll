@@ -86,17 +86,19 @@
 12	normales	normal	AQ0CP0	C0205307	calificador	492-500	518_QUEST_clinical_caseMIR	SENT4	-	-
 13	.	.	Fp	-	-	500-501	518_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	502-506	518_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	507-509	518_QUEST_clinical_caseMIR	SENT5	-	-
-3	los	el	DA0MP0	-	-	510-513	518_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	514-524	518_QUEST_clinical_caseMIR	SENT5	-	-
-5	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	525-534	518_QUEST_clinical_caseMIR	SENT5	-	-
-6	clínicos	clínico	AQ0MP0	C0205210	calificador	535-543	518_QUEST_clinical_caseMIR	SENT5	-	-
-7	NO	no	RN	C1298908	calificador	544-546	518_QUEST_clinical_caseMIR	SENT5	-	-
-8	esperaría	esperar	VMIC3S0	-	-	547-556	518_QUEST_clinical_caseMIR	SENT5	-	-
-9	encontrar	encontrar	VMN0000	-	-	557-566	518_QUEST_clinical_caseMIR	SENT5	-	-
-10	en	en	SPS00	C1720294#C0332285	calificador#atributo	567-569	518_QUEST_clinical_caseMIR	SENT5	-	-
-11	esta	este	DD0FS0	-	-	570-574	518_QUEST_clinical_caseMIR	SENT5	-	-
-12	situación	situación	NCFS000	-	-	575-584	518_QUEST_clinical_caseMIR	SENT5	-	-
-13	.	.	Fp	-	-	584-585	518_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	502-503	518_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	503-507	518_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	508-510	518_QUEST_clinical_caseMIR	SENT5	-	-
+4	los	el	DA0MP0	-	-	511-514	518_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	515-525	518_QUEST_clinical_caseMIR	SENT5	-	-
+6	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	526-535	518_QUEST_clinical_caseMIR	SENT5	-	-
+7	clínicos	clínico	AQ0MP0	C0205210	calificador	536-544	518_QUEST_clinical_caseMIR	SENT5	-	-
+8	NO	no	RN	C1298908	calificador	545-547	518_QUEST_clinical_caseMIR	SENT5	-	-
+9	esperaría	esperar	VMIC3S0	-	-	548-557	518_QUEST_clinical_caseMIR	SENT5	-	-
+10	encontrar	encontrar	VMN0000	-	-	558-567	518_QUEST_clinical_caseMIR	SENT5	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	568-570	518_QUEST_clinical_caseMIR	SENT5	-	-
+12	esta	este	DD0FS0	-	-	571-575	518_QUEST_clinical_caseMIR	SENT5	-	-
+13	situación	situación	NCFS000	-	-	576-585	518_QUEST_clinical_caseMIR	SENT5	-	-
+14	?	?	Fit	-	-	585-586	518_QUEST_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	586-587	518_QUEST_clinical_caseMIR	SENT5	-	-
 

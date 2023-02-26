@@ -48,16 +48,18 @@
 48	V2-V3	V2-V3		-	-	272-277	568_QUEST_clinical_caseMIR	SENT1	-	-
 49	.	.	Fp	-	-	277-278	568_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	279-283	568_QUEST_clinical_caseMIR	SENT2	-	-
-2	de	de	SPS00	C0332285	atributo	284-286	568_QUEST_clinical_caseMIR	SENT2	-	-
-3	estas	este	DD0FP0	-	-	287-292	568_QUEST_clinical_caseMIR	SENT2	-	-
-4	actitudes	actitud	NCFP000	C0004271	entidad_observable	293-302	568_QUEST_clinical_caseMIR	SENT2	-	-
-5	terapéuticas	terapéutico	AQ0FP0	-	-	303-315	568_QUEST_clinical_caseMIR	SENT2	-	-
-6	o	o	CC	-	-	316-317	568_QUEST_clinical_caseMIR	SENT2	-	-
-7	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	318-330	568_QUEST_clinical_caseMIR	SENT2	-	-
-8	NO	no	RN	C1298908	calificador	331-333	568_QUEST_clinical_caseMIR	SENT2	-	-
-9	debe	deber	VMIP3S0	-	-	334-338	568_QUEST_clinical_caseMIR	SENT2	-	-
-10	realizar	realizar	VMN0000	-	-	339-347	568_QUEST_clinical_caseMIR	SENT2	-	-
-11	se	se	PP3CN000	-	-	347-349	568_QUEST_clinical_caseMIR	SENT2	-	-
-12	.	.	Fp	-	-	349-350	568_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	279-280	568_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	280-284	568_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	285-287	568_QUEST_clinical_caseMIR	SENT2	-	-
+4	estas	este	DD0FP0	-	-	288-293	568_QUEST_clinical_caseMIR	SENT2	-	-
+5	actitudes	actitud	NCFP000	C0004271	entidad_observable	294-303	568_QUEST_clinical_caseMIR	SENT2	-	-
+6	terapéuticas	terapéutico	AQ0FP0	-	-	304-316	568_QUEST_clinical_caseMIR	SENT2	-	-
+7	o	o	CC	-	-	317-318	568_QUEST_clinical_caseMIR	SENT2	-	-
+8	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	319-331	568_QUEST_clinical_caseMIR	SENT2	-	-
+9	NO	no	RN	C1298908	calificador	332-334	568_QUEST_clinical_caseMIR	SENT2	-	-
+10	debe	deber	VMIP3S0	-	-	335-339	568_QUEST_clinical_caseMIR	SENT2	-	-
+11	realizar	realizar	VMN0000	-	-	340-348	568_QUEST_clinical_caseMIR	SENT2	-	-
+12	se	se	PP3CN000	-	-	348-350	568_QUEST_clinical_caseMIR	SENT2	-	-
+13	?	?	Fit	-	-	350-351	568_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	351-352	568_QUEST_clinical_caseMIR	SENT2	-	-
 

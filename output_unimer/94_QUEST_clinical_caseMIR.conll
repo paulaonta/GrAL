@@ -81,13 +81,16 @@
 81	kg	kilogramo	NCMN000	C0439209	calificador	358-360	94_QUEST_clinical_caseMIR	SENT1	-	-
 82	.	.	Fp	-	-	360-361	94_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	362-366	94_QUEST_clinical_caseMIR	SENT2	-	-
-2	de	de	SPS00	C0332285	atributo	367-369	94_QUEST_clinical_caseMIR	SENT2	-	-
-3	los	el	DA0MP0	-	-	370-373	94_QUEST_clinical_caseMIR	SENT2	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	374-384	94_QUEST_clinical_caseMIR	SENT2	-	-
-5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	385-397	94_QUEST_clinical_caseMIR	SENT2	-	-
-6	es	ser	VSIP3S0	-	-	398-400	94_QUEST_clinical_caseMIR	SENT2	-	-
-7	el	el	DA0MS0	-	-	401-403	94_QUEST_clinical_caseMIR	SENT2	-	-
-8	correcto	correcto	NC00SC0	C0205170	calificador	404-412	94_QUEST_clinical_caseMIR	SENT2	-	-
-9	.	.	Fp	-	-	412-413	94_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	362-363	94_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	363-367	94_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	368-370	94_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	371-374	94_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	375-385	94_QUEST_clinical_caseMIR	SENT2	-	-
+6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	386-398	94_QUEST_clinical_caseMIR	SENT2	-	-
+7	es	ser	VSIP3S0	-	-	399-401	94_QUEST_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	402-404	94_QUEST_clinical_caseMIR	SENT2	-	-
+9	correcto	correcto	NC00SC0	C0205170	calificador	405-413	94_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	413-414	94_QUEST_clinical_caseMIR	SENT2	-	-
+11	:	:	Fd	-	-	414-415	94_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	415-416	94_QUEST_clinical_caseMIR	SENT2	-	-
 

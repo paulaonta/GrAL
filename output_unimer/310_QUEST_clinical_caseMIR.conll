@@ -70,13 +70,15 @@
 31	futuro	futuro	NCMS000	-	-	447-453	310_QUEST_clinical_caseMIR	SENT2	-	-
 32	.	.	Fp	-	-	453-454	310_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	455-459	310_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	460-462	310_QUEST_clinical_caseMIR	SENT3	-	-
-3	las	el	DA0FP0	-	-	463-466	310_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	467-477	310_QUEST_clinical_caseMIR	SENT3	-	-
-5	aseveraciones	aseveración	NCFP000	C1301625	calificador	478-491	310_QUEST_clinical_caseMIR	SENT3	-	-
-6	NO	no	RN	C1298908	calificador	492-494	310_QUEST_clinical_caseMIR	SENT3	-	-
-7	es	ser	VSIP3S0	-	-	495-497	310_QUEST_clinical_caseMIR	SENT3	-	-
-8	correcta	correcto	AQ0FS0	C0205170	calificador	498-506	310_QUEST_clinical_caseMIR	SENT3	-	-
-9	.	.	Fp	-	-	506-507	310_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	455-456	310_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	456-460	310_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	461-463	310_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	464-467	310_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	468-478	310_QUEST_clinical_caseMIR	SENT3	-	-
+6	aseveraciones	aseveración	NCFP000	C1301625	calificador	479-492	310_QUEST_clinical_caseMIR	SENT3	-	-
+7	NO	no	RN	C1298908	calificador	493-495	310_QUEST_clinical_caseMIR	SENT3	-	-
+8	es	ser	VSIP3S0	-	-	496-498	310_QUEST_clinical_caseMIR	SENT3	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	499-507	310_QUEST_clinical_caseMIR	SENT3	-	-
+10	?	?	Fit	-	-	507-508	310_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	508-509	310_QUEST_clinical_caseMIR	SENT3	-	-
 

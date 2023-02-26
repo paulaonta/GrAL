@@ -55,11 +55,14 @@
 17	respectivamente	respectivamente	RG	-	-	346-361	454_QUEST_clinical_caseMIR	SENT3	-	-
 18	.	.	Fp	-	-	361-362	454_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	363-367	454_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	368-370	454_QUEST_clinical_caseMIR	SENT4	-	-
-3	su	su	DP3CS0	-	-	371-373	454_QUEST_clinical_caseMIR	SENT4	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	374-385	454_QUEST_clinical_caseMIR	SENT4	-	-
-5	de	de	SPS00	C0332285	atributo	386-388	454_QUEST_clinical_caseMIR	SENT4	-	-
-6	sospecha	sospecha	NCFS000	C0750491	calificador	389-397	454_QUEST_clinical_caseMIR	SENT4	-	-
-7	.	.	Fp	-	-	397-398	454_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	363-364	454_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	364-368	454_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	369-371	454_QUEST_clinical_caseMIR	SENT4	-	-
+4	su	su	DP3CS0	-	-	372-374	454_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	375-386	454_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	387-389	454_QUEST_clinical_caseMIR	SENT4	-	-
+7	sospecha	sospecha	NCFS000	C0750491	calificador	390-398	454_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	398-399	454_QUEST_clinical_caseMIR	SENT4	-	-
+9	:	:	Fd	-	-	399-400	454_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	400-401	454_QUEST_clinical_caseMIR	SENT4	-	-
 

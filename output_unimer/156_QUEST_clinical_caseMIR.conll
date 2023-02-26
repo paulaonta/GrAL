@@ -77,11 +77,14 @@
 8	intestinal	intestinal	NC00SC0	C0021843#C1258215_2	trastorno_2	430-440	156_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 9	.	.	Fp	-	-	440-441	156_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cúal	cúal	AQ0CS00	-	-	442-446	156_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	447-449	156_QUEST_clinical_caseMIR	SENT6	-	-
-3	el	el	DA0MS0	-	-	450-452	156_QUEST_clinical_caseMIR	SENT6	-	-
-4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	453-464	156_QUEST_clinical_caseMIR	SENT6	-	-
-5	más	más	RG	C0205172	calificador	465-468	156_QUEST_clinical_caseMIR	SENT6	-	-
-6	apropiado	apropiar	VMP00SM	-	-	469-478	156_QUEST_clinical_caseMIR	SENT6	-	-
-7	.	.	Fp	-	-	478-479	156_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	442-443	156_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cúal	cúal	RG	-	-	443-447	156_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	448-450	156_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	451-453	156_QUEST_clinical_caseMIR	SENT6	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	454-465	156_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	466-469	156_QUEST_clinical_caseMIR	SENT6	-	-
+7	apropiado	apropiar	VMP00SM	-	-	470-479	156_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	479-480	156_QUEST_clinical_caseMIR	SENT6	-	-
+9	:	:	Fd	-	-	480-481	156_QUEST_clinical_caseMIR	SENT6	-	-
+10	.	.	Fp	-	-	481-482	156_QUEST_clinical_caseMIR	SENT6	-	-
 

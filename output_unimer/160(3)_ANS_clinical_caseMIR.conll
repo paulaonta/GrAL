@@ -1,0 +1,29 @@
+1	Mantener	mantener	VMN0000	-	-	0-8	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	los	el	DA0MP0	-	-	9-12	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	dos	dos		-	-	13-16	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	antiagregantes	antiagregantes	NCCP000	-	-	17-31	160(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	plaquetarios	plaquetario	AQ0MP0	-	-	32-44	160(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	7	7	Z	-	-	45-46	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	días	d	NCMP000	-	-	47-51	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	antes	antes	RG	C0332152	atributo	52-57	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	58-60	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	61-63	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	intervención	intervención	NCFS000	-	-	64-76	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	76-77	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	dado	dar	VMP00SM	C1947971	calificador	78-82	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	83-86	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	existe	existir	VMIP3S0	-	-	87-93	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	un	un		C0205447_1	calificador_1	94-96	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	riesgo	riesgo	NCMS000	-	-	97-103	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	muy	muy	RG	C0442824	calificador	104-107	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	elevado	elevar	VMP00SM	-	-	108-115	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	116-118	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	obstrucción	obstrucción	NCFS000	C0028778	anomalía_morfológica	119-130	160(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	de	de	SPS00	C0332285	atributo	131-133	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	los	el	DA0MP0	-	-	134-137	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	"	"	Fe	-	-	138-139	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+25	stents	stents	NCMP000	-	-	139-145	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	"	"	Fe	-	-	145-146	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+27	coronarios	coronario	AQ0MP0	-	-	147-157	160(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	.	.	Fp	-	-	157-158	160(3)_ANS_clinical_caseMIR	SENT1	-	-
+

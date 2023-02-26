@@ -170,12 +170,15 @@
 19	prednisona	prednisona	NCFS000	C0032952	sustancia	866-876	223_QUEST_clinical_caseMIR	SENT6	B-Grp_Medicamento	-
 20	.	.	Fp	-	-	876-877	223_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	878-882	223_QUEST_clinical_caseMIR	SENT7	-	-
-2	de	de	SPS00	C0332285	atributo	883-885	223_QUEST_clinical_caseMIR	SENT7	-	-
-3	las	el	DA0FP0	-	-	886-889	223_QUEST_clinical_caseMIR	SENT7	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	890-900	223_QUEST_clinical_caseMIR	SENT7	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	901-913	223_QUEST_clinical_caseMIR	SENT7	-	-
-6	es	ser	VSIP3S0	-	-	914-916	223_QUEST_clinical_caseMIR	SENT7	-	-
-7	correcta	correcto	AQ0FS0	C0205170	calificador	917-925	223_QUEST_clinical_caseMIR	SENT7	-	-
-8	.	.	Fp	-	-	925-926	223_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	878-879	223_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	879-883	223_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	884-886	223_QUEST_clinical_caseMIR	SENT7	-	-
+4	las	el	DA0FP0	-	-	887-890	223_QUEST_clinical_caseMIR	SENT7	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	891-901	223_QUEST_clinical_caseMIR	SENT7	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	902-914	223_QUEST_clinical_caseMIR	SENT7	-	-
+7	es	ser	VSIP3S0	-	-	915-917	223_QUEST_clinical_caseMIR	SENT7	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	918-926	223_QUEST_clinical_caseMIR	SENT7	-	-
+9	?	?	Fit	-	-	926-927	223_QUEST_clinical_caseMIR	SENT7	-	-
+10	:	:	Fd	-	-	927-928	223_QUEST_clinical_caseMIR	SENT7	-	-
+11	.	.	Fp	-	-	928-929	223_QUEST_clinical_caseMIR	SENT7	-	-
 

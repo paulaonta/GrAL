@@ -1,0 +1,19 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	biopsia	biopsia	NCFS000	C0150866_1	procedimiento_1	4-11	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	cutánea	cutáneo	AQ0FS0	C0150866_2	procedimiento_2	12-19	789(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	tipo	tipo	NCMS000	C0332307	calificador#atributo	20-24	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	"	"	Fe	-	-	25-26	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	punch	punch	NCMS000	-	-	26-31	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	"	"	Fe	-	-	31-32	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	(	(	Fpa	-	-	33-34	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	sacabocados	sacabocados	NCMN000	C0182555	objeto_físico	34-45	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	)	)	Fpt	-	-	45-46	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	para	para	SPS00	C0521125	calificador	47-51	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	52-54	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	55-66	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	67-69	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	una	una		C0205447_1	calificador_1	70-73	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	poliarteritis	poliarteritis	NCFN000	C0031036#C0553548_1	trastorno_1	74-87	789(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	nudosa	nudoso	AQ0FS0	C0031036#C0553548_2	trastorno_2	88-94	789(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+18	.	.	Fp	-	-	94-95	789(1)_ANS_clinical_caseMIR	SENT1	-	-
+

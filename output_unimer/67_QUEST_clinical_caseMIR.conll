@@ -80,13 +80,15 @@
 2	cualquier	cualquiera	DI0CS0	-	-	435-444	67_QUEST_clinical_caseMIR	SENT6	-	-
 3	patología	patología	NCFS000	C0030664	calificador	445-454	67_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Especulacion
 4	orgánica	orgánico	AQ0FS0	-	-	455-463	67_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
-5	.	.	Fp	-	-	464-465	67_QUEST_clinical_caseMIR	SENT6	-	-
-6	qué	qué	DT0CN0	-	-	466-469	67_QUEST_clinical_caseMIR	SENT6	-	-
-7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	470-481	67_QUEST_clinical_caseMIR	SENT6	-	-
-8	psiquiátrico	psiquiátrico	AQ0MS0	C0205487	calificador	482-494	67_QUEST_clinical_caseMIR	SENT6	-	-
-9	es	ser	VSIP3S0	-	-	495-497	67_QUEST_clinical_caseMIR	SENT6	-	-
-10	el	el	DA0MS0	C0205393_1	calificador_1	498-500	67_QUEST_clinical_caseMIR	SENT6	-	-
-11	más	más	RG	C0205393_2	calificador_2	501-504	67_QUEST_clinical_caseMIR	SENT6	-	-
-12	adecuado	adecuar	VMP00SM	-	-	505-513	67_QUEST_clinical_caseMIR	SENT6	-	-
-13	.	.	Fp	-	-	513-514	67_QUEST_clinical_caseMIR	SENT6	-	-
+5	¿	¿	Fia	-	-	464-465	67_QUEST_clinical_caseMIR	SENT6	-	-
+6	qué	qué	DT0CN0	-	-	465-468	67_QUEST_clinical_caseMIR	SENT6	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	469-480	67_QUEST_clinical_caseMIR	SENT6	-	-
+8	psiquiátrico	psiquiátrico	AQ0MS0	C0205487	calificador	481-493	67_QUEST_clinical_caseMIR	SENT6	-	-
+9	es	ser	VSIP3S0	-	-	494-496	67_QUEST_clinical_caseMIR	SENT6	-	-
+10	el	el	DA0MS0	C0205393_1	calificador_1	497-499	67_QUEST_clinical_caseMIR	SENT6	-	-
+11	más	más	RG	C0205393_2	calificador_2	500-503	67_QUEST_clinical_caseMIR	SENT6	-	-
+12	adecuado	adecuar	VMP00SM	-	-	504-512	67_QUEST_clinical_caseMIR	SENT6	-	-
+13	?	?	Fit	-	-	512-513	67_QUEST_clinical_caseMIR	SENT6	-	-
+14	:	:	Fd	-	-	513-514	67_QUEST_clinical_caseMIR	SENT6	-	-
+15	.	.	Fp	-	-	514-515	67_QUEST_clinical_caseMIR	SENT6	-	-
 

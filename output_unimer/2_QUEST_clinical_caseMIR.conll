@@ -164,11 +164,13 @@
 51	)	)	Fpt	-	-	834-835	2_QUEST_clinical_caseMIR	SENT7	-	-
 52	.	.	Fp	-	-	835-836	2_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	Qué	qué	DE0CN0	-	-	837-840	2_QUEST_clinical_caseMIR	SENT8	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	841-848	2_QUEST_clinical_caseMIR	SENT8	-	-
-3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	849-851	2_QUEST_clinical_caseMIR	SENT8	-	-
-4	parece	parecer	VMIP3S0	-	-	852-858	2_QUEST_clinical_caseMIR	SENT8	-	-
-5	más	más	RG	C0205172	calificador	859-862	2_QUEST_clinical_caseMIR	SENT8	-	-
-6	correcta	correcto	AQ0FS0	C0205170	calificador	863-871	2_QUEST_clinical_caseMIR	SENT8	-	-
-7	.	.	Fp	-	-	871-872	2_QUEST_clinical_caseMIR	SENT8	-	-
+1	¿	¿	Fia	-	-	837-838	2_QUEST_clinical_caseMIR	SENT8	-	-
+2	Qué	qué	DT0CN0	-	-	838-841	2_QUEST_clinical_caseMIR	SENT8	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	842-849	2_QUEST_clinical_caseMIR	SENT8	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	850-852	2_QUEST_clinical_caseMIR	SENT8	-	-
+5	parece	parecer	VMIP3S0	-	-	853-859	2_QUEST_clinical_caseMIR	SENT8	-	-
+6	más	más	RG	C0205172	calificador	860-863	2_QUEST_clinical_caseMIR	SENT8	-	-
+7	correcta	correcto	AQ0FS0	C0205170	calificador	864-872	2_QUEST_clinical_caseMIR	SENT8	-	-
+8	?	?	Fit	-	-	872-873	2_QUEST_clinical_caseMIR	SENT8	-	-
+9	.	.	Fp	-	-	873-874	2_QUEST_clinical_caseMIR	SENT8	-	-
 

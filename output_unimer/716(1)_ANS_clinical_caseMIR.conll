@@ -1,0 +1,28 @@
+1	Paraparesia	paraparesia	NC00SC0	C0037771_1	hallazgo_1	0-11	716(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	espástica	espástico	AQ0FS0	C0037771_2	hallazgo_2	12-21	716(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	tropical	tropical	AQ0CS0	-	-	22-30	716(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	.	.	Fp	-	-	30-31	716(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Administrar	administrar	VMN0000	C1621583	calificador	32-43	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	hidratación	hidratación	NCFS000	-	-	44-55	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	,	,	Fc	-	-	55-56	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	asegurar	asegurar	VMN0000	-	-	57-65	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	66-68	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	ingesta	ingesta	NCFS000	-	-	69-76	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	oral	oral	AQ0CS0	C0442027	calificador	77-81	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	,	,	Fc	-	-	81-82	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+9	solicitar	solicitar	VMN0000	-	-	83-92	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+10	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	93-96	716(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	97-98	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	dar	dolor_abdominal_recurrente	NC00YL0	-	-	99-102	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	103-105	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+14	alta	alto	AQ0FS0	C0205250	calificador	106-110	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	a	a	SPS00	-	-	111-112	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+16	domicilio	domicilio	NCMS000	C1442065	entidad_observable	113-122	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+17	tras	tras	SPS00	-	-	123-127	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+18	resolución	resolución	NCFS000	-	-	128-138	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+19	de	de	SPS00	C0332285	atributo	139-141	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+20	la	el	DA0FS0	-	-	142-144	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+21	fiebre	fiebre	NCFS000	C0015967	hallazgo	145-151	716(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+22	.	.	Fp	-	-	151-152	716(1)_ANS_clinical_caseMIR	SENT2	-	-
+

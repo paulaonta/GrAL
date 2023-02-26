@@ -1,0 +1,25 @@
+1	Tratar	tratar	VMN0000	-	-	0-6	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	al	al	SP+DA	-	-	7-9	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	10-18	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	como	como	CS	C0332257	calificador	19-23	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	si	si	CS	-	-	24-26	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	fuera	ser	VSSI3S0	-	-	27-32	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	33-35	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	infarto	infarto	NCMS000	C0021308	anomalía_morfológica	36-43	285(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	con	con	SPS00	C0332287	atributo	44-47	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	elevación	elevación	NCFS000	C0439775	procedimiento	48-57	285(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	del	del	SP+DA	-	-	58-61	285(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	segmento	segmento	NCMS000	C0429029_1	entidad_observable_1	62-70	285(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+13	ST	st	NC00YL0	C0429029_2	entidad_observable_2	71-73	285(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+14	,	,	Fc	-	-	73-74	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	planteando	plantear	VMG0000	-	-	75-85	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	86-89	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	90-97	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	98-100	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	reperfusión	reperfusión	NCFS000	-	-	101-112	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	lo	el	DA0NS0	-	-	113-115	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	más	más	RG	C0205172	calificador	116-119	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	precoz	precoz	AQ0CS0	C1279919#C2362777#C2363430#C1279930	calificador	120-126	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	posible	posible	NC00SC0	C0332149#C2362652	calificador	127-134	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	134-135	285(1)_ANS_clinical_caseMIR	SENT1	-	-
+

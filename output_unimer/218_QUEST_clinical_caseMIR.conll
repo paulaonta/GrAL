@@ -36,7 +36,7 @@
 17	los	el	DA0MP0	-	-	210-213	218_QUEST_clinical_caseMIR	SENT2	-	-
 18	siguientes	siguiente	AQ0CP0	C0332282	atributo	214-224	218_QUEST_clinical_caseMIR	SENT2	-	-
 19	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	225-234	218_QUEST_clinical_caseMIR	SENT2	-	-
-20	.	.	Fp	-	-	234-235	218_QUEST_clinical_caseMIR	SENT2	-	-
+20	:	:	Fd	-	-	234-235	218_QUEST_clinical_caseMIR	SENT2	-	-
 21	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	236-247	218_QUEST_clinical_caseMIR	SENT2	-	-
 22	9,5	9.5	Z	-	-	248-251	218_QUEST_clinical_caseMIR	SENT2	-	-
 23	g	g	NCMN000	-	-	252-253	218_QUEST_clinical_caseMIR	SENT2	-	-
@@ -52,7 +52,7 @@
 33	,	,	Fc	-	-	283-284	218_QUEST_clinical_caseMIR	SENT2	-	-
 34	(	(	Fpa	-	-	285-286	218_QUEST_clinical_caseMIR	SENT2	-	-
 35	VN	valor_normal	NC00YL0	-	-	286-288	218_QUEST_clinical_caseMIR	SENT2	-	-
-36	.	.	Fp	-	-	288-289	218_QUEST_clinical_caseMIR	SENT2	-	-
+36	:	:	Fd	-	-	288-289	218_QUEST_clinical_caseMIR	SENT2	-	-
 37	6-8	6-8	Z	-	-	290-293	218_QUEST_clinical_caseMIR	SENT2	-	-
 38	g	g	NCMN000	-	-	294-295	218_QUEST_clinical_caseMIR	SENT2	-	-
 39	/	/	Fh	-	-	295-296	218_QUEST_clinical_caseMIR	SENT2	-	-
@@ -68,7 +68,7 @@
 49	,	,	Fc	-	-	323-324	218_QUEST_clinical_caseMIR	SENT2	-	-
 50	(	(	Fpa	-	-	325-326	218_QUEST_clinical_caseMIR	SENT2	-	-
 51	VN	valor_normal	NC00YL0	-	-	326-328	218_QUEST_clinical_caseMIR	SENT2	-	-
-52	.	.	Fp	-	-	328-329	218_QUEST_clinical_caseMIR	SENT2	-	-
+52	:	:	Fd	-	-	328-329	218_QUEST_clinical_caseMIR	SENT2	-	-
 53	3,5-5,0	3,5-5,0	Z	-	-	330-337	218_QUEST_clinical_caseMIR	SENT2	-	-
 54	g	g	NCMN000	-	-	338-339	218_QUEST_clinical_caseMIR	SENT2	-	-
 55	/	/	Fh	-	-	339-340	218_QUEST_clinical_caseMIR	SENT2	-	-
@@ -84,7 +84,7 @@
 65	l	l	NCFS000	-	-	372-373	218_QUEST_clinical_caseMIR	SENT2	-	-
 66	(	(	Fpa	-	-	374-375	218_QUEST_clinical_caseMIR	SENT2	-	-
 67	VN	valor_normal	NC00YL0	-	-	375-377	218_QUEST_clinical_caseMIR	SENT2	-	-
-68	.	.	Fp	-	-	377-378	218_QUEST_clinical_caseMIR	SENT2	-	-
+68	:	:	Fd	-	-	377-378	218_QUEST_clinical_caseMIR	SENT2	-	-
 69	1,1-2,4	1,1-2,4	Z	-	-	379-386	218_QUEST_clinical_caseMIR	SENT2	-	-
 70	mg	mg	NCMN000	-	-	387-389	218_QUEST_clinical_caseMIR	SENT2	-	-
 71	/	/	Fh	-	-	389-390	218_QUEST_clinical_caseMIR	SENT2	-	-
@@ -99,7 +99,7 @@
 80	dl	decilitro	NCMN000	C0439241	calificador	419-421	218_QUEST_clinical_caseMIR	SENT2	-	-
 81	(	(	Fpa	-	-	422-423	218_QUEST_clinical_caseMIR	SENT2	-	-
 82	VN	valor_normal	NC00YL0	-	-	423-425	218_QUEST_clinical_caseMIR	SENT2	-	-
-83	.	.	Fp	-	-	425-426	218_QUEST_clinical_caseMIR	SENT2	-	-
+83	:	:	Fd	-	-	425-426	218_QUEST_clinical_caseMIR	SENT2	-	-
 84	0,1-1,4	0,1-1,4	Z	-	-	427-434	218_QUEST_clinical_caseMIR	SENT2	-	-
 85	mg	mg	NCMN000	-	-	435-437	218_QUEST_clinical_caseMIR	SENT2	-	-
 86	/	/	Fh	-	-	437-438	218_QUEST_clinical_caseMIR	SENT2	-	-
@@ -120,5 +120,6 @@
 11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	519-530	218_QUEST_clinical_caseMIR	SENT3	-	-
 12	más	más	RG	C0205172	calificador	531-534	218_QUEST_clinical_caseMIR	SENT3	-	-
 13	probable	probable	AQ0CS0	C0332148	calificador	535-543	218_QUEST_clinical_caseMIR	SENT3	-	-
-14	.	.	Fp	-	-	543-544	218_QUEST_clinical_caseMIR	SENT3	-	-
+14	:	:	Fd	-	-	543-544	218_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	544-545	218_QUEST_clinical_caseMIR	SENT3	-	-
 

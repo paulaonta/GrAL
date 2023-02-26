@@ -64,11 +64,13 @@
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	324-326	707_QUEST_clinical_caseMIR	SENT3	-	-
 2	esta	este	DD0FS0	-	-	327-331	707_QUEST_clinical_caseMIR	SENT3	-	-
 3	situación	situación	NCFS000	-	-	332-341	707_QUEST_clinical_caseMIR	SENT3	-	-
-4	.	.	Fp	-	-	342-343	707_QUEST_clinical_caseMIR	SENT3	-	-
-5	qué	qué	DT0CN0	-	-	344-347	707_QUEST_clinical_caseMIR	SENT3	-	-
-6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	348-359	707_QUEST_clinical_caseMIR	SENT3	-	-
-7	NO	no	RN	C1298908	calificador	360-362	707_QUEST_clinical_caseMIR	SENT3	-	-
-8	sería	ser	VSIC1S0	-	-	363-368	707_QUEST_clinical_caseMIR	SENT3	-	-
-9	recomendable	recomendable	AQ0CS0	-	-	369-381	707_QUEST_clinical_caseMIR	SENT3	-	-
-10	.	.	Fp	-	-	381-382	707_QUEST_clinical_caseMIR	SENT3	-	-
+4	¿	¿	Fia	-	-	342-343	707_QUEST_clinical_caseMIR	SENT3	-	-
+5	qué	qué	DT0CN0	-	-	343-346	707_QUEST_clinical_caseMIR	SENT3	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	347-358	707_QUEST_clinical_caseMIR	SENT3	-	-
+7	NO	no	RN	C1298908	calificador	359-361	707_QUEST_clinical_caseMIR	SENT3	-	-
+8	sería	ser	VSIC1S0	-	-	362-367	707_QUEST_clinical_caseMIR	SENT3	-	-
+9	recomendable	recomendable	AQ0CS0	-	-	368-380	707_QUEST_clinical_caseMIR	SENT3	-	-
+10	?	?	Fit	-	-	380-381	707_QUEST_clinical_caseMIR	SENT3	-	-
+11	:	:	Fd	-	-	381-382	707_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	382-383	707_QUEST_clinical_caseMIR	SENT3	-	-
 

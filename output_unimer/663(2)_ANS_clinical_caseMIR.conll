@@ -1,0 +1,44 @@
+1	La	el	DA0FS0	-	-	0-2	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	aparición	aparición	NCFS000	-	-	3-12	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	fosfenos	fosfeno	NCMP000	C0520998	trastorno	16-24	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	seguida	seguir	VMP00SF	-	-	25-32	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	33-35	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	36-39	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	mancha	mancha	NCFS000	-	-	40-46	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	oscura	oscuro	AQ0FS0	C0332582	calificador	47-53	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	que	que	PR0CN000	-	-	54-57	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	se	se	P00CN000	-	-	58-60	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	desplaza	desplazar	VMIP3S0	-	-	61-69	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	70-73	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	74-76	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	mirada	mirada	NCFS000	C0553544	hallazgo	77-83	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	es	ser	VSIP3S0	-	-	84-86	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	sugestiva	sugestivo	AQ0FS0	-	-	87-96	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	97-99	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	un	un		C0205447_1	calificador_1	100-102	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	desprendimiento	desprendimiento	NCMS000	-	-	103-118	663(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+21	de	de	SPS00	C0332285	atributo	119-121	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	vítreo	vítreo	NC00SC0	C0522500	calificador	122-128	663(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	129-138	663(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	,	,	Fc	-	-	138-139	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+25	aunque	aunque	CC	-	-	140-146	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+26	se	se	P00CN000	-	-	147-149	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+27	debe	deber	VMIP3S0	-	-	150-154	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+28	realizar	realizar	VMN0000	-	-	155-163	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+29	una	una		C0205447_1	calificador_1	164-167	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+30	exploración	exploración	NCFS000	C1280903	procedimiento	168-179	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+31	de	de	SPS00	C0332285	atributo	180-182	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+32	fondo	fondo	NCMS000	C0016823#C1284756#C0029090_1	estructura_corporal#procedimiento_1	183-188	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+33	de	de	SPS00	C0016823#C1284756#C0029090_2	estructura_corporal#procedimiento_2	189-191	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+34	ojo	ojo	NCMS000	C0016823#C1284756#C0029090_3	estructura_corporal#procedimiento_3	192-195	663(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+35	para	para	SPS00	C0521125	calificador	196-200	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+36	descartar	descartar	VMN0000	C0332196	calificador	201-210	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+37	una	una		C0205447_1	calificador_1	211-214	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+38	rotura	rotura	NCFS000	-	-	215-221	663(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+39	retiniana	retiniano	AQ0FS0	-	-	222-231	663(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+40	o	o	CC	-	-	232-233	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+41	hemorragia	hemorragia	NCFS000	C0042909_1	trastorno_1	234-244	663(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+42	vítrea	vítreo	AQ0FS0	C0042909_2	trastorno_2	245-251	663(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+43	.	.	Fp	-	-	251-252	663(2)_ANS_clinical_caseMIR	SENT1	-	-
+

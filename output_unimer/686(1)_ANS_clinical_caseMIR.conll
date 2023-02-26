@@ -1,0 +1,21 @@
+1	No	no	RN	C1298908	calificador	0-2	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	,	,	Fc	-	-	2-3	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	porque	porque	CS	-	-	4-10	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	11-13	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	14-22	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	está	estar	VAIP3S0	-	-	23-27	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	libre	libre	NCMS000	C0332296_1	atributo_1	28-33	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332296_2	atributo_2	34-36	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	crisis	crisis	NCFN000	C0231224	hallazgo	37-43	686(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	44-45	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	cambiar	cambiar	VMN0000	-	-	46-53	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	lo	lo	PP3CNA00	-	-	53-55	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	56-58	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	este	este	DD0MS0	-	-	59-63	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	64-71	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	sería	ser	VSIC1S0	-	-	72-77	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	asumir	asumir	VMN0000	-	-	78-84	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	riesgos	riesgo	NCMP000	-	-	85-92	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	innecesarios	innecesario	AQ0MP0	-	-	93-105	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	105-106	686(1)_ANS_clinical_caseMIR	SENT1	-	-
+

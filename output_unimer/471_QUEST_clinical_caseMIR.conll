@@ -36,15 +36,17 @@
 14	distal	distal	AQ0CS0	C0205108	calificador	232-238	471_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
 15	.	.	Fp	-	-	238-239	471_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	En	en	SPS00	C1720294#C0332285	calificador#atributo	240-242	471_QUEST_clinical_caseMIR	SENT3	-	-
-2	cuál	cuál	PT0CS000	-	-	243-247	471_QUEST_clinical_caseMIR	SENT3	-	-
-3	de	de	SPS00	C0332285	atributo	248-250	471_QUEST_clinical_caseMIR	SENT3	-	-
-4	las	el	DA0FP0	-	-	251-254	471_QUEST_clinical_caseMIR	SENT3	-	-
-5	siguientes	siguiente	AQ0CP0	C0332282	atributo	255-265	471_QUEST_clinical_caseMIR	SENT3	-	-
-6	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	266-278	471_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
-7	se	se	P00CN000	-	-	279-281	471_QUEST_clinical_caseMIR	SENT3	-	-
-8	encuentran	encontrar	VMIP3P0	-	-	282-292	471_QUEST_clinical_caseMIR	SENT3	-	-
-9	estas	este	DD0FP0	-	-	293-298	471_QUEST_clinical_caseMIR	SENT3	-	-
-10	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	299-307	471_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
-11	.	.	Fp	-	-	307-308	471_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	240-241	471_QUEST_clinical_caseMIR	SENT3	-	-
+2	En	en	SPS00	C1720294#C0332285	calificador#atributo	241-243	471_QUEST_clinical_caseMIR	SENT3	-	-
+3	cuál	cuál	PT0CS000	-	-	244-248	471_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	249-251	471_QUEST_clinical_caseMIR	SENT3	-	-
+5	las	el	DA0FP0	-	-	252-255	471_QUEST_clinical_caseMIR	SENT3	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	256-266	471_QUEST_clinical_caseMIR	SENT3	-	-
+7	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	267-279	471_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	se	se	P00CN000	-	-	280-282	471_QUEST_clinical_caseMIR	SENT3	-	-
+9	encuentran	encontrar	VMIP3P0	-	-	283-293	471_QUEST_clinical_caseMIR	SENT3	-	-
+10	estas	este	DD0FP0	-	-	294-299	471_QUEST_clinical_caseMIR	SENT3	-	-
+11	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	300-308	471_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	?	?	Fit	-	-	308-309	471_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	309-310	471_QUEST_clinical_caseMIR	SENT3	-	-
 

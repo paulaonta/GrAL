@@ -39,13 +39,16 @@
 9	controlada	controlar	VMP00SF	-	-	216-226	686_QUEST_clinical_caseMIR	SENT2	-	-
 10	.	.	Fp	-	-	226-227	686_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Se	se	P00CN000	-	-	228-230	686_QUEST_clinical_caseMIR	SENT3	-	-
-2	plantearía	plantear	VMIC3S0	-	-	231-241	686_QUEST_clinical_caseMIR	SENT3	-	-
-3	hacer	hacer	VMN0000	-	-	242-247	686_QUEST_clinical_caseMIR	SENT3	-	-
-4	alguna	alguno	DI0FS0	C0205392	calificador	248-254	686_QUEST_clinical_caseMIR	SENT3	-	-
-5	modificación	modificación	NCFS000	-	-	255-267	686_QUEST_clinical_caseMIR	SENT3	-	-
-6	en	en	SPS00	C1720294#C0332285	calificador#atributo	268-270	686_QUEST_clinical_caseMIR	SENT3	-	-
-7	su	su	DP3CS0	-	-	271-273	686_QUEST_clinical_caseMIR	SENT3	-	-
-8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	274-285	686_QUEST_clinical_caseMIR	SENT3	-	-
-9	.	.	Fp	-	-	285-286	686_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	228-229	686_QUEST_clinical_caseMIR	SENT3	-	-
+2	Se	se	P00CN000	-	-	229-231	686_QUEST_clinical_caseMIR	SENT3	-	-
+3	plantearía	plantear	VMIC3S0	-	-	232-242	686_QUEST_clinical_caseMIR	SENT3	-	-
+4	hacer	hacer	VMN0000	-	-	243-248	686_QUEST_clinical_caseMIR	SENT3	-	-
+5	alguna	alguno	DI0FS0	C0205392	calificador	249-255	686_QUEST_clinical_caseMIR	SENT3	-	-
+6	modificación	modificación	NCFS000	-	-	256-268	686_QUEST_clinical_caseMIR	SENT3	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	686_QUEST_clinical_caseMIR	SENT3	-	-
+8	su	su	DP3CS0	-	-	272-274	686_QUEST_clinical_caseMIR	SENT3	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	275-286	686_QUEST_clinical_caseMIR	SENT3	-	-
+10	?	?	Fit	-	-	286-287	686_QUEST_clinical_caseMIR	SENT3	-	-
+11	:	:	Fd	-	-	287-288	686_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	288-289	686_QUEST_clinical_caseMIR	SENT3	-	-
 

@@ -1,0 +1,23 @@
+1	Es	ser	VSIP3S0	-	-	0-2	26(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	3-6	26(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	cetoacidosis	cetoacidosis	NCFN000	C0011880_1	trastorno_1	7-19	26(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	diabética	diabético	NCFS000	C0011880_2	trastorno_2	20-29	26(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	.	.	Fp	-	-	29-30	26(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Hay	haber	VMIP3S0	-	-	31-34	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	que	que	CS	-	-	35-38	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	tratar	tratar	VMN0000	-	-	39-45	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	46-49	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	insulina	insulina	NCFS000	C0021641	sustancia	50-58	26(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	endovenosa	endovenoso	AQ0FS0	-	-	59-69	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	69-70	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	sueroterapia	sueroterapia	NCFS000	-	-	71-83	26(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	.	.	Fp	-	-	83-84	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+10	medidas	medida	NCFP000	C0079809	atributo	85-92	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	generales	general	AQ0CP0	C0205246	calificador	93-102	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	103-104	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	buscar	buscar	VMN0000	-	-	105-111	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+14	causa	causa	NCFS000	-	-	112-117	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	precipitante	precipitante	AQ0CS0	-	-	118-130	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	130-131	26(1)_ANS_clinical_caseMIR	SENT2	-	-
+

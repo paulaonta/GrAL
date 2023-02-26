@@ -48,12 +48,15 @@
 20	uterino	uterino	AQ0MS0	-	-	287-294	169_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
 21	.	.	Fp	-	-	294-295	169_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	296-299	169_QUEST_clinical_caseMIR	SENT3	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	300-311	169_QUEST_clinical_caseMIR	SENT3	-	-
-3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	312-314	169_QUEST_clinical_caseMIR	SENT3	-	-
-4	parece	parecer	VMIP3S0	-	-	315-321	169_QUEST_clinical_caseMIR	SENT3	-	-
-5	el	el	DA0MS0	C0205393_1	calificador_1	322-324	169_QUEST_clinical_caseMIR	SENT3	-	-
-6	más	más	RG	C0205393_2	calificador_2	325-328	169_QUEST_clinical_caseMIR	SENT3	-	-
-7	probable	probable	AQ0CS0	C0332148	calificador	329-337	169_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	337-338	169_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	296-297	169_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	297-300	169_QUEST_clinical_caseMIR	SENT3	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	301-312	169_QUEST_clinical_caseMIR	SENT3	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	313-315	169_QUEST_clinical_caseMIR	SENT3	-	-
+5	parece	parecer	VMIP3S0	-	-	316-322	169_QUEST_clinical_caseMIR	SENT3	-	-
+6	el	el	DA0MS0	C0205393_1	calificador_1	323-325	169_QUEST_clinical_caseMIR	SENT3	-	-
+7	más	más	RG	C0205393_2	calificador_2	326-329	169_QUEST_clinical_caseMIR	SENT3	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	330-338	169_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	338-339	169_QUEST_clinical_caseMIR	SENT3	-	-
+10	:	:	Fd	-	-	339-340	169_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	340-341	169_QUEST_clinical_caseMIR	SENT3	-	-
 

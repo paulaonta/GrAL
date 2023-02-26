@@ -128,9 +128,11 @@
 25	pieloureteral	pieloureteral	AQ0CS00	-	-	609-622	597_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 26	.	.	Fp	-	-	622-623	597_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	624-628	597_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	629-631	597_QUEST_clinical_caseMIR	SENT5	-	-
-3	su	su	DP3CS0	-	-	632-634	597_QUEST_clinical_caseMIR	SENT5	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	635-642	597_QUEST_clinical_caseMIR	SENT5	-	-
-5	.	.	Fp	-	-	642-643	597_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	624-625	597_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	625-629	597_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	630-632	597_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	633-635	597_QUEST_clinical_caseMIR	SENT5	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	636-643	597_QUEST_clinical_caseMIR	SENT5	-	-
+6	?	?	Fit	-	-	643-644	597_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	644-645	597_QUEST_clinical_caseMIR	SENT5	-	-
 

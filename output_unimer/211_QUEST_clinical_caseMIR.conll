@@ -106,10 +106,13 @@
 7	renoureterales	renoureterales	AQ0CP00	-	-	619-633	211_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
 8	.	.	Fp	-	-	633-634	211_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	635-639	211_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	640-642	211_QUEST_clinical_caseMIR	SENT5	-	-
-3	su	su	DP3CS0	-	-	643-645	211_QUEST_clinical_caseMIR	SENT5	-	-
-4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	646-654	211_QUEST_clinical_caseMIR	SENT5	-	-
-5	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	655-666	211_QUEST_clinical_caseMIR	SENT5	-	-
-6	.	.	Fp	-	-	666-667	211_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	635-636	211_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	636-640	211_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	641-643	211_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	644-646	211_QUEST_clinical_caseMIR	SENT5	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	647-655	211_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	656-667	211_QUEST_clinical_caseMIR	SENT5	-	-
+7	?	?	Fit	-	-	667-668	211_QUEST_clinical_caseMIR	SENT5	-	-
+8	:	:	Fd	-	-	668-669	211_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	669-670	211_QUEST_clinical_caseMIR	SENT5	-	-
 

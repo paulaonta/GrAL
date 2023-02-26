@@ -1,0 +1,24 @@
+1	No	no	RN	C1298908	calificador	0-2	620(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	se	se	P00CN000	-	-	3-5	620(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	trata	tratar	VMIP3S0	-	-	6-11	620(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	620(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	15-18	620(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	erupción	erupción	NCFS000	C0015230#C0302295	trastorno#anomalía_morfológica	19-27	620(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	tardía	tardío	AQ0FS0	C0205087#C1279941#C0547041	calificador	28-34	620(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	34-35	620(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Estamos	estar	VAIP1P0	-	-	36-43	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	44-46	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	los	el	DA0MP0	-	-	47-50	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	límites	límite	NCMP000	C0205189	calificador	51-58	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	59-61	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	62-64	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+7	normalidad	normalidad	NCFS000	-	-	65-75	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+8	(	(	Fpa	-	-	76-77	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+9	media	medio	AQ0FS0	C2939193#C0205098#C0444598#C0549183	calificador	77-82	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+10	más	más	RG	C0205172	calificador	83-86	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+11	desviación	desviación	NCFS000	C0871420_1	calificador_1	87-97	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+12	estándar	estándar	NCMS000	C0871420_2	calificador_2	98-106	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+13	)	)	Fpt	-	-	106-107	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	107-108	620(0)_ANS_clinical_caseMIR	SENT2	-	-
+

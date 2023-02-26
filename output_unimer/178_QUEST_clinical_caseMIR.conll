@@ -41,7 +41,7 @@
 41	caracteriza	caracterizar	VMIP3S0	-	-	237-248	178_QUEST_clinical_caseMIR	SENT1	-	-
 42	sintomáticamente	sintomáticamente	RG	-	-	249-265	178_QUEST_clinical_caseMIR	SENT1	-	-
 43	por	por	SPS00	C0678226	atributo	266-269	178_QUEST_clinical_caseMIR	SENT1	-	-
-44	.	.	Fp	-	-	269-270	178_QUEST_clinical_caseMIR	SENT1	-	-
+44	:	:	Fd	-	-	269-270	178_QUEST_clinical_caseMIR	SENT1	-	-
 45	dolor	dolor	NCMS000	C0030193	hallazgo	271-276	178_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
 46	torácico	torácico	NC00SC0	C0817096	calificador	277-285	178_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
 47	,	,	Fc	-	-	285-286	178_QUEST_clinical_caseMIR	SENT1	-	-
@@ -83,5 +83,6 @@
 8	siguientes	siguiente	AQ0CP0	C0332282	atributo	511-521	178_QUEST_clinical_caseMIR	SENT2	-	-
 9	cuadros	cuadro	NCMP000	-	-	522-529	178_QUEST_clinical_caseMIR	SENT2	-	-
 10	EXCEPTO	excepto	SPS00	-	-	530-537	178_QUEST_clinical_caseMIR	SENT2	-	-
-11	.	.	Fp	-	-	537-538	178_QUEST_clinical_caseMIR	SENT2	-	-
+11	:	:	Fd	-	-	537-538	178_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	538-539	178_QUEST_clinical_caseMIR	SENT2	-	-
 

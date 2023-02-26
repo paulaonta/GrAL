@@ -65,11 +65,13 @@
 7	microbiológicos	microbiológico	AQ0MP0	-	-	349-364	221_QUEST_clinical_caseMIR	SENT4	-	-
 8	definitivos	definitivo	AQ0MP0	C0443196	calificador	365-376	221_QUEST_clinical_caseMIR	SENT4	-	-
 9	,	,	Fc	-	-	376-377	221_QUEST_clinical_caseMIR	SENT4	-	-
-10	.	.	Fp	-	-	378-379	221_QUEST_clinical_caseMIR	SENT4	-	-
-11	qué	qué	DE0CN0	-	-	380-383	221_QUEST_clinical_caseMIR	SENT4	-	-
-12	antimicrobiano	antimicrobiano	AQ0MS0	-	-	384-398	221_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
-13	añadiría	añadir	VMIC3S0	-	-	399-407	221_QUEST_clinical_caseMIR	SENT4	-	-
-14	al	al	SP+DA	-	-	408-410	221_QUEST_clinical_caseMIR	SENT4	-	-
-15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	411-422	221_QUEST_clinical_caseMIR	SENT4	-	-
-16	.	.	Fp	-	-	422-423	221_QUEST_clinical_caseMIR	SENT4	-	-
+10	¿	¿	Fia	-	-	378-379	221_QUEST_clinical_caseMIR	SENT4	-	-
+11	qué	qué	DE0CN0	-	-	379-382	221_QUEST_clinical_caseMIR	SENT4	-	-
+12	antimicrobiano	antimicrobiano	AQ0MS0	-	-	383-397	221_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+13	añadiría	añadir	VMIC3S0	-	-	398-406	221_QUEST_clinical_caseMIR	SENT4	-	-
+14	al	al	SP+DA	-	-	407-409	221_QUEST_clinical_caseMIR	SENT4	-	-
+15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	410-421	221_QUEST_clinical_caseMIR	SENT4	-	-
+16	?	?	Fit	-	-	421-422	221_QUEST_clinical_caseMIR	SENT4	-	-
+17	:	:	Fd	-	-	422-423	221_QUEST_clinical_caseMIR	SENT4	-	-
+18	.	.	Fp	-	-	423-424	221_QUEST_clinical_caseMIR	SENT4	-	-
 

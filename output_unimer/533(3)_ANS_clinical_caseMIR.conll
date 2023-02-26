@@ -1,0 +1,13 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	ejercicio	ejercicio	NCMS000	C0015259	entidad_observable	16-25	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	25-26	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	dieta	dieta	NCFS000	C0301562_1	hallazgo_1	27-32	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	estricta	estricto	AQ0FS0	C0301562_2	hallazgo_2	33-41	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	baja	bajo	AQ0FS0	C0205251	calificador	42-46	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	47-49	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	purinas	purina	NCFP000	C0034140	sustancia	50-57	533(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	y	y	CC	C1706368	calificador	58-59	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	colchicina	colchicina	NC00SC0	C0009262	producto#sustancia	60-70	533(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	.	.	Fp	-	-	70-71	533(3)_ANS_clinical_caseMIR	SENT1	-	-
+

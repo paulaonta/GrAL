@@ -102,11 +102,14 @@
 23	interés	interés	NCMS000	-	-	567-574	774_QUEST_clinical_caseMIR	SENT6	-	-
 24	.	.	Fp	-	-	574-575	774_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	576-580	774_QUEST_clinical_caseMIR	SENT7	-	-
-2	es	ser	VSIP3S0	-	-	581-583	774_QUEST_clinical_caseMIR	SENT7	-	-
-3	el	el	DA0MS0	-	-	584-586	774_QUEST_clinical_caseMIR	SENT7	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	587-598	774_QUEST_clinical_caseMIR	SENT7	-	-
-5	más	más	RG	C0205172	calificador	599-602	774_QUEST_clinical_caseMIR	SENT7	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	603-611	774_QUEST_clinical_caseMIR	SENT7	-	-
-7	.	.	Fp	-	-	611-612	774_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	576-577	774_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	577-581	774_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	582-584	774_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	585-587	774_QUEST_clinical_caseMIR	SENT7	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	588-599	774_QUEST_clinical_caseMIR	SENT7	-	-
+6	más	más	RG	C0205172	calificador	600-603	774_QUEST_clinical_caseMIR	SENT7	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	604-612	774_QUEST_clinical_caseMIR	SENT7	-	-
+8	?	?	Fit	-	-	612-613	774_QUEST_clinical_caseMIR	SENT7	-	-
+9	:	:	Fd	-	-	613-614	774_QUEST_clinical_caseMIR	SENT7	-	-
+10	.	.	Fp	-	-	614-615	774_QUEST_clinical_caseMIR	SENT7	-	-
 

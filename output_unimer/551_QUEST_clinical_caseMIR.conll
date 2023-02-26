@@ -58,14 +58,16 @@
 58	minutos	minuto	NCMP000	C0439232	calificador	311-318	551_QUEST_clinical_caseMIR	SENT1	-	-
 59	.	.	Fp	-	-	318-319	551_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuáles	cuál	PT0CP000	-	-	320-326	551_QUEST_clinical_caseMIR	SENT2	-	-
-2	son	ser	VSIP3P0	-	-	327-330	551_QUEST_clinical_caseMIR	SENT2	-	-
-3	la	el	DA0FS0	-	-	331-333	551_QUEST_clinical_caseMIR	SENT2	-	-
-4	orientación	orientación	NCFS000	C0029266	función	334-345	551_QUEST_clinical_caseMIR	SENT2	-	-
-5	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	346-357	551_QUEST_clinical_caseMIR	SENT2	-	-
-6	y	y	CC	C1706368	calificador	358-359	551_QUEST_clinical_caseMIR	SENT2	-	-
-7	actitud	actitud	NCFS000	C0004271	entidad_observable	360-367	551_QUEST_clinical_caseMIR	SENT2	-	-
-8	terapéutica	terapéutico	AQ0FS0	-	-	368-379	551_QUEST_clinical_caseMIR	SENT2	-	-
-9	correctas	correcto	AQ0FP0	C0205170	calificador	380-389	551_QUEST_clinical_caseMIR	SENT2	-	-
-10	.	.	Fp	-	-	389-390	551_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	320-321	551_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuáles	cuál	PT0CP000	-	-	321-327	551_QUEST_clinical_caseMIR	SENT2	-	-
+3	son	ser	VSIP3P0	-	-	328-331	551_QUEST_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	332-334	551_QUEST_clinical_caseMIR	SENT2	-	-
+5	orientación	orientación	NCFS000	C0029266	función	335-346	551_QUEST_clinical_caseMIR	SENT2	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	347-358	551_QUEST_clinical_caseMIR	SENT2	-	-
+7	y	y	CC	C1706368	calificador	359-360	551_QUEST_clinical_caseMIR	SENT2	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	361-368	551_QUEST_clinical_caseMIR	SENT2	-	-
+9	terapéutica	terapéutico	AQ0FS0	-	-	369-380	551_QUEST_clinical_caseMIR	SENT2	-	-
+10	correctas	correcto	AQ0FP0	C0205170	calificador	381-390	551_QUEST_clinical_caseMIR	SENT2	-	-
+11	?	?	Fit	-	-	390-391	551_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	391-392	551_QUEST_clinical_caseMIR	SENT2	-	-
 

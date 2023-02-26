@@ -1,0 +1,23 @@
+1	Artrocentesis	artrocentesis	NC00SC0	C0204854	procedimiento	0-13	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	para	para	SPS00	C0521125	calificador	14-18	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	hacer	hacer	VMN0000	-	-	19-24	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	25-28	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	tinción	tinción	NCFS000	C0061856#C0200966_1	sustancia#procedimiento_1	29-36	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0061856#C0200966_2	sustancia#procedimiento_2	37-39	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	Gram	método_de_tinción_para_microorganismos_que_descubrió_el_médico_danés_de_igual_nombre	NC00YL0	C0061856#C0200966_3	sustancia#procedimiento_3	40-44	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	45-46	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	cultivo	cultivo	NCMS000	-	-	47-54	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	del	del	SP+DA	-	-	55-58	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	líquido	líquido	NCMS000	C0039097_1	sustancia_1	59-66	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	articular	articular	VMN0000	C0039097_2	sustancia_2	67-76	628(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	77-78	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	examinar	examinar	VMN0000	-	-	79-87	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	88-90	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	91-98	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	al	al	SP+DA	-	-	99-101	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	microscopio	microscopio	NCMS000	C0181839	objeto_físico	102-113	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	114-116	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	luz	luz	NCFS000	C0524461#C0023693#C1301906	estructura_corporal#fuerza_física#calificador	117-120	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	polarizada	polarizar	VMP00SF	-	-	121-131	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	131-132	628(0)_ANS_clinical_caseMIR	SENT1	-	-
+

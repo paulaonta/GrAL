@@ -1,0 +1,23 @@
+1	Amoxicilina-clavulánico	amoxicilina-clavulánico	AQ0MS00	-	-	0-23	357(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	,	,	Fc	-	-	23-24	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	pensando	pensar	VMG0000	-	-	25-33	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	37-40	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	41-43	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	flora	flora	NCFS000	-	-	44-49	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	oral	oral	AQ0CS0	C0442027	calificador	50-54	357(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	está	estar	VAIP3S0	-	-	55-59	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	compuesta	componer	VMP00SF	-	-	60-69	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	70-73	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	flora	flora	NCFS000	-	-	74-79	357(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	mixta	mixto	AQ0FS0	C0205430	calificador	80-85	357(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+14	con	con	SPS00	C0332251_1	calificador_1	86-89	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	predominio	predominio	NCMS000	C0332251_2	calificador_2	90-100	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332251_3	calificador_3	101-103	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	flora	flora	NCFS000	-	-	104-109	357(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	gram	método_de_tinción_para_microorganismos_que_descubrió_el_médico_danés_de_igual_nombre	NC00YL0	-	-	110-114	357(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+19	positiva	positivo	AQ0FS0	C1446409	calificador	115-123	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	y	y	CC	C1706368	calificador	124-125	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	anaerobia	anaerobio	AQ0FS0	-	-	126-135	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	135-136	357(2)_ANS_clinical_caseMIR	SENT1	-	-
+

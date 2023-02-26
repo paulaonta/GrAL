@@ -30,16 +30,19 @@
 14	ingle	ingle	NCFS000	C0018246	estructura_corporal	160-165	241_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
 15	.	.	Fp	-	-	165-166	241_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	167-170	241_QUEST_clinical_caseMIR	SENT3	-	-
-2	prueba	prueba	NCFS000	-	-	171-177	241_QUEST_clinical_caseMIR	SENT3	-	-
-3	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	178-189	241_QUEST_clinical_caseMIR	SENT3	-	-
-4	es	ser	VSIP3S0	-	-	190-192	241_QUEST_clinical_caseMIR	SENT3	-	-
-5	más	más	RG	C0205172	calificador	193-196	241_QUEST_clinical_caseMIR	SENT3	-	-
-6	coste-efectiva	coste-efectiva	AQ0FS00	-	-	197-211	241_QUEST_clinical_caseMIR	SENT3	-	-
-7	para	para	SPS00	C0521125	calificador	212-216	241_QUEST_clinical_caseMIR	SENT3	-	-
-8	confirmar	confirmar	VMN0000	-	-	217-226	241_QUEST_clinical_caseMIR	SENT3	-	-
-9	la	el	DA0FS0	-	-	227-229	241_QUEST_clinical_caseMIR	SENT3	-	-
-10	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	230-238	241_QUEST_clinical_caseMIR	SENT3	-	-
-11	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	239-250	241_QUEST_clinical_caseMIR	SENT3	-	-
-12	.	.	Fp	-	-	250-251	241_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	167-168	241_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	168-171	241_QUEST_clinical_caseMIR	SENT3	-	-
+3	prueba	prueba	NCFS000	-	-	172-178	241_QUEST_clinical_caseMIR	SENT3	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	179-190	241_QUEST_clinical_caseMIR	SENT3	-	-
+5	es	ser	VSIP3S0	-	-	191-193	241_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	194-197	241_QUEST_clinical_caseMIR	SENT3	-	-
+7	coste-efectiva	coste-efectiva	AQ0FS00	-	-	198-212	241_QUEST_clinical_caseMIR	SENT3	-	-
+8	para	para	SPS00	C0521125	calificador	213-217	241_QUEST_clinical_caseMIR	SENT3	-	-
+9	confirmar	confirmar	VMN0000	-	-	218-227	241_QUEST_clinical_caseMIR	SENT3	-	-
+10	la	el	DA0FS0	-	-	228-230	241_QUEST_clinical_caseMIR	SENT3	-	-
+11	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	231-239	241_QUEST_clinical_caseMIR	SENT3	-	-
+12	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	240-251	241_QUEST_clinical_caseMIR	SENT3	-	-
+13	?	?	Fit	-	-	251-252	241_QUEST_clinical_caseMIR	SENT3	-	-
+14	:	:	Fd	-	-	252-253	241_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	253-254	241_QUEST_clinical_caseMIR	SENT3	-	-
 

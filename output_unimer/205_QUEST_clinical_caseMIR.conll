@@ -184,17 +184,20 @@
 72	%	%	Ft	-	-	971-972	205_QUEST_clinical_caseMIR	SENT7	-	-
 73	.	.	Fp	-	-	972-973	205_QUEST_clinical_caseMIR	SENT7	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	974-978	205_QUEST_clinical_caseMIR	SENT8	-	-
-2	es	ser	VSIP3S0	-	-	979-981	205_QUEST_clinical_caseMIR	SENT8	-	-
-3	el	el	DA0MS0	-	-	982-984	205_QUEST_clinical_caseMIR	SENT8	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	985-996	205_QUEST_clinical_caseMIR	SENT8	-	-
-5	más	más	RG	C0205172	calificador	997-1000	205_QUEST_clinical_caseMIR	SENT8	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	1001-1009	205_QUEST_clinical_caseMIR	SENT8	-	-
-7	del	del	SP+DA	-	-	1010-1013	205_QUEST_clinical_caseMIR	SENT8	-	-
-8	cuadro	cuadro	NCMS000	-	-	1014-1020	205_QUEST_clinical_caseMIR	SENT8	-	-
-9	que	que	PR0CN000	-	-	1021-1024	205_QUEST_clinical_caseMIR	SENT8	-	-
-10	presenta	presentar	VMIP3S0	-	-	1025-1033	205_QUEST_clinical_caseMIR	SENT8	-	-
-11	la	el	DA0FS0	-	-	1034-1036	205_QUEST_clinical_caseMIR	SENT8	-	-
-12	paciente	paciente	NCCS000	C0030705	persona	1037-1045	205_QUEST_clinical_caseMIR	SENT8	-	-
-13	.	.	Fp	-	-	1045-1046	205_QUEST_clinical_caseMIR	SENT8	-	-
+1	¿	¿	Fia	-	-	974-975	205_QUEST_clinical_caseMIR	SENT8	-	-
+2	Cuál	cuál	PT0CS000	-	-	975-979	205_QUEST_clinical_caseMIR	SENT8	-	-
+3	es	ser	VSIP3S0	-	-	980-982	205_QUEST_clinical_caseMIR	SENT8	-	-
+4	el	el	DA0MS0	-	-	983-985	205_QUEST_clinical_caseMIR	SENT8	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	986-997	205_QUEST_clinical_caseMIR	SENT8	-	-
+6	más	más	RG	C0205172	calificador	998-1001	205_QUEST_clinical_caseMIR	SENT8	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	1002-1010	205_QUEST_clinical_caseMIR	SENT8	-	-
+8	del	del	SP+DA	-	-	1011-1014	205_QUEST_clinical_caseMIR	SENT8	-	-
+9	cuadro	cuadro	NCMS000	-	-	1015-1021	205_QUEST_clinical_caseMIR	SENT8	-	-
+10	que	que	PR0CN000	-	-	1022-1025	205_QUEST_clinical_caseMIR	SENT8	-	-
+11	presenta	presentar	VMIP3S0	-	-	1026-1034	205_QUEST_clinical_caseMIR	SENT8	-	-
+12	la	el	DA0FS0	-	-	1035-1037	205_QUEST_clinical_caseMIR	SENT8	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	1038-1046	205_QUEST_clinical_caseMIR	SENT8	-	-
+14	?	?	Fit	-	-	1046-1047	205_QUEST_clinical_caseMIR	SENT8	-	-
+15	:	:	Fd	-	-	1047-1048	205_QUEST_clinical_caseMIR	SENT8	-	-
+16	.	.	Fp	-	-	1048-1049	205_QUEST_clinical_caseMIR	SENT8	-	-
 

@@ -63,16 +63,16 @@
 3	afirmación	afirmación	NCFS000	-	-	335-345	92_QUEST_clinical_caseMIR	SENT4	-	-
 4	más	más	RG	C0205172	calificador	346-349	92_QUEST_clinical_caseMIR	SENT4	-	-
 5	correcta	correcto	AQ0FS0	C0205170	calificador	350-358	92_QUEST_clinical_caseMIR	SENT4	-	-
-6	.	.	Fp	-	-	358-359	92_QUEST_clinical_caseMIR	SENT4	-	-
-
-1	El	el	DA0MS0	-	-	360-362	92_QUEST_clinical_caseMIR	SENT5	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	363-374	92_QUEST_clinical_caseMIR	SENT5	-	-
-3	inicial	inicial	AQ0CS0	C0205265	calificador	375-382	92_QUEST_clinical_caseMIR	SENT5	-	-
-4	debe	deber	VMIP3S0	-	-	383-387	92_QUEST_clinical_caseMIR	SENT5	-	-
-5	incluir	incluir	VMN0000	-	-	388-395	92_QUEST_clinical_caseMIR	SENT5	-	-
-6	(	(	Fpa	-	-	396-397	92_QUEST_clinical_caseMIR	SENT5	-	-
-7	salvo	salvo	SPS00	-	-	397-402	92_QUEST_clinical_caseMIR	SENT5	-	-
-8	contraindicación	contraindicación	NCFS000	-	-	403-419	92_QUEST_clinical_caseMIR	SENT5	-	-
-9	)	)	Fpt	-	-	419-420	92_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	420-421	92_QUEST_clinical_caseMIR	SENT5	-	-
+6	:	:	Fd	-	-	358-359	92_QUEST_clinical_caseMIR	SENT4	-	-
+7	El	el	DA0MS0	-	-	360-362	92_QUEST_clinical_caseMIR	SENT4	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	363-374	92_QUEST_clinical_caseMIR	SENT4	-	-
+9	inicial	inicial	AQ0CS0	C0205265	calificador	375-382	92_QUEST_clinical_caseMIR	SENT4	-	-
+10	debe	deber	VMIP3S0	-	-	383-387	92_QUEST_clinical_caseMIR	SENT4	-	-
+11	incluir	incluir	VMN0000	-	-	388-395	92_QUEST_clinical_caseMIR	SENT4	-	-
+12	(	(	Fpa	-	-	396-397	92_QUEST_clinical_caseMIR	SENT4	-	-
+13	salvo	salvo	SPS00	-	-	397-402	92_QUEST_clinical_caseMIR	SENT4	-	-
+14	contraindicación	contraindicación	NCFS000	-	-	403-419	92_QUEST_clinical_caseMIR	SENT4	-	-
+15	)	)	Fpt	-	-	419-420	92_QUEST_clinical_caseMIR	SENT4	-	-
+16	:	:	Fd	-	-	420-421	92_QUEST_clinical_caseMIR	SENT4	-	-
+17	.	.	Fp	-	-	421-422	92_QUEST_clinical_caseMIR	SENT4	-	-
 

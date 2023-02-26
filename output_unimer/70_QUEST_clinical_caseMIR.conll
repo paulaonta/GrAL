@@ -114,49 +114,51 @@
 26	.	.	Fp	-	-	544-545	70_QUEST_clinical_caseMIR	SENT8	-	-
 
 1	Iones	ion	NCMP000	C0022023	sustancia	546-551	70_QUEST_clinical_caseMIR	SENT9	-	-
-2	.	.	Fp	-	-	551-552	70_QUEST_clinical_caseMIR	SENT9	-	-
+2	:	:	Fd	-	-	551-552	70_QUEST_clinical_caseMIR	SENT9	-	-
+3	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	553-555	70_QUEST_clinical_caseMIR	SENT9	-	-
+4	137	137		-	-	556-559	70_QUEST_clinical_caseMIR	SENT9	-	-
+5	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	560-563	70_QUEST_clinical_caseMIR	SENT9	-	-
+6	/	/	Fh	-	-	563-564	70_QUEST_clinical_caseMIR	SENT9	-	-
+7	L	l	NCFS000	-	-	564-565	70_QUEST_clinical_caseMIR	SENT9	-	-
+8	,	,	Fc	-	-	565-566	70_QUEST_clinical_caseMIR	SENT9	-	-
+9	K3.1	K3.1		-	-	567-571	70_QUEST_clinical_caseMIR	SENT9	-	-
+10	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	572-575	70_QUEST_clinical_caseMIR	SENT9	-	-
+11	/	/	Fh	-	-	575-576	70_QUEST_clinical_caseMIR	SENT9	-	-
+12	L	l	NCFS000	-	-	576-577	70_QUEST_clinical_caseMIR	SENT9	-	-
+13	,	,	Fc	-	-	577-578	70_QUEST_clinical_caseMIR	SENT9	-	-
+14	Cl	centilitro	NCMN000	C0475212	calificador	579-581	70_QUEST_clinical_caseMIR	SENT9	-	-
+15	94	94		-	-	582-584	70_QUEST_clinical_caseMIR	SENT9	-	-
+16	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	585-588	70_QUEST_clinical_caseMIR	SENT9	-	-
+17	/	/	Fh	-	-	588-589	70_QUEST_clinical_caseMIR	SENT9	-	-
+18	L.	l.	NCFS000	-	-	589-591	70_QUEST_clinical_caseMIR	SENT9	-	-
+19	Teniendo	tener	VMG0000	-	-	592-600	70_QUEST_clinical_caseMIR	SENT9	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	601-603	70_QUEST_clinical_caseMIR	SENT9	-	-
+21	cuenta	cuenta	NCFS000	-	-	604-610	70_QUEST_clinical_caseMIR	SENT9	-	-
+22	el	el	DA0MS0	-	-	611-613	70_QUEST_clinical_caseMIR	SENT9	-	-
+23	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	614-625	70_QUEST_clinical_caseMIR	SENT9	-	-
+24	más	más	RG	C0205172	calificador	626-629	70_QUEST_clinical_caseMIR	SENT9	-	-
+25	probable	probable	AQ0CS0	C0332148	calificador	630-638	70_QUEST_clinical_caseMIR	SENT9	-	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	639-641	70_QUEST_clinical_caseMIR	SENT9	-	-
+27	el	el	DA0MS0	-	-	642-644	70_QUEST_clinical_caseMIR	SENT9	-	-
+28	cuadro	cuadro	NCMS000	-	-	645-651	70_QUEST_clinical_caseMIR	SENT9	-	-
+29	clínico	clínico	AQ0MS0	C0205210	calificador	652-659	70_QUEST_clinical_caseMIR	SENT9	-	-
+30	descrito	describir	VMP00SM	-	-	660-668	70_QUEST_clinical_caseMIR	SENT9	-	-
+31	.	.	Fp	-	-	668-669	70_QUEST_clinical_caseMIR	SENT9	-	-
 
-1	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	553-555	70_QUEST_clinical_caseMIR	SENT10	-	-
-2	137	137		-	-	556-559	70_QUEST_clinical_caseMIR	SENT10	-	-
-3	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	560-563	70_QUEST_clinical_caseMIR	SENT10	-	-
-4	/	/	Fh	-	-	563-564	70_QUEST_clinical_caseMIR	SENT10	-	-
-5	L	l	NCFS000	-	-	564-565	70_QUEST_clinical_caseMIR	SENT10	-	-
-6	,	,	Fc	-	-	565-566	70_QUEST_clinical_caseMIR	SENT10	-	-
-7	K3.1	K3.1		-	-	567-571	70_QUEST_clinical_caseMIR	SENT10	-	-
-8	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	572-575	70_QUEST_clinical_caseMIR	SENT10	-	-
-9	/	/	Fh	-	-	575-576	70_QUEST_clinical_caseMIR	SENT10	-	-
-10	L	l	NCFS000	-	-	576-577	70_QUEST_clinical_caseMIR	SENT10	-	-
-11	,	,	Fc	-	-	577-578	70_QUEST_clinical_caseMIR	SENT10	-	-
-12	Cl	centilitro	NCMN000	C0475212	calificador	579-581	70_QUEST_clinical_caseMIR	SENT10	-	-
-13	94	94		-	-	582-584	70_QUEST_clinical_caseMIR	SENT10	-	-
-14	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	585-588	70_QUEST_clinical_caseMIR	SENT10	-	-
-15	/	/	Fh	-	-	588-589	70_QUEST_clinical_caseMIR	SENT10	-	-
-16	L.	l.	NCFS000	-	-	589-591	70_QUEST_clinical_caseMIR	SENT10	-	-
-17	Teniendo	tener	VMG0000	-	-	592-600	70_QUEST_clinical_caseMIR	SENT10	-	-
-18	en	en	SPS00	C1720294#C0332285	calificador#atributo	601-603	70_QUEST_clinical_caseMIR	SENT10	-	-
-19	cuenta	cuenta	NCFS000	-	-	604-610	70_QUEST_clinical_caseMIR	SENT10	-	-
-20	el	el	DA0MS0	-	-	611-613	70_QUEST_clinical_caseMIR	SENT10	-	-
-21	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	614-625	70_QUEST_clinical_caseMIR	SENT10	-	-
-22	más	más	RG	C0205172	calificador	626-629	70_QUEST_clinical_caseMIR	SENT10	-	-
-23	probable	probable	AQ0CS0	C0332148	calificador	630-638	70_QUEST_clinical_caseMIR	SENT10	-	-
-24	en	en	SPS00	C1720294#C0332285	calificador#atributo	639-641	70_QUEST_clinical_caseMIR	SENT10	-	-
-25	el	el	DA0MS0	-	-	642-644	70_QUEST_clinical_caseMIR	SENT10	-	-
-26	cuadro	cuadro	NCMS000	-	-	645-651	70_QUEST_clinical_caseMIR	SENT10	-	-
-27	clínico	clínico	AQ0MS0	C0205210	calificador	652-659	70_QUEST_clinical_caseMIR	SENT10	-	-
-28	descrito	describir	VMP00SM	-	-	660-668	70_QUEST_clinical_caseMIR	SENT10	-	-
-29	.	.	Fp	-	-	668-669	70_QUEST_clinical_caseMIR	SENT10	-	-
-
-1	Cuál	cuál	PT0CS000	-	-	670-674	70_QUEST_clinical_caseMIR	SENT11	-	-
-2	es	ser	VSIP3S0	-	-	675-677	70_QUEST_clinical_caseMIR	SENT11	-	-
-3	la	el	DA0FS0	-	-	678-680	70_QUEST_clinical_caseMIR	SENT11	-	-
-4	prueba	prueba	NCFS000	-	-	681-687	70_QUEST_clinical_caseMIR	SENT11	-	-
-5	complementaria	complementario	AQ0FS0	-	-	688-702	70_QUEST_clinical_caseMIR	SENT11	-	-
-6	de	de	SPS00	C0332285	atributo	703-705	70_QUEST_clinical_caseMIR	SENT11	-	-
-7	elección	elección	NCFS000	-	-	706-714	70_QUEST_clinical_caseMIR	SENT11	-	-
-8	para	para	SPS00	C0521125	calificador	715-719	70_QUEST_clinical_caseMIR	SENT11	-	-
-9	continuar	continuar	VMN0000	-	-	720-729	70_QUEST_clinical_caseMIR	SENT11	-	-
-10	ese	ese	DD0MS0	-	-	730-733	70_QUEST_clinical_caseMIR	SENT11	-	-
-11	diagnóstico	diagnóstico	NCMS000	C0332140_1	calificador_1	734-745	70_QUEST_clinical_caseMIR	SENT11	-	-
-12	clínico	clínico	NCMS000	C0332140_2	calificador_2	746-753	70_QUEST_clinical_caseMIR	SENT11	-	-
-13	.	.	Fp	-	-	753-754	70_QUEST_clinical_caseMIR	SENT11	-	-
+1	¿	¿	Fia	-	-	670-671	70_QUEST_clinical_caseMIR	SENT10	-	-
+2	Cuál	cuál	PT0CS000	-	-	671-675	70_QUEST_clinical_caseMIR	SENT10	-	-
+3	es	ser	VSIP3S0	-	-	676-678	70_QUEST_clinical_caseMIR	SENT10	-	-
+4	la	el	DA0FS0	-	-	679-681	70_QUEST_clinical_caseMIR	SENT10	-	-
+5	prueba	prueba	NCFS000	-	-	682-688	70_QUEST_clinical_caseMIR	SENT10	-	-
+6	complementaria	complementario	AQ0FS0	-	-	689-703	70_QUEST_clinical_caseMIR	SENT10	-	-
+7	de	de	SPS00	C0332285	atributo	704-706	70_QUEST_clinical_caseMIR	SENT10	-	-
+8	elección	elección	NCFS000	-	-	707-715	70_QUEST_clinical_caseMIR	SENT10	-	-
+9	para	para	SPS00	C0521125	calificador	716-720	70_QUEST_clinical_caseMIR	SENT10	-	-
+10	continuar	continuar	VMN0000	-	-	721-730	70_QUEST_clinical_caseMIR	SENT10	-	-
+11	ese	ese	DD0MS0	-	-	731-734	70_QUEST_clinical_caseMIR	SENT10	-	-
+12	diagnóstico	diagnóstico	NCMS000	C0332140_1	calificador_1	735-746	70_QUEST_clinical_caseMIR	SENT10	-	-
+13	clínico	clínico	NCMS000	C0332140_2	calificador_2	747-754	70_QUEST_clinical_caseMIR	SENT10	-	-
+14	?	?	Fit	-	-	754-755	70_QUEST_clinical_caseMIR	SENT10	-	-
+15	:	:	Fd	-	-	755-756	70_QUEST_clinical_caseMIR	SENT10	-	-
+16	.	.	Fp	-	-	756-757	70_QUEST_clinical_caseMIR	SENT10	-	-
 

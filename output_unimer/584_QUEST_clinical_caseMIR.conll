@@ -33,14 +33,16 @@
 21	fL	fl	NC00SC0	C0475213	calificador	148-150	584_QUEST_clinical_caseMIR	SENT2	-	-
 22	.	.	Fp	-	-	150-151	584_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	152-156	584_QUEST_clinical_caseMIR	SENT3	-	-
-2	de	de	SPS00	C0332285	atributo	157-159	584_QUEST_clinical_caseMIR	SENT3	-	-
-3	los	el	DA0MP0	-	-	160-163	584_QUEST_clinical_caseMIR	SENT3	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	164-174	584_QUEST_clinical_caseMIR	SENT3	-	-
-5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	175-187	584_QUEST_clinical_caseMIR	SENT3	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	188-190	584_QUEST_clinical_caseMIR	SENT3	-	-
-7	parece	parecer	VMIP3S0	-	-	191-197	584_QUEST_clinical_caseMIR	SENT3	-	-
-8	MENOS	menos	RG	C0332288	atributo	198-203	584_QUEST_clinical_caseMIR	SENT3	-	-
-9	probable	probable	AQ0CS0	C0332148	calificador	204-212	584_QUEST_clinical_caseMIR	SENT3	-	-
-10	.	.	Fp	-	-	212-213	584_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	152-153	584_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	153-157	584_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	158-160	584_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	161-164	584_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	165-175	584_QUEST_clinical_caseMIR	SENT3	-	-
+6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	176-188	584_QUEST_clinical_caseMIR	SENT3	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	189-191	584_QUEST_clinical_caseMIR	SENT3	-	-
+8	parece	parecer	VMIP3S0	-	-	192-198	584_QUEST_clinical_caseMIR	SENT3	-	-
+9	MENOS	menos	RG	C0332288	atributo	199-204	584_QUEST_clinical_caseMIR	SENT3	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	205-213	584_QUEST_clinical_caseMIR	SENT3	-	-
+11	?	?	Fit	-	-	213-214	584_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	214-215	584_QUEST_clinical_caseMIR	SENT3	-	-
 

@@ -85,14 +85,17 @@
 20	mmHg	mmHg	NCMP000	-	-	449-453	236_QUEST_clinical_caseMIR	SENT5	-	-
 21	.	.	Fp	-	-	453-454	236_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	455-459	236_QUEST_clinical_caseMIR	SENT6	-	-
-2	de	de	SPS00	C0332285	atributo	460-462	236_QUEST_clinical_caseMIR	SENT6	-	-
-3	las	el	DA0FP0	-	-	463-466	236_QUEST_clinical_caseMIR	SENT6	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	467-477	236_QUEST_clinical_caseMIR	SENT6	-	-
-5	actitudes	actitud	NCFP000	C0004271	entidad_observable	478-487	236_QUEST_clinical_caseMIR	SENT6	-	-
-6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	488-490	236_QUEST_clinical_caseMIR	SENT6	-	-
-7	parece	parecer	VMIP3S0	-	-	491-497	236_QUEST_clinical_caseMIR	SENT6	-	-
-8	MENOS	menos	RG	C0332288	atributo	498-503	236_QUEST_clinical_caseMIR	SENT6	-	-
-9	indicada	indicar	VMP00SF	-	-	504-512	236_QUEST_clinical_caseMIR	SENT6	-	-
-10	.	.	Fp	-	-	512-513	236_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	455-456	236_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	456-460	236_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	461-463	236_QUEST_clinical_caseMIR	SENT6	-	-
+4	las	el	DA0FP0	-	-	464-467	236_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	468-478	236_QUEST_clinical_caseMIR	SENT6	-	-
+6	actitudes	actitud	NCFP000	C0004271	entidad_observable	479-488	236_QUEST_clinical_caseMIR	SENT6	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	489-491	236_QUEST_clinical_caseMIR	SENT6	-	-
+8	parece	parecer	VMIP3S0	-	-	492-498	236_QUEST_clinical_caseMIR	SENT6	-	-
+9	MENOS	menos	RG	C0332288	atributo	499-504	236_QUEST_clinical_caseMIR	SENT6	-	-
+10	indicada	indicar	VMP00SF	-	-	505-513	236_QUEST_clinical_caseMIR	SENT6	-	-
+11	?	?	Fit	-	-	513-514	236_QUEST_clinical_caseMIR	SENT6	-	-
+12	:	:	Fd	-	-	514-515	236_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	515-516	236_QUEST_clinical_caseMIR	SENT6	-	-
 

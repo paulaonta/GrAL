@@ -1,0 +1,19 @@
+1	Se	se	P00CN000	-	-	0-2	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	anemia	anemia	NCFS000	C0002878_1	trastorno_1	16-22	784(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	hemolítica	hemolítico	AQ0FS0	C0002878_2	trastorno_2	23-33	784(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	;	;	Fx	-	-	33-34	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	para	para	SPS00	C0521125	calificador	35-39	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	determinar	determinar	VMN0000	-	-	40-50	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	su	su	DP3CS0	-	-	51-53	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	naturaleza	naturaleza	NCFS000	C1262865	calificador#atributo	54-64	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	debemos	deber	VMIP1P0	-	-	65-72	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	solicitar	solicitar	VMN0000	-	-	73-82	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	83-86	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	electroforesis	electroforesis	NCFN000	-	-	87-101	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	102-104	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	hemoglobinas	hemoglobina	NCFP000	C0019046	sustancia	105-117	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	117-118	784(1)_ANS_clinical_caseMIR	SENT1	-	-
+

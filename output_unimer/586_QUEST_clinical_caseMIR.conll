@@ -31,8 +31,10 @@
 17	terapéuticos	terapéutico	AQ0MP0	-	-	185-197	586_QUEST_clinical_caseMIR	SENT2	-	-
 18	.	.	Fp	-	-	197-198	586_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	199-202	586_QUEST_clinical_caseMIR	SENT3	-	-
-2	entidad	entidad	NCFS000	-	-	203-210	586_QUEST_clinical_caseMIR	SENT3	-	-
-3	sospecharía	sospechar	VMIC3S0	-	-	211-222	586_QUEST_clinical_caseMIR	SENT3	-	-
-4	.	.	Fp	-	-	222-223	586_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	199-200	586_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	200-203	586_QUEST_clinical_caseMIR	SENT3	-	-
+3	entidad	entidad	NCFS000	-	-	204-211	586_QUEST_clinical_caseMIR	SENT3	-	-
+4	sospecharía	sospechar	VMIC3S0	-	-	212-223	586_QUEST_clinical_caseMIR	SENT3	-	-
+5	?	?	Fit	-	-	223-224	586_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	224-225	586_QUEST_clinical_caseMIR	SENT3	-	-
 

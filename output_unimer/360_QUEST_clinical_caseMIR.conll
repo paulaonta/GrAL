@@ -91,17 +91,19 @@
 15	limpia	limpio	AQ0FS0	-	-	495-501	360_QUEST_clinical_caseMIR	SENT3	-	-
 16	.	.	Fp	-	-	501-502	360_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	503-507	360_QUEST_clinical_caseMIR	SENT4	-	-
-2	,	,	Fc	-	-	507-508	360_QUEST_clinical_caseMIR	SENT4	-	-
-3	de	de	SPS00	C0332285	atributo	509-511	360_QUEST_clinical_caseMIR	SENT4	-	-
-4	entre	entre	SPS00	C0205103	calificador	512-517	360_QUEST_clinical_caseMIR	SENT4	-	-
-5	los	el	DA0MP0	-	-	518-521	360_QUEST_clinical_caseMIR	SENT4	-	-
-6	siguientes	siguiente	AQ0CP0	C0332282	atributo	522-532	360_QUEST_clinical_caseMIR	SENT4	-	-
-7	,	,	Fc	-	-	532-533	360_QUEST_clinical_caseMIR	SENT4	-	-
-8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	534-536	360_QUEST_clinical_caseMIR	SENT4	-	-
-9	parece	parecer	VMIP3S0	-	-	537-543	360_QUEST_clinical_caseMIR	SENT4	-	-
-10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	544-555	360_QUEST_clinical_caseMIR	SENT4	-	-
-11	más	más	RG	C0205172	calificador	556-559	360_QUEST_clinical_caseMIR	SENT4	-	-
-12	probable	probable	AQ0CS0	C0332148	calificador	560-568	360_QUEST_clinical_caseMIR	SENT4	-	-
-13	.	.	Fp	-	-	568-569	360_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	503-504	360_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	504-508	360_QUEST_clinical_caseMIR	SENT4	-	-
+3	,	,	Fc	-	-	508-509	360_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	510-512	360_QUEST_clinical_caseMIR	SENT4	-	-
+5	entre	entre	SPS00	C0205103	calificador	513-518	360_QUEST_clinical_caseMIR	SENT4	-	-
+6	los	el	DA0MP0	-	-	519-522	360_QUEST_clinical_caseMIR	SENT4	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	523-533	360_QUEST_clinical_caseMIR	SENT4	-	-
+8	,	,	Fc	-	-	533-534	360_QUEST_clinical_caseMIR	SENT4	-	-
+9	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	535-537	360_QUEST_clinical_caseMIR	SENT4	-	-
+10	parece	parecer	VMIP3S0	-	-	538-544	360_QUEST_clinical_caseMIR	SENT4	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	545-556	360_QUEST_clinical_caseMIR	SENT4	-	-
+12	más	más	RG	C0205172	calificador	557-560	360_QUEST_clinical_caseMIR	SENT4	-	-
+13	probable	probable	AQ0CS0	C0332148	calificador	561-569	360_QUEST_clinical_caseMIR	SENT4	-	-
+14	?	?	Fit	-	-	569-570	360_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	570-571	360_QUEST_clinical_caseMIR	SENT4	-	-
 

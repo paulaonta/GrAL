@@ -50,17 +50,20 @@
 50	antiepilépticos	antiepilépticos	NC00AO0	C0355653_2	producto_2	303-318	22_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
 51	.	.	Fp	-	-	318-319	22_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cual	cual	PI0CS000	-	-	320-324	22_QUEST_clinical_caseMIR	SENT2	-	-
-2	es	ser	VSIP3S0	-	-	325-327	22_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	328-330	22_QUEST_clinical_caseMIR	SENT2	-	-
-4	estudio	estudio	NCMS000	C0557651	medio_ambiente	331-338	22_QUEST_clinical_caseMIR	SENT2	-	-
-5	complementario	complementario	AQ0MS0	-	-	339-353	22_QUEST_clinical_caseMIR	SENT2	-	-
-6	con	con	SPS00	C0332287	atributo	354-357	22_QUEST_clinical_caseMIR	SENT2	-	-
-7	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	358-363	22_QUEST_clinical_caseMIR	SENT2	-	-
-8	probabilidad	probabilidad	NCFS000	-	-	364-376	22_QUEST_clinical_caseMIR	SENT2	-	-
-9	de	de	SPS00	C0332285	atributo	377-379	22_QUEST_clinical_caseMIR	SENT2	-	-
-10	aclarar	aclarar	VMN0000	-	-	380-387	22_QUEST_clinical_caseMIR	SENT2	-	-
-11	el	el	DA0MS0	-	-	388-390	22_QUEST_clinical_caseMIR	SENT2	-	-
-12	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	391-402	22_QUEST_clinical_caseMIR	SENT2	-	-
-13	.	.	Fp	-	-	402-403	22_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	320-321	22_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cual	cual	PR0CS000	-	-	321-325	22_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	326-328	22_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	329-331	22_QUEST_clinical_caseMIR	SENT2	-	-
+5	estudio	estudio	NCMS000	C0557651	medio_ambiente	332-339	22_QUEST_clinical_caseMIR	SENT2	-	-
+6	complementario	complementario	AQ0MS0	-	-	340-354	22_QUEST_clinical_caseMIR	SENT2	-	-
+7	con	con	SPS00	C0332287	atributo	355-358	22_QUEST_clinical_caseMIR	SENT2	-	-
+8	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	359-364	22_QUEST_clinical_caseMIR	SENT2	-	-
+9	probabilidad	probabilidad	NCFS000	-	-	365-377	22_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	378-380	22_QUEST_clinical_caseMIR	SENT2	-	-
+11	aclarar	aclarar	VMN0000	-	-	381-388	22_QUEST_clinical_caseMIR	SENT2	-	-
+12	el	el	DA0MS0	-	-	389-391	22_QUEST_clinical_caseMIR	SENT2	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	392-403	22_QUEST_clinical_caseMIR	SENT2	-	-
+14	?	?	Fit	-	-	403-404	22_QUEST_clinical_caseMIR	SENT2	-	-
+15	:	:	Fd	-	-	404-405	22_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	405-406	22_QUEST_clinical_caseMIR	SENT2	-	-
 

@@ -85,12 +85,15 @@
 18	herida	herido	NCFS000	-	-	450-456	705_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
 19	.	.	Fp	-	-	456-457	705_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	458-462	705_QUEST_clinical_caseMIR	SENT5	-	-
-2	será	ser	VSIF3S0	-	-	463-467	705_QUEST_clinical_caseMIR	SENT5	-	-
-3	su	su	DP3CS0	-	-	468-470	705_QUEST_clinical_caseMIR	SENT5	-	-
-4	mejor	mejor	AQ0CS0	C0332272	calificador	471-476	705_QUEST_clinical_caseMIR	SENT5	-	-
-5	opción	opción	NCFS000	-	-	477-483	705_QUEST_clinical_caseMIR	SENT5	-	-
-6	terapéutica	terapéutico	AQ0FS0	-	-	484-495	705_QUEST_clinical_caseMIR	SENT5	-	-
-7	inmediata	inmediato	AQ0FS0	C0205253	calificador	496-505	705_QUEST_clinical_caseMIR	SENT5	-	-
-8	.	.	Fp	-	-	505-506	705_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	458-459	705_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	459-463	705_QUEST_clinical_caseMIR	SENT5	-	-
+3	será	ser	VSIF3S0	-	-	464-468	705_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	469-471	705_QUEST_clinical_caseMIR	SENT5	-	-
+5	mejor	mejor	AQ0CS0	C0332272	calificador	472-477	705_QUEST_clinical_caseMIR	SENT5	-	-
+6	opción	opción	NCFS000	-	-	478-484	705_QUEST_clinical_caseMIR	SENT5	-	-
+7	terapéutica	terapéutico	AQ0FS0	-	-	485-496	705_QUEST_clinical_caseMIR	SENT5	-	-
+8	inmediata	inmediato	AQ0FS0	C0205253	calificador	497-506	705_QUEST_clinical_caseMIR	SENT5	-	-
+9	?	?	Fit	-	-	506-507	705_QUEST_clinical_caseMIR	SENT5	-	-
+10	:	:	Fd	-	-	507-508	705_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	508-509	705_QUEST_clinical_caseMIR	SENT5	-	-
 

@@ -58,10 +58,13 @@
 11	kappa	kappa	NCFS000	C0439099	calificador	275-280	216_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
 12	.	.	Fp	-	-	280-281	216_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	282-286	216_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	287-289	216_QUEST_clinical_caseMIR	SENT4	-	-
-3	su	su	DP3CS0	-	-	290-292	216_QUEST_clinical_caseMIR	SENT4	-	-
-4	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	293-301	216_QUEST_clinical_caseMIR	SENT4	-	-
-5	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	302-313	216_QUEST_clinical_caseMIR	SENT4	-	-
-6	.	.	Fp	-	-	313-314	216_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	282-283	216_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	283-287	216_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	288-290	216_QUEST_clinical_caseMIR	SENT4	-	-
+4	su	su	DP3CS0	-	-	291-293	216_QUEST_clinical_caseMIR	SENT4	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	294-302	216_QUEST_clinical_caseMIR	SENT4	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	303-314	216_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	314-315	216_QUEST_clinical_caseMIR	SENT4	-	-
+8	:	:	Fd	-	-	315-316	216_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	316-317	216_QUEST_clinical_caseMIR	SENT4	-	-
 

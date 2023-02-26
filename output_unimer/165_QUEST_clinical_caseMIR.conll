@@ -87,11 +87,14 @@
 25	derecho	derecho	NCMS000	C0229298_2	estructura_corporal_2	491-498	165_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
 26	.	.	Fp	-	-	498-499	165_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	500-504	165_QUEST_clinical_caseMIR	SENT4	-	-
-2	es	ser	VSIP3S0	-	-	505-507	165_QUEST_clinical_caseMIR	SENT4	-	-
-3	el	el	DA0MS0	-	-	508-510	165_QUEST_clinical_caseMIR	SENT4	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	511-522	165_QUEST_clinical_caseMIR	SENT4	-	-
-5	más	más	RG	C0205172	calificador	523-526	165_QUEST_clinical_caseMIR	SENT4	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	527-535	165_QUEST_clinical_caseMIR	SENT4	-	-
-7	.	.	Fp	-	-	535-536	165_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	500-501	165_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	501-505	165_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	506-508	165_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	509-511	165_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	512-523	165_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	524-527	165_QUEST_clinical_caseMIR	SENT4	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	528-536	165_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	536-537	165_QUEST_clinical_caseMIR	SENT4	-	-
+9	:	:	Fd	-	-	537-538	165_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	538-539	165_QUEST_clinical_caseMIR	SENT4	-	-
 

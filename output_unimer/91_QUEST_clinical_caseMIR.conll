@@ -95,14 +95,17 @@
 3	asintomáticos	asintomático	AQ0MP0	-	-	504-517	91_QUEST_clinical_caseMIR	SENT4	-	-
 4	.	.	Fp	-	-	517-518	91_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	519-523	91_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	524-526	91_QUEST_clinical_caseMIR	SENT5	-	-
-3	el	el	DA0MS0	-	-	527-529	91_QUEST_clinical_caseMIR	SENT5	-	-
-4	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	530-536	91_QUEST_clinical_caseMIR	SENT5	-	-
-5	de	de	SPS00	C0035647_2	calificador_2	537-539	91_QUEST_clinical_caseMIR	SENT5	-	-
-6	transmisión	transmisión	NCFS000	C1521797	calificador	540-551	91_QUEST_clinical_caseMIR	SENT5	-	-
-7	de	de	SPS00	C0332285	atributo	552-554	91_QUEST_clinical_caseMIR	SENT5	-	-
-8	la	el	DA0FS0	-	-	555-557	91_QUEST_clinical_caseMIR	SENT5	-	-
-9	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	558-568	91_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
-10	.	.	Fp	-	-	568-569	91_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	519-520	91_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	520-524	91_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	525-527	91_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	528-530	91_QUEST_clinical_caseMIR	SENT5	-	-
+5	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	531-537	91_QUEST_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0035647_2	calificador_2	538-540	91_QUEST_clinical_caseMIR	SENT5	-	-
+7	transmisión	transmisión	NCFS000	C1521797	calificador	541-552	91_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	553-555	91_QUEST_clinical_caseMIR	SENT5	-	-
+9	la	el	DA0FS0	-	-	556-558	91_QUEST_clinical_caseMIR	SENT5	-	-
+10	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	559-569	91_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	569-570	91_QUEST_clinical_caseMIR	SENT5	-	-
+12	:	:	Fd	-	-	570-571	91_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	571-572	91_QUEST_clinical_caseMIR	SENT5	-	-
 

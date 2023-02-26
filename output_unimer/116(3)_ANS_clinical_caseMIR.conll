@@ -1,0 +1,31 @@
+1	Parece	parecer	VMIP3S0	-	-	0-6	116(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	7-9	116(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	Cushing	cushing	NCMS000	-	-	10-17	116(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	.	.	Fp	-	-	17-18	116(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Si	si	CS	-	-	19-21	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	22-24	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	ACTH	adrenocorticotrophic_hormone_(hormona_adrenocorticotropa)	NC00YL0	-	-	25-29	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	basal	basal	AQ0CS0	C0205112	calificador	30-35	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	es	ser	VSIP3S0	-	-	36-38	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	alta	alto	AQ0FS0	C0205250	calificador	39-43	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	43-44	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	puede	poder	VMIP3S0	-	-	45-50	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+9	ser	ser	VSN0000	-	-	51-54	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+10	por	por	SPS00	C0678226	atributo	55-58	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+11	el	el	DA0MS0	-	-	59-61	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+12	uso	uso	NCMS000	C0457083#C1947944	atributo#calificador	62-65	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	66-68	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+14	corticoides	corticoide	NCMP000	-	-	69-80	116(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	o	o	CC	-	-	81-82	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+16	un	un		C0205447_1	calificador_1	83-85	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+17	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	86-91	116(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	suprarrenal	suprarrenal	AQ0CS0	C0449207	estructura_corporal	92-103	116(3)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	,	,	Fc	-	-	103-104	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+20	debiendo	deber	VMG0000	-	-	105-113	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+21	realizar	realizar	VMN0000	-	-	114-122	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+22	una	una		C0205447_1	calificador_1	123-126	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+23	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	127-137	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+24	magnética	magnético	AQ0FS0	-	-	138-147	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+25	.	.	Fp	-	-	147-148	116(3)_ANS_clinical_caseMIR	SENT2	-	-
+

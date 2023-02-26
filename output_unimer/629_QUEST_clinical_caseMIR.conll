@@ -67,18 +67,21 @@
 31	cavitados	cavitados	NCMP000	-	-	371-380	629_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
 32	.	.	Fp	-	-	380-381	629_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	382-385	629_QUEST_clinical_caseMIR	SENT3	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	386-397	629_QUEST_clinical_caseMIR	SENT3	-	-
-3	sería	ser	VSIC1S0	-	-	398-403	629_QUEST_clinical_caseMIR	SENT3	-	-
-4	el	el	DA0MS0	C0205393_1	calificador_1	404-406	629_QUEST_clinical_caseMIR	SENT3	-	-
-5	más	más	RG	C0205393_2	calificador_2	407-410	629_QUEST_clinical_caseMIR	SENT3	-	-
-6	adecuado	adecuar	VMP00SM	-	-	411-419	629_QUEST_clinical_caseMIR	SENT3	-	-
-7	para	para	SPS00	C0521125	calificador	420-424	629_QUEST_clinical_caseMIR	SENT3	-	-
-8	nuestro	nuestro	DP1MSP	-	-	425-432	629_QUEST_clinical_caseMIR	SENT3	-	-
-9	paciente	paciente	NCCS000	C0030705	persona	433-441	629_QUEST_clinical_caseMIR	SENT3	-	-
-10	en	en	SPS00	C1720294#C0332285	calificador#atributo	442-444	629_QUEST_clinical_caseMIR	SENT3	-	-
-11	el	el	DA0MS0	-	-	445-447	629_QUEST_clinical_caseMIR	SENT3	-	-
-12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	448-455	629_QUEST_clinical_caseMIR	SENT3	-	-
-13	actual	actual	AQ0CS0	C0521116	calificador	456-462	629_QUEST_clinical_caseMIR	SENT3	-	-
-14	.	.	Fp	-	-	462-463	629_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	382-383	629_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	383-386	629_QUEST_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	387-398	629_QUEST_clinical_caseMIR	SENT3	-	-
+4	sería	ser	VSIC1S0	-	-	399-404	629_QUEST_clinical_caseMIR	SENT3	-	-
+5	el	el	DA0MS0	C0205393_1	calificador_1	405-407	629_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205393_2	calificador_2	408-411	629_QUEST_clinical_caseMIR	SENT3	-	-
+7	adecuado	adecuar	VMP00SM	-	-	412-420	629_QUEST_clinical_caseMIR	SENT3	-	-
+8	para	para	SPS00	C0521125	calificador	421-425	629_QUEST_clinical_caseMIR	SENT3	-	-
+9	nuestro	nuestro	DP1MSP	-	-	426-433	629_QUEST_clinical_caseMIR	SENT3	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	434-442	629_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	443-445	629_QUEST_clinical_caseMIR	SENT3	-	-
+12	el	el	DA0MS0	-	-	446-448	629_QUEST_clinical_caseMIR	SENT3	-	-
+13	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	449-456	629_QUEST_clinical_caseMIR	SENT3	-	-
+14	actual	actual	AQ0CS0	C0521116	calificador	457-463	629_QUEST_clinical_caseMIR	SENT3	-	-
+15	?	?	Fit	-	-	463-464	629_QUEST_clinical_caseMIR	SENT3	-	-
+16	:	:	Fd	-	-	464-465	629_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	465-466	629_QUEST_clinical_caseMIR	SENT3	-	-
 

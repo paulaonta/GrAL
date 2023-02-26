@@ -1,0 +1,19 @@
+1	El	el	DA0MS0	-	-	0-2	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	estándar	estándar	AQ0CS0	-	-	15-23	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	esta	este	DD0FS0	-	-	27-31	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	paciente	paciente	NCCS000	C0030705	persona	32-40	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	debe	deber	VMIP3S0	-	-	41-45	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	incluir	incluir	VMN0000	-	-	46-53	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	fármacos	fármaco	NCMP000	C0013227	sustancia	54-62	36(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	modificadores	modificador	AQ0MP0	C3542952	metadato_del_núcleo	63-76	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	77-79	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	80-82	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	83-93	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	93-94	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	95-97	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	preferencia	preferencia	NCFS000	-	-	98-109	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	metotrexato	metotrexato	NCMS000	C0025677#C0949359	producto#sustancia	110-121	36(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+18	.	.	Fp	-	-	121-122	36(2)_ANS_clinical_caseMIR	SENT1	-	-
+

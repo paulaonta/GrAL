@@ -49,7 +49,7 @@
 12	del	del	SP+DA	-	-	233-236	613_QUEST_clinical_caseMIR	SENT5	-	-
 13	tercer	3	AO0MS0	C0032981_1	calificador_1	237-243	613_QUEST_clinical_caseMIR	SENT5	-	-
 14	trimestre	trimestre	NCMS000	C0032981_2	calificador_2	244-253	613_QUEST_clinical_caseMIR	SENT5	-	-
-15	.	.	Fp	-	-	253-254	613_QUEST_clinical_caseMIR	SENT5	-	-
+15	:	:	Fd	-	-	253-254	613_QUEST_clinical_caseMIR	SENT5	-	-
 16	feto	feto	NCMS000	C1305737	estructura_corporal	255-259	613_QUEST_clinical_caseMIR	SENT5	-	-
 17	vivo	vivo	AQ0MS0	C2584946	hallazgo	260-264	613_QUEST_clinical_caseMIR	SENT5	-	-
 18	en	en	SPS00	C1720294#C0332285	calificador#atributo	265-267	613_QUEST_clinical_caseMIR	SENT5	-	-
@@ -169,7 +169,7 @@
 33	la	el	DA0FS0	-	-	864-866	613_QUEST_clinical_caseMIR	SENT8	-	-
 34	que	que	PR0CN000	-	-	867-870	613_QUEST_clinical_caseMIR	SENT8	-	-
 35	destaca	destacar	VMIP3S0	-	-	871-878	613_QUEST_clinical_caseMIR	SENT8	-	-
-36	.	.	Fp	-	-	878-879	613_QUEST_clinical_caseMIR	SENT8	-	-
+36	:	:	Fd	-	-	878-879	613_QUEST_clinical_caseMIR	SENT8	-	-
 37	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	880-887	613_QUEST_clinical_caseMIR	SENT8	-	-
 38	105	105	Z	-	-	888-891	613_QUEST_clinical_caseMIR	SENT8	-	-
 39	mg	mg	NCMN000	-	-	892-894	613_QUEST_clinical_caseMIR	SENT8	-	-
@@ -278,5 +278,6 @@
 10	de	de	SPS00	C0332285	atributo	1318-1320	613_QUEST_clinical_caseMIR	SENT9	-	-
 11	este	este	DD0MS0	-	-	1321-1325	613_QUEST_clinical_caseMIR	SENT9	-	-
 12	caso	caso	NCMS000	C0868928	calificador	1326-1330	613_QUEST_clinical_caseMIR	SENT9	-	-
-13	.	.	Fp	-	-	1330-1331	613_QUEST_clinical_caseMIR	SENT9	-	-
+13	:	:	Fd	-	-	1330-1331	613_QUEST_clinical_caseMIR	SENT9	-	-
+14	.	.	Fp	-	-	1331-1332	613_QUEST_clinical_caseMIR	SENT9	-	-
 

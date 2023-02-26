@@ -77,9 +77,12 @@
 9	normal	normal	AQ0CS0	C0205307	calificador	375-381	206_QUEST_clinical_caseMIR	SENT4	-	-
 10	.	.	Fp	-	-	381-382	206_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	383-387	206_QUEST_clinical_caseMIR	SENT5	-	-
-2	es	ser	VSIP3S0	-	-	388-390	206_QUEST_clinical_caseMIR	SENT5	-	-
-3	su	su	DP3CS0	-	-	391-393	206_QUEST_clinical_caseMIR	SENT5	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	394-405	206_QUEST_clinical_caseMIR	SENT5	-	-
-5	.	.	Fp	-	-	405-406	206_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	383-384	206_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	384-388	206_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	389-391	206_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	392-394	206_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	395-406	206_QUEST_clinical_caseMIR	SENT5	-	-
+6	?	?	Fit	-	-	406-407	206_QUEST_clinical_caseMIR	SENT5	-	-
+7	:	:	Fd	-	-	407-408	206_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	408-409	206_QUEST_clinical_caseMIR	SENT5	-	-
 

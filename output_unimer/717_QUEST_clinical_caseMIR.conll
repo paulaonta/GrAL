@@ -39,18 +39,21 @@
 39	puntos	punto	NCMP000	-	-	212-218	717_QUEST_clinical_caseMIR	SENT1	-	-
 40	.	.	Fp	-	-	218-219	717_QUEST_clinical_caseMIR	SENT1	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	220-224	717_QUEST_clinical_caseMIR	SENT2	-	-
-2	sería	ser	VSIC1S0	-	-	225-230	717_QUEST_clinical_caseMIR	SENT2	-	-
-3	el	el	DA0MS0	-	-	231-233	717_QUEST_clinical_caseMIR	SENT2	-	-
-4	objetivo	objetivo	NCMS000	C1571702	calificador	234-242	717_QUEST_clinical_caseMIR	SENT2	-	-
-5	terapéutico	terapéutico	AQ0MS0	-	-	243-254	717_QUEST_clinical_caseMIR	SENT2	-	-
-6	apropiado	apropiar	VMP00SM	-	-	255-264	717_QUEST_clinical_caseMIR	SENT2	-	-
-7	en	en	SPS00	C1720294#C0332285	calificador#atributo	265-267	717_QUEST_clinical_caseMIR	SENT2	-	-
-8	el	el	DA0MS0	-	-	268-270	717_QUEST_clinical_caseMIR	SENT2	-	-
-9	control	control	NCMS000	C2587213	atributo	271-278	717_QUEST_clinical_caseMIR	SENT2	-	-
-10	glucémico	glucémico	AQ0MS0	-	-	279-288	717_QUEST_clinical_caseMIR	SENT2	-	-
-11	de	de	SPS00	C0332285	atributo	289-291	717_QUEST_clinical_caseMIR	SENT2	-	-
-12	este	este	DD0MS0	-	-	292-296	717_QUEST_clinical_caseMIR	SENT2	-	-
-13	paciente	paciente	NCCS000	C0030705	persona	297-305	717_QUEST_clinical_caseMIR	SENT2	-	-
-14	.	.	Fp	-	-	305-306	717_QUEST_clinical_caseMIR	SENT2	-	-
+1	¿	¿	Fia	-	-	220-221	717_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	221-225	717_QUEST_clinical_caseMIR	SENT2	-	-
+3	sería	ser	VSIC1S0	-	-	226-231	717_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	232-234	717_QUEST_clinical_caseMIR	SENT2	-	-
+5	objetivo	objetivo	NCMS000	C1571702	calificador	235-243	717_QUEST_clinical_caseMIR	SENT2	-	-
+6	terapéutico	terapéutico	AQ0MS0	-	-	244-255	717_QUEST_clinical_caseMIR	SENT2	-	-
+7	apropiado	apropiar	VMP00SM	-	-	256-265	717_QUEST_clinical_caseMIR	SENT2	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	266-268	717_QUEST_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	269-271	717_QUEST_clinical_caseMIR	SENT2	-	-
+10	control	control	NCMS000	C2587213	atributo	272-279	717_QUEST_clinical_caseMIR	SENT2	-	-
+11	glucémico	glucémico	AQ0MS0	-	-	280-289	717_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	290-292	717_QUEST_clinical_caseMIR	SENT2	-	-
+13	este	este	DD0MS0	-	-	293-297	717_QUEST_clinical_caseMIR	SENT2	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	298-306	717_QUEST_clinical_caseMIR	SENT2	-	-
+15	?	?	Fit	-	-	306-307	717_QUEST_clinical_caseMIR	SENT2	-	-
+16	:	:	Fd	-	-	307-308	717_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	308-309	717_QUEST_clinical_caseMIR	SENT2	-	-
 

@@ -36,15 +36,18 @@
 12	Hodgkin	Hodgkin		C0019829_3	trastorno#anomalía_morfológica_3	208-215	50_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
 13	.	.	Fp	-	-	215-216	50_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	217-220	50_QUEST_clinical_caseMIR	SENT3	-	-
-2	microorganismo	microorganismo	NCMS000	C0445623	organismo	221-235	50_QUEST_clinical_caseMIR	SENT3	-	-
-3	se	se	P00CN000	-	-	236-238	50_QUEST_clinical_caseMIR	SENT3	-	-
-4	implica	implicar	VMIP3S0	-	-	239-246	50_QUEST_clinical_caseMIR	SENT3	-	-
-5	con	con	SPS00	C0332287	atributo	247-250	50_QUEST_clinical_caseMIR	SENT3	-	-
-6	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	251-256	50_QUEST_clinical_caseMIR	SENT3	-	-
-7	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	257-267	50_QUEST_clinical_caseMIR	SENT3	-	-
-8	en	en	SPS00	C1720294#C0332285	calificador#atributo	268-270	50_QUEST_clinical_caseMIR	SENT3	-	-
-9	este	este	DD0MS0	-	-	271-275	50_QUEST_clinical_caseMIR	SENT3	-	-
-10	cuadro	cuadro	NCMS000	-	-	276-282	50_QUEST_clinical_caseMIR	SENT3	-	-
-11	.	.	Fp	-	-	282-283	50_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	217-218	50_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	218-221	50_QUEST_clinical_caseMIR	SENT3	-	-
+3	microorganismo	microorganismo	NCMS000	C0445623	organismo	222-236	50_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	237-239	50_QUEST_clinical_caseMIR	SENT3	-	-
+5	implica	implicar	VMIP3S0	-	-	240-247	50_QUEST_clinical_caseMIR	SENT3	-	-
+6	con	con	SPS00	C0332287	atributo	248-251	50_QUEST_clinical_caseMIR	SENT3	-	-
+7	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	252-257	50_QUEST_clinical_caseMIR	SENT3	-	-
+8	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	258-268	50_QUEST_clinical_caseMIR	SENT3	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	50_QUEST_clinical_caseMIR	SENT3	-	-
+10	este	este	DD0MS0	-	-	272-276	50_QUEST_clinical_caseMIR	SENT3	-	-
+11	cuadro	cuadro	NCMS000	-	-	277-283	50_QUEST_clinical_caseMIR	SENT3	-	-
+12	?	?	Fit	-	-	283-284	50_QUEST_clinical_caseMIR	SENT3	-	-
+13	:	:	Fd	-	-	284-285	50_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	285-286	50_QUEST_clinical_caseMIR	SENT3	-	-
 

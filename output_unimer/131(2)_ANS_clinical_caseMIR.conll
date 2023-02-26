@@ -1,0 +1,24 @@
+1	Hay	haber	VMIP3S0	-	-	0-3	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	alta	alto	AQ0FS0	C0205250	calificador	4-8	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	9-17	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332147_2	calificador_2	18-20	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	embolia	embolia	NCFS000	C1704212#C0013922	anomalía_morfológica#trastorno	21-28	131(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+6	de	de	SPS00	C0332285	atributo	29-31	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	pulmón	pulmón	NCMS000	C1278908#C0024109	estructura_corporal	32-38	131(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	y	y	CC	C1706368	calificador	39-40	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	se	se	P00CN000	-	-	41-43	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	debe	deber	VMIP3S0	-	-	44-48	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	iniciar	iniciar	VMN0000	-	-	49-56	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C2733531_1	procedimiento_1	57-68	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C2733531_2	procedimiento_2	69-72	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	heparina	heparina	NCFS000	C2733531_3	procedimiento_3	73-81	131(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	de	de	SPS00	C2733531_4	procedimiento_4	82-84	131(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+16	bajo	bajo	SPS00	C2733531_5	procedimiento_5	85-89	131(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+17	peso	peso	NCMS000	C2733531_6	procedimiento_6	90-94	131(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+18	molecular	molecular	AQ0CS0	C2733531_7	procedimiento_7	95-104	131(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+19	sin	sin	SPS00	C0332288	atributo	105-108	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	realizar	realizar	VMN0000	-	-	109-117	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	más	más	RG	C0205172	calificador	118-121	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	estudios	estudio	NCMP000	C0557651	medio_ambiente	122-130	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	130-131	131(2)_ANS_clinical_caseMIR	SENT1	-	-
+

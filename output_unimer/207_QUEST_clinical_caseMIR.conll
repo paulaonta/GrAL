@@ -40,12 +40,15 @@
 27	dL	decilitro	NCMN000	C0439241	calificador	169-171	207_QUEST_clinical_caseMIR	SENT2	-	-
 28	.	.	Fp	-	-	171-172	207_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	173-176	207_QUEST_clinical_caseMIR	SENT3	-	-
-2	recomendación	recomendación	NCFS000	C0150600	procedimiento	177-190	207_QUEST_clinical_caseMIR	SENT3	-	-
-3	terapéutica	terapéutico	AQ0FS0	-	-	191-202	207_QUEST_clinical_caseMIR	SENT3	-	-
-4	efectuaría	efectuar	VMIC3S0	-	-	203-213	207_QUEST_clinical_caseMIR	SENT3	-	-
-5	en	en	SPS00	C1279901_1	calificador_1	214-216	207_QUEST_clinical_caseMIR	SENT3	-	-
-6	primer	1	AO0MS0	C1279901_2	calificador_2	217-223	207_QUEST_clinical_caseMIR	SENT3	-	-
-7	lugar	lugar	NCMS000	C1279901_3	calificador_3	224-229	207_QUEST_clinical_caseMIR	SENT3	-	-
-8	.	.	Fp	-	-	229-230	207_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	173-174	207_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	174-177	207_QUEST_clinical_caseMIR	SENT3	-	-
+3	recomendación	recomendación	NCFS000	C0150600	procedimiento	178-191	207_QUEST_clinical_caseMIR	SENT3	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	192-203	207_QUEST_clinical_caseMIR	SENT3	-	-
+5	efectuaría	efectuar	VMIC3S0	-	-	204-214	207_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1279901_1	calificador_1	215-217	207_QUEST_clinical_caseMIR	SENT3	-	-
+7	primer	1	AO0MS0	C1279901_2	calificador_2	218-224	207_QUEST_clinical_caseMIR	SENT3	-	-
+8	lugar	lugar	NCMS000	C1279901_3	calificador_3	225-230	207_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	230-231	207_QUEST_clinical_caseMIR	SENT3	-	-
+10	:	:	Fd	-	-	231-232	207_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	232-233	207_QUEST_clinical_caseMIR	SENT3	-	-
 

@@ -1,0 +1,21 @@
+1	A	a	SPS00	-	-	0-1	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	nivel	nivel	NCMS000	C0456079	atributo	2-7	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	del	del	SP+DA	-	-	8-11	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	pedúnculo	pedúnculo	NCMS000	C1284650#C0007793_1	estructura_corporal_1	12-21	179(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	cerebral	cerebral	NCCS000	C1284650#C0007793_2	estructura_corporal_2	22-30	179(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+6	ipsilateral	ipsilateral	NC00SC0	C0441989	calificador	31-42	179(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+7	tras	tras	SPS00	-	-	43-47	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	48-50	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	decusación	decusación	NCFS000	-	-	51-61	179(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	62-64	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	las	el	DA0FP0	-	-	65-68	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	pirámides	pirámide	NCFP000	C0262324	estructura_corporal	69-78	179(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	bulbares	bulbar	AQ0CP0	-	-	79-87	179(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+14	.	.	Fp	-	-	87-88	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C0678226	atributo	89-92	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	invasión	invasión	NCFS000	-	-	93-101	179(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	rumoral	rumoral	AQ0CS00	-	-	102-109	179(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	o	o	CC	-	-	110-111	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	absceso	absceso	NCMS000	C0000833	trastorno#anomalía_morfológica	112-119	179(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	.	.	Fp	-	-	119-120	179(0)_ANS_clinical_caseMIR	SENT1	-	-
+

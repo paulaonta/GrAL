@@ -21,13 +21,14 @@
 21	y	y	CC	C1706368	calificador	107-108	670_QUEST_clinical_caseMIR	SENT1	-	-
 22	corea	corear	VMIP3S0	-	-	109-114	670_QUEST_clinical_caseMIR	SENT1	-	-
 23	como	como	CS	C0332257	calificador	115-119	670_QUEST_clinical_caseMIR	SENT1	-	-
-24	manifestaciones	manifestación	NCFP000	-	-	120-135	670_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-25	neurológicas	neurológico	AQ0FP0	C0205494	calificador	136-148	670_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+24	manifestaciones	manifestación	NCFP000	-	-	120-135	670_QUEST_clinical_caseMIR	SENT1	-	-
+25	neurológicas	neurológico	AQ0FP0	C0205494	calificador	136-148	670_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
 26	se	se	P00CN000	-	-	149-151	670_QUEST_clinical_caseMIR	SENT1	-	-
 27	debería	deber	VMIC3S0	-	-	152-159	670_QUEST_clinical_caseMIR	SENT1	-	-
 28	descartar	descartar	VMN0000	C0332196	calificador	160-169	670_QUEST_clinical_caseMIR	SENT1	-	-
 29	una	una		C0205447_1	calificador_1	170-173	670_QUEST_clinical_caseMIR	SENT1	-	-
 30	infección	infección	NCFS000	C0009450	trastorno	174-183	670_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
 31	por	por	SPS00	C0678226	atributo	184-187	670_QUEST_clinical_caseMIR	SENT1	-	-
-32	.	.	Fp	-	-	187-188	670_QUEST_clinical_caseMIR	SENT1	-	-
+32	:	:	Fd	-	-	187-188	670_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	188-189	670_QUEST_clinical_caseMIR	SENT1	-	-
 

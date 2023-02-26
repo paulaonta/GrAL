@@ -1,0 +1,32 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	aerosoles	aerosol	NCMP000	C0001712#C1704413#C1706745	sustancia#calificador	24-33	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	34-36	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	salbutamol	salbutamol	NC00SC0	C0001927	producto	37-47	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	48-49	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	esteroides	esteroide	NCMP000	C0301818#C0038317	sustancia	50-60	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	,	,	Fc	-	-	60-61	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	añadir	añadir	VMN0000	-	-	62-68	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	al	al	SP+DA	-	-	69-71	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	72-83	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	84-95	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	una	una		C0205447_1	calificador_1	96-99	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	cefalosporina	cefalosporina	NCFS000	-	-	100-113	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+16	,	,	Fc	-	-	113-114	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	intensificar	intensificar	VMN0000	-	-	115-127	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	la	el	DA0FS0	-	-	128-130	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	oxigenoterapia	oxigenoterapia	NCFS000	C0184633	procedimiento	131-145	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	con	con	SPS00	C0332287	atributo	146-149	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	oxígeno	oxígeno	NCMS000	C0030054	sustancia	150-157	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	158-160	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	gafas	gafas	NCFP000	C0015421	objeto_físico	161-166	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	nasales	nasal	AQ0CP0	C0028429	calificador	167-174	288(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	a	a	SPS00	-	-	175-176	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+26	4	4	Z	-	-	177-178	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+27	litros_por_minuto	l/min	NCMP000	C0439393	calificador	179-196	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+28	y	y	CC	C1706368	calificador	197-198	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+29	mantener	mantener	VMN0000	-	-	199-207	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+30	deflazacort	deflazacort	NC00SC0	C0057258	producto#sustancia	208-219	288(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+31	.	.	Fp	-	-	219-220	288(1)_ANS_clinical_caseMIR	SENT1	-	-
+

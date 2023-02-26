@@ -110,17 +110,20 @@
 5	purulento	purulento	AQ0MS0	C0439665	anomalía_morfológica	621-630	134_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-
 6	.	.	Fp	-	-	630-631	134_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	632-636	134_QUEST_clinical_caseMIR	SENT7	-	-
-2	de	de	SPS00	C0332285	atributo	637-639	134_QUEST_clinical_caseMIR	SENT7	-	-
-3	las	el	DA0FP0	-	-	640-643	134_QUEST_clinical_caseMIR	SENT7	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	644-654	134_QUEST_clinical_caseMIR	SENT7	-	-
-5	es	ser	VSIP3S0	-	-	655-657	134_QUEST_clinical_caseMIR	SENT7	-	-
-6	la	el	DA0FS0	-	-	658-660	134_QUEST_clinical_caseMIR	SENT7	-	-
-7	conducta	conducta	NCFS000	C0004927	hallazgo	661-669	134_QUEST_clinical_caseMIR	SENT7	-	-
-8	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	670-681	134_QUEST_clinical_caseMIR	SENT7	-	-
-9	y	y	CC	C1706368	calificador	682-683	134_QUEST_clinical_caseMIR	SENT7	-	-
-10	terapéutica	terapéutico	AQ0FS0	-	-	684-695	134_QUEST_clinical_caseMIR	SENT7	-	-
-11	más	más	RG	C0205172	calificador	696-699	134_QUEST_clinical_caseMIR	SENT7	-	-
-12	correcta	correcto	AQ0FS0	C0205170	calificador	700-708	134_QUEST_clinical_caseMIR	SENT7	-	-
-13	.	.	Fp	-	-	708-709	134_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	632-633	134_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	633-637	134_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	638-640	134_QUEST_clinical_caseMIR	SENT7	-	-
+4	las	el	DA0FP0	-	-	641-644	134_QUEST_clinical_caseMIR	SENT7	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	645-655	134_QUEST_clinical_caseMIR	SENT7	-	-
+6	es	ser	VSIP3S0	-	-	656-658	134_QUEST_clinical_caseMIR	SENT7	-	-
+7	la	el	DA0FS0	-	-	659-661	134_QUEST_clinical_caseMIR	SENT7	-	-
+8	conducta	conducta	NCFS000	C0004927	hallazgo	662-670	134_QUEST_clinical_caseMIR	SENT7	-	-
+9	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	671-682	134_QUEST_clinical_caseMIR	SENT7	-	-
+10	y	y	CC	C1706368	calificador	683-684	134_QUEST_clinical_caseMIR	SENT7	-	-
+11	terapéutica	terapéutico	AQ0FS0	-	-	685-696	134_QUEST_clinical_caseMIR	SENT7	-	-
+12	más	más	RG	C0205172	calificador	697-700	134_QUEST_clinical_caseMIR	SENT7	-	-
+13	correcta	correcto	AQ0FS0	C0205170	calificador	701-709	134_QUEST_clinical_caseMIR	SENT7	-	-
+14	?	?	Fit	-	-	709-710	134_QUEST_clinical_caseMIR	SENT7	-	-
+15	:	:	Fd	-	-	710-711	134_QUEST_clinical_caseMIR	SENT7	-	-
+16	.	.	Fp	-	-	711-712	134_QUEST_clinical_caseMIR	SENT7	-	-
 

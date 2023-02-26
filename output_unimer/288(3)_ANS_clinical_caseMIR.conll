@@ -1,0 +1,27 @@
+1	Dada	dar	VMP00SF	C1947971	calificador	0-4	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	5-7	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	situación	situación	NCFS000	-	-	8-17	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	18-20	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	gravedad	gravedad	NCFS000	C0282189#C0439793	fuerza_física#calificador	21-29	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	del	del	SP+DA	-	-	30-33	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	34-42	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	se	se	P00CN000	-	-	43-45	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	procedería	proceder	VMIC3S0	-	-	46-56	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	57-58	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	59-61	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	62-72	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	73-84	288(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	previa	previo	AQ0FS0	C0205156	calificador	85-91	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	preparación	preparación	NCFS000	-	-	92-103	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	(	(	Fpa	-	-	104-105	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	preoxigenación	preoxigenación	NC00SC0	C0412792	procedimiento	105-119	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	y	y	CC	C1706368	calificador	120-121	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	premedicación	premedicación	NCFS000	-	-	122-135	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	)	)	Fpt	-	-	135-136	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	y	y	CC	C1706368	calificador	137-138	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	avisar	avisar	VMN0000	-	-	139-145	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	a	a	SPS00	-	-	146-147	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	Medicina	medicina	NCFS000	-	-	148-156	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+25	Intensiva	intensivo	AQ0FS0	-	-	157-166	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	166-167	288(3)_ANS_clinical_caseMIR	SENT1	-	-
+

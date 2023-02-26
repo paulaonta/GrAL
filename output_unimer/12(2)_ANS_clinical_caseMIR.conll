@@ -1,0 +1,22 @@
+1	Cambiar	cambiar	VMN0000	-	-	0-7	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	8-9	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	un	un		C0205447_1	calificador_1	10-12	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	Antagonista	antagonista	NCCS000	-	-	13-24	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	25-27	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	los	el	DA0MP0	-	-	28-31	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	Receptores	receptor	NCMP000	C0597357	sustancia	32-42	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	43-45	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	la	el	DA0FS0	-	-	46-48	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	Angiotensina	angiotensina	NCFS000	C0003009_1	sustancia_1	49-61	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	II	II		C0003009_2	sustancia_2	62-64	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	porque	porque	CS	-	-	65-71	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	producen	producir	VMIP3P0	-	-	72-80	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	menos	menos	RG	C0332288	atributo	81-86	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	87-90	12(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	y	y	CC	C1706368	calificador	91-92	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	93-99	12(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	100-102	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	miembros	miembro	NCMP000	C0015385	estructura_corporal	103-111	12(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	112-122	12(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	.	.	Fp	-	-	122-123	12(2)_ANS_clinical_caseMIR	SENT1	-	-
+

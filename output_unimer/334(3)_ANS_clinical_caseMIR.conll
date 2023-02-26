@@ -1,0 +1,44 @@
+1	Algunas	alguno	DI0FP0	C0205392	calificador	0-7	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	pruebas	prueba	NCFP000	-	-	8-15	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	complementarias	complementario	AQ0FP0	-	-	16-31	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	pueden	poder	VMIP3P0	-	-	32-38	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	ser	ser	VSN0000	-	-	39-42	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	redundantes	redundante	AQ0CP0	-	-	43-54	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	y	y	CC	C1706368	calificador	55-56	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	no	no	RN	C1298908	calificador	57-59	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	aportar	aportar	VMN0000	-	-	60-67	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	valor	valor	NCMS000	C0475208	calificador	68-73	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	al	al	SP+DA	-	-	74-76	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	proceso	proceso	NCMS000	C1522240	entidad_observable	77-84	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	85-96	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	96-97	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	pero	pero	CC	-	-	98-102	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	si	si	CS	-	-	103-105	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	al	al	SP+DA	-	-	106-108	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	coste	coste	NCMS000	-	-	109-114	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	sanitario	sanitario	AQ0MS0	-	-	115-124	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	124-125	334(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Así	así	RG	-	-	126-129	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	,	,	Fc	-	-	129-130	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	ante	ante	SPS00	-	-	131-135	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	dos	dos		-	-	136-139	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	pruebas	prueba	NCFP000	-	-	140-147	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	complementarias	complementario	AQ0FP0	-	-	148-163	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	164-166	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	rendimiento	rendimiento	NCMS000	-	-	167-178	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+9	similar	similar	AQ0CS0	-	-	179-186	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	186-187	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+11	se	se	P00CN000	-	-	188-190	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+12	decidirá	decidir	VMIF3S0	-	-	191-199	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+13	siempre	siempre	RG	-	-	200-207	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+14	por	por	SPS00	C0678226	atributo	208-211	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+15	la	lo	PP3FSA00	C0205393_1	calificador_1	212-214	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+16	más	más	RG	C0205393_2	calificador_2	215-218	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+17	económica	económico	AQ0FS0	-	-	219-228	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+18	y	y	CC	C1706368	calificador	229-230	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+19	de	de	SPS00	C0332285	atributo	231-233	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+20	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	234-239	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+21	riesgo	riesgo	NCMS000	-	-	240-246	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	246-247	334(3)_ANS_clinical_caseMIR	SENT2	-	-
+

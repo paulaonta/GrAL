@@ -87,14 +87,17 @@
 36	rpm	r.p.m.	NCFN000	-	-	446-449	751_QUEST_clinical_caseMIR	SENT6	-	-
 37	.	.	Fp	-	-	449-450	751_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Qué	qué	DE0CN0	-	-	451-454	751_QUEST_clinical_caseMIR	SENT7	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	455-462	751_QUEST_clinical_caseMIR	SENT7	-	-
-3	terapéutica	terapéutico	AQ0FS0	-	-	463-474	751_QUEST_clinical_caseMIR	SENT7	-	-
-4	inicial	inicial	AQ0CS0	C0205265	calificador	475-482	751_QUEST_clinical_caseMIR	SENT7	-	-
-5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	483-485	751_QUEST_clinical_caseMIR	SENT7	-	-
-6	parece	parecer	VMIP3S0	-	-	486-492	751_QUEST_clinical_caseMIR	SENT7	-	-
-7	la	lo	PP3FSA00	C0205393_1	calificador_1	493-495	751_QUEST_clinical_caseMIR	SENT7	-	-
-8	más	más	RG	C0205393_2	calificador_2	496-499	751_QUEST_clinical_caseMIR	SENT7	-	-
-9	correcta	correcto	AQ0FS0	C0205170	calificador	500-508	751_QUEST_clinical_caseMIR	SENT7	-	-
-10	.	.	Fp	-	-	508-509	751_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	451-452	751_QUEST_clinical_caseMIR	SENT7	-	-
+2	Qué	qué	DT0CN0	-	-	452-455	751_QUEST_clinical_caseMIR	SENT7	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	456-463	751_QUEST_clinical_caseMIR	SENT7	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	464-475	751_QUEST_clinical_caseMIR	SENT7	-	-
+5	inicial	inicial	AQ0CS0	C0205265	calificador	476-483	751_QUEST_clinical_caseMIR	SENT7	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	484-486	751_QUEST_clinical_caseMIR	SENT7	-	-
+7	parece	parecer	VMIP3S0	-	-	487-493	751_QUEST_clinical_caseMIR	SENT7	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	494-496	751_QUEST_clinical_caseMIR	SENT7	-	-
+9	más	más	RG	C0205393_2	calificador_2	497-500	751_QUEST_clinical_caseMIR	SENT7	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	501-509	751_QUEST_clinical_caseMIR	SENT7	-	-
+11	?	?	Fit	-	-	509-510	751_QUEST_clinical_caseMIR	SENT7	-	-
+12	:	:	Fd	-	-	510-511	751_QUEST_clinical_caseMIR	SENT7	-	-
+13	.	.	Fp	-	-	511-512	751_QUEST_clinical_caseMIR	SENT7	-	-
 

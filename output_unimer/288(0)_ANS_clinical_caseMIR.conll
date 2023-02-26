@@ -1,0 +1,26 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	diuréticos	diurético	NCMP000	C0012798	sustancia	24-34	288(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	intravenosos	intravenoso	AQ0MP0	C0348016	calificador	35-47	288(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	,	,	Fc	-	-	47-48	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	oxigeno	oxigenar	VMIP1S0	-	-	49-56	288(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	con	con	SPS00	C0332287	atributo	57-60	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	mascarilla	mascarilla	NCFS000	-	-	61-71	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	72-73	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	alto	alto	AQ0MS0	C0205250	calificador	74-78	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	flujo	flujo	NCMS000	-	-	79-84	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	al	al	SP+DA	-	-	85-87	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	50	50	Z	-	-	88-90	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	%	%	Ft	-	-	90-91	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	y	y	CC	C1706368	calificador	92-93	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	seguir	seguir	VMN0000	-	-	94-100	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	101-104	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	el	el	DA0MS0	-	-	105-107	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	resto	resto	NCMS000	-	-	108-113	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	114-116	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	117-128	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	ya	ya	RG	-	-	129-131	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	prescrito	prescribir	VMP00SM	-	-	132-141	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	.	.	Fp	-	-	141-142	288(0)_ANS_clinical_caseMIR	SENT1	-	-
+

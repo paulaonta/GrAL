@@ -103,19 +103,22 @@
 13	alteraciones	alteración	NCFP000	-	-	535-547	19_QUEST_clinical_caseMIR	SENT4	-	-
 14	.	.	Fp	-	-	547-548	19_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	549-553	19_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	554-556	19_QUEST_clinical_caseMIR	SENT5	-	-
-3	las	el	DA0FP0	-	-	557-560	19_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	561-571	19_QUEST_clinical_caseMIR	SENT5	-	-
-5	pruebas	prueba	NCFP000	-	-	572-579	19_QUEST_clinical_caseMIR	SENT5	-	-
-6	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	580-592	19_QUEST_clinical_caseMIR	SENT5	-	-
-7	considera	considerar	VMIP3S0	-	-	593-602	19_QUEST_clinical_caseMIR	SENT5	-	-
-8	que	que	CS	-	-	603-606	19_QUEST_clinical_caseMIR	SENT5	-	-
-9	es	ser	VSIP3S0	-	-	607-609	19_QUEST_clinical_caseMIR	SENT5	-	-
-10	más	más	RG	C0205172	calificador	610-613	19_QUEST_clinical_caseMIR	SENT5	-	-
-11	recomendable	recomendable	AQ0CS0	-	-	614-626	19_QUEST_clinical_caseMIR	SENT5	-	-
-12	en	en	SPS00	C1720294#C0332285	calificador#atributo	627-629	19_QUEST_clinical_caseMIR	SENT5	-	-
-13	este	este	DD0MS0	-	-	630-634	19_QUEST_clinical_caseMIR	SENT5	-	-
-14	caso	caso	NCMS000	C0868928	calificador	635-639	19_QUEST_clinical_caseMIR	SENT5	-	-
-15	.	.	Fp	-	-	639-640	19_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	549-550	19_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	550-554	19_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	555-557	19_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	558-561	19_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	562-572	19_QUEST_clinical_caseMIR	SENT5	-	-
+6	pruebas	prueba	NCFP000	-	-	573-580	19_QUEST_clinical_caseMIR	SENT5	-	-
+7	diagnósticas	diagnóstico	AQ0FP0	C0011900	entidad_observable	581-593	19_QUEST_clinical_caseMIR	SENT5	-	-
+8	considera	considerar	VMIP3S0	-	-	594-603	19_QUEST_clinical_caseMIR	SENT5	-	-
+9	que	que	CS	-	-	604-607	19_QUEST_clinical_caseMIR	SENT5	-	-
+10	es	ser	VSIP3S0	-	-	608-610	19_QUEST_clinical_caseMIR	SENT5	-	-
+11	más	más	RG	C0205172	calificador	611-614	19_QUEST_clinical_caseMIR	SENT5	-	-
+12	recomendable	recomendable	AQ0CS0	-	-	615-627	19_QUEST_clinical_caseMIR	SENT5	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	628-630	19_QUEST_clinical_caseMIR	SENT5	-	-
+14	este	este	DD0MS0	-	-	631-635	19_QUEST_clinical_caseMIR	SENT5	-	-
+15	caso	caso	NCMS000	C0868928	calificador	636-640	19_QUEST_clinical_caseMIR	SENT5	-	-
+16	?	?	Fit	-	-	640-641	19_QUEST_clinical_caseMIR	SENT5	-	-
+17	:	:	Fd	-	-	641-642	19_QUEST_clinical_caseMIR	SENT5	-	-
+18	.	.	Fp	-	-	642-643	19_QUEST_clinical_caseMIR	SENT5	-	-
 

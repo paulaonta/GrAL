@@ -27,31 +27,34 @@ for line in mycsv:#iterate through the csv
     if first:
         first = False
     else:
-        answer_list = []
         question = line[question_pos]  #get question
-        new_question = question.replace("¿", ". ").replace("?", ". ").replace(":", ".").replace(". .", ".").replace("..", ".")
-        new_question += "." #append .
+        #new_question = question.replace("¿", ". ").replace("?", ". ").replace(":", ".").replace(". .", ".").replace("..", ".")
+        new_question = question + "." #append .
         final_question = new_question.replace("..", ".").replace(". .", ".")
 
         #get all the posible answers
         for i in range(num_answer):
-            answer_list.append(line[answer_pos+i])
+            answer = line[answer_pos+i]  # get answer
+            new_answer = answer + "."  # append .
+            final_answer = new_answer.replace("..", ".").replace(". .", ".")
+            # create a file to save each answer
+            answer_path = path + str(cont)+ "(" + str(i) +")" + answer_file_partial_name
+            createFile(answer_path)
 
-        #create a file to save the question and a file to save the answer
+            with open(answer_path, 'w', encoding='utf8') as file:
+                file.write(final_answer)
+                file.write('\n')
+
+        #create a file to save the question
         question_path = path + str(cont) + question_file_partial_name
         createFile(question_path)
-        answer_path = path + str(cont) + answer_file_partial_name
-        createFile(answer_path)
 
         #save the text in the files already created
         with open(question_path, 'w',  encoding='utf8') as file:
             file.write(final_question)
             file.write('\n')
 
-        with open(answer_path, 'w', encoding='utf8') as file:
-            for ans in answer_list:
-                file.write(ans)
-                file.write('\n')
+
         cont += 1
 
 

@@ -1,0 +1,30 @@
+1	Su	su	DP3CS0	-	-	0-2	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	3-9	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	está	estar	VAIP3S0	-	-	10-14	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	obligado	obligar	VMP00SM	-	-	15-23	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	a	a	SPS00	-	-	24-25	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	instaurar	instaurar	VMN0000	-	-	26-35	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	36-38	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	39-50	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	50-51	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	aún	aun	RG	-	-	52-55	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	56-58	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	contra	contra	SPS00	C0521124	calificador	59-65	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	66-68	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	69-71	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	voluntad	voluntad	NCFS000	C0013126#C0042950	entidad_observable#función	72-80	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	del	del	SP+DA	-	-	81-84	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	paciente	paciente	NCCS000	C0030705	persona	85-93	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	,	,	Fc	-	-	93-94	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	si	si	CS	-	-	95-97	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	éste	este	PD0MS000	-	-	98-102	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	sufre	sufrir	VMIP3S0	-	-	103-108	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	una	una		C0205447_1	calificador_1	109-112	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	situación	situación	NCFS000	-	-	113-122	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	clínica	clínico	AQ0FS0	C0205210	calificador	123-130	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	amenazante	amenazante	NC00SC0	C0332190	calificador	131-141	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	para	para	SPS00	C0521125	calificador	142-146	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+27	su	su	DP3CS0	-	-	147-149	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+28	vida	vida	NCFS000	-	-	150-154	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	154-155	447(0)_ANS_clinical_caseMIR	SENT1	-	-
+

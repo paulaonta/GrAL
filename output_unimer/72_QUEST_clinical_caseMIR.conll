@@ -50,13 +50,16 @@
 18	dio	dar	VMIS3S0	C1947971	calificador	247-250	72_QUEST_clinical_caseMIR	SENT2	-	-
 19	un	un		C0205447_1	calificador_1	251-253	72_QUEST_clinical_caseMIR	SENT2	-	-
 20	jarabe	jarabe	NCMS000	C0458173#C0991550	sustancia#calificador	254-260	72_QUEST_clinical_caseMIR	SENT2	-	-
-21	.	.	Fp	-	-	260-261	72_QUEST_clinical_caseMIR	SENT2	-	-
-22	cuál	cuál	PT0CS000	-	-	262-266	72_QUEST_clinical_caseMIR	SENT2	-	-
-23	sería	ser	VSIC1S0	-	-	267-272	72_QUEST_clinical_caseMIR	SENT2	-	-
-24	la	el	DA0FS0	-	-	273-275	72_QUEST_clinical_caseMIR	SENT2	-	-
-25	actitud	actitud	NCFS000	C0004271	entidad_observable	276-283	72_QUEST_clinical_caseMIR	SENT2	-	-
-26	terapéutica	terapéutico	AQ0FS0	-	-	284-295	72_QUEST_clinical_caseMIR	SENT2	-	-
-27	más	más	RG	C0205172	calificador	296-299	72_QUEST_clinical_caseMIR	SENT2	-	-
-28	acertada	acertar	VMP00SF	-	-	300-308	72_QUEST_clinical_caseMIR	SENT2	-	-
-29	.	.	Fp	-	-	308-309	72_QUEST_clinical_caseMIR	SENT2	-	-
+21	:	:	Fd	-	-	260-261	72_QUEST_clinical_caseMIR	SENT2	-	-
+22	¿	¿	Fia	-	-	262-263	72_QUEST_clinical_caseMIR	SENT2	-	-
+23	cuál	cuál	PT0CS000	-	-	263-267	72_QUEST_clinical_caseMIR	SENT2	-	-
+24	sería	ser	VSIC1S0	-	-	268-273	72_QUEST_clinical_caseMIR	SENT2	-	-
+25	la	el	DA0FS0	-	-	274-276	72_QUEST_clinical_caseMIR	SENT2	-	-
+26	actitud	actitud	NCFS000	C0004271	entidad_observable	277-284	72_QUEST_clinical_caseMIR	SENT2	-	-
+27	terapéutica	terapéutico	AQ0FS0	-	-	285-296	72_QUEST_clinical_caseMIR	SENT2	-	-
+28	más	más	RG	C0205172	calificador	297-300	72_QUEST_clinical_caseMIR	SENT2	-	-
+29	acertada	acertar	VMP00SF	-	-	301-309	72_QUEST_clinical_caseMIR	SENT2	-	-
+30	?	?	Fit	-	-	309-310	72_QUEST_clinical_caseMIR	SENT2	-	-
+31	:	:	Fd	-	-	310-311	72_QUEST_clinical_caseMIR	SENT2	-	-
+32	.	.	Fp	-	-	311-312	72_QUEST_clinical_caseMIR	SENT2	-	-
 

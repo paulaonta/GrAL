@@ -30,7 +30,7 @@
 30	siguiente	siguiente	NC00SC0	C0332282	atributo	175-184	483_QUEST_clinical_caseMIR	SENT1	-	-
 31	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	185-194	483_QUEST_clinical_caseMIR	SENT1	-	-
 32	anatomopatológi_x0002_co	anatomopatológi_x0002_co		-	-	195-219	483_QUEST_clinical_caseMIR	SENT1	-	-
-33	.	.	Fp	-	-	219-220	483_QUEST_clinical_caseMIR	SENT1	-	-
+33	:	:	Fd	-	-	219-220	483_QUEST_clinical_caseMIR	SENT1	-	-
 34	carcinoma	carcinoma	NCMS000	C1412014#C1176475_1	anomalía_morfológica_1	221-230	483_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
 35	ductal	ductal		C1412014#C1176475_2	anomalía_morfológica_2	231-237	483_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
 36	infiltrante	infiltrante	AQ0CS0	C1412014#C1176475_3	anomalía_morfológica_3	238-249	483_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
@@ -88,15 +88,17 @@
 20	)	)	Fpt	-	-	510-511	483_QUEST_clinical_caseMIR	SENT4	-	-
 21	.	.	Fp	-	-	511-512	483_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Qué	qué	DE0CN0	-	-	513-516	483_QUEST_clinical_caseMIR	SENT5	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	517-528	483_QUEST_clinical_caseMIR	SENT5	-	-
-3	sistémico	sistémico	AQ0MS0	C0205373	calificador	529-538	483_QUEST_clinical_caseMIR	SENT5	-	-
-4	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	539-548	483_QUEST_clinical_caseMIR	SENT5	-	-
-5	considera	considerar	VMIP3S0	-	-	549-558	483_QUEST_clinical_caseMIR	SENT5	-	-
-6	más	más	RG	C0205172	calificador	559-562	483_QUEST_clinical_caseMIR	SENT5	-	-
-7	adecuado	adecuar	VMP00SM	-	-	563-571	483_QUEST_clinical_caseMIR	SENT5	-	-
-8	para	para	SPS00	C0521125	calificador	572-576	483_QUEST_clinical_caseMIR	SENT5	-	-
-9	esta	este	DD0FS0	-	-	577-581	483_QUEST_clinical_caseMIR	SENT5	-	-
-10	paciente	paciente	NCCS000	C0030705	persona	582-590	483_QUEST_clinical_caseMIR	SENT5	-	-
-11	.	.	Fp	-	-	590-591	483_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	513-514	483_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	514-517	483_QUEST_clinical_caseMIR	SENT5	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	518-529	483_QUEST_clinical_caseMIR	SENT5	-	-
+4	sistémico	sistémico	AQ0MS0	C0205373	calificador	530-539	483_QUEST_clinical_caseMIR	SENT5	-	-
+5	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	540-549	483_QUEST_clinical_caseMIR	SENT5	-	-
+6	considera	considerar	VMIP3S0	-	-	550-559	483_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205172	calificador	560-563	483_QUEST_clinical_caseMIR	SENT5	-	-
+8	adecuado	adecuar	VMP00SM	-	-	564-572	483_QUEST_clinical_caseMIR	SENT5	-	-
+9	para	para	SPS00	C0521125	calificador	573-577	483_QUEST_clinical_caseMIR	SENT5	-	-
+10	esta	este	DD0FS0	-	-	578-582	483_QUEST_clinical_caseMIR	SENT5	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	583-591	483_QUEST_clinical_caseMIR	SENT5	-	-
+12	?	?	Fit	-	-	591-592	483_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	592-593	483_QUEST_clinical_caseMIR	SENT5	-	-
 

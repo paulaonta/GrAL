@@ -12,7 +12,7 @@
 12	.	.	Fp	-	-	69-70	667_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	Exploración	exploración	NCFS000	C1280903	procedimiento	71-82	667_QUEST_clinical_caseMIR	SENT2	-	-
-2	.	.	Fp	-	-	82-83	667_QUEST_clinical_caseMIR	SENT2	-	-
+2	:	:	Fd	-	-	82-83	667_QUEST_clinical_caseMIR	SENT2	-	-
 3	temperatura	temperatura	NCFS000	C1531924_1	entidad_observable_1	84-95	667_QUEST_clinical_caseMIR	SENT2	-	-
 4	axilar	axilar	NC00SC0	C1531924_2	entidad_observable_2	96-102	667_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
 5	37,2°C	37,2°C		-	-	103-109	667_QUEST_clinical_caseMIR	SENT2	-	-
@@ -53,7 +53,7 @@
 
 1	Auscultación	auscultación	NCFS000	C0004339	procedimiento	312-324	667_QUEST_clinical_caseMIR	SENT4	-	-
 2	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	325-333	667_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
-3	.	.	Fp	-	-	333-334	667_QUEST_clinical_caseMIR	SENT4	-	-
+3	:	:	Fd	-	-	333-334	667_QUEST_clinical_caseMIR	SENT4	-	-
 4	roncus	roncus	NC00SC0	C0035508	hallazgo	335-341	667_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
 5	espiratorios	espiratorios	NCMP000	-	-	342-354	667_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
 6	diseminados	diseminar	VMP00PM	-	-	355-366	667_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
@@ -76,7 +76,7 @@
 
 1	Auscultación	auscultación	NCFS000	C0004339	procedimiento	459-471	667_QUEST_clinical_caseMIR	SENT5	-	-
 2	cardiaca	cardiaco	AQ0FS0	-	-	472-480	667_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
-3	.	.	Fp	-	-	480-481	667_QUEST_clinical_caseMIR	SENT5	-	-
+3	:	:	Fd	-	-	480-481	667_QUEST_clinical_caseMIR	SENT5	-	-
 4	sin	sin	SPS00	C0332288	atributo	482-485	667_QUEST_clinical_caseMIR	SENT5	-	-
 5	soplos	soplo	NCMP000	C0006318#C0018808	hallazgo	486-492	667_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
 6	.	.	Fp	-	-	492-493	667_QUEST_clinical_caseMIR	SENT5	-	-
@@ -96,18 +96,21 @@
 13	horas	hora	NCFP000	C0040223#C0439227	calificador	568-573	667_QUEST_clinical_caseMIR	SENT6	-	-
 14	.	.	Fp	-	-	573-574	667_QUEST_clinical_caseMIR	SENT6	-	-
 
-1	Qué	qué	DE0CN0	-	-	575-578	667_QUEST_clinical_caseMIR	SENT7	-	-
-2	actitud	actitud	NCFS000	C0004271	entidad_observable	579-586	667_QUEST_clinical_caseMIR	SENT7	-	-
-3	considera	considerar	VMIP3S0	-	-	587-596	667_QUEST_clinical_caseMIR	SENT7	-	-
-4	más	más	RG	C0205172	calificador	597-600	667_QUEST_clinical_caseMIR	SENT7	-	-
-5	adecuada	adecuar	VMP00SF	-	-	601-609	667_QUEST_clinical_caseMIR	SENT7	-	-
-6	en	en	SPS00	C1720294#C0332285	calificador#atributo	610-612	667_QUEST_clinical_caseMIR	SENT7	-	-
-7	este	este	DD0MS0	-	-	613-617	667_QUEST_clinical_caseMIR	SENT7	-	-
-8	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	618-625	667_QUEST_clinical_caseMIR	SENT7	-	-
-9	respecto	respecto	NCMS000	-	-	626-634	667_QUEST_clinical_caseMIR	SENT7	-	-
-10	a	a	SPS00	-	-	635-636	667_QUEST_clinical_caseMIR	SENT7	-	-
-11	las	el	DA0FP0	-	-	637-640	667_QUEST_clinical_caseMIR	SENT7	-	-
-12	pruebas	prueba	NCFP000	-	-	641-648	667_QUEST_clinical_caseMIR	SENT7	-	-
-13	complementarias	complementario	AQ0FP0	-	-	649-664	667_QUEST_clinical_caseMIR	SENT7	-	-
-14	.	.	Fp	-	-	664-665	667_QUEST_clinical_caseMIR	SENT7	-	-
+1	¿	¿	Fia	-	-	575-576	667_QUEST_clinical_caseMIR	SENT7	-	-
+2	Qué	qué	DT0CN0	-	-	576-579	667_QUEST_clinical_caseMIR	SENT7	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	580-587	667_QUEST_clinical_caseMIR	SENT7	-	-
+4	considera	considerar	VMIP3S0	-	-	588-597	667_QUEST_clinical_caseMIR	SENT7	-	-
+5	más	más	RG	C0205172	calificador	598-601	667_QUEST_clinical_caseMIR	SENT7	-	-
+6	adecuada	adecuar	VMP00SF	-	-	602-610	667_QUEST_clinical_caseMIR	SENT7	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	611-613	667_QUEST_clinical_caseMIR	SENT7	-	-
+8	este	este	DD0MS0	-	-	614-618	667_QUEST_clinical_caseMIR	SENT7	-	-
+9	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	619-626	667_QUEST_clinical_caseMIR	SENT7	-	-
+10	respecto	respecto	NCMS000	-	-	627-635	667_QUEST_clinical_caseMIR	SENT7	-	-
+11	a	a	SPS00	-	-	636-637	667_QUEST_clinical_caseMIR	SENT7	-	-
+12	las	el	DA0FP0	-	-	638-641	667_QUEST_clinical_caseMIR	SENT7	-	-
+13	pruebas	prueba	NCFP000	-	-	642-649	667_QUEST_clinical_caseMIR	SENT7	-	-
+14	complementarias	complementario	AQ0FP0	-	-	650-665	667_QUEST_clinical_caseMIR	SENT7	-	-
+15	?	?	Fit	-	-	665-666	667_QUEST_clinical_caseMIR	SENT7	-	-
+16	:	:	Fd	-	-	666-667	667_QUEST_clinical_caseMIR	SENT7	-	-
+17	.	.	Fp	-	-	667-668	667_QUEST_clinical_caseMIR	SENT7	-	-
 

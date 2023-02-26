@@ -79,16 +79,19 @@
 24	día	día	NCMS000	C0439228#C0332169	calificador	434-437	160_QUEST_clinical_caseMIR	SENT3	-	-
 25	.	.	Fp	-	-	437-438	160_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Qué	qué	DE0CN0	-	-	439-442	160_QUEST_clinical_caseMIR	SENT4	-	-
-2	decisión	decisión	NCFS000	-	-	443-451	160_QUEST_clinical_caseMIR	SENT4	-	-
-3	se	se	P00CN000	-	-	452-454	160_QUEST_clinical_caseMIR	SENT4	-	-
-4	debería	deber	VMIC3S0	-	-	455-462	160_QUEST_clinical_caseMIR	SENT4	-	-
-5	tomar	tomar	VMN0000	C1515187	calificador	463-468	160_QUEST_clinical_caseMIR	SENT4	-	-
-6	sobre	sobre	SPS00	C1720294#C0205136	calificador	469-474	160_QUEST_clinical_caseMIR	SENT4	-	-
-7	la	el	DA0FS0	-	-	475-477	160_QUEST_clinical_caseMIR	SENT4	-	-
-8	antiagregación	antiagregación	NCFS000	-	-	478-492	160_QUEST_clinical_caseMIR	SENT4	-	-
-9	preoperatoria	preoperatorio	AQ0FS0	C0445204	calificador	493-506	160_QUEST_clinical_caseMIR	SENT4	-	-
-10	del	del	SP+DA	-	-	507-510	160_QUEST_clinical_caseMIR	SENT4	-	-
-11	paciente	paciente	NCCS000	C0030705	persona	511-519	160_QUEST_clinical_caseMIR	SENT4	-	-
-12	.	.	Fp	-	-	519-520	160_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	439-440	160_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	440-443	160_QUEST_clinical_caseMIR	SENT4	-	-
+3	decisión	decisión	NCFS000	-	-	444-452	160_QUEST_clinical_caseMIR	SENT4	-	-
+4	se	se	P00CN000	-	-	453-455	160_QUEST_clinical_caseMIR	SENT4	-	-
+5	debería	deber	VMIC3S0	-	-	456-463	160_QUEST_clinical_caseMIR	SENT4	-	-
+6	tomar	tomar	VMN0000	C1515187	calificador	464-469	160_QUEST_clinical_caseMIR	SENT4	-	-
+7	sobre	sobre	SPS00	C1720294#C0205136	calificador	470-475	160_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	476-478	160_QUEST_clinical_caseMIR	SENT4	-	-
+9	antiagregación	antiagregación	NCFS000	-	-	479-493	160_QUEST_clinical_caseMIR	SENT4	-	-
+10	preoperatoria	preoperatorio	AQ0FS0	C0445204	calificador	494-507	160_QUEST_clinical_caseMIR	SENT4	-	-
+11	del	del	SP+DA	-	-	508-511	160_QUEST_clinical_caseMIR	SENT4	-	-
+12	paciente	paciente	NCCS000	C0030705	persona	512-520	160_QUEST_clinical_caseMIR	SENT4	-	-
+13	?	?	Fit	-	-	520-521	160_QUEST_clinical_caseMIR	SENT4	-	-
+14	:	:	Fd	-	-	521-522	160_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	522-523	160_QUEST_clinical_caseMIR	SENT4	-	-
 

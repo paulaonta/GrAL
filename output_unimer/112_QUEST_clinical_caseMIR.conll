@@ -100,23 +100,26 @@
 19	dl	decilitro	NCMN000	C0439241	calificador	520-522	112_QUEST_clinical_caseMIR	SENT5	-	-
 20	.	.	Fp	-	-	522-523	112_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	524-528	112_QUEST_clinical_caseMIR	SENT6	-	-
-2	de	de	SPS00	C0332285	atributo	529-531	112_QUEST_clinical_caseMIR	SENT6	-	-
-3	las	el	DA0FP0	-	-	532-535	112_QUEST_clinical_caseMIR	SENT6	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	536-546	112_QUEST_clinical_caseMIR	SENT6	-	-
-5	acciones	acción	NCFP000	C0441472#C3266814	calificador#atributo	547-555	112_QUEST_clinical_caseMIR	SENT6	-	-
-6	se	se	P00CN000	-	-	556-558	112_QUEST_clinical_caseMIR	SENT6	-	-
-7	asocia	asociar	VMIP3S0	-	-	559-565	112_QUEST_clinical_caseMIR	SENT6	-	-
-8	con	con	SPS00	C0332287	atributo	566-569	112_QUEST_clinical_caseMIR	SENT6	-	-
-9	una	una		C0205447_1	calificador_1	570-573	112_QUEST_clinical_caseMIR	SENT6	-	-
-10	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	574-579	112_QUEST_clinical_caseMIR	SENT6	-	-
-11	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	580-589	112_QUEST_clinical_caseMIR	SENT6	-	-
-12	del	del	SP+DA	-	-	590-593	112_QUEST_clinical_caseMIR	SENT6	-	-
-13	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	594-600	112_QUEST_clinical_caseMIR	SENT6	-	-
-14	de	de	SPS00	C0035647_2	calificador_2	601-603	112_QUEST_clinical_caseMIR	SENT6	-	-
-15	sufrir	sufrir	VMN0000	-	-	604-610	112_QUEST_clinical_caseMIR	SENT6	-	-
-16	un	un		C0205447_1	calificador_1	611-613	112_QUEST_clinical_caseMIR	SENT6	-	-
-17	accidente	accidente	NCMS000	C0038454#C1540600_1	trastorno_1	614-623	112_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
-18	cerebrovascular	cerebrovascular	AQ0CS0	C0038454#C1540600_2	trastorno_2	624-639	112_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
-19	.	.	Fp	-	-	639-640	112_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	524-525	112_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	525-529	112_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	530-532	112_QUEST_clinical_caseMIR	SENT6	-	-
+4	las	el	DA0FP0	-	-	533-536	112_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	537-547	112_QUEST_clinical_caseMIR	SENT6	-	-
+6	acciones	acción	NCFP000	C0441472#C3266814	calificador#atributo	548-556	112_QUEST_clinical_caseMIR	SENT6	-	-
+7	se	se	P00CN000	-	-	557-559	112_QUEST_clinical_caseMIR	SENT6	-	-
+8	asocia	asociar	VMIP3S0	-	-	560-566	112_QUEST_clinical_caseMIR	SENT6	-	-
+9	con	con	SPS00	C0332287	atributo	567-570	112_QUEST_clinical_caseMIR	SENT6	-	-
+10	una	una		C0205447_1	calificador_1	571-574	112_QUEST_clinical_caseMIR	SENT6	-	-
+11	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	575-580	112_QUEST_clinical_caseMIR	SENT6	-	-
+12	reducción	reducción	NCFS000	C0333668	anomalía_morfológica	581-590	112_QUEST_clinical_caseMIR	SENT6	-	-
+13	del	del	SP+DA	-	-	591-594	112_QUEST_clinical_caseMIR	SENT6	-	-
+14	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	595-601	112_QUEST_clinical_caseMIR	SENT6	-	-
+15	de	de	SPS00	C0035647_2	calificador_2	602-604	112_QUEST_clinical_caseMIR	SENT6	-	-
+16	sufrir	sufrir	VMN0000	-	-	605-611	112_QUEST_clinical_caseMIR	SENT6	-	-
+17	un	un		C0205447_1	calificador_1	612-614	112_QUEST_clinical_caseMIR	SENT6	-	-
+18	accidente	accidente	NCMS000	C0038454#C1540600_1	trastorno_1	615-624	112_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+19	cerebrovascular	cerebrovascular	AQ0CS0	C0038454#C1540600_2	trastorno_2	625-640	112_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+20	?	?	Fit	-	-	640-641	112_QUEST_clinical_caseMIR	SENT6	-	-
+21	:	:	Fd	-	-	641-642	112_QUEST_clinical_caseMIR	SENT6	-	-
+22	.	.	Fp	-	-	642-643	112_QUEST_clinical_caseMIR	SENT6	-	-
 

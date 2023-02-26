@@ -1,0 +1,23 @@
+1	El	el	DA0MS0	-	-	0-2	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	más	más	RG	C0205172	calificador	15-18	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	apropiado	apropiar	VMP00SM	-	-	19-28	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	29-31	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	inducción	inducción	NCFS000	-	-	32-41	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	debe	deber	VMIP3S0	-	-	42-46	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	incluir	incluir	VMN0000	-	-	47-54	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	55-57	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	esquema	esquema	NCMS000	-	-	58-65	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	66-68	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	tres	tres		-	-	69-73	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	fármacos	fármaco	NCMP000	C0013227	sustancia	74-82	394(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	por	por	SPS00	C0678226	atributo	83-86	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	ejemplo	ejemplo	NCMS000	-	-	87-94	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	bortezomib	bortezomib	NC00SC0	C1176309	producto#sustancia	95-105	394(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+17	junto	junto	RG	-	-	106-111	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	112-115	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	melfalán	melfalán	NC00SC0	C0025241	sustancia	116-124	394(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	y	y	CC	C1706368	calificador	125-126	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	prednisona	prednisona	NCFS000	C0032952	sustancia	127-137	394(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	.	.	Fp	-	-	137-138	394(2)_ANS_clinical_caseMIR	SENT1	-	-
+

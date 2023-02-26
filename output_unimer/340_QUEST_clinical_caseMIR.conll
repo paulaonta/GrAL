@@ -54,7 +54,7 @@
 6	siguiente	siguiente	AQ0CS0	C0332282	atributo	243-252	340_QUEST_clinical_caseMIR	SENT5	-	-
 7	cuadro	cuadro	NCMS000	-	-	253-259	340_QUEST_clinical_caseMIR	SENT5	-	-
 8	clínico	clínico	AQ0MS0	C0205210	calificador	260-267	340_QUEST_clinical_caseMIR	SENT5	-	-
-9	.	.	Fp	-	-	267-268	340_QUEST_clinical_caseMIR	SENT5	-	-
+9	:	:	Fd	-	-	267-268	340_QUEST_clinical_caseMIR	SENT5	-	-
 10	desánimo	desánimo	NCMS000	C0233489	hallazgo	269-277	340_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
 11	general	general	AQ0CS0	C0205246	calificador	278-285	340_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
 12	,	,	Fc	-	-	285-286	340_QUEST_clinical_caseMIR	SENT5	-	-
@@ -76,15 +76,17 @@
 28	socio_x0002_familiares	socio_x0002_familiares		-	-	393-415	340_QUEST_clinical_caseMIR	SENT5	-	-
 29	.	.	Fp	-	-	415-416	340_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Qué	qué	DE0CN0	-	-	417-420	340_QUEST_clinical_caseMIR	SENT6	-	-
-2	opción	opción	NCFS000	-	-	421-427	340_QUEST_clinical_caseMIR	SENT6	-	-
-3	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	428-439	340_QUEST_clinical_caseMIR	SENT6	-	-
-4	de	de	SPS00	C0332285	atributo	440-442	340_QUEST_clinical_caseMIR	SENT6	-	-
-5	las	el	DA0FP0	-	-	443-446	340_QUEST_clinical_caseMIR	SENT6	-	-
-6	siguientes	siguiente	AQ0CP0	C0332282	atributo	447-457	340_QUEST_clinical_caseMIR	SENT6	-	-
-7	es	ser	VSIP3S0	-	-	458-460	340_QUEST_clinical_caseMIR	SENT6	-	-
-8	la	lo	PP3FSA00	C0205393_1	calificador_1	461-463	340_QUEST_clinical_caseMIR	SENT6	-	-
-9	más	más	RG	C0205393_2	calificador_2	464-467	340_QUEST_clinical_caseMIR	SENT6	-	-
-10	adecuada	adecuar	VMP00SF	-	-	468-476	340_QUEST_clinical_caseMIR	SENT6	-	-
-11	.	.	Fp	-	-	476-477	340_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	417-418	340_QUEST_clinical_caseMIR	SENT6	-	-
+2	Qué	qué	DT0CN0	-	-	418-421	340_QUEST_clinical_caseMIR	SENT6	-	-
+3	opción	opción	NCFS000	-	-	422-428	340_QUEST_clinical_caseMIR	SENT6	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	429-440	340_QUEST_clinical_caseMIR	SENT6	-	-
+5	de	de	SPS00	C0332285	atributo	441-443	340_QUEST_clinical_caseMIR	SENT6	-	-
+6	las	el	DA0FP0	-	-	444-447	340_QUEST_clinical_caseMIR	SENT6	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	448-458	340_QUEST_clinical_caseMIR	SENT6	-	-
+8	es	ser	VSIP3S0	-	-	459-461	340_QUEST_clinical_caseMIR	SENT6	-	-
+9	la	lo	PP3FSA00	C0205393_1	calificador_1	462-464	340_QUEST_clinical_caseMIR	SENT6	-	-
+10	más	más	RG	C0205393_2	calificador_2	465-468	340_QUEST_clinical_caseMIR	SENT6	-	-
+11	adecuada	adecuar	VMP00SF	-	-	469-477	340_QUEST_clinical_caseMIR	SENT6	-	-
+12	?	?	Fit	-	-	477-478	340_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	478-479	340_QUEST_clinical_caseMIR	SENT6	-	-
 

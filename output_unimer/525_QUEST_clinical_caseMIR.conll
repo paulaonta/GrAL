@@ -77,16 +77,18 @@
 18	asintomática	asintomático	AQ0FS0	-	-	452-464	525_QUEST_clinical_caseMIR	SENT4	-	-
 19	.	.	Fp	-	-	464-465	525_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	466-470	525_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	471-473	525_QUEST_clinical_caseMIR	SENT5	-	-
-3	las	el	DA0FP0	-	-	474-477	525_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	478-488	525_QUEST_clinical_caseMIR	SENT5	-	-
-5	patologías	patología	NCFP000	C0030664	calificador	489-499	525_QUEST_clinical_caseMIR	SENT5	-	-
-6	es	ser	VSIP3S0	-	-	500-502	525_QUEST_clinical_caseMIR	SENT5	-	-
-7	más	más	RG	C0205172	calificador	503-506	525_QUEST_clinical_caseMIR	SENT5	-	-
-8	probable	probable	AQ0CS0	C0332148	calificador	507-515	525_QUEST_clinical_caseMIR	SENT5	-	-
-9	en	en	SPS00	C1720294#C0332285	calificador#atributo	516-518	525_QUEST_clinical_caseMIR	SENT5	-	-
-10	este	este	DD0MS0	-	-	519-523	525_QUEST_clinical_caseMIR	SENT5	-	-
-11	niño	niño	NCMS000	C0008059#C0870221	persona	524-528	525_QUEST_clinical_caseMIR	SENT5	-	-
-12	.	.	Fp	-	-	528-529	525_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	466-467	525_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	467-471	525_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	472-474	525_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	475-478	525_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	479-489	525_QUEST_clinical_caseMIR	SENT5	-	-
+6	patologías	patología	NCFP000	C0030664	calificador	490-500	525_QUEST_clinical_caseMIR	SENT5	-	-
+7	es	ser	VSIP3S0	-	-	501-503	525_QUEST_clinical_caseMIR	SENT5	-	-
+8	más	más	RG	C0205172	calificador	504-507	525_QUEST_clinical_caseMIR	SENT5	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	508-516	525_QUEST_clinical_caseMIR	SENT5	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	517-519	525_QUEST_clinical_caseMIR	SENT5	-	-
+11	este	este	DD0MS0	-	-	520-524	525_QUEST_clinical_caseMIR	SENT5	-	-
+12	niño	niño	NCMS000	C0008059#C0870221	persona	525-529	525_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	529-530	525_QUEST_clinical_caseMIR	SENT5	-	-
+14	.	.	Fp	-	-	530-531	525_QUEST_clinical_caseMIR	SENT5	-	-
 

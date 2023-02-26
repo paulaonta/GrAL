@@ -1,0 +1,23 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	su	su	DP3CS0	-	-	3-5	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	forma	forma	NCFS000	C0348078	atributo	6-11	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	aguda	agudo	AQ0FS0	C0205178	calificador	12-17	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	también	también	RG	-	-	18-25	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	26-34	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	34-35	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	generalmente	generalmente	RG	-	-	36-48	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	48-49	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	elevación	elevación	NCFS000	C0439775	procedimiento	50-59	390(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	60-62	390(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	63-74	390(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+13	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	75-81	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	82-83	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	antígenos	antígeno	NCMP000	C0003320	sustancia	84-93	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	94-96	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	fase	fase	NCFS000	C0205390	calificador	97-101	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	I.	i.	AQ0CS00	-	-	102-104	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	0-8	390(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	9-11	390(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+21	McCune-Albright	mccune-albright	NCMS000	-	-	12-27	390(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+22	.	.	Fp	-	-	27-28	390(1)_ANS_clinical_caseMIR	SENT1	-	-
+

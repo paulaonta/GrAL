@@ -1,0 +1,17 @@
+1	Amoxicilina	amoxicilina	NC00SC0	C0360350_1	producto_1	0-11	422(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	oral	oral	NC00SC0	C0360350_2	producto_2	12-16	422(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	,	,	Fc	-	-	16-17	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	50	50	Z	-	-	18-20	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	mg	mg	NCMN000	-	-	21-23	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	/	/	Fh	-	-	23-24	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	kg	kilogramo	NCMN000	C0439209	calificador	24-26	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	/	/	Fh	-	-	26-27	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	día	día	NCMS000	C0439228#C0332169	calificador	27-30	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	cada	cada	DI0CS0	C1457900	calificador	31-35	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	8	8	Z	C1292429_1	calificador_1	36-37	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	horas	hora	NCFP000	C1292429_2	calificador_2	38-43	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	durante	durante	SPS00	C1444752#C0347984	atributo	44-51	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	5	5	Z	-	-	52-53	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	días	d	NCMP000	-	-	54-58	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	58-59	422(3)_ANS_clinical_caseMIR	SENT1	-	-
+

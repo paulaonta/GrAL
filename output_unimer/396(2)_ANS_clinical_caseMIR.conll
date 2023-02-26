@@ -1,0 +1,20 @@
+1	La	el	DA0FS0	-	-	0-2	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	ceftazidima	ceftazidima	NC00SC0	C0007559	sustancia	3-14	396(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	endovenoso	endovenoso	AQ0MS0	-	-	15-25	396(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+4	a	a	SPS00	-	-	26-27	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	dosis	dosis	NCFN000	-	-	28-33	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	altas	alto	AQ0FP0	C0205250	calificador	34-39	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	es	ser	VSIP3S0	-	-	40-42	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	43-45	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	46-57	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	58-66	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	razonable	razonable	AQ0CS0	-	-	67-76	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	77-79	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	espera	espera	NCFS000	-	-	80-86	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	del	del	SP+DA	-	-	87-90	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	resultado	resultar	VMP00SM	C0686907_1	calificador_1	91-100	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0686907_2	calificador_2	101-103	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	los	el	DA0MP0	-	-	104-107	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	cultivos	cultivo	NCMP000	-	-	108-116	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	116-117	396(2)_ANS_clinical_caseMIR	SENT1	-	-
+

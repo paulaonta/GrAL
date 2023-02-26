@@ -82,14 +82,16 @@
 20	dL	decilitro	NCMN000	C0439241	calificador	489-491	598_QUEST_clinical_caseMIR	SENT4	-	-
 21	.	.	Fp	-	-	491-492	598_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	493-497	598_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	498-500	598_QUEST_clinical_caseMIR	SENT5	-	-
-3	los	el	DA0MP0	-	-	501-504	598_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	505-515	598_QUEST_clinical_caseMIR	SENT5	-	-
-5	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	516-528	598_QUEST_clinical_caseMIR	SENT5	-	-
-6	seria	serio	AQ0FS0	C0205404	calificador	529-534	598_QUEST_clinical_caseMIR	SENT5	-	-
-7	el	el	DA0MS0	-	-	535-537	598_QUEST_clinical_caseMIR	SENT5	-	-
-8	MENOS	menos	RG	C0332288	atributo	538-543	598_QUEST_clinical_caseMIR	SENT5	-	-
-9	probable	probable	AQ0CS0	C0332148	calificador	544-552	598_QUEST_clinical_caseMIR	SENT5	-	-
-10	.	.	Fp	-	-	552-553	598_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	493-494	598_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	494-498	598_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	499-501	598_QUEST_clinical_caseMIR	SENT5	-	-
+4	los	el	DA0MP0	-	-	502-505	598_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	506-516	598_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	517-529	598_QUEST_clinical_caseMIR	SENT5	-	-
+7	seria	serio	AQ0FS0	C0205404	calificador	530-535	598_QUEST_clinical_caseMIR	SENT5	-	-
+8	el	el	DA0MS0	-	-	536-538	598_QUEST_clinical_caseMIR	SENT5	-	-
+9	MENOS	menos	RG	C0332288	atributo	539-544	598_QUEST_clinical_caseMIR	SENT5	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	545-553	598_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	553-554	598_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	554-555	598_QUEST_clinical_caseMIR	SENT5	-	-
 

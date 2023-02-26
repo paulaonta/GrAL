@@ -65,23 +65,25 @@
 6	los	el	DA0MP0	-	-	366-369	220_QUEST_clinical_caseMIR	SENT3	-	-
 7	siguientes	siguiente	AQ0CP0	C0332282	atributo	370-380	220_QUEST_clinical_caseMIR	SENT3	-	-
 8	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	381-391	220_QUEST_clinical_caseMIR	SENT3	-	-
-9	.	.	Fp	-	-	391-392	220_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	391-392	220_QUEST_clinical_caseMIR	SENT3	-	-
+10	HIV	human_immunodeficiency_virus_(virus_de_la_inmunodeficiencia_humana)	NC00YL0	C0481430_1	hallazgo_1	393-396	220_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	negativo	negativo	NCMS000	C0481430_2	hallazgo_2	397-405	220_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	405-406	220_QUEST_clinical_caseMIR	SENT3	-	-
+13	RPR	rapid_plasma_reagin_test	NC00YL0	-	-	407-410	220_QUEST_clinical_caseMIR	SENT3	-	-
+14	1/320	1/320		-	-	411-416	220_QUEST_clinical_caseMIR	SENT3	-	-
+15	,	,	Fc	-	-	416-417	220_QUEST_clinical_caseMIR	SENT3	-	-
+16	TPHA	treponema_pallidum_hemagglutination_assay_(análisis_de_heamglutinación_de_treponema_pallidum)	NC00YL0	-	-	418-422	220_QUEST_clinical_caseMIR	SENT3	-	-
+17	1/128	1/128		-	-	423-428	220_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	428-429	220_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	HIV	human_immunodeficiency_virus_(virus_de_la_inmunodeficiencia_humana)	NC00YL0	C0481430_1	hallazgo_1	393-396	220_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-2	negativo	negativo	NCMS000	C0481430_2	hallazgo_2	397-405	220_QUEST_clinical_caseMIR	SENT4	-	-
-3	,	,	Fc	-	-	405-406	220_QUEST_clinical_caseMIR	SENT4	-	-
-4	RPR	rapid_plasma_reagin_test	NC00YL0	-	-	407-410	220_QUEST_clinical_caseMIR	SENT4	-	-
-5	1/320	1/320		-	-	411-416	220_QUEST_clinical_caseMIR	SENT4	-	-
-6	,	,	Fc	-	-	416-417	220_QUEST_clinical_caseMIR	SENT4	-	-
-7	TPHA	treponema_pallidum_hemagglutination_assay_(análisis_de_heamglutinación_de_treponema_pallidum)	NC00YL0	-	-	418-422	220_QUEST_clinical_caseMIR	SENT4	-	-
-8	1/128	1/128		-	-	423-428	220_QUEST_clinical_caseMIR	SENT4	-	-
-9	.	.	Fp	-	-	428-429	220_QUEST_clinical_caseMIR	SENT4	-	-
-
-1	Qué	qué	DE0CN0	-	-	430-433	220_QUEST_clinical_caseMIR	SENT5	-	-
-2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	434-445	220_QUEST_clinical_caseMIR	SENT5	-	-
-3	indicaría	indicar	VMIC3S0	-	-	446-455	220_QUEST_clinical_caseMIR	SENT5	-	-
-4	en	en	SPS00	C1720294#C0332285	calificador#atributo	456-458	220_QUEST_clinical_caseMIR	SENT5	-	-
-5	este	este	DD0MS0	-	-	459-463	220_QUEST_clinical_caseMIR	SENT5	-	-
-6	paciente	paciente	NCCS000	C0030705	persona	464-472	220_QUEST_clinical_caseMIR	SENT5	-	-
-7	.	.	Fp	-	-	472-473	220_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	430-431	220_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	431-434	220_QUEST_clinical_caseMIR	SENT4	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	435-446	220_QUEST_clinical_caseMIR	SENT4	-	-
+4	indicaría	indicar	VMIC3S0	-	-	447-456	220_QUEST_clinical_caseMIR	SENT4	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	457-459	220_QUEST_clinical_caseMIR	SENT4	-	-
+6	este	este	DD0MS0	-	-	460-464	220_QUEST_clinical_caseMIR	SENT4	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	465-473	220_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	473-474	220_QUEST_clinical_caseMIR	SENT4	-	-
+9	:	:	Fd	-	-	474-475	220_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	475-476	220_QUEST_clinical_caseMIR	SENT4	-	-
 

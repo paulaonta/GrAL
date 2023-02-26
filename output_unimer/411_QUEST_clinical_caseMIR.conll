@@ -74,15 +74,17 @@
 7	similar	similar	AQ0CS0	-	-	440-447	411_QUEST_clinical_caseMIR	SENT4	-	-
 8	.	.	Fp	-	-	447-448	411_QUEST_clinical_caseMIR	SENT4	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	449-453	411_QUEST_clinical_caseMIR	SENT5	-	-
-2	de	de	SPS00	C0332285	atributo	454-456	411_QUEST_clinical_caseMIR	SENT5	-	-
-3	los	el	DA0MP0	-	-	457-460	411_QUEST_clinical_caseMIR	SENT5	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	461-471	411_QUEST_clinical_caseMIR	SENT5	-	-
-5	procesos	proceso	NCMP000	C1522240	entidad_observable	472-480	411_QUEST_clinical_caseMIR	SENT5	-	-
-6	sospechar	sospechar	VMN0000	-	-	481-490	411_QUEST_clinical_caseMIR	SENT5	-	-
-7	la	lo	PP3FSA00	-	-	490-492	411_QUEST_clinical_caseMIR	SENT5	-	-
-8	en	en	SPS00	C1279901_1	calificador_1	493-495	411_QUEST_clinical_caseMIR	SENT5	-	-
-9	primer	1	AO0MS0	C1279901_2	calificador_2	496-502	411_QUEST_clinical_caseMIR	SENT5	-	-
-10	lugar	lugar	NCMS000	C1279901_3	calificador_3	503-508	411_QUEST_clinical_caseMIR	SENT5	-	-
-11	.	.	Fp	-	-	508-509	411_QUEST_clinical_caseMIR	SENT5	-	-
+1	¿	¿	Fia	-	-	449-450	411_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	450-454	411_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	455-457	411_QUEST_clinical_caseMIR	SENT5	-	-
+4	los	el	DA0MP0	-	-	458-461	411_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	462-472	411_QUEST_clinical_caseMIR	SENT5	-	-
+6	procesos	proceso	NCMP000	C1522240	entidad_observable	473-481	411_QUEST_clinical_caseMIR	SENT5	-	-
+7	sospechar	sospechar	VMN0000	-	-	482-491	411_QUEST_clinical_caseMIR	SENT5	-	-
+8	la	lo	PP3FSA00	-	-	491-493	411_QUEST_clinical_caseMIR	SENT5	-	-
+9	en	en	SPS00	C1279901_1	calificador_1	494-496	411_QUEST_clinical_caseMIR	SENT5	-	-
+10	primer	1	AO0MS0	C1279901_2	calificador_2	497-503	411_QUEST_clinical_caseMIR	SENT5	-	-
+11	lugar	lugar	NCMS000	C1279901_3	calificador_3	504-509	411_QUEST_clinical_caseMIR	SENT5	-	-
+12	?	?	Fit	-	-	509-510	411_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	510-511	411_QUEST_clinical_caseMIR	SENT5	-	-
 

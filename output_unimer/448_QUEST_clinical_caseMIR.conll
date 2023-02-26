@@ -85,10 +85,12 @@
 10	torácico	torácico	NC00SC0	C0008034_2	objeto_físico_2	438-446	448_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
 11	.	.	Fp	-	-	446-447	448_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	448-452	448_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	453-455	448_QUEST_clinical_caseMIR	SENT6	-	-
-3	la	el	DA0FS0	-	-	456-458	448_QUEST_clinical_caseMIR	SENT6	-	-
-4	actitud	actitud	NCFS000	C0004271	entidad_observable	459-466	448_QUEST_clinical_caseMIR	SENT6	-	-
-5	correcta	correcto	AQ0FS0	C0205170	calificador	467-475	448_QUEST_clinical_caseMIR	SENT6	-	-
-6	.	.	Fp	-	-	475-476	448_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	448-449	448_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	449-453	448_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	454-456	448_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	el	DA0FS0	-	-	457-459	448_QUEST_clinical_caseMIR	SENT6	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	460-467	448_QUEST_clinical_caseMIR	SENT6	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	468-476	448_QUEST_clinical_caseMIR	SENT6	-	-
+7	?	?	Fit	-	-	476-477	448_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	477-478	448_QUEST_clinical_caseMIR	SENT6	-	-
 

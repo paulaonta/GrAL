@@ -50,11 +50,13 @@
 21	genital	genital	AQ0CS0	C0559522	calificador	270-277	429_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
 22	.	.	Fp	-	-	277-278	429_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	279-283	429_QUEST_clinical_caseMIR	SENT3	-	-
-2	es	ser	VSIP3S0	-	-	284-286	429_QUEST_clinical_caseMIR	SENT3	-	-
-3	el	el	DA0MS0	-	-	287-289	429_QUEST_clinical_caseMIR	SENT3	-	-
-4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	290-301	429_QUEST_clinical_caseMIR	SENT3	-	-
-5	más	más	RG	C0205172	calificador	302-305	429_QUEST_clinical_caseMIR	SENT3	-	-
-6	probable	probable	AQ0CS0	C0332148	calificador	306-314	429_QUEST_clinical_caseMIR	SENT3	-	-
-7	.	.	Fp	-	-	314-315	429_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	279-280	429_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	280-284	429_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	285-287	429_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	288-290	429_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	291-302	429_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	303-306	429_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	307-315	429_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	315-316	429_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	316-317	429_QUEST_clinical_caseMIR	SENT3	-	-
 

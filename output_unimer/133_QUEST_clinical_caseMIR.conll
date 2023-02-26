@@ -47,17 +47,20 @@
 14	)	)	Fpt	-	-	284-285	133_QUEST_clinical_caseMIR	SENT3	-	-
 15	.	.	Fp	-	-	285-286	133_QUEST_clinical_caseMIR	SENT3	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	287-291	133_QUEST_clinical_caseMIR	SENT4	-	-
-2	de	de	SPS00	C0332285	atributo	292-294	133_QUEST_clinical_caseMIR	SENT4	-	-
-3	las	el	DA0FP0	-	-	295-298	133_QUEST_clinical_caseMIR	SENT4	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	299-309	133_QUEST_clinical_caseMIR	SENT4	-	-
-5	afirmaciones	afirmación	NCFP000	-	-	310-322	133_QUEST_clinical_caseMIR	SENT4	-	-
-6	es	ser	VSIP3S0	-	-	323-325	133_QUEST_clinical_caseMIR	SENT4	-	-
-7	FALSA	falso	AQ0FS0	C0205237	calificador	326-331	133_QUEST_clinical_caseMIR	SENT4	-	-
-8	respecto	respecto	NCMS000	-	-	332-340	133_QUEST_clinical_caseMIR	SENT4	-	-
-9	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	341-343	133_QUEST_clinical_caseMIR	SENT4	-	-
-10	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	344-355	133_QUEST_clinical_caseMIR	SENT4	-	-
-11	de	de	SPS00	C0332285	atributo	356-358	133_QUEST_clinical_caseMIR	SENT4	-	-
-12	PTI	pti	NC00YL0	C0398650_1	trastorno_1	359-362	133_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
-13	.	.	Fp	-	-	362-363	133_QUEST_clinical_caseMIR	SENT4	-	-
+1	¿	¿	Fia	-	-	287-288	133_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	288-292	133_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	293-295	133_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	296-299	133_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	300-310	133_QUEST_clinical_caseMIR	SENT4	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	311-323	133_QUEST_clinical_caseMIR	SENT4	-	-
+7	es	ser	VSIP3S0	-	-	324-326	133_QUEST_clinical_caseMIR	SENT4	-	-
+8	FALSA	falso	AQ0FS0	C0205237	calificador	327-332	133_QUEST_clinical_caseMIR	SENT4	-	-
+9	respecto	respecto	NCMS000	-	-	333-341	133_QUEST_clinical_caseMIR	SENT4	-	-
+10	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	342-344	133_QUEST_clinical_caseMIR	SENT4	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	345-356	133_QUEST_clinical_caseMIR	SENT4	-	-
+12	de	de	SPS00	C0332285	atributo	357-359	133_QUEST_clinical_caseMIR	SENT4	-	-
+13	PTI	pti	NC00YL0	C0398650_1	trastorno_1	360-363	133_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	?	?	Fit	-	-	363-364	133_QUEST_clinical_caseMIR	SENT4	-	-
+15	:	:	Fd	-	-	364-365	133_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	365-366	133_QUEST_clinical_caseMIR	SENT4	-	-
 

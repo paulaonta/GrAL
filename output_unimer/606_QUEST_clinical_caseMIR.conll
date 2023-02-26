@@ -89,21 +89,23 @@
 14	principales	principal	AQ0CP0	C0205225	calificador	479-490	606_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
 15	.	.	Fp	-	-	490-491	606_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	492-496	606_QUEST_clinical_caseMIR	SENT6	-	-
-2	de	de	SPS00	C0332285	atributo	497-499	606_QUEST_clinical_caseMIR	SENT6	-	-
-3	los	el	DA0MP0	-	-	500-503	606_QUEST_clinical_caseMIR	SENT6	-	-
-4	siguientes	siguiente	AQ0CP0	C0332282	atributo	504-514	606_QUEST_clinical_caseMIR	SENT6	-	-
-5	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	515-527	606_QUEST_clinical_caseMIR	SENT6	-	-
-6	se	se	P00CN000	-	-	528-530	606_QUEST_clinical_caseMIR	SENT6	-	-
-7	asociaría	asociar	VMIC3S0	-	-	531-540	606_QUEST_clinical_caseMIR	SENT6	-	-
-8	a	a	SPS00	-	-	541-542	606_QUEST_clinical_caseMIR	SENT6	-	-
-9	una	una		C0205447_1	calificador_1	543-546	606_QUEST_clinical_caseMIR	SENT6	-	-
-10	mejoría	mejoría	NCFS000	-	-	547-554	606_QUEST_clinical_caseMIR	SENT6	-	-
-11	hemodinámica	hemodinámica	AQ0FS00	-	-	555-567	606_QUEST_clinical_caseMIR	SENT6	-	-
-12	más	más	RG	C0205172	calificador	568-571	606_QUEST_clinical_caseMIR	SENT6	-	-
-13	rápida	rápido	AQ0FS0	C0456962	calificador	572-578	606_QUEST_clinical_caseMIR	SENT6	-	-
-14	en	en	SPS00	C1720294#C0332285	calificador#atributo	579-581	606_QUEST_clinical_caseMIR	SENT6	-	-
-15	este	este	DD0MS0	-	-	582-586	606_QUEST_clinical_caseMIR	SENT6	-	-
-16	caso	caso	NCMS000	C0868928	calificador	587-591	606_QUEST_clinical_caseMIR	SENT6	-	-
-17	.	.	Fp	-	-	591-592	606_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	492-493	606_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	493-497	606_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	498-500	606_QUEST_clinical_caseMIR	SENT6	-	-
+4	los	el	DA0MP0	-	-	501-504	606_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	505-515	606_QUEST_clinical_caseMIR	SENT6	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	516-528	606_QUEST_clinical_caseMIR	SENT6	-	-
+7	se	se	P00CN000	-	-	529-531	606_QUEST_clinical_caseMIR	SENT6	-	-
+8	asociaría	asociar	VMIC3S0	-	-	532-541	606_QUEST_clinical_caseMIR	SENT6	-	-
+9	a	a	SPS00	-	-	542-543	606_QUEST_clinical_caseMIR	SENT6	-	-
+10	una	una		C0205447_1	calificador_1	544-547	606_QUEST_clinical_caseMIR	SENT6	-	-
+11	mejoría	mejoría	NCFS000	-	-	548-555	606_QUEST_clinical_caseMIR	SENT6	-	-
+12	hemodinámica	hemodinámica	AQ0FS00	-	-	556-568	606_QUEST_clinical_caseMIR	SENT6	-	-
+13	más	más	RG	C0205172	calificador	569-572	606_QUEST_clinical_caseMIR	SENT6	-	-
+14	rápida	rápido	AQ0FS0	C0456962	calificador	573-579	606_QUEST_clinical_caseMIR	SENT6	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	580-582	606_QUEST_clinical_caseMIR	SENT6	-	-
+16	este	este	DD0MS0	-	-	583-587	606_QUEST_clinical_caseMIR	SENT6	-	-
+17	caso	caso	NCMS000	C0868928	calificador	588-592	606_QUEST_clinical_caseMIR	SENT6	-	-
+18	?	?	Fit	-	-	592-593	606_QUEST_clinical_caseMIR	SENT6	-	-
+19	.	.	Fp	-	-	593-594	606_QUEST_clinical_caseMIR	SENT6	-	-
 

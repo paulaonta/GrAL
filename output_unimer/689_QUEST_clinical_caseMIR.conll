@@ -42,16 +42,19 @@
 8	alteraciones	alteración	NCFP000	-	-	228-240	689_QUEST_clinical_caseMIR	SENT2	-	-
 9	.	.	Fp	-	-	240-241	689_QUEST_clinical_caseMIR	SENT2	-	-
 
-1	Qué	qué	DE0CN0	-	-	242-245	689_QUEST_clinical_caseMIR	SENT3	-	-
-2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	246-257	689_QUEST_clinical_caseMIR	SENT3	-	-
-3	deberíamos	deber	VMIC1P0	-	-	258-268	689_QUEST_clinical_caseMIR	SENT3	-	-
-4	descartar	descartar	VMN0000	C0332196	calificador	269-278	689_QUEST_clinical_caseMIR	SENT3	-	-
-5	en	en	SPS00	C1279901_1	calificador_1	279-281	689_QUEST_clinical_caseMIR	SENT3	-	-
-6	primer	1	AO0MS0	C1279901_2	calificador_2	282-288	689_QUEST_clinical_caseMIR	SENT3	-	-
-7	lugar	lugar	NCMS000	C1279901_3	calificador_3	289-294	689_QUEST_clinical_caseMIR	SENT3	-	-
-8	y	y	CC	C1706368	calificador	295-296	689_QUEST_clinical_caseMIR	SENT3	-	-
-9	con	con	SPS00	C0332287	atributo	297-300	689_QUEST_clinical_caseMIR	SENT3	-	-
-10	qué	qué	DT0CN0	-	-	301-304	689_QUEST_clinical_caseMIR	SENT3	-	-
-11	técnica	técnico	NCFS000	C0260280	ocupación	305-312	689_QUEST_clinical_caseMIR	SENT3	-	-
-12	.	.	Fp	-	-	312-313	689_QUEST_clinical_caseMIR	SENT3	-	-
+1	¿	¿	Fia	-	-	242-243	689_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	243-246	689_QUEST_clinical_caseMIR	SENT3	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	247-258	689_QUEST_clinical_caseMIR	SENT3	-	-
+4	deberíamos	deber	VMIC1P0	-	-	259-269	689_QUEST_clinical_caseMIR	SENT3	-	-
+5	descartar	descartar	VMN0000	C0332196	calificador	270-279	689_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1279901_1	calificador_1	280-282	689_QUEST_clinical_caseMIR	SENT3	-	-
+7	primer	1	AO0MS0	C1279901_2	calificador_2	283-289	689_QUEST_clinical_caseMIR	SENT3	-	-
+8	lugar	lugar	NCMS000	C1279901_3	calificador_3	290-295	689_QUEST_clinical_caseMIR	SENT3	-	-
+9	y	y	CC	C1706368	calificador	296-297	689_QUEST_clinical_caseMIR	SENT3	-	-
+10	con	con	SPS00	C0332287	atributo	298-301	689_QUEST_clinical_caseMIR	SENT3	-	-
+11	qué	qué	PT0CN000	-	-	302-305	689_QUEST_clinical_caseMIR	SENT3	-	-
+12	técnica	técnico	AQ0FS0	C0260280	ocupación	306-313	689_QUEST_clinical_caseMIR	SENT3	-	-
+13	?	?	Fit	-	-	313-314	689_QUEST_clinical_caseMIR	SENT3	-	-
+14	:	:	Fd	-	-	314-315	689_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	315-316	689_QUEST_clinical_caseMIR	SENT3	-	-
 

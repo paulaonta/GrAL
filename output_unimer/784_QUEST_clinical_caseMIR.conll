@@ -1,14 +1,23 @@
-1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	784_QUEST_clinical_caseMIR	SENT1	-	-
-2	de	de	SPS00	C0332285	atributo	6-8	784_QUEST_clinical_caseMIR	SENT1	-	-
-3	70	70		-	-	9-11	784_QUEST_clinical_caseMIR	SENT1	-	-
-4	años	año	NCMP000	C0439234	calificador	12-16	784_QUEST_clinical_caseMIR	SENT1	-	-
-5	que	que	PR0CN000	-	-	17-20	784_QUEST_clinical_caseMIR	SENT1	-	-
-6	acude	acudir	VMIP3S0	-	-	21-26	784_QUEST_clinical_caseMIR	SENT1	-	-
-7	a	a	SPS00	-	-	27-28	784_QUEST_clinical_caseMIR	SENT1	-	-
-8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	784_QUEST_clinical_caseMIR	SENT1	-	-
-9	por	por	SPS00	C0678226	atributo	39-42	784_QUEST_clinical_caseMIR	SENT1	-	-
-10	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	43-50	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
-11	.	.	Fp	-	-	50-51	784_QUEST_clinical_caseMIR	SENT1	-	-
+1	El	el	DA0MS0	-	-	0-2	784_QUEST_clinical_caseMIR	SENT1	-	-
+2	anión	anión	NCMS000	C0003074_1	entidad_observable_1	3-8	784_QUEST_clinical_caseMIR	SENT1	-	-
+3	gap	gap	NCMS000	C0003074_2	entidad_observable_2	9-12	784_QUEST_clinical_caseMIR	SENT1	-	-
+4	es	ser	VSIP3S0	-	-	13-15	784_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	16-18	784_QUEST_clinical_caseMIR	SENT1	-	-
+6	17	17		-	-	19-21	784_QUEST_clinical_caseMIR	SENT1	-	-
+7	mmol	milimol	NC00YL0	C0439190	calificador	22-26	784_QUEST_clinical_caseMIR	SENT1	-	-
+8	/	/	Fh	-	-	26-27	784_QUEST_clinical_caseMIR	SENT1	-	-
+9	L.	l.	NCFS000	-	-	27-29	784_QUEST_clinical_caseMIR	SENT1	-	-
+10	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	784_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	6-8	784_QUEST_clinical_caseMIR	SENT1	-	-
+12	70	70		-	-	9-11	784_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	12-16	784_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	17-20	784_QUEST_clinical_caseMIR	SENT1	-	-
+15	acude	acudir	VMIP3S0	-	-	21-26	784_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	27-28	784_QUEST_clinical_caseMIR	SENT1	-	-
+17	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	784_QUEST_clinical_caseMIR	SENT1	-	-
+18	por	por	SPS00	C0678226	atributo	39-42	784_QUEST_clinical_caseMIR	SENT1	-	-
+19	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	43-50	784_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	.	.	Fp	-	-	50-51	784_QUEST_clinical_caseMIR	SENT1	-	-
 
 1	En	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	784_QUEST_clinical_caseMIR	SENT2	-	-
 2	el	el	DA0MS0	-	-	55-57	784_QUEST_clinical_caseMIR	SENT2	-	-
@@ -74,5 +83,6 @@
 2	la	el	DA0FS0	-	-	378-380	784_QUEST_clinical_caseMIR	SENT5	-	-
 3	respuesta	respuesta	NCFS000	-	-	381-390	784_QUEST_clinical_caseMIR	SENT5	-	-
 4	correcta	correcto	AQ0FS0	C0205170	calificador	391-399	784_QUEST_clinical_caseMIR	SENT5	-	-
-5	.	.	Fp	-	-	399-400	784_QUEST_clinical_caseMIR	SENT5	-	-
+5	:	:	Fd	-	-	399-400	784_QUEST_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	400-401	784_QUEST_clinical_caseMIR	SENT5	-	-
 

@@ -97,7 +97,7 @@
 15	altas	alto	AQ0FP0	C0205250	calificador	501-506	107_QUEST_clinical_caseMIR	SENT5	-	-
 16	(	(	Fpa	-	-	507-508	107_QUEST_clinical_caseMIR	SENT5	-	-
 17	50/500mg	50/500mg		-	-	508-516	107_QUEST_clinical_caseMIR	SENT5	-	-
-18	.	.	Fp	-	-	516-517	107_QUEST_clinical_caseMIR	SENT5	-	-
+18	:	:	Fd	-	-	516-517	107_QUEST_clinical_caseMIR	SENT5	-	-
 19	2	2		-	-	518-519	107_QUEST_clinical_caseMIR	SENT5	-	-
 20	inhalaciones	inhalación	NCFP000	C0004048	entidad_observable#función	520-532	107_QUEST_clinical_caseMIR	SENT5	-	-
 21	dos	dos		-	-	533-536	107_QUEST_clinical_caseMIR	SENT5	-	-
@@ -122,13 +122,15 @@
 3	siguientes	siguiente	AQ0CP0	C0332282	atributo	616-626	107_QUEST_clinical_caseMIR	SENT6	-	-
 4	opciones	opción	NCFP000	-	-	627-635	107_QUEST_clinical_caseMIR	SENT6	-	-
 5	,	,	Fc	-	-	635-636	107_QUEST_clinical_caseMIR	SENT6	-	-
-6	.	.	Fp	-	-	637-638	107_QUEST_clinical_caseMIR	SENT6	-	-
-7	cuál	cuál	PT0CS000	-	-	639-643	107_QUEST_clinical_caseMIR	SENT6	-	-
-8	es	ser	VSIP3S0	-	-	644-646	107_QUEST_clinical_caseMIR	SENT6	-	-
-9	la	el	DA0FS0	-	-	647-649	107_QUEST_clinical_caseMIR	SENT6	-	-
-10	actitud	actitud	NCFS000	C0004271	entidad_observable	650-657	107_QUEST_clinical_caseMIR	SENT6	-	-
-11	terapéutica	terapéutico	AQ0FS0	-	-	658-669	107_QUEST_clinical_caseMIR	SENT6	-	-
-12	más	más	RG	C0205172	calificador	670-673	107_QUEST_clinical_caseMIR	SENT6	-	-
-13	aconsejable	aconsejable	AQ0CS0	-	-	674-685	107_QUEST_clinical_caseMIR	SENT6	-	-
-14	.	.	Fp	-	-	685-686	107_QUEST_clinical_caseMIR	SENT6	-	-
+6	¿	¿	Fia	-	-	637-638	107_QUEST_clinical_caseMIR	SENT6	-	-
+7	cuál	cuál	PT0CS000	-	-	638-642	107_QUEST_clinical_caseMIR	SENT6	-	-
+8	es	ser	VSIP3S0	-	-	643-645	107_QUEST_clinical_caseMIR	SENT6	-	-
+9	la	el	DA0FS0	-	-	646-648	107_QUEST_clinical_caseMIR	SENT6	-	-
+10	actitud	actitud	NCFS000	C0004271	entidad_observable	649-656	107_QUEST_clinical_caseMIR	SENT6	-	-
+11	terapéutica	terapéutico	AQ0FS0	-	-	657-668	107_QUEST_clinical_caseMIR	SENT6	-	-
+12	más	más	RG	C0205172	calificador	669-672	107_QUEST_clinical_caseMIR	SENT6	-	-
+13	aconsejable	aconsejable	AQ0CS0	-	-	673-684	107_QUEST_clinical_caseMIR	SENT6	-	-
+14	?	?	Fit	-	-	684-685	107_QUEST_clinical_caseMIR	SENT6	-	-
+15	:	:	Fd	-	-	685-686	107_QUEST_clinical_caseMIR	SENT6	-	-
+16	.	.	Fp	-	-	686-687	107_QUEST_clinical_caseMIR	SENT6	-	-
 

@@ -1,0 +1,12 @@
+1	Aplicar	aplicar	VMN0000	C1632850	calificador	0-7	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	oxigeno	oxigenar	VMIP1S0	-	-	8-15	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	16-19	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	alto	alto	AQ0MS0	C0205250	calificador	20-24	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	flujo+	flujo+	NCMS000	-	-	25-31	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	32-43	580(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	IV.	iv.	AQ0CS00	-	-	44-47	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	Hipercolesterolemia	hipercolesterolemia	NCFS000	C0020445_1	trastorno_1	0-19	580(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	familiar	familiar	NCMS000	C0020445_2	trastorno_2	20-28	580(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+10	heterocigota	heterocigota	NCFS000	-	-	29-41	580(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	.	.	Fp	-	-	41-42	580(0)_ANS_clinical_caseMIR	SENT1	-	-
+

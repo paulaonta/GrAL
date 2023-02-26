@@ -93,18 +93,21 @@
 7	normal	normal	AQ0CS0	C0205307	calificador	553-559	714_QUEST_clinical_caseMIR	SENT5	-	-
 8	.	.	Fp	-	-	559-560	714_QUEST_clinical_caseMIR	SENT5	-	-
 
-1	Cuál	cuál	PT0CS000	-	-	561-565	714_QUEST_clinical_caseMIR	SENT6	-	-
-2	es	ser	VSIP3S0	-	-	566-568	714_QUEST_clinical_caseMIR	SENT6	-	-
-3	,	,	Fc	-	-	568-569	714_QUEST_clinical_caseMIR	SENT6	-	-
-4	con	con	SPS00	C0332287	atributo	570-573	714_QUEST_clinical_caseMIR	SENT6	-	-
-5	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	574-579	714_QUEST_clinical_caseMIR	SENT6	-	-
-6	probabilidad	probabilidad	NCFS000	-	-	580-592	714_QUEST_clinical_caseMIR	SENT6	-	-
-7	,	,	Fc	-	-	592-593	714_QUEST_clinical_caseMIR	SENT6	-	-
-8	el	el	DA0MS0	-	-	594-596	714_QUEST_clinical_caseMIR	SENT6	-	-
-9	causante	causante	NCMS000	-	-	597-605	714_QUEST_clinical_caseMIR	SENT6	-	-
-10	del	del	SP+DA	-	-	606-609	714_QUEST_clinical_caseMIR	SENT6	-	-
-11	cuadro	cuadro	NCMS000	-	-	610-616	714_QUEST_clinical_caseMIR	SENT6	-	-
-12	clínico	clínico	AQ0MS0	C0205210	calificador	617-624	714_QUEST_clinical_caseMIR	SENT6	-	-
-13	descrito	describir	VMP00SM	-	-	625-633	714_QUEST_clinical_caseMIR	SENT6	-	-
-14	.	.	Fp	-	-	633-634	714_QUEST_clinical_caseMIR	SENT6	-	-
+1	¿	¿	Fia	-	-	561-562	714_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	562-566	714_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	567-569	714_QUEST_clinical_caseMIR	SENT6	-	-
+4	,	,	Fc	-	-	569-570	714_QUEST_clinical_caseMIR	SENT6	-	-
+5	con	con	SPS00	C0332287	atributo	571-574	714_QUEST_clinical_caseMIR	SENT6	-	-
+6	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	575-580	714_QUEST_clinical_caseMIR	SENT6	-	-
+7	probabilidad	probabilidad	NCFS000	-	-	581-593	714_QUEST_clinical_caseMIR	SENT6	-	-
+8	,	,	Fc	-	-	593-594	714_QUEST_clinical_caseMIR	SENT6	-	-
+9	el	el	DA0MS0	-	-	595-597	714_QUEST_clinical_caseMIR	SENT6	-	-
+10	causante	causante	NCMS000	-	-	598-606	714_QUEST_clinical_caseMIR	SENT6	-	-
+11	del	del	SP+DA	-	-	607-610	714_QUEST_clinical_caseMIR	SENT6	-	-
+12	cuadro	cuadro	NCMS000	-	-	611-617	714_QUEST_clinical_caseMIR	SENT6	-	-
+13	clínico	clínico	AQ0MS0	C0205210	calificador	618-625	714_QUEST_clinical_caseMIR	SENT6	-	-
+14	descrito	describir	VMP00SM	-	-	626-634	714_QUEST_clinical_caseMIR	SENT6	-	-
+15	?	?	Fit	-	-	634-635	714_QUEST_clinical_caseMIR	SENT6	-	-
+16	:	:	Fd	-	-	635-636	714_QUEST_clinical_caseMIR	SENT6	-	-
+17	.	.	Fp	-	-	636-637	714_QUEST_clinical_caseMIR	SENT6	-	-
 

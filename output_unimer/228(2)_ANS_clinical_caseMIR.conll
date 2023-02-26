@@ -1,0 +1,26 @@
+1	Si	si	CS	-	-	0-2	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	3-5	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	test	test	NCMS000	-	-	6-10	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	11-13	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	ELISA	enzyme-linked_immunosorbent_assay_(análisis_de_inmunoabsorción_ligada_a_las_enzimas)	NC00YL0	-	-	14-19	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	20-22	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	23-25	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	26-34	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	fuera	ser	VSSI3S0	-	-	35-40	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	positivo	positivo	AQ0MS0	C1446409	calificador	41-49	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	49-50	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	no	no	RN	C1298908	calificador	51-53	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	sería	ser	VSIC1S0	-	-	54-59	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	necesario	necesario	AQ0MS0	-	-	60-69	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	realizar	realizar	VMN0000	-	-	70-78	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	nada	nada	PI0CS000	C0442734#C0442735	calificador	79-83	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	más	más	RG	C0205172	calificador	84-87	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	para	para	SPS00	C0521125	calificador	88-92	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	el	el	DA0MS0	-	-	93-95	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	96-107	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	108-110	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	infección	infección	NCFS000	C0019693_1	trastorno_1	111-120	228(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	por	por	SPS00	C0019693_2	trastorno_2	121-124	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+24	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0019693_3	trastorno_3	125-128	228(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	.	.	Fp	-	-	128-129	228(2)_ANS_clinical_caseMIR	SENT1	-	-
+
