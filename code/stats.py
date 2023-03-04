@@ -16,7 +16,7 @@ sin_pos_noUMLS = 2
 gaiSin_pos_noUMLS = 3
 
 #COMPARE QUESTIONS IN ENGLISH AND SPANISH
-csv_path_es = "./data/questions/QUEST_clinical_caseMIR.csv"
+csv_path_es = "./data/questions/QUEST_clinical_caseMIR_WITH_le.csv"
 csv_path_en = "./data/questions/QUEST_clinical_caseMIR_english.csv"
 
 # open the data csv file
@@ -28,17 +28,22 @@ for line_es in mycsv_es:
     if first:
         first = False
     else:
-        gaixotasun_kop_es += len(line_es[gaix_pos])
-        sintoma_kop_es += len(line_es[sin_pos])
-        gaixSin_kop_es += len(line_es[gaiSin_pos])
+        if len(line_es[gaix_pos]) > 0:
+            gaixotasun_kop_es += len(line_es[gaix_pos].split(","))
+        if len(line_es[sin_pos]) > 0:
+            sintoma_kop_es += len(line_es[sin_pos].split(","))
+        if len(line_es[gaix_pos]) > 0:
+            gaixSin_kop_es += len(line_es[gaiSin_pos].split(","))
 
 first = True
 for line_en in mycsv_en:
     if first:
         first = False
     else:
-        gaixotasun_kop_en += len(line_en[gaix_pos])
-        sintoma_kop_en += len(line_en[sin_pos])
+        if len(line_en[gaix_pos]) > 0:
+            gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
+        if len(line_en[sin_pos]) > 0:
+            sintoma_kop_en += len(line_en[sin_pos].split(","))
 
 print("Number of diseases in spanish: " + str(gaixotasun_kop_es))
 print("Number of diseases in english: " + str(gaixotasun_kop_en))
@@ -73,8 +78,10 @@ for i in range(max_cases):#iterate cases
             if first:
                 first = False
             else:
-                gaixotasun_kop_en += len(line_en[gaix_pos])
-                sintoma_kop_en += len(line_en[sin_pos])
+                if len(line_en[gaix_pos]) > 0:
+                    gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
+                if len(line_en[sin_pos]) > 0:
+                    sintoma_kop_en += len(line_en[sin_pos].split(","))
 
                 if len(line_en[gaix_pos]) != 0 or len(line_en[sin_pos]) != 0:
                     aldatu = True
@@ -91,9 +98,12 @@ for i in range(max_cases):#iterate cases
         if first:
             first = False
         else:
-            gaixotasun_kop_es += len(line_es_umls[gaix_pos])
-            sintoma_kop_es += len(line_es_umls[sin_pos])
-            gaixSin_kop_es += len(line_es_umls[gaiSin_pos])
+            if len(line_es_umls[gaix_pos]) > 0:
+                gaixotasun_kop_es += len(line_es_umls[gaix_pos].split(","))
+            if len(line_es_umls[sin_pos]) > 0:
+                sintoma_kop_es += len(line_es_umls[sin_pos].split(","))
+            if len(line_es_umls[gaiSin_pos]) > 0:
+                gaixSin_kop_es += len(line_es_umls[gaiSin_pos].split(","))
 
             if len(line_es_umls[gaix_pos]) != 0 or len(line_es_umls[sin_pos]) != 0 or len(line_es_umls[gaiSin_pos]) != 0:
                 aldatu = True
@@ -103,9 +113,12 @@ for i in range(max_cases):#iterate cases
         if first:
             first = False
         else:
-            gaixotasun_kop_es_NO_umls += len(line_es_no_umls[gaix_pos_noUMLS])
-            sintoma_kop_es_NO_umls += len(line_es_no_umls[sin_pos_noUMLS])
-            gaixSin_kop_es_NO_umls += len(line_es_no_umls[gaiSin_pos_noUMLS])
+            if len(line_es_no_umls[gaix_pos_noUMLS]) > 0:
+                gaixotasun_kop_es_NO_umls += len(line_es_no_umls[gaix_pos_noUMLS].split(","))
+            if len(line_es_no_umls[sin_pos_noUMLS]) > 0:
+                sintoma_kop_es_NO_umls += len(line_es_no_umls[sin_pos_noUMLS].split(","))
+            if len(line_es_no_umls[gaiSin_pos_noUMLS]) > 0:
+                gaixSin_kop_es_NO_umls += len(line_es_no_umls[gaiSin_pos_noUMLS].split(","))
 
             if len(line_es_no_umls[gaix_pos_noUMLS]) != 0 or len(line_es_no_umls[sin_pos_noUMLS]) != 0 or len(line_es_no_umls[gaiSin_pos_noUMLS]) != 0:
                 aldatu = True

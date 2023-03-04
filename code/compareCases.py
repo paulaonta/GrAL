@@ -13,6 +13,16 @@ gaix_pos_noUMLS = 1
 sin_pos_noUMLS = 2
 gaiSin_pos_noUMLS = 3
 
+gaixBAI_pos = 1
+gaixEZ_pos = 2
+sinBAI_pos = 3
+sinEZ_pos = 4
+gaixSinBAI_pos = 5
+gaixSinEZ_pos = 6
+
+file_name_es = "_ANS_clinical_caseMIR.csv"
+file_name_en = "_ANS_clinical_caseMIR_english.csv"
+
 def createFile(path):
     mydirname = './' + path
     if not os.path.exists(mydirname):
@@ -21,9 +31,11 @@ def createFile(path):
 def unique(list1):
     x = np.array(list1)
     return np.unique(x)
+
 def remove_(str):
     elem = str.split("_")
     return elem[0]
+
 def convert_2_correct_format(lista):
     return_lista = []
     for l in lista.split(","):
@@ -36,39 +48,54 @@ def convert_2_correct_format(lista):
         else:
             return_lista.append(remove_(l))
     return  return_lista
+
 def compareUMLSlist(lista1, lista2, listaBAI, listaEZ):
     for elem in lista1:
         if elem in lista2:
             listaBAI.append(elem)
         else:
             listaEZ.append(elem)
+    for elem in lista2:
+        if elem in lista1 and elem not in listaBAI:
+            listaBAI.append(elem)
+        elif not elem in lista1  and elem not in listaEZ:
+            listaEZ.append(elem)
     return listaBAI, listaEZ
 
-def writeQuest(cont, gaixotasuna, sintoma, gaixSin, writer, mycsv):
-    cont1 = 0
+def write(cont, gaixotasuna, sintoma, gaixSin, writer, path):
+    mycsv = csv.reader(open(path))  # open
+    cont1 = -1
     gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ = [], [], [], [], [], []
     for line in mycsv:
         if cont1 == cont:
             gaixotasuna1 = line[gaix_pos+1] #get the code
             gaixotasunakBAI, gaixotasunakEZ = compareUMLSlist(gaixotasuna, gaixotasuna1.split(","), gaixotasunakBAI, gaixotasunakEZ)
+
             sintoma1 = line[sin_pos+1] #get the code
             sintomaBAI, sintomaEZ = compareUMLSlist(sintoma, sintoma1.split(","), sintomaBAI, sintomaEZ)
-            gaixSin1 = line[gaiSin_pos+1] #get the code
-            gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, gaixSin1.split(","), gaixSinBAI, gaixSinEZ)
+
+            if sintoma1 != None and gaixotasuna1 != None:
+                gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, list(gaixotasuna1.split(",")) + list(sintoma1.split(",")), gaixSinBAI, gaixSinEZ)
+            elif gaixotasuna1 != None:
+                gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, gaixotasuna1.split(","), gaixSinBAI, gaixSinEZ)
+            elif sintoma1 != None:
+                gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, sintoma1.split(","), gaixSinBAI, gaixSinEZ)
+
             row = [str(cont), ",".join(gaixotasunakBAI), ",".join(gaixotasunakEZ), ",".join(sintomaBAI), ",".join(sintomaEZ),
                ",".join(gaixSinBAI), ",".join(gaixSinEZ)]
             writer.writerow(row)
-    return writer
-def compareAndWriteQuest(path1, parth2, output_path):
+            break
+        cont1 += 1
+
+def compareAndWriteQuest(path1, path2, output_path):
     mycsv1 = csv.reader(open(path1))  # open
-    mycsv2 = csv.reader(open(parth2))  # open
     myFile = open(output_path, 'w')
     writer = csv.writer(myFile)
     first_line = ["KasuZbkia", "GaixotasunakBAI", "GaixotasunakEZ", "SintomaBAI", "SintomaEZ", "GaixSinBAI", "GaixSinEZ"]
     writer.writerow(first_line)
 
     first = True
-    cont = 0
+    cont = -1
     for line in mycsv1:
         if first:
             first = False
@@ -81,11 +108,31 @@ def compareAndWriteQuest(path1, parth2, output_path):
 
             gaixSin_aux = line[gaiSin_pos+1] #get the code
             gaixSin = convert_2_correct_format(gaixSin_aux)
-
-            writer = writeQuest(cont, gaixotasuna, sintoma, gaixSin, writer, mycsv2)
+            write(cont, gaixotasuna, sintoma, gaixSin, writer, path2)
         cont += 1
 
-def compareQuest(csv_path_es, csv_path_en, equals_arg = None):
+def count_compare_file(path, gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ):
+    mycsv_compare = csv.reader(open(path)) # open
+    first = True
+    for line in mycsv_compare:
+        if first:
+            first = False
+        else:
+            if len(line[gaixBAI_pos]) > 0:
+                gaixotasunakBAI += len(line[gaixBAI_pos].split(","))
+            if len(line[gaixEZ_pos]) > 0:
+                gaixotasunakEZ += len(line[gaixEZ_pos].split(","))
+            if len(line[sinBAI_pos]) > 0:
+                sintomaBAI += len(line[sinBAI_pos].split(","))
+            if len(line[sinEZ_pos]) > 0:
+                sintomaEZ += len(line[sinEZ_pos].split(","))
+            if len(line[gaixSinBAI_pos]) > 0:
+                gaixSinBAI += len(line[gaixSinBAI_pos].split(","))
+            if len(line[gaixSinEZ_pos]) > 0:
+                gaixSinEZ += len(line[gaixSinEZ_pos].split(","))
+    return gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ
+
+def compareQuest(csv_path_en, csv_path_es, equals_arg = None):
     #COMPARE QUESTIONS IN ENGLISH AND SPANISH
     gaixotasun_kop_es, gaixotasun_kop_es_NO_umls, gaixotasun_kop_en = 0, 0, 0
     sintoma_kop_es, sintoma_kop_es_NO_umls, sintoma_kop_en = 0, 0, 0
@@ -105,32 +152,81 @@ def compareQuest(csv_path_es, csv_path_en, equals_arg = None):
         if first:
             first = False
         else:
-            gaixotasun_kop_es += len(line_es[gaix_pos])
-            sintoma_kop_es += len(line_es[sin_pos])
-            gaixSin_kop_es += len(line_es[gaiSin_pos])
+            if len(line_es[gaix_pos]) > 0:
+                gaixotasun_kop_es += len(line_es[gaix_pos].split(","))
+            if len(line_es[sin_pos]) > 0:
+                sintoma_kop_es += len(line_es[sin_pos].split(","))
+            if len(line_es[gaix_pos]) > 0:
+                gaixSin_kop_es += len(line_es[gaiSin_pos].split(","))
 
     first = True
     for line_en in mycsv_en:
         if first:
             first = False
         else:
-            gaixotasun_kop_en += len(line_en[gaix_pos])
-            sintoma_kop_en += len(line_en[sin_pos])
+            if len(line_en[gaix_pos]) > 0:
+                gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
+            if len(line_en[sin_pos]) > 0:
+                sintoma_kop_en += len(line_en[sin_pos].split(","))
 
     print("Number of diseases in spanish: " + str(gaixotasun_kop_es))
     print("Number of diseases in english: " + str(gaixotasun_kop_en))
     print("Number of signs in spanish: " + str(sintoma_kop_es))
     print("Number of signs in english: " + str(sintoma_kop_en))
     print("Number of signs or diseases in spanish: " + str(gaixSin_kop_es) +"\n")
-def compareAns(csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_no_umls, max_cases):
-    #COMPARE ANSWERS IN ENGLISH AND SPANISH
-    file_name_es = "_ANS_clinical_caseMIR.csv"
-    file_name_en = "_ANS_clinical_caseMIR_english.csv"
 
+    ####################################################
+    if equals_arg:
+        gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ = 0, 0, 0, 0, 0, 0
+        gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ = count_compare_file(
+            output_path, gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ)
+
+        print("Number of common diseases: " +str(gaixotasunakBAI))
+        print("Number of NOT common diseases: " + str(gaixotasunakEZ))
+        print("Number of common signs: " +str(sintomaBAI))
+        print("Number of NOT common signs: " + str(sintomaEZ))
+        print("NUmber of common diseases or signs: " +str(gaixSinBAI))
+        print("Number of NOT common diseases or signs: " + str(gaixSinEZ))
+
+def compareAndWriteAns(path1, path2, output_path, output_file_name, max_cases):
+    for i in range(max_cases):  # iterate cases
+        # open the data csv file
+        mycsv_es_umls = csv.reader(open(path2 + str(i) + file_name_es))  # open
+
+        myFile = open(output_path + str(i) + output_file_name, 'w')
+        writer = csv.writer(myFile)
+        first_line = ["KasuZbkia", "GaixotasunakBAI", "GaixotasunakEZ", "SintomaBAI", "SintomaEZ", "GaixSinBAI","GaixSinEZ"]
+        writer.writerow(first_line)
+
+        first = True
+        cont = -1
+        for line in mycsv_es_umls:
+            if first:
+                first = False
+            else:
+                gaixotasuna_aux = line[gaix_pos + 1]  # get the code
+                gaixotasuna = convert_2_correct_format(gaixotasuna_aux)
+
+                sintoma_aux = line[sin_pos + 1]  # get the code
+                sintoma = convert_2_correct_format(sintoma_aux)
+
+                gaixSin_aux = line[gaiSin_pos + 1]  # get the code
+                gaixSin = convert_2_correct_format(gaixSin_aux)
+                write(cont, gaixotasuna, sintoma, gaixSin, writer, path1 + str(i) + file_name_en)
+            cont += 1
+
+def compareAns( csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_no_umls, max_cases, equals_arg = None):
+    #COMPARE ANSWERS IN ENGLISH AND SPANISH
     gaixotasun_kop_es, gaixotasun_kop_es_NO_umls, gaixotasun_kop_en = 0, 0, 0
     sintoma_kop_es, sintoma_kop_es_NO_umls, sintoma_kop_en = 0, 0, 0
     gaixSin_kop_es, gaixSin_kop_es_NO_umls = 0 , 0
     empty_en, empty_es = [], []
+
+    if equals_arg:
+        output_path = "./COMPARE_ANS/"
+        output_file_name = "ANS_compare.csv"
+        createFile(output_path)
+        compareAndWriteAns(csv_path_en_folder, csv_path_es_folder_umls, output_path, output_file_name, max_cases)
 
     for i in range(max_cases):#iterate cases
         aldatu = False
@@ -145,8 +241,10 @@ def compareAns(csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_n
                 if first:
                     first = False
                 else:
-                    gaixotasun_kop_en += len(line_en[gaix_pos])
-                    sintoma_kop_en += len(line_en[sin_pos])
+                    if len(line_en[gaix_pos]) > 0:
+                        gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
+                    if len(line_en[sin_pos]) > 0:
+                        sintoma_kop_en += len(line_en[sin_pos].split(","))
 
                     if len(line_en[gaix_pos]) != 0 or len(line_en[sin_pos]) != 0:
                         aldatu = True
@@ -163,9 +261,12 @@ def compareAns(csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_n
             if first:
                 first = False
             else:
-                gaixotasun_kop_es += len(line_es_umls[gaix_pos])
-                sintoma_kop_es += len(line_es_umls[sin_pos])
-                gaixSin_kop_es += len(line_es_umls[gaiSin_pos])
+                if len(line_es_umls[gaix_pos]) > 0:
+                    gaixotasun_kop_es += len(line_es_umls[gaix_pos].split(","))
+                if len(line_es_umls[sin_pos]) > 0:
+                    sintoma_kop_es += len(line_es_umls[sin_pos].split(","))
+                if len(line_es_umls[gaiSin_pos]) > 0:
+                    gaixSin_kop_es += len(line_es_umls[gaiSin_pos].split(","))
 
                 if len(line_es_umls[gaix_pos]) != 0 or len(line_es_umls[sin_pos]) != 0 or len(line_es_umls[gaiSin_pos]) != 0:
                     aldatu = True
@@ -175,9 +276,12 @@ def compareAns(csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_n
             if first:
                 first = False
             else:
-                gaixotasun_kop_es_NO_umls += len(line_es_no_umls[gaix_pos_noUMLS])
-                sintoma_kop_es_NO_umls += len(line_es_no_umls[sin_pos_noUMLS])
-                gaixSin_kop_es_NO_umls += len(line_es_no_umls[gaiSin_pos_noUMLS])
+                if len(line_es_no_umls[gaix_pos_noUMLS]) > 0:
+                    gaixotasun_kop_es_NO_umls += len(line_es_no_umls[gaix_pos_noUMLS].split(","))
+                if len(line_es_no_umls[sin_pos_noUMLS]) > 0:
+                    sintoma_kop_es_NO_umls += len(line_es_no_umls[sin_pos_noUMLS].split(","))
+                if len(line_es_no_umls[gaiSin_pos_noUMLS]) > 0:
+                    gaixSin_kop_es_NO_umls += len(line_es_no_umls[gaiSin_pos_noUMLS].split(","))
 
                 if len(line_es_no_umls[gaix_pos_noUMLS]) != 0 or len(line_es_no_umls[sin_pos_noUMLS]) != 0 or len(line_es_no_umls[gaiSin_pos_noUMLS]) != 0:
                     aldatu = True
@@ -196,6 +300,20 @@ def compareAns(csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_n
     print("Number of signs or diseases in spanish with NO UMLS: " + str(gaixSin_kop_es_NO_umls))
     print("Empty cases in spanish: " + str(len(empty_es)) + ": " + ",".join(empty_es))
     print("\nEmpty cases in english: " + str(len(empty_en)) + ": "  + ",".join(empty_en))
+
+    ####################################################
+    if equals_arg:
+        gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ = 0, 0, 0, 0, 0, 0
+        for i in range(max_cases):  # iterate cases
+            gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ = count_compare_file(
+            output_path + str(i) + output_file_name ,gaixotasunakBAI, gaixotasunakEZ, sintomaBAI, sintomaEZ, gaixSinBAI, gaixSinEZ)
+        print("\nNumber of common diseases: " + str(gaixotasunakBAI))
+        print("Number of NOT common diseases: " + str(gaixotasunakEZ))
+        print("Number of common signs: " + str(sintomaBAI))
+        print("Number of NOT common signs: " + str(sintomaEZ))
+        print("NUmber of common diseases or signs: " + str(gaixSinBAI))
+        print("Number of NOT common diseases or signs: " + str(gaixSinEZ))
+
 def count_files(dir_path):
     count = 0
     # Iterate directory
@@ -204,6 +322,7 @@ def count_files(dir_path):
         if os.path.isfile(os.path.join(dir_path, path)):
             count += 1
     return count
+
 def main(input_path1: str, input_path2: str, input_path3:str, mode:str, equals_arg=None):
     if mode == "Q" or mode == "q":
         if os.path.isfile(input_path1) and os.path.isfile(input_path2) and input_path1.find(".csv") != -1 and input_path2.find(".csv") != -1: #if it is question mode and they are .csv files
@@ -232,7 +351,7 @@ def main(input_path1: str, input_path2: str, input_path3:str, mode:str, equals_a
                 input_path2 += "/"
             if input_path3[-1] != "/":
                 input_path3 += "/"
-            compareAns(input_path1, input_path2, input_path3, max_files)#,equals_arg)
+            compareAns(input_path1, input_path2, input_path3, max_files, equals_arg)
         else:
             print("If it is answer mode, you have to enter the path of three directories.")
     else:
@@ -241,7 +360,7 @@ def main(input_path1: str, input_path2: str, input_path3:str, mode:str, equals_a
 if __name__ == '__main__':
     # Example usage of the main function
     if len(sys.argv) != 5 and len(sys.argv) != 6:
-        print("Usage: {} input_source1 input_source2 input_source3 (-1 when it is question mode) mode (--equals_arg)".format(sys.argv[0]))
+        print("Usage: {} input_sourceEN input_sourceES input_sourceES (-1 when it is question mode) mode (--equals_arg)".format(sys.argv[0]))
     else:
         parser = argparse.ArgumentParser()
         parser.add_argument("arg1", type=str, help="input source 1")
