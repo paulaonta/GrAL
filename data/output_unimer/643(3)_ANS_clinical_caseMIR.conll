@@ -1,0 +1,28 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	3-8	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	los	el	DA0MP0	-	-	9-12	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	pacientes	paciente	NCCP000	C0030705	persona	13-22	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	23-25	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	los	el	DA0MP0	-	-	26-29	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	30-33	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	se	se	P00CN000	-	-	34-36	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	sospeche	sospechar	VMSP3S0	-	-	37-45	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	46-49	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	trombosis	trombosis	NCFN000	C0042487_1	trastorno_1	50-59	643(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+12	venosa	venoso	AQ0FS0	C0042487_2	trastorno_2	60-66	643(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	aguda	agudo	AQ0FS0	C0205178	calificador	67-72	643(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+14	hay	haber	VMIP3S0	-	-	73-76	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	que	que	CS	-	-	77-80	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	realizar	realizar	VMN0000	-	-	81-89	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	90-92	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	forma	forma	NCFS000	C0348078	atributo	93-98	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	urgente	urgente	AQ0CS0	C0439609	calificador	99-106	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	una	una		C0205447_1	calificador_1	107-110	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	determinación	determinación	NCFS000	C0242485	procedimiento	111-124	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	125-127	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	dímeros-D	dímeros-d	NCFS000	-	-	128-137	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	para	para	SPS00	C0521125	calificador	138-142	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+25	el	el	DA0MS0	-	-	143-145	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	146-157	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	158-159	643(3)_ANS_clinical_caseMIR	SENT1	-	-
+

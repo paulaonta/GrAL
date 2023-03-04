@@ -1,0 +1,65 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	189_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	189_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	189_QUEST_clinical_caseMIR	SENT1	-	-
+4	27	27		-	-	13-15	189_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	189_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	189_QUEST_clinical_caseMIR	SENT1	-	-
+7	embarazada	embarazar	VMP00SF	-	-	22-32	189_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	33-35	189_QUEST_clinical_caseMIR	SENT1	-	-
+9	10	10		-	-	36-38	189_QUEST_clinical_caseMIR	SENT1	-	-
+10	semanas	semana	NCFP000	C0439230	calificador	39-46	189_QUEST_clinical_caseMIR	SENT1	-	-
+11	y	y	CC	C1706368	calificador	47-48	189_QUEST_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	49-52	189_QUEST_clinical_caseMIR	SENT1	-	-
+13	asma	asma	NCMS000	C0004096#C0085129#C1319018#C1260881	trastorno	53-57	189_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	alérgico	alérgico	AQ0MS0	-	-	58-66	189_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	grave	grave	AQ0CS0	C0439808#C0205082	calificador	67-72	189_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	persistente	persistente	AQ0CS0	C0205322#C0549178	calificador	73-84	189_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	.	.	Fp	-	-	84-85	189_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	189_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	89-91	189_QUEST_clinical_caseMIR	SENT2	-	-
+3	actualidad	actualidad	NCFS000	-	-	92-102	189_QUEST_clinical_caseMIR	SENT2	-	-
+4	está	estar	VAIP3S0	-	-	103-107	189_QUEST_clinical_caseMIR	SENT2	-	-
+5	adecuadamente	adecuadamente	RG	-	-	108-121	189_QUEST_clinical_caseMIR	SENT2	-	-
+6	controlada	controlar	VMP00SF	-	-	122-132	189_QUEST_clinical_caseMIR	SENT2	-	-
+7	con	con	SPS00	C0332287	atributo	133-136	189_QUEST_clinical_caseMIR	SENT2	-	-
+8	budesonida	budesonida	NC00SC0	C0054201	producto#sustancia	137-147	189_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	inhalada	inhalar	VMP00SF	-	-	148-156	189_QUEST_clinical_caseMIR	SENT2	-	-
+10	diaria	diario	AQ0FS0	C0332173	calificador	157-163	189_QUEST_clinical_caseMIR	SENT2	-	-
+11	y	y	CC	C1706368	calificador	164-165	189_QUEST_clinical_caseMIR	SENT2	-	-
+12	salbutamol	salbutamol	NC00SC0	C0001927	producto	166-176	189_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	inhalado	inhalar	VMP00SM	-	-	177-185	189_QUEST_clinical_caseMIR	SENT2	-	-
+14	a	a	SPS00	-	-	186-187	189_QUEST_clinical_caseMIR	SENT2	-	-
+15	demanda	demanda	NCFS000	C0441516	calificador	188-195	189_QUEST_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332285	atributo	196-198	189_QUEST_clinical_caseMIR	SENT2	-	-
+17	rescate	rescate	NCMS000	-	-	199-206	189_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	206-207	189_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	208-213	189_QUEST_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	214-215	189_QUEST_clinical_caseMIR	SENT3	-	-
+3	su	su	DP3CS0	-	-	216-218	189_QUEST_clinical_caseMIR	SENT3	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	219-227	189_QUEST_clinical_caseMIR	SENT3	-	-
+5	preocupada	preocupar	VMP00SF	-	-	228-238	189_QUEST_clinical_caseMIR	SENT3	-	-
+6	por	por	SPS00	C0678226	atributo	239-242	189_QUEST_clinical_caseMIR	SENT3	-	-
+7	los	el	DA0MP0	-	-	243-246	189_QUEST_clinical_caseMIR	SENT3	-	-
+8	posibles	posible	AQ0CP0	C0332149#C2362652	calificador	247-255	189_QUEST_clinical_caseMIR	SENT3	-	-
+9	efectos	efecto	NCMP000	C1704419#C1280500#C1280519	calificador	256-263	189_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	teratogénicos	teratogénico	AQ0MP0	-	-	264-277	189_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	278-280	189_QUEST_clinical_caseMIR	SENT3	-	-
+12	su	su	DP3CS0	-	-	281-283	189_QUEST_clinical_caseMIR	SENT3	-	-
+13	medicación	medicación	NCFS000	C0013227	sustancia	284-294	189_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+14	antiasmática	antiasmático	AQ0FS0	C0304440#C0282556	producto	295-307	189_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+15	.	.	Fp	-	-	307-308	189_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	309-310	189_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	310-314	189_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	315-317	189_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	318-321	189_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	322-332	189_QUEST_clinical_caseMIR	SENT4	-	-
+6	sería	ser	VSIC1S0	-	-	333-338	189_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	339-341	189_QUEST_clinical_caseMIR	SENT4	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	342-349	189_QUEST_clinical_caseMIR	SENT4	-	-
+9	corecta	corecto	AQ0FS0	-	-	350-357	189_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	357-358	189_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	358-359	189_QUEST_clinical_caseMIR	SENT4	-	-
+

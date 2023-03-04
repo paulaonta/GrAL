@@ -1,0 +1,118 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	98_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	98_QUEST_clinical_caseMIR	SENT1	-	-
+3	67	67		-	-	12-14	98_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	98_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	20-23	98_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedente	antecedente	NCMS000	C0332119_1	situación_1	24-35	98_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	36-38	98_QUEST_clinical_caseMIR	SENT1	-	-
+8	menopausia	menopausia	NCFS000	C0025320#C0567312	hallazgo#entidad_observable	39-49	98_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	a	a	SPS00	-	-	50-51	98_QUEST_clinical_caseMIR	SENT1	-	-
+10	los	el	DA0MP0	-	-	52-55	98_QUEST_clinical_caseMIR	SENT1	-	-
+11	55	55		-	-	56-58	98_QUEST_clinical_caseMIR	SENT1	-	-
+12	años	año	NCMP000	C0439234	calificador	59-63	98_QUEST_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	63-64	98_QUEST_clinical_caseMIR	SENT1	-	-
+14	3	3		-	-	65-66	98_QUEST_clinical_caseMIR	SENT1	-	-
+15	gestaciones	gestación	NCFP000	C0549206#C0032961#C0549169	hallazgo	67-78	98_QUEST_clinical_caseMIR	SENT1	-	-
+16	con	con	SPS00	C0332287	atributo	79-82	98_QUEST_clinical_caseMIR	SENT1	-	-
+17	3	3		-	-	83-84	98_QUEST_clinical_caseMIR	SENT1	-	-
+18	partos	parto	NCMP000	C1148523	entidad_observable	85-91	98_QUEST_clinical_caseMIR	SENT1	-	-
+19	eutócicos	eutócicos	AQ0MP00	-	-	92-101	98_QUEST_clinical_caseMIR	SENT1	-	-
+20	,	,	Fc	-	-	101-102	98_QUEST_clinical_caseMIR	SENT1	-	-
+21	diabetis	diabetis	NCFN000	-	-	103-111	98_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	tipo	tipo	NCMS000	C0441730_1	calificador_1	112-116	98_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+23	2	2	Z	C0441730_2	calificador_2	117-118	98_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+24	de	de	SPS00	C0332285	atributo	119-121	98_QUEST_clinical_caseMIR	SENT1	-	-
+25	6	6		-	-	122-123	98_QUEST_clinical_caseMIR	SENT1	-	-
+26	años	año	NCMP000	C0439234	calificador	124-128	98_QUEST_clinical_caseMIR	SENT1	-	-
+27	de	de	SPS00	C0332285	atributo	129-131	98_QUEST_clinical_caseMIR	SENT1	-	-
+28	evolución	evolución	NCFS000	-	-	132-141	98_QUEST_clinical_caseMIR	SENT1	-	-
+29	,	,	Fc	-	-	141-142	98_QUEST_clinical_caseMIR	SENT1	-	-
+30	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	143-154	98_QUEST_clinical_caseMIR	SENT1	-	-
+31	con	con	SPS00	C0332287	atributo	155-158	98_QUEST_clinical_caseMIR	SENT1	-	-
+32	nifedipono	nifedipono	NCMS000	-	-	159-169	98_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+33	por	por	SPS00	C0678226	atributo	170-173	98_QUEST_clinical_caseMIR	SENT1	-	-
+34	HTA.	hta.	NCFS000	-	-	174-178	98_QUEST_clinical_caseMIR	SENT1	-	-
+35	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	179-187	98_QUEST_clinical_caseMIR	SENT1	-	-
+36	por	por	SPS00	C1704447_2	calificador_2	188-191	98_QUEST_clinical_caseMIR	SENT1	-	-
+37	cuadro	cuadro	NCMS000	-	-	192-198	98_QUEST_clinical_caseMIR	SENT1	-	-
+38	de	de	SPS00	C0332285	atributo	199-201	98_QUEST_clinical_caseMIR	SENT1	-	-
+39	metrorràgia	metrorràgia	NCFS000	-	-	202-213	98_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+40	escassa	escassa	AQ0FS00	-	-	214-221	98_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+41	intermitente	intermitente	NCMS000	C0205267	calificador	222-234	98_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+42	de	de	SPS00	C0332285	atributo	235-237	98_QUEST_clinical_caseMIR	SENT1	-	-
+43	2	2		-	-	238-239	98_QUEST_clinical_caseMIR	SENT1	-	-
+44	meses	mes	NCMP000	C0439231	calificador	240-245	98_QUEST_clinical_caseMIR	SENT1	-	-
+45	de	de	SPS00	C0332285	atributo	246-248	98_QUEST_clinical_caseMIR	SENT1	-	-
+46	evolución	evolución	NCFS000	-	-	249-258	98_QUEST_clinical_caseMIR	SENT1	-	-
+47	.	.	Fp	-	-	258-259	98_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	260-262	98_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	263-265	98_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	266-277	98_QUEST_clinical_caseMIR	SENT2	-	-
+4	ginecológica	ginecológico	AQ0FS0	C0205480	calificador	278-290	98_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	291-293	98_QUEST_clinical_caseMIR	SENT2	-	-
+6	aprecian	apreciar	VMIP3P0	-	-	294-302	98_QUEST_clinical_caseMIR	SENT2	-	-
+7	unos	uno	DI0MP0	C0205447	calificador	303-307	98_QUEST_clinical_caseMIR	SENT2	-	-
+8	genitales	genitales	NCMP000	C1284477_1	estructura_corporal_1	308-317	98_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	externos	externo	NCMP000	C1284477_2	estructura_corporal_2	318-326	98_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	sin	sin	SPS00	C0332288	atributo	327-330	98_QUEST_clinical_caseMIR	SENT2	-	-
+11	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	331-339	98_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+12	,	,	Fc	-	-	339-340	98_QUEST_clinical_caseMIR	SENT2	-	-
+13	un	un		C0205447_1	calificador_1	341-343	98_QUEST_clinical_caseMIR	SENT2	-	-
+14	cérvix	cérvix	NCMN000	-	-	344-350	98_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+15	de	de	SPS00	C0332285	atributo	351-353	98_QUEST_clinical_caseMIR	SENT2	-	-
+16	aspecto	aspecto	NCMS000	C0700364#C0233426#C0332441	calificador#función	354-361	98_QUEST_clinical_caseMIR	SENT2	-	-
+17	atrófico	atrófico	AQ0MS0	C0333641#C0037154	anomalía_morfológica	362-370	98_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	,	,	Fc	-	-	370-371	98_QUEST_clinical_caseMIR	SENT2	-	-
+19	un	un		C0205447_1	calificador_1	372-374	98_QUEST_clinical_caseMIR	SENT2	-	-
+20	útero	útero	NCMS000	C1269032#C0042149	estructura_corporal	375-380	98_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+21	y	y	CC	C1706368	calificador	381-382	98_QUEST_clinical_caseMIR	SENT2	-	-
+22	anejos	anejo	NCMP000	-	-	383-389	98_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+23	normales	normal	AQ0CP0	C0205307	calificador	390-398	98_QUEST_clinical_caseMIR	SENT2	-	-
+24	a	a	SPS00	-	-	399-400	98_QUEST_clinical_caseMIR	SENT2	-	-
+25	la	el	DA0FS0	-	-	401-403	98_QUEST_clinical_caseMIR	SENT2	-	-
+26	palpación	palpación	NCFS000	C0030247	procedimiento	404-413	98_QUEST_clinical_caseMIR	SENT2	-	-
+27	y	y	CC	C1706368	calificador	414-415	98_QUEST_clinical_caseMIR	SENT2	-	-
+28	un	un		C0205447_1	calificador_1	416-418	98_QUEST_clinical_caseMIR	SENT2	-	-
+29	estudio	estudio	NCMS000	C0557651	medio_ambiente	419-426	98_QUEST_clinical_caseMIR	SENT2	-	-
+30	citológico	citológico	AQ0MS0	C0205471	calificador	427-437	98_QUEST_clinical_caseMIR	SENT2	-	-
+31	de	de	SPS00	C0332285	atributo	438-440	98_QUEST_clinical_caseMIR	SENT2	-	-
+32	cérvix	cérvix	NCMN000	-	-	441-447	98_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+33	normal	normal	AQ0CS0	C0205307	calificador	448-454	98_QUEST_clinical_caseMIR	SENT2	-	-
+34	.	.	Fp	-	-	454-455	98_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	456-458	98_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	459-461	98_QUEST_clinical_caseMIR	SENT3	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	462-469	98_QUEST_clinical_caseMIR	SENT3	-	-
+4	ecográfico	ecográfico	AQ0MS00	-	-	470-480	98_QUEST_clinical_caseMIR	SENT3	-	-
+5	transvaginal	transvaginal	NC00SC0	C0175672	calificador	481-493	98_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	se	se	P00CN000	-	-	494-496	98_QUEST_clinical_caseMIR	SENT3	-	-
+7	aprecia	apreciar	VMIP3S0	-	-	497-504	98_QUEST_clinical_caseMIR	SENT3	-	-
+8	un	un		C0205447_1	calificador_1	505-507	98_QUEST_clinical_caseMIR	SENT3	-	-
+9	endometrio	endometrio	NCMS000	C1269566#C0014180	estructura_corporal	508-518	98_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	hiperecogénico	hiperecogénico	AQ0MS00	-	-	519-533	98_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	534-536	98_QUEST_clinical_caseMIR	SENT3	-	-
+12	7mm	7mm		-	-	537-540	98_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	540-541	98_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	542-543	98_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	543-547	98_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	548-550	98_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	551-554	98_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	555-565	98_QUEST_clinical_caseMIR	SENT4	-	-
+6	pruebas	prueba	NCFP000	-	-	566-573	98_QUEST_clinical_caseMIR	SENT4	-	-
+7	es	ser	VSIP3S0	-	-	574-576	98_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	577-579	98_QUEST_clinical_caseMIR	SENT4	-	-
+9	más	más	RG	C0205393_2	calificador_2	580-583	98_QUEST_clinical_caseMIR	SENT4	-	-
+10	indicada	indicar	VMP00SF	-	-	584-592	98_QUEST_clinical_caseMIR	SENT4	-	-
+11	y	y	CC	C1706368	calificador	593-594	98_QUEST_clinical_caseMIR	SENT4	-	-
+12	con	con	SPS00	C0332287	atributo	595-598	98_QUEST_clinical_caseMIR	SENT4	-	-
+13	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	599-604	98_QUEST_clinical_caseMIR	SENT4	-	-
+14	sensibilidad	sensibilidad	NCFS000	C1264642#C0439823#C0312418	calificador#hallazgo	605-617	98_QUEST_clinical_caseMIR	SENT4	-	-
+15	para	para	SPS00	C0521125	calificador	618-622	98_QUEST_clinical_caseMIR	SENT4	-	-
+16	establecer	establecer	VMN0000	-	-	623-633	98_QUEST_clinical_caseMIR	SENT4	-	-
+17	un	un		C0205447_1	calificador_1	634-636	98_QUEST_clinical_caseMIR	SENT4	-	-
+18	diagnostico	diagnosticar	VMIP1S0	-	-	637-648	98_QUEST_clinical_caseMIR	SENT4	-	-
+19	?	?	Fit	-	-	648-649	98_QUEST_clinical_caseMIR	SENT4	-	-
+20	.	.	Fp	-	-	649-650	98_QUEST_clinical_caseMIR	SENT4	-	-
+

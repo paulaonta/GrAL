@@ -1,0 +1,10 @@
+1	Endoscopia	endoscopia	NCFS000	C0014245	procedimiento	0-10	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	digestiva	digestivo	AQ0FS0	C0012237	sustancia	11-20	229(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	alta	alto	AQ0FS0	C0205250	calificador	21-25	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	26-29	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	toma	toma	NCFS000	-	-	30-34	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	35-37	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	biopsias	biopsia	NCFP000	C0005558	procedimiento#calificador	38-46	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	duodenales	duodenal	AQ0CP0	C0013303	calificador	47-57	229(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	58-59	229(1)_ANS_clinical_caseMIR	SENT1	-	-
+

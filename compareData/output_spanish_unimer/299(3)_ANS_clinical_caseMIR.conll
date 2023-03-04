@@ -1,0 +1,33 @@
+1	Demorar	demorar	VMN0000	-	-	0-7	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	8-10	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	inicio	inicio	NCMS000	C0332162	atributo	11-17	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	del	del	SP+DA	-	-	18-21	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	22-33	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	sustitutivo-supresor	sustitutivo-supresor	NCMS000	-	-	34-54	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	55-57	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	TSH	thyroid-stimulating_hormone_(hormona__tiroestimulante)	NC00YL0	-	-	58-61	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	62-65	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	levotiroxina	levotiroxina	NC00BO0	-	-	66-78	299(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	y	y	CC	C1706368	calificador	79-80	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	remitir	remitir	VMN0000	C0439600	calificador	81-88	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	89-91	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	92-100	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	al	al	SP+DA	-	-	101-103	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	servicio	servicio	NCMS000	C0587476#C0587592_1	medio_ambiente#procedimiento_1	104-112	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0587476#C0587592_2	medio_ambiente#procedimiento_2	113-115	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	Medicina	medicinar	VMM02S0	C0587476#C0587592_3	medio_ambiente#procedimiento_3	116-124	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	Nuclear	nuclear	AQ0CS0	C0587476#C0587592_4	medio_ambiente#procedimiento_4	125-132	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	para	para	SPS00	C0521125	calificador	133-137	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	la	el	DA0FS0	-	-	138-140	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	141-155	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	156-158	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	una	una		C0205447_1	calificador_1	159-162	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+25	dosis	dosis	NCFN000	-	-	163-168	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	ablativa	ablativa	AQ0FS00	-	-	169-177	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+27	de	de	SPS00	C0332285	atributo	178-180	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+28	100	100		-	-	181-184	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+29	mCi	mci	NCMS000	-	-	185-188	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	189-191	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+31	I131	I131		-	-	192-196	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+32	.	.	Fp	-	-	197-198	299(3)_ANS_clinical_caseMIR	SENT1	-	-
+

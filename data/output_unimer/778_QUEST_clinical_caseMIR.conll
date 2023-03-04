@@ -1,0 +1,69 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	778_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	778_QUEST_clinical_caseMIR	SENT1	-	-
+3	46	46		-	-	12-14	778_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	778_QUEST_clinical_caseMIR	SENT1	-	-
+5	intervenido	intervenir	VMP00SM	-	-	20-31	778_QUEST_clinical_caseMIR	SENT1	-	-
+6	hace	hacer	VMIP3S0	-	-	32-36	778_QUEST_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	37-39	778_QUEST_clinical_caseMIR	SENT1	-	-
+8	año	año	NCMS000	C0439234	calificador	40-43	778_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	44-46	778_QUEST_clinical_caseMIR	SENT1	-	-
+10	gastrectomía	gastrectomía	NCFS000	C0017118	procedimiento	47-59	778_QUEST_clinical_caseMIR	SENT1	-	-
+11	Bilroth	bilroth	AQ0CN00	-	-	60-67	778_QUEST_clinical_caseMIR	SENT1	-	-
+12	II	ii	NCCS000	-	-	68-70	778_QUEST_clinical_caseMIR	SENT1	-	-
+13	por	por	SPS00	C0678226	atributo	71-74	778_QUEST_clinical_caseMIR	SENT1	-	-
+14	úlcera	úlcera	NCFS000	C0030920_1	trastorno_1	75-81	778_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	péptica	péptico	AQ0FS0	C0030920_2	trastorno_2	82-89	778_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	.	.	Fp	-	-	89-90	778_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	91-99	778_QUEST_clinical_caseMIR	SENT2	-	-
+2	un	un		C0205447_1	calificador_1	100-102	778_QUEST_clinical_caseMIR	SENT2	-	-
+3	cuadro	cuadro	NCMS000	-	-	103-109	778_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	110-112	778_QUEST_clinical_caseMIR	SENT2	-	-
+5	dolor	dolor	NCMS000	C0232493_1	hallazgo_1	113-118	778_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	epigástrico	epigástrico	AQ0MS0	C0232493_2	hallazgo_2	119-130	778_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	y	y	CC	C1706368	calificador	131-132	778_QUEST_clinical_caseMIR	SENT2	-	-
+8	hemorragia	hemorragia	NCFS000	C0041909_1	trastorno_1	133-143	778_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	digestiva	digestivo	AQ0FS0	C0041909_2	trastorno_2	144-153	778_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	alta	alto	AQ0FS0	C0041909_3	trastorno_3	154-158	778_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	158-159	778_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	160-162	778_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	163-165	778_QUEST_clinical_caseMIR	SENT3	-	-
+3	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	166-176	778_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	177-179	778_QUEST_clinical_caseMIR	SENT3	-	-
+5	detectan	detectar	VMIP3P0	-	-	180-188	778_QUEST_clinical_caseMIR	SENT3	-	-
+6	úlceras	úlcera	NCFP000	C0041582	anomalía_morfológica#trastorno	189-196	778_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	tanto	tanto	RG	-	-	197-202	778_QUEST_clinical_caseMIR	SENT3	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	203-205	778_QUEST_clinical_caseMIR	SENT3	-	-
+9	estómago	estómago	NCMS000	C3714551#C1278920	estructura_corporal	206-214	778_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	como	como	CS	C0332257	calificador	215-219	778_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	220-222	778_QUEST_clinical_caseMIR	SENT3	-	-
+12	intestino	intestino	NCMS000	C1268998#C0021852_1	estructura_corporal_1	223-232	778_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	delgado	delgado	NCMS000	C1268998#C0021852_2	estructura_corporal_2	233-240	778_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	.	.	Fp	-	-	240-241	778_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Tras	tras	SPS00	-	-	242-246	778_QUEST_clinical_caseMIR	SENT4	-	-
+2	realizar	realizar	VMN0000	-	-	247-255	778_QUEST_clinical_caseMIR	SENT4	-	-
+3	estimulación	estimulación	NCFS000	C1292856	procedimiento	256-268	778_QUEST_clinical_caseMIR	SENT4	-	-
+4	con	con	SPS00	C0332287	atributo	269-272	778_QUEST_clinical_caseMIR	SENT4	-	-
+5	secretina	secretina	NC00SC0	C0036534	producto#sustancia	273-282	778_QUEST_clinical_caseMIR	SENT4	-	-
+6	IV	iv	NC00SC0	C1522726	calificador	283-285	778_QUEST_clinical_caseMIR	SENT4	-	-
+7	no	no	RN	C1298908	calificador	286-288	778_QUEST_clinical_caseMIR	SENT4	-	-
+8	se	se	P00CN000	-	-	289-291	778_QUEST_clinical_caseMIR	SENT4	-	-
+9	aprecia	apreciar	VMIP3S0	-	-	292-299	778_QUEST_clinical_caseMIR	SENT4	-	-
+10	aumento	aumento	NCMS000	C0442805	calificador	300-307	778_QUEST_clinical_caseMIR	SENT4	-	-
+11	significativo	significativo	AQ0MS0	C0750502	calificador	308-321	778_QUEST_clinical_caseMIR	SENT4	-	-
+12	de	de	SPS00	C0332285	atributo	322-324	778_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+13	gastrina	gastrina	NC00SC0	C0376180	sustancia	325-333	778_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+14	sérica	sérico	AQ0FS0	-	-	334-340	778_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+15	.	.	Fp	-	-	340-341	778_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	342-344	778_QUEST_clinical_caseMIR	SENT5	-	-
+2	cuadro	cuadro	NCMS000	-	-	345-351	778_QUEST_clinical_caseMIR	SENT5	-	-
+3	corresponde	corresponder	VMIP3S0	-	-	352-363	778_QUEST_clinical_caseMIR	SENT5	-	-
+4	muy	muy	RG	C0442824	calificador	364-367	778_QUEST_clinical_caseMIR	SENT5	-	-
+5	probablemente	probablemente	RG	C0332148	calificador	368-381	778_QUEST_clinical_caseMIR	SENT5	-	-
+6	a	a	SPS00	-	-	382-383	778_QUEST_clinical_caseMIR	SENT5	-	-
+7	:	:	Fd	-	-	383-384	778_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	384-385	778_QUEST_clinical_caseMIR	SENT5	-	-
+

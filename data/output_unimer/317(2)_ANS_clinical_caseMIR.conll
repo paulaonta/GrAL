@@ -1,0 +1,24 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	20-23	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	bloqueo	bloqueo	NCMS000	C0028778	anomalía_morfológica	24-31	317(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	androgénico	andrógeno	NCMS00V	C0002844	sustancia	32-43	317(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	con	con	SPS00	C0332287	atributo	44-47	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	análogos	análogo	AQ0MP0	-	-	48-56	317(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	LHRH	luteinizing_hormone-releasing_hormone_(hormona_liberadora_de_la_hormona_luteinizante)	NC00YL0	-	-	57-61	317(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	dada	dar	VMP00SF	C1947971	calificador	62-66	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	67-69	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	eficacia	eficacia	NCFS000	-	-	70-78	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	demostrada	demostrar	VMP00SF	-	-	79-89	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	90-92	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	este	este	DD0MS0	-	-	93-97	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	medicamento	medicamento	NCMS000	C0456386#C0013227	atributo#sustancia	98-109	317(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	110-112	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	113-115	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	116-127	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	del	del	SP+DA	-	-	128-131	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	paciente	paciente	NCCS000	C0030705	persona	132-140	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	con	con	SPS00	C0332287	atributo	141-144	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	HBP	hbp	NC00YL0	-	-	145-148	317(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	.	.	Fp	-	-	149-150	317(2)_ANS_clinical_caseMIR	SENT1	-	-
+

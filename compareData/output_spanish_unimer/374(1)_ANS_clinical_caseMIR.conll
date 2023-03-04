@@ -1,0 +1,23 @@
+1	Proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	0-11	374(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	12-14	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	1	1	Z	-	-	15-16	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	g	g	NCMN000	-	-	17-18	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	/	/	Fh	-	-	18-19	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	día	día	NCMS000	C0439228#C0332169	calificador	19-22	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	22-23	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	24-27	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	28-37	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	38-46	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	47-49	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	tira	tirar	VMM02S0	C0441090_1	objeto_físico_1	50-54	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	reactiva	reactivo	AQ0FS0	C0441090_2	objeto_físico_2	55-63	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	y	y	CC	C1706368	calificador	64-65	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	66-69	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	microalbuminuria	microalbuminuria	NCFS000	C0730345	hallazgo	70-86	374(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	87-92	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	93-95	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	300	300		-	-	96-99	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	mg/24	mg/24	Z	-	-	100-105	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	horas	h	NCFP000	C0439227	calificador	106-111	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	112-113	374(1)_ANS_clinical_caseMIR	SENT1	-	-
+

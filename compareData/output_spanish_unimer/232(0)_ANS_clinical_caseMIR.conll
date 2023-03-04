@@ -1,0 +1,15 @@
+1	Colectomía	colectomía	NC00SC0	C0009274	procedimiento	0-10	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	subtotal	subtotal	NCMS000	C0728939#C0205257#C0728938	calificador	11-19	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	urgencia	urgencia	NCFS000	C0439609	calificador	23-31	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	y	y	CC	C1706368	calificador	32-33	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	37-39	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	segundo	2	AO0MS0	-	-	40-47	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	48-54	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	prostectomía	prostectomía	NCFS000	-	-	55-67	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	y	y	CC	C1706368	calificador	68-69	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	reservorio	reservorio	NCMS000	C1289877	objeto_físico	70-80	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	ileoanal	ileoanal	AQ0CS00	-	-	81-89	232(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	90-91	232(0)_ANS_clinical_caseMIR	SENT1	-	-
+

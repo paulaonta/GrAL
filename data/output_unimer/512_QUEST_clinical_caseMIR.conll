@@ -1,0 +1,89 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	512_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	512_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	512_QUEST_clinical_caseMIR	SENT1	-	-
+4	51	51		-	-	13-15	512_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	512_QUEST_clinical_caseMIR	SENT1	-	-
+6	refiere	referir	VMIP3S0	-	-	21-28	512_QUEST_clinical_caseMIR	SENT1	-	-
+7	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	29-35	512_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	36-38	512_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	esfuerzos	esfuerzo	NCMP000	-	-	39-48	512_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+10	moderados	moderar	VMP00PM	-	-	49-58	512_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	59-61	512_QUEST_clinical_caseMIR	SENT1	-	-
+12	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	62-68	512_QUEST_clinical_caseMIR	SENT1	-	-
+13	meses	mes	NCMP000	C0439231	calificador	69-74	512_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	75-77	512_QUEST_clinical_caseMIR	SENT1	-	-
+15	evolución	evolución	NCFS000	-	-	78-87	512_QUEST_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	87-88	512_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	89-91	512_QUEST_clinical_caseMIR	SENT2	-	-
+2	tiene	tener	VMIP3S0	-	-	92-97	512_QUEST_clinical_caseMIR	SENT2	-	-
+3	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	98-110	512_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332119_2	situación_2	111-113	512_QUEST_clinical_caseMIR	SENT2	-	-
+5	interés	interés	NCMS000	-	-	114-121	512_QUEST_clinical_caseMIR	SENT2	-	-
+6	y	y	CC	C1706368	calificador	122-123	512_QUEST_clinical_caseMIR	SENT2	-	-
+7	la	el	DA0FS0	-	-	124-126	512_QUEST_clinical_caseMIR	SENT2	-	-
+8	analítica	analítica	NCFS000	-	-	127-136	512_QUEST_clinical_caseMIR	SENT2	-	-
+9	elemental	elemental	AQ0CS0	-	-	137-146	512_QUEST_clinical_caseMIR	SENT2	-	-
+10	(	(	Fpa	-	-	147-148	512_QUEST_clinical_caseMIR	SENT2	-	-
+11	hemograma	hemograma	NCMS000	C0200631	procedimiento	148-157	512_QUEST_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	158-159	512_QUEST_clinical_caseMIR	SENT2	-	-
+13	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	160-170	512_QUEST_clinical_caseMIR	SENT2	-	-
+14	básica	básico	AQ0FS0	-	-	171-177	512_QUEST_clinical_caseMIR	SENT2	-	-
+15	)	)	Fpt	-	-	177-178	512_QUEST_clinical_caseMIR	SENT2	-	-
+16	es	ser	VSIP3S0	-	-	179-181	512_QUEST_clinical_caseMIR	SENT2	-	-
+17	normal	normal	AQ0CS0	C0205307	calificador	182-188	512_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	188-189	512_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	190-192	512_QUEST_clinical_caseMIR	SENT3	-	-
+2	las	el	DA0FP0	-	-	193-196	512_QUEST_clinical_caseMIR	SENT3	-	-
+3	pruebas	prueba	NCFP000	-	-	197-204	512_QUEST_clinical_caseMIR	SENT3	-	-
+4	funcionales	funcional	AQ0CP0	C0205245	calificador	205-216	512_QUEST_clinical_caseMIR	SENT3	-	-
+5	respiratorias	respiratorio	AQ0FP0	-	-	217-230	512_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	,	,	Fc	-	-	230-231	512_QUEST_clinical_caseMIR	SENT3	-	-
+7	se	se	P00CN000	-	-	232-234	512_QUEST_clinical_caseMIR	SENT3	-	-
+8	observa	observar	VMIP3S0	-	-	235-242	512_QUEST_clinical_caseMIR	SENT3	-	-
+9	una	una		C0205447_1	calificador_1	243-246	512_QUEST_clinical_caseMIR	SENT3	-	-
+10	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	247-255	512_QUEST_clinical_caseMIR	SENT3	-	-
+11	FEV1/FVC	FEV1/FVC		-	-	256-264	512_QUEST_clinical_caseMIR	SENT3	-	-
+12	superior	superior	AQ0CS0	C1282910	calificador	265-273	512_QUEST_clinical_caseMIR	SENT3	-	-
+13	a	a	SPS00	-	-	274-275	512_QUEST_clinical_caseMIR	SENT3	-	-
+14	0,7	0,7		-	-	276-279	512_QUEST_clinical_caseMIR	SENT3	-	-
+15	y	y	CC	C1706368	calificador	280-281	512_QUEST_clinical_caseMIR	SENT3	-	-
+16	una	una		C0205447_1	calificador_1	282-285	512_QUEST_clinical_caseMIR	SENT3	-	-
+17	FVC	forced_vital_capacity_(capacidad_vital_forzada)	NC00YL0	-	-	286-289	512_QUEST_clinical_caseMIR	SENT3	-	-
+18	y	y	CC	C1706368	calificador	290-291	512_QUEST_clinical_caseMIR	SENT3	-	-
+19	una	una		C0205447_1	calificador_1	292-295	512_QUEST_clinical_caseMIR	SENT3	-	-
+20	TLC	tlc	NC00YL0	-	-	296-299	512_QUEST_clinical_caseMIR	SENT3	-	-
+21	del	del	SP+DA	-	-	300-303	512_QUEST_clinical_caseMIR	SENT3	-	-
+22	85	85	Z	-	-	304-306	512_QUEST_clinical_caseMIR	SENT3	-	-
+23	%	%	Ft	-	-	306-307	512_QUEST_clinical_caseMIR	SENT3	-	-
+24	y	y	CC	C1706368	calificador	308-309	512_QUEST_clinical_caseMIR	SENT3	-	-
+25	83	83	Z	-	-	310-312	512_QUEST_clinical_caseMIR	SENT3	-	-
+26	%	%	Ft	-	-	312-313	512_QUEST_clinical_caseMIR	SENT3	-	-
+27	en	en	SPS00	C1720294#C0332285	calificador#atributo	314-316	512_QUEST_clinical_caseMIR	SENT3	-	-
+28	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	317-325	512_QUEST_clinical_caseMIR	SENT3	-	-
+29	a	a	SPS00	-	-	326-327	512_QUEST_clinical_caseMIR	SENT3	-	-
+30	sus	su	DP3CP0	-	-	328-331	512_QUEST_clinical_caseMIR	SENT3	-	-
+31	valores	valor	NCMP000	C0475208	calificador	332-339	512_QUEST_clinical_caseMIR	SENT3	-	-
+32	teóricos	teórico	AQ0MP0	-	-	340-348	512_QUEST_clinical_caseMIR	SENT3	-	-
+33	,	,	Fc	-	-	348-349	512_QUEST_clinical_caseMIR	SENT3	-	-
+34	respectivamente	respectivamente	RG	-	-	350-365	512_QUEST_clinical_caseMIR	SENT3	-	-
+35	.	.	Fp	-	-	365-366	512_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	367-369	512_QUEST_clinical_caseMIR	SENT4	-	-
+2	DLCO	diffusing_capacity_for_lung_carbon_monoxide_(capacidad_de_difusión_pulmonar_del_monóxido_de_carbono)	NC00YL0	-	-	370-374	512_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	375-377	512_QUEST_clinical_caseMIR	SENT4	-	-
+4	del	del	SP+DA	-	-	378-381	512_QUEST_clinical_caseMIR	SENT4	-	-
+5	40	40	Z	-	-	382-384	512_QUEST_clinical_caseMIR	SENT4	-	-
+6	%	%	Ft	-	-	384-385	512_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	385-386	512_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Ante	ante	SPS00	-	-	387-391	512_QUEST_clinical_caseMIR	SENT5	-	-
+2	estos	este	DD0MP0	-	-	392-397	512_QUEST_clinical_caseMIR	SENT5	-	-
+3	datos	dato	NCMP000	-	-	398-403	512_QUEST_clinical_caseMIR	SENT5	-	-
+4	,	,	Fc	-	-	403-404	512_QUEST_clinical_caseMIR	SENT5	-	-
+5	pensaría	pensar	VMIC3S0	-	-	405-413	512_QUEST_clinical_caseMIR	SENT5	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	414-416	512_QUEST_clinical_caseMIR	SENT5	-	-
+7	:	:	Fd	-	-	416-417	512_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	417-418	512_QUEST_clinical_caseMIR	SENT5	-	-
+

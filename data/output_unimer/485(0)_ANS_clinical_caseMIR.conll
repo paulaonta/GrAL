@@ -1,0 +1,10 @@
+1	Pérdidas	pérdida	NCFP000	-	-	0-8	485(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	hemáticas	hemático	AQ0FP0	-	-	9-18	485(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	19-21	485(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	22-30	485(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	31-34	485(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	el	el	DA0MS0	-	-	35-37	485(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	38-49	485(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	esteroideo	esteroideo	NCMS000	-	-	50-60	485(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	.	.	Fp	-	-	61-62	485(0)_ANS_clinical_caseMIR	SENT1	-	-
+

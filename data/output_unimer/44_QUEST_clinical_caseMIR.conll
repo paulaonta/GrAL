@@ -1,0 +1,120 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	44_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	44_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	44_QUEST_clinical_caseMIR	SENT1	-	-
+4	79	79		-	-	15-17	44_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	44_QUEST_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	23-24	44_QUEST_clinical_caseMIR	SENT1	-	-
+7	70	70	Z	-	-	25-27	44_QUEST_clinical_caseMIR	SENT1	-	-
+8	Kg	kg	NCMN000	-	-	28-30	44_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	31-33	44_QUEST_clinical_caseMIR	SENT1	-	-
+10	peso	peso	NCMS000	C0043100	calificador	34-38	44_QUEST_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0332287	atributo	39-42	44_QUEST_clinical_caseMIR	SENT1	-	-
+12	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	43-55	44_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	56-64	44_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	de	de	SPS00	C0332285	atributo	65-67	44_QUEST_clinical_caseMIR	SENT1	-	-
+15	175/95	175/95	Z	-	-	68-74	44_QUEST_clinical_caseMIR	SENT1	-	-
+16	mmHg	mmHg	NCMP000	-	-	75-79	44_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	79-80	44_QUEST_clinical_caseMIR	SENT1	-	-
+18	así	así	RG	-	-	81-84	44_QUEST_clinical_caseMIR	SENT1	-	-
+19	como	como	SPS00	C0332257	calificador	85-89	44_QUEST_clinical_caseMIR	SENT1	-	-
+20	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	90-102	44_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332119_2	situación_2	103-105	44_QUEST_clinical_caseMIR	SENT1	-	-
+22	infarto	infarto	NCMS000	C0027051_1	trastorno_1	106-113	44_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	de	de	SPS00	C0027051_2	trastorno_2	114-116	44_QUEST_clinical_caseMIR	SENT1	-	-
+24	miocardio	miocardio	NCMS000	C0027051_3	trastorno_3	117-126	44_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	e	y	CC	C1706368	calificador	127-128	44_QUEST_clinical_caseMIR	SENT1	-	-
+26	ictus	ictus	NCMN000	-	-	129-134	44_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	cerebral	cerebral	AQ0CS0	-	-	135-143	44_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	presenta	presentar	VMIP3S0	-	-	144-152	44_QUEST_clinical_caseMIR	SENT1	-	-
+29	una	una		C0205447_1	calificador_1	153-156	44_QUEST_clinical_caseMIR	SENT1	-	-
+30	creatinina	creatinina	NC00SC0	C0010294	sustancia	157-167	44_QUEST_clinical_caseMIR	SENT1	-	-
+31	de	de	SPS00	C0332285	atributo	168-170	44_QUEST_clinical_caseMIR	SENT1	-	-
+32	1,9	1.9	Z	-	-	171-174	44_QUEST_clinical_caseMIR	SENT1	-	-
+33	mg	mg	NCMN000	-	-	175-177	44_QUEST_clinical_caseMIR	SENT1	-	-
+34	/	/	Fh	-	-	177-178	44_QUEST_clinical_caseMIR	SENT1	-	-
+35	dl	decilitro	NCMN000	C0439241	calificador	178-180	44_QUEST_clinical_caseMIR	SENT1	-	-
+36	.	.	Fp	-	-	180-181	44_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	182-184	44_QUEST_clinical_caseMIR	SENT2	-	-
+2	inicia	iniciar	VMIP3S0	-	-	185-191	44_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	192-203	44_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	204-207	44_QUEST_clinical_caseMIR	SENT2	-	-
+5	un	un		C0205447_1	calificador_1	208-210	44_QUEST_clinical_caseMIR	SENT2	-	-
+6	inhibidor	inhibidor	NCMS000	-	-	211-220	44_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	de	de	SPS00	C0332285	atributo	221-223	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+8	la	el	DA0FS0	-	-	224-226	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+9	enzima	enzima	NCCS000	C0014442	sustancia	227-233	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+10	de	de	SPS00	C0332285	atributo	234-236	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+11	conversión	conversión	NCFS000	C0439836	calificador	237-247	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+12	de	de	SPS00	C0332285	atributo	248-250	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+13	la	el	DA0FS0	-	-	251-253	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+14	angiotensina	angiotensina	NCFS000	C0003018	sustancia	254-266	44_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+15	a	a	SPS00	-	-	267-268	44_QUEST_clinical_caseMIR	SENT2	-	-
+16	dosis	dosis	NCFN000	-	-	269-274	44_QUEST_clinical_caseMIR	SENT2	-	-
+17	bajas	bajo	AQ0FP0	C0205251	calificador	275-280	44_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	280-281	44_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	282-283	44_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	284-287	44_QUEST_clinical_caseMIR	SENT3	-	-
+3	pocos	poco	DI0MP0	C0700321#C1282918	-	288-293	44_QUEST_clinical_caseMIR	SENT3	-	-
+4	días	día	NCMP000	C0439228#C0332169	calificador	294-298	44_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	299-301	44_QUEST_clinical_caseMIR	SENT3	-	-
+6	inicio	inicio	NCMS000	C0332162_1	calificador_1	302-308	44_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332162_2	calificador_2	309-311	44_QUEST_clinical_caseMIR	SENT3	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	312-323	44_QUEST_clinical_caseMIR	SENT3	-	-
+9	acude	acudir	VMIP3S0	-	-	324-329	44_QUEST_clinical_caseMIR	SENT3	-	-
+10	por	por	SPS00	C0678226	atributo	330-333	44_QUEST_clinical_caseMIR	SENT3	-	-
+11	dificultad	dificultar	VMM02P0	C0311394_1	hallazgo_1	334-344	44_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	para	parir	VMSP3S0	C0311394_2	hallazgo_2	345-349	44_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+13	caminar	caminar	VMN0000	C0311394_3	hallazgo_3	350-357	44_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+14	y	y	CC	C1706368	calificador	358-359	44_QUEST_clinical_caseMIR	SENT3	-	-
+15	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	360-368	44_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	369-376	44_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+17	con	con	SPS00	C0332287	atributo	377-380	44_QUEST_clinical_caseMIR	SENT3	-	-
+18	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	381-388	44_QUEST_clinical_caseMIR	SENT3	-	-
+19	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	389-397	44_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	de	de	SPS00	C0332285	atributo	398-400	44_QUEST_clinical_caseMIR	SENT3	-	-
+21	150/90	150/90	Z	-	-	401-407	44_QUEST_clinical_caseMIR	SENT3	-	-
+22	mmHg	mmHg	NCMP000	-	-	408-412	44_QUEST_clinical_caseMIR	SENT3	-	-
+23	.	.	Fp	-	-	412-413	44_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	414-416	44_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	417-419	44_QUEST_clinical_caseMIR	SENT4	-	-
+3	analítica	analítica	NCFS000	-	-	420-429	44_QUEST_clinical_caseMIR	SENT4	-	-
+4	se	se	P00CN000	-	-	430-432	44_QUEST_clinical_caseMIR	SENT4	-	-
+5	detecta	detectar	VMIP3S0	-	-	433-440	44_QUEST_clinical_caseMIR	SENT4	-	-
+6	creatinina	creatinina	NC00SC0	C0010294	sustancia	441-451	44_QUEST_clinical_caseMIR	SENT4	-	-
+7	de	de	SPS00	C0332285	atributo	452-454	44_QUEST_clinical_caseMIR	SENT4	-	-
+8	6	6		-	-	455-456	44_QUEST_clinical_caseMIR	SENT4	-	-
+9	mgr	mgr	NCMS000	-	-	457-460	44_QUEST_clinical_caseMIR	SENT4	-	-
+10	/	/	Fh	-	-	460-461	44_QUEST_clinical_caseMIR	SENT4	-	-
+11	dl	decilitro	NCMN000	C0439241	calificador	461-463	44_QUEST_clinical_caseMIR	SENT4	-	-
+12	y	y	CC	C1706368	calificador	464-465	44_QUEST_clinical_caseMIR	SENT4	-	-
+13	K+	k+	NCMS000	-	-	466-468	44_QUEST_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	469-471	44_QUEST_clinical_caseMIR	SENT4	-	-
+15	7,8	7,8		-	-	472-475	44_QUEST_clinical_caseMIR	SENT4	-	-
+16	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	476-479	44_QUEST_clinical_caseMIR	SENT4	-	-
+17	/	/	Fh	-	-	479-480	44_QUEST_clinical_caseMIR	SENT4	-	-
+18	l	l	NCFS000	-	-	480-481	44_QUEST_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	481-482	44_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Tras	tras	SPS00	-	-	483-487	44_QUEST_clinical_caseMIR	SENT5	-	-
+2	estabilizar	estabilizar	VMN0000	-	-	488-499	44_QUEST_clinical_caseMIR	SENT5	-	-
+3	y	y	CC	C1706368	calificador	500-501	44_QUEST_clinical_caseMIR	SENT5	-	-
+4	mejorar	mejorar	VMN0000	-	-	502-509	44_QUEST_clinical_caseMIR	SENT5	-	-
+5	la	el	DA0FS0	-	-	510-512	44_QUEST_clinical_caseMIR	SENT5	-	-
+6	situación	situación	NCFS000	-	-	513-522	44_QUEST_clinical_caseMIR	SENT5	-	-
+7	del	del	SP+DA	-	-	523-526	44_QUEST_clinical_caseMIR	SENT5	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	527-535	44_QUEST_clinical_caseMIR	SENT5	-	-
+9	que	que	PR0CN000	-	-	536-539	44_QUEST_clinical_caseMIR	SENT5	-	-
+10	exploración	exploración	NCFS000	C1280903	procedimiento	540-551	44_QUEST_clinical_caseMIR	SENT5	-	-
+11	realizaría	realizar	VMIC3S0	-	-	552-562	44_QUEST_clinical_caseMIR	SENT5	-	-
+12	de	de	SPS00	C0332285	atributo	563-565	44_QUEST_clinical_caseMIR	SENT5	-	-
+13	inicio	inicio	NCMS000	C0332162	atributo	566-572	44_QUEST_clinical_caseMIR	SENT5	-	-
+14	para	para	SPS00	C0521125	calificador	573-577	44_QUEST_clinical_caseMIR	SENT5	-	-
+15	aclarar	aclarar	VMN0000	-	-	578-585	44_QUEST_clinical_caseMIR	SENT5	-	-
+16	esta	este	DD0FS0	-	-	586-590	44_QUEST_clinical_caseMIR	SENT5	-	-
+17	evolución	evolución	NCFS000	-	-	591-600	44_QUEST_clinical_caseMIR	SENT5	-	-
+18	:	:	Fd	-	-	600-601	44_QUEST_clinical_caseMIR	SENT5	-	-
+19	.	.	Fp	-	-	601-602	44_QUEST_clinical_caseMIR	SENT5	-	-
+

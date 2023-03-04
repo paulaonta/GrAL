@@ -1,0 +1,22 @@
+1	Sospecho	sospechar	VMIP1S0	-	-	0-8	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	9-11	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	neumotórax	neumotórax	NCMN000	C0375336_1	trastorno_1	12-22	437(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	iatrogénico	iatrogénico	NC00SC0	C0375336_2	trastorno_2	23-34	437(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	,	,	Fc	-	-	34-35	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	pediría	pedir	VMIC3S0	-	-	36-43	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	44-47	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	48-50	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0039985_2	procedimiento_2	51-53	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	54-59	437(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	urgente	urgente	AQ0CS0	C0439609	calificador	60-67	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	68-71	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	portátil	portátil	NCMS000	-	-	72-80	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	y	y	CC	C1706368	calificador	81-82	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	me	me	PP1CS000	-	-	83-85	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	prepararía	preparar	VMIC3S0	-	-	86-96	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	para	para	SPS00	C0521125	calificador	97-101	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	drenar	drenar	VMN0000	-	-	102-108	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	el	el	DA0MS0	-	-	109-111	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	neumotórax	neumotórax	NCMN000	C0032326	trastorno	112-122	437(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	.	.	Fp	-	-	123-124	437(2)_ANS_clinical_caseMIR	SENT1	-	-
+

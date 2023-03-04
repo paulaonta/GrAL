@@ -1,0 +1,44 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	683_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	683_QUEST_clinical_caseMIR	SENT1	-	-
+3	59	59		-	-	10-12	683_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	683_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	683_QUEST_clinical_caseMIR	SENT1	-	-
+6	nefropatía	nefropatía	NCFS000	C0011881_1	trastorno_1	22-32	683_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	diabética	diabético	NCFS000	C0011881_2	trastorno_2	33-42	683_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+8	,	,	Fc	-	-	42-43	683_QUEST_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	44-47	683_QUEST_clinical_caseMIR	SENT1	-	-
+10	filtrado	filtrado	NCMS000	-	-	48-56	683_QUEST_clinical_caseMIR	SENT1	-	-
+11	glomerular	glomerular	AQ0CS0	-	-	57-67	683_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	estimado	estimar	VMP00SM	-	-	68-76	683_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	77-79	683_QUEST_clinical_caseMIR	SENT1	-	-
+14	36	36		-	-	80-82	683_QUEST_clinical_caseMIR	SENT1	-	-
+15	ml/min/1,73	ml/min/1,73	Z	-	-	83-94	683_QUEST_clinical_caseMIR	SENT1	-	-
+16	m2	m2	NCMP000	-	-	95-97	683_QUEST_clinical_caseMIR	SENT1	-	-
+17	e	y	CC	C1706368	calificador	98-99	683_QUEST_clinical_caseMIR	SENT1	-	-
+18	índice	índice	NCMS000	-	-	100-106	683_QUEST_clinical_caseMIR	SENT1	-	-
+19	albuminuria	albuminuria	NCFS000	C0001925#C0033687	hallazgo	107-118	683_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	/	/	Fh	-	-	118-119	683_QUEST_clinical_caseMIR	SENT1	-	-
+21	creatininuria	creatininuria	NCFS000	-	-	119-132	683_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	133-135	683_QUEST_clinical_caseMIR	SENT1	-	-
+23	350	350	Z	-	-	136-139	683_QUEST_clinical_caseMIR	SENT1	-	-
+24	mg	mg	NCMN000	-	-	140-142	683_QUEST_clinical_caseMIR	SENT1	-	-
+25	/	/	Fh	-	-	142-143	683_QUEST_clinical_caseMIR	SENT1	-	-
+26	g	gramo	NCMN000	C0439208	calificador	143-144	683_QUEST_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	144-145	683_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Según	según	SPS00	-	-	146-151	683_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	152-154	683_QUEST_clinical_caseMIR	SENT2	-	-
+3	clasificación	clasificación	NCFS000	C0008902	atributo	155-168	683_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	169-171	683_QUEST_clinical_caseMIR	SENT2	-	-
+5	enfermedad	enfermedad	NCFS000	C0403447_1	trastorno_1	172-182	683_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	renal	renal	AQ0CS0	C0403447_2	trastorno_2	183-188	683_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	189-196	683_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	KDIGO	kdigo	VMIP1S0	-	-	197-202	683_QUEST_clinical_caseMIR	SENT2	-	-
+9	2012	2012		-	-	203-207	683_QUEST_clinical_caseMIR	SENT2	-	-
+10	corresponde	corresponder	VMIP3S0	-	-	208-219	683_QUEST_clinical_caseMIR	SENT2	-	-
+11	a	a	SPS00	-	-	220-221	683_QUEST_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	222-224	683_QUEST_clinical_caseMIR	SENT2	-	-
+13	categoría	categoría	NCFS000	-	-	225-234	683_QUEST_clinical_caseMIR	SENT2	-	-
+14	:	:	Fd	-	-	234-235	683_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	235-236	683_QUEST_clinical_caseMIR	SENT2	-	-
+

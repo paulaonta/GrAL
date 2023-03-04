@@ -1,0 +1,58 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	74_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	74_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	74_QUEST_clinical_caseMIR	SENT1	-	-
+4	60	60		-	-	13-15	74_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	74_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	74_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	74_QUEST_clinical_caseMIR	SENT1	-	-
+8	refiere	referir	VMIP3S0	-	-	29-36	74_QUEST_clinical_caseMIR	SENT1	-	-
+9	dolor	dolor	NCMS000	C0232286_1	hallazgo_1	37-42	74_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	precordial	precordial	AQ0CS0	C0232286_2	hallazgo_2	43-53	74_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	tras	tras	SPS00	-	-	54-58	74_QUEST_clinical_caseMIR	SENT1	-	-
+12	los	el	DA0MP0	-	-	59-62	74_QUEST_clinical_caseMIR	SENT1	-	-
+13	medianos	mediano	AQ0MP0	C2939193#C0205098#C0444598#C0439536#C0549183	calificador	63-71	74_QUEST_clinical_caseMIR	SENT1	-	-
+14	esfuerzos	esfuerzo	NCMP000	-	-	72-81	74_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	81-82	74_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	83-85	74_QUEST_clinical_caseMIR	SENT2	-	-
+2	coronariografía	coronariografía	NCFS000	-	-	86-101	74_QUEST_clinical_caseMIR	SENT2	-	-
+3	muestra	mostrar	VMIP3S0	-	-	102-109	74_QUEST_clinical_caseMIR	SENT2	-	-
+4	estenosis	estenosis	NCFN000	C0009814#C1261287	anomalía_morfológica	110-119	74_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	significativa	significativo	AQ0FS0	C0750502	calificador	120-133	74_QUEST_clinical_caseMIR	SENT2	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	74_QUEST_clinical_caseMIR	SENT2	-	-
+7	los	el	DA0MP0	-	-	137-140	74_QUEST_clinical_caseMIR	SENT2	-	-
+8	segmentos	segmento	NCMP000	C0441635	calificador	141-150	74_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	proximales	proximal	AQ0CP0	C0205107	calificador	151-161	74_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	de	de	SPS00	C0332285	atributo	162-164	74_QUEST_clinical_caseMIR	SENT2	-	-
+11	los	el	DA0MP0	-	-	165-168	74_QUEST_clinical_caseMIR	SENT2	-	-
+12	tres	tres		-	-	169-173	74_QUEST_clinical_caseMIR	SENT2	-	-
+13	vasos	vaso	NCMP000	C0042591	atributo	174-179	74_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	principales	principal	AQ0CP0	C0205225	calificador	180-191	74_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+15	con	con	SPS00	C0332287	atributo	192-195	74_QUEST_clinical_caseMIR	SENT2	-	-
+16	buen	bueno	AQ0MS0	C0205170	calificador	196-200	74_QUEST_clinical_caseMIR	SENT2	-	-
+17	lecho	lecho	NCMS000	-	-	201-206	74_QUEST_clinical_caseMIR	SENT2	-	-
+18	distal	distal	AQ0CS0	C0205108	calificador	207-213	74_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	213-214	74_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	215-217	74_QUEST_clinical_caseMIR	SENT3	-	-
+2	función	función	NCFS000	C0542341	entidad_observable#atributo	218-225	74_QUEST_clinical_caseMIR	SENT3	-	-
+3	ventricular	ventricular	AQ0CS0	-	-	226-237	74_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	está	estar	VAIP3S0	-	-	238-242	74_QUEST_clinical_caseMIR	SENT3	-	-
+5	deprimida	deprimir	VMP00SF	-	-	243-252	74_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	(	(	Fpa	-	-	253-254	74_QUEST_clinical_caseMIR	SENT3	-	-
+7	<	<	Fz	-	-	254-255	74_QUEST_clinical_caseMIR	SENT3	-	-
+8	30	30	Z	-	-	255-257	74_QUEST_clinical_caseMIR	SENT3	-	-
+9	%	%	Ft	-	-	257-258	74_QUEST_clinical_caseMIR	SENT3	-	-
+10	)	)	Fpt	-	-	258-259	74_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	259-260	74_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	261-262	74_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	262-266	74_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	267-269	74_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	270-272	74_QUEST_clinical_caseMIR	SENT4	-	-
+5	mejor	mejor	AQ0CS0	C0332272	calificador	273-278	74_QUEST_clinical_caseMIR	SENT4	-	-
+6	opción	opción	NCFS000	-	-	279-285	74_QUEST_clinical_caseMIR	SENT4	-	-
+7	terapéutica	terapéutico	AQ0FS0	-	-	286-297	74_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	297-298	74_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	298-299	74_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,23 @@
+1	Debe	deber	VMIP3S0	-	-	0-4	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	plantear	plantear	VMN0000	-	-	5-13	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	PP3CN000	-	-	13-15	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	16-18	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C0344212_1	procedimiento_1	19-30	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0344212_2	procedimiento_2	31-34	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	glucocorticoides	glucocorticoide	NCMP000	C0344212_3	procedimiento_3	35-51	240(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	para	para	SPS00	C0521125	calificador	52-56	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	evitar	evitar	VMN0000	-	-	57-63	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	64-67	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	68-81	240(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+12	adrenal	adrenal	AQ0CS0	-	-	82-89	240(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	secundaria	secundario	AQ0FS0	C0175668	calificador	90-100	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	101-104	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	comprometería	comprometer	VMIC3S0	-	-	105-118	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	el	el	DA0MS0	-	-	119-121	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	pronóstico	pronóstico	NCMS000	C0033325	procedimiento	122-132	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	vital	vital	AQ0CS0	C0442732	calificador	133-138	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	139-141	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	la	el	DA0FS0	-	-	142-144	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	paciente	paciente	NCCS000	C0030705	persona	145-153	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	154-155	240(2)_ANS_clinical_caseMIR	SENT1	-	-
+

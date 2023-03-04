@@ -1,0 +1,61 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	263_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	263_QUEST_clinical_caseMIR	SENT1	-	-
+3	65	65		-	-	12-14	263_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	263_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	20-23	263_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	24-32	263_QUEST_clinical_caseMIR	SENT1	-	-
+7	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	33-39	263_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	progresiva	progresivo	AQ0FS0	C0205329	calificador	40-50	263_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	de	de	SPS00	C0332285	atributo	51-53	263_QUEST_clinical_caseMIR	SENT1	-	-
+10	5	5	Z	-	-	54-55	263_QUEST_clinical_caseMIR	SENT1	-	-
+11	días	d	NCMP000	-	-	56-60	263_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	61-63	263_QUEST_clinical_caseMIR	SENT1	-	-
+13	evolución	evolución	NCFS000	-	-	64-73	263_QUEST_clinical_caseMIR	SENT1	-	-
+14	hasta	hasta	SPS00	-	-	74-79	263_QUEST_clinical_caseMIR	SENT1	-	-
+15	hacer	hacer	VMN0000	-	-	80-85	263_QUEST_clinical_caseMIR	SENT1	-	-
+16	se	se	PP3CN000	-	-	85-87	263_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	88-90	263_QUEST_clinical_caseMIR	SENT1	-	-
+18	reposo	reposo	NCMS000	-	-	91-97	263_QUEST_clinical_caseMIR	SENT1	-	-
+19	,	,	Fc	-	-	97-98	263_QUEST_clinical_caseMIR	SENT1	-	-
+20	ortopnea	ortopnea	NC00SC0	C0085619	hallazgo	99-107	263_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0332285	atributo	108-110	263_QUEST_clinical_caseMIR	SENT1	-	-
+22	tres	tres		-	-	111-115	263_QUEST_clinical_caseMIR	SENT1	-	-
+23	almohadas	almohada	NCFP000	C0182291	objeto_físico	116-125	263_QUEST_clinical_caseMIR	SENT1	-	-
+24	y	y	CC	C1706368	calificador	126-127	263_QUEST_clinical_caseMIR	SENT1	-	-
+25	episodios	episodio	NCMP000	C0332189	atributo	128-137	263_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	138-140	263_QUEST_clinical_caseMIR	SENT1	-	-
+27	disnea	disnea	NCFS000	C1956415_1	hallazgo_1	141-147	263_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	paroxística	paroxístico	AQ0FS0	C1956415_2	hallazgo_2	148-159	263_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	nocturna	nocturno	AQ0FS0	C1956415_3	hallazgo_3	160-168	263_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+30	.	.	Fp	-	-	168-169	263_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	170-171	263_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	172-174	263_QUEST_clinical_caseMIR	SENT2	-	-
+3	auscultación	auscultación	NCFS000	C0004339	procedimiento	175-187	263_QUEST_clinical_caseMIR	SENT2	-	-
+4	destaca	destacar	VMIP3S0	-	-	188-195	263_QUEST_clinical_caseMIR	SENT2	-	-
+5	crepitantes	crepitantes	NCCP000	-	-	196-207	263_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	bilaterales	bilateral	AQ0CP0	C0238767	calificador	208-219	263_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	,	,	Fc	-	-	219-220	263_QUEST_clinical_caseMIR	SENT2	-	-
+8	soplo	soplo	NCMS000	C0232258_1	hallazgo_1	221-226	263_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	holosistólico	holosistólico		C0232258_2	hallazgo_2	227-240	263_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	irradiado	irradiar	VMP00SM	-	-	241-250	263_QUEST_clinical_caseMIR	SENT2	-	-
+11	a	a	SPS00	-	-	251-252	263_QUEST_clinical_caseMIR	SENT2	-	-
+12	axila	axila	NCFS000	C0004454#C1279154#C1283835	estructura_corporal	253-258	263_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	259-260	263_QUEST_clinical_caseMIR	SENT2	-	-
+14	ritmo	ritmo	NCMS000	C0232200_1	hallazgo_1	261-266	263_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0232200_2	hallazgo_2	267-269	263_QUEST_clinical_caseMIR	SENT2	-	-
+16	galope	galope	NCMS000	C0232200_3	hallazgo_3	270-276	263_QUEST_clinical_caseMIR	SENT2	-	-
+17	por	por	SPS00	C0678226	atributo	277-280	263_QUEST_clinical_caseMIR	SENT2	-	-
+18	tercer	3	AO0MS0	-	-	281-287	263_QUEST_clinical_caseMIR	SENT2	-	-
+19	y	y	CC	C1706368	calificador	288-289	263_QUEST_clinical_caseMIR	SENT2	-	-
+20	cuarto	4	AO0MS0	-	-	290-296	263_QUEST_clinical_caseMIR	SENT2	-	-
+21	ruido	ruido	NCMS000	C0006318	hallazgo	297-302	263_QUEST_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	302-303	263_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Señale	señalar	VMM03S0	-	-	304-310	263_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	311-313	263_QUEST_clinical_caseMIR	SENT3	-	-
+3	afirmación	afirmación	NCFS000	-	-	314-324	263_QUEST_clinical_caseMIR	SENT3	-	-
+4	lNCORRECTA	lncorrecta	AQ0FS00	-	-	325-335	263_QUEST_clinical_caseMIR	SENT3	-	-
+5	:	:	Fd	-	-	335-336	263_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	336-337	263_QUEST_clinical_caseMIR	SENT3	-	-
+

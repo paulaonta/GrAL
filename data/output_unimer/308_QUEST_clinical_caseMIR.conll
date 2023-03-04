@@ -1,0 +1,25 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	308_QUEST_clinical_caseMIR	SENT1	-	-
+2	que	que	PR0CN000	-	-	9-12	308_QUEST_clinical_caseMIR	SENT1	-	-
+3	presenta	presentar	VMIP3S0	-	-	13-21	308_QUEST_clinical_caseMIR	SENT1	-	-
+4	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	22-30	308_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	31-39	308_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+6	,	,	Fc	-	-	39-40	308_QUEST_clinical_caseMIR	SENT1	-	-
+7	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	41-48	308_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	49-51	308_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	52-56	308_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+10	,	,	Fc	-	-	56-57	308_QUEST_clinical_caseMIR	SENT1	-	-
+11	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	58-64	308_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	y	y	CC	C1706368	calificador	65-66	308_QUEST_clinical_caseMIR	SENT1	-	-
+13	eritema	eritema	NCMS000	C0041834	anomalía_morfológica#hallazgo	67-74	308_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	migratorio	migratorio	AQ0MS0	C0232901	calificador	75-85	308_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	necrolítico	necrolítico	AQ0MS0	-	-	86-97	308_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	.	.	Fp	-	-	97-98	308_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	99-101	308_QUEST_clinical_caseMIR	SENT2	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	102-113	308_QUEST_clinical_caseMIR	SENT2	-	-
+3	más	más	RG	C0205172	calificador	114-117	308_QUEST_clinical_caseMIR	SENT2	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	118-126	308_QUEST_clinical_caseMIR	SENT2	-	-
+5	es	ser	VSIP3S0	-	-	127-129	308_QUEST_clinical_caseMIR	SENT2	-	-
+6	:	:	Fd	-	-	129-130	308_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	130-131	308_QUEST_clinical_caseMIR	SENT2	-	-
+

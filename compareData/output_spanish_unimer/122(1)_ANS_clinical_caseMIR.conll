@@ -1,0 +1,24 @@
+1	Se	se	P00CN000	-	-	0-2	122(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	122(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	probablemente	probablemente	RG	C0332148	calificador	9-22	122(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	122(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	26-29	122(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	30-38	122(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	órbitomalar	órbitomalar	VMN0000	-	-	39-50	122(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	unilateral	unilateral	NC00SC0	C0205092	calificador	51-61	122(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	.	.	Fp	-	-	61-62	122(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	63-65	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	66-77	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	se	se	P00CN000	-	-	78-80	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	comprobaría	comprobar	VMIC3S0	-	-	81-92	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	idealmente	idealmente	RG	-	-	93-103	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	mediante	mediante	SPS00	-	-	104-112	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	TAC	tac	NC00YL0	C0040405	procedimiento	113-116	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	(	(	Fpa	-	-	117-118	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+9	tomografía	tomografía	NCFS000	-	-	118-128	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+10	axial	axial	AQ0CS0	C0205131	calificador	129-134	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	computerizada	computerizada	VMP00SF	-	-	135-148	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	)	)	Fpt	-	-	148-149	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	150-151	122(1)_ANS_clinical_caseMIR	SENT2	-	-
+

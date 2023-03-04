@@ -1,0 +1,115 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	289_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	289_QUEST_clinical_caseMIR	SENT1	-	-
+3	40	40		-	-	10-12	289_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	289_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	289_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332122_1	calificador_1	19-22	289_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	23-35	289_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332122_3	calificador_3	36-38	289_QUEST_clinical_caseMIR	SENT1	-	-
+9	interés	interés	NCMS000	-	-	39-46	289_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	46-47	289_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	47-50	289_QUEST_clinical_caseMIR	SENT1	-	-
+12	presenta	presentar	VMIP3S0	-	-	51-59	289_QUEST_clinical_caseMIR	SENT1	-	-
+13	artritis	artritis	NCFN000	C0263678_1	trastorno_1	60-68	289_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	aguda	agudo	AQ0FS0	C0263678_2	trastorno_2	69-74	289_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	de	de	SPS00	C0332285	atributo	75-77	289_QUEST_clinical_caseMIR	SENT1	-	-
+16	rodilla	rodilla	NCFS000	C1279571#C0230431_1	estructura_corporal_1	78-85	289_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	derecha	derecho	AQ0FS0	C1279571#C0230431_2	estructura_corporal_2	86-93	289_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	de	de	SPS00	C0332285	atributo	94-96	289_QUEST_clinical_caseMIR	SENT1	-	-
+19	5	5	Z	-	-	97-98	289_QUEST_clinical_caseMIR	SENT1	-	-
+20	días	d	NCMP000	-	-	99-103	289_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	104-106	289_QUEST_clinical_caseMIR	SENT1	-	-
+22	evolución	evolución	NCFS000	-	-	107-116	289_QUEST_clinical_caseMIR	SENT1	-	-
+23	así	así	RG	-	-	117-120	289_QUEST_clinical_caseMIR	SENT1	-	-
+24	como	como	SPS00	C0332257	calificador	121-125	289_QUEST_clinical_caseMIR	SENT1	-	-
+25	febrícula	febrícula	NCFS000	-	-	126-135	289_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	de	de	SPS00	C0332285	atributo	136-138	289_QUEST_clinical_caseMIR	SENT1	-	-
+27	hasta	hasta	SPS00	-	-	139-144	289_QUEST_clinical_caseMIR	SENT1	-	-
+28	37,7°C	37,7°C		-	-	145-151	289_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	.	.	Fp	-	-	151-152	289_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	153-155	289_QUEST_clinical_caseMIR	SENT2	-	-
+2	refiere	referir	VMIP3S0	-	-	156-163	289_QUEST_clinical_caseMIR	SENT2	-	-
+3	antecedente	antecedente	NCMS000	-	-	164-175	289_QUEST_clinical_caseMIR	SENT2	-	-
+4	traumático	traumático	AQ0MS0	C0332663	calificador	176-186	289_QUEST_clinical_caseMIR	SENT2	-	-
+5	.	.	Fp	-	-	186-187	289_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	188-196	289_QUEST_clinical_caseMIR	SENT3	-	-
+2	derrame	derrame	NCMS000	C1253936#C0311222_1	trastorno_1	197-204	289_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	articular	articular	VMN0000	C1253936#C0311222_2	trastorno_2	205-214	289_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	,	,	Fc	-	-	214-215	289_QUEST_clinical_caseMIR	SENT3	-	-
+5	calor	calor	NCMS000	C0018837#C0232417	fuerza_física#hallazgo	216-221	289_QUEST_clinical_caseMIR	SENT3	-	-
+6	a	a	SPS00	-	-	222-223	289_QUEST_clinical_caseMIR	SENT3	-	-
+7	la	el	DA0FS0	-	-	224-226	289_QUEST_clinical_caseMIR	SENT3	-	-
+8	palpación	palpación	NCFS000	C0030247	procedimiento	227-236	289_QUEST_clinical_caseMIR	SENT3	-	-
+9	y	y	CC	C1706368	calificador	237-238	289_QUEST_clinical_caseMIR	SENT3	-	-
+10	limitación	limitación	NCFS000	C0449295	atributo	239-249	289_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+11	funcional	funcional	AQ0CS0	C0205245	calificador	250-259	289_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+12	por	por	SPS00	C0678226	atributo	260-263	289_QUEST_clinical_caseMIR	SENT3	-	-
+13	el	el	DA0MS0	-	-	264-266	289_QUEST_clinical_caseMIR	SENT3	-	-
+14	dolor	dolor	NCMS000	C0030193	hallazgo	267-272	289_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+15	.	.	Fp	-	-	272-273	289_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	274-276	289_QUEST_clinical_caseMIR	SENT4	-	-
+2	practica	practicar	VMIP3S0	-	-	277-285	289_QUEST_clinical_caseMIR	SENT4	-	-
+3	artrocentesis	artrocentesis	NC00SC0	C0204854	procedimiento	286-299	289_QUEST_clinical_caseMIR	SENT4	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	300-311	289_QUEST_clinical_caseMIR	SENT4	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	312-314	289_QUEST_clinical_caseMIR	SENT4	-	-
+6	la	el	DA0FS0	-	-	315-317	289_QUEST_clinical_caseMIR	SENT4	-	-
+7	que	que	PR0CN000	-	-	318-321	289_QUEST_clinical_caseMIR	SENT4	-	-
+8	se	se	P00CN000	-	-	322-324	289_QUEST_clinical_caseMIR	SENT4	-	-
+9	evidencian	evidenciar	VMIP3P0	-	-	325-335	289_QUEST_clinical_caseMIR	SENT4	-	-
+10	30000	30000		-	-	336-341	289_QUEST_clinical_caseMIR	SENT4	-	-
+11	cels	células	NC00YL0	-	-	342-346	289_QUEST_clinical_caseMIR	SENT4	-	-
+12	/	/	Fh	-	-	346-347	289_QUEST_clinical_caseMIR	SENT4	-	-
+13	mícroL	mícrol	NCMS000	-	-	347-353	289_QUEST_clinical_caseMIR	SENT4	-	-
+14	con	con	SPS00	C0332251_1	calificador_1	354-357	289_QUEST_clinical_caseMIR	SENT4	-	-
+15	predominio	predominio	NCMS000	C0332251_2	calificador_2	358-368	289_QUEST_clinical_caseMIR	SENT4	-	-
+16	de	de	SPS00	C0332251_3	calificador_3	369-371	289_QUEST_clinical_caseMIR	SENT4	-	-
+17	neutrófilos	neutrófilo	AQ0MP0	C0027950	célula	372-383	289_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	383-384	289_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	385-387	289_QUEST_clinical_caseMIR	SENT5	-	-
+2	el	el	DA0MS0	-	-	388-390	289_QUEST_clinical_caseMIR	SENT5	-	-
+3	examen	examen	NCMS000	-	-	391-397	289_QUEST_clinical_caseMIR	SENT5	-	-
+4	con	con	SPS00	C0332287	atributo	398-401	289_QUEST_clinical_caseMIR	SENT5	-	-
+5	luz	luz	NCFS000	C0524461#C0023693#C1301906	estructura_corporal#fuerza_física#calificador	402-405	289_QUEST_clinical_caseMIR	SENT5	-	-
+6	polarizada	polarizar	VMP00SF	-	-	406-416	289_QUEST_clinical_caseMIR	SENT5	-	-
+7	se	se	P00CN000	-	-	417-419	289_QUEST_clinical_caseMIR	SENT5	-	-
+8	descubren	descubrir	VMIP3P0	-	-	420-429	289_QUEST_clinical_caseMIR	SENT5	-	-
+9	cristales	cristal	NCMP000	-	-	430-439	289_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+10	romboidales	romboidal	AQ0CP0	-	-	440-451	289_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	452-453	289_QUEST_clinical_caseMIR	SENT5	-	-
+12	cilíndricos	cilíndrico	AQ0MP0	C0205114	calificador	454-465	289_QUEST_clinical_caseMIR	SENT5	-	-
+13	con	con	SPS00	C0332287	atributo	466-469	289_QUEST_clinical_caseMIR	SENT5	-	-
+14	birrefringencia	birrefringencia	NCFS000	-	-	470-485	289_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+15	débilmente	débilmente	RG	-	-	486-496	289_QUEST_clinical_caseMIR	SENT5	-	-
+16	positiva	positivo	AQ0FS0	C1446409	calificador	497-505	289_QUEST_clinical_caseMIR	SENT5	-	-
+17	.	.	Fp	-	-	505-506	289_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	507-509	289_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	510-512	289_QUEST_clinical_caseMIR	SENT6	-	-
+3	radiografía	radiografía	NCFS000	C1306645_1	procedimiento_1	513-524	289_QUEST_clinical_caseMIR	SENT6	-	-
+4	simple	simple	NCCS000	C1306645_2	procedimiento_2	525-531	289_QUEST_clinical_caseMIR	SENT6	-	-
+5	de	de	SPS00	C0332285	atributo	532-534	289_QUEST_clinical_caseMIR	SENT6	-	-
+6	rodillas	rodilla	NCFP000	C1963703#C1456798	estructura_corporal	535-543	289_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+7	se	se	P00CN000	-	-	544-546	289_QUEST_clinical_caseMIR	SENT6	-	-
+8	descubren	descubrir	VMIP3P0	-	-	547-556	289_QUEST_clinical_caseMIR	SENT6	-	-
+9	depósitos	depósito	NCMP000	C0442627#C0333562	medio_ambiente#anomalía_morfológica	557-566	289_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+10	radiodensos	radiodenso	AQ0MP0	-	-	567-578	289_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	579-581	289_QUEST_clinical_caseMIR	SENT6	-	-
+12	el	el	DA0MS0	-	-	582-584	289_QUEST_clinical_caseMIR	SENT6	-	-
+13	menisco	menisco	NCMS000	C1305312_1	estructura_corporal_1	585-592	289_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+14	externo	externo	NCMS000	C1305312_2	estructura_corporal_2	593-600	289_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+15	de	de	SPS00	C0332285	atributo	601-603	289_QUEST_clinical_caseMIR	SENT6	-	-
+16	la	el	DA0FS0	-	-	604-606	289_QUEST_clinical_caseMIR	SENT6	-	-
+17	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	607-614	289_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+18	.	.	Fp	-	-	614-615	289_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Señale	señalar	VMM03S0	-	-	616-622	289_QUEST_clinical_caseMIR	SENT7	-	-
+2	la	el	DA0FS0	-	-	623-625	289_QUEST_clinical_caseMIR	SENT7	-	-
+3	respuesta	respuesta	NCFS000	-	-	626-635	289_QUEST_clinical_caseMIR	SENT7	-	-
+4	FALSA	falso	AQ0FS0	C0205237	calificador	636-641	289_QUEST_clinical_caseMIR	SENT7	-	-
+5	:	:	Fd	-	-	641-642	289_QUEST_clinical_caseMIR	SENT7	-	-
+6	.	.	Fp	-	-	642-643	289_QUEST_clinical_caseMIR	SENT7	-	-
+

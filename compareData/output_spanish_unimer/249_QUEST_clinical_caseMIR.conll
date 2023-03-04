@@ -1,0 +1,59 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	249_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	249_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	249_QUEST_clinical_caseMIR	SENT1	-	-
+4	60	60		-	-	13-15	249_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	249_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	249_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	249_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	29-32	249_QUEST_clinical_caseMIR	SENT1	-	-
+9	colitis	colitis	NCFN000	C0009324#C2919828_1	trastorno_1	33-40	249_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	ulcerosa	ulceroso	AQ0FS0	C0009324#C2919828_2	trastorno_2	41-49	249_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	extensa	extenso	AQ0FS0	-	-	50-57	249_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	de	de	SPS00	C0332285	atributo	58-60	249_QUEST_clinical_caseMIR	SENT1	-	-
+13	15	15		-	-	61-63	249_QUEST_clinical_caseMIR	SENT1	-	-
+14	años	año	NCMP000	C0439234	calificador	64-68	249_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	69-71	249_QUEST_clinical_caseMIR	SENT1	-	-
+16	evolución	evolución	NCFS000	-	-	72-81	249_QUEST_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	82-83	249_QUEST_clinical_caseMIR	SENT1	-	-
+18	en	en	SPS00	C0544452_1	calificador_1	84-86	249_QUEST_clinical_caseMIR	SENT1	-	-
+19	remisión	remisión	NCFS000	C0544452_2	calificador_2	87-95	249_QUEST_clinical_caseMIR	SENT1	-	-
+20	clínica	clínico	AQ0FS0	C0205210	calificador	96-103	249_QUEST_clinical_caseMIR	SENT1	-	-
+21	los	el	DA0MP0	-	-	104-107	249_QUEST_clinical_caseMIR	SENT1	-	-
+22	últimos	último	AO0MP0	-	-	108-115	249_QUEST_clinical_caseMIR	SENT1	-	-
+23	3	3		-	-	116-117	249_QUEST_clinical_caseMIR	SENT1	-	-
+24	años	año	NCMP000	C0439234	calificador	118-122	249_QUEST_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	122-123	249_QUEST_clinical_caseMIR	SENT1	-	-
+26	acude	acudir	VMIP3S0	-	-	124-129	249_QUEST_clinical_caseMIR	SENT1	-	-
+27	a	a	SPS00	-	-	130-131	249_QUEST_clinical_caseMIR	SENT1	-	-
+28	nuestra	nuestro	DP1FSP	-	-	132-139	249_QUEST_clinical_caseMIR	SENT1	-	-
+29	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	140-148	249_QUEST_clinical_caseMIR	SENT1	-	-
+30	para	para	SPS00	C0521125	calificador	149-153	249_QUEST_clinical_caseMIR	SENT1	-	-
+31	informar	informar	VMN0000	C0700287	procedimiento	154-162	249_QUEST_clinical_caseMIR	SENT1	-	-
+32	se	se	PP3CN000	-	-	162-164	249_QUEST_clinical_caseMIR	SENT1	-	-
+33	sobre	sobre	SPS00	C1720294#C0205136	calificador	165-170	249_QUEST_clinical_caseMIR	SENT1	-	-
+34	el	el	DA0MS0	-	-	171-173	249_QUEST_clinical_caseMIR	SENT1	-	-
+35	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	174-180	249_QUEST_clinical_caseMIR	SENT1	-	-
+36	de	de	SPS00	C0035647_2	calificador_2	181-183	249_QUEST_clinical_caseMIR	SENT1	-	-
+37	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	184-190	249_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+38	colorrectal	colorrectal	NC00SC0	C0555952	calificador	191-202	249_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+39	y	y	CC	C1706368	calificador	203-204	249_QUEST_clinical_caseMIR	SENT1	-	-
+40	sobre	sobre	SPS00	C1720294#C0205136	calificador	205-210	249_QUEST_clinical_caseMIR	SENT1	-	-
+41	la	el	DA0FS0	-	-	211-213	249_QUEST_clinical_caseMIR	SENT1	-	-
+42	posibilidad	posibilidad	NCFS000	-	-	214-225	249_QUEST_clinical_caseMIR	SENT1	-	-
+43	de	de	SPS00	C0332285	atributo	226-228	249_QUEST_clinical_caseMIR	SENT1	-	-
+44	participar	participar	VMN0000	-	-	229-239	249_QUEST_clinical_caseMIR	SENT1	-	-
+45	en	en	SPS00	C1720294#C0332285	calificador#atributo	240-242	249_QUEST_clinical_caseMIR	SENT1	-	-
+46	programas	programa	NCMP000	-	-	243-252	249_QUEST_clinical_caseMIR	SENT1	-	-
+47	de	de	SPS00	C0332285	atributo	253-255	249_QUEST_clinical_caseMIR	SENT1	-	-
+48	prevención	prevención	NCFS000	-	-	256-266	249_QUEST_clinical_caseMIR	SENT1	-	-
+49	.	.	Fp	-	-	266-267	249_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	268-270	249_QUEST_clinical_caseMIR	SENT2	-	-
+2	correcto	correcto	AQ0MS0	C0205170	calificador	271-279	249_QUEST_clinical_caseMIR	SENT2	-	-
+3	informar	informar	VMN0000	C0700287	procedimiento	280-288	249_QUEST_clinical_caseMIR	SENT2	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	288-290	249_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	291-293	249_QUEST_clinical_caseMIR	SENT2	-	-
+6	que	que	CS	-	-	294-297	249_QUEST_clinical_caseMIR	SENT2	-	-
+7	:	:	Fd	-	-	297-298	249_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	298-299	249_QUEST_clinical_caseMIR	SENT2	-	-
+

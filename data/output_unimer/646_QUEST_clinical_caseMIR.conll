@@ -1,0 +1,52 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	646_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	646_QUEST_clinical_caseMIR	SENT1	-	-
+3	76	76		-	-	9-11	646_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	646_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	646_QUEST_clinical_caseMIR	SENT1	-	-
+6	clínica	clínica	NCFS000	C0442592	medio_ambiente	21-28	646_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	29-31	646_QUEST_clinical_caseMIR	SENT1	-	-
+8	ictericia	ictericia	NCFS000	C0022346	hallazgo	32-41	646_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	indolora	indoloro	AQ0FS0	C0234226	calificador	42-50	646_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	de	de	SPS00	C0332285	atributo	51-53	646_QUEST_clinical_caseMIR	SENT1	-	-
+11	3	3		-	-	54-55	646_QUEST_clinical_caseMIR	SENT1	-	-
+12	semanas	semana	NCFP000	C0439230	calificador	56-63	646_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	64-66	646_QUEST_clinical_caseMIR	SENT1	-	-
+14	evolución	evolución	NCFS000	-	-	67-76	646_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	76-77	646_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	646_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	81-83	646_QUEST_clinical_caseMIR	SENT2	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	84-91	646_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	92-95	646_QUEST_clinical_caseMIR	SENT2	-	-
+5	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	96-105	646_QUEST_clinical_caseMIR	SENT2	-	-
+6	abdominal	abdominal	AQ0CS0	C0000726	calificador	106-115	646_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	se	se	P00CN000	-	-	116-118	646_QUEST_clinical_caseMIR	SENT2	-	-
+8	identifica	identificar	VMIP3S0	-	-	119-129	646_QUEST_clinical_caseMIR	SENT2	-	-
+9	una	una		C0205447_1	calificador_1	130-133	646_QUEST_clinical_caseMIR	SENT2	-	-
+10	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	134-140	646_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	141-143	646_QUEST_clinical_caseMIR	SENT2	-	-
+12	3	3	Z	-	-	144-145	646_QUEST_clinical_caseMIR	SENT2	-	-
+13	cm	cm	NCMN000	-	-	146-148	646_QUEST_clinical_caseMIR	SENT2	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	149-151	646_QUEST_clinical_caseMIR	SENT2	-	-
+15	cabeza	cabeza	NCFS000	C0018670#C1281590	estructura_corporal	152-158	646_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	pancreática	pancreático	AQ0FS0	-	-	159-170	646_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	170-171	646_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	172-173	646_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	173-177	646_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	178-180	646_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	181-183	646_QUEST_clinical_caseMIR	SENT3	-	-
+5	primer	1	AO0MS0	-	-	184-190	646_QUEST_clinical_caseMIR	SENT3	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	191-198	646_QUEST_clinical_caseMIR	SENT3	-	-
+7	complementario	complementario	AQ0MS0	-	-	199-213	646_QUEST_clinical_caseMIR	SENT3	-	-
+8	para	para	SPS00	C0521125	calificador	214-218	646_QUEST_clinical_caseMIR	SENT3	-	-
+9	el	el	DA0MS0	-	-	219-221	646_QUEST_clinical_caseMIR	SENT3	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	222-233	646_QUEST_clinical_caseMIR	SENT3	-	-
+11	y	y	CC	C1706368	calificador	234-235	646_QUEST_clinical_caseMIR	SENT3	-	-
+12	estadificación	estadificación	NC00SC0	C0332305	atributo	236-250	646_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	251-253	646_QUEST_clinical_caseMIR	SENT3	-	-
+14	esta	este	DD0FS0	-	-	254-258	646_QUEST_clinical_caseMIR	SENT3	-	-
+15	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	259-265	646_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	?	?	Fit	-	-	265-266	646_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	266-267	646_QUEST_clinical_caseMIR	SENT3	-	-
+

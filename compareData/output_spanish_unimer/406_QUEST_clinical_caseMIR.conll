@@ -1,0 +1,81 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	406_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	406_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	406_QUEST_clinical_caseMIR	SENT1	-	-
+4	18	18		-	-	13-15	406_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	406_QUEST_clinical_caseMIR	SENT1	-	-
+6	llega	llegar	VMIP3S0	-	-	21-26	406_QUEST_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	27-29	406_QUEST_clinical_caseMIR	SENT1	-	-
+8	servicio	servicio	NCMS000	-	-	30-38	406_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	39-41	406_QUEST_clinical_caseMIR	SENT1	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	42-51	406_QUEST_clinical_caseMIR	SENT1	-	-
+11	del	del	SP+DA	-	-	52-55	406_QUEST_clinical_caseMIR	SENT1	-	-
+12	hospital	hospital	NCMS000	C1510665	medio_ambiente	56-64	406_QUEST_clinical_caseMIR	SENT1	-	-
+13	trasladado	trasladar	VMP00SM	-	-	65-75	406_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	76-79	406_QUEST_clinical_caseMIR	SENT1	-	-
+15	una	una		C0205447_1	calificador_1	80-83	406_QUEST_clinical_caseMIR	SENT1	-	-
+16	unidad	unidad	NCFS000	C0439148	calificador	84-90	406_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	91-93	406_QUEST_clinical_caseMIR	SENT1	-	-
+18	soporte	soporte	NCMS000	C0085873_1	procedimiento_1	94-101	406_QUEST_clinical_caseMIR	SENT1	-	-
+19	vital	vital	NC00SC0	C0085873_2	procedimiento_2	102-107	406_QUEST_clinical_caseMIR	SENT1	-	-
+20	básico	básico	AQ0MS0	C0085873_3	procedimiento_3	108-114	406_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	114-115	406_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Ha	haber	VAIP3S0	-	-	116-118	406_QUEST_clinical_caseMIR	SENT2	-	-
+2	sido	ser	VSP00SM	-	-	119-123	406_QUEST_clinical_caseMIR	SENT2	-	-
+3	atropellado	atropellar	VMP00SM	-	-	124-135	406_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	136-139	406_QUEST_clinical_caseMIR	SENT2	-	-
+5	un	un		C0205447_1	calificador_1	140-142	406_QUEST_clinical_caseMIR	SENT2	-	-
+6	automóvil	automóvil	NCMS000	C0004381	objeto_físico	143-152	406_QUEST_clinical_caseMIR	SENT2	-	-
+7	cuando	cuando	PR000000	-	-	153-159	406_QUEST_clinical_caseMIR	SENT2	-	-
+8	iba	ir	VMII3S0	-	-	160-163	406_QUEST_clinical_caseMIR	SENT2	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	406_QUEST_clinical_caseMIR	SENT2	-	-
+10	bicicleta	bicicleta	NCFS000	C0005375	objeto_físico	167-176	406_QUEST_clinical_caseMIR	SENT2	-	-
+11	.	.	Fp	-	-	176-177	406_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	178-179	406_QUEST_clinical_caseMIR	SENT3	-	-
+2	su	su	DP3CS0	-	-	180-182	406_QUEST_clinical_caseMIR	SENT3	-	-
+3	llegada	llegada	NCFS000	-	-	183-190	406_QUEST_clinical_caseMIR	SENT3	-	-
+4	tiene	tener	VMIP3S0	-	-	191-196	406_QUEST_clinical_caseMIR	SENT3	-	-
+5	una	una		C0205447_1	calificador_1	197-200	406_QUEST_clinical_caseMIR	SENT3	-	-
+6	frecuencia	frecuencia	NCFS000	C0018810_1	entidad_observable_1	201-211	406_QUEST_clinical_caseMIR	SENT3	-	-
+7	cardíaca	cardíaco	NCFS000	C0018810_2	entidad_observable_2	212-220	406_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+8	de	de	SPS00	C0332285	atributo	221-223	406_QUEST_clinical_caseMIR	SENT3	-	-
+9	115	115		-	-	224-227	406_QUEST_clinical_caseMIR	SENT3	-	-
+10	lpm	lpm	NC00YL0	-	-	228-231	406_QUEST_clinical_caseMIR	SENT3	-	-
+11	,	,	Fc	-	-	231-232	406_QUEST_clinical_caseMIR	SENT3	-	-
+12	una	una		C0205447_1	calificador_1	233-236	406_QUEST_clinical_caseMIR	SENT3	-	-
+13	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	237-244	406_QUEST_clinical_caseMIR	SENT3	-	-
+14	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	245-253	406_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+15	de	de	SPS00	C0332285	atributo	254-256	406_QUEST_clinical_caseMIR	SENT3	-	-
+16	110/75	110/75	Z	-	-	257-263	406_QUEST_clinical_caseMIR	SENT3	-	-
+17	mmHg	mmHg	NCMP000	-	-	264-268	406_QUEST_clinical_caseMIR	SENT3	-	-
+18	,	,	Fc	-	-	268-269	406_QUEST_clinical_caseMIR	SENT3	-	-
+19	pulso	pulso	NCMS000	C0232142_1	entidad_observable_1	270-275	406_QUEST_clinical_caseMIR	SENT3	-	-
+20	radial	radial	NC00SC0	C0232142_2	entidad_observable_2	276-282	406_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+21	palpable	palpable	AQ0CS0	C0522499	calificador	283-291	406_QUEST_clinical_caseMIR	SENT3	-	-
+22	,	,	Fc	-	-	291-292	406_QUEST_clinical_caseMIR	SENT3	-	-
+23	un	un		C0205447_1	calificador_1	293-295	406_QUEST_clinical_caseMIR	SENT3	-	-
+24	relleno	relleno	NCMS000	C0425716_1	hallazgo#función_1	296-303	406_QUEST_clinical_caseMIR	SENT3	-	-
+25	capilar	capilar	NCMS000	C0425716_2	hallazgo#función_2	304-311	406_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+26	de	de	SPS00	C0332285	atributo	312-314	406_QUEST_clinical_caseMIR	SENT3	-	-
+27	2,5	2,5		-	-	315-318	406_QUEST_clinical_caseMIR	SENT3	-	-
+28	segundos	segundo	NCMP000	C0205436	calificador	319-327	406_QUEST_clinical_caseMIR	SENT3	-	-
+29	y	y	CC	C1706368	calificador	328-329	406_QUEST_clinical_caseMIR	SENT3	-	-
+30	una	una		C0205447_1	calificador_1	330-333	406_QUEST_clinical_caseMIR	SENT3	-	-
+31	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	334-344	406_QUEST_clinical_caseMIR	SENT3	-	-
+32	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	345-357	406_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+33	de	de	SPS00	C0332285	atributo	358-360	406_QUEST_clinical_caseMIR	SENT3	-	-
+34	25	25		-	-	361-363	406_QUEST_clinical_caseMIR	SENT3	-	-
+35	rpm	r.p.m.	NCFN000	-	-	364-367	406_QUEST_clinical_caseMIR	SENT3	-	-
+36	.	.	Fp	-	-	367-368	406_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	369-370	406_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	PT0CN000	-	-	370-373	406_QUEST_clinical_caseMIR	SENT4	-	-
+3	nos	nos	PP1CP000	-	-	374-377	406_QUEST_clinical_caseMIR	SENT4	-	-
+4	indican	indicar	VMIP3P0	-	-	378-385	406_QUEST_clinical_caseMIR	SENT4	-	-
+5	estos	este	DD0MP0	-	-	386-391	406_QUEST_clinical_caseMIR	SENT4	-	-
+6	datos	dato	NCMP000	-	-	392-397	406_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	397-398	406_QUEST_clinical_caseMIR	SENT4	-	-
+8	:	:	Fd	-	-	398-399	406_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	399-400	406_QUEST_clinical_caseMIR	SENT4	-	-
+

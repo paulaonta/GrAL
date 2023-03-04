@@ -1,0 +1,45 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	372_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	372_QUEST_clinical_caseMIR	SENT1	-	-
+3	36	36		-	-	9-11	372_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	372_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	372_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	372_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	372_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	29-31	372_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	32-40	372_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	41-44	372_QUEST_clinical_caseMIR	SENT1	-	-
+11	haber	haber	VAN0000	-	-	45-50	372_QUEST_clinical_caseMIR	SENT1	-	-
+12	sufrido	sufrir	VMP00SM	-	-	51-58	372_QUEST_clinical_caseMIR	SENT1	-	-
+13	tres	tres		-	-	59-63	372_QUEST_clinical_caseMIR	SENT1	-	-
+14	abortos	aborto	NCMP000	C0156543#C1281512	trastorno#estructura_corporal	64-71	372_QUEST_clinical_caseMIR	SENT1	-	-
+15	espontáneos	espontáneo	AQ0MP0	C0205359	calificador	72-83	372_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	84-86	372_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	87-89	372_QUEST_clinical_caseMIR	SENT1	-	-
+18	primer	1	AO0MS0	C0032979_1	calificador_1	90-96	372_QUEST_clinical_caseMIR	SENT1	-	-
+19	trimestre	trimestre	NCMS000	C0032979_2	calificador_2	97-106	372_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	106-107	372_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	108-110	372_QUEST_clinical_caseMIR	SENT2	-	-
+2	ha	haber	VAIP3S0	-	-	111-113	372_QUEST_clinical_caseMIR	SENT2	-	-
+3	tenido	tener	VMP00SM	-	-	114-120	372_QUEST_clinical_caseMIR	SENT2	-	-
+4	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	121-127	372_QUEST_clinical_caseMIR	SENT2	-	-
+5	embarazo	embarazo	NCMS000	C0232991_1	hallazgo_1	128-136	372_QUEST_clinical_caseMIR	SENT2	-	-
+6	a	a	SPS00	C0232991_2	hallazgo_2	137-138	372_QUEST_clinical_caseMIR	SENT2	-	-
+7	término	término	NCMS000	C0232991_3	hallazgo_3	139-146	372_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	146-147	372_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Entre	entre	SPS00	C0205103	calificador	148-153	372_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	154-157	372_QUEST_clinical_caseMIR	SENT3	-	-
+3	estudios	estudio	NCMP000	C0557651	medio_ambiente	158-166	372_QUEST_clinical_caseMIR	SENT3	-	-
+4	que	que	PR0CN000	-	-	167-170	372_QUEST_clinical_caseMIR	SENT3	-	-
+5	solicitará	solicitar	VMIF3S0	-	-	171-181	372_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1279901_1	calificador_1	182-184	372_QUEST_clinical_caseMIR	SENT3	-	-
+7	primer	1	AO0MS0	C1279901_2	calificador_2	185-191	372_QUEST_clinical_caseMIR	SENT3	-	-
+8	término	término	NCMS000	C1279901_3	calificador_3	192-199	372_QUEST_clinical_caseMIR	SENT3	-	-
+9	,	,	Fc	-	-	199-200	372_QUEST_clinical_caseMIR	SENT3	-	-
+10	NO	no	RN	C1298908	calificador	201-203	372_QUEST_clinical_caseMIR	SENT3	-	-
+11	se	se	P00CN000	-	-	204-206	372_QUEST_clinical_caseMIR	SENT3	-	-
+12	incluye	incluir	VMIP3S0	-	-	207-214	372_QUEST_clinical_caseMIR	SENT3	-	-
+13	:	:	Fd	-	-	214-215	372_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	215-216	372_QUEST_clinical_caseMIR	SENT3	-	-
+

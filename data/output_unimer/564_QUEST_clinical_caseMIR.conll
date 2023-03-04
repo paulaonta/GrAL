@@ -1,0 +1,53 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	564_QUEST_clinical_caseMIR	SENT1	-	-
+2	oncológico	oncológico	AQ0MS0	C0205478	calificador	9-19	564_QUEST_clinical_caseMIR	SENT1	-	-
+3	portador	portador	NCMS000	C0560175	hallazgo	20-28	564_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	29-31	564_QUEST_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	32-35	564_QUEST_clinical_caseMIR	SENT1	-	-
+6	sonda	sondar	VMM02S0	C0179802_1	objeto_físico_1	36-41	564_QUEST_clinical_caseMIR	SENT1	-	-
+7	vesical	vesical	AQ0CS0	C0179802_2	objeto_físico_2	42-49	564_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	con	con	SPS00	C0332287	atributo	50-53	564_QUEST_clinical_caseMIR	SENT1	-	-
+9	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	54-62	564_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332147_2	calificador_2	63-65	564_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	66-69	564_QUEST_clinical_caseMIR	SENT1	-	-
+12	infección	infección	NCFS000	C0042029_1	trastorno_1	70-79	564_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+13	urinaria	urinario	AQ0FS0	C0042029_2	trastorno_2	80-88	564_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	complicada	complicar	VMP00SF	-	-	89-99	564_QUEST_clinical_caseMIR	SENT1	-	-
+15	que	que	PR0CN000	-	-	100-103	564_QUEST_clinical_caseMIR	SENT1	-	-
+16	recibe	recibir	VMIP3S0	-	-	104-110	564_QUEST_clinical_caseMIR	SENT1	-	-
+17	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	111-122	564_QUEST_clinical_caseMIR	SENT1	-	-
+18	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	123-131	564_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	132-135	564_QUEST_clinical_caseMIR	SENT1	-	-
+20	cefotaxima	cefotaxima	NC00SC0	C0007554	sustancia	136-146	564_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	iv.	iv.	VMIP3S0	-	-	147-150	564_QUEST_clinical_caseMIR	SENT1	-	-
+22	El	el	DA0MS0	-	-	151-153	564_QUEST_clinical_caseMIR	SENT1	-	-
+23	laboratorio	laboratorio	NCMS000	C0022877	medio_ambiente	154-165	564_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	166-168	564_QUEST_clinical_caseMIR	SENT1	-	-
+25	microbiología	microbiología	NCFS000	-	-	169-182	564_QUEST_clinical_caseMIR	SENT1	-	-
+26	informa	informar	VMIP3S0	C0700287	procedimiento	183-190	564_QUEST_clinical_caseMIR	SENT1	-	-
+27	del	del	SP+DA	-	-	191-194	564_QUEST_clinical_caseMIR	SENT1	-	-
+28	crecimiento	crecimiento	NCMS000	-	-	195-206	564_QUEST_clinical_caseMIR	SENT1	-	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	207-209	564_QUEST_clinical_caseMIR	SENT1	-	-
+30	los	el	DA0MP0	-	-	210-213	564_QUEST_clinical_caseMIR	SENT1	-	-
+31	hemocultivos	hemocultivos	NCMP000	-	-	214-226	564_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332285	atributo	227-229	564_QUEST_clinical_caseMIR	SENT1	-	-
+33	Pseudomonas	pseudom	NCFP00V	-	-	230-241	564_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+34	aeruginosa	aeruginosa		-	-	242-252	564_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+35	,	,	Fc	-	-	252-253	564_QUEST_clinical_caseMIR	SENT1	-	-
+36	pendiente	pendiente	AQ0CS0	-	-	254-263	564_QUEST_clinical_caseMIR	SENT1	-	-
+37	del	del	SP+DA	-	-	264-267	564_QUEST_clinical_caseMIR	SENT1	-	-
+38	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	268-280	564_QUEST_clinical_caseMIR	SENT1	-	-
+39	.	.	Fp	-	-	280-281	564_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Con	con	SPS00	C0332287	atributo	282-285	564_QUEST_clinical_caseMIR	SENT2	-	-
+2	esta	este	DD0FS0	-	-	286-290	564_QUEST_clinical_caseMIR	SENT2	-	-
+3	información	información	NCFS000	-	-	291-302	564_QUEST_clinical_caseMIR	SENT2	-	-
+4	preliminar	preliminar	AQ0CS0	C0439611	calificador	303-313	564_QUEST_clinical_caseMIR	SENT2	-	-
+5	,	,	Fc	-	-	313-314	564_QUEST_clinical_caseMIR	SENT2	-	-
+6	¿	¿	Fia	-	-	315-316	564_QUEST_clinical_caseMIR	SENT2	-	-
+7	qué	qué	DE0CN0	-	-	316-319	564_QUEST_clinical_caseMIR	SENT2	-	-
+8	respuesta	respuesta	NCFS000	-	-	320-329	564_QUEST_clinical_caseMIR	SENT2	-	-
+9	es	ser	VSIP3S0	-	-	330-332	564_QUEST_clinical_caseMIR	SENT2	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	333-341	564_QUEST_clinical_caseMIR	SENT2	-	-
+11	?	?	Fit	-	-	341-342	564_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	342-343	564_QUEST_clinical_caseMIR	SENT2	-	-
+

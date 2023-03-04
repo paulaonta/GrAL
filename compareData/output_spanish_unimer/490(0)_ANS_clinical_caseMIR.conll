@@ -1,0 +1,17 @@
+1	Actitud	actitud	NCFS000	C0004271	entidad_observable	0-7	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	expectante	expectante	AQ0CS0	-	-	8-18	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	19-22	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	antihipertensivos	antihipertensivos	NC00AO0	-	-	23-40	490(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	y	y	CC	C1706368	calificador	41-42	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	sulfato	sulfato	NCMS000	C0024480#C0772046_1	sustancia_1	43-50	490(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	de	de	SPS00	C0024480#C0772046_2	sustancia_2	51-53	490(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	magnesio	magnesio	NCMS000	C0024480#C0772046_3	sustancia_3	54-62	490(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	hasta	hasta	SPS00	-	-	63-68	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	69-71	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	mejora	mejora	NCFS000	-	-	72-78	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	79-81	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	las	el	DA0FP0	-	-	82-85	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	86-95	490(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	maternas	materno	AQ0FP0	-	-	96-104	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	105-106	490(0)_ANS_clinical_caseMIR	SENT1	-	-
+

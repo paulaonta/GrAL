@@ -1,0 +1,12 @@
+1	Insuficiencia	insuficiencia	NCFS000	C0035229_1	hallazgo#trastorno_1	0-13	66(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	respiratoria	respiratorio	AQ0FS0	C0035229_2	hallazgo#trastorno_2	14-26	66(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	normocapnica	normocapnica	AQ0FS00	-	-	27-39	66(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	crónica	crónico	AQ0FS0	C0205191	calificador	40-47	66(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+5	,	,	Fc	-	-	47-48	66(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332288	atributo	49-52	66(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	alteración	alteración	NCFS000	C0575090_1	hallazgo_1	53-63	66(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+8	del	del	SP+DA	C0575090_2	hallazgo_2	64-67	66(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	equilibrio	equilibrio	NCMS000	C0575090_3	hallazgo_3	68-78	66(2)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+10	acido-base	acido-base	NCCS000	-	-	79-89	66(2)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+11	.	.	Fp	-	-	90-91	66(2)_ANS_clinical_caseMIR	SENT1	-	-
+

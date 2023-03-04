@@ -1,0 +1,11 @@
+1	Iniciaríamos	iniciar	VMIC1P0	-	-	0-12	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	13-24	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	25-36	480(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	tan	tan	RG	-	-	37-40	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	pronto	pronto	RG	-	-	41-47	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	como	como	SPS00	C0332257	calificador	48-52	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	sospechemos	sospechar	VMSP1P0	-	-	53-64	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	65-67	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	68-79	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	80-81	480(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,14 @@
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	282(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	con	con	SPS00	C0332287	atributo	14-17	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	FOLFIRI	folfiri	NCCS000	-	-	18-25	282(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	(	(	Fpa	-	-	26-27	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	fluorouracilo	fluorouracilo	NC00SC0	C0016360	sustancia	27-40	282(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	,	,	Fc	-	-	40-41	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	leucovorin	leucovorin	NCCN000	-	-	42-52	282(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	e	y	CC	C1706368	calificador	53-54	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	irinotecan	irinotecan	NC00BO0	-	-	55-65	282(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	)	)	Fpt	-	-	65-66	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	más	más	RG	C0205172	calificador	67-70	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	bevacizumab	bevacizumab	NC00SC0	C0796392	producto#sustancia	71-82	282(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	.	.	Fp	-	-	83-84	282(0)_ANS_clinical_caseMIR	SENT1	-	-
+

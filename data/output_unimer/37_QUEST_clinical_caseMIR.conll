@@ -1,0 +1,106 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	37_QUEST_clinical_caseMIR	SENT1	-	-
+2	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	3-8	37_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	37_QUEST_clinical_caseMIR	SENT1	-	-
+4	80	80		-	-	12-14	37_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	37_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	19-20	37_QUEST_clinical_caseMIR	SENT1	-	-
+7	diabético	diabético	NCMS000	-	-	21-30	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	31-33	37_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	34-38	37_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	39-41	37_QUEST_clinical_caseMIR	SENT1	-	-
+11	evolución	evolución	NCFS000	-	-	42-51	37_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	51-52	37_QUEST_clinical_caseMIR	SENT1	-	-
+13	acudió	acudir	VMIS3S0	-	-	53-59	37_QUEST_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	60-61	37_QUEST_clinical_caseMIR	SENT1	-	-
+15	consulta	consultar	VMM02S0	C1704447_1	calificador_1	62-70	37_QUEST_clinical_caseMIR	SENT1	-	-
+16	por	por	SPS00	C1704447_2	calificador_2	71-74	37_QUEST_clinical_caseMIR	SENT1	-	-
+17	rigidez	rigidez	NCFS000	C0427008#C0026837	hallazgo	75-82	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	de	de	SPS00	C0332285	atributo	83-85	37_QUEST_clinical_caseMIR	SENT1	-	-
+19	raquis	raquis	NCMN000	C1267072	estructura_corporal	86-92	37_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	de	de	SPS00	C0332285	atributo	93-95	37_QUEST_clinical_caseMIR	SENT1	-	-
+21	10	10		-	-	96-98	37_QUEST_clinical_caseMIR	SENT1	-	-
+22	años	año	NCMP000	C0439234	calificador	99-103	37_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	104-106	37_QUEST_clinical_caseMIR	SENT1	-	-
+24	evolución	evolución	NCFS000	-	-	107-116	37_QUEST_clinical_caseMIR	SENT1	-	-
+25	.	.	Fp	-	-	116-117	37_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	118-120	37_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	121-123	37_QUEST_clinical_caseMIR	SENT2	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	124-133	37_QUEST_clinical_caseMIR	SENT2	-	-
+4	dirigida	dirigir	VMP00SF	-	-	134-142	37_QUEST_clinical_caseMIR	SENT2	-	-
+5	no	no	RN	C1298908	calificador	143-145	37_QUEST_clinical_caseMIR	SENT2	-	-
+6	refería	referir	VMII3S0	-	-	146-153	37_QUEST_clinical_caseMIR	SENT2	-	-
+7	dolor	dolor	NCMS000	C0030193	hallazgo	154-159	37_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+8	alguno	alguno	PI0MS000	C0205392	calificador	160-166	37_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	166-167	37_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	168-170	37_QUEST_clinical_caseMIR	SENT3	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	171-182	37_QUEST_clinical_caseMIR	SENT3	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	183-189	37_QUEST_clinical_caseMIR	SENT3	-	-
+4	evidenció	evidenciar	VMIS3S0	-	-	190-199	37_QUEST_clinical_caseMIR	SENT3	-	-
+5	una	una		C0205447_1	calificador_1	200-203	37_QUEST_clinical_caseMIR	SENT3	-	-
+6	gran	gran	AQ0CS0	C0549177	calificador	204-208	37_QUEST_clinical_caseMIR	SENT3	-	-
+7	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	209-220	37_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	221-223	37_QUEST_clinical_caseMIR	SENT3	-	-
+9	la	el	DA0FS0	-	-	224-226	37_QUEST_clinical_caseMIR	SENT3	-	-
+10	flexo	flexo	NCMS000	-	-	227-232	37_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	233-242	37_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	242-243	37_QUEST_clinical_caseMIR	SENT3	-	-
+13	flexiones	flexión	NCFP000	C0231452	función	244-253	37_QUEST_clinical_caseMIR	SENT3	-	-
+14	laterales	lateral	AQ0CP0	C0205093	calificador	254-263	37_QUEST_clinical_caseMIR	SENT3	-	-
+15	y	y	CC	C1706368	calificador	264-265	37_QUEST_clinical_caseMIR	SENT3	-	-
+16	rotaciones	rotación	NCFP000	C0677597	entidad_observable	266-276	37_QUEST_clinical_caseMIR	SENT3	-	-
+17	del	del	SP+DA	-	-	277-280	37_QUEST_clinical_caseMIR	SENT3	-	-
+18	raquis	raquis	NCMN000	C1267072	estructura_corporal	281-287	37_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	288-296	37_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+20	.	.	Fp	-	-	296-297	37_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	298-300	37_QUEST_clinical_caseMIR	SENT4	-	-
+2	raquis	raquis	NCMN000	C1267072	estructura_corporal	301-307	37_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	dorsal	dorsal	AQ0CS0	C0205095#C0439781	calificador	308-314	37_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+4	y	y	CC	C1706368	calificador	315-316	37_QUEST_clinical_caseMIR	SENT4	-	-
+5	lumbar	lumbar	AQ0CS0	C0024090	calificador	317-323	37_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	también	también	RG	-	-	324-331	37_QUEST_clinical_caseMIR	SENT4	-	-
+7	estaban	estar	VAII3P0	-	-	332-339	37_QUEST_clinical_caseMIR	SENT4	-	-
+8	limitado	limitar	VMP00SM	-	-	340-348	37_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	348-349	37_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	350-352	37_QUEST_clinical_caseMIR	SENT5	-	-
+2	radiología	radiología	NCFS000	-	-	353-363	37_QUEST_clinical_caseMIR	SENT5	-	-
+3	evidenció	evidenciar	VMIS3S0	-	-	364-373	37_QUEST_clinical_caseMIR	SENT5	-	-
+4	calcificaciones	calcificación	NCFP000	C1533591	-	374-389	37_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	390-392	37_QUEST_clinical_caseMIR	SENT5	-	-
+6	la	el	DA0FS0	-	-	393-395	37_QUEST_clinical_caseMIR	SENT5	-	-
+7	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	396-400	37_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+8	antero-lateral	antero-lateral	AQ0CS00	-	-	401-415	37_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+9	de	de	SPS00	C0332285	atributo	416-418	37_QUEST_clinical_caseMIR	SENT5	-	-
+10	los	el	DA0MP0	-	-	419-422	37_QUEST_clinical_caseMIR	SENT5	-	-
+11	cuerpos	cuerpo	NCMP000	-	-	423-430	37_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+12	vertebrales	vertebral	AQ0CP0	-	-	431-442	37_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+13	formando	formar	VMG0000	-	-	443-451	37_QUEST_clinical_caseMIR	SENT5	-	-
+14	puentes	puente	NCMP000	C0185033#C0741847#C0813207	procedimiento	452-459	37_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+15	óseos	óseo	AQ0MP0	C0443157	calificador	460-465	37_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+16	intervertebrales	intervertebral	AQ0CP0	C0442106	calificador	466-482	37_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+17	,	,	Fc	-	-	482-483	37_QUEST_clinical_caseMIR	SENT5	-	-
+18	que	que	PR0CN000	-	-	484-487	37_QUEST_clinical_caseMIR	SENT5	-	-
+19	predominaban	predominar	VMII3P0	-	-	488-500	37_QUEST_clinical_caseMIR	SENT5	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	501-503	37_QUEST_clinical_caseMIR	SENT5	-	-
+21	lado	lado	NCMS000	C0444532#C0205090#C0450415_1	calificador_1	504-508	37_QUEST_clinical_caseMIR	SENT5	-	-
+22	derecho	derecho	NCMS000	C0444532#C0205090#C0450415_2	calificador_2	509-516	37_QUEST_clinical_caseMIR	SENT5	-	-
+23	:	:	Fd	-	-	516-517	37_QUEST_clinical_caseMIR	SENT5	-	-
+24	el	el	DA0MS0	-	-	518-520	37_QUEST_clinical_caseMIR	SENT5	-	-
+25	espacio	espacio	NCMS000	-	-	521-528	37_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+26	discal	discal	AQ0CS0	-	-	529-535	37_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+27	estaba	estar	VAII3S0	-	-	536-542	37_QUEST_clinical_caseMIR	SENT5	-	-
+28	conservado	conservar	VMP00SM	-	-	543-553	37_QUEST_clinical_caseMIR	SENT5	-	-
+29	.	.	Fp	-	-	553-554	37_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	555-556	37_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cual	cual	PR0CS000	-	-	556-560	37_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	561-563	37_QUEST_clinical_caseMIR	SENT6	-	-
+4	su	su	DP3CS0	-	-	564-566	37_QUEST_clinical_caseMIR	SENT6	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	567-578	37_QUEST_clinical_caseMIR	SENT6	-	-
+6	?	?	Fit	-	-	578-579	37_QUEST_clinical_caseMIR	SENT6	-	-
+7	:	:	Fd	-	-	579-580	37_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	580-581	37_QUEST_clinical_caseMIR	SENT6	-	-
+

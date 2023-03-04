@@ -1,0 +1,109 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	2_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	2_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	2_QUEST_clinical_caseMIR	SENT1	-	-
+4	76	76		-	-	13-15	2_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	2_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332288	atributo	21-24	2_QUEST_clinical_caseMIR	SENT1	-	-
+7	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	25-30	2_QUEST_clinical_caseMIR	SENT1	-	-
+8	antecedentes	antecedente	NCMP000	-	-	31-43	2_QUEST_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	44-47	2_QUEST_clinical_caseMIR	SENT1	-	-
+10	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	48-60	2_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	61-69	2_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	,	,	Fc	-	-	69-70	2_QUEST_clinical_caseMIR	SENT1	-	-
+13	consulta	consultar	VMM02S0	C1704447_1	calificador_1	71-79	2_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C1704447_2	calificador_2	80-83	2_QUEST_clinical_caseMIR	SENT1	-	-
+15	ictericia	ictericia	NCFS000	C0022346	hallazgo	84-93	2_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	indolora	indoloro	AQ0FS0	C0234226	calificador	94-102	2_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	y	y	CC	C1706368	calificador	103-104	2_QUEST_clinical_caseMIR	SENT1	-	-
+18	prurito	prurito	NCMS000	C0036262#C0033774_1	trastorno#hallazgo_1	105-112	2_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	con	con	SPS00	C0332287	atributo	113-116	2_QUEST_clinical_caseMIR	SENT1	-	-
+20	anorexia	anorexia	NCFS000	C1971624	hallazgo	117-125	2_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	.	.	Fp	-	-	125-126	2_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Analíticamente	analíticamente	RG	-	-	127-141	2_QUEST_clinical_caseMIR	SENT2	-	-
+2	destaca	destacar	VMIP3S0	-	-	142-149	2_QUEST_clinical_caseMIR	SENT2	-	-
+3	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	150-161	2_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	162-164	2_QUEST_clinical_caseMIR	SENT2	-	-
+5	12	12	Z	-	-	165-167	2_QUEST_clinical_caseMIR	SENT2	-	-
+6	mg	mg	NCMN000	-	-	168-170	2_QUEST_clinical_caseMIR	SENT2	-	-
+7	/	/	Fh	-	-	170-171	2_QUEST_clinical_caseMIR	SENT2	-	-
+8	dl	decilitro	NCMN000	C0439241	calificador	171-173	2_QUEST_clinical_caseMIR	SENT2	-	-
+9	(	(	Fpa	-	-	174-175	2_QUEST_clinical_caseMIR	SENT2	-	-
+10	9,5	9,5		-	-	175-178	2_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	179-181	2_QUEST_clinical_caseMIR	SENT2	-	-
+12	directa	directo	AQ0FS0	C0439851	calificador	182-189	2_QUEST_clinical_caseMIR	SENT2	-	-
+13	)	)	Fpt	-	-	189-190	2_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	190-191	2_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	192-194	2_QUEST_clinical_caseMIR	SENT3	-	-
+2	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	195-204	2_QUEST_clinical_caseMIR	SENT3	-	-
+3	muestra	mostrar	VMIP3S0	-	-	205-212	2_QUEST_clinical_caseMIR	SENT3	-	-
+4	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	213-223	2_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	biliar	biliar	AQ0CS0	-	-	224-230	2_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	intra	intemperatura	AQ0CN00	-	-	231-236	2_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+7	y	y	CC	C1706368	calificador	237-238	2_QUEST_clinical_caseMIR	SENT3	-	-
+8	extrahepática	extrahepática	AQ0FS00	-	-	239-252	2_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	junto	junto	RG	-	-	253-258	2_QUEST_clinical_caseMIR	SENT3	-	-
+10	con	con	SPS00	C0332287	atributo	259-262	2_QUEST_clinical_caseMIR	SENT3	-	-
+11	un	un		C0205447_1	calificador_1	263-265	2_QUEST_clinical_caseMIR	SENT3	-	-
+12	nódulo	nódulo	NCMS000	C0745761_1	hallazgo_1	266-272	2_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	hepático	hepático	AQ0MS0	C0745761_2	hallazgo_2	273-281	2_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	único	único	AQ0MS0	C0205171	calificador	282-287	2_QUEST_clinical_caseMIR	SENT3	-	-
+15	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	288-293	2_QUEST_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	294-296	2_QUEST_clinical_caseMIR	SENT3	-	-
+17	2	2	Z	-	-	297-298	2_QUEST_clinical_caseMIR	SENT3	-	-
+18	cm	cm	NCMN000	-	-	299-301	2_QUEST_clinical_caseMIR	SENT3	-	-
+19	localizado	localizar	VMP00SM	-	-	302-312	2_QUEST_clinical_caseMIR	SENT3	-	-
+20	periféricamente	periféricamente	RG	-	-	313-328	2_QUEST_clinical_caseMIR	SENT3	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	329-331	2_QUEST_clinical_caseMIR	SENT3	-	-
+22	la	el	DA0FS0	-	-	332-334	2_QUEST_clinical_caseMIR	SENT3	-	-
+23	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	335-339	2_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+24	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	340-348	2_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+25	de	de	SPS00	C0332285	atributo	349-351	2_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+26	lóbulo	lóbulo	NCMS000	-	-	352-358	2_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+27	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	359-368	2_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+28	.	.	Fp	-	-	368-369	2_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	370-372	2_QUEST_clinical_caseMIR	SENT4	-	-
+2	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	373-375	2_QUEST_clinical_caseMIR	SENT4	-	-
+3	confirma	confirmar	VMIP3S0	-	-	376-384	2_QUEST_clinical_caseMIR	SENT4	-	-
+4	estos	este	DD0MP0	-	-	385-390	2_QUEST_clinical_caseMIR	SENT4	-	-
+5	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	391-400	2_QUEST_clinical_caseMIR	SENT4	-	-
+6	demostrando	demostrar	VMG0000	-	-	401-412	2_QUEST_clinical_caseMIR	SENT4	-	-
+7	además	además	RG	-	-	413-419	2_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	420-422	2_QUEST_clinical_caseMIR	SENT4	-	-
+9	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	423-432	2_QUEST_clinical_caseMIR	SENT4	-	-
+10	de	de	SPS00	C0150312_2	calificador_2	433-435	2_QUEST_clinical_caseMIR	SENT4	-	-
+11	masa	masa	NCFS000	C0877425_1	hallazgo_1	436-440	2_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+12	pancreática	pancreático	AQ0FS0	C0877425_2	hallazgo_2	441-452	2_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+13	de	de	SPS00	C0332285	atributo	453-455	2_QUEST_clinical_caseMIR	SENT4	-	-
+14	3,5	3.5	Z	-	-	456-459	2_QUEST_clinical_caseMIR	SENT4	-	-
+15	cm	cm	NCMN000	-	-	460-462	2_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	462-463	2_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	464-466	2_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	467-469	2_QUEST_clinical_caseMIR	SENT5	-	-
+3	cabeza	cabeza	NCFS000	C0018670#C1281590	estructura_corporal	470-476	2_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+4	pancreática	pancreático	AQ0FS0	-	-	477-488	2_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+5	.	.	Fp	-	-	488-489	2_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	La	el	DA0FS0	-	-	490-492	2_QUEST_clinical_caseMIR	SENT6	-	-
+2	punción	punción	NCFS000	C0033119	anomalía_morfológica	493-500	2_QUEST_clinical_caseMIR	SENT6	-	-
+3	aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	501-511	2_QUEST_clinical_caseMIR	SENT6	-	-
+4	del	del	SP+DA	-	-	512-515	2_QUEST_clinical_caseMIR	SENT6	-	-
+5	nódulo	nódulo	NCMS000	C0745761_1	hallazgo_1	516-522	2_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+6	hepático	hepático	AQ0MS0	C0745761_2	hallazgo_2	523-531	2_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+7	resulta	resultar	VMIP3S0	-	-	532-539	2_QUEST_clinical_caseMIR	SENT6	-	-
+8	concluyente	concluyente	AQ0CS0	-	-	540-551	2_QUEST_clinical_caseMIR	SENT6	-	-
+9	para	para	SPS00	C0521125	calificador	552-556	2_QUEST_clinical_caseMIR	SENT6	-	-
+10	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	557-571	2_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Especulacion
+11	.	.	Fp	-	-	571-572	2_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Señale	señalar	VMM03S0	-	-	573-579	2_QUEST_clinical_caseMIR	SENT7	-	-
+2	la	el	DA0FS0	-	-	580-582	2_QUEST_clinical_caseMIR	SENT7	-	-
+3	mejor	mejor	AQ0CS0	C0332272	calificador	583-588	2_QUEST_clinical_caseMIR	SENT7	-	-
+4	opción	opción	NCFS000	-	-	589-595	2_QUEST_clinical_caseMIR	SENT7	-	-
+5	terapéutica	terapéutico	AQ0FS0	-	-	596-607	2_QUEST_clinical_caseMIR	SENT7	-	-
+6	:	:	Fd	-	-	607-608	2_QUEST_clinical_caseMIR	SENT7	-	-
+7	.	.	Fp	-	-	608-609	2_QUEST_clinical_caseMIR	SENT7	-	-
+

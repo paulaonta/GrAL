@@ -1,0 +1,76 @@
+1	Ante	ante	SPS00	-	-	0-4	237_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	5-7	237_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	237_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	17-19	237_QUEST_clinical_caseMIR	SENT1	-	-
+5	23	23		-	-	20-22	237_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	23-27	237_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	28-31	237_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	32-37	237_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	38-39	237_QUEST_clinical_caseMIR	SENT1	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	40-49	237_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	50-52	237_QUEST_clinical_caseMIR	SENT1	-	-
+12	viernes	viernes		-	-	53-60	237_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	61-63	237_QUEST_clinical_caseMIR	SENT1	-	-
+14	madrugada	madrugar	VMP00SF	-	-	64-73	237_QUEST_clinical_caseMIR	SENT1	-	-
+15	tras	tras	SPS00	-	-	74-78	237_QUEST_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	79-82	237_QUEST_clinical_caseMIR	SENT1	-	-
+17	pelea	pelea	NCFS000	C0337192#C0424324	hallazgo	83-88	237_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	callejera	callejero	AQ0FS0	-	-	89-98	237_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+19	,	,	Fc	-	-	98-99	237_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	100-103	237_QUEST_clinical_caseMIR	SENT1	-	-
+21	signos	signo	NCMP000	C0311392	hallazgo	104-110	237_QUEST_clinical_caseMIR	SENT1	-	-
+22	claros	claro	AQ0MP0	C2963144#C1306462#C0522503	calificador	111-117	237_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	118-120	237_QUEST_clinical_caseMIR	SENT1	-	-
+24	enolismo	enolismo	NC00KE0	-	-	121-129	237_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	y	y	CC	C1706368	calificador	130-131	237_QUEST_clinical_caseMIR	SENT1	-	-
+26	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	132-138	237_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	por	por	SPS00	C0678226	atributo	139-142	237_QUEST_clinical_caseMIR	SENT1	-	-
+28	arma	arma	NCFS000	C0336663	objeto_físico	143-147	237_QUEST_clinical_caseMIR	SENT1	-	-
+29	blanca	blanco	AQ0FS0	C0220938	calificador	148-154	237_QUEST_clinical_caseMIR	SENT1	-	-
+30	(	(	Fpa	-	-	155-156	237_QUEST_clinical_caseMIR	SENT1	-	-
+31	apuñalado	apuñalar	VMP00SM	-	-	156-165	237_QUEST_clinical_caseMIR	SENT1	-	-
+32	)	)	Fpt	-	-	165-166	237_QUEST_clinical_caseMIR	SENT1	-	-
+33	a	a	SPS00	-	-	167-168	237_QUEST_clinical_caseMIR	SENT1	-	-
+34	nivel	nivel	NCMS000	C0456079	atributo	169-174	237_QUEST_clinical_caseMIR	SENT1	-	-
+35	de	de	SPS00	C0332285	atributo	175-177	237_QUEST_clinical_caseMIR	SENT1	-	-
+36	III	iii	RG	-	-	178-181	237_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+37	espacio	espacio	NCMS000	C1269872#C0230136_1	estructura_corporal_1	182-189	237_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+38	intercostal	intercostal	AQ0CS0	C1269872#C0230136_2	estructura_corporal_2	190-201	237_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+39	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	202-209	237_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+40	a	a	SPS00	-	-	210-211	237_QUEST_clinical_caseMIR	SENT1	-	-
+41	3	3	Z	-	-	212-213	237_QUEST_clinical_caseMIR	SENT1	-	-
+42	mm	mm	NCMN000	-	-	214-216	237_QUEST_clinical_caseMIR	SENT1	-	-
+43	del	del	SP+DA	-	-	217-220	237_QUEST_clinical_caseMIR	SENT1	-	-
+44	margen	margen	NCCS000	C0205284	calificador	221-227	237_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+45	esternal	esternal	AQ0CS0	-	-	228-236	237_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+46	sangrando	sangrar	VMG0000	-	-	237-246	237_QUEST_clinical_caseMIR	SENT1	-	-
+47	activamente	activamente	RG	-	-	247-258	237_QUEST_clinical_caseMIR	SENT1	-	-
+48	y	y	CC	C1706368	calificador	259-260	237_QUEST_clinical_caseMIR	SENT1	-	-
+49	hemodinámicamente	hemodinámicamente	RG	-	-	261-278	237_QUEST_clinical_caseMIR	SENT1	-	-
+50	inestable	inestable	AQ0CS0	C0439829	calificador	279-288	237_QUEST_clinical_caseMIR	SENT1	-	-
+51	asociado	asociado	NCMS000	-	-	289-297	237_QUEST_clinical_caseMIR	SENT1	-	-
+52	a	a	SPS00	-	-	298-299	237_QUEST_clinical_caseMIR	SENT1	-	-
+53	hipofonesis	hipofonesis	NCFN000	-	-	300-311	237_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+54	marcada	marcar	VMP00SF	-	-	312-319	237_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+55	de	de	SPS00	C0332285	atributo	320-322	237_QUEST_clinical_caseMIR	SENT1	-	-
+56	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	323-327	237_QUEST_clinical_caseMIR	SENT1	-	-
+57	hemitórax	hemitórax		C1284910#C0230127_1	estructura_corporal_1	328-337	237_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+58	derecho	derecho	NCMS000	C1284910#C0230127_2	estructura_corporal_2	338-345	237_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+59	.	.	Fp	-	-	345-346	237_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	347-348	237_QUEST_clinical_caseMIR	SENT2	-	-
+2	Que	que	CS	-	-	348-351	237_QUEST_clinical_caseMIR	SENT2	-	-
+3	estructura	estructura	NCFS000	-	-	352-362	237_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	363-365	237_QUEST_clinical_caseMIR	SENT2	-	-
+5	las	el	DA0FP0	-	-	366-369	237_QUEST_clinical_caseMIR	SENT2	-	-
+6	siguientes	siguiente	AQ0CP0	C0332282	atributo	370-380	237_QUEST_clinical_caseMIR	SENT2	-	-
+7	debe	deber	VMIP3S0	-	-	381-385	237_QUEST_clinical_caseMIR	SENT2	-	-
+8	pensar	pensar	VMN0000	-	-	386-392	237_QUEST_clinical_caseMIR	SENT2	-	-
+9	que	que	CS	-	-	393-396	237_QUEST_clinical_caseMIR	SENT2	-	-
+10	puede	poder	VMIP3S0	-	-	397-402	237_QUEST_clinical_caseMIR	SENT2	-	-
+11	estar	estar	VAN0000	-	-	403-408	237_QUEST_clinical_caseMIR	SENT2	-	-
+12	lesionada	lesionar	VMP00SF	-	-	409-418	237_QUEST_clinical_caseMIR	SENT2	-	-
+13	?	?	Fit	-	-	418-419	237_QUEST_clinical_caseMIR	SENT2	-	-
+14	:	:	Fd	-	-	419-420	237_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	420-421	237_QUEST_clinical_caseMIR	SENT2	-	-
+

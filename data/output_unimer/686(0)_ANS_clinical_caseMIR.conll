@@ -1,0 +1,20 @@
+1	No	no	RN	C1298908	calificador	0-2	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	,	,	Fc	-	-	2-3	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	porque	porque	CS	-	-	4-10	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	11-13	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	ácido	ácido	NCMS000	C0042291_1	sustancia_1	14-19	686(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	valproico	valproico		C0042291_2	sustancia_2	20-29	686(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	es	ser	VSIP3S0	-	-	30-32	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	33-35	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	36-47	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	48-50	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	elección	elección	NCFS000	-	-	51-59	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	los	el	DA0MP0	-	-	63-66	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	pacientes	paciente	NCCP000	C0030705	persona	67-76	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	77-80	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	este	este	DD0MS0	-	-	81-85	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	86-94	686(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	epiléptico	epiléptico	AQ0MS0	-	-	95-105	686(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+19	.	.	Fp	-	-	106-107	686(0)_ANS_clinical_caseMIR	SENT1	-	-
+

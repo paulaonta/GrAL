@@ -1,0 +1,74 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	478_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	478_QUEST_clinical_caseMIR	SENT1	-	-
+3	75	75		-	-	9-11	478_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	478_QUEST_clinical_caseMIR	SENT1	-	-
+5	traída	traer	VMP00SF	-	-	17-23	478_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	24-25	478_QUEST_clinical_caseMIR	SENT1	-	-
+7	consulta	consultar	VMM02S0	C1704447_1	calificador_1	26-34	478_QUEST_clinical_caseMIR	SENT1	-	-
+8	por	por	SPS00	C1704447_2	calificador_2	35-38	478_QUEST_clinical_caseMIR	SENT1	-	-
+9	su	su	DP3CS0	-	-	39-41	478_QUEST_clinical_caseMIR	SENT1	-	-
+10	familia	familia	NCFS000	C0015576	concepto_social	42-49	478_QUEST_clinical_caseMIR	SENT1	-	-
+11	porque	porque	CS	-	-	50-56	478_QUEST_clinical_caseMIR	SENT1	-	-
+12	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	57-59	478_QUEST_clinical_caseMIR	SENT1	-	-
+13	encuentran	encontrar	VMIP3P0	-	-	60-70	478_QUEST_clinical_caseMIR	SENT1	-	-
+14	desde	desde	SPS00	-	-	71-76	478_QUEST_clinical_caseMIR	SENT1	-	-
+15	hace	hacer	VMIP3S0	-	-	77-81	478_QUEST_clinical_caseMIR	SENT1	-	-
+16	meses	mes	NCMP000	C0439231	calificador	82-87	478_QUEST_clinical_caseMIR	SENT1	-	-
+17	deprimida	deprimir	VMP00SF	-	-	88-97	478_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	y	y	CC	C1706368	calificador	98-99	478_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	100-103	478_QUEST_clinical_caseMIR	SENT1	-	-
+20	fallos	fallo	NCMP000	C0231174	hallazgo	104-110	478_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0332285	atributo	111-113	478_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	memoria	memoria	NCFS000	C0025260	función	114-121	478_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	.	.	Fp	-	-	121-122	478_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Les	le	PP3CPD00	C1292157#C0409974	hallazgo#trastorno	123-126	478_QUEST_clinical_caseMIR	SENT2	-	-
+2	preocupa	preocupar	VMIP3S0	-	-	127-135	478_QUEST_clinical_caseMIR	SENT2	-	-
+3	que	que	CS	-	-	136-139	478_QUEST_clinical_caseMIR	SENT2	-	-
+4	pueda	poder	VMSP3S0	-	-	140-145	478_QUEST_clinical_caseMIR	SENT2	-	-
+5	tener	tener	VMN0000	-	-	146-151	478_QUEST_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	152-155	478_QUEST_clinical_caseMIR	SENT2	-	-
+7	enfermedad	enfermedad	NCFS000	C0002395_1	trastorno_1	156-166	478_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0002395_2	trastorno_2	167-169	478_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+9	Alzheimer	Alzheimer		C0002395_3	trastorno_3	170-179	478_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+10	.	.	Fp	-	-	179-180	478_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	181-183	478_QUEST_clinical_caseMIR	SENT3	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	184-192	478_QUEST_clinical_caseMIR	SENT3	-	-
+3	refiere	referir	VMIP3S0	-	-	193-200	478_QUEST_clinical_caseMIR	SENT3	-	-
+4	que	que	CS	-	-	201-204	478_QUEST_clinical_caseMIR	SENT3	-	-
+5	no	no	RN	C1298908	calificador	205-207	478_QUEST_clinical_caseMIR	SENT3	-	-
+6	cree	creer	VMIP3S0	-	-	208-212	478_QUEST_clinical_caseMIR	SENT3	-	-
+7	que	que	CS	-	-	213-216	478_QUEST_clinical_caseMIR	SENT3	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	217-219	478_QUEST_clinical_caseMIR	SENT3	-	-
+9	pase	pasar	VMSP3S0	-	-	220-224	478_QUEST_clinical_caseMIR	SENT3	-	-
+10	nada	nada	RG	C0442734#C0442735	calificador	225-229	478_QUEST_clinical_caseMIR	SENT3	-	-
+11	y	y	CC	C1706368	calificador	230-231	478_QUEST_clinical_caseMIR	SENT3	-	-
+12	que	que	PR0CN000	-	-	232-235	478_QUEST_clinical_caseMIR	SENT3	-	-
+13	está	estar	VAIP3S0	-	-	236-240	478_QUEST_clinical_caseMIR	SENT3	-	-
+14	como	como	CS	C0332257	calificador	241-245	478_QUEST_clinical_caseMIR	SENT3	-	-
+15	siempre	siempre	RG	-	-	246-253	478_QUEST_clinical_caseMIR	SENT3	-	-
+16	.	.	Fp	-	-	253-254	478_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	255-256	478_QUEST_clinical_caseMIR	SENT4	-	-
+2	En	en	SPS00	C1720294#C0332285	calificador#atributo	256-258	478_QUEST_clinical_caseMIR	SENT4	-	-
+3	qué	qué	DT0CN0	-	-	259-262	478_QUEST_clinical_caseMIR	SENT4	-	-
+4	orden	orden	NCMS000	C0699794	atributo	263-268	478_QUEST_clinical_caseMIR	SENT4	-	-
+5	se	se	P00CN000	-	-	269-271	478_QUEST_clinical_caseMIR	SENT4	-	-
+6	presentan	presentar	VMIP3P0	-	-	272-281	478_QUEST_clinical_caseMIR	SENT4	-	-
+7	generalmente	generalmente	RG	-	-	282-294	478_QUEST_clinical_caseMIR	SENT4	-	-
+8	los	el	DA0MP0	-	-	295-298	478_QUEST_clinical_caseMIR	SENT4	-	-
+9	siguientes	siguiente	AQ0CP0	C0332282	atributo	299-309	478_QUEST_clinical_caseMIR	SENT4	-	-
+10	síntomas	síntoma	NCMP000	C1457887	hallazgo	310-318	478_QUEST_clinical_caseMIR	SENT4	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	319-321	478_QUEST_clinical_caseMIR	SENT4	-	-
+12	la	el	DA0FS0	-	-	322-324	478_QUEST_clinical_caseMIR	SENT4	-	-
+13	progresión	progresión	NCFS000	C0449258	atributo	325-335	478_QUEST_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	336-338	478_QUEST_clinical_caseMIR	SENT4	-	-
+15	la	el	DA0FS0	-	-	339-341	478_QUEST_clinical_caseMIR	SENT4	-	-
+16	enfermedad	enfermedad	NCFS000	C0002395_1	trastorno_1	342-352	478_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0002395_2	trastorno_2	353-355	478_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+18	Alzheimer	Alzheimer		C0002395_3	trastorno_3	356-365	478_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+19	?	?	Fit	-	-	365-366	478_QUEST_clinical_caseMIR	SENT4	-	-
+20	:	:	Fd	-	-	366-367	478_QUEST_clinical_caseMIR	SENT4	-	-
+21	.	.	Fp	-	-	367-368	478_QUEST_clinical_caseMIR	SENT4	-	-
+

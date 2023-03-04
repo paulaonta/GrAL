@@ -1,0 +1,78 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	319_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	319_QUEST_clinical_caseMIR	SENT1	-	-
+3	55	55		-	-	10-12	319_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	319_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	319_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	319_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	31-34	319_QUEST_clinical_caseMIR	SENT1	-	-
+8	disfonía	disfonía	NCFS000	C1527347#C1527344#C1527340#C0042940	trastorno	35-43	319_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	43-44	319_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	45-47	319_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	48-50	319_QUEST_clinical_caseMIR	SENT2	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	51-60	319_QUEST_clinical_caseMIR	SENT2	-	-
+4	refiere	referir	VMIP3S0	-	-	61-68	319_QUEST_clinical_caseMIR	SENT2	-	-
+5	llevar	llevar	VMN0000	-	-	69-75	319_QUEST_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	76-78	319_QUEST_clinical_caseMIR	SENT2	-	-
+7	mes	mes	NCMS000	C0439231	calificador	79-82	319_QUEST_clinical_caseMIR	SENT2	-	-
+8	con	con	SPS00	C0332287	atributo	83-86	319_QUEST_clinical_caseMIR	SENT2	-	-
+9	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	87-94	319_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	95-96	319_QUEST_clinical_caseMIR	SENT2	-	-
+11	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	97-104	319_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	105-107	319_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	108-112	319_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+14	no	no	RN	C1298908	calificador	113-115	319_QUEST_clinical_caseMIR	SENT2	-	-
+15	cuantificada	cuantificar	VMP00SF	-	-	116-128	319_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	128-129	319_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	130-132	319_QUEST_clinical_caseMIR	SENT3	-	-
+2	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	133-144	319_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	145-147	319_QUEST_clinical_caseMIR	SENT3	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	148-153	319_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	presenta	presentar	VMIP3S0	-	-	154-162	319_QUEST_clinical_caseMIR	SENT3	-	-
+6	un	un		C0205447_1	calificador_1	163-165	319_QUEST_clinical_caseMIR	SENT3	-	-
+7	aumento	aumento	NCMS000	C0442805	calificador	166-173	319_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	174-176	319_QUEST_clinical_caseMIR	SENT3	-	-
+9	densidad	densidad	NCFS000	C0178587	calificador	177-185	319_QUEST_clinical_caseMIR	SENT3	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	186-188	319_QUEST_clinical_caseMIR	SENT3	-	-
+11	lóbulo	lóbulo	NCMS000	-	-	189-195	319_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+12	superior	superior	AQ0CS0	C1282910	calificador	196-204	319_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+13	izquierdo	izquierdo	NC00SC0	C0205091	calificador	205-214	319_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	215-216	319_QUEST_clinical_caseMIR	SENT3	-	-
+15	ocupación	ocupación	NCFS000	C0028811	ocupación	217-226	319_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	de	de	SPS00	C0332285	atributo	227-229	319_QUEST_clinical_caseMIR	SENT3	-	-
+17	la	el	DA0FS0	-	-	230-232	319_QUEST_clinical_caseMIR	SENT3	-	-
+18	ventana	ventana	NCFS000	C0003516_1	trastorno_1	233-240	319_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	aortopulmonar	aortopulmonar		C0003516_2	trastorno_2	241-254	319_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+20	.	.	Fp	-	-	254-255	319_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	256-258	319_QUEST_clinical_caseMIR	SENT4	-	-
+2	broncoscopia	broncoscopia	NC00SC0	C0006290	procedimiento	259-271	319_QUEST_clinical_caseMIR	SENT4	-	-
+3	constata	constatar	VMIP3S0	-	-	272-280	319_QUEST_clinical_caseMIR	SENT4	-	-
+4	una	una		C0205447_1	calificador_1	281-284	319_QUEST_clinical_caseMIR	SENT4	-	-
+5	parálisis	parálisis	NCFN000	C0522224#C0553727	hallazgo	285-294	319_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0332285	atributo	295-297	319_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	298-300	319_QUEST_clinical_caseMIR	SENT4	-	-
+8	cuerda	cuerdo	AQ0FS0	C1284280#C0225569_1	estructura_corporal_1	301-307	319_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+9	vocal	vocal	NCCS000	C1284280#C0225569_2	estructura_corporal_2	308-313	319_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+10	izquierda	izquierdo	AQ0FS0	C1284280#C0225569_3	estructura_corporal_3	314-323	319_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	323-324	319_QUEST_clinical_caseMIR	SENT4	-	-
+12	sin	sin	SPS00	C0332288	atributo	325-328	319_QUEST_clinical_caseMIR	SENT4	-	-
+13	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	329-335	319_QUEST_clinical_caseMIR	SENT4	-	-
+14	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	336-347	319_QUEST_clinical_caseMIR	SENT4	-	-
+15	sugestiva	sugestivo	AQ0FS0	-	-	348-357	319_QUEST_clinical_caseMIR	SENT4	-	-
+16	de	de	SPS00	C0332285	atributo	358-360	319_QUEST_clinical_caseMIR	SENT4	-	-
+17	neoplasia	neoplasia	NCFS000	C0027651#C1882062	anomalía_morfológica#trastorno	361-370	319_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+18	.	.	Fp	-	-	370-371	319_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	372-373	319_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	373-377	319_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	378-380	319_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	381-383	319_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	384-395	319_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	396-399	319_QUEST_clinical_caseMIR	SENT5	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	400-408	319_QUEST_clinical_caseMIR	SENT5	-	-
+8	?	?	Fit	-	-	408-409	319_QUEST_clinical_caseMIR	SENT5	-	-
+9	:	:	Fd	-	-	409-410	319_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	410-411	319_QUEST_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,104 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	147_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	147_QUEST_clinical_caseMIR	SENT1	-	-
+3	58	58		-	-	9-11	147_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	147_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	147_QUEST_clinical_caseMIR	SENT1	-	-
+6	peso	peso	NCMS000	C0043100	calificador	18-22	147_QUEST_clinical_caseMIR	SENT1	-	-
+7	130	130	Z	-	-	23-26	147_QUEST_clinical_caseMIR	SENT1	-	-
+8	Kg	kg	NCMN000	-	-	27-29	147_QUEST_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	29-30	147_QUEST_clinical_caseMIR	SENT1	-	-
+10	talla	talla	NCFS000	-	-	31-36	147_QUEST_clinical_caseMIR	SENT1	-	-
+11	155	155	Z	-	-	37-40	147_QUEST_clinical_caseMIR	SENT1	-	-
+12	cm	cm	NCMN000	-	-	41-43	147_QUEST_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	43-44	147_QUEST_clinical_caseMIR	SENT1	-	-
+14	índice	índice	NCMS000	C1305855_1	entidad_observable_1	45-51	147_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C1305855_2	entidad_observable_2	52-54	147_QUEST_clinical_caseMIR	SENT1	-	-
+16	masa	masa	NCFS000	C1305855_3	entidad_observable_3	55-59	147_QUEST_clinical_caseMIR	SENT1	-	-
+17	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	60-68	147_QUEST_clinical_caseMIR	SENT1	-	-
+18	>	>	Fz	-	-	69-70	147_QUEST_clinical_caseMIR	SENT1	-	-
+19	30	30		-	-	71-73	147_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	74-77	147_QUEST_clinical_caseMIR	SENT1	-	-
+21	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	78-90	147_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	91-99	147_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	100-104	147_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	,	,	Fc	-	-	104-105	147_QUEST_clinical_caseMIR	SENT1	-	-
+25	glucemia	glucemia	NCFS000	C2585282	entidad_observable	106-114	147_QUEST_clinical_caseMIR	SENT1	-	-
+26	108	108	Z	-	-	115-118	147_QUEST_clinical_caseMIR	SENT1	-	-
+27	mg	mg	NCMN000	-	-	119-121	147_QUEST_clinical_caseMIR	SENT1	-	-
+28	/	/	Fh	-	-	121-122	147_QUEST_clinical_caseMIR	SENT1	-	-
+29	dL	decilitro	NCMN000	C0439241	calificador	122-124	147_QUEST_clinical_caseMIR	SENT1	-	-
+30	y	y	CC	C1706368	calificador	125-126	147_QUEST_clinical_caseMIR	SENT1	-	-
+31	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	127-135	147_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332197_2	calificador_2	136-138	147_QUEST_clinical_caseMIR	SENT1	-	-
+33	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	139-145	147_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+34	en	en	SPS00	C1720294#C0332285	calificador#atributo	146-148	147_QUEST_clinical_caseMIR	SENT1	-	-
+35	miembros	miembro	NCMP000	C0015385	estructura_corporal	149-157	147_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+36	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	158-168	147_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+37	.	.	Fp	-	-	168-169	147_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	147_QUEST_clinical_caseMIR	SENT2	-	-
+2	analítica	analítica	NCFS000	-	-	173-182	147_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	183-185	147_QUEST_clinical_caseMIR	SENT2	-	-
+4	sangre	sangre	NCFS000	C0005767	sustancia	186-192	147_QUEST_clinical_caseMIR	SENT2	-	-
+5	presenta	presentar	VMIP3S0	-	-	193-201	147_QUEST_clinical_caseMIR	SENT2	-	-
+6	Cr	creatinina	NC00YL0	C0010294	sustancia	202-204	147_QUEST_clinical_caseMIR	SENT2	-	-
+7	2.0	2.0	Z	-	-	205-208	147_QUEST_clinical_caseMIR	SENT2	-	-
+8	mg	mg	NCMN000	-	-	209-211	147_QUEST_clinical_caseMIR	SENT2	-	-
+9	/	/	Fh	-	-	211-212	147_QUEST_clinical_caseMIR	SENT2	-	-
+10	dl	decilitro	NCMN000	C0439241	calificador	212-214	147_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	214-215	147_QUEST_clinical_caseMIR	SENT2	-	-
+12	Urea	urea	NCFS000	C0041942	sustancia	216-220	147_QUEST_clinical_caseMIR	SENT2	-	-
+13	86	86	Z	-	-	221-223	147_QUEST_clinical_caseMIR	SENT2	-	-
+14	mg	mg	NCMN000	-	-	224-226	147_QUEST_clinical_caseMIR	SENT2	-	-
+15	/	/	Fh	-	-	226-227	147_QUEST_clinical_caseMIR	SENT2	-	-
+16	dl	decilitro	NCMN000	C0439241	calificador	227-229	147_QUEST_clinical_caseMIR	SENT2	-	-
+17	,	,	Fc	-	-	229-230	147_QUEST_clinical_caseMIR	SENT2	-	-
+18	Alb	albúmina	NC00YL0	C0001924	sustancia	231-234	147_QUEST_clinical_caseMIR	SENT2	-	-
+19	3.8	3.8		-	-	235-238	147_QUEST_clinical_caseMIR	SENT2	-	-
+20	g/1	g/1		-	-	239-242	147_QUEST_clinical_caseMIR	SENT2	-	-
+21	,	,	Fc	-	-	242-243	147_QUEST_clinical_caseMIR	SENT2	-	-
+22	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	244-246	147_QUEST_clinical_caseMIR	SENT2	-	-
+23	142	142		-	-	247-250	147_QUEST_clinical_caseMIR	SENT2	-	-
+24	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	251-254	147_QUEST_clinical_caseMIR	SENT2	-	-
+25	/	/	Fh	-	-	254-255	147_QUEST_clinical_caseMIR	SENT2	-	-
+26	L	l	NCFS000	-	-	255-256	147_QUEST_clinical_caseMIR	SENT2	-	-
+27	,	,	Fc	-	-	256-257	147_QUEST_clinical_caseMIR	SENT2	-	-
+28	K	k	NCFS000	-	-	258-259	147_QUEST_clinical_caseMIR	SENT2	-	-
+29	4	4		-	-	260-261	147_QUEST_clinical_caseMIR	SENT2	-	-
+30	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	262-265	147_QUEST_clinical_caseMIR	SENT2	-	-
+31	/	/	Fh	-	-	265-266	147_QUEST_clinical_caseMIR	SENT2	-	-
+32	L.	l.	NCFS000	-	-	266-268	147_QUEST_clinical_caseMIR	SENT2	-	-
+33	En	en	SPS00	C1720294#C0332285	calificador#atributo	269-271	147_QUEST_clinical_caseMIR	SENT2	-	-
+34	analítica	analítica	NCFS000	-	-	272-281	147_QUEST_clinical_caseMIR	SENT2	-	-
+35	de	de	SPS00	C0332285	atributo	282-284	147_QUEST_clinical_caseMIR	SENT2	-	-
+36	orina	orina	NCFS000	C0042036	sustancia	285-290	147_QUEST_clinical_caseMIR	SENT2	-	-
+37	:	:	Fd	-	-	290-291	147_QUEST_clinical_caseMIR	SENT2	-	-
+38	sedimento	sedimento	NCMS000	C0333562	anomalía_morfológica	292-301	147_QUEST_clinical_caseMIR	SENT2	-	-
+39	sin	sin	SPS00	C0332288	atributo	302-305	147_QUEST_clinical_caseMIR	SENT2	-	-
+40	alteraciones	alteración	NCFP000	-	-	306-318	147_QUEST_clinical_caseMIR	SENT2	-	-
+41	y	y	CC	C1706368	calificador	319-320	147_QUEST_clinical_caseMIR	SENT2	-	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	321-323	147_QUEST_clinical_caseMIR	SENT2	-	-
+43	orina	orina	NCFS000	C0042036	sustancia	324-329	147_QUEST_clinical_caseMIR	SENT2	-	-
+44	de	de	SPS00	C0332285	atributo	330-332	147_QUEST_clinical_caseMIR	SENT2	-	-
+45	24	24	Z	-	-	333-335	147_QUEST_clinical_caseMIR	SENT2	-	-
+46	h	h	NCMN000	C0439227	calificador	336-337	147_QUEST_clinical_caseMIR	SENT2	-	-
+47	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	338-349	147_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+48	de	de	SPS00	C0332285	atributo	350-352	147_QUEST_clinical_caseMIR	SENT2	-	-
+49	6.3	6.3	Z	-	-	353-356	147_QUEST_clinical_caseMIR	SENT2	-	-
+50	gr	g	NC00SC0	-	-	357-359	147_QUEST_clinical_caseMIR	SENT2	-	-
+51	/	/	Fh	-	-	359-360	147_QUEST_clinical_caseMIR	SENT2	-	-
+52	24	24		-	-	361-363	147_QUEST_clinical_caseMIR	SENT2	-	-
+53	h.	h.	NCFS000	-	-	364-366	147_QUEST_clinical_caseMIR	SENT2	-	-
+54	¿	¿	Fia	-	-	367-368	147_QUEST_clinical_caseMIR	SENT2	-	-
+55	Cual	cual	PI0CS000	-	-	368-372	147_QUEST_clinical_caseMIR	SENT2	-	-
+56	de	de	SPS00	C0332285	atributo	373-375	147_QUEST_clinical_caseMIR	SENT2	-	-
+57	las	el	DA0FP0	-	-	376-379	147_QUEST_clinical_caseMIR	SENT2	-	-
+58	siguientes	siguiente	AQ0CP0	C0332282	atributo	380-390	147_QUEST_clinical_caseMIR	SENT2	-	-
+59	entidades	entidad	NCFP000	-	-	391-400	147_QUEST_clinical_caseMIR	SENT2	-	-
+60	presentará	presentar	VMIF3S0	-	-	401-411	147_QUEST_clinical_caseMIR	SENT2	-	-
+61	con	con	SPS00	C0332287	atributo	412-415	147_QUEST_clinical_caseMIR	SENT2	-	-
+62	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	416-421	147_QUEST_clinical_caseMIR	SENT2	-	-
+63	probabilidad	probabilidad	NCFS000	-	-	422-434	147_QUEST_clinical_caseMIR	SENT2	-	-
+64	?	?	Fit	-	-	434-435	147_QUEST_clinical_caseMIR	SENT2	-	-
+65	.	.	Fp	-	-	435-436	147_QUEST_clinical_caseMIR	SENT2	-	-
+

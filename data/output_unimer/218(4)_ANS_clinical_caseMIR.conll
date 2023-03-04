@@ -1,0 +1,11 @@
+1	Biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	0-7	218(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	8-10	218(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	11-13	218(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	fractura	fracturar	VMM02S0	C0016663_1	trastorno#anomalía_morfológica_1	14-22	218(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	patológica	patológico	AQ0FS0	C0016663_2	trastorno#anomalía_morfológica_2	23-33	218(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+6	y	y	CC	C1706368	calificador	34-35	218(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	serie	serie	NCFS000	C0205549	calificador	36-41	218(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	42-46	218(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	radiológica	radiológico	AQ0FS0	C0205483	calificador	47-58	218(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+10	.	.	Fp	-	-	59-60	218(4)_ANS_clinical_caseMIR	SENT1	-	-
+

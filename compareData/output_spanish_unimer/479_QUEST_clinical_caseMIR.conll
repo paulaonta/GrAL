@@ -1,0 +1,70 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	479_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	479_QUEST_clinical_caseMIR	SENT1	-	-
+3	80	80		-	-	9-11	479_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	479_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	479_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	479_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	479_QUEST_clinical_caseMIR	SENT1	-	-
+8	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	37-49	479_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	50-58	479_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	y	y	CC	C1706368	calificador	59-60	479_QUEST_clinical_caseMIR	SENT1	-	-
+11	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	61-69	479_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	70-78	479_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+13	que	que	PR0CN000	-	-	79-82	479_QUEST_clinical_caseMIR	SENT1	-	-
+14	presenta	presentar	VMIP3S0	-	-	83-91	479_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	92-94	479_QUEST_clinical_caseMIR	SENT1	-	-
+16	forma	forma	NCFS000	C0348078	atributo	95-100	479_QUEST_clinical_caseMIR	SENT1	-	-
+17	brusca	brusco	AQ0FS0	C0443162	calificador	101-107	479_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	108-111	479_QUEST_clinical_caseMIR	SENT1	-	-
+19	alteración	alteración	NCFS000	-	-	112-122	479_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	del	del	SP+DA	-	-	123-126	479_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	lenguaje	lenguaje	NCMS000	C0023008	función	127-135	479_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	.	.	Fp	-	-	135-136	479_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	137-138	479_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	139-141	479_QUEST_clinical_caseMIR	SENT2	-	-
+3	llegada	llegada	NCFS000	-	-	142-149	479_QUEST_clinical_caseMIR	SENT2	-	-
+4	al	al	SP+DA	-	-	150-152	479_QUEST_clinical_caseMIR	SENT2	-	-
+5	hospital	hospital	NCMS000	C1510665	medio_ambiente	153-161	479_QUEST_clinical_caseMIR	SENT2	-	-
+6	se	se	P00CN000	-	-	162-164	479_QUEST_clinical_caseMIR	SENT2	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	165-173	479_QUEST_clinical_caseMIR	SENT2	-	-
+8	una	una		C0205447_1	calificador_1	174-177	479_QUEST_clinical_caseMIR	SENT2	-	-
+9	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	178-189	479_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	auricular	auricular	NCMS000	C0004238_2	trastorno_2	190-199	479_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	no	no	RN	C1298908	calificador	200-202	479_QUEST_clinical_caseMIR	SENT2	-	-
+12	conocida	conocer	VMP00SF	-	-	203-211	479_QUEST_clinical_caseMIR	SENT2	-	-
+13	y	y	CC	C1706368	calificador	212-213	479_QUEST_clinical_caseMIR	SENT2	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	214-216	479_QUEST_clinical_caseMIR	SENT2	-	-
+15	la	el	DA0FS0	-	-	217-219	479_QUEST_clinical_caseMIR	SENT2	-	-
+16	exploración	exploración	NCFS000	C1280903	procedimiento	220-231	479_QUEST_clinical_caseMIR	SENT2	-	-
+17	presenta	presentar	VMIP3S0	-	-	232-240	479_QUEST_clinical_caseMIR	SENT2	-	-
+18	habla	hablar	VMIP3S0	C0234856	entidad_observable	241-246	479_QUEST_clinical_caseMIR	SENT2	-	-
+19	fluente	fluente	AQ0CS0	-	-	247-254	479_QUEST_clinical_caseMIR	SENT2	-	-
+20	con	con	SPS00	C1521798_1	atributo_1	255-258	479_QUEST_clinical_caseMIR	SENT2	-	-
+21	tendencia	tendencia	NCFS000	C1521798_2	atributo_2	259-268	479_QUEST_clinical_caseMIR	SENT2	-	-
+22	a	a	SPS00	-	-	269-270	479_QUEST_clinical_caseMIR	SENT2	-	-
+23	la	el	DA0FS0	-	-	271-273	479_QUEST_clinical_caseMIR	SENT2	-	-
+24	jergafasia	jergafasia	NCFS000	-	-	274-284	479_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+25	,	,	Fc	-	-	284-285	479_QUEST_clinical_caseMIR	SENT2	-	-
+26	mala	malo	AQ0FS0	C0205169	calificador	286-290	479_QUEST_clinical_caseMIR	SENT2	-	-
+27	compresión	compresión	NCFS000	C0332459#C1285497	anomalía_morfológica	291-301	479_QUEST_clinical_caseMIR	SENT2	-	-
+28	del	del	SP+DA	-	-	302-305	479_QUEST_clinical_caseMIR	SENT2	-	-
+29	lenguaje	lenguaje	NCMS000	C0023008	función	306-314	479_QUEST_clinical_caseMIR	SENT2	-	-
+30	,	,	Fc	-	-	314-315	479_QUEST_clinical_caseMIR	SENT2	-	-
+31	incapacidad	incapacidad	NCFS000	C0231172	hallazgo	316-327	479_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+32	para	para	SPS00	C0521125	calificador	328-332	479_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+33	la	el	DA0FS0	-	-	333-335	479_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+34	repetición	repetición	NCFS000	-	-	336-346	479_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+35	y	y	CC	C1706368	calificador	347-348	479_QUEST_clinical_caseMIR	SENT2	-	-
+36	disnomia	disnomia	NC00SC0	C0003113	hallazgo	349-357	479_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+37	.	.	Fp	-	-	357-358	479_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Semiológicamente	semiológicamente	RG	-	-	359-375	479_QUEST_clinical_caseMIR	SENT3	-	-
+2	presenta	presentar	VMIP3S0	-	-	376-384	479_QUEST_clinical_caseMIR	SENT3	-	-
+3	un	un		C0205447_1	calificador_1	385-387	479_QUEST_clinical_caseMIR	SENT3	-	-
+4	cuadro	cuadro	NCMS000	-	-	388-394	479_QUEST_clinical_caseMIR	SENT3	-	-
+5	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	395-405	479_QUEST_clinical_caseMIR	SENT3	-	-
+6	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	406-409	479_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	409-410	479_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	410-411	479_QUEST_clinical_caseMIR	SENT3	-	-
+

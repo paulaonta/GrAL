@@ -1,0 +1,23 @@
+1	Al	al	SP+DA	-	-	0-2	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	ser	ser	VSN0000	-	-	3-6	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	el	el	DA0MS0	-	-	7-9	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	caso	caso	NCMS000	C0868928	calificador	10-14	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	índice	índice	NCMS000	-	-	15-21	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	22-27	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	27-28	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	heredarán	heredar	VMIF3P0	-	-	29-38	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	la	el	DA0FS0	-	-	39-41	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	ataxia	ataxia	NCFS000	C0004134	hallazgo	42-48	191(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	49-54	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	los	el	DA0MP0	-	-	55-58	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	descendientes	descendiente	NCCP000	-	-	59-72	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	73-75	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	sexo	sexo	NCMS000	C0015780_1	estructura_corporal_1	76-80	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	femenino	femenino	AQ0MS0	C0015780_2	estructura_corporal_2	81-89	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	:	:	Fd	-	-	89-90	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	pero	pero	CC	-	-	91-95	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	96-102	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	hijo	hijo	NCMS000	C0037683_1	persona_1	103-107	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	varón	varón	NCMS000	C0037683_2	persona_2	108-113	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	114-115	191(0)_ANS_clinical_caseMIR	SENT1	-	-
+

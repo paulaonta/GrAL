@@ -1,0 +1,34 @@
+1	Esa	ese	DD0FS0	-	-	0-3	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	clasificación	clasificación	NCFS000	C0008902	atributo	4-17	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	implica	implicar	VMIP3S0	-	-	18-25	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	probablemente	probablemente	RG	C0332148	calificador	26-39	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	40-47	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	dado	dar	VMP00SM	C1947971	calificador	48-52	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	53-56	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	57-59	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	probabilidad	probabilidad	NCFS000	-	-	60-72	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	73-75	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	76-82	492(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	es	ser	VSIP3S0	-	-	83-85	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	86-91	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	del	del	SP+DA	-	-	92-95	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	10	10	Z	-	-	96-98	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	%	%	Ft	-	-	99-100	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	100-101	492(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	102-104	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	lo	lo	PP3CNA00	-	-	105-107	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	explica	explicar	VMIP3S0	-	-	108-115	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	y	y	CC	C1706368	calificador	116-117	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	118-120	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	deriva	derivar	VMIP3S0	-	-	121-127	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	128-130	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	forma	forma	NCFS000	C0348078	atributo	131-136	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+9	preferente	preferente	AQ0CS0	-	-	137-147	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+10	a	a	SPS00	-	-	148-149	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	la	el	DA0FS0	-	-	150-152	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	Unidad	unidad	NCFS000	C0439148	calificador	153-159	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	160-162	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+14	Mama	mama	NCFS000	C0006141#C0929301#C1268990#C0566398	estructura_corporal#hallazgo	163-167	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	168-169	492(1)_ANS_clinical_caseMIR	SENT2	-	-
+

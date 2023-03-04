@@ -1,0 +1,25 @@
+1	El	el	DA0MS0	-	-	0-2	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	origen	origen	NCMS000	C0439659	atributo	3-9	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	la	el	DA0FS0	-	-	13-15	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	hipertensión	hipertensión	NCFS000	-	-	16-28	456(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	este	este	DD0MS0	-	-	32-36	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	caso	caso	NCMS000	C0868928	calificador	37-41	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	es	ser	VSIP3S0	-	-	42-44	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	45-47	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	secreción	secreción	NCFS000	C0012621	anomalía_morfológica	48-57	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	excesiva	excesivo	AQ0FS0	C0442802	calificador	58-66	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	67-69	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	aldosterona	aldosterona	NCFS000	C0002006	sustancia	70-81	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	causada	causar	VMP00SF	-	-	82-89	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	por	por	SPS00	C0678226	atributo	90-93	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	una	una		C0205447_1	calificador_1	94-97	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	hiperfunción	hiperfunción	NCFS000	-	-	98-110	456(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	autónoma	autónomo	AQ0FS0	-	-	111-119	456(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+20	de	de	SPS00	C0332285	atributo	120-122	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	la	el	DA0FS0	-	-	123-125	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	médula	médula	NCFS000	C1284820#C0001629_1	estructura_corporal_1	126-132	456(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	suprarrenal	suprarrenal	NC00SC0	C1284820#C0001629_2	estructura_corporal_2	133-144	456(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	.	.	Fp	-	-	145-146	456(0)_ANS_clinical_caseMIR	SENT1	-	-
+

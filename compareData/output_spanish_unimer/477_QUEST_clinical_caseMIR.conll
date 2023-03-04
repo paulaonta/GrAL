@@ -1,0 +1,41 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	477_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	477_QUEST_clinical_caseMIR	SENT1	-	-
+3	66	66		-	-	9-11	477_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	477_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	477_QUEST_clinical_caseMIR	SENT1	-	-
+6	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	21-29	477_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	30-38	477_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+8	tipo	tipo	NCMS000	C0011860_3	trastorno_3	39-43	477_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	2	2	Z	C0011860_4	trastorno_4	44-45	477_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+10	.	.	Fp	-	-	45-46	477_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Valorando	valorar	VMG0000	-	-	47-56	477_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	57-59	477_QUEST_clinical_caseMIR	SENT2	-	-
+3	función	función	NCFS000	C0232804_1	entidad_observable_1	60-67	477_QUEST_clinical_caseMIR	SENT2	-	-
+4	renal	renal	AQ0CS0	C0232804_2	entidad_observable_2	68-73	477_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	presenta	presentar	VMIP3S0	-	-	74-82	477_QUEST_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	83-85	477_QUEST_clinical_caseMIR	SENT2	-	-
+7	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	86-93	477_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	G3a/A1	G3a/A1		-	-	94-100	477_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+9	.	.	Fp	-	-	100-101	477_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	102-103	477_QUEST_clinical_caseMIR	SENT3	-	-
+2	A	a	SPS00	-	-	103-104	477_QUEST_clinical_caseMIR	SENT3	-	-
+3	qué	qué	DT0CN0	-	-	105-108	477_QUEST_clinical_caseMIR	SENT3	-	-
+4	valores	valor	NCMP000	C0475208	calificador	109-116	477_QUEST_clinical_caseMIR	SENT3	-	-
+5	corresponde	corresponder	VMIP3S0	-	-	117-128	477_QUEST_clinical_caseMIR	SENT3	-	-
+6	este	este	DD0MS0	-	-	129-133	477_QUEST_clinical_caseMIR	SENT3	-	-
+7	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	134-141	477_QUEST_clinical_caseMIR	SENT3	-	-
+8	,	,	Fc	-	-	141-142	477_QUEST_clinical_caseMIR	SENT3	-	-
+9	el	el	DA0MS0	C0205393_1	calificador_1	143-145	477_QUEST_clinical_caseMIR	SENT3	-	-
+10	más	más	RG	C0205393_2	calificador_2	146-149	477_QUEST_clinical_caseMIR	SENT3	-	-
+11	frecuente	frecuente	AQ0CS0	C0332183	calificador	150-159	477_QUEST_clinical_caseMIR	SENT3	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	160-162	477_QUEST_clinical_caseMIR	SENT3	-	-
+13	pacientes	paciente	NCCP000	C0030705	persona	163-172	477_QUEST_clinical_caseMIR	SENT3	-	-
+14	con	con	SPS00	C0332287	atributo	173-176	477_QUEST_clinical_caseMIR	SENT3	-	-
+15	nefropatía	nefropatía	NCFS000	C0011881_1	trastorno_1	177-187	477_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	diabética	diabético	NCFS000	C0011881_2	trastorno_2	188-197	477_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+17	?	?	Fit	-	-	197-198	477_QUEST_clinical_caseMIR	SENT3	-	-
+18	:	:	Fd	-	-	198-199	477_QUEST_clinical_caseMIR	SENT3	-	-
+19	.	.	Fp	-	-	199-200	477_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,59 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	455_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	455_QUEST_clinical_caseMIR	SENT1	-	-
+3	23	23		-	-	9-11	455_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	455_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	17-30	455_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	31-33	455_QUEST_clinical_caseMIR	SENT1	-	-
+7	síndrome	síndrome	NCMS000	C0043202_1	trastorno_1	34-42	455_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0043202_2	trastorno_2	43-45	455_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+9	Wolff-Parkinson-White	Wolff-Parkinson-White		C0043202_3	trastorno_3	46-67	455_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	que	que	PR0CN000	-	-	68-71	455_QUEST_clinical_caseMIR	SENT1	-	-
+11	acude	acudir	VMIP3S0	-	-	72-77	455_QUEST_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	78-79	455_QUEST_clinical_caseMIR	SENT1	-	-
+13	urgencias	urgencia	NCFP000	C0439609	calificador	80-89	455_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	90-93	455_QUEST_clinical_caseMIR	SENT1	-	-
+15	palpitaciones	palpitación	NCFP000	-	-	94-107	455_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	107-108	455_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	109-111	455_QUEST_clinical_caseMIR	SENT2	-	-
+2	ECG	ecg	NC00YL0	C1623258	procedimiento	112-115	455_QUEST_clinical_caseMIR	SENT2	-	-
+3	muestra	mostrar	VMIP3S0	-	-	116-123	455_QUEST_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	124-127	455_QUEST_clinical_caseMIR	SENT2	-	-
+5	taquicardia	taquicardia	NCFS000	C0392191_1	trastorno_1	128-139	455_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	irregular	irregular	NC00SC0	C0392191_2	trastorno_2	140-149	455_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	de	de	SPS00	C0332285	atributo	150-152	455_QUEST_clinical_caseMIR	SENT2	-	-
+8	QRS	qrs	NC00YL0	C0235475_1	hallazgo_1	153-156	455_QUEST_clinical_caseMIR	SENT2	-	-
+9	ancho	ancho	NCMS000	C0235475_2	hallazgo_2	157-162	455_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	162-163	455_QUEST_clinical_caseMIR	SENT2	-	-
+11	con	con	SPS00	C0332287	atributo	164-167	455_QUEST_clinical_caseMIR	SENT2	-	-
+12	una	una		C0205447_1	calificador_1	168-171	455_QUEST_clinical_caseMIR	SENT2	-	-
+13	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	172-182	455_QUEST_clinical_caseMIR	SENT2	-	-
+14	cardiaca	cardiaco	AQ0FS0	-	-	183-191	455_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+15	de	de	SPS00	C0332285	atributo	192-194	455_QUEST_clinical_caseMIR	SENT2	-	-
+16	205	205		-	-	195-198	455_QUEST_clinical_caseMIR	SENT2	-	-
+17	lpm	lpm	NC00YL0	-	-	199-202	455_QUEST_clinical_caseMIR	SENT2	-	-
+18	,	,	Fc	-	-	202-203	455_QUEST_clinical_caseMIR	SENT2	-	-
+19	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	204-214	455_QUEST_clinical_caseMIR	SENT2	-	-
+20	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	215-218	455_QUEST_clinical_caseMIR	SENT2	-	-
+21	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	219-230	455_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+22	auricular	auricular	NCMS000	C0004238_2	trastorno_2	231-240	455_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+23	preexcitada	preexcitar	VMP00SF	-	-	241-252	455_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+24	.	.	Fp	-	-	252-253	455_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	254-255	455_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	255-259	455_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	260-262	455_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	263-266	455_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	267-277	455_QUEST_clinical_caseMIR	SENT3	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	278-286	455_QUEST_clinical_caseMIR	SENT3	-	-
+7	considera	considerar	VMIP3S0	-	-	287-296	455_QUEST_clinical_caseMIR	SENT3	-	-
+8	adecuado	adecuar	VMP00SM	-	-	297-305	455_QUEST_clinical_caseMIR	SENT3	-	-
+9	administrar	administrar	VMN0000	C1621583	calificador	306-317	455_QUEST_clinical_caseMIR	SENT3	-	-
+10	para	para	SPS00	C0521125	calificador	318-322	455_QUEST_clinical_caseMIR	SENT3	-	-
+11	detener	detener	VMN0000	C2746065	calificador	323-330	455_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	331-333	455_QUEST_clinical_caseMIR	SENT3	-	-
+13	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	334-345	455_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	?	?	Fit	-	-	345-346	455_QUEST_clinical_caseMIR	SENT3	-	-
+15	:	:	Fd	-	-	346-347	455_QUEST_clinical_caseMIR	SENT3	-	-
+16	.	.	Fp	-	-	347-348	455_QUEST_clinical_caseMIR	SENT3	-	-
+

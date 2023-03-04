@@ -1,0 +1,56 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	262_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	262_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	10-12	262_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	262_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	262_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	262_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	26-29	262_QUEST_clinical_caseMIR	SENT1	-	-
+8	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	30-42	262_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332119_2	situación_2	43-45	262_QUEST_clinical_caseMIR	SENT1	-	-
+10	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	46-58	262_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	59-67	262_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	y	y	CC	C1706368	calificador	68-69	262_QUEST_clinical_caseMIR	SENT1	-	-
+13	dislipemia	dislipemia	NCFS000	-	-	70-80	262_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	ha	haber	VAIP3S0	-	-	81-83	262_QUEST_clinical_caseMIR	SENT1	-	-
+15	sido	ser	VSP00SM	-	-	84-88	262_QUEST_clinical_caseMIR	SENT1	-	-
+16	recientemente	recientemente	RG	C0332185	calificador	89-102	262_QUEST_clinical_caseMIR	SENT1	-	-
+17	diagnosticado	diagnosticar	VMP00SM	-	-	103-116	262_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	117-119	262_QUEST_clinical_caseMIR	SENT1	-	-
+19	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	120-133	262_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	cardiaca	cardiaco	AQ0FS0	-	-	134-142	262_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	.	.	Fp	-	-	142-143	262_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	144-148	262_QUEST_clinical_caseMIR	SENT2	-	-
+2	realizar	realizar	VMN0000	-	-	149-157	262_QUEST_clinical_caseMIR	SENT2	-	-
+3	las	el	DA0FP0	-	-	158-161	262_QUEST_clinical_caseMIR	SENT2	-	-
+4	pruebas	prueba	NCFP000	-	-	162-169	262_QUEST_clinical_caseMIR	SENT2	-	-
+5	pertinentes	pertinente	AQ0CP0	-	-	170-181	262_QUEST_clinical_caseMIR	SENT2	-	-
+6	se	se	P00CN000	-	-	182-184	262_QUEST_clinical_caseMIR	SENT2	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	185-193	262_QUEST_clinical_caseMIR	SENT2	-	-
+8	que	que	CS	-	-	194-197	262_QUEST_clinical_caseMIR	SENT2	-	-
+9	conserva	conservar	VMIP3S0	-	-	198-206	262_QUEST_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	207-209	262_QUEST_clinical_caseMIR	SENT2	-	-
+11	fracción	fracción	NCFS000	C0428772_1	entidad_observable_1	210-218	262_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0428772_2	entidad_observable_2	219-221	262_QUEST_clinical_caseMIR	SENT2	-	-
+13	eyección	eyección	NCFS000	C0428772_3	entidad_observable_3	222-230	262_QUEST_clinical_caseMIR	SENT2	-	-
+14	del	del	SP+DA	C0428772_4	entidad_observable_4	231-234	262_QUEST_clinical_caseMIR	SENT2	-	-
+15	ventrículo	ventrículo	NCMS000	C0428772_5	entidad_observable_5	235-245	262_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	izquierdo	izquierdo	NC00SC0	C0428772_6	entidad_observable_6	246-255	262_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+17	(	(	Fpa	-	-	256-257	262_QUEST_clinical_caseMIR	SENT2	-	-
+18	>	>	Fz	-	-	257-258	262_QUEST_clinical_caseMIR	SENT2	-	-
+19	50	50	Z	-	-	258-260	262_QUEST_clinical_caseMIR	SENT2	-	-
+20	%	%	Ft	-	-	260-261	262_QUEST_clinical_caseMIR	SENT2	-	-
+21	)	)	Fpt	-	-	261-262	262_QUEST_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	262-263	262_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	264-266	262_QUEST_clinical_caseMIR	SENT3	-	-
+2	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	267-275	262_QUEST_clinical_caseMIR	SENT3	-	-
+3	al	al	SP+DA	-	-	276-278	262_QUEST_clinical_caseMIR	SENT3	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	279-290	262_QUEST_clinical_caseMIR	SENT3	-	-
+5	señale	señalar	VMSP3S0	-	-	291-297	262_QUEST_clinical_caseMIR	SENT3	-	-
+6	la	el	DA0FS0	-	-	298-300	262_QUEST_clinical_caseMIR	SENT3	-	-
+7	respuesta	respuesta	NCFS000	-	-	301-310	262_QUEST_clinical_caseMIR	SENT3	-	-
+8	lNCORRECTA	lncorrecta	AQ0FS00	-	-	311-321	262_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	321-322	262_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	322-323	262_QUEST_clinical_caseMIR	SENT3	-	-
+

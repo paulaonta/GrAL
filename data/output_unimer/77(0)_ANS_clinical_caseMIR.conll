@@ -1,0 +1,22 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	sulfato	sulfato	NCMS000	C0024480#C0772046_1	sustancia_1	16-23	77(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	de	de	SPS00	C0024480#C0772046_2	sustancia_2	24-26	77(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+5	magnesio	magnesio	NCMS000	C0024480#C0772046_3	sustancia_3	27-35	77(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	y	y	CC	C1706368	calificador	36-37	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	después	después	RG	C0231290	atributo	38-45	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	inducción	inducción	NCFS000	C0200066_1	procedimiento_1	46-55	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	del	del	SP+DA	C0200066_2	procedimiento_2	56-59	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	parto	parto	NCMS000	C0200066_3	procedimiento_3	60-65	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	o	o	CC	-	-	66-67	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	cesárea	cesárea	NCFS000	-	-	68-75	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	si	si	CS	-	-	76-78	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	no	no	RN	C1298908	calificador	79-81	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	reúne	reunir	VMIP3S0	-	-	82-87	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	condiciones	condición	NCFP000	C0348080	atributo	88-99	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	favorables	favorable	AQ0CP0	-	-	100-110	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	para	para	SPS00	C0521125	calificador	111-115	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	la	el	DA0FS0	-	-	116-118	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	inducción	inducción	NCFS000	-	-	119-128	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	129-130	77(0)_ANS_clinical_caseMIR	SENT1	-	-
+

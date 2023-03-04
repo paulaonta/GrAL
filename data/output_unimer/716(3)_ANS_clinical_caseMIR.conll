@@ -1,0 +1,25 @@
+1	Déficit	déficit	NCMS000	C0011155_1	atributo_1	0-7	716(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0011155_2	atributo_2	8-10	716(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	alfa-1	alfa-1		-	-	11-17	716(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+4	antitripsina	antitripsina	NCFS000	-	-	18-30	716(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+5	.	.	Fp	-	-	30-31	716(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Realizar	realizar	VMN0000	-	-	32-40	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	41-48	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	49-55	716(3)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	,	,	Fc	-	-	55-56	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	administrar	administrar	VMN0000	C1621583	calificador	57-68	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	aciclovir	aciclovir	NC00SC0	C0001367	sustancia	69-78	716(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	79-80	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	ácido	ácido	NCMS000	C0042291_1	sustancia_1	81-86	716(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	valproico	valproico		C0042291_2	sustancia_2	87-96	716(3)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+10	ante	ante	SPS00	-	-	97-101	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+11	la	el	DA0FS0	-	-	102-104	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+12	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	105-113	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332147_2	calificador_2	114-116	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+14	meningitis	meningitis	NCFN000	C0025289	trastorno	117-127	716(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+15	y	y	CC	C1706368	calificador	128-129	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+16	estatus	estatus	NCMN000	-	-	130-137	716(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	epiléptico	epiléptico	AQ0MS0	-	-	138-148	716(3)_ANS_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+18	.	.	Fp	-	-	149-150	716(3)_ANS_clinical_caseMIR	SENT2	-	-
+

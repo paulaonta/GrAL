@@ -1,0 +1,22 @@
+1	Contraceptivos	contraceptivos	AQ0MP00	-	-	0-14	609(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	con	con	SPS00	C0332287	atributo	15-18	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	estrógenos	estrógeno	NCMP000	C0014939	sustancia	19-29	609(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	combinados	combinar	VMP00PM	-	-	30-40	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	41-44	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	norgestrel	norgestrel	NC00SC0	C0028368	producto#sustancia	45-55	609(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	porque	porque	CS	-	-	56-62	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	promueven	promover	VMIP3P0	-	-	63-72	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	73-76	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	77-82	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	elevación	elevación	NCFS000	C0439775	procedimiento	83-92	609(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0332285	atributo	93-95	609(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+13	la	el	DA0FS0	-	-	96-98	609(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+14	Sex	sex	AQ0CN00	-	-	99-102	609(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+15	Hormone	hormone	VMIP3S0	-	-	103-110	609(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+16	Binding	binding	NCMS000	-	-	111-118	609(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+17	Globuline	globuline	AQ0CN00	-	-	119-128	609(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+18	(	(	Fpa	-	-	129-130	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	SHBG	sex-hormone_binding_globulin_(globulina_fijadora_de_las_hormonas_sexuales)	NC00YL0	-	-	130-134	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	)	)	Fpt	-	-	134-135	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	136-137	609(1)_ANS_clinical_caseMIR	SENT1	-	-
+

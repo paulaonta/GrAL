@@ -1,0 +1,69 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	54_QUEST_clinical_caseMIR	SENT1	-	-
+2	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	3-8	54_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	54_QUEST_clinical_caseMIR	SENT1	-	-
+4	40	40		-	-	12-14	54_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	54_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	19-20	54_QUEST_clinical_caseMIR	SENT1	-	-
+7	turista	turista	NCCS000	C0277528	trastorno	21-28	54_QUEST_clinical_caseMIR	SENT1	-	-
+8	extranjero	extranjero	AQ0MS0	-	-	29-39	54_QUEST_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	39-40	54_QUEST_clinical_caseMIR	SENT1	-	-
+10	es	ser	VSIP3S0	-	-	41-43	54_QUEST_clinical_caseMIR	SENT1	-	-
+11	remitido	remitir	VMP00SM	C1691010_1	calificador_1	44-52	54_QUEST_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	C1691010_2	calificador_2	53-54	54_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	55-57	54_QUEST_clinical_caseMIR	SENT1	-	-
+14	Servicio	servicio	NCMS000	-	-	58-66	54_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	67-69	54_QUEST_clinical_caseMIR	SENT1	-	-
+16	Urgencias	urgencia	NCFP000	C0439609	calificador	70-79	54_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	80-83	54_QUEST_clinical_caseMIR	SENT1	-	-
+18	bajo	bajo	SPS00	C0205251	calificador	84-88	54_QUEST_clinical_caseMIR	SENT1	-	-
+19	nivel	nivel	NCMS000	C0234425_1	entidad_observable_1	89-94	54_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0234425_2	entidad_observable_2	95-97	54_QUEST_clinical_caseMIR	SENT1	-	-
+21	conciencia	concienciar	VMM02S0	C0234425_3	entidad_observable_3	98-108	54_QUEST_clinical_caseMIR	SENT1	-	-
+22	,	,	Fc	-	-	108-109	54_QUEST_clinical_caseMIR	SENT1	-	-
+23	temperatura	temperatura	NCFS000	C0039476	atributo	110-121	54_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	122-124	54_QUEST_clinical_caseMIR	SENT1	-	-
+25	37.7ºC	37.7ºC		-	-	125-131	54_QUEST_clinical_caseMIR	SENT1	-	-
+26	y	y	CC	C1706368	calificador	132-133	54_QUEST_clinical_caseMIR	SENT1	-	-
+27	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	134-140	54_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	.	.	Fp	-	-	140-141	54_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	142-144	54_QUEST_clinical_caseMIR	SENT2	-	-
+2	tiene	tener	VMIP3S0	-	-	145-150	54_QUEST_clinical_caseMIR	SENT2	-	-
+3	traumatismos	traumatismo	NCMP000	C3263723	trastorno	151-163	54_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+4	.	.	Fp	-	-	163-164	54_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	165-167	54_QUEST_clinical_caseMIR	SENT3	-	-
+2	realizan	realizar	VMIP3P0	-	-	168-176	54_QUEST_clinical_caseMIR	SENT3	-	-
+3	varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	177-183	54_QUEST_clinical_caseMIR	SENT3	-	-
+4	pruebas	prueba	NCFP000	-	-	184-191	54_QUEST_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	191-192	54_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	lo	PP3FSA00	C0205393_1	calificador_1	193-195	54_QUEST_clinical_caseMIR	SENT4	-	-
+2	más	más	RG	C0205393_2	calificador_2	196-199	54_QUEST_clinical_caseMIR	SENT4	-	-
+3	inmediata	inmediato	AQ0FS0	C0205253	calificador	200-209	54_QUEST_clinical_caseMIR	SENT4	-	-
+4	es	ser	VSIP3S0	-	-	210-212	54_QUEST_clinical_caseMIR	SENT4	-	-
+5	una	una		C0205447_1	calificador_1	213-216	54_QUEST_clinical_caseMIR	SENT4	-	-
+6	EAB	equilibrio_ácido-base	NC00YL0	-	-	217-220	54_QUEST_clinical_caseMIR	SENT4	-	-
+7	sin	sin	SPS00	C0332288	atributo	221-224	54_QUEST_clinical_caseMIR	SENT4	-	-
+8	oxígeno	oxígeno	NCMS000	C0030054	sustancia	225-232	54_QUEST_clinical_caseMIR	SENT4	-	-
+9	que	que	PR0CN000	-	-	233-236	54_QUEST_clinical_caseMIR	SENT4	-	-
+10	muestra	mostrar	VMIP3S0	-	-	237-244	54_QUEST_clinical_caseMIR	SENT4	-	-
+11	PH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	245-247	54_QUEST_clinical_caseMIR	SENT4	-	-
+12	7.33	7.33		-	-	248-252	54_QUEST_clinical_caseMIR	SENT4	-	-
+13	,	,	Fc	-	-	252-253	54_QUEST_clinical_caseMIR	SENT4	-	-
+14	PCO2	PCO2		-	-	254-258	54_QUEST_clinical_caseMIR	SENT4	-	-
+15	50	50		-	-	259-261	54_QUEST_clinical_caseMIR	SENT4	-	-
+16	,	,	Fc	-	-	261-262	54_QUEST_clinical_caseMIR	SENT4	-	-
+17	PO2	PO2		-	-	263-266	54_QUEST_clinical_caseMIR	SENT4	-	-
+18	65	65		-	-	267-269	54_QUEST_clinical_caseMIR	SENT4	-	-
+19	,	,	Fc	-	-	269-270	54_QUEST_clinical_caseMIR	SENT4	-	-
+20	HCO3	HCO3		-	-	271-275	54_QUEST_clinical_caseMIR	SENT4	-	-
+21	27	27		-	-	276-278	54_QUEST_clinical_caseMIR	SENT4	-	-
+22	.	.	Fp	-	-	278-279	54_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	280-291	54_QUEST_clinical_caseMIR	SENT5	-	-
+2	más	más	RG	C0205172	calificador	292-295	54_QUEST_clinical_caseMIR	SENT5	-	-
+3	probable	probable	AQ0CS0	C0332148	calificador	296-304	54_QUEST_clinical_caseMIR	SENT5	-	-
+4	:	:	Fd	-	-	304-305	54_QUEST_clinical_caseMIR	SENT5	-	-
+5	.	.	Fp	-	-	305-306	54_QUEST_clinical_caseMIR	SENT5	-	-
+

@@ -1,0 +1,12 @@
+1	El	el	DA0MS0	-	-	0-2	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	esta	este	DD0FS0	-	-	18-22	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	afectación	afectación	NCFS000	-	-	23-33	120(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	se	se	P00CN000	-	-	34-36	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	basa	basar	VMIP3S0	-	-	37-41	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	criterios	criterio	NCMP000	-	-	45-54	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	clínicos	clínico	AQ0MP0	C0205210	calificador	55-63	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	64-65	120(0)_ANS_clinical_caseMIR	SENT1	-	-
+

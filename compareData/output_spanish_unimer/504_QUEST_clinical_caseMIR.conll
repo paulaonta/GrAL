@@ -1,0 +1,76 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	504_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	504_QUEST_clinical_caseMIR	SENT1	-	-
+3	95	95		-	-	9-11	504_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	504_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	504_QUEST_clinical_caseMIR	SENT1	-	-
+6	vive	vivir	VMIP3S0	-	-	21-25	504_QUEST_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	26-28	504_QUEST_clinical_caseMIR	SENT1	-	-
+8	una	una		C0205447_1	calificador_1	29-32	504_QUEST_clinical_caseMIR	SENT1	-	-
+9	residencia	residencia	NCFS000	-	-	33-43	504_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	43-44	504_QUEST_clinical_caseMIR	SENT1	-	-
+11	independiente	independiente	NC00SC0	C1299583	calificador	45-58	504_QUEST_clinical_caseMIR	SENT1	-	-
+12	para	para	SPS00	C0521125	calificador	59-63	504_QUEST_clinical_caseMIR	SENT1	-	-
+13	sus	su	DP3CP0	-	-	64-67	504_QUEST_clinical_caseMIR	SENT1	-	-
+14	actividades	actividad	NCFP000	C0441655	entidad_observable	68-79	504_QUEST_clinical_caseMIR	SENT1	-	-
+15	básicas	básico	AQ0FP0	-	-	80-87	504_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	88-90	504_QUEST_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	91-93	504_QUEST_clinical_caseMIR	SENT1	-	-
+18	vida	vida	NCFS000	-	-	94-98	504_QUEST_clinical_caseMIR	SENT1	-	-
+19	diaria	diario	AQ0FS0	C0332173	calificador	99-105	504_QUEST_clinical_caseMIR	SENT1	-	-
+20	,	,	Fc	-	-	105-106	504_QUEST_clinical_caseMIR	SENT1	-	-
+21	sale	salir	VMIP3S0	-	-	107-111	504_QUEST_clinical_caseMIR	SENT1	-	-
+22	al	al	SP+DA	-	-	112-114	504_QUEST_clinical_caseMIR	SENT1	-	-
+23	jardín	jardín	NCMS000	-	-	115-121	504_QUEST_clinical_caseMIR	SENT1	-	-
+24	a	a	SPS00	-	-	122-123	504_QUEST_clinical_caseMIR	SENT1	-	-
+25	pasear	pasear	VMN0000	-	-	124-130	504_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	130-131	504_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	132-137	504_QUEST_clinical_caseMIR	SENT2	-	-
+2	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	138-150	504_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332119_2	situación_2	151-153	504_QUEST_clinical_caseMIR	SENT2	-	-
+4	HTA	hta	NC00YL0	-	-	154-157	504_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	,	,	Fc	-	-	157-158	504_QUEST_clinical_caseMIR	SENT2	-	-
+6	dislipidemia	dislipidemia	NC00SC0	C0242339	trastorno	159-171	504_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	,	,	Fc	-	-	171-172	504_QUEST_clinical_caseMIR	SENT2	-	-
+8	osteoporosis	osteoporosis	NCFN000	C0029456	trastorno	173-185	504_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	186-187	504_QUEST_clinical_caseMIR	SENT2	-	-
+10	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	188-197	504_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	cognitivo	cognitivo	AQ0MS0	-	-	198-207	504_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+12	leve	leve	NC00SC0	C2945599#C0547040#C1282907	calificador	208-212	504_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	.	.	Fp	-	-	212-213	504_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Sufre	sufrir	VMIP3S0	-	-	214-219	504_QUEST_clinical_caseMIR	SENT3	-	-
+2	una	una		C0205447_1	calificador_1	220-223	504_QUEST_clinical_caseMIR	SENT3	-	-
+3	caída	caída	NCFS000	C0085639	hallazgo	224-229	504_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	al	al	SP+DA	-	-	230-232	504_QUEST_clinical_caseMIR	SENT3	-	-
+5	levantar	levantar	VMN0000	C0206244	entidad_observable	233-241	504_QUEST_clinical_caseMIR	SENT3	-	-
+6	se	se	PP3CN000	-	-	241-243	504_QUEST_clinical_caseMIR	SENT3	-	-
+7	por	por	SPS00	C0439583_1	calificador_1	244-247	504_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	lo	PP3FSA00	C0439583_2	calificador_2	248-250	504_QUEST_clinical_caseMIR	SENT3	-	-
+9	noche	noche	NCFS000	C0439583_3	calificador_3	251-256	504_QUEST_clinical_caseMIR	SENT3	-	-
+10	al	al	SP+DA	-	-	257-259	504_QUEST_clinical_caseMIR	SENT3	-	-
+11	baño	baño	NCMS000	C0518460#C0556989	entidad_observable#medio_ambiente	260-264	504_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	264-265	504_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	266-268	504_QUEST_clinical_caseMIR	SENT4	-	-
+2	radiografía	radiografía	NCFS000	C1306645	procedimiento	269-280	504_QUEST_clinical_caseMIR	SENT4	-	-
+3	muestra	mostrar	VMIP3S0	-	-	281-288	504_QUEST_clinical_caseMIR	SENT4	-	-
+4	una	una		C0205447_1	calificador_1	289-292	504_QUEST_clinical_caseMIR	SENT4	-	-
+5	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	293-301	504_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	subcapital	subcapital	AQ0CS0	-	-	302-312	504_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	desplazada	desplazar	VMP00SF	-	-	313-323	504_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	324-326	504_QUEST_clinical_caseMIR	SENT4	-	-
+9	cadera	cadera	NCFS000	C1268233#C0524470_1	estructura_corporal_1	327-333	504_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	derecha	derecho	AQ0FS0	C1268233#C0524470_2	estructura_corporal_2	334-341	504_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	341-342	504_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	343-344	504_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	344-348	504_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	349-351	504_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	352-354	504_QUEST_clinical_caseMIR	SENT5	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	355-366	504_QUEST_clinical_caseMIR	SENT5	-	-
+6	recomendado	recomendar	VMP00SM	-	-	367-378	504_QUEST_clinical_caseMIR	SENT5	-	-
+7	?	?	Fit	-	-	378-379	504_QUEST_clinical_caseMIR	SENT5	-	-
+8	:	:	Fd	-	-	379-380	504_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	380-381	504_QUEST_clinical_caseMIR	SENT5	-	-
+

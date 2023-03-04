@@ -1,0 +1,104 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	480_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	480_QUEST_clinical_caseMIR	SENT1	-	-
+3	29	29		-	-	9-11	480_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	480_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	480_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	480_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	480_QUEST_clinical_caseMIR	SENT1	-	-
+8	crisis	crisis	NCFN000	C0231224	hallazgo	37-43	480_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	febriles	febril	AQ0CP0	C0015967	hallazgo	44-52	480_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	53-54	480_QUEST_clinical_caseMIR	SENT1	-	-
+11	fumadora	fumador	NCFS000	C0337664	hallazgo	55-63	480_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	importante	importante	AQ0CS0	-	-	64-74	480_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	.	.	Fp	-	-	74-75	480_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	76-84	480_QUEST_clinical_caseMIR	SENT2	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	85-88	480_QUEST_clinical_caseMIR	SENT2	-	-
+3	presentar	presentar	VMN0000	-	-	89-98	480_QUEST_clinical_caseMIR	SENT2	-	-
+4	desde	desde	SPS00	-	-	99-104	480_QUEST_clinical_caseMIR	SENT2	-	-
+5	hace	hacer	VMIP3S0	-	-	105-109	480_QUEST_clinical_caseMIR	SENT2	-	-
+6	unos	uno	DI0MP0	C0205447	calificador	110-114	480_QUEST_clinical_caseMIR	SENT2	-	-
+7	2	2		-	-	115-116	480_QUEST_clinical_caseMIR	SENT2	-	-
+8	años	año	NCMP000	C0439234	calificador	117-121	480_QUEST_clinical_caseMIR	SENT2	-	-
+9	episodios	episodio	NCMP000	C0332189	atributo	122-131	480_QUEST_clinical_caseMIR	SENT2	-	-
+10	frecuentes	frecuente	AQ0CP0	C0332183	calificador	132-142	480_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	142-143	480_QUEST_clinical_caseMIR	SENT2	-	-
+12	estereotipados	estereotipar	VMP00PM	-	-	144-158	480_QUEST_clinical_caseMIR	SENT2	-	-
+13	,	,	Fc	-	-	158-159	480_QUEST_clinical_caseMIR	SENT2	-	-
+14	que	que	PR0CN000	-	-	160-163	480_QUEST_clinical_caseMIR	SENT2	-	-
+15	comienzan	comenzar	VMIP3P0	-	-	164-173	480_QUEST_clinical_caseMIR	SENT2	-	-
+16	con	con	SPS00	C0332287	atributo	174-177	480_QUEST_clinical_caseMIR	SENT2	-	-
+17	una	una		C0205447_1	calificador_1	178-181	480_QUEST_clinical_caseMIR	SENT2	-	-
+18	sensación	sensación	NCFS000	C0036658#C1455667	calificador	182-191	480_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	epigástrica	epigástrico	AQ0FS0	-	-	192-203	480_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+20	ascendente	ascendente	AQ0CS0	C0205385	calificador	204-214	480_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+21	y	y	CC	C1706368	calificador	215-216	480_QUEST_clinical_caseMIR	SENT2	-	-
+22	un	un		C0205447_1	calificador_1	217-219	480_QUEST_clinical_caseMIR	SENT2	-	-
+23	olor	olor	NCMS000	-	-	220-224	480_QUEST_clinical_caseMIR	SENT2	-	-
+24	desagradable	desagradable	AQ0CS0	-	-	225-237	480_QUEST_clinical_caseMIR	SENT2	-	-
+25	,	,	Fc	-	-	237-238	480_QUEST_clinical_caseMIR	SENT2	-	-
+26	seguidos	seguir	VMP00PM	-	-	239-247	480_QUEST_clinical_caseMIR	SENT2	-	-
+27	de	de	SPS00	C0332285	atributo	248-250	480_QUEST_clinical_caseMIR	SENT2	-	-
+28	desconexión	desconexión	NCFS000	-	-	251-262	480_QUEST_clinical_caseMIR	SENT2	-	-
+29	del	del	SP+DA	-	-	263-266	480_QUEST_clinical_caseMIR	SENT2	-	-
+30	medio	medio	NCMS000	C2939193#C0205098#C0444598#C0549183	calificador	267-272	480_QUEST_clinical_caseMIR	SENT2	-	-
+31	.	.	Fp	-	-	272-273	480_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Los	el	DA0MP0	-	-	274-277	480_QUEST_clinical_caseMIR	SENT3	-	-
+2	familiares	familiar	NCMP000	C0080103#C0241888	persona#calificador	278-288	480_QUEST_clinical_caseMIR	SENT3	-	-
+3	que	que	PR0CN000	-	-	289-292	480_QUEST_clinical_caseMIR	SENT3	-	-
+4	están	estar	VAIP3P0	-	-	293-298	480_QUEST_clinical_caseMIR	SENT3	-	-
+5	con	con	SPS00	C0332287	atributo	299-302	480_QUEST_clinical_caseMIR	SENT3	-	-
+6	ella	él	PP3FS000	-	-	303-307	480_QUEST_clinical_caseMIR	SENT3	-	-
+7	observan	observar	VMIP3P0	-	-	308-316	480_QUEST_clinical_caseMIR	SENT3	-	-
+8	que	que	CS	-	-	317-320	480_QUEST_clinical_caseMIR	SENT3	-	-
+9	hace	hacer	VMIP3S0	-	-	321-325	480_QUEST_clinical_caseMIR	SENT3	-	-
+10	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	326-337	480_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	338-340	480_QUEST_clinical_caseMIR	SENT3	-	-
+12	chupeteo	chupeteo	NCMS000	-	-	341-349	480_QUEST_clinical_caseMIR	SENT3	-	-
+13	y	y	CC	C1706368	calificador	350-351	480_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332285	atributo	352-354	480_QUEST_clinical_caseMIR	SENT3	-	-
+15	apertura	apertura	NCFS000	C0547049#C0175566	calificador	355-363	480_QUEST_clinical_caseMIR	SENT3	-	-
+16	y	y	CC	C1706368	calificador	364-365	480_QUEST_clinical_caseMIR	SENT3	-	-
+17	cierre	cierre	NCMS000	C0185003#C0453981#C0453984	procedimiento#objeto_físico	366-372	480_QUEST_clinical_caseMIR	SENT3	-	-
+18	repetidos	repetir	VMP00PM	C0205341	calificador	373-382	480_QUEST_clinical_caseMIR	SENT3	-	-
+19	de	de	SPS00	C0332285	atributo	383-385	480_QUEST_clinical_caseMIR	SENT3	-	-
+20	la	el	DA0FS0	-	-	386-388	480_QUEST_clinical_caseMIR	SENT3	-	-
+21	mano	mano	NCFS000	C0230371#C1288949_1	estructura_corporal_1	389-393	480_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+22	izquierda	izquierdo	AQ0FS0	C0230371#C1288949_2	estructura_corporal_2	394-403	480_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+23	.	.	Fp	-	-	403-404	480_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Pasados	pasar	VMP00PM	-	-	405-412	480_QUEST_clinical_caseMIR	SENT4	-	-
+2	dos	dos		-	-	413-416	480_QUEST_clinical_caseMIR	SENT4	-	-
+3	minutos	minuto	NCMP000	C0439232	calificador	417-424	480_QUEST_clinical_caseMIR	SENT4	-	-
+4	los	el	DA0MP0	-	-	425-428	480_QUEST_clinical_caseMIR	SENT4	-	-
+5	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	429-440	480_QUEST_clinical_caseMIR	SENT4	-	-
+6	ceden	ceder	VMIP3P0	-	-	441-446	480_QUEST_clinical_caseMIR	SENT4	-	-
+7	,	,	Fc	-	-	446-447	480_QUEST_clinical_caseMIR	SENT4	-	-
+8	pero	pero	CC	-	-	448-452	480_QUEST_clinical_caseMIR	SENT4	-	-
+9	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	453-455	480_QUEST_clinical_caseMIR	SENT4	-	-
+10	cuesta	costar	VMIP3S0	-	-	456-462	480_QUEST_clinical_caseMIR	SENT4	-	-
+11	responder	responder	VMN0000	-	-	463-472	480_QUEST_clinical_caseMIR	SENT4	-	-
+12	adecuadamente	adecuadamente	RG	-	-	473-486	480_QUEST_clinical_caseMIR	SENT4	-	-
+13	y	y	CC	C1706368	calificador	487-488	480_QUEST_clinical_caseMIR	SENT4	-	-
+14	solo	solo	RG	C0205171	calificador	489-493	480_QUEST_clinical_caseMIR	SENT4	-	-
+15	recuerda	recordar	VMIP3S0	C0557033	procedimiento	494-502	480_QUEST_clinical_caseMIR	SENT4	-	-
+16	parcialmente	parcialmente	RG	-	-	503-515	480_QUEST_clinical_caseMIR	SENT4	-	-
+17	lo	lo	PP3CNA00	-	-	516-518	480_QUEST_clinical_caseMIR	SENT4	-	-
+18	ocurrido	ocurrir	VMP00SM	-	-	519-527	480_QUEST_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	527-528	480_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	De	de	SPS00	C0332285	atributo	529-531	480_QUEST_clinical_caseMIR	SENT5	-	-
+2	los	el	DA0MP0	-	-	532-535	480_QUEST_clinical_caseMIR	SENT5	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	536-546	480_QUEST_clinical_caseMIR	SENT5	-	-
+4	¿	¿	Fia	-	-	547-548	480_QUEST_clinical_caseMIR	SENT5	-	-
+5	cuál	cuál	PT0CS000	-	-	548-552	480_QUEST_clinical_caseMIR	SENT5	-	-
+6	es	ser	VSIP3S0	-	-	553-555	480_QUEST_clinical_caseMIR	SENT5	-	-
+7	el	el	DA0MS0	-	-	556-558	480_QUEST_clinical_caseMIR	SENT5	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	559-570	480_QUEST_clinical_caseMIR	SENT5	-	-
+9	más	más	RG	C0205172	calificador	571-574	480_QUEST_clinical_caseMIR	SENT5	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	575-583	480_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	583-584	480_QUEST_clinical_caseMIR	SENT5	-	-
+12	:	:	Fd	-	-	584-585	480_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	585-586	480_QUEST_clinical_caseMIR	SENT5	-	-
+

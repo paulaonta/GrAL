@@ -1,0 +1,15 @@
+1	Adrenalina	adrenalina	NCFS000	C0014563	producto#sustancia	0-10	644(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	porque	porque	CS	-	-	11-17	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	18-20	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	21-23	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	fármaco	fármaco	NCMS000	C0013227	sustancia	24-31	644(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	inicial	inicial	AQ0CS0	C0205265	calificador	32-39	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	40-42	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	elección	elección	NCFS000	-	-	43-51	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	55-60	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	las	el	DA0FP0	-	-	61-64	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	paradas	parado	NCFP000	-	-	65-72	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	cardiacas	cardiaco	AQ0FP0	-	-	73-82	644(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	83-84	644(0)_ANS_clinical_caseMIR	SENT1	-	-
+

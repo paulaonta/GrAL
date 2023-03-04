@@ -1,0 +1,34 @@
+1	Señale	señalar	VMM03S0	-	-	0-6	610_QUEST_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	7-9	610_QUEST_clinical_caseMIR	SENT1	-	-
+3	respuesta	respuesta	NCFS000	-	-	10-19	610_QUEST_clinical_caseMIR	SENT1	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	20-28	610_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	29-31	610_QUEST_clinical_caseMIR	SENT1	-	-
+6	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	32-40	610_QUEST_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	41-43	610_QUEST_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	44-55	610_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	56-58	610_QUEST_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	59-61	610_QUEST_clinical_caseMIR	SENT1	-	-
+11	disfunción	disfunción	NCFS000	C0277785	hallazgo	62-72	610_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	sexual	sexual	AQ0CS0	-	-	73-79	610_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	de	de	SPS00	C0332285	atributo	80-82	610_QUEST_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	83-86	610_QUEST_clinical_caseMIR	SENT1	-	-
+15	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	87-92	610_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	93-95	610_QUEST_clinical_caseMIR	SENT1	-	-
+17	60	60		-	-	96-98	610_QUEST_clinical_caseMIR	SENT1	-	-
+18	años	año	NCMP000	C0439234	calificador	99-103	610_QUEST_clinical_caseMIR	SENT1	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	104-106	610_QUEST_clinical_caseMIR	SENT1	-	-
+20	menopausia	menopausia	NCFS000	C0025320#C0567312	hallazgo#entidad_observable	107-117	610_QUEST_clinical_caseMIR	SENT1	-	-
+21	desde	desde	SPS00	-	-	118-123	610_QUEST_clinical_caseMIR	SENT1	-	-
+22	hace	hacer	VMIP3S0	-	-	124-128	610_QUEST_clinical_caseMIR	SENT1	-	-
+23	5	5		-	-	129-130	610_QUEST_clinical_caseMIR	SENT1	-	-
+24	y	y	CC	C1706368	calificador	131-132	610_QUEST_clinical_caseMIR	SENT1	-	-
+25	con	con	SPS00	C0332287	atributo	133-136	610_QUEST_clinical_caseMIR	SENT1	-	-
+26	atrofia	atrofiar	VMM02S0	C0241616_1	trastorno_1	137-144	610_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	vaginal	vaginal	AQ0CS0	C0241616_2	trastorno_2	145-152	610_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	que	que	CS	-	-	153-156	610_QUEST_clinical_caseMIR	SENT1	-	-
+29	consulta	consultar	VMM02S0	C1704447_1	calificador_1	157-165	610_QUEST_clinical_caseMIR	SENT1	-	-
+30	por	por	SPS00	C1704447_2	calificador_2	166-169	610_QUEST_clinical_caseMIR	SENT1	-	-
+31	dispareunia	dispareunia	NC00SC0	C1384606	hallazgo	170-181	610_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+32	:	:	Fd	-	-	181-182	610_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	182-183	610_QUEST_clinical_caseMIR	SENT1	-	-
+

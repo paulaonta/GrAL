@@ -1,0 +1,100 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	59_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	AQ0CS0	C0030705	persona	3-11	59_QUEST_clinical_caseMIR	SENT1	-	-
+3	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	12-17	59_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	18-20	59_QUEST_clinical_caseMIR	SENT1	-	-
+5	45	45		-	-	21-23	59_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	24-28	59_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0001779_1	entidad_observable_1	29-31	59_QUEST_clinical_caseMIR	SENT1	-	-
+8	edad	edad	NCFS000	C0001779_2	entidad_observable_2	32-36	59_QUEST_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	37-40	59_QUEST_clinical_caseMIR	SENT1	-	-
+10	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	41-53	59_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332119_2	situación_2	54-56	59_QUEST_clinical_caseMIR	SENT1	-	-
+12	litiasis	litiasis	NCFN000	C0023869	anomalía_morfológica	57-65	59_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	úrica	úrico	AQ0FS0	-	-	66-71	59_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	con	con	SPS00	C0332287	atributo	72-75	59_QUEST_clinical_caseMIR	SENT1	-	-
+15	cólicos	cólico	NCMP000	C0423605#C0232488#C3665357	hallazgo	76-83	59_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	nefríticos	nefrítico	AQ0MP0	-	-	84-94	59_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	expulsivos	expulsivo	NCMP000	-	-	95-105	59_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	de	de	SPS00	C0332285	atributo	106-108	59_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+19	repetición	repetición	NCFS000	-	-	109-119	59_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+20	desde	desde	SPS00	-	-	120-125	59_QUEST_clinical_caseMIR	SENT1	-	-
+21	hace	hacer	VMIP3S0	-	-	126-130	59_QUEST_clinical_caseMIR	SENT1	-	-
+22	25	25		-	-	131-133	59_QUEST_clinical_caseMIR	SENT1	-	-
+23	años	año	NCMP000	C0439234	calificador	134-138	59_QUEST_clinical_caseMIR	SENT1	-	-
+24	,	,	Fc	-	-	138-139	59_QUEST_clinical_caseMIR	SENT1	-	-
+25	acude	acudir	VMIP3S0	-	-	140-145	59_QUEST_clinical_caseMIR	SENT1	-	-
+26	a	a	SPS00	-	-	146-147	59_QUEST_clinical_caseMIR	SENT1	-	-
+27	Urgencias	urgencia	NCFP000	C0439609	calificador	148-157	59_QUEST_clinical_caseMIR	SENT1	-	-
+28	refiriendo	referir	VMG0000	-	-	158-168	59_QUEST_clinical_caseMIR	SENT1	-	-
+29	palpitaciones	palpitación	NCFP000	-	-	169-182	59_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	y	y	CC	C1706368	calificador	183-184	59_QUEST_clinical_caseMIR	SENT1	-	-
+31	dolor	dolor	NCMS000	C0030193	hallazgo	185-190	59_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+32	lumbar	lumbar	NC00SC0	C0024090	calificador	191-197	59_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+33	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	198-205	59_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+34	intenso	intenso	AQ0MS0	C0205178	calificador	206-213	59_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+35	desde	desde	SPS00	-	-	214-219	59_QUEST_clinical_caseMIR	SENT1	-	-
+36	hace	hacer	VMIP3S0	-	-	220-224	59_QUEST_clinical_caseMIR	SENT1	-	-
+37	2	2	Z	C1292425_1	calificador_1	225-226	59_QUEST_clinical_caseMIR	SENT1	-	-
+38	horas	hora	NCFP000	C1292425_2	calificador_2	227-232	59_QUEST_clinical_caseMIR	SENT1	-	-
+39	antes	antes	RG	C0332152	atributo	233-238	59_QUEST_clinical_caseMIR	SENT1	-	-
+40	.	.	Fp	-	-	238-239	59_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	240-242	59_QUEST_clinical_caseMIR	SENT2	-	-
+2	análisis	análisis	NCMN000	C0042014_1	procedimiento_1	243-251	59_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0042014_2	procedimiento_2	252-254	59_QUEST_clinical_caseMIR	SENT2	-	-
+4	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	255-260	59_QUEST_clinical_caseMIR	SENT2	-	-
+5	muestra	mostrar	VMIP3S0	-	-	261-268	59_QUEST_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	269-271	59_QUEST_clinical_caseMIR	SENT2	-	-
+7	PH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	272-274	59_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	275-277	59_QUEST_clinical_caseMIR	SENT2	-	-
+9	5.5	5.5		-	-	278-281	59_QUEST_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	282-283	59_QUEST_clinical_caseMIR	SENT2	-	-
+11	leucocituria	leucocituria	NCFS000	-	-	284-296	59_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	sin	sin	SPS00	C0332288	atributo	297-300	59_QUEST_clinical_caseMIR	SENT2	-	-
+13	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	301-312	59_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+14	.	.	Fp	-	-	312-313	59_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	314-316	59_QUEST_clinical_caseMIR	SENT3	-	-
+2	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	317-335	59_QUEST_clinical_caseMIR	SENT3	-	-
+3	confirma	confirmar	VMIP3S0	-	-	336-344	59_QUEST_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	345-348	59_QUEST_clinical_caseMIR	SENT3	-	-
+5	FA	fa	NC00YL0	-	-	349-351	59_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	no	no	RN	C1298908	calificador	352-354	59_QUEST_clinical_caseMIR	SENT3	-	-
+7	conocida	conocer	VMP00SF	-	-	355-363	59_QUEST_clinical_caseMIR	SENT3	-	-
+8	previamente	previamente	RG	-	-	364-375	59_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	375-376	59_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	377-379	59_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	380-382	59_QUEST_clinical_caseMIR	SENT4	-	-
+3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	383-393	59_QUEST_clinical_caseMIR	SENT4	-	-
+4	sanguínea	sanguíneo	AQ0FS0	-	-	394-403	59_QUEST_clinical_caseMIR	SENT4	-	-
+5	destaca	destacar	VMIP3S0	-	-	404-411	59_QUEST_clinical_caseMIR	SENT4	-	-
+6	una	una		C0205447_1	calificador_1	412-415	59_QUEST_clinical_caseMIR	SENT4	-	-
+7	Creat	creatinina	NC00YL0	C0010294	sustancia	416-421	59_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	422-424	59_QUEST_clinical_caseMIR	SENT4	-	-
+9	0.9	0.9		-	-	425-428	59_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	428-429	59_QUEST_clinical_caseMIR	SENT4	-	-
+11	un	un		C0205447_1	calificador_1	430-432	59_QUEST_clinical_caseMIR	SENT4	-	-
+12	Ca	ca	NC00YL0	-	-	433-435	59_QUEST_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C0332285	atributo	436-438	59_QUEST_clinical_caseMIR	SENT4	-	-
+14	11	11		-	-	439-441	59_QUEST_clinical_caseMIR	SENT4	-	-
+15	y	y	CC	C1706368	calificador	442-443	59_QUEST_clinical_caseMIR	SENT4	-	-
+16	una	una		C0205447_1	calificador_1	444-447	59_QUEST_clinical_caseMIR	SENT4	-	-
+17	LDH	ldh	NC00SC0	C0022917	sustancia	448-451	59_QUEST_clinical_caseMIR	SENT4	-	-
+18	de	de	SPS00	C0332285	atributo	452-454	59_QUEST_clinical_caseMIR	SENT4	-	-
+19	950	950		-	-	455-458	59_QUEST_clinical_caseMIR	SENT4	-	-
+20	.	.	Fp	-	-	458-459	59_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	460-461	59_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	461-465	59_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	466-468	59_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	469-471	59_QUEST_clinical_caseMIR	SENT5	-	-
+5	maniobra	maniobra	NCFS000	-	-	472-480	59_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	481-492	59_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205172	calificador	493-496	59_QUEST_clinical_caseMIR	SENT5	-	-
+8	útil	útil	AQ0CS0	-	-	497-501	59_QUEST_clinical_caseMIR	SENT5	-	-
+9	a	a	SPS00	-	-	502-503	59_QUEST_clinical_caseMIR	SENT5	-	-
+10	realizar	realizar	VMN0000	-	-	504-512	59_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	512-513	59_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	513-514	59_QUEST_clinical_caseMIR	SENT5	-	-
+

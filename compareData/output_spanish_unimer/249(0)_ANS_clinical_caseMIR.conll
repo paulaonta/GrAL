@@ -1,0 +1,19 @@
+1	La	el	DA0FS0	-	-	0-2	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	colitis	colitis	NCFN000	C0009324#C2919828_1	trastorno_1	3-10	249(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+3	ulcerosa	ulceroso	AQ0FS0	C0009324#C2919828_2	trastorno_2	11-19	249(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	solo	solo	AQ0MS0	C0205171	calificador	20-24	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	se	se	P00CN000	-	-	25-27	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	asocia	asociar	VMIP3S0	-	-	28-34	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	35-36	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	37-39	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	incremento	incremento	NCMS000	-	-	40-50	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	51-53	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	el	el	DA0MS0	-	-	54-56	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	57-63	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0035647_2	calificador_2	64-66	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	67-73	249(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	colorrectal	colorrectal	NC00SC0	C0555952	calificador	74-85	249(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	fumadores	fumador	NCMP000	C0337664	hallazgo	89-98	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	99-100	249(0)_ANS_clinical_caseMIR	SENT1	-	-
+

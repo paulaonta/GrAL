@@ -1,0 +1,55 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	311_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	311_QUEST_clinical_caseMIR	SENT1	-	-
+3	35	35		-	-	12-14	311_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	311_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	20-23	311_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	23-24	311_QUEST_clinical_caseMIR	SENT1	-	-
+7	debido	deber	VMP00SM	C0678226_1	atributo_1	25-31	311_QUEST_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	C0678226_2	atributo_2	32-33	311_QUEST_clinical_caseMIR	SENT1	-	-
+9	hematemesis	hematemesis	NCFN000	C0018926	trastorno	34-45	311_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	por	por	SPS00	C0678226	atributo	46-49	311_QUEST_clinical_caseMIR	SENT1	-	-
+11	ulcus	ulcus	NCMN000	-	-	50-55	311_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	55-56	311_QUEST_clinical_caseMIR	SENT1	-	-
+13	recibe	recibir	VMIP3S0	-	-	57-63	311_QUEST_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	64-67	311_QUEST_clinical_caseMIR	SENT1	-	-
+15	transfusión	transfusión	NCFS000	C1879316	procedimiento	68-79	311_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	80-82	311_QUEST_clinical_caseMIR	SENT1	-	-
+17	2	2		-	-	83-84	311_QUEST_clinical_caseMIR	SENT1	-	-
+18	concentrados	concentrar	VMP00PM	-	-	85-97	311_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	de	de	SPS00	C0332285	atributo	98-100	311_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+20	hematíes	hematíe	NCMP000	-	-	101-109	311_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+21	.	.	Fp	-	-	109-110	311_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	111-112	311_QUEST_clinical_caseMIR	SENT2	-	-
+2	los	el	DA0MP0	-	-	113-116	311_QUEST_clinical_caseMIR	SENT2	-	-
+3	5-10	5-10	Z	-	-	117-121	311_QUEST_clinical_caseMIR	SENT2	-	-
+4	minutos	min	NCMP000	-	-	122-129	311_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	130-132	311_QUEST_clinical_caseMIR	SENT2	-	-
+6	iniciar	iniciar	VMN0000	-	-	133-140	311_QUEST_clinical_caseMIR	SENT2	-	-
+7	se	se	PP3CN000	-	-	140-142	311_QUEST_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	143-145	311_QUEST_clinical_caseMIR	SENT2	-	-
+9	transfusión	transfusión	NCFS000	C1879316	procedimiento	146-157	311_QUEST_clinical_caseMIR	SENT2	-	-
+10	comienza	comenzar	VMIP3S0	-	-	158-166	311_QUEST_clinical_caseMIR	SENT2	-	-
+11	con	con	SPS00	C0332287	atributo	167-170	311_QUEST_clinical_caseMIR	SENT2	-	-
+12	fiebre	fiebre	NCFS000	C0015967	hallazgo	171-177	311_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	,	,	Fc	-	-	177-178	311_QUEST_clinical_caseMIR	SENT2	-	-
+14	escalofríos	escalofrío	NCMP000	C0234192#C0085593#C0424790	entidad_observable#hallazgo	179-190	311_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	,	,	Fc	-	-	190-191	311_QUEST_clinical_caseMIR	SENT2	-	-
+16	hipotensión	hipotensión	NCFS000	C0020649	trastorno	192-203	311_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	y	y	CC	C1706368	calificador	204-205	311_QUEST_clinical_caseMIR	SENT2	-	-
+18	dolor	dolor	NCMS000	C0030193	hallazgo	206-211	311_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	212-214	311_QUEST_clinical_caseMIR	SENT2	-	-
+20	región	región	NCFS000	C0024090_1	estructura_corporal_1	215-221	311_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+21	lumbar	lumbar	NC00SC0	C0024090_2	estructura_corporal_2	222-228	311_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+22	.	.	Fp	-	-	228-229	311_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	230-231	311_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	231-235	311_QUEST_clinical_caseMIR	SENT3	-	-
+3	sería	ser	VSIC1S0	-	-	236-241	311_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	242-244	311_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	245-256	311_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	257-260	311_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	261-269	311_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	269-270	311_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	270-271	311_QUEST_clinical_caseMIR	SENT3	-	-
+

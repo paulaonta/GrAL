@@ -1,0 +1,21 @@
+1	El	el	DA0MS0	-	-	0-2	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	empiema	empiema	NCMS000	C0014013_1	trastorno_1	18-25	696(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	pleural	pleural	NC00SC0	C0014013_2	trastorno_2	26-33	696(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	solo	solo	AQ0MS0	C0205171	calificador	34-38	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	queda	quedar	VMIP3S0	-	-	39-44	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	confirmado	confirmar	VMP00SM	-	-	45-55	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	si	si	CS	-	-	56-58	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	se	se	P00CN000	-	-	59-61	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	halla	hallar	VMIP3S0	-	-	62-67	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	68-70	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	microorganismo	microorganismo	NCMS000	C0445623	organismo	71-85	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	89-91	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	cultivo	cultivo	NCMS000	-	-	92-99	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	100-102	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	líquido	líquido	NCMS000	C0225778_1	sustancia_1	103-110	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	pleural	pleural	NC00SC0	C0225778_2	sustancia_2	111-118	696(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	.	.	Fp	-	-	119-120	696(1)_ANS_clinical_caseMIR	SENT1	-	-
+

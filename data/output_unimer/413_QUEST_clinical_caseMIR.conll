@@ -1,0 +1,58 @@
+1	A	a	SPS00	-	-	0-1	413_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	2-5	413_QUEST_clinical_caseMIR	SENT1	-	-
+3	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	6-11	413_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	413_QUEST_clinical_caseMIR	SENT1	-	-
+5	43	43		-	-	15-17	413_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	18-22	413_QUEST_clinical_caseMIR	SENT1	-	-
+7	se	se	P00CN000	-	-	23-25	413_QUEST_clinical_caseMIR	SENT1	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	26-28	413_QUEST_clinical_caseMIR	SENT1	-	-
+9	ha	haber	VAIP3S0	-	-	29-31	413_QUEST_clinical_caseMIR	SENT1	-	-
+10	diagnosticado	diagnosticar	VMP00SM	-	-	32-45	413_QUEST_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	46-49	413_QUEST_clinical_caseMIR	SENT1	-	-
+12	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	50-59	413_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	60-62	413_QUEST_clinical_caseMIR	SENT1	-	-
+14	mioma	mioma	NCMS000	C0027086	anomalía_morfológica	63-68	413_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	uterino	uterino	AQ0MS0	-	-	69-76	413_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	intramural	intramural	AQ0CS00	-	-	77-87	413_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	de	de	SPS00	C0332285	atributo	88-90	413_QUEST_clinical_caseMIR	SENT1	-	-
+18	4	4	Z	-	-	91-92	413_QUEST_clinical_caseMIR	SENT1	-	-
+19	cm	cm	NCMN000	-	-	93-95	413_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	95-96	413_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	97-102	413_QUEST_clinical_caseMIR	SENT2	-	-
+2	dos	dos		-	-	103-106	413_QUEST_clinical_caseMIR	SENT2	-	-
+3	hijos	hijo	NCMP000	-	-	107-112	413_QUEST_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	112-113	413_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Sus	su	DP3CP0	-	-	114-117	413_QUEST_clinical_caseMIR	SENT3	-	-
+2	menstruaciones	menstruación	NCFP000	C0025344#C0227854	entidad_observable#sustancia	118-132	413_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	son	ser	VSIP3P0	-	-	133-136	413_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332307_1	atributo_1	137-139	413_QUEST_clinical_caseMIR	SENT3	-	-
+5	tipo	tipo	NCMS000	C0332307_2	atributo_2	140-144	413_QUEST_clinical_caseMIR	SENT3	-	-
+6	4-5/28-30	4-5/28-30		-	-	145-154	413_QUEST_clinical_caseMIR	SENT3	-	-
+7	,	,	Fc	-	-	154-155	413_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	156-158	413_QUEST_clinical_caseMIR	SENT3	-	-
+9	cantidad	cantidad	NCFS000	C1265611#C0237753	hallazgo#atributo	159-167	413_QUEST_clinical_caseMIR	SENT3	-	-
+10	algo	algo	RG	-	-	168-172	413_QUEST_clinical_caseMIR	SENT3	-	-
+11	abundante	abundante	AQ0CS0	-	-	173-182	413_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	182-183	413_QUEST_clinical_caseMIR	SENT3	-	-
+13	sin	sin	SPS00	C0332288	atributo	184-187	413_QUEST_clinical_caseMIR	SENT3	-	-
+14	coágulos	coágulo	NCMP000	C0302148	anomalía_morfológica	188-196	413_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+15	y	y	CC	C1706368	calificador	197-198	413_QUEST_clinical_caseMIR	SENT3	-	-
+16	sin	sin	SPS00	C0332288	atributo	199-202	413_QUEST_clinical_caseMIR	SENT3	-	-
+17	dolor	dolor	NCMS000	C0030193	hallazgo	203-208	413_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+18	.	.	Fp	-	-	208-209	413_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	210-212	413_QUEST_clinical_caseMIR	SENT4	-	-
+2	tiene	tener	VMIP3S0	-	-	213-218	413_QUEST_clinical_caseMIR	SENT4	-	-
+3	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	219-224	413_QUEST_clinical_caseMIR	SENT4	-	-
+4	síntomas	síntoma	NCMP000	C1457887	hallazgo	225-233	413_QUEST_clinical_caseMIR	SENT4	-	-
+5	.	.	Fp	-	-	233-234	413_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	235-236	413_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	PT0CN000	-	-	236-239	413_QUEST_clinical_caseMIR	SENT5	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	240-242	413_QUEST_clinical_caseMIR	SENT5	-	-
+4	recomendaría	recomendar	VMIC3S0	-	-	243-255	413_QUEST_clinical_caseMIR	SENT5	-	-
+5	?	?	Fit	-	-	255-256	413_QUEST_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	256-257	413_QUEST_clinical_caseMIR	SENT5	-	-
+

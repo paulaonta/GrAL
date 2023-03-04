@@ -1,0 +1,35 @@
+1	A	a	SPS00	-	-	0-1	40_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	2-4	40_QUEST_clinical_caseMIR	SENT1	-	-
+3	niño	niño	NCMS000	C0680063_1	hallazgo_1	5-9	40_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0680063_2	hallazgo_2	10-12	40_QUEST_clinical_caseMIR	SENT1	-	-
+5	9	9		-	-	13-14	40_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	15-19	40_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	19-20	40_QUEST_clinical_caseMIR	SENT1	-	-
+8	asintomático	asintomático	NC00SC0	-	-	21-33	40_QUEST_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	34-37	40_QUEST_clinical_caseMIR	SENT1	-	-
+10	soplo	soplo	NCMS000	C0006318#C0018808_1	hallazgo_1	38-43	40_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	inocente	inocente	AQ0CS0	-	-	44-52	40_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	,	,	Fc	-	-	52-53	40_QUEST_clinical_caseMIR	SENT1	-	-
+13	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	54-56	40_QUEST_clinical_caseMIR	SENT1	-	-
+14	realiza	realizar	VMIP3S0	-	-	57-64	40_QUEST_clinical_caseMIR	SENT1	-	-
+15	un	un		C0205447_1	calificador_1	65-67	40_QUEST_clinical_caseMIR	SENT1	-	-
+16	ECG	ecg	NC00YL0	C1623258	procedimiento	68-71	40_QUEST_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	72-75	40_QUEST_clinical_caseMIR	SENT1	-	-
+18	documenta	documentar	VMIP3S0	-	-	76-85	40_QUEST_clinical_caseMIR	SENT1	-	-
+19	un	un		C0205447_1	calificador_1	86-88	40_QUEST_clinical_caseMIR	SENT1	-	-
+20	Síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	89-97	40_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0332285	atributo	98-100	40_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+22	Wolf-Parkinson-White	wolf-parkinson-white	NCMS000	-	-	101-121	40_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+23	.	.	Fp	-	-	121-122	40_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	123-124	40_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	124-128	40_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	129-131	40_QUEST_clinical_caseMIR	SENT2	-	-
+4	las	el	DA0FP0	-	-	132-135	40_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	136-146	40_QUEST_clinical_caseMIR	SENT2	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	147-159	40_QUEST_clinical_caseMIR	SENT2	-	-
+7	es	ser	VSIP3S0	-	-	160-162	40_QUEST_clinical_caseMIR	SENT2	-	-
+8	FALSA	falso	AQ0FS0	C0205237	calificador	163-168	40_QUEST_clinical_caseMIR	SENT2	-	-
+9	?	?	Fit	-	-	168-169	40_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	169-170	40_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,75 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	451_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	451_QUEST_clinical_caseMIR	SENT1	-	-
+3	36	36		-	-	12-14	451_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	451_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	451_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	451_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	28-31	451_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	32-40	451_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	41-44	451_QUEST_clinical_caseMIR	SENT1	-	-
+10	presentar	presentar	VMN0000	-	-	45-54	451_QUEST_clinical_caseMIR	SENT1	-	-
+11	dolor	dolor	NCMS000	C0030193	hallazgo	55-60	451_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	torácico	torácico	NC00SC0	C0817096	calificador	61-69	451_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	constante	constante	AQ0CS0	C0205361	calificador	70-79	451_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	,	,	Fc	-	-	79-80	451_QUEST_clinical_caseMIR	SENT1	-	-
+15	constrictivo	constrictivo	AQ0MS0	-	-	81-93	451_QUEST_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	93-94	451_QUEST_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	95-98	451_QUEST_clinical_caseMIR	SENT1	-	-
+18	se	se	P00CN000	-	-	99-101	451_QUEST_clinical_caseMIR	SENT1	-	-
+19	irradia	irradiar	VMIP3S0	-	-	102-109	451_QUEST_clinical_caseMIR	SENT1	-	-
+20	a	a	SPS00	-	-	110-111	451_QUEST_clinical_caseMIR	SENT1	-	-
+21	ambos	ambos	PI0MP000	C0230348_1	estructura_corporal_1	112-117	451_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	brazos	brazo	NCMP000	C0230348_2	estructura_corporal_2	118-124	451_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	y	y	CC	C1706368	calificador	125-126	451_QUEST_clinical_caseMIR	SENT1	-	-
+24	que	que	PR0CN000	-	-	127-130	451_QUEST_clinical_caseMIR	SENT1	-	-
+25	se	se	P00CN000	-	-	131-133	451_QUEST_clinical_caseMIR	SENT1	-	-
+26	intensifica	intensificar	VMIP3S0	-	-	134-145	451_QUEST_clinical_caseMIR	SENT1	-	-
+27	en	en	SPS00	C1720294#C0332285	calificador#atributo	146-148	451_QUEST_clinical_caseMIR	SENT1	-	-
+28	decúbito	decúbito	NCMS000	C0038846_1	hallazgo_1	149-157	451_QUEST_clinical_caseMIR	SENT1	-	-
+29	dorsal	dorsal	NCMS000	C0038846_2	hallazgo_2	158-164	451_QUEST_clinical_caseMIR	SENT1	-	-
+30	.	.	Fp	-	-	164-165	451_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	166-168	451_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	169-171	451_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	172-183	451_QUEST_clinical_caseMIR	SENT2	-	-
+4	su	su	DP3CS0	-	-	184-186	451_QUEST_clinical_caseMIR	SENT2	-	-
+5	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	187-193	451_QUEST_clinical_caseMIR	SENT2	-	-
+6	objetiva	objetivar	VMIP3S0	-	-	194-202	451_QUEST_clinical_caseMIR	SENT2	-	-
+7	que	que	CS	-	-	203-206	451_QUEST_clinical_caseMIR	SENT2	-	-
+8	dicho	decir	VMP00SM	-	-	207-212	451_QUEST_clinical_caseMIR	SENT2	-	-
+9	dolor	dolor	NCMS000	C0030193	hallazgo	213-218	451_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	se	se	P00CN000	-	-	219-221	451_QUEST_clinical_caseMIR	SENT2	-	-
+11	alivia	aliviar	VMIP3S0	-	-	222-228	451_QUEST_clinical_caseMIR	SENT2	-	-
+12	al	al	SP+DA	-	-	229-231	451_QUEST_clinical_caseMIR	SENT2	-	-
+13	sentar	sentar	VMN0000	-	-	232-238	451_QUEST_clinical_caseMIR	SENT2	-	-
+14	se	se	PP3CN000	-	-	238-240	451_QUEST_clinical_caseMIR	SENT2	-	-
+15	con	con	SPS00	C0332287	atributo	241-244	451_QUEST_clinical_caseMIR	SENT2	-	-
+16	el	el	DA0MS0	-	-	245-247	451_QUEST_clinical_caseMIR	SENT2	-	-
+17	cuerpo	cuerpo	NCMS000	-	-	248-254	451_QUEST_clinical_caseMIR	SENT2	-	-
+18	hacia	hacia	SPS00	-	-	255-260	451_QUEST_clinical_caseMIR	SENT2	-	-
+19	adelante	adelante	RG	-	-	261-269	451_QUEST_clinical_caseMIR	SENT2	-	-
+20	.	.	Fp	-	-	269-270	451_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tras	tras	SPS00	-	-	271-275	451_QUEST_clinical_caseMIR	SENT3	-	-
+2	realizar	realizar	VMN0000	-	-	276-284	451_QUEST_clinical_caseMIR	SENT3	-	-
+3	un	un		C0205447_1	calificador_1	285-287	451_QUEST_clinical_caseMIR	SENT3	-	-
+4	estudio	estudio	NCMS000	C0557651	medio_ambiente	288-295	451_QUEST_clinical_caseMIR	SENT3	-	-
+5	exhaustivo	exhaustivo	AQ0MS0	-	-	296-306	451_QUEST_clinical_caseMIR	SENT3	-	-
+6	del	del	SP+DA	-	-	307-310	451_QUEST_clinical_caseMIR	SENT3	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	311-319	451_QUEST_clinical_caseMIR	SENT3	-	-
+8	usted	usted	PP2CS00P	-	-	320-325	451_QUEST_clinical_caseMIR	SENT3	-	-
+9	lo	lo	PP3CNA00	-	-	326-328	451_QUEST_clinical_caseMIR	SENT3	-	-
+10	diagnostica	diagnosticar	VMIP3S0	-	-	329-340	451_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	341-343	451_QUEST_clinical_caseMIR	SENT3	-	-
+12	pericarditis	pericarditis	NCFN000	C0155681#C1278725#C1278743_1	trastorno_1	344-356	451_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	idiopática	idiopático	AQ0FS0	C0155681#C1278725#C1278743_2	trastorno_2	357-367	451_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+14	aguda	agudo	AQ0FS0	C0155681#C1278725#C1278743_3	trastorno_3	368-373	451_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+15	.	.	Fp	-	-	373-374	451_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Señale	señalar	VMM03S0	-	-	375-381	451_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	382-384	451_QUEST_clinical_caseMIR	SENT4	-	-
+3	respuesta	respuesta	NCFS000	-	-	385-394	451_QUEST_clinical_caseMIR	SENT4	-	-
+4	FALSA	falso	AQ0FS0	C0205237	calificador	395-400	451_QUEST_clinical_caseMIR	SENT4	-	-
+5	:	:	Fd	-	-	400-401	451_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	401-402	451_QUEST_clinical_caseMIR	SENT4	-	-
+

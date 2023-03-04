@@ -1,0 +1,18 @@
+1	De	de	SPS00	C0332285	atributo	0-2	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	no	no	RN	C1298908	calificador	3-5	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	someter	someter	VMN0000	-	-	6-13	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	se	se	PP3CN000	-	-	13-15	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	a	a	SPS00	-	-	16-17	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	18-29	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	30-40	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	casi	casi	RG	-	-	41-45	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	con	con	SPS00	C0332287	atributo	46-49	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	toda	todo	DI0FS0	C0205197#C0439810#C0444868#C0444667	calificador	50-54	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	seguridad	seguridad	NCFS000	C0205423	calificador	55-64	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	65-67	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	68-76	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	desarrollará	desarrollar	VMIF3S0	-	-	77-89	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	90-96	5(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	colorrectal	colorrectal	NC00SC0	C0555952	calificador	97-108	5(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	109-110	5(2)_ANS_clinical_caseMIR	SENT1	-	-
+

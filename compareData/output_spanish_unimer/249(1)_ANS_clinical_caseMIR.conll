@@ -1,0 +1,25 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	su	su	DP3CS0	-	-	3-5	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	caso	caso	NCMS000	C0868928	calificador	6-10	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	10-11	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	dado	dar	VMP00SM	C1947971	calificador	12-16	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	que	que	PR0CN000	-	-	17-20	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	está	estar	VAIP3S0	-	-	21-25	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C0544452_1	calificador_1	26-28	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	remisión	remisión	NCFS000	C0544452_2	calificador_2	29-37	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	38-40	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	larga	largo	AQ0FS0	C0439591_1	calificador_1	41-46	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	duración	duración	NCFS000	C0439591_2	calificador_2	47-55	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	55-56	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	se	se	P00CN000	-	-	57-59	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	considera	considerar	VMIP3S0	-	-	60-69	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	adecuado	adecuar	VMP00SM	-	-	70-78	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	79-81	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	cribado	cribar	VMP00SM	-	-	82-89	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	aconsejado	aconsejar	VMP00SM	C0150600	procedimiento	90-100	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	a	a	SPS00	-	-	101-102	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	la	el	DA0FS0	-	-	103-105	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	población	población	NCFS000	C0032659	contexto_social	106-115	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	general	general	AQ0CS0	C0205246	calificador	116-123	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	124-125	249(1)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,17 @@
+1	Quimio	quimioterapia	NC00YL0	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-6	2(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	/	/	Fh	-	-	6-7	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	radioterapia	radioterapia	NCFS000	C1522449	-	7-19	2(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	neoadyuvante	neoadyuvante	NCMS000	-	-	20-32	2(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+5	,	,	Fc	-	-	32-33	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	condicionando	condicionar	VMG0000	-	-	34-47	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	48-50	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	opción	opción	NCFS000	-	-	51-57	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	58-60	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	61-68	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	radical	radical	AQ0CS0	C0439807#C0302912	calificador#sustancia	69-76	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	77-78	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	79-81	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	respuesta	respuesta	NCFS000	-	-	82-91	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	inicial	inicial	AQ0CS0	C0205265	calificador	92-99	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	100-101	2(0)_ANS_clinical_caseMIR	SENT1	-	-
+

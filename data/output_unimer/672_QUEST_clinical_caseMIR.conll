@@ -1,0 +1,91 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	672_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	672_QUEST_clinical_caseMIR	SENT1	-	-
+3	11	11		-	-	8-10	672_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	11-15	672_QUEST_clinical_caseMIR	SENT1	-	-
+5	y	y	CC	C1706368	calificador	16-17	672_QUEST_clinical_caseMIR	SENT1	-	-
+6	6	6		-	-	18-19	672_QUEST_clinical_caseMIR	SENT1	-	-
+7	meses	mes	NCMP000	C0439231	calificador	20-25	672_QUEST_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	25-26	672_QUEST_clinical_caseMIR	SENT1	-	-
+9	premenárquica	premenárquica	AQ0FS00	-	-	27-40	672_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	,	,	Fc	-	-	40-41	672_QUEST_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0332287	atributo	42-45	672_QUEST_clinical_caseMIR	SENT1	-	-
+12	escoliosis	escoliosis	NCFN000	C0595995_1	trastorno_1	46-56	672_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	idiopática	idiopático	AQ0FS0	C0595995_2	trastorno_2	57-67	672_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	conocida	conocer	VMP00SF	-	-	68-76	672_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	76-77	672_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	78-80	672_QUEST_clinical_caseMIR	SENT2	-	-
+2	radiografía	radiografía	NCFS000	C1306645	procedimiento	81-92	672_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	93-95	672_QUEST_clinical_caseMIR	SENT2	-	-
+4	raquis	raquis	NCMN000	C1267072	estructura_corporal	96-102	672_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	realizada	realizar	VMP00SF	-	-	103-112	672_QUEST_clinical_caseMIR	SENT2	-	-
+6	hace	hacer	VMIP3S0	-	-	113-117	672_QUEST_clinical_caseMIR	SENT2	-	-
+7	6	6		-	-	118-119	672_QUEST_clinical_caseMIR	SENT2	-	-
+8	meses	mes	NCMP000	C0439231	calificador	120-125	672_QUEST_clinical_caseMIR	SENT2	-	-
+9	mostraba	mostrar	VMII3S0	-	-	126-134	672_QUEST_clinical_caseMIR	SENT2	-	-
+10	una	una		C0205447_1	calificador_1	135-138	672_QUEST_clinical_caseMIR	SENT2	-	-
+11	curva	curva	NCFS000	-	-	139-144	672_QUEST_clinical_caseMIR	SENT2	-	-
+12	tóraco-lumbar	tóraco-lumbar	VMN0000	-	-	145-158	672_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	izquierda	izquierda	NCFS000	-	-	159-168	672_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+14	de	de	SPS00	C0332285	atributo	169-171	672_QUEST_clinical_caseMIR	SENT2	-	-
+15	18	18		-	-	172-174	672_QUEST_clinical_caseMIR	SENT2	-	-
+16	°	°	Fz	-	-	174-175	672_QUEST_clinical_caseMIR	SENT2	-	-
+17	(	(	Fpa	-	-	176-177	672_QUEST_clinical_caseMIR	SENT2	-	-
+18	ángulo	ángulo	NCMS000	C0563192_1	entidad_observable_1	177-183	672_QUEST_clinical_caseMIR	SENT2	-	-
+19	de	de	SPS00	C0563192_2	entidad_observable_2	184-186	672_QUEST_clinical_caseMIR	SENT2	-	-
+20	Cobb	cobb	NC00YL0	C0563192_3	entidad_observable_3	187-191	672_QUEST_clinical_caseMIR	SENT2	-	-
+21	)	)	Fpt	-	-	191-192	672_QUEST_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	192-193	672_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	194-196	672_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	197-199	672_QUEST_clinical_caseMIR	SENT3	-	-
+3	actual	actual	NC00SC0	C0521116	calificador	200-206	672_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	207-209	672_QUEST_clinical_caseMIR	SENT3	-	-
+5	observa	observar	VMIP3S0	-	-	210-217	672_QUEST_clinical_caseMIR	SENT3	-	-
+6	un	un		C0205447_1	calificador_1	218-220	672_QUEST_clinical_caseMIR	SENT3	-	-
+7	ángulo	ángulo	NCMS000	C0563192_1	entidad_observable_1	221-227	672_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0563192_2	entidad_observable_2	228-230	672_QUEST_clinical_caseMIR	SENT3	-	-
+9	Cobb	cobb	NC00YL0	C0563192_3	entidad_observable_3	231-235	672_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	236-238	672_QUEST_clinical_caseMIR	SENT3	-	-
+11	28	28		-	-	239-241	672_QUEST_clinical_caseMIR	SENT3	-	-
+12	°	°	Fz	-	-	241-242	672_QUEST_clinical_caseMIR	SENT3	-	-
+13	,	,	Fc	-	-	242-243	672_QUEST_clinical_caseMIR	SENT3	-	-
+14	con	con	SPS00	C0332287	atributo	244-247	672_QUEST_clinical_caseMIR	SENT3	-	-
+15	una	una		C0205447_1	calificador_1	248-251	672_QUEST_clinical_caseMIR	SENT3	-	-
+16	maduración	maduración	NCFS000	-	-	252-262	672_QUEST_clinical_caseMIR	SENT3	-	-
+17	de	de	SPS00	C0332285	atributo	263-265	672_QUEST_clinical_caseMIR	SENT3	-	-
+18	cresta	cresta	NCFS000	C0376161#C0332243	estructura_corporal#calificador	266-272	672_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	iliaca	iliaco	AQ0FS0	-	-	273-279	672_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+20	(	(	Fpa	-	-	280-281	672_QUEST_clinical_caseMIR	SENT3	-	-
+21	signo	signo	NCMS000	C0311392	hallazgo	281-286	672_QUEST_clinical_caseMIR	SENT3	-	-
+22	de	de	SPS00	C0332285	atributo	287-289	672_QUEST_clinical_caseMIR	SENT3	-	-
+23	Risser	risser	NCMS000	-	-	290-296	672_QUEST_clinical_caseMIR	SENT3	-	-
+24	)	)	Fpt	-	-	296-297	672_QUEST_clinical_caseMIR	SENT3	-	-
+25	de	de	SPS00	C0332285	atributo	298-300	672_QUEST_clinical_caseMIR	SENT3	-	-
+26	2	2		-	-	302-303	672_QUEST_clinical_caseMIR	SENT3	-	-
+27	.	.	Fp	-	-	303-304	672_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	305-307	672_QUEST_clinical_caseMIR	SENT4	-	-
+2	este	este	DD0MS0	-	-	308-312	672_QUEST_clinical_caseMIR	SENT4	-	-
+3	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	313-320	672_QUEST_clinical_caseMIR	SENT4	-	-
+4	evolutivo	evolutivo	AQ0MS0	-	-	321-330	672_QUEST_clinical_caseMIR	SENT4	-	-
+5	,	,	Fc	-	-	330-331	672_QUEST_clinical_caseMIR	SENT4	-	-
+6	¿	¿	Fia	-	-	332-333	672_QUEST_clinical_caseMIR	SENT4	-	-
+7	qué	qué	DE0CN0	-	-	333-336	672_QUEST_clinical_caseMIR	SENT4	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	337-348	672_QUEST_clinical_caseMIR	SENT4	-	-
+9	es	ser	VSIP3S0	-	-	349-351	672_QUEST_clinical_caseMIR	SENT4	-	-
+10	el	el	DA0MS0	C0205393_1	calificador_1	352-354	672_QUEST_clinical_caseMIR	SENT4	-	-
+11	más	más	RG	C0205393_2	calificador_2	355-358	672_QUEST_clinical_caseMIR	SENT4	-	-
+12	adecuado	adecuar	VMP00SM	-	-	359-367	672_QUEST_clinical_caseMIR	SENT4	-	-
+13	para	para	SPS00	C0521125	calificador	368-372	672_QUEST_clinical_caseMIR	SENT4	-	-
+14	intentar	intentar	VMN0000	-	-	373-381	672_QUEST_clinical_caseMIR	SENT4	-	-
+15	detener	detener	VMN0000	C2746065	calificador	382-389	672_QUEST_clinical_caseMIR	SENT4	-	-
+16	la	el	DA0FS0	-	-	390-392	672_QUEST_clinical_caseMIR	SENT4	-	-
+17	progresión	progresión	NCFS000	C0449258	atributo	393-403	672_QUEST_clinical_caseMIR	SENT4	-	-
+18	de	de	SPS00	C0332285	atributo	404-406	672_QUEST_clinical_caseMIR	SENT4	-	-
+19	la	el	DA0FS0	-	-	407-409	672_QUEST_clinical_caseMIR	SENT4	-	-
+20	curva	curva	NCFS000	-	-	410-415	672_QUEST_clinical_caseMIR	SENT4	-	-
+21	?	?	Fit	-	-	415-416	672_QUEST_clinical_caseMIR	SENT4	-	-
+22	:	:	Fd	-	-	416-417	672_QUEST_clinical_caseMIR	SENT4	-	-
+23	.	.	Fp	-	-	417-418	672_QUEST_clinical_caseMIR	SENT4	-	-
+

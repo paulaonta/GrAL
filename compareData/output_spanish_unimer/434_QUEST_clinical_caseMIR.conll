@@ -1,0 +1,85 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	434_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	434_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	434_QUEST_clinical_caseMIR	SENT1	-	-
+4	25	25		-	-	13-15	434_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	434_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	434_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	434_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	434_QUEST_clinical_caseMIR	SENT1	-	-
+9	acompañada	acompañar	VMP00SF	-	-	39-49	434_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	50-52	434_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	53-56	434_QUEST_clinical_caseMIR	SENT1	-	-
+12	amiga	amigo	NCFS000	C0079382	persona	57-62	434_QUEST_clinical_caseMIR	SENT1	-	-
+13	relatando	relatar	VMG0000	-	-	63-72	434_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	CS	-	-	73-76	434_QUEST_clinical_caseMIR	SENT1	-	-
+15	ha	haber	VAIP3S0	-	-	77-79	434_QUEST_clinical_caseMIR	SENT1	-	-
+16	sido	ser	VSP00SM	-	-	80-84	434_QUEST_clinical_caseMIR	SENT1	-	-
+17	víctima	víctima	NCFS000	-	-	85-92	434_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	93-95	434_QUEST_clinical_caseMIR	SENT1	-	-
+19	una	una		C0205447_1	calificador_1	96-99	434_QUEST_clinical_caseMIR	SENT1	-	-
+20	agresión	agresión	NCFS000	C0233953_1	hallazgo_1	100-108	434_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	sexual	sexual	AQ0CS0	C0233953_2	hallazgo_2	109-115	434_QUEST_clinical_caseMIR	SENT1	-	-
+22	hace	hacer	VMIP3S0	-	-	116-120	434_QUEST_clinical_caseMIR	SENT1	-	-
+23	4	4	Z	C1292426_1	calificador_1	121-122	434_QUEST_clinical_caseMIR	SENT1	-	-
+24	horas	hora	NCFP000	C1292426_2	calificador_2	123-128	434_QUEST_clinical_caseMIR	SENT1	-	-
+25	.	.	Fp	-	-	128-129	434_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	130-132	434_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	133-141	434_QUEST_clinical_caseMIR	SENT2	-	-
+3	se	se	P00CN000	-	-	142-144	434_QUEST_clinical_caseMIR	SENT2	-	-
+4	encuentra	encontrar	VMIP3S0	-	-	145-154	434_QUEST_clinical_caseMIR	SENT2	-	-
+5	muy	muy	RG	C0442824	calificador	155-158	434_QUEST_clinical_caseMIR	SENT2	-	-
+6	afectada	afectar	VMP00SF	-	-	159-167	434_QUEST_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	167-168	434_QUEST_clinical_caseMIR	SENT2	-	-
+8	contestando	contestar	VMG0000	-	-	169-180	434_QUEST_clinical_caseMIR	SENT2	-	-
+9	a	a	SPS00	-	-	181-182	434_QUEST_clinical_caseMIR	SENT2	-	-
+10	sus	su	DP3CP0	-	-	183-186	434_QUEST_clinical_caseMIR	SENT2	-	-
+11	preguntas	pregunta	NCFP000	-	-	187-196	434_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	197-199	434_QUEST_clinical_caseMIR	SENT2	-	-
+13	forma	forma	NCFS000	C0348078	atributo	200-205	434_QUEST_clinical_caseMIR	SENT2	-	-
+14	incongruente	incongruente	AQ0CS0	C1321310	calificador#atributo	206-218	434_QUEST_clinical_caseMIR	SENT2	-	-
+15	,	,	Fc	-	-	218-219	434_QUEST_clinical_caseMIR	SENT2	-	-
+16	con	con	SPS00	C0332287	atributo	220-223	434_QUEST_clinical_caseMIR	SENT2	-	-
+17	lentitud	lentitud	NCFS000	-	-	224-232	434_QUEST_clinical_caseMIR	SENT2	-	-
+18	y	y	CC	C1706368	calificador	233-234	434_QUEST_clinical_caseMIR	SENT2	-	-
+19	sin	sin	SPS00	C0332288	atributo	235-238	434_QUEST_clinical_caseMIR	SENT2	-	-
+20	ser	ser	VSN0000	-	-	239-242	434_QUEST_clinical_caseMIR	SENT2	-	-
+21	capaz	capaz	AQ0CS0	C1299581	calificador	243-248	434_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0332285	atributo	249-251	434_QUEST_clinical_caseMIR	SENT2	-	-
+23	recordar	recordar	VMN0000	C0557033	procedimiento	252-260	434_QUEST_clinical_caseMIR	SENT2	-	-
+24	cómo	cómo	PT000000	-	-	261-265	434_QUEST_clinical_caseMIR	SENT2	-	-
+25	se	se	P00CN000	-	-	266-268	434_QUEST_clinical_caseMIR	SENT2	-	-
+26	ha	haber	VAIP3S0	-	-	269-271	434_QUEST_clinical_caseMIR	SENT2	-	-
+27	producido	producir	VMP00SM	-	-	272-281	434_QUEST_clinical_caseMIR	SENT2	-	-
+28	la	el	DA0FS0	-	-	282-284	434_QUEST_clinical_caseMIR	SENT2	-	-
+29	agresión	agresión	NCFS000	C0001807	hallazgo	285-293	434_QUEST_clinical_caseMIR	SENT2	-	-
+30	.	.	Fp	-	-	293-294	434_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Sus	su	DP3CP0	-	-	295-298	434_QUEST_clinical_caseMIR	SENT3	-	-
+2	constantes	constante	AQ0CP0	C0205361	calificador	299-309	434_QUEST_clinical_caseMIR	SENT3	-	-
+3	vitales	vital	AQ0CP0	C0442732	calificador	310-317	434_QUEST_clinical_caseMIR	SENT3	-	-
+4	(	(	Fpa	-	-	318-319	434_QUEST_clinical_caseMIR	SENT3	-	-
+5	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	319-326	434_QUEST_clinical_caseMIR	SENT3	-	-
+6	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	327-335	434_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	,	,	Fc	-	-	335-336	434_QUEST_clinical_caseMIR	SENT3	-	-
+8	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	337-347	434_QUEST_clinical_caseMIR	SENT3	-	-
+9	cardiaca	cardiaco	AQ0FS0	-	-	348-356	434_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	y	y	CC	C1706368	calificador	357-358	434_QUEST_clinical_caseMIR	SENT3	-	-
+11	temperatura	temperatura	NCFS000	C0039476	atributo	359-370	434_QUEST_clinical_caseMIR	SENT3	-	-
+12	)	)	Fpt	-	-	370-371	434_QUEST_clinical_caseMIR	SENT3	-	-
+13	son	ser	VSIP3P0	-	-	372-375	434_QUEST_clinical_caseMIR	SENT3	-	-
+14	normales	normal	AQ0CP0	C0205307	calificador	376-384	434_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	384-385	434_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	386-387	434_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	387-391	434_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	392-394	434_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	395-398	434_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	399-409	434_QUEST_clinical_caseMIR	SENT4	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	410-421	434_QUEST_clinical_caseMIR	SENT4	-	-
+7	sería	ser	VSIC1S0	-	-	422-427	434_QUEST_clinical_caseMIR	SENT4	-	-
+8	INCORRECTA	incorrecto	AQ0FS0	-	-	428-438	434_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	438-439	434_QUEST_clinical_caseMIR	SENT4	-	-
+10	:	:	Fd	-	-	439-440	434_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	440-441	434_QUEST_clinical_caseMIR	SENT4	-	-
+

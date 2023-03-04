@@ -1,0 +1,23 @@
+1	Inicio	inicio	NCMS000	C0332162_1	calificador_1	0-6	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332162_2	calificador_2	7-9	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	10-21	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	22-25	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	análogos	análogo	AQ0MP0	-	-	26-34	656(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	de	de	SPS00	C0332285	atributo	35-37	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	38-40	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	hormona	hormona	NCFS000	C0019932#C0391835	sustancia	41-48	656(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	liberadora	liberador	AQ0FS0	-	-	49-59	656(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+10	de	de	SPS00	C0332285	atributo	60-62	656(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+11	gonadotropina	gonadotropina	NCFS000	C0018061	sustancia	63-76	656(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+12	(	(	Fpa	-	-	77-78	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	GnRH	gonadotropin-releasing_hormone_(hormona_liberadora_de_gonadotropinas)	NC00YL0	-	-	78-82	656(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	)	)	Fpt	-	-	82-83	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	para	para	SPS00	C0521125	calificador	84-88	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	evitar	evitar	VMN0000	-	-	89-95	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	96-98	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	progresión	progresión	NCFS000	C0449258	atributo	99-109	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	110-112	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	la	el	DA0FS0	-	-	113-115	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	116-126	656(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	.	.	Fp	-	-	127-128	656(3)_ANS_clinical_caseMIR	SENT1	-	-
+

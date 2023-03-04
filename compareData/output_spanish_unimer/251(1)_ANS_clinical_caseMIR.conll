@@ -1,0 +1,49 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	3-5	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	6-16	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	17-24	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	24-25	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	dada	dar	VMP00SF	C1947971	calificador	26-30	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	31-33	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	34-42	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332197_2	calificador_2	43-45	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	sangrado	sangrado	NCMS000	C0019080	hallazgo#anomalía_morfológica	46-54	251(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+11	activo	activo	AQ0MS0	C0205177	calificador	55-61	251(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	,	,	Fc	-	-	61-62	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	no	no	RN	C1298908	calificador	63-65	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	está	estar	VAIP3S0	-	-	66-70	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	indicado	indicar	VMP00SM	-	-	71-79	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	aplicar	aplicar	VMN0000	C1632850	calificador	80-87	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	una	una		C0205447_1	calificador_1	88-91	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	terapéutica	terapéutica	NCFS000	-	-	92-103	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	104-115	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	115-116	251(1)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Posteriormente	posteriormente	RG	-	-	117-131	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+2	,	,	Fc	-	-	131-132	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+3	para	para	SPS00	C0521125	calificador	133-137	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+4	reducir	reducir	VMN0000	-	-	138-145	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	-	-	146-148	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+6	riesgo	riesgo	NCMS000	C1320679_1	hallazgo_1	149-155	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C1320679_2	hallazgo_2	156-158	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+8	recidiva	recidivar	VMM02S0	C1320679_3	hallazgo_3	159-167	251(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	hemorrágica	hemorrágico	AQ0FS0	C0333275	calificador	168-179	251(1)_ANS_clinical_caseMIR	SENT2	B-Calificador	-
+10	,	,	Fc	-	-	179-180	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+11	se	se	P00CN000	-	-	181-183	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+12	deberá	deber	VMIF3S0	-	-	184-190	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+13	instaurar	instaurar	VMN0000	-	-	191-200	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	201-212	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+15	endovenoso	endovenoso	AQ0MS0	-	-	213-223	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+16	con	con	SPS00	C0332287	atributo	224-227	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+17	dosis	dosis	NCFN000	-	-	228-233	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+18	altas	alto	AQ0FP0	C0205250	calificador	234-239	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+19	de	de	SPS00	C0332285	atributo	240-242	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+20	un	un		C0205447_1	calificador_1	243-245	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+21	inhibidor	inhibidor	NCMS000	C0358591_1	producto#sustancia_1	246-255	251(1)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+22	de	de	SPS00	C0358591_2	producto#sustancia_2	256-258	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+23	la	lo	PP3FSA00	C0358591_3	producto#sustancia_3	259-261	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+24	bomba	bombo	AQ0FS0	C0358591_4	producto#sustancia_4	262-267	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+25	de	de	SPS00	C0358591_5	producto#sustancia_5	268-270	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+26	protones	protón	NCMP000	C0358591_6	producto#sustancia_6	271-279	251(1)_ANS_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+27	.	.	Fp	-	-	280-281	251(1)_ANS_clinical_caseMIR	SENT2	-	-
+

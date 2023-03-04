@@ -1,0 +1,20 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	hidralazina	hidralazina	NC00SC0	C0020223	sustancia	16-27	77(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	y	y	CC	C1706368	calificador	28-29	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	si	si	CS	-	-	30-32	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	se	se	P00CN000	-	-	33-35	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	normaliza	normalizar	VMIP3S0	-	-	36-45	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	46-48	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	49-56	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	57-65	77(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	continuar	continuar	VMN0000	-	-	66-75	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	76-78	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	79-87	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	hasta	hasta	SPS00	-	-	88-93	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	alcanzar	alcanzar	VMN0000	-	-	94-102	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	las	el	DA0FP0	-	-	103-106	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	36-37	36-37		-	-	107-112	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	semanas	semana	NCFP000	C0439230	calificador	113-120	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	121-122	77(2)_ANS_clinical_caseMIR	SENT1	-	-
+

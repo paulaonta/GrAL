@@ -1,0 +1,80 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	443_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	443_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	443_QUEST_clinical_caseMIR	SENT1	-	-
+4	65	65		-	-	13-15	443_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	443_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	443_QUEST_clinical_caseMIR	SENT1	-	-
+7	sin	sin	SPS00	C0332288	atributo	22-25	443_QUEST_clinical_caseMIR	SENT1	-	-
+8	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	26-31	443_QUEST_clinical_caseMIR	SENT1	-	-
+9	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	32-44	443_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+10	asociadas	asociar	VMP00PF	-	-	45-54	443_QUEST_clinical_caseMIR	SENT1	-	-
+11	y	y	CC	C1706368	calificador	55-56	443_QUEST_clinical_caseMIR	SENT1	-	-
+12	con	con	SPS00	C0332287	atributo	57-60	443_QUEST_clinical_caseMIR	SENT1	-	-
+13	buen	bueno	AQ0MS0	C0205170	calificador	61-65	443_QUEST_clinical_caseMIR	SENT1	-	-
+14	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	66-72	443_QUEST_clinical_caseMIR	SENT1	-	-
+15	general	general	AQ0CS0	C0205246	calificador	73-80	443_QUEST_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	80-81	443_QUEST_clinical_caseMIR	SENT1	-	-
+17	presenta	presentar	VMIP3S0	-	-	82-90	443_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	91-94	443_QUEST_clinical_caseMIR	SENT1	-	-
+19	recaida	recaida	NCFS000	-	-	95-102	443_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	metastásica	metastásico	AQ0FS0	-	-	103-114	443_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	hepática	hepática	NCFS000	-	-	115-123	443_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	de	de	SPS00	C0332285	atributo	124-126	443_QUEST_clinical_caseMIR	SENT1	-	-
+23	un	un		C0205447_1	calificador_1	127-129	443_QUEST_clinical_caseMIR	SENT1	-	-
+24	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	130-144	443_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	de	de	SPS00	C0332285	atributo	145-147	443_QUEST_clinical_caseMIR	SENT1	-	-
+26	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	148-153	443_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	por	por	SPS00	C0678226	atributo	154-157	443_QUEST_clinical_caseMIR	SENT1	-	-
+28	el	el	DA0MS0	-	-	158-160	443_QUEST_clinical_caseMIR	SENT1	-	-
+29	que	que	PR0CN000	-	-	161-164	443_QUEST_clinical_caseMIR	SENT1	-	-
+30	había	haber	VAII3S0	-	-	165-170	443_QUEST_clinical_caseMIR	SENT1	-	-
+31	sido	ser	VSP00SM	-	-	171-175	443_QUEST_clinical_caseMIR	SENT1	-	-
+32	intervenido	intervenir	VMP00SM	-	-	176-187	443_QUEST_clinical_caseMIR	SENT1	-	-
+33	hace	hacer	VMIP3S0	-	-	188-192	443_QUEST_clinical_caseMIR	SENT1	-	-
+34	3	3		-	-	193-194	443_QUEST_clinical_caseMIR	SENT1	-	-
+35	años	año	NCMP000	C0439234	calificador	195-199	443_QUEST_clinical_caseMIR	SENT1	-	-
+36	.	.	Fp	-	-	199-200	443_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	201-203	443_QUEST_clinical_caseMIR	SENT2	-	-
+2	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	204-206	443_QUEST_clinical_caseMIR	SENT2	-	-
+3	demuestra	demostrar	VMIP3S0	-	-	207-216	443_QUEST_clinical_caseMIR	SENT2	-	-
+4	que	que	CS	-	-	217-220	443_QUEST_clinical_caseMIR	SENT2	-	-
+5	las	el	DA0FP0	-	-	221-224	443_QUEST_clinical_caseMIR	SENT2	-	-
+6	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	225-233	443_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	hepáticas	hepático	AQ0FP0	-	-	234-243	443_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	son	ser	VSIP3P0	-	-	244-247	443_QUEST_clinical_caseMIR	SENT2	-	-
+9	múltiples	múltiple	AQ0CP0	C0439064	calificador	248-257	443_QUEST_clinical_caseMIR	SENT2	-	-
+10	y	y	CC	C1706368	calificador	258-259	443_QUEST_clinical_caseMIR	SENT2	-	-
+11	afectan	afectar	VMIP3P0	-	-	260-267	443_QUEST_clinical_caseMIR	SENT2	-	-
+12	a	a	SPS00	-	-	268-269	443_QUEST_clinical_caseMIR	SENT2	-	-
+13	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	270-275	443_QUEST_clinical_caseMIR	SENT2	-	-
+14	los	el	DA0MP0	-	-	276-279	443_QUEST_clinical_caseMIR	SENT2	-	-
+15	segmentos	segmento	NCMP000	C0441635	calificador	280-289	443_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	289-290	443_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	291-293	443_QUEST_clinical_caseMIR	SENT3	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	294-301	443_QUEST_clinical_caseMIR	SENT3	-	-
+3	molecular	molecular	AQ0CS0	-	-	302-311	443_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	312-314	443_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	315-317	443_QUEST_clinical_caseMIR	SENT3	-	-
+6	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	318-325	443_QUEST_clinical_caseMIR	SENT3	-	-
+7	hepática	hepático	AQ0FS0	-	-	326-334	443_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+8	muestra	mostrar	VMIP3S0	-	-	335-342	443_QUEST_clinical_caseMIR	SENT3	-	-
+9	mutaciones	mutación	NCFP000	-	-	343-353	443_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	354-356	443_QUEST_clinical_caseMIR	SENT3	-	-
+11	K_x0002_ras	K_x0002_ras		-	-	357-368	443_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	368-369	443_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	370-371	443_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	371-374	443_QUEST_clinical_caseMIR	SENT4	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	375-386	443_QUEST_clinical_caseMIR	SENT4	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	387-394	443_QUEST_clinical_caseMIR	SENT4	-	-
+5	considera	considerar	VMIP3S0	-	-	395-404	443_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	405-408	443_QUEST_clinical_caseMIR	SENT4	-	-
+7	adecuado	adecuar	VMP00SM	-	-	409-417	443_QUEST_clinical_caseMIR	SENT4	-	-
+8	para	para	SPS00	C0521125	calificador	418-422	443_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	423-425	443_QUEST_clinical_caseMIR	SENT4	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	426-434	443_QUEST_clinical_caseMIR	SENT4	-	-
+11	?	?	Fit	-	-	434-435	443_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	435-436	443_QUEST_clinical_caseMIR	SENT4	-	-
+

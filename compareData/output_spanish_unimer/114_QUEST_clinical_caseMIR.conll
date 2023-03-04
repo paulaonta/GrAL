@@ -1,0 +1,52 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	114_QUEST_clinical_caseMIR	SENT1	-	-
+2	varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	3-8	114_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	114_QUEST_clinical_caseMIR	SENT1	-	-
+4	78	78		-	-	12-14	114_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	114_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	20-28	114_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	29-32	114_QUEST_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	33-35	114_QUEST_clinical_caseMIR	SENT1	-	-
+9	cuadro	cuadro	NCMS000	-	-	36-42	114_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	43-45	114_QUEST_clinical_caseMIR	SENT1	-	-
+11	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	46-55	114_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	cognitivo	cognitivo	AQ0MS0	-	-	56-65	114_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	progresivo	progresivo	AQ0MS0	C0205329	calificador	66-76	114_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	de	de	SPS00	C0332285	atributo	77-79	114_QUEST_clinical_caseMIR	SENT1	-	-
+15	un	un		C0205447_1	calificador_1	80-82	114_QUEST_clinical_caseMIR	SENT1	-	-
+16	año	año	NCMS000	C0439234	calificador	83-86	114_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	87-89	114_QUEST_clinical_caseMIR	SENT1	-	-
+18	evolución	evolución	NCFS000	-	-	90-99	114_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	100-103	114_QUEST_clinical_caseMIR	SENT1	-	-
+20	fallos	fallo	NCMP000	C0231174	hallazgo	104-110	114_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0332285	atributo	111-113	114_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	memoria	memoria	NCFS000	C0025260	función	114-121	114_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	y	y	CC	C1706368	calificador	122-123	114_QUEST_clinical_caseMIR	SENT1	-	-
+24	orientación	orientación	NCFS000	C0029266	función	124-135	114_QUEST_clinical_caseMIR	SENT1	-	-
+25	.	.	Fp	-	-	135-136	114_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Su	su	DP3CS0	-	-	137-139	114_QUEST_clinical_caseMIR	SENT2	-	-
+2	familia	familia	NCFS000	C0015576	concepto_social	140-147	114_QUEST_clinical_caseMIR	SENT2	-	-
+3	refiere	referir	VMIP3S0	-	-	148-155	114_QUEST_clinical_caseMIR	SENT2	-	-
+4	alucinaciones	alucinación	NCFP000	C0018524	hallazgo	156-169	114_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	visuales	visual	AQ0CP0	C0234621	calificador	170-178	114_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+6	recurrentes	recurrente	AQ0CP0	C2945760#C0035020	calificador	179-190	114_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	,	,	Fc	-	-	190-191	114_QUEST_clinical_caseMIR	SENT2	-	-
+8	caídas	caída	NCFP000	C0085639	hallazgo	192-198	114_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	ocasionales	ocasional	AQ0CP0	C0521114	calificador	199-210	114_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	y	y	CC	C1706368	calificador	211-212	114_QUEST_clinical_caseMIR	SENT2	-	-
+11	un	un		C0205447_1	calificador_1	213-215	114_QUEST_clinical_caseMIR	SENT2	-	-
+12	enlentecimiento	enlentecimiento	NCMS000	-	-	216-231	114_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	motor	motor	NCMS000	-	-	232-237	114_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+14	llamativo	llamativo	AQ0MS0	-	-	238-247	114_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	247-248	114_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	249-250	114_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	250-254	114_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	255-257	114_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	258-260	114_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	261-272	114_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	273-276	114_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	277-285	114_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	285-286	114_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	286-287	114_QUEST_clinical_caseMIR	SENT3	-	-
+

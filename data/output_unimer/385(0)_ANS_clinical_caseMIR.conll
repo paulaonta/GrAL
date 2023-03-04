@@ -1,0 +1,27 @@
+1	Aunque	aunque	CC	-	-	0-6	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	esté	estar	VASP1S0	-	-	7-11	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	estable	estable	AQ0CS0	C0205360	calificador	12-19	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	y	y	CC	C1706368	calificador	20-21	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	no	no	RN	C1298908	calificador	22-24	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	tenga	tener	VMSP3S0	-	-	25-30	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	fiebre	fiebre	NCFS000	C0015967	hallazgo	31-37	385(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+8	ni	ni	CC	-	-	38-40	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	dolor	dolor	NCMS000	C0030193	hallazgo	41-46	385(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+10	,	,	Fc	-	-	46-47	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	debe	deber	VMIP3S0	-	-	48-52	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	realizar	realizar	VMN0000	-	-	53-61	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	se	se	PP3CN000	-	-	61-63	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	64-67	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	paracentesis	paracentesis	NCFN000	C0034115	procedimiento	68-80	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	81-92	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	92-93	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	al	al	SP+DA	-	-	94-96	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	ser	ser	VSN0000	-	-	97-100	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	el	el	DA0MS0	-	-	101-103	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	primer	1	AO0MS0	C0439615_1	calificador_1	104-110	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	episodio	episodio	NCMS000	C0439615_2	calificador_2	111-119	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	conocido	conocer	VMP00SM	-	-	120-128	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	129-131	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	ascitis	ascitis	NCFN000	C0003962	trastorno	132-139	385(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	.	.	Fp	-	-	140-141	385(0)_ANS_clinical_caseMIR	SENT1	-	-
+

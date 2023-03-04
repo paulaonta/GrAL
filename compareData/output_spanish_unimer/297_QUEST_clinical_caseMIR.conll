@@ -1,0 +1,36 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	297_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	3-5	297_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	6-14	297_QUEST_clinical_caseMIR	SENT1	-	-
+4	hospitalizado	hospitalizar	VMP00SM	-	-	15-28	297_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	29-32	297_QUEST_clinical_caseMIR	SENT1	-	-
+6	no	no	RN	C1298908	calificador	33-35	297_QUEST_clinical_caseMIR	SENT1	-	-
+7	es	ser	VSIP3S0	-	-	36-38	297_QUEST_clinical_caseMIR	SENT1	-	-
+8	capaz	capaz	NC00SC0	C2712077_1	hallazgo_1	39-44	297_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C2712077_2	hallazgo_2	45-47	297_QUEST_clinical_caseMIR	SENT1	-	-
+10	alimentarse	alimentar	VMN0000	C2712077_3	hallazgo_3	48-59	297_QUEST_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	60-63	297_QUEST_clinical_caseMIR	SENT1	-	-
+12	vía	vía	NCFS000	C1527415_1	calificador_1	64-67	297_QUEST_clinical_caseMIR	SENT1	-	-
+13	oral	oral	NC00SC0	C1527415_2	calificador_2	68-72	297_QUEST_clinical_caseMIR	SENT1	-	-
+14	durante	durante	SPS00	C1444752#C0347984	atributo	73-80	297_QUEST_clinical_caseMIR	SENT1	-	-
+15	más	más	RG	C0205172	calificador	81-84	297_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	85-87	297_QUEST_clinical_caseMIR	SENT1	-	-
+17	6	6	Z	-	-	88-89	297_QUEST_clinical_caseMIR	SENT1	-	-
+18	días	d	NCMP000	-	-	90-94	297_QUEST_clinical_caseMIR	SENT1	-	-
+19	,	,	Fc	-	-	94-95	297_QUEST_clinical_caseMIR	SENT1	-	-
+20	¿	¿	Fia	-	-	96-97	297_QUEST_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	97-99	297_QUEST_clinical_caseMIR	SENT1	-	-
+22	cuál	cuál	PT0CS000	-	-	100-104	297_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	105-107	297_QUEST_clinical_caseMIR	SENT1	-	-
+24	las	el	DA0FP0	-	-	108-111	297_QUEST_clinical_caseMIR	SENT1	-	-
+25	situaciones	situación	NCFP000	-	-	112-123	297_QUEST_clinical_caseMIR	SENT1	-	-
+26	clínicas	clínico	AQ0FP0	C0205210	calificador	124-132	297_QUEST_clinical_caseMIR	SENT1	-	-
+27	siguientes	siguiente	AQ0CP0	C0332282	atributo	133-143	297_QUEST_clinical_caseMIR	SENT1	-	-
+28	hemos	haber	VMIP1P0	-	-	144-149	297_QUEST_clinical_caseMIR	SENT1	-	-
+29	de	de	SPS00	C0332285	atributo	150-152	297_QUEST_clinical_caseMIR	SENT1	-	-
+30	usar	usar	VMN0000	-	-	153-157	297_QUEST_clinical_caseMIR	SENT1	-	-
+31	necesariamente	necesariamente	RG	-	-	158-172	297_QUEST_clinical_caseMIR	SENT1	-	-
+32	nutrición	nutrición	NCFS000	C1442959	entidad_observable#función	173-182	297_QUEST_clinical_caseMIR	SENT1	-	-
+33	parenteral	parenteral	AQ0CS00	-	-	183-193	297_QUEST_clinical_caseMIR	SENT1	-	-
+34	?	?	Fit	-	-	193-194	297_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	194-195	297_QUEST_clinical_caseMIR	SENT1	-	-
+

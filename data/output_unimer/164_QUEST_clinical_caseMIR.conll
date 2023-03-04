@@ -1,0 +1,115 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	164_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	164_QUEST_clinical_caseMIR	SENT1	-	-
+3	45	45		-	-	9-11	164_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	164_QUEST_clinical_caseMIR	SENT1	-	-
+5	sin	sin	SPS00	C0332288	atributo	17-20	164_QUEST_clinical_caseMIR	SENT1	-	-
+6	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	21-27	164_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedente	antecedente	NCMS000	C0332119_1	situación_1	28-39	164_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	40-42	164_QUEST_clinical_caseMIR	SENT1	-	-
+9	interés	interés	NCMS000	-	-	43-50	164_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	50-51	164_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	52-55	164_QUEST_clinical_caseMIR	SENT1	-	-
+12	desde	desde	SPS00	-	-	56-61	164_QUEST_clinical_caseMIR	SENT1	-	-
+13	hace	hacer	VMIP3S0	-	-	62-66	164_QUEST_clinical_caseMIR	SENT1	-	-
+14	1	1		-	-	67-68	164_QUEST_clinical_caseMIR	SENT1	-	-
+15	mes	mes	NCMS000	C0439231	calificador	69-72	164_QUEST_clinical_caseMIR	SENT1	-	-
+16	presenta	presentar	VMIP3S0	-	-	73-81	164_QUEST_clinical_caseMIR	SENT1	-	-
+17	clínica	clínica	NCFS000	C0442592	medio_ambiente	82-89	164_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	90-92	164_QUEST_clinical_caseMIR	SENT1	-	-
+19	pesadez	pesadez	NCFS000	C0444674	calificador	93-100	164_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	164_QUEST_clinical_caseMIR	SENT1	-	-
+21	región	región	NCFS000	C0205147	atributo#calificador	104-110	164_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	malar	malar	AQ0CS0	C0448294#C1744563	estructura_corporal	111-116	164_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	derecha	derecha	NCFS000	-	-	117-124	164_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	,	,	Fc	-	-	124-125	164_QUEST_clinical_caseMIR	SENT1	-	-
+25	obstrucción	obstrucción	NCFS000	C0027429_1	hallazgo_1	126-137	164_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	nasal	nasal	NCFS000	C0027429_2	hallazgo_2	138-143	164_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	y	y	CC	C1706368	calificador	144-145	164_QUEST_clinical_caseMIR	SENT1	-	-
+28	rinorrea	rinorrea	NCFS000	C1260880_1	trastorno#hallazgo_1	146-154	164_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	fétida	fétido	AQ0FS0	-	-	155-161	164_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+30	derecha	derecha	NCFS000	-	-	162-169	164_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+31	.	.	Fp	-	-	169-170	164_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Ha	haber	VAIP3S0	-	-	171-173	164_QUEST_clinical_caseMIR	SENT2	-	-
+2	seguido	seguir	VMP00SM	-	-	174-181	164_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	182-193	164_QUEST_clinical_caseMIR	SENT2	-	-
+4	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	194-205	164_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+5	con	con	SPS00	C0332287	atributo	206-209	164_QUEST_clinical_caseMIR	SENT2	-	-
+6	amoxicilina_x0002_clavulánico	amoxicilina_x0002_clavulánico		-	-	210-239	164_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	durante	durante	SPS00	C1444752#C0347984	atributo	240-247	164_QUEST_clinical_caseMIR	SENT2	-	-
+8	15	15	Z	-	-	248-250	164_QUEST_clinical_caseMIR	SENT2	-	-
+9	días	d	NCMP000	-	-	251-255	164_QUEST_clinical_caseMIR	SENT2	-	-
+10	sin	sin	SPS00	C0332288	atributo	256-259	164_QUEST_clinical_caseMIR	SENT2	-	-
+11	mejorar	mejorar	VMN0000	-	-	260-267	164_QUEST_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	268-270	164_QUEST_clinical_caseMIR	SENT2	-	-
+13	clínica	clínica	NCFS000	C0442592	medio_ambiente	271-278	164_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	278-279	164_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	280-282	164_QUEST_clinical_caseMIR	SENT3	-	-
+2	practica	practicar	VMIP3S0	-	-	283-291	164_QUEST_clinical_caseMIR	SENT3	-	-
+3	una	una		C0205447_1	calificador_1	292-295	164_QUEST_clinical_caseMIR	SENT3	-	-
+4	TC	símbolo_químico_del_tecnecio	NC00YL0	C0412593_1	procedimiento_1	296-298	164_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0412593_2	procedimiento_2	299-301	164_QUEST_clinical_caseMIR	SENT3	-	-
+6	senos	ser	VSM02S0	C0412593_3	procedimiento_3	302-307	164_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+7	paranasales	paranasal	AQ0CP0	C0412593_4	procedimiento_4	308-319	164_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+8	que	que	PR0CN000	-	-	320-323	164_QUEST_clinical_caseMIR	SENT3	-	-
+9	evidencia	evidenciar	VMIP3S0	-	-	324-333	164_QUEST_clinical_caseMIR	SENT3	-	-
+10	una	una		C0205447_1	calificador_1	334-337	164_QUEST_clinical_caseMIR	SENT3	-	-
+11	ocupación	ocupación	NCFS000	C0028811	ocupación	338-347	164_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	del	del	SP+DA	-	-	348-351	164_QUEST_clinical_caseMIR	SENT3	-	-
+13	seno	seno	NCMS000	C0225452#C1289023_1	estructura_corporal_1	352-356	164_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	maxilar	maxilar	NCMS000	C0225452#C1289023_2	estructura_corporal_2	357-364	164_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+15	derecho	derecho	NCMS000	C0225452#C1289023_3	estructura_corporal_3	365-372	164_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+16	,	,	Fc	-	-	372-373	164_QUEST_clinical_caseMIR	SENT3	-	-
+17	el	el	DA0MS0	-	-	374-376	164_QUEST_clinical_caseMIR	SENT3	-	-
+18	resto	resto	NCMS000	-	-	377-382	164_QUEST_clinical_caseMIR	SENT3	-	-
+19	de	de	SPS00	C0332285	atributo	383-385	164_QUEST_clinical_caseMIR	SENT3	-	-
+20	senos	seno	NCMP000	C0006141#C0929301	estructura_corporal	386-391	164_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+21	y	y	CC	C1706368	calificador	392-393	164_QUEST_clinical_caseMIR	SENT3	-	-
+22	fosas	fosar	VMIP2S0	C0027426_1	estructura_corporal_1	394-399	164_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+23	nasales	nasal	NCFP000	C0027426_2	estructura_corporal_2	400-407	164_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+24	se	se	P00CN000	-	-	408-410	164_QUEST_clinical_caseMIR	SENT3	-	-
+25	encuentran	encontrar	VMIP3P0	-	-	411-421	164_QUEST_clinical_caseMIR	SENT3	-	-
+26	libres	libre	AQ0CP0	-	-	422-428	164_QUEST_clinical_caseMIR	SENT3	-	-
+27	.	.	Fp	-	-	428-429	164_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	430-432	164_QUEST_clinical_caseMIR	SENT4	-	-
+2	ocupación	ocupación	NCFS000	C0028811	ocupación	433-442	164_QUEST_clinical_caseMIR	SENT4	-	-
+3	del	del	SP+DA	-	-	443-446	164_QUEST_clinical_caseMIR	SENT4	-	-
+4	seno	seno	NCMS000	C1278899#C0024957_1	estructura_corporal_1	447-451	164_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	maxilar	maxilar	NCMS000	C1278899#C0024957_2	estructura_corporal_2	452-459	164_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+6	es	ser	VSIP3S0	-	-	460-462	164_QUEST_clinical_caseMIR	SENT4	-	-
+7	heterogénea	heterogéneo	AQ0FS0	-	-	463-474	164_QUEST_clinical_caseMIR	SENT4	-	-
+8	con	con	SPS00	C0332287	atributo	475-478	164_QUEST_clinical_caseMIR	SENT4	-	-
+9	calcificaciones	calcificación	NCFP000	C1533591	-	479-494	164_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	495-497	164_QUEST_clinical_caseMIR	SENT4	-	-
+11	su	su	DP3CS0	-	-	498-500	164_QUEST_clinical_caseMIR	SENT4	-	-
+12	interior	interior	NCMS000	C0205102	calificador	501-509	164_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	509-510	164_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	511-513	164_QUEST_clinical_caseMIR	SENT5	-	-
+2	seno	seno	NCMS000	C0006141#C0929301	estructura_corporal	514-518	164_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	no	no	RN	C1298908	calificador	519-521	164_QUEST_clinical_caseMIR	SENT5	-	-
+4	se	se	P00CN000	-	-	522-524	164_QUEST_clinical_caseMIR	SENT5	-	-
+5	encuentra	encontrar	VMIP3S0	-	-	525-534	164_QUEST_clinical_caseMIR	SENT5	-	-
+6	dilatado	dilatar	VMP00SM	-	-	535-543	164_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+7	ni	ni	CC	-	-	544-546	164_QUEST_clinical_caseMIR	SENT5	-	-
+8	presenta	presentar	VMIP3S0	-	-	547-555	164_QUEST_clinical_caseMIR	SENT5	-	-
+9	erosiones	erosión	NCFP000	C0333307	anomalía_morfológica	556-565	164_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+10	óseas	óseo	AQ0FP0	C0443157	calificador	566-571	164_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+11	.	.	Fp	-	-	571-572	164_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Ante	ante	SPS00	-	-	573-577	164_QUEST_clinical_caseMIR	SENT6	-	-
+2	este	este	DD0MS0	-	-	578-582	164_QUEST_clinical_caseMIR	SENT6	-	-
+3	cuadro	cuadro	NCMS000	-	-	583-589	164_QUEST_clinical_caseMIR	SENT6	-	-
+4	¿	¿	Fia	-	-	590-591	164_QUEST_clinical_caseMIR	SENT6	-	-
+5	cuál	cuál	PT0CS000	-	-	591-595	164_QUEST_clinical_caseMIR	SENT6	-	-
+6	es	ser	VSIP3S0	-	-	596-598	164_QUEST_clinical_caseMIR	SENT6	-	-
+7	el	el	DA0MS0	-	-	599-601	164_QUEST_clinical_caseMIR	SENT6	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	602-613	164_QUEST_clinical_caseMIR	SENT6	-	-
+9	más	más	RG	C0205172	calificador	614-617	164_QUEST_clinical_caseMIR	SENT6	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	618-626	164_QUEST_clinical_caseMIR	SENT6	-	-
+11	?	?	Fit	-	-	626-627	164_QUEST_clinical_caseMIR	SENT6	-	-
+12	:	:	Fd	-	-	627-628	164_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	628-629	164_QUEST_clinical_caseMIR	SENT6	-	-
+

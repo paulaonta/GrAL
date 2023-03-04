@@ -1,0 +1,114 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	318_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	318_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	318_QUEST_clinical_caseMIR	SENT1	-	-
+4	59	59		-	-	13-15	318_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	318_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	318_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	-	-	25-37	318_QUEST_clinical_caseMIR	SENT1	-	-
+8	personales	personal	AQ0CP0	-	-	38-48	318_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	49-51	318_QUEST_clinical_caseMIR	SENT1	-	-
+10	cáncer	cáncer	NCMS000	C0006142#C0678222_1	trastorno_1	52-58	318_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0006142#C0678222_2	trastorno_2	59-61	318_QUEST_clinical_caseMIR	SENT1	-	-
+12	mama	mamar	VMM02S0	C0006142#C0678222_3	trastorno_3	62-66	318_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	intervenida	intervenir	VMP00SF	-	-	67-78	318_QUEST_clinical_caseMIR	SENT1	-	-
+14	hace	hacer	VMIP3S0	-	-	79-83	318_QUEST_clinical_caseMIR	SENT1	-	-
+15	8	8		-	-	84-85	318_QUEST_clinical_caseMIR	SENT1	-	-
+16	meses	mes	NCMP000	C0439231	calificador	86-91	318_QUEST_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	92-93	318_QUEST_clinical_caseMIR	SENT1	-	-
+18	osteoporosis	osteoporosis	NCFN000	C0029456	trastorno	94-106	318_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	,	,	Fc	-	-	106-107	318_QUEST_clinical_caseMIR	SENT1	-	-
+20	sufre	sufrir	VMIP3S0	-	-	108-113	318_QUEST_clinical_caseMIR	SENT1	-	-
+21	una	una		C0205447_1	calificador_1	114-117	318_QUEST_clinical_caseMIR	SENT1	-	-
+22	caída	caída	NCFS000	C0085639	hallazgo	118-123	318_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	y	y	CC	C1706368	calificador	124-125	318_QUEST_clinical_caseMIR	SENT1	-	-
+24	tiene	tener	VMIP3S0	-	-	126-131	318_QUEST_clinical_caseMIR	SENT1	-	-
+25	una	una		C0205447_1	calificador_1	132-135	318_QUEST_clinical_caseMIR	SENT1	-	-
+26	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	136-144	318_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	de	de	SPS00	C0332285	atributo	145-147	318_QUEST_clinical_caseMIR	SENT1	-	-
+28	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	148-154	318_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+29	de	de	SPS00	C0332285	atributo	155-157	318_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+30	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	158-163	318_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+31	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	164-171	318_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+32	.	.	Fp	-	-	171-172	318_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	173-175	318_QUEST_clinical_caseMIR	SENT2	-	-
+2	intervenida	intervenir	VMP00SF	-	-	176-187	318_QUEST_clinical_caseMIR	SENT2	-	-
+3	quirúrgicamente	quirúrgicamente	RG	-	-	188-203	318_QUEST_clinical_caseMIR	SENT2	-	-
+4	y	y	CC	C1706368	calificador	204-205	318_QUEST_clinical_caseMIR	SENT2	-	-
+5	permanece	permanecer	VMIP3S0	-	-	206-215	318_QUEST_clinical_caseMIR	SENT2	-	-
+6	ingresada	ingresar	VMP00SF	-	-	216-225	318_QUEST_clinical_caseMIR	SENT2	-	-
+7	en	en	SPS00	C0443144_1	calificador_1	226-228	318_QUEST_clinical_caseMIR	SENT2	-	-
+8	reposo	reposo	NCMS000	C0443144_2	calificador_2	229-235	318_QUEST_clinical_caseMIR	SENT2	-	-
+9	con	con	SPS00	C0332287	atributo	236-239	318_QUEST_clinical_caseMIR	SENT2	-	-
+10	escayola	escayola	NCFS000	C0032159	objeto_físico	240-248	318_QUEST_clinical_caseMIR	SENT2	-	-
+11	durante	durante	SPS00	C1444752#C0347984	atributo	249-256	318_QUEST_clinical_caseMIR	SENT2	-	-
+12	10	10	Z	-	-	257-259	318_QUEST_clinical_caseMIR	SENT2	-	-
+13	días	d	NCMP000	-	-	260-264	318_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	264-265	318_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	266-267	318_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	268-270	318_QUEST_clinical_caseMIR	SENT3	-	-
+3	semana	semana	NCFS000	C0439230	calificador	271-277	318_QUEST_clinical_caseMIR	SENT3	-	-
+4	siguiente	siguiente	AQ0CS0	C0332282	atributo	278-287	318_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	288-290	318_QUEST_clinical_caseMIR	SENT3	-	-
+6	su	su	DP3CS0	-	-	291-293	318_QUEST_clinical_caseMIR	SENT3	-	-
+7	alta	alto	AQ0FS0	C0205250	calificador	294-298	318_QUEST_clinical_caseMIR	SENT3	-	-
+8	nota	nota	NCFS000	-	-	299-303	318_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	304-306	318_QUEST_clinical_caseMIR	SENT3	-	-
+10	forma	forma	NCFS000	C0348078	atributo	307-312	318_QUEST_clinical_caseMIR	SENT3	-	-
+11	súbita	súbito	AQ0FS0	-	-	313-319	318_QUEST_clinical_caseMIR	SENT3	-	-
+12	falta	falto	AQ0FS0	C0013404#C0553668_1	hallazgo_1	320-325	318_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0013404#C0553668_2	hallazgo_2	326-328	318_QUEST_clinical_caseMIR	SENT3	-	-
+14	aire	aire	NCMS000	C0013404#C0553668_3	hallazgo_3	329-333	318_QUEST_clinical_caseMIR	SENT3	-	-
+15	que	que	PR0CN000	-	-	334-337	318_QUEST_clinical_caseMIR	SENT3	-	-
+16	la	lo	PP3FSA00	-	-	338-340	318_QUEST_clinical_caseMIR	SENT3	-	-
+17	lleva	llevar	VMIP3S0	-	-	341-346	318_QUEST_clinical_caseMIR	SENT3	-	-
+18	a	a	SPS00	-	-	347-348	318_QUEST_clinical_caseMIR	SENT3	-	-
+19	consultar	consultar	VMN0000	-	-	349-358	318_QUEST_clinical_caseMIR	SENT3	-	-
+20	a	a	SPS00	-	-	359-360	318_QUEST_clinical_caseMIR	SENT3	-	-
+21	su	su	DP3CS0	-	-	361-363	318_QUEST_clinical_caseMIR	SENT3	-	-
+22	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	364-370	318_QUEST_clinical_caseMIR	SENT3	-	-
+23	de	de	SPS00	C1704221#C0017319_2	ocupación_2	371-373	318_QUEST_clinical_caseMIR	SENT3	-	-
+24	cabecera	cabecera	NCFS000	C1704221#C0017319_3	ocupación_3	374-382	318_QUEST_clinical_caseMIR	SENT3	-	-
+25	que	que	PR0CN000	-	-	383-386	318_QUEST_clinical_caseMIR	SENT3	-	-
+26	nota	notar	VMIP3S0	-	-	387-391	318_QUEST_clinical_caseMIR	SENT3	-	-
+27	que	que	CS	-	-	392-395	318_QUEST_clinical_caseMIR	SENT3	-	-
+28	su	su	DP3CS0	-	-	396-398	318_QUEST_clinical_caseMIR	SENT3	-	-
+29	pantorrilla	pantorrilla	NCFS000	C1305418#C0230445	estructura_corporal	399-410	318_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+30	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	411-418	318_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+31	tiene	tener	VMIP3S0	-	-	419-424	318_QUEST_clinical_caseMIR	SENT3	-	-
+32	edema	edema	NCMS000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	425-430	318_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+33	y	y	CC	C1706368	calificador	431-432	318_QUEST_clinical_caseMIR	SENT3	-	-
+34	dolor	dolor	NCMS000	C0234233_1	hallazgo_1	433-438	318_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+35	a	a	SPS00	C0234233_2	hallazgo_2	439-440	318_QUEST_clinical_caseMIR	SENT3	-	-
+36	la	lo	PP3FSA00	C0234233_3	hallazgo_3	441-443	318_QUEST_clinical_caseMIR	SENT3	-	-
+37	palpación	palpación	NCFS000	C0234233_4	hallazgo_4	444-453	318_QUEST_clinical_caseMIR	SENT3	-	-
+38	.	.	Fp	-	-	453-454	318_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	455-456	318_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	456-459	318_QUEST_clinical_caseMIR	SENT4	-	-
+3	elementos	elemento	NCMP000	C0013879	sustancia	460-469	318_QUEST_clinical_caseMIR	SENT4	-	-
+4	clínicos	clínico	AQ0MP0	C0205210	calificador	470-478	318_QUEST_clinical_caseMIR	SENT4	-	-
+5	NO	no	RN	C1298908	calificador	479-481	318_QUEST_clinical_caseMIR	SENT4	-	-
+6	serían	ser	VSIC3P0	-	-	482-488	318_QUEST_clinical_caseMIR	SENT4	-	-
+7	importantes	importante	AQ0CP0	-	-	489-500	318_QUEST_clinical_caseMIR	SENT4	-	-
+8	a	a	SPS00	-	-	501-502	318_QUEST_clinical_caseMIR	SENT4	-	-
+9	la	el	DA0FS0	-	-	503-505	318_QUEST_clinical_caseMIR	SENT4	-	-
+10	hora	hora	NCFS000	C0040223#C0439227	calificador	506-510	318_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	511-513	318_QUEST_clinical_caseMIR	SENT4	-	-
+12	determinar	determinar	VMN0000	-	-	514-524	318_QUEST_clinical_caseMIR	SENT4	-	-
+13	que	que	CS	-	-	525-528	318_QUEST_clinical_caseMIR	SENT4	-	-
+14	tiene	tener	VMIP3S0	-	-	529-534	318_QUEST_clinical_caseMIR	SENT4	-	-
+15	un	un		C0205447_1	calificador_1	535-537	318_QUEST_clinical_caseMIR	SENT4	-	-
+16	riesgo	riesgo	NCMS000	-	-	538-544	318_QUEST_clinical_caseMIR	SENT4	-	-
+17	clínico	clínico	AQ0MS0	C0205210	calificador	545-552	318_QUEST_clinical_caseMIR	SENT4	-	-
+18	alto	alto	AQ0MS0	C0205250	calificador	553-557	318_QUEST_clinical_caseMIR	SENT4	-	-
+19	de	de	SPS00	C0332285	atributo	558-560	318_QUEST_clinical_caseMIR	SENT4	-	-
+20	padecer	padecer	VMN0000	-	-	561-568	318_QUEST_clinical_caseMIR	SENT4	-	-
+21	una	una		C0205447_1	calificador_1	569-572	318_QUEST_clinical_caseMIR	SENT4	-	-
+22	tromboembolia	tromboembolia	NC00SC0	C0524702_1	trastorno_1	573-586	318_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+23	pulmonar	pulmonar	NC00SC0	C0524702_2	trastorno_2	587-595	318_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+24	?	?	Fit	-	-	595-596	318_QUEST_clinical_caseMIR	SENT4	-	-
+25	:	:	Fd	-	-	596-597	318_QUEST_clinical_caseMIR	SENT4	-	-
+26	.	.	Fp	-	-	597-598	318_QUEST_clinical_caseMIR	SENT4	-	-
+

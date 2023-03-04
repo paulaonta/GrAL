@@ -1,0 +1,28 @@
+1	Transfundir	transfundir	VMN0000	-	-	0-11	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	12-14	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	concentrado	concentrar	VMP00SM	-	-	15-26	597(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	de	de	SPS00	C0332285	atributo	27-29	597(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+5	hematíes	hematíe	NCMP000	-	-	30-38	597(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	,	,	Fc	-	-	38-39	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	indicar	indicar	VMN0000	-	-	40-47	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	47-49	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	dieta	dieta	NCFS000	C0012169_1	hallazgo_1	50-55	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	pobre	pobre	NCCS000	C0012169_2	hallazgo_2	56-61	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C0012169_3	hallazgo_3	62-64	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	sal	salir	VMM02S0	C0012169_4	hallazgo_4	65-68	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	y	y	CC	C1706368	calificador	69-70	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	potasio	potasio	NCMS000	C0032821	sustancia#producto	74-81	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	81-82	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	subir	subir	VMN0000	-	-	83-88	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	la	el	DA0FS0	-	-	89-91	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	dosis	dosis	NCFN000	-	-	92-97	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	98-100	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	valsartán	valsartán	NC00SC0	C0216784	producto#sustancia	101-110	597(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	y	y	CC	C1706368	calificador	111-112	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	pedir	pedir	VMN0000	-	-	113-118	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	una	una		C0205447_1	calificador_1	119-122	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	angioTC	angiotc	NC00000	-	-	123-130	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	ambulatoriamente	ambulatoriamente	RG	-	-	131-147	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	148-149	597(0)_ANS_clinical_caseMIR	SENT1	-	-
+

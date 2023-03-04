@@ -1,0 +1,15 @@
+1	Sueroterapia	sueroterapia	NCFS000	-	-	0-12	506(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	.	.	Fp	-	-	12-13	506(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	antitérmicos	antitérmico	NCMP000	C0003419	sustancia	14-26	506(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	y	y	CC	C1706368	calificador	27-28	506(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	antibioterapia	antibioterapia	NCFS000	-	-	29-43	506(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	.	.	Fp	-	-	43-44	506(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Solicitar	solicitar	VMN0000	-	-	45-54	506(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	niveles	nivel	NCMP000	C0456079	atributo	55-62	506(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	63-65	506(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	fosfatasa	fosfatasa	NCFS000	C0001109_1	sustancia_1	66-75	506(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	ácida	ácido	AQ0FS0	C0001109_2	sustancia_2	76-81	506(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	prostática	prostático	AQ0FS0	C0033572	calificador	82-92	506(3)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	.	.	Fp	-	-	93-94	506(3)_ANS_clinical_caseMIR	SENT2	-	-
+

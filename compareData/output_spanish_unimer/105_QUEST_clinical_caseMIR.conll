@@ -1,0 +1,81 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	105_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	105_QUEST_clinical_caseMIR	SENT1	-	-
+3	17	17		-	-	9-11	105_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	105_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	105_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	105_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	105_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	105_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	105_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	43-45	105_QUEST_clinical_caseMIR	SENT1	-	-
+11	cuadro	cuadro	NCMS000	-	-	46-52	105_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	53-55	105_QUEST_clinical_caseMIR	SENT1	-	-
+13	fiebre	fiebre	NCFS000	C0015967	hallazgo	56-62	105_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	elevada	elevar	VMP00SF	-	-	63-70	105_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	,	,	Fc	-	-	70-71	105_QUEST_clinical_caseMIR	SENT1	-	-
+16	dolor	dolor	NCMS000	C0242429_1	hallazgo_1	72-77	105_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	faríngeo	faríngeo	NC00SC0	C0242429_2	hallazgo_2	78-86	105_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	y	y	CC	C1706368	calificador	87-88	105_QUEST_clinical_caseMIR	SENT1	-	-
+19	adenopatías	adenopatía	NCFP000	-	-	89-100	105_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	101-111	105_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	.	.	Fp	-	-	111-112	105_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Previamente	previamente	RG	-	-	113-124	105_QUEST_clinical_caseMIR	SENT2	-	-
+2	había	haber	VAII3S0	-	-	125-130	105_QUEST_clinical_caseMIR	SENT2	-	-
+3	sido	ser	VSP00SM	-	-	131-135	105_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnosticada	diagnosticar	VMP00SF	-	-	136-149	105_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	150-152	105_QUEST_clinical_caseMIR	SENT2	-	-
+6	faringitis	faringitis	NCFN000	C0001344#C0031350_1	trastorno_1	153-163	105_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	aguda	agudo	AQ0FS0	C0001344#C0031350_2	trastorno_2	164-169	105_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	y	y	CC	C1706368	calificador	170-171	105_QUEST_clinical_caseMIR	SENT2	-	-
+9	recibió	recibir	VMIS3S0	-	-	172-179	105_QUEST_clinical_caseMIR	SENT2	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	180-191	105_QUEST_clinical_caseMIR	SENT2	-	-
+11	con	con	SPS00	C0332287	atributo	192-195	105_QUEST_clinical_caseMIR	SENT2	-	-
+12	amoxicilina	amoxicilina	NC00SC0	C0002645#C0521900	sustancia	196-207	105_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	,	,	Fc	-	-	207-208	105_QUEST_clinical_caseMIR	SENT2	-	-
+14	presentado	presentar	VMP00SM	-	-	209-219	105_QUEST_clinical_caseMIR	SENT2	-	-
+15	posteriormente	posteriormente	RG	-	-	220-234	105_QUEST_clinical_caseMIR	SENT2	-	-
+16	un	un		C0205447_1	calificador_1	235-237	105_QUEST_clinical_caseMIR	SENT2	-	-
+17	exantema	exantema	NCMS000	C0015230	anomalía_morfológica#trastorno	238-246	105_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	cutáneo	cutáneo	AQ0MS0	-	-	247-254	105_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	maculoso	maculoso	AQ0MS00	-	-	255-263	105_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+20	generalizado	generalizar	VMP00SM	-	-	264-276	105_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+21	.	.	Fp	-	-	276-277	105_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	278-280	105_QUEST_clinical_caseMIR	SENT3	-	-
+2	realiza	realizar	VMIP3S0	-	-	281-288	105_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	289-298	105_QUEST_clinical_caseMIR	SENT3	-	-
+4	que	que	PR0CN000	-	-	299-302	105_QUEST_clinical_caseMIR	SENT3	-	-
+5	presenta	presentar	VMIP3S0	-	-	303-311	105_QUEST_clinical_caseMIR	SENT3	-	-
+6	ligera	ligero	AQ0FS0	-	-	312-318	105_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+7	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	319-331	105_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	con	con	SPS00	C0332287	atributo	332-335	105_QUEST_clinical_caseMIR	SENT3	-	-
+9	linfocitosis	linfocitosis	NCFN000	C0024282#C0853698	trastorno#hallazgo	336-348	105_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	349-350	105_QUEST_clinical_caseMIR	SENT3	-	-
+11	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	351-360	105_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0150312_2	calificador_2	361-363	105_QUEST_clinical_caseMIR	SENT3	-	-
+13	linfocitos	linfocito	NCMP000	C0024264	célula	364-374	105_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	activados	activar	VMP00PM	-	-	375-384	105_QUEST_clinical_caseMIR	SENT3	-	-
+15	,	,	Fc	-	-	384-385	105_QUEST_clinical_caseMIR	SENT3	-	-
+16	ligera	ligero	AQ0FS0	-	-	386-392	105_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+17	trombopenia	trombopenia	NCFS000	C0040034_1	trastorno_1	393-404	105_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	y	y	CC	C1706368	calificador	405-406	105_QUEST_clinical_caseMIR	SENT3	-	-
+19	transaminasas	transaminasa	NCFP000	C1152208#C0002594	función_biológica#sustancia	407-420	105_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+20	levemente	levemente	RG	-	-	421-430	105_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+21	aumentadas	aumentar	VMP00PF	-	-	431-441	105_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+22	.	.	Fp	-	-	441-442	105_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	443-444	105_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	444-448	105_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	449-454	105_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	455-457	105_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	458-469	105_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	470-473	105_QUEST_clinical_caseMIR	SENT4	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	474-482	105_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	483-485	105_QUEST_clinical_caseMIR	SENT4	-	-
+9	este	este	DD0MS0	-	-	486-490	105_QUEST_clinical_caseMIR	SENT4	-	-
+10	cuadro	cuadro	NCMS000	-	-	491-497	105_QUEST_clinical_caseMIR	SENT4	-	-
+11	clínico	clínico	AQ0MS0	C0205210	calificador	498-505	105_QUEST_clinical_caseMIR	SENT4	-	-
+12	?	?	Fit	-	-	505-506	105_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	506-507	105_QUEST_clinical_caseMIR	SENT4	-	-
+

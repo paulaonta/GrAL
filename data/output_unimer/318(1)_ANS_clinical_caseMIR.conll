@@ -1,0 +1,21 @@
+1	Es	ser	VSIP3S0	-	-	0-2	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	recomendable	recomendable	AQ0CS0	-	-	3-15	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	realizar	realizar	VMN0000	-	-	16-24	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	un	un		C0205447_1	calificador_1	25-27	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	estudio	estudio	NCMS000	C0557651	medio_ambiente	28-35	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	36-38	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	39-45	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	urgente	urgente	AQ0CS0	C0439609	calificador	46-53	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	para	para	SPS00	C0521125	calificador	54-58	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	descartar	descartar	VMN0000	C0332196	calificador	59-68	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	obstrucción	obstrucción	NCFS000	C0028778	anomalía_morfológica	69-80	318(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+12	de	de	SPS00	C0332285	atributo	81-83	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	84-86	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	vía	vía	NCFS000	C1280341_1	estructura_corporal_1	87-90	318(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	urinaria	urinario	AQ0FS0	C1280341_2	estructura_corporal_2	91-99	318(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	alta	alto	AQ0FS0	C0205250	calificador	100-104	318(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	que	que	PR0CN000	-	-	105-108	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	requiera	requerir	VMSP3S0	-	-	109-117	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	118-125	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	126-127	318(1)_ANS_clinical_caseMIR	SENT1	-	-
+

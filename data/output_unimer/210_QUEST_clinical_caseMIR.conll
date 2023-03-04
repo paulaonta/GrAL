@@ -1,0 +1,74 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	210_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	210_QUEST_clinical_caseMIR	SENT1	-	-
+3	63	63		-	-	9-11	210_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	210_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	210_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	210_QUEST_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	27-29	210_QUEST_clinical_caseMIR	SENT1	-	-
+8	servicio	servicio	NCMS000	-	-	30-38	210_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	39-41	210_QUEST_clinical_caseMIR	SENT1	-	-
+10	Urgencias	urgencia	NCFP000	C0439609	calificador	42-51	210_QUEST_clinical_caseMIR	SENT1	-	-
+11	refiriendo	referir	VMG0000	-	-	52-62	210_QUEST_clinical_caseMIR	SENT1	-	-
+12	cefalea	cefalea	NCFS000	C0018681	hallazgo	63-70	210_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	intensa	intenso	AQ0FS0	C0205178	calificador	71-78	210_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	con	con	SPS00	C0332287	atributo	79-82	210_QUEST_clinical_caseMIR	SENT1	-	-
+15	signos	signo	NCMP000	C0311392	hallazgo	83-89	210_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	90-92	210_QUEST_clinical_caseMIR	SENT1	-	-
+17	irritación	irritación	NCFS000	C0025287_1	trastorno_1	93-103	210_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	meníngea	meníngeo	AQ0FS0	C0025287_2	trastorno_2	104-112	210_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	,	,	Fc	-	-	112-113	210_QUEST_clinical_caseMIR	SENT1	-	-
+20	alteraciones	alteración	NCFP000	-	-	114-126	210_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	visuales	visual	AQ0CP0	C0234621	calificador	127-135	210_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	bilaterales	bilateral	AQ0CP0	C0238767	calificador	136-147	210_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+23	y	y	CC	C1706368	calificador	148-149	210_QUEST_clinical_caseMIR	SENT1	-	-
+24	oftalmoplejía	oftalmoplejía	NCFS000	C0029089	trastorno	150-163	210_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	.	.	Fp	-	-	163-164	210_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	165-167	210_QUEST_clinical_caseMIR	SENT2	-	-
+2	realiza	realizar	VMIP3S0	-	-	168-175	210_QUEST_clinical_caseMIR	SENT2	-	-
+3	una	una		C0205447_1	calificador_1	176-179	210_QUEST_clinical_caseMIR	SENT2	-	-
+4	TAC	tac	NC00YL0	C0040405	procedimiento	180-183	210_QUEST_clinical_caseMIR	SENT2	-	-
+5	que	que	PR0CN000	-	-	184-187	210_QUEST_clinical_caseMIR	SENT2	-	-
+6	muestra	mostrar	VMIP3S0	-	-	188-195	210_QUEST_clinical_caseMIR	SENT2	-	-
+7	lesión	lesión	NCFS000	C0332562_1	anomalía_morfológica_1	196-202	210_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	ocupante	ocupante	NCCS000	C0332562_2	anomalía_morfológica_2	203-211	210_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+9	de	de	SPS00	C0332562_3	anomalía_morfológica_3	212-214	210_QUEST_clinical_caseMIR	SENT2	-	-
+10	espacio	espacio	NCMS000	C0332562_4	anomalía_morfológica_4	215-222	210_QUEST_clinical_caseMIR	SENT2	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	223-225	210_QUEST_clinical_caseMIR	SENT2	-	-
+12	silla	silla	NCFS000	C0036609_1	estructura_corporal_1	226-231	210_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	turca	turco	NCFS000	C0036609_2	estructura_corporal_2	232-237	210_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+14	de	de	SPS00	C0332285	atributo	238-240	210_QUEST_clinical_caseMIR	SENT2	-	-
+15	2cm	2cm		-	-	241-244	210_QUEST_clinical_caseMIR	SENT2	-	-
+16	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	245-255	210_QUEST_clinical_caseMIR	SENT2	-	-
+17	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	256-259	210_QUEST_clinical_caseMIR	SENT2	-	-
+18	adenoma	adenoma	NCMS000	C0032000_1	anomalía_morfológica_1	260-267	210_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+19	hipofisario	hipofisario	AQ0MS0	C0032000_2	anomalía_morfológica_2	268-279	210_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+20	con	con	SPS00	C0332287	atributo	280-283	210_QUEST_clinical_caseMIR	SENT2	-	-
+21	signos	signo	NCMP000	C0311392	hallazgo	284-290	210_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0332285	atributo	291-293	210_QUEST_clinical_caseMIR	SENT2	-	-
+23	hemorragia	hemorragia	NCFS000	C0019080	hallazgo#anomalía_morfológica	294-304	210_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+24	intratumoral	intratumoral	AQ0CS00	-	-	305-317	210_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+25	,	,	Fc	-	-	317-318	210_QUEST_clinical_caseMIR	SENT2	-	-
+26	con	con	SPS00	C0332287	atributo	319-322	210_QUEST_clinical_caseMIR	SENT2	-	-
+27	desviación	desviación	NCFS000	C0185033#C0333051	procedimiento#anomalía_morfológica	323-333	210_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+28	del	del	SP+DA	-	-	334-337	210_QUEST_clinical_caseMIR	SENT2	-	-
+29	tallo	tallo	NCMS000	C1827935#C0229530_1	estructura_corporal_1	338-343	210_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+30	hipofisario	hipofisario	AQ0MS0	C1827935#C0229530_2	estructura_corporal_2	344-355	210_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+31	y	y	CC	C1706368	calificador	356-357	210_QUEST_clinical_caseMIR	SENT2	-	-
+32	compresión	compresión	NCFS000	C0332459#C1285497	anomalía_morfológica	358-368	210_QUEST_clinical_caseMIR	SENT2	-	-
+33	del	del	SP+DA	-	-	369-372	210_QUEST_clinical_caseMIR	SENT2	-	-
+34	tejido	tejido	NCMS000	C0040300	estructura_corporal	373-379	210_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+35	glandular	glandular	AQ0CS0	C0225353	calificador	380-389	210_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+36	.	.	Fp	-	-	389-390	210_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Señale	señalar	VMM03S0	-	-	391-397	210_QUEST_clinical_caseMIR	SENT3	-	-
+2	cuál	cuál	PT0CS000	-	-	398-402	210_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	403-405	210_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	406-409	210_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	410-420	210_QUEST_clinical_caseMIR	SENT3	-	-
+6	respuestas	respuesta	NCFP000	-	-	421-431	210_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	432-434	210_QUEST_clinical_caseMIR	SENT3	-	-
+8	INCORRECTA	incorrecto	AQ0FS0	-	-	435-445	210_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	445-446	210_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	446-447	210_QUEST_clinical_caseMIR	SENT3	-	-
+

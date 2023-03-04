@@ -1,0 +1,34 @@
+1	Se	se	P00CN000	-	-	0-2	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	un	un		C0205447_1	calificador_1	12-14	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	feto	feto	NCMS000	C1305737	estructura_corporal	15-19	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	20-23	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	restricción	restricción	NCFS000	-	-	24-35	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	del	del	SP+DA	-	-	36-39	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	crecimiento	crecimiento	NCMS000	-	-	40-51	613(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	intrauterino	intrauterino	AQ0MS0	C0694756	calificador	52-64	613(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	que	que	PR0CN000	-	-	65-68	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	se	se	P00CN000	-	-	69-71	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	acompaña	acompañar	VMIP3S0	-	-	72-80	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	81-83	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	un	un		C0205447_1	calificador_1	84-86	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	87-95	613(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0332285	atributo	96-98	613(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+18	HELLP	hemolysis,_elevated_liver-enzyme_and_low_platelet_syndrome_(síndrome_con_hemólisis,_elevación_de_enzimas_hepáticas_y_descenso_de_las_plaquetas)	NC00YL0	-	-	99-104	613(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+19	.	.	Fp	-	-	104-105	613(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	106-108	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	109-116	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	recomendable	recomendable	AQ0CS0	-	-	117-129	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	es	ser	VSIP3S0	-	-	130-132	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	133-135	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	finalización	finalización	NCFS000	-	-	136-148	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+7	del	del	SP+DA	-	-	149-152	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	153-161	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+9	mediante	mediante	SPS00	-	-	162-170	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+10	inducción	inducción	NCFS000	C0200066_1	procedimiento_1	171-180	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+11	del	del	SP+DA	C0200066_2	procedimiento_2	181-184	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+12	parto	parto	NCMS000	C0200066_3	procedimiento_3	185-190	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	191-192	613(3)_ANS_clinical_caseMIR	SENT2	-	-
+

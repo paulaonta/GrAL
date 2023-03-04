@@ -1,0 +1,22 @@
+1	El	el	DA0MS0	-	-	0-2	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	endometrio	endometrio	NCMS000	C1269566#C0014180	estructura_corporal	3-13	489(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	está	estar	VAIP3S0	-	-	14-18	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	engrosado	engrosar	VMP00SM	-	-	19-28	489(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	y	y	CC	C1706368	calificador	29-30	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	ante	ante	SPS00	-	-	31-35	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	36-38	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	clínica	clínica	NCFS000	C0442592	medio_ambiente	39-46	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	47-49	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	50-52	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	53-61	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	61-62	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	toma	tomar	VMIP3S0	C1515187	calificador	63-67	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	68-71	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	72-79	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	endometrial	endometrial	AQ0CS00	-	-	80-91	489(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	con	con	SPS00	C0332287	atributo	92-95	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	cánula	cánula	NCFS000	C0520453	objeto_físico	96-102	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	103-105	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	Cornier	cornier	VMN0000	-	-	106-113	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	114-115	489(0)_ANS_clinical_caseMIR	SENT1	-	-
+

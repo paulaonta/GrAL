@@ -1,0 +1,24 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	confirmar	confirmar	VMN0000	-	-	11-20	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	se	se	PP3CN000	-	-	20-22	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	23-25	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	entidad	entidad	NCFS000	-	-	26-33	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	el	el	DA0MS0	-	-	37-39	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	40-48	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	48-49	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	debemos	deber	VMIP1P0	-	-	50-57	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	realizar	realizar	VMN0000	-	-	58-66	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	estudio	estudio	NCMS000	C0557651	medio_ambiente	67-74	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	genético	genético	AQ0MS0	-	-	75-83	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	84-85	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	86-91	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	los	el	DA0MP0	-	-	92-95	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	familiares	familiar	NCMP000	C0080103#C0241888	persona#calificador	96-106	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	107-109	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	primer	1	AO0MS0	C0444502_1	calificador_1	110-116	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	grado	grado	NCMS000	C0444502_2	calificador_2	117-122	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	123-124	768(1)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,93 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	11_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	11_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	11_QUEST_clinical_caseMIR	SENT1	-	-
+4	38	38		-	-	16-18	11_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	11_QUEST_clinical_caseMIR	SENT1	-	-
+6	sin	sin	SPS00	C0332122_1	calificador_1	24-27	11_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	28-40	11_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332122_3	calificador_3	41-43	11_QUEST_clinical_caseMIR	SENT1	-	-
+9	cardiopatía	cardiopatía	NCFS000	C0018799	trastorno	44-55	11_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+10	ni	ni	CC	-	-	56-58	11_QUEST_clinical_caseMIR	SENT1	-	-
+11	problemas	problema	NCMP000	C0033213	hallazgo	59-68	11_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+12	broncopulmonares	broncopulmonar	AQ0CP0	-	-	69-85	11_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	conocidos	conocer	VMP00PM	-	-	86-95	11_QUEST_clinical_caseMIR	SENT1	-	-
+14	acude	acudir	VMIP3S0	-	-	96-101	11_QUEST_clinical_caseMIR	SENT1	-	-
+15	al	al	SP+DA	-	-	102-104	11_QUEST_clinical_caseMIR	SENT1	-	-
+16	servicio	servicio	NCMS000	-	-	105-113	11_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	114-116	11_QUEST_clinical_caseMIR	SENT1	-	-
+18	Urgencias	urgencia	NCFP000	C0439609	calificador	117-126	11_QUEST_clinical_caseMIR	SENT1	-	-
+19	por	por	SPS00	C0678226	atributo	127-130	11_QUEST_clinical_caseMIR	SENT1	-	-
+20	presentar	presentar	VMN0000	-	-	131-140	11_QUEST_clinical_caseMIR	SENT1	-	-
+21	palpitaciones	palpitación	NCFP000	-	-	141-154	11_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	rápidas	rápido	AQ0FP0	C0456962	calificador	155-162	11_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+23	y	y	CC	C1706368	calificador	163-164	11_QUEST_clinical_caseMIR	SENT1	-	-
+24	regulares	regular	AQ0CP0	C0205272	calificador	165-174	11_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0332285	atributo	175-177	11_QUEST_clinical_caseMIR	SENT1	-	-
+26	comienzo	comienzo	NCMS000	C1276802_1	calificador_1	178-186	11_QUEST_clinical_caseMIR	SENT1	-	-
+27	brusco	brusco	NC00SC0	C1276802_2	calificador_2	187-193	11_QUEST_clinical_caseMIR	SENT1	-	-
+28	.	.	Fp	-	-	193-194	11_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	195-197	11_QUEST_clinical_caseMIR	SENT2	-	-
+2	TA	ta	NC00YL0	-	-	198-200	11_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	201-203	11_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	204-206	11_QUEST_clinical_caseMIR	SENT2	-	-
+5	110/80	110/80	Z	-	-	207-213	11_QUEST_clinical_caseMIR	SENT2	-	-
+6	mmHg	mmHg	NCMP000	-	-	214-218	11_QUEST_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	218-219	11_QUEST_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	220-222	11_QUEST_clinical_caseMIR	SENT2	-	-
+9	pulso	pulso	NCMS000	C0391850	función	223-228	11_QUEST_clinical_caseMIR	SENT2	-	-
+10	es	ser	VSIP3S0	-	-	229-231	11_QUEST_clinical_caseMIR	SENT2	-	-
+11	regular	regular	AQ0CS0	C0205272	calificador	232-239	11_QUEST_clinical_caseMIR	SENT2	-	-
+12	a	a	SPS00	-	-	240-241	11_QUEST_clinical_caseMIR	SENT2	-	-
+13	195	195		-	-	242-245	11_QUEST_clinical_caseMIR	SENT2	-	-
+14	Ipm	ipm	NCMS000	-	-	246-249	11_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	250-251	11_QUEST_clinical_caseMIR	SENT2	-	-
+16	la	el	DA0FS0	-	-	252-254	11_QUEST_clinical_caseMIR	SENT2	-	-
+17	saturación	saturación	NCFS000	-	-	255-265	11_QUEST_clinical_caseMIR	SENT2	-	-
+18	arterial	arterial	AQ0CS0	C0221464	calificador	266-274	11_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	de	de	SPS00	C0332285	atributo	275-277	11_QUEST_clinical_caseMIR	SENT2	-	-
+20	02	02		-	-	278-280	11_QUEST_clinical_caseMIR	SENT2	-	-
+21	,	,	Fc	-	-	280-281	11_QUEST_clinical_caseMIR	SENT2	-	-
+22	respirando	respirar	VMG0000	-	-	282-292	11_QUEST_clinical_caseMIR	SENT2	-	-
+23	aire	aire	NCMS000	C0001861	sustancia	293-297	11_QUEST_clinical_caseMIR	SENT2	-	-
+24	ambiente	ambiente	NCMS000	-	-	298-306	11_QUEST_clinical_caseMIR	SENT2	-	-
+25	,	,	Fc	-	-	306-307	11_QUEST_clinical_caseMIR	SENT2	-	-
+26	es	ser	VSIP3S0	-	-	308-310	11_QUEST_clinical_caseMIR	SENT2	-	-
+27	de	de	SPS00	C0332285	atributo	311-313	11_QUEST_clinical_caseMIR	SENT2	-	-
+28	96	96	Z	-	-	314-316	11_QUEST_clinical_caseMIR	SENT2	-	-
+29	%	%	Ft	-	-	316-317	11_QUEST_clinical_caseMIR	SENT2	-	-
+30	.	.	Fp	-	-	317-318	11_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	319-321	11_QUEST_clinical_caseMIR	SENT3	-	-
+2	ECG	ecg	NC00YL0	C1623258	procedimiento	322-325	11_QUEST_clinical_caseMIR	SENT3	-	-
+3	muestra	mostrar	VMIP3S0	-	-	326-333	11_QUEST_clinical_caseMIR	SENT3	-	-
+4	una	una		C0205447_1	calificador_1	334-337	11_QUEST_clinical_caseMIR	SENT3	-	-
+5	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	338-349	11_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	regular	regular	AQ0CS0	C0205272	calificador	350-357	11_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+7	de	de	SPS00	C0332285	atributo	358-360	11_QUEST_clinical_caseMIR	SENT3	-	-
+8	QRS	qrs	NC00YL0	-	-	361-364	11_QUEST_clinical_caseMIR	SENT3	-	-
+9	estrecho	estrecho	AQ0MS0	-	-	365-373	11_QUEST_clinical_caseMIR	SENT3	-	-
+10	a	a	SPS00	-	-	374-375	11_QUEST_clinical_caseMIR	SENT3	-	-
+11	195	195		-	-	376-379	11_QUEST_clinical_caseMIR	SENT3	-	-
+12	Ipm	ipm	NCMS000	-	-	380-383	11_QUEST_clinical_caseMIR	SENT3	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	384-386	11_QUEST_clinical_caseMIR	SENT3	-	-
+14	la	el	DA0FS0	-	-	387-389	11_QUEST_clinical_caseMIR	SENT3	-	-
+15	que	que	PR0CN000	-	-	390-393	11_QUEST_clinical_caseMIR	SENT3	-	-
+16	no	no	RN	C1298908	calificador	394-396	11_QUEST_clinical_caseMIR	SENT3	-	-
+17	es	ser	VSIP3S0	-	-	397-399	11_QUEST_clinical_caseMIR	SENT3	-	-
+18	discernible	discernible	AQ0CS0	C0205396	calificador	400-411	11_QUEST_clinical_caseMIR	SENT3	-	-
+19	la	el	DA0FS0	-	-	412-414	11_QUEST_clinical_caseMIR	SENT3	-	-
+20	onda	onda	NCFS000	-	-	415-419	11_QUEST_clinical_caseMIR	SENT3	-	-
+21	P.	p.	AQ0CS00	-	-	420-422	11_QUEST_clinical_caseMIR	SENT3	-	-
+22	¿	¿	Fia	-	-	423-424	11_QUEST_clinical_caseMIR	SENT3	-	-
+23	Cual	cual	PR0CS000	-	-	424-428	11_QUEST_clinical_caseMIR	SENT3	-	-
+24	sería	ser	VSIC1S0	-	-	429-434	11_QUEST_clinical_caseMIR	SENT3	-	-
+25	el	el	DA0MS0	-	-	435-437	11_QUEST_clinical_caseMIR	SENT3	-	-
+26	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	438-449	11_QUEST_clinical_caseMIR	SENT3	-	-
+27	de	de	SPS00	C0332285	atributo	450-452	11_QUEST_clinical_caseMIR	SENT3	-	-
+28	primera	1	AO0FS0	-	-	453-460	11_QUEST_clinical_caseMIR	SENT3	-	-
+29	elección	elección	NCFS000	-	-	461-469	11_QUEST_clinical_caseMIR	SENT3	-	-
+30	?	?	Fit	-	-	469-470	11_QUEST_clinical_caseMIR	SENT3	-	-
+31	:	:	Fd	-	-	470-471	11_QUEST_clinical_caseMIR	SENT3	-	-
+32	.	.	Fp	-	-	471-472	11_QUEST_clinical_caseMIR	SENT3	-	-
+

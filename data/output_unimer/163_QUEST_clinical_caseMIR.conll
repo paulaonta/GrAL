@@ -1,0 +1,47 @@
+1	La	el	DA0FS0	-	-	0-2	163_QUEST_clinical_caseMIR	SENT1	-	-
+2	asociación	asociación	NCFS000	C0004083	atributo	3-13	163_QUEST_clinical_caseMIR	SENT1	-	-
+3	,	,	Fc	-	-	13-14	163_QUEST_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	15-17	163_QUEST_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	18-21	163_QUEST_clinical_caseMIR	SENT1	-	-
+6	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	22-27	163_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	28-30	163_QUEST_clinical_caseMIR	SENT1	-	-
+8	42	42		-	-	31-33	163_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	34-38	163_QUEST_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	38-39	163_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	40-42	163_QUEST_clinical_caseMIR	SENT1	-	-
+12	una	una		C0205447_1	calificador_1	43-46	163_QUEST_clinical_caseMIR	SENT1	-	-
+13	parálisis	parálisis	NCFN000	C0522224#C0553727	hallazgo	47-56	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0332285	atributo	57-59	163_QUEST_clinical_caseMIR	SENT1	-	-
+15	IX	ix	NCMN000	-	-	60-62	163_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	y	y	CC	C1706368	calificador	63-64	163_QUEST_clinical_caseMIR	SENT1	-	-
+17	X	x	NCFS000	-	-	65-66	163_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	pares	par	AQ0CP0	-	-	67-72	163_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	craneales	craneal	AQ0CP0	C0205096#C3163631	calificador	73-82	163_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	izquierdos	izquierdo	AQ0MP0	C0205091	calificador	83-93	163_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	(	(	Fpa	-	-	94-95	163_QUEST_clinical_caseMIR	SENT1	-	-
+22	disfonía	disfonía	NCFS000	C1527347#C1527344#C1527340#C0042940	trastorno	95-103	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	y	y	CC	C1706368	calificador	104-105	163_QUEST_clinical_caseMIR	SENT1	-	-
+24	disfagia	disfagia	NCFS000	C0232520#C0011168	hallazgo#trastorno	106-114	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	)	)	Fpt	-	-	114-115	163_QUEST_clinical_caseMIR	SENT1	-	-
+26	con	con	SPS00	C0332287	atributo	116-119	163_QUEST_clinical_caseMIR	SENT1	-	-
+27	acufenos	acufenos	NCMP000	-	-	120-128	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	pulsátiles	pulsátil	AQ0CP0	C0439606	calificador	129-139	163_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	140-142	163_QUEST_clinical_caseMIR	SENT1	-	-
+30	el	el	DA0MS0	-	-	143-145	163_QUEST_clinical_caseMIR	SENT1	-	-
+31	oído	oír	VMP00SM	C0229299_1	estructura_corporal_1	146-150	163_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	izquierdo	izquierdo	NC00SC0	C0229299_2	estructura_corporal_2	151-160	163_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+33	,	,	Fc	-	-	160-161	163_QUEST_clinical_caseMIR	SENT1	-	-
+34	debe	deber	VMIP3S0	-	-	162-166	163_QUEST_clinical_caseMIR	SENT1	-	-
+35	hacer	hacer	VMN0000	-	-	167-172	163_QUEST_clinical_caseMIR	SENT1	-	-
+36	descartar	descartar	VMN0000	C0332196	calificador	173-182	163_QUEST_clinical_caseMIR	SENT1	-	-
+37	en	en	SPS00	C1279901_1	calificador_1	183-185	163_QUEST_clinical_caseMIR	SENT1	-	-
+38	primer	1	AO0MS0	C1279901_2	calificador_2	186-192	163_QUEST_clinical_caseMIR	SENT1	-	-
+39	lugar	lugar	NCMS000	C1279901_3	calificador_3	193-198	163_QUEST_clinical_caseMIR	SENT1	-	-
+40	una	una		C0205447_1	calificador_1	199-202	163_QUEST_clinical_caseMIR	SENT1	-	-
+41	de	de	SPS00	C0332285	atributo	203-205	163_QUEST_clinical_caseMIR	SENT1	-	-
+42	las	el	DA0FP0	-	-	206-209	163_QUEST_clinical_caseMIR	SENT1	-	-
+43	siguientes	siguiente	AQ0CP0	C0332282	atributo	210-220	163_QUEST_clinical_caseMIR	SENT1	-	-
+44	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	221-233	163_QUEST_clinical_caseMIR	SENT1	-	-
+45	:	:	Fd	-	-	233-234	163_QUEST_clinical_caseMIR	SENT1	-	-
+46	.	.	Fp	-	-	234-235	163_QUEST_clinical_caseMIR	SENT1	-	-
+

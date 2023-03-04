@@ -1,0 +1,51 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	194_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	194_QUEST_clinical_caseMIR	SENT1	-	-
+3	82	82		-	-	9-11	194_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	194_QUEST_clinical_caseMIR	SENT1	-	-
+5	hipertensa	hipertenso	AQ0FS0	-	-	17-27	194_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	28-30	194_QUEST_clinical_caseMIR	SENT1	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	31-42	194_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	43-46	194_QUEST_clinical_caseMIR	SENT1	-	-
+9	atenolol	atenolol	NCMS000	C0004147	producto#sustancia	47-55	194_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	,	,	Fc	-	-	55-56	194_QUEST_clinical_caseMIR	SENT1	-	-
+11	hidroclorotiazida	hidroclorotiazida	NCMS000	C0020261	producto#sustancia	57-74	194_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	y	y	CC	C1706368	calificador	75-76	194_QUEST_clinical_caseMIR	SENT1	-	-
+13	digoxina	digoxina	NC00SC0	C0012265	sustancia	77-85	194_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	85-86	194_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	87-92	194_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	93-94	194_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	95-104	194_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	105-108	194_QUEST_clinical_caseMIR	SENT2	-	-
+5	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	109-120	194_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	auricular	auricular	NCMS000	C0004238_2	trastorno_2	121-130	194_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	y	y	CC	C1706368	calificador	131-132	194_QUEST_clinical_caseMIR	SENT2	-	-
+8	se	se	P00CN000	-	-	133-135	194_QUEST_clinical_caseMIR	SENT2	-	-
+9	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	136-138	194_QUEST_clinical_caseMIR	SENT2	-	-
+10	administra	administrar	VMIP3S0	C1621583	calificador	139-149	194_QUEST_clinical_caseMIR	SENT2	-	-
+11	verapamil	verapamil	AQ0CS00	-	-	150-159	194_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+12	i.v.	i.v.	NCFS000	C1522726	calificador	160-164	194_QUEST_clinical_caseMIR	SENT2	-	-
+13	Se	se	P00CN000	-	-	165-167	194_QUEST_clinical_caseMIR	SENT2	-	-
+14	evidencia	evidenciar	VMIP3S0	-	-	168-177	194_QUEST_clinical_caseMIR	SENT2	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	178-180	194_QUEST_clinical_caseMIR	SENT2	-	-
+16	ECG	ecg	NC00YL0	C1623258	procedimiento	181-184	194_QUEST_clinical_caseMIR	SENT2	-	-
+17	bloqueo	bloqueo	NCMS000	C0151517_1	trastorno_1	185-192	194_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	auriculoventricular	auriculoventricular	AQ0CS0	C0151517_2	trastorno_2	193-212	194_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	completo	completo	NC00SC0	C0151517_3	trastorno_3	213-221	194_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+20	.	.	Fp	-	-	221-222	194_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	223-224	194_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	224-228	194_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	229-231	194_QUEST_clinical_caseMIR	SENT3	-	-
+4	la	el	DA0FS0	-	-	232-234	194_QUEST_clinical_caseMIR	SENT3	-	-
+5	causa	causa	NCFS000	-	-	235-240	194_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	241-244	194_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	245-253	194_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	254-256	194_QUEST_clinical_caseMIR	SENT3	-	-
+9	esta	este	DD0FS0	-	-	257-261	194_QUEST_clinical_caseMIR	SENT3	-	-
+10	situación	situación	NCFS000	-	-	262-271	194_QUEST_clinical_caseMIR	SENT3	-	-
+11	clínica	clínico	AQ0FS0	C0205210	calificador	272-279	194_QUEST_clinical_caseMIR	SENT3	-	-
+12	?	?	Fit	-	-	279-280	194_QUEST_clinical_caseMIR	SENT3	-	-
+13	:	:	Fd	-	-	280-281	194_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	281-282	194_QUEST_clinical_caseMIR	SENT3	-	-
+

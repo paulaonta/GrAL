@@ -1,0 +1,42 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	73_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	73_QUEST_clinical_caseMIR	SENT1	-	-
+3	78	78		-	-	12-14	73_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	73_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	20-33	73_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	34-36	73_QUEST_clinical_caseMIR	SENT1	-	-
+7	miocardiopatía	miocardiopatía	NCFS000	C0878544	trastorno	37-51	73_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	dilatada	dilatar	VMP00SF	-	-	52-60	73_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	idiopática	idiopático	AQ0FS0	C0332240	calificador	61-71	73_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	con	con	SPS00	C0332287	atributo	72-75	73_QUEST_clinical_caseMIR	SENT1	-	-
+11	disfunción	disfunción	NCFS000	C0277785	hallazgo	76-86	73_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	ventricular	ventricular	AQ0CS0	-	-	87-98	73_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	izquierda	izquierda	NCFS000	-	-	99-108	73_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+14	ligera	ligero	AQ0FS0	-	-	109-115	73_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	(	(	Fpa	-	-	116-117	73_QUEST_clinical_caseMIR	SENT1	-	-
+16	fracción	fracción	NCFS000	C1264633_1	calificador_1	117-125	73_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C1264633_2	calificador_2	126-128	73_QUEST_clinical_caseMIR	SENT1	-	-
+18	eyección	eyección	NCFS000	C0336969	calificador	129-137	73_QUEST_clinical_caseMIR	SENT1	-	-
+19	48	48	Z	-	-	138-140	73_QUEST_clinical_caseMIR	SENT1	-	-
+20	%	%	Ft	-	-	140-141	73_QUEST_clinical_caseMIR	SENT1	-	-
+21	)	)	Fpt	-	-	141-142	73_QUEST_clinical_caseMIR	SENT1	-	-
+22	y	y	CC	C1706368	calificador	143-144	73_QUEST_clinical_caseMIR	SENT1	-	-
+23	fibrilación	fibrilación	NCFS000	C0694539_1	trastorno_1	145-156	73_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	auricular	auricular	NCMS000	C0694539_2	trastorno_2	157-166	73_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	crónica	crónico	AQ0FS0	C0694539_3	trastorno_3	167-174	73_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	.	.	Fp	-	-	174-175	73_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	176-177	73_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	177-181	73_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	182-184	73_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	185-188	73_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	189-199	73_QUEST_clinical_caseMIR	SENT2	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	200-208	73_QUEST_clinical_caseMIR	SENT2	-	-
+7	debería	deber	VMIC3S0	-	-	209-216	73_QUEST_clinical_caseMIR	SENT2	-	-
+8	ser	ser	VSN0000	-	-	217-220	73_QUEST_clinical_caseMIR	SENT2	-	-
+9	evitado	evitar	VMP00SM	-	-	221-228	73_QUEST_clinical_caseMIR	SENT2	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	229-231	73_QUEST_clinical_caseMIR	SENT2	-	-
+11	su	su	DP3CS0	-	-	232-234	73_QUEST_clinical_caseMIR	SENT2	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	235-246	73_QUEST_clinical_caseMIR	SENT2	-	-
+13	?	?	Fit	-	-	246-247	73_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	247-248	73_QUEST_clinical_caseMIR	SENT2	-	-
+

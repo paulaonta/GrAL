@@ -1,0 +1,27 @@
+1	Quimioprofilaxis	quimioprofilaxis	NC00SC0	C0282515	procedimiento	0-16	41(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	con	con	SPS00	C0332287	atributo	17-20	41(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	INH	inhalatorio	NC00YL0	-	-	21-24	41(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	6-9	6-9		-	-	25-28	41(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	meses	mes	NCMP000	C0439231	calificador	29-34	41(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	.	.	Fp	-	-	34-35	41(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Nueva	nuevo	AQ0FS0	C0205314	calificador	36-41	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	PT	pt	NC00YL0	-	-	42-44	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	y	y	CC	C1706368	calificador	45-46	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	Rx	radiografía	NC00YL0	C1306645	procedimiento	47-49	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	tórax	tórax	NCMN000	C1269614#C0449208#C0817096	estructura_corporal	50-55	41(3)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	al	al	SP+DA	-	-	56-58	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+7	finalizar	finalizar	VMN0000	-	-	59-68	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	lo	lo	PP3CNA00	-	-	68-70	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+9	,	,	Fc	-	-	70-71	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+10	para	para	SPS00	C0521125	calificador	72-76	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+11	decidir	decidir	VMN0000	-	-	77-84	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+12	si	si	CS	-	-	85-87	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+13	concluir	concluir	VMN0000	-	-	88-96	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+14	o	o	CC	-	-	97-98	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+15	no	no	RN	C1298908	calificador	99-101	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+16	,	,	Fc	-	-	101-102	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+17	el	el	DA0MS0	-	-	103-105	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	106-117	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	118-119	41(3)_ANS_clinical_caseMIR	SENT2	-	-
+

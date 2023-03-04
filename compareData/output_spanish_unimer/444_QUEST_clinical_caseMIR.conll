@@ -1,0 +1,39 @@
+1	Ante	ante	SPS00	-	-	0-4	444_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	5-7	444_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	444_QUEST_clinical_caseMIR	SENT1	-	-
+4	que	que	PR0CN000	-	-	17-20	444_QUEST_clinical_caseMIR	SENT1	-	-
+5	presenta	presentar	VMIP3S0	-	-	21-29	444_QUEST_clinical_caseMIR	SENT1	-	-
+6	una	una		C0205447_1	calificador_1	30-33	444_QUEST_clinical_caseMIR	SENT1	-	-
+7	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	34-40	444_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	úlcerovegetante	úlcerovegetante	AQ0CS00	-	-	41-56	444_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	444_QUEST_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	60-62	444_QUEST_clinical_caseMIR	SENT1	-	-
+11	encía	encía	NCFS000	C0017562#C1278912	estructura_corporal	63-68	444_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	mandibular	mandibular	AQ0CS0	-	-	69-79	444_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+13	a	a	SPS00	-	-	80-81	444_QUEST_clinical_caseMIR	SENT1	-	-
+14	nivel	nivel	NCMS000	C0456079	atributo	82-87	444_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	88-90	444_QUEST_clinical_caseMIR	SENT1	-	-
+16	la	el	DA0FS0	-	-	91-93	444_QUEST_clinical_caseMIR	SENT1	-	-
+17	región	región	NCFS000	C0205147	atributo#calificador	94-100	444_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	de	de	SPS00	C0332285	atributo	101-103	444_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+19	los	el	DA0MP0	-	-	104-107	444_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	molares	molar	NCMP000	C0227080	estructura_corporal	108-115	444_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	de	de	SPS00	C0332285	atributo	116-118	444_QUEST_clinical_caseMIR	SENT1	-	-
+22	5	5		-	-	119-120	444_QUEST_clinical_caseMIR	SENT1	-	-
+23	meses	mes	NCMP000	C0439231	calificador	121-126	444_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	127-129	444_QUEST_clinical_caseMIR	SENT1	-	-
+25	evolución	evolución	NCFS000	-	-	130-139	444_QUEST_clinical_caseMIR	SENT1	-	-
+26	,	,	Fc	-	-	139-140	444_QUEST_clinical_caseMIR	SENT1	-	-
+27	la	el	DA0FS0	-	-	141-143	444_QUEST_clinical_caseMIR	SENT1	-	-
+28	aparición	aparición	NCFS000	-	-	144-153	444_QUEST_clinical_caseMIR	SENT1	-	-
+29	de	de	SPS00	C0332285	atributo	154-156	444_QUEST_clinical_caseMIR	SENT1	-	-
+30	hipoestesia	hipoestesia	NC00SC0	C0020580#C0028643	hallazgo	157-168	444_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	169-171	444_QUEST_clinical_caseMIR	SENT1	-	-
+32	la	el	DA0FS0	-	-	172-174	444_QUEST_clinical_caseMIR	SENT1	-	-
+33	región	región	NCFS000	C0205147	atributo#calificador	175-181	444_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+34	mentoniana	mentoniano	AQ0FS0	-	-	182-192	444_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+35	requiere	requerir	VMIP3S0	-	-	193-201	444_QUEST_clinical_caseMIR	SENT1	-	-
+36	descartar	descartar	VMN0000	C0332196	calificador	202-211	444_QUEST_clinical_caseMIR	SENT1	-	-
+37	:	:	Fd	-	-	211-212	444_QUEST_clinical_caseMIR	SENT1	-	-
+38	.	.	Fp	-	-	212-213	444_QUEST_clinical_caseMIR	SENT1	-	-
+

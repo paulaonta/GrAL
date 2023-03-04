@@ -1,0 +1,33 @@
+1	Se	se	P00CN000	-	-	0-2	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	3-5	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	debería	deber	VMIC3S0	-	-	6-13	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	ingresar	ingresar	VMN0000	-	-	14-22	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	22-23	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	hacer	hacer	VMN0000	-	-	24-29	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	29-31	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	32-34	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	Holter	holter	AQ0CN00	-	-	35-41	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	electrocardiográfico	electrocardiógrafo	NCMS00V	-	-	42-62	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	63-65	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	24	24	Z	-	-	66-68	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	h	h	NCMN000	C0439227	calificador	69-70	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	y	y	CC	C1706368	calificador	71-72	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	73-75	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	función	función	NCFS000	C0542341	entidad_observable#atributo	76-83	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	84-86	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	su	su	DP3CS0	-	-	87-89	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	90-99	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	,	,	Fc	-	-	99-100	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	decidir	decidir	VMN0000	-	-	101-108	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	si	si	CS	-	-	109-111	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	poner	poner	VMN0000	-	-	112-117	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	117-119	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	un	un		C0205447_1	calificador_1	120-122	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	Holter	holter	NCMS000	-	-	123-129	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+27	insertable	insertable	AQ0CS00	-	-	130-140	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+28	o	o	CC	-	-	141-142	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+29	un	un		C0205447_1	calificador_1	143-145	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+30	marcapasos	marcapasos	NCMN000	-	-	146-156	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+31	definitivo	definitivo	AQ0MS0	C0443196	calificador	157-167	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+32	.	.	Fp	-	-	168-169	566(0)_ANS_clinical_caseMIR	SENT1	-	-
+

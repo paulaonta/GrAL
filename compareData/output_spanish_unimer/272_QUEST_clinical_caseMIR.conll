@@ -1,0 +1,60 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	272_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	272_QUEST_clinical_caseMIR	SENT1	-	-
+3	25	25		-	-	10-12	272_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	272_QUEST_clinical_caseMIR	SENT1	-	-
+5	sin	sin	SPS00	C0332122_1	calificador_1	18-21	272_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	22-34	272_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332122_3	calificador_3	35-37	272_QUEST_clinical_caseMIR	SENT1	-	-
+8	interés	interés	NCMS000	-	-	38-45	272_QUEST_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	46-49	272_QUEST_clinical_caseMIR	SENT1	-	-
+10	acude	acudir	VMIP3S0	-	-	50-55	272_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	56-57	272_QUEST_clinical_caseMIR	SENT1	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	58-67	272_QUEST_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	68-71	272_QUEST_clinical_caseMIR	SENT1	-	-
+14	fiebre	fiebre	NCFS000	C0015967	hallazgo	72-78	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	,	,	Fc	-	-	78-79	272_QUEST_clinical_caseMIR	SENT1	-	-
+16	cefalea	cefalea	NCFS000	C0018681	hallazgo	80-87	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	,	,	Fc	-	-	87-88	272_QUEST_clinical_caseMIR	SENT1	-	-
+18	mialgias	mialgia	NCFP000	C0231528	hallazgo	89-97	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	,	,	Fc	-	-	97-98	272_QUEST_clinical_caseMIR	SENT1	-	-
+20	náuseas	náusea	NCFP000	-	-	99-106	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	,	,	Fc	-	-	106-107	272_QUEST_clinical_caseMIR	SENT1	-	-
+22	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	108-115	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	,	,	Fc	-	-	115-116	272_QUEST_clinical_caseMIR	SENT1	-	-
+24	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	117-122	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	123-132	272_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	,	,	Fc	-	-	132-133	272_QUEST_clinical_caseMIR	SENT1	-	-
+27	ictericia	ictericia	NCFS000	C0022346	hallazgo	134-143	272_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	e	y	CC	C1706368	calificador	144-145	272_QUEST_clinical_caseMIR	SENT1	-	-
+29	inyección	inyección	NCFS000	C1761613_1	hallazgo_1	146-155	272_QUEST_clinical_caseMIR	SENT1	-	-
+30	conjuntival	conjuntival	AQ0CS0	C1761613_2	hallazgo_2	156-167	272_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	,	,	Fc	-	-	167-168	272_QUEST_clinical_caseMIR	SENT1	-	-
+32	2	2		-	-	169-170	272_QUEST_clinical_caseMIR	SENT1	-	-
+33	semanas	semana	NCFP000	C0439230	calificador	171-178	272_QUEST_clinical_caseMIR	SENT1	-	-
+34	después	después	RG	C0231290	atributo	179-186	272_QUEST_clinical_caseMIR	SENT1	-	-
+35	de	de	SPS00	C0332285	atributo	187-189	272_QUEST_clinical_caseMIR	SENT1	-	-
+36	haber	haber	VAN0000	-	-	190-195	272_QUEST_clinical_caseMIR	SENT1	-	-
+37	viajado	viajar	VMP00SM	C0040802	entidad_observable	196-203	272_QUEST_clinical_caseMIR	SENT1	-	-
+38	a	a	SPS00	-	-	204-205	272_QUEST_clinical_caseMIR	SENT1	-	-
+39	Thailandia	thailandia	NCFS000	-	-	206-216	272_QUEST_clinical_caseMIR	SENT1	-	-
+40	para	para	SPS00	C0521125	calificador	217-221	272_QUEST_clinical_caseMIR	SENT1	-	-
+41	participar	participar	VMN0000	-	-	222-232	272_QUEST_clinical_caseMIR	SENT1	-	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	233-235	272_QUEST_clinical_caseMIR	SENT1	-	-
+43	una	una		C0205447_1	calificador_1	236-239	272_QUEST_clinical_caseMIR	SENT1	-	-
+44	regata	regata	NCFS000	-	-	240-246	272_QUEST_clinical_caseMIR	SENT1	-	-
+45	en	en	SPS00	C1720294#C0332285	calificador#atributo	247-249	272_QUEST_clinical_caseMIR	SENT1	-	-
+46	agua	aguar	VMM02S0	C0016710_1	sustancia_1	250-254	272_QUEST_clinical_caseMIR	SENT1	-	-
+47	dulce	dulce	NCMS000	C0016710_2	sustancia_2	255-260	272_QUEST_clinical_caseMIR	SENT1	-	-
+48	.	.	Fp	-	-	260-261	272_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	262-263	272_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	263-267	272_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	268-270	272_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	271-273	272_QUEST_clinical_caseMIR	SENT2	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	274-285	272_QUEST_clinical_caseMIR	SENT2	-	-
+6	más	más	RG	C0205172	calificador	286-289	272_QUEST_clinical_caseMIR	SENT2	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	290-298	272_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	298-299	272_QUEST_clinical_caseMIR	SENT2	-	-
+9	:	:	Fd	-	-	299-300	272_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	300-301	272_QUEST_clinical_caseMIR	SENT2	-	-
+

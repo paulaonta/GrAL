@@ -1,0 +1,79 @@
+1	A	a	SPS00	-	-	0-1	278_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	2-4	278_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	5-13	278_QUEST_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	14-17	278_QUEST_clinical_caseMIR	SENT1	-	-
+5	colitis	colitis	NCFN000	C0009324#C2919828_1	trastorno_1	18-25	278_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	ulcerosa	ulceroso	AQ0FS0	C0009324#C2919828_2	trastorno_2	26-34	278_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+7	con	con	SPS00	C0332287	atributo	35-38	278_QUEST_clinical_caseMIR	SENT1	-	-
+8	afectación	afectación	NCFS000	-	-	39-49	278_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	hasta	hasta	SPS00	-	-	50-55	278_QUEST_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	56-58	278_QUEST_clinical_caseMIR	SENT1	-	-
+11	colon	colon	NCMS000	C1284438#C0227386_1	estructura_corporal_1	59-64	278_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	transverso	transverso	NC00SC0	C1284438#C0227386_2	estructura_corporal_2	65-75	278_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+13	se	se	P00CN000	-	-	76-78	278_QUEST_clinical_caseMIR	SENT1	-	-
+14	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	79-81	278_QUEST_clinical_caseMIR	SENT1	-	-
+15	realiza	realizar	VMIP3S0	-	-	82-89	278_QUEST_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	90-93	278_QUEST_clinical_caseMIR	SENT1	-	-
+17	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	94-106	278_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	107-109	278_QUEST_clinical_caseMIR	SENT1	-	-
+19	cribado	cribar	VMP00SM	-	-	110-117	278_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	118-120	278_QUEST_clinical_caseMIR	SENT1	-	-
+21	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	121-127	278_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	colorrectal	colorrectal	NC00SC0	C0555952	calificador	128-139	278_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	.	.	Fp	-	-	139-140	278_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	141-143	278_QUEST_clinical_caseMIR	SENT2	-	-
+2	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	144-156	278_QUEST_clinical_caseMIR	SENT2	-	-
+3	no	no	RN	C1298908	calificador	157-159	278_QUEST_clinical_caseMIR	SENT2	-	-
+4	muestra	mostrar	VMIP3S0	-	-	160-167	278_QUEST_clinical_caseMIR	SENT2	-	-
+5	signos	signo	NCMP000	C0311392	hallazgo	168-174	278_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	175-177	278_QUEST_clinical_caseMIR	SENT2	-	-
+7	actividad	actividad	NCFS000	C0441655	entidad_observable	178-187	278_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+8	inflamatoria	inflamatorio	AQ0FS0	C0333348	calificador	188-200	278_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+9	.	.	Fp	-	-	200-201	278_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	202-204	278_QUEST_clinical_caseMIR	SENT3	-	-
+2	realizaron	realizar	VMIS3P0	-	-	205-215	278_QUEST_clinical_caseMIR	SENT3	-	-
+3	múltiples	múltiple	AQ0CP0	C0439064	calificador	216-225	278_QUEST_clinical_caseMIR	SENT3	-	-
+4	biopsias	biopsia	NCFP000	C0005558	procedimiento#calificador	226-234	278_QUEST_clinical_caseMIR	SENT3	-	-
+5	cada	cada	DI0CS0	C1457900	calificador	235-239	278_QUEST_clinical_caseMIR	SENT3	-	-
+6	10	10	Z	-	-	240-242	278_QUEST_clinical_caseMIR	SENT3	-	-
+7	cm	cm	NCMN000	-	-	243-245	278_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	245-246	278_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Las	el	DA0FP0	-	-	247-250	278_QUEST_clinical_caseMIR	SENT4	-	-
+2	biopsias	biopsia	NCFP000	C0005558	procedimiento#calificador	251-259	278_QUEST_clinical_caseMIR	SENT4	-	-
+3	fueron	ser	VSIS3P0	-	-	260-266	278_QUEST_clinical_caseMIR	SENT4	-	-
+4	revisadas	revisar	VMP00PF	-	-	267-276	278_QUEST_clinical_caseMIR	SENT4	-	-
+5	por	por	SPS00	C0678226	atributo	277-280	278_QUEST_clinical_caseMIR	SENT4	-	-
+6	2	2		-	-	281-282	278_QUEST_clinical_caseMIR	SENT4	-	-
+7	patólogos	patólogo	NCMP000	-	-	283-292	278_QUEST_clinical_caseMIR	SENT4	-	-
+8	expertos	experto	AQ0MP0	-	-	293-301	278_QUEST_clinical_caseMIR	SENT4	-	-
+9	demostrando	demostrar	VMG0000	-	-	302-313	278_QUEST_clinical_caseMIR	SENT4	-	-
+10	un	un		C0205447_1	calificador_1	314-316	278_QUEST_clinical_caseMIR	SENT4	-	-
+11	foco	foco	NCMS000	-	-	317-321	278_QUEST_clinical_caseMIR	SENT4	-	-
+12	de	de	SPS00	C0332285	atributo	322-324	278_QUEST_clinical_caseMIR	SENT4	-	-
+13	displasia	displasia	NCFS000	C0334044#C1279612	anomalía_morfológica	325-334	278_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0332285	atributo	335-337	278_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+15	alto	alto	NCMS000	C0205082_1	calificador_1	338-342	278_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+16	grado	grado	NCMS000	C0205082_2	calificador_2	343-348	278_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	349-351	278_QUEST_clinical_caseMIR	SENT4	-	-
+18	una	una		C0205447_1	calificador_1	352-355	278_QUEST_clinical_caseMIR	SENT4	-	-
+19	de	de	SPS00	C0332285	atributo	356-358	278_QUEST_clinical_caseMIR	SENT4	-	-
+20	las	el	DA0FP0	-	-	359-362	278_QUEST_clinical_caseMIR	SENT4	-	-
+21	biopsias	biopsia	NCFP000	C0005558	procedimiento#calificador	363-371	278_QUEST_clinical_caseMIR	SENT4	-	-
+22	realizadas	realizar	VMP00PF	-	-	372-382	278_QUEST_clinical_caseMIR	SENT4	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	383-385	278_QUEST_clinical_caseMIR	SENT4	-	-
+24	el	el	DA0MS0	-	-	386-388	278_QUEST_clinical_caseMIR	SENT4	-	-
+25	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	389-394	278_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+26	sigmoide	sigmoide	AQ0CS0	-	-	395-403	278_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+27	.	.	Fp	-	-	403-404	278_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	405-406	278_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	PT0CN000	-	-	406-409	278_QUEST_clinical_caseMIR	SENT5	-	-
+3	indicaría	indicar	VMIC3S0	-	-	410-419	278_QUEST_clinical_caseMIR	SENT5	-	-
+4	a	a	SPS00	-	-	420-421	278_QUEST_clinical_caseMIR	SENT5	-	-
+5	continuación	continuación	NCFS000	-	-	422-434	278_QUEST_clinical_caseMIR	SENT5	-	-
+6	?	?	Fit	-	-	434-435	278_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	435-436	278_QUEST_clinical_caseMIR	SENT5	-	-
+

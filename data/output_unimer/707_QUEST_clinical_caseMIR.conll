@@ -1,0 +1,76 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	707_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	707_QUEST_clinical_caseMIR	SENT1	-	-
+3	65	65		-	-	9-11	707_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	707_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	707_QUEST_clinical_caseMIR	SENT1	-	-
+6	hace	hacer	VMIP3S0	-	-	21-25	707_QUEST_clinical_caseMIR	SENT1	-	-
+7	3	3		-	-	26-27	707_QUEST_clinical_caseMIR	SENT1	-	-
+8	meses	mes	NCMP000	C0439231	calificador	28-33	707_QUEST_clinical_caseMIR	SENT1	-	-
+9	presentó	presentar	VMIS3S0	-	-	34-42	707_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	43-45	707_QUEST_clinical_caseMIR	SENT1	-	-
+11	cuadro	cuadro	NCMS000	-	-	46-52	707_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	53-55	707_QUEST_clinical_caseMIR	SENT1	-	-
+13	erupción	erupción	NCFS000	C0015230_1	anomalía_morfológica#trastorno_1	56-64	707_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	cutánea	cutáneo	AQ0FS0	C0015230_2	anomalía_morfológica#trastorno_2	65-72	707_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	vesicante	vesicante	AQ0CS0	-	-	73-82	707_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	sobre	sobre	SPS00	C1720294#C0205136	calificador	83-88	707_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	89-91	707_QUEST_clinical_caseMIR	SENT1	-	-
+18	dermatoma	dermatoma	NC00SC0	C0392338	estructura_corporal	92-101	707_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	D6	D6		-	-	102-104	707_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	105-112	707_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	,	,	Fc	-	-	112-113	707_QUEST_clinical_caseMIR	SENT1	-	-
+22	acompañado	acompañar	VMP00SM	-	-	114-124	707_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	125-127	707_QUEST_clinical_caseMIR	SENT1	-	-
+24	un	un		C0205447_1	calificador_1	128-130	707_QUEST_clinical_caseMIR	SENT1	-	-
+25	dolor	dolor	NCMS000	C0030193	hallazgo	131-136	707_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	muy	muy	RG	C0442824	calificador	137-140	707_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	intenso	intenso	AQ0MS0	C0205178	calificador	141-148	707_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+28	.	.	Fp	-	-	148-149	707_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	150-154	707_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	155-157	707_QUEST_clinical_caseMIR	SENT2	-	-
+3	formación	formación	NCFS000	-	-	158-167	707_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	168-170	707_QUEST_clinical_caseMIR	SENT2	-	-
+5	costras	costra	NCFP000	C0205204	anomalía_morfológica	171-178	707_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	,	,	Fc	-	-	178-179	707_QUEST_clinical_caseMIR	SENT2	-	-
+7	el	el	DA0MS0	-	-	180-182	707_QUEST_clinical_caseMIR	SENT2	-	-
+8	cuadro	cuadro	NCMS000	-	-	183-189	707_QUEST_clinical_caseMIR	SENT2	-	-
+9	se	se	P00CN000	-	-	190-192	707_QUEST_clinical_caseMIR	SENT2	-	-
+10	resolvió	resolver	VMIS3S0	-	-	193-201	707_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	201-202	707_QUEST_clinical_caseMIR	SENT2	-	-
+12	pero	pero	CC	-	-	203-207	707_QUEST_clinical_caseMIR	SENT2	-	-
+13	persiste	persistir	VMIP3S0	-	-	208-216	707_QUEST_clinical_caseMIR	SENT2	-	-
+14	dolor	dolor	NCMS000	C0278139_1	hallazgo_1	217-222	707_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	moderado	moderar	VMP00SM	C0278139_2	hallazgo_2	223-231	707_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+16	que	que	PR0CN000	-	-	232-235	707_QUEST_clinical_caseMIR	SENT2	-	-
+17	se	se	P00CN000	-	-	236-238	707_QUEST_clinical_caseMIR	SENT2	-	-
+18	intensifica	intensificar	VMIP3S0	-	-	239-250	707_QUEST_clinical_caseMIR	SENT2	-	-
+19	al	al	SP+DA	-	-	251-253	707_QUEST_clinical_caseMIR	SENT2	-	-
+20	roce	roce	NCMS000	-	-	254-258	707_QUEST_clinical_caseMIR	SENT2	-	-
+21	y	y	CC	C1706368	calificador	259-260	707_QUEST_clinical_caseMIR	SENT2	-	-
+22	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	261-263	707_QUEST_clinical_caseMIR	SENT2	-	-
+23	impide	impedir	VMIP3S0	-	-	264-270	707_QUEST_clinical_caseMIR	SENT2	-	-
+24	el	el	DA0MS0	-	-	271-273	707_QUEST_clinical_caseMIR	SENT2	-	-
+25	uso	uso	NCMS000	C0457083#C1947944	atributo#calificador	274-277	707_QUEST_clinical_caseMIR	SENT2	-	-
+26	de	de	SPS00	C0332285	atributo	278-280	707_QUEST_clinical_caseMIR	SENT2	-	-
+27	ropa	ropa	NCFS000	C0453880_1	objeto_físico_1	281-285	707_QUEST_clinical_caseMIR	SENT2	-	-
+28	interior	interior	NCMS000	C0453880_2	objeto_físico_2	286-294	707_QUEST_clinical_caseMIR	SENT2	-	-
+29	sobre	sobre	SPS00	C1720294#C0205136	calificador	295-300	707_QUEST_clinical_caseMIR	SENT2	-	-
+30	el	el	DA0MS0	-	-	301-303	707_QUEST_clinical_caseMIR	SENT2	-	-
+31	dermatoma	dermatoma	NC00SC0	C0392338	estructura_corporal	304-313	707_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+32	afectado	afectar	VMP00SM	-	-	314-322	707_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+33	.	.	Fp	-	-	322-323	707_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	324-326	707_QUEST_clinical_caseMIR	SENT3	-	-
+2	esta	este	DD0FS0	-	-	327-331	707_QUEST_clinical_caseMIR	SENT3	-	-
+3	situación	situación	NCFS000	-	-	332-341	707_QUEST_clinical_caseMIR	SENT3	-	-
+4	¿	¿	Fia	-	-	342-343	707_QUEST_clinical_caseMIR	SENT3	-	-
+5	qué	qué	DT0CN0	-	-	343-346	707_QUEST_clinical_caseMIR	SENT3	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	347-358	707_QUEST_clinical_caseMIR	SENT3	-	-
+7	NO	no	RN	C1298908	calificador	359-361	707_QUEST_clinical_caseMIR	SENT3	-	-
+8	sería	ser	VSIC1S0	-	-	362-367	707_QUEST_clinical_caseMIR	SENT3	-	-
+9	recomendable	recomendable	AQ0CS0	-	-	368-380	707_QUEST_clinical_caseMIR	SENT3	-	-
+10	?	?	Fit	-	-	380-381	707_QUEST_clinical_caseMIR	SENT3	-	-
+11	:	:	Fd	-	-	381-382	707_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	382-383	707_QUEST_clinical_caseMIR	SENT3	-	-
+

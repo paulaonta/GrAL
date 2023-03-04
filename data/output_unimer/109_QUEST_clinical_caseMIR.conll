@@ -1,0 +1,88 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	109_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	109_QUEST_clinical_caseMIR	SENT1	-	-
+3	71	71		-	-	10-12	109_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	109_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	109_QUEST_clinical_caseMIR	SENT1	-	-
+6	camarero	camarero	NCMS000	-	-	19-27	109_QUEST_clinical_caseMIR	SENT1	-	-
+7	jubilado	jubilar	VMP00SM	-	-	28-36	109_QUEST_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	36-37	109_QUEST_clinical_caseMIR	SENT1	-	-
+9	no	no	RN	C0337672_1	estilo_de_vida_1	38-40	109_QUEST_clinical_caseMIR	SENT1	-	-
+10	fumador	fumador	NCMS000	C0337672_2	estilo_de_vida_2	41-48	109_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+11	,	,	Fc	-	-	48-49	109_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	50-53	109_QUEST_clinical_caseMIR	SENT1	-	-
+13	consulta	consultar	VMM02S0	C1704447_1	calificador_1	54-62	109_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C1704447_2	calificador_2	63-66	109_QUEST_clinical_caseMIR	SENT1	-	-
+15	ronquidos	ronquido	NCMP000	C0037384	hallazgo	67-76	109_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	nocturnos	nocturno	AQ0MP0	C0240526	calificador	77-86	109_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	.	.	Fp	-	-	86-87	109_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	88-90	109_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	91-99	109_QUEST_clinical_caseMIR	SENT2	-	-
+3	tiene	tener	VMIP3S0	-	-	100-105	109_QUEST_clinical_caseMIR	SENT2	-	-
+4	un	un		C0205447_1	calificador_1	106-108	109_QUEST_clinical_caseMIR	SENT2	-	-
+5	índice	índice	NCMS000	C1305855_1	entidad_observable_1	109-115	109_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C1305855_2	entidad_observable_2	116-118	109_QUEST_clinical_caseMIR	SENT2	-	-
+7	masa	masa	NCFS000	C1305855_3	entidad_observable_3	119-123	109_QUEST_clinical_caseMIR	SENT2	-	-
+8	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	124-132	109_QUEST_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0332285	atributo	133-135	109_QUEST_clinical_caseMIR	SENT2	-	-
+10	31,5	31,5		-	-	136-140	109_QUEST_clinical_caseMIR	SENT2	-	-
+11	Kg/m2	Kg/m2		-	-	141-146	109_QUEST_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	147-148	109_QUEST_clinical_caseMIR	SENT2	-	-
+13	refiere	referir	VMIP3S0	-	-	149-156	109_QUEST_clinical_caseMIR	SENT2	-	-
+14	ligera	ligero	AQ0FS0	-	-	157-163	109_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+15	somnolencia	somnolencia	NCFS000	C2219848_1	hallazgo_1	164-175	109_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	diurna	diurno	AQ0FS0	C2219848_2	hallazgo_2	176-182	109_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+17	postprandial	postprandial	AQ0CS00	-	-	183-195	109_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+18	(	(	Fpa	-	-	196-197	109_QUEST_clinical_caseMIR	SENT2	-	-
+19	Escala	escala	NCFS000	-	-	197-203	109_QUEST_clinical_caseMIR	SENT2	-	-
+20	de	de	SPS00	C0332285	atributo	204-206	109_QUEST_clinical_caseMIR	SENT2	-	-
+21	Somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	207-218	109_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+22	de	de	SPS00	C0332285	atributo	219-221	109_QUEST_clinical_caseMIR	SENT2	-	-
+23	Epworth	epworth	NCMS000	-	-	222-229	109_QUEST_clinical_caseMIR	SENT2	-	-
+24	de	de	SPS00	C0332285	atributo	230-232	109_QUEST_clinical_caseMIR	SENT2	-	-
+25	3	3		-	-	233-234	109_QUEST_clinical_caseMIR	SENT2	-	-
+26	)	)	Fpt	-	-	234-235	109_QUEST_clinical_caseMIR	SENT2	-	-
+27	sin	sin	SPS00	C0332288	atributo	236-239	109_QUEST_clinical_caseMIR	SENT2	-	-
+28	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	240-245	109_QUEST_clinical_caseMIR	SENT2	-	-
+29	síntomas	síntoma	NCMP000	C1457887	hallazgo	246-254	109_QUEST_clinical_caseMIR	SENT2	-	-
+30	,	,	Fc	-	-	254-255	109_QUEST_clinical_caseMIR	SENT2	-	-
+31	signos	signo	NCMP000	C0311392	hallazgo	256-262	109_QUEST_clinical_caseMIR	SENT2	-	-
+32	o	o	CC	-	-	263-264	109_QUEST_clinical_caseMIR	SENT2	-	-
+33	antecedentes	antecedente	NCMP000	-	-	265-277	109_QUEST_clinical_caseMIR	SENT2	-	-
+34	clínicos	clínico	AQ0MP0	C0205210	calificador	278-286	109_QUEST_clinical_caseMIR	SENT2	-	-
+35	relevantes	relevante	AQ0CP0	-	-	287-297	109_QUEST_clinical_caseMIR	SENT2	-	-
+36	.	.	Fp	-	-	297-298	109_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	299-301	109_QUEST_clinical_caseMIR	SENT3	-	-
+2	índice	índice	NCMS000	-	-	302-308	109_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	309-311	109_QUEST_clinical_caseMIR	SENT3	-	-
+4	apnea-hipopnea	apnea-hipopnea	NCFS000	-	-	312-326	109_QUEST_clinical_caseMIR	SENT3	-	-
+5	obtenido	obtener	VMP00SM	-	-	327-335	109_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	336-338	109_QUEST_clinical_caseMIR	SENT3	-	-
+7	la	el	DA0FS0	-	-	339-341	109_QUEST_clinical_caseMIR	SENT3	-	-
+8	polisomnografía	polisomnografía	NC00SC0	C0162701#C0430630	procedimiento	342-357	109_QUEST_clinical_caseMIR	SENT3	-	-
+9	fue	ser	VSIS3S0	-	-	358-361	109_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	362-364	109_QUEST_clinical_caseMIR	SENT3	-	-
+11	18	18		-	-	365-367	109_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	367-368	109_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Con	con	SPS00	C0332287	atributo	369-372	109_QUEST_clinical_caseMIR	SENT4	-	-
+2	estos	este	DD0MP0	-	-	373-378	109_QUEST_clinical_caseMIR	SENT4	-	-
+3	datos	dato	NCMP000	-	-	379-384	109_QUEST_clinical_caseMIR	SENT4	-	-
+4	,	,	Fc	-	-	384-385	109_QUEST_clinical_caseMIR	SENT4	-	-
+5	¿	¿	Fia	-	-	386-387	109_QUEST_clinical_caseMIR	SENT4	-	-
+6	cuál	cuál	PT0CS000	-	-	387-391	109_QUEST_clinical_caseMIR	SENT4	-	-
+7	es	ser	VSIP3S0	-	-	392-394	109_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	395-397	109_QUEST_clinical_caseMIR	SENT4	-	-
+9	medida	medida	NCFS000	C0079809	atributo	398-404	109_QUEST_clinical_caseMIR	SENT4	-	-
+10	a	a	SPS00	-	-	405-406	109_QUEST_clinical_caseMIR	SENT4	-	-
+11	adoptar	adoptar	VMN0000	-	-	407-414	109_QUEST_clinical_caseMIR	SENT4	-	-
+12	más	más	RG	C0205172	calificador	415-418	109_QUEST_clinical_caseMIR	SENT4	-	-
+13	adecuada	adecuar	VMP00SF	-	-	419-427	109_QUEST_clinical_caseMIR	SENT4	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	428-430	109_QUEST_clinical_caseMIR	SENT4	-	-
+15	este	este	DD0MS0	-	-	431-435	109_QUEST_clinical_caseMIR	SENT4	-	-
+16	paciente	paciente	NCCS000	C0030705	persona	436-444	109_QUEST_clinical_caseMIR	SENT4	-	-
+17	?	?	Fit	-	-	444-445	109_QUEST_clinical_caseMIR	SENT4	-	-
+18	:	:	Fd	-	-	445-446	109_QUEST_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	446-447	109_QUEST_clinical_caseMIR	SENT4	-	-
+

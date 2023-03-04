@@ -1,0 +1,51 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	3_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	3_QUEST_clinical_caseMIR	SENT1	-	-
+3	presenta	presentar	VMIP3S0	-	-	10-18	3_QUEST_clinical_caseMIR	SENT1	-	-
+4	se	se	P00CN000	-	-	19-21	3_QUEST_clinical_caseMIR	SENT1	-	-
+5	forma	formar	VMIP3S0	-	-	22-27	3_QUEST_clinical_caseMIR	SENT1	-	-
+6	brusca	brusco	AQ0FS0	C0443162	calificador	28-34	3_QUEST_clinical_caseMIR	SENT1	-	-
+7	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	35-42	3_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	e	y	CC	C1706368	calificador	43-44	3_QUEST_clinical_caseMIR	SENT1	-	-
+9	ictericia	ictericia	NCFS000	C0022346	hallazgo	45-54	3_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	detectando	detectar	VMG0000	-	-	55-65	3_QUEST_clinical_caseMIR	SENT1	-	-
+11	se	se	PP3CN000	-	-	65-67	3_QUEST_clinical_caseMIR	SENT1	-	-
+12	unas	uno	DI0FP0	C0205447	calificador	68-72	3_QUEST_clinical_caseMIR	SENT1	-	-
+13	transaminasas	transaminasa	NCFP000	C1152208#C0002594	función_biológica#sustancia	73-86	3_QUEST_clinical_caseMIR	SENT1	-	-
+14	superiores	superior	AQ0CP0	C1282910	calificador	88-98	3_QUEST_clinical_caseMIR	SENT1	-	-
+15	a	a	SPS00	-	-	99-100	3_QUEST_clinical_caseMIR	SENT1	-	-
+16	2000	2000		-	-	101-105	3_QUEST_clinical_caseMIR	SENT1	-	-
+17	UI	ui	NC00SC0	C0439453	calificador	106-108	3_QUEST_clinical_caseMIR	SENT1	-	-
+18	/	/	Fh	-	-	108-109	3_QUEST_clinical_caseMIR	SENT1	-	-
+19	L	l	NCFS000	-	-	109-110	3_QUEST_clinical_caseMIR	SENT1	-	-
+20	Los	el	DA0MP0	-	-	111-114	3_QUEST_clinical_caseMIR	SENT1	-	-
+21	marcadores	marcador	NCMP000	-	-	115-125	3_QUEST_clinical_caseMIR	SENT1	-	-
+22	serológicos	serológico	AQ0MP0	C0205473	calificador	126-137	3_QUEST_clinical_caseMIR	SENT1	-	-
+23	muestran	mostrar	VMIP3P0	-	-	138-146	3_QUEST_clinical_caseMIR	SENT1	-	-
+24	el	el	DA0MS0	-	-	147-149	3_QUEST_clinical_caseMIR	SENT1	-	-
+25	siguiente	siguiente	AQ0CS0	C0332282	atributo	150-159	3_QUEST_clinical_caseMIR	SENT1	-	-
+26	patrón	patrón	NCMS000	C0449774	atributo	160-166	3_QUEST_clinical_caseMIR	SENT1	-	-
+27	:	:	Fd	-	-	166-167	3_QUEST_clinical_caseMIR	SENT1	-	-
+28	Anti	anti	AQ0CN0	-	-	168-172	3_QUEST_clinical_caseMIR	SENT1	-	-
+29	VHA	virus_de_la_hepatitis_a	NC00YL0	-	-	173-176	3_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	IgM	igm	NCMS000	-	-	177-180	3_QUEST_clinical_caseMIR	SENT1	-	-
+31	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	181-189	3_QUEST_clinical_caseMIR	SENT1	-	-
+32	,	,	Fc	-	-	189-190	3_QUEST_clinical_caseMIR	SENT1	-	-
+33	HBsAg	hepatitis_b_surface_antigen_(antígeno_de_superficie_de_la_hepatitis_b_o_antígeno_australia)	NC00YL0	-	-	191-196	3_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+34	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	197-205	3_QUEST_clinical_caseMIR	SENT1	-	-
+35	AntiHBc	antihepatitis_b_core_antigen_(antígeno_core_del_virus_de_la_hepatitis_b)	AQ0CN00	-	-	206-213	3_QUEST_clinical_caseMIR	SENT1	-	-
+36	IgM	igm	NCMS000	-	-	214-217	3_QUEST_clinical_caseMIR	SENT1	-	-
+37	positivo	positivo	AQ0MS0	C1446409	calificador	218-226	3_QUEST_clinical_caseMIR	SENT1	-	-
+38	,	,	Fc	-	-	226-227	3_QUEST_clinical_caseMIR	SENT1	-	-
+39	anti	anti	AQ0CN0	-	-	228-232	3_QUEST_clinical_caseMIR	SENT1	-	-
+40	VHC	virus_de_la_hepatitis_c	NC00YL0	-	-	233-236	3_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+41	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	237-245	3_QUEST_clinical_caseMIR	SENT1	-	-
+42	.	.	Fp	-	-	245-246	3_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	247-248	3_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	248-252	3_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	253-255	3_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	256-258	3_QUEST_clinical_caseMIR	SENT2	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	259-270	3_QUEST_clinical_caseMIR	SENT2	-	-
+6	?	?	Fit	-	-	270-271	3_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	271-272	3_QUEST_clinical_caseMIR	SENT2	-	-
+

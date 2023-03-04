@@ -1,0 +1,51 @@
+1	La	el	DA0FS0	-	-	0-2	307_QUEST_clinical_caseMIR	SENT1	-	-
+2	determinación	determinación	NCFS000	C0242485	procedimiento	3-16	307_QUEST_clinical_caseMIR	SENT1	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	17-19	307_QUEST_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	20-23	307_QUEST_clinical_caseMIR	SENT1	-	-
+5	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	24-29	307_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	30-32	307_QUEST_clinical_caseMIR	SENT1	-	-
+7	70	70		-	-	33-35	307_QUEST_clinical_caseMIR	SENT1	-	-
+8	años	año	NCMP000	C0439234	calificador	36-40	307_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	41-43	307_QUEST_clinical_caseMIR	SENT1	-	-
+10	hematocrito	hematocrito	NCMS000	-	-	44-55	307_QUEST_clinical_caseMIR	SENT1	-	-
+11	32	32	Z	-	-	56-58	307_QUEST_clinical_caseMIR	SENT1	-	-
+12	%	%	Ft	-	-	58-59	307_QUEST_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	59-60	307_QUEST_clinical_caseMIR	SENT1	-	-
+14	Hb	hb	NC00YL0	-	-	61-63	307_QUEST_clinical_caseMIR	SENT1	-	-
+15	9,6	9.6	Z	-	-	64-67	307_QUEST_clinical_caseMIR	SENT1	-	-
+16	g	g	NCMN000	-	-	68-69	307_QUEST_clinical_caseMIR	SENT1	-	-
+17	/	/	Fh	-	-	69-70	307_QUEST_clinical_caseMIR	SENT1	-	-
+18	dL	decilitro	NCMN000	C0439241	calificador	70-72	307_QUEST_clinical_caseMIR	SENT1	-	-
+19	,	,	Fc	-	-	72-73	307_QUEST_clinical_caseMIR	SENT1	-	-
+20	VCM	vcm	NC00SC0	C0524587	entidad_observable	74-77	307_QUEST_clinical_caseMIR	SENT1	-	-
+21	85	85		-	-	78-80	307_QUEST_clinical_caseMIR	SENT1	-	-
+22	fL	fl	NC00SC0	C0475213	calificador	81-83	307_QUEST_clinical_caseMIR	SENT1	-	-
+23	(	(	Fpa	-	-	84-85	307_QUEST_clinical_caseMIR	SENT1	-	-
+24	70-99	70-99		-	-	85-90	307_QUEST_clinical_caseMIR	SENT1	-	-
+25	)	)	Fpt	-	-	90-91	307_QUEST_clinical_caseMIR	SENT1	-	-
+26	,	,	Fc	-	-	91-92	307_QUEST_clinical_caseMIR	SENT1	-	-
+27	Fe	fe	NCFS000	-	-	93-95	307_QUEST_clinical_caseMIR	SENT1	-	-
+28	25	25		-	-	96-98	307_QUEST_clinical_caseMIR	SENT1	-	-
+29	ug	ug	NCMS000	-	-	99-101	307_QUEST_clinical_caseMIR	SENT1	-	-
+30	/	/	Fh	-	-	101-102	307_QUEST_clinical_caseMIR	SENT1	-	-
+31	dL	decilitro	NCMN000	C0439241	calificador	102-104	307_QUEST_clinical_caseMIR	SENT1	-	-
+32	(	(	Fpa	-	-	105-106	307_QUEST_clinical_caseMIR	SENT1	-	-
+33	37-145	37-145		-	-	106-112	307_QUEST_clinical_caseMIR	SENT1	-	-
+34	)	)	Fpt	-	-	112-113	307_QUEST_clinical_caseMIR	SENT1	-	-
+35	y	y	CC	C1706368	calificador	114-115	307_QUEST_clinical_caseMIR	SENT1	-	-
+36	ferritina	ferritina	NCFS000	C0015879	sustancia	116-125	307_QUEST_clinical_caseMIR	SENT1	-	-
+37	350	350		-	-	126-129	307_QUEST_clinical_caseMIR	SENT1	-	-
+38	ng	nasogástrico	NC00YL0	-	-	130-132	307_QUEST_clinical_caseMIR	SENT1	-	-
+39	/	/	Fh	-	-	132-133	307_QUEST_clinical_caseMIR	SENT1	-	-
+40	mL	mililitro	NCMN000	C0439242	calificador	133-135	307_QUEST_clinical_caseMIR	SENT1	-	-
+41	(	(	Fpa	-	-	136-137	307_QUEST_clinical_caseMIR	SENT1	-	-
+42	15-150	15-150		-	-	137-143	307_QUEST_clinical_caseMIR	SENT1	-	-
+43	)	)	Fpt	-	-	143-144	307_QUEST_clinical_caseMIR	SENT1	-	-
+44	,	,	Fc	-	-	144-145	307_QUEST_clinical_caseMIR	SENT1	-	-
+45	es	ser	VSIP3S0	-	-	146-148	307_QUEST_clinical_caseMIR	SENT1	-	-
+46	más	más	RG	C0205172	calificador	149-152	307_QUEST_clinical_caseMIR	SENT1	-	-
+47	sugestivo	sugestivo	AQ0MS0	-	-	153-162	307_QUEST_clinical_caseMIR	SENT1	-	-
+48	de	de	SPS00	C0332285	atributo	163-165	307_QUEST_clinical_caseMIR	SENT1	-	-
+49	:	:	Fd	-	-	165-166	307_QUEST_clinical_caseMIR	SENT1	-	-
+50	.	.	Fp	-	-	166-167	307_QUEST_clinical_caseMIR	SENT1	-	-
+

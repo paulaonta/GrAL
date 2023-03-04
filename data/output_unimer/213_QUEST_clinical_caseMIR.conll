@@ -1,0 +1,96 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	213_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	3-6	213_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	7-15	213_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	16-18	213_QUEST_clinical_caseMIR	SENT1	-	-
+5	30	30		-	-	19-21	213_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	22-26	213_QUEST_clinical_caseMIR	SENT1	-	-
+7	se	se	P00CN000	-	-	27-29	213_QUEST_clinical_caseMIR	SENT1	-	-
+8	encuentra	encontrar	VMIP3S0	-	-	30-39	213_QUEST_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	40-43	213_QUEST_clinical_caseMIR	SENT1	-	-
+10	cifra	cifra	NCFS000	-	-	44-49	213_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	50-52	213_QUEST_clinical_caseMIR	SENT1	-	-
+12	calcio	calcio	NCMS000	C0006675	sustancia	53-59	213_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	60-62	213_QUEST_clinical_caseMIR	SENT1	-	-
+14	11	11	Z	-	-	63-65	213_QUEST_clinical_caseMIR	SENT1	-	-
+15	mg	mg	NCMN000	-	-	66-68	213_QUEST_clinical_caseMIR	SENT1	-	-
+16	/	/	Fh	-	-	68-69	213_QUEST_clinical_caseMIR	SENT1	-	-
+17	dl	decilitro	NCMN000	C0439241	calificador	69-71	213_QUEST_clinical_caseMIR	SENT1	-	-
+18	(	(	Fpa	-	-	72-73	213_QUEST_clinical_caseMIR	SENT1	-	-
+19	normal	normal	AQ0CS0	C0205307	calificador	73-79	213_QUEST_clinical_caseMIR	SENT1	-	-
+20	menos	menos	RG	C0332288	atributo	80-85	213_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	86-88	213_QUEST_clinical_caseMIR	SENT1	-	-
+22	10,5	10.5	Z	-	-	89-93	213_QUEST_clinical_caseMIR	SENT1	-	-
+23	mg	mg	NCMN000	-	-	94-96	213_QUEST_clinical_caseMIR	SENT1	-	-
+24	/	/	Fh	-	-	96-97	213_QUEST_clinical_caseMIR	SENT1	-	-
+25	dl	decilitro	NCMN000	C0439241	calificador	97-99	213_QUEST_clinical_caseMIR	SENT1	-	-
+26	)	)	Fpt	-	-	99-100	213_QUEST_clinical_caseMIR	SENT1	-	-
+27	durante	durante	SPS00	C1444752#C0347984	atributo	101-108	213_QUEST_clinical_caseMIR	SENT1	-	-
+28	un	un		C0205447_1	calificador_1	109-111	213_QUEST_clinical_caseMIR	SENT1	-	-
+29	examen	examen	NCMS000	-	-	112-118	213_QUEST_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	119-121	213_QUEST_clinical_caseMIR	SENT1	-	-
+31	empresas	empresa	NCFP000	-	-	122-130	213_QUEST_clinical_caseMIR	SENT1	-	-
+32	rutinario	rutinario	AQ0MS0	-	-	131-140	213_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	140-141	213_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	142-144	213_QUEST_clinical_caseMIR	SENT2	-	-
+2	determinación	determinación	NCFS000	C0242485	procedimiento	145-158	213_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	159-161	213_QUEST_clinical_caseMIR	SENT2	-	-
+4	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	162-165	213_QUEST_clinical_caseMIR	SENT2	-	-
+5	fue	ser	VSIS3S0	-	-	166-169	213_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	170-172	213_QUEST_clinical_caseMIR	SENT2	-	-
+7	45	45		-	-	173-175	213_QUEST_clinical_caseMIR	SENT2	-	-
+8	pg	picogramo	NC00YL0	C0439213	calificador	176-178	213_QUEST_clinical_caseMIR	SENT2	-	-
+9	/	/	Fh	-	-	178-179	213_QUEST_clinical_caseMIR	SENT2	-	-
+10	ml	mililitro	NCMN000	C0439242	calificador	179-181	213_QUEST_clinical_caseMIR	SENT2	-	-
+11	(	(	Fpa	-	-	182-183	213_QUEST_clinical_caseMIR	SENT2	-	-
+12	VN	valor_normal	NC00YL0	-	-	183-185	213_QUEST_clinical_caseMIR	SENT2	-	-
+13	10-55	10-55		-	-	186-191	213_QUEST_clinical_caseMIR	SENT2	-	-
+14	pg	picogramo	NC00YL0	C0439213	calificador	192-194	213_QUEST_clinical_caseMIR	SENT2	-	-
+15	/	/	Fh	-	-	194-195	213_QUEST_clinical_caseMIR	SENT2	-	-
+16	ml	mililitro	NCMN000	C0439242	calificador	195-197	213_QUEST_clinical_caseMIR	SENT2	-	-
+17	)	)	Fpt	-	-	197-198	213_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	198-199	213_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	200-202	213_QUEST_clinical_caseMIR	SENT3	-	-
+2	historia	historia	NCFS000	-	-	203-211	213_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	212-214	213_QUEST_clinical_caseMIR	SENT3	-	-
+4	anodina	anodino	AQ0FS0	-	-	215-222	213_QUEST_clinical_caseMIR	SENT3	-	-
+5	,	,	Fc	-	-	222-223	213_QUEST_clinical_caseMIR	SENT3	-	-
+6	salvo	salvo	SPS00	-	-	224-229	213_QUEST_clinical_caseMIR	SENT3	-	-
+7	por	por	SPS00	C0678226	atributo	230-233	213_QUEST_clinical_caseMIR	SENT3	-	-
+8	el	el	DA0MS0	-	-	234-236	213_QUEST_clinical_caseMIR	SENT3	-	-
+9	hecho	hecho	NCMS000	-	-	237-242	213_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	243-245	213_QUEST_clinical_caseMIR	SENT3	-	-
+11	que	que	CS	-	-	246-249	213_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	250-252	213_QUEST_clinical_caseMIR	SENT3	-	-
+13	madre	madre	NCFS000	C0026591	persona	253-258	213_QUEST_clinical_caseMIR	SENT3	-	-
+14	y	y	CC	C1706368	calificador	259-260	213_QUEST_clinical_caseMIR	SENT3	-	-
+15	el	el	DA0MS0	-	-	261-263	213_QUEST_clinical_caseMIR	SENT3	-	-
+16	abuelo	abuelo	NCMS000	C1273522_1	persona_1	264-270	213_QUEST_clinical_caseMIR	SENT3	-	-
+17	paterno	paterno	AQ0MS0	C1273522_2	persona_2	271-278	213_QUEST_clinical_caseMIR	SENT3	-	-
+18	fueron	ser	VSIS3P0	-	-	279-285	213_QUEST_clinical_caseMIR	SENT3	-	-
+19	diagnosticados	diagnosticar	VMP00PM	-	-	286-300	213_QUEST_clinical_caseMIR	SENT3	-	-
+20	de	de	SPS00	C0332285	atributo	301-303	213_QUEST_clinical_caseMIR	SENT3	-	-
+21	hiperparatiroidismo	hiperparatiroidismo	NC00SC0	C0020502	trastorno	304-323	213_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+22	e	y	CC	C1706368	calificador	324-325	213_QUEST_clinical_caseMIR	SENT3	-	-
+23	intervenidos	intervenir	VMP00PM	-	-	326-338	213_QUEST_clinical_caseMIR	SENT3	-	-
+24	,	,	Fc	-	-	338-339	213_QUEST_clinical_caseMIR	SENT3	-	-
+25	aunque	aunque	CC	-	-	340-346	213_QUEST_clinical_caseMIR	SENT3	-	-
+26	permanecieron	permanecer	VMIS3P0	-	-	347-360	213_QUEST_clinical_caseMIR	SENT3	-	-
+27	hipercalcémicos	hipercalcémicos	AQ0MP00	-	-	361-376	213_QUEST_clinical_caseMIR	SENT3	-	-
+28	.	.	Fp	-	-	376-377	213_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	378-379	213_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	379-382	213_QUEST_clinical_caseMIR	SENT4	-	-
+3	prueba	prueba	NCFS000	-	-	383-389	213_QUEST_clinical_caseMIR	SENT4	-	-
+4	es	ser	VSIP3S0	-	-	390-392	213_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	393-396	213_QUEST_clinical_caseMIR	SENT4	-	-
+6	útil	útil	AQ0CS0	-	-	397-401	213_QUEST_clinical_caseMIR	SENT4	-	-
+7	para	para	SPS00	C0521125	calificador	402-406	213_QUEST_clinical_caseMIR	SENT4	-	-
+8	confirmar	confirmar	VMN0000	-	-	407-416	213_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	417-419	213_QUEST_clinical_caseMIR	SENT4	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	420-431	213_QUEST_clinical_caseMIR	SENT4	-	-
+11	?	?	Fit	-	-	431-432	213_QUEST_clinical_caseMIR	SENT4	-	-
+12	:	:	Fd	-	-	432-433	213_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	433-434	213_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,111 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	472_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	472_QUEST_clinical_caseMIR	SENT1	-	-
+3	47	47		-	-	9-11	472_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	472_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	472_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	472_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	472_QUEST_clinical_caseMIR	SENT1	-	-
+8	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	34-42	472_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	miccional	miccional		-	-	43-52	472_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	.	.	Fp	-	-	52-53	472_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	54-56	472_QUEST_clinical_caseMIR	SENT2	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	57-59	472_QUEST_clinical_caseMIR	SENT2	-	-
+3	diagnostica	diagnosticar	VMIP3S0	-	-	60-71	472_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	72-74	472_QUEST_clinical_caseMIR	SENT2	-	-
+5	infección	infección	NCFS000	C0042029_1	trastorno_1	75-84	472_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	urinaria	urinario	AQ0FS0	C0042029_2	trastorno_2	85-93	472_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	no	no	RN	C1298908	calificador	94-96	472_QUEST_clinical_caseMIR	SENT2	-	-
+8	complicada	complicar	VMP00SF	-	-	97-107	472_QUEST_clinical_caseMIR	SENT2	-	-
+9	y	y	CC	C1706368	calificador	108-109	472_QUEST_clinical_caseMIR	SENT2	-	-
+10	se	se	P00CN000	-	-	110-112	472_QUEST_clinical_caseMIR	SENT2	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	113-115	472_QUEST_clinical_caseMIR	SENT2	-	-
+12	trata	tratar	VMIP3S0	-	-	116-121	472_QUEST_clinical_caseMIR	SENT2	-	-
+13	con	con	SPS00	C0332287	atributo	122-125	472_QUEST_clinical_caseMIR	SENT2	-	-
+14	ciprofloxacino	ciprofloxacino	NC00SC0	C0008809	sustancia	126-140	472_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	durante	durante	SPS00	C1444752#C0347984	atributo	141-148	472_QUEST_clinical_caseMIR	SENT2	-	-
+16	5	5	Z	-	-	149-150	472_QUEST_clinical_caseMIR	SENT2	-	-
+17	días	d	NCMP000	-	-	151-155	472_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	155-156	472_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	157-158	472_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	159-161	472_QUEST_clinical_caseMIR	SENT3	-	-
+3	semana	semana	NCFS000	C0439230	calificador	162-168	472_QUEST_clinical_caseMIR	SENT3	-	-
+4	vuelve	volver	VMIP3S0	-	-	169-175	472_QUEST_clinical_caseMIR	SENT3	-	-
+5	a	a	SPS00	-	-	176-177	472_QUEST_clinical_caseMIR	SENT3	-	-
+6	consultar	consultar	VMN0000	-	-	178-187	472_QUEST_clinical_caseMIR	SENT3	-	-
+7	por	por	SPS00	C0678226	atributo	188-191	472_QUEST_clinical_caseMIR	SENT3	-	-
+8	mal	mal	AQ0CS0	C0205169	calificador	192-195	472_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	196-202	472_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+10	general	general	AQ0CS0	C0205246	calificador	203-210	472_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+11	,	,	Fc	-	-	210-211	472_QUEST_clinical_caseMIR	SENT3	-	-
+12	artralgias	artralgia	NCFP000	C0003862	hallazgo	212-222	472_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	y	y	CC	C1706368	calificador	223-224	472_QUEST_clinical_caseMIR	SENT3	-	-
+14	aparición	aparición	NCFS000	-	-	225-234	472_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	235-237	472_QUEST_clinical_caseMIR	SENT3	-	-
+16	un	un		C0205447_1	calificador_1	238-240	472_QUEST_clinical_caseMIR	SENT3	-	-
+17	rash	rash	NC00SC0	C0015230_1	trastorno_1	241-245	472_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	cutáneo	cutáneo	AQ0MS0	C0015230_2	trastorno_2	246-253	472_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	.	.	Fp	-	-	253-254	472_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	255-257	472_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	258-260	472_QUEST_clinical_caseMIR	SENT4	-	-
+3	analítica	analítica	NCFS000	-	-	261-270	472_QUEST_clinical_caseMIR	SENT4	-	-
+4	destaca	destacar	VMIP3S0	-	-	271-278	472_QUEST_clinical_caseMIR	SENT4	-	-
+5	un	un		C0205447_1	calificador_1	279-281	472_QUEST_clinical_caseMIR	SENT4	-	-
+6	filtrado	filtrado	NCMS000	-	-	282-290	472_QUEST_clinical_caseMIR	SENT4	-	-
+7	glomerular	glomerular	AQ0CS0	-	-	291-301	472_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	de	de	SPS00	C0332285	atributo	302-304	472_QUEST_clinical_caseMIR	SENT4	-	-
+9	45	45	Z	-	-	305-307	472_QUEST_clinical_caseMIR	SENT4	-	-
+10	ml	ml	NCMN000	C0439242	calificador	308-310	472_QUEST_clinical_caseMIR	SENT4	-	-
+11	/	/	Fh	-	-	310-311	472_QUEST_clinical_caseMIR	SENT4	-	-
+12	min	minuto	NCMN000	C0439232	calificador	311-314	472_QUEST_clinical_caseMIR	SENT4	-	-
+13	(	(	Fpa	-	-	315-316	472_QUEST_clinical_caseMIR	SENT4	-	-
+14	CKD-EPI	ckd-epi	AQ0MS00	-	-	316-323	472_QUEST_clinical_caseMIR	SENT4	-	-
+15	)	)	Fpt	-	-	323-324	472_QUEST_clinical_caseMIR	SENT4	-	-
+16	,	,	Fc	-	-	324-325	472_QUEST_clinical_caseMIR	SENT4	-	-
+17	siendo	ser	VSG0000	-	-	326-332	472_QUEST_clinical_caseMIR	SENT4	-	-
+18	el	el	DA0MS0	-	-	333-335	472_QUEST_clinical_caseMIR	SENT4	-	-
+19	de	de	SPS00	C0332285	atributo	336-338	472_QUEST_clinical_caseMIR	SENT4	-	-
+20	hace	hacer	VMIP3S0	-	-	339-343	472_QUEST_clinical_caseMIR	SENT4	-	-
+21	6	6		-	-	344-345	472_QUEST_clinical_caseMIR	SENT4	-	-
+22	meses	mes	NCMP000	C0439231	calificador	346-351	472_QUEST_clinical_caseMIR	SENT4	-	-
+23	de	de	SPS00	C0332285	atributo	352-354	472_QUEST_clinical_caseMIR	SENT4	-	-
+24	100	100	Z	-	-	355-358	472_QUEST_clinical_caseMIR	SENT4	-	-
+25	ml	ml	NCMN000	C0439242	calificador	359-361	472_QUEST_clinical_caseMIR	SENT4	-	-
+26	/	/	Fh	-	-	361-362	472_QUEST_clinical_caseMIR	SENT4	-	-
+27	min	minuto	NCMN000	C0439232	calificador	362-365	472_QUEST_clinical_caseMIR	SENT4	-	-
+28	.	.	Fp	-	-	365-366	472_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	367-369	472_QUEST_clinical_caseMIR	SENT5	-	-
+2	el	el	DA0MS0	-	-	370-372	472_QUEST_clinical_caseMIR	SENT5	-	-
+3	sedimento	sedimento	NCMS000	C0333562	anomalía_morfológica	373-382	472_QUEST_clinical_caseMIR	SENT5	-	-
+4	se	se	P00CN000	-	-	383-385	472_QUEST_clinical_caseMIR	SENT5	-	-
+5	identifican	identificar	VMIP3P0	-	-	386-397	472_QUEST_clinical_caseMIR	SENT5	-	-
+6	leucocitos	leucocito	NCMP000	C0023516	célula	398-408	472_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+7	,	,	Fc	-	-	408-409	472_QUEST_clinical_caseMIR	SENT5	-	-
+8	siendo	ser	VSG0000	-	-	410-416	472_QUEST_clinical_caseMIR	SENT5	-	-
+9	negativo	negativo	NCMS000	C0205160#C0549184	calificador	417-425	472_QUEST_clinical_caseMIR	SENT5	-	-
+10	para	parir	VMSP3S0	-	-	426-430	472_QUEST_clinical_caseMIR	SENT5	-	-
+11	nitritos	nitrito	NCMP000	-	-	431-439	472_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	439-440	472_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	441-442	472_QUEST_clinical_caseMIR	SENT6	-	-
+2	De	de	SPS00	C0332285	atributo	442-444	472_QUEST_clinical_caseMIR	SENT6	-	-
+3	las	el	DA0FP0	-	-	445-448	472_QUEST_clinical_caseMIR	SENT6	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	449-459	472_QUEST_clinical_caseMIR	SENT6	-	-
+5	,	,	Fc	-	-	459-460	472_QUEST_clinical_caseMIR	SENT6	-	-
+6	cuál	cuál	PT0CS000	-	-	461-465	472_QUEST_clinical_caseMIR	SENT6	-	-
+7	es	ser	VSIP3S0	-	-	466-468	472_QUEST_clinical_caseMIR	SENT6	-	-
+8	la	el	DA0FS0	-	-	469-471	472_QUEST_clinical_caseMIR	SENT6	-	-
+9	causa	causa	NCFS000	-	-	472-477	472_QUEST_clinical_caseMIR	SENT6	-	-
+10	más	más	RG	C0205172	calificador	478-481	472_QUEST_clinical_caseMIR	SENT6	-	-
+11	probable	probable	AQ0CS0	C0332148	calificador	482-490	472_QUEST_clinical_caseMIR	SENT6	-	-
+12	de	de	SPS00	C0332285	atributo	491-493	472_QUEST_clinical_caseMIR	SENT6	-	-
+13	su	su	DP3CS0	-	-	494-496	472_QUEST_clinical_caseMIR	SENT6	-	-
+14	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	497-510	472_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Especulacion
+15	renal	renal	AQ0CS0	-	-	511-516	472_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+16	?	?	Fit	-	-	516-517	472_QUEST_clinical_caseMIR	SENT6	-	-
+17	:	:	Fd	-	-	517-518	472_QUEST_clinical_caseMIR	SENT6	-	-
+18	.	.	Fp	-	-	518-519	472_QUEST_clinical_caseMIR	SENT6	-	-
+

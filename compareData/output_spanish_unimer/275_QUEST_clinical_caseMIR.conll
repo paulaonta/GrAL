@@ -1,0 +1,88 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	275_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	275_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	275_QUEST_clinical_caseMIR	SENT1	-	-
+4	24	24		-	-	13-15	275_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	275_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	275_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	275_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	29-37	275_QUEST_clinical_caseMIR	SENT1	-	-
+9	al	al	SP+DA	-	-	38-40	275_QUEST_clinical_caseMIR	SENT1	-	-
+10	haber	haber	VAN0000	-	-	41-46	275_QUEST_clinical_caseMIR	SENT1	-	-
+11	apreciado	apreciar	VMP00SM	-	-	47-56	275_QUEST_clinical_caseMIR	SENT1	-	-
+12	adenopatías	adenopatía	NCFP000	-	-	57-68	275_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	inguinales	inguinal	AQ0CP0	C0018246	calificador	69-79	275_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	79-80	275_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	81-83	275_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	84-86	275_QUEST_clinical_caseMIR	SENT2	-	-
+3	interrogatorio	interrogatorio	NCMS000	-	-	87-101	275_QUEST_clinical_caseMIR	SENT2	-	-
+4	no	no	RN	C1298908	calificador	102-104	275_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	105-107	275_QUEST_clinical_caseMIR	SENT2	-	-
+6	recoge	recoger	VMIP3S0	-	-	108-114	275_QUEST_clinical_caseMIR	SENT2	-	-
+7	la	el	DA0FS0	-	-	115-117	275_QUEST_clinical_caseMIR	SENT2	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	118-127	275_QUEST_clinical_caseMIR	SENT2	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	128-130	275_QUEST_clinical_caseMIR	SENT2	-	-
+10	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	131-138	275_QUEST_clinical_caseMIR	SENT2	-	-
+11	molestia	molestia	NCFS000	C0231218	hallazgo	139-147	275_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+12	local	local	AQ0CS0	C0205276#C0392752#C0332237	calificador	148-153	275_QUEST_clinical_caseMIR	SENT2	-	-
+13	ni	ni	CC	-	-	154-156	275_QUEST_clinical_caseMIR	SENT2	-	-
+14	datos	dato	NCMP000	-	-	157-162	275_QUEST_clinical_caseMIR	SENT2	-	-
+15	sugerentes	sugerente	AQ0CP0	-	-	163-173	275_QUEST_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332285	atributo	174-176	275_QUEST_clinical_caseMIR	SENT2	-	-
+17	infección	infección	NCFS000	C0009450	trastorno	177-186	275_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+18	de	de	SPS00	C0332285	atributo	187-189	275_QUEST_clinical_caseMIR	SENT2	-	-
+19	transmisión	transmisión	NCFS000	C1519279_1	calificador_1	190-201	275_QUEST_clinical_caseMIR	SENT2	-	-
+20	sexual	sexual	AQ0CS0	C1519279_2	calificador_2	202-208	275_QUEST_clinical_caseMIR	SENT2	-	-
+21	.	.	Fp	-	-	208-209	275_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	210-212	275_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	213-215	275_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	216-227	275_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	P00CN000	-	-	228-230	275_QUEST_clinical_caseMIR	SENT3	-	-
+5	aprecian	apreciar	VMIP3P0	-	-	231-239	275_QUEST_clinical_caseMIR	SENT3	-	-
+6	dos	dos		-	-	240-243	275_QUEST_clinical_caseMIR	SENT3	-	-
+7	adenopatías	adenopatía	NCFP000	-	-	244-255	275_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	,	,	Fc	-	-	255-256	275_QUEST_clinical_caseMIR	SENT3	-	-
+9	una	una		C0205447_1	calificador_1	257-260	275_QUEST_clinical_caseMIR	SENT3	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	261-263	275_QUEST_clinical_caseMIR	SENT3	-	-
+11	cada	cada	DI0CS0	C1457900	calificador	264-268	275_QUEST_clinical_caseMIR	SENT3	-	-
+12	ingle	ingle	NCFS000	C0018246	estructura_corporal	269-274	275_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	,	,	Fc	-	-	274-275	275_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332285	atributo	276-278	275_QUEST_clinical_caseMIR	SENT3	-	-
+15	1	1	Z	-	-	279-280	275_QUEST_clinical_caseMIR	SENT3	-	-
+16	cm	cm	NCMN000	-	-	281-283	275_QUEST_clinical_caseMIR	SENT3	-	-
+17	de	de	SPS00	C0332285	atributo	284-286	275_QUEST_clinical_caseMIR	SENT3	-	-
+18	diámetro	diámetro	NCMS000	C1301886	calificador	287-295	275_QUEST_clinical_caseMIR	SENT3	-	-
+19	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	296-301	275_QUEST_clinical_caseMIR	SENT3	-	-
+20	,	,	Fc	-	-	301-302	275_QUEST_clinical_caseMIR	SENT3	-	-
+21	blandas	blando	AQ0FP0	C0205358	calificador	303-310	275_QUEST_clinical_caseMIR	SENT3	-	-
+22	,	,	Fc	-	-	310-311	275_QUEST_clinical_caseMIR	SENT3	-	-
+23	móviles	móvil	AQ0CP0	C0332254	calificador	312-319	275_QUEST_clinical_caseMIR	SENT3	-	-
+24	,	,	Fc	-	-	319-320	275_QUEST_clinical_caseMIR	SENT3	-	-
+25	no	no	RN	C1298908	calificador	321-323	275_QUEST_clinical_caseMIR	SENT3	-	-
+26	dolorosas	doloroso	AQ0FP0	-	-	324-333	275_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+27	.	.	Fp	-	-	333-334	275_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	335-337	275_QUEST_clinical_caseMIR	SENT4	-	-
+2	se	se	P00CN000	-	-	338-340	275_QUEST_clinical_caseMIR	SENT4	-	-
+3	aprecia	apreciar	VMIP3S0	-	-	341-348	275_QUEST_clinical_caseMIR	SENT4	-	-
+4	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	349-356	275_QUEST_clinical_caseMIR	SENT4	-	-
+5	lesión	lesión	NCFS000	C0037284_1	trastorno_1	357-363	275_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+6	cutánea	cutáneo	AQ0FS0	C0037284_2	trastorno_2	364-371	275_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	372-374	275_QUEST_clinical_caseMIR	SENT4	-	-
+8	miembros	miembro	NCMP000	C0015385	estructura_corporal	375-383	275_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+9	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	384-394	275_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+10	,	,	Fc	-	-	394-395	275_QUEST_clinical_caseMIR	SENT4	-	-
+11	ano	ano	NCMS000	C1278927#C0003461	estructura_corporal	396-399	275_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+12	o	o	CC	-	-	400-401	275_QUEST_clinical_caseMIR	SENT4	-	-
+13	periné	periné	NCMS000	-	-	402-408	275_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	408-409	275_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	410-411	275_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	411-414	275_QUEST_clinical_caseMIR	SENT5	-	-
+3	prueba	prueba	NCFS000	-	-	415-421	275_QUEST_clinical_caseMIR	SENT5	-	-
+4	considera	considerar	VMIP3S0	-	-	422-431	275_QUEST_clinical_caseMIR	SENT5	-	-
+5	imprescindible	imprescindible	AQ0CS0	-	-	432-446	275_QUEST_clinical_caseMIR	SENT5	-	-
+6	?	?	Fit	-	-	446-447	275_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	447-448	275_QUEST_clinical_caseMIR	SENT5	-	-
+

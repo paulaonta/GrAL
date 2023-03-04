@@ -1,0 +1,53 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	43_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	43_QUEST_clinical_caseMIR	SENT1	-	-
+3	12	12		-	-	12-14	43_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	43_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	20-23	43_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	24-29	43_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	30-31	43_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	32-41	43_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	42-45	43_QUEST_clinical_caseMIR	SENT1	-	-
+10	artralgia	artralgia	NCFS000	C0003862	hallazgo	46-55	43_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	,	,	Fc	-	-	55-56	43_QUEST_clinical_caseMIR	SENT1	-	-
+12	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	57-62	43_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	63-72	43_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	73-74	43_QUEST_clinical_caseMIR	SENT1	-	-
+15	hematuria	hematuria	NCFS000	C0473237_1	trastorno_1	75-84	43_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	macroscópica	macroscópico	AQ0FS0	C0473237_2	trastorno_2	85-97	43_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	dos	dos		-	-	98-101	43_QUEST_clinical_caseMIR	SENT1	-	-
+18	días	día	NCMP000	C0439228#C0332169	calificador	102-106	43_QUEST_clinical_caseMIR	SENT1	-	-
+19	después	después	RG	C0231290	atributo	107-114	43_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	115-117	43_QUEST_clinical_caseMIR	SENT1	-	-
+21	haber	haber	VAN0000	-	-	118-123	43_QUEST_clinical_caseMIR	SENT1	-	-
+22	sido	ser	VSP00SM	-	-	124-128	43_QUEST_clinical_caseMIR	SENT1	-	-
+23	diagnosticado	diagnosticar	VMP00SM	-	-	129-142	43_QUEST_clinical_caseMIR	SENT1	-	-
+24	de	de	SPS00	C0332285	atributo	143-145	43_QUEST_clinical_caseMIR	SENT1	-	-
+25	amigdalitis	amigdalitis	NCFN000	C0040425	trastorno	146-157	43_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	pultácea	pultáceo	AQ0FS0	-	-	158-166	43_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	.	.	Fp	-	-	166-167	43_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	168-169	43_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	170-172	43_QUEST_clinical_caseMIR	SENT2	-	-
+3	ingreso	ingreso	NCMS000	-	-	173-180	43_QUEST_clinical_caseMIR	SENT2	-	-
+4	la	el	DA0FS0	-	-	181-183	43_QUEST_clinical_caseMIR	SENT2	-	-
+5	creatinina	creatinina	NC00SC0	C0010294	sustancia	184-194	43_QUEST_clinical_caseMIR	SENT2	-	-
+6	sérica	sérico	AQ0FS0	-	-	195-201	43_QUEST_clinical_caseMIR	SENT2	-	-
+7	es	ser	VSIP3S0	-	-	202-204	43_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	205-207	43_QUEST_clinical_caseMIR	SENT2	-	-
+9	2	2	Z	-	-	208-209	43_QUEST_clinical_caseMIR	SENT2	-	-
+10	mg	mg	NCMN000	-	-	210-212	43_QUEST_clinical_caseMIR	SENT2	-	-
+11	/	/	Fh	-	-	212-213	43_QUEST_clinical_caseMIR	SENT2	-	-
+12	dl	decilitro	NCMN000	C0439241	calificador	213-215	43_QUEST_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	215-216	43_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	217-218	43_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	218-222	43_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	223-225	43_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	226-228	43_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	229-240	43_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	241-244	43_QUEST_clinical_caseMIR	SENT3	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	245-253	43_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	253-254	43_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	254-255	43_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	255-256	43_QUEST_clinical_caseMIR	SENT3	-	-
+

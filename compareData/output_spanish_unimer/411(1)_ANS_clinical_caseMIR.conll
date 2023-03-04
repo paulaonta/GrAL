@@ -1,0 +1,15 @@
+1	Se	se	P00CN000	-	-	0-2	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	iniciará	iniciar	VMIF3S0	-	-	3-11	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	12-23	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	24-27	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	trióxido	trióxido	NCMS000	C0052416_1	sustancia#producto_1	28-36	411(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	de	de	SPS00	C0052416_2	sustancia#producto_2	37-39	411(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	arsénico	arsénico	NCMS000	C0052416_3	sustancia#producto_3	40-48	411(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	,	,	Fc	-	-	48-49	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	ATRA	all-transretinoic_acid_(ácido_transretinoico)	NC00YL0	-	-	50-54	411(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	y	y	CC	C1706368	calificador	55-56	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	57-64	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	65-67	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	soporte	soporte	NCMS000	-	-	68-75	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	76-77	411(1)_ANS_clinical_caseMIR	SENT1	-	-
+

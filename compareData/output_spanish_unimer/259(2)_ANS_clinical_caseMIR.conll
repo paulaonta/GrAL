@@ -1,0 +1,18 @@
+1	Implantación	implantación	NCFS000	-	-	0-12	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	13-15	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	marcapasos	marcapasos	NCMN000	-	-	16-26	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	transitorio	transitorio	AQ0MS0	C0205374	calificador	27-38	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	38-39	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	40-47	259(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	antibiótica	antibiótico	AQ0FS0	C0003232	producto#sustancia	48-59	259(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	según	según	SPS00	-	-	60-65	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	66-78	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	e	y	CC	C1706368	calificador	79-80	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	implantación	implantación	NCFS000	-	-	81-93	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	percutánea	percutánea	AQ0FS00	-	-	94-104	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	105-107	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	prótesis	prótesis	NCFN000	C0182431_1	objeto_físico_1	108-116	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	valvular	valvular	AQ0CS0	C0182431_2	objeto_físico_2	117-125	259(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	aórtica	aórtico	AQ0FS0	C0182431_3	objeto_físico_3	126-133	259(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	134-135	259(2)_ANS_clinical_caseMIR	SENT1	-	-
+

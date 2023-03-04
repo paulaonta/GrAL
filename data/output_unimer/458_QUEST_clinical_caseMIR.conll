@@ -1,0 +1,87 @@
+1	Isabel	isabel	NCMS000	-	-	0-6	458_QUEST_clinical_caseMIR	SENT1	-	-
+2	tiene	tener	VMIP3S0	-	-	7-12	458_QUEST_clinical_caseMIR	SENT1	-	-
+3	tres	tres		-	-	13-17	458_QUEST_clinical_caseMIR	SENT1	-	-
+4	hijos	hijo	NCMP000	-	-	18-23	458_QUEST_clinical_caseMIR	SENT1	-	-
+5	varones	varón	NCMP000	C0086582	hallazgo#estructura_corporal	24-31	458_QUEST_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	32-33	458_QUEST_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	34-37	458_QUEST_clinical_caseMIR	SENT1	-	-
+8	hija	hijo	NCFS000	-	-	38-42	458_QUEST_clinical_caseMIR	SENT1	-	-
+9	(	(	Fpa	-	-	43-44	458_QUEST_clinical_caseMIR	SENT1	-	-
+10	María	maría	NCFS000	-	-	44-49	458_QUEST_clinical_caseMIR	SENT1	-	-
+11	)	)	Fpt	-	-	49-50	458_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	50-51	458_QUEST_clinical_caseMIR	SENT1	-	-
+13	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	52-57	458_QUEST_clinical_caseMIR	SENT1	-	-
+14	ellos	ellos	PP3MP000	-	-	58-63	458_QUEST_clinical_caseMIR	SENT1	-	-
+15	sanos	sano	AQ0MP0	-	-	64-69	458_QUEST_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	69-70	458_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Un	Un		C0205447_1	calificador_1	71-73	458_QUEST_clinical_caseMIR	SENT2	-	-
+2	hermano	hermano	NCMS000	C0337527	persona	74-81	458_QUEST_clinical_caseMIR	SENT2	-	-
+3	y	y	CC	C1706368	calificador	82-83	458_QUEST_clinical_caseMIR	SENT2	-	-
+4	un	un		C0205447_1	calificador_1	84-86	458_QUEST_clinical_caseMIR	SENT2	-	-
+5	tío	tío	NCMS000	C0337577	persona	87-90	458_QUEST_clinical_caseMIR	SENT2	-	-
+6	materno	materno	AQ0MS0	-	-	91-98	458_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	99-101	458_QUEST_clinical_caseMIR	SENT2	-	-
+8	Isabel	isabel	NCMS000	-	-	102-108	458_QUEST_clinical_caseMIR	SENT2	-	-
+9	fallecieron	fallecer	VMIS3P0	-	-	109-120	458_QUEST_clinical_caseMIR	SENT2	-	-
+10	por	por	SPS00	C0678226	atributo	121-124	458_QUEST_clinical_caseMIR	SENT2	-	-
+11	estar	estar	VAN0000	-	-	125-130	458_QUEST_clinical_caseMIR	SENT2	-	-
+12	afectos	afecto	NCMP000	C0001721	función	131-138	458_QUEST_clinical_caseMIR	SENT2	-	-
+13	de	de	SPS00	C0332285	atributo	139-141	458_QUEST_clinical_caseMIR	SENT2	-	-
+14	la	el	DA0FS0	-	-	142-144	458_QUEST_clinical_caseMIR	SENT2	-	-
+15	enfermedad	enfermedad	NCFS000	C0039223#C1282408_1	trastorno_1	145-155	458_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	de	de	SPS00	C0039223#C1282408_2	trastorno_2	156-158	458_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+17	Duchenne	Duchenne		C0039223#C1282408_3	trastorno_3	159-167	458_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+18	;	;	Fx	-	-	167-168	458_QUEST_clinical_caseMIR	SENT2	-	-
+19	una	una		C0205447_1	calificador_1	169-172	458_QUEST_clinical_caseMIR	SENT2	-	-
+20	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	173-183	458_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+21	recesiva	recesivo	AQ0FS0	-	-	184-192	458_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+22	ligada	ligar	VMP00SF	-	-	193-199	458_QUEST_clinical_caseMIR	SENT2	-	-
+23	al	al	SP+DA	-	-	200-202	458_QUEST_clinical_caseMIR	SENT2	-	-
+24	cromosoma	cromosoma	NCMS000	C0008633	estructura_celular	203-212	458_QUEST_clinical_caseMIR	SENT2	-	-
+25	X.	x.	VMIP3S0	-	-	213-215	458_QUEST_clinical_caseMIR	SENT2	-	-
+26	Actualmente	actualmente	RG	C0521116	calificador	216-227	458_QUEST_clinical_caseMIR	SENT2	-	-
+27	,	,	Fc	-	-	227-228	458_QUEST_clinical_caseMIR	SENT2	-	-
+28	María	maría	NCFS000	-	-	229-234	458_QUEST_clinical_caseMIR	SENT2	-	-
+29	desea	desear	VMIP3S0	-	-	235-240	458_QUEST_clinical_caseMIR	SENT2	-	-
+30	quedar	quedar	VMN0000	-	-	241-247	458_QUEST_clinical_caseMIR	SENT2	-	-
+31	se	se	PP3CN000	-	-	247-249	458_QUEST_clinical_caseMIR	SENT2	-	-
+32	embarazada	embarazar	VMP00SF	-	-	250-260	458_QUEST_clinical_caseMIR	SENT2	-	-
+33	y	y	CC	C1706368	calificador	261-262	458_QUEST_clinical_caseMIR	SENT2	-	-
+34	quiere	querer	VMIP3S0	-	-	263-269	458_QUEST_clinical_caseMIR	SENT2	-	-
+35	conocer	conocer	VMN0000	-	-	270-277	458_QUEST_clinical_caseMIR	SENT2	-	-
+36	el	el	DA0MS0	-	-	278-280	458_QUEST_clinical_caseMIR	SENT2	-	-
+37	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	281-287	458_QUEST_clinical_caseMIR	SENT2	-	-
+38	de	de	SPS00	C0035647_2	calificador_2	288-290	458_QUEST_clinical_caseMIR	SENT2	-	-
+39	transmitir	transmitir	VMN0000	-	-	291-301	458_QUEST_clinical_caseMIR	SENT2	-	-
+40	la	el	DA0FS0	-	-	302-304	458_QUEST_clinical_caseMIR	SENT2	-	-
+41	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	305-315	458_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+42	a	a	SPS00	-	-	316-317	458_QUEST_clinical_caseMIR	SENT2	-	-
+43	su	su	DP3CS0	-	-	318-320	458_QUEST_clinical_caseMIR	SENT2	-	-
+44	descenden_x0002_cia	descenden_x0002_cia		-	-	321-340	458_QUEST_clinical_caseMIR	SENT2	-	-
+45	.	.	Fp	-	-	340-341	458_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Con	con	SPS00	C0332287	atributo	342-345	458_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	346-349	458_QUEST_clinical_caseMIR	SENT3	-	-
+3	datos	dato	NCMP000	-	-	350-355	458_QUEST_clinical_caseMIR	SENT3	-	-
+4	recogidos	recoger	VMP00PM	-	-	356-365	458_QUEST_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	365-366	458_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	367-368	458_QUEST_clinical_caseMIR	SENT4	-	-
+2	cuál	cuál	PT0CS000	-	-	368-372	458_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	373-375	458_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	376-378	458_QUEST_clinical_caseMIR	SENT4	-	-
+5	probabilidad	probabilidad	NCFS000	-	-	379-391	458_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	392-394	458_QUEST_clinical_caseMIR	SENT4	-	-
+7	que	que	PR0CN000	-	-	395-398	458_QUEST_clinical_caseMIR	SENT4	-	-
+8	María	maría	NCFS000	-	-	399-404	458_QUEST_clinical_caseMIR	SENT4	-	-
+9	sea	ser	VSSP1S0	-	-	405-408	458_QUEST_clinical_caseMIR	SENT4	-	-
+10	portadora	portador	AQ0FS0	C0560175	hallazgo	409-418	458_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	419-421	458_QUEST_clinical_caseMIR	SENT4	-	-
+12	la	el	DA0FS0	-	-	422-424	458_QUEST_clinical_caseMIR	SENT4	-	-
+13	enfermedad	enfermedad	NCFS000	C0039223#C1282408_1	trastorno_1	425-435	458_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0039223#C1282408_2	trastorno_2	436-438	458_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+15	Duchenne	Duchenne		C0039223#C1282408_3	trastorno_3	439-447	458_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+16	?	?	Fit	-	-	447-448	458_QUEST_clinical_caseMIR	SENT4	-	-
+17	.	.	Fp	-	-	448-449	458_QUEST_clinical_caseMIR	SENT4	-	-
+

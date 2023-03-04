@@ -1,0 +1,26 @@
+1	La	el	DA0FS0	-	-	0-2	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	3-14	27(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+3	del	del	SP+DA	-	-	15-18	27(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	crecimiento	crecimiento	NCMS000	C0018271#C1261479_1	hallazgo_1	19-30	27(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+5	y	y	NCFS000	C0018271#C1261479_2	hallazgo_2	31-32	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	desarrollo	desarrollo	NCMS000	C0018271#C1261479_3	hallazgo_3	33-43	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	sexual	sexual	AQ0CS0	-	-	44-50	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	50-51	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	edad	edad	NCFS000	C0541764_1	hallazgo_1	52-56	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	ósea	óseo	AQ0FS0	C0541764_2	hallazgo_2	57-61	27(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	retrasada	retrasar	VMP00SF	C0541764_3	hallazgo_3	62-71	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	71-72	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	cefalea	cefalea	NCFS000	C0018681	hallazgo	73-80	27(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	81-82	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	alteración	alteración	NCFS000	C0547030_1	hallazgo#trastorno_1	83-93	27(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	visual	visual	NC00SC0	C0547030_2	hallazgo#trastorno_2	94-100	27(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+17	sugieren	sugerir	VMIP3P0	-	-	101-109	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	déficit	déficit	NCMS000	C0162429	hallazgo	110-117	27(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+19	hormonal	hormonal	AQ0CS0	C0458083	calificador	118-126	27(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+20	y	y	CC	C1706368	calificador	127-128	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	compromiso	compromiso	NCMS000	C1314939	atributo	129-139	27(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	del	del	SP+DA	-	-	140-143	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	quiasma	quiasma	NCMS000	C0029126_1	estructura_corporal_1	144-151	27(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	óptico	óptico	NCMS000	C0029126_2	estructura_corporal_2	152-158	27(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	.	.	Fp	-	-	159-160	27(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,42 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	122_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	122_QUEST_clinical_caseMIR	SENT1	-	-
+3	45	45		-	-	9-11	122_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	122_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	122_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	122_QUEST_clinical_caseMIR	SENT1	-	-
+7	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	30-42	122_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	43-51	122_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	(	(	Fpa	-	-	52-53	122_QUEST_clinical_caseMIR	SENT1	-	-
+10	190/120	190/120	Z	-	-	53-60	122_QUEST_clinical_caseMIR	SENT1	-	-
+11	mmHg	mmHg	NCMP000	-	-	61-65	122_QUEST_clinical_caseMIR	SENT1	-	-
+12	)	)	Fpt	-	-	65-66	122_QUEST_clinical_caseMIR	SENT1	-	-
+13	acompañada	acompañar	VMP00SF	-	-	67-77	122_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	78-80	122_QUEST_clinical_caseMIR	SENT1	-	-
+15	K	k	NCFS000	-	-	81-82	122_QUEST_clinical_caseMIR	SENT1	-	-
+16	2.5	2.5		-	-	83-86	122_QUEST_clinical_caseMIR	SENT1	-	-
+17	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	87-90	122_QUEST_clinical_caseMIR	SENT1	-	-
+18	/	/	Fh	-	-	90-91	122_QUEST_clinical_caseMIR	SENT1	-	-
+19	l	l	NCFS000	-	-	91-92	122_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	92-93	122_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	94-96	122_QUEST_clinical_caseMIR	SENT2	-	-
+2	realiza	realizar	VMIP3S0	-	-	97-104	122_QUEST_clinical_caseMIR	SENT2	-	-
+3	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	105-114	122_QUEST_clinical_caseMIR	SENT2	-	-
+4	abdominal	abdominal	AQ0CS0	C0000726	calificador	115-124	122_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	que	que	PR0CN000	-	-	125-128	122_QUEST_clinical_caseMIR	SENT2	-	-
+6	muestra	mostrar	VMIP3S0	-	-	129-136	122_QUEST_clinical_caseMIR	SENT2	-	-
+7	estenosis	estenosis	NCFN000	C0009814#C1261287	anomalía_morfológica	137-146	122_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	147-149	122_QUEST_clinical_caseMIR	SENT2	-	-
+9	ambas	ambos	DI0FP0	C0238767	calificador	150-155	122_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	arterias	arteria	NCFP000	C1285085#C0003842	estructura_corporal	156-164	122_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	renales	renal	AQ0CP0	-	-	165-172	122_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	.	.	Fp	-	-	172-173	122_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Indique	indicar	VMSP3S0	-	-	174-181	122_QUEST_clinical_caseMIR	SENT3	-	-
+2	que	que	CS	-	-	182-185	122_QUEST_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	186-197	122_QUEST_clinical_caseMIR	SENT3	-	-
+4	está	estar	VAIP3S0	-	-	198-202	122_QUEST_clinical_caseMIR	SENT3	-	-
+5	contraindicado	contraindicar	VMP00SM	-	-	203-217	122_QUEST_clinical_caseMIR	SENT3	-	-
+6	:	:	Fd	-	-	217-218	122_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	218-219	122_QUEST_clinical_caseMIR	SENT3	-	-
+

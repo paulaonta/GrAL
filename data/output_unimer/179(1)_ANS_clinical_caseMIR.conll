@@ -1,0 +1,13 @@
+1	A	a	SPS00	-	-	0-1	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	algún	alguno	DI0MS0	C0205392	calificador	2-7	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	nivel	nivel	NCMS000	C0456079	atributo	8-13	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	del	del	SP+DA	-	-	14-17	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	tracto	tracto	NCMS000	-	-	18-24	179(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	corticoespinal	corticoespinal	AQ0CS0	-	-	25-39	179(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+7	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	40-47	179(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+8	,	,	Fc	-	-	47-48	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	49-52	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	53-63	179(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	64-72	179(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	.	.	Fp	-	-	73-74	179(1)_ANS_clinical_caseMIR	SENT1	-	-
+

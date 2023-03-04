@@ -1,0 +1,68 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	436_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	436_QUEST_clinical_caseMIR	SENT1	-	-
+3	66	66		-	-	9-11	436_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	436_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticada	diagnosticar	VMP00SF	-	-	17-30	436_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	31-33	436_QUEST_clinical_caseMIR	SENT1	-	-
+7	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	34-42	436_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	43-51	436_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+9	tipo	tipo	NCMS000	C0011860_3	trastorno_3	52-56	436_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	2	2	Z	C0011860_4	trastorno_4	57-58	436_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+11	desde	desde	SPS00	-	-	59-64	436_QUEST_clinical_caseMIR	SENT1	-	-
+12	hace	hacer	VMIP3S0	-	-	65-69	436_QUEST_clinical_caseMIR	SENT1	-	-
+13	tres	tres		-	-	70-74	436_QUEST_clinical_caseMIR	SENT1	-	-
+14	meses	mes	NCMP000	C0439231	calificador	75-80	436_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	80-81	436_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	82-87	436_QUEST_clinical_caseMIR	SENT2	-	-
+2	un	un		C0205447_1	calificador_1	88-90	436_QUEST_clinical_caseMIR	SENT2	-	-
+3	IMC	imc	NC00SC0	C1305855	entidad_observable	91-94	436_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	95-97	436_QUEST_clinical_caseMIR	SENT2	-	-
+5	31	31		-	-	98-100	436_QUEST_clinical_caseMIR	SENT2	-	-
+6	Kg/m2	Kg/m2		-	-	101-106	436_QUEST_clinical_caseMIR	SENT2	-	-
+7	y	y	CC	C1706368	calificador	107-108	436_QUEST_clinical_caseMIR	SENT2	-	-
+8	presenta	presentar	VMIP3S0	-	-	109-117	436_QUEST_clinical_caseMIR	SENT2	-	-
+9	mal	mal	RG	C0205169	calificador	118-121	436_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	control	control	NCMS000	C2587213	atributo	122-129	436_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+11	glucémico	glucémico	AQ0MS0	-	-	130-139	436_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+12	a	a	SPS00	-	-	140-141	436_QUEST_clinical_caseMIR	SENT2	-	-
+13	pesar	pesar	VMN0000	C1879338#C0018235	hallazgo	142-147	436_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	148-150	436_QUEST_clinical_caseMIR	SENT2	-	-
+15	realizar	realizar	VMN0000	-	-	151-159	436_QUEST_clinical_caseMIR	SENT2	-	-
+16	un	un		C0205447_1	calificador_1	160-162	436_QUEST_clinical_caseMIR	SENT2	-	-
+17	programa	programa	NCMS000	-	-	163-171	436_QUEST_clinical_caseMIR	SENT2	-	-
+18	de	de	SPS00	C0332285	atributo	172-174	436_QUEST_clinical_caseMIR	SENT2	-	-
+19	medidas	medida	NCFP000	C0079809	atributo	175-182	436_QUEST_clinical_caseMIR	SENT2	-	-
+20	no	no	RN	C1298908	calificador	183-185	436_QUEST_clinical_caseMIR	SENT2	-	-
+21	farmacológicas	farmacológico	AQ0FP0	C0205464	calificador	186-200	436_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+22	(	(	Fpa	-	-	201-202	436_QUEST_clinical_caseMIR	SENT2	-	-
+23	alimentación	alimentación	NCFS000	C2987508#C1286346	entidad_observable	202-214	436_QUEST_clinical_caseMIR	SENT2	-	-
+24	saludable	saludable	AQ0CS0	-	-	215-224	436_QUEST_clinical_caseMIR	SENT2	-	-
+25	,	,	Fc	-	-	224-225	436_QUEST_clinical_caseMIR	SENT2	-	-
+26	ejercicio	ejercicio	NCMS000	C0015259	entidad_observable	226-235	436_QUEST_clinical_caseMIR	SENT2	-	-
+27	)	)	Fpt	-	-	235-236	436_QUEST_clinical_caseMIR	SENT2	-	-
+28	.	.	Fp	-	-	236-237	436_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	238-239	436_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	239-243	436_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	244-246	436_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	247-250	436_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	251-261	436_QUEST_clinical_caseMIR	SENT3	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	262-270	436_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+7	hipoglucemiantes	hipoglucemiante	AQ0CP0	C0020616	producto	271-287	436_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+8	se	se	P00CN000	-	-	288-290	436_QUEST_clinical_caseMIR	SENT3	-	-
+9	asocia	asociar	VMIP3S0	-	-	291-297	436_QUEST_clinical_caseMIR	SENT3	-	-
+10	a	a	SPS00	-	-	298-299	436_QUEST_clinical_caseMIR	SENT3	-	-
+11	aumento	aumento	NCMS000	C0043094_1	hallazgo_1	300-307	436_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0043094_2	hallazgo_2	308-310	436_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+13	peso	peso	NCMS000	C0043094_3	hallazgo_3	311-315	436_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+14	y	y	CC	C1706368	calificador	316-317	436_QUEST_clinical_caseMIR	SENT3	-	-
+15	deberíamos	deber	VMIC1P0	-	-	318-328	436_QUEST_clinical_caseMIR	SENT3	-	-
+16	evitar	evitar	VMN0000	-	-	329-335	436_QUEST_clinical_caseMIR	SENT3	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	336-338	436_QUEST_clinical_caseMIR	SENT3	-	-
+18	esta	este	DD0FS0	-	-	339-343	436_QUEST_clinical_caseMIR	SENT3	-	-
+19	paciente	paciente	NCCS000	C0030705	persona	344-352	436_QUEST_clinical_caseMIR	SENT3	-	-
+20	?	?	Fit	-	-	352-353	436_QUEST_clinical_caseMIR	SENT3	-	-
+21	:	:	Fd	-	-	353-354	436_QUEST_clinical_caseMIR	SENT3	-	-
+22	.	.	Fp	-	-	354-355	436_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,25 @@
+1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	500	500	Z	-	-	12-15	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	mg	mg	NCMN000	-	-	16-18	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	19-21	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	22-33	434(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	intramuscular	intramuscular	AQ0CS0	C0442117	calificador	34-47	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	47-48	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	1	1	Z	-	-	49-50	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	g	g	NCMN000	-	-	51-52	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	53-55	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	azitromicina	azitromicina	NC00SC0	C0052796	producto#sustancia	56-68	434(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	vía	vía	NCFS000	C1527415_1	calificador_1	69-72	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	oral	oral	NC00SC0	C1527415_2	calificador_2	73-77	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	y	y	CC	C1706368	calificador	78-79	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	2	2	Z	-	-	80-81	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	g	g	NCMN000	-	-	82-83	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	84-86	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	tinidazol	tinidazol	NC00SC0	C0040263	sustancia#producto	87-96	434(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	vía	vía	NCFS000	C1527415_1	calificador_1	97-100	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	oral	oral	NC00SC0	C1527415_2	calificador_2	101-105	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	dosis	dosis	NCFN000	-	-	109-114	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	únicas	único	AQ0FP0	C0205171	calificador	115-121	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	122-123	434(2)_ANS_clinical_caseMIR	SENT1	-	-
+

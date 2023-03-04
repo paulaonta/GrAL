@@ -1,0 +1,21 @@
+1	Osteoporosis	osteoporosis	NCFN000	C0029456	trastorno	0-12	116(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	post-menopáusica	post-menopáusica	AQ0FS00	-	-	13-29	116(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	.	.	Fp	-	-	29-30	116(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	31-39	116(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	40-48	116(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+6	tipo	tipo	NCMS000	C0011860_3	trastorno_3	49-53	116(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	2	2	Z	C0011860_4	trastorno_4	54-55	116(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+8	e	y	CC	C1706368	calificador	56-57	116(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	hipertensión	hipertensión	NCFS000	C0085580_1	trastorno_1	58-70	116(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	arterial	arterial	NC00SC0	C0085580_2	trastorno_2	71-79	116(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	esencial	esencial	NC00SC0	C0085580_3	trastorno_3	80-88	116(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	,	,	Fc	-	-	88-89	116(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	90-93	116(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	94-105	116(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	de	de	SPS00	C0332285	atributo	106-108	116(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+16	fuerza	fuerza	NCFS000	-	-	109-115	116(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+17	por	por	SPS00	C0678226	atributo	116-119	116(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	polineuropatía	polineuropatía	NC00SC0	C0271680_1	trastorno_1	120-134	116(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	diabética	diabético	NCFS000	C0271680_2	trastorno_2	135-144	116(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+20	.	.	Fp	-	-	145-146	116(0)_ANS_clinical_caseMIR	SENT1	-	-
+

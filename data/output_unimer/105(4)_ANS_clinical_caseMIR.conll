@@ -1,0 +1,22 @@
+1	El	el	DA0MS0	-	-	0-2	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	manejo	manejo	NCMS000	C1273870	procedimiento	3-9	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	inicial	inicial	AQ0CS0	C0205265	calificador	10-17	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	debe	deber	VMIP3S0	-	-	18-22	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	ser	ser	VSN0000	-	-	23-26	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	conservador	conservador	AQ0MS0	C0183009	atributo	27-38	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	38-39	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	40-43	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	sueroterapia	sueroterapia	NCFS000	-	-	44-56	105(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	,	,	Fc	-	-	56-57	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	58-68	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	nasogástrica	nasogástrica	AQ0FS00	-	-	69-81	105(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	82-83	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	84-94	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	clínica	clínico	AQ0FS0	C0205210	calificador	95-102	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	102-103	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	analítica	analítico	AQ0FS0	-	-	104-113	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	y	y	CC	C1706368	calificador	114-115	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+19	radiográfica	radiográfico	AQ0FS0	C0444708	calificador	116-128	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+20	periódica	periódico	AQ0FS0	C0332182	calificador	129-138	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	139-140	105(4)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,77 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	151_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	151_QUEST_clinical_caseMIR	SENT1	-	-
+3	70	70		-	-	9-11	151_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	151_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	151_QUEST_clinical_caseMIR	SENT1	-	-
+6	hipertensa	hipertenso	AQ0FS0	-	-	18-28	151_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	29-30	151_QUEST_clinical_caseMIR	SENT1	-	-
+8	diabética	diabético	AQ0FS0	-	-	31-40	151_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	que	que	PR0CN000	-	-	41-44	151_QUEST_clinical_caseMIR	SENT1	-	-
+10	ha	haber	VAIP3S0	-	-	45-47	151_QUEST_clinical_caseMIR	SENT1	-	-
+11	trabajado	trabajar	VMP00SM	-	-	48-57	151_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	58-60	151_QUEST_clinical_caseMIR	SENT1	-	-
+13	dependienta	dependiente	NCFS000	C0851827	calificador	61-72	151_QUEST_clinical_caseMIR	SENT1	-	-
+14	toda	todo	DI0FS0	C0205197#C0439810#C0444868#C0444667	calificador	73-77	151_QUEST_clinical_caseMIR	SENT1	-	-
+15	su	su	DP3CS0	-	-	78-80	151_QUEST_clinical_caseMIR	SENT1	-	-
+16	vida	vida	NCFS000	-	-	81-85	151_QUEST_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	85-86	151_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	87-95	151_QUEST_clinical_caseMIR	SENT2	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	96-99	151_QUEST_clinical_caseMIR	SENT2	-	-
+3	una	una		C0205447_1	calificador_1	100-103	151_QUEST_clinical_caseMIR	SENT2	-	-
+4	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	104-110	151_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	maleolar	maleolar	AQ0CS0	-	-	111-119	151_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	interna	interno	AQ0FS0	C0205102	calificador	120-127	151_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	128-130	151_QUEST_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	131-133	151_QUEST_clinical_caseMIR	SENT2	-	-
+9	pierna	pierna	NCFS000	C1279605#C0230442_1	estructura_corporal_1	134-140	151_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	derecha	derecho	AQ0FS0	C1279605#C0230442_2	estructura_corporal_2	141-148	151_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	con	con	SPS00	C0332287	atributo	149-152	151_QUEST_clinical_caseMIR	SENT2	-	-
+12	intenso	intenso	AQ0MS0	C0205178	calificador	153-160	151_QUEST_clinical_caseMIR	SENT2	-	-
+13	dolor	dolor	NCMS000	C0030193	hallazgo	161-166	151_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	durante	durante	SPS00	C1444752#C0347984	atributo	167-174	151_QUEST_clinical_caseMIR	SENT2	-	-
+15	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	175-179	151_QUEST_clinical_caseMIR	SENT2	-	-
+16	el	el	DA0MS0	-	-	180-182	151_QUEST_clinical_caseMIR	SENT2	-	-
+17	día	día	NCMS000	C0439228#C0332169	calificador	183-186	151_QUEST_clinical_caseMIR	SENT2	-	-
+18	que	que	PR0CN000	-	-	187-190	151_QUEST_clinical_caseMIR	SENT2	-	-
+19	empeora	empeorar	VMM02S0	-	-	191-198	151_QUEST_clinical_caseMIR	SENT2	-	-
+20	durante	durante	SPS00	C1444752#C0347984	atributo	199-206	151_QUEST_clinical_caseMIR	SENT2	-	-
+21	la	el	DA0FS0	-	-	207-209	151_QUEST_clinical_caseMIR	SENT2	-	-
+22	noche	noche	NCFS000	C0240526	calificador	210-215	151_QUEST_clinical_caseMIR	SENT2	-	-
+23	.	.	Fp	-	-	215-216	151_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	217-218	151_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	219-221	151_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	222-233	151_QUEST_clinical_caseMIR	SENT3	-	-
+4	destacan	destacar	VMIP3P0	-	-	234-242	151_QUEST_clinical_caseMIR	SENT3	-	-
+5	cordones	cordón	NCMP000	-	-	243-251	151_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	varicosos	varicoso	AQ0MP0	C0439652	calificador	252-261	151_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+7	no	no	RN	C1298908	calificador	262-264	151_QUEST_clinical_caseMIR	SENT3	-	-
+8	complicados	complicar	VMP00PM	-	-	265-276	151_QUEST_clinical_caseMIR	SENT3	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	277-279	151_QUEST_clinical_caseMIR	SENT3	-	-
+10	ambas	ambos	DI0FP0	C0238767	calificador	280-285	151_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	286-298	151_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+12	y	y	CC	C1706368	calificador	299-300	151_QUEST_clinical_caseMIR	SENT3	-	-
+13	pulsos	pulso	NCMP000	C0391850	función	301-307	151_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	femorales	femoral	AQ0CP0	C0015811	calificador	308-317	151_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	318-319	151_QUEST_clinical_caseMIR	SENT3	-	-
+16	poplíteos	poplíteo	AQ0MP0	C0442037	calificador	320-329	151_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	normales	normal	AQ0CP0	C0205307	calificador	330-338	151_QUEST_clinical_caseMIR	SENT3	-	-
+18	con	con	SPS00	C0332287	atributo	339-342	151_QUEST_clinical_caseMIR	SENT3	-	-
+19	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	343-351	151_QUEST_clinical_caseMIR	SENT3	-	-
+20	de	de	SPS00	C0332197_2	calificador_2	352-354	151_QUEST_clinical_caseMIR	SENT3	-	-
+21	distales	distal	AQ0CP0	C0205108	calificador	355-363	151_QUEST_clinical_caseMIR	SENT3	-	-
+22	.	.	Fp	-	-	363-364	151_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	365-366	151_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	366-369	151_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	370-381	151_QUEST_clinical_caseMIR	SENT4	-	-
+4	deberíamos	deber	VMIC1P0	-	-	382-392	151_QUEST_clinical_caseMIR	SENT4	-	-
+5	realizar	realizar	VMN0000	-	-	393-401	151_QUEST_clinical_caseMIR	SENT4	-	-
+6	en	en	SPS00	C1279901_1	calificador_1	402-404	151_QUEST_clinical_caseMIR	SENT4	-	-
+7	primer	1	AO0MS0	C1279901_2	calificador_2	405-411	151_QUEST_clinical_caseMIR	SENT4	-	-
+8	lugar	lugar	NCMS000	C1279901_3	calificador_3	412-417	151_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	417-418	151_QUEST_clinical_caseMIR	SENT4	-	-
+10	:	:	Fd	-	-	418-419	151_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	419-420	151_QUEST_clinical_caseMIR	SENT4	-	-
+

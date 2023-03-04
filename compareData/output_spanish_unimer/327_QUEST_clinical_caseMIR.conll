@@ -1,0 +1,77 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	327_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	327_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	327_QUEST_clinical_caseMIR	SENT1	-	-
+4	25	25		-	-	15-17	327_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	327_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	22-23	327_QUEST_clinical_caseMIR	SENT1	-	-
+7	durante	durante	SPS00	C1444752#C0347984	atributo	24-31	327_QUEST_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	32-34	327_QUEST_clinical_caseMIR	SENT1	-	-
+9	partido	partido	NCMS000	-	-	35-42	327_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	43-45	327_QUEST_clinical_caseMIR	SENT1	-	-
+11	tenis	tenis	NCMS000	-	-	46-51	327_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	51-52	327_QUEST_clinical_caseMIR	SENT1	-	-
+13	tiene	tener	VMIP3S0	-	-	53-58	327_QUEST_clinical_caseMIR	SENT1	-	-
+14	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	59-64	327_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	65-72	327_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	73-75	327_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	76-78	327_QUEST_clinical_caseMIR	SENT1	-	-
+18	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	79-85	327_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	y	y	CC	C1706368	calificador	86-87	327_QUEST_clinical_caseMIR	SENT1	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	88-90	327_QUEST_clinical_caseMIR	SENT1	-	-
+21	el	el	DA0MS0	-	-	91-93	327_QUEST_clinical_caseMIR	SENT1	-	-
+22	ojo	ojo	NCMS000	C1305218#C0229090_1	estructura_corporal_1	94-97	327_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	98-107	327_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	.	.	Fp	-	-	107-108	327_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	109-111	327_QUEST_clinical_caseMIR	SENT2	-	-
+2	mañana	mañana	RG	C0554816_1	calificador_1	112-118	327_QUEST_clinical_caseMIR	SENT2	-	-
+3	siguiente	siguiente	NC00SC0	C0554816_2	calificador_2	119-128	327_QUEST_clinical_caseMIR	SENT2	-	-
+4	se	se	P00CN000	-	-	129-131	327_QUEST_clinical_caseMIR	SENT2	-	-
+5	despierta	despertar	VMIP3S0	C0442696#C1720052	entidad_observable#calificador	132-141	327_QUEST_clinical_caseMIR	SENT2	-	-
+6	con	con	SPS00	C0332287	atributo	142-145	327_QUEST_clinical_caseMIR	SENT2	-	-
+7	sensación	sensación	NCFS000	C0036658#C1455667	calificador	146-155	327_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	156-158	327_QUEST_clinical_caseMIR	SENT2	-	-
+9	inestabilidad	inestabilidad	NCFS000	C0231686_1	hallazgo_1	159-172	327_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0231686_2	hallazgo_2	173-175	327_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+11	la	lo	PP3FSA00	C0231686_3	hallazgo_3	176-178	327_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+12	marcha	marchar	VMM02S0	C0231686_4	hallazgo_4	179-185	327_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+13	y	y	CC	C1706368	calificador	186-187	327_QUEST_clinical_caseMIR	SENT2	-	-
+14	tiene	tener	VMIP3S0	C0423131_1	hallazgo_1	188-193	327_QUEST_clinical_caseMIR	SENT2	-	-
+15	ptosis	ptosis	NCFN000	C0423131_2	hallazgo_2	194-200	327_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	palpebral	palpebral	AQ0CS0	C0423131_3	hallazgo_3	201-210	327_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	del	del	SP+DA	-	-	211-214	327_QUEST_clinical_caseMIR	SENT2	-	-
+18	ojo	ojo	NCMS000	C1305218#C0229090_1	estructura_corporal_1	215-218	327_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	219-228	327_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+20	y	y	CC	C1706368	calificador	229-230	327_QUEST_clinical_caseMIR	SENT2	-	-
+21	anisocoria	anisocoria	NCFS000	C0003079	trastorno	231-241	327_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+22	,	,	Fc	-	-	241-242	327_QUEST_clinical_caseMIR	SENT2	-	-
+23	siendo	ser	VSG0000	-	-	243-249	327_QUEST_clinical_caseMIR	SENT2	-	-
+24	la	el	DA0FS0	-	-	250-252	327_QUEST_clinical_caseMIR	SENT2	-	-
+25	pupila	pupilo	NCFS000	-	-	253-259	327_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+26	izquierda	izquierdo	AQ0FS0	C0205091	calificador	260-269	327_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+27	más	más	RG	C0205172	calificador	270-273	327_QUEST_clinical_caseMIR	SENT2	-	-
+28	pequeña	pequeño	AQ0FS0	C0700321#C1282918	calificador	274-281	327_QUEST_clinical_caseMIR	SENT2	-	-
+29	que	que	CS	-	-	282-285	327_QUEST_clinical_caseMIR	SENT2	-	-
+30	la	el	DA0FS0	-	-	286-288	327_QUEST_clinical_caseMIR	SENT2	-	-
+31	derecha	derecha	NCFS000	-	-	289-296	327_QUEST_clinical_caseMIR	SENT2	-	-
+32	.	.	Fp	-	-	296-297	327_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	298-300	327_QUEST_clinical_caseMIR	SENT3	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	301-309	327_QUEST_clinical_caseMIR	SENT3	-	-
+3	mantiene	mantener	VMIP3S0	-	-	310-318	327_QUEST_clinical_caseMIR	SENT3	-	-
+4	buena	bueno	AQ0FS0	C0205170	calificador	319-324	327_QUEST_clinical_caseMIR	SENT3	-	-
+5	agudeza	agudeza	NCFS000	C0042812_1	entidad_observable_1	325-332	327_QUEST_clinical_caseMIR	SENT3	-	-
+6	visual	visual	NC00SC0	C0042812_2	entidad_observable_2	333-339	327_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	339-340	327_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	341-342	327_QUEST_clinical_caseMIR	SENT4	-	-
+2	Dónde	dónde	PT000000	-	-	342-347	327_QUEST_clinical_caseMIR	SENT4	-	-
+3	localizaría	localizar	VMIC3S0	-	-	348-359	327_QUEST_clinical_caseMIR	SENT4	-	-
+4	con	con	SPS00	C0332287	atributo	360-363	327_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	364-367	327_QUEST_clinical_caseMIR	SENT4	-	-
+6	probabilidad	probabilidad	NCFS000	-	-	368-380	327_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	381-383	327_QUEST_clinical_caseMIR	SENT4	-	-
+8	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	384-390	327_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+9	?	?	Fit	-	-	390-391	327_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	391-392	327_QUEST_clinical_caseMIR	SENT4	-	-
+

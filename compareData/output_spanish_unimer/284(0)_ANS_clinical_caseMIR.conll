@@ -1,0 +1,18 @@
+1	Se	se	P00CN000	-	-	0-2	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	iniciar	iniciar	VMN0000	-	-	8-15	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	16-27	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	28-31	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	cloxacilina	cloxacilina	NC00SC0	C0009077	producto#sustancia	32-43	284(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	44-45	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	46-57	284(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	58-60	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	espera	espera	NCFS000	-	-	61-67	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	del	del	SP+DA	-	-	68-71	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	72-81	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	del	del	SP+DA	-	-	82-85	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	cultivo	cultivo	NCMS000	-	-	86-93	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	del	del	SP+DA	-	-	94-97	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	98-105	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	106-107	284(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,21 @@
+1	Cambiar	cambiar	VMN0000	-	-	0-7	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	8-10	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	metronidazol	metronidazol	NC00SC0	C0025872	sustancia	11-23	427(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	por	por	SPS00	C0678226	atributo	24-27	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	piperacilina	piperacilina	NC00SC0	C0031955	producto#sustancia	28-40	427(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	/	/	Fh	-	-	40-41	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	tazobactam	tazobactam	NC00SC0	C0075870	sustancia#producto	42-52	427(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	(	(	Fpa	-	-	53-54	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	4	4	Z	-	-	54-55	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	g	g	NCMN000	-	-	56-57	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	58-60	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	piperacilina/0,5	piperacilina/0,5	Z	-	-	61-77	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	g	g	NCMN000	-	-	78-79	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	80-82	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	tazobactam	tazobactam	NC00SC0	C0075870	sustancia#producto	83-93	427(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+16	cada	cada	DI0CS0	C1457900	calificador	94-98	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	8	8	Z	C1292429_1	calificador_1	99-100	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	horas	hora	NCFP000	C1292429_2	calificador_2	101-106	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	)	)	Fpt	-	-	106-107	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	108-109	427(1)_ANS_clinical_caseMIR	SENT1	-	-
+

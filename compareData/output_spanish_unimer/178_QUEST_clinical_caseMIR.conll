@@ -1,0 +1,207 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	178_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	178_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	178_QUEST_clinical_caseMIR	SENT1	-	-
+4	77	77		-	-	13-15	178_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	178_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	178_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	25-37	178_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	38-40	178_QUEST_clinical_caseMIR	SENT1	-	-
+9	Diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	41-49	178_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	Mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	50-58	178_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	tipo	tipo	NCMS000	C0011860_3	trastorno_3	59-63	178_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	2	2	Z	C0011860_4	trastorno_4	64-65	178_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+13	,	,	Fc	-	-	65-66	178_QUEST_clinical_caseMIR	SENT1	-	-
+14	fue	ser	VSIS3S0	-	-	67-70	178_QUEST_clinical_caseMIR	SENT1	-	-
+15	diagnosticado	diagnosticar	VMP00SM	-	-	71-84	178_QUEST_clinical_caseMIR	SENT1	-	-
+16	hace	hacer	VMIP3S0	-	-	85-89	178_QUEST_clinical_caseMIR	SENT1	-	-
+17	2	2		-	-	90-91	178_QUEST_clinical_caseMIR	SENT1	-	-
+18	años	año	NCMP000	C0439234	calificador	92-96	178_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	97-99	178_QUEST_clinical_caseMIR	SENT1	-	-
+20	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	100-109	178_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	cognitivo	cognitivo	AQ0MS0	-	-	110-119	178_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	leve	leve	NC00SC0	C2945599#C0547040#C1282907	calificador	120-124	178_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+23	.	.	Fp	-	-	124-125	178_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	126-128	178_QUEST_clinical_caseMIR	SENT2	-	-
+2	aquel	aquel	DD0MS0	-	-	129-134	178_QUEST_clinical_caseMIR	SENT2	-	-
+3	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	135-142	178_QUEST_clinical_caseMIR	SENT2	-	-
+4	se	se	P00CN000	-	-	143-145	178_QUEST_clinical_caseMIR	SENT2	-	-
+5	practicó	practicar	VMIS3S0	-	-	146-154	178_QUEST_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	155-157	178_QUEST_clinical_caseMIR	SENT2	-	-
+7	Minimental	minimental	AQ0CS00	-	-	158-168	178_QUEST_clinical_caseMIR	SENT2	-	-
+8	(	(	Fpa	-	-	169-170	178_QUEST_clinical_caseMIR	SENT2	-	-
+9	Folstein	folstein	NCMS000	-	-	170-178	178_QUEST_clinical_caseMIR	SENT2	-	-
+10	)	)	Fpt	-	-	178-179	178_QUEST_clinical_caseMIR	SENT2	-	-
+11	28/30	28/30		-	-	180-185	178_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	185-186	178_QUEST_clinical_caseMIR	SENT2	-	-
+13	Test	test	NCMS000	-	-	187-191	178_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	192-194	178_QUEST_clinical_caseMIR	SENT2	-	-
+15	Yesavage	yesavage	NCMS000	-	-	195-203	178_QUEST_clinical_caseMIR	SENT2	-	-
+16	abreviado	abreviar	VMP00SM	-	-	204-213	178_QUEST_clinical_caseMIR	SENT2	-	-
+17	14/15	14/15		-	-	214-219	178_QUEST_clinical_caseMIR	SENT2	-	-
+18	,	,	Fc	-	-	219-220	178_QUEST_clinical_caseMIR	SENT2	-	-
+19	una	una		C0205447_1	calificador_1	221-224	178_QUEST_clinical_caseMIR	SENT2	-	-
+20	analítica	analítica	NCFS000	-	-	225-234	178_QUEST_clinical_caseMIR	SENT2	-	-
+21	con	con	SPS00	C0332287	atributo	235-238	178_QUEST_clinical_caseMIR	SENT2	-	-
+22	TSH	thyroid-stimulating_hormone_(hormona__tiroestimulante)	NC00YL0	-	-	239-242	178_QUEST_clinical_caseMIR	SENT2	-	-
+23	y	y	CC	C1706368	calificador	243-244	178_QUEST_clinical_caseMIR	SENT2	-	-
+24	factores	factor	NCMP000	-	-	245-253	178_QUEST_clinical_caseMIR	SENT2	-	-
+25	de	de	SPS00	C0332285	atributo	254-256	178_QUEST_clinical_caseMIR	SENT2	-	-
+26	maduración	maduración	NCFS000	-	-	257-267	178_QUEST_clinical_caseMIR	SENT2	-	-
+27	normales	normal	AQ0CP0	C0205307	calificador	268-276	178_QUEST_clinical_caseMIR	SENT2	-	-
+28	junto	junto	RG	-	-	277-282	178_QUEST_clinical_caseMIR	SENT2	-	-
+29	con	con	SPS00	C0332287	atributo	283-286	178_QUEST_clinical_caseMIR	SENT2	-	-
+30	serologías	serología	NCFP000	-	-	287-297	178_QUEST_clinical_caseMIR	SENT2	-	-
+31	de	de	SPS00	C0332285	atributo	298-300	178_QUEST_clinical_caseMIR	SENT2	-	-
+32	LUES	lues	NCMN000	-	-	301-305	178_QUEST_clinical_caseMIR	SENT2	-	-
+33	y	y	CC	C1706368	calificador	306-307	178_QUEST_clinical_caseMIR	SENT2	-	-
+34	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	308-311	178_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+35	negativas	negativo	AQ0FP0	C0205160#C0549184	calificador	312-321	178_QUEST_clinical_caseMIR	SENT2	-	-
+36	y	y	CC	C1706368	calificador	322-323	178_QUEST_clinical_caseMIR	SENT2	-	-
+37	una	una		C0205447_1	calificador_1	324-327	178_QUEST_clinical_caseMIR	SENT2	-	-
+38	resonancia	resonancia	NCFS000	C0684213#C0231881	atributo#función	328-338	178_QUEST_clinical_caseMIR	SENT2	-	-
+39	magnética	magnético	AQ0FS0	-	-	339-348	178_QUEST_clinical_caseMIR	SENT2	-	-
+40	(	(	Fpa	-	-	349-350	178_QUEST_clinical_caseMIR	SENT2	-	-
+41	RM	rm	NC00YL0	-	-	350-352	178_QUEST_clinical_caseMIR	SENT2	-	-
+42	)	)	Fpt	-	-	352-353	178_QUEST_clinical_caseMIR	SENT2	-	-
+43	que	que	PR0CN000	-	-	354-357	178_QUEST_clinical_caseMIR	SENT2	-	-
+44	mostraba	mostrar	VMII3S0	-	-	358-366	178_QUEST_clinical_caseMIR	SENT2	-	-
+45	atrofia	atrofia	NCFS000	C0333641#C0037154	anomalía_morfológica	367-374	178_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+46	cortical	cortical	AQ0CS0	-	-	375-383	178_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+47	difusa	difuso	AQ0FS0	C0205219	calificador	384-390	178_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+48	predominante	predominante	NC00SC0	C0332251	calificador	391-403	178_QUEST_clinical_caseMIR	SENT2	-	-
+49	en	en	SPS00	C1720294#C0332285	calificador#atributo	404-406	178_QUEST_clinical_caseMIR	SENT2	-	-
+50	zona	zona	NCFS000	C0019360	trastorno	407-411	178_QUEST_clinical_caseMIR	SENT2	-	-
+51	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	412-421	178_QUEST_clinical_caseMIR	SENT2	-	-
+52	.	.	Fp	-	-	421-422	178_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	423-425	178_QUEST_clinical_caseMIR	SENT3	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	426-434	178_QUEST_clinical_caseMIR	SENT3	-	-
+3	acude	acudir	VMIP3S0	-	-	435-440	178_QUEST_clinical_caseMIR	SENT3	-	-
+4	acompañado	acompañar	VMP00SM	-	-	441-451	178_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	452-454	178_QUEST_clinical_caseMIR	SENT3	-	-
+6	su	su	DP3CS0	-	-	455-457	178_QUEST_clinical_caseMIR	SENT3	-	-
+7	esposa	esposo	NCFS000	C0242664	persona	458-464	178_QUEST_clinical_caseMIR	SENT3	-	-
+8	que	que	PR0CN000	-	-	465-468	178_QUEST_clinical_caseMIR	SENT3	-	-
+9	refiere	referir	VMIP3S0	-	-	469-476	178_QUEST_clinical_caseMIR	SENT3	-	-
+10	evolución	evolución	NCFS000	-	-	477-486	178_QUEST_clinical_caseMIR	SENT3	-	-
+11	progresiva	progresivo	AQ0FS0	C0205329	calificador	487-497	178_QUEST_clinical_caseMIR	SENT3	-	-
+12	y	y	CC	C1706368	calificador	498-499	178_QUEST_clinical_caseMIR	SENT3	-	-
+13	lenta	lento	AQ0FS0	C0439834	calificador	500-505	178_QUEST_clinical_caseMIR	SENT3	-	-
+14	del	del	SP+DA	-	-	506-509	178_QUEST_clinical_caseMIR	SENT3	-	-
+15	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	510-519	178_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	de	de	SPS00	C0332285	atributo	520-522	178_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+17	la	el	DA0FS0	-	-	523-525	178_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+18	memoria	memoria	NCFS000	C0025260	función	526-533	178_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+19	(	(	Fpa	-	-	534-535	178_QUEST_clinical_caseMIR	SENT3	-	-
+20	p	p	NCFS000	-	-	535-536	178_QUEST_clinical_caseMIR	SENT3	-	-
+21	.	.	Fp	-	-	536-537	178_QUEST_clinical_caseMIR	SENT3	-	-
+22	e	y	CC	C1706368	calificador	537-538	178_QUEST_clinical_caseMIR	SENT3	-	-
+23	.	.	Fp	-	-	538-539	178_QUEST_clinical_caseMIR	SENT3	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	540-542	178_QUEST_clinical_caseMIR	SENT3	-	-
+25	ocasiones	ocasión	NCFP000	-	-	543-552	178_QUEST_clinical_caseMIR	SENT3	-	-
+26	se	se	P00CN000	-	-	553-555	178_QUEST_clinical_caseMIR	SENT3	-	-
+27	ha	haber	VAIP3S0	-	-	556-558	178_QUEST_clinical_caseMIR	SENT3	-	-
+28	confundido	confundir	VMP00SM	-	-	559-569	178_QUEST_clinical_caseMIR	SENT3	-	-
+29	con	con	SPS00	C0332287	atributo	570-573	178_QUEST_clinical_caseMIR	SENT3	-	-
+30	las	el	DA0FP0	-	-	574-577	178_QUEST_clinical_caseMIR	SENT3	-	-
+31	dosis	dosis	NCFN000	-	-	578-583	178_QUEST_clinical_caseMIR	SENT3	-	-
+32	de	de	SPS00	C0332285	atributo	584-586	178_QUEST_clinical_caseMIR	SENT3	-	-
+33	insulina	insulina	NCFS000	C0021641	sustancia	587-595	178_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+34	)	)	Fpt	-	-	595-596	178_QUEST_clinical_caseMIR	SENT3	-	-
+35	.	.	Fp	-	-	596-597	178_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	No	no	RN	C1298908	calificador	598-600	178_QUEST_clinical_caseMIR	SENT4	-	-
+2	existen	existir	VMIP3P0	-	-	601-608	178_QUEST_clinical_caseMIR	SENT4	-	-
+3	alucinaciones	alucinación	NCFP000	C0018524	hallazgo	609-622	178_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+4	ni	ni	CC	-	-	623-625	178_QUEST_clinical_caseMIR	SENT4	-	-
+5	trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	626-635	178_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+6	conductual	conductual	AQ0CS00	-	-	636-646	178_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+7	.	.	Fp	-	-	646-647	178_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	648-650	178_QUEST_clinical_caseMIR	SENT5	-	-
+2	Minimental	minimental	AQ0CS00	-	-	651-661	178_QUEST_clinical_caseMIR	SENT5	-	-
+3	actual	actual	NC00SC0	C0521116	calificador	662-668	178_QUEST_clinical_caseMIR	SENT5	-	-
+4	es	ser	VSIP3S0	-	-	669-671	178_QUEST_clinical_caseMIR	SENT5	-	-
+5	de	de	SPS00	C0332285	atributo	672-674	178_QUEST_clinical_caseMIR	SENT5	-	-
+6	24/30	24/30		-	-	675-680	178_QUEST_clinical_caseMIR	SENT5	-	-
+7	y	y	CC	C1706368	calificador	681-682	178_QUEST_clinical_caseMIR	SENT5	-	-
+8	el	el	DA0MS0	-	-	683-685	178_QUEST_clinical_caseMIR	SENT5	-	-
+9	Test	test	NCMS000	-	-	686-690	178_QUEST_clinical_caseMIR	SENT5	-	-
+10	de	de	SPS00	C0332285	atributo	691-693	178_QUEST_clinical_caseMIR	SENT5	-	-
+11	Yesavage	yesavage	VMIP3S0	-	-	694-702	178_QUEST_clinical_caseMIR	SENT5	-	-
+12	14/15	14/15		-	-	703-708	178_QUEST_clinical_caseMIR	SENT5	-	-
+13	,	,	Fc	-	-	708-709	178_QUEST_clinical_caseMIR	SENT5	-	-
+14	no	no	RN	C1298908	calificador	710-712	178_QUEST_clinical_caseMIR	SENT5	-	-
+15	existe	existir	VMIP3S0	-	-	713-719	178_QUEST_clinical_caseMIR	SENT5	-	-
+16	focalidad	focalidad	NCFS000	-	-	720-729	178_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+17	neurológica	neurológico	AQ0FS0	C0205494	calificador	730-741	178_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+18	,	,	Fc	-	-	741-742	178_QUEST_clinical_caseMIR	SENT5	-	-
+19	temblor	temblor	NCMS000	C0040822#C1527384_1	hallazgo_1	743-750	178_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+20	ni	ni	CC	-	-	751-753	178_QUEST_clinical_caseMIR	SENT5	-	-
+21	trastornos	trastorno	NCMP000	C0012634#C0039082	trastorno	754-764	178_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+22	del	del	SP+DA	-	-	765-768	178_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+23	tono	tono	NCMS000	-	-	769-773	178_QUEST_clinical_caseMIR	SENT5	I-Calificador	-
+24	o	o	CC	-	-	774-775	178_QUEST_clinical_caseMIR	SENT5	-	-
+25	de	de	SPS00	C0332285	atributo	776-778	178_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+26	la	el	DA0FS0	-	-	779-781	178_QUEST_clinical_caseMIR	SENT5	I-Calificador	-
+27	marcha	marcha	NCFS000	C0016928#C0080331	función	782-788	178_QUEST_clinical_caseMIR	SENT5	I-Calificador	-
+28	a	a	SPS00	-	-	789-790	178_QUEST_clinical_caseMIR	SENT5	-	-
+29	la	el	DA0FS0	-	-	791-793	178_QUEST_clinical_caseMIR	SENT5	-	-
+30	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	794-805	178_QUEST_clinical_caseMIR	SENT5	-	-
+31	física	físico	NCFS000	C0031809_2	procedimiento_2	806-812	178_QUEST_clinical_caseMIR	SENT5	-	-
+32	.	.	Fp	-	-	812-813	178_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Hace	hacer	VMIP3S0	-	-	814-818	178_QUEST_clinical_caseMIR	SENT6	-	-
+2	2	2		-	-	819-820	178_QUEST_clinical_caseMIR	SENT6	-	-
+3	meses	mes	NCMP000	C0439231	calificador	821-826	178_QUEST_clinical_caseMIR	SENT6	-	-
+4	acudió	acudir	VMIS3S0	-	-	827-833	178_QUEST_clinical_caseMIR	SENT6	-	-
+5	a	a	SPS00	-	-	834-835	178_QUEST_clinical_caseMIR	SENT6	-	-
+6	Urgencias	urgencia	NCFP000	C0439609	calificador	836-845	178_QUEST_clinical_caseMIR	SENT6	-	-
+7	tras	tras	SPS00	-	-	846-850	178_QUEST_clinical_caseMIR	SENT6	-	-
+8	un	un		C0205447_1	calificador_1	851-853	178_QUEST_clinical_caseMIR	SENT6	-	-
+9	traumatismo	traumatismo	NCMS000	C3263723	trastorno	854-865	178_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+10	craneo	craneo	NCMS000	-	-	866-872	178_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+11	­	­	Fz	-	-	872-873	178_QUEST_clinical_caseMIR	SENT6	-	-
+12	encefálico	encefálico	AQ0MS0	-	-	873-883	178_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+13	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	884-888	178_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+14	por	por	SPS00	C0678226	atributo	889-892	178_QUEST_clinical_caseMIR	SENT6	-	-
+15	caida	caida	NCFS000	-	-	893-898	178_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+16	accidental	accidental	AQ0CS0	C1283932#C0521129	calificador	899-909	178_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+17	(	(	Fpa	-	-	910-911	178_QUEST_clinical_caseMIR	SENT6	-	-
+18	la	el	DA0FS0	-	-	911-913	178_QUEST_clinical_caseMIR	SENT6	-	-
+19	única	único	AQ0FS0	C0205171	calificador	914-919	178_QUEST_clinical_caseMIR	SENT6	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	920-922	178_QUEST_clinical_caseMIR	SENT6	-	-
+21	2	2		-	-	923-924	178_QUEST_clinical_caseMIR	SENT6	-	-
+22	años	año	NCMP000	C0439234	calificador	925-929	178_QUEST_clinical_caseMIR	SENT6	-	-
+23	)	)	Fpt	-	-	929-930	178_QUEST_clinical_caseMIR	SENT6	-	-
+24	y	y	CC	C1706368	calificador	931-932	178_QUEST_clinical_caseMIR	SENT6	-	-
+25	se	se	P00CN000	-	-	933-935	178_QUEST_clinical_caseMIR	SENT6	-	-
+26	realizó	realizar	VMIS3S0	-	-	936-943	178_QUEST_clinical_caseMIR	SENT6	-	-
+27	una	una		C0205447_1	calificador_1	944-947	178_QUEST_clinical_caseMIR	SENT6	-	-
+28	tomografía	tomografía	NCFS000	-	-	948-958	178_QUEST_clinical_caseMIR	SENT6	-	-
+29	que	que	PR0CN000	-	-	959-962	178_QUEST_clinical_caseMIR	SENT6	-	-
+30	no	no	RN	C1298908	calificador	963-965	178_QUEST_clinical_caseMIR	SENT6	-	-
+31	aportaba	aportar	VMII3S0	-	-	966-974	178_QUEST_clinical_caseMIR	SENT6	-	-
+32	nueva	nuevo	AQ0FS0	C0205314	calificador	975-980	178_QUEST_clinical_caseMIR	SENT6	-	-
+33	información	información	NCFS000	-	-	981-992	178_QUEST_clinical_caseMIR	SENT6	-	-
+34	respecto	respecto	NCMS000	-	-	993-1001	178_QUEST_clinical_caseMIR	SENT6	-	-
+35	a	a	SPS00	-	-	1002-1003	178_QUEST_clinical_caseMIR	SENT6	-	-
+36	la	el	DA0FS0	-	-	1004-1006	178_QUEST_clinical_caseMIR	SENT6	-	-
+37	RM	rm	NC00YL0	-	-	1007-1009	178_QUEST_clinical_caseMIR	SENT6	-	-
+38	previa	previo	AQ0FS0	C0205156	calificador	1010-1016	178_QUEST_clinical_caseMIR	SENT6	-	-
+39	.	.	Fp	-	-	1016-1017	178_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	¿	¿	Fia	-	-	1018-1019	178_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	1019-1023	178_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	1024-1026	178_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	1027-1029	178_QUEST_clinical_caseMIR	SENT7	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	1030-1041	178_QUEST_clinical_caseMIR	SENT7	-	-
+6	más	más	RG	C0205172	calificador	1042-1045	178_QUEST_clinical_caseMIR	SENT7	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	1046-1054	178_QUEST_clinical_caseMIR	SENT7	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	1055-1057	178_QUEST_clinical_caseMIR	SENT7	-	-
+9	este	este	DD0MS0	-	-	1058-1062	178_QUEST_clinical_caseMIR	SENT7	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	1063-1071	178_QUEST_clinical_caseMIR	SENT7	-	-
+11	?	?	Fit	-	-	1071-1072	178_QUEST_clinical_caseMIR	SENT7	-	-
+12	.	.	Fp	-	-	1072-1073	178_QUEST_clinical_caseMIR	SENT7	-	-
+

@@ -1,0 +1,56 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	739_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	739_QUEST_clinical_caseMIR	SENT1	-	-
+3	31	31		-	-	9-11	739_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	739_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	739_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	739_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	739_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	29-31	739_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	739_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	41-43	739_QUEST_clinical_caseMIR	SENT1	-	-
+11	su	su	DP3CS0	-	-	44-46	739_QUEST_clinical_caseMIR	SENT1	-	-
+12	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	47-53	739_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C1704221#C0017319_2	ocupación_2	54-56	739_QUEST_clinical_caseMIR	SENT1	-	-
+14	familia	familia	NCFS000	C1704221#C0017319_3	ocupación_3	57-64	739_QUEST_clinical_caseMIR	SENT1	-	-
+15	a	a	SPS00	-	-	65-66	739_QUEST_clinical_caseMIR	SENT1	-	-
+16	comunicar	comunicar	VMN0000	-	-	67-76	739_QUEST_clinical_caseMIR	SENT1	-	-
+17	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	76-78	739_QUEST_clinical_caseMIR	SENT1	-	-
+18	que	que	CS	-	-	79-82	739_QUEST_clinical_caseMIR	SENT1	-	-
+19	está	estar	VAIP3S0	-	-	83-87	739_QUEST_clinical_caseMIR	SENT1	-	-
+20	embarazada	embarazar	VMP00SF	-	-	88-98	739_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	98-99	739_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	100-102	739_QUEST_clinical_caseMIR	SENT2	-	-
+2	tiene	tener	VMIP3S0	-	-	103-108	739_QUEST_clinical_caseMIR	SENT2	-	-
+3	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	109-121	739_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332119_2	situación_2	122-124	739_QUEST_clinical_caseMIR	SENT2	-	-
+5	interés	interés	NCMS000	-	-	125-132	739_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	132-133	739_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	134-136	739_QUEST_clinical_caseMIR	SENT3	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	137-139	739_QUEST_clinical_caseMIR	SENT3	-	-
+3	recomienda	recomendar	VMIP3S0	-	-	140-150	739_QUEST_clinical_caseMIR	SENT3	-	-
+4	que	que	CS	-	-	151-154	739_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	155-157	739_QUEST_clinical_caseMIR	SENT3	-	-
+6	haga	hacer	VMSP3S0	-	-	158-162	739_QUEST_clinical_caseMIR	SENT3	-	-
+7	la	el	DA0FS0	-	-	163-165	739_QUEST_clinical_caseMIR	SENT3	-	-
+8	prueba	prueba	NCFS000	-	-	166-172	739_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	173-175	739_QUEST_clinical_caseMIR	SENT3	-	-
+10	cribado	cribar	VMP00SM	-	-	176-183	739_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	184-186	739_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	187-189	739_QUEST_clinical_caseMIR	SENT3	-	-
+13	diabetes	diabetes	NCFN000	C0085207_1	trastorno_1	190-198	739_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	gestacional	gestacional	NC00SC0	C0085207_2	trastorno_2	199-210	739_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+15	.	.	Fp	-	-	210-211	739_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	212-213	739_QUEST_clinical_caseMIR	SENT4	-	-
+2	En	en	SPS00	C1720294#C0332285	calificador#atributo	213-215	739_QUEST_clinical_caseMIR	SENT4	-	-
+3	qué	qué	DT0CN0	-	-	216-219	739_QUEST_clinical_caseMIR	SENT4	-	-
+4	periodo	periodo	NCMS000	-	-	220-227	739_QUEST_clinical_caseMIR	SENT4	-	-
+5	debería	deber	VMIC3S0	-	-	228-235	739_QUEST_clinical_caseMIR	SENT4	-	-
+6	realizar	realizar	VMN0000	-	-	236-244	739_QUEST_clinical_caseMIR	SENT4	-	-
+7	se	se	PP3CN000	-	-	244-246	739_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	246-247	739_QUEST_clinical_caseMIR	SENT4	-	-
+9	:	:	Fd	-	-	247-248	739_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	248-249	739_QUEST_clinical_caseMIR	SENT4	-	-
+

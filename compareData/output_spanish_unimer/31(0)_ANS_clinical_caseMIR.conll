@@ -1,0 +1,20 @@
+1	Sospecharía	sospechar	VMIC3S0	-	-	0-11	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	meningitis	meningitis	NCFN000	C0393444_1	trastorno_1	12-22	31(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+3	química	químico	NCFS000	C0393444_2	trastorno_2	23-30	31(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+4	derivada	derivar	VMP00SF	-	-	31-39	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	40-42	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	43-45	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	rotura	rotura	NCFS000	-	-	46-52	31(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	53-55	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	56-58	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	59-64	31(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	epidermoide	epidermoide	VMIP3S0	-	-	65-76	31(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+12	e	y	CC	C1706368	calificador	77-78	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	iniciaría	iniciar	VMIC3S0	-	-	79-88	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0205548_1	calificador_1	89-91	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	inmediato	inmediato	NC00SC0	C0205548_2	calificador_2	92-101	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	102-113	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0332287	atributo	114-117	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	corticoesteroides	corticoesteroides	NCMP000	-	-	118-135	31(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	.	.	Fp	-	-	136-137	31(0)_ANS_clinical_caseMIR	SENT1	-	-
+

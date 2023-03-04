@@ -1,0 +1,23 @@
+1	Antibioticoterapia	antibioticoterapia	NC00SC0	C0559680_1	procedimiento_1	0-18	103(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	intravenosa	intravenoso	AQ0FS0	C0559680_2	procedimiento_2	19-30	103(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	y	y	CC	C1706368	calificador	31-32	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	realizar	realizar	VMN0000	-	-	33-41	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	42-45	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	toracocentesis	toracocentesis	NC00SC0	C0189477	procedimiento	46-60	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	evacuadora	evacuadora	AQ0FS00	-	-	61-71	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	(	(	Fpa	-	-	72-73	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	terapéutica	terapéutica	NCFS000	-	-	73-84	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	)	)	Fpt	-	-	84-85	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	si	si	CS	-	-	86-88	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	se	se	P00CN000	-	-	89-91	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	aísla	aislar	VMIP3S0	-	-	92-97	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	algún	alguno	DI0MS0	C0205392	calificador	98-103	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	gérmen	gérmen	NCMS000	-	-	104-110	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	111-113	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	114-116	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	cultivo	cultivo	NCMS000	-	-	117-124	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	del	del	SP+DA	-	-	125-128	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	líquido	líquido	NCMS000	C0225778_1	sustancia_1	129-136	103(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	pleural	pleural	NC00SC0	C0225778_2	sustancia_2	137-144	103(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+22	.	.	Fp	-	-	145-146	103(3)_ANS_clinical_caseMIR	SENT1	-	-
+

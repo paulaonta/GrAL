@@ -1,0 +1,89 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	434_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	434_QUEST_clinical_caseMIR	SENT1	-	-
+3	28	28		-	-	12-14	434_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	434_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	20-23	434_QUEST_clinical_caseMIR	SENT1	-	-
+6	tras	tras	SPS00	-	-	24-28	434_QUEST_clinical_caseMIR	SENT1	-	-
+7	sufrir	sufrir	VMN0000	-	-	29-35	434_QUEST_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	36-38	434_QUEST_clinical_caseMIR	SENT1	-	-
+9	accidente	accidente	NCMS000	C0415499_1	evento_1	39-48	434_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0415499_2	evento_2	49-51	434_QUEST_clinical_caseMIR	SENT1	-	-
+11	tráfico	tráfico	NCMS000	-	-	52-59	434_QUEST_clinical_caseMIR	SENT1	-	-
+12	es	ser	VSIP3S0	-	-	60-62	434_QUEST_clinical_caseMIR	SENT1	-	-
+13	trasladado	trasladar	VMP00SM	-	-	63-73	434_QUEST_clinical_caseMIR	SENT1	-	-
+14	mediante	mediante	SPS00	-	-	74-82	434_QUEST_clinical_caseMIR	SENT1	-	-
+15	ambulancia	ambulancia	NCFS000	C0002422	objeto_físico	83-93	434_QUEST_clinical_caseMIR	SENT1	-	-
+16	al	al	SP+DA	-	-	94-96	434_QUEST_clinical_caseMIR	SENT1	-	-
+17	área	área	NCFS000	C0205146	calificador	97-101	434_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	102-104	434_QUEST_clinical_caseMIR	SENT1	-	-
+19	Urgencias	urgencia	NCFP000	C0439609	calificador	105-114	434_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	115-117	434_QUEST_clinical_caseMIR	SENT1	-	-
+21	un	un		C0205447_1	calificador_1	118-120	434_QUEST_clinical_caseMIR	SENT1	-	-
+22	hospital	hospital	NCMS000	C1510665	medio_ambiente	121-129	434_QUEST_clinical_caseMIR	SENT1	-	-
+23	,	,	Fc	-	-	129-130	434_QUEST_clinical_caseMIR	SENT1	-	-
+24	llegando	llegar	VMG0000	-	-	131-139	434_QUEST_clinical_caseMIR	SENT1	-	-
+25	al	al	SP+DA	-	-	140-142	434_QUEST_clinical_caseMIR	SENT1	-	-
+26	Servicio	servicio	NCMS000	-	-	143-151	434_QUEST_clinical_caseMIR	SENT1	-	-
+27	de	de	SPS00	C0332285	atributo	152-154	434_QUEST_clinical_caseMIR	SENT1	-	-
+28	Traumatología	traumatología	NCFS000	-	-	155-168	434_QUEST_clinical_caseMIR	SENT1	-	-
+29	a	a	SPS00	-	-	169-170	434_QUEST_clinical_caseMIR	SENT1	-	-
+30	las	el	DA0FP0	-	-	171-174	434_QUEST_clinical_caseMIR	SENT1	-	-
+31	12	12	Z	-	-	175-177	434_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de		-	-	178-180	434_QUEST_clinical_caseMIR	SENT1	-	-
+33	la	la		-	-	181-183	434_QUEST_clinical_caseMIR	SENT1	-	-
+34	noche	noche		-	-	184-189	434_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	189-190	434_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	191-193	434_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	194-202	434_QUEST_clinical_caseMIR	SENT2	-	-
+3	tiene	tener	VMIP3S0	-	-	203-208	434_QUEST_clinical_caseMIR	SENT2	-	-
+4	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	209-214	434_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	215-222	434_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	223-225	434_QUEST_clinical_caseMIR	SENT2	-	-
+7	cadera	cadera	NCFS000	C0019552	estructura_corporal	226-232	434_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	y	y	CC	C1706368	calificador	233-234	434_QUEST_clinical_caseMIR	SENT2	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	235-237	434_QUEST_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	238-240	434_QUEST_clinical_caseMIR	SENT2	-	-
+11	exploración	exploración	NCFS000	C1280903	procedimiento	241-252	434_QUEST_clinical_caseMIR	SENT2	-	-
+12	destaca	destacar	VMIP3S0	-	-	253-260	434_QUEST_clinical_caseMIR	SENT2	-	-
+13	acortamiento	acortamiento	NCMS000	C0441636	calificador	261-273	434_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0332285	atributo	274-276	434_QUEST_clinical_caseMIR	SENT2	-	-
+15	la	el	DA0FS0	-	-	277-279	434_QUEST_clinical_caseMIR	SENT2	-	-
+16	extremidad	extremidad	NCFS000	C0230415_1	estructura_corporal_1	280-290	434_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	inferior	inferior	NCCS000	C0230415_2	estructura_corporal_2	291-299	434_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+18	derecha	derecho	AQ0FS0	C0230415_3	estructura_corporal_3	300-307	434_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+19	con	con	SPS00	C0332287	atributo	308-311	434_QUEST_clinical_caseMIR	SENT2	-	-
+20	rotación	rotación	NCFS000	C0231459_1	calificador#función_1	312-320	434_QUEST_clinical_caseMIR	SENT2	-	-
+21	interna	interno	NCFS000	C0231459_2	calificador#función_2	321-328	434_QUEST_clinical_caseMIR	SENT2	-	-
+22	y	y	CC	C1706368	calificador	329-330	434_QUEST_clinical_caseMIR	SENT2	-	-
+23	aducción	aducción	NCFS000	C0231457	función	331-339	434_QUEST_clinical_caseMIR	SENT2	-	-
+24	.	.	Fp	-	-	339-340	434_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	341-343	434_QUEST_clinical_caseMIR	SENT3	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	344-346	434_QUEST_clinical_caseMIR	SENT3	-	-
+3	realizan	realizar	VMIP3P0	-	-	347-355	434_QUEST_clinical_caseMIR	SENT3	-	-
+4	radiografías	radiografía	NCFP000	C1306645	procedimiento	356-368	434_QUEST_clinical_caseMIR	SENT3	-	-
+5	y	y	CC	C1706368	calificador	369-370	434_QUEST_clinical_caseMIR	SENT3	-	-
+6	se	se	P00CN000	-	-	371-373	434_QUEST_clinical_caseMIR	SENT3	-	-
+7	diagnostica	diagnosticar	VMIP3S0	-	-	374-385	434_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	386-388	434_QUEST_clinical_caseMIR	SENT3	-	-
+9	luxación	luxación	NCFS000	C1265659_1	anomalía_morfológica_1	389-397	434_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	posterior	posterior	NC00SC0	C1265659_2	anomalía_morfológica_2	398-407	434_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+11	de	de	SPS00	C0332285	atributo	408-410	434_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	411-413	434_QUEST_clinical_caseMIR	SENT3	-	-
+13	articulación	articulación	NCFS000	C1269611#C0022417#C0234830	estructura_corporal#función	414-426	434_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+14	coxo-femoral	coxo-femoral	AQ0CS00	-	-	427-439	434_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+15	derecha	derecha	NCFS000	-	-	440-447	434_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+16	.	.	Fp	-	-	447-448	434_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	449-450	434_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	450-454	434_QUEST_clinical_caseMIR	SENT4	-	-
+3	será	ser	VSIF3S0	-	-	455-459	434_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	460-462	434_QUEST_clinical_caseMIR	SENT4	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	463-470	434_QUEST_clinical_caseMIR	SENT4	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	471-482	434_QUEST_clinical_caseMIR	SENT4	-	-
+7	a	a	SPS00	-	-	483-484	434_QUEST_clinical_caseMIR	SENT4	-	-
+8	realizar	realizar	VMN0000	-	-	485-493	434_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	493-494	434_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	494-495	434_QUEST_clinical_caseMIR	SENT4	-	-
+

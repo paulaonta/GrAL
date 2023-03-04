@@ -1,0 +1,99 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	397_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	397_QUEST_clinical_caseMIR	SENT1	-	-
+3	70	70		-	-	9-11	397_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	397_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	397_QUEST_clinical_caseMIR	SENT1	-	-
+6	diabética	diabético	AQ0FS0	-	-	18-27	397_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	e	y	CC	C1706368	calificador	28-29	397_QUEST_clinical_caseMIR	SENT1	-	-
+8	hipertensa	hipertenso	AQ0FS0	-	-	30-40	397_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	que	que	PR0CN000	-	-	41-44	397_QUEST_clinical_caseMIR	SENT1	-	-
+10	sufre	sufrir	VMIP3S0	-	-	45-50	397_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	51-54	397_QUEST_clinical_caseMIR	SENT1	-	-
+12	caída	caída	NCFS000	C0085639	hallazgo	55-60	397_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	397_QUEST_clinical_caseMIR	SENT1	-	-
+14	su	su	DP3CS0	-	-	64-66	397_QUEST_clinical_caseMIR	SENT1	-	-
+15	domicilio	domicilio	NCMS000	C1442065	entidad_observable	67-76	397_QUEST_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	76-77	397_QUEST_clinical_caseMIR	SENT1	-	-
+17	presentando	presentar	VMG0000	-	-	78-89	397_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	90-93	397_QUEST_clinical_caseMIR	SENT1	-	-
+19	herida	herido	NCFS000	-	-	94-100	397_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	101-103	397_QUEST_clinical_caseMIR	SENT1	-	-
+21	9	9	Z	-	-	104-105	397_QUEST_clinical_caseMIR	SENT1	-	-
+22	cm	cm	NCMN000	-	-	106-108	397_QUEST_clinical_caseMIR	SENT1	-	-
+23	que	que	PR0CN000	-	-	109-112	397_QUEST_clinical_caseMIR	SENT1	-	-
+24	comunica	comunicar	VMIP3S0	-	-	113-121	397_QUEST_clinical_caseMIR	SENT1	-	-
+25	con	con	SPS00	C0332287	atributo	122-125	397_QUEST_clinical_caseMIR	SENT1	-	-
+26	un	un		C0205447_1	calificador_1	126-128	397_QUEST_clinical_caseMIR	SENT1	-	-
+27	foco	foco	NCMS000	-	-	129-133	397_QUEST_clinical_caseMIR	SENT1	-	-
+28	de	de	SPS00	C0332285	atributo	134-136	397_QUEST_clinical_caseMIR	SENT1	-	-
+29	fractura	fracturar	VMM02S0	C0040185_1	trastorno_1	137-145	397_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	de	de	SPS00	C0040185_2	trastorno_2	146-148	397_QUEST_clinical_caseMIR	SENT1	-	-
+31	la	lo	PP3FSA00	C0040185_3	trastorno_3	149-151	397_QUEST_clinical_caseMIR	SENT1	-	-
+32	tibia	tibio	AQ0FS0	C0040185_4	trastorno_4	152-157	397_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+33	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	158-165	397_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+34	.	.	Fp	-	-	165-166	397_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Radiográficamente	radiográficamente	RG	-	-	167-184	397_QUEST_clinical_caseMIR	SENT2	-	-
+2	se	se	P00CN000	-	-	185-187	397_QUEST_clinical_caseMIR	SENT2	-	-
+3	observa	observar	VMIP3S0	-	-	188-195	397_QUEST_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	196-199	397_QUEST_clinical_caseMIR	SENT2	-	-
+5	fractura	fracturar	VMM02S0	C0332711_1	anomalía_morfológica_1	200-208	397_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	oblicua	oblicuo	AQ0FS0	C0332711_2	anomalía_morfológica_2	209-216	397_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	corta	corto	AQ0FS0	C1806781#C1879313#C1282927	calificador	217-222	397_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	de	de	SPS00	C0332285	atributo	223-225	397_QUEST_clinical_caseMIR	SENT2	-	-
+9	tercio	tercio	NCMS000	-	-	226-232	397_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	medio-distal	medio-distal	NCMS000	-	-	233-245	397_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	de	de	SPS00	C0332285	atributo	246-248	397_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	tibia	tibia	NCFS000	C1279118#C0040184	estructura_corporal	249-254	397_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+13	.	.	Fp	-	-	254-255	397_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	256-258	397_QUEST_clinical_caseMIR	SENT3	-	-
+2	opera	operar	VMIP3S0	-	-	259-264	397_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	265-267	397_QUEST_clinical_caseMIR	SENT3	-	-
+4	urgencias	urgencia	NCFP000	C0439609	calificador	268-277	397_QUEST_clinical_caseMIR	SENT3	-	-
+5	mediante	mediante	SPS00	-	-	278-286	397_QUEST_clinical_caseMIR	SENT3	-	-
+6	limpieza	limpieza	NCFS000	-	-	287-295	397_QUEST_clinical_caseMIR	SENT3	-	-
+7	(	(	Fpa	-	-	296-297	397_QUEST_clinical_caseMIR	SENT3	-	-
+8	Friederich	friederich	I	-	-	297-307	397_QUEST_clinical_caseMIR	SENT3	-	-
+9	)	)	Fpt	-	-	307-308	397_QUEST_clinical_caseMIR	SENT3	-	-
+10	y	y	CC	C1706368	calificador	309-310	397_QUEST_clinical_caseMIR	SENT3	-	-
+11	colocación	colocación	NCFS000	C1533810	calificador	311-321	397_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	322-324	397_QUEST_clinical_caseMIR	SENT3	-	-
+13	un	un		C0205447_1	calificador_1	325-327	397_QUEST_clinical_caseMIR	SENT3	-	-
+14	clavo	clavo	NCMS000	C0336581_1	objeto_físico_1	328-333	397_QUEST_clinical_caseMIR	SENT3	-	-
+15	endomedular	endomedular		C0336581_2	objeto_físico_2	334-345	397_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	acerrojado	acerrojar	VMP00SM	-	-	346-356	397_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	356-357	397_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	A	a	SPS00	-	-	358-359	397_QUEST_clinical_caseMIR	SENT4	-	-
+2	los	el	DA0MP0	-	-	360-363	397_QUEST_clinical_caseMIR	SENT4	-	-
+3	11	11		-	-	364-366	397_QUEST_clinical_caseMIR	SENT4	-	-
+4	meses	mes	NCMP000	C0439231	calificador	367-372	397_QUEST_clinical_caseMIR	SENT4	-	-
+5	presenta	presentar	VMIP3S0	-	-	373-381	397_QUEST_clinical_caseMIR	SENT4	-	-
+6	una	una		C0205447_1	calificador_1	382-385	397_QUEST_clinical_caseMIR	SENT4	-	-
+7	pseudoartrosis	pseudoartrosis	NC00SC0	C0033785	anomalía_morfológica	386-400	397_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	atrófica	atrófico	AQ0FS0	C0333641#C0037154	anomalía_morfológica	401-409	397_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+9	de	de	SPS00	C0332285	atributo	410-412	397_QUEST_clinical_caseMIR	SENT4	-	-
+10	tibia	tibia	NCFS000	C1279118#C0040184	estructura_corporal	413-418	397_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+11	con	con	SPS00	C0332287	atributo	419-422	397_QUEST_clinical_caseMIR	SENT4	-	-
+12	supuración	supuración	NCFS000	C0012621	anomalía_morfológica	423-433	397_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	434-436	397_QUEST_clinical_caseMIR	SENT4	-	-
+14	la	lo	PP3FSA00	-	-	437-439	397_QUEST_clinical_caseMIR	SENT4	-	-
+15	zona	zona	NCFS000	C0019360	trastorno	440-444	397_QUEST_clinical_caseMIR	SENT4	-	-
+16	de	de	SPS00	C0332285	atributo	445-447	397_QUEST_clinical_caseMIR	SENT4	-	-
+17	la	el	DA0FS0	-	-	448-450	397_QUEST_clinical_caseMIR	SENT4	-	-
+18	herida	herido	NCFS000	-	-	451-457	397_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	457-458	397_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	459-460	397_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	460-464	397_QUEST_clinical_caseMIR	SENT5	-	-
+3	será	ser	VSIF3S0	-	-	465-469	397_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	470-472	397_QUEST_clinical_caseMIR	SENT5	-	-
+5	mejor	mejor	AQ0CS0	C0332272	calificador	473-478	397_QUEST_clinical_caseMIR	SENT5	-	-
+6	opción	opción	NCFS000	-	-	479-485	397_QUEST_clinical_caseMIR	SENT5	-	-
+7	terapéutica	terapéutico	AQ0FS0	-	-	486-497	397_QUEST_clinical_caseMIR	SENT5	-	-
+8	inmediata	inmediato	AQ0FS0	C0205253	calificador	498-507	397_QUEST_clinical_caseMIR	SENT5	-	-
+9	?	?	Fit	-	-	507-508	397_QUEST_clinical_caseMIR	SENT5	-	-
+10	:	:	Fd	-	-	508-509	397_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	509-510	397_QUEST_clinical_caseMIR	SENT5	-	-
+

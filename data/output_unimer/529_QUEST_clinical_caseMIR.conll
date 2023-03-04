@@ -1,0 +1,56 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	529_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	529_QUEST_clinical_caseMIR	SENT1	-	-
+3	7	7		-	-	8-9	529_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	529_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	15-17	529_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	18-22	529_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	23-26	529_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	27-32	529_QUEST_clinical_caseMIR	SENT1	-	-
+9	al	al	SP+DA	-	-	33-35	529_QUEST_clinical_caseMIR	SENT1	-	-
+10	servicio	servicio	NCMS000	-	-	36-44	529_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	45-47	529_QUEST_clinical_caseMIR	SENT1	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	48-57	529_QUEST_clinical_caseMIR	SENT1	-	-
+13	del	del	SP+DA	-	-	58-61	529_QUEST_clinical_caseMIR	SENT1	-	-
+14	hospital	hospital	NCMS000	C1510665	medio_ambiente	62-70	529_QUEST_clinical_caseMIR	SENT1	-	-
+15	tras	tras	SPS00	-	-	71-75	529_QUEST_clinical_caseMIR	SENT1	-	-
+16	caída	caída	NCFS000	C0085639	hallazgo	76-81	529_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	82-84	529_QUEST_clinical_caseMIR	SENT1	-	-
+18	unas	uno	DI0FP0	C0205447	calificador	85-89	529_QUEST_clinical_caseMIR	SENT1	-	-
+19	camas	cama	NCFP000	C0004916	objeto_físico	90-95	529_QUEST_clinical_caseMIR	SENT1	-	-
+20	elásticas	elástico	AQ0FP0	C0332254	calificador	96-105	529_QUEST_clinical_caseMIR	SENT1	-	-
+21	colocadas	colocar	VMP00PF	-	-	106-115	529_QUEST_clinical_caseMIR	SENT1	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	116-118	529_QUEST_clinical_caseMIR	SENT1	-	-
+23	la	el	DA0FS0	-	-	119-121	529_QUEST_clinical_caseMIR	SENT1	-	-
+24	plaza	plaza	NCFS000	-	-	122-127	529_QUEST_clinical_caseMIR	SENT1	-	-
+25	del	del	SP+DA	-	-	128-131	529_QUEST_clinical_caseMIR	SENT1	-	-
+26	pueblo	pueblo	NCMS000	C0557750#C1556090	medio_ambiente#grupo_étnico	132-138	529_QUEST_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	138-139	529_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	140-148	529_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	149-152	529_QUEST_clinical_caseMIR	SENT2	-	-
+3	deformidad	deformidad	NCFS000	C0302142	hallazgo#anomalía_morfológica	153-163	529_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	evidente	evidente	AQ0CS0	-	-	164-172	529_QUEST_clinical_caseMIR	SENT2	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	173-175	529_QUEST_clinical_caseMIR	SENT2	-	-
+6	el	el	DA0MS0	-	-	176-178	529_QUEST_clinical_caseMIR	SENT2	-	-
+7	antebrazo	antebrazo	NCMS000	C0230360#C1288741_1	estructura_corporal_1	179-188	529_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	derecho	derecho	NCMS000	C0230360#C1288741_2	estructura_corporal_2	189-196	529_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+9	,	,	Fc	-	-	196-197	529_QUEST_clinical_caseMIR	SENT2	-	-
+10	con	con	SPS00	C0332287	atributo	198-201	529_QUEST_clinical_caseMIR	SENT2	-	-
+11	pulsos	pulso	NCMP000	C0391850	función	202-208	529_QUEST_clinical_caseMIR	SENT2	-	-
+12	conservados	conservar	VMP00PM	-	-	209-220	529_QUEST_clinical_caseMIR	SENT2	-	-
+13	y	y	CC	C1706368	calificador	221-222	529_QUEST_clinical_caseMIR	SENT2	-	-
+14	sensibilidad	sensibilidad	NCFS000	C1264642#C0439823#C0312418	calificador#hallazgo	223-235	529_QUEST_clinical_caseMIR	SENT2	-	-
+15	normal	normal	AQ0CS0	C0205307	calificador	236-242	529_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	242-243	529_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	244-245	529_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	245-248	529_QUEST_clinical_caseMIR	SENT3	-	-
+3	tipo	tipo	NCMS000	C0449499_1	atributo_1	249-253	529_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0449499_2	atributo_2	254-256	529_QUEST_clinical_caseMIR	SENT3	-	-
+5	lesión	lesión	NCFS000	C0449499_3	atributo_3	257-263	529_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	presenta	presentar	VMIP3S0	-	-	264-272	529_QUEST_clinical_caseMIR	SENT3	-	-
+7	el	el	DA0MS0	-	-	273-275	529_QUEST_clinical_caseMIR	SENT3	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	276-284	529_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	284-285	529_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	285-286	529_QUEST_clinical_caseMIR	SENT3	-	-
+

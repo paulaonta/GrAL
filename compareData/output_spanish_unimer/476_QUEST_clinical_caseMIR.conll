@@ -1,0 +1,79 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	476_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	476_QUEST_clinical_caseMIR	SENT1	-	-
+3	75	75		-	-	9-11	476_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	476_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	17-19	476_QUEST_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	20-31	476_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	32-35	476_QUEST_clinical_caseMIR	SENT1	-	-
+8	sertralina	sertralina	NC00SC0	C0074393	producto#sustancia	36-46	476_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	que	que	PR0CN000	-	-	47-50	476_QUEST_clinical_caseMIR	SENT1	-	-
+10	acude	acudir	VMIP3S0	-	-	51-56	476_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	57-58	476_QUEST_clinical_caseMIR	SENT1	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	59-68	476_QUEST_clinical_caseMIR	SENT1	-	-
+13	por	por	SPS00	C0678226	atributo	69-72	476_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	73-75	476_QUEST_clinical_caseMIR	SENT1	-	-
+15	cuadro	cuadro	NCMS000	-	-	76-82	476_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	confusional	confusional	AQ0CS00	-	-	83-94	476_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+17	.	.	Fp	-	-	94-95	476_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	96-98	476_QUEST_clinical_caseMIR	SENT2	-	-
+2	se	se	P00CN000	-	-	99-101	476_QUEST_clinical_caseMIR	SENT2	-	-
+3	evidencian	evidenciar	VMIP3P0	-	-	102-112	476_QUEST_clinical_caseMIR	SENT2	-	-
+4	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	113-119	476_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+5	y	y	CC	C1706368	calificador	120-121	476_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	122-124	476_QUEST_clinical_caseMIR	SENT2	-	-
+7	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	125-132	476_QUEST_clinical_caseMIR	SENT2	-	-
+8	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	133-141	476_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	es	ser	VSIP3S0	-	-	142-144	476_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	145-147	476_QUEST_clinical_caseMIR	SENT2	-	-
+11	130/70	130/70		-	-	148-154	476_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	154-155	476_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	156-158	476_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	159-161	476_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	162-171	476_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	172-179	476_QUEST_clinical_caseMIR	SENT3	-	-
+5	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	180-182	476_QUEST_clinical_caseMIR	SENT3	-	-
+6	126	126		-	-	183-186	476_QUEST_clinical_caseMIR	SENT3	-	-
+7	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	187-190	476_QUEST_clinical_caseMIR	SENT3	-	-
+8	/	/	Fh	-	-	190-191	476_QUEST_clinical_caseMIR	SENT3	-	-
+9	l	l	NCFS000	-	-	191-192	476_QUEST_clinical_caseMIR	SENT3	-	-
+10	y	y	CC	C1706368	calificador	193-194	476_QUEST_clinical_caseMIR	SENT3	-	-
+11	K	k	NCFS000	-	-	195-196	476_QUEST_clinical_caseMIR	SENT3	-	-
+12	4	4		-	-	197-198	476_QUEST_clinical_caseMIR	SENT3	-	-
+13	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	199-202	476_QUEST_clinical_caseMIR	SENT3	-	-
+14	/	/	Fh	-	-	202-203	476_QUEST_clinical_caseMIR	SENT3	-	-
+15	l	l	NCFS000	-	-	203-204	476_QUEST_clinical_caseMIR	SENT3	-	-
+16	,	,	Fc	-	-	204-205	476_QUEST_clinical_caseMIR	SENT3	-	-
+17	la	el	DA0FS0	-	-	206-208	476_QUEST_clinical_caseMIR	SENT3	-	-
+18	natriuria	natriuria	NCFS000	-	-	209-218	476_QUEST_clinical_caseMIR	SENT3	-	-
+19	es	ser	VSIP3S0	-	-	219-221	476_QUEST_clinical_caseMIR	SENT3	-	-
+20	de	de	SPS00	C0332285	atributo	222-224	476_QUEST_clinical_caseMIR	SENT3	-	-
+21	45	45		-	-	225-227	476_QUEST_clinical_caseMIR	SENT3	-	-
+22	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	228-231	476_QUEST_clinical_caseMIR	SENT3	-	-
+23	/	/	Fh	-	-	231-232	476_QUEST_clinical_caseMIR	SENT3	-	-
+24	l	l	NCFS000	-	-	232-233	476_QUEST_clinical_caseMIR	SENT3	-	-
+25	y	y	CC	C1706368	calificador	234-235	476_QUEST_clinical_caseMIR	SENT3	-	-
+26	se	se	P00CN000	-	-	236-238	476_QUEST_clinical_caseMIR	SENT3	-	-
+27	ha	haber	VAIP3S0	-	-	239-241	476_QUEST_clinical_caseMIR	SENT3	-	-
+28	descartado	descartar	VMP00SM	C0332196	calificador	242-252	476_QUEST_clinical_caseMIR	SENT3	-	-
+29	la	el	DA0FS0	-	-	253-255	476_QUEST_clinical_caseMIR	SENT3	-	-
+30	ingesta	ingesta	NCFS000	-	-	256-263	476_QUEST_clinical_caseMIR	SENT3	-	-
+31	de	de	SPS00	C0332285	atributo	264-266	476_QUEST_clinical_caseMIR	SENT3	-	-
+32	diuréticos	diurético	NCMP000	C0012798	sustancia	267-277	476_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+33	.	.	Fp	-	-	277-278	476_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	279-280	476_QUEST_clinical_caseMIR	SENT4	-	-
+2	De	de	SPS00	C0332285	atributo	280-282	476_QUEST_clinical_caseMIR	SENT4	-	-
+3	las	el	DA0FP0	-	-	283-286	476_QUEST_clinical_caseMIR	SENT4	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	287-297	476_QUEST_clinical_caseMIR	SENT4	-	-
+5	cuál	cuál	PT0CS000	-	-	298-302	476_QUEST_clinical_caseMIR	SENT4	-	-
+6	es	ser	VSIP3S0	-	-	303-305	476_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	306-308	476_QUEST_clinical_caseMIR	SENT4	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	309-316	476_QUEST_clinical_caseMIR	SENT4	-	-
+9	más	más	RG	C0205172	calificador	317-320	476_QUEST_clinical_caseMIR	SENT4	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	321-329	476_QUEST_clinical_caseMIR	SENT4	-	-
+11	?	?	Fit	-	-	329-330	476_QUEST_clinical_caseMIR	SENT4	-	-
+12	:	:	Fd	-	-	330-331	476_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	331-332	476_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,83 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	70_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	70_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	70_QUEST_clinical_caseMIR	SENT1	-	-
+4	55	55		-	-	13-15	70_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	70_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	70_QUEST_clinical_caseMIR	SENT1	-	-
+7	postmenopáusica	postmenopáusico	AQ0FS0	-	-	22-37	70_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	,	,	Fc	-	-	37-38	70_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	39-47	70_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	48-51	70_QUEST_clinical_caseMIR	SENT1	-	-
+11	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	52-59	70_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	y	y	CC	C1706368	calificador	60-61	70_QUEST_clinical_caseMIR	SENT1	-	-
+13	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	62-68	70_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0231807_2	hallazgo_2	69-71	70_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	72-80	70_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+16	.	.	Fp	-	-	80-81	70_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	82-84	70_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	85-87	70_QUEST_clinical_caseMIR	SENT2	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	88-97	70_QUEST_clinical_caseMIR	SENT2	-	-
+4	refería	referir	VMII3S0	-	-	98-105	70_QUEST_clinical_caseMIR	SENT2	-	-
+5	ligera	ligero	AQ0FS0	-	-	106-112	70_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+6	epigastralgia	epigastralgia	NC00KE0	-	-	113-126	70_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	y	y	NCFS000	C1706368	calificador	127-128	70_QUEST_clinical_caseMIR	SENT2	-	-
+8	pirosis	pirosis	NCFN000	C0018834	hallazgo	129-136	70_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	ocasional	ocasional	AQ0CS0	C0521114	calificador	137-146	70_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	.	.	Fp	-	-	146-147	70_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	No	no	RN	C1298908	calificador	148-150	70_QUEST_clinical_caseMIR	SENT3	-	-
+2	metrorragias	metrorragia	NCFP000	C0025874	hallazgo	151-163	70_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+3	.	.	Fp	-	-	163-164	70_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	165-167	70_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	168-170	70_QUEST_clinical_caseMIR	SENT4	-	-
+3	analítica	analítica	NCFS000	-	-	171-180	70_QUEST_clinical_caseMIR	SENT4	-	-
+4	:	:	Fd	-	-	180-181	70_QUEST_clinical_caseMIR	SENT4	-	-
+5	Hb6	Hb6	Z	-	-	182-185	70_QUEST_clinical_caseMIR	SENT4	-	-
+6	gr	g	NC00SC0	-	-	186-188	70_QUEST_clinical_caseMIR	SENT4	-	-
+7	/	/	Fh	-	-	188-189	70_QUEST_clinical_caseMIR	SENT4	-	-
+8	dL	decilitro	NCMN000	C0439241	calificador	189-191	70_QUEST_clinical_caseMIR	SENT4	-	-
+9	,	,	Fc	-	-	191-192	70_QUEST_clinical_caseMIR	SENT4	-	-
+10	VCM	vcm	NC00SC0	C0524587	entidad_observable	193-196	70_QUEST_clinical_caseMIR	SENT4	-	-
+11	69	69		-	-	197-199	70_QUEST_clinical_caseMIR	SENT4	-	-
+12	fl	fl	NC00SC0	C0475213	calificador	200-202	70_QUEST_clinical_caseMIR	SENT4	-	-
+13	,	,	Fc	-	-	202-203	70_QUEST_clinical_caseMIR	SENT4	-	-
+14	sideremia	sideremia	NCFS000	-	-	204-213	70_QUEST_clinical_caseMIR	SENT4	-	-
+15	13	13		-	-	214-216	70_QUEST_clinical_caseMIR	SENT4	-	-
+16	microgramos	microgramo	NCMP000	C0439211	calificador	217-228	70_QUEST_clinical_caseMIR	SENT4	-	-
+17	/	/	Fh	-	-	228-229	70_QUEST_clinical_caseMIR	SENT4	-	-
+18	dL	decilitro	NCMN000	C0439241	calificador	229-231	70_QUEST_clinical_caseMIR	SENT4	-	-
+19	,	,	Fc	-	-	231-232	70_QUEST_clinical_caseMIR	SENT4	-	-
+20	ferritina	ferritina	NCFS000	C0015879	sustancia	233-242	70_QUEST_clinical_caseMIR	SENT4	-	-
+21	4	4		-	-	243-244	70_QUEST_clinical_caseMIR	SENT4	-	-
+22	ngr	ngr	NCMS000	-	-	245-248	70_QUEST_clinical_caseMIR	SENT4	-	-
+23	/	/	Fh	-	-	248-249	70_QUEST_clinical_caseMIR	SENT4	-	-
+24	mL	mililitro	NCMN000	C0439242	calificador	249-251	70_QUEST_clinical_caseMIR	SENT4	-	-
+25	.	.	Fp	-	-	251-252	70_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Endoscopia	endoscopia	NCFS000	C0014245	procedimiento	253-263	70_QUEST_clinical_caseMIR	SENT5	-	-
+2	digestiva	digestivo	AQ0FS0	C0012237	sustancia	264-273	70_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+3	alata	alata	NCFS000	-	-	274-279	70_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+4	:	:	Fd	-	-	279-280	70_QUEST_clinical_caseMIR	SENT5	-	-
+5	pequeña	pequeño	AQ0FS0	C0700321#C1282918	calificador	281-288	70_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+6	hernia	herniar	VMM02S0	C0376710_1	trastorno_1	289-295	70_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+7	hiatal	hiatal		C0376710_2	trastorno_2	296-302	70_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+8	por	por	SPS00	C0376710_3	trastorno_3	303-306	70_QUEST_clinical_caseMIR	SENT5	-	-
+9	deslizamiento	deslizamiento	NCMS000	C0376710_4	trastorno_4	307-320	70_QUEST_clinical_caseMIR	SENT5	-	-
+10	sin	sin	SPS00	C0332288	atributo	321-324	70_QUEST_clinical_caseMIR	SENT5	-	-
+11	signos	signo	NCMP000	C0311392	hallazgo	325-331	70_QUEST_clinical_caseMIR	SENT5	-	-
+12	de	de	SPS00	C0332285	atributo	332-334	70_QUEST_clinical_caseMIR	SENT5	-	-
+13	esofagitis	esofagitis	NCFN000	C0014868	trastorno	335-345	70_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+14	.	.	Fp	-	-	345-346	70_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	347-348	70_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	348-352	70_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	353-355	70_QUEST_clinical_caseMIR	SENT6	-	-
+4	la	el	DA0FS0	-	-	356-358	70_QUEST_clinical_caseMIR	SENT6	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	359-366	70_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	367-370	70_QUEST_clinical_caseMIR	SENT6	-	-
+7	correcta	correcto	AQ0FS0	C0205170	calificador	371-379	70_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	379-380	70_QUEST_clinical_caseMIR	SENT6	-	-
+9	.	.	Fp	-	-	380-381	70_QUEST_clinical_caseMIR	SENT6	-	-
+

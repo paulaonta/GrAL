@@ -1,0 +1,74 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	102_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	102_QUEST_clinical_caseMIR	SENT1	-	-
+3	25	25		-	-	9-11	102_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	102_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	102_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	102_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	102_QUEST_clinical_caseMIR	SENT1	-	-
+8	desea	desear	VMIP3S0	-	-	29-34	102_QUEST_clinical_caseMIR	SENT1	-	-
+9	quedar	quedar	VMN0000	-	-	35-41	102_QUEST_clinical_caseMIR	SENT1	-	-
+10	se	se	PP3CN000	-	-	41-43	102_QUEST_clinical_caseMIR	SENT1	-	-
+11	embarazada	embarazar	VMP00SF	-	-	44-54	102_QUEST_clinical_caseMIR	SENT1	-	-
+12	y	y	CC	C1706368	calificador	55-56	102_QUEST_clinical_caseMIR	SENT1	-	-
+13	quiere	querer	VMIP3S0	-	-	57-63	102_QUEST_clinical_caseMIR	SENT1	-	-
+14	saber	saber	VMN0000	-	-	64-69	102_QUEST_clinical_caseMIR	SENT1	-	-
+15	qué	qué	DT0CN0	-	-	70-73	102_QUEST_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	74-85	102_QUEST_clinical_caseMIR	SENT1	-	-
+17	debe	deber	VMIP3S0	-	-	86-90	102_QUEST_clinical_caseMIR	SENT1	-	-
+18	realizar	realizar	VMN0000	-	-	91-99	102_QUEST_clinical_caseMIR	SENT1	-	-
+19	durante	durante	SPS00	C1444752#C0347984	atributo	100-107	102_QUEST_clinical_caseMIR	SENT1	-	-
+20	el	el	DA0MS0	-	-	108-110	102_QUEST_clinical_caseMIR	SENT1	-	-
+21	eventual	eventual	AQ0CS0	-	-	111-119	102_QUEST_clinical_caseMIR	SENT1	-	-
+22	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	120-128	102_QUEST_clinical_caseMIR	SENT1	-	-
+23	,	,	Fc	-	-	128-129	102_QUEST_clinical_caseMIR	SENT1	-	-
+24	ya	ya	RG	-	-	130-132	102_QUEST_clinical_caseMIR	SENT1	-	-
+25	que	que	PR0CN000	-	-	133-136	102_QUEST_clinical_caseMIR	SENT1	-	-
+26	es	ser	VSIP3S0	-	-	137-139	102_QUEST_clinical_caseMIR	SENT1	-	-
+27	portadora	portador	AQ0FS0	C0560175	hallazgo	140-149	102_QUEST_clinical_caseMIR	SENT1	-	-
+28	del	del	SP+DA	-	-	150-153	102_QUEST_clinical_caseMIR	SENT1	-	-
+29	factor	factor	NCMS000	-	-	154-160	102_QUEST_clinical_caseMIR	SENT1	-	-
+30	V	v	NCFS000	-	-	161-162	102_QUEST_clinical_caseMIR	SENT1	-	-
+31	Leiden	leiden	VMIP3P0	-	-	163-169	102_QUEST_clinical_caseMIR	SENT1	-	-
+32	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	102_QUEST_clinical_caseMIR	SENT1	-	-
+33	heterocigosis	heterocigosis	NCFN000	-	-	173-186	102_QUEST_clinical_caseMIR	SENT1	-	-
+34	.	.	Fp	-	-	186-187	102_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Nunca	nunca	RG	-	-	188-193	102_QUEST_clinical_caseMIR	SENT2	-	-
+2	ha	haber	VAIP3S0	-	-	194-196	102_QUEST_clinical_caseMIR	SENT2	-	-
+3	tenido	tener	VMP00SM	-	-	197-203	102_QUEST_clinical_caseMIR	SENT2	-	-
+4	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	204-210	102_QUEST_clinical_caseMIR	SENT2	-	-
+5	fenómeno	fenómeno	NCMS000	-	-	211-219	102_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+6	trombótico	trombótico	AQ0MS00	-	-	220-230	102_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+7	.	.	Fp	-	-	230-231	102_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	232-234	102_QUEST_clinical_caseMIR	SENT3	-	-
+2	realizó	realizar	VMIS3S0	-	-	235-242	102_QUEST_clinical_caseMIR	SENT3	-	-
+3	la	el	DA0FS0	-	-	243-245	102_QUEST_clinical_caseMIR	SENT3	-	-
+4	determinación	determinación	NCFS000	C0242485	procedimiento	246-259	102_QUEST_clinical_caseMIR	SENT3	-	-
+5	del	del	SP+DA	-	-	260-263	102_QUEST_clinical_caseMIR	SENT3	-	-
+6	mencionado	mencionar	VMP00SM	-	-	264-274	102_QUEST_clinical_caseMIR	SENT3	-	-
+7	factor	factor	NCMS000	-	-	275-281	102_QUEST_clinical_caseMIR	SENT3	-	-
+8	como	como	CS	C0332257	calificador	282-286	102_QUEST_clinical_caseMIR	SENT3	-	-
+9	estudio	estudio	NCMS000	C0199236_1	procedimiento_1	287-294	102_QUEST_clinical_caseMIR	SENT3	-	-
+10	familiar	familiar	NCMS000	C0199236_2	procedimiento_2	295-303	102_QUEST_clinical_caseMIR	SENT3	-	-
+11	tras	tras	SPS00	-	-	304-308	102_QUEST_clinical_caseMIR	SENT3	-	-
+12	un	un		C0205447_1	calificador_1	309-311	102_QUEST_clinical_caseMIR	SENT3	-	-
+13	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	312-320	102_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332189#C1455761_2	atributo_2	321-323	102_QUEST_clinical_caseMIR	SENT3	-	-
+15	embolia	embolia	NCFS000	C1704212#C0013922	anomalía_morfológica#trastorno	324-331	102_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	de	de	SPS00	C0332285	atributo	332-334	102_QUEST_clinical_caseMIR	SENT3	-	-
+17	pulmón	pulmón	NCMS000	C1278908#C0024109	estructura_corporal	335-341	102_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	342-344	102_QUEST_clinical_caseMIR	SENT3	-	-
+19	un	un		C0205447_1	calificador_1	345-347	102_QUEST_clinical_caseMIR	SENT3	-	-
+20	hermano	hermano	NCMS000	C0337527	persona	348-355	102_QUEST_clinical_caseMIR	SENT3	-	-
+21	.	.	Fp	-	-	355-356	102_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	357-358	102_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	358-361	102_QUEST_clinical_caseMIR	SENT4	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	362-373	102_QUEST_clinical_caseMIR	SENT4	-	-
+4	se	se	P00CN000	-	-	374-376	102_QUEST_clinical_caseMIR	SENT4	-	-
+5	debe	deber	VMIP3S0	-	-	377-381	102_QUEST_clinical_caseMIR	SENT4	-	-
+6	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	382-391	102_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	391-392	102_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	392-393	102_QUEST_clinical_caseMIR	SENT4	-	-
+

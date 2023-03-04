@@ -1,0 +1,109 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	260_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	260_QUEST_clinical_caseMIR	SENT1	-	-
+3	72	72		-	-	9-11	260_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	260_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	260_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	260_QUEST_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	27-29	260_QUEST_clinical_caseMIR	SENT1	-	-
+8	hospital	hospital	NCMS000	C1510665	medio_ambiente	30-38	260_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	260_QUEST_clinical_caseMIR	SENT1	-	-
+10	dolor	dolor	NCMS000	C1299600_1	hallazgo_1	43-48	260_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	torácico	torácico	NC00SC0	C1299600_2	hallazgo_2	49-57	260_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	opresivo	opresivo	AQ0MS0	C1299600_3	hallazgo_3	58-66	260_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	de	de	SPS00	C0332285	atributo	67-69	260_QUEST_clinical_caseMIR	SENT1	-	-
+14	2	2	Z	C1292425_1	calificador_1	70-71	260_QUEST_clinical_caseMIR	SENT1	-	-
+15	horas	hora	NCFP000	C1292425_2	calificador_2	72-77	260_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	78-80	260_QUEST_clinical_caseMIR	SENT1	-	-
+17	evolución	evolución	NCFS000	-	-	81-90	260_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	90-91	260_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	92-94	260_QUEST_clinical_caseMIR	SENT2	-	-
+2	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	95-102	260_QUEST_clinical_caseMIR	SENT2	-	-
+3	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	103-111	260_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	112-114	260_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	115-117	260_QUEST_clinical_caseMIR	SENT2	-	-
+6	68/32	68/32	Z	-	-	118-123	260_QUEST_clinical_caseMIR	SENT2	-	-
+7	mm	mm	NCMN000	-	-	124-126	260_QUEST_clinical_caseMIR	SENT2	-	-
+8	Hg	hectogramo	NCMN000	-	-	127-129	260_QUEST_clinical_caseMIR	SENT2	-	-
+9	,	,	Fc	-	-	129-130	260_QUEST_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	131-133	260_QUEST_clinical_caseMIR	SENT2	-	-
+11	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	134-144	260_QUEST_clinical_caseMIR	SENT2	-	-
+12	cardiaca	cardiaco	AQ0FS0	-	-	145-153	260_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	es	ser	VSIP3S0	-	-	154-156	260_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	157-159	260_QUEST_clinical_caseMIR	SENT2	-	-
+15	124	124		-	-	160-163	260_QUEST_clinical_caseMIR	SENT2	-	-
+16	latidos	latido	NCMP000	-	-	164-171	260_QUEST_clinical_caseMIR	SENT2	-	-
+17	/	/	Fh	-	-	171-172	260_QUEST_clinical_caseMIR	SENT2	-	-
+18	min	minuto	NCMN000	C0439232	calificador	172-175	260_QUEST_clinical_caseMIR	SENT2	-	-
+19	,	,	Fc	-	-	175-176	260_QUEST_clinical_caseMIR	SENT2	-	-
+20	la	el	DA0FS0	-	-	177-179	260_QUEST_clinical_caseMIR	SENT2	-	-
+21	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	180-190	260_QUEST_clinical_caseMIR	SENT2	-	-
+22	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	191-203	260_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+23	es	ser	VSIP3S0	-	-	204-206	260_QUEST_clinical_caseMIR	SENT2	-	-
+24	de	de	SPS00	C0332285	atributo	207-209	260_QUEST_clinical_caseMIR	SENT2	-	-
+25	32	32		-	-	210-212	260_QUEST_clinical_caseMIR	SENT2	-	-
+26	respiraciones	respiración	NCFP000	C0035203	entidad_observable	213-226	260_QUEST_clinical_caseMIR	SENT2	-	-
+27	/	/	Fh	-	-	226-227	260_QUEST_clinical_caseMIR	SENT2	-	-
+28	min	minuto	NCMN000	C0439232	calificador	227-230	260_QUEST_clinical_caseMIR	SENT2	-	-
+29	,	,	Fc	-	-	230-231	260_QUEST_clinical_caseMIR	SENT2	-	-
+30	la	el	DA0FS0	-	-	232-234	260_QUEST_clinical_caseMIR	SENT2	-	-
+31	saturación	saturación	NCFS000	-	-	235-245	260_QUEST_clinical_caseMIR	SENT2	-	-
+32	de	de	SPS00	C0332285	atributo	246-248	260_QUEST_clinical_caseMIR	SENT2	-	-
+33	oxígeno	oxígeno	NCMS000	C0030054	sustancia	249-256	260_QUEST_clinical_caseMIR	SENT2	-	-
+34	del	del	SP+DA	-	-	257-260	260_QUEST_clinical_caseMIR	SENT2	-	-
+35	91	91	Z	-	-	261-263	260_QUEST_clinical_caseMIR	SENT2	-	-
+36	%	%	Ft	-	-	263-264	260_QUEST_clinical_caseMIR	SENT2	-	-
+37	con	con	SPS00	C0332287	atributo	265-268	260_QUEST_clinical_caseMIR	SENT2	-	-
+38	oxígeno	oxígeno	NCMS000	C0030054	sustancia	269-276	260_QUEST_clinical_caseMIR	SENT2	-	-
+39	al	al	SP+DA	-	-	277-279	260_QUEST_clinical_caseMIR	SENT2	-	-
+40	50%.A	50%.A		-	-	280-285	260_QUEST_clinical_caseMIR	SENT2	-	-
+41	la	el	DA0FS0	-	-	286-288	260_QUEST_clinical_caseMIR	SENT2	-	-
+42	auscultación	auscultación	NCFS000	C0004339	procedimiento	289-301	260_QUEST_clinical_caseMIR	SENT2	-	-
+43	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	302-310	260_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+44	se	se	P00CN000	-	-	311-313	260_QUEST_clinical_caseMIR	SENT2	-	-
+45	aprecian	apreciar	VMIP3P0	-	-	314-322	260_QUEST_clinical_caseMIR	SENT2	-	-
+46	crepitantes	crepitantes	NCCP000	-	-	323-334	260_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+47	bilaterales	bilateral	AQ0CP0	C0238767	calificador	335-346	260_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+48	.	.	Fp	-	-	346-347	260_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	348-350	260_QUEST_clinical_caseMIR	SENT3	-	-
+2	realiza	realizar	VMIP3S0	-	-	351-358	260_QUEST_clinical_caseMIR	SENT3	-	-
+3	un	un		C0205447_1	calificador_1	359-361	260_QUEST_clinical_caseMIR	SENT3	-	-
+4	ECG	ecg	NC00YL0	C1623258	procedimiento	362-365	260_QUEST_clinical_caseMIR	SENT3	-	-
+5	que	que	PR0CN000	-	-	366-369	260_QUEST_clinical_caseMIR	SENT3	-	-
+6	muestra	mostrar	VMIP3S0	-	-	370-377	260_QUEST_clinical_caseMIR	SENT3	-	-
+7	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	378-384	260_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	subepicárdica	subepicárdica	AQ0FS00	-	-	385-398	260_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	399-401	260_QUEST_clinical_caseMIR	SENT3	-	-
+10	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	402-406	260_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	407-415	260_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+12	,	,	Fc	-	-	415-416	260_QUEST_clinical_caseMIR	SENT3	-	-
+13	con	con	SPS00	C0332287	atributo	417-420	260_QUEST_clinical_caseMIR	SENT3	-	-
+14	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	421-427	260_QUEST_clinical_caseMIR	SENT3	-	-
+15	especular	especular	AQ0CS0	-	-	428-437	260_QUEST_clinical_caseMIR	SENT3	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	438-440	260_QUEST_clinical_caseMIR	SENT3	-	-
+17	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	441-445	260_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	inferior	inferior	AQ0CS0	C0542339#C0205104	calificador	446-454	260_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+19	.	.	Fp	-	-	454-455	260_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	456-458	260_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	459-461	260_QUEST_clinical_caseMIR	SENT4	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	462-473	260_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	474-476	260_QUEST_clinical_caseMIR	SENT4	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	477-482	260_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	se	se	P00CN000	-	-	483-485	260_QUEST_clinical_caseMIR	SENT4	-	-
+7	aprecia	apreciar	VMIP3S0	-	-	486-493	260_QUEST_clinical_caseMIR	SENT4	-	-
+8	patrón	patrón	NCMS000	C0449774	atributo	494-500	260_QUEST_clinical_caseMIR	SENT4	-	-
+9	alveolar	alveolar	AQ0CS0	-	-	501-509	260_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	bilateral	bilateral	AQ0CS0	C0238767	calificador	510-519	260_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	519-520	260_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	521-522	260_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	522-526	260_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	527-529	260_QUEST_clinical_caseMIR	SENT5	-	-
+4	su	su	DP3CS0	-	-	530-532	260_QUEST_clinical_caseMIR	SENT5	-	-
+5	decisión	decisión	NCFS000	-	-	533-541	260_QUEST_clinical_caseMIR	SENT5	-	-
+6	terapeútica	terapeútica	AQ0FS00	-	-	542-553	260_QUEST_clinical_caseMIR	SENT5	-	-
+7	?	?	Fit	-	-	553-554	260_QUEST_clinical_caseMIR	SENT5	-	-
+8	.	.	Fp	-	-	554-555	260_QUEST_clinical_caseMIR	SENT5	-	-
+

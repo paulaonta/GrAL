@@ -1,0 +1,129 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	280_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	280_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	280_QUEST_clinical_caseMIR	SENT1	-	-
+4	25	25		-	-	13-15	280_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	280_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	280_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	280_QUEST_clinical_caseMIR	SENT1	-	-
+8	ictericia	ictericia	NCFS000	C0022346	hallazgo	34-43	280_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	43-44	280_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Practica	practicar	VMIP3S0	-	-	45-53	280_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	54-56	280_QUEST_clinical_caseMIR	SENT2	-	-
+3	culturismo	culturismo	NCMS000	-	-	57-67	280_QUEST_clinical_caseMIR	SENT2	-	-
+4	y	y	CC	C1706368	calificador	68-69	280_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	70-72	280_QUEST_clinical_caseMIR	SENT2	-	-
+6	ha	haber	VAIP3S0	-	-	73-75	280_QUEST_clinical_caseMIR	SENT2	-	-
+7	inyectado	inyectar	VMP00SM	-	-	76-85	280_QUEST_clinical_caseMIR	SENT2	-	-
+8	esteroides	esteroide	NCMP000	C0301818#C0038317	sustancia	86-96	280_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	anabolizantes	anabolizante	NCMP000	-	-	97-110	280_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+10	sustitutos	sustituto	AQ0MP0	-	-	111-121	280_QUEST_clinical_caseMIR	SENT2	-	-
+11	del	del	SP+DA	-	-	122-125	280_QUEST_clinical_caseMIR	SENT2	-	-
+12	17	17		-	-	126-128	280_QUEST_clinical_caseMIR	SENT2	-	-
+13	alfa-alquil	alfa-alquil	NCMS000	-	-	129-140	280_QUEST_clinical_caseMIR	SENT2	-	-
+14	,	,	Fc	-	-	140-141	280_QUEST_clinical_caseMIR	SENT2	-	-
+15	tres	tres		-	-	142-146	280_QUEST_clinical_caseMIR	SENT2	-	-
+16	semanas	semana	NCFP000	C0439230	calificador	147-154	280_QUEST_clinical_caseMIR	SENT2	-	-
+17	antes	antes	RG	C0332152	atributo	155-160	280_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	160-161	280_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Por	por	SPS00	C0678226	atributo	162-165	280_QUEST_clinical_caseMIR	SENT3	-	-
+2	una	una		C0205447_1	calificador_1	166-169	280_QUEST_clinical_caseMIR	SENT3	-	-
+3	amigdalitis	amigdalitis	NCFN000	C0040425	trastorno	170-181	280_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	había	haber	VAII3S0	-	-	182-187	280_QUEST_clinical_caseMIR	SENT3	-	-
+5	tomado	tomar	VMP00SM	C1515187	calificador	188-194	280_QUEST_clinical_caseMIR	SENT3	-	-
+6	amoxicilina-clavulánico	amoxicilina-clavulánico	AQ0MS00	-	-	195-218	280_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+7	que	que	PR0CN000	-	-	219-222	280_QUEST_clinical_caseMIR	SENT3	-	-
+8	retiró	retirar	VMIS3S0	-	-	223-229	280_QUEST_clinical_caseMIR	SENT3	-	-
+9	hace	hacer	VMIP3S0	-	-	230-234	280_QUEST_clinical_caseMIR	SENT3	-	-
+10	15	15	Z	-	-	235-237	280_QUEST_clinical_caseMIR	SENT3	-	-
+11	días	d	NCMP000	-	-	238-242	280_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	242-243	280_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Analítica	analítica	NCFS000	-	-	244-253	280_QUEST_clinical_caseMIR	SENT4	-	-
+2	:	:	Fd	-	-	253-254	280_QUEST_clinical_caseMIR	SENT4	-	-
+3	AST	aspartato_transaminasa	NC00YL0	-	-	255-258	280_QUEST_clinical_caseMIR	SENT4	-	-
+4	1200	1200		-	-	259-263	280_QUEST_clinical_caseMIR	SENT4	-	-
+5	UI	ui	NC00SC0	C0439453	calificador	264-266	280_QUEST_clinical_caseMIR	SENT4	-	-
+6	/	/	Fh	-	-	266-267	280_QUEST_clinical_caseMIR	SENT4	-	-
+7	L	l	NCFS000	-	-	267-268	280_QUEST_clinical_caseMIR	SENT4	-	-
+8	(	(	Fpa	-	-	269-270	280_QUEST_clinical_caseMIR	SENT4	-	-
+9	límite	límite	NCMS000	C0205189	calificador	270-276	280_QUEST_clinical_caseMIR	SENT4	-	-
+10	superior	superior	AQ0CS0	C1282910	calificador	277-285	280_QUEST_clinical_caseMIR	SENT4	-	-
+11	normal	normal	AQ0CS0	C0205307	calificador	286-292	280_QUEST_clinical_caseMIR	SENT4	-	-
+12	,	,	Fc	-	-	292-293	280_QUEST_clinical_caseMIR	SENT4	-	-
+13	lsn	lsn	VMIP3P0	-	-	294-297	280_QUEST_clinical_caseMIR	SENT4	-	-
+14	40	40		-	-	298-300	280_QUEST_clinical_caseMIR	SENT4	-	-
+15	)	)	Fpt	-	-	300-301	280_QUEST_clinical_caseMIR	SENT4	-	-
+16	,	,	Fc	-	-	301-302	280_QUEST_clinical_caseMIR	SENT4	-	-
+17	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	303-306	280_QUEST_clinical_caseMIR	SENT4	-	-
+18	1300	1300		-	-	307-311	280_QUEST_clinical_caseMIR	SENT4	-	-
+19	UI	ui	NC00SC0	C0439453	calificador	312-314	280_QUEST_clinical_caseMIR	SENT4	-	-
+20	/	/	Fh	-	-	314-315	280_QUEST_clinical_caseMIR	SENT4	-	-
+21	L	l	NCFS000	-	-	315-316	280_QUEST_clinical_caseMIR	SENT4	-	-
+22	(	(	Fpa	-	-	317-318	280_QUEST_clinical_caseMIR	SENT4	-	-
+23	lsn	lsn	NCFS000	-	-	318-321	280_QUEST_clinical_caseMIR	SENT4	-	-
+24	40	40		-	-	322-324	280_QUEST_clinical_caseMIR	SENT4	-	-
+25	)	)	Fpt	-	-	324-325	280_QUEST_clinical_caseMIR	SENT4	-	-
+26	,	,	Fc	-	-	325-326	280_QUEST_clinical_caseMIR	SENT4	-	-
+27	GGT	gammaglutamiltranspeptidasa	NC00YL0	-	-	327-330	280_QUEST_clinical_caseMIR	SENT4	-	-
+28	150	150		-	-	331-334	280_QUEST_clinical_caseMIR	SENT4	-	-
+29	UI	ui	NC00SC0	C0439453	calificador	335-337	280_QUEST_clinical_caseMIR	SENT4	-	-
+30	/	/	Fh	-	-	337-338	280_QUEST_clinical_caseMIR	SENT4	-	-
+31	L	l	NCFS000	-	-	338-339	280_QUEST_clinical_caseMIR	SENT4	-	-
+32	(	(	Fpa	-	-	340-341	280_QUEST_clinical_caseMIR	SENT4	-	-
+33	lsn	lsn	NCFS000	-	-	341-344	280_QUEST_clinical_caseMIR	SENT4	-	-
+34	50	50		-	-	345-347	280_QUEST_clinical_caseMIR	SENT4	-	-
+35	)	)	Fpt	-	-	347-348	280_QUEST_clinical_caseMIR	SENT4	-	-
+36	,	,	Fc	-	-	348-349	280_QUEST_clinical_caseMIR	SENT4	-	-
+37	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	350-359	280_QUEST_clinical_caseMIR	SENT4	-	-
+38	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	360-368	280_QUEST_clinical_caseMIR	SENT4	-	-
+39	180	180		-	-	369-372	280_QUEST_clinical_caseMIR	SENT4	-	-
+40	UI	ui	NC00SC0	C0439453	calificador	373-375	280_QUEST_clinical_caseMIR	SENT4	-	-
+41	/	/	Fh	-	-	375-376	280_QUEST_clinical_caseMIR	SENT4	-	-
+42	L	l	NCFS000	-	-	376-377	280_QUEST_clinical_caseMIR	SENT4	-	-
+43	(	(	Fpa	-	-	378-379	280_QUEST_clinical_caseMIR	SENT4	-	-
+44	lsn	lsn	NCFS000	-	-	379-382	280_QUEST_clinical_caseMIR	SENT4	-	-
+45	105	105		-	-	383-386	280_QUEST_clinical_caseMIR	SENT4	-	-
+46	)	)	Fpt	-	-	386-387	280_QUEST_clinical_caseMIR	SENT4	-	-
+47	,	,	Fc	-	-	387-388	280_QUEST_clinical_caseMIR	SENT4	-	-
+48	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	389-400	280_QUEST_clinical_caseMIR	SENT4	-	-
+49	total	total	NCMS000	C0201913_2	procedimiento_2	401-406	280_QUEST_clinical_caseMIR	SENT4	-	-
+50	4,8	4.8	Z	-	-	407-410	280_QUEST_clinical_caseMIR	SENT4	-	-
+51	mg	mg	NCMN000	-	-	411-413	280_QUEST_clinical_caseMIR	SENT4	-	-
+52	/	/	Fh	-	-	413-414	280_QUEST_clinical_caseMIR	SENT4	-	-
+53	dL	decilitro	NCMN000	C0439241	calificador	414-416	280_QUEST_clinical_caseMIR	SENT4	-	-
+54	con	con	SPS00	C0332251_1	calificador_1	417-420	280_QUEST_clinical_caseMIR	SENT4	-	-
+55	predominio	predominio	NCMS000	C0332251_2	calificador_2	421-431	280_QUEST_clinical_caseMIR	SENT4	-	-
+56	de	de	SPS00	C0332251_3	calificador_3	432-434	280_QUEST_clinical_caseMIR	SENT4	-	-
+57	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	435-446	280_QUEST_clinical_caseMIR	SENT4	-	-
+58	directa	directo	AQ0FS0	C0439851	calificador	447-454	280_QUEST_clinical_caseMIR	SENT4	-	-
+59	.	.	Fp	-	-	454-455	280_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Serología	serología	NCFS000	-	-	456-465	280_QUEST_clinical_caseMIR	SENT5	-	-
+2	de	de	SPS00	C0332285	atributo	466-468	280_QUEST_clinical_caseMIR	SENT5	-	-
+3	virus	virus	NCMN000	C0019378_1	organismo_1	469-474	280_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+4	B	b	NCFS000	C0019378_2	organismo_2	475-476	280_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+5	:	:	Fd	-	-	476-477	280_QUEST_clinical_caseMIR	SENT5	-	-
+6	Anti-HBs	anticuerpo_contra_el_antígeno_de_superficie_del_virus_de_la_hepatitis_b	NC00YL0	-	-	478-486	280_QUEST_clinical_caseMIR	SENT5	-	-
+7	y	y	CC	C1706368	calificador	487-488	280_QUEST_clinical_caseMIR	SENT5	-	-
+8	Anti-HBc	anti-hbc	NC00000	-	-	489-497	280_QUEST_clinical_caseMIR	SENT5	-	-
+9	positivos	positivo	AQ0MP0	C1446409	calificador	498-507	280_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	507-508	280_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	La	el	DA0FS0	-	-	509-511	280_QUEST_clinical_caseMIR	SENT6	-	-
+2	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	512-521	280_QUEST_clinical_caseMIR	SENT6	-	-
+3	sugiere	sugerir	VMIP3S0	-	-	522-529	280_QUEST_clinical_caseMIR	SENT6	-	-
+4	esteatosis	esteatosis	NC00SC0	C0152254	anomalía_morfológica	530-540	280_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Especulacion
+5	grado	grado	NCMS000	C0441800	atributo	541-546	280_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+6	I.	i.	VMIP3S0	-	-	547-549	280_QUEST_clinical_caseMIR	SENT6	-	-
+7	¿	¿	Fia	-	-	550-551	280_QUEST_clinical_caseMIR	SENT6	-	-
+8	Cuál	cuál	PT0CS000	-	-	551-555	280_QUEST_clinical_caseMIR	SENT6	-	-
+9	es	ser	VSIP3S0	-	-	556-558	280_QUEST_clinical_caseMIR	SENT6	-	-
+10	el	el	DA0MS0	-	-	559-561	280_QUEST_clinical_caseMIR	SENT6	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	562-573	280_QUEST_clinical_caseMIR	SENT6	-	-
+12	más	más	RG	C0205172	calificador	574-577	280_QUEST_clinical_caseMIR	SENT6	-	-
+13	probable	probable	AQ0CS0	C0332148	calificador	578-586	280_QUEST_clinical_caseMIR	SENT6	-	-
+14	?	?	Fit	-	-	586-587	280_QUEST_clinical_caseMIR	SENT6	-	-
+15	.	.	Fp	-	-	587-588	280_QUEST_clinical_caseMIR	SENT6	-	-
+

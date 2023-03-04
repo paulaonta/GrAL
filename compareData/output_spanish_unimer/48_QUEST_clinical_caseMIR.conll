@@ -1,0 +1,47 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	48_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	48_QUEST_clinical_caseMIR	SENT1	-	-
+3	31	31		-	-	10-12	48_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	48_QUEST_clinical_caseMIR	SENT1	-	-
+5	sin	sin	SPS00	C0332288	atributo	18-21	48_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	-	-	22-34	48_QUEST_clinical_caseMIR	SENT1	-	-
+7	psiquiatricos	psiquiatricos	AQ0MP00	-	-	35-48	48_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	49-54	48_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	55-56	48_QUEST_clinical_caseMIR	SENT1	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	57-66	48_QUEST_clinical_caseMIR	SENT1	-	-
+11	refiriendo	referir	VMG0000	-	-	67-77	48_QUEST_clinical_caseMIR	SENT1	-	-
+12	…	…	Fz	-	-	77-78	48_QUEST_clinical_caseMIR	SENT1	-	-
+13	síntomas	síntoma	NCMP000	C1457887	hallazgo	79-87	48_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	88-90	48_QUEST_clinical_caseMIR	SENT1	-	-
+15	ansiedad	ansiedad	NCFS000	C0003467	hallazgo	91-99	48_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	)	)	Fpt	-	-	99-100	48_QUEST_clinical_caseMIR	SENT1	-	-
+17	¨	¨	Fz	-	-	100-101	48_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	101-102	48_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Hace	hacer	VMIP3S0	-	-	103-107	48_QUEST_clinical_caseMIR	SENT2	-	-
+2	dos	dos		-	-	108-111	48_QUEST_clinical_caseMIR	SENT2	-	-
+3	días	día	NCMP000	C0439228#C0332169	calificador	112-116	48_QUEST_clinical_caseMIR	SENT2	-	-
+4	experimento	experimento	NCMS000	-	-	117-128	48_QUEST_clinical_caseMIR	SENT2	-	-
+5	otro	otro	DI0MS0	C0205394#C0449210	calificador#estructura_corporal	129-133	48_QUEST_clinical_caseMIR	SENT2	-	-
+6	cuadro	cuadro	NCMS000	-	-	134-140	48_QUEST_clinical_caseMIR	SENT2	-	-
+7	igual	igual	AQ0CS0	C0205163	calificador	141-146	48_QUEST_clinical_caseMIR	SENT2	-	-
+8	…	…	Fz	-	-	146-147	48_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	147-148	48_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Hace	hacer	VMIP3S0	-	-	149-153	48_QUEST_clinical_caseMIR	SENT3	-	-
+2	1	1		-	-	154-155	48_QUEST_clinical_caseMIR	SENT3	-	-
+3	semana	semana	NCFS000	C0439230	calificador	156-162	48_QUEST_clinical_caseMIR	SENT3	-	-
+4	ha	haber	VAIP3S0	-	-	163-165	48_QUEST_clinical_caseMIR	SENT3	-	-
+5	roto	romper	VMP00SM	-	-	166-170	48_QUEST_clinical_caseMIR	SENT3	-	-
+6	su	su	DP3CS0	-	-	171-173	48_QUEST_clinical_caseMIR	SENT3	-	-
+7	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	174-182	48_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	183-185	48_QUEST_clinical_caseMIR	SENT3	-	-
+9	pareja	pareja	NCFS000	-	-	186-192	48_QUEST_clinical_caseMIR	SENT3	-	-
+10	…	…	Fz	-	-	192-193	48_QUEST_clinical_caseMIR	SENT3	-	-
+11	Descartada	descartar	VMP00SF	C0332196	calificador	194-204	48_QUEST_clinical_caseMIR	SENT3	-	-
+12	cualquier	cualquiera	DI0CS0	-	-	205-214	48_QUEST_clinical_caseMIR	SENT3	-	-
+13	patología	patología	NCFS000	C0030664	calificador	215-224	48_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+14	orgánica	orgánico	AQ0FS0	-	-	225-233	48_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+15	…	…	Fz	-	-	233-234	48_QUEST_clinical_caseMIR	SENT3	-	-
+16	:	:	Fd	-	-	234-235	48_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	235-236	48_QUEST_clinical_caseMIR	SENT3	-	-
+

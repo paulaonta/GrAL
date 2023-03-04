@@ -1,0 +1,92 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	322_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	322_QUEST_clinical_caseMIR	SENT1	-	-
+3	45	45		-	-	12-14	322_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	322_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	20-22	322_QUEST_clinical_caseMIR	SENT1	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	23-30	322_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C0678226	atributo	31-34	322_QUEST_clinical_caseMIR	SENT1	-	-
+8	posible	posible	AQ0CS0	C0332149#C2362652	calificador	35-42	322_QUEST_clinical_caseMIR	SENT1	-	-
+9	meningitis	meningitis	NCFN000	C0025289	trastorno	43-53	322_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+10	,	,	Fc	-	-	53-54	322_QUEST_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0332287	atributo	55-58	322_QUEST_clinical_caseMIR	SENT1	-	-
+12	fiebre	fiebre	NCFS000	C0015967	hallazgo	59-65	322_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	,	,	Fc	-	-	65-66	322_QUEST_clinical_caseMIR	SENT1	-	-
+14	cefalea	cefalea	NCFS000	C0018681	hallazgo	67-74	322_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	y	y	CC	C1706368	calificador	75-76	322_QUEST_clinical_caseMIR	SENT1	-	-
+16	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	77-84	322_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0332285	atributo	85-87	322_QUEST_clinical_caseMIR	SENT1	-	-
+18	2	2	Z	-	-	88-89	322_QUEST_clinical_caseMIR	SENT1	-	-
+19	días	d	NCMP000	-	-	90-94	322_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	95-97	322_QUEST_clinical_caseMIR	SENT1	-	-
+21	evolución	evolución	NCFS000	-	-	98-107	322_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	107-108	322_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	109-111	322_QUEST_clinical_caseMIR	SENT2	-	-
+2	realizan	realizar	VMIP3P0	-	-	112-120	322_QUEST_clinical_caseMIR	SENT2	-	-
+3	una	una		C0205447_1	calificador_1	121-124	322_QUEST_clinical_caseMIR	SENT2	-	-
+4	RM	rm	NC00YL0	-	-	125-127	322_QUEST_clinical_caseMIR	SENT2	-	-
+5	cerebral	cerebral	AQ0CS0	-	-	128-136	322_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	y	y	CC	C1706368	calificador	137-138	322_QUEST_clinical_caseMIR	SENT2	-	-
+7	una	una		C0205447_1	calificador_1	139-142	322_QUEST_clinical_caseMIR	SENT2	-	-
+8	punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	143-150	322_QUEST_clinical_caseMIR	SENT2	-	-
+9	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	151-157	322_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	.	.	Fp	-	-	157-158	322_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Veinte	20	Z	-	-	159-165	322_QUEST_clinical_caseMIR	SENT3	-	-
+2	horas	h	NCFP000	C0439227	calificador	166-171	322_QUEST_clinical_caseMIR	SENT3	-	-
+3	después	después	RG	C0231290	atributo	172-179	322_QUEST_clinical_caseMIR	SENT3	-	-
+4	,	,	Fc	-	-	179-180	322_QUEST_clinical_caseMIR	SENT3	-	-
+5	al	al	SP+DA	-	-	181-183	322_QUEST_clinical_caseMIR	SENT3	-	-
+6	levantar	levantar	VMN0000	C0206244	entidad_observable	184-192	322_QUEST_clinical_caseMIR	SENT3	-	-
+7	se	se	PP3CN000	-	-	192-194	322_QUEST_clinical_caseMIR	SENT3	-	-
+8	para	para	SPS00	C0521125	calificador	195-199	322_QUEST_clinical_caseMIR	SENT3	-	-
+9	ir	ir	VMN0000	-	-	200-202	322_QUEST_clinical_caseMIR	SENT3	-	-
+10	al	al	SP+DA	-	-	203-205	322_QUEST_clinical_caseMIR	SENT3	-	-
+11	baño	baño	NCMS000	C0518460#C0556989	entidad_observable#medio_ambiente	206-210	322_QUEST_clinical_caseMIR	SENT3	-	-
+12	,	,	Fc	-	-	210-211	322_QUEST_clinical_caseMIR	SENT3	-	-
+13	se	se	P00CN000	-	-	212-214	322_QUEST_clinical_caseMIR	SENT3	-	-
+14	queja	quejar	VMIP3S0	-	-	215-220	322_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	221-223	322_QUEST_clinical_caseMIR	SENT3	-	-
+16	cefalea	cefalea	NCFS000	C0018681	hallazgo	224-231	322_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+17	intensa	intenso	AQ0FS0	C0205178	calificador	232-239	322_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+18	,	,	Fc	-	-	239-240	322_QUEST_clinical_caseMIR	SENT3	-	-
+19	muy	muy	RG	C0442824	calificador	241-244	322_QUEST_clinical_caseMIR	SENT3	-	-
+20	marcada	marcar	VMP00SF	-	-	245-252	322_QUEST_clinical_caseMIR	SENT3	-	-
+21	al	al	SP+DA	-	-	253-255	322_QUEST_clinical_caseMIR	SENT3	-	-
+22	incorporar	incorporar	VMN0000	-	-	256-266	322_QUEST_clinical_caseMIR	SENT3	-	-
+23	se	se	PP3CN000	-	-	266-268	322_QUEST_clinical_caseMIR	SENT3	-	-
+24	pero	pero	CC	-	-	269-273	322_QUEST_clinical_caseMIR	SENT3	-	-
+25	que	que	PR0CN000	-	-	274-277	322_QUEST_clinical_caseMIR	SENT3	-	-
+26	desaparece	desaparecer	VMIP3S0	-	-	278-288	322_QUEST_clinical_caseMIR	SENT3	-	-
+27	al	al	SP+DA	-	-	289-291	322_QUEST_clinical_caseMIR	SENT3	-	-
+28	tumbar	tumbar	VMN0000	-	-	292-298	322_QUEST_clinical_caseMIR	SENT3	-	-
+29	se	se	PP3CN000	-	-	298-300	322_QUEST_clinical_caseMIR	SENT3	-	-
+30	.	.	Fp	-	-	300-301	322_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Ya	ya	RG	-	-	302-304	322_QUEST_clinical_caseMIR	SENT4	-	-
+2	no	no	RN	C1298908	calificador	305-307	322_QUEST_clinical_caseMIR	SENT4	-	-
+3	presenta	presentar	VMIP3S0	-	-	308-316	322_QUEST_clinical_caseMIR	SENT4	-	-
+4	fiebre	fiebre	NCFS000	C0015967	hallazgo	317-323	322_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+5	ni	ni	CC	-	-	324-326	322_QUEST_clinical_caseMIR	SENT4	-	-
+6	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	327-334	322_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+7	.	.	Fp	-	-	334-335	322_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	No	no	RN	C1298908	calificador	336-338	322_QUEST_clinical_caseMIR	SENT5	-	-
+2	puede	poder	VMIP3S0	-	-	339-344	322_QUEST_clinical_caseMIR	SENT5	-	-
+3	caminar	caminar	VMN0000	C0080331	entidad_observable	345-352	322_QUEST_clinical_caseMIR	SENT5	-	-
+4	.	.	Fp	-	-	352-353	322_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	354-355	322_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	355-359	322_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	360-362	322_QUEST_clinical_caseMIR	SENT6	-	-
+4	con	con	SPS00	C0332287	atributo	363-366	322_QUEST_clinical_caseMIR	SENT6	-	-
+5	más	más	RG	C0205172	calificador	367-370	322_QUEST_clinical_caseMIR	SENT6	-	-
+6	probabilidad	probabilidad	NCFS000	-	-	371-383	322_QUEST_clinical_caseMIR	SENT6	-	-
+7	el	el	DA0MS0	-	-	384-386	322_QUEST_clinical_caseMIR	SENT6	-	-
+8	origen	origen	NCMS000	C0439659	atributo	387-393	322_QUEST_clinical_caseMIR	SENT6	-	-
+9	de	de	SPS00	C0332285	atributo	394-396	322_QUEST_clinical_caseMIR	SENT6	-	-
+10	esta	este	DD0FS0	-	-	397-401	322_QUEST_clinical_caseMIR	SENT6	-	-
+11	cefalea	cefalea	NCFS000	C0018681	hallazgo	402-409	322_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+12	?	?	Fit	-	-	409-410	322_QUEST_clinical_caseMIR	SENT6	-	-
+13	.	.	Fp	-	-	410-411	322_QUEST_clinical_caseMIR	SENT6	-	-
+

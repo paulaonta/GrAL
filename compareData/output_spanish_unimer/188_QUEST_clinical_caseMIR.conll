@@ -1,0 +1,102 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	188_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	188_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	188_QUEST_clinical_caseMIR	SENT1	-	-
+4	32	32		-	-	13-15	188_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	188_QUEST_clinical_caseMIR	SENT1	-	-
+6	solicita	solicitar	VMIP3S0	-	-	21-29	188_QUEST_clinical_caseMIR	SENT1	-	-
+7	consejo	consejo	NCMS000	C0474171_1	régimen/tratamiento_1	30-37	188_QUEST_clinical_caseMIR	SENT1	-	-
+8	preconcepcional	preconcepcional		C0474171_2	régimen/tratamiento_2	38-53	188_QUEST_clinical_caseMIR	SENT1	-	-
+9	.	.	Fp	-	-	53-54	188_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	55-57	188_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	58-66	188_QUEST_clinical_caseMIR	SENT2	-	-
+3	refiere	referir	VMIP3S0	-	-	67-74	188_QUEST_clinical_caseMIR	SENT2	-	-
+4	que	que	CS	-	-	75-78	188_QUEST_clinical_caseMIR	SENT2	-	-
+5	fue	ser	VSIS3S0	-	-	79-82	188_QUEST_clinical_caseMIR	SENT2	-	-
+6	sometida	someter	VMP00SF	-	-	83-91	188_QUEST_clinical_caseMIR	SENT2	-	-
+7	a	a	SPS00	-	-	92-93	188_QUEST_clinical_caseMIR	SENT2	-	-
+8	una	una		C0205447_1	calificador_1	94-97	188_QUEST_clinical_caseMIR	SENT2	-	-
+9	conización	conización	NCFS000	-	-	98-108	188_QUEST_clinical_caseMIR	SENT2	-	-
+10	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	109-117	188_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	por	por	SPS00	C0678226	atributo	118-121	188_QUEST_clinical_caseMIR	SENT2	-	-
+12	una	una		C0205447_1	calificador_1	122-125	188_QUEST_clinical_caseMIR	SENT2	-	-
+13	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	126-132	188_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	intraepitelial	intraepitelial	AQ0CS0	-	-	133-147	188_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+15	de	de	SPS00	C0332285	atributo	148-150	188_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+16	alto	alto	NCMS000	C0205082_1	calificador_1	151-155	188_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+17	grado	grado	NCMS000	C0205082_2	calificador_2	156-161	188_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+18	(	(	Fpa	-	-	162-163	188_QUEST_clinical_caseMIR	SENT2	-	-
+19	H-SIL	h-sil	NCMS000	-	-	163-168	188_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+20	)	)	Fpt	-	-	168-169	188_QUEST_clinical_caseMIR	SENT2	-	-
+21	y	y	CC	C1706368	calificador	170-171	188_QUEST_clinical_caseMIR	SENT2	-	-
+22	que	que	PR0CN000	-	-	172-175	188_QUEST_clinical_caseMIR	SENT2	-	-
+23	posteriormente	posteriormente	RG	-	-	176-190	188_QUEST_clinical_caseMIR	SENT2	-	-
+24	sufrió	sufrir	VMIS3S0	-	-	191-197	188_QUEST_clinical_caseMIR	SENT2	-	-
+25	tres	tres		-	-	198-202	188_QUEST_clinical_caseMIR	SENT2	-	-
+26	abortos	aborto	NCMP000	C0156543#C1281512	trastorno#estructura_corporal	203-210	188_QUEST_clinical_caseMIR	SENT2	-	-
+27	entre	entre	SPS00	C0205103	calificador	211-216	188_QUEST_clinical_caseMIR	SENT2	-	-
+28	las	el	DA0FP0	-	-	217-220	188_QUEST_clinical_caseMIR	SENT2	-	-
+29	20	20		-	-	221-223	188_QUEST_clinical_caseMIR	SENT2	-	-
+30	y	y	CC	C1706368	calificador	224-225	188_QUEST_clinical_caseMIR	SENT2	-	-
+31	22	22		-	-	226-228	188_QUEST_clinical_caseMIR	SENT2	-	-
+32	semanas	semana	NCFP000	C0439230	calificador	229-236	188_QUEST_clinical_caseMIR	SENT2	-	-
+33	de	de	SPS00	C0332285	atributo	237-239	188_QUEST_clinical_caseMIR	SENT2	-	-
+34	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	240-249	188_QUEST_clinical_caseMIR	SENT2	-	-
+35	.	.	Fp	-	-	249-250	188_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	No	no	RN	C1298908	calificador	251-253	188_QUEST_clinical_caseMIR	SENT3	-	-
+2	tiene	tener	VMIP3S0	-	-	254-259	188_QUEST_clinical_caseMIR	SENT3	-	-
+3	hijos	hijo	NCMP000	-	-	260-265	188_QUEST_clinical_caseMIR	SENT3	-	-
+4	vivos	vivo	AQ0MP0	C2584946	hallazgo	266-271	188_QUEST_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	271-272	188_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	273-275	188_QUEST_clinical_caseMIR	SENT4	-	-
+2	las	el	DA0FP0	-	-	276-279	188_QUEST_clinical_caseMIR	SENT4	-	-
+3	tres	tres		-	-	280-284	188_QUEST_clinical_caseMIR	SENT4	-	-
+4	ocasiones	ocasión	NCFP000	-	-	285-294	188_QUEST_clinical_caseMIR	SENT4	-	-
+5	acudió	acudir	VMIS3S0	-	-	295-301	188_QUEST_clinical_caseMIR	SENT4	-	-
+6	a	a	SPS00	-	-	302-303	188_QUEST_clinical_caseMIR	SENT4	-	-
+7	Urgencias	urgencia	NCFP000	C0439609	calificador	304-313	188_QUEST_clinical_caseMIR	SENT4	-	-
+8	con	con	SPS00	C0332287	atributo	314-317	188_QUEST_clinical_caseMIR	SENT4	-	-
+9	sensación	sensación	NCFS000	C0036658#C1455667	calificador	318-327	188_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	328-330	188_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+11	peso	peso	NCMS000	C0043100	calificador	331-335	188_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	336-338	188_QUEST_clinical_caseMIR	SENT4	-	-
+13	hipogastrio	hipogastrio	NCMS000	C1279158#C0230189	estructura_corporal	339-350	188_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	351-352	188_QUEST_clinical_caseMIR	SENT4	-	-
+15	allí	allí	RG	-	-	353-357	188_QUEST_clinical_caseMIR	SENT4	-	-
+16	se	se	P00CN000	-	-	358-360	188_QUEST_clinical_caseMIR	SENT4	-	-
+17	constató	constatar	VMIS3S0	-	-	361-369	188_QUEST_clinical_caseMIR	SENT4	-	-
+18	que	que	CS	-	-	370-373	188_QUEST_clinical_caseMIR	SENT4	-	-
+19	llegaba	llegar	VMII3S0	-	-	374-381	188_QUEST_clinical_caseMIR	SENT4	-	-
+20	con	con	SPS00	C0332287	atributo	382-385	188_QUEST_clinical_caseMIR	SENT4	-	-
+21	una	una		C0205447_1	calificador_1	386-389	188_QUEST_clinical_caseMIR	SENT4	-	-
+22	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	390-400	188_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+23	de	de	SPS00	C0332285	atributo	401-403	188_QUEST_clinical_caseMIR	SENT4	-	-
+24	8cm	8cm		-	-	404-407	188_QUEST_clinical_caseMIR	SENT4	-	-
+25	y	y	CC	C1706368	calificador	408-409	188_QUEST_clinical_caseMIR	SENT4	-	-
+26	con	con	SPS00	C0332287	atributo	410-413	188_QUEST_clinical_caseMIR	SENT4	-	-
+27	las	el	DA0FP0	-	-	414-417	188_QUEST_clinical_caseMIR	SENT4	-	-
+28	membranas	membrana	NCFP000	C0332875	anomalía_morfológica	418-427	188_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+29	amnióticas	amniótico	AQ0FP0	-	-	428-438	188_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+30	prominentes	prominente	AQ0CP0	C0205402	calificador	439-450	188_QUEST_clinical_caseMIR	SENT4	-	-
+31	.	.	Fp	-	-	450-451	188_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Nunca	nunca	RG	-	-	452-457	188_QUEST_clinical_caseMIR	SENT5	-	-
+2	había	haber	VAII3S0	-	-	458-463	188_QUEST_clinical_caseMIR	SENT5	-	-
+3	sentido	sentir	VMP00SM	-	-	464-471	188_QUEST_clinical_caseMIR	SENT5	-	-
+4	contracciones	contracción	NCFP000	C1140999	hallazgo	472-485	188_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+5	.	.	Fp	-	-	485-486	188_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	487-488	188_QUEST_clinical_caseMIR	SENT6	-	-
+2	Qué	qué	DT0CN0	-	-	488-491	188_QUEST_clinical_caseMIR	SENT6	-	-
+3	consejo	consejo	NCMS000	-	-	492-499	188_QUEST_clinical_caseMIR	SENT6	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	500-502	188_QUEST_clinical_caseMIR	SENT6	-	-
+5	daría	dar	VMIC3S0	C1947971	calificador	503-508	188_QUEST_clinical_caseMIR	SENT6	-	-
+6	para	para	SPS00	C0521125	calificador	509-513	188_QUEST_clinical_caseMIR	SENT6	-	-
+7	el	el	DA0MS0	-	-	514-516	188_QUEST_clinical_caseMIR	SENT6	-	-
+8	próximo	próximo	AQ0MS0	-	-	517-524	188_QUEST_clinical_caseMIR	SENT6	-	-
+9	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	525-533	188_QUEST_clinical_caseMIR	SENT6	-	-
+10	?	?	Fit	-	-	533-534	188_QUEST_clinical_caseMIR	SENT6	-	-
+11	.	.	Fp	-	-	534-535	188_QUEST_clinical_caseMIR	SENT6	-	-
+

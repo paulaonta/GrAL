@@ -1,0 +1,59 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	24_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	24_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	24_QUEST_clinical_caseMIR	SENT1	-	-
+4	52	52		-	-	15-17	24_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	24_QUEST_clinical_caseMIR	SENT1	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	23-30	24_QUEST_clinical_caseMIR	SENT1	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	31-33	24_QUEST_clinical_caseMIR	SENT1	-	-
+8	el	el	DA0MS0	-	-	34-36	24_QUEST_clinical_caseMIR	SENT1	-	-
+9	Hospital	hospital	NCMS000	C1510665	medio_ambiente	37-45	24_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C0678226	atributo	46-49	24_QUEST_clinical_caseMIR	SENT1	-	-
+11	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	50-58	24_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	grave	grave	AQ0CS0	C0439808#C0205082	calificador	59-64	24_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	.	.	Fp	-	-	64-65	24_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Con	con	SPS00	C0332287	atributo	66-69	24_QUEST_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	70-81	24_QUEST_clinical_caseMIR	SENT2	-	-
+3	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	82-93	24_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+4	adecuado	adecuar	VMP00SM	-	-	94-102	24_QUEST_clinical_caseMIR	SENT2	-	-
+5	mejora	mejora	NCFS000	-	-	103-109	24_QUEST_clinical_caseMIR	SENT2	-	-
+6	del	del	SP+DA	-	-	110-113	24_QUEST_clinical_caseMIR	SENT2	-	-
+7	cuadro	cuadro	NCMS000	-	-	114-120	24_QUEST_clinical_caseMIR	SENT2	-	-
+8	respiratorio	respiratorio	AQ0MS0	-	-	121-133	24_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	133-134	24_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tras	tras	SPS00	-	-	135-139	24_QUEST_clinical_caseMIR	SENT3	-	-
+2	4	4	Z	-	-	140-141	24_QUEST_clinical_caseMIR	SENT3	-	-
+3	días	d	NCMP000	-	-	142-146	24_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	147-149	24_QUEST_clinical_caseMIR	SENT3	-	-
+5	estancia	estancia	NCFS000	-	-	150-158	24_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	159-161	24_QUEST_clinical_caseMIR	SENT3	-	-
+7	planta	planta	NCFS000	C0032098	organismo	162-168	24_QUEST_clinical_caseMIR	SENT3	-	-
+8	se	se	P00CN000	-	-	169-171	24_QUEST_clinical_caseMIR	SENT3	-	-
+9	complica	complicar	VMIP3S0	-	-	172-180	24_QUEST_clinical_caseMIR	SENT3	-	-
+10	su	su	DP3CS0	-	-	181-183	24_QUEST_clinical_caseMIR	SENT3	-	-
+11	evolución	evolución	NCFS000	-	-	184-193	24_QUEST_clinical_caseMIR	SENT3	-	-
+12	por	por	SPS00	C0678226	atributo	194-197	24_QUEST_clinical_caseMIR	SENT3	-	-
+13	la	el	DA0FS0	-	-	198-200	24_QUEST_clinical_caseMIR	SENT3	-	-
+14	aparición	aparición	NCFS000	-	-	201-210	24_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	211-213	24_QUEST_clinical_caseMIR	SENT3	-	-
+16	un	un		C0205447_1	calificador_1	214-216	24_QUEST_clinical_caseMIR	SENT3	-	-
+17	proceso	proceso	NCMS000	C1522240	entidad_observable	217-224	24_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	diarreico	diarreico	AQ0MS0	-	-	225-234	24_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+19	grave	grave	AQ0CS0	C0439808#C0205082	calificador	235-240	24_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+20	.	.	Fp	-	-	240-241	24_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	242-243	24_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	243-247	24_QUEST_clinical_caseMIR	SENT4	-	-
+3	sería	ser	VSIC1S0	-	-	248-253	24_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	254-256	24_QUEST_clinical_caseMIR	SENT4	-	-
+5	microorganismo	microorganismo	NCMS000	C0445623	organismo	257-271	24_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	272-275	24_QUEST_clinical_caseMIR	SENT4	-	-
+7	frecuentemente	frecuentemente	RG	C0332183	calificador	276-290	24_QUEST_clinical_caseMIR	SENT4	-	-
+8	responsable	responsable	NCCS000	C1273518_1	atributo_1	291-302	24_QUEST_clinical_caseMIR	SENT4	-	-
+9	de	de	SPS00	C1273518_2	atributo_2	303-305	24_QUEST_clinical_caseMIR	SENT4	-	-
+10	este	este	DD0MS0	-	-	306-310	24_QUEST_clinical_caseMIR	SENT4	-	-
+11	cuadro	cuadro	NCMS000	-	-	311-317	24_QUEST_clinical_caseMIR	SENT4	-	-
+12	?	?	Fit	-	-	317-318	24_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	318-319	24_QUEST_clinical_caseMIR	SENT4	-	-
+

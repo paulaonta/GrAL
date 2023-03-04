@@ -1,0 +1,19 @@
+1	Aztreonam	aztreonam	NC00SC0	C0004521#C0728974	producto#sustancia	0-9	357(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	,	,	Fc	-	-	9-10	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	pensando	pensar	VMG0000	-	-	11-19	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	20-22	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	23-26	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	27-29	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	flora	flora	NCFS000	-	-	30-35	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	oral	oral	AQ0CS0	C0442027	calificador	36-40	357(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	está	estar	VAIP3S0	-	-	41-45	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	compuesta	componer	VMP00SF	-	-	46-55	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	56-59	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	flora	flora	NCFS000	-	-	60-65	357(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	mixta	mixto	AQ0FS0	C0205430	calificador	66-71	357(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+14	con	con	SPS00	C0332251_1	calificador_1	72-75	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	predominio	predominio	NCMS000	C0332251_2	calificador_2	76-86	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332251_3	calificador_3	87-89	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	enterobacterias	enterobacteria	NCFP000	-	-	90-105	357(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	.	.	Fp	-	-	106-107	357(1)_ANS_clinical_caseMIR	SENT1	-	-
+

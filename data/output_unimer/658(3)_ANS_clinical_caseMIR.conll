@@ -1,0 +1,35 @@
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	0-2	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	explica	explicar	VMIP3S0	-	-	3-10	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	que	que	CS	-	-	11-14	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	14-15	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	al	al	SP+DA	-	-	16-18	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	tener	tener	VMN0000	-	-	19-24	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	30	30		-	-	25-27	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	años	año	NCMP000	C0439234	calificador	28-32	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	32-33	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	probablemente	probablemente	RG	C0332148	calificador	34-47	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	sea	ser	VSSP1S0	-	-	48-51	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	52-54	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	quiste	quiste	NCMS000	C0686883#C0010709_1	organismo#anomalía_morfológica#trastorno_1	55-61	658(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	62-63	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	optará	optar	VMIF3S0	-	-	64-70	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	por	por	SPS00	C0678226	atributo	71-74	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	un	un		C0205447_1	calificador_1	75-77	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	control	control	NCMS000	C2587213	atributo	78-85	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	clínico	clínico	AQ0MS0	C0205210	calificador	86-93	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	94-96	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	6-12	6-12		-	-	97-101	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	meses	mes	NCMP000	C0439231	calificador	102-107	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	107-108	658(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Si	si	CS	-	-	109-111	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	persiste	persistir	VMIP3S0	-	-	112-120	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	,	,	Fc	-	-	120-121	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	entonces	entonces	RG	-	-	122-130	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	solicitará	solicitar	VMIF3S0	-	-	131-141	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	142-145	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+7	prueba	prueba	NCFS000	-	-	146-152	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	153-155	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+9	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	156-162	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	163-164	658(3)_ANS_clinical_caseMIR	SENT2	-	-
+

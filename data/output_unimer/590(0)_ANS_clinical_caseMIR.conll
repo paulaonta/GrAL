@@ -1,0 +1,18 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C0149783_1	procedimiento_1	8-19	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0149783_2	procedimiento_2	20-23	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	esteroides	esteroide	NCMP000	C0149783_3	procedimiento_3	24-34	590(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	a	a	SPS00	-	-	35-36	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	dosis	dosis	NCFN000	-	-	37-42	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	altas	alto	AQ0FP0	C0205250	calificador	43-48	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	ante	ante	SPS00	-	-	49-53	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	posibilidad	posibilidad	NCFS000	-	-	54-65	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	66-68	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	enfermedad	enfermedad	NCFS000	C0001314_1	trastorno_1	69-79	590(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	aguda	agudo	AQ0FS0	C0001314_2	trastorno_2	80-85	590(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+13	injerto	injerto	AQ0MS0	C0040732#C1961139#C0181074#C0332835#C0021102	procedimiento#calificador#sustancia#estructura_corporal#objeto_físico	86-93	590(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+14	contra	contra	SPS00	C0521124	calificador	94-100	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	huésped	huésped	NCMS000	-	-	101-108	590(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	hepática	hepático	AQ0FS0	-	-	109-117	590(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	118-119	590(0)_ANS_clinical_caseMIR	SENT1	-	-
+

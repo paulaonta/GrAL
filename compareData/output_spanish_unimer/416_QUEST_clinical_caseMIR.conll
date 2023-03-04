@@ -1,0 +1,74 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	416_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	416_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	10-12	416_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	416_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	416_QUEST_clinical_caseMIR	SENT1	-	-
+6	fumador	fumador	NCMS000	C0337664	hallazgo	19-26	416_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	27-29	416_QUEST_clinical_caseMIR	SENT1	-	-
+8	40	40		-	-	30-32	416_QUEST_clinical_caseMIR	SENT1	-	-
+9	paquetes	paquete	NCMP000	C1641805	calificador	33-41	416_QUEST_clinical_caseMIR	SENT1	-	-
+10	/	/	Fh	-	-	41-42	416_QUEST_clinical_caseMIR	SENT1	-	-
+11	año	año	NCMS000	C0439234	calificador	42-45	416_QUEST_clinical_caseMIR	SENT1	-	-
+12	,	,	Fc	-	-	45-46	416_QUEST_clinical_caseMIR	SENT1	-	-
+13	que	que	CS	-	-	47-50	416_QUEST_clinical_caseMIR	SENT1	-	-
+14	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	51-59	416_QUEST_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C1719974_2	procedimiento_2	60-63	416_QUEST_clinical_caseMIR	SENT1	-	-
+16	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	64-69	416_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	70-72	416_QUEST_clinical_caseMIR	SENT1	-	-
+18	borde	borde	NCMS000	C0205154	calificador	73-78	416_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	cubital	cubital	AQ0CS0	C0442044	calificador	79-86	416_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	del	del	SP+DA	-	-	87-90	416_QUEST_clinical_caseMIR	SENT1	-	-
+21	brazo	brazo	NCMS000	C1268256#C0230347_1	estructura_corporal_1	91-96	416_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	izquierdo	izquierdo	NC00SC0	C1268256#C0230347_2	estructura_corporal_2	97-106	416_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	y	y	CC	C1706368	calificador	107-108	416_QUEST_clinical_caseMIR	SENT1	-	-
+24	ptosis	ptosis	NCFN000	C0005745_1	trastorno_1	109-115	416_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	palpebral	palpebral	AQ0CS0	C0005745_2	trastorno_2	116-125	416_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	izquierda	izquierdo	AQ0FS0	C0205091	calificador	126-135	416_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	desde	desde	SPS00	-	-	136-141	416_QUEST_clinical_caseMIR	SENT1	-	-
+28	hace	hacer	VMIP3S0	-	-	142-146	416_QUEST_clinical_caseMIR	SENT1	-	-
+29	un	un		C0205447_1	calificador_1	147-149	416_QUEST_clinical_caseMIR	SENT1	-	-
+30	mes	mes	NCMS000	C0439231	calificador	150-153	416_QUEST_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	153-154	416_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	155-157	416_QUEST_clinical_caseMIR	SENT2	-	-
+2	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	158-169	416_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	170-172	416_QUEST_clinical_caseMIR	SENT2	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	173-178	416_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	muestra	mostrar	VMIP3S0	-	-	179-186	416_QUEST_clinical_caseMIR	SENT2	-	-
+6	una	una		C0205447_1	calificador_1	187-190	416_QUEST_clinical_caseMIR	SENT2	-	-
+7	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	191-195	416_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	196-198	416_QUEST_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	199-201	416_QUEST_clinical_caseMIR	SENT2	-	-
+10	lóbulo	lóbulo	NCMS000	-	-	202-208	416_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	superior	superior	AQ0CS0	C1282910	calificador	209-217	416_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	218-227	416_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	228-229	416_QUEST_clinical_caseMIR	SENT2	-	-
+14	la	el	DA0FS0	-	-	230-232	416_QUEST_clinical_caseMIR	SENT2	-	-
+15	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	233-235	416_QUEST_clinical_caseMIR	SENT2	-	-
+16	confirma	confirmar	VMIP3S0	-	-	236-244	416_QUEST_clinical_caseMIR	SENT2	-	-
+17	la	el	DA0FS0	-	-	245-247	416_QUEST_clinical_caseMIR	SENT2	-	-
+18	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	248-254	416_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+19	con	con	SPS00	C0332287	atributo	255-258	416_QUEST_clinical_caseMIR	SENT2	-	-
+20	invasión	invasión	NCFS000	-	-	259-267	416_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0332285	atributo	268-270	416_QUEST_clinical_caseMIR	SENT2	-	-
+22	la	el	DA0FS0	-	-	271-273	416_QUEST_clinical_caseMIR	SENT2	-	-
+23	segunda	segundar	VMM02S0	C0222833#C1280230_1	estructura_corporal_1	274-281	416_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+24	costilla	costilla	NCFS000	C0222833#C1280230_2	estructura_corporal_2	282-290	416_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+25	.	.	Fp	-	-	290-291	416_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	292-294	416_QUEST_clinical_caseMIR	SENT3	-	-
+2	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	295-303	416_QUEST_clinical_caseMIR	SENT3	-	-
+3	con	con	SPS00	C0332287	atributo	304-307	416_QUEST_clinical_caseMIR	SENT3	-	-
+4	el	el	DA0MS0	-	-	308-310	416_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	311-322	416_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0332285	atributo	323-325	416_QUEST_clinical_caseMIR	SENT3	-	-
+7	sospecha	sospecha	NCFS000	C0750491	calificador	326-334	416_QUEST_clinical_caseMIR	SENT3	-	-
+8	,	,	Fc	-	-	334-335	416_QUEST_clinical_caseMIR	SENT3	-	-
+9	el	el	DA0MS0	-	-	336-338	416_QUEST_clinical_caseMIR	SENT3	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	339-350	416_QUEST_clinical_caseMIR	SENT3	-	-
+11	más	más	RG	C0205172	calificador	351-354	416_QUEST_clinical_caseMIR	SENT3	-	-
+12	adecuado	adecuar	VMP00SM	-	-	355-363	416_QUEST_clinical_caseMIR	SENT3	-	-
+13	es	ser	VSIP3S0	-	-	364-366	416_QUEST_clinical_caseMIR	SENT3	-	-
+14	:	:	Fd	-	-	366-367	416_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	367-368	416_QUEST_clinical_caseMIR	SENT3	-	-
+

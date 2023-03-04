@@ -1,0 +1,113 @@
+1	La	el	DA0FS0	-	-	0-2	61_QUEST_clinical_caseMIR	SENT1	-	-
+2	hija	hijo	NCFS000	-	-	3-7	61_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	61_QUEST_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	11-14	61_QUEST_clinical_caseMIR	SENT1	-	-
+5	anciana	anciano	NCFS000	C0001792#C0524337	persona	15-22	61_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	23-25	61_QUEST_clinical_caseMIR	SENT1	-	-
+7	82	82		-	-	26-28	61_QUEST_clinical_caseMIR	SENT1	-	-
+8	años	año	NCMP000	C0439234	calificador	29-33	61_QUEST_clinical_caseMIR	SENT1	-	-
+9	nos	nos	PP1CP000	-	-	34-37	61_QUEST_clinical_caseMIR	SENT1	-	-
+10	consulta	consultar	VMIP3S0	-	-	38-46	61_QUEST_clinical_caseMIR	SENT1	-	-
+11	porque	porque	CS	-	-	47-53	61_QUEST_clinical_caseMIR	SENT1	-	-
+12	ha	haber	VAIP3S0	-	-	54-56	61_QUEST_clinical_caseMIR	SENT1	-	-
+13	encontrado	encontrar	VMP00SM	-	-	57-67	61_QUEST_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	68-69	61_QUEST_clinical_caseMIR	SENT1	-	-
+15	su	su	DP3CS0	-	-	70-72	61_QUEST_clinical_caseMIR	SENT1	-	-
+16	madre	madre	NCFS000	C0026591	persona	73-78	61_QUEST_clinical_caseMIR	SENT1	-	-
+17	más	más	RG	C0205172	calificador	79-82	61_QUEST_clinical_caseMIR	SENT1	-	-
+18	confusa	confuso	AQ0FS0	-	-	83-90	61_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	91-93	61_QUEST_clinical_caseMIR	SENT1	-	-
+20	lo	el	DA0NS0	-	-	94-96	61_QUEST_clinical_caseMIR	SENT1	-	-
+21	normal	normal	AQ0CS0	C0205307	calificador	97-103	61_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	103-104	61_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	105-107	61_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	108-116	61_QUEST_clinical_caseMIR	SENT2	-	-
+3	está	estar	VAIP3S0	-	-	117-121	61_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnosticada	diagnosticar	VMP00SF	-	-	122-135	61_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	136-138	61_QUEST_clinical_caseMIR	SENT2	-	-
+6	enfermedad	enfermedad	NCFS000	C0002395_1	trastorno_1	139-149	61_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0002395_2	trastorno_2	150-152	61_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+8	Alzheimer	Alzheimer		C0002395_3	trastorno_3	153-162	61_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	163-165	61_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	grado	grado	NCMS000	C0441800	atributo	166-171	61_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+11	moderado	moderar	VMP00SM	-	-	172-180	61_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+12	.	.	Fp	-	-	180-181	61_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	182-187	61_QUEST_clinical_caseMIR	SENT3	-	-
+2	además	además	RG	-	-	188-194	61_QUEST_clinical_caseMIR	SENT3	-	-
+3	FA	fa	NC00YL0	-	-	195-197	61_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	,	,	Fc	-	-	197-198	61_QUEST_clinical_caseMIR	SENT3	-	-
+5	depresión	depresión	NCFS000	C0011581#C1269683#C0025193#C0344315	trastorno#hallazgo	199-208	61_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	y	y	CC	C1706368	calificador	209-210	61_QUEST_clinical_caseMIR	SENT3	-	-
+7	artrosis	artrosis	NCFN000	C0029408	trastorno	211-219	61_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	.	.	Fp	-	-	219-220	61_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Su	su	DP3CS0	-	-	221-223	61_QUEST_clinical_caseMIR	SENT4	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	224-235	61_QUEST_clinical_caseMIR	SENT4	-	-
+3	estable	estable	AQ0CS0	C0205360	calificador	236-243	61_QUEST_clinical_caseMIR	SENT4	-	-
+4	desde	desde	SPS00	-	-	244-249	61_QUEST_clinical_caseMIR	SENT4	-	-
+5	hace	hacer	VMIP3S0	-	-	250-254	61_QUEST_clinical_caseMIR	SENT4	-	-
+6	3	3		-	-	255-256	61_QUEST_clinical_caseMIR	SENT4	-	-
+7	años	año	NCMP000	C0439234	calificador	257-261	61_QUEST_clinical_caseMIR	SENT4	-	-
+8	,	,	Fc	-	-	261-262	61_QUEST_clinical_caseMIR	SENT4	-	-
+9	incluye	incluir	VMIP3S0	-	-	263-270	61_QUEST_clinical_caseMIR	SENT4	-	-
+10	digoxina	digoxina	NC00SC0	C0012265	sustancia	271-279	61_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+11	,	,	Fc	-	-	279-280	61_QUEST_clinical_caseMIR	SENT4	-	-
+12	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	281-293	61_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+13	,	,	Fc	-	-	293-294	61_QUEST_clinical_caseMIR	SENT4	-	-
+14	fluoxetina	fluoxetina	NCFS000	C0016365	sustancia	295-305	61_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+15	desde	desde	SPS00	-	-	306-311	61_QUEST_clinical_caseMIR	SENT4	-	-
+16	hace	hacer	VMIP3S0	-	-	312-316	61_QUEST_clinical_caseMIR	SENT4	-	-
+17	4	4		-	-	317-318	61_QUEST_clinical_caseMIR	SENT4	-	-
+18	meses	mes	NCMP000	C0439231	calificador	319-324	61_QUEST_clinical_caseMIR	SENT4	-	-
+19	e	y	CC	C1706368	calificador	325-326	61_QUEST_clinical_caseMIR	SENT4	-	-
+20	ibuprofeno	ibuprofeno	NCMS000	C0020740	sustancia	327-337	61_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+21	desde	desde	SPS00	-	-	338-343	61_QUEST_clinical_caseMIR	SENT4	-	-
+22	hace	hacer	VMIP3S0	-	-	344-348	61_QUEST_clinical_caseMIR	SENT4	-	-
+23	un	un		C0205447_1	calificador_1	349-351	61_QUEST_clinical_caseMIR	SENT4	-	-
+24	mes	mes	NCMS000	C0439231	calificador	352-355	61_QUEST_clinical_caseMIR	SENT4	-	-
+25	por	por	SPS00	C0678226	atributo	356-359	61_QUEST_clinical_caseMIR	SENT4	-	-
+26	dolores	dolor	NCMP000	C0030193	hallazgo	360-367	61_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+27	articulares	articular	AQ0CP0	-	-	368-379	61_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+28	.	.	Fp	-	-	379-380	61_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	A	a	SPS00	-	-	381-382	61_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	383-385	61_QUEST_clinical_caseMIR	SENT5	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	386-397	61_QUEST_clinical_caseMIR	SENT5	-	-
+4	,	,	Fc	-	-	397-398	61_QUEST_clinical_caseMIR	SENT5	-	-
+5	su	su	DP3CS0	-	-	399-401	61_QUEST_clinical_caseMIR	SENT5	-	-
+6	tensión	tensión	NCFS000	C0038435	hallazgo	402-409	61_QUEST_clinical_caseMIR	SENT5	-	-
+7	es	ser	VSIP3S0	-	-	410-412	61_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	413-415	61_QUEST_clinical_caseMIR	SENT5	-	-
+9	130/80	130/80		-	-	416-422	61_QUEST_clinical_caseMIR	SENT5	-	-
+10	,	,	Fc	-	-	422-423	61_QUEST_clinical_caseMIR	SENT5	-	-
+11	frecuencia	frecuencia	NCFS000	C0439603#C0376249	calificador#atributo	424-434	61_QUEST_clinical_caseMIR	SENT5	-	-
+12	cardiaca	cardiaco	AQ0FS0	-	-	435-443	61_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+13	de	de	SPS00	C0332285	atributo	444-446	61_QUEST_clinical_caseMIR	SENT5	-	-
+14	48	48		-	-	447-449	61_QUEST_clinical_caseMIR	SENT5	-	-
+15	lpm	lpm	NC00YL0	-	-	450-453	61_QUEST_clinical_caseMIR	SENT5	-	-
+16	y	y	CC	C1706368	calificador	454-455	61_QUEST_clinical_caseMIR	SENT5	-	-
+17	respiratoria	respiratorio	AQ0FS0	-	-	456-468	61_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+18	de	de	SPS00	C0332285	atributo	469-471	61_QUEST_clinical_caseMIR	SENT5	-	-
+19	10	10		-	-	472-474	61_QUEST_clinical_caseMIR	SENT5	-	-
+20	rpm	r.p.m.	NCFN000	-	-	475-478	61_QUEST_clinical_caseMIR	SENT5	-	-
+21	.	.	Fp	-	-	478-479	61_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	480-481	61_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cuál	cuál	PT0CS000	-	-	481-485	61_QUEST_clinical_caseMIR	SENT6	-	-
+3	de	de	SPS00	C0332285	atributo	486-488	61_QUEST_clinical_caseMIR	SENT6	-	-
+4	los	el	DA0MP0	-	-	489-492	61_QUEST_clinical_caseMIR	SENT6	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	493-503	61_QUEST_clinical_caseMIR	SENT6	-	-
+6	es	ser	VSIP3S0	-	-	504-506	61_QUEST_clinical_caseMIR	SENT6	-	-
+7	la	el	DA0FS0	-	-	507-509	61_QUEST_clinical_caseMIR	SENT6	-	-
+8	causa	causa	NCFS000	-	-	510-515	61_QUEST_clinical_caseMIR	SENT6	-	-
+9	más	más	RG	C0205172	calificador	516-519	61_QUEST_clinical_caseMIR	SENT6	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	520-528	61_QUEST_clinical_caseMIR	SENT6	-	-
+11	del	del	SP+DA	-	-	529-532	61_QUEST_clinical_caseMIR	SENT6	-	-
+12	aumento	aumento	NCMS000	C0442805	calificador	533-540	61_QUEST_clinical_caseMIR	SENT6	-	-
+13	de	de	SPS00	C0332285	atributo	541-543	61_QUEST_clinical_caseMIR	SENT6	-	-
+14	confusión	confusión	NCFS000	C0009090	hallazgo	544-553	61_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+15	?	?	Fit	-	-	553-554	61_QUEST_clinical_caseMIR	SENT6	-	-
+16	.	.	Fp	-	-	554-555	61_QUEST_clinical_caseMIR	SENT6	-	-
+

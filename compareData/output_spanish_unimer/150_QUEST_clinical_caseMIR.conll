@@ -1,0 +1,34 @@
+1	¿	¿	Fia	-	-	0-1	150_QUEST_clinical_caseMIR	SENT1	-	-
+2	Qué	qué	DT0CN0	-	-	1-4	150_QUEST_clinical_caseMIR	SENT1	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	5-16	150_QUEST_clinical_caseMIR	SENT1	-	-
+4	aconsejaría	aconsejar	VMIC3S0	C0150600	procedimiento	17-28	150_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1279901_1	calificador_1	29-31	150_QUEST_clinical_caseMIR	SENT1	-	-
+6	primer	1	AO0MS0	C1279901_2	calificador_2	32-38	150_QUEST_clinical_caseMIR	SENT1	-	-
+7	lugar	lugar	NCMS000	C1279901_3	calificador_3	39-44	150_QUEST_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	-	-	45-46	150_QUEST_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	47-49	150_QUEST_clinical_caseMIR	SENT1	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	50-58	150_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	59-61	150_QUEST_clinical_caseMIR	SENT1	-	-
+12	82	82		-	-	62-64	150_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	65-69	150_QUEST_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	70-73	150_QUEST_clinical_caseMIR	SENT1	-	-
+15	refiere	referir	VMIP3S0	-	-	74-81	150_QUEST_clinical_caseMIR	SENT1	-	-
+16	angina	angina	NCFS000	C0577698_1	trastorno_1	82-88	150_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0577698_2	trastorno_2	89-91	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	esfuerzo	esfuerzo	NCMS000	C0577698_3	trastorno_3	92-100	150_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+19	y	y	CC	C1706368	calificador	101-102	150_QUEST_clinical_caseMIR	SENT1	-	-
+20	que	que	CS	-	-	103-106	150_QUEST_clinical_caseMIR	SENT1	-	-
+21	a	a	SPS00	-	-	107-108	150_QUEST_clinical_caseMIR	SENT1	-	-
+22	la	el	DA0FS0	-	-	109-111	150_QUEST_clinical_caseMIR	SENT1	-	-
+23	auscultación	auscultación	NCFS000	C0004339	procedimiento	112-124	150_QUEST_clinical_caseMIR	SENT1	-	-
+24	presenta	presentar	VMIP3S0	-	-	125-133	150_QUEST_clinical_caseMIR	SENT1	-	-
+25	un	un		C0205447_1	calificador_1	134-136	150_QUEST_clinical_caseMIR	SENT1	-	-
+26	soplo	soplo	NCMS000	C0232257_1	hallazgo_1	137-142	150_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	sistólico	sistólico	AQ0MS0	C0232257_2	hallazgo_2	143-152	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	eyectivo	eyectivo	AQ0MS0	-	-	153-161	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	de	de	SPS00	C0332285	atributo	162-164	150_QUEST_clinical_caseMIR	SENT1	-	-
+30	intensidad	intensidad	NCFS000	-	-	165-175	150_QUEST_clinical_caseMIR	SENT1	-	-
+31	3/6	3/6		-	-	176-179	150_QUEST_clinical_caseMIR	SENT1	-	-
+32	?	?	Fit	-	-	179-180	150_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	180-181	150_QUEST_clinical_caseMIR	SENT1	-	-
+

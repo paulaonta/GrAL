@@ -1,0 +1,21 @@
+1	Quimioembolización	quimioembolización	NCFS000	-	-	0-18	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	transarterial	transarterial	NC00SC0	C0522522	calificador	19-32	120(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	(	(	Fpa	-	-	33-34	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	TACE	tace	NCMS000	-	-	34-38	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	)	)	Fpt	-	-	38-39	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	39-40	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	ya	ya	RG	-	-	41-43	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	que	que	PR0CN000	-	-	44-47	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	el	el	DA0MS0	-	-	48-50	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	51-62	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	aumenta	aumentar	VMIP3S0	-	-	63-70	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	71-73	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	supervivencia	supervivencia	NCFS000	-	-	74-87	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	88-90	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	los	el	DA0MP0	-	-	91-94	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	pacientes	paciente	NCCP000	C0030705	persona	95-104	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0332287	atributo	105-108	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	hepatocarcinoma	hepatocarcinoma	NC00SC0	C2239176	anomalía_morfológica	109-124	120(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	avanzado	avanzar	VMP00SM	-	-	125-133	120(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+20	.	.	Fp	-	-	134-135	120(1)_ANS_clinical_caseMIR	SENT1	-	-
+

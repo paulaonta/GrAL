@@ -1,0 +1,102 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	384_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	384_QUEST_clinical_caseMIR	SENT1	-	-
+3	63	63		-	-	12-14	384_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	384_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	20-23	384_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	24-36	384_QUEST_clinical_caseMIR	SENT1	-	-
+7	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	37-47	384_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	48-50	384_QUEST_clinical_caseMIR	SENT1	-	-
+9	primer	1	AO0MS0	C0444502_1	calificador_1	51-57	384_QUEST_clinical_caseMIR	SENT1	-	-
+10	grado	grado	NCMS000	C0444502_2	calificador_2	58-63	384_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	64-66	384_QUEST_clinical_caseMIR	SENT1	-	-
+12	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	67-73	384_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	colorrectal	colorrectal	NC00SC0	C0555952	calificador	74-85	384_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	a	a	SPS00	-	-	86-87	384_QUEST_clinical_caseMIR	SENT1	-	-
+15	los	el	DA0MP0	-	-	88-91	384_QUEST_clinical_caseMIR	SENT1	-	-
+16	56	56		-	-	92-94	384_QUEST_clinical_caseMIR	SENT1	-	-
+17	años	año	NCMP000	C0439234	calificador	95-99	384_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	99-100	384_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	384_QUEST_clinical_caseMIR	SENT2	-	-
+2	sus	su	DP3CP0	-	-	104-107	384_QUEST_clinical_caseMIR	SENT2	-	-
+3	antecedentes	antecedente	NCMP000	-	-	108-120	384_QUEST_clinical_caseMIR	SENT2	-	-
+4	personales	personal	AQ0CP0	-	-	121-131	384_QUEST_clinical_caseMIR	SENT2	-	-
+5	destaca	destacar	VMIP3S0	-	-	132-139	384_QUEST_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	140-142	384_QUEST_clinical_caseMIR	SENT2	-	-
+7	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	143-151	384_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332189#C1455761_2	atributo_2	152-154	384_QUEST_clinical_caseMIR	SENT2	-	-
+9	rectorragia	rectorragia	NCFS000	C0267596#C0018932_1	trastorno#hallazgo_1	155-166	384_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	secundaria	secundario	AQ0FS0	C0175668	calificador	167-177	384_QUEST_clinical_caseMIR	SENT2	-	-
+11	a	a	SPS00	-	-	178-179	384_QUEST_clinical_caseMIR	SENT2	-	-
+12	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	180-188	384_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	hemorroidal	hemorroidal	AQ0CS0	-	-	189-200	384_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+14	hace	hacer	VMIP3S0	-	-	201-205	384_QUEST_clinical_caseMIR	SENT2	-	-
+15	15	15		-	-	206-208	384_QUEST_clinical_caseMIR	SENT2	-	-
+16	años	año	NCMP000	C0439234	calificador	209-213	384_QUEST_clinical_caseMIR	SENT2	-	-
+17	por	por	SPS00	C0678226	atributo	214-217	384_QUEST_clinical_caseMIR	SENT2	-	-
+18	lo	el	DA0NS0	-	-	218-220	384_QUEST_clinical_caseMIR	SENT2	-	-
+19	que	que	PR0CN000	-	-	221-224	384_QUEST_clinical_caseMIR	SENT2	-	-
+20	se	se	P00CN000	-	-	225-227	384_QUEST_clinical_caseMIR	SENT2	-	-
+21	realizó	realizar	VMIS3S0	-	-	228-235	384_QUEST_clinical_caseMIR	SENT2	-	-
+22	una	una		C0205447_1	calificador_1	236-239	384_QUEST_clinical_caseMIR	SENT2	-	-
+23	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	240-252	384_QUEST_clinical_caseMIR	SENT2	-	-
+24	que	que	PR0CN000	-	-	253-256	384_QUEST_clinical_caseMIR	SENT2	-	-
+25	fue	ser	VSIS3S0	-	-	257-260	384_QUEST_clinical_caseMIR	SENT2	-	-
+26	normal	normal	AQ0CS0	C0205307	calificador	261-267	384_QUEST_clinical_caseMIR	SENT2	-	-
+27	y	y	CC	C1706368	calificador	268-269	384_QUEST_clinical_caseMIR	SENT2	-	-
+28	no	no	RN	C1298908	calificador	270-272	384_QUEST_clinical_caseMIR	SENT2	-	-
+29	ha	haber	VAIP3S0	-	-	273-275	384_QUEST_clinical_caseMIR	SENT2	-	-
+30	vuelto	volver	VMP00SM	-	-	276-282	384_QUEST_clinical_caseMIR	SENT2	-	-
+31	a	a	SPS00	-	-	283-284	384_QUEST_clinical_caseMIR	SENT2	-	-
+32	presentar	presentar	VMN0000	-	-	285-294	384_QUEST_clinical_caseMIR	SENT2	-	-
+33	rectorragia	rectorragia	NCFS000	C0267596#C0018932_1	trastorno#hallazgo_1	295-306	384_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+34	.	.	Fp	-	-	306-307	384_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	308-313	384_QUEST_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	314-315	384_QUEST_clinical_caseMIR	SENT3	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	316-325	384_QUEST_clinical_caseMIR	SENT3	-	-
+4	por	por	SPS00	C0678226	atributo	326-329	384_QUEST_clinical_caseMIR	SENT3	-	-
+5	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	330-338	384_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0332189#C1455761_2	atributo_2	339-341	384_QUEST_clinical_caseMIR	SENT3	-	-
+7	hematoquecia	hematoquecia	NC00SC0	C0018932#C1321898	trastorno#hallazgo	342-354	384_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	.	.	Fp	-	-	354-355	384_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	FC	fc	NC00YL0	-	-	356-358	384_QUEST_clinical_caseMIR	SENT4	-	-
+2	120	120		-	-	359-362	384_QUEST_clinical_caseMIR	SENT4	-	-
+3	lpm	lpm	NC00YL0	-	-	363-366	384_QUEST_clinical_caseMIR	SENT4	-	-
+4	y	y	CC	C1706368	calificador	367-368	384_QUEST_clinical_caseMIR	SENT4	-	-
+5	PA	pa	NC00YL0	-	-	369-371	384_QUEST_clinical_caseMIR	SENT4	-	-
+6	70/40	70/40	Z	-	-	372-377	384_QUEST_clinical_caseMIR	SENT4	-	-
+7	mmHg	mmHg	NCMP000	-	-	378-382	384_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	382-383	384_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	El	el	DA0MS0	-	-	384-386	384_QUEST_clinical_caseMIR	SENT5	-	-
+2	análisis	análisis	NCMN000	C0702196_1	situación_1	387-395	384_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0702196_2	situación_2	396-398	384_QUEST_clinical_caseMIR	SENT5	-	-
+4	sangre	sangre	NCFS000	C0702196_3	situación_3	399-405	384_QUEST_clinical_caseMIR	SENT5	-	-
+5	muestra	mostrar	VMIP3S0	-	-	406-413	384_QUEST_clinical_caseMIR	SENT5	-	-
+6	una	una		C0205447_1	calificador_1	414-417	384_QUEST_clinical_caseMIR	SENT5	-	-
+7	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	418-429	384_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	430-432	384_QUEST_clinical_caseMIR	SENT5	-	-
+9	8	8	Z	-	-	433-434	384_QUEST_clinical_caseMIR	SENT5	-	-
+10	g	g	NCMN000	-	-	435-436	384_QUEST_clinical_caseMIR	SENT5	-	-
+11	/	/	Fh	-	-	436-437	384_QUEST_clinical_caseMIR	SENT5	-	-
+12	dL	decilitro	NCMN000	C0439241	calificador	437-439	384_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	439-440	384_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Señale	señalar	VMM03S0	-	-	441-447	384_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	448-450	384_QUEST_clinical_caseMIR	SENT6	-	-
+3	respuesta	respuesta	NCFS000	-	-	451-460	384_QUEST_clinical_caseMIR	SENT6	-	-
+4	INCORRECTA	incorrecto	AQ0FS0	-	-	461-471	384_QUEST_clinical_caseMIR	SENT6	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	472-474	384_QUEST_clinical_caseMIR	SENT6	-	-
+6	lo	el	DA0NS0	-	-	475-477	384_QUEST_clinical_caseMIR	SENT6	-	-
+7	que	que	PR0CN000	-	-	478-481	384_QUEST_clinical_caseMIR	SENT6	-	-
+8	respecta	respectar	VMIP3S0	-	-	482-490	384_QUEST_clinical_caseMIR	SENT6	-	-
+9	al	al	SP+DA	-	-	491-493	384_QUEST_clinical_caseMIR	SENT6	-	-
+10	manejo	manejo	NCMS000	C1273870	procedimiento	494-500	384_QUEST_clinical_caseMIR	SENT6	-	-
+11	de	de	SPS00	C0332285	atributo	501-503	384_QUEST_clinical_caseMIR	SENT6	-	-
+12	este	este	DD0MS0	-	-	504-508	384_QUEST_clinical_caseMIR	SENT6	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	509-517	384_QUEST_clinical_caseMIR	SENT6	-	-
+14	:	:	Fd	-	-	517-518	384_QUEST_clinical_caseMIR	SENT6	-	-
+15	.	.	Fp	-	-	518-519	384_QUEST_clinical_caseMIR	SENT6	-	-
+

@@ -1,0 +1,36 @@
+1	La	el	DA0FS0	-	-	0-2	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	elevación	elevación	NCFS000	C0439775	procedimiento	3-12	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	los	el	DA0MP0	-	-	16-19	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	niveles	nivel	NCMP000	C0456079	atributo	20-27	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	28-30	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	dióxido	dióxido	NCMS000	C0007012_1	sustancia_1	31-38	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0007012_2	sustancia_2	39-41	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	carbono	carbono	NCMS000	C0007012_3	sustancia_3	42-49	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	es	ser	VSIP3S0	-	-	50-52	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	normal	normal	AQ0CS0	C0205307	calificador	53-59	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	63-65	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	marco	marco	NCMS000	C0180979	objeto_físico	66-71	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	72-74	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	75-78	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	intervención	intervención	NCFS000	-	-	79-91	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	laparoscópica	laparoscópica	AQ0FS00	-	-	92-105	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	105-106	330(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	107-109	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	única	único	AQ0FS0	C0205171	calificador	110-115	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	116-123	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	-	-	124-125	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+5	tomar	tomar	VMN0000	C1515187	calificador	126-131	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+6	es	ser	VSIP3S0	-	-	132-134	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+7	aumentar	aumentar	VMN0000	-	-	135-143	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	144-146	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+9	volumen	volumen	NCMS000	C0007165#C0428679_1	entidad_observable_1	147-154	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+10	minuto	minuto	NCMS000	C0007165#C0428679_2	entidad_observable_2	155-161	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	162-164	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	165-167	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+13	máquina	máquina	NCFS000	C0336779	objeto_físico	168-175	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+14	anestésica	anestésico	AQ0FS0	C0002932#C0473161	sustancia#ocupación	176-186	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	187-188	330(2)_ANS_clinical_caseMIR	SENT2	-	-
+

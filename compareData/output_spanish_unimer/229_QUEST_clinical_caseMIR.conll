@@ -1,0 +1,55 @@
+1	A	a	SPS00	-	-	0-1	229_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	2-4	229_QUEST_clinical_caseMIR	SENT1	-	-
+3	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	5-11	229_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	229_QUEST_clinical_caseMIR	SENT1	-	-
+5	55	55		-	-	15-17	229_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	18-22	229_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	22-23	229_QUEST_clinical_caseMIR	SENT1	-	-
+8	padre	padre	NCMS000	C0015671	persona	24-29	229_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	30-32	229_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	33-35	229_QUEST_clinical_caseMIR	SENT1	-	-
+11	hijo	hijo	NCMS000	-	-	36-40	229_QUEST_clinical_caseMIR	SENT1	-	-
+12	celiaco	celiaco	AQ0MS00	-	-	41-48	229_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	,	,	Fc	-	-	48-49	229_QUEST_clinical_caseMIR	SENT1	-	-
+14	con	con	SPS00	C0332287	atributo	50-53	229_QUEST_clinical_caseMIR	SENT1	-	-
+15	anemia	anemia	NCFS000	C0162316#C0008272_1	trastorno_1	54-60	229_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	ferropénica	ferropénico	AQ0FS0	C0162316#C0008272_2	trastorno_2	61-72	229_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	y	y	CC	C1706368	calificador	73-74	229_QUEST_clinical_caseMIR	SENT1	-	-
+18	aumento	aumento	NCMS000	C0442805	calificador	75-82	229_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	reciente	reciente	AQ0CS0	C0332185	calificador	83-91	229_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	del	del	SP+DA	-	-	92-95	229_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	ritmo	ritmo	NCMS000	C0449243	atributo	96-101	229_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	deposicional	deposicional	AQ0CS00	-	-	102-114	229_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	,	,	Fc	-	-	114-115	229_QUEST_clinical_caseMIR	SENT1	-	-
+24	se	se	P00CN000	-	-	116-118	229_QUEST_clinical_caseMIR	SENT1	-	-
+25	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	119-121	229_QUEST_clinical_caseMIR	SENT1	-	-
+26	ha	haber	VAIP3S0	-	-	122-124	229_QUEST_clinical_caseMIR	SENT1	-	-
+27	realizado	realizar	VMP00SM	-	-	125-134	229_QUEST_clinical_caseMIR	SENT1	-	-
+28	una	una		C0205447_1	calificador_1	135-138	229_QUEST_clinical_caseMIR	SENT1	-	-
+29	determinación	determinación	NCFS000	C0242485	procedimiento	139-152	229_QUEST_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	153-155	229_QUEST_clinical_caseMIR	SENT1	-	-
+31	los	el	DA0MP0	-	-	156-159	229_QUEST_clinical_caseMIR	SENT1	-	-
+32	alelos	alelo	NCMP000	-	-	160-166	229_QUEST_clinical_caseMIR	SENT1	-	-
+33	HLA-DQ2	HLA-DQ2		-	-	167-174	229_QUEST_clinical_caseMIR	SENT1	-	-
+34	y	y	CC	C1706368	calificador	175-176	229_QUEST_clinical_caseMIR	SENT1	-	-
+35	HLA-DQ8	HLA-DQ8		-	-	177-184	229_QUEST_clinical_caseMIR	SENT1	-	-
+36	que	que	PR0CN000	-	-	185-188	229_QUEST_clinical_caseMIR	SENT1	-	-
+37	ha	haber	VAIP3S0	-	-	189-191	229_QUEST_clinical_caseMIR	SENT1	-	-
+38	resultado	resultar	VMP00SM	-	-	192-201	229_QUEST_clinical_caseMIR	SENT1	-	-
+39	negativa	negativa	NCFS000	-	-	202-210	229_QUEST_clinical_caseMIR	SENT1	-	-
+40	.	.	Fp	-	-	210-211	229_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	212-213	229_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	213-216	229_QUEST_clinical_caseMIR	SENT2	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	217-224	229_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	225-236	229_QUEST_clinical_caseMIR	SENT2	-	-
+5	es	ser	VSIP3S0	-	-	237-239	229_QUEST_clinical_caseMIR	SENT2	-	-
+6	el	el	DA0MS0	C0205393_1	calificador_1	240-242	229_QUEST_clinical_caseMIR	SENT2	-	-
+7	más	más	RG	C0205393_2	calificador_2	243-246	229_QUEST_clinical_caseMIR	SENT2	-	-
+8	apropiado	apropiar	VMP00SM	-	-	247-256	229_QUEST_clinical_caseMIR	SENT2	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	257-259	229_QUEST_clinical_caseMIR	SENT2	-	-
+10	este	este	DD0MS0	-	-	260-264	229_QUEST_clinical_caseMIR	SENT2	-	-
+11	caso	caso	NCMS000	C0868928	calificador	265-269	229_QUEST_clinical_caseMIR	SENT2	-	-
+12	?	?	Fit	-	-	269-270	229_QUEST_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	270-271	229_QUEST_clinical_caseMIR	SENT2	-	-
+

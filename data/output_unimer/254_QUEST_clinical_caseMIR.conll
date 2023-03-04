@@ -1,0 +1,54 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	254_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	254_QUEST_clinical_caseMIR	SENT1	-	-
+3	es	ser	VSIP3S0	-	-	12-14	254_QUEST_clinical_caseMIR	SENT1	-	-
+4	diagnosticado	diagnosticar	VMP00SM	-	-	15-28	254_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	29-31	254_QUEST_clinical_caseMIR	SENT1	-	-
+6	un	un		C0205447_1	calificador_1	32-34	254_QUEST_clinical_caseMIR	SENT1	-	-
+7	cáncer	cáncer	NCMS000	C0242379#C0684249_1	trastorno_1	35-41	254_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0242379#C0684249_2	trastorno_2	42-44	254_QUEST_clinical_caseMIR	SENT1	-	-
+9	pulmón	pulmón	NCMS000	C0242379#C0684249_3	trastorno_3	45-51	254_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	de	de	SPS00	C0332285	atributo	52-54	254_QUEST_clinical_caseMIR	SENT1	-	-
+11	4	4	Z	-	-	55-56	254_QUEST_clinical_caseMIR	SENT1	-	-
+12	cm	cm	NCMN000	-	-	57-59	254_QUEST_clinical_caseMIR	SENT1	-	-
+13	sin	sin	SPS00	C0332288	atributo	60-63	254_QUEST_clinical_caseMIR	SENT1	-	-
+14	contacto	contacto	NCMS000	C0337611	persona	64-72	254_QUEST_clinical_caseMIR	SENT1	-	-
+15	pleural	pleural	AQ0CS0	C1522720	calificador	73-80	254_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	81-83	254_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	84-86	254_QUEST_clinical_caseMIR	SENT1	-	-
+18	lóbulo	lóbulo	NCMS000	-	-	87-93	254_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	superior	superior	AQ0CS0	C1282910	calificador	94-102	254_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+20	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	103-110	254_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	.	.	Fp	-	-	110-111	254_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	112-114	254_QUEST_clinical_caseMIR	SENT2	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	115-122	254_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	123-125	254_QUEST_clinical_caseMIR	SENT2	-	-
+4	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	126-135	254_QUEST_clinical_caseMIR	SENT2	-	-
+5	pone	poner	VMIP3S0	-	-	136-140	254_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	141-143	254_QUEST_clinical_caseMIR	SENT2	-	-
+7	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	144-154	254_QUEST_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	155-157	254_QUEST_clinical_caseMIR	SENT2	-	-
+9	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	158-167	254_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0150312_2	calificador_2	168-170	254_QUEST_clinical_caseMIR	SENT2	-	-
+11	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	171-181	254_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	182-184	254_QUEST_clinical_caseMIR	SENT2	-	-
+13	ganglios	ganglio	NCMP000	-	-	185-193	254_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	parahiliares	parahiliares	AQ0CP00	-	-	194-206	254_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+15	derechos	derecho	NCMP000	C0445291#C0445292#C0205090#C0450415	calificador	207-215	254_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+16	,	,	Fc	-	-	215-216	254_QUEST_clinical_caseMIR	SENT2	-	-
+17	sin	sin	SPS00	C0332125_1	calificador_1	217-220	254_QUEST_clinical_caseMIR	SENT2	-	-
+18	evidencia	evidenciar	VMM02S0	C0332125_2	calificador_2	221-230	254_QUEST_clinical_caseMIR	SENT2	-	-
+19	de	de	SPS00	C0332125_3	calificador_3	231-233	254_QUEST_clinical_caseMIR	SENT2	-	-
+20	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	234-244	254_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+21	a	a	SPS00	-	-	245-246	254_QUEST_clinical_caseMIR	SENT2	-	-
+22	distancia	distancia	NCFS000	C0012751	calificador	247-256	254_QUEST_clinical_caseMIR	SENT2	-	-
+23	.	.	Fp	-	-	256-257	254_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	258-260	254_QUEST_clinical_caseMIR	SENT3	-	-
+2	estadiaje	estadiaje	NCMS000	-	-	261-270	254_QUEST_clinical_caseMIR	SENT3	-	-
+3	del	del	SP+DA	-	-	271-274	254_QUEST_clinical_caseMIR	SENT3	-	-
+4	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	275-280	254_QUEST_clinical_caseMIR	SENT3	-	-
+5	será	ser	VSIF3S0	-	-	281-285	254_QUEST_clinical_caseMIR	SENT3	-	-
+6	:	:	Fd	-	-	285-286	254_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	286-287	254_QUEST_clinical_caseMIR	SENT3	-	-
+

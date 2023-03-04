@@ -1,0 +1,35 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	783_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	783_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	783_QUEST_clinical_caseMIR	SENT1	-	-
+4	19	19		-	-	13-15	783_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	783_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	783_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	22-25	783_QUEST_clinical_caseMIR	SENT1	-	-
+8	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	26-38	783_QUEST_clinical_caseMIR	SENT1	-	-
+9	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	39-49	783_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	50-52	783_QUEST_clinical_caseMIR	SENT1	-	-
+11	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	53-59	783_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	59-60	783_QUEST_clinical_caseMIR	SENT1	-	-
+13	presenta	presentar	VMIP3S0	-	-	61-69	783_QUEST_clinical_caseMIR	SENT1	-	-
+14	datos	dato	NCMP000	-	-	70-75	783_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	76-78	783_QUEST_clinical_caseMIR	SENT1	-	-
+16	anemia	anemia	NCFS000	C0002878_1	trastorno_1	79-85	783_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	hemolítica	hemolítico	AQ0FS0	C0002878_2	trastorno_2	86-96	783_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	crónica	crónico	AQ0FS0	C0205191	calificador	97-104	783_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+19	,	,	Fc	-	-	104-105	783_QUEST_clinical_caseMIR	SENT1	-	-
+20	Coombs	coombs	NCMP000	-	-	106-112	783_QUEST_clinical_caseMIR	SENT1	-	-
+21	directo	directo	AQ0MS0	C0439851	calificador	113-120	783_QUEST_clinical_caseMIR	SENT1	-	-
+22	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	121-129	783_QUEST_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	129-130	783_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	131-132	783_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	132-136	783_QUEST_clinical_caseMIR	SENT2	-	-
+3	sería	ser	VSIC1S0	-	-	137-142	783_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	143-145	783_QUEST_clinical_caseMIR	SENT2	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	146-157	783_QUEST_clinical_caseMIR	SENT2	-	-
+6	más	más	RG	C0205172	calificador	158-161	783_QUEST_clinical_caseMIR	SENT2	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	162-170	783_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	170-171	783_QUEST_clinical_caseMIR	SENT2	-	-
+9	:	:	Fd	-	-	171-172	783_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	172-173	783_QUEST_clinical_caseMIR	SENT2	-	-
+

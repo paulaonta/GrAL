@@ -1,0 +1,76 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	487_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	487_QUEST_clinical_caseMIR	SENT1	-	-
+3	53	53		-	-	9-11	487_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	487_QUEST_clinical_caseMIR	SENT1	-	-
+5	sin	sin	SPS00	C0332122_1	calificador_1	17-20	487_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	21-33	487_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332122_3	calificador_3	34-36	487_QUEST_clinical_caseMIR	SENT1	-	-
+8	interés	interés	NCMS000	-	-	37-44	487_QUEST_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	45-48	487_QUEST_clinical_caseMIR	SENT1	-	-
+10	tras	tras	SPS00	-	-	49-53	487_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	54-56	487_QUEST_clinical_caseMIR	SENT1	-	-
+12	mal	mal	AQ0CS0	C0205169	calificador	57-60	487_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	movimiento	movimiento	NCMS000	C0026649#C0026597	entidad_observable#fuerza_física	61-71	487_QUEST_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	72-74	487_QUEST_clinical_caseMIR	SENT1	-	-
+15	el	el	DA0MS0	-	-	75-77	487_QUEST_clinical_caseMIR	SENT1	-	-
+16	gimnasio	gimnasio	NCMS000	C0442572	medio_ambiente	78-86	487_QUEST_clinical_caseMIR	SENT1	-	-
+17	nota	notar	VMIP3S0	-	-	87-91	487_QUEST_clinical_caseMIR	SENT1	-	-
+18	un	un		C0205447_1	calificador_1	92-94	487_QUEST_clinical_caseMIR	SENT1	-	-
+19	dolor	dolor	NCMS000	C0024031_1	trastorno_1	95-100	487_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	101-107	487_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	que	que	PR0CN000	-	-	108-111	487_QUEST_clinical_caseMIR	SENT1	-	-
+22	al	al	SP+DA	-	-	112-114	487_QUEST_clinical_caseMIR	SENT1	-	-
+23	pasar	pasar	VMN0000	-	-	115-120	487_QUEST_clinical_caseMIR	SENT1	-	-
+24	las	el	DA0FP0	-	-	121-124	487_QUEST_clinical_caseMIR	SENT1	-	-
+25	horas	hora	NCFP000	C0040223#C0439227	calificador	125-130	487_QUEST_clinical_caseMIR	SENT1	-	-
+26	se	se	P00CN000	-	-	131-133	487_QUEST_clinical_caseMIR	SENT1	-	-
+27	irradia	irradiar	VMIP3S0	-	-	134-141	487_QUEST_clinical_caseMIR	SENT1	-	-
+28	hacia	hacia	SPS00	-	-	142-147	487_QUEST_clinical_caseMIR	SENT1	-	-
+29	la	el	DA0FS0	-	-	148-150	487_QUEST_clinical_caseMIR	SENT1	-	-
+30	pierna	pierna	NCFS000	C1279605#C0230442_1	estructura_corporal_1	151-157	487_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	derecha	derecho	AQ0FS0	C1279605#C0230442_2	estructura_corporal_2	158-165	487_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+32	por	por	SPS00	C0678226	atributo	166-169	487_QUEST_clinical_caseMIR	SENT1	-	-
+33	la	el	DA0FS0	-	-	170-172	487_QUEST_clinical_caseMIR	SENT1	-	-
+34	parte	parte	NCMS000	C0449719	atributo	173-178	487_QUEST_clinical_caseMIR	SENT1	-	-
+35	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	179-188	487_QUEST_clinical_caseMIR	SENT1	-	-
+36	y	y	CC	C1706368	calificador	189-190	487_QUEST_clinical_caseMIR	SENT1	-	-
+37	llega	llegar	VMIP3S0	-	-	191-196	487_QUEST_clinical_caseMIR	SENT1	-	-
+38	al	al	SP+DA	-	-	197-199	487_QUEST_clinical_caseMIR	SENT1	-	-
+39	borde	borde	AQ0CS0	C0205154	calificador	200-205	487_QUEST_clinical_caseMIR	SENT1	-	-
+40	lateral	lateral	NCMS000	C0205093	calificador	206-213	487_QUEST_clinical_caseMIR	SENT1	-	-
+41	del	del	SP+DA	-	-	214-217	487_QUEST_clinical_caseMIR	SENT1	-	-
+42	pie	pie	NCMS000	C1281587#C0347981#C0016504	estructura_corporal#calificador	218-221	487_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+43	.	.	Fp	-	-	221-222	487_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	223-231	487_QUEST_clinical_caseMIR	SENT2	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	232-234	487_QUEST_clinical_caseMIR	SENT2	-	-
+3	la	el	DA0FS0	-	-	235-237	487_QUEST_clinical_caseMIR	SENT2	-	-
+4	exploración	exploración	NCFS000	C1280903	procedimiento	238-249	487_QUEST_clinical_caseMIR	SENT2	-	-
+5	maniobra	maniobra	NCFS000	-	-	250-258	487_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	259-261	487_QUEST_clinical_caseMIR	SENT2	-	-
+7	Lasègue	lasègue	NCMS000	-	-	262-269	487_QUEST_clinical_caseMIR	SENT2	-	-
+8	positiva	positivo	AQ0FS0	C1446409	calificador	270-278	487_QUEST_clinical_caseMIR	SENT2	-	-
+9	a	a	SPS00	-	-	279-280	487_QUEST_clinical_caseMIR	SENT2	-	-
+10	40o	40o		-	-	281-284	487_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	284-285	487_QUEST_clinical_caseMIR	SENT2	-	-
+12	reflejo	reflejo	NCMS000	C0234171_1	entidad_observable_1	286-293	487_QUEST_clinical_caseMIR	SENT2	-	-
+13	aquíleo	aquíleo		C0234171_2	entidad_observable_2	294-301	487_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	abolido	abolir	VMP00SM	-	-	302-309	487_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	310-311	487_QUEST_clinical_caseMIR	SENT2	-	-
+16	no	no	RN	C1298908	calificador	312-314	487_QUEST_clinical_caseMIR	SENT2	-	-
+17	se	se	P00CN000	-	-	315-317	487_QUEST_clinical_caseMIR	SENT2	-	-
+18	puede	poder	VMIP3S0	-	-	318-323	487_QUEST_clinical_caseMIR	SENT2	-	-
+19	poner	poner	VMN0000	-	-	324-329	487_QUEST_clinical_caseMIR	SENT2	-	-
+20	de	de	SPS00	C0332285	atributo	330-332	487_QUEST_clinical_caseMIR	SENT2	-	-
+21	puntillas	puntilla	NCFP000	-	-	333-342	487_QUEST_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	342-343	487_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	344-346	487_QUEST_clinical_caseMIR	SENT3	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	347-358	487_QUEST_clinical_caseMIR	SENT3	-	-
+3	etiológico	etiológico	AQ0MS0	-	-	359-369	487_QUEST_clinical_caseMIR	SENT3	-	-
+4	más	más	RG	C0205172	calificador	370-373	487_QUEST_clinical_caseMIR	SENT3	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	374-382	487_QUEST_clinical_caseMIR	SENT3	-	-
+6	es	ser	VSIP3S0	-	-	383-385	487_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	385-386	487_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	386-387	487_QUEST_clinical_caseMIR	SENT3	-	-
+

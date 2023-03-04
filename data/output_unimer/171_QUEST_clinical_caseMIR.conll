@@ -1,0 +1,43 @@
+1	Gestante	gestante	NCFS000	-	-	0-8	171_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	171_QUEST_clinical_caseMIR	SENT1	-	-
+3	32	32		-	-	12-14	171_QUEST_clinical_caseMIR	SENT1	-	-
+4	semanas	semana	NCFP000	C0439230	calificador	15-22	171_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	22-23	171_QUEST_clinical_caseMIR	SENT1	-	-
+6	secundigesta	secundigesta	NC00SC0	C0232997	hallazgo	24-36	171_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	36-37	171_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	38-41	171_QUEST_clinical_caseMIR	SENT1	-	-
+9	antecedente	antecedente	NCMS000	C0332119_1	situación_1	42-53	171_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332119_2	situación_2	54-56	171_QUEST_clinical_caseMIR	SENT1	-	-
+11	pre-eclampsia	pre-eclampsia	AQ0FS00	-	-	57-70	171_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	71-73	171_QUEST_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	74-76	171_QUEST_clinical_caseMIR	SENT1	-	-
+14	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	77-86	171_QUEST_clinical_caseMIR	SENT1	-	-
+15	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	87-95	171_QUEST_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	95-96	171_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	97-105	171_QUEST_clinical_caseMIR	SENT2	-	-
+2	altura	altura	NCFS000	C0002349	fuerza_física	106-112	171_QUEST_clinical_caseMIR	SENT2	-	-
+3	uterina	uterino	AQ0FS0	-	-	113-120	171_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+4	y	y	CC	C1706368	calificador	121-122	171_QUEST_clinical_caseMIR	SENT2	-	-
+5	biometría	biometría	NCFS000	-	-	123-132	171_QUEST_clinical_caseMIR	SENT2	-	-
+6	ecográfica	ecográfica	AQ0FS00	-	-	133-143	171_QUEST_clinical_caseMIR	SENT2	-	-
+7	fetal	fetal	AQ0CS0	-	-	144-149	171_QUEST_clinical_caseMIR	SENT2	-	-
+8	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	150-155	171_QUEST_clinical_caseMIR	SENT2	-	-
+9	que	que	CS	-	-	156-159	171_QUEST_clinical_caseMIR	SENT2	-	-
+10	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	160-169	171_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	(	(	Fpa	-	-	170-171	171_QUEST_clinical_caseMIR	SENT2	-	-
+12	desfase	desfase	NCMS000	-	-	171-178	171_QUEST_clinical_caseMIR	SENT2	-	-
+13	-3	-3		-	-	179-181	171_QUEST_clinical_caseMIR	SENT2	-	-
+14	semanas	semana	NCFP000	C0439230	calificador	182-189	171_QUEST_clinical_caseMIR	SENT2	-	-
+15	)	)	Fpt	-	-	189-190	171_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	190-191	171_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	192-193	171_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	193-196	171_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	197-208	171_QUEST_clinical_caseMIR	SENT3	-	-
+4	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	209-220	171_QUEST_clinical_caseMIR	SENT3	-	-
+5	solicitaría	solicitar	VMIC3S0	-	-	221-232	171_QUEST_clinical_caseMIR	SENT3	-	-
+6	?	?	Fit	-	-	232-233	171_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	233-234	171_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	234-235	171_QUEST_clinical_caseMIR	SENT3	-	-
+

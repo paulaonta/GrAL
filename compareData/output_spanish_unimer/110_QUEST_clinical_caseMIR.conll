@@ -1,0 +1,71 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	110_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	110_QUEST_clinical_caseMIR	SENT1	-	-
+3	19	19		-	-	9-11	110_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	110_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	110_QUEST_clinical_caseMIR	SENT1	-	-
+6	peso	peso	NCMS000	C0043100	calificador	18-22	110_QUEST_clinical_caseMIR	SENT1	-	-
+7	60	60	Z	-	-	23-25	110_QUEST_clinical_caseMIR	SENT1	-	-
+8	kg	kg	NCMN000	-	-	26-28	110_QUEST_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	28-29	110_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	30-33	110_QUEST_clinical_caseMIR	SENT1	-	-
+11	deshidratación	deshidratación	NCFS000	C0011175	trastorno	34-48	110_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	aguda	agudo	AQ0FS0	C0205178	calificador	49-54	110_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	por	por	SPS00	C0678226	atributo	55-58	110_QUEST_clinical_caseMIR	SENT1	-	-
+14	larga	largo	AQ0FS0	C0205166#C0392744	calificador	59-64	110_QUEST_clinical_caseMIR	SENT1	-	-
+15	exposición	exposición	NCFS000	C0274281	trastorno	65-75	110_QUEST_clinical_caseMIR	SENT1	-	-
+16	al	al	SP+DA	-	-	76-78	110_QUEST_clinical_caseMIR	SENT1	-	-
+17	sol	sol	NCMS000	C0038817	fuerza_física	79-82	110_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	82-83	110_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	84-91	110_QUEST_clinical_caseMIR	SENT2	-	-
+2	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	92-100	110_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	tumbada	tumbar	VMP00SF	-	-	101-108	110_QUEST_clinical_caseMIR	SENT2	-	-
+4	100/60	100/60	Z	-	-	109-115	110_QUEST_clinical_caseMIR	SENT2	-	-
+5	mmHg	mmHg	NCMP000	-	-	116-120	110_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	120-121	110_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	De	de	SPS00	C0332285	atributo	122-124	110_QUEST_clinical_caseMIR	SENT3	-	-
+2	pie	pie	NCMS000	C1281587#C0347981#C0016504	estructura_corporal#calificador	125-128	110_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+3	,	,	Fc	-	-	128-129	110_QUEST_clinical_caseMIR	SENT3	-	-
+4	70/50	70/50	Z	-	-	130-135	110_QUEST_clinical_caseMIR	SENT3	-	-
+5	mmHg	mmHg	NCMP000	-	-	136-140	110_QUEST_clinical_caseMIR	SENT3	-	-
+6	con	con	SPS00	C0332287	atributo	141-144	110_QUEST_clinical_caseMIR	SENT3	-	-
+7	sensación	sensación	NCFS000	C0036658#C1455667	calificador	145-154	110_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	155-157	110_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+9	mareo	mareo	NCMS000	C0012833#C0220870	hallazgo	158-163	110_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+10	.	.	Fp	-	-	163-164	110_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Niveles	nivel	NCMP000	C0456079	atributo	165-172	110_QUEST_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	173-175	110_QUEST_clinical_caseMIR	SENT4	-	-
+3	sodio	sodio	NCMS000	C3536896#C0037473	producto#sustancia	176-181	110_QUEST_clinical_caseMIR	SENT4	-	-
+4	sérico	sérico	AQ0MS0	-	-	182-188	110_QUEST_clinical_caseMIR	SENT4	-	-
+5	155	155		-	-	189-192	110_QUEST_clinical_caseMIR	SENT4	-	-
+6	mmol	milimol	NC00YL0	C0439190	calificador	193-197	110_QUEST_clinical_caseMIR	SENT4	-	-
+7	/	/	Fh	-	-	197-198	110_QUEST_clinical_caseMIR	SENT4	-	-
+8	L.	l.	NCFS000	-	-	198-200	110_QUEST_clinical_caseMIR	SENT4	-	-
+9	¿	¿	Fia	-	-	201-202	110_QUEST_clinical_caseMIR	SENT4	-	-
+10	Cuál	cuál	PT0CS000	-	-	202-206	110_QUEST_clinical_caseMIR	SENT4	-	-
+11	es	ser	VSIP3S0	-	-	207-209	110_QUEST_clinical_caseMIR	SENT4	-	-
+12	el	el	DA0MS0	-	-	210-212	110_QUEST_clinical_caseMIR	SENT4	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	213-224	110_QUEST_clinical_caseMIR	SENT4	-	-
+14	más	más	RG	C0205172	calificador	225-228	110_QUEST_clinical_caseMIR	SENT4	-	-
+15	correcto	correcto	AQ0MS0	C0205170	calificador	229-237	110_QUEST_clinical_caseMIR	SENT4	-	-
+16	,	,	Fc	-	-	237-238	110_QUEST_clinical_caseMIR	SENT4	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	239-241	110_QUEST_clinical_caseMIR	SENT4	-	-
+18	las	el	DA0FP0	-	-	242-245	110_QUEST_clinical_caseMIR	SENT4	-	-
+19	primeras	1	AO0FP0	-	-	246-254	110_QUEST_clinical_caseMIR	SENT4	-	-
+20	24	24	Z	C0439584_1	calificador_1	255-257	110_QUEST_clinical_caseMIR	SENT4	-	-
+21	horas	hora	NCFP000	C0439584_2	calificador_2	258-263	110_QUEST_clinical_caseMIR	SENT4	-	-
+22	,	,	Fc	-	-	263-264	110_QUEST_clinical_caseMIR	SENT4	-	-
+23	teniendo	tener	VMG0000	-	-	265-273	110_QUEST_clinical_caseMIR	SENT4	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	274-276	110_QUEST_clinical_caseMIR	SENT4	-	-
+25	cuenta	cuenta	NCFS000	-	-	277-283	110_QUEST_clinical_caseMIR	SENT4	-	-
+26	los	el	DA0MP0	-	-	284-287	110_QUEST_clinical_caseMIR	SENT4	-	-
+27	datos	dato	NCMP000	-	-	288-293	110_QUEST_clinical_caseMIR	SENT4	-	-
+28	de	de	SPS00	C0332285	atributo	294-296	110_QUEST_clinical_caseMIR	SENT4	-	-
+29	los	el	DA0MP0	-	-	297-300	110_QUEST_clinical_caseMIR	SENT4	-	-
+30	que	que	PR0CN000	-	-	301-304	110_QUEST_clinical_caseMIR	SENT4	-	-
+31	disponemos	disponer	VMIP1P0	-	-	305-315	110_QUEST_clinical_caseMIR	SENT4	-	-
+32	?	?	Fit	-	-	315-316	110_QUEST_clinical_caseMIR	SENT4	-	-
+33	.	.	Fp	-	-	316-317	110_QUEST_clinical_caseMIR	SENT4	-	-
+

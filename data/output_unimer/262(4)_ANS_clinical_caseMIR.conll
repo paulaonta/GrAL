@@ -1,0 +1,25 @@
+1	Reemplazar	reemplazar	VMN0000	-	-	0-10	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	11-13	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	budesonida	budesonida	NC00SC0	C0054201	producto#sustancia	14-24	262(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	por	por	SPS00	C0678226	atributo	25-28	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	29-31	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	anticuerpo	anticuerpo	NCMS000	C0003250_1	sustancia_1	32-42	262(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	monoclonal	monoclonal	AQ0CS0	C0003250_2	sustancia_2	43-53	262(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	anti-lgE	anti-lge	VMIP3S0	-	-	54-62	262(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	(	(	Fpa	-	-	63-64	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	omalizumab	omalizumab	NC00SC0	C0966225	producto#sustancia	64-74	262(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	)	)	Fpt	-	-	74-75	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C0678226	atributo	76-79	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	su	su	DP3CS0	-	-	80-82	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	83-88	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	seguridad	seguridad	NCFS000	C0205423	calificador	89-98	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	99-101	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	102-104	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	105-113	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+19	al	al	SP+DA	-	-	114-116	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+20	no	no	RN	C1298908	calificador	117-119	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+21	ser	ser	VSN0000	-	-	120-123	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+22	un	un		C0205447_1	calificador_1	124-126	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+23	fármaco	fármaco	NCMS000	C0013227	sustancia	127-134	262(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+24	.	.	Fp	-	-	135-136	262(4)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,58 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	385_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	385_QUEST_clinical_caseMIR	SENT1	-	-
+3	47	47		-	-	10-12	385_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	385_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	385_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	19-22	385_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedente	antecedente	NCMS000	C0332119_1	situación_1	23-34	385_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	35-37	385_QUEST_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	38-40	385_QUEST_clinical_caseMIR	SENT1	-	-
+10	adenoma	adenoma	NCMS000	C0026277_1	anomalía_morfológica_1	41-48	385_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	pleomorfo	pleomorfo		C0026277_2	anomalía_morfológica_2	49-58	385_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	parotídeo	parotídeo	AQ0MS0	-	-	59-68	385_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	69-76	385_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+14	,	,	Fc	-	-	76-77	385_QUEST_clinical_caseMIR	SENT1	-	-
+15	tratado	tratar	VMP00SM	C0332293_1	atributo_1	78-85	385_QUEST_clinical_caseMIR	SENT1	-	-
+16	con	con	SPS00	C0332293_2	atributo_2	86-89	385_QUEST_clinical_caseMIR	SENT1	-	-
+17	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	90-97	385_QUEST_clinical_caseMIR	SENT1	-	-
+18	(	(	Fpa	-	-	98-99	385_QUEST_clinical_caseMIR	SENT1	-	-
+19	parotidectomía	parotidectomía	NC00SC0	C0193317	procedimiento	99-113	385_QUEST_clinical_caseMIR	SENT1	-	-
+20	extrafacial	extrafacial	AQ0CS00	-	-	114-125	385_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	)	)	Fpt	-	-	125-126	385_QUEST_clinical_caseMIR	SENT1	-	-
+22	hace	hacer	VMIP3S0	-	-	127-131	385_QUEST_clinical_caseMIR	SENT1	-	-
+23	6	6		-	-	132-133	385_QUEST_clinical_caseMIR	SENT1	-	-
+24	meses	mes	NCMP000	C0439231	calificador	134-139	385_QUEST_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	139-140	385_QUEST_clinical_caseMIR	SENT1	-	-
+26	que	que	PR0CN000	-	-	141-144	385_QUEST_clinical_caseMIR	SENT1	-	-
+27	acude	acudir	VMIP3S0	-	-	145-150	385_QUEST_clinical_caseMIR	SENT1	-	-
+28	a	a	SPS00	-	-	151-152	385_QUEST_clinical_caseMIR	SENT1	-	-
+29	nuestra	nuestro	DP1FSP	-	-	153-160	385_QUEST_clinical_caseMIR	SENT1	-	-
+30	consulta	consultar	VMM02S0	C1704447_1	calificador_1	161-169	385_QUEST_clinical_caseMIR	SENT1	-	-
+31	por	por	SPS00	C1704447_2	calificador_2	170-173	385_QUEST_clinical_caseMIR	SENT1	-	-
+32	presentar	presentar	VMN0000	-	-	174-183	385_QUEST_clinical_caseMIR	SENT1	-	-
+33	durante	durante	SPS00	C1444752#C0347984	atributo	184-191	385_QUEST_clinical_caseMIR	SENT1	-	-
+34	la	el	DA0FS0	-	-	192-194	385_QUEST_clinical_caseMIR	SENT1	-	-
+35	masticación	masticación	NCFS000	C0024888	función	195-206	385_QUEST_clinical_caseMIR	SENT1	-	-
+36	dolor	dolor	NCMS000	C0030193	hallazgo	207-212	385_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+37	con	con	SPS00	C0332287	atributo	213-216	385_QUEST_clinical_caseMIR	SENT1	-	-
+38	sudoración	sudoración	NCFS000	C0038990_1	entidad_observable#hallazgo_1	217-227	385_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+39	y	y	CC	C1706368	calificador	228-229	385_QUEST_clinical_caseMIR	SENT1	-	-
+40	enrojecimiento	enrojecimiento	NCMS000	C0005874	función	230-244	385_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+41	de	de	SPS00	C0332285	atributo	245-247	385_QUEST_clinical_caseMIR	SENT1	-	-
+42	la	el	DA0FS0	-	-	248-250	385_QUEST_clinical_caseMIR	SENT1	-	-
+43	piel	piel	NCFS000	C0222083#C0458248_1	estructura_corporal_1	251-255	385_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+44	de	de	SPS00	C0222083#C0458248_2	estructura_corporal_2	256-258	385_QUEST_clinical_caseMIR	SENT1	-	-
+45	la	lo	PP3FSA00	C0222083#C0458248_3	estructura_corporal_3	259-261	385_QUEST_clinical_caseMIR	SENT1	-	-
+46	región	región	NCFS000	C0222083#C0458248_4	estructura_corporal_4	262-268	385_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+47	preauricular	preauricular	AQ0CS0	C0222083#C0458248_5	estructura_corporal_5	269-281	385_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+48	.	.	Fp	-	-	281-282	385_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	283-284	385_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	284-287	385_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	288-299	385_QUEST_clinical_caseMIR	SENT2	-	-
+4	sería	ser	VSIC1S0	-	-	300-305	385_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	306-308	385_QUEST_clinical_caseMIR	SENT2	-	-
+6	elección	elección	NCFS000	-	-	309-317	385_QUEST_clinical_caseMIR	SENT2	-	-
+7	?	?	Fit	-	-	317-318	385_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	318-319	385_QUEST_clinical_caseMIR	SENT2	-	-
+

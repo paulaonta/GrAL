@@ -1,0 +1,19 @@
+1	El	el	DA0MS0	-	-	0-2	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	15-25	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	está	estar	VAIP3S0	-	-	26-30	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	indicado	indicar	VMP00SM	-	-	31-39	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	si	si	CS	-	-	40-42	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	las	el	DA0FP0	-	-	43-46	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	pruebas	prueba	NCFP000	-	-	47-54	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	55-57	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	58-64	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	revelan	revelar	VMIP3P0	-	-	65-72	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	una	una		C0205447_1	calificador_1	73-76	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	estenosis	estenosis	NCFN000	C0007282_1	trastorno_1	77-86	486(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	carotídea	carotídeo	AQ0FS0	C0007282_2	trastorno_2	87-96	486(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	>	>	Fz	-	-	97-98	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	70	70	Z	-	-	98-100	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	%	%	Ft	-	-	100-101	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	102-103	486(3)_ANS_clinical_caseMIR	SENT1	-	-
+

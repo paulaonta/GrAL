@@ -1,0 +1,88 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	691_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	691_QUEST_clinical_caseMIR	SENT1	-	-
+3	73	73		-	-	10-12	691_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	691_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	691_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedente	antecedente	NCMS000	C0332119_1	situación_1	22-33	691_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	691_QUEST_clinical_caseMIR	SENT1	-	-
+8	infarto	infarto	NCMS000	C0155626_1	trastorno_1	37-44	691_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	agudo	agudo	NC00SC0	C0155626_2	trastorno_2	45-50	691_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	de	de	SPS00	C0155626_3	trastorno_3	51-53	691_QUEST_clinical_caseMIR	SENT1	-	-
+11	miocardio	miocardio	NCMS000	C0155626_4	trastorno_4	54-63	691_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	tratado	tratar	VMP00SM	C0332293_1	atributo_1	64-71	691_QUEST_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332293_2	atributo_2	72-75	691_QUEST_clinical_caseMIR	SENT1	-	-
+14	angioplastia	angioplastia	NC00SC0	C0162577#C2364034	procedimiento	76-88	691_QUEST_clinical_caseMIR	SENT1	-	-
+15	coronaria	coronario	AQ0FS0	-	-	89-98	691_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	transluminal	transluminal	AQ0CS0	-	-	99-111	691_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	percutánea	percutánea		-	-	112-122	691_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	hace	hacer	VMIP3S0	-	-	123-127	691_QUEST_clinical_caseMIR	SENT1	-	-
+19	6	6		-	-	128-129	691_QUEST_clinical_caseMIR	SENT1	-	-
+20	semanas	semana	NCFP000	C0439230	calificador	130-137	691_QUEST_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	137-138	691_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	139-144	691_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	145-146	691_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	147-156	691_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	157-160	691_QUEST_clinical_caseMIR	SENT2	-	-
+5	dolor	dolor	NCMS000	C0030193	hallazgo	161-166	691_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	brusco	brusco	AQ0MS0	C0443162	calificador	167-173	691_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	,	,	Fc	-	-	173-174	691_QUEST_clinical_caseMIR	SENT2	-	-
+8	frialdad	frialdad	NCFS000	-	-	175-183	691_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	184-185	691_QUEST_clinical_caseMIR	SENT2	-	-
+10	pérdida	pérdida	NCFS000	-	-	186-193	691_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	194-196	691_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+12	motilidad	motilidad	NCFS000	C0449580#C1510470#C0678835#C0425245	atributo#entidad_observable#hallazgo	197-206	691_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+13	de	de	SPS00	C0332285	atributo	207-209	691_QUEST_clinical_caseMIR	SENT2	-	-
+14	la	el	DA0FS0	-	-	210-212	691_QUEST_clinical_caseMIR	SENT2	-	-
+15	extremidad	extremidad	NCFS000	C0230415_1	estructura_corporal_1	213-223	691_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	inferior	inferior	NCCS000	C0230415_2	estructura_corporal_2	224-232	691_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+17	derecha	derecho	AQ0FS0	C0230415_3	estructura_corporal_3	233-240	691_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+18	.	.	Fp	-	-	240-241	691_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	242-244	691_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	245-247	691_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	248-259	691_QUEST_clinical_caseMIR	SENT3	-	-
+4	está	estar	VAIP3S0	-	-	260-264	691_QUEST_clinical_caseMIR	SENT3	-	-
+5	presente	presentar	VMSP3S0	-	-	265-273	691_QUEST_clinical_caseMIR	SENT3	-	-
+6	el	el	DA0MS0	-	-	274-276	691_QUEST_clinical_caseMIR	SENT3	-	-
+7	pulso	pulso	NCMS000	C0232148_1	entidad_observable_1	277-282	691_QUEST_clinical_caseMIR	SENT3	-	-
+8	femoral	femoral	NC00SC0	C0232148_2	entidad_observable_2	283-290	691_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	291-298	691_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+10	,	,	Fc	-	-	298-299	691_QUEST_clinical_caseMIR	SENT3	-	-
+11	con	con	SPS00	C0332287	atributo	300-303	691_QUEST_clinical_caseMIR	SENT3	-	-
+12	ausencia	ausencia	NCFS000	C1689985#C0014553	anomalía_morfológica	304-312	691_QUEST_clinical_caseMIR	SENT3	-	-
+13	del	del	SP+DA	-	-	313-316	691_QUEST_clinical_caseMIR	SENT3	-	-
+14	resto	resto	NCMS000	-	-	317-322	691_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	323-325	691_QUEST_clinical_caseMIR	SENT3	-	-
+16	los	el	DA0MP0	-	-	326-329	691_QUEST_clinical_caseMIR	SENT3	-	-
+17	pulsos	pulso	NCMP000	C0391850	función	330-336	691_QUEST_clinical_caseMIR	SENT3	-	-
+18	de	de	SPS00	C0332285	atributo	337-339	691_QUEST_clinical_caseMIR	SENT3	-	-
+19	esa	ese	DD0FS0	-	-	340-343	691_QUEST_clinical_caseMIR	SENT3	-	-
+20	extremidad	extremidad	NCFS000	C0015385#C1280090	estructura_corporal	344-354	691_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+21	.	.	Fp	-	-	354-355	691_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Conserva	conservar	VMIP3S0	-	-	356-364	691_QUEST_clinical_caseMIR	SENT4	-	-
+2	pulsos	pulso	NCMP000	C0391850	función	365-371	691_QUEST_clinical_caseMIR	SENT4	-	-
+3	a	a	SPS00	-	-	372-373	691_QUEST_clinical_caseMIR	SENT4	-	-
+4	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	374-379	691_QUEST_clinical_caseMIR	SENT4	-	-
+5	los	el	DA0MP0	-	-	380-383	691_QUEST_clinical_caseMIR	SENT4	-	-
+6	niveles	nivel	NCMP000	C0456079	atributo	384-391	691_QUEST_clinical_caseMIR	SENT4	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	392-394	691_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	395-397	691_QUEST_clinical_caseMIR	SENT4	-	-
+9	extremidad	extremidad	NCFS000	C0015385#C1280090	estructura_corporal	398-408	691_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	contralateral	contralateral	AQ0CS0	C0441988	calificador	409-422	691_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	422-423	691_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Respecto	respecto	NCMS000	-	-	424-432	691_QUEST_clinical_caseMIR	SENT5	-	-
+2	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	433-435	691_QUEST_clinical_caseMIR	SENT5	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	436-447	691_QUEST_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	448-450	691_QUEST_clinical_caseMIR	SENT5	-	-
+5	sospecha	sospecha	NCFS000	C0750491	calificador	451-459	691_QUEST_clinical_caseMIR	SENT5	-	-
+6	,	,	Fc	-	-	459-460	691_QUEST_clinical_caseMIR	SENT5	-	-
+7	señale	señalar	VMSP3S0	-	-	461-467	691_QUEST_clinical_caseMIR	SENT5	-	-
+8	la	el	DA0FS0	-	-	468-470	691_QUEST_clinical_caseMIR	SENT5	-	-
+9	afirmación	afirmación	NCFS000	-	-	471-481	691_QUEST_clinical_caseMIR	SENT5	-	-
+10	FALSA	falso	AQ0FS0	C0205237	calificador	482-487	691_QUEST_clinical_caseMIR	SENT5	-	-
+11	:	:	Fd	-	-	487-488	691_QUEST_clinical_caseMIR	SENT5	-	-
+12	.	.	Fp	-	-	488-489	691_QUEST_clinical_caseMIR	SENT5	-	-
+

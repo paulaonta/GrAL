@@ -1,0 +1,95 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	411_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	411_QUEST_clinical_caseMIR	SENT1	-	-
+3	65	65		-	-	9-11	411_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	411_QUEST_clinical_caseMIR	SENT1	-	-
+5	derivada	derivar	VMP00SF	-	-	17-25	411_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	26-27	411_QUEST_clinical_caseMIR	SENT1	-	-
+7	urgencias	urgencia	NCFP000	C0439609	calificador	28-37	411_QUEST_clinical_caseMIR	SENT1	-	-
+8	por	por	SPS00	C0678226	atributo	38-41	411_QUEST_clinical_caseMIR	SENT1	-	-
+9	fiebre	fiebre	NCFS000	C0015967	hallazgo	42-48	411_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	49-50	411_QUEST_clinical_caseMIR	SENT1	-	-
+11	alteraciones	alteración	NCFP000	-	-	51-63	411_QUEST_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	64-66	411_QUEST_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	67-69	411_QUEST_clinical_caseMIR	SENT1	-	-
+14	analítica	analítica	NCFS000	-	-	70-79	411_QUEST_clinical_caseMIR	SENT1	-	-
+15	:	:	Fd	-	-	79-80	411_QUEST_clinical_caseMIR	SENT1	-	-
+16	Hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	81-92	411_QUEST_clinical_caseMIR	SENT1	-	-
+17	11,4	11.4	Z	-	-	93-97	411_QUEST_clinical_caseMIR	SENT1	-	-
+18	g	g	NCMN000	-	-	98-99	411_QUEST_clinical_caseMIR	SENT1	-	-
+19	/	/	Fh	-	-	99-100	411_QUEST_clinical_caseMIR	SENT1	-	-
+20	dL	decilitro	NCMN000	C0439241	calificador	100-102	411_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	102-103	411_QUEST_clinical_caseMIR	SENT1	-	-
+22	leucocitos	leucocito	NCMP000	C0023516	célula	104-114	411_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	0,86	0,86		-	-	115-119	411_QUEST_clinical_caseMIR	SENT1	-	-
+24	x103/μL	x103/μL		-	-	120-127	411_QUEST_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	127-128	411_QUEST_clinical_caseMIR	SENT1	-	-
+26	(	(	Fpa	-	-	128-129	411_QUEST_clinical_caseMIR	SENT1	-	-
+27	neutrófilos	neutrófilo	NCMP000	C0027950	célula	129-140	411_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	41,9	41.9	Z	-	-	141-145	411_QUEST_clinical_caseMIR	SENT1	-	-
+29	%	%	Ft	-	-	146-147	411_QUEST_clinical_caseMIR	SENT1	-	-
+30	,	,	Fc	-	-	147-148	411_QUEST_clinical_caseMIR	SENT1	-	-
+31	linfocitos	linfocito	NCMP000	C0024264	célula	149-159	411_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	55,8	55.8	Z	-	-	160-164	411_QUEST_clinical_caseMIR	SENT1	-	-
+33	%	%	Ft	-	-	165-166	411_QUEST_clinical_caseMIR	SENT1	-	-
+34	)	)	Fpt	-	-	166-167	411_QUEST_clinical_caseMIR	SENT1	-	-
+35	,	,	Fc	-	-	167-168	411_QUEST_clinical_caseMIR	SENT1	-	-
+36	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	168-177	411_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+37	48,0	48,0		-	-	178-182	411_QUEST_clinical_caseMIR	SENT1	-	-
+38	x103/μL	x103/μL		-	-	183-190	411_QUEST_clinical_caseMIR	SENT1	-	-
+39	,	,	Fc	-	-	190-191	411_QUEST_clinical_caseMIR	SENT1	-	-
+40	fibrinógeno	fibrinógeno	NCMS000	C0016006	sustancia	192-203	411_QUEST_clinical_caseMIR	SENT1	-	-
+41	118	118	Z	-	-	204-207	411_QUEST_clinical_caseMIR	SENT1	-	-
+42	mg	mg	NCMN000	-	-	208-210	411_QUEST_clinical_caseMIR	SENT1	-	-
+43	/	/	Fh	-	-	210-211	411_QUEST_clinical_caseMIR	SENT1	-	-
+44	dL	decilitro	NCMN000	C0439241	calificador	211-213	411_QUEST_clinical_caseMIR	SENT1	-	-
+45	,	,	Fc	-	-	213-214	411_QUEST_clinical_caseMIR	SENT1	-	-
+46	dímero	dímero	NCMS000	-	-	214-220	411_QUEST_clinical_caseMIR	SENT1	-	-
+47	D	d	NCFS000	-	-	221-222	411_QUEST_clinical_caseMIR	SENT1	-	-
+48	20,2	20,2		-	-	223-227	411_QUEST_clinical_caseMIR	SENT1	-	-
+49	μg	μg	NCMS000	-	-	228-230	411_QUEST_clinical_caseMIR	SENT1	-	-
+50	/	/	Fh	-	-	230-231	411_QUEST_clinical_caseMIR	SENT1	-	-
+51	mL	mililitro	NCMN000	C0439242	calificador	231-233	411_QUEST_clinical_caseMIR	SENT1	-	-
+52	.	.	Fp	-	-	233-234	411_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	235-237	411_QUEST_clinical_caseMIR	SENT2	-	-
+2	realiza	realizar	VMIP3S0	-	-	238-245	411_QUEST_clinical_caseMIR	SENT2	-	-
+3	examen	examen	NCMS000	C0005957_1	procedimiento_1	246-252	411_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0005957_2	procedimiento_2	253-255	411_QUEST_clinical_caseMIR	SENT2	-	-
+5	médula	médula	NCFS000	C0005957_3	procedimiento_3	256-262	411_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	ósea	óseo	AQ0FS0	C0005957_4	procedimiento_4	263-267	411_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+7	con	con	SPS00	C0332287	atributo	268-271	411_QUEST_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	272-274	411_QUEST_clinical_caseMIR	SENT2	-	-
+9	que	que	PR0CN000	-	-	275-278	411_QUEST_clinical_caseMIR	SENT2	-	-
+10	se	se	P00CN000	-	-	279-281	411_QUEST_clinical_caseMIR	SENT2	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	282-284	411_QUEST_clinical_caseMIR	SENT2	-	-
+12	diagnostica	diagnosticar	VMIP3S0	-	-	285-296	411_QUEST_clinical_caseMIR	SENT2	-	-
+13	una	una		C0205447_1	calificador_1	297-300	411_QUEST_clinical_caseMIR	SENT2	-	-
+14	leucemia	leucemia	NCFS000	C0085669#C1378512#C1378511_1	trastorno#anomalía_morfológica_1	301-309	411_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	aguda	agudo	AQ0FS0	C0085669#C1378512#C1378511_2	trastorno#anomalía_morfológica_2	310-315	411_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+16	con	con	SPS00	C0332287	atributo	316-319	411_QUEST_clinical_caseMIR	SENT2	-	-
+17	t	t	NCFS000	-	-	320-321	411_QUEST_clinical_caseMIR	SENT2	-	-
+18	(	(	Fpa	-	-	321-322	411_QUEST_clinical_caseMIR	SENT2	-	-
+19	15	15		-	-	322-324	411_QUEST_clinical_caseMIR	SENT2	-	-
+20	;	;	Fx	-	-	324-325	411_QUEST_clinical_caseMIR	SENT2	-	-
+21	17	17		-	-	325-327	411_QUEST_clinical_caseMIR	SENT2	-	-
+22	)	)	Fpt	-	-	327-328	411_QUEST_clinical_caseMIR	SENT2	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	329-331	411_QUEST_clinical_caseMIR	SENT2	-	-
+24	el	el	DA0MS0	-	-	332-334	411_QUEST_clinical_caseMIR	SENT2	-	-
+25	60	60	Z	-	-	335-337	411_QUEST_clinical_caseMIR	SENT2	-	-
+26	%	%	Ft	-	-	338-339	411_QUEST_clinical_caseMIR	SENT2	-	-
+27	de	de	SPS00	C0332285	atributo	340-342	411_QUEST_clinical_caseMIR	SENT2	-	-
+28	lascélulas	lascélulas	NCFP000	-	-	343-353	411_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+29	.	.	Fp	-	-	353-354	411_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	355-356	411_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	356-360	411_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	361-363	411_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	364-367	411_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	368-378	411_QUEST_clinical_caseMIR	SENT3	-	-
+6	respuestas	respuesta	NCFP000	-	-	379-389	411_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	390-392	411_QUEST_clinical_caseMIR	SENT3	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	393-401	411_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	401-402	411_QUEST_clinical_caseMIR	SENT3	-	-
+10	:	:	Fd	-	-	402-403	411_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	403-404	411_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,54 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	304_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	304_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	304_QUEST_clinical_caseMIR	SENT1	-	-
+4	70	70		-	-	13-15	304_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	304_QUEST_clinical_caseMIR	SENT1	-	-
+6	se	se	P00CN000	-	-	21-23	304_QUEST_clinical_caseMIR	SENT1	-	-
+7	debe	deber	VMIP3S0	-	-	24-28	304_QUEST_clinical_caseMIR	SENT1	-	-
+8	someter	someter	VMN0000	-	-	29-36	304_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	37-38	304_QUEST_clinical_caseMIR	SENT1	-	-
+10	una	una		C0205447_1	calificador_1	39-42	304_QUEST_clinical_caseMIR	SENT1	-	-
+11	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	43-50	304_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	51-53	304_QUEST_clinical_caseMIR	SENT1	-	-
+13	extracción	extracción	NCFS000	C0185115#C0391874	procedimiento	54-64	304_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	65-67	304_QUEST_clinical_caseMIR	SENT1	-	-
+15	cataratas	catarata	NCFP000	C0086543#C1510497#C0563002	anomalía_morfológica#trastorno#medio_ambiente	68-77	304_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	,	,	Fc	-	-	77-78	304_QUEST_clinical_caseMIR	SENT1	-	-
+17	tiene	tener	VMIP3S0	-	-	79-84	304_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	85-88	304_QUEST_clinical_caseMIR	SENT1	-	-
+19	prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	89-97	304_QUEST_clinical_caseMIR	SENT1	-	-
+20	mecánica	mecánico	NCFS000	C0443254	calificador	98-106	304_QUEST_clinical_caseMIR	SENT1	-	-
+21	mitral	mitral	AQ0CS0	-	-	107-113	304_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	desde	desde	SPS00	-	-	114-119	304_QUEST_clinical_caseMIR	SENT1	-	-
+23	hace	hacer	VMIP3S0	-	-	120-124	304_QUEST_clinical_caseMIR	SENT1	-	-
+24	10	10		-	-	125-127	304_QUEST_clinical_caseMIR	SENT1	-	-
+25	años	año	NCMP000	C0439234	calificador	128-132	304_QUEST_clinical_caseMIR	SENT1	-	-
+26	y	y	CC	C1706368	calificador	133-134	304_QUEST_clinical_caseMIR	SENT1	-	-
+27	está	estar	VAIP3S0	-	-	135-139	304_QUEST_clinical_caseMIR	SENT1	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	140-142	304_QUEST_clinical_caseMIR	SENT1	-	-
+29	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	143-154	304_QUEST_clinical_caseMIR	SENT1	-	-
+30	con	con	SPS00	C0332287	atributo	155-158	304_QUEST_clinical_caseMIR	SENT1	-	-
+31	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	159-171	304_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+32	.	.	Fp	-	-	171-172	304_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	173-175	304_QUEST_clinical_caseMIR	SENT2	-	-
+2	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	176-194	304_QUEST_clinical_caseMIR	SENT2	-	-
+3	muestra	mostrar	VMIP3S0	-	-	195-202	304_QUEST_clinical_caseMIR	SENT2	-	-
+4	un	un		C0205447_1	calificador_1	203-205	304_QUEST_clinical_caseMIR	SENT2	-	-
+5	ritmo	ritmo	NCMS000	C0232201_1	hallazgo_1	206-211	304_QUEST_clinical_caseMIR	SENT2	-	-
+6	sinusal	sinusal		C0232201_2	hallazgo_2	212-219	304_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	219-220	304_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	221-222	304_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	222-226	304_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	227-229	304_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	230-233	304_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	234-244	304_QUEST_clinical_caseMIR	SENT3	-	-
+6	recomendaciones	recomendación	NCFP000	C0150600	procedimiento	245-260	304_QUEST_clinical_caseMIR	SENT3	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	261-263	304_QUEST_clinical_caseMIR	SENT3	-	-
+8	parece	parecer	VMIP3S0	-	-	264-270	304_QUEST_clinical_caseMIR	SENT3	-	-
+9	más	más	RG	C0205172	calificador	271-274	304_QUEST_clinical_caseMIR	SENT3	-	-
+10	adecuada	adecuar	VMP00SF	-	-	275-283	304_QUEST_clinical_caseMIR	SENT3	-	-
+11	?	?	Fit	-	-	283-284	304_QUEST_clinical_caseMIR	SENT3	-	-
+12	.	.	Fp	-	-	284-285	304_QUEST_clinical_caseMIR	SENT3	-	-
+

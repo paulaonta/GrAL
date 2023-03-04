@@ -1,0 +1,50 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	573_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	573_QUEST_clinical_caseMIR	SENT1	-	-
+3	50	50		-	-	9-11	573_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	573_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	573_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	573_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	573_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	573_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	573_QUEST_clinical_caseMIR	SENT1	-	-
+10	cuadro	cuadro	NCMS000	-	-	43-49	573_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	50-52	573_QUEST_clinical_caseMIR	SENT1	-	-
+12	dolor	dolor	NCMS000	C0030193	hallazgo	53-58	573_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	59-61	573_QUEST_clinical_caseMIR	SENT1	-	-
+14	hipocondrio	hipocondrio	NCMS000	C1284920#C0230186	estructura_corporal	62-73	573_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	74-81	573_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	,	,	Fc	-	-	81-82	573_QUEST_clinical_caseMIR	SENT1	-	-
+17	fiebre	fiebre	NCFS000	C0015967	hallazgo	83-89	573_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	e	y	CC	C1706368	calificador	90-91	573_QUEST_clinical_caseMIR	SENT1	-	-
+19	ictericia	ictericia	NCFS000	C0022346	hallazgo	92-101	573_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	.	.	Fp	-	-	101-102	573_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	103-105	573_QUEST_clinical_caseMIR	SENT2	-	-
+2	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	106-115	573_QUEST_clinical_caseMIR	SENT2	-	-
+3	informa	informar	VMIP3S0	C0700287	procedimiento	116-123	573_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	124-126	573_QUEST_clinical_caseMIR	SENT2	-	-
+5	colecistitis	colecistitis	NCFN000	C0149520_1	trastorno_1	127-139	573_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	aguda	agudo	AQ0FS0	C0149520_2	trastorno_2	140-145	573_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	litiásica	litiásico	AQ0FS0	-	-	146-155	573_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	con	con	SPS00	C0332287	atributo	156-159	573_QUEST_clinical_caseMIR	SENT2	-	-
+9	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	160-170	573_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	171-173	573_QUEST_clinical_caseMIR	SENT2	-	-
+11	la	el	DA0FS0	-	-	174-176	573_QUEST_clinical_caseMIR	SENT2	-	-
+12	vía	vía	NCFS000	C0449444	atributo	177-180	573_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	billar	billar	NCMS000	-	-	181-187	573_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+14	principal	principal	AQ0CS0	C0205225	calificador	188-197	573_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+15	por	por	SPS00	C0678226	atributo	198-201	573_QUEST_clinical_caseMIR	SENT2	-	-
+16	posible	posible	AQ0CS0	C0332149#C2362652	calificador	202-209	573_QUEST_clinical_caseMIR	SENT2	-	-
+17	coledocolitiasis	coledocolitiasis	NC00SC0	C0009438#C0701818	trastorno	210-226	573_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+18	.	.	Fp	-	-	226-227	573_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	228-229	573_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	PT0CN000	-	-	229-232	573_QUEST_clinical_caseMIR	SENT3	-	-
+3	considera	considerar	VMIP3S0	-	-	233-242	573_QUEST_clinical_caseMIR	SENT3	-	-
+4	más	más	RG	C0205172	calificador	243-246	573_QUEST_clinical_caseMIR	SENT3	-	-
+5	apropiado	apropiar	VMP00SM	-	-	247-256	573_QUEST_clinical_caseMIR	SENT3	-	-
+6	hacer	hacer	VMN0000	-	-	257-262	573_QUEST_clinical_caseMIR	SENT3	-	-
+7	primero	primero	RG	C1279901#C0205435	calificador	263-270	573_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	270-271	573_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	271-272	573_QUEST_clinical_caseMIR	SENT3	-	-
+

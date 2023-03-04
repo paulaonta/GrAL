@@ -1,0 +1,56 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	63_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	63_QUEST_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	12-15	63_QUEST_clinical_caseMIR	SENT1	-	-
+4	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	16-28	63_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332119_2	situación_2	29-31	63_QUEST_clinical_caseMIR	SENT1	-	-
+6	cuadro	cuadro	NCMS000	-	-	32-38	63_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	febril	febril	AQ0CS0	C0015967	hallazgo	39-45	63_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+8	y	y	CC	C1706368	calificador	46-47	63_QUEST_clinical_caseMIR	SENT1	-	-
+9	dolor	dolor	NCMS000	C0030193	hallazgo	48-53	63_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	torácico	torácico	NC00SC0	C0817096	calificador	54-62	63_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	acude	acudir	VMIP3S0	-	-	63-68	63_QUEST_clinical_caseMIR	SENT1	-	-
+12	al	al	SP+DA	-	-	69-71	63_QUEST_clinical_caseMIR	SENT1	-	-
+13	hospital	hospital	NCMS000	C1510665	medio_ambiente	72-80	63_QUEST_clinical_caseMIR	SENT1	-	-
+14	con	con	SPS00	C0332287	atributo	81-84	63_QUEST_clinical_caseMIR	SENT1	-	-
+15	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	85-91	63_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	y	y	CC	C1706368	calificador	92-93	63_QUEST_clinical_caseMIR	SENT1	-	-
+17	taquipnea	taquipnea	NCFS000	C0231835	hallazgo	94-103	63_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	.	.	Fp	-	-	103-104	63_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	105-107	63_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	108-110	63_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	111-122	63_QUEST_clinical_caseMIR	SENT2	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	123-129	63_QUEST_clinical_caseMIR	SENT2	-	-
+5	las	lo	PP3FPA00	-	-	130-133	63_QUEST_clinical_caseMIR	SENT2	-	-
+6	cifrad	cifrar	VMM02P0	-	-	134-140	63_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	141-143	63_QUEST_clinical_caseMIR	SENT2	-	-
+8	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	144-151	63_QUEST_clinical_caseMIR	SENT2	-	-
+9	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	152-160	63_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	están	estar	VAIP3P0	-	-	161-166	63_QUEST_clinical_caseMIR	SENT2	-	-
+11	bajas	baja	NCFP000	-	-	167-172	63_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	172-173	63_QUEST_clinical_caseMIR	SENT2	-	-
+13	la	el	DA0FS0	-	-	174-176	63_QUEST_clinical_caseMIR	SENT2	-	-
+14	presión	presión	NCFS000	C0428897_1	entidad_observable_1	177-184	63_QUEST_clinical_caseMIR	SENT2	-	-
+15	venosa	venoso	AQ0FS0	C0428897_2	entidad_observable_2	185-191	63_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	yugular	yugular	VMN0000	C0428897_3	entidad_observable_3	192-199	63_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+17	está	estar	VAIP3S0	-	-	200-204	63_QUEST_clinical_caseMIR	SENT2	-	-
+18	elevada	elevar	VMP00SF	-	-	205-212	63_QUEST_clinical_caseMIR	SENT2	-	-
+19	con	con	SPS00	C0332287	atributo	213-216	63_QUEST_clinical_caseMIR	SENT2	-	-
+20	un	un		C0205447_1	calificador_1	217-219	63_QUEST_clinical_caseMIR	SENT2	-	-
+21	seno	seno	NCMS000	C0006141#C0929301	estructura_corporal	220-224	63_QUEST_clinical_caseMIR	SENT2	-	-
+22	X	x	NCFS000	-	-	225-226	63_QUEST_clinical_caseMIR	SENT2	-	-
+23	descendiente	descendiente	AQ0CS0	-	-	227-239	63_QUEST_clinical_caseMIR	SENT2	-	-
+24	profundo	profundo	AQ0MS0	C0205125#C0439808	calificador	240-248	63_QUEST_clinical_caseMIR	SENT2	-	-
+25	y	y	CC	C1706368	calificador	249-250	63_QUEST_clinical_caseMIR	SENT2	-	-
+26	tiene	tener	VMIP3S0	-	-	251-256	63_QUEST_clinical_caseMIR	SENT2	-	-
+27	pulso	pulso	NCMS000	C0232118_1	hallazgo_1	257-262	63_QUEST_clinical_caseMIR	SENT2	-	-
+28	paradójico	paradójico	NC00SC0	C0232118_2	hallazgo_2	263-273	63_QUEST_clinical_caseMIR	SENT2	-	-
+29	.	.	Fp	-	-	273-274	63_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Que	que	CS	-	-	275-278	63_QUEST_clinical_caseMIR	SENT3	-	-
+2	patología	patología	NCFS000	C0030664	calificador	279-288	63_QUEST_clinical_caseMIR	SENT3	-	-
+3	debe	deber	VMIP3S0	-	-	289-293	63_QUEST_clinical_caseMIR	SENT3	-	-
+4	sospechar	sospechar	VMN0000	-	-	294-303	63_QUEST_clinical_caseMIR	SENT3	-	-
+5	?	?	Fit	-	-	303-304	63_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	304-305	63_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,38 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	214_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	214_QUEST_clinical_caseMIR	SENT1	-	-
+3	71	71		-	-	10-12	214_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	214_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	214_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	214_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	214_QUEST_clinical_caseMIR	SENT1	-	-
+8	presenta	presentar	VMIP3S0	-	-	30-38	214_QUEST_clinical_caseMIR	SENT1	-	-
+9	analítica	analítica	NCFS000	-	-	39-48	214_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	49-52	214_QUEST_clinical_caseMIR	SENT1	-	-
+11	pancitopenia	pancitopenia	NC00SC0	C0030312	trastorno	53-65	214_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	severa	severo	AQ0FS0	C0205082	calificador	66-72	214_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	sin	sin	SPS00	C0332288	atributo	73-76	214_QUEST_clinical_caseMIR	SENT1	-	-
+14	presencia	presenciar	VMM02S0	C0427850_1	hallazgo_1	77-86	214_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0427850_2	hallazgo_2	87-89	214_QUEST_clinical_caseMIR	SENT1	-	-
+16	células	célula	NCFP000	C0427850_3	hallazgo_3	90-97	214_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	inmaduras	inmaduro	AQ0FP0	C0205252	calificador	98-107	214_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+18	y	y	CC	C1706368	calificador	108-109	214_QUEST_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	110-113	214_QUEST_clinical_caseMIR	SENT1	-	-
+20	estudio	estudio	NCMS000	C0557651	medio_ambiente	114-121	214_QUEST_clinical_caseMIR	SENT1	-	-
+21	medular	medular	AQ0CS0	-	-	122-129	214_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	sugestivo	sugestivo	AQ0MS0	-	-	130-139	214_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	140-142	214_QUEST_clinical_caseMIR	SENT1	-	-
+24	anemia	anemia	NCFS000	C0002874_1	trastorno_1	143-149	214_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+25	aplásica	aplásico	AQ0FS0	C0002874_2	trastorno_2	150-158	214_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	grave	grave	AQ0CS0	C0439808#C0205082	calificador	159-164	214_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	.	.	Fp	-	-	164-165	214_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	166-167	214_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	167-171	214_QUEST_clinical_caseMIR	SENT2	-	-
+3	sería	ser	VSIC1S0	-	-	172-177	214_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	178-180	214_QUEST_clinical_caseMIR	SENT2	-	-
+5	abordaje	abordaje	NCMS000	C1292724#C0449445	atributo	181-189	214_QUEST_clinical_caseMIR	SENT2	-	-
+6	terapéutico	terapéutico	AQ0MS0	-	-	190-201	214_QUEST_clinical_caseMIR	SENT2	-	-
+7	fundamental	fundamental	AQ0CS0	-	-	202-213	214_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	213-214	214_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	214-215	214_QUEST_clinical_caseMIR	SENT2	-	-
+

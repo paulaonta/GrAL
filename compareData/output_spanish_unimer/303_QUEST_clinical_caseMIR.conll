@@ -1,0 +1,57 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	303_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	303_QUEST_clinical_caseMIR	SENT1	-	-
+3	69	69		-	-	9-11	303_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	303_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	303_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	303_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	303_QUEST_clinical_caseMIR	SENT1	-	-
+8	su	su	DP3CS0	-	-	29-31	303_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	303_QUEST_clinical_caseMIR	SENT1	-	-
+10	refiriendo	referir	VMG0000	-	-	41-51	303_QUEST_clinical_caseMIR	SENT1	-	-
+11	sangrado	sangrado	NCMS000	C0019080	hallazgo#anomalía_morfológica	52-60	303_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	genital	genital	AQ0CS0	C0559522	calificador	61-68	303_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	de	de	SPS00	C0332285	atributo	69-71	303_QUEST_clinical_caseMIR	SENT1	-	-
+14	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	72-78	303_QUEST_clinical_caseMIR	SENT1	-	-
+15	meses	mes	NCMP000	C0439231	calificador	79-84	303_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	85-87	303_QUEST_clinical_caseMIR	SENT1	-	-
+17	evolución	evolución	NCFS000	-	-	88-97	303_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	97-98	303_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Niega	negar	VMIP3S0	-	-	99-104	303_QUEST_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C0279025_1	procedimiento_1	105-116	303_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+3	hormonal	hormonal	NC00SC0	C0279025_2	procedimiento_2	117-125	303_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+4	sustitutivo	sustitutivo	AQ0MS0	-	-	126-137	303_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+5	y	y	CC	C1706368	calificador	138-139	303_QUEST_clinical_caseMIR	SENT2	-	-
+6	anticoagulación	anticoagulación	AQ0CN00	-	-	140-155	303_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	155-156	303_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Aporta	aportar	VMIP3S0	-	-	157-163	303_QUEST_clinical_caseMIR	SENT3	-	-
+2	citología	citología	NCFS000	-	-	164-173	303_QUEST_clinical_caseMIR	SENT3	-	-
+3	cervicovaginal	cervicovaginal	AQ0CS00	-	-	174-188	303_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+4	normal	normal	AQ0CS0	C0205307	calificador	189-195	303_QUEST_clinical_caseMIR	SENT3	-	-
+5	.	.	Fp	-	-	195-196	303_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Exploración	exploración	NCFS000	C0031809_1	procedimiento_1	197-208	303_QUEST_clinical_caseMIR	SENT4	-	-
+2	física	físico	NCFS000	C0031809_2	procedimiento_2	209-215	303_QUEST_clinical_caseMIR	SENT4	-	-
+3	general	general	AQ0CS0	C0205246	calificador	216-223	303_QUEST_clinical_caseMIR	SENT4	-	-
+4	y	y	CC	C1706368	calificador	224-225	303_QUEST_clinical_caseMIR	SENT4	-	-
+5	genital	genital	AQ0CS0	C0559522	calificador	226-233	303_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	sin	sin	SPS00	C0332288	atributo	234-237	303_QUEST_clinical_caseMIR	SENT4	-	-
+7	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	238-247	303_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	248-250	303_QUEST_clinical_caseMIR	SENT4	-	-
+9	interés	interés	NCMS000	-	-	251-258	303_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	258-259	303_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	IMC	imc	NC00SC0	C1305855	entidad_observable	260-263	303_QUEST_clinical_caseMIR	SENT5	-	-
+2	de	de	SPS00	C0332285	atributo	264-266	303_QUEST_clinical_caseMIR	SENT5	-	-
+3	38kg/m2	38kg/m2		-	-	267-274	303_QUEST_clinical_caseMIR	SENT5	-	-
+4	.	.	Fp	-	-	274-275	303_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Indique	indicar	VMM03S0	-	-	276-283	303_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	284-286	303_QUEST_clinical_caseMIR	SENT6	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	287-294	303_QUEST_clinical_caseMIR	SENT6	-	-
+4	más	más	RG	C0205172	calificador	295-298	303_QUEST_clinical_caseMIR	SENT6	-	-
+5	correcta	correcto	AQ0FS0	C0205170	calificador	299-307	303_QUEST_clinical_caseMIR	SENT6	-	-
+6	:	:	Fd	-	-	307-308	303_QUEST_clinical_caseMIR	SENT6	-	-
+7	.	.	Fp	-	-	308-309	303_QUEST_clinical_caseMIR	SENT6	-	-
+

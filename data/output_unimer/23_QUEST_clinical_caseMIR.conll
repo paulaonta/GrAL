@@ -1,0 +1,126 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	23_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	23_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	23_QUEST_clinical_caseMIR	SENT1	-	-
+4	64	64		-	-	13-15	23_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	23_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	23_QUEST_clinical_caseMIR	SENT1	-	-
+7	diagnosticado	diagnosticar	VMP00SM	-	-	22-35	23_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	36-38	23_QUEST_clinical_caseMIR	SENT1	-	-
+9	miastenia	miastenia	NCFS000	C0026896_1	trastorno_1	39-48	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	gravis	gravis		C0026896_2	trastorno_2	49-55	23_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	hace	hacer	VMIP3S0	-	-	56-60	23_QUEST_clinical_caseMIR	SENT1	-	-
+12	1	1		-	-	61-62	23_QUEST_clinical_caseMIR	SENT1	-	-
+13	año	año	NCMS000	C0439234	calificador	63-66	23_QUEST_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	66-67	23_QUEST_clinical_caseMIR	SENT1	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	68-70	23_QUEST_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C0149783_1	procedimiento_1	71-82	23_QUEST_clinical_caseMIR	SENT1	-	-
+17	con	con	SPS00	C0149783_2	procedimiento_2	83-86	23_QUEST_clinical_caseMIR	SENT1	-	-
+18	esteroides	esteroide	NCMP000	C0149783_3	procedimiento_3	87-97	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	a	a	SPS00	-	-	98-99	23_QUEST_clinical_caseMIR	SENT1	-	-
+20	dosis	dosis	NCFN000	-	-	100-105	23_QUEST_clinical_caseMIR	SENT1	-	-
+21	bajas	bajo	AQ0FP0	C0205251	calificador	106-111	23_QUEST_clinical_caseMIR	SENT1	-	-
+22	(	(	Fpa	-	-	112-113	23_QUEST_clinical_caseMIR	SENT1	-	-
+23	3	3	Z	-	-	113-114	23_QUEST_clinical_caseMIR	SENT1	-	-
+24	mg	mg	NCMN000	-	-	115-117	23_QUEST_clinical_caseMIR	SENT1	-	-
+25	/	/	Fh	-	-	117-118	23_QUEST_clinical_caseMIR	SENT1	-	-
+26	día	día	NCMS000	C0439228#C0332169	calificador	118-121	23_QUEST_clinical_caseMIR	SENT1	-	-
+27	de	de	SPS00	C0332285	atributo	122-124	23_QUEST_clinical_caseMIR	SENT1	-	-
+28	deflazacort	deflazacort	NC00SC0	C0057258	producto#sustancia	125-136	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+29	)	)	Fpt	-	-	136-137	23_QUEST_clinical_caseMIR	SENT1	-	-
+30	y	y	CC	C1706368	calificador	138-139	23_QUEST_clinical_caseMIR	SENT1	-	-
+31	anticolinesterásicos	anticolinesterásicos	AQ0MP00	-	-	140-160	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+32	,	,	Fc	-	-	160-161	23_QUEST_clinical_caseMIR	SENT1	-	-
+33	asintomático	asintomático	AQ0MS0	-	-	162-174	23_QUEST_clinical_caseMIR	SENT1	-	-
+34	desde	desde	SPS00	-	-	175-180	23_QUEST_clinical_caseMIR	SENT1	-	-
+35	hace	hacer	VMIP3S0	-	-	181-185	23_QUEST_clinical_caseMIR	SENT1	-	-
+36	6	6		-	-	186-187	23_QUEST_clinical_caseMIR	SENT1	-	-
+37	meses	mes	NCMP000	C0439231	calificador	188-193	23_QUEST_clinical_caseMIR	SENT1	-	-
+38	,	,	Fc	-	-	193-194	23_QUEST_clinical_caseMIR	SENT1	-	-
+39	consulta	consultar	VMM02S0	C1704447_1	calificador_1	195-203	23_QUEST_clinical_caseMIR	SENT1	-	-
+40	por	por	SPS00	C1704447_2	calificador_2	204-207	23_QUEST_clinical_caseMIR	SENT1	-	-
+41	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	208-212	23_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+42	dificultad	dificultar	VMM02P0	C0011168_1	hallazgo#trastorno_1	213-223	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+43	para	parir	VMSP3S0	C0011168_2	hallazgo#trastorno_2	224-228	23_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+44	tragar	tragar	VMN0000	C0011168_3	hallazgo#trastorno_3	229-235	23_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+45	y	y	CC	C1706368	calificador	236-237	23_QUEST_clinical_caseMIR	SENT1	-	-
+46	diplopia	diplopia	NC00KE0	-	-	238-246	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+47	vespertinas	vespertino	AQ0FP0	-	-	247-258	23_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+48	desde	desde	SPS00	-	-	259-264	23_QUEST_clinical_caseMIR	SENT1	-	-
+49	hace	hacer	VMIP3S0	-	-	265-269	23_QUEST_clinical_caseMIR	SENT1	-	-
+50	unos	uno	DI0MP0	C0205447	calificador	270-274	23_QUEST_clinical_caseMIR	SENT1	-	-
+51	días	día	NCMP000	C0439228#C0332169	calificador	275-279	23_QUEST_clinical_caseMIR	SENT1	-	-
+52	.	.	Fp	-	-	279-280	23_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Ingresa	ingresar	VMIP3S0	-	-	281-288	23_QUEST_clinical_caseMIR	SENT2	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	289-291	23_QUEST_clinical_caseMIR	SENT2	-	-
+3	el	el	DA0MS0	-	-	292-294	23_QUEST_clinical_caseMIR	SENT2	-	-
+4	hospital	hospital	NCMS000	C1510665	medio_ambiente	295-303	23_QUEST_clinical_caseMIR	SENT2	-	-
+5	por	por	SPS00	C0678226	atributo	304-307	23_QUEST_clinical_caseMIR	SENT2	-	-
+6	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	308-316	23_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332147_2	calificador_2	317-319	23_QUEST_clinical_caseMIR	SENT2	-	-
+8	crisis	crisis	NCFN000	C0270942_1	trastorno_1	320-326	23_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+9	miasténica	miasténica		C0270942_2	trastorno_2	327-337	23_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	338-339	23_QUEST_clinical_caseMIR	SENT2	-	-
+11	se	se	P00CN000	-	-	340-342	23_QUEST_clinical_caseMIR	SENT2	-	-
+12	inicia	iniciar	VMIP3S0	-	-	343-349	23_QUEST_clinical_caseMIR	SENT2	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	350-361	23_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	362-364	23_QUEST_clinical_caseMIR	SENT2	-	-
+15	la	el	DA0FS0	-	-	365-367	23_QUEST_clinical_caseMIR	SENT2	-	-
+16	misma	mismo	AQ0FS0	C0445247	calificador	368-373	23_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	373-374	23_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Al	al	SP+DA	-	-	375-377	23_QUEST_clinical_caseMIR	SENT3	-	-
+2	día	día	NCMS000	C0439228#C0332169	calificador	378-381	23_QUEST_clinical_caseMIR	SENT3	-	-
+3	siguiente	siguiente	AQ0CS0	C0332282	atributo	382-391	23_QUEST_clinical_caseMIR	SENT3	-	-
+4	la	el	DA0FS0	-	-	392-394	23_QUEST_clinical_caseMIR	SENT3	-	-
+5	enfermera	enfermero	NCFS000	C0554206#C0334914	ocupación	395-404	23_QUEST_clinical_caseMIR	SENT3	-	-
+6	avisa	avisar	VMIP3S0	-	-	405-410	23_QUEST_clinical_caseMIR	SENT3	-	-
+7	a	a	SPS00	-	-	411-412	23_QUEST_clinical_caseMIR	SENT3	-	-
+8	las	el	DA0FP0	-	-	413-416	23_QUEST_clinical_caseMIR	SENT3	-	-
+9	03	3	Z	-	-	417-419	23_QUEST_clinical_caseMIR	SENT3	-	-
+10	h	h		-	-	420-421	23_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de		-	-	422-424	23_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	la		-	-	425-427	23_QUEST_clinical_caseMIR	SENT3	-	-
+13	madrugada	madrugada		-	-	428-437	23_QUEST_clinical_caseMIR	SENT3	-	-
+14	porque	porque	CS	-	-	438-444	23_QUEST_clinical_caseMIR	SENT3	-	-
+15	el	el	DA0MS0	-	-	445-447	23_QUEST_clinical_caseMIR	SENT3	-	-
+16	paciente	paciente	NCCS000	C0030705	persona	448-456	23_QUEST_clinical_caseMIR	SENT3	-	-
+17	hace	hacer	VMIP3S0	-	-	457-461	23_QUEST_clinical_caseMIR	SENT3	-	-
+18	un	un		C0205447_1	calificador_1	462-464	23_QUEST_clinical_caseMIR	SENT3	-	-
+19	ruido	ruido	NCMS000	C0006318	hallazgo	465-470	23_QUEST_clinical_caseMIR	SENT3	-	-
+20	extraño	extraño	AQ0MS0	-	-	471-478	23_QUEST_clinical_caseMIR	SENT3	-	-
+21	al	al	SP+DA	-	-	479-481	23_QUEST_clinical_caseMIR	SENT3	-	-
+22	inspirar	inspirar	VMN0000	-	-	482-490	23_QUEST_clinical_caseMIR	SENT3	-	-
+23	,	,	Fc	-	-	490-491	23_QUEST_clinical_caseMIR	SENT3	-	-
+24	como	como	CS	C0332257	calificador	492-496	23_QUEST_clinical_caseMIR	SENT3	-	-
+25	un	un		C0205447_1	calificador_1	497-499	23_QUEST_clinical_caseMIR	SENT3	-	-
+26	ronquido	ronquido	NCMS000	C0037384_1	hallazgo_1	500-508	23_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+27	suave	suave	AQ0CS0	C0205358	calificador	509-514	23_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+28	,	,	Fc	-	-	514-515	23_QUEST_clinical_caseMIR	SENT3	-	-
+29	el	el	DA0MS0	-	-	516-518	23_QUEST_clinical_caseMIR	SENT3	-	-
+30	paciente	paciente	NCCS000	C0030705	persona	519-527	23_QUEST_clinical_caseMIR	SENT3	-	-
+31	está	estar	VAIP3S0	-	-	528-532	23_QUEST_clinical_caseMIR	SENT3	-	-
+32	profundamente	profundamente	RG	-	-	533-546	23_QUEST_clinical_caseMIR	SENT3	-	-
+33	dormido	dormir	VMP00SM	-	-	547-554	23_QUEST_clinical_caseMIR	SENT3	-	-
+34	y	y	CC	C1706368	calificador	555-556	23_QUEST_clinical_caseMIR	SENT3	-	-
+35	muy	muy	RG	C0442824	calificador	557-560	23_QUEST_clinical_caseMIR	SENT3	-	-
+36	sudoroso	sudoroso	AQ0MS0	-	-	561-569	23_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+37	,	,	Fc	-	-	569-570	23_QUEST_clinical_caseMIR	SENT3	-	-
+38	pero	pero	CC	-	-	571-575	23_QUEST_clinical_caseMIR	SENT3	-	-
+39	no	no	RN	C1298908	calificador	576-578	23_QUEST_clinical_caseMIR	SENT3	-	-
+40	impresiona	impresionar	VMIP3S0	-	-	579-589	23_QUEST_clinical_caseMIR	SENT3	-	-
+41	de	de	SPS00	C0332285	atributo	590-592	23_QUEST_clinical_caseMIR	SENT3	-	-
+42	estar	estar	VAN0000	-	-	593-598	23_QUEST_clinical_caseMIR	SENT3	-	-
+43	fatigado	fatigar	VMP00SM	-	-	599-607	23_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+44	.	.	Fp	-	-	607-608	23_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	609-610	23_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	610-613	23_QUEST_clinical_caseMIR	SENT4	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	614-621	23_QUEST_clinical_caseMIR	SENT4	-	-
+4	es	ser	VSIP3S0	-	-	622-624	23_QUEST_clinical_caseMIR	SENT4	-	-
+5	más	más	RG	C0205172	calificador	625-628	23_QUEST_clinical_caseMIR	SENT4	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	629-637	23_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	637-638	23_QUEST_clinical_caseMIR	SENT4	-	-
+8	:	:	Fd	-	-	638-639	23_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	639-640	23_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,73 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	403_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	403_QUEST_clinical_caseMIR	SENT1	-	-
+3	67	67		-	-	9-11	403_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	403_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	403_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	403_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	403_QUEST_clinical_caseMIR	SENT1	-	-
+8	dislipemia	dislipemia	NCFS000	-	-	37-47	403_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	,	,	Fc	-	-	47-48	403_QUEST_clinical_caseMIR	SENT1	-	-
+10	que	que	PR0CN000	-	-	49-52	403_QUEST_clinical_caseMIR	SENT1	-	-
+11	acude	acudir	VMIP3S0	-	-	53-58	403_QUEST_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	59-60	403_QUEST_clinical_caseMIR	SENT1	-	-
+13	urgencias	urgencia	NCFP000	C0439609	calificador	61-70	403_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	71-74	403_QUEST_clinical_caseMIR	SENT1	-	-
+15	un	un		C0205447_1	calificador_1	75-77	403_QUEST_clinical_caseMIR	SENT1	-	-
+16	cuadro	cuadro	NCMS000	-	-	78-84	403_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	85-87	403_QUEST_clinical_caseMIR	SENT1	-	-
+18	disuria	disuria	NCFS000	C0013428	hallazgo	88-95	403_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	y	y	CC	C1706368	calificador	96-97	403_QUEST_clinical_caseMIR	SENT1	-	-
+20	poliaquiuria	poliaquiuria	NC00SC0	C0042023	hallazgo	98-110	403_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	seguido	seguir	VMP00SM	-	-	111-118	403_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	119-121	403_QUEST_clinical_caseMIR	SENT1	-	-
+23	fiebre	fiebre	NCFS000	C0015967	hallazgo	122-128	403_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	,	,	Fc	-	-	128-129	403_QUEST_clinical_caseMIR	SENT1	-	-
+25	escalofríos	escalofrío	NCMP000	C0234192#C0085593#C0424790	entidad_observable#hallazgo	130-141	403_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	y	y	CC	C1706368	calificador	142-143	403_QUEST_clinical_caseMIR	SENT1	-	-
+27	deterioro	deterioro	NCMS000	C1279889_1	calificador_1	144-153	403_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	del	del	SP+DA	C1279889_2	calificador_2	154-157	403_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+29	estado	estar	VAP00SM	C1279889_3	calificador_3	158-164	403_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+30	general	general	AQ0CS0	C0205246	calificador	165-172	403_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+31	.	.	Fp	-	-	172-173	403_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	174-175	403_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	176-178	403_QUEST_clinical_caseMIR	SENT2	-	-
+3	llegada	llegada	NCFS000	-	-	179-186	403_QUEST_clinical_caseMIR	SENT2	-	-
+4	impresiona	impresionar	VMIP3S0	-	-	187-197	403_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	198-200	403_QUEST_clinical_caseMIR	SENT2	-	-
+6	gravedad	gravedad	NCFS000	C0282189#C0439793	fuerza_física#calificador	201-209	403_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	210-211	403_QUEST_clinical_caseMIR	SENT2	-	-
+8	está	estar	VAIP3S0	-	-	212-216	403_QUEST_clinical_caseMIR	SENT2	-	-
+9	taquicárdica	taquicárdica	AQ0FS00	-	-	217-229	403_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	,	,	Fc	-	-	229-230	403_QUEST_clinical_caseMIR	SENT2	-	-
+11	taquipneica	taquipnea	NCFS00V	C0231835	hallazgo	231-242	403_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	242-243	403_QUEST_clinical_caseMIR	SENT2	-	-
+13	con	con	SPS00	C0332287	atributo	244-247	403_QUEST_clinical_caseMIR	SENT2	-	-
+14	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	248-255	403_QUEST_clinical_caseMIR	SENT2	-	-
+15	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	256-264	403_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+16	60/40	60/40	Z	-	-	265-270	403_QUEST_clinical_caseMIR	SENT2	-	-
+17	mmHg	mmHg	NCMP000	-	-	271-275	403_QUEST_clinical_caseMIR	SENT2	-	-
+18	y	y	CC	C1706368	calificador	276-277	403_QUEST_clinical_caseMIR	SENT2	-	-
+19	temperatura	temperatura	NCFS000	C0039476	atributo	278-289	403_QUEST_clinical_caseMIR	SENT2	-	-
+20	de	de	SPS00	C0332285	atributo	290-292	403_QUEST_clinical_caseMIR	SENT2	-	-
+21	39°C	39°C		-	-	293-297	403_QUEST_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	297-298	403_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	299-300	403_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	300-303	403_QUEST_clinical_caseMIR	SENT3	-	-
+3	medida	medida	NCFS000	C0079809	atributo	304-310	403_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	311-313	403_QUEST_clinical_caseMIR	SENT3	-	-
+5	entre	entre	SPS00	C0205103	calificador	314-319	403_QUEST_clinical_caseMIR	SENT3	-	-
+6	las	el	DA0FP0	-	-	320-323	403_QUEST_clinical_caseMIR	SENT3	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	324-334	403_QUEST_clinical_caseMIR	SENT3	-	-
+8	NO	no	RN	C1298908	calificador	335-337	403_QUEST_clinical_caseMIR	SENT3	-	-
+9	estaría	estar	VAIC1S0	-	-	338-345	403_QUEST_clinical_caseMIR	SENT3	-	-
+10	incluida	incluir	VMP00SF	-	-	346-354	403_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	355-357	403_QUEST_clinical_caseMIR	SENT3	-	-
+12	el	el	DA0MS0	-	-	358-360	403_QUEST_clinical_caseMIR	SENT3	-	-
+13	manejo	manejo	NCMS000	C1273870	procedimiento	361-367	403_QUEST_clinical_caseMIR	SENT3	-	-
+14	INICIAL	inicial	AQ0CS0	C0205265	calificador	368-375	403_QUEST_clinical_caseMIR	SENT3	-	-
+15	?	?	Fit	-	-	375-376	403_QUEST_clinical_caseMIR	SENT3	-	-
+16	:	:	Fd	-	-	376-377	403_QUEST_clinical_caseMIR	SENT3	-	-
+17	.	.	Fp	-	-	377-378	403_QUEST_clinical_caseMIR	SENT3	-	-
+

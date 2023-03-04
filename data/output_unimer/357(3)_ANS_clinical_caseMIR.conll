@@ -1,0 +1,23 @@
+1	Fluconazol	fluconazol	NC00SC0	C0016277	sustancia	0-10	357(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	,	,	Fc	-	-	10-11	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	pensando	pensar	VMG0000	-	-	12-20	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	21-23	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	24-27	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	28-30	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	flora	flora	NCFS000	-	-	31-36	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	oral	oral	AQ0CS0	C0442027	calificador	37-41	357(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	está	estar	VAIP3S0	-	-	42-46	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	compuesta	componer	VMP00SF	-	-	47-56	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	por	por	SPS00	C0678226	atributo	57-60	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	flora	flora	NCFS000	-	-	61-66	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	mixta	mixto	AQ0FS0	C0205430	calificador	67-72	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	con	con	SPS00	C0332251_1	calificador_1	73-76	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	predominio	predominio	NCMS000	C0332251_2	calificador_2	77-87	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332251_3	calificador_3	88-90	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	las	el	DA0FP0	-	-	91-94	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	levaduras	levadura	NCFP000	C0043393	sustancia#organismo	95-104	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	como	como	CS	C0332257	calificador	105-109	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	Candida	candida	VMP00SF	-	-	110-117	357(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	albicans	albicans	NCCP000	-	-	118-126	357(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+22	.	.	Fp	-	-	127-128	357(3)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,61 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	637_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	637_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	637_QUEST_clinical_caseMIR	SENT1	-	-
+4	46	46		-	-	13-15	637_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	637_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	637_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	637_QUEST_clinical_caseMIR	SENT1	-	-
+8	las	el	DA0FP0	-	-	29-32	637_QUEST_clinical_caseMIR	SENT1	-	-
+9	11	11	Z	-	-	33-35	637_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de		-	-	36-38	637_QUEST_clinical_caseMIR	SENT1	-	-
+11	la	la		-	-	39-41	637_QUEST_clinical_caseMIR	SENT1	-	-
+12	noche	noche		-	-	42-47	637_QUEST_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	48-49	637_QUEST_clinical_caseMIR	SENT1	-	-
+14	urgencias	urgencia	NCFP000	C0439609	calificador	50-59	637_QUEST_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C0678226	atributo	60-63	637_QUEST_clinical_caseMIR	SENT1	-	-
+16	presentar	presentar	VMN0000	-	-	64-73	637_QUEST_clinical_caseMIR	SENT1	-	-
+17	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	74-82	637_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	blanquecinas	blanquecino	AQ0FP0	-	-	83-95	637_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+19	y	y	CC	C1706368	calificador	96-97	637_QUEST_clinical_caseMIR	SENT1	-	-
+20	rojas	rojo	AQ0FP0	C1260956	calificador	98-103	637_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	,	,	Fc	-	-	103-104	637_QUEST_clinical_caseMIR	SENT1	-	-
+22	sin	sin	SPS00	C0332288	atributo	105-108	637_QUEST_clinical_caseMIR	SENT1	-	-
+23	flictenas	flictena	NCFP000	C0005758#C0344311	trastorno#anomalía_morfológica	109-118	637_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+24	,	,	Fc	-	-	118-119	637_QUEST_clinical_caseMIR	SENT1	-	-
+25	muy	muy	RG	C0442824	calificador	120-123	637_QUEST_clinical_caseMIR	SENT1	-	-
+26	dolorosas	doloroso	AQ0FP0	-	-	124-133	637_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	,	,	Fc	-	-	133-134	637_QUEST_clinical_caseMIR	SENT1	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	135-137	637_QUEST_clinical_caseMIR	SENT1	-	-
+29	ambos	ambos	PI0MP000	C0230473_1	estructura_corporal_1	138-143	637_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	pies	pie	NCMP000	C0230473_2	estructura_corporal_2	144-148	637_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+31	.	.	Fp	-	-	148-149	637_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	150-152	637_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	153-161	637_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	162-164	637_QUEST_clinical_caseMIR	SENT2	-	-
+4	trabajador	trabajador	AQ0MS0	C1306056	ocupación	165-175	637_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	176-178	637_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	179-181	637_QUEST_clinical_caseMIR	SENT2	-	-
+7	construcción	construcción	NCFS000	-	-	182-194	637_QUEST_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	195-196	637_QUEST_clinical_caseMIR	SENT2	-	-
+9	refiere	referir	VMIP3S0	-	-	197-204	637_QUEST_clinical_caseMIR	SENT2	-	-
+10	haber	haber	VAN0000	-	-	205-210	637_QUEST_clinical_caseMIR	SENT2	-	-
+11	estado	estar	VAP00SM	-	-	211-217	637_QUEST_clinical_caseMIR	SENT2	-	-
+12	trabajando	trabajar	VMG0000	-	-	218-228	637_QUEST_clinical_caseMIR	SENT2	-	-
+13	esa	ese	DD0FS0	-	-	229-232	637_QUEST_clinical_caseMIR	SENT2	-	-
+14	mañana	mañana	NCMS000	C0332170	calificador	233-239	637_QUEST_clinical_caseMIR	SENT2	-	-
+15	con	con	SPS00	C0332287	atributo	240-243	637_QUEST_clinical_caseMIR	SENT2	-	-
+16	cemento	cemento	NCMS000	C0011343#C1704479	estructura_corporal#calificador	244-251	637_QUEST_clinical_caseMIR	SENT2	-	-
+17	(	(	Fpa	-	-	252-253	637_QUEST_clinical_caseMIR	SENT2	-	-
+18	óxido	óxido	NCMS000	C0319862	organismo	253-258	637_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+19	cálcico	cálcico	AQ0MS0	-	-	259-266	637_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+20	)	)	Fpt	-	-	266-267	637_QUEST_clinical_caseMIR	SENT2	-	-
+21	.	.	Fp	-	-	267-268	637_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Señale	señalar	VMM03S0	-	-	269-275	637_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	276-278	637_QUEST_clinical_caseMIR	SENT3	-	-
+3	respuesta	respuesta	NCFS000	-	-	279-288	637_QUEST_clinical_caseMIR	SENT3	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	289-297	637_QUEST_clinical_caseMIR	SENT3	-	-
+5	:	:	Fd	-	-	297-298	637_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	298-299	637_QUEST_clinical_caseMIR	SENT3	-	-
+

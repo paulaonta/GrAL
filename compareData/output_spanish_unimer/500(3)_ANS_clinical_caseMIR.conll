@@ -1,0 +1,11 @@
+1	Espondilitis	espondilitis	NCFN000	C0038013_1	trastorno_1	0-12	500(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	anquilosante	anquilosante	AQ0CS0	C0038013_2	trastorno_2	13-25	500(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	,	,	Fc	-	-	25-26	500(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	iniciaría	iniciar	VMIC3S0	-	-	27-36	500(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	37-48	500(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	49-52	500(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	antiinflamatorios	antiinflamatorios	NC00AO0	-	-	53-70	500(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	no	no	RN	C1298908	calificador	71-73	500(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	esteroideos	esteroideos	NCMP000	-	-	74-85	500(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	86-87	500(3)_ANS_clinical_caseMIR	SENT1	-	-
+

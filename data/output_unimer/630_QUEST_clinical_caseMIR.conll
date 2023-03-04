@@ -1,0 +1,129 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	630_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	630_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	630_QUEST_clinical_caseMIR	SENT1	-	-
+4	22	22		-	-	13-15	630_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	630_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	630_QUEST_clinical_caseMIR	SENT1	-	-
+7	previamente	previamente	RG	-	-	22-33	630_QUEST_clinical_caseMIR	SENT1	-	-
+8	sana	sano	AQ0FS0	-	-	34-38	630_QUEST_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	38-39	630_QUEST_clinical_caseMIR	SENT1	-	-
+10	sufre	sufrir	VMIP3S0	-	-	40-45	630_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	46-48	630_QUEST_clinical_caseMIR	SENT1	-	-
+12	politraumatismo	politraumatismo	NCMS000	-	-	49-64	630_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	secundario	secundario	NCMS000	C0175668_1	calificador_1	65-75	630_QUEST_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	C0175668_2	calificador_2	76-77	630_QUEST_clinical_caseMIR	SENT1	-	-
+15	un	un		C0205447_1	calificador_1	78-80	630_QUEST_clinical_caseMIR	SENT1	-	-
+16	accidente	accidente	NCMS000	C0415499_1	evento_1	81-90	630_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0415499_2	evento_2	91-93	630_QUEST_clinical_caseMIR	SENT1	-	-
+18	tráfico	tráfico	NCMS000	-	-	94-101	630_QUEST_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	101-102	630_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	103-105	630_QUEST_clinical_caseMIR	SENT2	-	-
+2	queja	quejar	VMIP3S0	-	-	106-111	630_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	112-114	630_QUEST_clinical_caseMIR	SENT2	-	-
+4	dolor	dolor	NCMS000	C0030193	hallazgo	115-120	630_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	torácico	torácico	NC00SC0	C0817096	calificador	121-129	630_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+6	,	,	Fc	-	-	129-130	630_QUEST_clinical_caseMIR	SENT2	-	-
+7	está	estar	VAIP3S0	-	-	131-135	630_QUEST_clinical_caseMIR	SENT2	-	-
+8	hipotensa	hipotenso	NCFS000	-	-	136-145	630_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	146-147	630_QUEST_clinical_caseMIR	SENT2	-	-
+10	el	el	DA0MS0	-	-	148-150	630_QUEST_clinical_caseMIR	SENT2	-	-
+11	equipo	equipo	NCMS000	C0014672#C1690540	atributo#calificador	151-157	630_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	158-160	630_QUEST_clinical_caseMIR	SENT2	-	-
+13	emergencias	emergencia	NCFP000	C0175673	calificador	161-172	630_QUEST_clinical_caseMIR	SENT2	-	-
+14	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	173-175	630_QUEST_clinical_caseMIR	SENT2	-	-
+15	pauta	pautar	VMIP3S0	-	-	176-181	630_QUEST_clinical_caseMIR	SENT2	-	-
+16	oxigenoterapia	oxigenoterapia	NCFS000	C0184633	procedimiento	182-196	630_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+17	,	,	Fc	-	-	196-197	630_QUEST_clinical_caseMIR	SENT2	-	-
+18	analgesia	analgesia	NCFS000	C0344307	hallazgo	198-207	630_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+19	y	y	CC	C1706368	calificador	208-209	630_QUEST_clinical_caseMIR	SENT2	-	-
+20	6	6	Z	-	-	210-211	630_QUEST_clinical_caseMIR	SENT2	-	-
+21	litros	l	NCMP000	-	-	212-218	630_QUEST_clinical_caseMIR	SENT2	-	-
+22	de	de	SPS00	C0332285	atributo	219-221	630_QUEST_clinical_caseMIR	SENT2	-	-
+23	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	222-227	630_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+24	salino	salino	AQ0MS0	-	-	228-234	630_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+25	isotónico	isotónico	AQ0MS0	-	-	235-244	630_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+26	para	para	SPS00	C0521125	calificador	245-249	630_QUEST_clinical_caseMIR	SENT2	-	-
+27	remontar	remontar	VMN0000	-	-	250-258	630_QUEST_clinical_caseMIR	SENT2	-	-
+28	la	el	DA0FS0	-	-	259-261	630_QUEST_clinical_caseMIR	SENT2	-	-
+29	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	262-269	630_QUEST_clinical_caseMIR	SENT2	-	-
+30	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	270-278	630_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+31	.	.	Fp	-	-	278-279	630_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Ya	ya	RG	-	-	280-282	630_QUEST_clinical_caseMIR	SENT3	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	283-285	630_QUEST_clinical_caseMIR	SENT3	-	-
+3	el	el	DA0MS0	-	-	286-288	630_QUEST_clinical_caseMIR	SENT3	-	-
+4	hospital	hospital	NCMS000	C1510665	medio_ambiente	289-297	630_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	298-300	630_QUEST_clinical_caseMIR	SENT3	-	-
+6	aprecian	apreciar	VMIP3P0	-	-	301-309	630_QUEST_clinical_caseMIR	SENT3	-	-
+7	múltiples	múltiple	AQ0CP0	C0272567_1	trastorno_1	310-319	630_QUEST_clinical_caseMIR	SENT3	-	-
+8	fracturas	fracturar	VMIP2S0	C0272567_2	trastorno_2	320-329	630_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	costales	costal	NCMP000	C0272567_3	trastorno_3	330-338	630_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	339-341	630_QUEST_clinical_caseMIR	SENT3	-	-
+11	la	el	DA0FS0	-	-	342-344	630_QUEST_clinical_caseMIR	SENT3	-	-
+12	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	345-347	630_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0039985_2	procedimiento_2	348-350	630_QUEST_clinical_caseMIR	SENT3	-	-
+14	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	351-356	630_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+15	.	.	Fp	-	-	356-357	630_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	358-360	630_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	361-363	630_QUEST_clinical_caseMIR	SENT4	-	-
+3	analítica	analítica	NCFS000	-	-	364-373	630_QUEST_clinical_caseMIR	SENT4	-	-
+4	tiene	tener	VMIP3S0	-	-	374-379	630_QUEST_clinical_caseMIR	SENT4	-	-
+5	sodio	sodio	NCMS000	C3536896#C0037473	producto#sustancia	380-385	630_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	386-388	630_QUEST_clinical_caseMIR	SENT4	-	-
+7	135	135		-	-	389-392	630_QUEST_clinical_caseMIR	SENT4	-	-
+8	mmol	milimol	NC00YL0	C0439190	calificador	393-397	630_QUEST_clinical_caseMIR	SENT4	-	-
+9	/	/	Fh	-	-	397-398	630_QUEST_clinical_caseMIR	SENT4	-	-
+10	L	l	NCFS000	-	-	398-399	630_QUEST_clinical_caseMIR	SENT4	-	-
+11	,	,	Fc	-	-	399-400	630_QUEST_clinical_caseMIR	SENT4	-	-
+12	potasio	potasio	NCMS000	C0032821	sustancia#producto	401-408	630_QUEST_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C0332285	atributo	409-411	630_QUEST_clinical_caseMIR	SENT4	-	-
+14	3,8	3,8		-	-	412-415	630_QUEST_clinical_caseMIR	SENT4	-	-
+15	mmol	milimol	NC00YL0	C0439190	calificador	416-420	630_QUEST_clinical_caseMIR	SENT4	-	-
+16	/	/	Fh	-	-	420-421	630_QUEST_clinical_caseMIR	SENT4	-	-
+17	L	l	NCFS000	-	-	421-422	630_QUEST_clinical_caseMIR	SENT4	-	-
+18	,	,	Fc	-	-	422-423	630_QUEST_clinical_caseMIR	SENT4	-	-
+19	cloro	cloro	NCMN000	C0008209	sustancia	424-429	630_QUEST_clinical_caseMIR	SENT4	-	-
+20	de	de	SPS00	C0332285	atributo	430-432	630_QUEST_clinical_caseMIR	SENT4	-	-
+21	115	115		-	-	433-436	630_QUEST_clinical_caseMIR	SENT4	-	-
+22	mmol	milimol	NC00YL0	C0439190	calificador	437-441	630_QUEST_clinical_caseMIR	SENT4	-	-
+23	/	/	Fh	-	-	441-442	630_QUEST_clinical_caseMIR	SENT4	-	-
+24	L	l	NCFS000	-	-	442-443	630_QUEST_clinical_caseMIR	SENT4	-	-
+25	y	y	CC	C1706368	calificador	444-445	630_QUEST_clinical_caseMIR	SENT4	-	-
+26	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	446-457	630_QUEST_clinical_caseMIR	SENT4	-	-
+27	de	de	SPS00	C0332285	atributo	458-460	630_QUEST_clinical_caseMIR	SENT4	-	-
+28	18	18		-	-	461-463	630_QUEST_clinical_caseMIR	SENT4	-	-
+29	mmol	milimol	NC00YL0	C0439190	calificador	464-468	630_QUEST_clinical_caseMIR	SENT4	-	-
+30	/	/	Fh	-	-	468-469	630_QUEST_clinical_caseMIR	SENT4	-	-
+31	L.	l.	NCFS000	-	-	469-471	630_QUEST_clinical_caseMIR	SENT4	-	-
+32	En	en	SPS00	C1720294#C0332285	calificador#atributo	472-474	630_QUEST_clinical_caseMIR	SENT4	-	-
+33	los	el	DA0MP0	-	-	475-478	630_QUEST_clinical_caseMIR	SENT4	-	-
+34	gases	gas	NCMP000	C0017110	sustancia	479-484	630_QUEST_clinical_caseMIR	SENT4	-	-
+35	arteriales	arterial	AQ0CP0	C0221464	calificador	485-495	630_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+36	pCO2	pCO2		-	-	496-500	630_QUEST_clinical_caseMIR	SENT4	-	-
+37	de	de	SPS00	C0332285	atributo	501-503	630_QUEST_clinical_caseMIR	SENT4	-	-
+38	39	39	Z	-	-	504-506	630_QUEST_clinical_caseMIR	SENT4	-	-
+39	mmHg	mmHg	NCMP000	-	-	507-511	630_QUEST_clinical_caseMIR	SENT4	-	-
+40	y	y	CC	C1706368	calificador	512-513	630_QUEST_clinical_caseMIR	SENT4	-	-
+41	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	514-516	630_QUEST_clinical_caseMIR	SENT4	-	-
+42	de	de	SPS00	C0332285	atributo	517-519	630_QUEST_clinical_caseMIR	SENT4	-	-
+43	7,28	7,28		-	-	520-524	630_QUEST_clinical_caseMIR	SENT4	-	-
+44	.	.	Fp	-	-	524-525	630_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Con	con	SPS00	C0332287	atributo	526-529	630_QUEST_clinical_caseMIR	SENT5	-	-
+2	esta	este	DD0FS0	-	-	530-534	630_QUEST_clinical_caseMIR	SENT5	-	-
+3	información	información	NCFS000	-	-	535-546	630_QUEST_clinical_caseMIR	SENT5	-	-
+4	,	,	Fc	-	-	546-547	630_QUEST_clinical_caseMIR	SENT5	-	-
+5	¿	¿	Fia	-	-	548-549	630_QUEST_clinical_caseMIR	SENT5	-	-
+6	cuál	cuál	PT0CS000	-	-	549-553	630_QUEST_clinical_caseMIR	SENT5	-	-
+7	de	de	SPS00	C0332285	atributo	554-556	630_QUEST_clinical_caseMIR	SENT5	-	-
+8	las	el	DA0FP0	-	-	557-560	630_QUEST_clinical_caseMIR	SENT5	-	-
+9	siguientes	siguiente	AQ0CP0	C0332282	atributo	561-571	630_QUEST_clinical_caseMIR	SENT5	-	-
+10	explicaciones	explicación	NCFP000	-	-	572-585	630_QUEST_clinical_caseMIR	SENT5	-	-
+11	es	ser	VSIP3S0	-	-	586-588	630_QUEST_clinical_caseMIR	SENT5	-	-
+12	la	el	DA0FS0	-	-	589-591	630_QUEST_clinical_caseMIR	SENT5	-	-
+13	acertada	acertar	VMP00SF	-	-	592-600	630_QUEST_clinical_caseMIR	SENT5	-	-
+14	?	?	Fit	-	-	600-601	630_QUEST_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	601-602	630_QUEST_clinical_caseMIR	SENT5	-	-
+

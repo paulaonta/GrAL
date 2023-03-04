@@ -1,0 +1,32 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	53_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	53_QUEST_clinical_caseMIR	SENT1	-	-
+3	47	47		-	-	12-14	53_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	53_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	53_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	53_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	28-31	53_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	53_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	53_QUEST_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	44-46	53_QUEST_clinical_caseMIR	SENT1	-	-
+11	servicio	servicio	NCMS000	-	-	47-55	53_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	56-58	53_QUEST_clinical_caseMIR	SENT1	-	-
+13	Urgencias	urgencia	NCFP000	C0439609	calificador	59-68	53_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	69-72	53_QUEST_clinical_caseMIR	SENT1	-	-
+15	pérdida	pérdida	NCFS000	-	-	73-80	53_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	brusca	brusco	AQ0FS0	C0443162	calificador	81-87	53_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	de	de	SPS00	C0332285	atributo	88-90	53_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	conciencia	conciencia	NCFS000	C0234421#C1443086	-	91-101	53_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+19	¿	¿	Fia	-	-	102-103	53_QUEST_clinical_caseMIR	SENT1	-	-
+20	Cuál	cuál	PT0CS000	-	-	103-107	53_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	108-110	53_QUEST_clinical_caseMIR	SENT1	-	-
+22	entre	entre	SPS00	C0205103	calificador	111-116	53_QUEST_clinical_caseMIR	SENT1	-	-
+23	los	el	DA0MP0	-	-	117-120	53_QUEST_clinical_caseMIR	SENT1	-	-
+24	siguientes	siguiente	AQ0CP0	C0332282	atributo	121-131	53_QUEST_clinical_caseMIR	SENT1	-	-
+25	tiene	tener	VMIP3S0	-	-	132-137	53_QUEST_clinical_caseMIR	SENT1	-	-
+26	un	un		C0205447_1	calificador_1	138-140	53_QUEST_clinical_caseMIR	SENT1	-	-
+27	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	141-146	53_QUEST_clinical_caseMIR	SENT1	-	-
+28	rendimiento	rendimiento	NCMS000	-	-	147-158	53_QUEST_clinical_caseMIR	SENT1	-	-
+29	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	159-170	53_QUEST_clinical_caseMIR	SENT1	-	-
+30	?	?	Fit	-	-	170-171	53_QUEST_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	171-172	53_QUEST_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,90 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	156_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	156_QUEST_clinical_caseMIR	SENT1	-	-
+3	93	93		-	-	12-14	156_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	156_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	20-33	156_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	34-36	156_QUEST_clinical_caseMIR	SENT1	-	-
+7	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	37-51	156_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	52-54	156_QUEST_clinical_caseMIR	SENT1	-	-
+9	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	55-60	156_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	ascendente	ascendente	AQ0CS0	C0205385	calificador	61-71	156_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	con	con	SPS00	C0332287	atributo	72-75	156_QUEST_clinical_caseMIR	SENT1	-	-
+12	carcinomatosis	carcinomatosis	NC00SC0	C0346990_1	trastorno_1	76-90	156_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	peritoneal	peritoneal	NC00SC0	C0346990_2	trastorno_2	91-101	156_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	,	,	Fc	-	-	101-102	156_QUEST_clinical_caseMIR	SENT1	-	-
+15	metátasis	metátasis	NCMN000	-	-	103-112	156_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	hepáticas	hepático	AQ0FP0	-	-	113-122	156_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	y	y	CC	C1706368	calificador	123-124	156_QUEST_clinical_caseMIR	SENT1	-	-
+18	pulmonares	pulmonar	AQ0CP0	C2709248	calificador	125-135	156_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	.	.	Fp	-	-	135-136	156_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Encamado	encamar	VMP00SM	-	-	137-145	156_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	146-148	156_QUEST_clinical_caseMIR	SENT2	-	-
+3	su	su	DP3CS0	-	-	149-151	156_QUEST_clinical_caseMIR	SENT2	-	-
+4	domicilio	domicilio	NCMS000	C1442065	entidad_observable	152-161	156_QUEST_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	-	-	162-164	156_QUEST_clinical_caseMIR	SENT2	-	-
+6	90	90	Z	-	-	165-167	156_QUEST_clinical_caseMIR	SENT2	-	-
+7	%	%	Ft	-	-	167-168	156_QUEST_clinical_caseMIR	SENT2	-	-
+8	del	del	SP+DA	-	-	169-172	156_QUEST_clinical_caseMIR	SENT2	-	-
+9	día	día	NCMS000	C0439228#C0332169	calificador	173-176	156_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	176-177	156_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Sigue	seguir	VMIP3S0	-	-	178-183	156_QUEST_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	184-195	156_QUEST_clinical_caseMIR	SENT3	-	-
+3	con	con	SPS00	C0332287	atributo	196-199	156_QUEST_clinical_caseMIR	SENT3	-	-
+4	morfina	morfina	NCFS000	C0026549	producto#sustancia	200-207	156_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	208-210	156_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+6	liberación	liberación	NCFS000	C1963578	procedimiento	211-221	156_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+7	retardada	retardar	VMP00SF	-	-	222-231	156_QUEST_clinical_caseMIR	SENT3	-	-
+8	,	,	Fc	-	-	231-232	156_QUEST_clinical_caseMIR	SENT3	-	-
+9	dexametasona	dexametasona	NC00SC0	C0011777	producto#sustancia	233-245	156_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+10	8	8	Z	-	-	246-247	156_QUEST_clinical_caseMIR	SENT3	-	-
+11	mg	mg	NCMN000	-	-	248-250	156_QUEST_clinical_caseMIR	SENT3	-	-
+12	/	/	Fh	-	-	250-251	156_QUEST_clinical_caseMIR	SENT3	-	-
+13	día	día	NCMS000	C0439228#C0332169	calificador	251-254	156_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	254-255	156_QUEST_clinical_caseMIR	SENT3	-	-
+15	lactulosa	lactulosa	NC00SC0	C0022957	producto#sustancia	256-265	156_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+16	,	,	Fc	-	-	265-266	156_QUEST_clinical_caseMIR	SENT3	-	-
+17	parafina	parafina	NCFS000	C0030415	sustancia#producto	267-275	156_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+18	y	y	CC	C1706368	calificador	276-277	156_QUEST_clinical_caseMIR	SENT3	-	-
+19	un	un		C0205447_1	calificador_1	278-280	156_QUEST_clinical_caseMIR	SENT3	-	-
+20	zolpidem	zolpidem	NC00SC0	C0078839	producto#sustancia	281-289	156_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+21	a	a	SPS00	-	-	290-291	156_QUEST_clinical_caseMIR	SENT3	-	-
+22	las	el	DA0FP0	-	-	292-295	156_QUEST_clinical_caseMIR	SENT3	-	-
+23	22	22	Z	-	-	296-298	156_QUEST_clinical_caseMIR	SENT3	-	-
+24	horas	h	NCFP000	C0439227	calificador	299-304	156_QUEST_clinical_caseMIR	SENT3	-	-
+25	.	.	Fp	-	-	304-305	156_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Comienza	comenzar	VMIP3S0	-	-	306-314	156_QUEST_clinical_caseMIR	SENT4	-	-
+2	con	con	SPS00	C0332287	atributo	315-318	156_QUEST_clinical_caseMIR	SENT4	-	-
+3	dolor	dolor	NCMS000	C0232488#C0458254_1	hallazgo_1	319-324	156_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	cólico	cólico	NCMS000	C0232488#C0458254_2	hallazgo_2	325-331	156_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	periumbilical	periumbilical	NC00SC0	C0457792	calificador	332-345	156_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	,	,	Fc	-	-	345-346	156_QUEST_clinical_caseMIR	SENT4	-	-
+7	nauseas	nausear	VMIP2S0	-	-	347-354	156_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	y	y	CC	C1706368	calificador	355-356	156_QUEST_clinical_caseMIR	SENT4	-	-
+9	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	357-364	156_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	alimentarios	alimentario	AQ0MP0	-	-	365-377	156_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+11	.	.	Fp	-	-	377-378	156_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Tras	tras	SPS00	-	-	379-383	156_QUEST_clinical_caseMIR	SENT5	-	-
+2	su	su	DP3CS0	-	-	384-386	156_QUEST_clinical_caseMIR	SENT5	-	-
+3	evaluación	evaluación	NCFS000	C1261322	procedimiento	387-397	156_QUEST_clinical_caseMIR	SENT5	-	-
+4	es	ser	VSIP3S0	-	-	398-400	156_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	401-414	156_QUEST_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	415-417	156_QUEST_clinical_caseMIR	SENT5	-	-
+7	obstrucción	obstrucción	NCFS000	C0021843#C1258215_1	trastorno_1	418-429	156_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+8	intestinal	intestinal	NC00SC0	C0021843#C1258215_2	trastorno_2	430-440	156_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+9	.	.	Fp	-	-	440-441	156_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	442-443	156_QUEST_clinical_caseMIR	SENT6	-	-
+2	Cúal	cúal	RG	-	-	443-447	156_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	448-450	156_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	451-453	156_QUEST_clinical_caseMIR	SENT6	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	454-465	156_QUEST_clinical_caseMIR	SENT6	-	-
+6	más	más	RG	C0205172	calificador	466-469	156_QUEST_clinical_caseMIR	SENT6	-	-
+7	apropiado	apropiar	VMP00SM	-	-	470-479	156_QUEST_clinical_caseMIR	SENT6	-	-
+8	?	?	Fit	-	-	479-480	156_QUEST_clinical_caseMIR	SENT6	-	-
+9	:	:	Fd	-	-	480-481	156_QUEST_clinical_caseMIR	SENT6	-	-
+10	.	.	Fp	-	-	481-482	156_QUEST_clinical_caseMIR	SENT6	-	-
+

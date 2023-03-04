@@ -1,0 +1,23 @@
+1	No	no	RN	C1298908	calificador	0-2	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	se	se	P00CN000	-	-	3-5	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	puede	poder	VMIP3S0	-	-	6-11	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	descartar	descartar	VMN0000	C0332196	calificador	12-21	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	22-24	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	25-34	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0150312_2	calificador_2	35-37	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	38-46	569(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	de	de	SPS00	C0332285	atributo	47-49	569(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	apnea	apnea	NCFS000	C0037315_1	trastorno_1	50-55	569(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	del	del	SP+DA	C0037315_2	trastorno_2	56-59	569(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+12	sueño	sueño	NCMS000	C0037315_3	trastorno_3	60-65	569(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+13	como	como	CS	C0332257	calificador	66-70	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	factor	factor	NCMS000	-	-	71-77	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	agravante	agravante	AQ0CS0	-	-	78-87	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	88-90	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	91-93	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	94-100	569(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	esta	este	DD0FS0	-	-	104-108	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	paciente	paciente	NCCS000	C0030705	persona	109-117	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	118-119	569(3)_ANS_clinical_caseMIR	SENT1	-	-
+

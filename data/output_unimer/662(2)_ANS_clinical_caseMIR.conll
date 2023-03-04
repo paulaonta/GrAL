@@ -1,0 +1,27 @@
+1	Como	como	CS	C0332257	calificador	0-4	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	no	no	RN	C1298908	calificador	5-7	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	refiere	referir	VMIP3S0	-	-	8-15	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	problemas	problema	NCMP000	C0033213	hallazgo	16-25	662(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+5	visuales	visual	AQ0CP0	C0234621	calificador	26-34	662(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	,	,	Fc	-	-	34-35	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	presenta	presentar	VMIP3S0	-	-	36-44	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	una	una		C0205447_1	calificador_1	45-48	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	presión	presión	NCFS000	C0578863_1	hallazgo_1	49-56	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	intraocular	intraocular	AQ0CS0	C0578863_2	hallazgo_2	57-68	662(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	normal	normal	NCFS000	C0578863_3	hallazgo_3	69-75	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	y	y	CC	C1706368	calificador	76-77	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	78-81	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	agudeza	agudeza	NCFS000	C0234631_1	hallazgo_1	82-89	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	visual	visual	NC00SC0	C0234631_2	hallazgo_2	90-96	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	normal	normal	NCFS000	C0234631_3	hallazgo_3	97-103	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	103-104	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	se	se	P00CN000	-	-	105-107	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	trata	tratar	VMIP3S0	-	-	108-113	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	114-116	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	despistes	despiste	NCMP000	-	-	117-126	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	normales	normal	AQ0CP0	C0205307	calificador	127-135	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	a	a	SPS00	-	-	136-137	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+24	su	su	DP3CS0	-	-	138-140	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+25	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	141-145	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	146-147	662(2)_ANS_clinical_caseMIR	SENT1	-	-
+

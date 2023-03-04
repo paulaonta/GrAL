@@ -1,0 +1,68 @@
+1	Lactante	lactante	NCCS000	C0021270	persona	0-8	496_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	496_QUEST_clinical_caseMIR	SENT1	-	-
+3	2	2		-	-	12-13	496_QUEST_clinical_caseMIR	SENT1	-	-
+4	meses	mes	NCMP000	C0439231	calificador	14-19	496_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	496_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	496_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	28-31	496_QUEST_clinical_caseMIR	SENT1	-	-
+8	catarro	catarro	NCMS000	C1384493#C0333273	hallazgo#anomalía_morfológica	32-39	496_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	de	de	SPS00	C0332285	atributo	40-42	496_QUEST_clinical_caseMIR	SENT1	-	-
+10	vías	vía	NCFP000	C0449444	atributo	43-47	496_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	altas	alto	AQ0FP0	C0205250	calificador	48-53	496_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+12	de	de	SPS00	C0332285	atributo	54-56	496_QUEST_clinical_caseMIR	SENT1	-	-
+13	3	3	Z	-	-	57-58	496_QUEST_clinical_caseMIR	SENT1	-	-
+14	días	d	NCMP000	-	-	59-63	496_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	64-66	496_QUEST_clinical_caseMIR	SENT1	-	-
+16	evolución	evolución	NCFS000	-	-	67-76	496_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	76-77	496_QUEST_clinical_caseMIR	SENT1	-	-
+18	que	que	PR0CN000	-	-	78-81	496_QUEST_clinical_caseMIR	SENT1	-	-
+19	comienza	comenzar	VMIP3S0	-	-	82-90	496_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	91-94	496_QUEST_clinical_caseMIR	SENT1	-	-
+21	dificultad	dificultar	VMM02P0	C0013404#C0553668_1	hallazgo_1	95-105	496_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	respiratoria	respiratorio	AQ0FS0	C0013404#C0553668_2	hallazgo_2	106-118	496_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	moderada	moderar	VMP00SF	-	-	119-127	496_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	y	y	CC	C1706368	calificador	128-129	496_QUEST_clinical_caseMIR	SENT1	-	-
+25	auscultación	auscultación	NCFS000	C0004339	procedimiento	130-142	496_QUEST_clinical_caseMIR	SENT1	-	-
+26	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	143-151	496_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	con	con	SPS00	C0332287	atributo	152-155	496_QUEST_clinical_caseMIR	SENT1	-	-
+28	sibilancias	sibilancias	NC00SC0	C0231875_1	hallazgo_1	156-167	496_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	espiratorias	espiratorias		C0231875_2	hallazgo_2	168-180	496_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+30	.	.	Fp	-	-	180-181	496_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	182-184	496_QUEST_clinical_caseMIR	SENT2	-	-
+2	saturación	saturación	NCFS000	-	-	185-195	496_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	196-198	496_QUEST_clinical_caseMIR	SENT2	-	-
+4	oxígeno	oxígeno	NCMS000	C0030054	sustancia	199-206	496_QUEST_clinical_caseMIR	SENT2	-	-
+5	es	ser	VSIP3S0	-	-	207-209	496_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	210-212	496_QUEST_clinical_caseMIR	SENT2	-	-
+7	89	89	Z	-	-	213-215	496_QUEST_clinical_caseMIR	SENT2	-	-
+8	%	%	Ft	-	-	216-217	496_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	217-218	496_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	219-221	496_QUEST_clinical_caseMIR	SENT3	-	-
+2	aísla	aislar	VMIP3S0	-	-	222-227	496_QUEST_clinical_caseMIR	SENT3	-	-
+3	virus	virus	NCMN000	C0042776	organismo	228-233	496_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	respiratorio	respiratorio	AQ0MS0	-	-	234-246	496_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+5	sincitial	sincitial	AQ0CS00	-	-	247-256	496_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	257-259	496_QUEST_clinical_caseMIR	SENT3	-	-
+7	el	el	DA0MS0	-	-	260-262	496_QUEST_clinical_caseMIR	SENT3	-	-
+8	exudado	exudado	NCMS000	C0015388#C0311437	sustancia#anomalía_morfológica#función	263-270	496_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	nasofaríngeo	nasofaríngeo	AQ0MS0	C0027442	calificador	271-283	496_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	.	.	Fp	-	-	283-284	496_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	285-286	496_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	286-290	496_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	291-293	496_QUEST_clinical_caseMIR	SENT4	-	-
+4	los	el	DA0MP0	-	-	294-297	496_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	298-308	496_QUEST_clinical_caseMIR	SENT4	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	309-321	496_QUEST_clinical_caseMIR	SENT4	-	-
+7	considera	considerar	VMIP3S0	-	-	322-331	496_QUEST_clinical_caseMIR	SENT4	-	-
+8	más	más	RG	C0205172	calificador	332-335	496_QUEST_clinical_caseMIR	SENT4	-	-
+9	indicado	indicar	VMP00SM	-	-	336-344	496_QUEST_clinical_caseMIR	SENT4	-	-
+10	para	para	SPS00	C0521125	calificador	345-349	496_QUEST_clinical_caseMIR	SENT4	-	-
+11	este	este	DD0MS0	-	-	350-354	496_QUEST_clinical_caseMIR	SENT4	-	-
+12	cuadro	cuadro	NCMS000	-	-	355-361	496_QUEST_clinical_caseMIR	SENT4	-	-
+13	?	?	Fit	-	-	361-362	496_QUEST_clinical_caseMIR	SENT4	-	-
+14	:	:	Fd	-	-	362-363	496_QUEST_clinical_caseMIR	SENT4	-	-
+15	.	.	Fp	-	-	363-364	496_QUEST_clinical_caseMIR	SENT4	-	-
+

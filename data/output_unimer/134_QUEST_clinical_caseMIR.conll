@@ -1,0 +1,129 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	134_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	134_QUEST_clinical_caseMIR	SENT1	-	-
+3	58	58		-	-	9-11	134_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	134_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	134_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	18-21	134_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	-	-	22-34	134_QUEST_clinical_caseMIR	SENT1	-	-
+8	personales	personal	AQ0CP0	-	-	35-45	134_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	46-48	134_QUEST_clinical_caseMIR	SENT1	-	-
+10	Diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	49-57	134_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	Mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	58-66	134_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+12	no	no	RN	C1298908	calificador	67-69	134_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	insulín	insulín	NCMS000	-	-	70-77	134_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	dependiente	dependiente	AQ0CS0	C0851827	calificador	78-89	134_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	y	y	CC	C1706368	calificador	90-91	134_QUEST_clinical_caseMIR	SENT1	-	-
+16	gonartrosis	gonartrosis	NC00KE0	-	-	92-103	134_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	104-111	134_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	.	.	Fp	-	-	111-112	134_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tratada	tratar	VMP00SF	-	-	113-120	134_QUEST_clinical_caseMIR	SENT2	-	-
+2	mediante	mediante	SPS00	-	-	121-129	134_QUEST_clinical_caseMIR	SENT2	-	-
+3	infiltraciones	infiltración	NCFP000	C0702249#C0332448	procedimiento#anomalía_morfológica	130-144	134_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	145-148	134_QUEST_clinical_caseMIR	SENT2	-	-
+5	corticoides	corticoide	NCMP000	-	-	149-160	134_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	161-163	134_QUEST_clinical_caseMIR	SENT2	-	-
+7	esa	ese	DD0FS0	-	-	164-167	134_QUEST_clinical_caseMIR	SENT2	-	-
+8	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	168-175	134_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	,	,	Fc	-	-	175-176	134_QUEST_clinical_caseMIR	SENT2	-	-
+10	la	el	DA0FS0	-	-	177-179	134_QUEST_clinical_caseMIR	SENT2	-	-
+11	última	último	AO0FS0	-	-	180-186	134_QUEST_clinical_caseMIR	SENT2	-	-
+12	hace	hacer	VMIP3S0	-	-	187-191	134_QUEST_clinical_caseMIR	SENT2	-	-
+13	seis	seis		-	-	192-196	134_QUEST_clinical_caseMIR	SENT2	-	-
+14	días	día	NCMP000	C0439228#C0332169	calificador	197-201	134_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	201-202	134_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	203-208	134_QUEST_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	209-210	134_QUEST_clinical_caseMIR	SENT3	-	-
+3	Urgencias	urgencia	NCFP000	C0439609	calificador	211-220	134_QUEST_clinical_caseMIR	SENT3	-	-
+4	por	por	SPS00	C0678226	atributo	221-224	134_QUEST_clinical_caseMIR	SENT3	-	-
+5	un	un		C0205447_1	calificador_1	225-227	134_QUEST_clinical_caseMIR	SENT3	-	-
+6	cuadro	cuadro	NCMS000	-	-	228-234	134_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	235-237	134_QUEST_clinical_caseMIR	SENT3	-	-
+8	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	238-243	134_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	244-251	134_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	,	,	Fc	-	-	251-252	134_QUEST_clinical_caseMIR	SENT3	-	-
+11	inflamación	inflamación	NCFS000	C1265828_1	anomalía_morfológica_1	253-264	134_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	progresiva	progresivo	AQ0FS0	C1265828_2	anomalía_morfológica_2	265-275	134_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+13	e	y	CC	C1706368	calificador	276-277	134_QUEST_clinical_caseMIR	SENT3	-	-
+14	impotencia	impotencia	NCFS000	C0242350	trastorno#hallazgo	278-288	134_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+15	funcional	funcional	AQ0CS0	C0205245	calificador	289-298	134_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	299-301	134_QUEST_clinical_caseMIR	SENT3	-	-
+17	la	el	DA0FS0	-	-	302-304	134_QUEST_clinical_caseMIR	SENT3	-	-
+18	rodilla	rodilla	NCFS000	C1963703#C1456798	estructura_corporal	305-312	134_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+19	,	,	Fc	-	-	312-313	134_QUEST_clinical_caseMIR	SENT3	-	-
+20	y	y	CC	C1706368	calificador	314-315	134_QUEST_clinical_caseMIR	SENT3	-	-
+21	fiebre	fiebre	NCFS000	C0015967	hallazgo	316-322	134_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	323-325	134_QUEST_clinical_caseMIR	SENT3	-	-
+23	los	el	DA0MP0	-	-	326-329	134_QUEST_clinical_caseMIR	SENT3	-	-
+24	dos	dos		-	-	330-333	134_QUEST_clinical_caseMIR	SENT3	-	-
+25	últimos	último	AO0MP0	-	-	334-341	134_QUEST_clinical_caseMIR	SENT3	-	-
+26	días	día	NCMP000	C0439228#C0332169	calificador	342-346	134_QUEST_clinical_caseMIR	SENT3	-	-
+27	.	.	Fp	-	-	346-347	134_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	348-350	134_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	351-353	134_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	354-365	134_QUEST_clinical_caseMIR	SENT4	-	-
+4	hay	haber	VMIP3S0	-	-	366-369	134_QUEST_clinical_caseMIR	SENT4	-	-
+5	un	un		C0205447_1	calificador_1	370-372	134_QUEST_clinical_caseMIR	SENT4	-	-
+6	derrame	derrame	NCMS000	C0013687	anomalía_morfológica	373-380	134_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	a	a	SPS00	-	-	381-382	134_QUEST_clinical_caseMIR	SENT4	-	-
+8	tensión	tensión	NCFS000	C0038435	hallazgo	383-390	134_QUEST_clinical_caseMIR	SENT4	-	-
+9	,	,	Fc	-	-	390-391	134_QUEST_clinical_caseMIR	SENT4	-	-
+10	intenso	intenso	AQ0MS0	C0205178	calificador	392-399	134_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+11	dolor	dolor	NCMS000	C0030193	hallazgo	400-405	134_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+12	que	que	PR0CN000	-	-	406-409	134_QUEST_clinical_caseMIR	SENT4	-	-
+13	impide	impedir	VMIP3S0	-	-	410-416	134_QUEST_clinical_caseMIR	SENT4	-	-
+14	cualquier	cualquiera	DI0CS0	-	-	417-426	134_QUEST_clinical_caseMIR	SENT4	-	-
+15	maniobra	maniobra	NCFS000	-	-	427-435	134_QUEST_clinical_caseMIR	SENT4	-	-
+16	exploratoria	exploratorio	AQ0FS0	-	-	436-448	134_QUEST_clinical_caseMIR	SENT4	-	-
+17	,	,	Fc	-	-	448-449	134_QUEST_clinical_caseMIR	SENT4	-	-
+18	y	y	CC	C1706368	calificador	450-451	134_QUEST_clinical_caseMIR	SENT4	-	-
+19	aumento	aumento	NCMS000	C0442805	calificador	452-459	134_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+20	de	de	SPS00	C0332285	atributo	460-462	134_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+21	temperatura	temperatura	NCFS000	C0039476	atributo	463-474	134_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+22	local	local	AQ0CS0	C0205276#C0392752#C0332237	calificador	475-480	134_QUEST_clinical_caseMIR	SENT4	-	-
+23	.	.	Fp	-	-	480-481	134_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	482-484	134_QUEST_clinical_caseMIR	SENT5	-	-
+2	radiología	radiología	NCFS000	-	-	485-495	134_QUEST_clinical_caseMIR	SENT5	-	-
+3	simple	simple	AQ0CS0	C0205352	calificador	496-502	134_QUEST_clinical_caseMIR	SENT5	-	-
+4	muestra	mostrar	VMIP3S0	-	-	503-510	134_QUEST_clinical_caseMIR	SENT5	-	-
+5	cambios	cambio	NCMP000	C0443172	calificador	511-518	134_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+6	degenerativos	degenerativo	AQ0MP0	-	-	519-532	134_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+7	,	,	Fc	-	-	532-533	134_QUEST_clinical_caseMIR	SENT5	-	-
+8	y	y	CC	C1706368	calificador	534-535	134_QUEST_clinical_caseMIR	SENT5	-	-
+9	un	un		C0205447_1	calificador_1	536-538	134_QUEST_clinical_caseMIR	SENT5	-	-
+10	derrame	derrame	NCMS000	C1253936#C0311222_1	trastorno_1	539-546	134_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+11	articular	articular	VMN0000	C1253936#C0311222_2	trastorno_2	547-556	134_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+12	con	con	SPS00	C0332287	atributo	557-560	134_QUEST_clinical_caseMIR	SENT5	-	-
+13	aumento	aumento	NCMS000	C0442805	calificador	561-568	134_QUEST_clinical_caseMIR	SENT5	-	-
+14	de	de	SPS00	C0332285	atributo	569-571	134_QUEST_clinical_caseMIR	SENT5	-	-
+15	partes	partir	VMIP2S0	C0225317_1	estructura_corporal#concepto_para_navegación_1	572-578	134_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+16	blandas	blando	AQ0FP0	C0225317_2	estructura_corporal#concepto_para_navegación_2	579-586	134_QUEST_clinical_caseMIR	SENT5	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	586-587	134_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	La	el	DA0FS0	-	-	588-590	134_QUEST_clinical_caseMIR	SENT6	-	-
+2	artrocentesis	artrocentesis	NC00SC0	C0204854	procedimiento	591-604	134_QUEST_clinical_caseMIR	SENT6	-	-
+3	obtiene	obtener	VMIP3S0	-	-	605-612	134_QUEST_clinical_caseMIR	SENT6	-	-
+4	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	613-620	134_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+5	purulento	purulento	AQ0MS0	C0439665	anomalía_morfológica	621-630	134_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-
+6	.	.	Fp	-	-	630-631	134_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	¿	¿	Fia	-	-	632-633	134_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	633-637	134_QUEST_clinical_caseMIR	SENT7	-	-
+3	de	de	SPS00	C0332285	atributo	638-640	134_QUEST_clinical_caseMIR	SENT7	-	-
+4	las	el	DA0FP0	-	-	641-644	134_QUEST_clinical_caseMIR	SENT7	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	645-655	134_QUEST_clinical_caseMIR	SENT7	-	-
+6	es	ser	VSIP3S0	-	-	656-658	134_QUEST_clinical_caseMIR	SENT7	-	-
+7	la	el	DA0FS0	-	-	659-661	134_QUEST_clinical_caseMIR	SENT7	-	-
+8	conducta	conducta	NCFS000	C0004927	hallazgo	662-670	134_QUEST_clinical_caseMIR	SENT7	-	-
+9	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	671-682	134_QUEST_clinical_caseMIR	SENT7	-	-
+10	y	y	CC	C1706368	calificador	683-684	134_QUEST_clinical_caseMIR	SENT7	-	-
+11	terapéutica	terapéutico	AQ0FS0	-	-	685-696	134_QUEST_clinical_caseMIR	SENT7	-	-
+12	más	más	RG	C0205172	calificador	697-700	134_QUEST_clinical_caseMIR	SENT7	-	-
+13	correcta	correcto	AQ0FS0	C0205170	calificador	701-709	134_QUEST_clinical_caseMIR	SENT7	-	-
+14	?	?	Fit	-	-	709-710	134_QUEST_clinical_caseMIR	SENT7	-	-
+15	:	:	Fd	-	-	710-711	134_QUEST_clinical_caseMIR	SENT7	-	-
+16	.	.	Fp	-	-	711-712	134_QUEST_clinical_caseMIR	SENT7	-	-
+

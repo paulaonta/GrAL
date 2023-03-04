@@ -1,0 +1,18 @@
+1	La	el	DA0FS0	-	-	0-2	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	3-10	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	11-14	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	lubricantes	lubricante	NCMP000	C0356770_1	producto_1	15-26	610(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	vaginales	vaginal	AQ0CP0	C0356770_2	producto_2	27-36	610(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+6	reduce	reducir	VMIP3S0	-	-	37-43	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	44-46	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	dispareunia	dispareunia	NC00SC0	C1384606	hallazgo	47-58	610(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	59-60	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	las	el	DA0FP0	-	-	61-64	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	infecciones	infección	NCFP000	C0009450	trastorno	65-76	610(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	urinarias	urinario	AQ0FP0	-	-	77-86	610(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	secundarias	secundario	AQ0FP0	C0175668	calificador	87-98	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	99-100	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	la	el	DA0FS0	-	-	101-103	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	atrofia	atrofia	NCFS000	C0333641#C0037154	anomalía_morfológica	104-111	610(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	.	.	Fp	-	-	112-113	610(3)_ANS_clinical_caseMIR	SENT1	-	-
+

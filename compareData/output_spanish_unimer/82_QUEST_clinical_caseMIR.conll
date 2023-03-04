@@ -1,0 +1,54 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	82_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	82_QUEST_clinical_caseMIR	SENT1	-	-
+3	26	26		-	-	9-11	82_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	82_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	82_QUEST_clinical_caseMIR	SENT1	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	82_QUEST_clinical_caseMIR	SENT1	-	-
+7	incontinencia	incontinencia	NCFS000	C0015732_1	hallazgo_1	30-43	82_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	fecal	fecal	AQ0CS0	C0015732_2	hallazgo_2	44-49	82_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	después	después	RG	C0231290	atributo	50-57	82_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	58-60	82_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	61-63	82_QUEST_clinical_caseMIR	SENT1	-	-
+12	parto	parto	NCMS000	C1148523	entidad_observable	64-69	82_QUEST_clinical_caseMIR	SENT1	-	-
+13	prolongado	prolongar	VMP00SM	-	-	70-80	82_QUEST_clinical_caseMIR	SENT1	-	-
+14	e	y	CC	C1706368	calificador	81-82	82_QUEST_clinical_caseMIR	SENT1	-	-
+15	instrumental	instrumental	AQ0CS0	C1704339	atributo	83-95	82_QUEST_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	95-96	82_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	97-99	82_QUEST_clinical_caseMIR	SENT2	-	-
+2	practica	practicar	VMIP3S0	-	-	100-108	82_QUEST_clinical_caseMIR	SENT2	-	-
+3	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	109-118	82_QUEST_clinical_caseMIR	SENT2	-	-
+4	endoanal	endoanal	AQ0CS00	-	-	119-127	82_QUEST_clinical_caseMIR	SENT2	-	-
+5	apreciando	apreciar	VMG0000	-	-	128-138	82_QUEST_clinical_caseMIR	SENT2	-	-
+6	se	se	PP3CN000	-	-	138-140	82_QUEST_clinical_caseMIR	SENT2	-	-
+7	una	una		C0205447_1	calificador_1	141-144	82_QUEST_clinical_caseMIR	SENT2	-	-
+8	sección	sección	NCFS000	C1293097	procedimiento	145-152	82_QUEST_clinical_caseMIR	SENT2	-	-
+9	del	del	SP+DA	-	-	153-156	82_QUEST_clinical_caseMIR	SENT2	-	-
+10	esfínter	esfínter	NCMS000	C1305040#C1761591_1	estructura_corporal_1	157-165	82_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	anal	anal	NCMS000	C1305040#C1761591_2	estructura_corporal_2	166-170	82_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	externo	externo	NCMS000	C1305040#C1761591_3	estructura_corporal_3	171-178	82_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+13	de	de	SPS00	C0332285	atributo	179-181	82_QUEST_clinical_caseMIR	SENT2	-	-
+14	30º	30º		-	-	182-185	82_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	186-188	82_QUEST_clinical_caseMIR	SENT2	-	-
+16	amplitud	amplitud	NCFS000	-	-	189-197	82_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	197-198	82_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	199-201	82_QUEST_clinical_caseMIR	SENT3	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	202-209	82_QUEST_clinical_caseMIR	SENT3	-	-
+3	electrofisiológico	electrofisiológico	AQ0MS00	-	-	210-228	82_QUEST_clinical_caseMIR	SENT3	-	-
+4	demuestra	demostrar	VMIP3S0	-	-	229-238	82_QUEST_clinical_caseMIR	SENT3	-	-
+5	una	una		C0205447_1	calificador_1	239-242	82_QUEST_clinical_caseMIR	SENT3	-	-
+6	inervación	inervación	NCFS000	C0026828#C0021516	entidad_observable#atributo	243-253	82_QUEST_clinical_caseMIR	SENT3	-	-
+7	normal	normal	AQ0CS0	C0205307	calificador	254-260	82_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	260-261	82_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	262-263	82_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	263-267	82_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	268-270	82_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	271-273	82_QUEST_clinical_caseMIR	SENT4	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	274-285	82_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	286-289	82_QUEST_clinical_caseMIR	SENT4	-	-
+7	indicado	indicar	VMP00SM	-	-	290-298	82_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	298-299	82_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	299-300	82_QUEST_clinical_caseMIR	SENT4	-	-
+

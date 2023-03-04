@@ -1,0 +1,16 @@
+1	A	a	SPS00	-	-	0-1	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	nivel	nivel	NCMS000	C0456079	atributo	2-7	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	bulbar	bulbar	AQ0CS0	-	-	8-14	179(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	lateral	lateral	NCMS000	C0205091_1	calificador_1	15-22	179(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+5	izquierdo	izquierdo	NC00SC0	C0205091_2	calificador_2	23-32	179(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+6	,	,	Fc	-	-	32-33	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C0678226	atributo	34-37	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	38-40	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	infarto	infarto	NCMS000	C0021308	anomalía_morfológica	41-48	179(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	49-51	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	52-54	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	arteria	arteria	NCFS000	C1280956#C0226246_1	estructura_corporal_1	55-62	179(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	cerebelosa	cerebeloso	AQ0FS0	C1280956#C0226246_2	estructura_corporal_2	63-73	179(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+14	postero-inferior	postero-inferior	AQ0CS00	-	-	74-90	179(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+15	.	.	Fp	-	-	91-92	179(4)_ANS_clinical_caseMIR	SENT1	-	-
+

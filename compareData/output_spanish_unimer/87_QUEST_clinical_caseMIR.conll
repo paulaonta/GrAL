@@ -1,0 +1,109 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	87_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	87_QUEST_clinical_caseMIR	SENT1	-	-
+3	24	24		-	-	10-12	87_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	87_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	87_QUEST_clinical_caseMIR	SENT1	-	-
+6	refiere	referir	VMIP3S0	-	-	22-29	87_QUEST_clinical_caseMIR	SENT1	-	-
+7	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	30-37	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	progresiva	progresivo	AQ0FS0	C0205329	calificador	38-48	87_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	desde	desde	SPS00	-	-	49-54	87_QUEST_clinical_caseMIR	SENT1	-	-
+10	al	al	SP+DA	-	-	55-57	87_QUEST_clinical_caseMIR	SENT1	-	-
+11	menos	menos	RG	C0332288	atributo	58-63	87_QUEST_clinical_caseMIR	SENT1	-	-
+12	6	6		-	-	64-65	87_QUEST_clinical_caseMIR	SENT1	-	-
+13	meses	mes	NCMP000	C0439231	calificador	66-71	87_QUEST_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	71-72	87_QUEST_clinical_caseMIR	SENT1	-	-
+15	voz	voz	NCFS000	C0019825_1	hallazgo_1	73-76	87_QUEST_clinical_caseMIR	SENT1	-	-
+16	ronca	ronco	AQ0FS0	C0019825_2	hallazgo_2	77-82	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	,	,	Fc	-	-	82-83	87_QUEST_clinical_caseMIR	SENT1	-	-
+18	lentitud	lentitud	NCFS000	-	-	84-92	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	del	del	SP+DA	-	-	93-96	87_QUEST_clinical_caseMIR	SENT1	-	-
+20	habla	habla	NCFS000	C0600116#C0037817	hallazgo#función	97-102	87_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	102-103	87_QUEST_clinical_caseMIR	SENT1	-	-
+22	somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	104-115	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	e	y	CC	C1706368	calificador	116-117	87_QUEST_clinical_caseMIR	SENT1	-	-
+24	hinchazón	hinchazón	NCFS000	C0038999	hallazgo	118-127	87_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	de	de	SPS00	C0332285	atributo	128-130	87_QUEST_clinical_caseMIR	SENT1	-	-
+26	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	131-136	87_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	,	,	Fc	-	-	136-137	87_QUEST_clinical_caseMIR	SENT1	-	-
+28	pies	pie	NCMP000	C1281587#C0347981#C0016504	estructura_corporal#calificador	138-142	87_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+29	y	y	CC	C1706368	calificador	143-144	87_QUEST_clinical_caseMIR	SENT1	-	-
+30	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	145-149	87_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	.	.	Fp	-	-	149-150	87_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Exploración	exploración	NCFS000	C1280903	procedimiento	151-162	87_QUEST_clinical_caseMIR	SENT2	-	-
+2	:	:	Fd	-	-	162-163	87_QUEST_clinical_caseMIR	SENT2	-	-
+3	pulso	pulso	NCMS000	C0391850	función	164-169	87_QUEST_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	-	-	170-171	87_QUEST_clinical_caseMIR	SENT2	-	-
+5	52	52		-	-	172-174	87_QUEST_clinical_caseMIR	SENT2	-	-
+6	latidos	latido	NCMP000	-	-	175-182	87_QUEST_clinical_caseMIR	SENT2	-	-
+7	por	por	SPS00	C0678226	atributo	183-186	87_QUEST_clinical_caseMIR	SENT2	-	-
+8	minutos	minuto	NCMP000	C0439232	calificador	187-194	87_QUEST_clinical_caseMIR	SENT2	-	-
+9	,	,	Fc	-	-	194-195	87_QUEST_clinical_caseMIR	SENT2	-	-
+10	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	196-200	87_QUEST_clinical_caseMIR	SENT2	-	-
+11	abotargada	abotargar	VMP00SF	-	-	201-211	87_QUEST_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	212-213	87_QUEST_clinical_caseMIR	SENT2	-	-
+13	piel	piel	NCFS000	C0263465#C0151908_1	trastorno#hallazgo_1	214-218	87_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	seca	seco	AQ0FS0	C0263465#C0151908_2	trastorno#hallazgo_2	219-223	87_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	224-225	87_QUEST_clinical_caseMIR	SENT2	-	-
+16	pálida	pálido	AQ0FS0	C1971630#C0017651	calificador#estructura_corporal	226-232	87_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	.	.	Fp	-	-	232-233	87_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Analítica	analítica	NCFS000	-	-	234-243	87_QUEST_clinical_caseMIR	SENT3	-	-
+2	:	:	Fd	-	-	243-244	87_QUEST_clinical_caseMIR	SENT3	-	-
+3	Ligera	ligero	AQ0FS0	-	-	245-251	87_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+4	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	252-258	87_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	,	,	Fc	-	-	258-259	87_QUEST_clinical_caseMIR	SENT3	-	-
+6	colesterol	colesterol	NCMS000	C0008377	sustancia	260-270	87_QUEST_clinical_caseMIR	SENT3	-	-
+7	385	385	Z	-	-	271-274	87_QUEST_clinical_caseMIR	SENT3	-	-
+8	mg	mg	NCMN000	-	-	275-277	87_QUEST_clinical_caseMIR	SENT3	-	-
+9	/	/	Fh	-	-	277-278	87_QUEST_clinical_caseMIR	SENT3	-	-
+10	dL	decilitro	NCMN000	C0439241	calificador	278-280	87_QUEST_clinical_caseMIR	SENT3	-	-
+11	(	(	Fpa	-	-	281-282	87_QUEST_clinical_caseMIR	SENT3	-	-
+12	normal	normal	AQ0CS0	C0205307	calificador	282-288	87_QUEST_clinical_caseMIR	SENT3	-	-
+13	<	<	Fz	-	-	289-290	87_QUEST_clinical_caseMIR	SENT3	-	-
+14	220	220		-	-	290-293	87_QUEST_clinical_caseMIR	SENT3	-	-
+15	)	)	Fpt	-	-	293-294	87_QUEST_clinical_caseMIR	SENT3	-	-
+16	,	,	Fc	-	-	294-295	87_QUEST_clinical_caseMIR	SENT3	-	-
+17	creatinina	creatinina	NC00SC0	C0010294	sustancia	296-306	87_QUEST_clinical_caseMIR	SENT3	-	-
+18	1,3	1.3	Z	-	-	307-310	87_QUEST_clinical_caseMIR	SENT3	-	-
+19	mg	mg	NCMN000	-	-	311-313	87_QUEST_clinical_caseMIR	SENT3	-	-
+20	/	/	Fh	-	-	313-314	87_QUEST_clinical_caseMIR	SENT3	-	-
+21	dL	decilitro	NCMN000	C0439241	calificador	314-316	87_QUEST_clinical_caseMIR	SENT3	-	-
+22	(	(	Fpa	-	-	317-318	87_QUEST_clinical_caseMIR	SENT3	-	-
+23	normal	normal	AQ0CS0	C0205307	calificador	318-324	87_QUEST_clinical_caseMIR	SENT3	-	-
+24	:	:	Fd	-	-	324-325	87_QUEST_clinical_caseMIR	SENT3	-	-
+25	0,5-1,1	0,5-1,1		-	-	326-333	87_QUEST_clinical_caseMIR	SENT3	-	-
+26	)	)	Fpt	-	-	333-334	87_QUEST_clinical_caseMIR	SENT3	-	-
+27	,	,	Fc	-	-	334-335	87_QUEST_clinical_caseMIR	SENT3	-	-
+28	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	336-347	87_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+29	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	348-356	87_QUEST_clinical_caseMIR	SENT3	-	-
+30	,	,	Fc	-	-	356-357	87_QUEST_clinical_caseMIR	SENT3	-	-
+31	TSH	thyroid-stimulating_hormone_(hormona__tiroestimulante)	NC00YL0	-	-	358-361	87_QUEST_clinical_caseMIR	SENT3	-	-
+32	187μUI/mL	187μUI/mL		-	-	362-371	87_QUEST_clinical_caseMIR	SENT3	-	-
+33	(	(	Fpa	-	-	372-373	87_QUEST_clinical_caseMIR	SENT3	-	-
+34	normal	normal	NCFS000	C0205307	calificador	373-379	87_QUEST_clinical_caseMIR	SENT3	-	-
+35	0,35-5,5	0,35-5,5		-	-	380-388	87_QUEST_clinical_caseMIR	SENT3	-	-
+36	)	)	Fpt	-	-	388-389	87_QUEST_clinical_caseMIR	SENT3	-	-
+37	y	y	CC	C1706368	calificador	390-391	87_QUEST_clinical_caseMIR	SENT3	-	-
+38	T4	T4		-	-	392-394	87_QUEST_clinical_caseMIR	SENT3	-	-
+39	Libre	libre	AQ0CS0	-	-	395-400	87_QUEST_clinical_caseMIR	SENT3	-	-
+40	0,2	0,2		-	-	401-404	87_QUEST_clinical_caseMIR	SENT3	-	-
+41	ng	nasogástrico	NC00YL0	-	-	405-407	87_QUEST_clinical_caseMIR	SENT3	-	-
+42	/	/	Fh	-	-	407-408	87_QUEST_clinical_caseMIR	SENT3	-	-
+43	dL	decilitro	NCMN000	C0439241	calificador	408-410	87_QUEST_clinical_caseMIR	SENT3	-	-
+44	(	(	Fpa	-	-	411-412	87_QUEST_clinical_caseMIR	SENT3	-	-
+45	normal	normal	AQ0CS0	C0205307	calificador	412-418	87_QUEST_clinical_caseMIR	SENT3	-	-
+46	0,85-1,86	0,85-1,86		-	-	419-428	87_QUEST_clinical_caseMIR	SENT3	-	-
+47	)	)	Fpt	-	-	428-429	87_QUEST_clinical_caseMIR	SENT3	-	-
+48	.	.	Fp	-	-	429-430	87_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	431-432	87_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	432-435	87_QUEST_clinical_caseMIR	SENT4	-	-
+3	estrategia	estrategia	NCFS000	-	-	436-446	87_QUEST_clinical_caseMIR	SENT4	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	447-449	87_QUEST_clinical_caseMIR	SENT4	-	-
+5	parece	parecer	VMIP3S0	-	-	450-456	87_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	457-460	87_QUEST_clinical_caseMIR	SENT4	-	-
+7	adecuada	adecuar	VMP00SF	-	-	461-469	87_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	469-470	87_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	470-471	87_QUEST_clinical_caseMIR	SENT4	-	-
+

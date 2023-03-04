@@ -1,0 +1,36 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	indefinido	indefinido	AQ0MS0	C0205408	calificador	12-22	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	23-26	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	dosis	dosis	NCFN000	-	-	27-32	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	altas	alto	AQ0FP0	C0205250	calificador	33-38	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	39-41	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	inhibidores	inhibidor	NCMP000	-	-	42-53	0(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	de	de	SPS00	C0332285	atributo	54-56	0(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	la	lo	PP3FSA00	-	-	57-59	0(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+10	bomba	bombo	AQ0FS0	-	-	60-65	0(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+11	de	de	SPS00	C0332285	atributo	66-68	0(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+12	protones	protón	NCMP000	C0033727	sustancia	69-77	0(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+13	ya	ya	RG	-	-	78-80	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	81-84	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	se	se	P00CN000	-	-	85-87	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	ha	haber	VAIP3S0	-	-	88-90	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	demostrado	demostrar	VMP00SM	-	-	91-101	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	que	que	CS	-	-	102-105	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	así	así	RG	-	-	106-109	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	se	se	P00CN000	-	-	110-112	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	evita	evitar	VMIP3S0	-	-	113-118	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	la	el	DA0FS0	-	-	119-121	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	progresión	progresión	NCFS000	C0449258	atributo	122-132	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	del	del	SP+DA	-	-	133-136	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+25	esófago	esófago	NCMS000	C1278919#C0014876	estructura_corporal	137-144	0(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	de	de	SPS00	C0332285	atributo	145-147	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+27	Barrett	Barrett		-	-	148-155	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+28	a	a	SPS00	-	-	156-157	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+29	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	158-172	0(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	haciendo	hacer	VMG0000	-	-	173-181	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+31	innecesaria	innecesario	AQ0FS0	-	-	182-193	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+32	la	el	DA0FS0	-	-	194-196	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+33	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	197-207	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+34	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	208-219	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	220-221	0(1)_ANS_clinical_caseMIR	SENT1	-	-
+

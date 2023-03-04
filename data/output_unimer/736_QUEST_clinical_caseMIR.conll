@@ -1,0 +1,44 @@
+1	Acude	acudir	VMIP3S0	-	-	0-5	736_QUEST_clinical_caseMIR	SENT1	-	-
+2	a	a	SPS00	-	-	6-7	736_QUEST_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	8-10	736_QUEST_clinical_caseMIR	SENT1	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	11-19	736_QUEST_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	20-23	736_QUEST_clinical_caseMIR	SENT1	-	-
+6	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	24-29	736_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	30-32	736_QUEST_clinical_caseMIR	SENT1	-	-
+8	15	15		-	-	33-35	736_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	36-40	736_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	41-44	736_QUEST_clinical_caseMIR	SENT1	-	-
+11	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	45-50	736_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	51-58	736_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	59-61	736_QUEST_clinical_caseMIR	SENT1	-	-
+14	el	el	DA0MS0	-	-	62-64	736_QUEST_clinical_caseMIR	SENT1	-	-
+15	inicio	inicio	NCMS000	C0332162_1	calificador_1	65-71	736_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332162_2	calificador_2	72-74	736_QUEST_clinical_caseMIR	SENT1	-	-
+17	las	el	DA0FP0	-	-	75-78	736_QUEST_clinical_caseMIR	SENT1	-	-
+18	menstruaciones	menstruación	NCFP000	C0025344#C0227854	entidad_observable#sustancia	79-93	736_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	93-94	736_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	95-97	736_QUEST_clinical_caseMIR	SENT2	-	-
+2	dolor	dolor	NCMS000	C0030193	hallazgo	98-103	736_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	se	se	P00CN000	-	-	104-106	736_QUEST_clinical_caseMIR	SENT2	-	-
+4	localiza	localizar	VMIP3S0	-	-	107-115	736_QUEST_clinical_caseMIR	SENT2	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	116-118	736_QUEST_clinical_caseMIR	SENT2	-	-
+6	hipogastrio	hipogastrio	NCMS000	C1279158#C0230189	estructura_corporal	119-130	736_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+7	y	y	CC	C1706368	calificador	131-132	736_QUEST_clinical_caseMIR	SENT2	-	-
+8	se	se	P00CN000	-	-	133-135	736_QUEST_clinical_caseMIR	SENT2	-	-
+9	irradia	irradiar	VMIP3S0	-	-	136-143	736_QUEST_clinical_caseMIR	SENT2	-	-
+10	a	a	SPS00	-	-	144-145	736_QUEST_clinical_caseMIR	SENT2	-	-
+11	la	el	DA0FS0	-	-	146-148	736_QUEST_clinical_caseMIR	SENT2	-	-
+12	zona	zona	NCFS000	C0019360	trastorno	149-153	736_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	lumbar	lumbar	AQ0CS0	C0024090	calificador	154-160	736_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+14	.	.	Fp	-	-	160-161	736_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Asocia	asociar	VMIP3S0	-	-	162-168	736_QUEST_clinical_caseMIR	SENT3	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	169-171	736_QUEST_clinical_caseMIR	SENT3	-	-
+3	numerosas	numeroso	AQ0FP0	C0439064	calificador	172-181	736_QUEST_clinical_caseMIR	SENT3	-	-
+4	ocasiones	ocasión	NCFP000	-	-	182-191	736_QUEST_clinical_caseMIR	SENT3	-	-
+5	náuseas	náusea	NCFP000	-	-	192-199	736_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	y	y	CC	C1706368	calificador	200-201	736_QUEST_clinical_caseMIR	SENT3	-	-
+7	diarrea	diarrea	NCFS000	C0011991	hallazgo	202-209	736_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	.	.	Fp	-	-	209-210	736_QUEST_clinical_caseMIR	SENT3	-	-
+

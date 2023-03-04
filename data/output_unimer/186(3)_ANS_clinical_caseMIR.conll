@@ -1,0 +1,24 @@
+1	Descartar	descartar	VMN0000	C0332196	calificador	0-9	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	dislipemia	dislipemia	NCFS000	-	-	10-20	186(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+3	secundaria	secundario	AQ0FS0	C0175668	calificador	21-31	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	31-32	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	tratar	tratar	VMN0000	-	-	33-39	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	40-43	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	resinas	resina	NCFP000	-	-	44-51	186(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	(	(	Fpa	-	-	52-53	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	resincolestiramina	resincolestiramina	NC00BB0	-	-	53-71	186(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	)	)	Fpt	-	-	71-72	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	y	y	CC	C1706368	calificador	73-74	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	fibratos	fibratos	NC00AO0	-	-	75-83	186(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	y	y	CC	C1706368	calificador	84-85	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	recomendar	recomendar	VMN0000	-	-	86-96	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	hábito	hábito	NCMS000	C0018464	hallazgo	97-103	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	104-106	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	vida	vida	NCFS000	-	-	107-111	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	saludable	saludable	AQ0CS0	-	-	112-121	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	121-122	186(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Prohibir	prohibir	VMN0000	-	-	123-131	186(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	alcohol	alcohol	NCMS000	C0001975	sustancia	132-139	186(3)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+3	.	.	Fp	-	-	140-141	186(3)_ANS_clinical_caseMIR	SENT2	-	-
+

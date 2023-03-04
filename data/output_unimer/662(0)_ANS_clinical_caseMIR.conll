@@ -1,0 +1,23 @@
+1	Se	se	P00CN000	-	-	0-2	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	instaurar	instaurar	VMN0000	-	-	8-17	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	18-29	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	30-33	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	análogos	análogo	AQ0MP0	-	-	34-42	662(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	de	de	SPS00	C0332285	atributo	43-45	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	prostaglandinas	prostaglandina	NCFP000	C0033554	producto#sustancia	46-61	662(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	62-64	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	colirio	colirio	NCMS000	-	-	65-72	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	,	,	Fc	-	-	72-73	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	porque	porque	CS	-	-	74-80	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	presenta	presentar	VMIP3S0	-	-	81-89	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	90-92	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	glaucoma	glaucoma	NCMS000	C0017601	trastorno	93-101	662(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	normotensional	normotensional	AQ0CS00	-	-	102-116	662(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+17	con	con	SPS00	C0332287	atributo	117-120	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	afectación	afectación	NCFS000	-	-	121-131	662(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	del	del	SP+DA	-	-	132-135	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	campo	campo	NCMS000	C0042826_1	entidad_observable_1	136-141	662(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	visual	visual	NC00SC0	C0042826_2	entidad_observable_2	142-148	662(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+22	.	.	Fp	-	-	149-150	662(0)_ANS_clinical_caseMIR	SENT1	-	-
+

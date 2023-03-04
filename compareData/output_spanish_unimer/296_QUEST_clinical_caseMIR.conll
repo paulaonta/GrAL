@@ -1,0 +1,35 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	296_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	3-5	296_QUEST_clinical_caseMIR	SENT1	-	-
+3	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	6-12	296_QUEST_clinical_caseMIR	SENT1	-	-
+4	diabético	diabético	AQ0MS0	-	-	13-22	296_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	23-25	296_QUEST_clinical_caseMIR	SENT1	-	-
+6	70	70		-	-	26-28	296_QUEST_clinical_caseMIR	SENT1	-	-
+7	años	año	NCMP000	C0439234	calificador	29-33	296_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	34-37	296_QUEST_clinical_caseMIR	SENT1	-	-
+9	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	38-50	296_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332119_2	situación_2	51-53	296_QUEST_clinical_caseMIR	SENT1	-	-
+11	cardiopatía	cardiopatía	NCFS000	C0002962#C0151744_1	trastorno_1	54-65	296_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	isquémica	isquémico	AQ0FS0	C0002962#C0151744_2	trastorno_2	66-75	296_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	,	,	Fc	-	-	75-76	296_QUEST_clinical_caseMIR	SENT1	-	-
+14	¿	¿	Fia	-	-	77-78	296_QUEST_clinical_caseMIR	SENT1	-	-
+15	cuál	cuál	PT0CS000	-	-	78-82	296_QUEST_clinical_caseMIR	SENT1	-	-
+16	es	ser	VSIP3S0	-	-	83-85	296_QUEST_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	86-88	296_QUEST_clinical_caseMIR	SENT1	-	-
+18	diana	diana	NCFS000	-	-	89-94	296_QUEST_clinical_caseMIR	SENT1	-	-
+19	terapéutica	terapéutico	AQ0FS0	-	-	95-106	296_QUEST_clinical_caseMIR	SENT1	-	-
+20	respecto	respecto	NCMS000	-	-	107-115	296_QUEST_clinical_caseMIR	SENT1	-	-
+21	a	a	SPS00	-	-	116-117	296_QUEST_clinical_caseMIR	SENT1	-	-
+22	cifras	cifra	NCFP000	-	-	118-124	296_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	125-127	296_QUEST_clinical_caseMIR	SENT1	-	-
+24	colesterol	colesterol	NCMS000	C0023824_1	sustancia_1	128-138	296_QUEST_clinical_caseMIR	SENT1	-	-
+25	LDL	low-density_lipoprotein_(lipoproteína_de_baja_densidad)	NC00YL0	C0023824_2	sustancia_2	139-142	296_QUEST_clinical_caseMIR	SENT1	-	-
+26	y	y	CC	C1706368	calificador	143-144	296_QUEST_clinical_caseMIR	SENT1	-	-
+27	Hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	145-156	296_QUEST_clinical_caseMIR	SENT1	-	-
+28	glicosilada	glicosilada	VMP00SF	-	-	157-168	296_QUEST_clinical_caseMIR	SENT1	-	-
+29	(	(	Fpa	-	-	169-170	296_QUEST_clinical_caseMIR	SENT1	-	-
+30	Hb	hb	NC00YL0	-	-	170-172	296_QUEST_clinical_caseMIR	SENT1	-	-
+31	A1c	A1c		-	-	173-176	296_QUEST_clinical_caseMIR	SENT1	-	-
+32	)	)	Fpt	-	-	176-177	296_QUEST_clinical_caseMIR	SENT1	-	-
+33	?	?	Fit	-	-	177-178	296_QUEST_clinical_caseMIR	SENT1	-	-
+34	.	.	Fp	-	-	178-179	296_QUEST_clinical_caseMIR	SENT1	-	-
+

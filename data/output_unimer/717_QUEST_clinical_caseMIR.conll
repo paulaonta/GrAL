@@ -1,0 +1,59 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	717_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	717_QUEST_clinical_caseMIR	SENT1	-	-
+3	87	87		-	-	10-12	717_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	717_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	17-18	717_QUEST_clinical_caseMIR	SENT1	-	-
+6	diagnosticado	diagnosticar	VMP00SM	-	-	19-32	717_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	33-35	717_QUEST_clinical_caseMIR	SENT1	-	-
+8	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	36-44	717_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	45-53	717_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	tipo	tipo	NCMS000	C0011860_3	trastorno_3	54-58	717_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	2	2	Z	C0011860_4	trastorno_4	59-60	717_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+12	,	,	Fc	-	-	60-61	717_QUEST_clinical_caseMIR	SENT1	-	-
+13	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	62-75	717_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	renal	renal	AQ0CS0	C0403447_2	trastorno_2	76-81	717_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	82-89	717_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	,	,	Fc	-	-	89-90	717_QUEST_clinical_caseMIR	SENT1	-	-
+17	EPOC	enfermedad_pulmonar_obstructiva_crónica	NC00YL0	-	-	91-95	717_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	e	y	CC	C1706368	calificador	96-97	717_QUEST_clinical_caseMIR	SENT1	-	-
+19	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	98-111	717_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	cardiaca	cardiaco	AQ0FS0	-	-	112-120	717_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	,	,	Fc	-	-	120-121	717_QUEST_clinical_caseMIR	SENT1	-	-
+22	con	con	SPS00	C0332287	atributo	122-125	717_QUEST_clinical_caseMIR	SENT1	-	-
+23	una	una		C0205447_1	calificador_1	126-129	717_QUEST_clinical_caseMIR	SENT1	-	-
+24	puntuación	puntuación	NCFS000	C0449820	atributo	130-140	717_QUEST_clinical_caseMIR	SENT1	-	-
+25	en	en	SPS00	C1720294#C0332285	calificador#atributo	141-143	717_QUEST_clinical_caseMIR	SENT1	-	-
+26	el	el	DA0MS0	-	-	144-146	717_QUEST_clinical_caseMIR	SENT1	-	-
+27	índice	índice	NCMS000	C0451019_1	escala_de_evaluación_1	147-153	717_QUEST_clinical_caseMIR	SENT1	-	-
+28	de	de	SPS00	C0451019_2	escala_de_evaluación_2	154-156	717_QUEST_clinical_caseMIR	SENT1	-	-
+29	Barthel	Barthel		C0451019_3	escala_de_evaluación_3	157-164	717_QUEST_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	165-167	717_QUEST_clinical_caseMIR	SENT1	-	-
+31	actividades	actividad	NCFP000	C0441655	entidad_observable	168-179	717_QUEST_clinical_caseMIR	SENT1	-	-
+32	básicas	básico	AQ0FP0	-	-	180-187	717_QUEST_clinical_caseMIR	SENT1	-	-
+33	de	de	SPS00	C0332285	atributo	188-190	717_QUEST_clinical_caseMIR	SENT1	-	-
+34	la	el	DA0FS0	-	-	191-193	717_QUEST_clinical_caseMIR	SENT1	-	-
+35	vida	vida	NCFS000	-	-	194-198	717_QUEST_clinical_caseMIR	SENT1	-	-
+36	diaria	diario	AQ0FS0	C0332173	calificador	199-205	717_QUEST_clinical_caseMIR	SENT1	-	-
+37	de	de	SPS00	C0332285	atributo	206-208	717_QUEST_clinical_caseMIR	SENT1	-	-
+38	30	30		-	-	209-211	717_QUEST_clinical_caseMIR	SENT1	-	-
+39	puntos	punto	NCMP000	-	-	212-218	717_QUEST_clinical_caseMIR	SENT1	-	-
+40	.	.	Fp	-	-	218-219	717_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	220-221	717_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	221-225	717_QUEST_clinical_caseMIR	SENT2	-	-
+3	sería	ser	VSIC1S0	-	-	226-231	717_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	232-234	717_QUEST_clinical_caseMIR	SENT2	-	-
+5	objetivo	objetivo	NCMS000	C1571702	calificador	235-243	717_QUEST_clinical_caseMIR	SENT2	-	-
+6	terapéutico	terapéutico	AQ0MS0	-	-	244-255	717_QUEST_clinical_caseMIR	SENT2	-	-
+7	apropiado	apropiar	VMP00SM	-	-	256-265	717_QUEST_clinical_caseMIR	SENT2	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	266-268	717_QUEST_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	269-271	717_QUEST_clinical_caseMIR	SENT2	-	-
+10	control	control	NCMS000	C2587213	atributo	272-279	717_QUEST_clinical_caseMIR	SENT2	-	-
+11	glucémico	glucémico	AQ0MS0	-	-	280-289	717_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	290-292	717_QUEST_clinical_caseMIR	SENT2	-	-
+13	este	este	DD0MS0	-	-	293-297	717_QUEST_clinical_caseMIR	SENT2	-	-
+14	paciente	paciente	NCCS000	C0030705	persona	298-306	717_QUEST_clinical_caseMIR	SENT2	-	-
+15	?	?	Fit	-	-	306-307	717_QUEST_clinical_caseMIR	SENT2	-	-
+16	:	:	Fd	-	-	307-308	717_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	308-309	717_QUEST_clinical_caseMIR	SENT2	-	-
+

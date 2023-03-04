@@ -1,0 +1,27 @@
+1	La	el	DA0FS0	-	-	0-2	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	primera	1	AO0FS0	-	-	3-10	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	sospecha	sospecha	NCFS000	C0750491	calificador	11-19	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	es	ser	VSIP3S0	-	-	20-22	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	23-26	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	púrpura	púrpura	NCMS000	C0398650_1	trastorno_1	27-34	392(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	trombocitopénica	trombocitopénica		C0398650_2	trastorno_2	35-51	392(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	autoinmune	autoinmune	AQ0CS0	C0398650_3	trastorno_3	52-62	392(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	con	con	SPS00	C0332287	atributo	63-66	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	sangrado	sangrado	NCMS000	C0019080	hallazgo#anomalía_morfológica	67-75	392(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	cerebral	cerebral	AQ0CS0	-	-	76-84	392(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	y	y	CC	C1706368	calificador	85-86	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	anemización	anemización	NCFS000	-	-	87-98	392(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	secundaria	secundario	AQ0FS0	C0175668	calificador	99-109	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	109-110	392(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	111-113	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	deben	deber	VMIP3P0	-	-	114-119	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+3	determinar	determinar	VMN0000	-	-	120-130	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+4	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	131-142	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+5	antiplaquetarios	antiplaquetario	AQ0MP0	-	-	143-159	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+6	para	para	SPS00	C0521125	calificador	160-164	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+7	orientar	orientar	VMN0000	-	-	165-173	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+8	el	el	DA0MS0	-	-	174-176	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	177-188	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	189-190	392(3)_ANS_clinical_caseMIR	SENT2	-	-
+

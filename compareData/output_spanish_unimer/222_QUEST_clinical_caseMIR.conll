@@ -1,0 +1,59 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	222_QUEST_clinical_caseMIR	SENT1	-	-
+2	chica	chico	NCFS000	C0008059#C0700321	persona#calificador	4-9	222_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	222_QUEST_clinical_caseMIR	SENT1	-	-
+4	20	20		-	-	13-15	222_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	222_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	222_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	222_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	29-31	222_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	222_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	41-44	222_QUEST_clinical_caseMIR	SENT1	-	-
+11	un	un		C0205447_1	calificador_1	45-47	222_QUEST_clinical_caseMIR	SENT1	-	-
+12	cuadro	cuadro	NCMS000	-	-	48-54	222_QUEST_clinical_caseMIR	SENT1	-	-
+13	agudo	agudo	AQ0MS0	C0205178	calificador	55-60	222_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	61-63	222_QUEST_clinical_caseMIR	SENT1	-	-
+15	fiebre	fiebre	NCFS000	C0015967	hallazgo	64-70	222_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	,	,	Fc	-	-	70-71	222_QUEST_clinical_caseMIR	SENT1	-	-
+17	adenopatías	adenopatía	NCFP000	-	-	72-83	222_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	84-94	222_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	y	y	CC	C1706368	calificador	95-96	222_QUEST_clinical_caseMIR	SENT1	-	-
+20	rash	rash	NC00SC0	C0015230_1	trastorno_1	97-101	222_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	cutáneo	cutáneo	AQ0MS0	C0015230_2	trastorno_2	102-109	222_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	.	.	Fp	-	-	109-110	222_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Según	según	CS	-	-	111-116	222_QUEST_clinical_caseMIR	SENT2	-	-
+2	refiere	referir	VMIP3S0	-	-	117-124	222_QUEST_clinical_caseMIR	SENT2	-	-
+3	la	el	DA0FS0	-	-	125-127	222_QUEST_clinical_caseMIR	SENT2	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	128-136	222_QUEST_clinical_caseMIR	SENT2	-	-
+5	,	,	Fc	-	-	136-137	222_QUEST_clinical_caseMIR	SENT2	-	-
+6	hace	hacer	VMIP3S0	-	-	138-142	222_QUEST_clinical_caseMIR	SENT2	-	-
+7	3	3		-	-	143-144	222_QUEST_clinical_caseMIR	SENT2	-	-
+8	semanas	semana	NCFP000	C0439230	calificador	145-152	222_QUEST_clinical_caseMIR	SENT2	-	-
+9	tuvo	tener	VMIS3S0	-	-	153-157	222_QUEST_clinical_caseMIR	SENT2	-	-
+10	una	una		C0205447_1	calificador_1	158-161	222_QUEST_clinical_caseMIR	SENT2	-	-
+11	relación	relación	NCFS000	C1314687#C0009990#C0009253_1	hallazgo#entidad_observable_1	162-170	222_QUEST_clinical_caseMIR	SENT2	-	-
+12	sexual	sexual	AQ0CS0	C1314687#C0009990#C0009253_2	hallazgo#entidad_observable_2	171-177	222_QUEST_clinical_caseMIR	SENT2	-	-
+13	que	que	PR0CN000	-	-	178-181	222_QUEST_clinical_caseMIR	SENT2	-	-
+14	pudo	poder	VMIS3S0	-	-	182-186	222_QUEST_clinical_caseMIR	SENT2	-	-
+15	ser	ser	VSN0000	-	-	187-190	222_QUEST_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332285	atributo	191-193	222_QUEST_clinical_caseMIR	SENT2	-	-
+17	riesgo	riesgo	NCMS000	-	-	194-200	222_QUEST_clinical_caseMIR	SENT2	-	-
+18	para	para	SPS00	C0521125	calificador	201-205	222_QUEST_clinical_caseMIR	SENT2	-	-
+19	contraer	contraer	VMN0000	-	-	206-214	222_QUEST_clinical_caseMIR	SENT2	-	-
+20	el	el	DA0MS0	-	-	215-217	222_QUEST_clinical_caseMIR	SENT2	-	-
+21	virus	virus	NCMN000	C0042776	organismo	218-223	222_QUEST_clinical_caseMIR	SENT2	-	-
+22	del	del	SP+DA	-	-	224-227	222_QUEST_clinical_caseMIR	SENT2	-	-
+23	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	228-231	222_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+24	.	.	Fp	-	-	231-232	222_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Indica	indicar	VMIP3S0	-	-	233-239	222_QUEST_clinical_caseMIR	SENT3	-	-
+2	cuál	cuál	PT0CS000	-	-	240-244	222_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	245-247	222_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	248-251	222_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	252-262	222_QUEST_clinical_caseMIR	SENT3	-	-
+6	respuestas	respuesta	NCFP000	-	-	263-273	222_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	274-276	222_QUEST_clinical_caseMIR	SENT3	-	-
+8	verdadera	verdadero	AQ0FS0	C0205238	calificador	277-286	222_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	286-287	222_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	287-288	222_QUEST_clinical_caseMIR	SENT3	-	-
+

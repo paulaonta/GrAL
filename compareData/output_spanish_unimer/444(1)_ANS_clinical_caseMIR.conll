@@ -1,0 +1,13 @@
+1	El	el	DA0MS0	-	-	0-2	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	sarcoidosis	sarcoidosis	NCFN000	C0036202_1	trastorno_1	18-29	444(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	con	con	SPS00	C0332287	atributo	30-33	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	parálisis	parálisis	NCFN000	C0376175#C0015469_1	trastorno_1	34-43	444(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	facial	facial	AQ0CS0	C0376175#C0015469_2	trastorno_2	44-50	444(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	«	«	Fra	-	-	51-52	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	báscula	báscula	NCFS000	-	-	55-62	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	»	»	Frc	-	-	62-63	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	64-65	444(1)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,22 @@
+1	Es	ser	VSIP3S0	-	-	0-2	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	esperable	esperable	AQ0CS0	-	-	3-12	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	encontrar	encontrar	VMN0000	-	-	13-22	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	valores	valor	NCMP000	C0475208	calificador	23-30	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	31-33	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	NT-proBNP	nt-probnp	NCMS000	-	-	34-43	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	44-54	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	-	-	55-56	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	450	450		-	-	57-60	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	pg	picogramo	NC00YL0	C0439213	calificador	61-63	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	/	/	Fh	-	-	63-64	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	ml	mililitro	NCMN000	C0439242	calificador	64-66	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	dado	dar	VMP00SM	C1947971	calificador	67-71	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	que	que	PR0CN000	-	-	72-75	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	la	el	DA0FS0	-	-	76-78	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	paciente	paciente	NCCS000	C0030705	persona	79-87	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	tiene	tener	VMIP3S0	-	-	88-93	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	obesidad	obesidad	NCFS000	C0028754#C0451819#C1563743	trastorno	94-102	569(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	grado	grado	NCMS000	C0687695#C0205615_1	calificador_1	103-108	569(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+20	I	i	NCFS000	C0687695#C0205615_2	calificador_2	109-110	569(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+21	.	.	Fp	-	-	111-112	569(1)_ANS_clinical_caseMIR	SENT1	-	-
+

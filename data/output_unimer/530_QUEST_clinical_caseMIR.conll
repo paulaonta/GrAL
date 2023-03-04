@@ -1,0 +1,109 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	530_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	530_QUEST_clinical_caseMIR	SENT1	-	-
+3	80	80		-	-	10-12	530_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	530_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	530_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	530_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	26-29	530_QUEST_clinical_caseMIR	SENT1	-	-
+8	artritis	artritis	NCFN000	C0003873_1	trastorno_1	30-38	530_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	reumatoide	reumatoide	AQ0CS0	C0003873_2	trastorno_2	39-49	530_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	desde	desde	SPS00	-	-	50-55	530_QUEST_clinical_caseMIR	SENT1	-	-
+11	hace	hacer	VMIP3S0	-	-	56-60	530_QUEST_clinical_caseMIR	SENT1	-	-
+12	10	10		-	-	61-63	530_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	64-68	530_QUEST_clinical_caseMIR	SENT1	-	-
+14	e	y	CC	C1706368	calificador	69-70	530_QUEST_clinical_caseMIR	SENT1	-	-
+15	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	71-83	530_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	84-92	530_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	92-93	530_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Recibe	recibir	VMIP3S0	-	-	94-100	530_QUEST_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	101-112	530_QUEST_clinical_caseMIR	SENT2	-	-
+3	con	con	SPS00	C0332287	atributo	113-116	530_QUEST_clinical_caseMIR	SENT2	-	-
+4	paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	117-128	530_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+5	,	,	Fc	-	-	128-129	530_QUEST_clinical_caseMIR	SENT2	-	-
+6	tramadol	tramadol	NC00SC0	C0040610	producto#sustancia	130-138	530_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	e	y	CC	C1706368	calificador	139-140	530_QUEST_clinical_caseMIR	SENT2	-	-
+8	indapamida	indapamida	NC00SC0	C0021186	producto#sustancia	141-151	530_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+9	desde	desde	SPS00	-	-	152-157	530_QUEST_clinical_caseMIR	SENT2	-	-
+10	hace	hacer	VMIP3S0	-	-	158-162	530_QUEST_clinical_caseMIR	SENT2	-	-
+11	años	año	NCMP000	C0439234	calificador	163-167	530_QUEST_clinical_caseMIR	SENT2	-	-
+12	y	y	CC	C1706368	calificador	168-169	530_QUEST_clinical_caseMIR	SENT2	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	530_QUEST_clinical_caseMIR	SENT2	-	-
+14	los	el	DA0MP0	-	-	173-176	530_QUEST_clinical_caseMIR	SENT2	-	-
+15	últimos	último	AO0MP0	-	-	177-184	530_QUEST_clinical_caseMIR	SENT2	-	-
+16	3	3		-	-	185-186	530_QUEST_clinical_caseMIR	SENT2	-	-
+17	meses	mes	NCMP000	C0439231	calificador	187-192	530_QUEST_clinical_caseMIR	SENT2	-	-
+18	también	también	RG	-	-	193-200	530_QUEST_clinical_caseMIR	SENT2	-	-
+19	con	con	SPS00	C0332287	atributo	201-204	530_QUEST_clinical_caseMIR	SENT2	-	-
+20	prednisona	prednisona	NCFS000	C0032952	sustancia	205-215	530_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+21	7,5	7.5	Z	-	-	216-219	530_QUEST_clinical_caseMIR	SENT2	-	-
+22	mg	mg	NCMN000	-	-	220-222	530_QUEST_clinical_caseMIR	SENT2	-	-
+23	al	al	SP+DA	-	-	223-225	530_QUEST_clinical_caseMIR	SENT2	-	-
+24	día	día	NCMS000	C0439228#C0332169	calificador	226-229	530_QUEST_clinical_caseMIR	SENT2	-	-
+25	y	y	CC	C1706368	calificador	230-231	530_QUEST_clinical_caseMIR	SENT2	-	-
+26	etanercept	etanercept	NC00SC0	C0717758#C0018100	producto#sustancia	232-242	530_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+27	,	,	Fc	-	-	242-243	530_QUEST_clinical_caseMIR	SENT2	-	-
+28	con	con	SPS00	C0332287	atributo	244-247	530_QUEST_clinical_caseMIR	SENT2	-	-
+29	buen	bueno	AQ0MS0	C0205170	calificador	248-252	530_QUEST_clinical_caseMIR	SENT2	-	-
+30	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	253-262	530_QUEST_clinical_caseMIR	SENT2	-	-
+31	.	.	Fp	-	-	262-263	530_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Consulta	consultar	VMM02S0	-	-	264-272	530_QUEST_clinical_caseMIR	SENT3	-	-
+2	porque	porque	CS	-	-	273-279	530_QUEST_clinical_caseMIR	SENT3	-	-
+3	desde	desde	SPS00	-	-	280-285	530_QUEST_clinical_caseMIR	SENT3	-	-
+4	hace	hacer	VMIP3S0	-	-	286-290	530_QUEST_clinical_caseMIR	SENT3	-	-
+5	2	2		-	-	291-292	530_QUEST_clinical_caseMIR	SENT3	-	-
+6	semanas	semana	NCFP000	C0439230	calificador	293-300	530_QUEST_clinical_caseMIR	SENT3	-	-
+7	tiene	tener	VMIP3S0	-	-	301-306	530_QUEST_clinical_caseMIR	SENT3	-	-
+8	dolor	dolor	NCMS000	C0030193	hallazgo	307-312	530_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	invalidante	invalidante	AQ0CS0	-	-	313-324	530_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	de	de	SPS00	C0332285	atributo	325-327	530_QUEST_clinical_caseMIR	SENT3	-	-
+11	la	el	DA0FS0	-	-	328-330	530_QUEST_clinical_caseMIR	SENT3	-	-
+12	cadera	cadera	NCFS000	C1268234#C0524471_1	estructura_corporal_1	331-337	530_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	izquierda	izquierdo	AQ0FS0	C1268234#C0524471_2	estructura_corporal_2	338-347	530_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	sin	sin	SPS00	C0332288	atributo	348-351	530_QUEST_clinical_caseMIR	SENT3	-	-
+15	fiebre	fiebre	NCFS000	C0015967	hallazgo	352-358	530_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+16	.	.	Fp	-	-	358-359	530_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Los	el	DA0MP0	-	-	360-363	530_QUEST_clinical_caseMIR	SENT4	-	-
+2	análisis	análisis	NCMN000	C0002778	calificador	364-372	530_QUEST_clinical_caseMIR	SENT4	-	-
+3	muestran	mostrar	VMIP3P0	-	-	373-381	530_QUEST_clinical_caseMIR	SENT4	-	-
+4	14.000	14.000		-	-	382-388	530_QUEST_clinical_caseMIR	SENT4	-	-
+5	leucocitos	leucocito	NCMP000	C0023516	célula	389-399	530_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	/	/	Fh	-	-	399-400	530_QUEST_clinical_caseMIR	SENT4	-	-
+7	uL	ul	NC00SC0	C0439243	calificador	400-402	530_QUEST_clinical_caseMIR	SENT4	-	-
+8	,	,	Fc	-	-	402-403	530_QUEST_clinical_caseMIR	SENT4	-	-
+9	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	404-415	530_QUEST_clinical_caseMIR	SENT4	-	-
+10	10	10	Z	-	-	416-418	530_QUEST_clinical_caseMIR	SENT4	-	-
+11	g	g	NCMN000	-	-	419-420	530_QUEST_clinical_caseMIR	SENT4	-	-
+12	/	/	Fh	-	-	420-421	530_QUEST_clinical_caseMIR	SENT4	-	-
+13	dL	decilitro	NCMN000	C0439241	calificador	421-423	530_QUEST_clinical_caseMIR	SENT4	-	-
+14	,	,	Fc	-	-	423-424	530_QUEST_clinical_caseMIR	SENT4	-	-
+15	PCR	pcr	NC00YL0	-	-	425-428	530_QUEST_clinical_caseMIR	SENT4	-	-
+16	50	50	Z	-	-	429-431	530_QUEST_clinical_caseMIR	SENT4	-	-
+17	mg	mg	NCMN000	-	-	432-434	530_QUEST_clinical_caseMIR	SENT4	-	-
+18	/	/	Fh	-	-	434-435	530_QUEST_clinical_caseMIR	SENT4	-	-
+19	L	l	NCFS000	-	-	435-436	530_QUEST_clinical_caseMIR	SENT4	-	-
+20	,	,	Fc	-	-	436-437	530_QUEST_clinical_caseMIR	SENT4	-	-
+21	creatinina	creatinina	NC00SC0	C0010294	sustancia	438-448	530_QUEST_clinical_caseMIR	SENT4	-	-
+22	1,2	1.2	Z	-	-	449-452	530_QUEST_clinical_caseMIR	SENT4	-	-
+23	mg	mg	NCMN000	-	-	453-455	530_QUEST_clinical_caseMIR	SENT4	-	-
+24	/	/	Fh	-	-	455-456	530_QUEST_clinical_caseMIR	SENT4	-	-
+25	dL	decilitro	NCMN000	C0439241	calificador	456-458	530_QUEST_clinical_caseMIR	SENT4	-	-
+26	.	.	Fp	-	-	458-459	530_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	460-462	530_QUEST_clinical_caseMIR	SENT5	-	-
+2	radiografía	radiografía	NCFS000	C0554740_1	procedimiento_1	463-474	530_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0554740_2	procedimiento_2	475-477	530_QUEST_clinical_caseMIR	SENT5	-	-
+4	pelvis	pelvis	NCFN000	C0554740_3	procedimiento_3	478-484	530_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+5	es	ser	VSIP3S0	-	-	485-487	530_QUEST_clinical_caseMIR	SENT5	-	-
+6	normal	normal	AQ0CS0	C0205307	calificador	488-494	530_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	494-495	530_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Indique	indicar	VMM03S0	-	-	496-503	530_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	504-506	530_QUEST_clinical_caseMIR	SENT6	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	507-514	530_QUEST_clinical_caseMIR	SENT6	-	-
+4	CORRECTA	correcto	AQ0FS0	C0205170	calificador	515-523	530_QUEST_clinical_caseMIR	SENT6	-	-
+5	:	:	Fd	-	-	523-524	530_QUEST_clinical_caseMIR	SENT6	-	-
+6	.	.	Fp	-	-	524-525	530_QUEST_clinical_caseMIR	SENT6	-	-
+

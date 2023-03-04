@@ -1,0 +1,40 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	586_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	586_QUEST_clinical_caseMIR	SENT1	-	-
+3	35	35		-	-	10-12	586_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	586_QUEST_clinical_caseMIR	SENT1	-	-
+5	ingresado	ingresar	VMP00SM	-	-	18-27	586_QUEST_clinical_caseMIR	SENT1	-	-
+6	por	por	SPS00	C0678226	atributo	28-31	586_QUEST_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	32-34	586_QUEST_clinical_caseMIR	SENT1	-	-
+8	primer	1	AO0MS0	C0439615_1	calificador_1	35-41	586_QUEST_clinical_caseMIR	SENT1	-	-
+9	episodio	episodio	NCMS000	C0439615_2	calificador_2	42-50	586_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	51-53	586_QUEST_clinical_caseMIR	SENT1	-	-
+11	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	54-69	586_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	pulmonar	pulmonar	NC00SC0	C2709248	calificador	70-78	586_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	78-79	586_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	80-82	586_QUEST_clinical_caseMIR	SENT2	-	-
+2	ha	haber	VAIP3S0	-	-	83-85	586_QUEST_clinical_caseMIR	SENT2	-	-
+3	iniciado	iniciar	VMP00SM	-	-	86-94	586_QUEST_clinical_caseMIR	SENT2	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	95-106	586_QUEST_clinical_caseMIR	SENT2	-	-
+5	anticoagulante	anticoagulante	AQ0CS0	C0003280	producto#sustancia	107-121	586_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	con	con	SPS00	C0332287	atributo	122-125	586_QUEST_clinical_caseMIR	SENT2	-	-
+7	heparina	heparina	NCFS000	C0037513_1	sustancia_1	126-134	586_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	sódica	sódico	AQ0FS0	C0037513_2	sustancia_2	135-141	586_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+9	pero	pero	CC	-	-	142-146	586_QUEST_clinical_caseMIR	SENT2	-	-
+10	el	el	DA0MS0	-	-	147-149	586_QUEST_clinical_caseMIR	SENT2	-	-
+11	paciente	paciente	AQ0CS0	C0030705	persona	150-158	586_QUEST_clinical_caseMIR	SENT2	-	-
+12	no	no	RN	C0560523_1	hallazgo_1	159-161	586_QUEST_clinical_caseMIR	SENT2	-	-
+13	alcanza	alcanzar	VMM02S0	C0560523_2	hallazgo_2	162-169	586_QUEST_clinical_caseMIR	SENT2	-	-
+14	rangos	rango	NCMP000	-	-	170-176	586_QUEST_clinical_caseMIR	SENT2	-	-
+15	de	de	SPS00	C0332285	atributo	177-179	586_QUEST_clinical_caseMIR	SENT2	-	-
+16	TTPa	tiempo_de_tromboplastina_parcial_activado	NC00YL0	-	-	180-184	586_QUEST_clinical_caseMIR	SENT2	-	-
+17	terapéuticos	terapéutico	AQ0MP0	-	-	185-197	586_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	197-198	586_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	199-200	586_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	200-203	586_QUEST_clinical_caseMIR	SENT3	-	-
+3	entidad	entidad	NCFS000	-	-	204-211	586_QUEST_clinical_caseMIR	SENT3	-	-
+4	sospecharía	sospechar	VMIC3S0	-	-	212-223	586_QUEST_clinical_caseMIR	SENT3	-	-
+5	?	?	Fit	-	-	223-224	586_QUEST_clinical_caseMIR	SENT3	-	-
+6	.	.	Fp	-	-	224-225	586_QUEST_clinical_caseMIR	SENT3	-	-
+

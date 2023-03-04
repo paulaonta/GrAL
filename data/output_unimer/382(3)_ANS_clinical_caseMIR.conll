@@ -1,0 +1,24 @@
+1	Radioterapia	radioterapia	NCFS000	C1522449	-	0-12	382(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	externa	externo	AQ0FS0	C0205101	calificador	13-20	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	,	,	Fc	-	-	20-21	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	y	y	CC	C1706368	calificador	22-23	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	si	si	CS	-	-	24-26	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	hay	haber	VMIP3S0	-	-	27-30	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	buena	bueno	AQ0FS0	C0205170	calificador	31-36	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	respuesta	respuesta	NCFS000	-	-	37-46	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	,	,	Fc	-	-	46-47	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	hacer	hacer	VMN0000	-	-	48-53	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	54-57	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	58-65	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	local	local	AQ0CS0	C0205276#C0392752#C0332237	calificador	66-71	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	y	y	CC	C1706368	calificador	72-73	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	mantener	mantener	VMN0000	-	-	74-82	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C0418981_1	procedimiento_1	83-94	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	médico	médico	NCCS000	C0418981_2	procedimiento_2	95-101	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	102-104	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	su	su	DP3CS0	-	-	105-107	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	enfermedad	enfermedad	NCFS000	C0021390_1	trastorno_1	108-118	382(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	inflamatoria	inflamatorio	AQ0FS0	C0021390_2	trastorno_2	119-131	382(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+22	intestinal	intestinal	NC00SC0	C0021390_3	trastorno_3	132-142	382(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	.	.	Fp	-	-	143-144	382(3)_ANS_clinical_caseMIR	SENT1	-	-
+

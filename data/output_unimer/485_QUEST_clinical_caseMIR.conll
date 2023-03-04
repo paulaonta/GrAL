@@ -1,0 +1,73 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	485_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	485_QUEST_clinical_caseMIR	SENT1	-	-
+3	40	40		-	-	9-11	485_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	485_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	485_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	485_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	485_QUEST_clinical_caseMIR	SENT1	-	-
+8	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	34-40	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	40-41	485_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	485_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	45-47	485_QUEST_clinical_caseMIR	SENT2	-	-
+3	analítica	analítica	NCFS000	-	-	48-57	485_QUEST_clinical_caseMIR	SENT2	-	-
+4	destaca	destacar	VMIP3S0	-	-	58-65	485_QUEST_clinical_caseMIR	SENT2	-	-
+5	Hb	hb	NC00YL0	-	-	66-68	485_QUEST_clinical_caseMIR	SENT2	-	-
+6	10,5	10.5	Z	-	-	69-73	485_QUEST_clinical_caseMIR	SENT2	-	-
+7	g	g	NCMN000	-	-	74-75	485_QUEST_clinical_caseMIR	SENT2	-	-
+8	/	/	Fh	-	-	75-76	485_QUEST_clinical_caseMIR	SENT2	-	-
+9	dL	decilitro	NCMN000	C0439241	calificador	76-78	485_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	78-79	485_QUEST_clinical_caseMIR	SENT2	-	-
+11	ferropenia	ferropenia	NC00KE0	-	-	80-90	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	90-91	485_QUEST_clinical_caseMIR	SENT2	-	-
+13	macrocitosis	macrocitosis	NCFN000	C2004480	anomalía_morfológica	92-104	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+14	e	y	CC	C1706368	calificador	105-106	485_QUEST_clinical_caseMIR	SENT2	-	-
+15	hipergastrinemia	hipergastrinemia	NC00SC0	C0232567	hallazgo	107-123	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	123-124	485_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	125-130	485_QUEST_clinical_caseMIR	SENT3	-	-
+2	antecedentes	antecedente	NCMP000	-	-	131-143	485_QUEST_clinical_caseMIR	SENT3	-	-
+3	artropatía	artropatía	NCFS000	C0022408	trastorno	144-154	485_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	lúpica	lúpica	AQ0FS00	-	-	155-161	485_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+5	y	y	CC	C1706368	calificador	162-163	485_QUEST_clinical_caseMIR	SENT3	-	-
+6	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	164-174	485_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	de	de	SPS00	C0332285	atributo	175-177	485_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+8	Graves	grave	AQ0CP0	C0439808#C0205082	calificador	178-184	485_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+9	Basedow	Basedow		-	-	185-192	485_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+10	.	.	Fp	-	-	192-193	485_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Está	estar	VAM02S0	-	-	194-198	485_QUEST_clinical_caseMIR	SENT4	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	199-201	485_QUEST_clinical_caseMIR	SENT4	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	202-213	485_QUEST_clinical_caseMIR	SENT4	-	-
+4	con	con	SPS00	C0332287	atributo	214-217	485_QUEST_clinical_caseMIR	SENT4	-	-
+5	prednisona	prednisona	NCFS000	C0032952	sustancia	218-228	485_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+6	15	15	Z	-	-	229-231	485_QUEST_clinical_caseMIR	SENT4	-	-
+7	mg	mg	NCMN000	-	-	232-234	485_QUEST_clinical_caseMIR	SENT4	-	-
+8	/	/	Fh	-	-	234-235	485_QUEST_clinical_caseMIR	SENT4	-	-
+9	d	d	NCFS000	-	-	235-236	485_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	236-237	485_QUEST_clinical_caseMIR	SENT4	-	-
+11	colchicina	colchicina	NC00SC0	C0009262	producto#sustancia	238-248	485_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+12	0,5	0,5		-	-	249-252	485_QUEST_clinical_caseMIR	SENT4	-	-
+13	mg	miligramo	NCMN000	C0439210	calificador	253-255	485_QUEST_clinical_caseMIR	SENT4	-	-
+14	cada	cada	DI0CS0	C1457900	calificador	256-260	485_QUEST_clinical_caseMIR	SENT4	-	-
+15	12	12	Z	-	-	261-263	485_QUEST_clinical_caseMIR	SENT4	-	-
+16	h	h	NCMN000	C0439227	calificador	264-265	485_QUEST_clinical_caseMIR	SENT4	-	-
+17	y	y	CC	C1706368	calificador	266-267	485_QUEST_clinical_caseMIR	SENT4	-	-
+18	metimazol	metimazol	NC00SC0	C0025644	sustancia#producto	268-277	485_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+19	10	10	Z	-	-	278-280	485_QUEST_clinical_caseMIR	SENT4	-	-
+20	mg	mg	NCMN000	-	-	281-283	485_QUEST_clinical_caseMIR	SENT4	-	-
+21	/	/	Fh	-	-	283-284	485_QUEST_clinical_caseMIR	SENT4	-	-
+22	d.	d.	VMIP3S0	-	-	284-286	485_QUEST_clinical_caseMIR	SENT4	-	-
+23	¿	¿	Fia	-	-	287-288	485_QUEST_clinical_caseMIR	SENT4	-	-
+24	Cuál	cuál	PT0CS000	-	-	288-292	485_QUEST_clinical_caseMIR	SENT4	-	-
+25	considera	considerar	VMIP3S0	-	-	293-302	485_QUEST_clinical_caseMIR	SENT4	-	-
+26	la	el	DA0FS0	-	-	303-305	485_QUEST_clinical_caseMIR	SENT4	-	-
+27	causa	causa	NCFS000	-	-	306-311	485_QUEST_clinical_caseMIR	SENT4	-	-
+28	más	más	RG	C0205172	calificador	312-315	485_QUEST_clinical_caseMIR	SENT4	-	-
+29	probable	probable	AQ0CS0	C0332148	calificador	316-324	485_QUEST_clinical_caseMIR	SENT4	-	-
+30	de	de	SPS00	C0332285	atributo	325-327	485_QUEST_clinical_caseMIR	SENT4	-	-
+31	la	el	DA0FS0	-	-	328-330	485_QUEST_clinical_caseMIR	SENT4	-	-
+32	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	331-337	485_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+33	?	?	Fit	-	-	337-338	485_QUEST_clinical_caseMIR	SENT4	-	-
+34	.	.	Fp	-	-	338-339	485_QUEST_clinical_caseMIR	SENT4	-	-
+

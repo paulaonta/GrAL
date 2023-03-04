@@ -1,0 +1,51 @@
+1	Tras	tras	SPS00	-	-	0-4	216_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	5-7	216_QUEST_clinical_caseMIR	SENT1	-	-
+3	accidente	accidente	NCMS000	C0415499_1	evento_1	8-17	216_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0415499_2	evento_2	18-20	216_QUEST_clinical_caseMIR	SENT1	-	-
+5	tráfico	tráfico	NCMS000	-	-	21-28	216_QUEST_clinical_caseMIR	SENT1	-	-
+6	un	un		C0205447_1	calificador_1	29-31	216_QUEST_clinical_caseMIR	SENT1	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	32-40	216_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	41-43	216_QUEST_clinical_caseMIR	SENT1	-	-
+9	38	38		-	-	44-46	216_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	47-51	216_QUEST_clinical_caseMIR	SENT1	-	-
+11	ingresa	ingresar	VMIP3S0	-	-	52-59	216_QUEST_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	216_QUEST_clinical_caseMIR	SENT1	-	-
+13	UCI	unidad_de_cuidados_intensivos	NC00YL0	-	-	63-66	216_QUEST_clinical_caseMIR	SENT1	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	216_QUEST_clinical_caseMIR	SENT1	-	-
+15	coma	coma	NCCS000	C0009421	trastorno#hallazgo	70-74	216_QUEST_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	74-75	216_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	76-80	216_QUEST_clinical_caseMIR	SENT2	-	-
+2	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	81-87	216_QUEST_clinical_caseMIR	SENT2	-	-
+3	días	día	NCMP000	C0439228#C0332169	calificador	88-92	216_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	93-95	216_QUEST_clinical_caseMIR	SENT2	-	-
+5	paciente	paciente	NCCS000	C0030705	persona	96-104	216_QUEST_clinical_caseMIR	SENT2	-	-
+6	no	no	RN	C1298908	calificador	105-107	216_QUEST_clinical_caseMIR	SENT2	-	-
+7	mejora	mejorar	VMIP3S0	-	-	108-114	216_QUEST_clinical_caseMIR	SENT2	-	-
+8	neurológicamente	neurológicamente	RG	-	-	115-131	216_QUEST_clinical_caseMIR	SENT2	-	-
+9	y	y	CC	C1706368	calificador	132-133	216_QUEST_clinical_caseMIR	SENT2	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	216_QUEST_clinical_caseMIR	SENT2	-	-
+11	la	el	DA0FS0	-	-	137-139	216_QUEST_clinical_caseMIR	SENT2	-	-
+12	TAC	tac	NC00YL0	C0040405	procedimiento	140-143	216_QUEST_clinical_caseMIR	SENT2	-	-
+13	se	se	P00CN000	-	-	144-146	216_QUEST_clinical_caseMIR	SENT2	-	-
+14	visualizan	visualizar	VMIP3P0	-	-	147-157	216_QUEST_clinical_caseMIR	SENT2	-	-
+15	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	158-166	216_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	puntiformes	puntiforme	AQ0CP0	-	-	167-178	216_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+17	hemorrágicas	hemorrágico	AQ0FP0	C0333275	calificador	179-191	216_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	192-194	216_QUEST_clinical_caseMIR	SENT2	-	-
+19	cuerpo	cuerpo	NCMS000	C0010090#C1284613_1	estructura_corporal_1	195-201	216_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+20	calloso	calloso	AQ0MS0	C0010090#C1284613_2	estructura_corporal_2	202-209	216_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+21	y	y	CC	C1706368	calificador	210-211	216_QUEST_clinical_caseMIR	SENT2	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	212-214	216_QUEST_clinical_caseMIR	SENT2	-	-
+23	unión	unión	NCFS000	C0185023#C0205144	procedimiento#calificador	215-220	216_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+24	córtico-subcortical	córtico-subcortical	AQ0CS00	-	-	221-240	216_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+25	.	.	Fp	-	-	240-241	216_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	242-243	216_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	243-247	216_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	248-250	216_QUEST_clinical_caseMIR	SENT3	-	-
+4	su	su	DP3CS0	-	-	251-253	216_QUEST_clinical_caseMIR	SENT3	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	254-265	216_QUEST_clinical_caseMIR	SENT3	-	-
+6	?	?	Fit	-	-	265-266	216_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	266-267	216_QUEST_clinical_caseMIR	SENT3	-	-
+

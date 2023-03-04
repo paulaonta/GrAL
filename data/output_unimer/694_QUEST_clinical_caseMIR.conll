@@ -1,0 +1,66 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	694_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	694_QUEST_clinical_caseMIR	SENT1	-	-
+3	65	65		-	-	10-12	694_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	694_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	694_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	694_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	31-34	694_QUEST_clinical_caseMIR	SENT1	-	-
+8	disfagia	disfagia	NCFS000	C0232520#C0011168	hallazgo#trastorno	35-43	694_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	a	a	SPS00	-	-	44-45	694_QUEST_clinical_caseMIR	SENT1	-	-
+10	sólidos	sólido	NCMP000	C0302909#C0205208	sustancia#calificador	46-53	694_QUEST_clinical_caseMIR	SENT1	-	-
+11	desde	desde	SPS00	-	-	54-59	694_QUEST_clinical_caseMIR	SENT1	-	-
+12	hace	hacer	VMIP3S0	-	-	60-64	694_QUEST_clinical_caseMIR	SENT1	-	-
+13	dos	dos		-	-	65-68	694_QUEST_clinical_caseMIR	SENT1	-	-
+14	meses	mes	NCMP000	C0439231	calificador	69-74	694_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	74-75	694_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	76-78	694_QUEST_clinical_caseMIR	SENT2	-	-
+2	esofagoscopia	esofagoscopia	NC00SC0	C0014873	procedimiento	79-92	694_QUEST_clinical_caseMIR	SENT2	-	-
+3	evidencia	evidenciar	VMIP3S0	-	-	93-102	694_QUEST_clinical_caseMIR	SENT2	-	-
+4	tumoración	tumoración	NCFS000	C0577559	hallazgo	103-113	694_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	a	a	SPS00	-	-	114-115	694_QUEST_clinical_caseMIR	SENT2	-	-
+6	30	30	Z	-	-	116-118	694_QUEST_clinical_caseMIR	SENT2	-	-
+7	cm	cm	NCMN000	-	-	119-121	694_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	122-124	694_QUEST_clinical_caseMIR	SENT2	-	-
+9	arcada	arcada	NCFS000	-	-	125-131	694_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	dental	dental	AQ0CS0	-	-	132-138	694_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	138-139	694_QUEST_clinical_caseMIR	SENT2	-	-
+12	parcialmente	parcialmente	RG	-	-	140-152	694_QUEST_clinical_caseMIR	SENT2	-	-
+13	estenosante	estenosante	AQ0CS00	-	-	153-164	694_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+14	,	,	Fc	-	-	164-165	694_QUEST_clinical_caseMIR	SENT2	-	-
+15	con	con	SPS00	C0332287	atributo	166-169	694_QUEST_clinical_caseMIR	SENT2	-	-
+16	anatomía	anatomía	NCFS000	-	-	170-178	694_QUEST_clinical_caseMIR	SENT2	-	-
+17	patológica	patológico	AQ0FS0	C1521733	calificador	179-189	694_QUEST_clinical_caseMIR	SENT2	-	-
+18	de	de	SPS00	C0332285	atributo	190-192	694_QUEST_clinical_caseMIR	SENT2	-	-
+19	carcinoma	carcinoma	NCMS000	C0007137_1	trastorno#anomalía_morfológica_1	193-202	694_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+20	epidermoide	epidermoide		C0007137_2	trastorno#anomalía_morfológica_2	203-214	694_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+21	.	.	Fp	-	-	214-215	694_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	216-218	694_QUEST_clinical_caseMIR	SENT3	-	-
+2	solicita	solicitar	VMIP3S0	-	-	219-227	694_QUEST_clinical_caseMIR	SENT3	-	-
+3	ecografía	ecografía	NCFS000	C0376443_1	procedimiento_1	228-237	694_QUEST_clinical_caseMIR	SENT3	-	-
+4	endoscópica	endoscópico	AQ0FS0	C0376443_2	procedimiento_2	238-249	694_QUEST_clinical_caseMIR	SENT3	-	-
+5	y	y	CC	C1706368	calificador	250-251	694_QUEST_clinical_caseMIR	SENT3	-	-
+6	PET-TC	pet-tc	NC00000	-	-	252-258	694_QUEST_clinical_caseMIR	SENT3	-	-
+7	donde	donde	PR000000	-	-	259-264	694_QUEST_clinical_caseMIR	SENT3	-	-
+8	no	no	RN	C1298908	calificador	265-267	694_QUEST_clinical_caseMIR	SENT3	-	-
+9	se	se	P00CN000	-	-	268-270	694_QUEST_clinical_caseMIR	SENT3	-	-
+10	observan	observar	VMIP3P0	-	-	271-279	694_QUEST_clinical_caseMIR	SENT3	-	-
+11	adenopatías	adenopatía	NCFP000	-	-	280-291	694_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+12	patológicas	patológico	AQ0FP0	C1521733	calificador	292-303	694_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+13	.	.	Fp	-	-	303-304	694_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	305-306	694_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	306-310	694_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	311-313	694_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	314-317	694_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	318-328	694_QUEST_clinical_caseMIR	SENT4	-	-
+6	opciones	opción	NCFP000	-	-	329-337	694_QUEST_clinical_caseMIR	SENT4	-	-
+7	sería	ser	VSIC1S0	-	-	338-343	694_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	344-346	694_QUEST_clinical_caseMIR	SENT4	-	-
+9	más	más	RG	C0205393_2	calificador_2	347-350	694_QUEST_clinical_caseMIR	SENT4	-	-
+10	correcta	correcto	AQ0FS0	C0205170	calificador	351-359	694_QUEST_clinical_caseMIR	SENT4	-	-
+11	?	?	Fit	-	-	359-360	694_QUEST_clinical_caseMIR	SENT4	-	-
+12	:	:	Fd	-	-	360-361	694_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	361-362	694_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,86 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	151_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	151_QUEST_clinical_caseMIR	SENT1	-	-
+3	66	66		-	-	10-12	151_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	151_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	151_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedente	antecedente	NCMS000	C0332119_1	situación_1	22-33	151_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	151_QUEST_clinical_caseMIR	SENT1	-	-
+8	espondilitis	espondilitis	NCFN000	C0038013_1	trastorno_1	37-49	151_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	anquilosante	anquilosante	AQ0CS0	C0038013_2	trastorno_2	50-62	151_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	de	de	SPS00	C0332285	atributo	63-65	151_QUEST_clinical_caseMIR	SENT1	-	-
+11	larga	largo	AQ0FS0	C0205166#C0392744	calificador	66-71	151_QUEST_clinical_caseMIR	SENT1	-	-
+12	evolución	evolución	NCFS000	-	-	72-81	151_QUEST_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	81-82	151_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	83-91	151_QUEST_clinical_caseMIR	SENT2	-	-
+2	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	92-103	151_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	de	de	SPS00	C0332285	atributo	104-106	151_QUEST_clinical_caseMIR	SENT2	-	-
+4	6	6	Z	-	-	107-108	151_QUEST_clinical_caseMIR	SENT2	-	-
+5	gramos	g	NCMP000	-	-	109-115	151_QUEST_clinical_caseMIR	SENT2	-	-
+6	al	al	SP+DA	-	-	116-118	151_QUEST_clinical_caseMIR	SENT2	-	-
+7	día	día	NCMS000	C0439228#C0332169	calificador	119-122	151_QUEST_clinical_caseMIR	SENT2	-	-
+8	con	con	SPS00	C0332287	atributo	123-126	151_QUEST_clinical_caseMIR	SENT2	-	-
+9	hipoalbuminemia	hipoalbuminemia	NC00SC0	C0239981	trastorno	127-142	151_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	143-144	151_QUEST_clinical_caseMIR	SENT2	-	-
+11	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	145-151	151_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	.	.	Fp	-	-	151-152	151_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	153-155	151_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	156-158	151_QUEST_clinical_caseMIR	SENT3	-	-
+3	sedimento	sedimento	NCMS000	C2945609#C1261248_1	hallazgo#sustancia_1	159-168	151_QUEST_clinical_caseMIR	SENT3	-	-
+4	urinario	urinario	NCMS000	C2945609#C1261248_2	hallazgo#sustancia_2	169-177	151_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	no	no	RN	C1298908	calificador	178-180	151_QUEST_clinical_caseMIR	SENT3	-	-
+6	se	se	P00CN000	-	-	181-183	151_QUEST_clinical_caseMIR	SENT3	-	-
+7	detecta	detectar	VMIP3S0	-	-	184-191	151_QUEST_clinical_caseMIR	SENT3	-	-
+8	hematuria	hematuria	NCFS000	C0018965	hallazgo#trastorno	192-201	151_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+9	.	.	Fp	-	-	201-202	151_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Su	su	DP3CS0	-	-	203-205	151_QUEST_clinical_caseMIR	SENT4	-	-
+2	creatinina	creatinina	NC00SC0	C0010294	sustancia	206-216	151_QUEST_clinical_caseMIR	SENT4	-	-
+3	plasmática	plasmático	AQ0FS0	-	-	217-227	151_QUEST_clinical_caseMIR	SENT4	-	-
+4	es	ser	VSIP3S0	-	-	228-230	151_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	231-233	151_QUEST_clinical_caseMIR	SENT4	-	-
+6	1,6	1.6	Z	-	-	234-237	151_QUEST_clinical_caseMIR	SENT4	-	-
+7	mg	mg	NCMN000	-	-	238-240	151_QUEST_clinical_caseMIR	SENT4	-	-
+8	/	/	Fh	-	-	240-241	151_QUEST_clinical_caseMIR	SENT4	-	-
+9	dL	decilitro	NCMN000	C0439241	calificador	241-243	151_QUEST_clinical_caseMIR	SENT4	-	-
+10	y	y	CC	C1706368	calificador	244-245	151_QUEST_clinical_caseMIR	SENT4	-	-
+11	su	su	DP3CS0	-	-	246-248	151_QUEST_clinical_caseMIR	SENT4	-	-
+12	filtrado	filtrado	NCMS000	-	-	249-257	151_QUEST_clinical_caseMIR	SENT4	-	-
+13	glomerular	glomerular	AQ0CS0	-	-	258-268	151_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+14	de	de	SPS00	C0332285	atributo	269-271	151_QUEST_clinical_caseMIR	SENT4	-	-
+15	45	45	Z	-	-	272-274	151_QUEST_clinical_caseMIR	SENT4	-	-
+16	mL	ml	NCMN000	C0439242	calificador	275-277	151_QUEST_clinical_caseMIR	SENT4	-	-
+17	/	/	Fh	-	-	277-278	151_QUEST_clinical_caseMIR	SENT4	-	-
+18	min	minuto	NCMN000	C0439232	calificador	278-281	151_QUEST_clinical_caseMIR	SENT4	-	-
+19	.	.	Fp	-	-	281-282	151_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Glucemia	glucemia	NCFS000	C2585282	entidad_observable	283-291	151_QUEST_clinical_caseMIR	SENT5	-	-
+2	110	110	Z	-	-	292-295	151_QUEST_clinical_caseMIR	SENT5	-	-
+3	mg	mg	NCMN000	-	-	296-298	151_QUEST_clinical_caseMIR	SENT5	-	-
+4	/	/	Fh	-	-	298-299	151_QUEST_clinical_caseMIR	SENT5	-	-
+5	dl	decilitro	NCMN000	C0439241	calificador	299-301	151_QUEST_clinical_caseMIR	SENT5	-	-
+6	.	.	Fp	-	-	301-302	151_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Su	su	DP3CS0	-	-	303-305	151_QUEST_clinical_caseMIR	SENT6	-	-
+2	severa	severo	AQ0FS0	C0205082	calificador	306-312	151_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+3	deformidad	deformidad	NCFS000	C0302142	hallazgo#anomalía_morfológica	313-323	151_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+4	de	de	SPS00	C0332285	atributo	324-326	151_QUEST_clinical_caseMIR	SENT6	-	-
+5	columna	columna	NCFS000	C0037949#C1267072_1	estructura_corporal_1	327-334	151_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+6	vertebral	vertebral	AQ0CS0	C0037949#C1267072_2	estructura_corporal_2	335-344	151_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+7	dificulta	dificultar	VMIP3S0	-	-	345-354	151_QUEST_clinical_caseMIR	SENT6	-	-
+8	realizar	realizar	VMN0000	-	-	355-363	151_QUEST_clinical_caseMIR	SENT6	-	-
+9	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	364-371	151_QUEST_clinical_caseMIR	SENT6	-	-
+10	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	372-377	151_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+11	percutánea	percutánea	AQ0FS00	-	-	378-388	151_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+12	¿	¿	Fia	-	-	389-390	151_QUEST_clinical_caseMIR	SENT6	-	-
+13	Qué	qué	DT0CN0	-	-	390-393	151_QUEST_clinical_caseMIR	SENT6	-	-
+14	actitud	actitud	NCFS000	C0004271	entidad_observable	394-401	151_QUEST_clinical_caseMIR	SENT6	-	-
+15	inicial	inicial	AQ0CS0	C0205265	calificador	402-409	151_QUEST_clinical_caseMIR	SENT6	-	-
+16	es	ser	VSIP3S0	-	-	410-412	151_QUEST_clinical_caseMIR	SENT6	-	-
+17	la	el	DA0FS0	-	-	413-415	151_QUEST_clinical_caseMIR	SENT6	-	-
+18	correcta	correcto	AQ0FS0	C0205170	calificador	416-424	151_QUEST_clinical_caseMIR	SENT6	-	-
+19	?	?	Fit	-	-	424-425	151_QUEST_clinical_caseMIR	SENT6	-	-
+20	:	:	Fd	-	-	425-426	151_QUEST_clinical_caseMIR	SENT6	-	-
+21	.	.	Fp	-	-	426-427	151_QUEST_clinical_caseMIR	SENT6	-	-
+

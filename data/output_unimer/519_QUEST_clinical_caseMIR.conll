@@ -1,0 +1,73 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	519_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	519_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	519_QUEST_clinical_caseMIR	SENT1	-	-
+4	65	65		-	-	13-15	519_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	519_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	519_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	519_QUEST_clinical_caseMIR	SENT1	-	-
+8	debilidad	debilidad	NCFS000	C0424594#C0004093#C3714552	hallazgo	34-43	519_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	44-46	519_QUEST_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	47-49	519_QUEST_clinical_caseMIR	SENT1	-	-
+11	mano	mano	NCFS000	C0230370#C1288948_1	estructura_corporal_1	50-54	519_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+12	derecha	derecho	AQ0FS0	C0230370#C1288948_2	estructura_corporal_2	55-62	519_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+13	que	que	PR0CN000	-	-	63-66	519_QUEST_clinical_caseMIR	SENT1	-	-
+14	se	se	P00CN000	-	-	67-69	519_QUEST_clinical_caseMIR	SENT1	-	-
+15	ha	haber	VAIP3S0	-	-	70-72	519_QUEST_clinical_caseMIR	SENT1	-	-
+16	extendido	extender	VMP00SM	-	-	73-82	519_QUEST_clinical_caseMIR	SENT1	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	83-85	519_QUEST_clinical_caseMIR	SENT1	-	-
+18	pocos	poco	DI0MP0	C0700321#C1282918	-	86-91	519_QUEST_clinical_caseMIR	SENT1	-	-
+19	meses	mes	NCMP000	C0439231	calificador	92-97	519_QUEST_clinical_caseMIR	SENT1	-	-
+20	a	a	SPS00	-	-	98-99	519_QUEST_clinical_caseMIR	SENT1	-	-
+21	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	100-105	519_QUEST_clinical_caseMIR	SENT1	-	-
+22	territorios	territorio	NCMP000	-	-	106-117	519_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	musculares	muscular	AQ0CP0	C0442025	calificador	118-128	519_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	de	de	SPS00	C0332285	atributo	129-131	519_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	ambos	ambos	PI0MP000	C0230348_1	estructura_corporal_1	132-137	519_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	brazos	brazo	NCMP000	C0230348_2	estructura_corporal_2	138-144	519_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	y	y	CC	C1706368	calificador	145-146	519_QUEST_clinical_caseMIR	SENT1	-	-
+28	piernas	pierna	NCFP000	C1269079#C1285009#C1140621	estructura_corporal	147-154	519_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+29	,	,	Fc	-	-	154-155	519_QUEST_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	156-158	519_QUEST_clinical_caseMIR	SENT1	-	-
+31	predominio	predominio	NCMS000	-	-	159-169	519_QUEST_clinical_caseMIR	SENT1	-	-
+32	distal	distal	AQ0CS0	C0205108	calificador	170-176	519_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	176-177	519_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	178-180	519_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	181-183	519_QUEST_clinical_caseMIR	SENT2	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	184-195	519_QUEST_clinical_caseMIR	SENT2	-	-
+4	hay	haber	VMIP3S0	-	-	196-199	519_QUEST_clinical_caseMIR	SENT2	-	-
+5	atrofia	atrofia	NCFS000	C0333641#C0037154	anomalía_morfológica	200-207	519_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	y	y	CC	C1706368	calificador	208-209	519_QUEST_clinical_caseMIR	SENT2	-	-
+7	fasciculaciones	fasciculaciones	NCFP000	-	-	210-225	519_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	226-228	519_QUEST_clinical_caseMIR	SENT2	-	-
+9	distintos	distinto	AQ0MP0	C0443202	calificador	229-238	519_QUEST_clinical_caseMIR	SENT2	-	-
+10	territorios	territorio	NCMP000	-	-	239-250	519_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	metaméricos	metamérico	AQ0MP0	-	-	251-262	519_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+12	con	con	SPS00	C0332287	atributo	263-266	519_QUEST_clinical_caseMIR	SENT2	-	-
+13	sensibilidad	sensibilidad	NCFS000	C1264642#C0439823#C0312418	calificador#hallazgo	267-279	519_QUEST_clinical_caseMIR	SENT2	-	-
+14	conservada	conservar	VMP00SF	-	-	280-290	519_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	290-291	519_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Existe	existir	VMIP3S0	-	-	292-298	519_QUEST_clinical_caseMIR	SENT3	-	-
+2	un	un		C0205447_1	calificador_1	299-301	519_QUEST_clinical_caseMIR	SENT3	-	-
+3	signo	signo	NCMS000	C0034935_1	hallazgo_1	302-307	519_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0034935_2	hallazgo_2	308-310	519_QUEST_clinical_caseMIR	SENT3	-	-
+5	Babinski	Babinski		C0034935_3	hallazgo_3	311-319	519_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	bilateral	bilateral	AQ0CS0	C0238767	calificador	320-329	519_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+7	.	.	Fp	-	-	329-330	519_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	331-332	519_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	332-336	519_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	337-339	519_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	340-342	519_QUEST_clinical_caseMIR	SENT4	-	-
+5	prueba	prueba	NCFS000	-	-	343-349	519_QUEST_clinical_caseMIR	SENT4	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	350-361	519_QUEST_clinical_caseMIR	SENT4	-	-
+7	que	que	PR0CN000	-	-	362-365	519_QUEST_clinical_caseMIR	SENT4	-	-
+8	confirmaría	confirmar	VMIC3S0	-	-	366-377	519_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	378-380	519_QUEST_clinical_caseMIR	SENT4	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	381-392	519_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	393-395	519_QUEST_clinical_caseMIR	SENT4	-	-
+12	sospecha	sospecha	NCFS000	C0750491	calificador	396-404	519_QUEST_clinical_caseMIR	SENT4	-	-
+13	?	?	Fit	-	-	404-405	519_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	405-406	519_QUEST_clinical_caseMIR	SENT4	-	-
+

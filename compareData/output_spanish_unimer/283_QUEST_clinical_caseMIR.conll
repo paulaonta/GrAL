@@ -1,0 +1,78 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	283_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	283_QUEST_clinical_caseMIR	SENT1	-	-
+3	66	66		-	-	12-14	283_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	283_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	20-33	283_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	34-36	283_QUEST_clinical_caseMIR	SENT1	-	-
+7	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	37-51	283_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0332285	atributo	52-54	283_QUEST_clinical_caseMIR	SENT1	-	-
+9	páncreas	páncreas	NCMN000	C1278931#C0030274	estructura_corporal	55-63	283_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	64-71	283_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	IV	iv.	NC00YL0	-	-	72-74	283_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+12	hace	hacer	VMIP3S0	-	-	75-79	283_QUEST_clinical_caseMIR	SENT1	-	-
+13	8	8		-	-	80-81	283_QUEST_clinical_caseMIR	SENT1	-	-
+14	meses	mes	NCMP000	C0439231	calificador	82-87	283_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	87-88	283_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Sigue	seguir	VMIP3S0	-	-	89-94	283_QUEST_clinical_caseMIR	SENT2	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	95-106	283_QUEST_clinical_caseMIR	SENT2	-	-
+3	con	con	SPS00	C0332287	atributo	107-110	283_QUEST_clinical_caseMIR	SENT2	-	-
+4	morfina	morfina	NCFS000	C0026549	producto#sustancia	111-118	283_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	119-121	283_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+6	liberación	liberación	NCFS000	C1963578	procedimiento	122-132	283_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+7	retardada	retardar	VMP00SF	-	-	133-142	283_QUEST_clinical_caseMIR	SENT2	-	-
+8	200	200		-	-	143-146	283_QUEST_clinical_caseMIR	SENT2	-	-
+9	mg/12	mg/12	Z	-	-	147-152	283_QUEST_clinical_caseMIR	SENT2	-	-
+10	horas	h	NCFP000	C0439227	calificador	153-158	283_QUEST_clinical_caseMIR	SENT2	-	-
+11	vía	vía	NCFS000	C1527415_1	calificador_1	159-162	283_QUEST_clinical_caseMIR	SENT2	-	-
+12	oral	oral	NC00SC0	C1527415_2	calificador_2	163-167	283_QUEST_clinical_caseMIR	SENT2	-	-
+13	,	,	Fc	-	-	167-168	283_QUEST_clinical_caseMIR	SENT2	-	-
+14	parafina	parafina	NCFS000	C0030415	sustancia#producto	169-177	283_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+15	y	y	CC	C1706368	calificador	178-179	283_QUEST_clinical_caseMIR	SENT2	-	-
+16	lactulosa	lactulosa	NC00SC0	C0022957	producto#sustancia	180-189	283_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+17	.	.	Fp	-	-	189-190	283_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Desde	desde	SPS00	-	-	191-196	283_QUEST_clinical_caseMIR	SENT3	-	-
+2	hace	hacer	VMIP3S0	-	-	197-201	283_QUEST_clinical_caseMIR	SENT3	-	-
+3	15	15	Z	-	-	202-204	283_QUEST_clinical_caseMIR	SENT3	-	-
+4	días	d	NCMP000	-	-	205-209	283_QUEST_clinical_caseMIR	SENT3	-	-
+5	refiere	referir	VMIP3S0	-	-	210-217	283_QUEST_clinical_caseMIR	SENT3	-	-
+6	parestesias	parestesia	NCFP000	C0030554	hallazgo	218-229	283_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	230-231	283_QUEST_clinical_caseMIR	SENT3	-	-
+8	dolor	dolor	NCMS000	C0278141#C0458257_1	hallazgo_1	232-237	283_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+9	lancinante	lancinante	AQ0CS0	C0278141#C0458257_2	hallazgo_2	238-248	283_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	ocasional	ocasional	AQ0CS0	C0521114	calificador	249-258	283_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	259-261	283_QUEST_clinical_caseMIR	SENT3	-	-
+12	zona	zona	NCFS000	C0019360	trastorno	262-266	283_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	lumbar	lumbar	AQ0CS0	C0024090	calificador	267-273	283_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	derecha	derecha	NCFS000	-	-	274-281	283_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	282-283	283_QUEST_clinical_caseMIR	SENT3	-	-
+16	periumbilical	periumbilical	NC00SC0	C0457792	calificador	284-297	283_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	que	que	PR0CN000	-	-	298-301	283_QUEST_clinical_caseMIR	SENT3	-	-
+18	no	no	RN	C1298908	calificador	302-304	283_QUEST_clinical_caseMIR	SENT3	-	-
+19	cede	ceder	VMIP3S0	-	-	305-309	283_QUEST_clinical_caseMIR	SENT3	-	-
+20	con	con	SPS00	C0332287	atributo	310-313	283_QUEST_clinical_caseMIR	SENT3	-	-
+21	ingesta	ingesta	NCFS000	-	-	314-321	283_QUEST_clinical_caseMIR	SENT3	-	-
+22	de	de	SPS00	C0332285	atributo	322-324	283_QUEST_clinical_caseMIR	SENT3	-	-
+23	morfina	morfina	NCFS000	C0026549	producto#sustancia	325-332	283_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+24	de	de	SPS00	C0332285	atributo	333-335	283_QUEST_clinical_caseMIR	SENT3	-	-
+25	rescate	rescate	NCMS000	-	-	336-343	283_QUEST_clinical_caseMIR	SENT3	-	-
+26	.	.	Fp	-	-	343-344	283_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	345-347	283_QUEST_clinical_caseMIR	SENT4	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	348-359	283_QUEST_clinical_caseMIR	SENT4	-	-
+3	neurológica	neurológico	AQ0FS0	C0205494	calificador	360-371	283_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	372-374	283_QUEST_clinical_caseMIR	SENT4	-	-
+5	normal	normal	AQ0CS0	C0205307	calificador	375-381	283_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	381-382	283_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Señale	señalar	VMM03S0	-	-	383-389	283_QUEST_clinical_caseMIR	SENT5	-	-
+2	cual	cual	PR0CS000	-	-	390-394	283_QUEST_clinical_caseMIR	SENT5	-	-
+3	sería	ser	VSIC1S0	-	-	395-400	283_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	401-403	283_QUEST_clinical_caseMIR	SENT5	-	-
+5	manejo	manejo	NCMS000	C1273870	procedimiento	404-410	283_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	411-414	283_QUEST_clinical_caseMIR	SENT5	-	-
+7	apropiado	apropiar	VMP00SM	-	-	415-424	283_QUEST_clinical_caseMIR	SENT5	-	-
+8	:	:	Fd	-	-	424-425	283_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	425-426	283_QUEST_clinical_caseMIR	SENT5	-	-
+

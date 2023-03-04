@@ -1,0 +1,35 @@
+1	"	"	Fe	-	-	0-1	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	La	el	DA0FS0	-	-	1-3	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	causa	causa	NCFS000	-	-	4-9	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	10-12	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	los	el	DA0MP0	-	-	13-16	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	síntomas	síntoma	NCMP000	C1457887	hallazgo	17-25	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	han	haber	VAIP3P0	-	-	30-33	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	motivado	motivar	VMP00SM	-	-	34-42	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	su	su	DP3CS0	-	-	43-45	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	ingreso	ingreso	NCMS000	-	-	46-53	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	es	ser	VSIP3S0	-	-	54-56	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	57-59	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	quiste	quiste	NCMS000	C0686883#C0010709_1	organismo#anomalía_morfológica#trastorno_1	60-66	55(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	del	del	SP+DA	-	-	67-70	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	hígado	hígado	NCMS000	C1278929#C0023884	estructura_corporal	71-77	55(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	que	que	PR0CN000	-	-	78-81	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	se	se	P00CN000	-	-	82-84	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	ha	haber	VAIP3S0	-	-	85-87	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	complicado	complicar	VMP00SM	-	-	88-98	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	y	y	CC	C1706368	calificador	99-100	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	hay	haber	VMIP3S0	-	-	101-104	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	que	que	CS	-	-	105-108	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	valorar	valorar	VMN0000	-	-	109-116	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+25	con	con	SPS00	C0332287	atributo	117-120	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+26	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	121-126	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+27	especialistas	especialista	NCCP000	-	-	127-140	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+28	cómo	cómo	PT000000	-	-	141-145	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+29	hacer	hacer	VMN0000	-	-	146-151	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+30	un	un		C0205447_1	calificador_1	152-154	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+31	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	155-166	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+32	definitivo	definitivo	AQ0MS0	C0443196	calificador	167-177	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+33	"	"	Fe	-	-	177-178	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+34	.	.	Fp	-	-	179-180	55(1)_ANS_clinical_caseMIR	SENT1	-	-
+

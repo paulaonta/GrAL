@@ -1,0 +1,79 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	668_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	668_QUEST_clinical_caseMIR	SENT1	-	-
+3	8	8		-	-	8-9	668_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	668_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	CS	-	-	15-18	668_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	19-27	668_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	28-31	668_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	32-34	668_QUEST_clinical_caseMIR	SENT1	-	-
+9	aparición	aparición	NCFS000	-	-	35-44	668_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	45-47	668_QUEST_clinical_caseMIR	SENT1	-	-
+11	vello	vello	NCMS000	C0221988_1	estructura_corporal_1	48-53	668_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	púbico	púbico	AQ0MS0	C0221988_2	estructura_corporal_2	54-60	668_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	668_QUEST_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	64-66	668_QUEST_clinical_caseMIR	SENT1	-	-
+15	base	base	NCCS000	C1626935#C0178499	calificador#sustancia	67-71	668_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	del	del	SP+DA	-	-	72-75	668_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+17	pene	pene	NCMS000	C1280739#C0030851	estructura_corporal	76-80	668_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	desde	desde	SPS00	-	-	81-86	668_QUEST_clinical_caseMIR	SENT1	-	-
+19	hace	hacer	VMIP3S0	-	-	87-91	668_QUEST_clinical_caseMIR	SENT1	-	-
+20	12	12		-	-	92-94	668_QUEST_clinical_caseMIR	SENT1	-	-
+21	meses	mes	NCMP000	C0439231	calificador	95-100	668_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	100-101	668_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	102-104	668_QUEST_clinical_caseMIR	SENT2	-	-
+2	testículo	testículo	NCMS000	C1278981#C1284096#C0039597	estructura_corporal	105-114	668_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	no	no	RN	C1298908	calificador	115-117	668_QUEST_clinical_caseMIR	SENT2	-	-
+4	ha	haber	VAIP3S0	-	-	118-120	668_QUEST_clinical_caseMIR	SENT2	-	-
+5	aumentado	aumentar	VMP00SM	-	-	121-130	668_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	131-133	668_QUEST_clinical_caseMIR	SENT2	-	-
+7	volumen	volumen	NCMS000	C0449468#C0178733	calificador#hallazgo	134-141	668_QUEST_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	142-143	668_QUEST_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	144-146	668_QUEST_clinical_caseMIR	SENT2	-	-
+10	pene	pene	NCMS000	C1280739#C0030851	estructura_corporal	147-151	668_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+11	no	no	RN	C1298908	calificador	152-154	668_QUEST_clinical_caseMIR	SENT2	-	-
+12	ha	haber	VAIP3S0	-	-	155-157	668_QUEST_clinical_caseMIR	SENT2	-	-
+13	aumentado	aumentar	VMP00SM	-	-	158-167	668_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	168-170	668_QUEST_clinical_caseMIR	SENT2	-	-
+15	tamaño	tamaño	NCMS000	C3714679#C0456389	calificador#atributo	171-177	668_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	177-178	668_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	No	no	RN	C1298908	calificador	179-181	668_QUEST_clinical_caseMIR	SENT3	-	-
+2	se	se	P00CN000	-	-	182-184	668_QUEST_clinical_caseMIR	SENT3	-	-
+3	aprecia	apreciar	VMIP3S0	-	-	185-192	668_QUEST_clinical_caseMIR	SENT3	-	-
+4	un	un		C0205447_1	calificador_1	193-195	668_QUEST_clinical_caseMIR	SENT3	-	-
+5	aumento	aumento	NCMS000	C0442805	calificador	196-203	668_QUEST_clinical_caseMIR	SENT3	-	-
+6	de	de	SPS00	C0332285	atributo	204-206	668_QUEST_clinical_caseMIR	SENT3	-	-
+7	la	el	DA0FS0	-	-	207-209	668_QUEST_clinical_caseMIR	SENT3	-	-
+8	velocidad	velocidad	NCFS000	C0439830	calificador	210-219	668_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0332285	atributo	220-222	668_QUEST_clinical_caseMIR	SENT3	-	-
+10	crecimiento	crecimiento	NCMS000	-	-	223-234	668_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	235-237	668_QUEST_clinical_caseMIR	SENT3	-	-
+12	el	el	DA0MS0	-	-	238-240	668_QUEST_clinical_caseMIR	SENT3	-	-
+13	último	último	AO0MS0	-	-	241-247	668_QUEST_clinical_caseMIR	SENT3	-	-
+14	año	año	NCMS000	C0439234	calificador	248-251	668_QUEST_clinical_caseMIR	SENT3	-	-
+15	.	.	Fp	-	-	251-252	668_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	253-255	668_QUEST_clinical_caseMIR	SENT4	-	-
+2	edad	edad	NCFS000	C0429620_1	entidad_observable_1	256-260	668_QUEST_clinical_caseMIR	SENT4	-	-
+3	ósea	óseo	AQ0FS0	C0429620_2	entidad_observable_2	261-265	668_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	266-268	668_QUEST_clinical_caseMIR	SENT4	-	-
+5	un	un		C0205447_1	calificador_1	269-271	668_QUEST_clinical_caseMIR	SENT4	-	-
+6	año	año	NCMS000	C0439234	calificador	272-275	668_QUEST_clinical_caseMIR	SENT4	-	-
+7	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	276-281	668_QUEST_clinical_caseMIR	SENT4	-	-
+8	que	que	CS	-	-	282-285	668_QUEST_clinical_caseMIR	SENT4	-	-
+9	la	el	DA0FS0	-	-	286-288	668_QUEST_clinical_caseMIR	SENT4	-	-
+10	cronológica	cronológico	AQ0FS0	-	-	289-300	668_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	300-301	668_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	302-303	668_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	303-307	668_QUEST_clinical_caseMIR	SENT5	-	-
+3	sería	ser	VSIC1S0	-	-	308-313	668_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	314-316	668_QUEST_clinical_caseMIR	SENT5	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	317-328	668_QUEST_clinical_caseMIR	SENT5	-	-
+6	más	más	RG	C0205172	calificador	329-332	668_QUEST_clinical_caseMIR	SENT5	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	333-341	668_QUEST_clinical_caseMIR	SENT5	-	-
+8	?	?	Fit	-	-	341-342	668_QUEST_clinical_caseMIR	SENT5	-	-
+9	:	:	Fd	-	-	342-343	668_QUEST_clinical_caseMIR	SENT5	-	-
+10	.	.	Fp	-	-	343-344	668_QUEST_clinical_caseMIR	SENT5	-	-
+

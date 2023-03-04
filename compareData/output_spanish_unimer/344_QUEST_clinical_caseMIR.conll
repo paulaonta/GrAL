@@ -1,0 +1,73 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	344_QUEST_clinical_caseMIR	SENT1	-	-
+2	pareja	pareja	NCFS000	-	-	4-10	344_QUEST_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	11-14	344_QUEST_clinical_caseMIR	SENT1	-	-
+4	un	un		C0205447_1	calificador_1	15-17	344_QUEST_clinical_caseMIR	SENT1	-	-
+5	primer	1	AO0MS0	-	-	18-24	344_QUEST_clinical_caseMIR	SENT1	-	-
+6	hijo	hijo	NCMS000	C0037683_1	persona_1	25-29	344_QUEST_clinical_caseMIR	SENT1	-	-
+7	varón	varón	NCMS000	C0037683_2	persona_2	30-35	344_QUEST_clinical_caseMIR	SENT1	-	-
+8	(	(	Fpa	-	-	36-37	344_QUEST_clinical_caseMIR	SENT1	-	-
+9	caso	caso	NCMS000	C0868928	calificador	37-41	344_QUEST_clinical_caseMIR	SENT1	-	-
+10	índice	índice	NCMS000	-	-	42-48	344_QUEST_clinical_caseMIR	SENT1	-	-
+11	)	)	Fpt	-	-	48-49	344_QUEST_clinical_caseMIR	SENT1	-	-
+12	afecto	afecto	NCMS000	C0001721	función	50-56	344_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	57-59	344_QUEST_clinical_caseMIR	SENT1	-	-
+14	fibrosis	fibrosis	NCFN000	C0010674#C1527396#C0016033_1	trastorno#anomalía_morfológica_1	60-68	344_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	quística	quístico	AQ0FS0	C0010674#C1527396#C0016033_2	trastorno#anomalía_morfológica_2	69-77	344_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	(	(	Fpa	-	-	78-79	344_QUEST_clinical_caseMIR	SENT1	-	-
+17	mucoviscidosis	mucoviscidosis	NC00SC0	C0010674#C1527396#C0016033	trastorno#anomalía_morfológica	79-93	344_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	)	)	Fpt	-	-	93-94	344_QUEST_clinical_caseMIR	SENT1	-	-
+19	acude	acudir	VMIP3S0	-	-	95-100	344_QUEST_clinical_caseMIR	SENT1	-	-
+20	a	a	SPS00	-	-	101-102	344_QUEST_clinical_caseMIR	SENT1	-	-
+21	la	el	DA0FS0	-	-	103-105	344_QUEST_clinical_caseMIR	SENT1	-	-
+22	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	106-114	344_QUEST_clinical_caseMIR	SENT1	-	-
+23	dc	dc	NC00YL0	-	-	115-117	344_QUEST_clinical_caseMIR	SENT1	-	-
+24	consejo	consejo	NCMS000	-	-	118-125	344_QUEST_clinical_caseMIR	SENT1	-	-
+25	genético	genético	AQ0MS0	-	-	126-134	344_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	134-135	344_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	136-138	344_QUEST_clinical_caseMIR	SENT2	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	139-150	344_QUEST_clinical_caseMIR	SENT2	-	-
+3	molecular	molecular	AQ0CS0	-	-	151-160	344_QUEST_clinical_caseMIR	SENT2	-	-
+4	indica	indicar	VMIP3S0	-	-	161-167	344_QUEST_clinical_caseMIR	SENT2	-	-
+5	que	que	CS	-	-	168-171	344_QUEST_clinical_caseMIR	SENT2	-	-
+6	el	el	DA0MS0	-	-	172-174	344_QUEST_clinical_caseMIR	SENT2	-	-
+7	caso	caso	NCMS000	C0868928	calificador	175-179	344_QUEST_clinical_caseMIR	SENT2	-	-
+8	índice	índice	NCMS000	-	-	180-186	344_QUEST_clinical_caseMIR	SENT2	-	-
+9	es	ser	VSIP3S0	-	-	187-189	344_QUEST_clinical_caseMIR	SENT2	-	-
+10	homocigoto	homocigoto	NCMS000	C0019904	hallazgo	190-200	344_QUEST_clinical_caseMIR	SENT2	-	-
+11	para	para	SPS00	C0521125	calificador	201-205	344_QUEST_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	206-208	344_QUEST_clinical_caseMIR	SENT2	-	-
+13	mutación	mutación	NCFS000	-	-	209-217	344_QUEST_clinical_caseMIR	SENT2	-	-
+14	F5O8del	F5O8del		-	-	218-225	344_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	226-227	344_QUEST_clinical_caseMIR	SENT2	-	-
+16	sus	su	DP3CP0	-	-	228-231	344_QUEST_clinical_caseMIR	SENT2	-	-
+17	padres	padre	NCMP000	C0015671	persona	232-238	344_QUEST_clinical_caseMIR	SENT2	-	-
+18	portadores	portador	AQ0MP0	C0560175	hallazgo	239-249	344_QUEST_clinical_caseMIR	SENT2	-	-
+19	heterocigotos	heterocigoto	NCMP000	C0019425	calificador	250-263	344_QUEST_clinical_caseMIR	SENT2	-	-
+20	.	.	Fp	-	-	263-264	344_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	265-267	344_QUEST_clinical_caseMIR	SENT3	-	-
+2	genetista	genetista	NCCS000	C0586868_1	ocupación_1	268-277	344_QUEST_clinical_caseMIR	SENT3	-	-
+3	clínico	clínico	NCMS000	C0586868_2	ocupación_2	278-285	344_QUEST_clinical_caseMIR	SENT3	-	-
+4	les	le	PP3CPD00	C1292157#C0409974	hallazgo#trastorno	286-289	344_QUEST_clinical_caseMIR	SENT3	-	-
+5	informará	informar	VMIF3S0	C0700287	procedimiento	290-299	344_QUEST_clinical_caseMIR	SENT3	-	-
+6	acerca	acercar	VMM02S0	-	-	300-306	344_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	307-309	344_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	el	DA0FS0	-	-	310-312	344_QUEST_clinical_caseMIR	SENT3	-	-
+9	forma	forma	NCFS000	C0348078	atributo	313-318	344_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	319-321	344_QUEST_clinical_caseMIR	SENT3	-	-
+11	transmisión	transmisión	NCFS000	C1521797	calificador	322-333	344_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	334-336	344_QUEST_clinical_caseMIR	SENT3	-	-
+13	la	el	DA0FS0	-	-	337-339	344_QUEST_clinical_caseMIR	SENT3	-	-
+14	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	340-350	344_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+15	.	.	Fp	-	-	350-351	344_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	352-353	344_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	353-356	344_QUEST_clinical_caseMIR	SENT4	-	-
+3	afirmación	afirmación	NCFS000	-	-	357-367	344_QUEST_clinical_caseMIR	SENT4	-	-
+4	es	ser	VSIP3S0	-	-	368-370	344_QUEST_clinical_caseMIR	SENT4	-	-
+5	la	el	DA0FS0	-	-	371-373	344_QUEST_clinical_caseMIR	SENT4	-	-
+6	correcta	correcto	AQ0FS0	C0205170	calificador	374-382	344_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	382-383	344_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	383-384	344_QUEST_clinical_caseMIR	SENT4	-	-
+

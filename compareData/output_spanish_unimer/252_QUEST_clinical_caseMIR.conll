@@ -1,0 +1,110 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	252_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	252_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	252_QUEST_clinical_caseMIR	SENT1	-	-
+4	67	67		-	-	13-15	252_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	252_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	20-21	252_QUEST_clinical_caseMIR	SENT1	-	-
+7	diagnosticado	diagnosticar	VMP00SM	-	-	22-35	252_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	36-38	252_QUEST_clinical_caseMIR	SENT1	-	-
+9	cirrosis	cirrosis	NCFN000	C0023890_1	trastorno_1	39-47	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	hepática	hepático	AQ0FS0	C0023890_2	trastorno_2	48-56	252_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	y	y	CC	C1706368	calificador	57-58	252_QUEST_clinical_caseMIR	SENT1	-	-
+12	bebedor	bebedor	NCMS000	-	-	59-66	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	activo	activo	AQ0MS0	C0205177	calificador	67-73	252_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	,	,	Fc	-	-	73-74	252_QUEST_clinical_caseMIR	SENT1	-	-
+15	ingresa	ingresar	VMIP3S0	-	-	75-82	252_QUEST_clinical_caseMIR	SENT1	-	-
+16	por	por	SPS00	C0678226	atributo	83-86	252_QUEST_clinical_caseMIR	SENT1	-	-
+17	cuadro	cuadro	NCMS000	-	-	87-93	252_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	94-96	252_QUEST_clinical_caseMIR	SENT1	-	-
+19	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	97-107	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	108-117	252_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	progresiva	progresivo	AQ0FS0	C0205329	calificador	118-128	252_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	con	con	SPS00	C0332287	atributo	129-132	252_QUEST_clinical_caseMIR	SENT1	-	-
+23	malestar	malestar	NCMS000	C0231218	hallazgo	133-141	252_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	difuso	difuso	AQ0MS0	C0205219	calificador	142-148	252_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+25	,	,	Fc	-	-	148-149	252_QUEST_clinical_caseMIR	SENT1	-	-
+26	de	de	SPS00	C0332285	atributo	150-152	252_QUEST_clinical_caseMIR	SENT1	-	-
+27	dos	dos		-	-	153-156	252_QUEST_clinical_caseMIR	SENT1	-	-
+28	semanas	semana	NCFP000	C0439230	calificador	157-164	252_QUEST_clinical_caseMIR	SENT1	-	-
+29	de	de	SPS00	C0332285	atributo	165-167	252_QUEST_clinical_caseMIR	SENT1	-	-
+30	evolución	evolución	NCFS000	-	-	168-177	252_QUEST_clinical_caseMIR	SENT1	-	-
+31	.	.	Fp	-	-	177-178	252_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	179-181	252_QUEST_clinical_caseMIR	SENT2	-	-
+2	refiere	referir	VMIP3S0	-	-	182-189	252_QUEST_clinical_caseMIR	SENT2	-	-
+3	fiebre	fiebre	NCFS000	C0015967	hallazgo	190-196	252_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+4	ni	ni	CC	-	-	197-199	252_QUEST_clinical_caseMIR	SENT2	-	-
+5	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	200-205	252_QUEST_clinical_caseMIR	SENT2	-	-
+6	síntomas	síntoma	NCMP000	C1457887	hallazgo	206-214	252_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	214-215	252_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	216-217	252_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	218-220	252_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	221-232	252_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	233-240	252_QUEST_clinical_caseMIR	SENT3	-	-
+5	matidez	matidez	NCFS000	-	-	241-248	252_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	cambiante	cambiante	AQ0CS0	C0392747	calificador	249-258	252_QUEST_clinical_caseMIR	SENT3	-	-
+7	a	a	SPS00	-	-	259-260	252_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	el	DA0FS0	-	-	261-263	252_QUEST_clinical_caseMIR	SENT3	-	-
+9	percusión	percusión	NCFS000	C0030987#C1689935	procedimiento#régimen/tratamiento	264-273	252_QUEST_clinical_caseMIR	SENT3	-	-
+10	abdominal	abdominal	AQ0CS0	C0000726	calificador	274-283	252_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	,	,	Fc	-	-	283-284	252_QUEST_clinical_caseMIR	SENT3	-	-
+12	con	con	SPS00	C0332287	atributo	285-288	252_QUEST_clinical_caseMIR	SENT3	-	-
+13	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	289-297	252_QUEST_clinical_caseMIR	SENT3	-	-
+14	de	de	SPS00	C0332197_2	calificador_2	298-300	252_QUEST_clinical_caseMIR	SENT3	-	-
+15	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	301-307	252_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	.	.	Fp	-	-	307-308	252_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	309-311	252_QUEST_clinical_caseMIR	SENT4	-	-
+2	realiza	realizar	VMIP3S0	-	-	312-319	252_QUEST_clinical_caseMIR	SENT4	-	-
+3	una	una		C0205447_1	calificador_1	320-323	252_QUEST_clinical_caseMIR	SENT4	-	-
+4	paracentesis	paracentesis	NCFN000	C0034115	procedimiento	324-336	252_QUEST_clinical_caseMIR	SENT4	-	-
+5	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	337-348	252_QUEST_clinical_caseMIR	SENT4	-	-
+6	,	,	Fc	-	-	348-349	252_QUEST_clinical_caseMIR	SENT4	-	-
+7	encontrando	encontrar	VMG0000	-	-	350-361	252_QUEST_clinical_caseMIR	SENT4	-	-
+8	un	un		C0205447_1	calificador_1	362-364	252_QUEST_clinical_caseMIR	SENT4	-	-
+9	líquido	líquido	NCMS000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	365-372	252_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	ligeramente	ligeramente	RG	C0750482	calificador	373-384	252_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+11	turbio	turbio	AQ0MS0	C0205406#C0311420	calificador	385-391	252_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+12	,	,	Fc	-	-	391-392	252_QUEST_clinical_caseMIR	SENT4	-	-
+13	con	con	SPS00	C0332287	atributo	393-396	252_QUEST_clinical_caseMIR	SENT4	-	-
+14	2.300	2.300		-	-	397-402	252_QUEST_clinical_caseMIR	SENT4	-	-
+15	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	403-410	252_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+16	/	/	Fh	-	-	410-411	252_QUEST_clinical_caseMIR	SENT4	-	-
+17	mL	mililitro	NCMN000	C0439242	calificador	411-413	252_QUEST_clinical_caseMIR	SENT4	-	-
+18	,	,	Fc	-	-	413-414	252_QUEST_clinical_caseMIR	SENT4	-	-
+19	de	de	SPS00	C0332285	atributo	415-417	252_QUEST_clinical_caseMIR	SENT4	-	-
+20	las	el	DA0FP0	-	-	418-421	252_QUEST_clinical_caseMIR	SENT4	-	-
+21	cuales	cual	PR0CP000	-	-	422-428	252_QUEST_clinical_caseMIR	SENT4	-	-
+22	30	30	Z	-	-	429-431	252_QUEST_clinical_caseMIR	SENT4	-	-
+23	%	%	Ft	-	-	431-432	252_QUEST_clinical_caseMIR	SENT4	-	-
+24	son	ser	VSIP3P0	-	-	433-436	252_QUEST_clinical_caseMIR	SENT4	-	-
+25	linfocitos	linfocito	NCMP000	C0024264	célula	437-447	252_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+26	,	,	Fc	-	-	447-448	252_QUEST_clinical_caseMIR	SENT4	-	-
+27	60	60	Z	-	-	449-451	252_QUEST_clinical_caseMIR	SENT4	-	-
+28	%	%	Ft	-	-	451-452	252_QUEST_clinical_caseMIR	SENT4	-	-
+29	polimorfonucleares	polimorfonuclear	AQ0CP0	-	-	453-471	252_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+30	y	y	CC	C1706368	calificador	472-473	252_QUEST_clinical_caseMIR	SENT4	-	-
+31	10	10	Z	-	-	474-476	252_QUEST_clinical_caseMIR	SENT4	-	-
+32	%	%	Ft	-	-	476-477	252_QUEST_clinical_caseMIR	SENT4	-	-
+33	hematíes	hematíe	NCMP000	-	-	478-486	252_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+34	.	.	Fp	-	-	486-487	252_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	488-489	252_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	489-493	252_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	494-496	252_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	497-499	252_QUEST_clinical_caseMIR	SENT5	-	-
+5	primera	1	AO0FS0	-	-	500-507	252_QUEST_clinical_caseMIR	SENT5	-	-
+6	medida	medida	NCFS000	C0079809	atributo	508-514	252_QUEST_clinical_caseMIR	SENT5	-	-
+7	terapéutica	terapéutico	AQ0FS0	-	-	515-526	252_QUEST_clinical_caseMIR	SENT5	-	-
+8	que	que	PR0CN000	-	-	527-530	252_QUEST_clinical_caseMIR	SENT5	-	-
+9	pautaría	pautar	VMIC3S0	-	-	531-539	252_QUEST_clinical_caseMIR	SENT5	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	540-542	252_QUEST_clinical_caseMIR	SENT5	-	-
+11	este	este	DD0MS0	-	-	543-547	252_QUEST_clinical_caseMIR	SENT5	-	-
+12	paciente	paciente	NCCS000	C0030705	persona	548-556	252_QUEST_clinical_caseMIR	SENT5	-	-
+13	de	de	SPS00	C0332285	atributo	557-559	252_QUEST_clinical_caseMIR	SENT5	-	-
+14	forma	forma	NCFS000	C0348078	atributo	560-565	252_QUEST_clinical_caseMIR	SENT5	-	-
+15	inmediata	inmediato	AQ0FS0	C0205253	calificador	566-575	252_QUEST_clinical_caseMIR	SENT5	-	-
+16	?	?	Fit	-	-	575-576	252_QUEST_clinical_caseMIR	SENT5	-	-
+17	.	.	Fp	-	-	576-577	252_QUEST_clinical_caseMIR	SENT5	-	-
+

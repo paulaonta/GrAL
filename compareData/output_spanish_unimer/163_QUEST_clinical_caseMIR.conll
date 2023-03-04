@@ -1,0 +1,55 @@
+1	Diabético	diabético	AQ0MS0	-	-	0-9	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	tipo	tipo	NCMS000	C0441729_1	calificador_1	10-14	163_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+3	1	1	Z	C0441729_2	calificador_2	15-16	163_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+4	que	que	PR0CN000	-	-	17-20	163_QUEST_clinical_caseMIR	SENT1	-	-
+5	acude	acudir	VMIP3S0	-	-	21-26	163_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	27-28	163_QUEST_clinical_caseMIR	SENT1	-	-
+7	Urgencias	urgencia	NCFP000	C0439609	calificador	29-38	163_QUEST_clinical_caseMIR	SENT1	-	-
+8	por	por	SPS00	C0678226	atributo	39-42	163_QUEST_clinical_caseMIR	SENT1	-	-
+9	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	43-49	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	50-51	163_QUEST_clinical_caseMIR	SENT1	-	-
+11	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	52-60	163_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	61-68	163_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	.	.	Fp	-	-	68-69	163_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	70-72	163_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	73-75	163_QUEST_clinical_caseMIR	SENT2	-	-
+3	analítica	analítica	NCFS000	-	-	76-85	163_QUEST_clinical_caseMIR	SENT2	-	-
+4	presenta	presentar	VMIP3S0	-	-	86-94	163_QUEST_clinical_caseMIR	SENT2	-	-
+5	glucemia	glucemia	NCFS000	C2585282	entidad_observable	95-103	163_QUEST_clinical_caseMIR	SENT2	-	-
+6	450	450	Z	-	-	104-107	163_QUEST_clinical_caseMIR	SENT2	-	-
+7	mg	mg	NCMN000	-	-	108-110	163_QUEST_clinical_caseMIR	SENT2	-	-
+8	/	/	Fh	-	-	110-111	163_QUEST_clinical_caseMIR	SENT2	-	-
+9	dl	decilitro	NCMN000	C0439241	calificador	111-113	163_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	113-114	163_QUEST_clinical_caseMIR	SENT2	-	-
+11	Na	noradrenalina	NC00YL0	C0028351	producto#sustancia	115-117	163_QUEST_clinical_caseMIR	SENT2	-	-
+12	142	142		-	-	118-121	163_QUEST_clinical_caseMIR	SENT2	-	-
+13	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	122-125	163_QUEST_clinical_caseMIR	SENT2	-	-
+14	/	/	Fh	-	-	125-126	163_QUEST_clinical_caseMIR	SENT2	-	-
+15	l	l	NCFS000	-	-	126-127	163_QUEST_clinical_caseMIR	SENT2	-	-
+16	,	,	Fc	-	-	127-128	163_QUEST_clinical_caseMIR	SENT2	-	-
+17	K	k	NCFS000	-	-	129-130	163_QUEST_clinical_caseMIR	SENT2	-	-
+18	4	4		-	-	131-132	163_QUEST_clinical_caseMIR	SENT2	-	-
+19	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	133-136	163_QUEST_clinical_caseMIR	SENT2	-	-
+20	/	/	Fh	-	-	136-137	163_QUEST_clinical_caseMIR	SENT2	-	-
+21	l	l	NCFS000	-	-	137-138	163_QUEST_clinical_caseMIR	SENT2	-	-
+22	,	,	Fc	-	-	138-139	163_QUEST_clinical_caseMIR	SENT2	-	-
+23	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	140-142	163_QUEST_clinical_caseMIR	SENT2	-	-
+24	7.15	7.15		-	-	143-147	163_QUEST_clinical_caseMIR	SENT2	-	-
+25	,	,	Fc	-	-	147-148	163_QUEST_clinical_caseMIR	SENT2	-	-
+26	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	149-160	163_QUEST_clinical_caseMIR	SENT2	-	-
+27	12	12		-	-	161-163	163_QUEST_clinical_caseMIR	SENT2	-	-
+28	mmol	milimol	NC00YL0	C0439190	calificador	164-168	163_QUEST_clinical_caseMIR	SENT2	-	-
+29	/	/	Fh	-	-	168-169	163_QUEST_clinical_caseMIR	SENT2	-	-
+30	l	l	NCFS000	-	-	169-170	163_QUEST_clinical_caseMIR	SENT2	-	-
+31	.	.	Fp	-	-	170-171	163_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	172-173	163_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	173-176	163_QUEST_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	177-188	163_QUEST_clinical_caseMIR	SENT3	-	-
+4	NO	no	RN	C1298908	calificador	189-191	163_QUEST_clinical_caseMIR	SENT3	-	-
+5	estaría	estar	VAIC1S0	-	-	192-199	163_QUEST_clinical_caseMIR	SENT3	-	-
+6	indicado	indicar	VMP00SM	-	-	200-208	163_QUEST_clinical_caseMIR	SENT3	-	-
+7	?	?	Fit	-	-	208-209	163_QUEST_clinical_caseMIR	SENT3	-	-
+8	.	.	Fp	-	-	209-210	163_QUEST_clinical_caseMIR	SENT3	-	-
+

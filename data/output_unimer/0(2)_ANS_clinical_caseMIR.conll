@@ -1,0 +1,35 @@
+1	Endoscopias	endoscopia	NCFP000	C0014245	procedimiento	0-11	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	vigiliancia	vigiliancia	NCFS000	-	-	15-26	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	periódicas	periódico	AQ0FP0	C0332182	calificador	27-37	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	y	y	CC	C1706368	calificador	38-39	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	40-51	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	52-55	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	inhibidores	inhibidor	NCMP000	-	-	56-67	0(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	de	de	SPS00	C0332285	atributo	68-70	0(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+10	al	al	SP+DA	-	-	71-73	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	bomba	bomba	NCFS000	C0182537	objeto_físico	74-79	0(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	de	de	SPS00	C0332285	atributo	80-82	0(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+13	protones	protón	NCMP000	C0033727	sustancia	83-91	0(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+14	durante	durante	SPS00	C1444752#C0347984	atributo	92-99	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	menos	menos	RG	C0332288	atributo	100-105	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	106-108	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	12	12		-	-	109-111	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	semanas	semana	NCFP000	C0439230	calificador	112-119	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	ya	ya	RG	-	-	120-122	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	que	que	PR0CN000	-	-	123-126	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	127-139	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	más	más	RG	C0205172	calificador	140-143	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	prolongados	prolongar	VMP00PM	-	-	144-155	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+24	se	se	P00CN000	-	-	156-158	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+25	asocian	asociar	VMIP3P0	-	-	159-166	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+26	a	a	SPS00	-	-	167-168	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+27	un	un		C0205447_1	calificador_1	169-171	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+28	alto	alto	NCMS000	C0205250	calificador	172-176	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+29	riesgo	riesgo	NCMS000	-	-	177-183	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	184-186	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+31	desarrollo	desarrollo	NCMS000	-	-	187-197	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332285	atributo	198-200	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+33	gastrinomas	gastrinomas	AQ0FP00	-	-	201-212	0(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+34	.	.	Fp	-	-	213-214	0(2)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,69 @@
+1	Lactante	lactante	NCCS000	C0021270	persona	0-8	210_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	210_QUEST_clinical_caseMIR	SENT1	-	-
+3	1	1		-	-	12-13	210_QUEST_clinical_caseMIR	SENT1	-	-
+4	mes	mes	NCMS000	C0439231	calificador	14-17	210_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	18-20	210_QUEST_clinical_caseMIR	SENT1	-	-
+6	vida	vida	NCFS000	-	-	21-25	210_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	26-29	210_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	30-35	210_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	36-37	210_QUEST_clinical_caseMIR	SENT1	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	38-47	210_QUEST_clinical_caseMIR	SENT1	-	-
+11	del	del	SP+DA	-	-	48-51	210_QUEST_clinical_caseMIR	SENT1	-	-
+12	hospital	hospital	NCMS000	C1510665	medio_ambiente	52-60	210_QUEST_clinical_caseMIR	SENT1	-	-
+13	remitido	remitir	VMP00SM	C0439600	calificador	61-69	210_QUEST_clinical_caseMIR	SENT1	-	-
+14	por	por	SPS00	C0678226	atributo	70-73	210_QUEST_clinical_caseMIR	SENT1	-	-
+15	su	su	DP3CS0	-	-	74-76	210_QUEST_clinical_caseMIR	SENT1	-	-
+16	pediatra	pediatra	NCCS000	C0237433	ocupación	77-85	210_QUEST_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	86-89	210_QUEST_clinical_caseMIR	SENT1	-	-
+18	ictericia	ictericia	NCFS000	C0022346	hallazgo	90-99	210_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	99-100	210_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	101-108	210_QUEST_clinical_caseMIR	SENT2	-	-
+2	ésta	este	PD0FS000	-	-	109-113	210_QUEST_clinical_caseMIR	SENT2	-	-
+3	desde	desde	SPS00	-	-	114-119	210_QUEST_clinical_caseMIR	SENT2	-	-
+4	hace	hacer	VMIP3S0	-	-	120-124	210_QUEST_clinical_caseMIR	SENT2	-	-
+5	10	10	Z	-	-	125-127	210_QUEST_clinical_caseMIR	SENT2	-	-
+6	días	d	NCMP000	-	-	128-132	210_QUEST_clinical_caseMIR	SENT2	-	-
+7	y	y	CC	C1706368	calificador	133-134	210_QUEST_clinical_caseMIR	SENT2	-	-
+8	ha	haber	VAIP3S0	-	-	135-137	210_QUEST_clinical_caseMIR	SENT2	-	-
+9	ido	ir	VMP00SM	-	-	138-141	210_QUEST_clinical_caseMIR	SENT2	-	-
+10	en	en	SPS00	C0442808_1	calificador_1	142-144	210_QUEST_clinical_caseMIR	SENT2	-	-
+11	aumento	aumento	NCMS000	C0442808_2	calificador_2	145-152	210_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	152-153	210_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	154-156	210_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	157-159	210_QUEST_clinical_caseMIR	SENT3	-	-
+3	analítica	analítica	NCFS000	-	-	160-169	210_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	170-172	210_QUEST_clinical_caseMIR	SENT3	-	-
+5	sangre	sangre	NCFS000	C0005767	sustancia	173-179	210_QUEST_clinical_caseMIR	SENT3	-	-
+6	destaca	destacar	VMIP3S0	-	-	180-187	210_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	188-191	210_QUEST_clinical_caseMIR	SENT3	-	-
+8	bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	192-203	210_QUEST_clinical_caseMIR	SENT3	-	-
+9	total	total	NCMS000	C0201913_2	procedimiento_2	204-209	210_QUEST_clinical_caseMIR	SENT3	-	-
+10	de	de	SPS00	C0332285	atributo	210-212	210_QUEST_clinical_caseMIR	SENT3	-	-
+11	7mg/dl	7mg/dl		-	-	213-219	210_QUEST_clinical_caseMIR	SENT3	-	-
+12	siendo	ser	VSG0000	-	-	220-226	210_QUEST_clinical_caseMIR	SENT3	-	-
+13	la	el	DA0FS0	-	-	227-229	210_QUEST_clinical_caseMIR	SENT3	-	-
+14	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	230-241	210_QUEST_clinical_caseMIR	SENT3	-	-
+15	indirecta	indirecto	AQ0FS0	C0439852	calificador	242-251	210_QUEST_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	252-254	210_QUEST_clinical_caseMIR	SENT3	-	-
+17	1,5mg/dl	1,5mg/dl		-	-	255-263	210_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	263-264	210_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	265-267	210_QUEST_clinical_caseMIR	SENT4	-	-
+2	causa	causa	NCFS000	-	-	268-273	210_QUEST_clinical_caseMIR	SENT4	-	-
+3	más	más	RG	C0205172	calificador	274-277	210_QUEST_clinical_caseMIR	SENT4	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	278-286	210_QUEST_clinical_caseMIR	SENT4	-	-
+5	,	,	Fc	-	-	286-287	210_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	288-290	210_QUEST_clinical_caseMIR	SENT4	-	-
+7	entre	entre	SPS00	C0205103	calificador	291-296	210_QUEST_clinical_caseMIR	SENT4	-	-
+8	las	el	DA0FP0	-	-	297-300	210_QUEST_clinical_caseMIR	SENT4	-	-
+9	siguientes	siguiente	AQ0CP0	C0332282	atributo	301-311	210_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	311-312	210_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	313-315	210_QUEST_clinical_caseMIR	SENT4	-	-
+12	esta	este	DD0FS0	-	-	316-320	210_QUEST_clinical_caseMIR	SENT4	-	-
+13	ictericia	ictericia	NCFS000	C0022346	hallazgo	321-330	210_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	es	ser	VSIP3S0	-	-	331-333	210_QUEST_clinical_caseMIR	SENT4	-	-
+15	:	:	Fd	-	-	333-334	210_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	334-335	210_QUEST_clinical_caseMIR	SENT4	-	-
+

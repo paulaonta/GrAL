@@ -1,0 +1,203 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	58_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	58_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	58_QUEST_clinical_caseMIR	SENT1	-	-
+4	85	85		-	-	13-15	58_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	58_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	58_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	58_QUEST_clinical_caseMIR	SENT1	-	-
+8	cansancio	cansancio	NCMS000	C0015672#C0475255	hallazgo#calificador	34-43	58_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	44-45	58_QUEST_clinical_caseMIR	SENT1	-	-
+10	debilidad	debilidad	NCFS000	C0424594#C0004093#C3714552	hallazgo	46-55	58_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	especialmente	especialmente	RG	-	-	56-69	58_QUEST_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C0678226	atributo	70-73	58_QUEST_clinical_caseMIR	SENT1	-	-
+13	las	el	DA0FP0	-	-	74-77	58_QUEST_clinical_caseMIR	SENT1	-	-
+14	mañanas	mañana	NCMP000	C0332170	calificador	78-85	58_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	85-86	58_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	87-88	58_QUEST_clinical_caseMIR	SENT2	-	-
+2	veces	vez	NCFP000	-	-	89-94	58_QUEST_clinical_caseMIR	SENT2	-	-
+3	se	se	P00CN000	-	-	95-97	58_QUEST_clinical_caseMIR	SENT2	-	-
+4	encuentra	encontrar	VMIP3S0	-	-	98-107	58_QUEST_clinical_caseMIR	SENT2	-	-
+5	inestable	inestable	AQ0CS0	C0439829	calificador	108-117	58_QUEST_clinical_caseMIR	SENT2	-	-
+6	al	al	SP+DA	-	-	118-120	58_QUEST_clinical_caseMIR	SENT2	-	-
+7	caminar	caminar	VMN0000	C0080331	entidad_observable	121-128	58_QUEST_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	129-130	58_QUEST_clinical_caseMIR	SENT2	-	-
+9	tiene	tener	VMIP3S0	-	-	131-136	58_QUEST_clinical_caseMIR	SENT2	-	-
+10	que	que	CS	-	-	137-140	58_QUEST_clinical_caseMIR	SENT2	-	-
+11	sentar	sentar	VMN0000	-	-	141-147	58_QUEST_clinical_caseMIR	SENT2	-	-
+12	se	se	PP3CN000	-	-	147-149	58_QUEST_clinical_caseMIR	SENT2	-	-
+13	para	para	SPS00	C0521125	calificador	150-154	58_QUEST_clinical_caseMIR	SENT2	-	-
+14	recuperar	recuperar	VMN0000	-	-	155-164	58_QUEST_clinical_caseMIR	SENT2	-	-
+15	el	el	DA0MS0	-	-	165-167	58_QUEST_clinical_caseMIR	SENT2	-	-
+16	equilibrio	equilibrio	NCMS000	C0205415#C0014653	calificador#entidad_observable#función	168-178	58_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	178-179	58_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	180-182	58_QUEST_clinical_caseMIR	SENT3	-	-
+2	dos	dos		-	-	183-186	58_QUEST_clinical_caseMIR	SENT3	-	-
+3	ocasiones	ocasión	NCFP000	-	-	187-196	58_QUEST_clinical_caseMIR	SENT3	-	-
+4	ha	haber	VAIP3S0	-	-	197-199	58_QUEST_clinical_caseMIR	SENT3	-	-
+5	tenido	tener	VMP00SM	-	-	200-206	58_QUEST_clinical_caseMIR	SENT3	-	-
+6	que	que	CS	-	-	207-210	58_QUEST_clinical_caseMIR	SENT3	-	-
+7	sentar	sentar	VMN0000	-	-	211-217	58_QUEST_clinical_caseMIR	SENT3	-	-
+8	se	se	PP3CN000	-	-	217-219	58_QUEST_clinical_caseMIR	SENT3	-	-
+9	para	para	SPS00	C0521125	calificador	220-224	58_QUEST_clinical_caseMIR	SENT3	-	-
+10	no	no	RN	C1298908	calificador	225-227	58_QUEST_clinical_caseMIR	SENT3	-	-
+11	caer	caer	VMN0000	-	-	228-232	58_QUEST_clinical_caseMIR	SENT3	-	-
+12	pero	pero	CC	-	-	233-237	58_QUEST_clinical_caseMIR	SENT3	-	-
+13	niega	negar	VMIP3S0	-	-	238-243	58_QUEST_clinical_caseMIR	SENT3	-	-
+14	síntomas	síntoma	NCMP000	C1457887	hallazgo	244-252	58_QUEST_clinical_caseMIR	SENT3	-	-
+15	de	de	SPS00	C0332285	atributo	253-255	58_QUEST_clinical_caseMIR	SENT3	-	-
+16	mareo	mareo	NCMS000	C0012833#C0220870	hallazgo	256-261	58_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+17	.	.	Fp	-	-	261-262	58_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	263-268	58_QUEST_clinical_caseMIR	SENT4	-	-
+2	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	269-281	58_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+3	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	282-290	58_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	,	,	Fc	-	-	290-291	58_QUEST_clinical_caseMIR	SENT4	-	-
+5	incontinencia	incontinencia	NCFS000	C0042024#C0312413_1	hallazgo_1	292-305	58_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	urinaria	urinario	AQ0FS0	C0042024#C0312413_2	hallazgo_2	306-314	58_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+7	y	y	CC	C1706368	calificador	315-316	58_QUEST_clinical_caseMIR	SENT4	-	-
+8	artrosis	artrosis	NCFN000	C0029408	trastorno	317-325	58_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+9	.	.	Fp	-	-	325-326	58_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Su	su	DP3CS0	-	-	327-329	58_QUEST_clinical_caseMIR	SENT5	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	330-341	58_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	342-344	58_QUEST_clinical_caseMIR	SENT5	-	-
+4	hidroclorotiazida	hidroclorotiazida	NCMS000	C0020261	producto#sustancia	345-362	58_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+5	(	(	Fpa	-	-	363-364	58_QUEST_clinical_caseMIR	SENT5	-	-
+6	25	25	Z	-	-	364-366	58_QUEST_clinical_caseMIR	SENT5	-	-
+7	mg	mg	NCMN000	-	-	367-369	58_QUEST_clinical_caseMIR	SENT5	-	-
+8	/	/	Fh	-	-	369-370	58_QUEST_clinical_caseMIR	SENT5	-	-
+9	d	d	NCFS000	-	-	370-371	58_QUEST_clinical_caseMIR	SENT5	-	-
+10	)	)	Fpt	-	-	371-372	58_QUEST_clinical_caseMIR	SENT5	-	-
+11	,	,	Fc	-	-	372-373	58_QUEST_clinical_caseMIR	SENT5	-	-
+12	oxibutinina	oxibutinina	NC00SC0	C0069805	sustancia	374-385	58_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+13	(	(	Fpa	-	-	386-387	58_QUEST_clinical_caseMIR	SENT5	-	-
+14	10	10	Z	-	-	387-389	58_QUEST_clinical_caseMIR	SENT5	-	-
+15	mg	mg	NCMN000	-	-	390-392	58_QUEST_clinical_caseMIR	SENT5	-	-
+16	/	/	Fh	-	-	392-393	58_QUEST_clinical_caseMIR	SENT5	-	-
+17	d	d	NCFS000	-	-	393-394	58_QUEST_clinical_caseMIR	SENT5	-	-
+18	)	)	Fpt	-	-	394-395	58_QUEST_clinical_caseMIR	SENT5	-	-
+19	,	,	Fc	-	-	395-396	58_QUEST_clinical_caseMIR	SENT5	-	-
+20	lisinopril	lisinopril	NC00SC0	C0065374	producto#sustancia	397-407	58_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+21	(	(	Fpa	-	-	408-409	58_QUEST_clinical_caseMIR	SENT5	-	-
+22	10	10	Z	-	-	409-411	58_QUEST_clinical_caseMIR	SENT5	-	-
+23	mg	mg	NCMN000	-	-	412-414	58_QUEST_clinical_caseMIR	SENT5	-	-
+24	/	/	Fh	-	-	414-415	58_QUEST_clinical_caseMIR	SENT5	-	-
+25	d	d	NCFS000	-	-	415-416	58_QUEST_clinical_caseMIR	SENT5	-	-
+26	)	)	Fpt	-	-	416-417	58_QUEST_clinical_caseMIR	SENT5	-	-
+27	,	,	Fc	-	-	417-418	58_QUEST_clinical_caseMIR	SENT5	-	-
+28	calcio	calcio	NCMS000	C0006675	sustancia	419-425	58_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+29	(	(	Fpa	-	-	426-427	58_QUEST_clinical_caseMIR	SENT5	-	-
+30	1500	1500	Z	-	-	427-431	58_QUEST_clinical_caseMIR	SENT5	-	-
+31	mg	mg	NCMN000	-	-	432-434	58_QUEST_clinical_caseMIR	SENT5	-	-
+32	/	/	Fh	-	-	434-435	58_QUEST_clinical_caseMIR	SENT5	-	-
+33	d	d	NCFS000	-	-	435-436	58_QUEST_clinical_caseMIR	SENT5	-	-
+34	)	)	Fpt	-	-	436-437	58_QUEST_clinical_caseMIR	SENT5	-	-
+35	y	y	CC	C1706368	calificador	438-439	58_QUEST_clinical_caseMIR	SENT5	-	-
+36	paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	440-451	58_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+37	(	(	Fpa	-	-	452-453	58_QUEST_clinical_caseMIR	SENT5	-	-
+38	3	3	Z	-	-	453-454	58_QUEST_clinical_caseMIR	SENT5	-	-
+39	gr	g	NC00SC0	-	-	455-457	58_QUEST_clinical_caseMIR	SENT5	-	-
+40	/	/	Fh	-	-	457-458	58_QUEST_clinical_caseMIR	SENT5	-	-
+41	d	d	NCFS000	-	-	458-459	58_QUEST_clinical_caseMIR	SENT5	-	-
+42	)	)	Fpt	-	-	459-460	58_QUEST_clinical_caseMIR	SENT5	-	-
+43	.	.	Fp	-	-	460-461	58_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	A	a	SPS00	-	-	462-463	58_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	464-466	58_QUEST_clinical_caseMIR	SENT6	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	467-478	58_QUEST_clinical_caseMIR	SENT6	-	-
+4	destaca	destacar	VMIP3S0	-	-	479-486	58_QUEST_clinical_caseMIR	SENT6	-	-
+5	una	una		C0205447_1	calificador_1	487-490	58_QUEST_clinical_caseMIR	SENT6	-	-
+6	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	491-498	58_QUEST_clinical_caseMIR	SENT6	-	-
+7	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	499-507	58_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+8	de	de	SPS00	C0332285	atributo	508-510	58_QUEST_clinical_caseMIR	SENT6	-	-
+9	115/70	115/70	Z	-	-	511-517	58_QUEST_clinical_caseMIR	SENT6	-	-
+10	mmHg	mmHg	NCMP000	-	-	518-522	58_QUEST_clinical_caseMIR	SENT6	-	-
+11	,	,	Fc	-	-	522-523	58_QUEST_clinical_caseMIR	SENT6	-	-
+12	pulso	pulso	NCMS000	C0391850	función	524-529	58_QUEST_clinical_caseMIR	SENT6	-	-
+13	80	80		-	-	530-532	58_QUEST_clinical_caseMIR	SENT6	-	-
+14	lpm	lpm	NC00YL0	-	-	533-536	58_QUEST_clinical_caseMIR	SENT6	-	-
+15	.	.	Fp	-	-	536-537	58_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Sus	su	DP3CP0	-	-	538-541	58_QUEST_clinical_caseMIR	SENT7	-	-
+2	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	542-553	58_QUEST_clinical_caseMIR	SENT7	-	-
+3	son	ser	VSIP3P0	-	-	554-557	58_QUEST_clinical_caseMIR	SENT7	-	-
+4	lentos	lento	AQ0MP0	C0439834	calificador	558-564	58_QUEST_clinical_caseMIR	SENT7	-	-
+5	.	.	Fp	-	-	564-565	58_QUEST_clinical_caseMIR	SENT7	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	566-571	58_QUEST_clinical_caseMIR	SENT8	-	-
+2	un	un		C0205447_1	calificador_1	572-574	58_QUEST_clinical_caseMIR	SENT8	-	-
+3	temblor	temblor	NCMS000	C0040822#C1527384_1	hallazgo_1	575-582	58_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-
+4	moderado	moderar	VMP00SM	-	-	583-591	58_QUEST_clinical_caseMIR	SENT8	B-Calificador	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	592-594	58_QUEST_clinical_caseMIR	SENT8	-	-
+6	las	el	DA0FP0	-	-	595-598	58_QUEST_clinical_caseMIR	SENT8	-	-
+7	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	599-604	58_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	604-605	58_QUEST_clinical_caseMIR	SENT8	-	-
+
+1	Puede	poder	VMIP3S0	-	-	606-611	58_QUEST_clinical_caseMIR	SENT9	-	-
+2	levantarse	levantar	VMN0000	C1290946_1	entidad_observable_1	612-622	58_QUEST_clinical_caseMIR	SENT9	-	-
+3	de	de	SPS00	C1290946_2	entidad_observable_2	623-625	58_QUEST_clinical_caseMIR	SENT9	-	-
+4	la	lo	PP3FSA00	C1290946_3	entidad_observable_3	626-628	58_QUEST_clinical_caseMIR	SENT9	-	-
+5	silla	silla	NCFS000	C1290946_4	entidad_observable_4	629-634	58_QUEST_clinical_caseMIR	SENT9	-	-
+6	lentamente	lentamente	RG	C0439834	calificador	635-645	58_QUEST_clinical_caseMIR	SENT9	-	-
+7	pero	pero	CC	-	-	646-650	58_QUEST_clinical_caseMIR	SENT9	-	-
+8	sin	sin	SPS00	C0332288	atributo	651-654	58_QUEST_clinical_caseMIR	SENT9	-	-
+9	necesidad	necesidad	NCFS000	-	-	655-664	58_QUEST_clinical_caseMIR	SENT9	-	-
+10	de	de	SPS00	C0332285	atributo	665-667	58_QUEST_clinical_caseMIR	SENT9	-	-
+11	apoyar	apoyar	VMN0000	-	-	668-674	58_QUEST_clinical_caseMIR	SENT9	-	-
+12	se	se	PP3CN000	-	-	674-676	58_QUEST_clinical_caseMIR	SENT9	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	677-679	58_QUEST_clinical_caseMIR	SENT9	-	-
+14	los	el	DA0MP0	-	-	680-683	58_QUEST_clinical_caseMIR	SENT9	-	-
+15	brazos	brazo	NCMP000	C1269612#C1140618#C0446516	estructura_corporal	684-690	58_QUEST_clinical_caseMIR	SENT9	B-Estructura_Corporal	-
+16	.	.	Fp	-	-	690-691	58_QUEST_clinical_caseMIR	SENT9	-	-
+
+1	Camina	caminar	VMIP3S0	C0080331	entidad_observable	692-698	58_QUEST_clinical_caseMIR	SENT10	-	-
+2	levemente	levemente	RG	-	-	699-708	58_QUEST_clinical_caseMIR	SENT10	-	-
+3	inclinada	inclinar	VMP00SF	-	-	709-718	58_QUEST_clinical_caseMIR	SENT10	-	-
+4	hacia	hacia	SPS00	C0439780_1	calificador_1	719-724	58_QUEST_clinical_caseMIR	SENT10	-	-
+5	delante	delante	RG	C0439780_2	calificador_2	725-732	58_QUEST_clinical_caseMIR	SENT10	-	-
+6	con	con	SPS00	C0332287	atributo	733-736	58_QUEST_clinical_caseMIR	SENT10	-	-
+7	poco	poco	DI0MS0	C0700321#C1282918	-	737-741	58_QUEST_clinical_caseMIR	SENT10	-	-
+8	balanceo	balanceo	NCMS000	-	-	742-750	58_QUEST_clinical_caseMIR	SENT10	-	-
+9	de	de	SPS00	C0332285	atributo	751-753	58_QUEST_clinical_caseMIR	SENT10	-	-
+10	los	el	DA0MP0	-	-	754-757	58_QUEST_clinical_caseMIR	SENT10	-	-
+11	brazos	brazo	NCMP000	C1269612#C1140618#C0446516	estructura_corporal	758-764	58_QUEST_clinical_caseMIR	SENT10	B-Estructura_Corporal	-
+12	.	.	Fp	-	-	764-765	58_QUEST_clinical_caseMIR	SENT10	-	-
+
+1	Gira	gira	NCFS000	C0541749	hallazgo	766-770	58_QUEST_clinical_caseMIR	SENT11	-	-
+2	lentamente	lentamente	RG	C0439834	calificador	771-781	58_QUEST_clinical_caseMIR	SENT11	-	-
+3	pero	pero	CC	-	-	782-786	58_QUEST_clinical_caseMIR	SENT11	-	-
+4	sin	sin	SPS00	C0332288	atributo	787-790	58_QUEST_clinical_caseMIR	SENT11	-	-
+5	perder	perder	VMN0000	-	-	791-797	58_QUEST_clinical_caseMIR	SENT11	-	-
+6	el	el	DA0MS0	-	-	798-800	58_QUEST_clinical_caseMIR	SENT11	-	-
+7	equilibrio	equilibrio	NCMS000	C0205415#C0014653	calificador#entidad_observable#función	801-811	58_QUEST_clinical_caseMIR	SENT11	-	-
+8	.	.	Fp	-	-	811-812	58_QUEST_clinical_caseMIR	SENT11	-	-
+
+1	No	no	RN	C1298908	calificador	813-815	58_QUEST_clinical_caseMIR	SENT12	-	-
+2	es	ser	VSIP3S0	-	-	816-818	58_QUEST_clinical_caseMIR	SENT12	-	-
+3	capaz	capaz	AQ0CS0	C1299581	calificador	819-824	58_QUEST_clinical_caseMIR	SENT12	-	-
+4	de	de	SPS00	C0332285	atributo	825-827	58_QUEST_clinical_caseMIR	SENT12	-	-
+5	mantener	mantener	VMN0000	-	-	828-836	58_QUEST_clinical_caseMIR	SENT12	-	-
+6	se	se	PP3CN000	-	-	836-838	58_QUEST_clinical_caseMIR	SENT12	-	-
+7	sobre	sobre	SPS00	C1720294#C0205136	calificador	839-844	58_QUEST_clinical_caseMIR	SENT12	-	-
+8	un	un		C0205447_1	calificador_1	845-847	58_QUEST_clinical_caseMIR	SENT12	-	-
+9	solo	solo	AQ0MS0	C0205171	calificador	848-852	58_QUEST_clinical_caseMIR	SENT12	-	-
+10	pie	pie	NCMS000	C1281587#C0347981#C0016504	estructura_corporal#calificador	853-856	58_QUEST_clinical_caseMIR	SENT12	-	-
+11	.	.	Fp	-	-	856-857	58_QUEST_clinical_caseMIR	SENT12	-	-
+
+1	¿	¿	Fia	-	-	858-859	58_QUEST_clinical_caseMIR	SENT13	-	-
+2	Cuál	cuál	PT0CS000	-	-	859-863	58_QUEST_clinical_caseMIR	SENT13	-	-
+3	de	de	SPS00	C0332285	atributo	864-866	58_QUEST_clinical_caseMIR	SENT13	-	-
+4	las	el	DA0FP0	-	-	867-870	58_QUEST_clinical_caseMIR	SENT13	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	871-881	58_QUEST_clinical_caseMIR	SENT13	-	-
+6	posibles	posible	AQ0CP0	C0332149#C2362652	calificador	882-890	58_QUEST_clinical_caseMIR	SENT13	-	-
+7	actuaciones	actuación	NCFP000	C0699820	hallazgo	891-902	58_QUEST_clinical_caseMIR	SENT13	-	-
+8	realizaría	realizar	VMIC3S0	-	-	903-913	58_QUEST_clinical_caseMIR	SENT13	-	-
+9	en	en	SPS00	C1279901_1	calificador_1	914-916	58_QUEST_clinical_caseMIR	SENT13	-	-
+10	primer	1	AO0MS0	C1279901_2	calificador_2	917-923	58_QUEST_clinical_caseMIR	SENT13	-	-
+11	lugar	lugar	NCMS000	C1279901_3	calificador_3	924-929	58_QUEST_clinical_caseMIR	SENT13	-	-
+12	?	?	Fit	-	-	929-930	58_QUEST_clinical_caseMIR	SENT13	-	-
+13	:	:	Fd	-	-	930-931	58_QUEST_clinical_caseMIR	SENT13	-	-
+14	.	.	Fp	-	-	931-932	58_QUEST_clinical_caseMIR	SENT13	-	-
+

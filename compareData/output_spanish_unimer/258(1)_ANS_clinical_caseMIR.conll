@@ -1,0 +1,21 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	rotura	rotura	NCFS000	-	-	11-17	258(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	de	de	SPS00	C0332285	atributo	18-20	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	pared	pared	NCFS000	-	-	21-26	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	libre	libre	AQ0CS0	-	-	27-32	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	hay	haber	VMIP3S0	-	-	33-36	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	salto	salto	NCMS000	-	-	37-42	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	oximétrico	oximétrico	AQ0MS00	-	-	43-53	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	54-56	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	57-59	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	ventrículo	ventrículo	NCMS000	C1269891#C0225883_1	estructura_corporal_1	60-70	258(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	derecho	derecho	NCMS000	C1269891#C0225883_2	estructura_corporal_2	71-78	258(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	79-81	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	el	el	DA0MS0	-	-	82-84	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	cateterismo	cateterismo	NCMS000	C0007430	procedimiento	85-96	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	97-99	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	Swan-Ganz	swan-ganz	NCFS000	-	-	100-109	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	110-111	258(1)_ANS_clinical_caseMIR	SENT1	-	-
+

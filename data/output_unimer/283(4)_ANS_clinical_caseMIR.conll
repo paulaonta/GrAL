@@ -1,0 +1,17 @@
+1	Debe	deber	VMIP3S0	-	-	0-4	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	anticoagularse	anticoagularse	VMN0000	-	-	5-19	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	solo	solo	RG	C0205171	calificador	20-24	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	25-28	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	heparina	heparina	NCFS000	C0019139_1	producto#sustancia_1	29-37	283(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	de	de	SPS00	C0019139_2	producto#sustancia_2	38-40	283(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	bajo	bajo	SPS00	C0019139_3	producto#sustancia_3	41-45	283(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	peso	peso	NCMS000	C0019139_4	producto#sustancia_4	46-50	283(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	molecular	molecular	AQ0CS0	C0019139_5	producto#sustancia_5	51-60	283(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+10	subcutánea	subcutáneo	AQ0FS0	C0443315	calificador	61-71	283(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	cuando	cuando	CS	-	-	72-78	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	esté	estar	VASP1S0	-	-	79-83	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	84-86	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	87-98	283(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	auricular	auricular	NCMS000	C0004238_2	trastorno_2	99-108	283(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	.	.	Fp	-	-	109-110	283(4)_ANS_clinical_caseMIR	SENT1	-	-
+

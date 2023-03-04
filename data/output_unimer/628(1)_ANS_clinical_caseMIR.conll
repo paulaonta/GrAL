@@ -1,0 +1,15 @@
+1	Solicitar	solicitar	VMN0000	-	-	0-9	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	determinación	determinación	NCFS000	C0242485	procedimiento	10-23	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	24-26	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	ácido	ácido	NCMS000	C0041980_1	sustancia_1	27-32	628(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	úrico	úrico	AQ0MS0	C0041980_2	sustancia_2	33-38	628(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	e	y	CC	C1706368	calificador	39-40	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	iniciar	iniciar	VMN0000	-	-	41-48	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	49-60	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	61-69	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	70-73	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	colchícina	colchícina	NCFS000	-	-	74-84	628(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	y	y	CC	C1706368	calificador	85-86	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	alopurinol	alopurinol	NC00SC0	C0002144	sustancia	87-97	628(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	.	.	Fp	-	-	98-99	628(1)_ANS_clinical_caseMIR	SENT1	-	-
+

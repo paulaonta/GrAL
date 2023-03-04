@@ -1,0 +1,76 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	150_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	150_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	150_QUEST_clinical_caseMIR	SENT1	-	-
+4	52	52		-	-	15-17	150_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	150_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	23-26	150_QUEST_clinical_caseMIR	SENT1	-	-
+7	enfermedad	enfermedad	NCFS000	C0403447_1	trastorno_1	27-37	150_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	renal	renal	AQ0CS0	C0403447_2	trastorno_2	38-43	150_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	44-51	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	estadio	estadio	NCMS000	C0441777_1	calificador_1	52-59	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	V	v	NCFS000	C0441777_2	calificador_2	60-61	150_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+12	,	,	Fc	-	-	61-62	150_QUEST_clinical_caseMIR	SENT1	-	-
+13	secundaria	secundario	AQ0FS0	C0175668	calificador	63-73	150_QUEST_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	74-75	150_QUEST_clinical_caseMIR	SENT1	-	-
+15	poliquistosis	poliquistosis	NCFN000	-	-	76-89	150_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	autosómica	autosómica	AQ0FS00	-	-	90-100	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	dominante	dominante	AQ0CS0	-	-	101-110	150_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	,	,	Fc	-	-	110-111	150_QUEST_clinical_caseMIR	SENT1	-	-
+19	recibe	recibir	VMIP3S0	-	-	112-118	150_QUEST_clinical_caseMIR	SENT1	-	-
+20	un	un		C0205447_1	calificador_1	119-121	150_QUEST_clinical_caseMIR	SENT1	-	-
+21	injerto	injerto	NCMS000	C1261317_1	estructura_corporal_1	122-129	150_QUEST_clinical_caseMIR	SENT1	-	-
+22	renal	renal	AQ0CS0	C1261317_2	estructura_corporal_2	130-135	150_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	de	de	SPS00	C0332285	atributo	136-138	150_QUEST_clinical_caseMIR	SENT1	-	-
+24	donante	donante	AQ0CS0	C0013018	calificador	139-146	150_QUEST_clinical_caseMIR	SENT1	-	-
+25	cadáver	cadáver	NCMS000	C0006629	sustancia#estructura_corporal	147-154	150_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	154-155	150_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Un	Un		C0205447_1	calificador_1	156-158	150_QUEST_clinical_caseMIR	SENT2	-	-
+2	hermano	hermano	NCMS000	C0337527	persona	159-166	150_QUEST_clinical_caseMIR	SENT2	-	-
+3	suyo	suyo	PX3MS0C0	-	-	167-171	150_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	172-174	150_QUEST_clinical_caseMIR	SENT2	-	-
+5	34	34		-	-	175-177	150_QUEST_clinical_caseMIR	SENT2	-	-
+6	años	año	NCMP000	C0439234	calificador	178-182	150_QUEST_clinical_caseMIR	SENT2	-	-
+7	acude	acudir	VMIP3S0	-	-	183-188	150_QUEST_clinical_caseMIR	SENT2	-	-
+8	a	a	SPS00	-	-	189-190	150_QUEST_clinical_caseMIR	SENT2	-	-
+9	visitar	visitar	VMN0000	-	-	191-198	150_QUEST_clinical_caseMIR	SENT2	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	198-200	150_QUEST_clinical_caseMIR	SENT2	-	-
+11	y	y	CC	C1706368	calificador	201-202	150_QUEST_clinical_caseMIR	SENT2	-	-
+12	refiere	referir	VMIP3S0	-	-	203-210	150_QUEST_clinical_caseMIR	SENT2	-	-
+13	desconocer	desconocer	VMN0000	-	-	211-221	150_QUEST_clinical_caseMIR	SENT2	-	-
+14	si	si	CS	-	-	222-224	150_QUEST_clinical_caseMIR	SENT2	-	-
+15	padece	padecer	VMIP3S0	-	-	225-231	150_QUEST_clinical_caseMIR	SENT2	-	-
+16	la	el	DA0FS0	-	-	232-234	150_QUEST_clinical_caseMIR	SENT2	-	-
+17	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	235-245	150_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+18	por	por	SPS00	C0678226	atributo	246-249	150_QUEST_clinical_caseMIR	SENT2	-	-
+19	no	no	RN	C1298908	calificador	250-252	150_QUEST_clinical_caseMIR	SENT2	-	-
+20	haber	haber	VAN0000	-	-	253-258	150_QUEST_clinical_caseMIR	SENT2	-	-
+21	acudido	acudir	VMP00SM	-	-	259-266	150_QUEST_clinical_caseMIR	SENT2	-	-
+22	nunca	nunca	RG	-	-	267-272	150_QUEST_clinical_caseMIR	SENT2	-	-
+23	a	a	SPS00	-	-	273-274	150_QUEST_clinical_caseMIR	SENT2	-	-
+24	un	un		C0205447_1	calificador_1	275-277	150_QUEST_clinical_caseMIR	SENT2	-	-
+25	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	278-284	150_QUEST_clinical_caseMIR	SENT2	-	-
+26	desde	desde	SPS00	-	-	285-290	150_QUEST_clinical_caseMIR	SENT2	-	-
+27	la	el	DA0FS0	-	-	291-293	150_QUEST_clinical_caseMIR	SENT2	-	-
+28	adolescencia	adolescencia	NCFS000	C0001578#C0087178	calificador#función	294-306	150_QUEST_clinical_caseMIR	SENT2	-	-
+29	.	.	Fp	-	-	306-307	150_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	308-309	150_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	309-312	150_QUEST_clinical_caseMIR	SENT3	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	313-320	150_QUEST_clinical_caseMIR	SENT3	-	-
+4	o	o	CC	-	-	321-322	150_QUEST_clinical_caseMIR	SENT3	-	-
+5	prueba	prueba	NCFS000	-	-	323-329	150_QUEST_clinical_caseMIR	SENT3	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	330-332	150_QUEST_clinical_caseMIR	SENT3	-	-
+7	parece	parecer	VMIP3S0	-	-	333-339	150_QUEST_clinical_caseMIR	SENT3	-	-
+8	más	más	RG	C0205172	calificador	340-343	150_QUEST_clinical_caseMIR	SENT3	-	-
+9	adecuada	adecuar	VMP00SF	-	-	344-352	150_QUEST_clinical_caseMIR	SENT3	-	-
+10	para	para	SPS00	C0521125	calificador	353-357	150_QUEST_clinical_caseMIR	SENT3	-	-
+11	recomendar	recomendar	VMN0000	-	-	358-368	150_QUEST_clinical_caseMIR	SENT3	-	-
+12	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	368-370	150_QUEST_clinical_caseMIR	SENT3	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	371-373	150_QUEST_clinical_caseMIR	SENT3	-	-
+14	ese	ese	DD0MS0	-	-	374-377	150_QUEST_clinical_caseMIR	SENT3	-	-
+15	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	378-385	150_QUEST_clinical_caseMIR	SENT3	-	-
+16	?	?	Fit	-	-	385-386	150_QUEST_clinical_caseMIR	SENT3	-	-
+17	:	:	Fd	-	-	386-387	150_QUEST_clinical_caseMIR	SENT3	-	-
+18	.	.	Fp	-	-	387-388	150_QUEST_clinical_caseMIR	SENT3	-	-
+

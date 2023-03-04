@@ -1,0 +1,24 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	9-11	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	12-19	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	20-22	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	23-32	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	33-34	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	despistaje	despistaje	NCMS000	-	-	35-45	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	46-48	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	49-55	435(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	primaria	primario	AQ0FS0	C0205225	calificador	56-64	435(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	,	,	Fc	-	-	64-65	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	pues	pues	CS	-	-	66-70	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	se	se	P00CN000	-	-	71-73	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	trata	tratar	VMIP3S0	-	-	74-79	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	80-82	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	una	una		C0205447_1	calificador_1	83-86	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	metástasis	metástasis	NCFN000	C0153690_1	trastorno_1	87-97	435(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	ósea	óseo	AQ0FS0	C0153690_2	trastorno_2	98-102	435(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	103-105	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	la	el	DA0FS0	-	-	106-108	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	cadera	cadera	NCFS000	C1268234#C0524471_1	estructura_corporal_1	109-115	435(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	izquierda	izquierdo	AQ0FS0	C1268234#C0524471_2	estructura_corporal_2	116-125	435(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+23	.	.	Fp	-	-	126-127	435(1)_ANS_clinical_caseMIR	SENT1	-	-
+

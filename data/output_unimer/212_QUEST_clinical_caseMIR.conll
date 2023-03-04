@@ -1,0 +1,112 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	212_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	212_QUEST_clinical_caseMIR	SENT1	-	-
+3	54	54		-	-	12-14	212_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	212_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	212_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	212_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	27-28	212_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	29-32	212_QUEST_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	33-36	212_QUEST_clinical_caseMIR	SENT1	-	-
+10	ingesta	ingesta	NCFS000	-	-	37-44	212_QUEST_clinical_caseMIR	SENT1	-	-
+11	etílica	etílico	AQ0FS0	-	-	45-52	212_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	53-55	212_QUEST_clinical_caseMIR	SENT1	-	-
+13	110	110	Z	-	-	56-59	212_QUEST_clinical_caseMIR	SENT1	-	-
+14	g	g	NCMN000	-	-	60-61	212_QUEST_clinical_caseMIR	SENT1	-	-
+15	/	/	Fh	-	-	61-62	212_QUEST_clinical_caseMIR	SENT1	-	-
+16	día	día	NCMS000	C0439228#C0332169	calificador	62-65	212_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	65-66	212_QUEST_clinical_caseMIR	SENT1	-	-
+18	que	que	PR0CN000	-	-	67-70	212_QUEST_clinical_caseMIR	SENT1	-	-
+19	ingresa	ingresar	VMIP3S0	-	-	71-78	212_QUEST_clinical_caseMIR	SENT1	-	-
+20	por	por	SPS00	C0678226	atributo	79-82	212_QUEST_clinical_caseMIR	SENT1	-	-
+21	un	un		C0205447_1	calificador_1	83-85	212_QUEST_clinical_caseMIR	SENT1	-	-
+22	cuadro	cuadro	NCMS000	-	-	86-92	212_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	93-95	212_QUEST_clinical_caseMIR	SENT1	-	-
+24	diarrea	diarrea	NCFS000	C0401151_1	trastorno_1	96-103	212_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	crónica	crónico	AQ0FS0	C0401151_2	trastorno_2	104-111	212_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+26	y	y	CC	C1706368	calificador	112-113	212_QUEST_clinical_caseMIR	SENT1	-	-
+27	con	con	SPS00	C0332287	atributo	114-117	212_QUEST_clinical_caseMIR	SENT1	-	-
+28	la	el	DA0FS0	-	-	118-120	212_QUEST_clinical_caseMIR	SENT1	-	-
+29	aparición	aparición	NCFS000	-	-	121-130	212_QUEST_clinical_caseMIR	SENT1	-	-
+30	en	en	SPS00	C1720294#C0332285	calificador#atributo	131-133	212_QUEST_clinical_caseMIR	SENT1	-	-
+31	los	el	DA0MP0	-	-	134-137	212_QUEST_clinical_caseMIR	SENT1	-	-
+32	últimos	último	AO0MP0	-	-	138-145	212_QUEST_clinical_caseMIR	SENT1	-	-
+33	días	día	NCMP000	C0439228#C0332169	calificador	146-150	212_QUEST_clinical_caseMIR	SENT1	-	-
+34	de	de	SPS00	C0332285	atributo	151-153	212_QUEST_clinical_caseMIR	SENT1	-	-
+35	calambres	calambre	NCMP000	C0026821	hallazgo	154-163	212_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+36	musculares	muscular	AQ0CP0	C0442025	calificador	164-174	212_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+37	.	.	Fp	-	-	174-175	212_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	176-178	212_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	179-181	212_QUEST_clinical_caseMIR	SENT2	-	-
+3	analítica	analítica	NCFS000	-	-	182-191	212_QUEST_clinical_caseMIR	SENT2	-	-
+4	destaca	destacar	VMIP3S0	-	-	192-199	212_QUEST_clinical_caseMIR	SENT2	-	-
+5	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	200-207	212_QUEST_clinical_caseMIR	SENT2	-	-
+6	320	320	Z	-	-	208-211	212_QUEST_clinical_caseMIR	SENT2	-	-
+7	mg	mg	NCMN000	-	-	212-214	212_QUEST_clinical_caseMIR	SENT2	-	-
+8	/	/	Fh	-	-	214-215	212_QUEST_clinical_caseMIR	SENT2	-	-
+9	dL	decilitro	NCMN000	C0439241	calificador	215-217	212_QUEST_clinical_caseMIR	SENT2	-	-
+10	,	,	Fc	-	-	217-218	212_QUEST_clinical_caseMIR	SENT2	-	-
+11	Urea	urea	NCFS000	C0041942	sustancia	219-223	212_QUEST_clinical_caseMIR	SENT2	-	-
+12	25	25	Z	-	-	224-226	212_QUEST_clinical_caseMIR	SENT2	-	-
+13	mg	mg	NCMN000	-	-	227-229	212_QUEST_clinical_caseMIR	SENT2	-	-
+14	/	/	Fh	-	-	229-230	212_QUEST_clinical_caseMIR	SENT2	-	-
+15	dL	decilitro	NCMN000	C0439241	calificador	230-232	212_QUEST_clinical_caseMIR	SENT2	-	-
+16	,	,	Fc	-	-	232-233	212_QUEST_clinical_caseMIR	SENT2	-	-
+17	Creatinina	creatinina	NC00SC0	C0010294	sustancia	234-244	212_QUEST_clinical_caseMIR	SENT2	-	-
+18	0,75	0.75	Z	-	-	245-249	212_QUEST_clinical_caseMIR	SENT2	-	-
+19	mg	mg	NCMN000	-	-	250-252	212_QUEST_clinical_caseMIR	SENT2	-	-
+20	/	/	Fh	-	-	252-253	212_QUEST_clinical_caseMIR	SENT2	-	-
+21	dL	decilitro	NCMN000	C0439241	calificador	253-255	212_QUEST_clinical_caseMIR	SENT2	-	-
+22	,	,	Fc	-	-	255-256	212_QUEST_clinical_caseMIR	SENT2	-	-
+23	Potasio	potasio	NCMS000	C0032821	sustancia#producto	257-264	212_QUEST_clinical_caseMIR	SENT2	-	-
+24	2,5	2,5		-	-	265-268	212_QUEST_clinical_caseMIR	SENT2	-	-
+25	mmol	milimol	NC00YL0	C0439190	calificador	269-273	212_QUEST_clinical_caseMIR	SENT2	-	-
+26	/	/	Fh	-	-	273-274	212_QUEST_clinical_caseMIR	SENT2	-	-
+27	L	l	NCFS000	-	-	274-275	212_QUEST_clinical_caseMIR	SENT2	-	-
+28	(	(	Fpa	-	-	276-277	212_QUEST_clinical_caseMIR	SENT2	-	-
+29	3,5-5,1	3,5-5,1		-	-	277-284	212_QUEST_clinical_caseMIR	SENT2	-	-
+30	)	)	Fpt	-	-	284-285	212_QUEST_clinical_caseMIR	SENT2	-	-
+31	,	,	Fc	-	-	285-286	212_QUEST_clinical_caseMIR	SENT2	-	-
+32	Calcio	calcio	NCMS000	C0006675	sustancia	287-293	212_QUEST_clinical_caseMIR	SENT2	-	-
+33	2,0	2,0		-	-	294-297	212_QUEST_clinical_caseMIR	SENT2	-	-
+34	mmol	milimol	NC00YL0	C0439190	calificador	298-302	212_QUEST_clinical_caseMIR	SENT2	-	-
+35	/	/	Fh	-	-	302-303	212_QUEST_clinical_caseMIR	SENT2	-	-
+36	L	l	NCFS000	-	-	303-304	212_QUEST_clinical_caseMIR	SENT2	-	-
+37	(	(	Fpa	-	-	305-306	212_QUEST_clinical_caseMIR	SENT2	-	-
+38	2,2-2,5	2,2-2,5		-	-	306-313	212_QUEST_clinical_caseMIR	SENT2	-	-
+39	)	)	Fpt	-	-	313-314	212_QUEST_clinical_caseMIR	SENT2	-	-
+40	,	,	Fc	-	-	314-315	212_QUEST_clinical_caseMIR	SENT2	-	-
+41	Fósforo	fósforo	NCMS000	C0031705	sustancia	316-323	212_QUEST_clinical_caseMIR	SENT2	-	-
+42	0,52	0,52		-	-	324-328	212_QUEST_clinical_caseMIR	SENT2	-	-
+43	mmol	milimol	NC00YL0	C0439190	calificador	329-333	212_QUEST_clinical_caseMIR	SENT2	-	-
+44	/	/	Fh	-	-	333-334	212_QUEST_clinical_caseMIR	SENT2	-	-
+45	L	l	NCFS000	-	-	334-335	212_QUEST_clinical_caseMIR	SENT2	-	-
+46	(	(	Fpa	-	-	336-337	212_QUEST_clinical_caseMIR	SENT2	-	-
+47	0,87-1,55	0,87-1,55		-	-	337-346	212_QUEST_clinical_caseMIR	SENT2	-	-
+48	)	)	Fpt	-	-	346-347	212_QUEST_clinical_caseMIR	SENT2	-	-
+49	Magnesio	magnesio	NCMS000	C0024467	sustancia	348-356	212_QUEST_clinical_caseMIR	SENT2	-	-
+50	0,25	0,25		-	-	357-361	212_QUEST_clinical_caseMIR	SENT2	-	-
+51	mmol	milimol	NC00YL0	C0439190	calificador	362-366	212_QUEST_clinical_caseMIR	SENT2	-	-
+52	/	/	Fh	-	-	366-367	212_QUEST_clinical_caseMIR	SENT2	-	-
+53	L	l	NCFS000	-	-	367-368	212_QUEST_clinical_caseMIR	SENT2	-	-
+54	(	(	Fpa	-	-	369-370	212_QUEST_clinical_caseMIR	SENT2	-	-
+55	0,66-0,99	0,66-0,99		-	-	370-379	212_QUEST_clinical_caseMIR	SENT2	-	-
+56	)	)	Fpt	-	-	379-380	212_QUEST_clinical_caseMIR	SENT2	-	-
+57	y	y	CC	C1706368	calificador	381-382	212_QUEST_clinical_caseMIR	SENT2	-	-
+58	Albúmina	albúmina	NCFS000	C0001924	sustancia	383-391	212_QUEST_clinical_caseMIR	SENT2	-	-
+59	de	de	SPS00	C0332285	atributo	392-394	212_QUEST_clinical_caseMIR	SENT2	-	-
+60	28	28	Z	-	-	395-397	212_QUEST_clinical_caseMIR	SENT2	-	-
+61	g_/_L	g/l	NCMP000	C0439294	calificador	398-401	212_QUEST_clinical_caseMIR	SENT2	-	-
+62	(	(	Fpa	-	-	402-403	212_QUEST_clinical_caseMIR	SENT2	-	-
+63	35-52	35-52		-	-	403-408	212_QUEST_clinical_caseMIR	SENT2	-	-
+64	)	)	Fpt	-	-	408-409	212_QUEST_clinical_caseMIR	SENT2	-	-
+65	¿	¿	Fia	-	-	410-411	212_QUEST_clinical_caseMIR	SENT2	-	-
+66	Con	con	SPS00	C0332287	atributo	411-414	212_QUEST_clinical_caseMIR	SENT2	-	-
+67	qué	qué	PT0CN000	-	-	415-418	212_QUEST_clinical_caseMIR	SENT2	-	-
+68	iniciaría	iniciar	VMIC3S0	-	-	419-428	212_QUEST_clinical_caseMIR	SENT2	-	-
+69	el	el	DA0MS0	-	-	429-431	212_QUEST_clinical_caseMIR	SENT2	-	-
+70	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	432-443	212_QUEST_clinical_caseMIR	SENT2	-	-
+71	?	?	Fit	-	-	443-444	212_QUEST_clinical_caseMIR	SENT2	-	-
+72	:	:	Fd	-	-	444-445	212_QUEST_clinical_caseMIR	SENT2	-	-
+73	.	.	Fp	-	-	445-446	212_QUEST_clinical_caseMIR	SENT2	-	-
+

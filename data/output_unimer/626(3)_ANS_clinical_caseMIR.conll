@@ -1,0 +1,31 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	buena	bueno	AQ0FS0	C0205170	calificador	4-9	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	aproximación	aproximación	NCFS000	-	-	10-22	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	23-34	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	puede	poder	VMIP3S0	-	-	35-40	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	ser	ser	VSN0000	-	-	41-44	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	45-47	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	asociación	asociación	NCFS000	C0004083	atributo	48-58	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	59-61	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	doxiciclina	doxiciclina	NC00SC0	C0013090	sustancia	62-73	626(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	(	(	Fpa	-	-	74-75	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	100	100		-	-	75-78	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	mg/12	mg/12	Z	-	-	79-84	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	horas	h	NCFP000	C0439227	calificador	85-90	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	vía	vía	NCFS000	C1527415_1	calificador_1	91-94	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	oral	oral	NC00SC0	C1527415_2	calificador_2	95-99	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	)	)	Fpt	-	-	99-100	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	durante	durante	SPS00	C1444752#C0347984	atributo	101-108	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	45	45	Z	-	-	109-111	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	días	d	NCMP000	-	-	112-116	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	y	y	CC	C1706368	calificador	117-118	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+22	estreptomicina	estreptomicina	NCFS000	C0038425	sustancia	119-133	626(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+23	(	(	Fpa	-	-	134-135	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	1	1	Z	-	-	135-136	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+25	g	g	NCMN000	-	-	137-138	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	/	/	Fh	-	-	138-139	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+27	día	día	NCMS000	C0439228#C0332169	calificador	139-142	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+28	intramuscular	intramuscular	NC00SC0	C0442117	calificador	143-156	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+29	)	)	Fpt	-	-	156-157	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+30	.	.	Fp	-	-	158-159	626(3)_ANS_clinical_caseMIR	SENT1	-	-
+

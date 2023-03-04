@@ -1,0 +1,17 @@
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	120(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	sistémica	sistémico	AQ0FS0	C0205373	calificador	14-23	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	24-27	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	doxorrubicina	doxorrubicina	NC00SC0	C0013089#C0085752	producto#sustancia	28-41	120(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	iv	iv	NC00SC0	C1522726	calificador	42-44	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	ya	ya	RG	-	-	45-47	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	48-51	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	presenta	presentar	VMIP3S0	-	-	52-60	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	61-71	120(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	diseminada	diseminar	VMP00SF	-	-	72-82	120(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	pero	pero	CC	-	-	83-87	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	presenta	presentar	VMIP3S0	-	-	88-96	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	buen	bueno	AQ0MS0	C0205170	calificador	97-101	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	102-108	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	general	general	AQ0CS0	C0205246	calificador	109-116	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	.	.	Fp	-	-	117-118	120(2)_ANS_clinical_caseMIR	SENT1	-	-
+

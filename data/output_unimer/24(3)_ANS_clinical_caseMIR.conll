@@ -1,0 +1,21 @@
+1	Determinación	determinación	NCFS000	C0242485	procedimiento	0-13	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	17-27	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	y	y	CC	C1706368	calificador	28-29	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	hemograma	hemograma	NCMS000	C0200631	procedimiento	30-39	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	urgentes	urgente	AQ0CP0	C0439609	calificador	40-48	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	48-49	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	inicio	inicio	NCMS000	C0332162_1	calificador_1	50-56	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332162_2	calificador_2	57-59	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	60-67	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	con	con	SPS00	C0332287	atributo	68-71	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	corticosteroides	corticosteroide	NCMP000	-	-	72-88	24(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	a	a	SPS00	-	-	89-90	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	dosis	dosis	NCFN000	-	-	91-96	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	elevadas	elevar	VMP00PF	-	-	97-105	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	y	y	CC	C1706368	calificador	106-107	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	108-115	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	transesfenoidal	transesfenoidal	NC00SC0	C0205508	calificador	116-131	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	urgente	urgente	AQ0CS0	C0439609	calificador	132-139	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	140-141	24(3)_ANS_clinical_caseMIR	SENT1	-	-
+

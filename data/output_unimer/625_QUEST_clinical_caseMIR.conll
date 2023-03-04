@@ -1,0 +1,104 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	625_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	625_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	625_QUEST_clinical_caseMIR	SENT1	-	-
+4	79	79		-	-	15-17	625_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	625_QUEST_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	23-25	625_QUEST_clinical_caseMIR	SENT1	-	-
+7	traído	traer	VMP00SM	-	-	26-32	625_QUEST_clinical_caseMIR	SENT1	-	-
+8	a	a	SPS00	-	-	33-34	625_QUEST_clinical_caseMIR	SENT1	-	-
+9	urgencias	urgencia	NCFP000	C0439609	calificador	35-44	625_QUEST_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	45-46	625_QUEST_clinical_caseMIR	SENT1	-	-
+11	las	el	DA0FP0	-	-	47-50	625_QUEST_clinical_caseMIR	SENT1	-	-
+12	7	7	Z	-	-	51-52	625_QUEST_clinical_caseMIR	SENT1	-	-
+13	de	de		-	-	53-55	625_QUEST_clinical_caseMIR	SENT1	-	-
+14	la	la		-	-	56-58	625_QUEST_clinical_caseMIR	SENT1	-	-
+15	tarde	tarde		-	-	59-64	625_QUEST_clinical_caseMIR	SENT1	-	-
+16	desde	desde	SPS00	-	-	65-70	625_QUEST_clinical_caseMIR	SENT1	-	-
+17	una	una		C0205447_1	calificador_1	71-74	625_QUEST_clinical_caseMIR	SENT1	-	-
+18	residencia	residencia	NCFS000	-	-	75-85	625_QUEST_clinical_caseMIR	SENT1	-	-
+19	geriátrica	geriátrico	AQ0FS0	C0338046	medio_ambiente	86-96	625_QUEST_clinical_caseMIR	SENT1	-	-
+20	no	no	RN	C1298908	calificador	97-99	625_QUEST_clinical_caseMIR	SENT1	-	-
+21	asistida	asistir	VMP00SF	-	-	100-108	625_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	108-109	625_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	110-112	625_QUEST_clinical_caseMIR	SENT2	-	-
+2	disponemos	disponer	VMIP1P0	-	-	113-123	625_QUEST_clinical_caseMIR	SENT2	-	-
+3	del	del	SP+DA	-	-	124-127	625_QUEST_clinical_caseMIR	SENT2	-	-
+4	informe	informe	NCMS000	C0684224	elemento_de_registro	128-135	625_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	136-138	625_QUEST_clinical_caseMIR	SENT2	-	-
+6	derivación	derivación	NCFS000	C1442858#C0542331	anomalía_morfológica#objeto_físico	139-149	625_QUEST_clinical_caseMIR	SENT2	-	-
+7	,	,	Fc	-	-	149-150	625_QUEST_clinical_caseMIR	SENT2	-	-
+8	que	que	PR0CN000	-	-	151-154	625_QUEST_clinical_caseMIR	SENT2	-	-
+9	se	se	P00CN000	-	-	155-157	625_QUEST_clinical_caseMIR	SENT2	-	-
+10	ha	haber	VAIP3S0	-	-	158-160	625_QUEST_clinical_caseMIR	SENT2	-	-
+11	perdido	perder	VMP00SM	-	-	161-168	625_QUEST_clinical_caseMIR	SENT2	-	-
+12	durante	durante	SPS00	C1444752#C0347984	atributo	169-176	625_QUEST_clinical_caseMIR	SENT2	-	-
+13	el	el	DA0MS0	-	-	177-179	625_QUEST_clinical_caseMIR	SENT2	-	-
+14	traslado	traslado	NCMS000	C1540850	entidad_observable	180-188	625_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	188-189	625_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Está	estar	VAIP3S0	-	-	190-194	625_QUEST_clinical_caseMIR	SENT3	-	-
+2	desorientado	desorientar	VMP00SM	-	-	195-207	625_QUEST_clinical_caseMIR	SENT3	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	208-210	625_QUEST_clinical_caseMIR	SENT3	-	-
+4	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	211-217	625_QUEST_clinical_caseMIR	SENT3	-	-
+5	y	y	CC	C1706368	calificador	218-219	625_QUEST_clinical_caseMIR	SENT3	-	-
+6	espacio	espacio	NCMS000	-	-	220-227	625_QUEST_clinical_caseMIR	SENT3	-	-
+7	,	,	Fc	-	-	227-228	625_QUEST_clinical_caseMIR	SENT3	-	-
+8	tiene	tener	VMIP3S0	-	-	229-234	625_QUEST_clinical_caseMIR	SENT3	-	-
+9	problemas	problema	NCMP000	C0033213	hallazgo	235-244	625_QUEST_clinical_caseMIR	SENT3	-	-
+10	para	para	SPS00	C0521125	calificador	245-249	625_QUEST_clinical_caseMIR	SENT3	-	-
+11	recordar	recordar	VMN0000	C0557033	procedimiento	250-258	625_QUEST_clinical_caseMIR	SENT3	-	-
+12	información	información	NCFS000	-	-	259-270	625_QUEST_clinical_caseMIR	SENT3	-	-
+13	sencilla	sencillo	AQ0FS0	-	-	271-279	625_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	279-280	625_QUEST_clinical_caseMIR	SENT3	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	281-283	625_QUEST_clinical_caseMIR	SENT3	-	-
+16	ocasiones	ocasión	NCFP000	-	-	284-293	625_QUEST_clinical_caseMIR	SENT3	-	-
+17	se	se	P00CN000	-	-	294-296	625_QUEST_clinical_caseMIR	SENT3	-	-
+18	pone	poner	VMIP3S0	-	-	297-301	625_QUEST_clinical_caseMIR	SENT3	-	-
+19	muy	muy	RG	C0442824	calificador	302-305	625_QUEST_clinical_caseMIR	SENT3	-	-
+20	nervioso	nervioso	AQ0MS0	-	-	306-314	625_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+21	y	y	CC	C1706368	calificador	315-316	625_QUEST_clinical_caseMIR	SENT3	-	-
+22	agitado	agitar	VMP00SM	-	-	317-324	625_QUEST_clinical_caseMIR	SENT3	-	-
+23	porque	porque	CS	-	-	325-331	625_QUEST_clinical_caseMIR	SENT3	-	-
+24	ve	ver	VMIP3S0	-	-	332-334	625_QUEST_clinical_caseMIR	SENT3	-	-
+25	personas	persona	NCFP000	C0027361	persona	335-343	625_QUEST_clinical_caseMIR	SENT3	-	-
+26	amenazantes	amenazante	AQ0CP0	C0332190	calificador	344-355	625_QUEST_clinical_caseMIR	SENT3	-	-
+27	en	en	SPS00	C1720294#C0332285	calificador#atributo	356-358	625_QUEST_clinical_caseMIR	SENT3	-	-
+28	el	el	DA0MS0	-	-	359-361	625_QUEST_clinical_caseMIR	SENT3	-	-
+29	box	box	NCMS000	-	-	362-365	625_QUEST_clinical_caseMIR	SENT3	-	-
+30	de	de	SPS00	C0332285	atributo	366-368	625_QUEST_clinical_caseMIR	SENT3	-	-
+31	urgencias	urgencia	NCFP000	C0439609	calificador	369-378	625_QUEST_clinical_caseMIR	SENT3	-	-
+32	,	,	Fc	-	-	378-379	625_QUEST_clinical_caseMIR	SENT3	-	-
+33	incluso	incluso	RG	C0332257	calificador	380-387	625_QUEST_clinical_caseMIR	SENT3	-	-
+34	cuando	cuando	CS	-	-	388-394	625_QUEST_clinical_caseMIR	SENT3	-	-
+35	se	se	P00CN000	-	-	395-397	625_QUEST_clinical_caseMIR	SENT3	-	-
+36	encuentra	encontrar	VMIP3S0	-	-	398-407	625_QUEST_clinical_caseMIR	SENT3	-	-
+37	a	a	SPS00	-	-	408-409	625_QUEST_clinical_caseMIR	SENT3	-	-
+38	solas	solo	AQ0FP0	C0205171	calificador	410-415	625_QUEST_clinical_caseMIR	SENT3	-	-
+39	y	y	CC	C1706368	calificador	416-417	625_QUEST_clinical_caseMIR	SENT3	-	-
+40	en	en	SPS00	C1720294#C0332285	calificador#atributo	418-420	625_QUEST_clinical_caseMIR	SENT3	-	-
+41	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	421-426	625_QUEST_clinical_caseMIR	SENT3	-	-
+42	aparece	aparecer	VMIP3S0	-	-	427-434	625_QUEST_clinical_caseMIR	SENT3	-	-
+43	somnoliento	somnoliento	AQ0MS0	C0013144	hallazgo	435-446	625_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+44	y	y	CC	C1706368	calificador	447-448	625_QUEST_clinical_caseMIR	SENT3	-	-
+45	desatento	desatento	AQ0MS0	-	-	449-458	625_QUEST_clinical_caseMIR	SENT3	-	-
+46	.	.	Fp	-	-	458-459	625_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	460-462	625_QUEST_clinical_caseMIR	SENT4	-	-
+2	principal	principal	AQ0CS0	C0205225	calificador	463-472	625_QUEST_clinical_caseMIR	SENT4	-	-
+3	dato	dato	NCMS000	-	-	473-477	625_QUEST_clinical_caseMIR	SENT4	-	-
+4	que	que	PR0CN000	-	-	478-481	625_QUEST_clinical_caseMIR	SENT4	-	-
+5	apoya	apoyar	VMIP3S0	-	-	482-487	625_QUEST_clinical_caseMIR	SENT4	-	-
+6	el	el	DA0MS0	-	-	488-490	625_QUEST_clinical_caseMIR	SENT4	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	491-502	625_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	503-505	625_QUEST_clinical_caseMIR	SENT4	-	-
+9	delirium	delirium	NCMS000	-	-	506-514	625_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	515-521	625_QUEST_clinical_caseMIR	SENT4	-	-
+11	al	al	SP+DA	-	-	522-524	625_QUEST_clinical_caseMIR	SENT4	-	-
+12	de	de	SPS00	C0332285	atributo	525-527	625_QUEST_clinical_caseMIR	SENT4	-	-
+13	demencia	demencia	NCFS000	C0497327	trastorno	528-536	625_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	,	,	Fc	-	-	536-537	625_QUEST_clinical_caseMIR	SENT4	-	-
+15	es	ser	VSIP3S0	-	-	538-540	625_QUEST_clinical_caseMIR	SENT4	-	-
+16	:	:	Fd	-	-	540-541	625_QUEST_clinical_caseMIR	SENT4	-	-
+17	.	.	Fp	-	-	541-542	625_QUEST_clinical_caseMIR	SENT4	-	-
+

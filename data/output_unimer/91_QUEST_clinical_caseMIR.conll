@@ -1,0 +1,111 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	91_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	91_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	91_QUEST_clinical_caseMIR	SENT1	-	-
+4	21	21		-	-	13-15	91_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	91_QUEST_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	21-23	91_QUEST_clinical_caseMIR	SENT1	-	-
+7	portador	portador	AQ0MS0	C0560175	hallazgo	24-32	91_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	33-35	91_QUEST_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	36-39	91_QUEST_clinical_caseMIR	SENT1	-	-
+10	mutación	mutación	NCFS000	-	-	40-48	91_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	(	(	Fpa	-	-	49-50	91_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	50-52	91_QUEST_clinical_caseMIR	SENT1	-	-
+13	etiología	etiología	NCFS000	C1314792	atributo	53-62	91_QUEST_clinical_caseMIR	SENT1	-	-
+14	validada	validar	VMP00SF	-	-	63-71	91_QUEST_clinical_caseMIR	SENT1	-	-
+15	)	)	Fpt	-	-	71-72	91_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	73-75	91_QUEST_clinical_caseMIR	SENT1	-	-
+17	el	el	DA0MS0	-	-	76-78	91_QUEST_clinical_caseMIR	SENT1	-	-
+18	gen	gen	NCMS000	C0017337	sustancia	79-82	91_QUEST_clinical_caseMIR	SENT1	-	-
+19	MFN	mfn	VMIP3P0	-	-	83-86	91_QUEST_clinical_caseMIR	SENT1	-	-
+20	2	2		-	-	87-88	91_QUEST_clinical_caseMIR	SENT1	-	-
+21	(	(	Fpa	-	-	89-90	91_QUEST_clinical_caseMIR	SENT1	-	-
+22	mitofusin	mitofusin	NCMS000	-	-	90-99	91_QUEST_clinical_caseMIR	SENT1	-	-
+23	2	2		-	-	100-101	91_QUEST_clinical_caseMIR	SENT1	-	-
+24	cromosoma	cromosoma	NCMS000	C0008633	estructura_celular	102-111	91_QUEST_clinical_caseMIR	SENT1	-	-
+25	1p36.2	1p36.2		-	-	112-118	91_QUEST_clinical_caseMIR	SENT1	-	-
+26	)	)	Fpt	-	-	118-119	91_QUEST_clinical_caseMIR	SENT1	-	-
+27	Recientes	reciente	AQ0CP0	C0332185	calificador	120-129	91_QUEST_clinical_caseMIR	SENT1	-	-
+28	estudios	estudio	NCMP000	C0557651	medio_ambiente	130-138	91_QUEST_clinical_caseMIR	SENT1	-	-
+29	sitúan	situar	VMIP3P0	-	-	139-145	91_QUEST_clinical_caseMIR	SENT1	-	-
+30	tales	tal	DD0CP0	-	-	146-151	91_QUEST_clinical_caseMIR	SENT1	-	-
+31	mutaciones	mutación	NCFP000	-	-	152-162	91_QUEST_clinical_caseMIR	SENT1	-	-
+32	como	como	CS	C0332257	calificador	163-167	91_QUEST_clinical_caseMIR	SENT1	-	-
+33	la	el	DA0FS0	-	-	168-170	91_QUEST_clinical_caseMIR	SENT1	-	-
+34	causa	causa	NCFS000	-	-	171-176	91_QUEST_clinical_caseMIR	SENT1	-	-
+35	más	más	RG	C0205172	calificador	177-180	91_QUEST_clinical_caseMIR	SENT1	-	-
+36	frecuente	frecuente	AQ0CS0	C0332183	calificador	181-190	91_QUEST_clinical_caseMIR	SENT1	-	-
+37	de	de	SPS00	C0332285	atributo	191-193	91_QUEST_clinical_caseMIR	SENT1	-	-
+38	la	el	DA0FS0	-	-	194-196	91_QUEST_clinical_caseMIR	SENT1	-	-
+39	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	197-207	91_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+40	de	de	SPS00	C0332285	atributo	208-210	91_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+41	Charcot-Marie-Tooth	charcot-marie-tooth	NC00KE0	-	-	211-230	91_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+42	tipo	tipo	NCMS000	C0332307	calificador#atributo	231-235	91_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+43	2a	2a		-	-	236-238	91_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+44	(	(	Fpa	-	-	239-240	91_QUEST_clinical_caseMIR	SENT1	-	-
+45	CMT2A	CMT2A		-	-	240-245	91_QUEST_clinical_caseMIR	SENT1	-	-
+46	)	)	Fpt	-	-	245-246	91_QUEST_clinical_caseMIR	SENT1	-	-
+47	.	.	Fp	-	-	246-247	91_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	248-250	91_QUEST_clinical_caseMIR	SENT2	-	-
+2	gen	gen	NCMS000	C0017337	sustancia	251-254	91_QUEST_clinical_caseMIR	SENT2	-	-
+3	MFN2	MFN2		-	-	255-259	91_QUEST_clinical_caseMIR	SENT2	-	-
+4	determina	determinar	VMIP3S0	-	-	260-269	91_QUEST_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	270-272	91_QUEST_clinical_caseMIR	SENT2	-	-
+6	fusión	fusión	NCFS000	C1293131#C0332466	procedimiento#anomalía_morfológica	273-279	91_QUEST_clinical_caseMIR	SENT2	-	-
+7	entre	entre	SPS00	C0205103	calificador	280-285	91_QUEST_clinical_caseMIR	SENT2	-	-
+8	las	el	DA0FP0	-	-	286-289	91_QUEST_clinical_caseMIR	SENT2	-	-
+9	mitocondrias	mitocondria	NCFP000	C0026237	estructura_celular	290-302	91_QUEST_clinical_caseMIR	SENT2	-	-
+10	circunstancia	circunstancia	NCFS000	-	-	303-316	91_QUEST_clinical_caseMIR	SENT2	-	-
+11	importante	importante	AQ0CS0	-	-	317-327	91_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	328-330	91_QUEST_clinical_caseMIR	SENT2	-	-
+13	su	su	DP3CS0	-	-	331-333	91_QUEST_clinical_caseMIR	SENT2	-	-
+14	fisiología	fisiología	NCFS000	-	-	334-344	91_QUEST_clinical_caseMIR	SENT2	-	-
+15	y	y	CC	C1706368	calificador	345-346	91_QUEST_clinical_caseMIR	SENT2	-	-
+16	morfología	morfología	NCFS000	C0700329#C0332437	hallazgo#atributo	347-357	91_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	357-358	91_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	359-364	91_QUEST_clinical_caseMIR	SENT3	-	-
+2	a	a	SPS00	-	-	365-366	91_QUEST_clinical_caseMIR	SENT3	-	-
+3	la	el	DA0FS0	-	-	367-369	91_QUEST_clinical_caseMIR	SENT3	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	370-378	91_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	379-381	91_QUEST_clinical_caseMIR	SENT3	-	-
+6	consejo	consejo	NCMS000	-	-	382-389	91_QUEST_clinical_caseMIR	SENT3	-	-
+7	genético	genético	AQ0MS0	-	-	390-398	91_QUEST_clinical_caseMIR	SENT3	-	-
+8	con	con	SPS00	C0332287	atributo	399-402	91_QUEST_clinical_caseMIR	SENT3	-	-
+9	su	su	DP3CS0	-	-	403-405	91_QUEST_clinical_caseMIR	SENT3	-	-
+10	esposa	esposo	NCFS000	C0242664	persona	406-412	91_QUEST_clinical_caseMIR	SENT3	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	413-415	91_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	416-418	91_QUEST_clinical_caseMIR	SENT3	-	-
+13	que	que	PR0CN000	-	-	419-422	91_QUEST_clinical_caseMIR	SENT3	-	-
+14	un	un		C0205447_1	calificador_1	423-425	91_QUEST_clinical_caseMIR	SENT3	-	-
+15	reciente	reciente	AQ0CS0	C0332185	calificador	426-434	91_QUEST_clinical_caseMIR	SENT3	-	-
+16	análisis	análisis	NCMN000	C0002778	calificador	435-443	91_QUEST_clinical_caseMIR	SENT3	-	-
+17	ha	haber	VAIP3S0	-	-	444-446	91_QUEST_clinical_caseMIR	SENT3	-	-
+18	descartado	descartar	VMP00SM	C0332196	calificador	447-457	91_QUEST_clinical_caseMIR	SENT3	-	-
+19	mutaciones	mutación	NCFP000	-	-	458-468	91_QUEST_clinical_caseMIR	SENT3	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	469-471	91_QUEST_clinical_caseMIR	SENT3	-	-
+21	el	el	DA0MS0	-	-	472-474	91_QUEST_clinical_caseMIR	SENT3	-	-
+22	citado	citar	VMP00SM	-	-	475-481	91_QUEST_clinical_caseMIR	SENT3	-	-
+23	gen	gen	NCMS000	C0017337	sustancia	482-485	91_QUEST_clinical_caseMIR	SENT3	-	-
+24	MFN2	MFN2		-	-	486-490	91_QUEST_clinical_caseMIR	SENT3	-	-
+25	.	.	Fp	-	-	490-491	91_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Ambos	ambos	PI0MP000	C0238767	calificador	492-497	91_QUEST_clinical_caseMIR	SENT4	-	-
+2	están	estar	VAIP3P0	-	-	498-503	91_QUEST_clinical_caseMIR	SENT4	-	-
+3	asintomáticos	asintomático	AQ0MP0	-	-	504-517	91_QUEST_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	517-518	91_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	519-520	91_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	520-524	91_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	525-527	91_QUEST_clinical_caseMIR	SENT5	-	-
+4	el	el	DA0MS0	-	-	528-530	91_QUEST_clinical_caseMIR	SENT5	-	-
+5	riesgo	riesgo	NCMS000	C0035647_1	calificador_1	531-537	91_QUEST_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0035647_2	calificador_2	538-540	91_QUEST_clinical_caseMIR	SENT5	-	-
+7	transmisión	transmisión	NCFS000	C1521797	calificador	541-552	91_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	553-555	91_QUEST_clinical_caseMIR	SENT5	-	-
+9	la	el	DA0FS0	-	-	556-558	91_QUEST_clinical_caseMIR	SENT5	-	-
+10	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	559-569	91_QUEST_clinical_caseMIR	SENT5	-	-
+11	?	?	Fit	-	-	569-570	91_QUEST_clinical_caseMIR	SENT5	-	-
+12	:	:	Fd	-	-	570-571	91_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	571-572	91_QUEST_clinical_caseMIR	SENT5	-	-
+

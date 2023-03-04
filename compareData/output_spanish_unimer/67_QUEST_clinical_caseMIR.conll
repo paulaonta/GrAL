@@ -1,0 +1,69 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	67_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	67_QUEST_clinical_caseMIR	SENT1	-	-
+3	ingresado	ingresar	VMP00SM	-	-	12-21	67_QUEST_clinical_caseMIR	SENT1	-	-
+4	por	por	SPS00	C0678226	atributo	22-25	67_QUEST_clinical_caseMIR	SENT1	-	-
+5	pancreatitis	pancreatitis	NCFN000	C0001339#C0341461_1	trastorno_1	26-38	67_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	aguda	agudo	AQ0FS0	C0001339#C0341461_2	trastorno_2	39-44	67_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+7	comienza	comenzar	VMIP3S0	-	-	45-53	67_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	54-57	67_QUEST_clinical_caseMIR	SENT1	-	-
+9	taquipnea	taquipnea	NCFS000	C0231835	hallazgo	58-67	67_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	,	,	Fc	-	-	67-68	67_QUEST_clinical_caseMIR	SENT1	-	-
+11	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	69-80	67_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	,	,	Fc	-	-	80-81	67_QUEST_clinical_caseMIR	SENT1	-	-
+13	sudoración	sudoración	NCFS000	C0038990_1	entidad_observable#hallazgo_1	82-92	67_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	y	y	CC	C1706368	calificador	93-94	67_QUEST_clinical_caseMIR	SENT1	-	-
+15	cianosis	cianosis	NCFN000	C0010520	hallazgo	95-103	67_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	progresiva	progresivo	AQ0FS0	C0205329	calificador	104-114	67_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	.	.	Fp	-	-	114-115	67_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	116-118	67_QUEST_clinical_caseMIR	SENT2	-	-
+2	PaO2	PaO2		-	-	119-123	67_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	124-126	67_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	127-129	67_QUEST_clinical_caseMIR	SENT2	-	-
+5	55	55	Z	-	-	130-132	67_QUEST_clinical_caseMIR	SENT2	-	-
+6	mm	mm	NCMN000	-	-	133-135	67_QUEST_clinical_caseMIR	SENT2	-	-
+7	Hg	hectogramo	NCMN000	-	-	136-138	67_QUEST_clinical_caseMIR	SENT2	-	-
+8	(	(	Fpa	-	-	139-140	67_QUEST_clinical_caseMIR	SENT2	-	-
+9	cociente	cociente	NCMS000	C0456603	calificador	140-148	67_QUEST_clinical_caseMIR	SENT2	-	-
+10	PaO2/FiO2	PaO2/FiO2		-	-	149-158	67_QUEST_clinical_caseMIR	SENT2	-	-
+11	<	<	Fz	-	-	158-159	67_QUEST_clinical_caseMIR	SENT2	-	-
+12	200	200		-	-	159-162	67_QUEST_clinical_caseMIR	SENT2	-	-
+13	)	)	Fpt	-	-	162-163	67_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	163-164	67_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	LA	el	DA0FS0	-	-	165-167	67_QUEST_clinical_caseMIR	SENT3	-	-
+2	RxT	rxt	NC00YL0	-	-	168-171	67_QUEST_clinical_caseMIR	SENT3	-	-
+3	muestra	mostrar	VMIP3S0	-	-	172-179	67_QUEST_clinical_caseMIR	SENT3	-	-
+4	infiltrados	infiltrar	VMP00PM	-	-	180-191	67_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+5	pulmonares	pulmonar	AQ0CP0	C2709248	calificador	192-202	67_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	alveolares	alveolar	NCFP000	-	-	203-213	67_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+7	bilaterales	bilateral	AQ0CP0	C0238767	calificador	214-225	67_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+8	.	.	Fp	-	-	225-226	67_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	227-229	67_QUEST_clinical_caseMIR	SENT4	-	-
+2	presión	presión	NCFS000	C0034094_1	entidad_observable_1	230-237	67_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0034094_2	entidad_observable_2	238-240	67_QUEST_clinical_caseMIR	SENT4	-	-
+4	enclavamiento	enclavamiento	NCMS000	C0034094_3	entidad_observable_3	241-254	67_QUEST_clinical_caseMIR	SENT4	-	-
+5	capilar	capilar	NCMS000	C0034094_4	entidad_observable_4	255-262	67_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+6	pulmonar	pulmonar	NC00SC0	C0034094_5	entidad_observable_5	263-271	67_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+7	es	ser	VSIP3S0	-	-	272-274	67_QUEST_clinical_caseMIR	SENT4	-	-
+8	normal	normal	AQ0CS0	C0205307	calificador	275-281	67_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	281-282	67_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	283-285	67_QUEST_clinical_caseMIR	SENT5	-	-
+2	oxigenoterapia	oxigenoterapia	NCFS000	C0184633	procedimiento	286-300	67_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-
+3	no	no	RN	C1298908	calificador	301-303	67_QUEST_clinical_caseMIR	SENT5	-	-
+4	mejora	mejorar	VMIP3S0	-	-	304-310	67_QUEST_clinical_caseMIR	SENT5	-	-
+5	la	el	DA0FS0	-	-	311-313	67_QUEST_clinical_caseMIR	SENT5	-	-
+6	situación	situación	NCFS000	-	-	314-323	67_QUEST_clinical_caseMIR	SENT5	-	-
+7	.	.	Fp	-	-	323-324	67_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Que	que	CS	-	-	325-328	67_QUEST_clinical_caseMIR	SENT6	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	329-340	67_QUEST_clinical_caseMIR	SENT6	-	-
+3	es	ser	VSIP3S0	-	-	341-343	67_QUEST_clinical_caseMIR	SENT6	-	-
+4	el	el	DA0MS0	-	-	344-346	67_QUEST_clinical_caseMIR	SENT6	-	-
+5	mas	mas	NCMS000	-	-	347-350	67_QUEST_clinical_caseMIR	SENT6	-	-
+6	probable	probable	AQ0CS0	C0332148	calificador	351-359	67_QUEST_clinical_caseMIR	SENT6	-	-
+7	:	:	Fd	-	-	359-360	67_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	360-361	67_QUEST_clinical_caseMIR	SENT6	-	-
+

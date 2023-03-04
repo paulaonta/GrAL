@@ -1,0 +1,13 @@
+1	Asociar	asociar	VMN0000	-	-	0-7	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	al	al	SP+DA	-	-	8-10	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	11-22	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	23-26	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	27-40	542(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	bevacizumab	bevacizumab	NC00SC0	C0796392	producto#sustancia	41-52	542(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	53-55	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	caso	caso	NCMS000	C0868928	calificador	56-60	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	61-63	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	ser	ser	VSN0000	-	-	64-67	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	mutado	mutar	VMP00SM	-	-	68-74	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	75-76	542(1)_ANS_clinical_caseMIR	SENT1	-	-
+

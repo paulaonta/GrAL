@@ -1,0 +1,69 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	328_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	328_QUEST_clinical_caseMIR	SENT1	-	-
+3	33	33		-	-	10-12	328_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	328_QUEST_clinical_caseMIR	SENT1	-	-
+5	autónomo	autónomo	AQ0MS0	-	-	18-26	328_QUEST_clinical_caseMIR	SENT1	-	-
+6	para	para	SPS00	C0521125	calificador	27-31	328_QUEST_clinical_caseMIR	SENT1	-	-
+7	todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	32-37	328_QUEST_clinical_caseMIR	SENT1	-	-
+8	las	el	DA0FP0	-	-	38-41	328_QUEST_clinical_caseMIR	SENT1	-	-
+9	actividades	actividad	NCFP000	C0441655	entidad_observable	42-53	328_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	54-56	328_QUEST_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	57-59	328_QUEST_clinical_caseMIR	SENT1	-	-
+12	vida	vida	NCFS000	-	-	60-64	328_QUEST_clinical_caseMIR	SENT1	-	-
+13	diaria	diario	AQ0FS0	C0332173	calificador	65-71	328_QUEST_clinical_caseMIR	SENT1	-	-
+14	y	y	CC	C1706368	calificador	72-73	328_QUEST_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	74-77	328_QUEST_clinical_caseMIR	SENT1	-	-
+16	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	78-90	328_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332119_2	situación_2	91-93	328_QUEST_clinical_caseMIR	SENT1	-	-
+18	HTA	hta	NC00YL0	-	-	94-97	328_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	bien	bien	RG	C0205170	calificador	98-102	328_QUEST_clinical_caseMIR	SENT1	-	-
+20	controlada	controlar	VMP00SF	-	-	103-113	328_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	113-114	328_QUEST_clinical_caseMIR	SENT1	-	-
+22	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	115-126	328_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	auricular	auricular	NCMS000	C0004238_2	trastorno_2	127-136	328_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	antiagregada	antiagregado	AQ0CN00	-	-	137-149	328_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+25	y	y	CC	C1706368	calificador	150-151	328_QUEST_clinical_caseMIR	SENT1	-	-
+26	un	un		C0205447_1	calificador_1	152-154	328_QUEST_clinical_caseMIR	SENT1	-	-
+27	adenocarcinoma	adenocarcinoma	NC00SC0	C0007112_1	trastorno_1	155-169	328_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	de	de	SPS00	C0007112_2	trastorno_2	170-172	328_QUEST_clinical_caseMIR	SENT1	-	-
+29	próstata	próstata	NCFS000	C0007112_3	trastorno_3	173-181	328_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	a	a	SPS00	-	-	182-183	328_QUEST_clinical_caseMIR	SENT1	-	-
+31	los	el	DA0MP0	-	-	184-187	328_QUEST_clinical_caseMIR	SENT1	-	-
+32	73	73		-	-	188-190	328_QUEST_clinical_caseMIR	SENT1	-	-
+33	años	año	NCMP000	C0439234	calificador	191-195	328_QUEST_clinical_caseMIR	SENT1	-	-
+34	actualmente	actualmente	RG	C0521116	calificador	196-207	328_QUEST_clinical_caseMIR	SENT1	-	-
+35	libre	libre	NCMS000	C0332296_1	atributo_1	208-213	328_QUEST_clinical_caseMIR	SENT1	-	-
+36	de	de	SPS00	C0332296_2	atributo_2	214-216	328_QUEST_clinical_caseMIR	SENT1	-	-
+37	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	217-227	328_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+38	.	.	Fp	-	-	227-228	328_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	229-231	328_QUEST_clinical_caseMIR	SENT2	-	-
+2	traído	traer	VMP00SM	-	-	232-238	328_QUEST_clinical_caseMIR	SENT2	-	-
+3	a	a	SPS00	-	-	239-240	328_QUEST_clinical_caseMIR	SENT2	-	-
+4	urgencias	urgencia	NCFP000	C0439609	calificador	241-250	328_QUEST_clinical_caseMIR	SENT2	-	-
+5	por	por	SPS00	C0678226	atributo	251-254	328_QUEST_clinical_caseMIR	SENT2	-	-
+6	clínica	clínica	NCFS000	C0442592	medio_ambiente	255-262	328_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	263-265	328_QUEST_clinical_caseMIR	SENT2	-	-
+8	afasia	afasia	NCFS000	C0003537	hallazgo	266-272	328_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	273-274	328_QUEST_clinical_caseMIR	SENT2	-	-
+10	hemiparesia	hemiparesia	NC00SC0	C0457435_1	trastorno_1	275-286	328_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	derecha	derecho	AQ0FS0	C0457435_2	trastorno_2	287-294	328_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+12	de	de	SPS00	C0332285	atributo	295-297	328_QUEST_clinical_caseMIR	SENT2	-	-
+13	inicio	inicio	NCMS000	C0332162	atributo	298-304	328_QUEST_clinical_caseMIR	SENT2	-	-
+14	brusco	brusco	AQ0MS0	C0443162	calificador	305-311	328_QUEST_clinical_caseMIR	SENT2	-	-
+15	,	,	Fc	-	-	311-312	328_QUEST_clinical_caseMIR	SENT2	-	-
+16	45	45	Z	-	-	313-315	328_QUEST_clinical_caseMIR	SENT2	-	-
+17	minutos	min	NCMP000	-	-	316-323	328_QUEST_clinical_caseMIR	SENT2	-	-
+18	antes	antes	RG	C0332152	atributo	324-329	328_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	329-330	328_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	331-332	328_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	332-336	328_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	337-339	328_QUEST_clinical_caseMIR	SENT3	-	-
+4	la	el	DA0FS0	-	-	340-342	328_QUEST_clinical_caseMIR	SENT3	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	343-350	328_QUEST_clinical_caseMIR	SENT3	-	-
+6	más	más	RG	C0205172	calificador	351-354	328_QUEST_clinical_caseMIR	SENT3	-	-
+7	correcta	correcto	AQ0FS0	C0205170	calificador	355-363	328_QUEST_clinical_caseMIR	SENT3	-	-
+8	?	?	Fit	-	-	363-364	328_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	364-365	328_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,91 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	493_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	493_QUEST_clinical_caseMIR	SENT1	-	-
+3	38	38		-	-	10-12	493_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	493_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	493_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	493_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	28-29	493_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	30-39	493_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	40-43	493_QUEST_clinical_caseMIR	SENT1	-	-
+10	cuadro	cuadro	NCMS000	-	-	44-50	493_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	51-53	493_QUEST_clinical_caseMIR	SENT1	-	-
+12	fiebre	fiebre	NCFS000	C0015967	hallazgo	54-60	493_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	por	por	SPS00	C0444456_1	calificador_1	61-64	493_QUEST_clinical_caseMIR	SENT1	-	-
+14	encima	encimar	VMM02S0	C0444456_2	calificador_2	65-71	493_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	72-74	493_QUEST_clinical_caseMIR	SENT1	-	-
+16	39°C	39°C		-	-	75-79	493_QUEST_clinical_caseMIR	SENT1	-	-
+17	y	y	CC	C1706368	calificador	80-81	493_QUEST_clinical_caseMIR	SENT1	-	-
+18	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	82-91	493_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	del	del	SP+DA	-	-	92-95	493_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	nivel	nivel	NCMS000	C0234425_1	entidad_observable_1	96-101	493_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+21	de	de	SPS00	C0234425_2	entidad_observable_2	102-104	493_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+22	conciencia	concienciar	VMM02S0	C0234425_3	entidad_observable_3	105-115	493_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+23	tras	tras	SPS00	-	-	116-120	493_QUEST_clinical_caseMIR	SENT1	-	-
+24	haber	haber	VAN0000	-	-	121-126	493_QUEST_clinical_caseMIR	SENT1	-	-
+25	realizado	realizar	VMP00SM	-	-	127-136	493_QUEST_clinical_caseMIR	SENT1	-	-
+26	un	un		C0205447_1	calificador_1	137-139	493_QUEST_clinical_caseMIR	SENT1	-	-
+27	viaje	viaje	NCMS000	C0040802	evento	140-145	493_QUEST_clinical_caseMIR	SENT1	-	-
+28	a	a	SPS00	-	-	146-147	493_QUEST_clinical_caseMIR	SENT1	-	-
+29	Guinea	guineo	NCFS000	-	-	148-154	493_QUEST_clinical_caseMIR	SENT1	-	-
+30	Ecuatorial	ecuatorial	AQ0CS0	-	-	155-165	493_QUEST_clinical_caseMIR	SENT1	-	-
+31	sin	sin	SPS00	C0332288	atributo	166-169	493_QUEST_clinical_caseMIR	SENT1	-	-
+32	profilaxis	profilaxis	NCFN000	C0199176	procedimiento	170-180	493_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+33	antimalárica	antimalárica	AQ0FS00	-	-	181-193	493_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+34	.	.	Fp	-	-	193-194	493_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	195-197	493_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	198-200	493_QUEST_clinical_caseMIR	SENT2	-	-
+3	analítica	analítica	NCFS000	-	-	201-210	493_QUEST_clinical_caseMIR	SENT2	-	-
+4	destaca	destacar	VMIP3S0	-	-	211-218	493_QUEST_clinical_caseMIR	SENT2	-	-
+5	:	:	Fd	-	-	218-219	493_QUEST_clinical_caseMIR	SENT2	-	-
+6	creatinina	creatinina	NC00SC0	C0010294	sustancia	220-230	493_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	231-233	493_QUEST_clinical_caseMIR	SENT2	-	-
+8	3,4	3.4	Z	-	-	234-237	493_QUEST_clinical_caseMIR	SENT2	-	-
+9	mg	mg	NCMN000	-	-	238-240	493_QUEST_clinical_caseMIR	SENT2	-	-
+10	/	/	Fh	-	-	240-241	493_QUEST_clinical_caseMIR	SENT2	-	-
+11	dL	decilitro	NCMN000	C0439241	calificador	241-243	493_QUEST_clinical_caseMIR	SENT2	-	-
+12	,	,	Fc	-	-	243-244	493_QUEST_clinical_caseMIR	SENT2	-	-
+13	AST	aspartato_transaminasa	NC00YL0	-	-	245-248	493_QUEST_clinical_caseMIR	SENT2	-	-
+14	764	764		-	-	249-252	493_QUEST_clinical_caseMIR	SENT2	-	-
+15	U	o	CC	-	-	253-254	493_QUEST_clinical_caseMIR	SENT2	-	-
+16	/	/	Fh	-	-	254-255	493_QUEST_clinical_caseMIR	SENT2	-	-
+17	L	l	NCFS000	-	-	255-256	493_QUEST_clinical_caseMIR	SENT2	-	-
+18	,	,	Fc	-	-	256-257	493_QUEST_clinical_caseMIR	SENT2	-	-
+19	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	258-261	493_QUEST_clinical_caseMIR	SENT2	-	-
+20	678	678		-	-	262-265	493_QUEST_clinical_caseMIR	SENT2	-	-
+21	U	o	CC	-	-	266-267	493_QUEST_clinical_caseMIR	SENT2	-	-
+22	/	/	Fh	-	-	267-268	493_QUEST_clinical_caseMIR	SENT2	-	-
+23	L.	l.	NCFS000	-	-	268-270	493_QUEST_clinical_caseMIR	SENT2	-	-
+24	El	el	DA0MS0	-	-	271-273	493_QUEST_clinical_caseMIR	SENT2	-	-
+25	laboratorio	laboratorio	NCMS000	C0022877	medio_ambiente	274-285	493_QUEST_clinical_caseMIR	SENT2	-	-
+26	informa	informar	VMIP3S0	C0700287	procedimiento	286-293	493_QUEST_clinical_caseMIR	SENT2	-	-
+27	de	de	SPS00	C0332285	atributo	294-296	493_QUEST_clinical_caseMIR	SENT2	-	-
+28	la	el	DA0FS0	-	-	297-299	493_QUEST_clinical_caseMIR	SENT2	-	-
+29	visualización	visualización	NCFS000	-	-	300-313	493_QUEST_clinical_caseMIR	SENT2	-	-
+30	en	en	SPS00	C1720294#C0332285	calificador#atributo	314-316	493_QUEST_clinical_caseMIR	SENT2	-	-
+31	sangre	sangre	NCFS000	C0005767	sustancia	317-323	493_QUEST_clinical_caseMIR	SENT2	-	-
+32	de	de	SPS00	C0332285	atributo	324-326	493_QUEST_clinical_caseMIR	SENT2	-	-
+33	un	un		C0205447_1	calificador_1	327-329	493_QUEST_clinical_caseMIR	SENT2	-	-
+34	Plasmodium	plasmodium	NCMS000	-	-	330-340	493_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+35	falciparum	falciparum	NCMS000	-	-	341-351	493_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+36	con	con	SPS00	C0332287	atributo	352-355	493_QUEST_clinical_caseMIR	SENT2	-	-
+37	un	un		C0205447_1	calificador_1	356-358	493_QUEST_clinical_caseMIR	SENT2	-	-
+38	nivel	nivel	NCMS000	C0456079	atributo	359-364	493_QUEST_clinical_caseMIR	SENT2	-	-
+39	de	de	SPS00	C0332285	atributo	365-367	493_QUEST_clinical_caseMIR	SENT2	-	-
+40	parasitemia	parasitemia	NCFS000	-	-	368-379	493_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+41	del	del	SP+DA	-	-	380-383	493_QUEST_clinical_caseMIR	SENT2	-	-
+42	6	6	Z	-	-	384-385	493_QUEST_clinical_caseMIR	SENT2	-	-
+43	%	%	Ft	-	-	385-386	493_QUEST_clinical_caseMIR	SENT2	-	-
+44	.	.	Fp	-	-	386-387	493_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	388-389	493_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	389-392	493_QUEST_clinical_caseMIR	SENT3	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	393-404	493_QUEST_clinical_caseMIR	SENT3	-	-
+4	instaurar	instaurar	VMN0000	-	-	405-414	493_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	lo	PP3FSA00	-	-	414-416	493_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	417-419	493_QUEST_clinical_caseMIR	SENT3	-	-
+7	este	este	DD0MS0	-	-	420-424	493_QUEST_clinical_caseMIR	SENT3	-	-
+8	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	425-432	493_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	432-433	493_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	433-434	493_QUEST_clinical_caseMIR	SENT3	-	-
+

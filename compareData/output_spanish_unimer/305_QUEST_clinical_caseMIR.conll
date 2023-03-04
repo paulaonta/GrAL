@@ -1,0 +1,101 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	305_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	305_QUEST_clinical_caseMIR	SENT1	-	-
+3	27	27		-	-	9-11	305_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	305_QUEST_clinical_caseMIR	SENT1	-	-
+5	remitida	remitir	VMP00SF	C0439600	calificador	17-25	305_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	26-27	305_QUEST_clinical_caseMIR	SENT1	-	-
+7	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	28-36	305_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	37-39	305_QUEST_clinical_caseMIR	SENT1	-	-
+9	ginecología	ginecología	NCFS000	C0018417	calificador	40-51	305_QUEST_clinical_caseMIR	SENT1	-	-
+10	para	para	SPS00	C0521125	calificador	52-56	305_QUEST_clinical_caseMIR	SENT1	-	-
+11	su	su	DP3CS0	-	-	57-59	305_QUEST_clinical_caseMIR	SENT1	-	-
+12	valoración	valoración	NCFS000	-	-	60-70	305_QUEST_clinical_caseMIR	SENT1	-	-
+13	refiriendo	referir	VMG0000	-	-	71-81	305_QUEST_clinical_caseMIR	SENT1	-	-
+14	dispareunia	dispareunia	NC00SC0	C1384606	hallazgo	82-93	305_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	desde	desde	SPS00	-	-	94-99	305_QUEST_clinical_caseMIR	SENT1	-	-
+16	hace	hacer	VMIP3S0	-	-	100-104	305_QUEST_clinical_caseMIR	SENT1	-	-
+17	unos	uno	DI0MP0	C0205447	calificador	105-109	305_QUEST_clinical_caseMIR	SENT1	-	-
+18	8	8		-	-	110-111	305_QUEST_clinical_caseMIR	SENT1	-	-
+19	meses	mes	NCMP000	C0439231	calificador	112-117	305_QUEST_clinical_caseMIR	SENT1	-	-
+20	,	,	Fc	-	-	117-118	305_QUEST_clinical_caseMIR	SENT1	-	-
+21	junto	junto	RG	-	-	119-124	305_QUEST_clinical_caseMIR	SENT1	-	-
+22	con	con	SPS00	C0332287	atributo	125-128	305_QUEST_clinical_caseMIR	SENT1	-	-
+23	disquecia	disquecia	NC00SC0	C0237326	hallazgo	129-138	305_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	y	y	CC	C1706368	calificador	139-140	305_QUEST_clinical_caseMIR	SENT1	-	-
+25	rectorragia	rectorragia	NCFS000	C0267596#C0018932_1	trastorno#hallazgo_1	141-152	305_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	ocasional	ocasional	AQ0CS0	C0521114	calificador	153-162	305_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	coincidiendo	coincidir	VMG0000	-	-	163-175	305_QUEST_clinical_caseMIR	SENT1	-	-
+28	con	con	SPS00	C0332287	atributo	176-179	305_QUEST_clinical_caseMIR	SENT1	-	-
+29	la	el	DA0FS0	-	-	180-182	305_QUEST_clinical_caseMIR	SENT1	-	-
+30	menstruación	menstruación	NCFS000	C0025344#C0227854	entidad_observable#sustancia	183-195	305_QUEST_clinical_caseMIR	SENT1	-	-
+31	desde	desde	SPS00	-	-	196-201	305_QUEST_clinical_caseMIR	SENT1	-	-
+32	hace	hacer	VMIP3S0	-	-	202-206	305_QUEST_clinical_caseMIR	SENT1	-	-
+33	3-4	3-4		-	-	207-210	305_QUEST_clinical_caseMIR	SENT1	-	-
+34	meses	mes	NCMP000	C0439231	calificador	211-216	305_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	216-217	305_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	También	también	RG	-	-	218-225	305_QUEST_clinical_caseMIR	SENT2	-	-
+2	refiere	referir	VMIP3S0	-	-	226-233	305_QUEST_clinical_caseMIR	SENT2	-	-
+3	dismenorrea	dismenorrea	NCFS000	C0013390	trastorno#hallazgo	234-245	305_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	desde	desde	SPS00	-	-	246-251	305_QUEST_clinical_caseMIR	SENT2	-	-
+5	hace	hacer	VMIP3S0	-	-	252-256	305_QUEST_clinical_caseMIR	SENT2	-	-
+6	años	año	NCMP000	C0439234	calificador	257-261	305_QUEST_clinical_caseMIR	SENT2	-	-
+7	que	que	PR0CN000	-	-	262-265	305_QUEST_clinical_caseMIR	SENT2	-	-
+8	controla	controlar	VMIP3S0	-	-	266-274	305_QUEST_clinical_caseMIR	SENT2	-	-
+9	bien	bien	RG	C0205170	calificador	275-279	305_QUEST_clinical_caseMIR	SENT2	-	-
+10	con	con	SPS00	C0332287	atributo	280-283	305_QUEST_clinical_caseMIR	SENT2	-	-
+11	ibuprofeno	ibuprofeno	NCMS000	C0020740	sustancia	284-294	305_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+12	.	.	Fp	-	-	294-295	305_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Lleva	llevar	VMIP3S0	-	-	296-301	305_QUEST_clinical_caseMIR	SENT3	-	-
+2	intentando	intentar	VMG0000	-	-	302-312	305_QUEST_clinical_caseMIR	SENT3	-	-
+3	quedar	quedar	VMN0000	-	-	313-319	305_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	PP3CN000	-	-	319-321	305_QUEST_clinical_caseMIR	SENT3	-	-
+5	embarazada	embarazar	VMP00SF	-	-	322-332	305_QUEST_clinical_caseMIR	SENT3	-	-
+6	unos	uno	DI0MP0	C0205447	calificador	333-337	305_QUEST_clinical_caseMIR	SENT3	-	-
+7	16	16		-	-	338-340	305_QUEST_clinical_caseMIR	SENT3	-	-
+8	meses	mes	NCMP000	C0439231	calificador	341-346	305_QUEST_clinical_caseMIR	SENT3	-	-
+9	sin	sin	SPS00	C0332288	atributo	347-350	305_QUEST_clinical_caseMIR	SENT3	-	-
+10	haber	haber	VAN0000	-	-	351-356	305_QUEST_clinical_caseMIR	SENT3	-	-
+11	lo	lo	PP3CNA00	-	-	356-358	305_QUEST_clinical_caseMIR	SENT3	-	-
+12	conseguido	conseguir	VMP00SM	-	-	359-369	305_QUEST_clinical_caseMIR	SENT3	-	-
+13	aún	aun	RG	-	-	370-373	305_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	373-374	305_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	375-377	305_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	378-380	305_QUEST_clinical_caseMIR	SENT4	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	381-392	305_QUEST_clinical_caseMIR	SENT4	-	-
+4	ginecológica	ginecológico	AQ0FS0	C0205480	calificador	393-405	305_QUEST_clinical_caseMIR	SENT4	-	-
+5	tan	tan	RG	-	-	406-409	305_QUEST_clinical_caseMIR	SENT4	-	-
+6	sólo	sólo	RG	-	-	410-414	305_QUEST_clinical_caseMIR	SENT4	-	-
+7	se	se	P00CN000	-	-	415-417	305_QUEST_clinical_caseMIR	SENT4	-	-
+8	aprecia	apreciar	VMIP3S0	-	-	418-425	305_QUEST_clinical_caseMIR	SENT4	-	-
+9	dolor	dolor	NCMS000	C0030193	hallazgo	426-431	305_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+10	al	al	SP+DA	-	-	432-434	305_QUEST_clinical_caseMIR	SENT4	-	-
+11	presionar	presionar	VMN0000	-	-	435-444	305_QUEST_clinical_caseMIR	SENT4	-	-
+12	fondo	fondo	NCMS000	C1280349_1	estructura_corporal_1	445-450	305_QUEST_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C1280349_2	estructura_corporal_2	451-453	305_QUEST_clinical_caseMIR	SENT4	-	-
+14	saco	saco	NCMS000	C1280349_3	estructura_corporal_3	454-458	305_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+15	vaginal	vaginal	AQ0CS0	C1280349_4	estructura_corporal_4	459-466	305_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+16	posterior	posterior	NC00SC0	C1280349_5	estructura_corporal_5	467-476	305_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+17	.	.	Fp	-	-	476-477	305_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	478-479	305_QUEST_clinical_caseMIR	SENT5	-	-
+2	Qué	qué	DT0CN0	-	-	479-482	305_QUEST_clinical_caseMIR	SENT5	-	-
+3	prueba	prueba	NCFS000	-	-	483-489	305_QUEST_clinical_caseMIR	SENT5	-	-
+4	considera	considerar	VMIP3S0	-	-	490-499	305_QUEST_clinical_caseMIR	SENT5	-	-
+5	Ud	ud	NC00YL0	-	-	500-502	305_QUEST_clinical_caseMIR	SENT5	-	-
+6	que	que	PR0CN000	-	-	503-506	305_QUEST_clinical_caseMIR	SENT5	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	507-509	305_QUEST_clinical_caseMIR	SENT5	-	-
+8	permitiría	permitir	VMIC3S0	-	-	510-520	305_QUEST_clinical_caseMIR	SENT5	-	-
+9	llegar	llegar	VMN0000	-	-	521-527	305_QUEST_clinical_caseMIR	SENT5	-	-
+10	al	al	SP+DA	C0441942_1	estadificación_tumoral_1	528-530	305_QUEST_clinical_caseMIR	SENT5	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0441942_2	estadificación_tumoral_2	531-542	305_QUEST_clinical_caseMIR	SENT5	-	-
+12	de	de	SPS00	C0332285	atributo	543-545	305_QUEST_clinical_caseMIR	SENT5	-	-
+13	certeza	certeza	NCFS000	C0205423	atributo#calificador	546-553	305_QUEST_clinical_caseMIR	SENT5	-	-
+14	de	de	SPS00	C0332285	atributo	554-556	305_QUEST_clinical_caseMIR	SENT5	-	-
+15	su	su	DP3CS0	-	-	557-559	305_QUEST_clinical_caseMIR	SENT5	-	-
+16	patología	patología	NCFS000	C0030664	calificador	560-569	305_QUEST_clinical_caseMIR	SENT5	-	-
+17	?	?	Fit	-	-	569-570	305_QUEST_clinical_caseMIR	SENT5	-	-
+18	.	.	Fp	-	-	570-571	305_QUEST_clinical_caseMIR	SENT5	-	-
+

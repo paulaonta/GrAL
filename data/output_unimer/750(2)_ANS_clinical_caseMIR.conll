@@ -1,0 +1,21 @@
+1	Intubación	intubación	NCFS000	C0396621_1	procedimiento_1	0-10	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	11-22	750(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	,	,	Fc	-	-	22-23	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	solicitar	solicitar	VMN0000	-	-	24-33	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	transfusión	transfusión	NCFS000	C1879316	procedimiento	34-45	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	sanguínea	sanguíneo	AQ0FS0	-	-	46-55	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	y	y	CC	C1706368	calificador	56-57	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	observación	observación	NCFS000	C0557985	procedimiento	58-69	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	para	para	SPS00	C0521125	calificador	70-74	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	74-75	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	76-78	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	caso	caso	NCMS000	C0868928	calificador	79-83	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	84-86	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	empeoramiento	empeoramiento	NCMS000	-	-	87-100	750(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	,	,	Fc	-	-	100-101	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	indicar	indicar	VMN0000	-	-	102-109	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	110-112	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	intervención	intervención	NCFS000	C0543467_1	procedimiento_1	113-125	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	quirúrgica	quirúrgico	AQ0FS0	C0543467_2	procedimiento_2	126-136	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	137-138	750(2)_ANS_clinical_caseMIR	SENT1	-	-
+

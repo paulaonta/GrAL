@@ -1,0 +1,21 @@
+1	Indicar	indicar	VMN0000	-	-	0-7	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	8-19	317(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	desobstructivo	desobstructivo	AQ0MS0	-	-	20-34	317(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+4	quirúrgico	quirúrgico	AQ0MS0	C0543467	calificador	35-45	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	(	(	Fpa	-	-	46-47	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	resección	resección	NCFS000	C0728940#C0547070	procedimiento	47-56	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	transuretral	transuretral	NC00SC0	C0205497	calificador	57-69	317(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	de	de	SPS00	C0332285	atributo	70-72	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	próstata	próstata	NCFS000	C1278980#C0033572	estructura_corporal	73-81	317(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	)	)	Fpt	-	-	81-82	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	como	como	CS	C0332257	calificador	83-87	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	88-99	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	de	de	SPS00	C0332285	atributo	100-102	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	elección	elección	NCFS000	-	-	103-111	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	112-114	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	la	el	DA0FS0	-	-	115-117	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	hiperplasia	hiperplasia	NCFS000	C2937421#C1739363_1	trastorno_1	118-129	317(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	de	de	SPS00	C2937421#C1739363_2	trastorno_2	130-132	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	próstata	próstata	NCFS000	C2937421#C1739363_3	trastorno_3	133-141	317(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	.	.	Fp	-	-	142-143	317(3)_ANS_clinical_caseMIR	SENT1	-	-
+

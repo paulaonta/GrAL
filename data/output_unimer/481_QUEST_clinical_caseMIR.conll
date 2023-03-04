@@ -1,0 +1,63 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	481_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	481_QUEST_clinical_caseMIR	SENT1	-	-
+3	21	21		-	-	9-11	481_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	481_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	481_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	481_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	481_QUEST_clinical_caseMIR	SENT1	-	-
+8	acude	acudir	VMIP3S0	-	-	29-34	481_QUEST_clinical_caseMIR	SENT1	-	-
+9	a	a	SPS00	-	-	35-36	481_QUEST_clinical_caseMIR	SENT1	-	-
+10	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	37-45	481_QUEST_clinical_caseMIR	SENT1	-	-
+11	aportando	aportar	VMG0000	-	-	46-55	481_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	56-58	481_QUEST_clinical_caseMIR	SENT1	-	-
+13	estudio	estudio	NCMS000	C0557651	medio_ambiente	59-66	481_QUEST_clinical_caseMIR	SENT1	-	-
+14	hormonal	hormonal	AQ0CS0	C0458083	calificador	67-75	481_QUEST_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	76-79	481_QUEST_clinical_caseMIR	SENT1	-	-
+16	FSH	follicle-stimulating_hormone_(hormona_folículoestimulante)	NC00YL0	-	-	80-83	481_QUEST_clinical_caseMIR	SENT1	-	-
+17	0.29	0.29		-	-	84-88	481_QUEST_clinical_caseMIR	SENT1	-	-
+18	mUI	mui	NC00SC0	C0439455	calificador	89-92	481_QUEST_clinical_caseMIR	SENT1	-	-
+19	/	/	Fh	-	-	92-93	481_QUEST_clinical_caseMIR	SENT1	-	-
+20	mL	mililitro	NCMN000	C0439242	calificador	93-95	481_QUEST_clinical_caseMIR	SENT1	-	-
+21	(	(	Fpa	-	-	96-97	481_QUEST_clinical_caseMIR	SENT1	-	-
+22	normal	normal	AQ0CS0	C0205307	calificador	97-103	481_QUEST_clinical_caseMIR	SENT1	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	104-106	481_QUEST_clinical_caseMIR	SENT1	-	-
+24	fase	fase	NCFS000	C0205390	calificador	107-111	481_QUEST_clinical_caseMIR	SENT1	-	-
+25	folicular	folicular	AQ0CS0	C0439682	calificador	112-121	481_QUEST_clinical_caseMIR	SENT1	-	-
+26	=3.50-12.50	=3.50-12.50		-	-	122-133	481_QUEST_clinical_caseMIR	SENT1	-	-
+27	mUI	mui	NC00SC0	C0439455	calificador	134-137	481_QUEST_clinical_caseMIR	SENT1	-	-
+28	/	/	Fh	-	-	137-138	481_QUEST_clinical_caseMIR	SENT1	-	-
+29	mL	mililitro	NCMN000	C0439242	calificador	138-140	481_QUEST_clinical_caseMIR	SENT1	-	-
+30	)	)	Fpt	-	-	140-141	481_QUEST_clinical_caseMIR	SENT1	-	-
+31	y	y	CC	C1706368	calificador	142-143	481_QUEST_clinical_caseMIR	SENT1	-	-
+32	LH	luteinizing_hormone_(hormona_luteinizante)	NC00YL0	-	-	144-146	481_QUEST_clinical_caseMIR	SENT1	-	-
+33	<	<	Fz	-	-	147-148	481_QUEST_clinical_caseMIR	SENT1	-	-
+34	0.1	0.1		-	-	149-152	481_QUEST_clinical_caseMIR	SENT1	-	-
+35	mUI	mui	NC00SC0	C0439455	calificador	153-156	481_QUEST_clinical_caseMIR	SENT1	-	-
+36	/	/	Fh	-	-	156-157	481_QUEST_clinical_caseMIR	SENT1	-	-
+37	mL	mililitro	NCMN000	C0439242	calificador	157-159	481_QUEST_clinical_caseMIR	SENT1	-	-
+38	(	(	Fpa	-	-	160-161	481_QUEST_clinical_caseMIR	SENT1	-	-
+39	normal	normal	AQ0CS0	C0205307	calificador	161-167	481_QUEST_clinical_caseMIR	SENT1	-	-
+40	en	en	SPS00	C1720294#C0332285	calificador#atributo	168-170	481_QUEST_clinical_caseMIR	SENT1	-	-
+41	fase	fase	NCFS000	C0205390	calificador	171-175	481_QUEST_clinical_caseMIR	SENT1	-	-
+42	folicular	folicular	AQ0CS0	C0439682	calificador	176-185	481_QUEST_clinical_caseMIR	SENT1	-	-
+43	2.40-12.60	2.40-12.60		-	-	186-196	481_QUEST_clinical_caseMIR	SENT1	-	-
+44	mUI	mui	NC00SC0	C0439455	calificador	197-200	481_QUEST_clinical_caseMIR	SENT1	-	-
+45	/	/	Fh	-	-	200-201	481_QUEST_clinical_caseMIR	SENT1	-	-
+46	mL	mililitro	NCMN000	C0439242	calificador	201-203	481_QUEST_clinical_caseMIR	SENT1	-	-
+47	)	)	Fpt	-	-	203-204	481_QUEST_clinical_caseMIR	SENT1	-	-
+48	.	.	Fp	-	-	204-205	481_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Deberemos	deber	VMIF1P0	-	-	206-215	481_QUEST_clinical_caseMIR	SENT2	-	-
+2	realizar	realizar	VMN0000	-	-	216-224	481_QUEST_clinical_caseMIR	SENT2	-	-
+3	un	un		C0205447_1	calificador_1	225-227	481_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011906_1	calificador_1	228-239	481_QUEST_clinical_caseMIR	SENT2	-	-
+5	diferencial	diferencial	NCMS000	C0011906_2	calificador_2	240-251	481_QUEST_clinical_caseMIR	SENT2	-	-
+6	entre	entre	SPS00	C0205103	calificador	252-257	481_QUEST_clinical_caseMIR	SENT2	-	-
+7	las	el	DA0FP0	-	-	258-261	481_QUEST_clinical_caseMIR	SENT2	-	-
+8	siguientes	siguiente	AQ0CP0	C0332282	atributo	262-272	481_QUEST_clinical_caseMIR	SENT2	-	-
+9	situaciones	situación	NCFP000	-	-	273-284	481_QUEST_clinical_caseMIR	SENT2	-	-
+10	clínicas	clínico	AQ0FP0	C0205210	calificador	285-293	481_QUEST_clinical_caseMIR	SENT2	-	-
+11	EXCEPTO	excepto	SPS00	-	-	294-301	481_QUEST_clinical_caseMIR	SENT2	-	-
+12	:	:	Fd	-	-	301-302	481_QUEST_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	302-303	481_QUEST_clinical_caseMIR	SENT2	-	-
+

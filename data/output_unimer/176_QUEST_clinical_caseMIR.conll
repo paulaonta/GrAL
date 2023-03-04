@@ -1,0 +1,147 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	176_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	176_QUEST_clinical_caseMIR	SENT1	-	-
+3	4	4		-	-	8-9	176_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	176_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	15-17	176_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	18-22	176_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	23-26	176_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	27-35	176_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	36-39	176_QUEST_clinical_caseMIR	SENT1	-	-
+10	aparición	aparición	NCFS000	-	-	40-49	176_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	50-51	176_QUEST_clinical_caseMIR	SENT1	-	-
+12	lo	el	DA0NS0	-	-	52-54	176_QUEST_clinical_caseMIR	SENT1	-	-
+13	largo	largo	AQ0MS0	C0205166#C0392744	calificador	55-60	176_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	61-63	176_QUEST_clinical_caseMIR	SENT1	-	-
+15	los	el	DA0MP0	-	-	64-67	176_QUEST_clinical_caseMIR	SENT1	-	-
+16	últimos	último	AO0MP0	-	-	68-75	176_QUEST_clinical_caseMIR	SENT1	-	-
+17	tres	tres		-	-	76-80	176_QUEST_clinical_caseMIR	SENT1	-	-
+18	días	día	NCMP000	C0439228#C0332169	calificador	81-85	176_QUEST_clinical_caseMIR	SENT1	-	-
+19	,	,	Fc	-	-	85-86	176_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	87-89	176_QUEST_clinical_caseMIR	SENT1	-	-
+21	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	90-98	176_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	cutáneas	cutáneo	AQ0FP0	-	-	99-107	176_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	108-110	176_QUEST_clinical_caseMIR	SENT1	-	-
+24	piernas	pierna	NCFP000	C1269079#C1285009#C1140621	estructura_corporal	111-118	176_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	y	y	CC	C1706368	calificador	119-120	176_QUEST_clinical_caseMIR	SENT1	-	-
+26	glúteos	glúteo	NCMP000	C0006497#C0282082	estructura_corporal	121-128	176_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	.	.	Fp	-	-	128-129	176_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Sus	su	DP3CP0	-	-	130-133	176_QUEST_clinical_caseMIR	SENT2	-	-
+2	padres	padre	NCMP000	C0015671	persona	134-140	176_QUEST_clinical_caseMIR	SENT2	-	-
+3	referían	referir	VMII3P0	-	-	141-149	176_QUEST_clinical_caseMIR	SENT2	-	-
+4	que	que	CS	-	-	150-153	176_QUEST_clinical_caseMIR	SENT2	-	-
+5	su	su	DP3CS0	-	-	154-156	176_QUEST_clinical_caseMIR	SENT2	-	-
+6	pediatra	pediatra	NCCS000	C0237433	ocupación	157-165	176_QUEST_clinical_caseMIR	SENT2	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	166-168	176_QUEST_clinical_caseMIR	SENT2	-	-
+8	había	haber	VAII3S0	-	-	169-174	176_QUEST_clinical_caseMIR	SENT2	-	-
+9	diagnosticado	diagnosticar	VMP00SM	-	-	175-188	176_QUEST_clinical_caseMIR	SENT2	-	-
+10	una	una		C0205447_1	calificador_1	189-192	176_QUEST_clinical_caseMIR	SENT2	-	-
+11	infección	infección	NCFS000	C0041912_1	trastorno_1	193-202	176_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0041912_2	trastorno_2	203-205	176_QUEST_clinical_caseMIR	SENT2	-	-
+13	vías	vía	NCFP000	C0041912_3	trastorno_3	206-210	176_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+14	respiratorias	respiratorio	AQ0FP0	C0041912_4	trastorno_4	211-224	176_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+15	superiores	superior	NCMP000	C0041912_5	trastorno_5	225-235	176_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+16	10	10	Z	-	-	236-238	176_QUEST_clinical_caseMIR	SENT2	-	-
+17	días	d	NCMP000	-	-	239-243	176_QUEST_clinical_caseMIR	SENT2	-	-
+18	antes	antes	RG	C0332152	atributo	244-249	176_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	249-250	176_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	176_QUEST_clinical_caseMIR	SENT3	-	-
+2	las	el	DA0FP0	-	-	254-257	176_QUEST_clinical_caseMIR	SENT3	-	-
+3	últimas	último	AO0FP0	-	-	258-265	176_QUEST_clinical_caseMIR	SENT3	-	-
+4	12	12	Z	C1292430_1	calificador_1	266-268	176_QUEST_clinical_caseMIR	SENT3	-	-
+5	horas	hora	NCFP000	C1292430_2	calificador_2	269-274	176_QUEST_clinical_caseMIR	SENT3	-	-
+6	presenta	presentar	VMIP3S0	-	-	275-283	176_QUEST_clinical_caseMIR	SENT3	-	-
+7	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	284-289	176_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	290-299	176_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+9	intenso	intenso	AQ0MS0	C0205178	calificador	300-307	176_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	tipo	tipo	NCMS000	C0332307	calificador#atributo	308-312	176_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+11	cólico	cólico	AQ0MS0	C0423605#C0232488#C3665357	hallazgo	313-319	176_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+12	,	,	Fc	-	-	319-320	176_QUEST_clinical_caseMIR	SENT3	-	-
+13	y	y	CC	C1706368	calificador	321-322	176_QUEST_clinical_caseMIR	SENT3	-	-
+14	ha	haber	VAIP3S0	-	-	323-325	176_QUEST_clinical_caseMIR	SENT3	-	-
+15	realizado	realizar	VMP00SM	-	-	326-335	176_QUEST_clinical_caseMIR	SENT3	-	-
+16	dos	dos		-	-	336-339	176_QUEST_clinical_caseMIR	SENT3	-	-
+17	deposiciones	deposición	NCFP000	-	-	340-352	176_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+18	diarréicas	diarréicas	AQ0FP00	-	-	353-363	176_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+19	.	.	Fp	-	-	363-364	176_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Afebril	afebril	AQ0CS0	-	-	365-372	176_QUEST_clinical_caseMIR	SENT4	-	-
+2	.	.	Fp	-	-	372-373	176_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	No	no	RN	C1298908	calificador	374-376	176_QUEST_clinical_caseMIR	SENT5	-	-
+2	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	377-384	176_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+3	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	385-387	176_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+4	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	388-392	176_QUEST_clinical_caseMIR	SENT5	I-Calificador	-
+5	.	.	Fp	-	-	392-393	176_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	A	a	SPS00	-	-	394-395	176_QUEST_clinical_caseMIR	SENT6	-	-
+2	la	el	DA0FS0	-	-	396-398	176_QUEST_clinical_caseMIR	SENT6	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	399-410	176_QUEST_clinical_caseMIR	SENT6	-	-
+4	presenta	presentar	VMIP3S0	-	-	411-419	176_QUEST_clinical_caseMIR	SENT6	-	-
+5	numerosas	numeroso	AQ0FP0	C0439064	calificador	420-429	176_QUEST_clinical_caseMIR	SENT6	-	-
+6	petequias	petequia	NCFP000	C0031256	anomalía_morfológica	430-439	176_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+7	y	y	CC	C1706368	calificador	440-441	176_QUEST_clinical_caseMIR	SENT6	-	-
+8	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	442-450	176_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+9	purpúricas	purpúricas	AQ0FP00	-	-	451-461	176_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+10	palpables	palpable	AQ0CP0	C0522499	calificador	462-471	176_QUEST_clinical_caseMIR	SENT6	-	-
+11	de	de	SPS00	C0332285	atributo	472-474	176_QUEST_clinical_caseMIR	SENT6	-	-
+12	predominio	predominio	NCMS000	-	-	475-485	176_QUEST_clinical_caseMIR	SENT6	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	486-488	176_QUEST_clinical_caseMIR	SENT6	-	-
+14	glúteos	glúteo	NCMP000	C0006497#C0282082	estructura_corporal	489-496	176_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	497-498	176_QUEST_clinical_caseMIR	SENT6	-	-
+16	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	499-511	176_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+17	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	512-522	176_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-
+18	.	.	Fp	-	-	522-523	176_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Buen	bueno	AQ0MS0	C0205170	calificador	524-528	176_QUEST_clinical_caseMIR	SENT7	-	-
+2	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	529-535	176_QUEST_clinical_caseMIR	SENT7	-	-
+3	general	general	AQ0CS0	C0205246	calificador	536-543	176_QUEST_clinical_caseMIR	SENT7	-	-
+4	aunque	aunque	CC	-	-	544-550	176_QUEST_clinical_caseMIR	SENT7	-	-
+5	tiene	tener	VMIP3S0	-	-	551-556	176_QUEST_clinical_caseMIR	SENT7	-	-
+6	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	557-562	176_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-
+7	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	563-572	176_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
+8	intenso	intenso	AQ0MS0	C0205178	calificador	573-580	176_QUEST_clinical_caseMIR	SENT7	B-Calificador	-
+9	.	.	Fp	-	-	580-581	176_QUEST_clinical_caseMIR	SENT7	-	-
+
+1	La	el	DA0FS0	-	-	582-584	176_QUEST_clinical_caseMIR	SENT8	-	-
+2	palpación	palpación	NCFS000	C0030248_1	procedimiento_1	585-594	176_QUEST_clinical_caseMIR	SENT8	-	-
+3	abdominal	abdominal	NC00SC0	C0030248_2	procedimiento_2	595-604	176_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+4	es	ser	VSIP3S0	-	-	605-607	176_QUEST_clinical_caseMIR	SENT8	-	-
+5	difícil	difícil	AQ0CS0	C0332218	calificador	608-615	176_QUEST_clinical_caseMIR	SENT8	-	-
+6	de	de	SPS00	C0332285	atributo	616-618	176_QUEST_clinical_caseMIR	SENT8	-	-
+7	valorar	valorar	VMN0000	-	-	619-626	176_QUEST_clinical_caseMIR	SENT8	-	-
+8	por	por	SPS00	C0678226	atributo	627-630	176_QUEST_clinical_caseMIR	SENT8	-	-
+9	dolor	dolor	NCMS000	C0520963_1	hallazgo_1	631-636	176_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-
+10	difuso	difuso	NC00SC0	C0520963_2	hallazgo_2	637-643	176_QUEST_clinical_caseMIR	SENT8	B-Calificador	-
+11	.	.	Fp	-	-	643-644	176_QUEST_clinical_caseMIR	SENT8	-	-
+
+1	No	no	RN	C1298908	calificador	645-647	176_QUEST_clinical_caseMIR	SENT9	-	-
+2	visceromegalias	visceromegalias	NCMN000	-	-	648-663	176_QUEST_clinical_caseMIR	SENT9	B-Grp_Enfermedad	Negacion
+3	.	.	Fp	-	-	663-664	176_QUEST_clinical_caseMIR	SENT9	-	-
+
+1	No	no	RN	C1298908	calificador	665-667	176_QUEST_clinical_caseMIR	SENT10	-	-
+2	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	668-673	176_QUEST_clinical_caseMIR	SENT10	-	-
+3	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	674-683	176_QUEST_clinical_caseMIR	SENT10	-	-
+4	de	de	SPS00	C0332285	atributo	684-686	176_QUEST_clinical_caseMIR	SENT10	-	-
+5	interés	interés	NCMS000	-	-	687-694	176_QUEST_clinical_caseMIR	SENT10	-	-
+6	a	a	SPS00	-	-	695-696	176_QUEST_clinical_caseMIR	SENT10	-	-
+7	la	el	DA0FS0	-	-	697-699	176_QUEST_clinical_caseMIR	SENT10	-	-
+8	exploración	exploración	NCFS000	C1280903	procedimiento	700-711	176_QUEST_clinical_caseMIR	SENT10	-	-
+9	.	.	Fp	-	-	711-712	176_QUEST_clinical_caseMIR	SENT10	-	-
+
+1	¿	¿	Fia	-	-	713-714	176_QUEST_clinical_caseMIR	SENT11	-	-
+2	Cual	cual	PI0CS000	-	-	714-718	176_QUEST_clinical_caseMIR	SENT11	-	-
+3	de	de	SPS00	C0332285	atributo	719-721	176_QUEST_clinical_caseMIR	SENT11	-	-
+4	los	el	DA0MP0	-	-	722-725	176_QUEST_clinical_caseMIR	SENT11	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	726-736	176_QUEST_clinical_caseMIR	SENT11	-	-
+6	datos	dato	NCMP000	-	-	737-742	176_QUEST_clinical_caseMIR	SENT11	-	-
+7	NO	no	RN	C1298908	calificador	743-745	176_QUEST_clinical_caseMIR	SENT11	-	-
+8	apoya	apoyar	VMIP3S0	-	-	746-751	176_QUEST_clinical_caseMIR	SENT11	-	-
+9	su	su	DP3CS0	-	-	752-754	176_QUEST_clinical_caseMIR	SENT11	-	-
+10	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	755-763	176_QUEST_clinical_caseMIR	SENT11	-	-
+11	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	764-775	176_QUEST_clinical_caseMIR	SENT11	-	-
+12	?	?	Fit	-	-	775-776	176_QUEST_clinical_caseMIR	SENT11	-	-
+13	:	:	Fd	-	-	776-777	176_QUEST_clinical_caseMIR	SENT11	-	-
+14	.	.	Fp	-	-	777-778	176_QUEST_clinical_caseMIR	SENT11	-	-
+

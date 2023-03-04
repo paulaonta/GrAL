@@ -1,0 +1,14 @@
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	371(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	adyuvante	adyuvante	AQ0CS0	C0001551	sustancia	14-23	371(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+3	,	,	Fc	-	-	23-24	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	preferentemente	preferentemente	RG	-	-	25-40	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	41-44	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	antraciclinas	antraciclinas	NCFP000	-	-	45-58	371(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	y	y	CC	C1706368	calificador	59-60	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	taxanos	taxanos	NC00AO0	-	-	61-68	371(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	,	,	Fc	-	-	68-69	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	seguida	seguir	VMP00SF	-	-	70-77	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	78-80	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	hormonoterapia	hormonoterapia	NC00SC0	C0279025	procedimiento	81-95	371(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	.	.	Fp	-	-	96-97	371(1)_ANS_clinical_caseMIR	SENT1	-	-
+

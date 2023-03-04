@@ -1,0 +1,14 @@
+1	Intervención	intervención	NCFS000	-	-	0-12	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	urgente	urgente	AQ0CS0	C0439609	calificador	13-20	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	21-24	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	hemicolectomía	hemicolectomía		C0192861#C0337369_1	procedimiento_1	25-39	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	derecha	derecho	AQ0FS0	C0192861#C0337369_2	procedimiento_2	40-47	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	y	y	CC	C1706368	calificador	48-49	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	resección	resección	NCFS000	C0728940#C0547070	procedimiento	50-59	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	intestinal	intestinal	NC00SC0	C0021853	calificador	60-70	379(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	con	con	SPS00	C0332287	atributo	71-74	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	75-82	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	83-85	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	absceso	absceso	NCMS000	C0000833	trastorno#anomalía_morfológica	86-93	379(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	.	.	Fp	-	-	94-95	379(2)_ANS_clinical_caseMIR	SENT1	-	-
+

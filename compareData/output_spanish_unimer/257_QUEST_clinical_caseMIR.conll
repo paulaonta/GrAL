@@ -1,0 +1,37 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	257_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	257_QUEST_clinical_caseMIR	SENT1	-	-
+3	67	67		-	-	9-11	257_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	257_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticada	diagnosticar	VMP00SF	-	-	17-30	257_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	31-33	257_QUEST_clinical_caseMIR	SENT1	-	-
+7	un	un		C0205447_1	calificador_1	34-36	257_QUEST_clinical_caseMIR	SENT1	-	-
+8	carcinoma	carcinoma	NCMS000	C1134719_1	trastorno_1	37-46	257_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	ductal	ductal		C1134719_2	trastorno_2	47-53	257_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	infiltrante	infiltrante	AQ0CS0	C1134719_3	trastorno_3	54-65	257_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	de	de	SPS00	C1134719_4	trastorno_4	66-68	257_QUEST_clinical_caseMIR	SENT1	-	-
+12	mama	mamar	VMM02S0	C1134719_5	trastorno_5	69-73	257_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	74-75	257_QUEST_clinical_caseMIR	SENT1	-	-
+14	sin	sin	SPS00	C0332288	atributo	76-79	257_QUEST_clinical_caseMIR	SENT1	-	-
+15	historia	historia	NCFS000	C0573984_1	situación_1	80-88	257_QUEST_clinical_caseMIR	SENT1	-	-
+16	familiar	familiar	NCMS000	C0573984_2	situación_2	89-97	257_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0573984_3	situación_3	98-100	257_QUEST_clinical_caseMIR	SENT1	-	-
+18	neoplasia	neoplasia	NCFS000	C0573984_4	situación_4	101-110	257_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	.	.	Fp	-	-	110-111	257_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	112-113	257_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	113-116	257_QUEST_clinical_caseMIR	SENT2	-	-
+3	estudios	estudio	NCMP000	C0557651	medio_ambiente	117-125	257_QUEST_clinical_caseMIR	SENT2	-	-
+4	adicionales	adicional	AQ0CP0	-	-	126-137	257_QUEST_clinical_caseMIR	SENT2	-	-
+5	deben	deber	VMIP3P0	-	-	138-143	257_QUEST_clinical_caseMIR	SENT2	-	-
+6	realizar	realizar	VMN0000	-	-	144-152	257_QUEST_clinical_caseMIR	SENT2	-	-
+7	se	se	PP3CN000	-	-	152-154	257_QUEST_clinical_caseMIR	SENT2	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	155-157	257_QUEST_clinical_caseMIR	SENT2	-	-
+9	el	el	DA0MS0	-	-	158-160	257_QUEST_clinical_caseMIR	SENT2	-	-
+10	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	161-166	257_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	por	por	SPS00	C0678226	atributo	167-170	257_QUEST_clinical_caseMIR	SENT2	-	-
+12	sus	su	DP3CP0	-	-	171-174	257_QUEST_clinical_caseMIR	SENT2	-	-
+13	implicaciones	implicación	NCFP000	-	-	175-188	257_QUEST_clinical_caseMIR	SENT2	-	-
+14	clínico-terapéuticas	clínico-terapéuticas	AQ0FP00	-	-	189-209	257_QUEST_clinical_caseMIR	SENT2	-	-
+15	?	?	Fit	-	-	209-210	257_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	210-211	257_QUEST_clinical_caseMIR	SENT2	-	-
+

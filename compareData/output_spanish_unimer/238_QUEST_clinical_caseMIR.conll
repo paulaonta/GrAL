@@ -1,0 +1,55 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	238_QUEST_clinical_caseMIR	SENT1	-	-
+2	e	y	CC	C1706368	calificador	7-8	238_QUEST_clinical_caseMIR	SENT1	-	-
+3	54	54		-	-	9-11	238_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	238_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	238_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	238_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	238_QUEST_clinical_caseMIR	SENT1	-	-
+8	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	29-37	238_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	38-40	238_QUEST_clinical_caseMIR	SENT1	-	-
+10	su	su	DP3CS0	-	-	41-43	238_QUEST_clinical_caseMIR	SENT1	-	-
+11	empresa	empresa	NCFS000	-	-	44-51	238_QUEST_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	51-52	238_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	53-55	238_QUEST_clinical_caseMIR	SENT2	-	-
+2	detecta	detectar	VMIP3S0	-	-	56-63	238_QUEST_clinical_caseMIR	SENT2	-	-
+3	un	un		C0205447_1	calificador_1	64-66	238_QUEST_clinical_caseMIR	SENT2	-	-
+4	índice	índice	NCMS000	C1305855_1	entidad_observable_1	67-73	238_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C1305855_2	entidad_observable_2	74-76	238_QUEST_clinical_caseMIR	SENT2	-	-
+6	masa	masa	NCFS000	C1305855_3	entidad_observable_3	77-81	238_QUEST_clinical_caseMIR	SENT2	-	-
+7	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	82-90	238_QUEST_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	91-93	238_QUEST_clinical_caseMIR	SENT2	-	-
+9	32,8	32,8		-	-	94-98	238_QUEST_clinical_caseMIR	SENT2	-	-
+10	kg/m2	kg/m2		-	-	99-104	238_QUEST_clinical_caseMIR	SENT2	-	-
+11	y	y	CC	C1706368	calificador	105-106	238_QUEST_clinical_caseMIR	SENT2	-	-
+12	glucemia	glucemia	NCFS000	C0428568_1	procedimiento_1	107-115	238_QUEST_clinical_caseMIR	SENT2	-	-
+13	en	en	SPS00	C0428568_2	procedimiento_2	116-118	238_QUEST_clinical_caseMIR	SENT2	-	-
+14	ayunas	ayuno	AQ0FP0	C0428568_3	procedimiento_3	119-125	238_QUEST_clinical_caseMIR	SENT2	-	-
+15	138	138	Z	-	-	126-129	238_QUEST_clinical_caseMIR	SENT2	-	-
+16	mg	mg	NCMN000	-	-	130-132	238_QUEST_clinical_caseMIR	SENT2	-	-
+17	/	/	Fh	-	-	132-133	238_QUEST_clinical_caseMIR	SENT2	-	-
+18	l	l	NCFS000	-	-	133-134	238_QUEST_clinical_caseMIR	SENT2	-	-
+19	.	.	Fp	-	-	134-135	238_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Un	Un		C0205447_1	calificador_1	136-138	238_QUEST_clinical_caseMIR	SENT3	-	-
+2	mes	mes	NCMS000	C0439231	calificador	139-142	238_QUEST_clinical_caseMIR	SENT3	-	-
+3	después	después	RG	C0231290	atributo	143-150	238_QUEST_clinical_caseMIR	SENT3	-	-
+4	,	,	Fc	-	-	150-151	238_QUEST_clinical_caseMIR	SENT3	-	-
+5	glucemia	glucemia	NCFS000	C2585282	entidad_observable	152-160	238_QUEST_clinical_caseMIR	SENT3	-	-
+6	13	13	Z	-	-	161-163	238_QUEST_clinical_caseMIR	SENT3	-	-
+7	mg	mg	NCMN000	-	-	164-166	238_QUEST_clinical_caseMIR	SENT3	-	-
+8	/	/	Fh	-	-	166-167	238_QUEST_clinical_caseMIR	SENT3	-	-
+9	dl	decilitro	NCMN000	C0439241	calificador	167-169	238_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	169-170	238_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	171-172	238_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	172-175	238_QUEST_clinical_caseMIR	SENT4	-	-
+3	recomendación	recomendación	NCFS000	C0150600	procedimiento	176-189	238_QUEST_clinical_caseMIR	SENT4	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	190-201	238_QUEST_clinical_caseMIR	SENT4	-	-
+5	efectuaría	efectuar	VMIC3S0	-	-	202-212	238_QUEST_clinical_caseMIR	SENT4	-	-
+6	en	en	SPS00	C1279901_1	calificador_1	213-215	238_QUEST_clinical_caseMIR	SENT4	-	-
+7	primer	1	AO0MS0	C1279901_2	calificador_2	216-222	238_QUEST_clinical_caseMIR	SENT4	-	-
+8	lugar	lugar	NCMS000	C1279901_3	calificador_3	223-228	238_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	228-229	238_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	229-230	238_QUEST_clinical_caseMIR	SENT4	-	-
+

@@ -1,0 +1,62 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	308_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	308_QUEST_clinical_caseMIR	SENT1	-	-
+3	46	46		-	-	9-11	308_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	308_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	308_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	308_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	308_QUEST_clinical_caseMIR	SENT1	-	-
+8	valvulopatía	valvulopatía	NCFS000	C0264757_1	trastorno_1	37-49	308_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	reumática	reumático	NCFS000	C0264757_2	trastorno_2	50-59	308_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	,	,	Fc	-	-	59-60	308_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	61-64	308_QUEST_clinical_caseMIR	SENT1	-	-
+12	precisa	precisar	VMIP3S0	-	-	65-72	308_QUEST_clinical_caseMIR	SENT1	-	-
+13	sustitución	sustitución	NCFS000	-	-	73-84	308_QUEST_clinical_caseMIR	SENT1	-	-
+14	valvular	valvular	AQ0CS0	-	-	85-93	308_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	mitral	mitral	AQ0CS0	-	-	94-100	308_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	por	por	SPS00	C0678226	atributo	101-104	308_QUEST_clinical_caseMIR	SENT1	-	-
+17	una	una		C0205447_1	calificador_1	105-108	308_QUEST_clinical_caseMIR	SENT1	-	-
+18	prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	109-117	308_QUEST_clinical_caseMIR	SENT1	-	-
+19	mecánica	mecánico	AQ0FS0	C0443254	calificador	118-126	308_QUEST_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	126-127	308_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	128-130	308_QUEST_clinical_caseMIR	SENT2	-	-
+2	evolución	evolución	NCFS000	-	-	131-140	308_QUEST_clinical_caseMIR	SENT2	-	-
+3	postoperatoria	postoperatorio	AQ0FS0	-	-	141-155	308_QUEST_clinical_caseMIR	SENT2	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	156-163	308_QUEST_clinical_caseMIR	SENT2	-	-
+5	es	ser	VSIP3S0	-	-	164-166	308_QUEST_clinical_caseMIR	SENT2	-	-
+6	favorable	favorable	AQ0CS0	-	-	167-176	308_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	176-177	308_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Sin	sin	SPS00	C0332288	atributo	178-181	308_QUEST_clinical_caseMIR	SENT3	-	-
+2	embargo	embargo	NCMS000	-	-	182-189	308_QUEST_clinical_caseMIR	SENT3	-	-
+3	,	,	Fc	-	-	189-190	308_QUEST_clinical_caseMIR	SENT3	-	-
+4	tras	tras	SPS00	-	-	191-195	308_QUEST_clinical_caseMIR	SENT3	-	-
+5	comenzar	comenzar	VMN0000	-	-	196-204	308_QUEST_clinical_caseMIR	SENT3	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	205-216	308_QUEST_clinical_caseMIR	SENT3	-	-
+7	con	con	SPS00	C0332287	atributo	217-220	308_QUEST_clinical_caseMIR	SENT3	-	-
+8	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	221-233	308_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+9	desarrolla	desarrollar	VMIP3S0	-	-	234-244	308_QUEST_clinical_caseMIR	SENT3	-	-
+10	un	un		C0205447_1	calificador_1	245-247	308_QUEST_clinical_caseMIR	SENT3	-	-
+11	cuadro	cuadro	NCMS000	-	-	248-254	308_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0332285	atributo	255-257	308_QUEST_clinical_caseMIR	SENT3	-	-
+13	necrosis	necrosis	NCFN000	C0151799_1	trastorno_1	258-266	308_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+14	cutánea	cutáneo	AQ0FS0	C0151799_2	trastorno_2	267-274	308_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+15	afectando	afectar	VMG0000	-	-	275-284	308_QUEST_clinical_caseMIR	SENT3	-	-
+16	región	región	NCFS000	C0738563_1	estructura_corporal_1	285-291	308_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	abdominal	abdominal	NC00SC0	C0738563_2	estructura_corporal_2	292-301	308_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+18	y	y	CC	C1706368	calificador	302-303	308_QUEST_clinical_caseMIR	SENT3	-	-
+19	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	304-316	308_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	.	.	Fp	-	-	316-317	308_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	318-319	308_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	319-323	308_QUEST_clinical_caseMIR	SENT4	-	-
+3	de	de	SPS00	C0332285	atributo	324-326	308_QUEST_clinical_caseMIR	SENT4	-	-
+4	las	el	DA0FP0	-	-	327-330	308_QUEST_clinical_caseMIR	SENT4	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	331-341	308_QUEST_clinical_caseMIR	SENT4	-	-
+6	alteraciones	alteración	NCFP000	-	-	342-354	308_QUEST_clinical_caseMIR	SENT4	-	-
+7	justificaría	justificar	VMIC3S0	-	-	355-367	308_QUEST_clinical_caseMIR	SENT4	-	-
+8	este	este	DD0MS0	-	-	368-372	308_QUEST_clinical_caseMIR	SENT4	-	-
+9	cuadro	cuadro	NCMS000	-	-	373-379	308_QUEST_clinical_caseMIR	SENT4	-	-
+10	?	?	Fit	-	-	379-380	308_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	380-381	308_QUEST_clinical_caseMIR	SENT4	-	-
+

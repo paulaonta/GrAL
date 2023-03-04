@@ -1,0 +1,49 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	118_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	118_QUEST_clinical_caseMIR	SENT1	-	-
+3	75	75		-	-	9-11	118_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	118_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticada	diagnosticar	VMP00SF	-	-	17-30	118_QUEST_clinical_caseMIR	SENT1	-	-
+6	hace	hacer	VMIP3S0	-	-	31-35	118_QUEST_clinical_caseMIR	SENT1	-	-
+7	3	3		-	-	36-37	118_QUEST_clinical_caseMIR	SENT1	-	-
+8	años	año	NCMP000	C0439234	calificador	38-42	118_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	43-45	118_QUEST_clinical_caseMIR	SENT1	-	-
+10	drusas	drusa	NCFP000	C1260959#C0333440	anomalía_morfológica	46-52	118_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	blandas	blando	AQ0FP0	C0205358	calificador	53-60	118_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	118_QUEST_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	64-66	118_QUEST_clinical_caseMIR	SENT1	-	-
+14	fondo	fondo	NCMS000	C0016823#C1284756#C0029090_1	estructura_corporal#procedimiento_1	67-72	118_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0016823#C1284756#C0029090_2	estructura_corporal#procedimiento_2	73-75	118_QUEST_clinical_caseMIR	SENT1	-	-
+16	ojo	ojo	NCMS000	C0016823#C1284756#C0029090_3	estructura_corporal#procedimiento_3	76-79	118_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	79-80	118_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	81-88	118_QUEST_clinical_caseMIR	SENT2	-	-
+2	presentar	presentar	VMN0000	-	-	89-98	118_QUEST_clinical_caseMIR	SENT2	-	-
+3	,	,	Fc	-	-	98-99	118_QUEST_clinical_caseMIR	SENT2	-	-
+4	desde	desde	SPS00	-	-	100-105	118_QUEST_clinical_caseMIR	SENT2	-	-
+5	hace	hacer	VMIP3S0	-	-	106-110	118_QUEST_clinical_caseMIR	SENT2	-	-
+6	2	2		-	-	111-112	118_QUEST_clinical_caseMIR	SENT2	-	-
+7	semanas	semana	NCFP000	C0439230	calificador	113-120	118_QUEST_clinical_caseMIR	SENT2	-	-
+8	,	,	Fc	-	-	120-121	118_QUEST_clinical_caseMIR	SENT2	-	-
+9	metamorfopsia	metamorfopsia	NCFS000	C0271185	trastorno	122-135	118_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	136-137	118_QUEST_clinical_caseMIR	SENT2	-	-
+11	pérdida	pérdida	NCFS000	C0456909#C0042798#C3665346#C3665347#C0042790#C3665386_1	trastorno_1	138-145	118_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+12	visual	visual	NC00SC0	C0456909#C0042798#C3665346#C3665347#C0042790#C3665386_2	trastorno_2	146-152	118_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+13	importante	importante	AQ0CS0	-	-	153-163	118_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	118_QUEST_clinical_caseMIR	SENT2	-	-
+15	su	su	DP3CS0	-	-	167-169	118_QUEST_clinical_caseMIR	SENT2	-	-
+16	ojo	ojo	NCMS000	C1305216#C0229089_1	estructura_corporal_1	170-173	118_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	derecho	derecho	NCMS000	C1305216#C0229089_2	estructura_corporal_2	174-181	118_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+18	que	que	PR0CN000	-	-	182-185	118_QUEST_clinical_caseMIR	SENT2	-	-
+19	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	186-188	118_QUEST_clinical_caseMIR	SENT2	-	-
+20	impide	impedir	VMIP3S0	-	-	189-195	118_QUEST_clinical_caseMIR	SENT2	-	-
+21	leer	leer	VMN0000	-	-	196-200	118_QUEST_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	200-201	118_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Señale	señalar	VMM03S0	-	-	202-208	118_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	209-211	118_QUEST_clinical_caseMIR	SENT3	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	212-223	118_QUEST_clinical_caseMIR	SENT3	-	-
+4	más	más	RG	C0205172	calificador	224-227	118_QUEST_clinical_caseMIR	SENT3	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	228-236	118_QUEST_clinical_caseMIR	SENT3	-	-
+6	:	:	Fd	-	-	236-237	118_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	237-238	118_QUEST_clinical_caseMIR	SENT3	-	-
+

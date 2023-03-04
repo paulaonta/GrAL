@@ -1,0 +1,20 @@
+1	El	el	DA0MS0	-	-	0-2	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	más	más	RG	C0205172	calificador	15-18	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	19-27	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	es	ser	VSIP3S0	-	-	28-30	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	una	una		C0205447_1	calificador_1	31-34	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	artritis	artritis	NCFN000	C0263678_1	trastorno_1	35-43	289(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+8	aguda	agudo	AQ0FS0	C0263678_2	trastorno_2	44-49	289(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	por	por	SPS00	C0678226	atributo	50-53	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	depósito	depósito	NCMS000	C0522575_1	anomalía_morfológica_1	54-62	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0522575_2	anomalía_morfológica_2	63-65	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	cristales	cristal	NCMP000	C0522575_3	anomalía_morfológica_3	66-75	289(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0522575_4	anomalía_morfológica_4	76-78	289(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+14	pirofosfato	pirofosfato	NCMS000	C0522575_5	anomalía_morfológica_5	79-90	289(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+15	cálcico	cálcico	AQ0MS0	-	-	91-98	289(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+16	(	(	Fpa	-	-	99-100	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	pseudogota	pseudogota	NC00SC0	C0033802#C0409895#C0553730	trastorno	100-110	289(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	)	)	Fpt	-	-	110-111	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	112-113	289(3)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,13 @@
+1	Profilaxis	profilaxis	NCFN000	C0199176	procedimiento	0-10	421(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	antibiótica	antibiótico	AQ0FS0	C0003232	producto#sustancia	11-22	421(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+3	con	con	SPS00	C0332287	atributo	23-26	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	amoxicilina	amoxicilina	NC00SC0	C0002645#C0521900	sustancia	27-38	421(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	y	y	CC	C1706368	calificador	39-40	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	solicitar	solicitar	VMN0000	-	-	41-50	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	gammagrafía	gammagrafía	NCFS000	C2368359	calificador	51-62	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	renal	renal	AQ0CS0	-	-	63-68	421(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	(	(	Fpa	-	-	69-70	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	DMSA	ácido_dimercapto-succínico	NC00YL0	-	-	70-74	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	)	)	Fpt	-	-	74-75	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	.	.	Fp	-	-	76-77	421(4)_ANS_clinical_caseMIR	SENT1	-	-
+

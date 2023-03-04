@@ -1,0 +1,21 @@
+1	Retirada	retirada	NCFS000	-	-	0-8	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	del	del	SP+DA	-	-	9-12	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	clavo	clavo	NCMS000	C0010046	trastorno	13-18	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	,	,	Fc	-	-	18-19	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	desbridamiento	desbridamiento	NCMS000	C1283095#C0011079	calificador#procedimiento	20-34	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	34-35	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	colocación	colocación	NCFS000	C1533810	calificador	36-46	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	47-49	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	fijador	fijador	NCMS000	C0079321_1	objeto_físico_1	50-57	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	externo	externo	NCMS000	C0079321_2	objeto_físico_2	58-65	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	y	y	CC	C1706368	calificador	66-67	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	antibioterapia	antibioterapia	NCFS000	-	-	68-82	397(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+13	ajustada	ajustar	VMP00SF	-	-	83-91	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	a	a	SPS00	-	-	92-93	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	los	el	DA0MP0	-	-	94-97	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	98-108	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	109-111	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	los	el	DA0MP0	-	-	112-115	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	cultivos	cultivo	NCMP000	-	-	116-124	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	125-126	397(3)_ANS_clinical_caseMIR	SENT1	-	-
+

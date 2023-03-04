@@ -1,0 +1,16 @@
+1	Antibioticoterapia	antibioticoterapia	NC00SC0	C0559680_1	procedimiento_1	0-18	103(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	intravenosa	intravenoso	AQ0FS0	C0559680_2	procedimiento_2	19-30	103(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	y	y	CC	C1706368	calificador	31-32	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	repetir	repetir	VMN0000	C0205341	calificador	33-40	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	41-43	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	toracocentesis	toracocentesis	NC00SC0	C0189477	procedimiento	44-58	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	59-70	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	si	si	CS	-	-	71-73	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	no	no	RN	C1298908	calificador	74-76	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	hay	haber	VMIP3S0	-	-	77-80	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	mejoría	mejoría	NCFS000	-	-	81-88	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	89-91	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	48	48	Z	C0439586_1	calificador_1	92-94	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	horas	hora	NCFP000	C0439586_2	calificador_2	95-100	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	101-102	103(2)_ANS_clinical_caseMIR	SENT1	-	-
+

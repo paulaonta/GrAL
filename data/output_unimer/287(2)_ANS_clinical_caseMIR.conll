@@ -1,0 +1,41 @@
+1	Es	ser	VSIP3S0	-	-	0-2	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	probable	probable	AQ0CS0	C0332148	calificador	3-11	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	que	que	CS	-	-	12-15	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	tenga	tener	VMSP3S0	-	-	16-21	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	22-24	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	componente	componente	NCCS000	C0449432	atributo	25-35	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	36-38	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	39-52	287(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	cardiaca	cardiaco	AQ0FS0	-	-	53-61	287(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	izquierda	izquierdo	AQ0FS0	C0205091	calificador	62-71	287(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+11	asociada	asociar	VMP00SF	-	-	72-80	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	81-82	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	83-86	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	infección	infección	NCFS000	C0035243_1	trastorno_1	87-96	287(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	97-109	287(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	febril	febril	AQ0CS0	C0015967	hallazgo	110-116	287(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+17	.	.	Fp	-	-	116-117	287(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Sería	ser	VSIC1S0	-	-	118-123	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	prioritario	prioritario	AQ0MS0	-	-	124-135	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	el	el	DA0MS0	-	-	136-138	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+4	tratar	tratar	VMN0000	-	-	139-145	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+5	lo	lo	PP3CNA00	-	-	145-147	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+6	con	con	SPS00	C0332287	atributo	148-151	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+7	vasodilatadores	vasodilatador	NCMP000	C0042402	sustancia	152-167	287(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	y	y	CC	C1706368	calificador	168-169	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+9	diuréticos	diurético	NCMP000	C0012798	sustancia	170-180	287(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+10	además	además	RG	-	-	181-187	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+11	del	del	SP+DA	-	-	188-191	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	192-203	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+13	que	que	PR0CN000	-	-	204-207	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+14	corresponda	corresponder	VMSP3S0	-	-	208-219	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+15	su	su	DP3CS0	-	-	220-222	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+16	infección	infección	NCFS000	C0035243_1	trastorno_1	223-232	287(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+17	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	233-245	287(2)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+18	,	,	Fc	-	-	245-246	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+19	broncodilatadores	broncodilatadores	NCMP000	-	-	247-264	287(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+20	.	.	Fp	-	-	264-265	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+21	etc	etcétera	Fs	-	-	266-269	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+22	.	.	Fp	-	-	270-271	287(2)_ANS_clinical_caseMIR	SENT2	-	-
+

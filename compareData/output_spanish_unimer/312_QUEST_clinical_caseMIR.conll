@@ -1,0 +1,184 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	312_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	312_QUEST_clinical_caseMIR	SENT1	-	-
+3	78	78		-	-	9-11	312_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	312_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	312_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	312_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	312_QUEST_clinical_caseMIR	SENT1	-	-
+8	diabetes	diabetes	NCFN000	-	-	37-45	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	tipo	tipo	NCMS000	C0332307	calificador#atributo	46-50	312_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	2	2	Z	-	-	51-52	312_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	53-55	312_QUEST_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	56-67	312_QUEST_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	68-71	312_QUEST_clinical_caseMIR	SENT1	-	-
+14	antidiabéticos	antidiabético	NCMP000	-	-	72-86	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	orales	oral	AQ0CP0	C0442027	calificador	87-93	312_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	,	,	Fc	-	-	93-94	312_QUEST_clinical_caseMIR	SENT1	-	-
+17	HTA	hta	NC00YL0	-	-	95-98	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	99-101	312_QUEST_clinical_caseMIR	SENT1	-	-
+19	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	102-113	312_QUEST_clinical_caseMIR	SENT1	-	-
+20	con	con	SPS00	C0332287	atributo	114-117	312_QUEST_clinical_caseMIR	SENT1	-	-
+21	beta-bloqueantes	beta-bloqueantes	NC00AO0	-	-	118-134	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+22	e	y	CC	C1706368	calificador	135-136	312_QUEST_clinical_caseMIR	SENT1	-	-
+23	inhibidores	inhibidor	NCMP000	-	-	137-148	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+24	de	de	SPS00	C0332285	atributo	149-151	312_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+25	la	el	DA0FS0	-	-	152-154	312_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+26	ECA	enzima_conversora_de_la_angiotensina	NC00YL0	-	-	155-158	312_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+27	,	,	Fc	-	-	158-159	312_QUEST_clinical_caseMIR	SENT1	-	-
+28	e	y	CC	C1706368	calificador	160-161	312_QUEST_clinical_caseMIR	SENT1	-	-
+29	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	162-175	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	cardiaca	cardiaco	AQ0FS0	-	-	176-184	312_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	congestiva	congestivo	AQ0FS0	-	-	185-195	312_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+32	grado	grado	NCMS000	C0687695_1	calificador_1	196-201	312_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+33	1	1	Z	C0687695_2	calificador_2	202-203	312_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+34	de	de	SPS00	C0332285	atributo	204-206	312_QUEST_clinical_caseMIR	SENT1	-	-
+35	la	el	DA0FS0	-	-	207-209	312_QUEST_clinical_caseMIR	SENT1	-	-
+36	NYHA	new_york_heart_association_(asociación_del_corazón_de_nueva_york)	NC00YL0	-	-	210-214	312_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+37	con	con	SPS00	C0332287	atributo	215-218	312_QUEST_clinical_caseMIR	SENT1	-	-
+38	FEVI	fracción_de_eyección_del_ventrículo_izquierdo	NC00YL0	-	-	219-223	312_QUEST_clinical_caseMIR	SENT1	-	-
+39	del	del	SP+DA	-	-	224-227	312_QUEST_clinical_caseMIR	SENT1	-	-
+40	48	48	Z	-	-	228-230	312_QUEST_clinical_caseMIR	SENT1	-	-
+41	%	%	Ft	-	-	230-231	312_QUEST_clinical_caseMIR	SENT1	-	-
+42	,	,	Fc	-	-	231-232	312_QUEST_clinical_caseMIR	SENT1	-	-
+43	y	y	CC	C1706368	calificador	233-234	312_QUEST_clinical_caseMIR	SENT1	-	-
+44	actualmente	actualmente	RG	C0521116	calificador	235-246	312_QUEST_clinical_caseMIR	SENT1	-	-
+45	asintomática	asintomático	AQ0FS0	-	-	247-259	312_QUEST_clinical_caseMIR	SENT1	-	-
+46	.	.	Fp	-	-	259-260	312_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Estado	estar	VAP00SM	-	-	261-267	312_QUEST_clinical_caseMIR	SENT2	-	-
+2	funcional	funcional	AQ0CS0	C0205245	calificador	268-277	312_QUEST_clinical_caseMIR	SENT2	-	-
+3	:	:	Fd	-	-	277-278	312_QUEST_clinical_caseMIR	SENT2	-	-
+4	ECOG	ecog	NCMS000	-	-	279-283	312_QUEST_clinical_caseMIR	SENT2	-	-
+5	0	0		-	-	284-285	312_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	285-286	312_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Historia	historia	NCFS000	-	-	287-295	312_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332285	atributo	296-298	312_QUEST_clinical_caseMIR	SENT3	-	-
+3	2	2		-	-	299-300	312_QUEST_clinical_caseMIR	SENT3	-	-
+4	años	año	NCMP000	C0439234	calificador	301-305	312_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	306-308	312_QUEST_clinical_caseMIR	SENT3	-	-
+6	evolución	evolución	NCFS000	-	-	309-318	312_QUEST_clinical_caseMIR	SENT3	-	-
+7	de	de	SPS00	C0332285	atributo	319-321	312_QUEST_clinical_caseMIR	SENT3	-	-
+8	pequeños	pequeño	AQ0MP0	C0700321#C1282918	calificador	322-330	312_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+9	bultos	bulto	NCMP000	C0577559	hallazgo#anomalía_morfológica	331-337	312_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	338-340	312_QUEST_clinical_caseMIR	SENT3	-	-
+11	el	el	DA0MS0	-	-	341-343	312_QUEST_clinical_caseMIR	SENT3	-	-
+12	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	344-350	312_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	350-351	312_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	352-359	312_QUEST_clinical_caseMIR	SENT4	-	-
+2	de	de	SPS00	C0332285	atributo	360-362	312_QUEST_clinical_caseMIR	SENT4	-	-
+3	adenopatía	adenopatía	NCFS000	-	-	363-373	312_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	cervical	cervical	NC00SC0	C0205064#C0237504	calificador#estructura_corporal	374-382	312_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	:	:	Fd	-	-	382-383	312_QUEST_clinical_caseMIR	SENT4	-	-
+6	linfoma	linfoma	NCMS000	C0024301_1	anomalía_morfológica_1	384-391	312_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	folicular	folicular	NC00SC0	C0024301_2	anomalía_morfológica_2	392-401	312_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+8	grado	grado	NCMS000	C0441802_1	calificador_1	402-407	312_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+9	2	2	Z	C0441802_2	calificador_2	408-409	312_QUEST_clinical_caseMIR	SENT4	I-Calificador	-
+10	.	.	Fp	-	-	409-410	312_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Estudio	estudio	NCMS000	C0557651	medio_ambiente	411-418	312_QUEST_clinical_caseMIR	SENT5	-	-
+2	de	de	SPS00	C0332285	atributo	419-421	312_QUEST_clinical_caseMIR	SENT5	-	-
+3	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	422-431	312_QUEST_clinical_caseMIR	SENT5	-	-
+4	:	:	Fd	-	-	431-432	312_QUEST_clinical_caseMIR	SENT5	-	-
+5	Hb	hb	NC00YL0	-	-	433-435	312_QUEST_clinical_caseMIR	SENT5	-	-
+6	12	12	Z	-	-	436-438	312_QUEST_clinical_caseMIR	SENT5	-	-
+7	gr	g	NC00SC0	-	-	439-441	312_QUEST_clinical_caseMIR	SENT5	-	-
+8	/	/	Fh	-	-	441-442	312_QUEST_clinical_caseMIR	SENT5	-	-
+9	dL	decilitro	NCMN000	C0439241	calificador	442-444	312_QUEST_clinical_caseMIR	SENT5	-	-
+10	,	,	Fc	-	-	444-445	312_QUEST_clinical_caseMIR	SENT5	-	-
+11	Leucocitos	leucocito	NCMP000	C0023516	célula	446-456	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+12	6.900/microL	6.900/microL		-	-	457-469	312_QUEST_clinical_caseMIR	SENT5	-	-
+13	(	(	Fpa	-	-	470-471	312_QUEST_clinical_caseMIR	SENT5	-	-
+14	Neutrófilos	neutrófilo	NCMP000	C0027950	célula	471-482	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+15	60	60	Z	-	-	483-485	312_QUEST_clinical_caseMIR	SENT5	-	-
+16	%	%	Ft	-	-	485-486	312_QUEST_clinical_caseMIR	SENT5	-	-
+17	,	,	Fc	-	-	486-487	312_QUEST_clinical_caseMIR	SENT5	-	-
+18	Linfocitos	linfocito	NCMP000	C0024264	célula	488-498	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+19	27	27	Z	-	-	499-501	312_QUEST_clinical_caseMIR	SENT5	-	-
+20	%	%	Ft	-	-	501-502	312_QUEST_clinical_caseMIR	SENT5	-	-
+21	,	,	Fc	-	-	502-503	312_QUEST_clinical_caseMIR	SENT5	-	-
+22	Monocitos	monocito	NCMP000	C0026473	célula	504-513	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+23	6	6	Z	-	-	514-515	312_QUEST_clinical_caseMIR	SENT5	-	-
+24	%	%	Ft	-	-	515-516	312_QUEST_clinical_caseMIR	SENT5	-	-
+25	,	,	Fc	-	-	516-517	312_QUEST_clinical_caseMIR	SENT5	-	-
+26	Eosinófilos	eosinófilo	NCMP000	C0014467	célula	518-529	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+27	4	4	Z	-	-	530-531	312_QUEST_clinical_caseMIR	SENT5	-	-
+28	%	%	Ft	-	-	531-532	312_QUEST_clinical_caseMIR	SENT5	-	-
+29	,	,	Fc	-	-	532-533	312_QUEST_clinical_caseMIR	SENT5	-	-
+30	Basófilos	basófilo	NCMP000	C0004827	célula	534-543	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+31	4	4	Z	-	-	544-545	312_QUEST_clinical_caseMIR	SENT5	-	-
+32	%	%	Ft	-	-	545-546	312_QUEST_clinical_caseMIR	SENT5	-	-
+33	)	)	Fpt	-	-	546-547	312_QUEST_clinical_caseMIR	SENT5	-	-
+34	,	,	Fc	-	-	547-548	312_QUEST_clinical_caseMIR	SENT5	-	-
+35	Plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	549-558	312_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+36	220.000/microL	220.000/microL		-	-	559-573	312_QUEST_clinical_caseMIR	SENT5	-	-
+37	.	.	Fp	-	-	573-574	312_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	MO	mo	NC00YL0	-	-	575-577	312_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+2	:	:	Fd	-	-	577-578	312_QUEST_clinical_caseMIR	SENT6	-	-
+3	infiltrado	infiltrado	NC00SC0	C0332448	anomalía_morfológica	579-589	312_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+4	por	por	SPS00	C0678226	atributo	590-593	312_QUEST_clinical_caseMIR	SENT6	-	-
+5	Linfoma	linfoma	NCMS000	C0024301_1	anomalía_morfológica_1	594-601	312_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-
+6	folicular	folicular	NC00SC0	C0024301_2	anomalía_morfológica_2	602-611	312_QUEST_clinical_caseMIR	SENT6	B-Calificador	-
+7	.	.	Fp	-	-	611-612	312_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Creatinina	creatinina	NC00SC0	C0010294	sustancia	613-623	312_QUEST_clinical_caseMIR	SENT7	-	-
+2	1,5	1.5	Z	-	-	624-627	312_QUEST_clinical_caseMIR	SENT7	-	-
+3	mg	mg	NCMN000	-	-	628-630	312_QUEST_clinical_caseMIR	SENT7	-	-
+4	/	/	Fh	-	-	630-631	312_QUEST_clinical_caseMIR	SENT7	-	-
+5	dL	decilitro	NCMN000	C0439241	calificador	631-633	312_QUEST_clinical_caseMIR	SENT7	-	-
+6	,	,	Fc	-	-	633-634	312_QUEST_clinical_caseMIR	SENT7	-	-
+7	LDH	ldh	NC00SC0	C0022917	sustancia	635-638	312_QUEST_clinical_caseMIR	SENT7	-	-
+8	235	235		-	-	639-642	312_QUEST_clinical_caseMIR	SENT7	-	-
+9	U	o	CC	-	-	643-644	312_QUEST_clinical_caseMIR	SENT7	-	-
+10	/	/	Fh	-	-	644-645	312_QUEST_clinical_caseMIR	SENT7	-	-
+11	L	l	NCFS000	-	-	645-646	312_QUEST_clinical_caseMIR	SENT7	-	-
+12	,	,	Fc	-	-	646-647	312_QUEST_clinical_caseMIR	SENT7	-	-
+13	Beta2	Beta2		-	-	648-653	312_QUEST_clinical_caseMIR	SENT7	-	-
+14	microglobulina	microglobulina	NCFS000	-	-	654-668	312_QUEST_clinical_caseMIR	SENT7	-	-
+15	2,1	2,1		-	-	669-672	312_QUEST_clinical_caseMIR	SENT7	-	-
+16	microg	microgramo	NCMN000	C0439211	calificador	673-679	312_QUEST_clinical_caseMIR	SENT7	-	-
+17	/	/	Fh	-	-	679-680	312_QUEST_clinical_caseMIR	SENT7	-	-
+18	mL	mililitro	NCMN000	C0439242	calificador	680-682	312_QUEST_clinical_caseMIR	SENT7	-	-
+19	.	.	Fp	-	-	682-683	312_QUEST_clinical_caseMIR	SENT7	-	-
+
+1	TAC	tac	NC00YL0	C0040405	procedimiento	684-687	312_QUEST_clinical_caseMIR	SENT8	-	-
+2	:	:	Fd	-	-	687-688	312_QUEST_clinical_caseMIR	SENT8	-	-
+3	adenopatías	adenopatía	NCFP000	-	-	689-700	312_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-
+4	menores	menor	AQ0CP0	C0700321#C1282918#C0205165#C0026193	calificador#persona	701-708	312_QUEST_clinical_caseMIR	SENT8	B-Calificador	-
+5	de	de	SPS00	C0332285	atributo	709-711	312_QUEST_clinical_caseMIR	SENT8	-	-
+6	3	3	Z	-	-	712-713	312_QUEST_clinical_caseMIR	SENT8	-	-
+7	cm	cm	NCMN000	-	-	714-716	312_QUEST_clinical_caseMIR	SENT8	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	717-719	312_QUEST_clinical_caseMIR	SENT8	-	-
+9	territorios	territorio	NCMP000	-	-	720-731	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+10	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	732-740	312_QUEST_clinical_caseMIR	SENT8	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	740-741	312_QUEST_clinical_caseMIR	SENT8	-	-
+12	axilar	axilar	AQ0CS0	C0004454	calificador	742-748	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+13	,	,	Fc	-	-	748-749	312_QUEST_clinical_caseMIR	SENT8	-	-
+14	retroperitoneo	retroperitoneo	NC00SC0	C0035359	estructura_corporal	750-764	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+15	,	,	Fc	-	-	764-765	312_QUEST_clinical_caseMIR	SENT8	-	-
+16	ilíacos	ilíaco	AQ0MP0	-	-	766-773	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+17	e	y	CC	C1706368	calificador	774-775	312_QUEST_clinical_caseMIR	SENT8	-	-
+18	inguinales	inguinal	AQ0CP0	C0018246	calificador	776-786	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+19	;	;	Fx	-	-	786-787	312_QUEST_clinical_caseMIR	SENT8	-	-
+20	hígado	hígado	NCMS000	C1278929#C0023884	estructura_corporal	788-794	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+21	y	y	CC	C1706368	calificador	795-796	312_QUEST_clinical_caseMIR	SENT8	-	-
+22	bazo	bazo	NCMS000	C0037993#C1278932#C1285844	estructura_corporal#entidad_observable	797-801	312_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+23	normales	normal	AQ0CP0	C0205307	calificador	802-810	312_QUEST_clinical_caseMIR	SENT8	-	-
+24	.	.	Fp	-	-	810-811	312_QUEST_clinical_caseMIR	SENT8	-	-
+
+1	¿	¿	Fia	-	-	812-813	312_QUEST_clinical_caseMIR	SENT9	-	-
+2	Cuál	cuál	PT0CS000	-	-	813-817	312_QUEST_clinical_caseMIR	SENT9	-	-
+3	de	de	SPS00	C0332285	atributo	818-820	312_QUEST_clinical_caseMIR	SENT9	-	-
+4	los	el	DA0MP0	-	-	821-824	312_QUEST_clinical_caseMIR	SENT9	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	825-835	312_QUEST_clinical_caseMIR	SENT9	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	836-848	312_QUEST_clinical_caseMIR	SENT9	-	-
+7	es	ser	VSIP3S0	-	-	849-851	312_QUEST_clinical_caseMIR	SENT9	-	-
+8	el	el	DA0MS0	C0205393_1	calificador_1	852-854	312_QUEST_clinical_caseMIR	SENT9	-	-
+9	más	más	RG	C0205393_2	calificador_2	855-858	312_QUEST_clinical_caseMIR	SENT9	-	-
+10	apropiado	apropiar	VMP00SM	-	-	859-868	312_QUEST_clinical_caseMIR	SENT9	-	-
+11	?	?	Fit	-	-	868-869	312_QUEST_clinical_caseMIR	SENT9	-	-
+12	:	:	Fd	-	-	869-870	312_QUEST_clinical_caseMIR	SENT9	-	-
+13	.	.	Fp	-	-	870-871	312_QUEST_clinical_caseMIR	SENT9	-	-
+

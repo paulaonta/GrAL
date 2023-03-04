@@ -1,0 +1,65 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	215_QUEST_clinical_caseMIR	SENT1	-	-
+2	una	una		C0205447_1	calificador_1	3-6	215_QUEST_clinical_caseMIR	SENT1	-	-
+3	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	7-12	215_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	13-15	215_QUEST_clinical_caseMIR	SENT1	-	-
+5	29	29		-	-	16-18	215_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	19-23	215_QUEST_clinical_caseMIR	SENT1	-	-
+7	se	se	P00CN000	-	-	24-26	215_QUEST_clinical_caseMIR	SENT1	-	-
+8	hallan	hallar	VMIP3P0	-	-	27-33	215_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	215_QUEST_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	37-39	215_QUEST_clinical_caseMIR	SENT1	-	-
+11	curso	curso	NCMS000	C0750729	atributo#calificador	40-45	215_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	46-48	215_QUEST_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	49-52	215_QUEST_clinical_caseMIR	SENT1	-	-
+14	analítica	analítica	NCFS000	-	-	53-62	215_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	63-65	215_QUEST_clinical_caseMIR	SENT1	-	-
+16	rutina	rutina	NCFS000	C0035976#C0205547	sustancia#producto#calificador	66-72	215_QUEST_clinical_caseMIR	SENT1	-	-
+17	los	el	DA0MP0	-	-	73-76	215_QUEST_clinical_caseMIR	SENT1	-	-
+18	siguientes	siguiente	AQ0CP0	C0332282	atributo	77-87	215_QUEST_clinical_caseMIR	SENT1	-	-
+19	parámetros	parámetro	NCMP000	C0549193	atributo	88-98	215_QUEST_clinical_caseMIR	SENT1	-	-
+20	:	:	Fd	-	-	98-99	215_QUEST_clinical_caseMIR	SENT1	-	-
+21	Hb	hb	NC00YL0	-	-	100-102	215_QUEST_clinical_caseMIR	SENT1	-	-
+22	11,5	11.5	Z	-	-	103-107	215_QUEST_clinical_caseMIR	SENT1	-	-
+23	g	g	NCMN000	-	-	108-109	215_QUEST_clinical_caseMIR	SENT1	-	-
+24	/	/	Fh	-	-	109-110	215_QUEST_clinical_caseMIR	SENT1	-	-
+25	dL	decilitro	NCMN000	C0439241	calificador	110-112	215_QUEST_clinical_caseMIR	SENT1	-	-
+26	,	,	Fc	-	-	112-113	215_QUEST_clinical_caseMIR	SENT1	-	-
+27	VCM	vcm	NC00SC0	C0524587	entidad_observable	114-117	215_QUEST_clinical_caseMIR	SENT1	-	-
+28	70	70		-	-	118-120	215_QUEST_clinical_caseMIR	SENT1	-	-
+29	fl	fl	NC00SC0	C0475213	calificador	121-123	215_QUEST_clinical_caseMIR	SENT1	-	-
+30	,	,	Fc	-	-	123-124	215_QUEST_clinical_caseMIR	SENT1	-	-
+31	HCM	hcm	NC00SC0	C1261502	entidad_observable	125-128	215_QUEST_clinical_caseMIR	SENT1	-	-
+32	28	28		-	-	129-131	215_QUEST_clinical_caseMIR	SENT1	-	-
+33	pg	picogramo	NC00YL0	C0439213	calificador	132-134	215_QUEST_clinical_caseMIR	SENT1	-	-
+34	,	,	Fc	-	-	134-135	215_QUEST_clinical_caseMIR	SENT1	-	-
+35	Ferritina	ferritina	NCFS000	C0015879	sustancia	136-145	215_QUEST_clinical_caseMIR	SENT1	-	-
+36	10	10		-	-	146-148	215_QUEST_clinical_caseMIR	SENT1	-	-
+37	ng	nasogástrico	NC00YL0	-	-	149-151	215_QUEST_clinical_caseMIR	SENT1	-	-
+38	/	/	Fh	-	-	151-152	215_QUEST_clinical_caseMIR	SENT1	-	-
+39	mL	mililitro	NCMN000	C0439242	calificador	152-154	215_QUEST_clinical_caseMIR	SENT1	-	-
+40	,	,	Fc	-	-	154-155	215_QUEST_clinical_caseMIR	SENT1	-	-
+41	leucocitos	leucocito	NCMP000	C0023516	célula	156-166	215_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+42	5.200/mm3	5.200/mm3		-	-	167-176	215_QUEST_clinical_caseMIR	SENT1	-	-
+43	,	,	Fc	-	-	176-177	215_QUEST_clinical_caseMIR	SENT1	-	-
+44	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	178-187	215_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+45	335.000/mm3	335.000/mm3		-	-	188-199	215_QUEST_clinical_caseMIR	SENT1	-	-
+46	.	.	Fp	-	-	199-200	215_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	201-203	215_QUEST_clinical_caseMIR	SENT2	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	204-215	215_QUEST_clinical_caseMIR	SENT2	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	216-222	215_QUEST_clinical_caseMIR	SENT2	-	-
+4	es	ser	VSIP3S0	-	-	223-225	215_QUEST_clinical_caseMIR	SENT2	-	-
+5	normal	normal	AQ0CS0	C0205307	calificador	226-232	215_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	232-233	215_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	234-236	215_QUEST_clinical_caseMIR	SENT3	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	237-248	215_QUEST_clinical_caseMIR	SENT3	-	-
+3	más	más	RG	C0205172	calificador	249-252	215_QUEST_clinical_caseMIR	SENT3	-	-
+4	indicada	indicar	VMP00SF	-	-	253-261	215_QUEST_clinical_caseMIR	SENT3	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	262-264	215_QUEST_clinical_caseMIR	SENT3	-	-
+6	esta	este	DD0FS0	-	-	265-269	215_QUEST_clinical_caseMIR	SENT3	-	-
+7	situación	situación	NCFS000	-	-	270-279	215_QUEST_clinical_caseMIR	SENT3	-	-
+8	es	ser	VSIP3S0	-	-	280-282	215_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	282-283	215_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	283-284	215_QUEST_clinical_caseMIR	SENT3	-	-
+

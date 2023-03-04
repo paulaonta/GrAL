@@ -1,0 +1,67 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	419_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	419_QUEST_clinical_caseMIR	SENT1	-	-
+3	5	5		-	-	8-9	419_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	419_QUEST_clinical_caseMIR	SENT1	-	-
+5	diagnosticado	diagnosticar	VMP00SM	-	-	15-28	419_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	29-31	419_QUEST_clinical_caseMIR	SENT1	-	-
+7	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	32-45	419_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	renal	renal	AQ0CS0	C0403447_2	trastorno_2	46-51	419_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+9	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	52-59	419_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	.	.	Fp	-	-	59-60	419_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	61-66	419_QUEST_clinical_caseMIR	SENT2	-	-
+2	a	a	SPS00	-	-	67-68	419_QUEST_clinical_caseMIR	SENT2	-	-
+3	urgencias	urgencia	NCFP000	C0439609	calificador	69-78	419_QUEST_clinical_caseMIR	SENT2	-	-
+4	por	por	SPS00	C0678226	atributo	79-82	419_QUEST_clinical_caseMIR	SENT2	-	-
+5	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	83-90	419_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	,	,	Fc	-	-	90-91	419_QUEST_clinical_caseMIR	SENT2	-	-
+7	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	92-100	419_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	101-108	419_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+9	y	y	CC	C1706368	calificador	109-110	419_QUEST_clinical_caseMIR	SENT2	-	-
+10	palpitaciones	palpitación	NCFP000	-	-	111-124	419_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	124-125	419_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	126-128	419_QUEST_clinical_caseMIR	SENT3	-	-
+2	realiza	realizar	VMIP3S0	-	-	129-136	419_QUEST_clinical_caseMIR	SENT3	-	-
+3	un	un		C0205447_1	calificador_1	137-139	419_QUEST_clinical_caseMIR	SENT3	-	-
+4	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	140-158	419_QUEST_clinical_caseMIR	SENT3	-	-
+5	donde	donde	PR000000	-	-	159-164	419_QUEST_clinical_caseMIR	SENT3	-	-
+6	destaca	destacar	VMIP3S0	-	-	165-172	419_QUEST_clinical_caseMIR	SENT3	-	-
+7	elevación	elevación	NCFS000	C0439775	procedimiento	173-182	419_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	183-185	419_QUEST_clinical_caseMIR	SENT3	-	-
+9	ondas	onda	NCFP000	-	-	186-191	419_QUEST_clinical_caseMIR	SENT3	-	-
+10	T	t	NCFS000	-	-	192-193	419_QUEST_clinical_caseMIR	SENT3	-	-
+11	y	y	CC	C1706368	calificador	194-195	419_QUEST_clinical_caseMIR	SENT3	-	-
+12	analítica	analítica	NCFS000	-	-	196-205	419_QUEST_clinical_caseMIR	SENT3	-	-
+13	sanguínea	sanguíneo	AQ0FS0	-	-	206-215	419_QUEST_clinical_caseMIR	SENT3	-	-
+14	con	con	SPS00	C0332287	atributo	216-219	419_QUEST_clinical_caseMIR	SENT3	-	-
+15	niveles	nivel	NCMP000	C0456079	atributo	220-227	419_QUEST_clinical_caseMIR	SENT3	-	-
+16	de	de	SPS00	C0332285	atributo	228-230	419_QUEST_clinical_caseMIR	SENT3	-	-
+17	potasio	potasio	NCMS000	C0032821	sustancia#producto	231-238	419_QUEST_clinical_caseMIR	SENT3	-	-
+18	de	de	SPS00	C0332285	atributo	239-241	419_QUEST_clinical_caseMIR	SENT3	-	-
+19	5,9	5,9		-	-	242-245	419_QUEST_clinical_caseMIR	SENT3	-	-
+20	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	246-249	419_QUEST_clinical_caseMIR	SENT3	-	-
+21	/	/	Fh	-	-	249-250	419_QUEST_clinical_caseMIR	SENT3	-	-
+22	L.	l.	NCFS000	-	-	250-252	419_QUEST_clinical_caseMIR	SENT3	-	-
+23	Se	se	P00CN000	-	-	253-255	419_QUEST_clinical_caseMIR	SENT3	-	-
+24	decide	decidir	VMIP3S0	-	-	256-262	419_QUEST_clinical_caseMIR	SENT3	-	-
+25	la	el	DA0FS0	-	-	263-265	419_QUEST_clinical_caseMIR	SENT3	-	-
+26	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	266-280	419_QUEST_clinical_caseMIR	SENT3	-	-
+27	inmediata	inmediato	AQ0FS0	C0205253	calificador	281-290	419_QUEST_clinical_caseMIR	SENT3	-	-
+28	de	de	SPS00	C0332285	atributo	291-293	419_QUEST_clinical_caseMIR	SENT3	-	-
+29	gluconato	gluconato	NCMS000	-	-	294-303	419_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+30	cálcico	cálcico	AQ0MS0	-	-	304-311	419_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+31	.	.	Fp	-	-	311-312	419_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	313-314	419_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	314-318	419_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	319-321	419_QUEST_clinical_caseMIR	SENT4	-	-
+4	el	el	DA0MS0	-	-	322-324	419_QUEST_clinical_caseMIR	SENT4	-	-
+5	objetivo	objetivo	NCMS000	C1571702	calificador	325-333	419_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	334-336	419_QUEST_clinical_caseMIR	SENT4	-	-
+7	este	este	DD0MS0	-	-	337-341	419_QUEST_clinical_caseMIR	SENT4	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	342-353	419_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	353-354	419_QUEST_clinical_caseMIR	SENT4	-	-
+10	:	:	Fd	-	-	354-355	419_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	355-356	419_QUEST_clinical_caseMIR	SENT4	-	-
+

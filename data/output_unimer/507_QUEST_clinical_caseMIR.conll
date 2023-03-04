@@ -1,0 +1,104 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	507_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	507_QUEST_clinical_caseMIR	SENT1	-	-
+3	acude	acudir	VMIP3S0	-	-	10-15	507_QUEST_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	-	-	16-17	507_QUEST_clinical_caseMIR	SENT1	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	18-27	507_QUEST_clinical_caseMIR	SENT1	-	-
+6	tres	tres		-	-	28-32	507_QUEST_clinical_caseMIR	SENT1	-	-
+7	días	día	NCMP000	C0439228#C0332169	calificador	33-37	507_QUEST_clinical_caseMIR	SENT1	-	-
+8	después	después	RG	C0231290	atributo	38-45	507_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	46-48	507_QUEST_clinical_caseMIR	SENT1	-	-
+10	ser	ser	VSN0000	-	-	49-52	507_QUEST_clinical_caseMIR	SENT1	-	-
+11	sometido	someter	VMP00SM	-	-	53-61	507_QUEST_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	62-63	507_QUEST_clinical_caseMIR	SENT1	-	-
+13	litotricia	litotricia	NCFS000	C0023878	procedimiento	64-74	507_QUEST_clinical_caseMIR	SENT1	-	-
+14	extracorpórea	extracorpóreo	AQ0FS0	C0442087	calificador	75-88	507_QUEST_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C0678226	atributo	89-92	507_QUEST_clinical_caseMIR	SENT1	-	-
+16	ondas	onda	NCFP000	-	-	93-98	507_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	99-101	507_QUEST_clinical_caseMIR	SENT1	-	-
+18	choque	choque	NCMS000	C0036974	trastorno	102-108	507_QUEST_clinical_caseMIR	SENT1	-	-
+19	sobre	sobre	SPS00	C1720294#C0205136	calificador	109-114	507_QUEST_clinical_caseMIR	SENT1	-	-
+20	un	un		C0205447_1	calificador_1	115-117	507_QUEST_clinical_caseMIR	SENT1	-	-
+21	cálculo	cálculo	NCMS000	C0006736	anomalía_morfológica	118-125	507_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	126-128	507_QUEST_clinical_caseMIR	SENT1	-	-
+23	2,1	2.1	Z	-	-	129-132	507_QUEST_clinical_caseMIR	SENT1	-	-
+24	cm	cm	NCMN000	-	-	133-135	507_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0332285	atributo	136-138	507_QUEST_clinical_caseMIR	SENT1	-	-
+26	diámetro	diámetro	NCMS000	C1301886	calificador	139-147	507_QUEST_clinical_caseMIR	SENT1	-	-
+27	máximo	máximo	AQ0MS0	C0205289	calificador	148-154	507_QUEST_clinical_caseMIR	SENT1	-	-
+28	situado	situar	VMP00SM	-	-	155-162	507_QUEST_clinical_caseMIR	SENT1	-	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	163-165	507_QUEST_clinical_caseMIR	SENT1	-	-
+30	el	el	DA0MS0	-	-	166-168	507_QUEST_clinical_caseMIR	SENT1	-	-
+31	riñón	riñón	NCMS000	C1284479#C0227614_1	estructura_corporal_1	169-174	507_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	izquierdo	izquierdo	NC00SC0	C1284479#C0227614_2	estructura_corporal_2	175-184	507_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+33	.	.	Fp	-	-	184-185	507_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	186-194	507_QUEST_clinical_caseMIR	SENT2	-	-
+2	mal	mal	RG	C0205169	calificador	195-198	507_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	199-205	507_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+4	general	general	AQ0CS0	C0205246	calificador	206-213	507_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+5	,	,	Fc	-	-	213-214	507_QUEST_clinical_caseMIR	SENT2	-	-
+6	dolor	dolor	NCMS000	C0030193	hallazgo	215-220	507_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	221-223	507_QUEST_clinical_caseMIR	SENT2	-	-
+8	fosa	fosa	NCFS000	C0332471	anomalía_morfológica	224-228	507_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	renal	renal	AQ0CS0	-	-	229-234	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	izquierda	izquierda	NCFS000	-	-	235-244	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	,	,	Fc	-	-	244-245	507_QUEST_clinical_caseMIR	SENT2	-	-
+12	náuseas	náusea	NCFP000	-	-	246-253	507_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+13	y	y	CC	C1706368	calificador	254-255	507_QUEST_clinical_caseMIR	SENT2	-	-
+14	fiebre	fiebre	NCFS000	C0015967	hallazgo	256-262	507_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+15	de	de	SPS00	C0332285	atributo	263-265	507_QUEST_clinical_caseMIR	SENT2	-	-
+16	39,2ºC	39,2ºC		-	-	266-272	507_QUEST_clinical_caseMIR	SENT2	-	-
+17	,	,	Fc	-	-	272-273	507_QUEST_clinical_caseMIR	SENT2	-	-
+18	Se	se	P00CN000	-	-	274-276	507_QUEST_clinical_caseMIR	SENT2	-	-
+19	realiza	realizar	VMIP3S0	-	-	277-284	507_QUEST_clinical_caseMIR	SENT2	-	-
+20	Rx	radiografía	NC00YL0	C1306645	procedimiento	285-287	507_QUEST_clinical_caseMIR	SENT2	-	-
+21	simple	simple	AQ0CS0	C0205352	calificador	288-294	507_QUEST_clinical_caseMIR	SENT2	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	295-297	507_QUEST_clinical_caseMIR	SENT2	-	-
+23	la	el	DA0FS0	-	-	298-300	507_QUEST_clinical_caseMIR	SENT2	-	-
+24	que	que	PR0CN000	-	-	301-304	507_QUEST_clinical_caseMIR	SENT2	-	-
+25	se	se	P00CN000	-	-	305-307	507_QUEST_clinical_caseMIR	SENT2	-	-
+26	aprecian	apreciar	VMIP3P0	-	-	308-316	507_QUEST_clinical_caseMIR	SENT2	-	-
+27	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	317-323	507_QUEST_clinical_caseMIR	SENT2	-	-
+28	cálculos	cálculo	NCMP000	C0006736	anomalía_morfológica	324-332	507_QUEST_clinical_caseMIR	SENT2	-	-
+29	,	,	Fc	-	-	332-333	507_QUEST_clinical_caseMIR	SENT2	-	-
+30	de	de	SPS00	C0332285	atributo	334-336	507_QUEST_clinical_caseMIR	SENT2	-	-
+31	pequeño	pequeño	AQ0MS0	C0700321#C1282918	calificador	337-344	507_QUEST_clinical_caseMIR	SENT2	-	-
+32	tamaño	tamaño	NCMS000	C3714679#C0456389	calificador#atributo	345-351	507_QUEST_clinical_caseMIR	SENT2	-	-
+33	,	,	Fc	-	-	351-352	507_QUEST_clinical_caseMIR	SENT2	-	-
+34	en	en	SPS00	C1720294#C0332285	calificador#atributo	353-355	507_QUEST_clinical_caseMIR	SENT2	-	-
+35	el	el	DA0MS0	-	-	356-358	507_QUEST_clinical_caseMIR	SENT2	-	-
+36	área	área	NCFS000	C0205146	calificador	359-363	507_QUEST_clinical_caseMIR	SENT2	-	-
+37	del	del	SP+DA	-	-	364-367	507_QUEST_clinical_caseMIR	SENT2	-	-
+38	uréter	uréter	NCMS000	C0041951#C1281572#C1285914#C0555807	estructura_corporal#entidad_observable	368-374	507_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+39	distal	distal	AQ0CS0	C0205108	calificador	375-381	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+40	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	382-391	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+41	.	.	Fp	-	-	391-392	507_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	393-395	507_QUEST_clinical_caseMIR	SENT3	-	-
+2	radiólogo	radiólogo	NCMS000	C0260194	ocupación	396-405	507_QUEST_clinical_caseMIR	SENT3	-	-
+3	nos	nos	PP1CP000	-	-	406-409	507_QUEST_clinical_caseMIR	SENT3	-	-
+4	informa	informar	VMIP3S0	C0700287	procedimiento	410-417	507_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	418-420	507_QUEST_clinical_caseMIR	SENT3	-	-
+6	que	que	CS	-	-	421-424	507_QUEST_clinical_caseMIR	SENT3	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	425-427	507_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	el	DA0FS0	-	-	428-430	507_QUEST_clinical_caseMIR	SENT3	-	-
+9	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	431-440	507_QUEST_clinical_caseMIR	SENT3	-	-
+10	observa	observar	VMIP3S0	-	-	441-448	507_QUEST_clinical_caseMIR	SENT3	-	-
+11	la	el	DA0FS0	-	-	449-451	507_QUEST_clinical_caseMIR	SENT3	-	-
+12	existencia	existencia	NCFS000	-	-	452-462	507_QUEST_clinical_caseMIR	SENT3	-	-
+13	de	de	SPS00	C0332285	atributo	463-465	507_QUEST_clinical_caseMIR	SENT3	-	-
+14	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	466-476	507_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+15	grado	grado	NCMS000	C0205616_1	calificador_1	477-482	507_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+16	II	II		C0205616_2	calificador_2	483-485	507_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+17	pielocalicial	pielocalicial	AQ0CS00	-	-	486-499	507_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	izquierda	izquierda	NCFS000	-	-	500-509	507_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+19	.	.	Fp	-	-	509-510	507_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	511-513	507_QUEST_clinical_caseMIR	SENT4	-	-
+2	siguiente	siguiente	AQ0CS0	C0332282	atributo	514-523	507_QUEST_clinical_caseMIR	SENT4	-	-
+3	paso	paso	NCMS000	C1261552	calificador	524-528	507_QUEST_clinical_caseMIR	SENT4	-	-
+4	debe	deber	VMIP3S0	-	-	529-533	507_QUEST_clinical_caseMIR	SENT4	-	-
+5	ser	ser	VSN0000	-	-	534-537	507_QUEST_clinical_caseMIR	SENT4	-	-
+6	:	:	Fd	-	-	537-538	507_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	538-539	507_QUEST_clinical_caseMIR	SENT4	-	-
+

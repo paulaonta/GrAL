@@ -1,0 +1,109 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	243_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	243_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	243_QUEST_clinical_caseMIR	SENT1	-	-
+4	24	24		-	-	13-15	243_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	243_QUEST_clinical_caseMIR	SENT1	-	-
+6	es	ser	VSIP3S0	-	-	21-23	243_QUEST_clinical_caseMIR	SENT1	-	-
+7	encontrada	encontrar	VMP00SF	-	-	24-34	243_QUEST_clinical_caseMIR	SENT1	-	-
+8	tirada	tirada	NCFS000	-	-	35-41	243_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	243_QUEST_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	45-47	243_QUEST_clinical_caseMIR	SENT1	-	-
+11	calle	calle	NCFS000	C0442658	medio_ambiente	48-53	243_QUEST_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C0678226	atributo	54-57	243_QUEST_clinical_caseMIR	SENT1	-	-
+13	unos	uno	DI0MP0	C0205447	calificador	58-62	243_QUEST_clinical_caseMIR	SENT1	-	-
+14	transeúntes	transeúnte	NCCP000	-	-	63-74	243_QUEST_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	74-75	243_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Al	al	SP+DA	-	-	76-78	243_QUEST_clinical_caseMIR	SENT2	-	-
+2	llegar	llegar	VMN0000	-	-	79-85	243_QUEST_clinical_caseMIR	SENT2	-	-
+3	el	el	DA0MS0	-	-	86-88	243_QUEST_clinical_caseMIR	SENT2	-	-
+4	quipo	quipo	NCMS000	-	-	89-94	243_QUEST_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	95-97	243_QUEST_clinical_caseMIR	SENT2	-	-
+6	emergencias	emergencia	NCFP000	C0175673	calificador	98-109	243_QUEST_clinical_caseMIR	SENT2	-	-
+7	la	lo	PP3FSA00	-	-	110-112	243_QUEST_clinical_caseMIR	SENT2	-	-
+8	encontraron	encontrar	VMIS3P0	-	-	113-124	243_QUEST_clinical_caseMIR	SENT2	-	-
+9	con	con	SPS00	C0332287	atributo	125-128	243_QUEST_clinical_caseMIR	SENT2	-	-
+10	una	una		C0205447_1	calificador_1	129-132	243_QUEST_clinical_caseMIR	SENT2	-	-
+11	saturación	saturación	NCFS000	-	-	133-143	243_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	144-146	243_QUEST_clinical_caseMIR	SENT2	-	-
+13	oxígeno	oxígeno	NCMS000	C0030054	sustancia	147-154	243_QUEST_clinical_caseMIR	SENT2	-	-
+14	del	del	SP+DA	-	-	155-158	243_QUEST_clinical_caseMIR	SENT2	-	-
+15	88	88	Z	-	-	159-161	243_QUEST_clinical_caseMIR	SENT2	-	-
+16	%	%	Ft	-	-	161-162	243_QUEST_clinical_caseMIR	SENT2	-	-
+17	respirando	respirar	VMG0000	-	-	163-173	243_QUEST_clinical_caseMIR	SENT2	-	-
+18	aire	aire	NCMS000	C0001861	sustancia	174-178	243_QUEST_clinical_caseMIR	SENT2	-	-
+19	ambiente	ambiente	NCMS000	-	-	179-187	243_QUEST_clinical_caseMIR	SENT2	-	-
+20	y	y	CC	C1706368	calificador	188-189	243_QUEST_clinical_caseMIR	SENT2	-	-
+21	al	al	SP+DA	-	-	190-192	243_QUEST_clinical_caseMIR	SENT2	-	-
+22	examen	examen	NCMS000	-	-	193-199	243_QUEST_clinical_caseMIR	SENT2	-	-
+23	pupilas	pupilo	NCFP000	C0235231_1	hallazgo_1	200-207	243_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+24	puntiformes	puntiforme	AQ0CP0	C0235231_2	hallazgo_2	208-219	243_QUEST_clinical_caseMIR	SENT2	-	-
+25	.	.	Fp	-	-	219-220	243_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	221-223	243_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	lo	PP3FSA00	-	-	224-226	243_QUEST_clinical_caseMIR	SENT3	-	-
+3	traslada	trasladar	VMIP3S0	-	-	227-235	243_QUEST_clinical_caseMIR	SENT3	-	-
+4	a	a	SPS00	-	-	236-237	243_QUEST_clinical_caseMIR	SENT3	-	-
+5	la	el	DA0FS0	-	-	238-240	243_QUEST_clinical_caseMIR	SENT3	-	-
+6	urgencia	urgencia	NCFS000	C0439609	calificador	241-249	243_QUEST_clinical_caseMIR	SENT3	-	-
+7	del	del	SP+DA	-	-	250-253	243_QUEST_clinical_caseMIR	SENT3	-	-
+8	hospital	hospital	NCMS000	C1510665	medio_ambiente	254-262	243_QUEST_clinical_caseMIR	SENT3	-	-
+9	más	más	RG	C0205172	calificador	263-266	243_QUEST_clinical_caseMIR	SENT3	-	-
+10	cercano	cercano	AQ0MS0	-	-	267-274	243_QUEST_clinical_caseMIR	SENT3	-	-
+11	,	,	Fc	-	-	274-275	243_QUEST_clinical_caseMIR	SENT3	-	-
+12	donde	donde	PR000000	-	-	276-281	243_QUEST_clinical_caseMIR	SENT3	-	-
+13	la	el	DA0FS0	-	-	282-284	243_QUEST_clinical_caseMIR	SENT3	-	-
+14	gasometría	gasometría	NCFS000	-	-	285-295	243_QUEST_clinical_caseMIR	SENT3	-	-
+15	arterial	arterial	AQ0CS0	C0221464	calificador	296-304	243_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+16	basal	basal	AQ0CS0	C0205112	calificador	305-310	243_QUEST_clinical_caseMIR	SENT3	-	-
+17	muestra	muestra	NCFS000	C0370003	espécimen	311-318	243_QUEST_clinical_caseMIR	SENT3	-	-
+18	:	:	Fd	-	-	318-319	243_QUEST_clinical_caseMIR	SENT3	-	-
+19	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	320-322	243_QUEST_clinical_caseMIR	SENT3	-	-
+20	7,25	7,25		-	-	323-327	243_QUEST_clinical_caseMIR	SENT3	-	-
+21	,	,	Fc	-	-	327-328	243_QUEST_clinical_caseMIR	SENT3	-	-
+22	PaC02	PaC02		-	-	329-334	243_QUEST_clinical_caseMIR	SENT3	-	-
+23	60	60	Z	-	-	335-337	243_QUEST_clinical_caseMIR	SENT3	-	-
+24	mmHg	mmHg	NCMP000	-	-	338-342	243_QUEST_clinical_caseMIR	SENT3	-	-
+25	,	,	Fc	-	-	342-343	243_QUEST_clinical_caseMIR	SENT3	-	-
+26	Pa02	Pa02		-	-	344-348	243_QUEST_clinical_caseMIR	SENT3	-	-
+27	58	58	Z	-	-	349-351	243_QUEST_clinical_caseMIR	SENT3	-	-
+28	mmHg	mmHg	NCMP000	-	-	352-356	243_QUEST_clinical_caseMIR	SENT3	-	-
+29	,	,	Fc	-	-	356-357	243_QUEST_clinical_caseMIR	SENT3	-	-
+30	bicarbonato	bicarbonato	NCMS000	C0005367	sustancia	358-369	243_QUEST_clinical_caseMIR	SENT3	-	-
+31	de	de	SPS00	C0332285	atributo	370-372	243_QUEST_clinical_caseMIR	SENT3	-	-
+32	26	26		-	-	373-375	243_QUEST_clinical_caseMIR	SENT3	-	-
+33	mEq/1	mEq/1		-	-	376-381	243_QUEST_clinical_caseMIR	SENT3	-	-
+34	y	y	CC	C1706368	calificador	382-383	243_QUEST_clinical_caseMIR	SENT3	-	-
+35	exceso	exceso	NCMS000	-	-	384-390	243_QUEST_clinical_caseMIR	SENT3	-	-
+36	de	de	SPS00	C0332285	atributo	391-393	243_QUEST_clinical_caseMIR	SENT3	-	-
+37	bases	base	NCCP000	C1626935#C0178499	calificador#sustancia	394-399	243_QUEST_clinical_caseMIR	SENT3	-	-
+38	de	de	SPS00	C0332285	atributo	400-402	243_QUEST_clinical_caseMIR	SENT3	-	-
+39	-1	-1		-	-	403-405	243_QUEST_clinical_caseMIR	SENT3	-	-
+40	.	.	Fp	-	-	405-406	243_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	407-409	243_QUEST_clinical_caseMIR	SENT4	-	-
+2	sangre	sangre	NCFS000	C0005767	sustancia	410-416	243_QUEST_clinical_caseMIR	SENT4	-	-
+3	el	el	DA0MS0	-	-	417-419	243_QUEST_clinical_caseMIR	SENT4	-	-
+4	sodio	sodio	NCMS000	C3536896#C0037473	producto#sustancia	420-425	243_QUEST_clinical_caseMIR	SENT4	-	-
+5	es	ser	VSIP3S0	-	-	426-428	243_QUEST_clinical_caseMIR	SENT4	-	-
+6	137	137		-	-	429-432	243_QUEST_clinical_caseMIR	SENT4	-	-
+7	mEq/1	mEq/1		-	-	433-438	243_QUEST_clinical_caseMIR	SENT4	-	-
+8	y	y	CC	C1706368	calificador	439-440	243_QUEST_clinical_caseMIR	SENT4	-	-
+9	el	el	DA0MS0	-	-	441-443	243_QUEST_clinical_caseMIR	SENT4	-	-
+10	cloruro	cloruro	NCMS000	C0596019#C0008203	sustancia	444-451	243_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+11	100	100		-	-	452-455	243_QUEST_clinical_caseMIR	SENT4	-	-
+12	mEq/1	mEq/1		-	-	456-461	243_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	461-462	243_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Desde	desde	SPS00	-	-	463-468	243_QUEST_clinical_caseMIR	SENT5	-	-
+2	cl	centilitro	NCMN000	C0475212	calificador	469-471	243_QUEST_clinical_caseMIR	SENT5	-	-
+3	punto	punto	NCMS000	-	-	472-477	243_QUEST_clinical_caseMIR	SENT5	-	-
+4	de	de	SPS00	C0332285	atributo	478-480	243_QUEST_clinical_caseMIR	SENT5	-	-
+5	vista	vista	NCFS000	C0449911	atributo	481-486	243_QUEST_clinical_caseMIR	SENT5	-	-
+6	gasométrico	gasométrico	AQ0MS0	-	-	487-498	243_QUEST_clinical_caseMIR	SENT5	-	-
+7	la	el	DA0FS0	-	-	499-501	243_QUEST_clinical_caseMIR	SENT5	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	502-510	243_QUEST_clinical_caseMIR	SENT5	-	-
+9	tiene	tener	VMIP3S0	-	-	511-516	243_QUEST_clinical_caseMIR	SENT5	-	-
+10	:	:	Fd	-	-	516-517	243_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	517-518	243_QUEST_clinical_caseMIR	SENT5	-	-
+

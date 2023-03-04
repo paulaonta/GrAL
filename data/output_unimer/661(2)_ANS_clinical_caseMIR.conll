@@ -1,0 +1,30 @@
+1	El	el	DA0MS0	-	-	0-2	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	genético	genético	AQ0MS0	-	-	15-23	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	preimplantacional	preimplantacional	AQ0CS00	-	-	24-41	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	para	para	SPS00	C0521125	calificador	42-46	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	47-49	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	selección	selección	NCFS000	-	-	50-59	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	60-62	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	sexo	sexo	NCMS000	C1522384#C0079399	estructura_corporal	63-67	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	68-70	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	los	el	DA0MP0	-	-	71-74	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	embriones	embrión	NCMP000	C1305370	estructura_corporal	75-84	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	mediante	mediante	SPS00	-	-	85-93	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	hibridación	hibridación	NCFS000	C0162789_1	procedimiento_1	94-105	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	in	inch_(pulgada)	NC00YL0	C0162789_2	procedimiento_2	106-108	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	situ	situ		C0162789_3	procedimiento_3	109-113	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	fluorescente	fluorescente	NCMS000	C0162789_4	procedimiento_4	114-126	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	(	(	Fpa	-	-	127-128	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	FISH	fluorescent_in_situ_hybridation_(hibridación_in_situ_fluorescente)	NC00YL0	-	-	128-132	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	)	)	Fpt	-	-	132-133	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	es	ser	VSIP3S0	-	-	134-136	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	la	el	DA0FS0	-	-	137-139	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	mejor	mejor	AQ0CS0	C0332272	calificador	140-145	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+24	opción	opción	NCFS000	-	-	146-152	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+25	para	para	SPS00	C0521125	calificador	153-157	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+26	tener	tener	VMN0000	-	-	158-163	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+27	descendencia	descendencia	NCFS000	-	-	164-176	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+28	sana	sano	AQ0FS0	-	-	177-181	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	182-183	661(2)_ANS_clinical_caseMIR	SENT1	-	-
+

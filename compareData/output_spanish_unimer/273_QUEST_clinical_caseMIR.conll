@@ -1,0 +1,132 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	273_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	273_QUEST_clinical_caseMIR	SENT1	-	-
+3	46	46		-	-	10-12	273_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	273_QUEST_clinical_caseMIR	SENT1	-	-
+5	usuario	usuario	NCMS000	-	-	18-25	273_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	273_QUEST_clinical_caseMIR	SENT1	-	-
+7	drogas	droga	NCFP000	C0439861#C0013227	atributo#producto#sustancia	29-35	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	por	por	SPS00	C0678226	atributo	36-39	273_QUEST_clinical_caseMIR	SENT1	-	-
+9	vía	vía	NCFS000	C1518896_1	concepto_para_navegación_1	40-43	273_QUEST_clinical_caseMIR	SENT1	-	-
+10	parenteral	parenteral		C1518896_2	concepto_para_navegación_2	44-54	273_QUEST_clinical_caseMIR	SENT1	-	-
+11	que	que	PR0CN000	-	-	55-58	273_QUEST_clinical_caseMIR	SENT1	-	-
+12	acude	acudir	VMIP3S0	-	-	59-64	273_QUEST_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	65-66	273_QUEST_clinical_caseMIR	SENT1	-	-
+14	urgencias	urgencia	NCFP000	C0439609	calificador	67-76	273_QUEST_clinical_caseMIR	SENT1	-	-
+15	presentando	presentar	VMG0000	-	-	77-88	273_QUEST_clinical_caseMIR	SENT1	-	-
+16	fiebre	fiebre	NCFS000	C0085594_1	hallazgo_1	89-95	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	con	con	SPS00	C0085594_2	hallazgo_2	96-99	273_QUEST_clinical_caseMIR	SENT1	-	-
+18	escalofríos	escalofrío	NCMP000	C0085594_3	hallazgo_3	100-111	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	,	,	Fc	-	-	111-112	273_QUEST_clinical_caseMIR	SENT1	-	-
+20	confusión	confusión	NCFS000	C0683369#C0813178_1	hallazgo_1	113-122	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	mental	mental	AQ0CS0	C0683369#C0813178_2	hallazgo_2	123-129	273_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	,	,	Fc	-	-	129-130	273_QUEST_clinical_caseMIR	SENT1	-	-
+23	mialgias	mialgia	NCFP000	C0231528	hallazgo	131-139	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	difusas	difuso	AQ0FP0	C0205219	calificador	140-147	273_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+25	y	y	CC	C1706368	calificador	148-149	273_QUEST_clinical_caseMIR	SENT1	-	-
+26	dolor	dolor	NCMS000	C0458256_1	hallazgo_1	150-155	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+27	intenso	intenso	NC00SC0	C0458256_2	hallazgo_2	156-163	273_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	273_QUEST_clinical_caseMIR	SENT1	-	-
+29	mano	mano	NCFS000	C0230371#C1288949_1	estructura_corporal_1	167-171	273_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	izquierda	izquierdo	AQ0FS0	C0230371#C1288949_2	estructura_corporal_2	172-181	273_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+31	de	de	SPS00	C0332285	atributo	182-184	273_QUEST_clinical_caseMIR	SENT1	-	-
+32	24	24	Z	C0439584_1	calificador_1	185-187	273_QUEST_clinical_caseMIR	SENT1	-	-
+33	horas	hora	NCFP000	C0439584_2	calificador_2	188-193	273_QUEST_clinical_caseMIR	SENT1	-	-
+34	de	de	SPS00	C0332285	atributo	194-196	273_QUEST_clinical_caseMIR	SENT1	-	-
+35	evolución	evolución	NCFS000	-	-	197-206	273_QUEST_clinical_caseMIR	SENT1	-	-
+36	sin	sin	SPS00	C0332288	atributo	207-210	273_QUEST_clinical_caseMIR	SENT1	-	-
+37	claros	claro	AQ0MP0	C2963144#C1306462#C0522503	calificador	211-217	273_QUEST_clinical_caseMIR	SENT1	-	-
+38	signos	signo	NCMP000	C0311392	hallazgo	218-224	273_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+39	flogóticos	flogóticos	AQ0MP00	-	-	225-235	273_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+40	locales	local	AQ0CP0	C0205276#C0392752#C0332237	calificador	236-243	273_QUEST_clinical_caseMIR	SENT1	-	-
+41	.	.	Fp	-	-	243-244	273_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	245-247	273_QUEST_clinical_caseMIR	SENT2	-	-
+2	refiere	referir	VMIP3S0	-	-	248-255	273_QUEST_clinical_caseMIR	SENT2	-	-
+3	ningún	ninguno	DI0MS0	C0205160#C0549184	calificador	256-262	273_QUEST_clinical_caseMIR	SENT2	-	-
+4	antecedente	antecedente	NCMS000	-	-	263-274	273_QUEST_clinical_caseMIR	SENT2	-	-
+5	traumático	traumático	AQ0MS0	C0332663	calificador	275-285	273_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	285-286	273_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	287-288	273_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	289-291	273_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	292-303	273_QUEST_clinical_caseMIR	SENT3	-	-
+4	destaca	destacar	VMIP3S0	-	-	304-311	273_QUEST_clinical_caseMIR	SENT3	-	-
+5	:	:	Fd	-	-	311-312	273_QUEST_clinical_caseMIR	SENT3	-	-
+6	temperatura	temperatura	NCFS000	C0039476	atributo	313-324	273_QUEST_clinical_caseMIR	SENT3	-	-
+7	38,9	38,9		-	-	325-329	273_QUEST_clinical_caseMIR	SENT3	-	-
+8	“	“	Fra	-	-	329-330	273_QUEST_clinical_caseMIR	SENT3	-	-
+9	C	c	NC00YL0	C1673307	organismo	330-331	273_QUEST_clinical_caseMIR	SENT3	-	-
+10	,	,	Fc	-	-	331-332	273_QUEST_clinical_caseMIR	SENT3	-	-
+11	120	120		-	-	333-336	273_QUEST_clinical_caseMIR	SENT3	-	-
+12	latidos	latido	NCMP000	-	-	337-344	273_QUEST_clinical_caseMIR	SENT3	-	-
+13	por	por	SPS00	C0702093_1	calificador_1	345-348	273_QUEST_clinical_caseMIR	SENT3	-	-
+14	minuto	minuto	NCMS000	C0702093_2	calificador_2	349-355	273_QUEST_clinical_caseMIR	SENT3	-	-
+15	,	,	Fc	-	-	355-356	273_QUEST_clinical_caseMIR	SENT3	-	-
+16	frecuencia	frecuencia	NCFS000	C0231832_1	entidad_observable_1	357-367	273_QUEST_clinical_caseMIR	SENT3	-	-
+17	respiratoria	respiratorio	AQ0FS0	C0231832_2	entidad_observable_2	368-380	273_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	30/min	30/min		-	-	381-387	273_QUEST_clinical_caseMIR	SENT3	-	-
+19	,	,	Fc	-	-	387-388	273_QUEST_clinical_caseMIR	SENT3	-	-
+20	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	389-396	273_QUEST_clinical_caseMIR	SENT3	-	-
+21	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	397-405	273_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+22	90/54	90/54	Z	-	-	406-411	273_QUEST_clinical_caseMIR	SENT3	-	-
+23	mm	mm	NCMN000	-	-	412-414	273_QUEST_clinical_caseMIR	SENT3	-	-
+24	Hg	hectogramo	NCMN000	-	-	415-417	273_QUEST_clinical_caseMIR	SENT3	-	-
+25	.	.	Fp	-	-	417-418	273_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	419-421	273_QUEST_clinical_caseMIR	SENT4	-	-
+2	la	el	DA0FS0	-	-	422-424	273_QUEST_clinical_caseMIR	SENT4	-	-
+3	analítica	analítica	NCFS000	-	-	425-434	273_QUEST_clinical_caseMIR	SENT4	-	-
+4	destaca	destacar	VMIP3S0	-	-	435-442	273_QUEST_clinical_caseMIR	SENT4	-	-
+5	una	una		C0205447_1	calificador_1	443-446	273_QUEST_clinical_caseMIR	SENT4	-	-
+6	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	447-459	273_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	con	con	SPS00	C0332287	atributo	460-463	273_QUEST_clinical_caseMIR	SENT4	-	-
+8	desviación	desviación	NCFS000	C0185033#C0333051	procedimiento#anomalía_morfológica	464-474	273_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+9	izquierda	izquierdo	AQ0FS0	C0205091	calificador	475-484	273_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+10	(	(	Fpa	-	-	485-486	273_QUEST_clinical_caseMIR	SENT4	-	-
+11	25.000	25.000		-	-	486-492	273_QUEST_clinical_caseMIR	SENT4	-	-
+12	leucocitos/mm3	leucocitos/mm3		-	-	493-507	273_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+13	,	,	Fc	-	-	507-508	273_QUEST_clinical_caseMIR	SENT4	-	-
+14	80	80	Z	-	-	509-511	273_QUEST_clinical_caseMIR	SENT4	-	-
+15	%	%	Ft	-	-	511-512	273_QUEST_clinical_caseMIR	SENT4	-	-
+16	neutrófilos	neutrófilo	NCMP000	C0027950	célula	513-524	273_QUEST_clinical_caseMIR	SENT4	-	-
+17	)	)	Fpt	-	-	524-525	273_QUEST_clinical_caseMIR	SENT4	-	-
+18	;	;	Fx	-	-	525-526	273_QUEST_clinical_caseMIR	SENT4	-	-
+19	aumento	aumento	NCMS000	C0442805	calificador	527-534	273_QUEST_clinical_caseMIR	SENT4	-	-
+20	de	de	SPS00	C0332285	atributo	535-537	273_QUEST_clinical_caseMIR	SENT4	-	-
+21	las	el	DA0FP0	-	-	538-541	273_QUEST_clinical_caseMIR	SENT4	-	-
+22	cifras	cifra	NCFP000	-	-	542-548	273_QUEST_clinical_caseMIR	SENT4	-	-
+23	de	de	SPS00	C0332285	atributo	549-551	273_QUEST_clinical_caseMIR	SENT4	-	-
+24	creatinina	creatinina	NC00SC0	C0010294	sustancia	552-562	273_QUEST_clinical_caseMIR	SENT4	-	-
+25	(	(	Fpa	-	-	563-564	273_QUEST_clinical_caseMIR	SENT4	-	-
+26	1,6	1.6	Z	-	-	564-567	273_QUEST_clinical_caseMIR	SENT4	-	-
+27	mg	mg	NCMN000	-	-	568-570	273_QUEST_clinical_caseMIR	SENT4	-	-
+28	/	/	Fh	-	-	570-571	273_QUEST_clinical_caseMIR	SENT4	-	-
+29	dL	decilitro	NCMN000	C0439241	calificador	571-573	273_QUEST_clinical_caseMIR	SENT4	-	-
+30	)	)	Fpt	-	-	573-574	273_QUEST_clinical_caseMIR	SENT4	-	-
+31	y	y	CC	C1706368	calificador	575-576	273_QUEST_clinical_caseMIR	SENT4	-	-
+32	de	de	SPS00	C0332285	atributo	577-579	273_QUEST_clinical_caseMIR	SENT4	-	-
+33	CK	creatin_kinase_(creatincinasa)	NC00YL0	-	-	580-582	273_QUEST_clinical_caseMIR	SENT4	-	-
+34	(	(	Fpa	-	-	583-584	273_QUEST_clinical_caseMIR	SENT4	-	-
+35	138	138		-	-	584-587	273_QUEST_clinical_caseMIR	SENT4	-	-
+36	U	o	CC	-	-	588-589	273_QUEST_clinical_caseMIR	SENT4	-	-
+37	/	/	Fh	-	-	589-590	273_QUEST_clinical_caseMIR	SENT4	-	-
+38	L	l	NCFS000	-	-	590-591	273_QUEST_clinical_caseMIR	SENT4	-	-
+39	)	)	Fpt	-	-	591-592	273_QUEST_clinical_caseMIR	SENT4	-	-
+40	.	.	Fp	-	-	592-593	273_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	De	de	SPS00	C0332285	atributo	594-596	273_QUEST_clinical_caseMIR	SENT5	-	-
+2	entre	entre	SPS00	C0205103	calificador	597-602	273_QUEST_clinical_caseMIR	SENT5	-	-
+3	los	el	DA0MP0	-	-	603-606	273_QUEST_clinical_caseMIR	SENT5	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	607-617	273_QUEST_clinical_caseMIR	SENT5	-	-
+5	,	,	Fc	-	-	617-618	273_QUEST_clinical_caseMIR	SENT5	-	-
+6	¿	¿	Fia	-	-	619-620	273_QUEST_clinical_caseMIR	SENT5	-	-
+7	cuál	cuál	PT0CS000	-	-	620-624	273_QUEST_clinical_caseMIR	SENT5	-	-
+8	es	ser	VSIP3S0	-	-	625-627	273_QUEST_clinical_caseMIR	SENT5	-	-
+9	el	el	DA0MS0	-	-	628-630	273_QUEST_clinical_caseMIR	SENT5	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	631-642	273_QUEST_clinical_caseMIR	SENT5	-	-
+11	más	más	RG	C0205172	calificador	643-646	273_QUEST_clinical_caseMIR	SENT5	-	-
+12	probable	probable	AQ0CS0	C0332148	calificador	647-655	273_QUEST_clinical_caseMIR	SENT5	-	-
+13	?	?	Fit	-	-	655-656	273_QUEST_clinical_caseMIR	SENT5	-	-
+14	:	:	Fd	-	-	656-657	273_QUEST_clinical_caseMIR	SENT5	-	-
+15	.	.	Fp	-	-	657-658	273_QUEST_clinical_caseMIR	SENT5	-	-
+

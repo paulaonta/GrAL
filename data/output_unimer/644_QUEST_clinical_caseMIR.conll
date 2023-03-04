@@ -1,0 +1,42 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	644_QUEST_clinical_caseMIR	SENT1	-	-
+2	niño	niño	NCMS000	C0680063_1	hallazgo_1	3-7	644_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0680063_2	hallazgo_2	8-10	644_QUEST_clinical_caseMIR	SENT1	-	-
+4	3	3		-	-	11-12	644_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	13-17	644_QUEST_clinical_caseMIR	SENT1	-	-
+6	ha	haber	VAIP3S0	-	-	18-20	644_QUEST_clinical_caseMIR	SENT1	-	-
+7	sufrido	sufrir	VMP00SM	-	-	21-28	644_QUEST_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	29-31	644_QUEST_clinical_caseMIR	SENT1	-	-
+9	atropello	atropello	NCMS000	-	-	32-41	644_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	42-43	644_QUEST_clinical_caseMIR	SENT1	-	-
+11	se	se	P00CN000	-	-	44-46	644_QUEST_clinical_caseMIR	SENT1	-	-
+12	encuentra	encontrar	VMIP3S0	-	-	47-56	644_QUEST_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	644_QUEST_clinical_caseMIR	SENT1	-	-
+14	parada	parado	NCFS000	-	-	60-66	644_QUEST_clinical_caseMIR	SENT1	-	-
+15	cardiaca	cardiaco	AQ0FS0	-	-	67-75	644_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	.	.	Fp	-	-	75-76	644_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	77-81	644_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	82-84	644_QUEST_clinical_caseMIR	SENT2	-	-
+3	inicio	inicio	NCMS000	C0332162_1	calificador_1	85-91	644_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332162_2	calificador_2	92-94	644_QUEST_clinical_caseMIR	SENT2	-	-
+5	la	el	DA0FS0	-	-	95-97	644_QUEST_clinical_caseMIR	SENT2	-	-
+6	reanimación	reanimación	NCFS000	C0007203_1	procedimiento_1	98-109	644_QUEST_clinical_caseMIR	SENT2	-	-
+7	cardiopulmonar	cardiopulmonar	NC00SC0	C0007203_2	procedimiento_2	110-124	644_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	se	se	P00CN000	-	-	125-127	644_QUEST_clinical_caseMIR	SENT2	-	-
+9	canaliza	canalizar	VMIP3S0	-	-	128-136	644_QUEST_clinical_caseMIR	SENT2	-	-
+10	una	una		C0205447_1	calificador_1	137-140	644_QUEST_clinical_caseMIR	SENT2	-	-
+11	vía	vía	NCFS000	C0595613_1	calificador_1	141-144	644_QUEST_clinical_caseMIR	SENT2	-	-
+12	intraósea	intraóseo	AQ0FS0	C0595613_2	calificador_2	145-154	644_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	154-155	644_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	156-157	644_QUEST_clinical_caseMIR	SENT3	-	-
+2	Qué	qué	DT0CN0	-	-	157-160	644_QUEST_clinical_caseMIR	SENT3	-	-
+3	medicación	medicación	NCFS000	C0013227	sustancia	161-171	644_QUEST_clinical_caseMIR	SENT3	-	-
+4	debe	deber	VMIP3S0	-	-	172-176	644_QUEST_clinical_caseMIR	SENT3	-	-
+5	administrar	administrar	VMN0000	C1621583	calificador	177-188	644_QUEST_clinical_caseMIR	SENT3	-	-
+6	en	en	SPS00	C1279901_1	calificador_1	189-191	644_QUEST_clinical_caseMIR	SENT3	-	-
+7	primer	1	AO0MS0	C1279901_2	calificador_2	192-198	644_QUEST_clinical_caseMIR	SENT3	-	-
+8	lugar	lugar	NCMS000	C1279901_3	calificador_3	199-204	644_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	204-205	644_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	205-206	644_QUEST_clinical_caseMIR	SENT3	-	-
+

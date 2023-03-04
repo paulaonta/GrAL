@@ -1,0 +1,41 @@
+1	Entre	entre	SPS00	C0205103	calificador	0-5	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	las	el	DA0FP0	-	-	6-9	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	medidas	medida	NCFP000	C0079809	atributo	10-17	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	-	-	18-19	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	tomar	tomar	VMN0000	C1515187	calificador	20-25	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	cuando	cuando	CS	-	-	26-32	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	se	se	P00CN000	-	-	33-35	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	sospecha	sospechar	VMIP3S0	-	-	36-44	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	una	una		C0205447_1	calificador_1	45-48	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	sepsis	sepsis	NCFN000	C0243026	trastorno	49-55	329(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+11	,	,	Fc	-	-	55-56	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	se	se	P00CN000	-	-	57-59	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	encuentra	encontrar	VMIP3S0	-	-	60-69	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	70-72	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	73-87	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	88-90	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	antibíoterapia	antibíoterapia	NCFS000	-	-	91-105	329(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	la	el	DA0FS0	-	-	109-111	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	1ª	1ª	Z	-	-	112-114	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	hora	h	NCFS000	C0439227	calificador	115-119	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	120-122	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	su	su	DP3CS0	-	-	123-125	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	llegada	llegada	NCFS000	-	-	126-133	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	,	,	Fc	-	-	133-134	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	aunque	aunque	CC	-	-	135-141	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+27	no	no	RN	C1298908	calificador	142-144	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+28	se	se	P00CN000	-	-	145-147	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+29	ha	haber	VAIP3S0	-	-	148-150	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+30	conseguido	conseguir	VMP00SM	-	-	151-161	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+31	relacionar	relacionar	VMN0000	-	-	162-172	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+32	esta	este	DD0FS0	-	-	173-177	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+33	actitud	actitud	NCFS000	C0004271	entidad_observable	178-185	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+34	con	con	SPS00	C0332287	atributo	186-189	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+35	una	una		C0205447_1	calificador_1	190-193	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+36	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	194-205	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+37	de	de	SPS00	C0332285	atributo	206-208	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+38	la	el	DA0FS0	-	-	209-211	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+39	mortalidad	mortalidad	NCFS000	-	-	212-222	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+40	.	.	Fp	-	-	223-224	329(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,50 @@
+1	Recién	recién	RG	C0021289#C2239178_1	persona#hallazgo_1	0-6	758_QUEST_clinical_caseMIR	SENT1	-	-
+2	nacido	nacido	NCMS000	C0021289#C2239178_2	persona#hallazgo_2	7-13	758_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	758_QUEST_clinical_caseMIR	SENT1	-	-
+4	2	2		-	-	17-18	758_QUEST_clinical_caseMIR	SENT1	-	-
+5	semanas	semana	NCFP000	C0439230	calificador	19-26	758_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	26-27	758_QUEST_clinical_caseMIR	SENT1	-	-
+7	cuya	cuyo	PR0FS000	-	-	28-32	758_QUEST_clinical_caseMIR	SENT1	-	-
+8	madre	madre	NCFS000	C0026591	persona	33-38	758_QUEST_clinical_caseMIR	SENT1	-	-
+9	durante	durante	SPS00	C1444752#C0347984	atributo	39-46	758_QUEST_clinical_caseMIR	SENT1	-	-
+10	el	el	DA0MS0	-	-	47-49	758_QUEST_clinical_caseMIR	SENT1	-	-
+11	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	50-58	758_QUEST_clinical_caseMIR	SENT1	-	-
+12	presentó	presentar	VMIS3S0	-	-	59-67	758_QUEST_clinical_caseMIR	SENT1	-	-
+13	poliartralgias	poliartralgia	NCFP000	C0162296	hallazgo	68-82	758_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	no	no	RN	C1298908	calificador	83-85	758_QUEST_clinical_caseMIR	SENT1	-	-
+15	filiadas	filiar	VMP00PF	-	-	86-94	758_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	y	y	CC	C1706368	calificador	95-96	758_QUEST_clinical_caseMIR	SENT1	-	-
+17	que	que	CS	-	-	97-100	758_QUEST_clinical_caseMIR	SENT1	-	-
+18	tras	tras	SPS00	-	-	101-105	758_QUEST_clinical_caseMIR	SENT1	-	-
+19	la	el	DA0FS0	-	-	106-108	758_QUEST_clinical_caseMIR	SENT1	-	-
+20	primera	1	AO0FS0	-	-	109-116	758_QUEST_clinical_caseMIR	SENT1	-	-
+21	exposición	exposición	NCFS000	C0274281	trastorno	117-127	758_QUEST_clinical_caseMIR	SENT1	-	-
+22	solar	solar	AQ0CS0	-	-	128-133	758_QUEST_clinical_caseMIR	SENT1	-	-
+23	desarrolla	desarrollar	VMIP3S0	-	-	134-144	758_QUEST_clinical_caseMIR	SENT1	-	-
+24	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	145-153	758_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	cutáneas	cutáneo	AQ0FP0	-	-	154-162	758_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	eritematosas	eritematosas	AQ0FP00	-	-	163-175	758_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+27	policíclicas	policíclico	AQ0FP0	-	-	176-188	758_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+28	que	que	PR0CN000	-	-	189-192	758_QUEST_clinical_caseMIR	SENT1	-	-
+29	asemejan	asemejar	VMIP3P0	-	-	193-201	758_QUEST_clinical_caseMIR	SENT1	-	-
+30	las	el	DA0FP0	-	-	202-205	758_QUEST_clinical_caseMIR	SENT1	-	-
+31	del	del	SP+DA	-	-	206-209	758_QUEST_clinical_caseMIR	SENT1	-	-
+32	lupus	lupus	NCMS000	C0024140_1	trastorno_1	210-215	758_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+33	eritematoso	eritematoso		C0024140_2	trastorno_2	216-227	758_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+34	cutáneo	cutáneo	AQ0MS0	C0024140_3	trastorno_3	228-235	758_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+35	subagudo	subagudo	NC00SC0	C0024140_4	trastorno_4	236-244	758_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+36	.	.	Fp	-	-	244-245	758_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	246-247	758_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	247-251	758_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	252-254	758_QUEST_clinical_caseMIR	SENT2	-	-
+4	los	el	DA0MP0	-	-	255-258	758_QUEST_clinical_caseMIR	SENT2	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	259-269	758_QUEST_clinical_caseMIR	SENT2	-	-
+6	autoanticuerpos	autoanticuerpo	NCMP000	C0004358	sustancia	270-285	758_QUEST_clinical_caseMIR	SENT2	-	-
+7	debe	deber	VMIP3S0	-	-	286-290	758_QUEST_clinical_caseMIR	SENT2	-	-
+8	investigar	investigar	VMN0000	-	-	291-301	758_QUEST_clinical_caseMIR	SENT2	-	-
+9	se	se	PP3CN000	-	-	301-303	758_QUEST_clinical_caseMIR	SENT2	-	-
+10	?	?	Fit	-	-	303-304	758_QUEST_clinical_caseMIR	SENT2	-	-
+11	:	:	Fd	-	-	304-305	758_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	305-306	758_QUEST_clinical_caseMIR	SENT2	-	-
+

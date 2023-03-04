@@ -1,0 +1,25 @@
+1	A	a	SPS00	-	-	0-1	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	la	el	DA0FS0	-	-	2-4	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	hora	hora	NCFS000	C0040223#C0439227	calificador	5-9	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	10-12	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	decidir	decidir	VMN0000	-	-	13-20	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	el	el	DA0MS0	-	-	21-23	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	24-35	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	habría	haber	VMIC1S0	-	-	36-42	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	que	que	CS	-	-	43-46	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	asumir	asumir	VMN0000	-	-	47-53	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	la	el	DA0FS0	-	-	54-56	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	resistencia	resistencia	NCFS000	C0518031	entidad_observable	57-68	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	69-70	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	todos	todo	DI0MP0	C0205197#C0439810#C0444868#C0444667	calificador	71-76	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	los	el	DA0MP0	-	-	77-80	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	antibióticos	antibiótico	AQ0MP0	C0003232	producto#sustancia	81-93	565(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+17	betalactámicos	betalactámico	NC00SC0	C0282215	sustancia	94-108	565(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+18	y	y	CC	C1706368	calificador	109-110	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	carbapenémicos	carbapenémicos	NCMP000	-	-	111-125	565(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	con	con	SPS00	C0332300_1	atributo_1	126-129	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+21	excepción	excepción	NCFS000	C0332300_2	atributo_2	130-139	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332300_3	atributo_3	140-142	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	ceftarolina	ceftarolina	NCFS000	-	-	143-154	565(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+24	.	.	Fp	-	-	155-156	565(1)_ANS_clinical_caseMIR	SENT1	-	-
+

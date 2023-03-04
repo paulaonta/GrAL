@@ -1,0 +1,27 @@
+1	El	el	DA0MS0	-	-	0-2	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	precisará	precisar	VMIF3S0	-	-	12-21	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	22-33	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	34-45	396(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+6	por	por	SPS00	C0678226	atributo	46-49	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	vía	vía	NCFS000	C1522726_1	calificador_1	50-53	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	endovenosa	endovenoso	AQ0FS0	C1522726_2	calificador_2	54-64	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	68-70	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	fase	fase	NCFS000	C0205390	calificador	71-75	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	inicial	inicial	AQ0CS0	C0205265	calificador	76-83	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	y	y	CC	C1706368	calificador	84-85	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	la	el	DA0FS0	-	-	86-88	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	duración	duración	NCFS000	C0449238	atributo	89-97	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	estimada	estimar	VMP00SF	-	-	98-106	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	del	del	SP+DA	-	-	107-110	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	111-122	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	123-134	396(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	135-140	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	será	ser	VSIF3S0	-	-	141-145	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	146-148	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	unas	uno	DI0FP0	C0205447	calificador	149-153	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	8	8		-	-	154-155	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	semanas	semana	NCFP000	C0439230	calificador	156-163	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	164-165	396(0)_ANS_clinical_caseMIR	SENT1	-	-
+

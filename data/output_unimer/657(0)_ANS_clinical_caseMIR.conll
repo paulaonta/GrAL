@@ -1,0 +1,12 @@
+1	Quimioterapia	quimioterapia	NCFS000	C0392920#C0013216#C3665472	régimen/tratamiento#procedimiento	0-13	657(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	basada	basar	VMP00SF	-	-	14-20	657(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	21-23	657(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	antraciclinas	antraciclinas	NCFP000	-	-	24-37	657(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	y	y	CC	C1706368	calificador	38-39	657(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	taxanos	taxanos	NC00AO0	-	-	40-47	657(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	,	,	Fc	-	-	47-48	657(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	radioterapia	radioterapia	NCFS000	C1522449	-	49-61	657(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	y	y	CC	C1706368	calificador	62-63	657(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	trastuzumab	trastuzumab	NC00SC0	C0728747	sustancia#producto	64-75	657(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	.	.	Fp	-	-	76-77	657(0)_ANS_clinical_caseMIR	SENT1	-	-
+

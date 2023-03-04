@@ -1,0 +1,61 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	1_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	1_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	1_QUEST_clinical_caseMIR	SENT1	-	-
+4	87	87		-	-	15-17	1_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	1_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	23-26	1_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	27-39	1_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	40-42	1_QUEST_clinical_caseMIR	SENT1	-	-
+9	bronquitis	bronquitis	NCFN000	C0008677_1	trastorno_1	43-53	1_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	crónica	crónico	AQ0FS0	C0008677_2	trastorno_2	54-61	1_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	e	y	CC	C1706368	calificador	62-63	1_QUEST_clinical_caseMIR	SENT1	-	-
+12	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	64-77	1_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	cardiaca	cardiaco	AQ0FS0	-	-	78-86	1_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	,	,	Fc	-	-	86-87	1_QUEST_clinical_caseMIR	SENT1	-	-
+15	ha	haber	VAIP3S0	-	-	88-90	1_QUEST_clinical_caseMIR	SENT1	-	-
+16	sido	ser	VSP00SM	-	-	91-95	1_QUEST_clinical_caseMIR	SENT1	-	-
+17	diagnosticado	diagnosticar	VMP00SM	-	-	96-109	1_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	110-112	1_QUEST_clinical_caseMIR	SENT1	-	-
+19	colecistitis	colecistitis	NCFN000	C0149520_1	trastorno_1	113-125	1_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	aguda	agudo	AQ0FS0	C0149520_2	trastorno_2	126-131	1_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+21	litiásica	litiásico	AQ0FS0	-	-	132-141	1_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+22	.	.	Fp	-	-	141-142	1_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tras	tras	SPS00	-	-	143-147	1_QUEST_clinical_caseMIR	SENT2	-	-
+2	4	4	Z	-	-	148-149	1_QUEST_clinical_caseMIR	SENT2	-	-
+3	días	d	NCMP000	-	-	150-154	1_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332285	atributo	155-157	1_QUEST_clinical_caseMIR	SENT2	-	-
+5	hospitalización	hospitalización	NCFS000	-	-	158-173	1_QUEST_clinical_caseMIR	SENT2	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	174-176	1_QUEST_clinical_caseMIR	SENT2	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	177-188	1_QUEST_clinical_caseMIR	SENT2	-	-
+8	con	con	SPS00	C3472561_1	hallazgo_1	189-192	1_QUEST_clinical_caseMIR	SENT2	-	-
+9	dieta	dieta	NCFS000	C3472561_2	hallazgo_2	193-198	1_QUEST_clinical_caseMIR	SENT2	-	-
+10	absoluta	absoluto	AQ0FS0	C3472561_3	hallazgo_3	199-207	1_QUEST_clinical_caseMIR	SENT2	-	-
+11	,	,	Fc	-	-	207-208	1_QUEST_clinical_caseMIR	SENT2	-	-
+12	sueroterapia	sueroterapia	NCFS000	-	-	209-221	1_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+13	piperacilina-tazobactam	piperacilina-tazobactam	NCMN000	-	-	222-245	1_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+14	,	,	Fc	-	-	245-246	1_QUEST_clinical_caseMIR	SENT2	-	-
+15	el	el	DA0MS0	-	-	247-249	1_QUEST_clinical_caseMIR	SENT2	-	-
+16	paciente	paciente	NCCS000	C0030705	persona	250-258	1_QUEST_clinical_caseMIR	SENT2	-	-
+17	continúa	continuar	VMIP3S0	-	-	259-267	1_QUEST_clinical_caseMIR	SENT2	-	-
+18	con	con	SPS00	C0332287	atributo	268-271	1_QUEST_clinical_caseMIR	SENT2	-	-
+19	fiebre	fiebre	NCFS000	C0015967	hallazgo	272-278	1_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+20	,	,	Fc	-	-	278-279	1_QUEST_clinical_caseMIR	SENT2	-	-
+21	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	280-285	1_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+22	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	286-295	1_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+23	persistente	persistente	AQ0CS0	C0205322#C0549178	calificador	296-307	1_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+24	y	y	CC	C1706368	calificador	308-309	1_QUEST_clinical_caseMIR	SENT2	-	-
+25	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	310-322	1_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+26	.	.	Fp	-	-	322-323	1_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	324-326	1_QUEST_clinical_caseMIR	SENT3	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	327-334	1_QUEST_clinical_caseMIR	SENT3	-	-
+3	más	más	RG	C0205172	calificador	335-338	1_QUEST_clinical_caseMIR	SENT3	-	-
+4	adecuada	adecuar	VMP00SF	-	-	339-347	1_QUEST_clinical_caseMIR	SENT3	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	348-350	1_QUEST_clinical_caseMIR	SENT3	-	-
+6	este	este	DD0MS0	-	-	351-355	1_QUEST_clinical_caseMIR	SENT3	-	-
+7	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	356-363	1_QUEST_clinical_caseMIR	SENT3	-	-
+8	sería	ser	VSIC1S0	-	-	364-369	1_QUEST_clinical_caseMIR	SENT3	-	-
+9	:	:	Fd	-	-	369-370	1_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	370-371	1_QUEST_clinical_caseMIR	SENT3	-	-
+

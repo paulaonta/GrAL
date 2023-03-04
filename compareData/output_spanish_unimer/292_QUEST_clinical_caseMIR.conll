@@ -1,0 +1,40 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	292_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	292_QUEST_clinical_caseMIR	SENT1	-	-
+3	12	12		-	-	8-10	292_QUEST_clinical_caseMIR	SENT1	-	-
+4	meses	mes	NCMP000	C0439231	calificador	11-16	292_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	292_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	292_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	24-25	292_QUEST_clinical_caseMIR	SENT1	-	-
+8	que	que	PR0CN000	-	-	26-29	292_QUEST_clinical_caseMIR	SENT1	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	30-32	292_QUEST_clinical_caseMIR	SENT1	-	-
+10	los	el	DA0MP0	-	-	33-36	292_QUEST_clinical_caseMIR	SENT1	-	-
+11	exámenes	examen	NCMP000	-	-	37-45	292_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	46-48	292_QUEST_clinical_caseMIR	SENT1	-	-
+13	salud	salud	NCFS000	C0018684	calificador	49-54	292_QUEST_clinical_caseMIR	SENT1	-	-
+14	practicados	practicar	VMP00PM	-	-	55-66	292_QUEST_clinical_caseMIR	SENT1	-	-
+15	desde	desde	SPS00	-	-	67-72	292_QUEST_clinical_caseMIR	SENT1	-	-
+16	el	el	DA0MS0	-	-	73-75	292_QUEST_clinical_caseMIR	SENT1	-	-
+17	nacimiento	nacimiento	NCMS000	C1148523#C0005615	entidad_observable#hallazgo	76-86	292_QUEST_clinical_caseMIR	SENT1	-	-
+18	presenta	presentar	VMIP3S0	-	-	87-95	292_QUEST_clinical_caseMIR	SENT1	-	-
+19	testículo	testículo	NCMS000	C1288409#C0227997_1	estructura_corporal_1	96-105	292_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+20	derecho	derecho	NCMS000	C1288409#C0227997_2	estructura_corporal_2	106-113	292_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	114-116	292_QUEST_clinical_caseMIR	SENT1	-	-
+22	conducto	conducto	NCMS000	C0021445#C1280085_1	estructura_corporal_1	117-125	292_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	inguinal	inguinal	NC00SC0	C0021445#C1280085_2	estructura_corporal_2	126-134	292_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+24	que	que	PR0CN000	-	-	135-138	292_QUEST_clinical_caseMIR	SENT1	-	-
+25	no	no	RN	C1298908	calificador	139-141	292_QUEST_clinical_caseMIR	SENT1	-	-
+26	es	ser	VSIP3S0	-	-	142-144	292_QUEST_clinical_caseMIR	SENT1	-	-
+27	posible	posible	AQ0CS0	C0332149#C2362652	calificador	145-152	292_QUEST_clinical_caseMIR	SENT1	-	-
+28	descender	descender	VMN0000	-	-	153-162	292_QUEST_clinical_caseMIR	SENT1	-	-
+29	hasta	hasta	SPS00	-	-	163-168	292_QUEST_clinical_caseMIR	SENT1	-	-
+30	el	el	DA0MS0	-	-	169-171	292_QUEST_clinical_caseMIR	SENT1	-	-
+31	escroto	escroto	NCMS000	C1280740#C0036471	estructura_corporal	172-179	292_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+32	.	.	Fp	-	-	179-180	292_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Señale	señalar	VMM03S0	-	-	181-187	292_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	188-190	292_QUEST_clinical_caseMIR	SENT2	-	-
+3	respuesta	respuesta	NCFS000	-	-	191-200	292_QUEST_clinical_caseMIR	SENT2	-	-
+4	CORRECTA	correcto	AQ0FS0	C0205170	calificador	201-209	292_QUEST_clinical_caseMIR	SENT2	-	-
+5	:	:	Fd	-	-	209-210	292_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	210-211	292_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,39 @@
+1	Se	se	P00CN000	-	-	0-2	583(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	583(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	probablemente	probablemente	RG	C0332148	calificador	9-22	583(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	23-25	583(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	un	un		C0205447_1	calificador_1	26-28	583(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	hiperaldosteronismo	hiperaldosteronismo	NC00SC0	C1384514#C0392593_1	trastorno_1	29-48	583(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+7	primario	primario	NCMS000	C1384514#C0392593_2	trastorno_2	49-57	583(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	.	.	Fp	-	-	57-58	583(2)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	59-61	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+2	siguiente	siguiente	AQ0CS0	C0332282	atributo	62-71	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+3	paso	paso	NCMS000	C1261552	calificador	72-76	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+4	sería	ser	VSIC1S0	-	-	77-82	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+5	realizar	realizar	VMN0000	-	-	83-91	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+6	un	un		C0205447_1	calificador_1	92-94	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+7	test	test	NCMS000	-	-	95-99	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	100-102	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+9	sobrecarga	sobrecarga	NCFS000	C0337091	calificador	103-113	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+10	salina	salino	AQ0FS0	-	-	114-120	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	121-123	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+12	modo	modo	NCMS000	-	-	124-128	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+13	que	que	PR0CN000	-	-	129-132	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+14	si	si	CS	-	-	133-135	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+15	no	no	RN	C1298908	calificador	136-138	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+16	suprime	suprimir	VMIP3S0	-	-	139-146	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+17	la	el	DA0FS0	-	-	147-149	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+18	aldosterona	aldosterona	NCFS000	C0002006	sustancia	150-161	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+19	confirmaría	confirmar	VMIC3S0	-	-	162-173	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+20	el	el	DA0MS0	-	-	174-176	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+21	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	177-188	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+22	y	y	CC	C1706368	calificador	189-190	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+23	pasaríamos	pasar	VMIC1P0	-	-	191-201	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+24	a	a	SPS00	-	-	202-203	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+25	realizar	realizar	VMN0000	-	-	204-212	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+26	prueba	prueba	NCFS000	-	-	213-219	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+27	de	de	SPS00	C0332285	atributo	220-222	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+28	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	223-229	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+29	.	.	Fp	-	-	230-231	583(2)_ANS_clinical_caseMIR	SENT2	-	-
+

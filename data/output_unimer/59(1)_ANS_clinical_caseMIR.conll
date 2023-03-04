@@ -1,0 +1,23 @@
+1	A	a	SPS00	-	-	0-1	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	toda	todo	DI0FS0	C0205197#C0439810#C0444868#C0444667	calificador	2-6	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	7-9	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	familia	familia	NCFS000	C0015576	concepto_social	10-17	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	presente	presente	AQ0CS0	C0150312	calificador	18-26	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	27-29	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	ese	ese	DD0MS0	-	-	30-33	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	34-41	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	argumentando	argumentar	VMG0000	-	-	42-54	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	datos	dato	NCMP000	-	-	55-60	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	que	que	CS	-	-	61-64	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	65-67	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	autopsia	autopsia	NCFS000	C0004398	procedimiento	68-76	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	puede	poder	VMIP3S0	-	-	77-82	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	dar	dar	VMN0000	C1947971	calificador	83-86	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	87-89	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	cara	caro	AQ0FS0	-	-	90-94	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	a	a	SPS00	-	-	95-96	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	posibles	posible	AQ0CP0	C0332149#C2362652	calificador	97-105	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	106-118	59(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+21	hereditarias	hereditario	AQ0FP0	C0439660	calificador	119-131	59(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+22	.	.	Fp	-	-	132-133	59(1)_ANS_clinical_caseMIR	SENT1	-	-
+

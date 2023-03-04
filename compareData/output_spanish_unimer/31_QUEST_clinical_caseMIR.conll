@@ -1,0 +1,69 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	31_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	31_QUEST_clinical_caseMIR	SENT1	-	-
+3	51	51		-	-	9-11	31_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	31_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	17-20	31_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	31_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	31_QUEST_clinical_caseMIR	SENT1	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	31_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	31_QUEST_clinical_caseMIR	SENT1	-	-
+10	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	43-54	31_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	brusca	brusco	AQ0FS0	C0443162	calificador	55-61	31_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+12	de	de	SPS00	C0332285	atributo	62-64	31_QUEST_clinical_caseMIR	SENT1	-	-
+13	agudeza	agudeza	NCFS000	C0042812_1	entidad_observable_1	65-72	31_QUEST_clinical_caseMIR	SENT1	-	-
+14	visual	visual	NC00SC0	C0042812_2	entidad_observable_2	73-79	31_QUEST_clinical_caseMIR	SENT1	-	-
+15	,	,	Fc	-	-	79-80	31_QUEST_clinical_caseMIR	SENT1	-	-
+16	cefalea	cefalea	NCFS000	C0018681	hallazgo	81-88	31_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	intensa	intenso	AQ0FS0	C0205178	calificador	89-96	31_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	,	,	Fc	-	-	96-97	31_QUEST_clinical_caseMIR	SENT1	-	-
+19	nauseas	nausear	VMIP2S0	-	-	98-105	31_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	y	y	CC	C1706368	calificador	106-107	31_QUEST_clinical_caseMIR	SENT1	-	-
+21	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	108-115	31_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	.	.	Fp	-	-	115-116	31_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Hipotensa	hipotenso	AQ0FS0	-	-	117-126	31_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+2	y	y	CC	C1706368	calificador	127-128	31_QUEST_clinical_caseMIR	SENT2	-	-
+3	afebril	afebril	AQ0CS0	-	-	129-136	31_QUEST_clinical_caseMIR	SENT2	-	-
+4	.	.	Fp	-	-	136-137	31_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	138-146	31_QUEST_clinical_caseMIR	SENT3	-	-
+2	oftalmoparesia	oftalmoparesia	AQ0FS00	-	-	147-161	31_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	derecha	derecha	NCFS000	-	-	162-169	31_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+4	por	por	SPS00	C0678226	atributo	170-173	31_QUEST_clinical_caseMIR	SENT3	-	-
+5	afectación	afectación	NCFS000	-	-	174-184	31_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0332285	atributo	185-187	31_QUEST_clinical_caseMIR	SENT3	-	-
+7	III	III		C0028864_1	estructura_corporal_1	188-191	31_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+8	par	par	NCMS000	C0028864_2	estructura_corporal_2	192-195	31_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+9	craneal	craneal	NC00SC0	C0028864_3	estructura_corporal_3	196-203	31_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+10	.	.	Fp	-	-	203-204	31_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Una	Una		C0205447_1	calificador_1	205-208	31_QUEST_clinical_caseMIR	SENT4	-	-
+2	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	209-211	31_QUEST_clinical_caseMIR	SENT4	-	-
+3	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	212-219	31_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+4	evidencia	evidenciar	VMIP3S0	-	-	220-229	31_QUEST_clinical_caseMIR	SENT4	-	-
+5	una	una		C0205447_1	calificador_1	230-233	31_QUEST_clinical_caseMIR	SENT4	-	-
+6	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	234-238	31_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	239-241	31_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	242-244	31_QUEST_clinical_caseMIR	SENT4	-	-
+9	región	región	NCFS000	C0205147	atributo#calificador	245-251	31_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+10	selar	selar	AQ0CS00	-	-	252-257	31_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+11	hiperdensa	hiperdensa	VMIP3S0	-	-	258-268	31_QUEST_clinical_caseMIR	SENT4	-	-
+12	con	con	SPS00	C0332287	atributo	269-272	31_QUEST_clinical_caseMIR	SENT4	-	-
+13	erosión	erosión	NCFS000	C0333307	anomalía_morfológica	273-280	31_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+14	de	de	SPS00	C0332285	atributo	281-283	31_QUEST_clinical_caseMIR	SENT4	-	-
+15	las	el	DA0FP0	-	-	284-287	31_QUEST_clinical_caseMIR	SENT4	-	-
+16	apófisis	apófisis	NCFN000	C0222670	estructura_corporal	288-296	31_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+17	clinoides	clinoides	NCMP000	-	-	297-306	31_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+18	anteriores	anterior	AQ0CP0	C0205094#C1704448	calificador	307-317	31_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+19	.	.	Fp	-	-	317-318	31_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	319-320	31_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	320-324	31_QUEST_clinical_caseMIR	SENT5	-	-
+3	es	ser	VSIP3S0	-	-	325-327	31_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	328-330	31_QUEST_clinical_caseMIR	SENT5	-	-
+5	actitud	actitud	NCFS000	C0004271	entidad_observable	331-338	31_QUEST_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	339-341	31_QUEST_clinical_caseMIR	SENT5	-	-
+7	seguir	seguir	VMN0000	-	-	342-348	31_QUEST_clinical_caseMIR	SENT5	-	-
+8	?	?	Fit	-	-	348-349	31_QUEST_clinical_caseMIR	SENT5	-	-
+9	.	.	Fp	-	-	349-350	31_QUEST_clinical_caseMIR	SENT5	-	-
+

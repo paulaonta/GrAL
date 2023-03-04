@@ -1,0 +1,87 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	201_QUEST_clinical_caseMIR	SENT1	-	-
+2	homosexual	homosexual	AQ0CS0	C0019900	hallazgo	6-16	201_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	17-19	201_QUEST_clinical_caseMIR	SENT1	-	-
+4	30	30		-	-	20-22	201_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	23-27	201_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	28-30	201_QUEST_clinical_caseMIR	SENT1	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	31-35	201_QUEST_clinical_caseMIR	SENT1	-	-
+8	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0458074#C0019682_1	entidad_observable#organismo_1	36-39	201_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	(	(	Fpa	-	-	40-41	201_QUEST_clinical_caseMIR	SENT1	-	-
+10	+	+	Fz	-	-	41-42	201_QUEST_clinical_caseMIR	SENT1	-	-
+11	)	)	Fpt	-	-	42-43	201_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	44-47	201_QUEST_clinical_caseMIR	SENT1	-	-
+13	participa	participar	VMIP3S0	-	-	48-57	201_QUEST_clinical_caseMIR	SENT1	-	-
+14	como	como	CS	C0332257	calificador	58-62	201_QUEST_clinical_caseMIR	SENT1	-	-
+15	voluntario	voluntario	AQ0MS0	C0439656	calificador	63-73	201_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	74-76	201_QUEST_clinical_caseMIR	SENT1	-	-
+17	un	un		C0205447_1	calificador_1	77-79	201_QUEST_clinical_caseMIR	SENT1	-	-
+18	centro	centro	NCMS000	C0205099	calificador	80-86	201_QUEST_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	87-89	201_QUEST_clinical_caseMIR	SENT1	-	-
+20	ayuda	ayuda	NCFS000	C0449435	atributo	90-95	201_QUEST_clinical_caseMIR	SENT1	-	-
+21	a	a	SPS00	-	-	96-97	201_QUEST_clinical_caseMIR	SENT1	-	-
+22	pacientes	paciente	NCCP000	C0030705	persona	98-107	201_QUEST_clinical_caseMIR	SENT1	-	-
+23	con	con	SPS00	C0332287	atributo	108-111	201_QUEST_clinical_caseMIR	SENT1	-	-
+24	SIDA	sida	NC00SC0	C0001175	trastorno	112-116	201_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	.	.	Fp	-	-	116-117	201_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Según	según	SPS00	-	-	118-123	201_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	124-126	201_QUEST_clinical_caseMIR	SENT2	-	-
+3	historia	historia	NCFS000	-	-	127-135	201_QUEST_clinical_caseMIR	SENT2	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	136-143	201_QUEST_clinical_caseMIR	SENT2	-	-
+5	recibió	recibir	VMIS3S0	-	-	144-151	201_QUEST_clinical_caseMIR	SENT2	-	-
+6	toxoide	toxoide	NCMS000	C0012551_1	sustancia_1	152-159	201_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+7	diftérico	diftérico	AQ0MS0	C0012551_2	sustancia_2	160-169	201_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+8	(	(	Fpa	-	-	170-171	201_QUEST_clinical_caseMIR	SENT2	-	-
+9	Td	td	NC00YL0	-	-	171-173	201_QUEST_clinical_caseMIR	SENT2	-	-
+10	)	)	Fpt	-	-	173-174	201_QUEST_clinical_caseMIR	SENT2	-	-
+11	hace	hacer	VMIP3S0	-	-	175-179	201_QUEST_clinical_caseMIR	SENT2	-	-
+12	6	6		-	-	180-181	201_QUEST_clinical_caseMIR	SENT2	-	-
+13	años	año	NCMP000	C0439234	calificador	182-186	201_QUEST_clinical_caseMIR	SENT2	-	-
+14	,	,	Fc	-	-	186-187	201_QUEST_clinical_caseMIR	SENT2	-	-
+15	la	el	DA0FS0	-	-	188-190	201_QUEST_clinical_caseMIR	SENT2	-	-
+16	vacuna	vacuna	NCFS000	C0042210	producto#sustancia	191-197	201_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+17	triple	triple	AQ0CS0	C0205174	calificador	198-204	201_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+18	vírica	vírico	AQ0FS0	C0042776	organismo	205-211	201_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	212-214	201_QUEST_clinical_caseMIR	SENT2	-	-
+20	la	el	DA0FS0	-	-	215-217	201_QUEST_clinical_caseMIR	SENT2	-	-
+21	infancia	infancia	NCFS000	C0231335	calificador	218-226	201_QUEST_clinical_caseMIR	SENT2	-	-
+22	y	y	CC	C1706368	calificador	227-228	201_QUEST_clinical_caseMIR	SENT2	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	229-231	201_QUEST_clinical_caseMIR	SENT2	-	-
+24	la	el	DA0FS0	-	-	232-234	201_QUEST_clinical_caseMIR	SENT2	-	-
+25	adolescencia	adolescencia	NCFS000	C0001578#C0087178	calificador#función	235-247	201_QUEST_clinical_caseMIR	SENT2	-	-
+26	,	,	Fc	-	-	247-248	201_QUEST_clinical_caseMIR	SENT2	-	-
+27	y	y	CC	C1706368	calificador	249-250	201_QUEST_clinical_caseMIR	SENT2	-	-
+28	la	el	DA0FS0	-	-	251-253	201_QUEST_clinical_caseMIR	SENT2	-	-
+29	hepatitis	hepatitis	NCFN000	C0019163_1	trastorno_1	254-263	201_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+30	B	b	NCFS000	C0019163_2	trastorno_2	264-265	201_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+31	hace	hacer	VMIP3S0	-	-	266-270	201_QUEST_clinical_caseMIR	SENT2	-	-
+32	3	3		-	-	271-272	201_QUEST_clinical_caseMIR	SENT2	-	-
+33	años	año	NCMP000	C0439234	calificador	273-277	201_QUEST_clinical_caseMIR	SENT2	-	-
+34	.	.	Fp	-	-	277-278	201_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Actualmente	actualmente	RG	C0521116	calificador	279-290	201_QUEST_clinical_caseMIR	SENT3	-	-
+2	se	se	P00CN000	-	-	291-293	201_QUEST_clinical_caseMIR	SENT3	-	-
+3	encuentra	encontrar	VMIP3S0	-	-	294-303	201_QUEST_clinical_caseMIR	SENT3	-	-
+4	asintomático	asintomático	AQ0MS0	-	-	304-316	201_QUEST_clinical_caseMIR	SENT3	-	-
+5	con	con	SPS00	C0332287	atributo	317-320	201_QUEST_clinical_caseMIR	SENT3	-	-
+6	un	un		C0205447_1	calificador_1	321-323	201_QUEST_clinical_caseMIR	SENT3	-	-
+7	recuento	recuento	NCMS000	-	-	324-332	201_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	333-335	201_QUEST_clinical_caseMIR	SENT3	-	-
+9	CD4	CD4		-	-	336-339	201_QUEST_clinical_caseMIR	SENT3	-	-
+10	superior	superior	AQ0CS0	C1282910	calificador	340-348	201_QUEST_clinical_caseMIR	SENT3	-	-
+11	a	a	SPS00	-	-	349-350	201_QUEST_clinical_caseMIR	SENT3	-	-
+12	200	200		-	-	351-354	201_QUEST_clinical_caseMIR	SENT3	-	-
+13	cls	cls	NCCS000	-	-	355-358	201_QUEST_clinical_caseMIR	SENT3	-	-
+14	/	/	Fh	-	-	358-359	201_QUEST_clinical_caseMIR	SENT3	-	-
+15	microlitro	microlitro	NC00SC0	C0439243	calificador	359-369	201_QUEST_clinical_caseMIR	SENT3	-	-
+16	.	.	Fp	-	-	369-370	201_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	371-372	201_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	372-375	201_QUEST_clinical_caseMIR	SENT4	-	-
+3	vacunas	vacuna	NCFP000	C0042210	producto#sustancia	376-383	201_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-
+4	deberíamos	deber	VMIC1P0	-	-	384-394	201_QUEST_clinical_caseMIR	SENT4	-	-
+5	recomendar	recomendar	VMN0000	-	-	395-405	201_QUEST_clinical_caseMIR	SENT4	-	-
+6	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	405-407	201_QUEST_clinical_caseMIR	SENT4	-	-
+7	?	?	Fit	-	-	407-408	201_QUEST_clinical_caseMIR	SENT4	-	-
+8	.	.	Fp	-	-	408-409	201_QUEST_clinical_caseMIR	SENT4	-	-
+

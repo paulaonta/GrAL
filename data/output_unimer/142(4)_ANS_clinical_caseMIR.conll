@@ -1,0 +1,22 @@
+1	Ceftazidima	ceftazidima	NC00SC0	C0007559	sustancia	0-11	142(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+2	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	12-23	142(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	,	,	Fc	-	-	23-24	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	1	1	Z	-	-	25-26	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	gramo	g	NCMS000	-	-	27-32	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	cada	cada	DI0CS0	C1457900	calificador	33-37	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	8	8	Z	C1292429_1	calificador_1	38-39	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	horas	hora	NCFP000	C1292429_2	calificador_2	40-45	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	asociada	asociar	VMP00SF	-	-	46-54	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	55-56	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	tobramicina	tobramicina	NC00SC0	C0040341	producto#sustancia	57-68	142(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	intravenosa	intravenoso	AQ0FS0	C0348016	calificador	69-80	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	,	,	Fc	-	-	80-81	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	6	6	Z	-	-	82-83	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	mg	mg	NCMN000	-	-	84-86	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	/	/	Fh	-	-	86-87	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	Kg	kilogramo	NCMN000	C0439209	calificador	87-89	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	cada	cada	NC00SC0	C0456696#C1275548_1	calificador_1	90-94	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+19	24	24	Z	C0456696#C1275548_2	calificador_2	95-97	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+20	horas	hora	NCFP000	C0456696#C1275548_3	calificador_3	98-103	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+21	.	.	Fp	-	-	104-105	142(4)_ANS_clinical_caseMIR	SENT1	-	-
+

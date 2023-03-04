@@ -1,0 +1,13 @@
+1	La	el	DA0FS0	-	-	0-2	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	afectación	afectación	NCFS000	-	-	3-13	232(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+3	glomerular	glomerular	AQ0CS0	-	-	14-24	232(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+4	esta	este	DD0FS0	-	-	25-29	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	causada	causar	VMP00SF	-	-	30-37	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	por	por	SPS00	C0678226	atributo	38-41	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	42-44	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	45-54	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	55-57	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	inmunocomplejos	inmunocomplejo	NCMP000	C0003313#C2939434	sustancia#anomalía_morfológica	58-73	232(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	circulantes	circulante	AQ0CP0	C0175630	calificador	74-85	232(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+12	.	.	Fp	-	-	86-87	232(4)_ANS_clinical_caseMIR	SENT1	-	-
+

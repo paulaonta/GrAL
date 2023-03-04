@@ -1,0 +1,92 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	30_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	30_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	30_QUEST_clinical_caseMIR	SENT1	-	-
+4	65	65		-	-	15-17	30_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	30_QUEST_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	22-23	30_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	24-27	30_QUEST_clinical_caseMIR	SENT1	-	-
+8	como	como	CS	C0332257	calificador	28-32	30_QUEST_clinical_caseMIR	SENT1	-	-
+9	únicos	único	AQ0MP0	C0205171	calificador	33-39	30_QUEST_clinical_caseMIR	SENT1	-	-
+10	antecedentes	antecedente	NCMP000	-	-	40-52	30_QUEST_clinical_caseMIR	SENT1	-	-
+11	médicos	médico	AQ0MP0	C0205476#C0031831	calificador#ocupación	53-60	30_QUEST_clinical_caseMIR	SENT1	-	-
+12	padece	padecer	VMIP3S0	-	-	61-67	30_QUEST_clinical_caseMIR	SENT1	-	-
+13	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	68-80	30_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	81-89	30_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	90-91	30_QUEST_clinical_caseMIR	SENT1	-	-
+16	es	ser	VSIP3S0	-	-	92-94	30_QUEST_clinical_caseMIR	SENT1	-	-
+17	exfumador	exfumador	NC00KE0	-	-	95-104	30_QUEST_clinical_caseMIR	SENT1	-	-
+18	desde	desde	SPS00	-	-	105-110	30_QUEST_clinical_caseMIR	SENT1	-	-
+19	hace	hacer	VMIP3S0	-	-	111-115	30_QUEST_clinical_caseMIR	SENT1	-	-
+20	10	10		-	-	116-118	30_QUEST_clinical_caseMIR	SENT1	-	-
+21	años	año	NCMP000	C0439234	calificador	119-123	30_QUEST_clinical_caseMIR	SENT1	-	-
+22	,	,	Fc	-	-	123-124	30_QUEST_clinical_caseMIR	SENT1	-	-
+23	acude	acudir	VMIP3S0	-	-	125-130	30_QUEST_clinical_caseMIR	SENT1	-	-
+24	a	a	SPS00	-	-	131-132	30_QUEST_clinical_caseMIR	SENT1	-	-
+25	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	133-141	30_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	141-142	30_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	143-145	30_QUEST_clinical_caseMIR	SENT2	-	-
+2	encuentra	encontrar	VMIP3S0	-	-	146-155	30_QUEST_clinical_caseMIR	SENT2	-	-
+3	asintomático	asintomático	AQ0MS0	-	-	156-168	30_QUEST_clinical_caseMIR	SENT2	-	-
+4	y	y	CC	C1706368	calificador	169-170	30_QUEST_clinical_caseMIR	SENT2	-	-
+5	su	su	DP3CS0	-	-	171-173	30_QUEST_clinical_caseMIR	SENT2	-	-
+6	exploración	exploración	NCFS000	C1280903	procedimiento	174-185	30_QUEST_clinical_caseMIR	SENT2	-	-
+7	es	ser	VSIP3S0	-	-	186-188	30_QUEST_clinical_caseMIR	SENT2	-	-
+8	normal	normal	AQ0CS0	C0205307	calificador	189-195	30_QUEST_clinical_caseMIR	SENT2	-	-
+9	,	,	Fc	-	-	195-196	30_QUEST_clinical_caseMIR	SENT2	-	-
+10	índice	índice	NCMS000	C1305855_1	entidad_observable_1	197-203	30_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C1305855_2	entidad_observable_2	204-206	30_QUEST_clinical_caseMIR	SENT2	-	-
+12	masa	masa	NCFS000	C1305855_3	entidad_observable_3	207-211	30_QUEST_clinical_caseMIR	SENT2	-	-
+13	corporal	corporal	AQ0CS0	C1305855_4	entidad_observable_4	212-220	30_QUEST_clinical_caseMIR	SENT2	-	-
+14	28	28		-	-	221-223	30_QUEST_clinical_caseMIR	SENT2	-	-
+15	Kg/m2	Kg/m2		-	-	224-229	30_QUEST_clinical_caseMIR	SENT2	-	-
+16	y	y	CC	C1706368	calificador	230-231	30_QUEST_clinical_caseMIR	SENT2	-	-
+17	presenta	presentar	VMIP3S0	-	-	232-240	30_QUEST_clinical_caseMIR	SENT2	-	-
+18	con	con	SPS00	C0332287	atributo	241-244	30_QUEST_clinical_caseMIR	SENT2	-	-
+19	medicación	medicación	NCFS000	C0013227	sustancia	245-255	30_QUEST_clinical_caseMIR	SENT2	-	-
+20	hipotensora	hipotensora	AQ0FS00	-	-	256-267	30_QUEST_clinical_caseMIR	SENT2	-	-
+21	TA	ta	NC00YL0	-	-	268-270	30_QUEST_clinical_caseMIR	SENT2	-	-
+22	130/80	130/80	Z	-	-	271-277	30_QUEST_clinical_caseMIR	SENT2	-	-
+23	mmHg	mmHg	NCMP000	-	-	278-282	30_QUEST_clinical_caseMIR	SENT2	-	-
+24	.	.	Fp	-	-	282-283	30_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Sus	su	DP3CP0	-	-	284-287	30_QUEST_clinical_caseMIR	SENT3	-	-
+2	valores	valor	NCMP000	C0475208	calificador	288-295	30_QUEST_clinical_caseMIR	SENT3	-	-
+3	analíticos	analítico	AQ0MP0	-	-	296-306	30_QUEST_clinical_caseMIR	SENT3	-	-
+4	basa	basar	VMM02S0	-	-	307-311	30_QUEST_clinical_caseMIR	SENT3	-	-
+5	les	le	PP3CPD00	C1292157#C0409974	hallazgo#trastorno	311-314	30_QUEST_clinical_caseMIR	SENT3	-	-
+6	son	ser	VSIP3P0	-	-	315-318	30_QUEST_clinical_caseMIR	SENT3	-	-
+7	:	:	Fd	-	-	318-319	30_QUEST_clinical_caseMIR	SENT3	-	-
+8	glucemia	glucemia	NCFS000	C2585282	entidad_observable	320-328	30_QUEST_clinical_caseMIR	SENT3	-	-
+9	120	120	Z	-	-	329-332	30_QUEST_clinical_caseMIR	SENT3	-	-
+10	mg	mg	NCMN000	-	-	333-335	30_QUEST_clinical_caseMIR	SENT3	-	-
+11	/	/	Fh	-	-	335-336	30_QUEST_clinical_caseMIR	SENT3	-	-
+12	dl	decilitro	NCMN000	C0439241	calificador	336-338	30_QUEST_clinical_caseMIR	SENT3	-	-
+13	,	,	Fc	-	-	338-339	30_QUEST_clinical_caseMIR	SENT3	-	-
+14	HbAlc	hbalc	NC00000	-	-	340-345	30_QUEST_clinical_caseMIR	SENT3	-	-
+15	7.4	7.4	Z	-	-	346-349	30_QUEST_clinical_caseMIR	SENT3	-	-
+16	%	%	Ft	-	-	349-350	30_QUEST_clinical_caseMIR	SENT3	-	-
+17	,	,	Fc	-	-	350-351	30_QUEST_clinical_caseMIR	SENT3	-	-
+18	LDLc	ldlc	NC00000	-	-	352-356	30_QUEST_clinical_caseMIR	SENT3	-	-
+19	135mg/dl	135mg/dl		-	-	357-365	30_QUEST_clinical_caseMIR	SENT3	-	-
+20	,	,	Fc	-	-	365-366	30_QUEST_clinical_caseMIR	SENT3	-	-
+21	HDLc	hdlc	NC00000	-	-	367-371	30_QUEST_clinical_caseMIR	SENT3	-	-
+22	40	40	Z	-	-	372-374	30_QUEST_clinical_caseMIR	SENT3	-	-
+23	mg	mg	NCMN000	-	-	375-377	30_QUEST_clinical_caseMIR	SENT3	-	-
+24	/	/	Fh	-	-	377-378	30_QUEST_clinical_caseMIR	SENT3	-	-
+25	dl	decilitro	NCMN000	C0439241	calificador	378-380	30_QUEST_clinical_caseMIR	SENT3	-	-
+26	.	.	Fp	-	-	380-381	30_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Considera	considerar	VMIP3S0	-	-	382-391	30_QUEST_clinical_caseMIR	SENT4	-	-
+2	respecto	respecto	NCMS000	-	-	392-400	30_QUEST_clinical_caseMIR	SENT4	-	-
+3	al	al	SP+DA	-	-	401-403	30_QUEST_clinical_caseMIR	SENT4	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	404-415	30_QUEST_clinical_caseMIR	SENT4	-	-
+5	de	de	SPS00	C0332285	atributo	416-418	30_QUEST_clinical_caseMIR	SENT4	-	-
+6	los	el	DA0MP0	-	-	419-422	30_QUEST_clinical_caseMIR	SENT4	-	-
+7	niveles	nivel	NCMP000	C0456079	atributo	423-430	30_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	431-433	30_QUEST_clinical_caseMIR	SENT4	-	-
+9	lípidos	lípido	NCMP000	C0023779	sustancia	434-441	30_QUEST_clinical_caseMIR	SENT4	-	-
+10	que	que	PR0CN000	-	-	442-445	30_QUEST_clinical_caseMIR	SENT4	-	-
+11	:	:	Fd	-	-	445-446	30_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	446-447	30_QUEST_clinical_caseMIR	SENT4	-	-
+

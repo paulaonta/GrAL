@@ -1,0 +1,34 @@
+1	Ante	ante	SPS00	-	-	0-4	422_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	5-7	422_QUEST_clinical_caseMIR	SENT1	-	-
+3	trastorno	trastorno	NCMS000	C0028768_1	trastorno_1	8-17	422_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+4	obsesivo-compulsivo	obsesivo-compulsivo		C0028768_2	trastorno_2	18-37	422_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+5	(	(	Fpa	-	-	38-39	422_QUEST_clinical_caseMIR	SENT1	-	-
+6	TOC	trastorno_obsesivocompulsivo	NC00YL0	-	-	39-42	422_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	)	)	Fpt	-	-	42-43	422_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	44-46	422_QUEST_clinical_caseMIR	SENT1	-	-
+9	inicio	inicio	NCMS000	C1276802#C1272517_1	atributo#calificador_1	47-53	422_QUEST_clinical_caseMIR	SENT1	-	-
+10	súbito	súbito	AQ0MS0	C1276802#C1272517_2	atributo#calificador_2	54-60	422_QUEST_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	422_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	64-66	422_QUEST_clinical_caseMIR	SENT1	-	-
+13	niño	niño	NCMS000	C0680063_1	hallazgo_1	67-71	422_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0680063_2	hallazgo_2	72-74	422_QUEST_clinical_caseMIR	SENT1	-	-
+15	9	9		-	-	75-76	422_QUEST_clinical_caseMIR	SENT1	-	-
+16	años	año	NCMP000	C0439234	calificador	77-81	422_QUEST_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	82-85	422_QUEST_clinical_caseMIR	SENT1	-	-
+18	además	además	RG	-	-	86-92	422_QUEST_clinical_caseMIR	SENT1	-	-
+19	presenta	presentar	VMIP3S0	-	-	93-101	422_QUEST_clinical_caseMIR	SENT1	-	-
+20	tics	tic	NCMP000	C0040188	hallazgo	102-106	422_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	y	y	CC	C1706368	calificador	107-108	422_QUEST_clinical_caseMIR	SENT1	-	-
+22	corea	corear	VMIP3S0	-	-	109-114	422_QUEST_clinical_caseMIR	SENT1	-	-
+23	como	como	CS	C0332257	calificador	115-119	422_QUEST_clinical_caseMIR	SENT1	-	-
+24	manifestaciones	manifestación	NCFP000	-	-	120-135	422_QUEST_clinical_caseMIR	SENT1	-	-
+25	neurológicas	neurológico	AQ0FP0	C0205494	calificador	136-148	422_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	se	se	P00CN000	-	-	149-151	422_QUEST_clinical_caseMIR	SENT1	-	-
+27	debería	deber	VMIC3S0	-	-	152-159	422_QUEST_clinical_caseMIR	SENT1	-	-
+28	descartar	descartar	VMN0000	C0332196	calificador	160-169	422_QUEST_clinical_caseMIR	SENT1	-	-
+29	una	una		C0205447_1	calificador_1	170-173	422_QUEST_clinical_caseMIR	SENT1	-	-
+30	infección	infección	NCFS000	C0009450	trastorno	174-183	422_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+31	por	por	SPS00	C0678226	atributo	184-187	422_QUEST_clinical_caseMIR	SENT1	-	-
+32	:	:	Fd	-	-	187-188	422_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	188-189	422_QUEST_clinical_caseMIR	SENT1	-	-
+

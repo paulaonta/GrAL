@@ -1,0 +1,87 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	170_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	170_QUEST_clinical_caseMIR	SENT1	-	-
+3	26	26		-	-	9-11	170_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	170_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	16-17	170_QUEST_clinical_caseMIR	SENT1	-	-
+6	prímigesta	prímigesta	NCFS000	-	-	18-28	170_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	29-31	170_QUEST_clinical_caseMIR	SENT1	-	-
+8	32	32		-	-	32-34	170_QUEST_clinical_caseMIR	SENT1	-	-
+9	semanas	semana	NCFP000	C0439230	calificador	35-42	170_QUEST_clinical_caseMIR	SENT1	-	-
+10	acude	acudir	VMIP3S0	-	-	43-48	170_QUEST_clinical_caseMIR	SENT1	-	-
+11	a	a	SPS00	-	-	49-50	170_QUEST_clinical_caseMIR	SENT1	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	51-60	170_QUEST_clinical_caseMIR	SENT1	-	-
+13	por	por	SPS00	C0678226	atributo	61-64	170_QUEST_clinical_caseMIR	SENT1	-	-
+14	dolor	dolor	NCMS000	C0232488#C0458254_1	hallazgo_1	65-70	170_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	cólico	cólico	NCMS000	C0232488#C0458254_2	hallazgo_2	71-77	170_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+16	y	y	CC	C1706368	calificador	78-79	170_QUEST_clinical_caseMIR	SENT1	-	-
+17	lumbalgia	lumbalgia	NCFS000	C0024031	trastorno	80-89	170_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+18	.	.	Fp	-	-	89-90	170_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	91-93	170_QUEST_clinical_caseMIR	SENT2	-	-
+2	refiere	referir	VMIP3S0	-	-	94-101	170_QUEST_clinical_caseMIR	SENT2	-	-
+3	pérdida	pérdida	NCFS000	C0332234#C0235395_1	calificador#entidad_observable#anomalía_morfológica_1	102-109	170_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+4	de	de	SPS00	C0332234#C0235395_2	calificador#entidad_observable#anomalía_morfológica_2	110-112	170_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+5	líquido	líquido	NCMS000	C0332234#C0235395_3	calificador#entidad_observable#anomalía_morfológica_3	113-120	170_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+6	.	.	Fp	-	-	120-121	170_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	122-123	170_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	124-126	170_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	127-138	170_QUEST_clinical_caseMIR	SENT3	-	-
+4	no	no	RN	C1298908	calificador	139-141	170_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	142-144	170_QUEST_clinical_caseMIR	SENT3	-	-
+6	observan	observar	VMIP3P0	-	-	145-153	170_QUEST_clinical_caseMIR	SENT3	-	-
+7	sangrado	sangrado	NCMS000	C0019080	hallazgo#anomalía_morfológica	154-162	170_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+8	ni	ni	CC	-	-	163-165	170_QUEST_clinical_caseMIR	SENT3	-	-
+9	líquido	líquido	NCMS000	C0002638_1	sustancia_1	166-173	170_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion
+10	amniótico	amniótico	AQ0MS0	C0002638_2	sustancia_2	174-183	170_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	184-186	170_QUEST_clinical_caseMIR	SENT3	-	-
+12	vagina	vagina	NCFS000	C0042232#C1278985	estructura_corporal	187-193	170_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	.	.	Fp	-	-	193-194	170_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Se	se	P00CN000	-	-	195-197	170_QUEST_clinical_caseMIR	SENT4	-	-
+2	confirma	confirmar	VMIP3S0	-	-	198-206	170_QUEST_clinical_caseMIR	SENT4	-	-
+3	latido	latir	VMP00SM	-	-	207-213	170_QUEST_clinical_caseMIR	SENT4	-	-
+4	cardiaco	cardiaco	NCMS000	-	-	214-222	170_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+5	fetal	fetal	AQ0CS0	-	-	223-228	170_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-
+6	normal	normal	AQ0CS0	C0205307	calificador	229-235	170_QUEST_clinical_caseMIR	SENT4	-	-
+7	y	y	CC	C1706368	calificador	236-237	170_QUEST_clinical_caseMIR	SENT4	-	-
+8	la	el	DA0FS0	-	-	238-240	170_QUEST_clinical_caseMIR	SENT4	-	-
+9	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	241-250	170_QUEST_clinical_caseMIR	SENT4	-	-
+10	vaginal	vaginal	AQ0CS0	-	-	251-258	170_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+11	nos	nos	PP1CP000	-	-	259-262	170_QUEST_clinical_caseMIR	SENT4	-	-
+12	informa	informar	VMIP3S0	C0700287	procedimiento	263-270	170_QUEST_clinical_caseMIR	SENT4	-	-
+13	de	de	SPS00	C0332285	atributo	271-273	170_QUEST_clinical_caseMIR	SENT4	-	-
+14	un	un		C0205447_1	calificador_1	274-276	170_QUEST_clinical_caseMIR	SENT4	-	-
+15	acortamiento	acortamiento	NCMS000	C0441636	calificador	277-289	170_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+16	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	290-298	170_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+17	del	del	SP+DA	-	-	299-302	170_QUEST_clinical_caseMIR	SENT4	-	-
+18	60	60	Z	-	-	303-305	170_QUEST_clinical_caseMIR	SENT4	-	-
+19	%	%	Ft	-	-	305-306	170_QUEST_clinical_caseMIR	SENT4	-	-
+20	.	.	Fp	-	-	306-307	170_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	308-310	170_QUEST_clinical_caseMIR	SENT5	-	-
+2	los	el	DA0MP0	-	-	311-314	170_QUEST_clinical_caseMIR	SENT5	-	-
+3	primeros	1	AO0MP0	-	-	315-323	170_QUEST_clinical_caseMIR	SENT5	-	-
+4	10	10	Z	-	-	324-326	170_QUEST_clinical_caseMIR	SENT5	-	-
+5	minutos	min	NCMP000	-	-	327-334	170_QUEST_clinical_caseMIR	SENT5	-	-
+6	de	de	SPS00	C0332285	atributo	335-337	170_QUEST_clinical_caseMIR	SENT5	-	-
+7	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	338-348	170_QUEST_clinical_caseMIR	SENT5	-	-
+8	cardiotocográfica	cardiotocográfica	AQ0FS00	-	-	349-366	170_QUEST_clinical_caseMIR	SENT5	-	-
+9	presenta	presentar	VMIP3S0	-	-	367-375	170_QUEST_clinical_caseMIR	SENT5	-	-
+10	3	3		-	-	376-377	170_QUEST_clinical_caseMIR	SENT5	-	-
+11	contracciones	contracción	NCFP000	C1140999	hallazgo	378-391	170_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+12	.	.	Fp	-	-	391-392	170_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	¿	¿	Fia	-	-	393-394	170_QUEST_clinical_caseMIR	SENT6	-	-
+2	Qué	qué	PT0CN000	-	-	394-397	170_QUEST_clinical_caseMIR	SENT6	-	-
+3	pensaría	pensar	VMIC3S0	-	-	398-406	170_QUEST_clinical_caseMIR	SENT6	-	-
+4	como	como	CS	C0332257	calificador	407-411	170_QUEST_clinical_caseMIR	SENT6	-	-
+5	primera	1	AO0FS0	-	-	412-419	170_QUEST_clinical_caseMIR	SENT6	-	-
+6	opción	opción	NCFS000	-	-	420-426	170_QUEST_clinical_caseMIR	SENT6	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	427-429	170_QUEST_clinical_caseMIR	SENT6	-	-
+8	esta	este	DD0FS0	-	-	430-434	170_QUEST_clinical_caseMIR	SENT6	-	-
+9	paciente	paciente	NCCS000	C0030705	persona	435-443	170_QUEST_clinical_caseMIR	SENT6	-	-
+10	?	?	Fit	-	-	443-444	170_QUEST_clinical_caseMIR	SENT6	-	-
+11	:	:	Fd	-	-	444-445	170_QUEST_clinical_caseMIR	SENT6	-	-
+12	.	.	Fp	-	-	445-446	170_QUEST_clinical_caseMIR	SENT6	-	-
+

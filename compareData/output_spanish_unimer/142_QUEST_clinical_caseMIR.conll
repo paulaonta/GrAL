@@ -1,0 +1,68 @@
+1	Chico	chico	NCMS000	C0008059#C0700321	persona#calificador	0-5	142_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	142_QUEST_clinical_caseMIR	SENT1	-	-
+3	12	12		-	-	9-11	142_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	142_QUEST_clinical_caseMIR	SENT1	-	-
+5	obeso	obeso	AQ0MS0	C0028754	hallazgo	17-22	142_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	(	(	Fpa	-	-	23-24	142_QUEST_clinical_caseMIR	SENT1	-	-
+7	87	87	Z	-	-	24-26	142_QUEST_clinical_caseMIR	SENT1	-	-
+8	kg	kg	NCMN000	-	-	27-29	142_QUEST_clinical_caseMIR	SENT1	-	-
+9	)	)	Fpt	-	-	29-30	142_QUEST_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	30-31	142_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	32-39	142_QUEST_clinical_caseMIR	SENT2	-	-
+2	desde	desde	SPS00	-	-	40-45	142_QUEST_clinical_caseMIR	SENT2	-	-
+3	hace	hacer	VMIP3S0	-	-	46-50	142_QUEST_clinical_caseMIR	SENT2	-	-
+4	4	4		-	-	51-52	142_QUEST_clinical_caseMIR	SENT2	-	-
+5	meses	mes	NCMP000	C0439231	calificador	53-58	142_QUEST_clinical_caseMIR	SENT2	-	-
+6	dolor	dolor	NCMS000	C0234252_1	hallazgo_1	59-64	142_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	mecánico	mecánico	NCMS000	C0234252_2	hallazgo_2	65-73	142_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	74-76	142_QUEST_clinical_caseMIR	SENT2	-	-
+9	muslo	muslo	NCMS000	C0039866#C1281586	estructura_corporal	77-82	142_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	y	y	CC	C1706368	calificador	83-84	142_QUEST_clinical_caseMIR	SENT2	-	-
+11	rodilla	rodilla	NCFS000	C1279571#C0230431_1	estructura_corporal_1	85-92	142_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+12	derecha	derecho	AQ0FS0	C1279571#C0230431_2	estructura_corporal_2	93-100	142_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+13	.	.	Fp	-	-	100-101	142_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	102-103	142_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	104-106	142_QUEST_clinical_caseMIR	SENT3	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	107-118	142_QUEST_clinical_caseMIR	SENT3	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	119-126	142_QUEST_clinical_caseMIR	SENT3	-	-
+5	se	se	P00CN000	-	-	127-129	142_QUEST_clinical_caseMIR	SENT3	-	-
+6	evidencia	evidenciar	VMIP3S0	-	-	130-139	142_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	140-143	142_QUEST_clinical_caseMIR	SENT3	-	-
+8	discrepancia	discrepancia	NCFS000	C0410785_1	entidad_observable_1	144-156	142_QUEST_clinical_caseMIR	SENT3	-	-
+9	de	de	SPS00	C0410785_2	entidad_observable_2	157-159	142_QUEST_clinical_caseMIR	SENT3	-	-
+10	la	lo	PP3FSA00	C0410785_3	entidad_observable_3	160-162	142_QUEST_clinical_caseMIR	SENT3	-	-
+11	longitud	longitud	NCFS000	C0410785_4	entidad_observable_4	163-171	142_QUEST_clinical_caseMIR	SENT3	-	-
+12	de	de	SPS00	C0410785_5	entidad_observable_5	172-174	142_QUEST_clinical_caseMIR	SENT3	-	-
+13	las	lo	PP3FPA00	C0410785_6	entidad_observable_6	175-178	142_QUEST_clinical_caseMIR	SENT3	-	-
+14	extremidades	extremidad	NCFP000	C0410785_7	entidad_observable_7	179-191	142_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+15	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	192-202	142_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+16	de	de	SPS00	C0332285	atributo	203-205	142_QUEST_clinical_caseMIR	SENT3	-	-
+17	1	1	Z	-	-	206-207	142_QUEST_clinical_caseMIR	SENT3	-	-
+18	cm	cm	NCMN000	-	-	208-210	142_QUEST_clinical_caseMIR	SENT3	-	-
+19	y	y	CC	C1706368	calificador	211-212	142_QUEST_clinical_caseMIR	SENT3	-	-
+20	actitud	actitud	NCFS000	C0004271	entidad_observable	213-220	142_QUEST_clinical_caseMIR	SENT3	-	-
+21	de	de	SPS00	C0332285	atributo	221-223	142_QUEST_clinical_caseMIR	SENT3	-	-
+22	la	el	DA0FS0	-	-	224-226	142_QUEST_clinical_caseMIR	SENT3	-	-
+23	extremidad	extremidad	NCFS000	C0230415_1	estructura_corporal_1	227-237	142_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+24	inferior	inferior	NCCS000	C0230415_2	estructura_corporal_2	238-246	142_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+25	derecha	derecho	AQ0FS0	C0230415_3	estructura_corporal_3	247-254	142_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	255-257	142_QUEST_clinical_caseMIR	SENT3	-	-
+27	rotación	rotación	NCFS000	C0231462_1	calificador#función_1	258-266	142_QUEST_clinical_caseMIR	SENT3	-	-
+28	externa	externo	NCFS000	C0231462_2	calificador#función_2	267-274	142_QUEST_clinical_caseMIR	SENT3	-	-
+29	con	con	SPS00	C0332287	atributo	275-278	142_QUEST_clinical_caseMIR	SENT3	-	-
+30	pérdida	pérdida	NCFS000	-	-	279-286	142_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+31	de	de	SPS00	C0332285	atributo	287-289	142_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+32	la	el	DA0FS0	-	-	290-292	142_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+33	rotación	rotación	NCFS000	C0231459_1	calificador#función_1	293-301	142_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+34	interna	interno	NCFS000	C0231459_2	calificador#función_2	302-309	142_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+35	.	.	Fp	-	-	309-310	142_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Debemos	deber	VMIP1P0	-	-	311-318	142_QUEST_clinical_caseMIR	SENT4	-	-
+2	sospechar	sospechar	VMN0000	-	-	319-328	142_QUEST_clinical_caseMIR	SENT4	-	-
+3	que	que	CS	-	-	329-332	142_QUEST_clinical_caseMIR	SENT4	-	-
+4	presenta	presentar	VMIP3S0	-	-	333-341	142_QUEST_clinical_caseMIR	SENT4	-	-
+5	:	:	Fd	-	-	341-342	142_QUEST_clinical_caseMIR	SENT4	-	-
+6	.	.	Fp	-	-	342-343	142_QUEST_clinical_caseMIR	SENT4	-	-
+

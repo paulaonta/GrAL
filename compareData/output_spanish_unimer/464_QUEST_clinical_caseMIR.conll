@@ -1,0 +1,40 @@
+1	Paciente	paciente	AQ0CS0	C0030705	persona	0-8	464_QUEST_clinical_caseMIR	SENT1	-	-
+2	diabético	diabético	NCMS000	-	-	9-18	464_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	19-21	464_QUEST_clinical_caseMIR	SENT1	-	-
+4	63	63		-	-	22-24	464_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	25-29	464_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	30-31	464_QUEST_clinical_caseMIR	SENT1	-	-
+7	quien	quien	PR0CS000	-	-	32-37	464_QUEST_clinical_caseMIR	SENT1	-	-
+8	su	su	DP3CS0	-	-	38-40	464_QUEST_clinical_caseMIR	SENT1	-	-
+9	médico	médico	NCCS000	C1704221#C0017319_1	ocupación_1	41-47	464_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C1704221#C0017319_2	ocupación_2	48-50	464_QUEST_clinical_caseMIR	SENT1	-	-
+11	familia	familia	NCFS000	C1704221#C0017319_3	ocupación_3	51-58	464_QUEST_clinical_caseMIR	SENT1	-	-
+12	ha	haber	VAIP3S0	-	-	59-61	464_QUEST_clinical_caseMIR	SENT1	-	-
+13	solicitado	solicitar	VMP00SM	-	-	62-72	464_QUEST_clinical_caseMIR	SENT1	-	-
+14	una	una		C0205447_1	calificador_1	73-76	464_QUEST_clinical_caseMIR	SENT1	-	-
+15	analítica	analítica	NCFS000	-	-	77-86	464_QUEST_clinical_caseMIR	SENT1	-	-
+16	para	para	SPS00	C0521125	calificador	87-91	464_QUEST_clinical_caseMIR	SENT1	-	-
+17	determinar	determinar	VMN0000	-	-	92-102	464_QUEST_clinical_caseMIR	SENT1	-	-
+18	los	el	DA0MP0	-	-	103-106	464_QUEST_clinical_caseMIR	SENT1	-	-
+19	niveles	nivel	NCMP000	C0456079	atributo	107-114	464_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0332285	atributo	115-117	464_QUEST_clinical_caseMIR	SENT1	-	-
+21	vitamina	vitamina	NCFS000	C0042845_1	sustancia_1	118-126	464_QUEST_clinical_caseMIR	SENT1	-	-
+22	B12	vitamina_b12	NC00YL0	C0042845_2	sustancia_2	127-130	464_QUEST_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	130-131	464_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	132-133	464_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	133-137	464_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	138-140	464_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	141-143	464_QUEST_clinical_caseMIR	SENT2	-	-
+5	fármaco	fármaco	NCMS000	C0013227	sustancia	144-151	464_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	antidiabético	antidiabético	AQ0CN00	-	-	152-165	464_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-
+7	que	que	PR0CN000	-	-	166-169	464_QUEST_clinical_caseMIR	SENT2	-	-
+8	toma	tomar	VMIP3S0	C1515187	calificador	170-174	464_QUEST_clinical_caseMIR	SENT2	-	-
+9	que	que	CS	-	-	175-178	464_QUEST_clinical_caseMIR	SENT2	-	-
+10	justifica	justificar	VMIP3S0	-	-	179-188	464_QUEST_clinical_caseMIR	SENT2	-	-
+11	dicha	decir	VMP00SF	-	-	189-194	464_QUEST_clinical_caseMIR	SENT2	-	-
+12	solicitud	solicitud	NCFS000	-	-	195-204	464_QUEST_clinical_caseMIR	SENT2	-	-
+13	?	?	Fit	-	-	204-205	464_QUEST_clinical_caseMIR	SENT2	-	-
+14	:	:	Fd	-	-	205-206	464_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	206-207	464_QUEST_clinical_caseMIR	SENT2	-	-
+

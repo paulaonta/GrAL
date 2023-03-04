@@ -1,0 +1,62 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	338_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	338_QUEST_clinical_caseMIR	SENT1	-	-
+3	presenta	presentar	VMIP3S0	-	-	13-21	338_QUEST_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	22-25	338_QUEST_clinical_caseMIR	SENT1	-	-
+5	larga	largo	AQ0FS0	C0205166#C0392744	calificador	26-31	338_QUEST_clinical_caseMIR	SENT1	-	-
+6	historia	historia	NCFS000	-	-	32-40	338_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	41-43	338_QUEST_clinical_caseMIR	SENT1	-	-
+8	múltiples	múltiple	AQ0CP0	C0439064	calificador	44-53	338_QUEST_clinical_caseMIR	SENT1	-	-
+9	síntomas	síntoma	NCMP000	C1457887	hallazgo	54-62	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	físicos	físico	AQ0MP0	C0221456#C0205485	ocupación#calificador	63-70	338_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	:	:	Fd	-	-	70-71	338_QUEST_clinical_caseMIR	SENT1	-	-
+12	pérdida	pérdida	NCFS000	-	-	72-79	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	de	de	SPS00	C0332285	atributo	80-82	338_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	memoria	memoria	NCFS000	C0025260	función	83-90	338_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+15	,	,	Fc	-	-	90-91	338_QUEST_clinical_caseMIR	SENT1	-	-
+16	dolor	dolor	NCMS000	C0018681_1	hallazgo_1	92-97	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	de	de	SPS00	C0018681_2	hallazgo_2	98-100	338_QUEST_clinical_caseMIR	SENT1	-	-
+18	cabeza	cabeza	NCFS000	C0018681_3	hallazgo_3	101-107	338_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+19	,	,	Fc	-	-	107-108	338_QUEST_clinical_caseMIR	SENT1	-	-
+20	mareos	mareo	NCMP000	C0012833#C0220870	hallazgo	109-115	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	,	,	Fc	-	-	115-116	338_QUEST_clinical_caseMIR	SENT1	-	-
+22	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	117-124	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	,	,	Fc	-	-	124-125	338_QUEST_clinical_caseMIR	SENT1	-	-
+24	dolor	dolor	NCMS000	C0030193	hallazgo	126-131	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	genital	genital	AQ0CS0	C0559522	calificador	132-139	338_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	,	,	Fc	-	-	139-140	338_QUEST_clinical_caseMIR	SENT1	-	-
+27	dolor	dolor	NCMS000	C0030193	hallazgo	141-146	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	147-149	338_QUEST_clinical_caseMIR	SENT1	-	-
+29	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	150-162	338_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	,	,	Fc	-	-	162-163	338_QUEST_clinical_caseMIR	SENT1	-	-
+31	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	164-174	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+32	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	175-184	338_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+33	e	y	CC	C1706368	calificador	185-186	338_QUEST_clinical_caseMIR	SENT1	-	-
+34	irregularidades	irregularidad	NCFP000	-	-	187-202	338_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	menstruales	menstrual	AQ0CP0	-	-	203-214	338_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+36	.	.	Fp	-	-	214-215	338_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Los	el	DA0MP0	-	-	216-219	338_QUEST_clinical_caseMIR	SENT2	-	-
+2	diversos	diverso	AQ0MP0	C0205395	calificador	220-228	338_QUEST_clinical_caseMIR	SENT2	-	-
+3	exámenes	examen	NCMP000	-	-	229-237	338_QUEST_clinical_caseMIR	SENT2	-	-
+4	médicos	médico	AQ0MP0	C0205476#C0031831	calificador#ocupación	238-245	338_QUEST_clinical_caseMIR	SENT2	-	-
+5	han	haber	VAIP3P0	-	-	246-249	338_QUEST_clinical_caseMIR	SENT2	-	-
+6	descartado	descartar	VMP00SM	C0332196	calificador	250-260	338_QUEST_clinical_caseMIR	SENT2	-	-
+7	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	261-271	338_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion
+8	médica	médico	AQ0FS0	C0205476#C0031831	calificador#ocupación	272-278	338_QUEST_clinical_caseMIR	SENT2	-	-
+9	alguna	alguno	DI0FS0	C0205392	calificador	279-285	338_QUEST_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	285-286	338_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	287-288	338_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	288-292	338_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	293-295	338_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	296-299	338_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	300-310	338_QUEST_clinical_caseMIR	SENT3	-	-
+6	cuadros	cuadro	NCMP000	-	-	311-318	338_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	319-321	338_QUEST_clinical_caseMIR	SENT3	-	-
+8	más	más	RG	C0205172	calificador	322-325	338_QUEST_clinical_caseMIR	SENT3	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	326-334	338_QUEST_clinical_caseMIR	SENT3	-	-
+10	que	que	CS	-	-	335-338	338_QUEST_clinical_caseMIR	SENT3	-	-
+11	padezca	padecer	VMSP3S0	-	-	339-346	338_QUEST_clinical_caseMIR	SENT3	-	-
+12	?	?	Fit	-	-	346-347	338_QUEST_clinical_caseMIR	SENT3	-	-
+13	.	.	Fp	-	-	347-348	338_QUEST_clinical_caseMIR	SENT3	-	-
+

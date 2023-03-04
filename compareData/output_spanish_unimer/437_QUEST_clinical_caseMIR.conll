@@ -1,0 +1,109 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	437_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	437_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	437_QUEST_clinical_caseMIR	SENT1	-	-
+4	45	45		-	-	15-17	437_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	437_QUEST_clinical_caseMIR	SENT1	-	-
+6	fue	ser	VSIS3S0	-	-	23-26	437_QUEST_clinical_caseMIR	SENT1	-	-
+7	diagnosticado	diagnosticar	VMP00SM	-	-	27-40	437_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	41-43	437_QUEST_clinical_caseMIR	SENT1	-	-
+9	infección	infección	NCFS000	C0009450	trastorno	44-53	437_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	-	-	54-57	437_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	hace	hacer	VMIP3S0	-	-	58-62	437_QUEST_clinical_caseMIR	SENT1	-	-
+12	tres	tres		-	-	63-67	437_QUEST_clinical_caseMIR	SENT1	-	-
+13	meses	mes	NCMP000	C0439231	calificador	68-73	437_QUEST_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	73-74	437_QUEST_clinical_caseMIR	SENT1	-	-
+15	presentando	presentar	VMG0000	-	-	75-86	437_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	87-89	437_QUEST_clinical_caseMIR	SENT1	-	-
+17	ese	ese	DD0MS0	-	-	90-93	437_QUEST_clinical_caseMIR	SENT1	-	-
+18	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	94-101	437_QUEST_clinical_caseMIR	SENT1	-	-
+19	CD4	CD4		-	-	102-105	437_QUEST_clinical_caseMIR	SENT1	-	-
+20	45	45		-	-	106-108	437_QUEST_clinical_caseMIR	SENT1	-	-
+21	linfocitos	linfocito	NCMP000	C0024264	célula	109-119	437_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+22	/	/	Fh	-	-	119-120	437_QUEST_clinical_caseMIR	SENT1	-	-
+23	µl	µl	AQ0CS00	-	-	120-122	437_QUEST_clinical_caseMIR	SENT1	-	-
+24	y	y	CC	C1706368	calificador	123-124	437_QUEST_clinical_caseMIR	SENT1	-	-
+25	una	una		C0205447_1	calificador_1	125-128	437_QUEST_clinical_caseMIR	SENT1	-	-
+26	carga	carga	NCFS000	-	-	129-134	437_QUEST_clinical_caseMIR	SENT1	-	-
+27	viral	viral	AQ0CS0	-	-	135-140	437_QUEST_clinical_caseMIR	SENT1	-	-
+28	de	de	SPS00	C0332285	atributo	141-143	437_QUEST_clinical_caseMIR	SENT1	-	-
+29	VIH-1	VIH-1		-	-	144-149	437_QUEST_clinical_caseMIR	SENT1	-	-
+30	de	de	SPS00	C0332285	atributo	150-152	437_QUEST_clinical_caseMIR	SENT1	-	-
+31	500.000	500.000		-	-	153-160	437_QUEST_clinical_caseMIR	SENT1	-	-
+32	copias	copia	NCFP000	-	-	161-167	437_QUEST_clinical_caseMIR	SENT1	-	-
+33	/	/	Fh	-	-	167-168	437_QUEST_clinical_caseMIR	SENT1	-	-
+34	ml	mililitro	NCMN000	C0439242	calificador	168-170	437_QUEST_clinical_caseMIR	SENT1	-	-
+35	.	.	Fp	-	-	170-171	437_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	172-174	437_QUEST_clinical_caseMIR	SENT2	-	-
+2	ese	ese	DD0MS0	-	-	175-178	437_QUEST_clinical_caseMIR	SENT2	-	-
+3	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	179-186	437_QUEST_clinical_caseMIR	SENT2	-	-
+4	presentaba	presentar	VMII3S0	-	-	187-197	437_QUEST_clinical_caseMIR	SENT2	-	-
+5	un	un		C0205447_1	calificador_1	198-200	437_QUEST_clinical_caseMIR	SENT2	-	-
+6	Mantoux	mantoux	NCMN000	-	-	201-208	437_QUEST_clinical_caseMIR	SENT2	-	-
+7	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	209-217	437_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	217-218	437_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Comenzó	comenzar	VMIS3S0	-	-	219-226	437_QUEST_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	227-238	437_QUEST_clinical_caseMIR	SENT3	-	-
+3	con	con	SPS00	C0332287	atributo	239-242	437_QUEST_clinical_caseMIR	SENT3	-	-
+4	un	un		C0205447_1	calificador_1	243-245	437_QUEST_clinical_caseMIR	SENT3	-	-
+5	inhibidor	inhibidor	NCMS000	-	-	246-255	437_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	de	de	SPS00	C0332285	atributo	256-258	437_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+7	integrasa	integrasa	NCFS000	-	-	259-268	437_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+8	y	y	CC	C1706368	calificador	269-270	437_QUEST_clinical_caseMIR	SENT3	-	-
+9	dos	dos		-	-	271-274	437_QUEST_clinical_caseMIR	SENT3	-	-
+10	inhibidores	inhibidor	NCMP000	-	-	275-286	437_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+11	de	de	SPS00	C0332285	atributo	287-289	437_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+12	transcriptasa	transcriptasa		C0035379_1	sustancia_1	290-303	437_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+13	inversa	inverso	AQ0FS0	C0035379_2	sustancia_2	304-311	437_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	311-312	437_QUEST_clinical_caseMIR	SENT3	-	-
+15	y	y	CC	C1706368	calificador	313-314	437_QUEST_clinical_caseMIR	SENT3	-	-
+16	al	al	SP+DA	-	-	315-317	437_QUEST_clinical_caseMIR	SENT3	-	-
+17	mes	mes	NCMS000	C0439231	calificador	318-321	437_QUEST_clinical_caseMIR	SENT3	-	-
+18	presentaba	presentar	VMII3S0	-	-	322-332	437_QUEST_clinical_caseMIR	SENT3	-	-
+19	25.000	25.000		-	-	333-339	437_QUEST_clinical_caseMIR	SENT3	-	-
+20	copias	copia	NCFP000	-	-	340-346	437_QUEST_clinical_caseMIR	SENT3	-	-
+21	y	y	CC	C1706368	calificador	347-348	437_QUEST_clinical_caseMIR	SENT3	-	-
+22	los	el	DA0MP0	-	-	349-352	437_QUEST_clinical_caseMIR	SENT3	-	-
+23	CD4	CD4		-	-	353-356	437_QUEST_clinical_caseMIR	SENT3	-	-
+24	habían	haber	VAII3P0	-	-	357-363	437_QUEST_clinical_caseMIR	SENT3	-	-
+25	subido	subir	VMP00SM	-	-	364-370	437_QUEST_clinical_caseMIR	SENT3	-	-
+26	a	a	SPS00	-	-	371-372	437_QUEST_clinical_caseMIR	SENT3	-	-
+27	80/µl	80/µl		-	-	373-378	437_QUEST_clinical_caseMIR	SENT3	-	-
+28	.	.	Fp	-	-	378-379	437_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	380-388	437_QUEST_clinical_caseMIR	SENT4	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	389-392	437_QUEST_clinical_caseMIR	SENT4	-	-
+3	presentar	presentar	VMN0000	-	-	393-402	437_QUEST_clinical_caseMIR	SENT4	-	-
+4	un	un		C0205447_1	calificador_1	403-405	437_QUEST_clinical_caseMIR	SENT4	-	-
+5	cuadro	cuadro	NCMS000	-	-	406-412	437_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0332285	atributo	413-415	437_QUEST_clinical_caseMIR	SENT4	-	-
+7	adenopatías	adenopatía	NCFP000	-	-	416-427	437_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+8	cervicales	cervical	AQ0CP0	C0205064#C0237504	calificador#estructura_corporal	428-438	437_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+9	y	y	CC	C1706368	calificador	439-440	437_QUEST_clinical_caseMIR	SENT4	-	-
+10	fiebre	fiebre	NCFS000	C0015967	hallazgo	441-447	437_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+11	de	de	SPS00	C0332285	atributo	448-450	437_QUEST_clinical_caseMIR	SENT4	-	-
+12	dos	dos		-	-	451-454	437_QUEST_clinical_caseMIR	SENT4	-	-
+13	semanas	semana	NCFP000	C0439230	calificador	455-462	437_QUEST_clinical_caseMIR	SENT4	-	-
+14	de	de	SPS00	C0332285	atributo	463-465	437_QUEST_clinical_caseMIR	SENT4	-	-
+15	evolución	evolución	NCFS000	-	-	466-475	437_QUEST_clinical_caseMIR	SENT4	-	-
+16	.	.	Fp	-	-	475-476	437_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	La	el	DA0FS0	-	-	477-479	437_QUEST_clinical_caseMIR	SENT5	-	-
+2	punción	punción	NCFS000	C0033119	anomalía_morfológica	480-487	437_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	488-490	437_QUEST_clinical_caseMIR	SENT5	-	-
+4	una	una		C0205447_1	calificador_1	491-494	437_QUEST_clinical_caseMIR	SENT5	-	-
+5	de	de	SPS00	C0332285	atributo	495-497	437_QUEST_clinical_caseMIR	SENT5	-	-
+6	las	el	DA0FP0	-	-	498-501	437_QUEST_clinical_caseMIR	SENT5	-	-
+7	adenopatías	adenopatía	NCFP000	-	-	502-513	437_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+8	muestra	mostrar	VMIP3S0	-	-	514-521	437_QUEST_clinical_caseMIR	SENT5	-	-
+9	bacilos	bacilo	NCMP000	C0004587	organismo	522-529	437_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+10	ácido-alcohol	ácido-alcohol	NCMS000	-	-	530-543	437_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-
+11	resistentes	resistente	AQ0CP0	C0332325	calificador	544-555	437_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+12	aislados	aislar	VMP00PM	-	-	556-564	437_QUEST_clinical_caseMIR	SENT5	-	-
+13	y	y	CC	C1706368	calificador	565-566	437_QUEST_clinical_caseMIR	SENT5	-	-
+14	granulomas	granuloma	NCMP000	C0018188	anomalía_morfológica	567-577	437_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+15	epitelioides	epitelioide	AQ0CP0	-	-	578-590	437_QUEST_clinical_caseMIR	SENT5	B-Calificador	-
+16	:	:	Fd	-	-	590-591	437_QUEST_clinical_caseMIR	SENT5	-	-
+17	.	.	Fp	-	-	591-592	437_QUEST_clinical_caseMIR	SENT5	-	-
+

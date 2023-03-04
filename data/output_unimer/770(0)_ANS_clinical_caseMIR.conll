@@ -1,0 +1,22 @@
+1	Neumonía	neumonía	NCFS000	C0694549_1	trastorno_1	0-8	770(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	adquirida	adquirir	VMP00SF	C0694549_2	trastorno_2	9-18	770(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	en	en	SPS00	C0694549_3	trastorno_3	19-21	770(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	la	lo	PP3FSA00	C0694549_4	trastorno_4	22-24	770(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	comunidad	comunidad	NCFS000	C0694549_5	trastorno_5	25-34	770(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	.	.	Fp	-	-	34-35	770(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	36-38	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	debe	deber	VMIP3S0	-	-	39-43	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	solicitar	solicitar	VMN0000	-	-	44-53	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	antigenuria	antigenuria	NCFS000	-	-	54-65	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	de	de	SPS00	C0332285	atributo	66-68	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+6	neumococo	neumococo	NCMS000	C0038410	organismo	69-78	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+7	y	y	CC	C1706368	calificador	79-80	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+8	pautar	pautar	VMN0000	-	-	81-87	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+9	cobertura	cobertura	NCFS000	C0282638_1	procedimiento_1	88-97	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+10	antibiótica	antibiótico	AQ0FS0	C0282638_2	procedimiento_2	98-109	770(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+11	de	de	SPS00	C0332285	atributo	110-112	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+12	amplio	amplio	AQ0MS0	-	-	113-119	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+13	espectro	espectro	NCMS000	-	-	120-128	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	129-130	770(0)_ANS_clinical_caseMIR	SENT2	-	-
+

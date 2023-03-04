@@ -1,0 +1,33 @@
+1	Se	se	P00CN000	-	-	0-2	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	enfermedad	enfermedad	NCFS000	C0019247_1	trastorno_1	16-26	90(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	hereditaria	hereditario	AQ0FS0	C0019247_2	trastorno_2	27-38	90(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	autosómica	autosómica	AQ0FS00	-	-	39-49	90(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+8	codominante	codominante	AQ0CS0	-	-	50-61	90(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	,	,	Fc	-	-	61-62	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	63-66	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	67-70	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	alta	alto	AQ0FS0	C0205250	calificador	71-75	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	penetrancia	penetrancia	NCFS000	-	-	76-87	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	87-88	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	por	por	SPS00	C0678226	atributo	89-92	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	lo	el	DA0NS0	-	-	93-95	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	que	que	PR0CN000	-	-	96-99	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	es	ser	VSIP3S0	-	-	100-102	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	frecuente	frecuente	AQ0CS0	C0332183	calificador	103-112	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	que	que	CS	-	-	113-116	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	alguno	alguno	PI0MS000	C0205392	calificador	117-123	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	124-126	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	los	el	DA0MP0	-	-	127-130	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	progenitores	progenitor	NCMP000	-	-	131-143	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	y	y	CC	C1706368	calificador	144-145	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	hermanos	hermano	NCMP000	C0337527	persona	146-154	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+27	del	del	SP+DA	-	-	155-158	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+28	individuo	individuo	NCMS000	C0027361#C0237401	persona	159-168	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+29	la	lo	PP3FSA00	-	-	169-171	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+30	padezcan	padecer	VMSP3P0	-	-	172-180	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+31	también	también	RG	-	-	181-188	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+32	.	.	Fp	-	-	189-190	90(0)_ANS_clinical_caseMIR	SENT1	-	-
+

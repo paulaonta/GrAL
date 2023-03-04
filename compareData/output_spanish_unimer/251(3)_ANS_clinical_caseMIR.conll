@@ -1,0 +1,30 @@
+1	Dado	dar	VMP00SM	C1947971	calificador	0-4	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	que	que	PR0CN000	-	-	5-8	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	se	se	P00CN000	-	-	9-11	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	trata	tratar	VMIP3S0	-	-	12-17	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	18-20	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	una	una		C0205447_1	calificador_1	21-24	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	úlcera	úlcera	NCFS000	C0041582_1	anomalía_morfológica#trastorno_1	25-31	251(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	complicada	complicar	VMP00SF	-	-	32-42	251(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	(	(	Fpa	-	-	43-44	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	hemorragia	hemorragia	NCFS000	C0019080	hallazgo#anomalía_morfológica	44-54	251(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	)	)	Fpt	-	-	54-55	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	56-58	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	mejor	mejor	AQ0CS0	C0332272	calificador	59-64	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	opción	opción	NCFS000	-	-	65-71	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	terapéutica	terapéutico	AQ0FS0	-	-	72-83	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	,	,	Fc	-	-	83-84	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	una	una		C0205447_1	calificador_1	85-88	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	vez	vez	NCFS000	-	-	89-92	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	resuelto	resolver	VMP00SM	-	-	93-101	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+20	el	el	DA0MS0	-	-	102-104	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+21	episodio	episodio	NCMS000	C0332189	atributo	105-113	251(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+22	hemorrágico	hemorrágico	AQ0MS0	C0333275	calificador	114-125	251(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+23	,	,	Fc	-	-	125-126	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+24	es	ser	VSIP3S0	-	-	127-129	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+25	una	una		C0205447_1	calificador_1	130-133	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+26	vagotomía	vagotomía	NCFS000	C0394374	procedimiento	134-143	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+27	y	y	CC	C1706368	calificador	144-145	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+28	piloroplastia	piloroplastia	NC00SC0	C0192489#C0399737#C0399738	procedimiento	146-159	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+29	.	.	Fp	-	-	160-161	251(3)_ANS_clinical_caseMIR	SENT1	-	-
+

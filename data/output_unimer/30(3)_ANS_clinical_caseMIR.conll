@@ -1,0 +1,19 @@
+1	Por	por	SPS00	C0678226	atributo	0-3	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	padecer	padecer	VMN0000	-	-	4-11	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	una	una		C0205447_1	calificador_1	12-15	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	diabetes	diabetes	NCFN000	C0011860_1	trastorno_1	16-24	30(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	mellitus	mellitus	AQ0CN0	C0011860_2	trastorno_2	25-33	30(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+6	tipo	tipo	NCMS000	C0011860_3	trastorno_3	34-38	30(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	2	2	Z	C0011860_4	trastorno_4	39-40	30(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+8	y	y	CC	C1706368	calificador	41-42	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	tener	tener	VMN0000	-	-	43-48	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	tres	tres		-	-	49-53	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	factores	factor	NCMP000	-	-	54-62	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	63-65	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	riesgo	riesgo	NCMS000	-	-	66-72	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	,	,	Fc	-	-	72-73	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	precisa	precisar	VMIP3S0	-	-	74-81	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	tratamiento	tratamiento	NCMS000	C0585943_1	procedimiento_1	82-93	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	hipolipemiante	hipolipemiante		C0585943_2	procedimiento_2	94-108	30(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+18	.	.	Fp	-	-	109-110	30(3)_ANS_clinical_caseMIR	SENT1	-	-
+

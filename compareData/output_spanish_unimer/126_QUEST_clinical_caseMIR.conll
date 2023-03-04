@@ -1,0 +1,98 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	126_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	126_QUEST_clinical_caseMIR	SENT1	-	-
+3	12	12		-	-	8-10	126_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	11-15	126_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	15-16	126_QUEST_clinical_caseMIR	SENT1	-	-
+6	hija	hijo	NCFS000	C0337558_1	persona_1	17-21	126_QUEST_clinical_caseMIR	SENT1	-	-
+7	única	único	AQ0FS0	C0337558_2	persona_2	22-27	126_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	28-30	126_QUEST_clinical_caseMIR	SENT1	-	-
+9	padres	padre	NCMP000	C0015671	persona	31-37	126_QUEST_clinical_caseMIR	SENT1	-	-
+10	sanos	sano	AQ0MP0	-	-	38-43	126_QUEST_clinical_caseMIR	SENT1	-	-
+11	no	no	RN	C1298908	calificador	44-46	126_QUEST_clinical_caseMIR	SENT1	-	-
+12	consanguíneos	consanguíneo	AQ0MP0	-	-	47-60	126_QUEST_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	60-61	126_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	62-64	126_QUEST_clinical_caseMIR	SENT2	-	-
+2	refieren	referir	VMIP3P0	-	-	65-73	126_QUEST_clinical_caseMIR	SENT2	-	-
+3	antecedentes	antecedente	NCMP000	-	-	74-86	126_QUEST_clinical_caseMIR	SENT2	-	-
+4	personales	personal	AQ0CP0	-	-	87-97	126_QUEST_clinical_caseMIR	SENT2	-	-
+5	ni	ni	CC	-	-	98-100	126_QUEST_clinical_caseMIR	SENT2	-	-
+6	familiares	familiar	NCMP000	C0080103#C0241888	persona#calificador	101-111	126_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	112-114	126_QUEST_clinical_caseMIR	SENT2	-	-
+8	interés	interés	NCMS000	-	-	115-122	126_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	122-123	126_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	124-126	126_QUEST_clinical_caseMIR	SENT3	-	-
+2	el	el	DA0MS0	-	-	127-129	126_QUEST_clinical_caseMIR	SENT3	-	-
+3	examen	examen	NCMS000	C1261322#C0031809_1	procedimiento_1	130-136	126_QUEST_clinical_caseMIR	SENT3	-	-
+4	clínico	clínico	NCMS000	C1261322#C0031809_2	procedimiento_2	137-144	126_QUEST_clinical_caseMIR	SENT3	-	-
+5	para	para	SPS00	C0521125	calificador	145-149	126_QUEST_clinical_caseMIR	SENT3	-	-
+6	iniciar	iniciar	VMN0000	-	-	150-157	126_QUEST_clinical_caseMIR	SENT3	-	-
+7	una	una		C0205447_1	calificador_1	158-161	126_QUEST_clinical_caseMIR	SENT3	-	-
+8	actividad	actividad	NCFS000	C0038039_1	calificador_1	162-171	126_QUEST_clinical_caseMIR	SENT3	-	-
+9	deportiva	deportivo	AQ0FS0	C0038039_2	calificador_2	172-181	126_QUEST_clinical_caseMIR	SENT3	-	-
+10	,	,	Fc	-	-	181-182	126_QUEST_clinical_caseMIR	SENT3	-	-
+11	usted	usted	PP2CS00P	-	-	183-188	126_QUEST_clinical_caseMIR	SENT3	-	-
+12	encuentra	encontrar	VMIP3S0	-	-	189-198	126_QUEST_clinical_caseMIR	SENT3	-	-
+13	una	una		C0205447_1	calificador_1	199-202	126_QUEST_clinical_caseMIR	SENT3	-	-
+14	discreta	discreto	AQ0FS0	-	-	203-211	126_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+15	hepatomegalia	hepatomegalia	NCFS000	C0019209	trastorno	212-225	126_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	de	de	SPS00	C0332285	atributo	226-228	126_QUEST_clinical_caseMIR	SENT3	-	-
+17	consistencia	consistencia	NCFS000	C0332530_1	hallazgo_1	229-241	126_QUEST_clinical_caseMIR	SENT3	-	-
+18	normal	normal	NCFS000	C0332530_2	hallazgo_2	242-248	126_QUEST_clinical_caseMIR	SENT3	-	-
+19	,	,	Fc	-	-	248-249	126_QUEST_clinical_caseMIR	SENT3	-	-
+20	por	por	SPS00	C0678226	atributo	250-253	126_QUEST_clinical_caseMIR	SENT3	-	-
+21	lo	el	DA0NS0	-	-	254-256	126_QUEST_clinical_caseMIR	SENT3	-	-
+22	que	que	PR0CN000	-	-	257-260	126_QUEST_clinical_caseMIR	SENT3	-	-
+23	solicita	solicitar	VMIP3S0	-	-	261-269	126_QUEST_clinical_caseMIR	SENT3	-	-
+24	una	una		C0205447_1	calificador_1	270-273	126_QUEST_clinical_caseMIR	SENT3	-	-
+25	analítica	analítica	NCFS000	-	-	274-283	126_QUEST_clinical_caseMIR	SENT3	-	-
+26	,	,	Fc	-	-	283-284	126_QUEST_clinical_caseMIR	SENT3	-	-
+27	en	en	SPS00	C1720294#C0332285	calificador#atributo	285-287	126_QUEST_clinical_caseMIR	SENT3	-	-
+28	la	el	DA0FS0	-	-	288-290	126_QUEST_clinical_caseMIR	SENT3	-	-
+29	que	que	PR0CN000	-	-	291-294	126_QUEST_clinical_caseMIR	SENT3	-	-
+30	destaca	destacar	VMIP3S0	-	-	295-302	126_QUEST_clinical_caseMIR	SENT3	-	-
+31	una	una		C0205447_1	calificador_1	303-306	126_QUEST_clinical_caseMIR	SENT3	-	-
+32	ASAT	aspartato_aminotransferasa	NC00YL0	-	-	307-311	126_QUEST_clinical_caseMIR	SENT3	-	-
+33	de	de	SPS00	C0332285	atributo	312-314	126_QUEST_clinical_caseMIR	SENT3	-	-
+34	80U/l	80U/l		-	-	315-320	126_QUEST_clinical_caseMIR	SENT3	-	-
+35	,	,	Fc	-	-	320-321	126_QUEST_clinical_caseMIR	SENT3	-	-
+36	ALAT	alaninoaminotransferasa	NC00YL0	-	-	322-326	126_QUEST_clinical_caseMIR	SENT3	-	-
+37	105	105		-	-	327-330	126_QUEST_clinical_caseMIR	SENT3	-	-
+38	U	o	CC	-	-	331-332	126_QUEST_clinical_caseMIR	SENT3	-	-
+39	/	/	Fh	-	-	332-333	126_QUEST_clinical_caseMIR	SENT3	-	-
+40	l	l	NCFS000	-	-	333-334	126_QUEST_clinical_caseMIR	SENT3	-	-
+41	,	,	Fc	-	-	334-335	126_QUEST_clinical_caseMIR	SENT3	-	-
+42	proteinograma	proteinograma	NCFS000	-	-	336-349	126_QUEST_clinical_caseMIR	SENT3	-	-
+43	electroforético	electroforético	AQ0MS0	-	-	350-365	126_QUEST_clinical_caseMIR	SENT3	-	-
+44	con	con	SPS00	C0332287	atributo	366-369	126_QUEST_clinical_caseMIR	SENT3	-	-
+45	todas	todo	DI0FP0	C0205197#C0439810#C0444868#C0444667	calificador	370-375	126_QUEST_clinical_caseMIR	SENT3	-	-
+46	las	el	DA0FP0	-	-	376-379	126_QUEST_clinical_caseMIR	SENT3	-	-
+47	fracciones	fracción	NCFP000	-	-	380-390	126_QUEST_clinical_caseMIR	SENT3	-	-
+48	proteicas	proteico	AQ0FP0	-	-	391-400	126_QUEST_clinical_caseMIR	SENT3	-	-
+49	en	en	SPS00	C1720294#C0332285	calificador#atributo	401-403	126_QUEST_clinical_caseMIR	SENT3	-	-
+50	rango	rango	NCMS000	-	-	404-409	126_QUEST_clinical_caseMIR	SENT3	-	-
+51	normal	normal	AQ0CS0	C0205307	calificador	410-416	126_QUEST_clinical_caseMIR	SENT3	-	-
+52	y	y	CC	C1706368	calificador	417-418	126_QUEST_clinical_caseMIR	SENT3	-	-
+53	negatividad	negatividad	NCFS000	-	-	419-430	126_QUEST_clinical_caseMIR	SENT3	-	-
+54	de	de	SPS00	C0332285	atributo	431-433	126_QUEST_clinical_caseMIR	SENT3	-	-
+55	la	el	DA0FS0	-	-	434-436	126_QUEST_clinical_caseMIR	SENT3	-	-
+56	serología	serología	NCFS000	-	-	437-446	126_QUEST_clinical_caseMIR	SENT3	-	-
+57	de	de	SPS00	C0332285	atributo	447-449	126_QUEST_clinical_caseMIR	SENT3	-	-
+58	virus	virus	NCMN000	C0042776	organismo	450-455	126_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+59	hepatotropos	hepatotropos	NCMP000	-	-	456-468	126_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+60	.	.	Fp	-	-	468-469	126_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	470-471	126_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	PT0CN000	-	-	471-474	126_QUEST_clinical_caseMIR	SENT4	-	-
+3	debería	deber	VMIC3S0	-	-	475-482	126_QUEST_clinical_caseMIR	SENT4	-	-
+4	descartar	descartar	VMN0000	C0332196	calificador	483-492	126_QUEST_clinical_caseMIR	SENT4	-	-
+5	y	y	CC	C1706368	calificador	493-494	126_QUEST_clinical_caseMIR	SENT4	-	-
+6	qué	qué	DT0CN0	-	-	495-498	126_QUEST_clinical_caseMIR	SENT4	-	-
+7	prueba	prueba	NCFS000	-	-	499-505	126_QUEST_clinical_caseMIR	SENT4	-	-
+8	indicaría	indicar	VMIC3S0	-	-	506-515	126_QUEST_clinical_caseMIR	SENT4	-	-
+9	para	para	SPS00	C0521125	calificador	516-520	126_QUEST_clinical_caseMIR	SENT4	-	-
+10	ello	ello	PD0NS000	-	-	521-525	126_QUEST_clinical_caseMIR	SENT4	-	-
+11	?	?	Fit	-	-	525-526	126_QUEST_clinical_caseMIR	SENT4	-	-
+12	.	.	Fp	-	-	526-527	126_QUEST_clinical_caseMIR	SENT4	-	-
+

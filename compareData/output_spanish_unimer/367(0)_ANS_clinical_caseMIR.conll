@@ -1,0 +1,20 @@
+1	Ecografia	ecografia	NCFS000	-	-	0-9	367(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	transvaginal	transvaginal	NC00SC0	C0175672	calificador	10-22	367(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	y	y	CC	C1706368	calificador	23-24	367(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	medición	medición	NCFS000	C0242485	procedimiento#calificador	25-33	367(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	del	del	SP+DA	-	-	34-37	367(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	espesor	espesor	NCMS000	-	-	38-45	367(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	endometrial	endometrial	AQ0CS00	-	-	46-57	367(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	.	.	Fp	-	-	57-58	367(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	59-61	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	función	función	NCFS000	C0542341	entidad_observable#atributo	62-69	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	70-72	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	éste	este	PD0MS000	-	-	73-77	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	tomar	tomar	VMN0000	C1515187	calificador	78-83	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+6	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	84-91	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+7	endometrial	endometrial	AQ0CS00	-	-	92-103	367(0)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+8	o	o	CC	-	-	104-105	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+9	no	no	RN	C1298908	calificador	106-108	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+10	.	.	Fp	-	-	109-110	367(0)_ANS_clinical_caseMIR	SENT2	-	-
+

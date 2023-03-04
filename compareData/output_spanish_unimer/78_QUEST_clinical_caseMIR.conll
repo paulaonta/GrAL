@@ -1,0 +1,54 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	78_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	78_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	78_QUEST_clinical_caseMIR	SENT1	-	-
+4	81	81		-	-	15-17	78_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	78_QUEST_clinical_caseMIR	SENT1	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	23-31	78_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	32-35	78_QUEST_clinical_caseMIR	SENT1	-	-
+8	un	un		C0205447_1	calificador_1	36-38	78_QUEST_clinical_caseMIR	SENT1	-	-
+9	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	39-47	78_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332189#C1455761_2	atributo_2	48-50	78_QUEST_clinical_caseMIR	SENT1	-	-
+11	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	51-58	78_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	.	.	Fp	-	-	58-59	78_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	60-67	78_QUEST_clinical_caseMIR	SENT2	-	-
+2	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	68-74	78_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+3	de	de	SPS00	C0231807_2	hallazgo_2	75-77	78_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+4	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	78-86	78_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+5	desde	desde	SPS00	-	-	87-92	78_QUEST_clinical_caseMIR	SENT2	-	-
+6	hace	hacer	VMIP3S0	-	-	93-97	78_QUEST_clinical_caseMIR	SENT2	-	-
+7	un	un		C0205447_1	calificador_1	98-100	78_QUEST_clinical_caseMIR	SENT2	-	-
+8	año	año	NCMS000	C0439234	calificador	101-104	78_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	104-105	78_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	78_QUEST_clinical_caseMIR	SENT3	-	-
+2	la	el	DA0FS0	-	-	109-111	78_QUEST_clinical_caseMIR	SENT3	-	-
+3	auscultación	auscultación	NCFS000	C0004339	procedimiento	112-124	78_QUEST_clinical_caseMIR	SENT3	-	-
+4	cardiaca	cardiaco	AQ0FS0	-	-	125-133	78_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	destaca	destacar	VMIP3S0	-	-	134-141	78_QUEST_clinical_caseMIR	SENT3	-	-
+6	un	un		C0205447_1	calificador_1	142-144	78_QUEST_clinical_caseMIR	SENT3	-	-
+7	soplo	soplo	NCMS000	C0232257_1	hallazgo_1	145-150	78_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+8	sistólico	sistólico	AQ0MS0	C0232257_2	hallazgo_2	151-160	78_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+9	3/6	3/6		-	-	161-164	78_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	165-167	78_QUEST_clinical_caseMIR	SENT3	-	-
+11	borde	borde	NCMS000	C0205154	calificador	168-173	78_QUEST_clinical_caseMIR	SENT3	-	-
+12	esternal	esternal	AQ0CS0	-	-	174-182	78_QUEST_clinical_caseMIR	SENT3	-	-
+13	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	183-192	78_QUEST_clinical_caseMIR	SENT3	-	-
+14	que	que	PR0CN000	C0332301_1	atributo_1	193-196	78_QUEST_clinical_caseMIR	SENT3	-	-
+15	irradia	irradiar	VMM02S0	C0332301_2	atributo_2	197-204	78_QUEST_clinical_caseMIR	SENT3	-	-
+16	a	a	SPS00	C0332301_3	atributo_3	205-206	78_QUEST_clinical_caseMIR	SENT3	-	-
+17	carótidas	carótido	AQ0FP0	-	-	207-216	78_QUEST_clinical_caseMIR	SENT3	-	-
+18	y	y	CC	C1706368	calificador	217-218	78_QUEST_clinical_caseMIR	SENT3	-	-
+19	punta	punta	NCCS000	-	-	219-224	78_QUEST_clinical_caseMIR	SENT3	-	-
+20	.	.	Fp	-	-	224-225	78_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	226-227	78_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	227-230	78_QUEST_clinical_caseMIR	SENT4	-	-
+3	patología	patología	NCFS000	C0030664	calificador	231-240	78_QUEST_clinical_caseMIR	SENT4	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	241-243	78_QUEST_clinical_caseMIR	SENT4	-	-
+5	parece	parecer	VMIP3S0	-	-	244-250	78_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	251-254	78_QUEST_clinical_caseMIR	SENT4	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	255-263	78_QUEST_clinical_caseMIR	SENT4	-	-
+8	?	?	Fit	-	-	263-264	78_QUEST_clinical_caseMIR	SENT4	-	-
+9	.	.	Fp	-	-	264-265	78_QUEST_clinical_caseMIR	SENT4	-	-
+

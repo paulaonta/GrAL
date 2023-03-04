@@ -1,0 +1,15 @@
+1	Administrar	administrar	VMN0000	C1621583	calificador	0-11	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	vacuna	vacuna	NCFS000	C0042210	producto#sustancia	12-18	46(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	19-25	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	a	a	SPS00	-	-	26-27	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	hepatitis	hepatitis	NCFN000	C0019163_1	trastorno_1	28-37	46(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	B	b	NCFS000	C0019163_2	trastorno_2	38-39	46(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	nada	nada	PI0CS000	C0442734#C0442735	calificador	40-44	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	más	más	RG	C0205172	calificador	45-48	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	nacer	nacer	VMN0000	-	-	49-54	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	54-55	46(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Lactancia	lactancia	NCFS000	C0231330#C0006147	función#hallazgo	56-65	46(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	artificial	artificial	AQ0CS0	C2004457	calificador	66-76	46(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	.	.	Fp	-	-	77-78	46(0)_ANS_clinical_caseMIR	SENT2	-	-
+

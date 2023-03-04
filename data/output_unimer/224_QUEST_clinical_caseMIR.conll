@@ -1,0 +1,58 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	224_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	224_QUEST_clinical_caseMIR	SENT1	-	-
+3	70	70		-	-	12-14	224_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	224_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	224_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	224_QUEST_clinical_caseMIR	SENT1	-	-
+7	diagnosticado	diagnosticar	VMP00SM	-	-	28-41	224_QUEST_clinical_caseMIR	SENT1	-	-
+8	hace	hacer	VMIP3S0	-	-	42-46	224_QUEST_clinical_caseMIR	SENT1	-	-
+9	tres	tres		-	-	47-51	224_QUEST_clinical_caseMIR	SENT1	-	-
+10	años	año	NCMP000	C0439234	calificador	52-56	224_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	57-59	224_QUEST_clinical_caseMIR	SENT1	-	-
+12	mieloma	mieloma	NCMS000	C0026764_1	trastorno#anomalía_morfológica_1	60-67	224_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	múltiple	múltiple	NC00SC0	C0026764_2	trastorno#anomalía_morfológica_2	68-76	224_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+14	que	que	PR0CN000	-	-	77-80	224_QUEST_clinical_caseMIR	SENT1	-	-
+15	está	estar	VAIP3S0	-	-	81-85	224_QUEST_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	224_QUEST_clinical_caseMIR	SENT1	-	-
+17	periodo	periodo	NCMS000	-	-	89-96	224_QUEST_clinical_caseMIR	SENT1	-	-
+18	de	de	SPS00	C0332285	atributo	97-99	224_QUEST_clinical_caseMIR	SENT1	-	-
+19	neutropenia	neutropenia	NCFS000	C0027947#C0001824#C1534864#C1576411#C0853697	trastorno#hallazgo	100-111	224_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+20	tras	tras	SPS00	-	-	112-116	224_QUEST_clinical_caseMIR	SENT1	-	-
+21	un	un		C0205447_1	calificador_1	117-119	224_QUEST_clinical_caseMIR	SENT1	-	-
+22	ciclo	ciclo	NCMS000	C1302181_1	procedimiento_1	120-125	224_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C1302181_2	procedimiento_2	126-128	224_QUEST_clinical_caseMIR	SENT1	-	-
+24	quimioterapia	quimioterapia	NCFS000	C1302181_3	procedimiento_3	129-142	224_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+25	.	.	Fp	-	-	142-143	224_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Ingresa	ingresar	VMIP3S0	-	-	144-151	224_QUEST_clinical_caseMIR	SENT2	-	-
+2	por	por	SPS00	C0678226	atributo	152-155	224_QUEST_clinical_caseMIR	SENT2	-	-
+3	fiebre	fiebre	NCFS000	C0015967	hallazgo	156-162	224_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+4	,	,	Fc	-	-	162-163	224_QUEST_clinical_caseMIR	SENT2	-	-
+5	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	164-167	224_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	y	y	CC	C1706368	calificador	168-169	224_QUEST_clinical_caseMIR	SENT2	-	-
+7	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	170-183	224_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	amarillenta	amarillento	AQ0FS0	-	-	184-195	224_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+9	.	.	Fp	-	-	195-196	224_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	197-199	224_QUEST_clinical_caseMIR	SENT3	-	-
+2	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	200-211	224_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	212-214	224_QUEST_clinical_caseMIR	SENT3	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	215-220	224_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	muestra	mostrar	VMIP3S0	-	-	221-228	224_QUEST_clinical_caseMIR	SENT3	-	-
+6	una	una		C0205447_1	calificador_1	229-232	224_QUEST_clinical_caseMIR	SENT3	-	-
+7	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	233-239	224_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	240-242	224_QUEST_clinical_caseMIR	SENT3	-	-
+9	condensación	condensación	NCFS000	C0333119	anomalía_morfológica	243-255	224_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	256-258	224_QUEST_clinical_caseMIR	SENT3	-	-
+11	hemitórax	hemitórax		C1284910#C0230127_1	estructura_corporal_1	259-268	224_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+12	derecho	derecho	NCMS000	C1284910#C0230127_2	estructura_corporal_2	269-276	224_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+13	.	.	Fp	-	-	276-277	224_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	278-280	224_QUEST_clinical_caseMIR	SENT4	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	281-292	224_QUEST_clinical_caseMIR	SENT4	-	-
+3	mas	mas	CC	-	-	293-296	224_QUEST_clinical_caseMIR	SENT4	-	-
+4	probable	probable	NC00SC0	C0332148	calificador	297-305	224_QUEST_clinical_caseMIR	SENT4	-	-
+5	es	ser	VSIP3S0	-	-	306-308	224_QUEST_clinical_caseMIR	SENT4	-	-
+6	:	:	Fd	-	-	308-309	224_QUEST_clinical_caseMIR	SENT4	-	-
+7	.	.	Fp	-	-	309-310	224_QUEST_clinical_caseMIR	SENT4	-	-
+

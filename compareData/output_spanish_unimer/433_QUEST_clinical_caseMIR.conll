@@ -1,0 +1,67 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	433_QUEST_clinical_caseMIR	SENT1	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	433_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	433_QUEST_clinical_caseMIR	SENT1	-	-
+4	24	24		-	-	13-15	433_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	433_QUEST_clinical_caseMIR	SENT1	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	433_QUEST_clinical_caseMIR	SENT1	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	25-37	433_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332119_2	situación_2	38-40	433_QUEST_clinical_caseMIR	SENT1	-	-
+9	migraña	migraña	NCFS000	C0149931	trastorno	41-48	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	,	,	Fc	-	-	48-49	433_QUEST_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	50-52	433_QUEST_clinical_caseMIR	SENT1	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	53-64	433_QUEST_clinical_caseMIR	SENT1	-	-
+13	con	con	SPS00	C0332287	atributo	65-68	433_QUEST_clinical_caseMIR	SENT1	-	-
+14	propranolol	propranolol	NC00SC0	C0033497	sustancia	69-80	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+15	y	y	CC	C1706368	calificador	81-82	433_QUEST_clinical_caseMIR	SENT1	-	-
+16	anticonceptivos	anticonceptivo	NCMP000	-	-	83-98	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+17	orales	orar	VMM02S0	-	-	99-105	433_QUEST_clinical_caseMIR	SENT1	-	-
+18	,	,	Fc	-	-	105-106	433_QUEST_clinical_caseMIR	SENT1	-	-
+19	que	que	PR0CN000	-	-	107-110	433_QUEST_clinical_caseMIR	SENT1	-	-
+20	acude	acudir	VMIP3S0	-	-	111-116	433_QUEST_clinical_caseMIR	SENT1	-	-
+21	por	por	SPS00	C0678226	atributo	117-120	433_QUEST_clinical_caseMIR	SENT1	-	-
+22	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	121-127	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	intensa	intenso	AQ0FS0	C0205178	calificador	128-135	433_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	,	,	Fc	-	-	135-136	433_QUEST_clinical_caseMIR	SENT1	-	-
+25	ronquera	ronquera	NCFS000	-	-	137-145	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	,	,	Fc	-	-	145-146	433_QUEST_clinical_caseMIR	SENT1	-	-
+27	erupción	erupción	NCFS000	C0015230_1	anomalía_morfológica#trastorno_1	147-155	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+28	cutánea	cutáneo	AQ0FS0	C0015230_2	anomalía_morfológica#trastorno_2	156-163	433_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+29	,	,	Fc	-	-	163-164	433_QUEST_clinical_caseMIR	SENT1	-	-
+30	náuseas	náusea	NCFP000	C0027498_1	trastorno_1	165-172	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+31	y	y	NCFS000	C0027498_2	trastorno_2	173-174	433_QUEST_clinical_caseMIR	SENT1	-	-
+32	vómitos	vómito	NCMP000	C0027498_3	trastorno_3	175-182	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+33	30	30	Z	-	-	183-185	433_QUEST_clinical_caseMIR	SENT1	-	-
+34	minutos	min	NCMP000	-	-	186-193	433_QUEST_clinical_caseMIR	SENT1	-	-
+35	después	después	RG	C0231290	atributo	194-201	433_QUEST_clinical_caseMIR	SENT1	-	-
+36	de	de	SPS00	C0332285	atributo	202-204	433_QUEST_clinical_caseMIR	SENT1	-	-
+37	la	el	DA0FS0	-	-	205-207	433_QUEST_clinical_caseMIR	SENT1	-	-
+38	toma	toma	NCFS000	-	-	208-212	433_QUEST_clinical_caseMIR	SENT1	-	-
+39	de	de	SPS00	C0332285	atributo	213-215	433_QUEST_clinical_caseMIR	SENT1	-	-
+40	metamizol	metamizol	NC00BO0	-	-	216-225	433_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+41	.	.	Fp	-	-	225-226	433_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	227-235	433_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	236-239	433_QUEST_clinical_caseMIR	SENT2	-	-
+3	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	240-247	433_QUEST_clinical_caseMIR	SENT2	-	-
+4	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	248-256	433_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+5	de	de	SPS00	C0332285	atributo	257-259	433_QUEST_clinical_caseMIR	SENT2	-	-
+6	90/40	90/40	Z	-	-	260-265	433_QUEST_clinical_caseMIR	SENT2	-	-
+7	mmHg	mmHg	NCMP000	-	-	266-270	433_QUEST_clinical_caseMIR	SENT2	-	-
+8	y	y	CC	C1706368	calificador	271-272	433_QUEST_clinical_caseMIR	SENT2	-	-
+9	una	una		C0205447_1	calificador_1	273-276	433_QUEST_clinical_caseMIR	SENT2	-	-
+10	SatO2	SatO2		-	-	277-282	433_QUEST_clinical_caseMIR	SENT2	-	-
+11	de	de	SPS00	C0332285	atributo	283-285	433_QUEST_clinical_caseMIR	SENT2	-	-
+12	90	90	Z	-	-	286-288	433_QUEST_clinical_caseMIR	SENT2	-	-
+13	%	%	Ft	-	-	289-290	433_QUEST_clinical_caseMIR	SENT2	-	-
+14	.	.	Fp	-	-	290-291	433_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	292-294	433_QUEST_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	295-306	433_QUEST_clinical_caseMIR	SENT3	-	-
+3	inicial	inicial	AQ0CS0	C0205265	calificador	307-314	433_QUEST_clinical_caseMIR	SENT3	-	-
+4	más	más	RG	C0205172	calificador	315-318	433_QUEST_clinical_caseMIR	SENT3	-	-
+5	correcto	correcto	AQ0MS0	C0205170	calificador	319-327	433_QUEST_clinical_caseMIR	SENT3	-	-
+6	sería	ser	VSIC1S0	-	-	328-333	433_QUEST_clinical_caseMIR	SENT3	-	-
+7	administrar	administrar	VMN0000	C1621583	calificador	334-345	433_QUEST_clinical_caseMIR	SENT3	-	-
+8	:	:	Fd	-	-	345-346	433_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	346-347	433_QUEST_clinical_caseMIR	SENT3	-	-
+

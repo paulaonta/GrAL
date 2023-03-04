@@ -1,0 +1,67 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	571_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	571_QUEST_clinical_caseMIR	SENT1	-	-
+3	37	37		-	-	10-12	571_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	571_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	18-21	571_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	571_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	28-29	571_QUEST_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	30-32	571_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	33-41	571_QUEST_clinical_caseMIR	SENT1	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	42-45	571_QUEST_clinical_caseMIR	SENT1	-	-
+11	presentar	presentar	VMN0000	-	-	46-55	571_QUEST_clinical_caseMIR	SENT1	-	-
+12	unas	uno	DI0FP0	C0205447	calificador	56-60	571_QUEST_clinical_caseMIR	SENT1	-	-
+13	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	61-69	571_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	papulosas	papuloso	AQ0FP0	C0332564	calificador	70-79	571_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+15	de	de	SPS00	C0332285	atributo	80-82	571_QUEST_clinical_caseMIR	SENT1	-	-
+16	disposición	disposición	NCFS000	-	-	83-94	571_QUEST_clinical_caseMIR	SENT1	-	-
+17	arciforme	arciforme	AQ0CS0	-	-	95-104	571_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	,	,	Fc	-	-	104-105	571_QUEST_clinical_caseMIR	SENT1	-	-
+19	asintomáticas	asintomático	AQ0FP0	-	-	106-119	571_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	,	,	Fc	-	-	119-120	571_QUEST_clinical_caseMIR	SENT1	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	121-123	571_QUEST_clinical_caseMIR	SENT1	-	-
+22	el	el	DA0MS0	-	-	124-126	571_QUEST_clinical_caseMIR	SENT1	-	-
+23	dorso	dorso	NCMS000	C1284966#C0230372_1	estructura_corporal_1	127-132	571_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+24	de	de	SPS00	C1284966#C0230372_2	estructura_corporal_2	133-135	571_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+25	la	lo	PP3FSA00	C1284966#C0230372_3	estructura_corporal_3	136-138	571_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	mano	mano	NCFS000	C1284966#C0230372_4	estructura_corporal_4	139-143	571_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	.	.	Fp	-	-	143-144	571_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	145-147	571_QUEST_clinical_caseMIR	SENT2	-	-
+2	dermatólogo	dermatólogo	NCMS000	C0259831	ocupación	148-159	571_QUEST_clinical_caseMIR	SENT2	-	-
+3	no	no	RN	C1298908	calificador	160-162	571_QUEST_clinical_caseMIR	SENT2	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	163-165	571_QUEST_clinical_caseMIR	SENT2	-	-
+5	da	da	NC00YL0	C0226032	estructura_corporal	166-168	571_QUEST_clinical_caseMIR	SENT2	-	-
+6	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	169-176	571_QUEST_clinical_caseMIR	SENT2	-	-
+7	importancia	importancia	NCFS000	-	-	177-188	571_QUEST_clinical_caseMIR	SENT2	-	-
+8	,	,	Fc	-	-	188-189	571_QUEST_clinical_caseMIR	SENT2	-	-
+9	aunque	aunque	CC	-	-	190-196	571_QUEST_clinical_caseMIR	SENT2	-	-
+10	para	para	SPS00	C0521125	calificador	197-201	571_QUEST_clinical_caseMIR	SENT2	-	-
+11	confirmar	confirmar	VMN0000	-	-	202-211	571_QUEST_clinical_caseMIR	SENT2	-	-
+12	el	el	DA0MS0	-	-	212-214	571_QUEST_clinical_caseMIR	SENT2	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	215-226	571_QUEST_clinical_caseMIR	SENT2	-	-
+14	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	227-229	571_QUEST_clinical_caseMIR	SENT2	-	-
+15	realiza	realizar	VMIP3S0	-	-	230-237	571_QUEST_clinical_caseMIR	SENT2	-	-
+16	una	una		C0205447_1	calificador_1	238-241	571_QUEST_clinical_caseMIR	SENT2	-	-
+17	biopsia	biopsia	NCFS000	C0150866_1	procedimiento_1	242-249	571_QUEST_clinical_caseMIR	SENT2	-	-
+18	cutánea	cutáneo	AQ0FS0	C0150866_2	procedimiento_2	250-257	571_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+19	donde	donde	PR000000	-	-	258-263	571_QUEST_clinical_caseMIR	SENT2	-	-
+20	aparte	aparte	RG	-	-	264-270	571_QUEST_clinical_caseMIR	SENT2	-	-
+21	de	de	SPS00	C0332285	atributo	271-273	571_QUEST_clinical_caseMIR	SENT2	-	-
+22	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	274-279	571_QUEST_clinical_caseMIR	SENT2	-	-
+23	signos	signo	NCMP000	C0311392	hallazgo	280-286	571_QUEST_clinical_caseMIR	SENT2	-	-
+24	,	,	Fc	-	-	286-287	571_QUEST_clinical_caseMIR	SENT2	-	-
+25	se	se	P00CN000	-	-	288-290	571_QUEST_clinical_caseMIR	SENT2	-	-
+26	aprecia	apreciar	VMIP3S0	-	-	291-298	571_QUEST_clinical_caseMIR	SENT2	-	-
+27	necrobiosis	necrobiosis	NCFN000	C0162812	anomalía_morfológica	299-310	571_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+28	del	del	SP+DA	-	-	311-314	571_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+29	colágeno	colágeno	NCMS000	C0009325	sustancia	315-323	571_QUEST_clinical_caseMIR	SENT2	I-Calificador	-
+30	.	.	Fp	-	-	323-324	571_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	El	el	DA0MS0	-	-	325-327	571_QUEST_clinical_caseMIR	SENT3	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	328-339	571_QUEST_clinical_caseMIR	SENT3	-	-
+3	más	más	RG	C0205172	calificador	340-343	571_QUEST_clinical_caseMIR	SENT3	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	344-352	571_QUEST_clinical_caseMIR	SENT3	-	-
+5	es	ser	VSIP3S0	-	-	353-355	571_QUEST_clinical_caseMIR	SENT3	-	-
+6	:	:	Fd	-	-	355-356	571_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	356-357	571_QUEST_clinical_caseMIR	SENT3	-	-
+

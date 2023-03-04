@@ -1,0 +1,49 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	357_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	357_QUEST_clinical_caseMIR	SENT1	-	-
+3	8	8		-	-	8-9	357_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	357_QUEST_clinical_caseMIR	SENT1	-	-
+5	que	que	PR0CN000	-	-	15-18	357_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	19-24	357_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	25-26	357_QUEST_clinical_caseMIR	SENT1	-	-
+8	Urgencias	urgencia	NCFP000	C0439609	calificador	27-36	357_QUEST_clinical_caseMIR	SENT1	-	-
+9	porque	porque	CS	-	-	37-43	357_QUEST_clinical_caseMIR	SENT1	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	44-46	357_QUEST_clinical_caseMIR	SENT1	-	-
+11	ha	haber	VAIP3S0	-	-	47-49	357_QUEST_clinical_caseMIR	SENT1	-	-
+12	mordido	morder	VMP00SM	-	-	50-57	357_QUEST_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	58-60	357_QUEST_clinical_caseMIR	SENT1	-	-
+14	niño	niño	NCMS000	C0008059#C0870221	persona	61-65	357_QUEST_clinical_caseMIR	SENT1	-	-
+15	mientras	mientras	CS	-	-	66-74	357_QUEST_clinical_caseMIR	SENT1	-	-
+16	jugaban	jugar	VMII3P0	-	-	75-82	357_QUEST_clinical_caseMIR	SENT1	-	-
+17	,	,	Fc	-	-	82-83	357_QUEST_clinical_caseMIR	SENT1	-	-
+18	hace	hacer	VMIP3S0	-	-	84-88	357_QUEST_clinical_caseMIR	SENT1	-	-
+19	unas	uno	DI0FP0	C0205447	calificador	89-93	357_QUEST_clinical_caseMIR	SENT1	-	-
+20	6	6	Z	C1292428_1	calificador_1	94-95	357_QUEST_clinical_caseMIR	SENT1	-	-
+21	horas	hora	NCFP000	C1292428_2	calificador_2	96-101	357_QUEST_clinical_caseMIR	SENT1	-	-
+22	.	.	Fp	-	-	101-102	357_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	103-111	357_QUEST_clinical_caseMIR	SENT2	-	-
+2	una	una		C0205447_1	calificador_1	112-115	357_QUEST_clinical_caseMIR	SENT2	-	-
+3	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	116-120	357_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+4	herida	herido	NCFS000	-	-	121-127	357_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	inciso-contusa	inciso-contusa	AQ0FS00	-	-	128-142	357_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	143-145	357_QUEST_clinical_caseMIR	SENT2	-	-
+7	el	el	DA0MS0	-	-	146-148	357_QUEST_clinical_caseMIR	SENT2	-	-
+8	antebrazo	antebrazo	NCMS000	C0230360#C1288741_1	estructura_corporal_1	149-158	357_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+9	derecho	derecho	NCMS000	C0230360#C1288741_2	estructura_corporal_2	159-166	357_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+10	.	.	Fp	-	-	166-167	357_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Además	además	RG	C0332287_1	atributo_1	168-174	357_QUEST_clinical_caseMIR	SENT3	-	-
+2	de	de	SPS00	C0332287_2	atributo_2	175-177	357_QUEST_clinical_caseMIR	SENT3	-	-
+3	plantear	plantear	VMN0000	-	-	178-186	357_QUEST_clinical_caseMIR	SENT3	-	-
+4	se	se	PP3CN000	-	-	186-188	357_QUEST_clinical_caseMIR	SENT3	-	-
+5	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	189-194	357_QUEST_clinical_caseMIR	SENT3	-	-
+6	medidas	medida	NCFP000	C0079809	atributo	195-202	357_QUEST_clinical_caseMIR	SENT3	-	-
+7	,	,	Fc	-	-	202-203	357_QUEST_clinical_caseMIR	SENT3	-	-
+8	¿	¿	Fia	-	-	204-205	357_QUEST_clinical_caseMIR	SENT3	-	-
+9	qué	qué	DE0CN0	-	-	205-208	357_QUEST_clinical_caseMIR	SENT3	-	-
+10	antimicrobiano	antimicrobiano	AQ0MS0	-	-	209-223	357_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+11	pautaría	pautar	VMIC3S0	-	-	224-232	357_QUEST_clinical_caseMIR	SENT3	-	-
+12	usted	usted	PP2CS00P	-	-	233-238	357_QUEST_clinical_caseMIR	SENT3	-	-
+13	?	?	Fit	-	-	238-239	357_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	239-240	357_QUEST_clinical_caseMIR	SENT3	-	-
+

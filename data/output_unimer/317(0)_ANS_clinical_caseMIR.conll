@@ -1,0 +1,12 @@
+1	Ofrecer	ofrecer	VMN0000	-	-	0-7	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	prostatectomía	prostatectomía	NC00SC0	C0194810_1	procedimiento_1	8-22	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	radical	radical	NCMS000	C0194810_2	procedimiento_2	23-30	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	como	como	CS	C0332257	calificador	31-35	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	36-47	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	48-50	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	su	su	DP3CS0	-	-	51-53	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	54-60	317(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	de	de	SPS00	C0332285	atributo	61-63	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	próstata	próstata	NCFS000	C1278980#C0033572	estructura_corporal	64-72	317(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+11	.	.	Fp	-	-	73-74	317(0)_ANS_clinical_caseMIR	SENT1	-	-
+

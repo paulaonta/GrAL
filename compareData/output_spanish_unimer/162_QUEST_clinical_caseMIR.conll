@@ -1,0 +1,27 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	162_QUEST_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	162_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	162_QUEST_clinical_caseMIR	SENT1	-	-
+4	29	29		-	-	15-17	162_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	162_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	23-28	162_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	29-30	162_QUEST_clinical_caseMIR	SENT1	-	-
+8	su	su	DP3CS0	-	-	31-33	162_QUEST_clinical_caseMIR	SENT1	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	34-42	162_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	43-46	162_QUEST_clinical_caseMIR	SENT1	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	47-58	162_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	59-61	162_QUEST_clinical_caseMIR	SENT1	-	-
+13	aplasia	aplasia	NCFS000	C1368107_1	trastorno_1	62-69	162_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	medular	medular	AQ0CS0	C1368107_2	trastorno_2	70-77	162_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	severa	severo	AQ0FS0	C0205082	calificador	78-84	162_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+16	.	.	Fp	-	-	84-85	162_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	86-87	162_QUEST_clinical_caseMIR	SENT2	-	-
+2	Cuál	cuál	PT0CS000	-	-	87-91	162_QUEST_clinical_caseMIR	SENT2	-	-
+3	es	ser	VSIP3S0	-	-	92-94	162_QUEST_clinical_caseMIR	SENT2	-	-
+4	el	el	DA0MS0	-	-	95-97	162_QUEST_clinical_caseMIR	SENT2	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	98-109	162_QUEST_clinical_caseMIR	SENT2	-	-
+6	de	de	SPS00	C0332285	atributo	110-112	162_QUEST_clinical_caseMIR	SENT2	-	-
+7	elección	elección	NCFS000	-	-	113-121	162_QUEST_clinical_caseMIR	SENT2	-	-
+8	?	?	Fit	-	-	121-122	162_QUEST_clinical_caseMIR	SENT2	-	-
+9	.	.	Fp	-	-	122-123	162_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,43 @@
+1	La	el	DA0FS0	-	-	0-2	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	tiene	tener	VMIP3S0	-	-	12-17	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	un	un		C0205447_1	calificador_1	18-20	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	despertar	despertar	NCMS000	C0442696#C1720052	entidad_observable#calificador	21-30	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	intraoperatorio	intraoperatorio	NC00SC0	C0456904	calificador	31-46	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	C0678227_1	atributo_1	47-50	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	causa	causar	VMM02S0	C0678227_2	atributo_2	51-56	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	la	el	DA0FS0	-	-	57-59	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	60-71	161(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	72-73	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	74-76	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	resto	resto	NCMS000	-	-	77-82	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	83-85	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	los	el	DA0MP0	-	-	86-89	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	hallazgos	hallazgo	NCMP000	C0243095	hallazgo	90-99	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	.	.	Fp	-	-	99-100	161(0)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	101-103	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+2	procedimiento	procedimiento	NCMS000	C0184661	procedimiento	104-117	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+3	adecuado	adecuar	VMP00SM	-	-	118-126	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+4	es	ser	VSIP3S0	-	-	127-129	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+5	aumentar	aumentar	VMN0000	-	-	130-138	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	139-141	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+7	proporción	proporción	NCFS000	-	-	142-152	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+8	de	de	SPS00	C0332285	atributo	153-155	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+9	isoflurano	isoflurano	NC00SC0	C0022180	producto#sustancia	156-166	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	167-169	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+11	el	el	DA0MS0	-	-	170-172	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+12	gas	gas	NCMS000	C0370214_1	sustancia_1	173-176	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+13	inhalado	inhalar	VMP00SM	C0370214_2	sustancia_2	177-185	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+14	,	,	Fc	-	-	185-186	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+15	además	además	RG	C0332287_1	atributo_1	187-193	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+16	de	de	SPS00	C0332287_2	atributo_2	194-196	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+17	administrar	administrar	VMN0000	C1621583	calificador	197-208	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+18	un	un		C0205447_1	calificador_1	209-211	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+19	opiáceo	opiáceo	NC00SC0	C0376196#C0242402#C0027409	producto#sustancia	212-219	161(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+20	para	para	SPS00	C0521125	calificador	220-224	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+21	reforzar	reforzar	VMN0000	-	-	225-233	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+22	la	el	DA0FS0	-	-	234-236	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+23	analgesia	analgesia	NCFS000	C0344307	hallazgo	237-246	161(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+24	.	.	Fp	-	-	247-248	161(0)_ANS_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,50 @@
+1	Usted	usted	PP2CS00P	-	-	0-5	182_QUEST_clinical_caseMIR	SENT1	-	-
+2	desea	desear	VMIP3S0	-	-	6-11	182_QUEST_clinical_caseMIR	SENT1	-	-
+3	calcular	calcular	VMN0000	-	-	12-20	182_QUEST_clinical_caseMIR	SENT1	-	-
+4	el	el	DA0MS0	-	-	21-23	182_QUEST_clinical_caseMIR	SENT1	-	-
+5	aclaramiento	aclaramiento	NCMS000	C0449297	atributo	24-36	182_QUEST_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	37-39	182_QUEST_clinical_caseMIR	SENT1	-	-
+7	creatinina	creatinina	NC00SC0	C0010294	sustancia	40-50	182_QUEST_clinical_caseMIR	SENT1	-	-
+8	de	de	SPS00	C0332285	atributo	51-53	182_QUEST_clinical_caseMIR	SENT1	-	-
+9	un	un		C0205447_1	calificador_1	54-56	182_QUEST_clinical_caseMIR	SENT1	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	57-65	182_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	66-68	182_QUEST_clinical_caseMIR	SENT1	-	-
+12	75	75		-	-	69-71	182_QUEST_clinical_caseMIR	SENT1	-	-
+13	años	año	NCMP000	C0439234	calificador	72-76	182_QUEST_clinical_caseMIR	SENT1	-	-
+14	para	para	SPS00	C0521125	calificador	77-81	182_QUEST_clinical_caseMIR	SENT1	-	-
+15	ajustar	ajustar	VMN0000	-	-	82-89	182_QUEST_clinical_caseMIR	SENT1	-	-
+16	la	el	DA0FS0	-	-	90-92	182_QUEST_clinical_caseMIR	SENT1	-	-
+17	dosis	dosis	NCFN000	-	-	93-98	182_QUEST_clinical_caseMIR	SENT1	-	-
+18	del	del	SP+DA	-	-	99-102	182_QUEST_clinical_caseMIR	SENT1	-	-
+19	antibiótico	antibiótico	NCMS000	C0003232	producto#sustancia	103-114	182_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	que	que	PR0CN000	-	-	115-118	182_QUEST_clinical_caseMIR	SENT1	-	-
+21	ha	haber	VMIP3S0	-	-	119-121	182_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	122-124	182_QUEST_clinical_caseMIR	SENT1	-	-
+23	prescribir	prescribir	VMN0000	-	-	125-135	182_QUEST_clinical_caseMIR	SENT1	-	-
+24	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	135-137	182_QUEST_clinical_caseMIR	SENT1	-	-
+25	para	para	SPS00	C0521125	calificador	138-142	182_QUEST_clinical_caseMIR	SENT1	-	-
+26	su	su	DP3CS0	-	-	143-145	182_QUEST_clinical_caseMIR	SENT1	-	-
+27	cuadro	cuadro	NCMS000	-	-	146-152	182_QUEST_clinical_caseMIR	SENT1	-	-
+28	de	de	SPS00	C0332285	atributo	153-155	182_QUEST_clinical_caseMIR	SENT1	-	-
+29	infección	infección	NCFS000	C0035243_1	trastorno_1	156-165	182_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+30	respiratoria	respiratorio	AQ0FS0	C0035243_2	trastorno_2	166-178	182_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+31	.	.	Fp	-	-	178-179	182_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	La	el	DA0FS0	-	-	180-182	182_QUEST_clinical_caseMIR	SENT2	-	-
+2	fórmula	fórmula	NCFS000	-	-	183-190	182_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	191-193	182_QUEST_clinical_caseMIR	SENT2	-	-
+4	Cockcroft-Gault	cockcroft-gault	NCMS000	-	-	194-209	182_QUEST_clinical_caseMIR	SENT2	-	-
+5	permite	permitir	VMIP3S0	-	-	210-217	182_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	218-220	182_QUEST_clinical_caseMIR	SENT2	-	-
+7	estimación	estimación	NCFS000	-	-	221-231	182_QUEST_clinical_caseMIR	SENT2	-	-
+8	del	del	SP+DA	-	-	232-235	182_QUEST_clinical_caseMIR	SENT2	-	-
+9	aclaramiento	aclaramiento	NCMS000	C0449297	atributo	236-248	182_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	249-251	182_QUEST_clinical_caseMIR	SENT2	-	-
+11	creatinina	creatinina	NC00SC0	C0010294	sustancia	252-262	182_QUEST_clinical_caseMIR	SENT2	-	-
+12	usando	usar	VMG0000	-	-	263-269	182_QUEST_clinical_caseMIR	SENT2	-	-
+13	los	el	DA0MP0	-	-	270-273	182_QUEST_clinical_caseMIR	SENT2	-	-
+14	siguientes	siguiente	AQ0CP0	C0332282	atributo	274-284	182_QUEST_clinical_caseMIR	SENT2	-	-
+15	parámetros	parámetro	NCMP000	C0549193	atributo	285-295	182_QUEST_clinical_caseMIR	SENT2	-	-
+16	:	:	Fd	-	-	295-296	182_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	296-297	182_QUEST_clinical_caseMIR	SENT2	-	-
+

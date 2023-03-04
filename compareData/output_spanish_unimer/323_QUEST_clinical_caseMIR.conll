@@ -1,0 +1,67 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	323_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	323_QUEST_clinical_caseMIR	SENT1	-	-
+3	39	39		-	-	10-12	323_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	323_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	323_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	323_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	26-29	323_QUEST_clinical_caseMIR	SENT1	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	30-32	323_QUEST_clinical_caseMIR	SENT1	-	-
+9	los	el	DA0MP0	-	-	33-36	323_QUEST_clinical_caseMIR	SENT1	-	-
+10	3	3		-	-	37-38	323_QUEST_clinical_caseMIR	SENT1	-	-
+11	últimos	último	AO0MP0	-	-	39-46	323_QUEST_clinical_caseMIR	SENT1	-	-
+12	meses	mes	NCMP000	C0439231	calificador	47-52	323_QUEST_clinical_caseMIR	SENT1	-	-
+13	ha	haber	VAIP3S0	-	-	53-55	323_QUEST_clinical_caseMIR	SENT1	-	-
+14	tenido	tener	VMP00SM	-	-	56-62	323_QUEST_clinical_caseMIR	SENT1	-	-
+15	dos	dos		-	-	63-66	323_QUEST_clinical_caseMIR	SENT1	-	-
+16	episodios	episodio	NCMP000	C0332189	atributo	67-76	323_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	77-79	323_QUEST_clinical_caseMIR	SENT1	-	-
+18	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	80-91	323_QUEST_clinical_caseMIR	SENT1	-	-
+19	saltatorios	saltatorios	AQ0MP00	-	-	92-103	323_QUEST_clinical_caseMIR	SENT1	-	-
+20	amplios	amplio	AQ0MP0	-	-	104-111	323_QUEST_clinical_caseMIR	SENT1	-	-
+21	e	y	CC	C1706368	calificador	112-113	323_QUEST_clinical_caseMIR	SENT1	-	-
+22	involuntarios	involuntario	AQ0MP0	-	-	114-127	323_QUEST_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	128-130	323_QUEST_clinical_caseMIR	SENT1	-	-
+24	miembros	miembro	NCMP000	C0015385	estructura_corporal	131-139	323_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	izquierdos	izquierdo	AQ0MP0	C0205091	calificador	140-150	323_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	,	,	Fc	-	-	150-151	323_QUEST_clinical_caseMIR	SENT1	-	-
+27	que	que	PR0CN000	-	-	152-155	323_QUEST_clinical_caseMIR	SENT1	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	156-158	323_QUEST_clinical_caseMIR	SENT1	-	-
+29	unos	uno	DI0MP0	C0205447	calificador	159-163	323_QUEST_clinical_caseMIR	SENT1	-	-
+30	dos	dos		-	-	164-167	323_QUEST_clinical_caseMIR	SENT1	-	-
+31	minutos	minuto	NCMP000	C0439232	calificador	168-175	323_QUEST_clinical_caseMIR	SENT1	-	-
+32	llevan	llevar	VMIP3P0	-	-	176-182	323_QUEST_clinical_caseMIR	SENT1	-	-
+33	a	a	SPS00	-	-	183-184	323_QUEST_clinical_caseMIR	SENT1	-	-
+34	pérdida	pérdida	NCFS000	-	-	185-192	323_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+35	de	de	SPS00	C0332285	atributo	193-195	323_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+36	conciencia	conciencia	NCFS000	C0234421#C1443086	-	196-206	323_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+37	.	.	Fp	-	-	206-207	323_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	208-210	323_QUEST_clinical_caseMIR	SENT2	-	-
+2	el	el	DA0MS0	-	-	211-213	323_QUEST_clinical_caseMIR	SENT2	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	214-221	323_QUEST_clinical_caseMIR	SENT2	-	-
+4	neuroradiológico	neuroradiológico	NC00SC0	-	-	222-238	323_QUEST_clinical_caseMIR	SENT2	-	-
+5	se	se	P00CN000	-	-	239-241	323_QUEST_clinical_caseMIR	SENT2	-	-
+6	ha	haber	VAIP3S0	-	-	242-244	323_QUEST_clinical_caseMIR	SENT2	-	-
+7	encontrado	encontrar	VMP00SM	-	-	245-255	323_QUEST_clinical_caseMIR	SENT2	-	-
+8	una	una		C0205447_1	calificador_1	256-259	323_QUEST_clinical_caseMIR	SENT2	-	-
+9	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	260-266	323_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	expansiva	expansivo	AQ0FS0	-	-	267-276	323_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+11	frontal	frontal	AQ0CS0	C0205123	calificador	277-284	323_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+12	derecha	derecha	NCFS000	-	-	285-292	323_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+13	sugestiva	sugestivo	AQ0FS0	-	-	293-302	323_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0332285	atributo	303-305	323_QUEST_clinical_caseMIR	SENT2	-	-
+15	glioma	glioma	NCMS000	C0555198#C0017638	anomalía_morfológica#trastorno	306-312	323_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion
+16	cerebral	cerebral	AQ0CS0	-	-	313-321	323_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+17	.	.	Fp	-	-	321-322	323_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	322-323	323_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cómo	cómo	PT000000	-	-	323-327	323_QUEST_clinical_caseMIR	SENT3	-	-
+3	clasificaría	clasificar	VMIC3S0	-	-	328-340	323_QUEST_clinical_caseMIR	SENT3	-	-
+4	la	el	DA0FS0	-	-	341-343	323_QUEST_clinical_caseMIR	SENT3	-	-
+5	epilepsia	epilepsia	NCFS000	C0014544	trastorno	344-353	323_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0332285	atributo	354-356	323_QUEST_clinical_caseMIR	SENT3	-	-
+7	este	este	DD0MS0	-	-	357-361	323_QUEST_clinical_caseMIR	SENT3	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	362-370	323_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	370-371	323_QUEST_clinical_caseMIR	SENT3	-	-
+10	.	.	Fp	-	-	371-372	323_QUEST_clinical_caseMIR	SENT3	-	-
+

@@ -1,0 +1,107 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	266_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	266_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	266_QUEST_clinical_caseMIR	SENT1	-	-
+4	58	58		-	-	13-15	266_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	266_QUEST_clinical_caseMIR	SENT1	-	-
+6	refería	referir	VMII3S0	-	-	21-28	266_QUEST_clinical_caseMIR	SENT1	-	-
+7	una	una		C0205447_1	calificador_1	29-32	266_QUEST_clinical_caseMIR	SENT1	-	-
+8	historia	historia	NCFS000	-	-	33-41	266_QUEST_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	42-44	266_QUEST_clinical_caseMIR	SENT1	-	-
+10	3	3		-	-	45-46	266_QUEST_clinical_caseMIR	SENT1	-	-
+11	semanas	semana	NCFP000	C0439230	calificador	47-54	266_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	55-57	266_QUEST_clinical_caseMIR	SENT1	-	-
+13	evolución	evolución	NCFS000	-	-	58-67	266_QUEST_clinical_caseMIR	SENT1	-	-
+14	con	con	SPS00	C0332287	atributo	68-71	266_QUEST_clinical_caseMIR	SENT1	-	-
+15	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	72-80	266_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+16	cutáneas	cutáneo	AQ0FP0	-	-	81-89	266_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	progresivas	progresivo	AQ0FP0	C0205329	calificador	90-101	266_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+18	,	,	Fc	-	-	101-102	266_QUEST_clinical_caseMIR	SENT1	-	-
+19	medianamente	medianamente	RG	-	-	103-115	266_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	dolorosas	doloroso	AQ0FP0	-	-	116-125	266_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+21	,	,	Fc	-	-	125-126	266_QUEST_clinical_caseMIR	SENT1	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	127-129	266_QUEST_clinical_caseMIR	SENT1	-	-
+23	su	su	DP3CS0	-	-	130-132	266_QUEST_clinical_caseMIR	SENT1	-	-
+24	brazo	brazo	NCMS000	C1268256#C0230347_1	estructura_corporal_1	133-138	266_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+25	izquierdo	izquierdo	NC00SC0	C1268256#C0230347_2	estructura_corporal_2	139-148	266_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+26	.	.	Fp	-	-	148-149	266_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Había	haber	VAII3S0	-	-	150-155	266_QUEST_clinical_caseMIR	SENT2	-	-
+2	empezado	empezar	VMP00SM	-	-	156-164	266_QUEST_clinical_caseMIR	SENT2	-	-
+3	como	como	CS	C0332257	calificador	165-169	266_QUEST_clinical_caseMIR	SENT2	-	-
+4	una	una		C0205447_1	calificador_1	170-173	266_QUEST_clinical_caseMIR	SENT2	-	-
+5	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	174-180	266_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+6	eritematosa	eritematosa	AQ0FS00	-	-	181-192	266_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	193-195	266_QUEST_clinical_caseMIR	SENT2	-	-
+8	su	su	DP3CS0	-	-	196-198	266_QUEST_clinical_caseMIR	SENT2	-	-
+9	pulgar	pulgar	NCMS000	-	-	199-205	266_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	206-215	266_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-
+11	.	.	Fp	-	-	215-216	266_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Tenía	tener	VMII3S0	-	-	217-222	266_QUEST_clinical_caseMIR	SENT3	-	-
+2	unas	uno	DI0FP0	C0205447	calificador	223-227	266_QUEST_clinical_caseMIR	SENT3	-	-
+3	estrías	estría	NCFP000	-	-	228-235	266_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+4	rojizas	rojizo	AQ0FP0	-	-	236-243	266_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-
+5	visibles	visible	AQ0CP0	C0205379	calificador	244-252	266_QUEST_clinical_caseMIR	SENT3	-	-
+6	como	como	CS	C0332257	calificador	253-257	266_QUEST_clinical_caseMIR	SENT3	-	-
+7	líneas	línea	NCFP000	C0205132	calificador	258-264	266_QUEST_clinical_caseMIR	SENT3	-	-
+8	de	de	SPS00	C0332285	atributo	265-267	266_QUEST_clinical_caseMIR	SENT3	-	-
+9	conexión	conexión	NCFS000	C0449379#C0230609	atributo#estructura_corporal	268-276	266_QUEST_clinical_caseMIR	SENT3	-	-
+10	entre	entre	SPS00	C0205103	calificador	277-282	266_QUEST_clinical_caseMIR	SENT3	-	-
+11	las	el	DA0FP0	-	-	283-286	266_QUEST_clinical_caseMIR	SENT3	-	-
+12	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	287-295	266_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	.	.	Fp	-	-	295-296	266_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	El	el	DA0MS0	-	-	297-299	266_QUEST_clinical_caseMIR	SENT4	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	300-308	266_QUEST_clinical_caseMIR	SENT4	-	-
+3	no	no	RN	C1298908	calificador	309-311	266_QUEST_clinical_caseMIR	SENT4	-	-
+4	presentaba	presentar	VMII3S0	-	-	312-322	266_QUEST_clinical_caseMIR	SENT4	-	-
+5	fiebre	fiebre	NCFS000	C0015967	hallazgo	323-329	266_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+6	ni	ni	CC	-	-	330-332	266_QUEST_clinical_caseMIR	SENT4	-	-
+7	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	333-338	266_QUEST_clinical_caseMIR	SENT4	-	-
+8	síntomas	síntoma	NCMP000	C0159028_1	hallazgo_1	339-347	266_QUEST_clinical_caseMIR	SENT4	-	-
+9	generales	generar	VMM02S0	C0159028_2	hallazgo_2	348-357	266_QUEST_clinical_caseMIR	SENT4	-	-
+10	.	.	Fp	-	-	357-358	266_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Había	haber	VAII3S0	-	-	359-364	266_QUEST_clinical_caseMIR	SENT5	-	-
+2	estado	estar	VAP00SM	-	-	365-371	266_QUEST_clinical_caseMIR	SENT5	-	-
+3	trabajando	trabajar	VMG0000	-	-	372-382	266_QUEST_clinical_caseMIR	SENT5	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	383-385	266_QUEST_clinical_caseMIR	SENT5	-	-
+5	su	su	DP3CS0	-	-	386-388	266_QUEST_clinical_caseMIR	SENT5	-	-
+6	jardín	jardín	NCMS000	-	-	389-395	266_QUEST_clinical_caseMIR	SENT5	-	-
+7	pero	pero	CC	-	-	396-400	266_QUEST_clinical_caseMIR	SENT5	-	-
+8	no	no	RN	C1298908	calificador	401-403	266_QUEST_clinical_caseMIR	SENT5	-	-
+9	recordaba	recordar	VMII3S0	C0557033	procedimiento	404-413	266_QUEST_clinical_caseMIR	SENT5	-	-
+10	haber	haber	VAN0000	-	-	414-419	266_QUEST_clinical_caseMIR	SENT5	-	-
+11	se	se	PP3CN000	-	-	419-421	266_QUEST_clinical_caseMIR	SENT5	-	-
+12	hecho	hacer	VMP00SM	-	-	422-427	266_QUEST_clinical_caseMIR	SENT5	-	-
+13	ninguna	ninguno	DI0FS0	C0205160#C0549184	calificador	428-435	266_QUEST_clinical_caseMIR	SENT5	-	-
+14	herida	herido	NCFS000	-	-	436-442	266_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-
+15	.	.	Fp	-	-	442-443	266_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	El	el	DA0MS0	-	-	444-446	266_QUEST_clinical_caseMIR	SENT6	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	447-458	266_QUEST_clinical_caseMIR	SENT6	-	-
+3	etiológico	etiológico	AQ0MS0	-	-	459-469	266_QUEST_clinical_caseMIR	SENT6	-	-
+4	se	se	P00CN000	-	-	470-472	266_QUEST_clinical_caseMIR	SENT6	-	-
+5	realizó	realizar	VMIS3S0	-	-	473-480	266_QUEST_clinical_caseMIR	SENT6	-	-
+6	por	por	SPS00	C0678226	atributo	481-484	266_QUEST_clinical_caseMIR	SENT6	-	-
+7	cultivo	cultivo	NCMS000	-	-	485-492	266_QUEST_clinical_caseMIR	SENT6	-	-
+8	de	de	SPS00	C0332285	atributo	493-495	266_QUEST_clinical_caseMIR	SENT6	-	-
+9	una	una		C0205447_1	calificador_1	496-499	266_QUEST_clinical_caseMIR	SENT6	-	-
+10	biopsia	biopsia	NCFS000	C0150866_1	procedimiento_1	500-507	266_QUEST_clinical_caseMIR	SENT6	-	-
+11	cutánea	cutáneo	AQ0FS0	C0150866_2	procedimiento_2	508-515	266_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-
+12	.	.	Fp	-	-	515-516	266_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	¿	¿	Fia	-	-	517-518	266_QUEST_clinical_caseMIR	SENT7	-	-
+2	Cuál	cuál	PT0CS000	-	-	518-522	266_QUEST_clinical_caseMIR	SENT7	-	-
+3	es	ser	VSIP3S0	-	-	523-525	266_QUEST_clinical_caseMIR	SENT7	-	-
+4	el	el	DA0MS0	-	-	526-528	266_QUEST_clinical_caseMIR	SENT7	-	-
+5	agente	agente	NCCS000	C0449411_1	atributo_1	529-535	266_QUEST_clinical_caseMIR	SENT7	-	-
+6	causal	causal	NCFS000	C0449411_2	atributo_2	536-542	266_QUEST_clinical_caseMIR	SENT7	-	-
+7	más	más	RG	C0205172	calificador	543-546	266_QUEST_clinical_caseMIR	SENT7	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	547-555	266_QUEST_clinical_caseMIR	SENT7	-	-
+9	de	de	SPS00	C0332285	atributo	556-558	266_QUEST_clinical_caseMIR	SENT7	-	-
+10	este	este	DD0MS0	-	-	559-563	266_QUEST_clinical_caseMIR	SENT7	-	-
+11	proceso	proceso	NCMS000	C1522240	entidad_observable	564-571	266_QUEST_clinical_caseMIR	SENT7	-	-
+12	?	?	Fit	-	-	571-572	266_QUEST_clinical_caseMIR	SENT7	-	-
+13	.	.	Fp	-	-	572-573	266_QUEST_clinical_caseMIR	SENT7	-	-
+

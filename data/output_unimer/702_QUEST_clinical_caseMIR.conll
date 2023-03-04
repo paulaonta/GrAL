@@ -1,0 +1,61 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	702_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	702_QUEST_clinical_caseMIR	SENT1	-	-
+3	7	7		-	-	8-9	702_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	702_QUEST_clinical_caseMIR	SENT1	-	-
+5	traído	traer	VMP00SM	-	-	15-21	702_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	-	-	22-23	702_QUEST_clinical_caseMIR	SENT1	-	-
+7	urgencias	urgencia	NCFP000	C0439609	calificador	24-33	702_QUEST_clinical_caseMIR	SENT1	-	-
+8	tras	tras	SPS00	-	-	34-38	702_QUEST_clinical_caseMIR	SENT1	-	-
+9	caer	caer	VMN0000	-	-	39-43	702_QUEST_clinical_caseMIR	SENT1	-	-
+10	se	se	PP3CN000	-	-	43-45	702_QUEST_clinical_caseMIR	SENT1	-	-
+11	de	de	SPS00	C0332285	atributo	46-48	702_QUEST_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	49-51	702_QUEST_clinical_caseMIR	SENT1	-	-
+13	columpio	columpio	NCMS000	-	-	52-60	702_QUEST_clinical_caseMIR	SENT1	-	-
+14	sobre	sobre	SPS00	C1720294#C0205136	calificador	61-66	702_QUEST_clinical_caseMIR	SENT1	-	-
+15	la	el	DA0FS0	-	-	67-69	702_QUEST_clinical_caseMIR	SENT1	-	-
+16	mano	mano	NCFS000	C0230370#C1288948_1	estructura_corporal_1	70-74	702_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	derecha	derecho	AQ0FS0	C0230370#C1288948_2	estructura_corporal_2	75-82	702_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+18	.	.	Fp	-	-	82-83	702_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	No	no	RN	C1298908	calificador	84-86	702_QUEST_clinical_caseMIR	SENT2	-	-
+2	tiene	tener	VMIP3S0	-	-	87-92	702_QUEST_clinical_caseMIR	SENT2	-	-
+3	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	93-105	702_QUEST_clinical_caseMIR	SENT2	-	-
+4	de	de	SPS00	C0332119_2	situación_2	106-108	702_QUEST_clinical_caseMIR	SENT2	-	-
+5	interés	interés	NCMS000	-	-	109-116	702_QUEST_clinical_caseMIR	SENT2	-	-
+6	.	.	Fp	-	-	116-117	702_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	118-126	702_QUEST_clinical_caseMIR	SENT3	-	-
+2	deformidad	deformidad	NCFS000	C0264141_1	trastorno_1	127-137	702_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+3	en	en	SPS00	C0264141_2	trastorno_2	138-140	702_QUEST_clinical_caseMIR	SENT3	-	-
+4	dorso	dorso	NCMS000	C0264141_3	trastorno_3	141-146	702_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+5	de	de	SPS00	C0264141_4	trastorno_4	147-149	702_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+6	tenedor	tenedor	NCMS000	C0264141_5	trastorno_5	150-157	702_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+7	de	de	SPS00	C0332285	atributo	158-160	702_QUEST_clinical_caseMIR	SENT3	-	-
+8	la	el	DA0FS0	-	-	161-163	702_QUEST_clinical_caseMIR	SENT3	-	-
+9	muñeca	muñeca	NCFS000	C1283836#C0043262	estructura_corporal	164-170	702_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+10	e	y	CC	C1706368	calificador	171-172	702_QUEST_clinical_caseMIR	SENT3	-	-
+11	impotencia	impotencia	NCFS000	C0242350	trastorno#hallazgo	173-183	702_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	funcional	funcional	AQ0CS0	C0205245	calificador	184-193	702_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+13	,	,	Fc	-	-	193-194	702_QUEST_clinical_caseMIR	SENT3	-	-
+14	con	con	SPS00	C0332287	atributo	195-198	702_QUEST_clinical_caseMIR	SENT3	-	-
+15	situación	situación	NCFS000	-	-	199-208	702_QUEST_clinical_caseMIR	SENT3	-	-
+16	neurovascular	neurovascular	AQ0CS0	-	-	209-222	702_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	distal	distal	NC00SC0	C0205108	calificador	223-229	702_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+18	normal	normal	AQ0CS0	C0205307	calificador	230-236	702_QUEST_clinical_caseMIR	SENT3	-	-
+19	.	.	Fp	-	-	236-237	702_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	238-239	702_QUEST_clinical_caseMIR	SENT4	-	-
+2	Qué	qué	DT0CN0	-	-	239-242	702_QUEST_clinical_caseMIR	SENT4	-	-
+3	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	243-249	702_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+4	espera	esperar	VMIP3S0	-	-	250-256	702_QUEST_clinical_caseMIR	SENT4	-	-
+5	encontrar	encontrar	VMN0000	-	-	257-266	702_QUEST_clinical_caseMIR	SENT4	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	267-269	702_QUEST_clinical_caseMIR	SENT4	-	-
+7	la	el	DA0FS0	-	-	270-272	702_QUEST_clinical_caseMIR	SENT4	-	-
+8	radiografía	radiografía	NCFS000	C1306645	procedimiento	273-284	702_QUEST_clinical_caseMIR	SENT4	-	-
+9	urgente	urgente	AQ0CS0	C0439609	calificador	285-292	702_QUEST_clinical_caseMIR	SENT4	-	-
+10	que	que	PR0CN000	-	-	293-296	702_QUEST_clinical_caseMIR	SENT4	-	-
+11	solicita	solicitar	VMIP3S0	-	-	297-305	702_QUEST_clinical_caseMIR	SENT4	-	-
+12	?	?	Fit	-	-	305-306	702_QUEST_clinical_caseMIR	SENT4	-	-
+13	:	:	Fd	-	-	306-307	702_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	307-308	702_QUEST_clinical_caseMIR	SENT4	-	-
+

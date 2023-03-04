@@ -1,0 +1,19 @@
+1	Derivación	derivación	NCFS000	C1442858#C0542331	anomalía_morfológica#objeto_físico	0-10	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	urinaria	urinario	AQ0FS0	-	-	11-19	507(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+3	urgente	urgente	AQ0CS0	C0439609	calificador	20-27	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	(	(	Fpa	-	-	28-29	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	cateterismo	cateterismo	NCMS000	C0041953_1	procedimiento_1	29-40	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	ureteral	ureteral	NC00SC0	C0041953_2	procedimiento_2	41-49	507(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+7	o	o	CC	-	-	50-51	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	nefrostomía	nefrostomía	NC00SC0	C0564457_1	procedimiento_1	52-63	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	percutánea	percutánea		C0564457_2	procedimiento_2	64-74	507(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+10	)	)	Fpt	-	-	74-75	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	dada	dar	VMP00SF	C1947971	calificador	76-80	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	la	el	DA0FS0	-	-	81-83	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	84-92	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332147_2	calificador_2	93-95	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	uropatía	uropatía		C0178879_1	trastorno_1	96-104	507(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+16	obstructiva	obstructivo	AQ0FS0	C0178879_2	trastorno_2	105-116	507(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+17	complicada	complicar	VMP00SF	-	-	117-127	507(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+18	.	.	Fp	-	-	128-129	507(2)_ANS_clinical_caseMIR	SENT1	-	-
+

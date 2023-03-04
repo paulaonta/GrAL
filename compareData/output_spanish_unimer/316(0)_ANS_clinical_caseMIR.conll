@@ -1,0 +1,21 @@
+1	Ajuste	ajuste	NCMS000	C0376209#C0456081	atributo#procedimiento	0-6	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	del	del	SP+DA	-	-	7-10	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	11-22	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	inhalado	inhalar	VMP00SM	-	-	23-31	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	32-35	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	bronco	bronco	AQ0MS0	-	-	36-42	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	­	­	Fz	-	-	42-43	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	dilatadores	dilatador	NCMP000	C0180431	objeto_físico	43-54	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	55-57	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	larga	largo	AQ0FS0	C0439591_1	calificador_1	58-63	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	duración	duración	NCFS000	C0439591_2	calificador_2	64-72	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	combinando	combinar	VMG0000	-	-	73-83	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	anticolinérgicos	anticolinérgico	NCMP000	-	-	84-100	316(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	y	y	CC	C1706368	calificador	101-102	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	beta-2	beta-2		-	-	103-109	316(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+16	adrenérgicos	adrenérgicos	NCMP000	-	-	110-122	316(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+17	con	con	SPS00	C0332287	atributo	123-126	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	glucocorticoides	glucocorticoide	NCMP000	C0017710	producto#sustancia	127-143	316(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	inhalados	inhalar	VMP00PM	-	-	144-153	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	154-155	316(0)_ANS_clinical_caseMIR	SENT1	-	-
+

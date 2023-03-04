@@ -1,0 +1,33 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	11_QUEST_clinical_caseMIR	SENT1	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	11_QUEST_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	11_QUEST_clinical_caseMIR	SENT1	-	-
+4	41	41		-	-	13-15	11_QUEST_clinical_caseMIR	SENT1	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	11_QUEST_clinical_caseMIR	SENT1	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	11_QUEST_clinical_caseMIR	SENT1	-	-
+7	a	a	SPS00	-	-	27-28	11_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	29-37	11_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	38-41	11_QUEST_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	42-44	11_QUEST_clinical_caseMIR	SENT1	-	-
+11	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	45-51	11_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	52-54	11_QUEST_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	55-57	11_QUEST_clinical_caseMIR	SENT1	-	-
+14	tiroides	tiroides	NCFN000	-	-	58-66	11_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+15	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	67-74	11_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+16	se	se	P00CN000	-	-	75-77	11_QUEST_clinical_caseMIR	SENT1	-	-
+17	realiza	realizar	VMIP3S0	-	-	78-85	11_QUEST_clinical_caseMIR	SENT1	-	-
+18	una	una		C0205447_1	calificador_1	86-89	11_QUEST_clinical_caseMIR	SENT1	-	-
+19	punción	punción	NCFS000	C0033119	anomalía_morfológica	90-97	11_QUEST_clinical_caseMIR	SENT1	-	-
+20	aspiración	aspiración	NCFS000	C1510483_1	calificador_1	98-108	11_QUEST_clinical_caseMIR	SENT1	-	-
+21	con	con	SPS00	C1510483_2	calificador_2	109-112	11_QUEST_clinical_caseMIR	SENT1	-	-
+22	aguja	aguja	NCFS000	C1510483_3	calificador_3	113-118	11_QUEST_clinical_caseMIR	SENT1	-	-
+23	fina	fino	AQ0FS0	C1510483_4	calificador_4	119-123	11_QUEST_clinical_caseMIR	SENT1	-	-
+24	.	.	Fp	-	-	123-124	11_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	125-127	11_QUEST_clinical_caseMIR	SENT2	-	-
+2	análisis	análisis	NCMN000	C0002778	calificador	128-136	11_QUEST_clinical_caseMIR	SENT2	-	-
+3	citológico	citológico	AQ0MS0	C0205471	calificador	137-147	11_QUEST_clinical_caseMIR	SENT2	-	-
+4	nos	nos	PP1CP000	-	-	148-151	11_QUEST_clinical_caseMIR	SENT2	-	-
+5	permitirá	permitir	VMIF3S0	-	-	152-161	11_QUEST_clinical_caseMIR	SENT2	-	-
+6	:	:	Fd	-	-	161-162	11_QUEST_clinical_caseMIR	SENT2	-	-
+7	.	.	Fp	-	-	162-163	11_QUEST_clinical_caseMIR	SENT2	-	-
+

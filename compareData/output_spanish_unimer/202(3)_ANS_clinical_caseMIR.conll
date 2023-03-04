@@ -1,0 +1,14 @@
+1	Dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	0-10	202(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	de	de	SPS00	C0332285	atributo	11-13	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	14-16	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	17-23	202(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	la	el	DA0FS0	-	-	27-29	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	arteria	arteria	NCFS000	C1269008#C0205042_1	estructura_corporal_1	30-37	202(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	coronaria	coronario	AQ0FS0	C1269008#C0205042_2	estructura_corporal_2	38-47	202(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+9	mediante	mediante	SPS00	-	-	48-56	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	un	un		C0205447_1	calificador_1	57-59	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	cateterismo	cateterismo	NCMS000	C0007430	procedimiento	60-71	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	terapéutico	terapéutico	AQ0MS0	-	-	72-83	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	.	.	Fp	-	-	84-85	202(3)_ANS_clinical_caseMIR	SENT1	-	-
+

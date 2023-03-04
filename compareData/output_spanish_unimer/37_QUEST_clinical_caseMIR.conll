@@ -1,0 +1,40 @@
+1	Ante	ante	SPS00	-	-	0-4	37_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	5-7	37_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	37_QUEST_clinical_caseMIR	SENT1	-	-
+4	con	con	SPS00	C0332287	atributo	17-20	37_QUEST_clinical_caseMIR	SENT1	-	-
+5	mal	mal	AQ0CS0	C0205169	calificador	21-24	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	25-31	37_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+7	general	general	AQ0CS0	C0205246	calificador	32-39	37_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+8	,	,	Fc	-	-	39-40	37_QUEST_clinical_caseMIR	SENT1	-	-
+9	fiebre	fiebre	NCFS000	C0015967	hallazgo	41-47	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	(	(	Fpa	-	-	48-49	37_QUEST_clinical_caseMIR	SENT1	-	-
+11	temperatura	temperatura	NCFS000	C1531924_1	entidad_observable_1	49-60	37_QUEST_clinical_caseMIR	SENT1	-	-
+12	axilar	axilar	NC00SC0	C1531924_2	entidad_observable_2	61-67	37_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	39,5º	39,5º		-	-	68-73	37_QUEST_clinical_caseMIR	SENT1	-	-
+14	)	)	Fpt	-	-	73-74	37_QUEST_clinical_caseMIR	SENT1	-	-
+15	,	,	Fc	-	-	74-75	37_QUEST_clinical_caseMIR	SENT1	-	-
+16	tumefacción	tumefacción	NCFS000	C0038999	hallazgo#anomalía_morfológica	76-87	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+17	submandibular	submandibular	AQ0CS0	-	-	88-101	37_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+18	bilateral	bilateral	NC00SC0	C0238767	calificador	102-111	37_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+19	de	de	SPS00	C0332285	atributo	112-114	37_QUEST_clinical_caseMIR	SENT1	-	-
+20	seis	seis		-	-	115-119	37_QUEST_clinical_caseMIR	SENT1	-	-
+21	días	día	NCMP000	C0439228#C0332169	calificador	120-124	37_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	125-127	37_QUEST_clinical_caseMIR	SENT1	-	-
+23	evolución	evolución	NCFS000	-	-	128-137	37_QUEST_clinical_caseMIR	SENT1	-	-
+24	,	,	Fc	-	-	137-138	37_QUEST_clinical_caseMIR	SENT1	-	-
+25	dolor	dolor	NCMS000	C0030193	hallazgo	139-144	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+26	bucal	bucal	AQ0CS0	C0580023	calificador	145-150	37_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+27	y	y	CC	C1706368	calificador	151-152	37_QUEST_clinical_caseMIR	SENT1	-	-
+28	trismus	trismus	NC00SC0	C0041105	trastorno	153-160	37_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+29	,	,	Fc	-	-	160-161	37_QUEST_clinical_caseMIR	SENT1	-	-
+30	¿	¿	Fia	-	-	162-163	37_QUEST_clinical_caseMIR	SENT1	-	-
+31	cuál	cuál	PT0CS000	-	-	163-167	37_QUEST_clinical_caseMIR	SENT1	-	-
+32	de	de	SPS00	C0332285	atributo	168-170	37_QUEST_clinical_caseMIR	SENT1	-	-
+33	las	el	DA0FP0	-	-	171-174	37_QUEST_clinical_caseMIR	SENT1	-	-
+34	siguientes	siguiente	AQ0CP0	C0332282	atributo	175-185	37_QUEST_clinical_caseMIR	SENT1	-	-
+35	afirmaciones	afirmación	NCFP000	-	-	186-198	37_QUEST_clinical_caseMIR	SENT1	-	-
+36	es	ser	VSIP3S0	-	-	199-201	37_QUEST_clinical_caseMIR	SENT1	-	-
+37	correcta	correcto	AQ0FS0	C0205170	calificador	202-210	37_QUEST_clinical_caseMIR	SENT1	-	-
+38	?	?	Fit	-	-	210-211	37_QUEST_clinical_caseMIR	SENT1	-	-
+39	.	.	Fp	-	-	211-212	37_QUEST_clinical_caseMIR	SENT1	-	-
+

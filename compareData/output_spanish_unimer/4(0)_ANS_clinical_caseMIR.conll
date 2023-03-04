@@ -1,0 +1,21 @@
+1	Dado	dar	VMP00SM	C1947971	calificador	0-4	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	que	que	PR0CN000	-	-	5-8	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	la	el	DA0FS0	-	-	9-11	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	esofagitis	esofagitis	NCFN000	C0014868	trastorno	12-22	4(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+5	es	ser	VSIP3S0	-	-	23-25	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	26-30	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	y	y	CC	C1706368	calificador	31-32	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	33-35	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	displasia	displasia	NCFS000	C0334044#C1279612	anomalía_morfológica	36-45	4(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	46-48	4(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+11	bajo	bajo	SPS00	C1282907#C0547040_1	calificador_1	49-53	4(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+12	grado	grado	NCMS000	C1282907#C0547040_2	calificador_2	54-59	4(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+13	,	,	Fc	-	-	59-60	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	se	se	P00CN000	-	-	61-63	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	aconseja	aconsejar	VMIP3S0	C0150600	procedimiento	64-72	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	continuar	continuar	VMN0000	-	-	73-82	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	83-94	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	con	con	SPS00	C0332287	atributo	95-98	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	alcalinos	alcalino	AQ0MP0	-	-	99-108	4(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+20	.	.	Fp	-	-	109-110	4(0)_ANS_clinical_caseMIR	SENT1	-	-
+

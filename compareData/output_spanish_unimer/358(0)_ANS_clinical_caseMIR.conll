@@ -1,0 +1,27 @@
+1	Continuar	continuar	VMN0000	-	-	0-9	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	con	con	SPS00	C0332287	atributo	10-13	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	cefuroxima	cefuroxima	NC00SC0	C0007562	producto#sustancia	14-24	358(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	a	a	SPS00	-	-	25-26	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	la	el	DA0FS0	-	-	27-29	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	espera	espera	NCFS000	-	-	30-36	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	del	del	SP+DA	-	-	37-40	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	resultada	resultar	VMP00SF	-	-	41-50	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	definitivo	definitivo	NC00SC0	C0443196	calificador	51-61	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	,	,	Fc	-	-	61-62	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	pues	pues	CS	-	-	63-67	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	el	el	DA0MS0	-	-	68-70	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	71-79	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	ha	haber	VAIP3S0	-	-	80-82	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	llevado	llevar	VMP00SM	-	-	83-90	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	múltiples	múltiple	AQ0CP0	C0439064	calificador	91-100	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	101-113	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	y	y	CC	C1706368	calificador	114-115	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	no	no	RN	C1298908	calificador	116-118	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	deberíamos	deber	VMIC1P0	-	-	119-129	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+21	equivocamos	equivocar	VMIP1P0	-	-	130-141	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	142-144	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+23	su	su	DP3CS0	-	-	145-147	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+24	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	148-159	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+25	actual	actual	AQ0CS0	C0521116	calificador	160-166	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	167-168	358(0)_ANS_clinical_caseMIR	SENT1	-	-
+

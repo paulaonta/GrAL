@@ -1,0 +1,16 @@
+1	Se	se	P00CN000	-	-	0-2	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	debe	deber	VMIP3S0	-	-	3-7	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	realizar	realizar	VMN0000	-	-	8-16	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	17-28	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	29-32	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	33-41	102(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	antivitamina	antivitamina	NCFS000	-	-	42-54	102(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	K	k	NCFS000	-	-	55-56	102(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+9	(	(	Fpa	-	-	57-58	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+10	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	58-70	102(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+11	)	)	Fpt	-	-	70-71	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	durante	durante	SPS00	C1444752#C0347984	atributo	72-79	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	80-82	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	83-91	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	.	.	Fp	-	-	92-93	102(4)_ANS_clinical_caseMIR	SENT1	-	-
+

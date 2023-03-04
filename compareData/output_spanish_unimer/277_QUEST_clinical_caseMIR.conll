@@ -1,0 +1,106 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	277_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	277_QUEST_clinical_caseMIR	SENT1	-	-
+3	87	87		-	-	10-12	277_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	277_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	277_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	22-34	277_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	35-37	277_QUEST_clinical_caseMIR	SENT1	-	-
+8	hipertensión	hipertensión	NCFS000	-	-	38-50	277_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	51-52	277_QUEST_clinical_caseMIR	SENT1	-	-
+10	gonartrosis	gonartrosis	NC00KE0	-	-	53-64	277_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	64-65	277_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Situación	situación	NCFS000	-	-	66-75	277_QUEST_clinical_caseMIR	SENT2	-	-
+2	basal	basal	AQ0CS0	C0205112	calificador	76-81	277_QUEST_clinical_caseMIR	SENT2	-	-
+3	con	con	SPS00	C0332287	atributo	82-85	277_QUEST_clinical_caseMIR	SENT2	-	-
+4	autonomía	autonomía	NCFS000	-	-	86-95	277_QUEST_clinical_caseMIR	SENT2	-	-
+5	funcional	funcional	AQ0CS0	C0205245	calificador	96-105	277_QUEST_clinical_caseMIR	SENT2	-	-
+6	y	y	CC	C1706368	calificador	106-107	277_QUEST_clinical_caseMIR	SENT2	-	-
+7	cognitiva	cognitivo	AQ0FS0	-	-	108-117	277_QUEST_clinical_caseMIR	SENT2	-	-
+8	plena	pleno	AQ0FS0	C0439818	calificador	118-123	277_QUEST_clinical_caseMIR	SENT2	-	-
+9	que	que	PR0CN000	-	-	124-127	277_QUEST_clinical_caseMIR	SENT2	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	128-130	277_QUEST_clinical_caseMIR	SENT2	-	-
+11	permite	permitir	VMIP3S0	-	-	131-138	277_QUEST_clinical_caseMIR	SENT2	-	-
+12	continuar	continuar	VMN0000	-	-	139-148	277_QUEST_clinical_caseMIR	SENT2	-	-
+13	viviendo	vivir	VMG0000	-	-	149-157	277_QUEST_clinical_caseMIR	SENT2	-	-
+14	solo	solo	RG	C0205171	calificador	158-162	277_QUEST_clinical_caseMIR	SENT2	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	163-165	277_QUEST_clinical_caseMIR	SENT2	-	-
+16	la	el	DA0FS0	-	-	166-168	277_QUEST_clinical_caseMIR	SENT2	-	-
+17	comunidad	comunidad	NCFS000	C0009462	contexto_social	169-178	277_QUEST_clinical_caseMIR	SENT2	-	-
+18	.	.	Fp	-	-	178-179	277_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Realiza	realizar	VMIP3S0	-	-	180-187	277_QUEST_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	188-199	277_QUEST_clinical_caseMIR	SENT3	-	-
+3	habitual	habitual	AQ0CS0	C0205353	calificador	200-208	277_QUEST_clinical_caseMIR	SENT3	-	-
+4	con	con	SPS00	C0332287	atributo	209-212	277_QUEST_clinical_caseMIR	SENT3	-	-
+5	perindopril	perindopril	NC00SC0	C0136123	producto#sustancia	213-224	277_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	y	y	CC	C1706368	calificador	225-226	277_QUEST_clinical_caseMIR	SENT3	-	-
+7	diurético	diurético	NCMS000	C0012802_1	sustancia_1	227-236	277_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	tiazídico	tiazídico		C0012802_2	sustancia_2	237-246	277_QUEST_clinical_caseMIR	SENT3	I-Grp_Medicamento	-
+9	para	para	SPS00	C0521125	calificador	247-251	277_QUEST_clinical_caseMIR	SENT3	-	-
+10	control	control	NCMS000	C2587213	atributo	252-259	277_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	260-262	277_QUEST_clinical_caseMIR	SENT3	-	-
+12	la	el	DA0FS0	-	-	263-265	277_QUEST_clinical_caseMIR	SENT3	-	-
+13	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	266-273	277_QUEST_clinical_caseMIR	SENT3	-	-
+14	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	274-282	277_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+15	y	y	CC	C1706368	calificador	283-284	277_QUEST_clinical_caseMIR	SENT3	-	-
+16	toma	toma	NCFS000	-	-	285-289	277_QUEST_clinical_caseMIR	SENT3	-	-
+17	de	de	SPS00	C0332285	atributo	290-292	277_QUEST_clinical_caseMIR	SENT3	-	-
+18	forma	forma	NCFS000	C0348078	atributo	293-298	277_QUEST_clinical_caseMIR	SENT3	-	-
+19	rutinaria	rutinario	AQ0FS0	-	-	299-308	277_QUEST_clinical_caseMIR	SENT3	-	-
+20	ibuprofeno	ibuprofeno	NCMS000	C0020740	sustancia	309-319	277_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+21	1800	1800	Z	-	-	320-324	277_QUEST_clinical_caseMIR	SENT3	-	-
+22	mg	mg	NCMN000	-	-	325-327	277_QUEST_clinical_caseMIR	SENT3	-	-
+23	/	/	Fh	-	-	327-328	277_QUEST_clinical_caseMIR	SENT3	-	-
+24	día	día	NCMS000	C0439228#C0332169	calificador	328-331	277_QUEST_clinical_caseMIR	SENT3	-	-
+25	para	para	SPS00	C0521125	calificador	332-336	277_QUEST_clinical_caseMIR	SENT3	-	-
+26	control	control	NCMS000	C2587213	atributo	337-344	277_QUEST_clinical_caseMIR	SENT3	-	-
+27	de	de	SPS00	C0332285	atributo	345-347	277_QUEST_clinical_caseMIR	SENT3	-	-
+28	los	el	DA0MP0	-	-	348-351	277_QUEST_clinical_caseMIR	SENT3	-	-
+29	síntomas	síntoma	NCMP000	C1457887	hallazgo	352-360	277_QUEST_clinical_caseMIR	SENT3	-	-
+30	derivados	derivar	VMP00PM	-	-	361-370	277_QUEST_clinical_caseMIR	SENT3	-	-
+31	de	de	SPS00	C0332285	atributo	371-373	277_QUEST_clinical_caseMIR	SENT3	-	-
+32	su	su	DP3CS0	-	-	374-376	277_QUEST_clinical_caseMIR	SENT3	-	-
+33	gonartrosis	gonartrosis	NC00KE0	-	-	377-388	277_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+34	.	.	Fp	-	-	388-389	277_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Tras	tras	SPS00	-	-	390-394	277_QUEST_clinical_caseMIR	SENT4	-	-
+2	control	control	NCMS000	C2587213	atributo	395-402	277_QUEST_clinical_caseMIR	SENT4	-	-
+3	rutinario	rutinario	AQ0MS0	-	-	403-412	277_QUEST_clinical_caseMIR	SENT4	-	-
+4	se	se	P00CN000	-	-	413-415	277_QUEST_clinical_caseMIR	SENT4	-	-
+5	objetiva	objetivar	VMIP3S0	-	-	416-424	277_QUEST_clinical_caseMIR	SENT4	-	-
+6	,	,	Fc	-	-	424-425	277_QUEST_clinical_caseMIR	SENT4	-	-
+7	de	de	SPS00	C0332285	atributo	426-428	277_QUEST_clinical_caseMIR	SENT4	-	-
+8	forma	forma	NCFS000	C0348078	atributo	429-434	277_QUEST_clinical_caseMIR	SENT4	-	-
+9	persistente	persistente	AQ0CS0	C0205322#C0549178	calificador	435-446	277_QUEST_clinical_caseMIR	SENT4	-	-
+10	,	,	Fc	-	-	446-447	277_QUEST_clinical_caseMIR	SENT4	-	-
+11	una	una		C0205447_1	calificador_1	448-451	277_QUEST_clinical_caseMIR	SENT4	-	-
+12	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	452-459	277_QUEST_clinical_caseMIR	SENT4	-	-
+13	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	460-468	277_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+14	de	de	SPS00	C0332285	atributo	469-471	277_QUEST_clinical_caseMIR	SENT4	-	-
+15	190	190		-	-	472-475	277_QUEST_clinical_caseMIR	SENT4	-	-
+16	y	y	CC	C1706368	calificador	476-477	277_QUEST_clinical_caseMIR	SENT4	-	-
+17	TAD	tensión_arterial_diastólica	NC00YL0	-	-	478-481	277_QUEST_clinical_caseMIR	SENT4	-	-
+18	80	80	Z	-	-	482-484	277_QUEST_clinical_caseMIR	SENT4	-	-
+19	mmHg	mmHg	NCMP000	-	-	485-489	277_QUEST_clinical_caseMIR	SENT4	-	-
+20	.	.	Fp	-	-	489-490	277_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	491-492	277_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	492-496	277_QUEST_clinical_caseMIR	SENT5	-	-
+3	sería	ser	VSIC1S0	-	-	497-502	277_QUEST_clinical_caseMIR	SENT5	-	-
+4	la	el	DA0FS0	-	-	503-505	277_QUEST_clinical_caseMIR	SENT5	-	-
+5	modificación	modificación	NCFS000	-	-	506-518	277_QUEST_clinical_caseMIR	SENT5	-	-
+6	terapéutica	terapéutico	AQ0FS0	-	-	519-530	277_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205172	calificador	531-534	277_QUEST_clinical_caseMIR	SENT5	-	-
+8	razonable	razonable	AQ0CS0	-	-	535-544	277_QUEST_clinical_caseMIR	SENT5	-	-
+9	para	para	SPS00	C0521125	calificador	545-549	277_QUEST_clinical_caseMIR	SENT5	-	-
+10	conseguir	conseguir	VMN0000	-	-	550-559	277_QUEST_clinical_caseMIR	SENT5	-	-
+11	el	el	DA0MS0	-	-	560-562	277_QUEST_clinical_caseMIR	SENT5	-	-
+12	control	control	NCMS000	C2587213	atributo	563-570	277_QUEST_clinical_caseMIR	SENT5	-	-
+13	de	de	SPS00	C0332285	atributo	571-573	277_QUEST_clinical_caseMIR	SENT5	-	-
+14	las	el	DA0FP0	-	-	574-577	277_QUEST_clinical_caseMIR	SENT5	-	-
+15	cifras	cifra	NCFP000	-	-	578-584	277_QUEST_clinical_caseMIR	SENT5	-	-
+16	tensionales	tensional	AQ0CP0	-	-	585-596	277_QUEST_clinical_caseMIR	SENT5	-	-
+17	?	?	Fit	-	-	596-597	277_QUEST_clinical_caseMIR	SENT5	-	-
+18	.	.	Fp	-	-	597-598	277_QUEST_clinical_caseMIR	SENT5	-	-
+

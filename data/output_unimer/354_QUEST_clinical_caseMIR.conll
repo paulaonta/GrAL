@@ -1,0 +1,49 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	354_QUEST_clinical_caseMIR	SENT1	-	-
+2	pareja	pareja	NCFS000	-	-	4-10	354_QUEST_clinical_caseMIR	SENT1	-	-
+3	sana	sano	AQ0FS0	-	-	11-15	354_QUEST_clinical_caseMIR	SENT1	-	-
+4	tiene	tener	VMIP3S0	-	-	16-21	354_QUEST_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	22-25	354_QUEST_clinical_caseMIR	SENT1	-	-
+6	hija	hijo	NCFS000	-	-	26-30	354_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	31-33	354_QUEST_clinical_caseMIR	SENT1	-	-
+8	8	8		-	-	34-35	354_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	36-40	354_QUEST_clinical_caseMIR	SENT1	-	-
+10	con	con	SPS00	C0332287	atributo	41-44	354_QUEST_clinical_caseMIR	SENT1	-	-
+11	hepatoesplenomegalia	hepatoesplenomegalia	NCFS000	C0019214	trastorno	45-65	354_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	El	el	DA0MS0	-	-	66-68	354_QUEST_clinical_caseMIR	SENT1	-	-
+13	laboratorio	laboratorio	NCMS000	C0022877	medio_ambiente	69-80	354_QUEST_clinical_caseMIR	SENT1	-	-
+14	de	de	SPS00	C0332285	atributo	81-83	354_QUEST_clinical_caseMIR	SENT1	-	-
+15	genética	genético	AQ0FS0	-	-	84-92	354_QUEST_clinical_caseMIR	SENT1	-	-
+16	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	93-103	354_QUEST_clinical_caseMIR	SENT1	-	-
+17	ha	haber	VAIP3S0	-	-	104-106	354_QUEST_clinical_caseMIR	SENT1	-	-
+18	detectado	detectar	VMP00SM	-	-	107-116	354_QUEST_clinical_caseMIR	SENT1	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	117-119	354_QUEST_clinical_caseMIR	SENT1	-	-
+20	ella	él	PP3FS000	-	-	120-124	354_QUEST_clinical_caseMIR	SENT1	-	-
+21	un	un		C0205447_1	calificador_1	125-127	354_QUEST_clinical_caseMIR	SENT1	-	-
+22	déficit	déficit	NCMS000	C0011155_1	atributo_1	128-135	354_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	de	de	SPS00	C0011155_2	atributo_2	136-138	354_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+24	la	el	DA0FS0	-	-	139-141	354_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+25	enzima	enzima	NCCS000	C0014442	sustancia	142-148	354_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+26	beta_x0002_glucosidasa	beta_x0002_glucosidasa		-	-	149-171	354_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+27	acida	acidar	VMIP3S0	-	-	172-177	354_QUEST_clinical_caseMIR	SENT1	-	-
+28	(	(	Fpa	-	-	178-179	354_QUEST_clinical_caseMIR	SENT1	-	-
+29	glucocerebrosidasa	glucocerebrosidasa	NC00SC0	C0102139	sustancia	179-197	354_QUEST_clinical_caseMIR	SENT1	-	-
+30	)	)	Fpt	-	-	197-198	354_QUEST_clinical_caseMIR	SENT1	-	-
+31	y	y	CC	C1706368	calificador	199-200	354_QUEST_clinical_caseMIR	SENT1	-	-
+32	molecularmente	molecularmente	RG	-	-	201-215	354_QUEST_clinical_caseMIR	SENT1	-	-
+33	presenta	presentar	VMIP3S0	-	-	216-224	354_QUEST_clinical_caseMIR	SENT1	-	-
+34	la	el	DA0FS0	-	-	225-227	354_QUEST_clinical_caseMIR	SENT1	-	-
+35	mutación	mutación	NCFS000	-	-	228-236	354_QUEST_clinical_caseMIR	SENT1	-	-
+36	N370S	N370S		-	-	237-242	354_QUEST_clinical_caseMIR	SENT1	-	-
+37	en	en	SPS00	C1720294#C0332285	calificador#atributo	243-245	354_QUEST_clinical_caseMIR	SENT1	-	-
+38	homocigosis	homocigosis	NCFN000	-	-	246-257	354_QUEST_clinical_caseMIR	SENT1	-	-
+39	.	.	Fp	-	-	257-258	354_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	¿	¿	Fia	-	-	259-260	354_QUEST_clinical_caseMIR	SENT2	-	-
+2	Qué	qué	DT0CN0	-	-	260-263	354_QUEST_clinical_caseMIR	SENT2	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	264-275	354_QUEST_clinical_caseMIR	SENT2	-	-
+4	es	ser	VSIP3S0	-	-	276-278	354_QUEST_clinical_caseMIR	SENT2	-	-
+5	el	el	DA0MS0	-	-	279-281	354_QUEST_clinical_caseMIR	SENT2	-	-
+6	correcto	correcto	NC00SC0	C0205170	calificador	282-290	354_QUEST_clinical_caseMIR	SENT2	-	-
+7	?	?	Fit	-	-	290-291	354_QUEST_clinical_caseMIR	SENT2	-	-
+8	.	.	Fp	-	-	291-292	354_QUEST_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,128 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	509_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	509_QUEST_clinical_caseMIR	SENT1	-	-
+3	23	23		-	-	9-11	509_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	509_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	509_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	509_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	509_QUEST_clinical_caseMIR	SENT1	-	-
+8	es	ser	VSIP3S0	-	-	29-31	509_QUEST_clinical_caseMIR	SENT1	-	-
+9	traída	traer	VMP00SF	-	-	32-38	509_QUEST_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	39-40	509_QUEST_clinical_caseMIR	SENT1	-	-
+11	urgencias	urgencia	NCFP000	C0439609	calificador	41-50	509_QUEST_clinical_caseMIR	SENT1	-	-
+12	por	por	SPS00	C0678226	atributo	51-54	509_QUEST_clinical_caseMIR	SENT1	-	-
+13	el	el	DA0MS0	-	-	55-57	509_QUEST_clinical_caseMIR	SENT1	-	-
+14	servicio	servicio	NCMS000	-	-	58-66	509_QUEST_clinical_caseMIR	SENT1	-	-
+15	de	de	SPS00	C0332285	atributo	67-69	509_QUEST_clinical_caseMIR	SENT1	-	-
+16	emergencias	emergencia	NCFP000	C0175673	calificador	70-81	509_QUEST_clinical_caseMIR	SENT1	-	-
+17	extrahospita_x0002_lario	extrahospita_x0002_lario		-	-	82-106	509_QUEST_clinical_caseMIR	SENT1	-	-
+18	tras	tras	SPS00	-	-	107-111	509_QUEST_clinical_caseMIR	SENT1	-	-
+19	accidente	accidente	NCMS000	C0415499_1	evento_1	112-121	509_QUEST_clinical_caseMIR	SENT1	-	-
+20	de	de	SPS00	C0415499_2	evento_2	122-124	509_QUEST_clinical_caseMIR	SENT1	-	-
+21	tráfico	tráfico	NCMS000	-	-	125-132	509_QUEST_clinical_caseMIR	SENT1	-	-
+22	con	con	SPS00	C0332287	atributo	133-136	509_QUEST_clinical_caseMIR	SENT1	-	-
+23	el	el	DA0MS0	-	-	137-139	509_QUEST_clinical_caseMIR	SENT1	-	-
+24	resultado	resultar	VMP00SM	C0686907_1	calificador_1	140-149	509_QUEST_clinical_caseMIR	SENT1	-	-
+25	de	de	SPS00	C0686907_2	calificador_2	150-152	509_QUEST_clinical_caseMIR	SENT1	-	-
+26	2	2		-	-	153-154	509_QUEST_clinical_caseMIR	SENT1	-	-
+27	muertos	muerto	NCMP000	C1546956	hallazgo	155-162	509_QUEST_clinical_caseMIR	SENT1	-	-
+28	y	y	CC	C1706368	calificador	163-164	509_QUEST_clinical_caseMIR	SENT1	-	-
+29	ella	él	PP3FS000	-	-	165-169	509_QUEST_clinical_caseMIR	SENT1	-	-
+30	la	el	DA0FS0	-	-	170-172	509_QUEST_clinical_caseMIR	SENT1	-	-
+31	única	único	AQ0FS0	C0205171	calificador	173-178	509_QUEST_clinical_caseMIR	SENT1	-	-
+32	superviviente	superviviente	NCCS000	-	-	179-192	509_QUEST_clinical_caseMIR	SENT1	-	-
+33	.	.	Fp	-	-	192-193	509_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	194-195	509_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	196-198	509_QUEST_clinical_caseMIR	SENT2	-	-
+3	llegada	llegada	NCFS000	-	-	199-206	509_QUEST_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	-	-	207-208	509_QUEST_clinical_caseMIR	SENT2	-	-
+5	nuestro	nuestro	DP1MSP	-	-	209-216	509_QUEST_clinical_caseMIR	SENT2	-	-
+6	centro	centro	NCMS000	C0205099	calificador	217-223	509_QUEST_clinical_caseMIR	SENT2	-	-
+7	la	el	DA0FS0	-	-	224-226	509_QUEST_clinical_caseMIR	SENT2	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	227-235	509_QUEST_clinical_caseMIR	SENT2	-	-
+9	está	estar	VAIP3S0	-	-	236-240	509_QUEST_clinical_caseMIR	SENT2	-	-
+10	bajo	bajo	SPS00	C0205251	calificador	241-245	509_QUEST_clinical_caseMIR	SENT2	-	-
+11	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	246-256	509_QUEST_clinical_caseMIR	SENT2	-	-
+12	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	257-268	509_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+13	y	y	CC	C1706368	calificador	269-270	509_QUEST_clinical_caseMIR	SENT2	-	-
+14	hemodinámica_x0002_mente	hemodinámica_x0002_mente		-	-	271-295	509_QUEST_clinical_caseMIR	SENT2	-	-
+15	estable	estable	NC00SC0	C0205360	calificador	296-303	509_QUEST_clinical_caseMIR	SENT2	-	-
+16	.	.	Fp	-	-	303-304	509_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	305-307	509_QUEST_clinical_caseMIR	SENT3	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	308-319	509_QUEST_clinical_caseMIR	SENT3	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	320-326	509_QUEST_clinical_caseMIR	SENT3	-	-
+4	nos	nos	PP1CP000	-	-	327-330	509_QUEST_clinical_caseMIR	SENT3	-	-
+5	revela	revelar	VMIP3S0	-	-	331-337	509_QUEST_clinical_caseMIR	SENT3	-	-
+6	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	338-346	509_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+7	contusas	contuso	AQ0FP0	-	-	347-355	509_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+8	múltiples	múltiple	AQ0CP0	C0439064	calificador	356-365	509_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+9	por	por	SPS00	C0678226	atributo	366-369	509_QUEST_clinical_caseMIR	SENT3	-	-
+10	todo	todo	RG	C0444584#C0229960_1	calificador#estructura_corporal_1	370-374	509_QUEST_clinical_caseMIR	SENT3	-	-
+11	el	el	DA0MS0	C0444584#C0229960_2	calificador#estructura_corporal_2	375-377	509_QUEST_clinical_caseMIR	SENT3	-	-
+12	cuerpo	cuerpo	NCMS000	C0444584#C0229960_3	calificador#estructura_corporal_3	378-384	509_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+13	,	,	Fc	-	-	384-385	509_QUEST_clinical_caseMIR	SENT3	-	-
+14	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	386-392	509_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+15	sangrante	sangrante	AQ0CS0	C0019080	-	393-402	509_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	403-405	509_QUEST_clinical_caseMIR	SENT3	-	-
+17	sábana	sábana	NCFS000	C0336615	objeto_físico	406-412	509_QUEST_clinical_caseMIR	SENT3	-	-
+18	sobre	sobre	SPS00	C1720294#C0205136	calificador	413-418	509_QUEST_clinical_caseMIR	SENT3	-	-
+19	cuero	cuero	NCMS000	C1278997#C0036270_1	estructura_corporal_1	419-424	509_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+20	cabelludo	cabelludo	AQ0MS0	C1278997#C0036270_2	estructura_corporal_2	425-434	509_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+21	,	,	Fc	-	-	434-435	509_QUEST_clinical_caseMIR	SENT3	-	-
+22	así	así	RG	-	-	436-439	509_QUEST_clinical_caseMIR	SENT3	-	-
+23	como	como	SPS00	C0332257	calificador	440-444	509_QUEST_clinical_caseMIR	SENT3	-	-
+24	ligera	ligero	AQ0FS0	-	-	445-451	509_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+25	hipofonesis	hipofonesis	NCFN000	-	-	452-463	509_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+26	generalizada	generalizar	VMP00SF	-	-	464-476	509_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+27	bilateral	bilateral	NC00SC0	C0238767	calificador	477-486	509_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+28	.	.	Fp	-	-	486-487	509_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Auscultación	auscultación	NCFS000	C0018793_1	procedimiento_1	488-500	509_QUEST_clinical_caseMIR	SENT4	-	-
+2	cardíaca	cardíaco	NCFS000	C0018793_2	procedimiento_2	501-509	509_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+3	normal	normal	AQ0CS0	C0205307	calificador	510-516	509_QUEST_clinical_caseMIR	SENT4	-	-
+4	.	.	Fp	-	-	516-517	509_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Abdomen	abdomen	NCMS000	C0000726#C1281594#C0449202	estructura_corporal	518-525	509_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-
+2	:	:	Fd	-	-	525-526	509_QUEST_clinical_caseMIR	SENT5	-	-
+3	blando	blando	AQ0MS0	C0205358	calificador	527-533	509_QUEST_clinical_caseMIR	SENT5	-	-
+4	y	y	CC	C1706368	calificador	534-535	509_QUEST_clinical_caseMIR	SENT5	-	-
+5	depresible	depresible	NC00SC0	C0205323	calificador	536-546	509_QUEST_clinical_caseMIR	SENT5	-	-
+6	sin	sin	SPS00	C0332288	atributo	547-550	509_QUEST_clinical_caseMIR	SENT5	-	-
+7	signos	signo	NCMP000	C0311392	hallazgo	551-557	509_QUEST_clinical_caseMIR	SENT5	-	-
+8	de	de	SPS00	C0332285	atributo	558-560	509_QUEST_clinical_caseMIR	SENT5	-	-
+9	peritonismo	peritonismo	NCMS000	-	-	561-572	509_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Negacion
+10	.	.	Fp	-	-	572-573	509_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Resto	resto	NCMS000	-	-	574-579	509_QUEST_clinical_caseMIR	SENT6	-	-
+2	de	de	SPS00	C0332285	atributo	580-582	509_QUEST_clinical_caseMIR	SENT6	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	583-594	509_QUEST_clinical_caseMIR	SENT6	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	595-601	509_QUEST_clinical_caseMIR	SENT6	-	-
+5	por	por	SPS00	C0678226	atributo	602-605	509_QUEST_clinical_caseMIR	SENT6	-	-
+6	aparatos	aparato	NCMP000	C1542418#C0699733	objeto_físico	606-614	509_QUEST_clinical_caseMIR	SENT6	-	-
+7	normal	normal	AQ0CS0	C0205307	calificador	615-621	509_QUEST_clinical_caseMIR	SENT6	-	-
+8	.	.	Fp	-	-	621-622	509_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Se	se	P00CN000	-	-	623-625	509_QUEST_clinical_caseMIR	SENT7	-	-
+2	decide	decidir	VMIP3S0	-	-	626-632	509_QUEST_clinical_caseMIR	SENT7	-	-
+3	realizar	realizar	VMN0000	-	-	633-641	509_QUEST_clinical_caseMIR	SENT7	-	-
+4	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	642-644	509_QUEST_clinical_caseMIR	SENT7	-	-
+5	cráneo-cérvico-torácico-abdomino-pélvico	cráneo-cérvico-torácico-abdomino-pélvico	AQ0MS00	-	-	645-685	509_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-
+6	.	.	Fp	-	-	685-686	509_QUEST_clinical_caseMIR	SENT7	-	-
+
+1	¿	¿	Fia	-	-	687-688	509_QUEST_clinical_caseMIR	SENT8	-	-
+2	Qué	qué	DT0CN0	-	-	688-691	509_QUEST_clinical_caseMIR	SENT8	-	-
+3	hallazgo	hallazgo	NCMS000	C1290916_1	hallazgo_1	692-700	509_QUEST_clinical_caseMIR	SENT8	-	-
+4	radiológico	radiológico	NC00SC0	C1290916_2	hallazgo_2	701-712	509_QUEST_clinical_caseMIR	SENT8	-	-
+5	NO	no	RN	C1298908	calificador	713-715	509_QUEST_clinical_caseMIR	SENT8	-	-
+6	sería	ser	VSIC1S0	-	-	716-721	509_QUEST_clinical_caseMIR	SENT8	-	-
+7	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	722-732	509_QUEST_clinical_caseMIR	SENT8	-	-
+8	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	733-736	509_QUEST_clinical_caseMIR	SENT8	-	-
+9	una	una		C0205447_1	calificador_1	737-740	509_QUEST_clinical_caseMIR	SENT8	-	-
+10	rotura	rotura	NCFS000	-	-	741-747	509_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	Especulacion
+11	de	de	SPS00	C0332285	atributo	748-750	509_QUEST_clinical_caseMIR	SENT8	-	-
+12	aorta	aorta	NCFS000	C1278934	estructura_corporal	751-756	509_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-
+13	contenida	contener	VMP00SF	-	-	757-766	509_QUEST_clinical_caseMIR	SENT8	-	-
+14	?	?	Fit	-	-	766-767	509_QUEST_clinical_caseMIR	SENT8	-	-
+15	.	.	Fp	-	-	767-768	509_QUEST_clinical_caseMIR	SENT8	-	-
+

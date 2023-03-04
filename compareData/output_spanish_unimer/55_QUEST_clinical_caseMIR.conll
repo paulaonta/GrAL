@@ -1,0 +1,116 @@
+1	Nos	nos	PP1CP000	-	-	0-3	55_QUEST_clinical_caseMIR	SENT1	-	-
+2	consultan	consultar	VMIP3P0	-	-	4-13	55_QUEST_clinical_caseMIR	SENT1	-	-
+3	para	para	SPS00	C0521125	calificador	14-18	55_QUEST_clinical_caseMIR	SENT1	-	-
+4	valorar	valorar	VMN0000	-	-	19-26	55_QUEST_clinical_caseMIR	SENT1	-	-
+5	una	una		C0205447_1	calificador_1	27-30	55_QUEST_clinical_caseMIR	SENT1	-	-
+6	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	31-36	55_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332285	atributo	37-39	55_QUEST_clinical_caseMIR	SENT1	-	-
+8	83	83		-	-	40-42	55_QUEST_clinical_caseMIR	SENT1	-	-
+9	años	año	NCMP000	C0439234	calificador	43-47	55_QUEST_clinical_caseMIR	SENT1	-	-
+10	que	que	PR0CN000	-	-	48-51	55_QUEST_clinical_caseMIR	SENT1	-	-
+11	ha	haber	VAIP3S0	-	-	52-54	55_QUEST_clinical_caseMIR	SENT1	-	-
+12	ingresado	ingresar	VMP00SM	-	-	55-64	55_QUEST_clinical_caseMIR	SENT1	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	55_QUEST_clinical_caseMIR	SENT1	-	-
+14	el	el	DA0MS0	-	-	68-70	55_QUEST_clinical_caseMIR	SENT1	-	-
+15	servicio	servicio	NCMS000	-	-	71-79	55_QUEST_clinical_caseMIR	SENT1	-	-
+16	de	de	SPS00	C0332285	atributo	80-82	55_QUEST_clinical_caseMIR	SENT1	-	-
+17	Traumatología	traumatología	NCFS000	-	-	83-96	55_QUEST_clinical_caseMIR	SENT1	-	-
+18	por	por	SPS00	C0678226	atributo	97-100	55_QUEST_clinical_caseMIR	SENT1	-	-
+19	una	una		C0205447_1	calificador_1	101-104	55_QUEST_clinical_caseMIR	SENT1	-	-
+20	fractura	fracturar	VMM02S0	C0435805#C0019557#C0015806_1	trastorno_1	105-113	55_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+21	de	de	SPS00	C0435805#C0019557#C0015806_2	trastorno_2	114-116	55_QUEST_clinical_caseMIR	SENT1	-	-
+22	cadera	cadera	NCFS000	C0435805#C0019557#C0015806_3	trastorno_3	117-123	55_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+23	hace	hacer	VMIP3S0	-	-	124-128	55_QUEST_clinical_caseMIR	SENT1	-	-
+24	6	6	Z	C1292428_1	calificador_1	129-130	55_QUEST_clinical_caseMIR	SENT1	-	-
+25	horas	hora	NCFP000	C1292428_2	calificador_2	131-136	55_QUEST_clinical_caseMIR	SENT1	-	-
+26	.	.	Fp	-	-	136-137	55_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	138-143	55_QUEST_clinical_caseMIR	SENT2	-	-
+2	AP	ap	NC00YL0	-	-	144-146	55_QUEST_clinical_caseMIR	SENT2	-	-
+3	de	de	SPS00	C0332285	atributo	147-149	55_QUEST_clinical_caseMIR	SENT2	-	-
+4	HTA	hta	NC00YL0	-	-	150-153	55_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+5	,	,	Fc	-	-	153-154	55_QUEST_clinical_caseMIR	SENT2	-	-
+6	DL	decilitro	NCMN000	C0439241	calificador	155-157	55_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+7	,	,	Fc	-	-	157-158	55_QUEST_clinical_caseMIR	SENT2	-	-
+8	demencia	demencia	NCFS000	C0497327	trastorno	159-167	55_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+9	moderada	moderar	VMP00SF	-	-	168-176	55_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+10	y	y	CC	C1706368	calificador	177-178	55_QUEST_clinical_caseMIR	SENT2	-	-
+11	vive	vivir	VMIP3S0	-	-	179-183	55_QUEST_clinical_caseMIR	SENT2	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	184-186	55_QUEST_clinical_caseMIR	SENT2	-	-
+13	una	una		C0205447_1	calificador_1	187-190	55_QUEST_clinical_caseMIR	SENT2	-	-
+14	residencia	residencia	NCFS000	-	-	191-201	55_QUEST_clinical_caseMIR	SENT2	-	-
+15	.	.	Fp	-	-	201-202	55_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Su	su	DP3CS0	-	-	203-205	55_QUEST_clinical_caseMIR	SENT3	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	206-217	55_QUEST_clinical_caseMIR	SENT3	-	-
+3	habitual	habitual	AQ0CS0	C0205353	calificador	218-226	55_QUEST_clinical_caseMIR	SENT3	-	-
+4	es	ser	VSIP3S0	-	-	227-229	55_QUEST_clinical_caseMIR	SENT3	-	-
+5	tiazida	tiazida	NC00SC0	C0012802	sustancia	230-237	55_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+6	,	,	Fc	-	-	237-238	55_QUEST_clinical_caseMIR	SENT3	-	-
+7	atorvastatina	atorvastatina	NC00SC0	C0286651	producto#sustancia	239-252	55_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+8	,	,	Fc	-	-	252-253	55_QUEST_clinical_caseMIR	SENT3	-	-
+9	donepezilo	donepezilo	NC00SC0	C0527316	producto#sustancia	254-264	55_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+10	,	,	Fc	-	-	264-265	55_QUEST_clinical_caseMIR	SENT3	-	-
+11	Calcio	calcio	NCMS000	C0006675	sustancia	266-272	55_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+12	y	y	CC	C1706368	calificador	273-274	55_QUEST_clinical_caseMIR	SENT3	-	-
+13	vitamina	vitamina	NCFS000	C0042890	sustancia	275-283	55_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-
+14	D.	d.	AQ0CS00	-	-	284-286	55_QUEST_clinical_caseMIR	SENT3	-	-
+15	EF	ef	NC00YL0	-	-	287-289	55_QUEST_clinical_caseMIR	SENT3	-	-
+16	:	:	Fd	-	-	289-290	55_QUEST_clinical_caseMIR	SENT3	-	-
+17	Paciente	paciente	NCCS000	C0030705	persona	291-299	55_QUEST_clinical_caseMIR	SENT3	-	-
+18	confusa	confuso	AQ0FS0	-	-	300-307	55_QUEST_clinical_caseMIR	SENT3	-	-
+19	,	,	Fc	-	-	307-308	55_QUEST_clinical_caseMIR	SENT3	-	-
+20	pulso	pulso	NCMS000	C0391850	función	309-314	55_QUEST_clinical_caseMIR	SENT3	-	-
+21	90	90		-	-	315-317	55_QUEST_clinical_caseMIR	SENT3	-	-
+22	lpm	lpm	NC00YL0	-	-	318-321	55_QUEST_clinical_caseMIR	SENT3	-	-
+23	,	,	Fc	-	-	321-322	55_QUEST_clinical_caseMIR	SENT3	-	-
+24	frec	frec	NC00000	-	-	323-327	55_QUEST_clinical_caseMIR	SENT3	-	-
+25	respiratoria	respiratorio	AQ0FS0	-	-	328-340	55_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+26	20	20		-	-	341-343	55_QUEST_clinical_caseMIR	SENT3	-	-
+27	rpm	r.p.m.	NCFN000	-	-	344-347	55_QUEST_clinical_caseMIR	SENT3	-	-
+28	,	,	Fc	-	-	347-348	55_QUEST_clinical_caseMIR	SENT3	-	-
+29	T	t	NCFS000	-	-	349-350	55_QUEST_clinical_caseMIR	SENT3	-	-
+30	art	artículo	NCMS000	-	-	351-354	55_QUEST_clinical_caseMIR	SENT3	-	-
+31	170/88	170/88		-	-	355-361	55_QUEST_clinical_caseMIR	SENT3	-	-
+32	,	,	Fc	-	-	361-362	55_QUEST_clinical_caseMIR	SENT3	-	-
+33	presión	presión	NCFS000	C0520859_1	hallazgo_1	363-370	55_QUEST_clinical_caseMIR	SENT3	-	-
+34	venosa	venoso	AQ0FS0	C0520859_2	hallazgo_2	371-377	55_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+35	yugular	yugular	VMN0000	C0520859_3	hallazgo_3	378-385	55_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+36	normal	normal	NCFS000	C0520859_4	hallazgo_4	386-392	55_QUEST_clinical_caseMIR	SENT3	-	-
+37	.	.	Fp	-	-	392-393	55_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	La	el	DA0FS0	-	-	394-396	55_QUEST_clinical_caseMIR	SENT4	-	-
+2	analítica	analítica	NCFS000	-	-	397-406	55_QUEST_clinical_caseMIR	SENT4	-	-
+3	y	y	CC	C1706368	calificador	407-408	55_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	409-411	55_QUEST_clinical_caseMIR	SENT4	-	-
+5	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	412-414	55_QUEST_clinical_caseMIR	SENT4	-	-
+6	de	de	SPS00	C0039985_2	procedimiento_2	415-417	55_QUEST_clinical_caseMIR	SENT4	-	-
+7	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	418-423	55_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	son	ser	VSIP3P0	-	-	424-427	55_QUEST_clinical_caseMIR	SENT4	-	-
+9	normales	normal	AQ0CP0	C0205307	calificador	428-436	55_QUEST_clinical_caseMIR	SENT4	-	-
+10	y	y	CC	C1706368	calificador	437-438	55_QUEST_clinical_caseMIR	SENT4	-	-
+11	el	el	DA0MS0	-	-	439-441	55_QUEST_clinical_caseMIR	SENT4	-	-
+12	ECG	ecg	NC00YL0	C1623258	procedimiento	442-445	55_QUEST_clinical_caseMIR	SENT4	-	-
+13	muestra	mostrar	VMIP3S0	-	-	446-453	55_QUEST_clinical_caseMIR	SENT4	-	-
+14	un	un		C0205447_1	calificador_1	454-456	55_QUEST_clinical_caseMIR	SENT4	-	-
+15	ritmo	ritmo	NCMS000	C0232201_1	hallazgo_1	457-462	55_QUEST_clinical_caseMIR	SENT4	-	-
+16	sinusal	sinusal		C0232201_2	hallazgo_2	463-470	55_QUEST_clinical_caseMIR	SENT4	-	-
+17	sin	sin	SPS00	C0332288	atributo	471-474	55_QUEST_clinical_caseMIR	SENT4	-	-
+18	alteraciones	alteración	NCFP000	-	-	475-487	55_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion
+19	isquémicas	isquémico	AQ0FP0	C0475224	calificador	488-498	55_QUEST_clinical_caseMIR	SENT4	B-Calificador	-
+20	.	.	Fp	-	-	498-499	55_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	¿	¿	Fia	-	-	500-501	55_QUEST_clinical_caseMIR	SENT5	-	-
+2	Cuál	cuál	PT0CS000	-	-	501-505	55_QUEST_clinical_caseMIR	SENT5	-	-
+3	de	de	SPS00	C0332285	atributo	506-508	55_QUEST_clinical_caseMIR	SENT5	-	-
+4	las	el	DA0FP0	-	-	509-512	55_QUEST_clinical_caseMIR	SENT5	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	513-523	55_QUEST_clinical_caseMIR	SENT5	-	-
+6	es	ser	VSIP3S0	-	-	524-526	55_QUEST_clinical_caseMIR	SENT5	-	-
+7	la	el	DA0FS0	-	-	527-529	55_QUEST_clinical_caseMIR	SENT5	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	530-537	55_QUEST_clinical_caseMIR	SENT5	-	-
+9	terapéutica	terapéutico	AQ0FS0	-	-	538-549	55_QUEST_clinical_caseMIR	SENT5	-	-
+10	más	más	RG	C0205172	calificador	550-553	55_QUEST_clinical_caseMIR	SENT5	-	-
+11	correcta	correcto	AQ0FS0	C0205170	calificador	554-562	55_QUEST_clinical_caseMIR	SENT5	-	-
+12	?	?	Fit	-	-	562-563	55_QUEST_clinical_caseMIR	SENT5	-	-
+13	.	.	Fp	-	-	563-564	55_QUEST_clinical_caseMIR	SENT5	-	-
+

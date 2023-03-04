@@ -1,0 +1,24 @@
+1	Se	se	P00CN000	-	-	0-2	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	12-15	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	dispepsia	dispepsia	NCFS000	C0267167_1	trastorno_1	16-25	438(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	funcional	funcional	NC00SC0	C0267167_2	trastorno_2	26-35	438(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	por	por	SPS00	C0678226	atributo	36-39	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	polimedicación	polimedicación	NCFS000	-	-	40-54	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	y	y	CC	C1706368	calificador	55-56	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	puede	poder	VMIP3S0	-	-	57-62	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	prescribir	prescribir	VMN0000	-	-	63-73	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	un	un		C0205447_1	calificador_1	74-76	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	inhibidor	inhibidor	NCMS000	C0358591_1	producto#sustancia_1	77-86	438(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+14	de	de	SPS00	C0358591_2	producto#sustancia_2	87-89	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	la	lo	PP3FSA00	C0358591_3	producto#sustancia_3	90-92	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	bomba	bombo	AQ0FS0	C0358591_4	producto#sustancia_4	93-98	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0358591_5	producto#sustancia_5	99-101	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	protones	protón	NCMP000	C0358591_6	producto#sustancia_6	102-110	438(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	para	para	SPS00	C0521125	calificador	111-115	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	controlar	controlar	VMN0000	-	-	116-125	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+21	los	el	DA0MP0	-	-	126-129	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+22	síntomas	síntoma	NCMP000	C1457887	hallazgo	130-138	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+23	.	.	Fp	-	-	139-140	438(2)_ANS_clinical_caseMIR	SENT1	-	-
+

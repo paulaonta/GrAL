@@ -1,0 +1,12 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	corticoides	corticoide	NCMP000	-	-	8-19	145(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	por	por	SPS00	C0678226	atributo	20-23	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	sospecha	sospechar	VMM02S0	C0277540_1	hallazgo_1	24-32	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0277540_2	hallazgo_2	33-35	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	enfermedad	enfermedad	NCFS000	C0277540_3	hallazgo_3	36-46	145(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+7	glomerular	glomerular	AQ0CS0	-	-	47-57	145(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	a	a	SPS00	-	-	58-59	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	cambios	cambio	NCMP000	C0443172	calificador	60-67	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	mínimos	mínimo	AQ0MP0	C0547040#C1282907	calificador	68-75	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	.	.	Fp	-	-	76-77	145(0)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,42 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	688_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	688_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	9-11	688_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	688_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	17-19	688_QUEST_clinical_caseMIR	SENT1	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	20-27	688_QUEST_clinical_caseMIR	SENT1	-	-
+7	por	por	SPS00	C0678226	atributo	28-31	688_QUEST_clinical_caseMIR	SENT1	-	-
+8	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	32-38	688_QUEST_clinical_caseMIR	SENT1	-	-
+9	episodios	episodio	NCMP000	C0332189	atributo	39-48	688_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	49-51	688_QUEST_clinical_caseMIR	SENT1	-	-
+11	pérdida	pérdida	NCFS000	-	-	52-59	688_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0332285	atributo	60-62	688_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	conciencia	conciencia	NCFS000	C0234421#C1443086	-	63-73	688_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+14	.	.	Fp	-	-	73-74	688_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	75-77	688_QUEST_clinical_caseMIR	SENT2	-	-
+2	plantea	plantear	VMIP3S0	-	-	78-85	688_QUEST_clinical_caseMIR	SENT2	-	-
+3	el	el	DA0MS0	-	-	86-88	688_QUEST_clinical_caseMIR	SENT2	-	-
+4	diagnóstico	diagnóstico	NCMS000	C0011906_1	calificador_1	89-100	688_QUEST_clinical_caseMIR	SENT2	-	-
+5	diferencial	diferencial	NCMS000	C0011906_2	calificador_2	101-112	688_QUEST_clinical_caseMIR	SENT2	-	-
+6	entre	entre	SPS00	C0205103	calificador	113-118	688_QUEST_clinical_caseMIR	SENT2	-	-
+7	crisis	crisis	NCFN000	C0231224	hallazgo	119-125	688_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+8	epilépticas	epiléptico	NCFP000	-	-	126-137	688_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+9	y	y	CC	C1706368	calificador	138-139	688_QUEST_clinical_caseMIR	SENT2	-	-
+10	síncopes	síncope	NCMP000	C0039070#C0332521	trastorno#anomalía_morfológica#hallazgo	140-148	688_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+11	.	.	Fp	-	-	148-149	688_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Señale	señalar	VMM03S0	-	-	150-156	688_QUEST_clinical_caseMIR	SENT3	-	-
+2	cuál	cuál	PT0CS000	-	-	157-161	688_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	162-164	688_QUEST_clinical_caseMIR	SENT3	-	-
+4	los	el	DA0MP0	-	-	165-168	688_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	169-179	688_QUEST_clinical_caseMIR	SENT3	-	-
+6	datos	dato	NCMP000	-	-	180-185	688_QUEST_clinical_caseMIR	SENT3	-	-
+7	NO	no	RN	C1298908	calificador	186-188	688_QUEST_clinical_caseMIR	SENT3	-	-
+8	apoyaría	apoyar	VMIC3S0	-	-	189-197	688_QUEST_clinical_caseMIR	SENT3	-	-
+9	el	el	DA0MS0	-	-	198-200	688_QUEST_clinical_caseMIR	SENT3	-	-
+10	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	201-212	688_QUEST_clinical_caseMIR	SENT3	-	-
+11	de	de	SPS00	C0332285	atributo	213-215	688_QUEST_clinical_caseMIR	SENT3	-	-
+12	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	216-223	688_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+13	:	:	Fd	-	-	223-224	688_QUEST_clinical_caseMIR	SENT3	-	-
+14	.	.	Fp	-	-	224-225	688_QUEST_clinical_caseMIR	SENT3	-	-
+

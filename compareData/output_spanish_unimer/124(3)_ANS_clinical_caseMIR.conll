@@ -1,0 +1,11 @@
+1	Proceso	proceso	NCMS000	C1522240	entidad_observable	0-7	124(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	maligno	maligno	AQ0MS0	C0205282	calificador	8-15	124(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+3	de	de	SPS00	C0332285	atributo	16-18	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	orofaringe	orofaringe	NCFS000	C1280659#C0521367#C2945603	estructura_corporal	19-29	124(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+5	/	/	Fh	-	-	30-31	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+6	repetir	repetir	NC00SC0	C0205341	calificador	32-39	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+7	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	40-42	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+8	y	y	CC	C1706368	calificador	43-44	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	45-52	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+10	.	.	Fp	-	-	53-54	124(3)_ANS_clinical_caseMIR	SENT1	-	-
+

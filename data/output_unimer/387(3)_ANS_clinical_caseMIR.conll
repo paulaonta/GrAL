@@ -1,0 +1,20 @@
+1	El	el	DA0MS0	-	-	0-2	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+2	uso	uso	NCMS000	C0457083#C1947944	atributo#calificador	3-6	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+3	de	de	SPS00	C0332285	atributo	7-9	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+4	inhibidores	inhibidor	NCMP000	-	-	10-21	387(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+5	de	de	SPS00	C0332285	atributo	22-24	387(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+6	la	lo	PP3FSA00	-	-	25-27	387(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+7	proteasa	proteasa	NCFS000	C1150171	función_biológica	28-36	387(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+8	(	(	Fpa	-	-	37-38	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	aprotinina	aprotinina	NC00SC0	C0003641	producto#sustancia	38-48	387(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	)	)	Fpt	-	-	48-49	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+11	ha	haber	VAIP3S0	-	-	50-52	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+12	demostrado	demostrar	VMP00SM	-	-	53-63	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+13	un	un		C0205447_1	calificador_1	64-66	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+14	efecto	efecto	NCMS000	C1704419#C1280500#C1280519	calificador	67-73	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+15	beneficioso	beneficioso	AQ0MS0	-	-	74-85	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	86-88	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+17	estos	este	DD0MP0	-	-	89-94	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+18	casos	caso	NCMP000	C0868928	calificador	95-100	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+19	.	.	Fp	-	-	101-102	387(3)_ANS_clinical_caseMIR	SENT1	-	-
+

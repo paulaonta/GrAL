@@ -1,0 +1,22 @@
+1	Colocación	colocación	NCFS000	C1533810	calificador	0-10	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	sedal	sedal	NCMS000	-	-	14-19	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	no	no	RN	C1298908	calificador	20-22	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	cortante	cortante	AQ0CS0	-	-	23-31	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	32-34	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	el	el	DA0MS0	-	-	35-37	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	trayecto	trayecto	NCMS000	-	-	38-46	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	de	de	SPS00	C0332285	atributo	47-49	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	la	el	DA0FS0	-	-	50-52	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	fistula	fistula	NCFS000	-	-	53-60	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	asociado	asociar	VMP00SM	-	-	61-69	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	a	a	SPS00	-	-	70-71	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	72-83	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	con	con	SPS00	C0332287	atributo	84-87	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	metronidazol	metronidazol	NC00SC0	C0025872	sustancia	88-100	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+17	,	,	Fc	-	-	100-101	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	infliximab	infliximab	NC00SC0	C0666743	producto#sustancia	102-112	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+19	e	y	CC	C1706368	calificador	113-114	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	inmunosupresores	inmunosupresor	AQ0MP0	C0021081	producto#sustancia	115-131	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	.	.	Fp	-	-	132-133	450(1)_ANS_clinical_caseMIR	SENT1	-	-
+

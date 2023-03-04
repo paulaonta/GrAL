@@ -1,0 +1,14 @@
+1	Glucogenosis	glucogenosis	NC00SC0	C0017925_1	trastorno_1	0-12	126(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+2	tipo	tipo	NCMS000	C0017925_2	trastorno_2	13-17	126(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+3	VI	vi	NC00YL0	C0017925_3	trastorno_3	18-20	126(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+4	(	(	Fpa	-	-	21-22	126(3)_ANS_clinical_caseMIR	SENT1	-	-
+5	déficit	déficit	NCMS000	C0011155_1	atributo_1	22-29	126(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0011155_2	atributo_2	30-32	126(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+7	fosforilasa	fosforilasa	NC00SC0	C0917783	sustancia	33-44	126(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+8	)	)	Fpt	-	-	44-45	126(3)_ANS_clinical_caseMIR	SENT1	-	-
+9	.	.	Fp	-	-	45-46	126(3)_ANS_clinical_caseMIR	SENT1	-	-
+
+1	Biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	47-54	126(3)_ANS_clinical_caseMIR	SENT2	-	-
+2	muscular	muscular	AQ0CS0	C0442025	calificador	55-63	126(3)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+3	.	.	Fp	-	-	64-65	126(3)_ANS_clinical_caseMIR	SENT2	-	-
+

@@ -1,0 +1,28 @@
+1	Está	estar	VAIP3S0	-	-	0-4	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	indicado	indicar	VMP00SM	-	-	5-13	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	realizar	realizar	VMN0000	-	-	14-22	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	una	una		C0205447_1	calificador_1	23-26	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	nueva	nuevo	AQ0FS0	C0205314	calificador	27-32	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	33-42	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	para	para	SPS00	C0521125	calificador	43-47	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+8	descartar	descartar	VMN0000	C0332196	calificador	48-57	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	causas	causa	NCFP000	-	-	58-64	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	que	que	PR0CN000	-	-	65-68	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	puedan	poder	VMSP3P0	-	-	69-75	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	provocar	provocar	VMN0000	-	-	76-84	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	una	una		C0205447_1	calificador_1	85-88	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	ascitis	ascitis	NCFN000	C0003962	trastorno	89-96	385(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion
+15	de	de	SPS00	C0332285	atributo	97-99	385(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+16	novo	novar	VMIP1S0	-	-	100-104	385(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+17	(	(	Fpa	-	-	105-106	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	trombosis	trombosis	NCFN000	C0087086#C0003148#C0040053	anomalía_morfológica#calificador#trastorno	106-115	385(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	de	de	SPS00	C0332285	atributo	116-118	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	vena	vena	NCFS000	C1305775#C1281393#C0032718_1	estructura_corporal_1	119-123	385(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	porta	portar	VMM02S0	C1305775#C1281393#C0032718_2	estructura_corporal_2	124-129	385(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+22	,	,	Fc	-	-	129-130	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	hepatocarcinoma	hepatocarcinoma	NC00SC0	C2239176	anomalía_morfológica	131-146	385(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+24	,	,	Fc	-	-	146-147	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+25	etc.	etcétera	Fs	-	-	148-152	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+26	)	)	Fpt	-	-	152-153	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+27	.	.	Fp	-	-	154-155	385(1)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,77 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	687_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	687_QUEST_clinical_caseMIR	SENT1	-	-
+3	79	79		-	-	10-12	687_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	687_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	687_QUEST_clinical_caseMIR	SENT1	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	22-34	687_QUEST_clinical_caseMIR	SENT1	-	-
+7	de	de	SPS00	C0332119_2	situación_2	35-37	687_QUEST_clinical_caseMIR	SENT1	-	-
+8	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	38-47	687_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	cognitivo	cognitivo	AQ0MS0	-	-	48-57	687_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+10	leve	leve	NC00SC0	C2945599#C0547040#C1282907	calificador	58-62	687_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+11	,	,	Fc	-	-	62-63	687_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	64-67	687_QUEST_clinical_caseMIR	SENT1	-	-
+13	presenta	presentar	VMIP3S0	-	-	68-76	687_QUEST_clinical_caseMIR	SENT1	-	-
+14	un	un		C0205447_1	calificador_1	77-79	687_QUEST_clinical_caseMIR	SENT1	-	-
+15	cuadro	cuadro	NCMS000	-	-	80-86	687_QUEST_clinical_caseMIR	SENT1	-	-
+16	brusco	brusco	AQ0MS0	C0443162	calificador	87-93	687_QUEST_clinical_caseMIR	SENT1	-	-
+17	de	de	SPS00	C0332285	atributo	94-96	687_QUEST_clinical_caseMIR	SENT1	-	-
+18	hemianopsia	hemianopsia	NCFS000	C0271203_1	hallazgo_1	97-108	687_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+19	homónima	homónimo	NCFS000	C0271203_2	hallazgo_2	109-117	687_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+20	derecha	derecho	AQ0FS0	C0271203_3	hallazgo_3	118-125	687_QUEST_clinical_caseMIR	SENT1	I-Calificador	-
+21	,	,	Fc	-	-	125-126	687_QUEST_clinical_caseMIR	SENT1	-	-
+22	afasia	afasia	NCFS000	C0003537	hallazgo	127-133	687_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+23	y	y	CC	C1706368	calificador	134-135	687_QUEST_clinical_caseMIR	SENT1	-	-
+24	paresia	paresia	NCFS000	C0427055_1	hallazgo_1	136-143	687_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	facial	facial	AQ0CS0	C0427055_2	hallazgo_2	144-150	687_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+26	inferior	inferior	AQ0CS0	C0542339#C0205104	calificador	151-159	687_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+27	derecha	derecha	NCFS000	-	-	160-167	687_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+28	.	.	Fp	-	-	167-168	687_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	A	a	SPS00	-	-	169-170	687_QUEST_clinical_caseMIR	SENT2	-	-
+2	su	su	DP3CS0	-	-	171-173	687_QUEST_clinical_caseMIR	SENT2	-	-
+3	llegada	llegada	NCFS000	-	-	174-181	687_QUEST_clinical_caseMIR	SENT2	-	-
+4	a	a	SPS00	-	-	182-183	687_QUEST_clinical_caseMIR	SENT2	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	184-193	687_QUEST_clinical_caseMIR	SENT2	-	-
+6	se	se	P00CN000	-	-	194-196	687_QUEST_clinical_caseMIR	SENT2	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	197-205	687_QUEST_clinical_caseMIR	SENT2	-	-
+8	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	206-213	687_QUEST_clinical_caseMIR	SENT2	-	-
+9	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	214-222	687_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+10	:	:	Fd	-	-	222-223	687_QUEST_clinical_caseMIR	SENT2	-	-
+11	190/85	190/85	Z	-	-	224-230	687_QUEST_clinical_caseMIR	SENT2	-	-
+12	mmHg	mmHg	NCMP000	-	-	231-235	687_QUEST_clinical_caseMIR	SENT2	-	-
+13	.	.	Fp	-	-	235-236	687_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Se	se	P00CN000	-	-	237-239	687_QUEST_clinical_caseMIR	SENT3	-	-
+2	realiza	realizar	VMIP3S0	-	-	240-247	687_QUEST_clinical_caseMIR	SENT3	-	-
+3	una	una		C0205447_1	calificador_1	248-251	687_QUEST_clinical_caseMIR	SENT3	-	-
+4	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	252-254	687_QUEST_clinical_caseMIR	SENT3	-	-
+5	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	255-262	687_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+6	que	que	PR0CN000	-	-	263-266	687_QUEST_clinical_caseMIR	SENT3	-	-
+7	evidencia	evidenciar	VMIP3S0	-	-	267-276	687_QUEST_clinical_caseMIR	SENT3	-	-
+8	un	un		C0205447_1	calificador_1	277-279	687_QUEST_clinical_caseMIR	SENT3	-	-
+9	hematoma	hematoma	NCMS000	C2937358_1	trastorno_1	280-288	687_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+10	intraparenquimatoso	intraparenquimatoso		C2937358_2	trastorno_2	289-308	687_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+11	lobar	lobar	VMN0000	-	-	309-314	687_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+12	frontal	frontal	NCMS000	C0205123	calificador	315-322	687_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+13	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	323-332	687_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+14	y	y	CC	C1706368	calificador	333-334	687_QUEST_clinical_caseMIR	SENT3	-	-
+15	otro	otro	DI0MS0	C0205394#C0449210	calificador#estructura_corporal	335-339	687_QUEST_clinical_caseMIR	SENT3	-	-
+16	hematoma	hematoma	NCMS000	C0585123_1	trastorno_1	340-348	687_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+17	occipital	occipital	NCMS000	C0585123_2	trastorno_2	349-358	687_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+18	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	359-368	687_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-
+19	.	.	Fp	-	-	368-369	687_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	370-371	687_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	371-375	687_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	376-378	687_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	379-381	687_QUEST_clinical_caseMIR	SENT4	-	-
+5	etiología	etiología	NCFS000	C1314792	atributo	382-391	687_QUEST_clinical_caseMIR	SENT4	-	-
+6	más	más	RG	C0205172	calificador	392-395	687_QUEST_clinical_caseMIR	SENT4	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	396-404	687_QUEST_clinical_caseMIR	SENT4	-	-
+8	de	de	SPS00	C0332285	atributo	405-407	687_QUEST_clinical_caseMIR	SENT4	-	-
+9	estos	este	DD0MP0	-	-	408-413	687_QUEST_clinical_caseMIR	SENT4	-	-
+10	hematomas	hematoma	NCMP000	C0018944	trastorno#anomalía_morfológica	414-423	687_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion
+11	?	?	Fit	-	-	423-424	687_QUEST_clinical_caseMIR	SENT4	-	-
+12	:	:	Fd	-	-	424-425	687_QUEST_clinical_caseMIR	SENT4	-	-
+13	.	.	Fp	-	-	425-426	687_QUEST_clinical_caseMIR	SENT4	-	-
+

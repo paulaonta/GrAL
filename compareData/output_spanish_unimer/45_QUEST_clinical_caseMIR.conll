@@ -1,0 +1,52 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	45_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	45_QUEST_clinical_caseMIR	SENT1	-	-
+3	5	5		-	-	8-9	45_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	45_QUEST_clinical_caseMIR	SENT1	-	-
+5	,	,	Fc	-	-	14-15	45_QUEST_clinical_caseMIR	SENT1	-	-
+6	completamente	completamente	RG	-	-	16-29	45_QUEST_clinical_caseMIR	SENT1	-	-
+7	asintomática	asintomático	AQ0FS0	-	-	30-42	45_QUEST_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	42-43	45_QUEST_clinical_caseMIR	SENT1	-	-
+9	y	y	CC	C1706368	calificador	44-45	45_QUEST_clinical_caseMIR	SENT1	-	-
+10	que	que	PR0CN000	-	-	46-49	45_QUEST_clinical_caseMIR	SENT1	-	-
+11	acude	acudir	VMIP3S0	-	-	50-55	45_QUEST_clinical_caseMIR	SENT1	-	-
+12	a	a	SPS00	-	-	56-57	45_QUEST_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	58-60	45_QUEST_clinical_caseMIR	SENT1	-	-
+14	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	61-69	45_QUEST_clinical_caseMIR	SENT1	-	-
+15	habitual	habitual	AQ0CS0	C0205353	calificador	70-78	45_QUEST_clinical_caseMIR	SENT1	-	-
+16	del	del	SP+DA	-	-	79-82	45_QUEST_clinical_caseMIR	SENT1	-	-
+17	pediatra	pediatra	NCCS000	C0237433	ocupación	83-91	45_QUEST_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	91-92	45_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Consulta	consultar	VMM02S0	-	-	93-101	45_QUEST_clinical_caseMIR	SENT2	-	-
+2	porque	porque	CS	-	-	102-108	45_QUEST_clinical_caseMIR	SENT2	-	-
+3	su	su	DP3CS0	-	-	109-111	45_QUEST_clinical_caseMIR	SENT2	-	-
+4	madre	madre	NCFS000	C0026591	persona	112-117	45_QUEST_clinical_caseMIR	SENT2	-	-
+5	fue	ser	VSIS3S0	-	-	118-121	45_QUEST_clinical_caseMIR	SENT2	-	-
+6	operada	operar	VMP00SF	-	-	122-129	45_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	130-132	45_QUEST_clinical_caseMIR	SENT2	-	-
+8	un	un		C0205447_1	calificador_1	133-135	45_QUEST_clinical_caseMIR	SENT2	-	-
+9	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	136-141	45_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+10	de	de	SPS00	C0332285	atributo	142-144	45_QUEST_clinical_caseMIR	SENT2	-	-
+11	tiroides	tiroides	NCFN000	-	-	145-153	45_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+12	y	y	CC	C1706368	calificador	154-155	45_QUEST_clinical_caseMIR	SENT2	-	-
+13	una	una		C0205447_1	calificador_1	156-159	45_QUEST_clinical_caseMIR	SENT2	-	-
+14	abuela	abuelo	NCFS000	C0337475	persona	160-166	45_QUEST_clinical_caseMIR	SENT2	-	-
+15	falleció	fallecer	VMIS3S0	-	-	167-175	45_QUEST_clinical_caseMIR	SENT2	-	-
+16	hace	hacer	VMIP3S0	-	-	176-180	45_QUEST_clinical_caseMIR	SENT2	-	-
+17	10	10		-	-	181-183	45_QUEST_clinical_caseMIR	SENT2	-	-
+18	años	año	NCMP000	C0439234	calificador	184-188	45_QUEST_clinical_caseMIR	SENT2	-	-
+19	por	por	SPS00	C0678226	atributo	189-192	45_QUEST_clinical_caseMIR	SENT2	-	-
+20	un	un		C0205447_1	calificador_1	193-195	45_QUEST_clinical_caseMIR	SENT2	-	-
+21	feocromocitoma	feocromocitoma	NC00SC0	C0031511	anomalía_morfológica#trastorno	196-210	45_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+22	.	.	Fp	-	-	210-211	45_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	212-214	45_QUEST_clinical_caseMIR	SENT3	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	215-222	45_QUEST_clinical_caseMIR	SENT3	-	-
+3	terapéutica	terapéutico	AQ0FS0	-	-	223-234	45_QUEST_clinical_caseMIR	SENT3	-	-
+4	prioritaria	prioritario	AQ0FS0	-	-	235-246	45_QUEST_clinical_caseMIR	SENT3	-	-
+5	que	que	PR0CN000	-	-	247-250	45_QUEST_clinical_caseMIR	SENT3	-	-
+6	adoptaremos	adoptar	VMIF1P0	-	-	251-262	45_QUEST_clinical_caseMIR	SENT3	-	-
+7	será	ser	VSIF3S0	-	-	263-267	45_QUEST_clinical_caseMIR	SENT3	-	-
+8	:	:	Fd	-	-	267-268	45_QUEST_clinical_caseMIR	SENT3	-	-
+9	.	.	Fp	-	-	268-269	45_QUEST_clinical_caseMIR	SENT3	-	-
+

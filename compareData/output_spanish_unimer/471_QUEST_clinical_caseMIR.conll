@@ -1,0 +1,50 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	471_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	471_QUEST_clinical_caseMIR	SENT1	-	-
+3	67	67		-	-	9-11	471_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	471_QUEST_clinical_caseMIR	SENT1	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	471_QUEST_clinical_caseMIR	SENT1	-	-
+6	enfermedad	enfermedad	NCFS000	C0403447_1	trastorno_1	21-31	471_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+7	renal	renal	AQ0CS0	C0403447_2	trastorno_2	32-37	471_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+8	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	38-45	471_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+9	secundaria	secundario	AQ0FS0	C0175668	calificador	46-56	471_QUEST_clinical_caseMIR	SENT1	-	-
+10	a	a	SPS00	-	-	57-58	471_QUEST_clinical_caseMIR	SENT1	-	-
+11	nefropatía	nefropatía	NCFS000	C0011881_1	trastorno_1	59-69	471_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	diabética	diabético	NCFS000	C0011881_2	trastorno_2	70-79	471_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+13	.	.	Fp	-	-	79-80	471_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	81-83	471_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	84-86	471_QUEST_clinical_caseMIR	SENT2	-	-
+3	actualidad	actualidad	NCFS000	-	-	87-97	471_QUEST_clinical_caseMIR	SENT2	-	-
+4	presenta	presentar	VMIP3S0	-	-	98-106	471_QUEST_clinical_caseMIR	SENT2	-	-
+5	una	una		C0205447_1	calificador_1	107-110	471_QUEST_clinical_caseMIR	SENT2	-	-
+6	creatinina	creatinina	NC00SC0	C0010294	sustancia	111-121	471_QUEST_clinical_caseMIR	SENT2	-	-
+7	de	de	SPS00	C0332285	atributo	122-124	471_QUEST_clinical_caseMIR	SENT2	-	-
+8	3,2	3.2	Z	-	-	125-128	471_QUEST_clinical_caseMIR	SENT2	-	-
+9	mg	mg	NCMN000	-	-	129-131	471_QUEST_clinical_caseMIR	SENT2	-	-
+10	/	/	Fh	-	-	131-132	471_QUEST_clinical_caseMIR	SENT2	-	-
+11	dl	decilitro	NCMN000	C0439241	calificador	132-134	471_QUEST_clinical_caseMIR	SENT2	-	-
+12	con	con	SPS00	C0332287	atributo	135-138	471_QUEST_clinical_caseMIR	SENT2	-	-
+13	filtrado	filtrado	NCMS000	-	-	139-147	471_QUEST_clinical_caseMIR	SENT2	-	-
+14	glomerular	glomerular	AQ0CS0	-	-	148-158	471_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+15	estimado	estimar	VMP00SM	-	-	159-167	471_QUEST_clinical_caseMIR	SENT2	-	-
+16	(	(	Fpa	-	-	168-169	471_QUEST_clinical_caseMIR	SENT2	-	-
+17	CKD-EPI	ckd-epi	AQ0MS00	-	-	169-176	471_QUEST_clinical_caseMIR	SENT2	-	-
+18	)	)	Fpt	-	-	176-177	471_QUEST_clinical_caseMIR	SENT2	-	-
+19	14	14	Z	-	-	178-180	471_QUEST_clinical_caseMIR	SENT2	-	-
+20	ml	ml	NCMN000	C0439242	calificador	181-183	471_QUEST_clinical_caseMIR	SENT2	-	-
+21	/	/	Fh	-	-	183-184	471_QUEST_clinical_caseMIR	SENT2	-	-
+22	min	minuto	NCMN000	C0439232	calificador	184-187	471_QUEST_clinical_caseMIR	SENT2	-	-
+23	.	.	Fp	-	-	187-188	471_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	¿	¿	Fia	-	-	189-190	471_QUEST_clinical_caseMIR	SENT3	-	-
+2	Cuál	cuál	PT0CS000	-	-	190-194	471_QUEST_clinical_caseMIR	SENT3	-	-
+3	de	de	SPS00	C0332285	atributo	195-197	471_QUEST_clinical_caseMIR	SENT3	-	-
+4	las	el	DA0FP0	-	-	198-201	471_QUEST_clinical_caseMIR	SENT3	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	202-212	471_QUEST_clinical_caseMIR	SENT3	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	213-225	471_QUEST_clinical_caseMIR	SENT3	-	-
+7	es	ser	VSIP3S0	-	-	226-228	471_QUEST_clinical_caseMIR	SENT3	-	-
+8	cierta	cierto	AQ0FS0	C0205423	calificador	229-235	471_QUEST_clinical_caseMIR	SENT3	-	-
+9	?	?	Fit	-	-	235-236	471_QUEST_clinical_caseMIR	SENT3	-	-
+10	:	:	Fd	-	-	236-237	471_QUEST_clinical_caseMIR	SENT3	-	-
+11	.	.	Fp	-	-	237-238	471_QUEST_clinical_caseMIR	SENT3	-	-
+

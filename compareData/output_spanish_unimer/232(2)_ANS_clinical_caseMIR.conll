@@ -1,0 +1,19 @@
+1	Asociar	asociar	VMN0000	-	-	0-7	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	mesalazina	mesalazina	NC00SC0	C0127615	producto#sustancia	8-18	232(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	19-21	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+4	dosis	dosis	NCFN000	-	-	22-27	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0332285	atributo	28-30	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	4g	4g		-	-	31-33	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	al	al	SP+DA	-	-	34-36	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	día	día	NCMS000	C0439228#C0332169	calificador	37-40	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	oral	oral	AQ0CS0	C0442027	calificador	41-45	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+10	y	y	CC	C1706368	calificador	46-47	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+11	triamcinolona	triamcinolona	NC00SC0	C0040864	sustancia	48-61	232(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+12	rectal	rectal	AQ0CS0	C0205052	calificador	62-68	232(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+13	1	1		-	-	69-70	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	aplicación	aplicación	NCFS000	C0185125#C1533134	procedimiento#atributo#calificador	71-81	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	cada	cada	NC00SC0	C0456695_1	calificador_1	82-86	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	12	12	Z	C0456695_2	calificador_2	87-89	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	horas	hora	NCFP000	C0456695_3	calificador_3	90-95	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	.	.	Fp	-	-	96-97	232(2)_ANS_clinical_caseMIR	SENT1	-	-
+

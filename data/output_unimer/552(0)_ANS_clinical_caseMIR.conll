@@ -1,0 +1,22 @@
+1	Realizaría	realizar	VMIC3S0	-	-	0-10	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	el	el	DA0MS0	-	-	11-13	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	14-25	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	26-28	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	29-38	552(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+6	por	por	SPS00	C0678226	atributo	39-42	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	déficit	déficit	NCMS000	C0011155_1	atributo_1	43-50	552(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+8	de	de	SPS00	C0011155_2	atributo_2	51-53	552(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-
+9	atención	atención	NCFS000	C0004268	función	54-62	552(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-
+10	e	y	CC	C1706368	calificador	63-64	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	hiperactividad	hiperactividad	NCFS000	C0474395#C1536696	hallazgo	65-79	552(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+12	(	(	Fpa	-	-	80-81	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	TDAH	trastorno_por_déficit_de_atención_e_hiperactividad	NC00YL0	C1263846#C1321905_1	trastorno_1	81-85	552(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	)	)	Fpt	-	-	85-86	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+15	y	y	CC	C1706368	calificador	87-88	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+16	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	89-91	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+17	pondría	poner	VMIC3S0	-	-	92-99	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	100-111	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+19	con	con	SPS00	C0332287	atributo	112-115	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+20	metilfenidato	metilfenidato	NC00SC0	C0025810	sustancia	116-129	552(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+21	.	.	Fp	-	-	130-131	552(0)_ANS_clinical_caseMIR	SENT1	-	-
+

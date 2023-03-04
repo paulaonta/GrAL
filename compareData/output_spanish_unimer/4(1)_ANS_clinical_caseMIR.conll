@@ -1,0 +1,31 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+2	indefinido	indefinido	AQ0MS0	C0205408	calificador	12-22	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+3	con	con	SPS00	C0332287	atributo	23-26	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+4	dosis	dosis	NCFN000	-	-	27-32	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+5	altas	alto	AQ0FP0	C0205250	calificador	33-38	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+6	de	de	SPS00	C0332285	atributo	39-41	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+7	IBP	ibuprofeno	NC00YL0	C0020740	sustancia	42-45	4(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+8	ya	ya	RG	-	-	46-48	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+9	que	que	PR0CN000	-	-	49-52	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+10	se	se	P00CN000	-	-	53-55	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+11	ha	haber	VAIP3S0	-	-	56-58	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+12	demostrado	demostrar	VMP00SM	-	-	59-69	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+13	que	que	CS	-	-	70-73	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+14	así	así	RG	-	-	74-77	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+15	se	se	P00CN000	-	-	78-80	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+16	evita	evitar	VMIP3S0	-	-	81-86	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+17	la	el	DA0FS0	-	-	87-89	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+18	progresión	progresión	NCFS000	C0449258	atributo	90-100	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+19	del	del	SP+DA	-	-	101-104	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+20	esófago	esófago	NCMS000	C1278919#C0014876	estructura_corporal	105-112	4(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+21	de	de	SPS00	C0332285	atributo	113-115	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+22	Barrett	Barrett		-	-	116-123	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+23	a	a	SPS00	-	-	124-125	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+24	adenocarcinoma	adenocarcinoma	NC00SC0	C0001418	anomalía_morfológica	126-140	4(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	haciendo	hacer	VMG0000	-	-	141-149	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+26	innecesaria	innecesario	AQ0FS0	-	-	150-161	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+27	la	el	DA0FS0	-	-	162-164	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+28	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	165-175	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+29	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	176-187	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+30	.	.	Fp	-	-	188-189	4(1)_ANS_clinical_caseMIR	SENT1	-	-
+

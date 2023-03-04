@@ -1,0 +1,15 @@
+1	Concentración	concentración	NCFS000	C0086045	entidad_observable	0-13	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	14-16	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+3	inmunoglobulinas	inmunoglobulina	NCFP000	C0021027	sustancia	17-33	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+4	(	(	Fpa	-	-	34-35	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+5	IgG	igg	NCMS000	-	-	35-38	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+6	,	,	Fc	-	-	38-39	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+7	IgA	iga	NCFS000	-	-	40-43	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+8	,	,	Fc	-	-	43-44	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+9	IgM	igm	NCMS000	-	-	45-48	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+10	)	)	Fpt	-	-	48-49	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	50-52	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+12	sangre	sangre	NCFS000	C0229664_1	sustancia_1	53-59	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+13	periférica	periférico	AQ0FS0	C0229664_2	sustancia_2	60-70	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+14	.	.	Fp	-	-	71-72	393(0)_ANS_clinical_caseMIR	SENT1	-	-
+

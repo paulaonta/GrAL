@@ -1,0 +1,26 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+2	endoscópico	endoscópico	AQ0MS0	C0442418	calificador	12-23	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+3	mediante	mediante	SPS00	-	-	24-32	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+4	inyección	inyección	NCFS000	C0730534_1	procedimiento_1	33-42	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0730534_2	procedimiento_2	43-45	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+6	adrenalina	adrenalina	NCFS000	C0730534_3	procedimiento_3	46-56	0(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	57-59	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+8	la	el	DA0FS0	-	-	60-62	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+9	úlcera	úlcera	NCFS000	C0041582_1	anomalía_morfológica#trastorno_1	63-69	0(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+10	y	y	CC	C1706368	calificador	70-71	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+11	colocación	colocación	NCFS000	C1533810	calificador	72-82	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	83-85	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+13	clips	clip	NCMP000	-	-	86-91	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+14	(	(	Fpa	-	-	92-93	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+15	grapas	grapa	NCFP000	C0524724	objeto_físico	93-99	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+16	metálicas	metálico	AQ0FP0	-	-	100-109	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+17	)	)	Fpt	-	-	109-110	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+18	seguido	seguir	VMP00SM	-	-	111-118	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+19	de	de	SPS00	C0332285	atributo	119-121	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+20	la	el	DA0FS0	-	-	122-124	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+21	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	125-139	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+22	i.v.	i.v.	NCFS000	C1522726	calificador	140-144	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+23	de	de	SPS00	C0332285	atributo	145-147	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+24	IBP	ibuprofeno	NC00YL0	C0020740	sustancia	148-151	0(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+25	.	.	Fp	-	-	152-153	0(4)_ANS_clinical_caseMIR	SENT1	-	-
+

@@ -1,0 +1,99 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	130_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	130_QUEST_clinical_caseMIR	SENT1	-	-
+3	18	18		-	-	8-10	130_QUEST_clinical_caseMIR	SENT1	-	-
+4	meses	mes	NCMP000	C0439231	calificador	11-16	130_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	130_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	130_QUEST_clinical_caseMIR	SENT1	-	-
+7	,	,	Fc	-	-	24-25	130_QUEST_clinical_caseMIR	SENT1	-	-
+8	con	con	SPS00	C0332287	atributo	26-29	130_QUEST_clinical_caseMIR	SENT1	-	-
+9	calendario	calendario	NCMS000	-	-	30-40	130_QUEST_clinical_caseMIR	SENT1	-	-
+10	vacunal	vacunal	NCMS000	-	-	41-48	130_QUEST_clinical_caseMIR	SENT1	-	-
+11	completo	completo	AQ0MS0	C0205197#C0439810#C0444868	calificador	49-57	130_QUEST_clinical_caseMIR	SENT1	-	-
+12	hasta	hasta	SPS00	-	-	58-63	130_QUEST_clinical_caseMIR	SENT1	-	-
+13	la	el	DA0FS0	-	-	64-66	130_QUEST_clinical_caseMIR	SENT1	-	-
+14	fecha	fecha	NCFS000	C0011008	calificador#atributo	67-72	130_QUEST_clinical_caseMIR	SENT1	-	-
+15	,	,	Fc	-	-	72-73	130_QUEST_clinical_caseMIR	SENT1	-	-
+16	que	que	CS	-	-	74-77	130_QUEST_clinical_caseMIR	SENT1	-	-
+17	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	78-86	130_QUEST_clinical_caseMIR	SENT1	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	87-89	130_QUEST_clinical_caseMIR	SENT1	-	-
+19	el	el	DA0MS0	-	-	90-92	130_QUEST_clinical_caseMIR	SENT1	-	-
+20	Servicio	servicio	NCMS000	-	-	93-101	130_QUEST_clinical_caseMIR	SENT1	-	-
+21	de	de	SPS00	C0332285	atributo	102-104	130_QUEST_clinical_caseMIR	SENT1	-	-
+22	urgencias	urgencia	NCFP000	C0439609	calificador	105-114	130_QUEST_clinical_caseMIR	SENT1	-	-
+23	por	por	SPS00	C0678226	atributo	115-118	130_QUEST_clinical_caseMIR	SENT1	-	-
+24	tumefacción	tumefacción	NCFS000	C0038999	hallazgo#anomalía_morfológica	119-130	130_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+25	de	de	SPS00	C0332285	atributo	131-133	130_QUEST_clinical_caseMIR	SENT1	-	-
+26	la	el	DA0FS0	-	-	134-136	130_QUEST_clinical_caseMIR	SENT1	-	-
+27	rodilla	rodilla	NCFS000	C1279571#C0230431_1	estructura_corporal_1	137-144	130_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+28	derecha	derecho	AQ0FS0	C1279571#C0230431_2	estructura_corporal_2	145-152	130_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-
+29	tras	tras	SPS00	-	-	153-157	130_QUEST_clinical_caseMIR	SENT1	-	-
+30	jugar	jugar	VMN0000	-	-	158-163	130_QUEST_clinical_caseMIR	SENT1	-	-
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	130_QUEST_clinical_caseMIR	SENT1	-	-
+32	el	el	DA0MS0	-	-	167-169	130_QUEST_clinical_caseMIR	SENT1	-	-
+33	parque	parque	NCMS000	C0562547	medio_ambiente	170-176	130_QUEST_clinical_caseMIR	SENT1	-	-
+34	,	,	Fc	-	-	176-177	130_QUEST_clinical_caseMIR	SENT1	-	-
+35	sin	sin	SPS00	C0332288	atributo	178-181	130_QUEST_clinical_caseMIR	SENT1	-	-
+36	traumatismo	traumatismo	NCMS000	C3263723	trastorno	182-193	130_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion
+37	evidente	evidente	AQ0CS0	-	-	194-202	130_QUEST_clinical_caseMIR	SENT1	-	-
+38	.	.	Fp	-	-	202-203	130_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	204-206	130_QUEST_clinical_caseMIR	SENT2	-	-
+2	la	el	DA0FS0	-	-	207-209	130_QUEST_clinical_caseMIR	SENT2	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	210-219	130_QUEST_clinical_caseMIR	SENT2	-	-
+4	dirigida	dirigir	VMP00SF	-	-	220-228	130_QUEST_clinical_caseMIR	SENT2	-	-
+5	,	,	Fc	-	-	228-229	130_QUEST_clinical_caseMIR	SENT2	-	-
+6	la	el	DA0FS0	-	-	230-232	130_QUEST_clinical_caseMIR	SENT2	-	-
+7	madre	madre	NCFS000	C0026591	persona	233-238	130_QUEST_clinical_caseMIR	SENT2	-	-
+8	refiere	referir	VMIP3S0	-	-	239-246	130_QUEST_clinical_caseMIR	SENT2	-	-
+9	que	que	CS	-	-	247-250	130_QUEST_clinical_caseMIR	SENT2	-	-
+10	un	un		C0205447_1	calificador_1	251-253	130_QUEST_clinical_caseMIR	SENT2	-	-
+11	tío	tío	NCMS000	C0337577	persona	254-257	130_QUEST_clinical_caseMIR	SENT2	-	-
+12	de	de	SPS00	C0332285	atributo	258-260	130_QUEST_clinical_caseMIR	SENT2	-	-
+13	ella	él	PP3FS000	-	-	261-265	130_QUEST_clinical_caseMIR	SENT2	-	-
+14	tenía	tener	VMII3S0	-	-	266-271	130_QUEST_clinical_caseMIR	SENT2	-	-
+15	problemas	problema	NCMP000	C0033213	hallazgo	272-281	130_QUEST_clinical_caseMIR	SENT2	-	-
+16	similares	similar	AQ0CP0	-	-	282-291	130_QUEST_clinical_caseMIR	SENT2	-	-
+17	.	.	Fp	-	-	291-292	130_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	La	el	DA0FS0	-	-	293-295	130_QUEST_clinical_caseMIR	SENT3	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	296-307	130_QUEST_clinical_caseMIR	SENT3	-	-
+3	ecográfica	ecográfica	AQ0FS00	-	-	308-318	130_QUEST_clinical_caseMIR	SENT3	-	-
+4	es	ser	VSIP3S0	-	-	319-321	130_QUEST_clinical_caseMIR	SENT3	-	-
+5	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	322-332	130_QUEST_clinical_caseMIR	SENT3	-	-
+6	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	333-336	130_QUEST_clinical_caseMIR	SENT3	-	-
+7	hemartros	hemartros	NCMP000	-	-	337-346	130_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Especulacion
+8	y	y	CC	C1706368	calificador	347-348	130_QUEST_clinical_caseMIR	SENT3	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	349-351	130_QUEST_clinical_caseMIR	SENT3	-	-
+10	la	el	DA0FS0	-	-	352-354	130_QUEST_clinical_caseMIR	SENT3	-	-
+11	analítica	analítica	NCFS000	-	-	355-364	130_QUEST_clinical_caseMIR	SENT3	-	-
+12	que	que	PR0CN000	-	-	365-368	130_QUEST_clinical_caseMIR	SENT3	-	-
+13	se	se	P00CN000	-	-	369-371	130_QUEST_clinical_caseMIR	SENT3	-	-
+14	realiza	realizar	VMIP3S0	-	-	372-379	130_QUEST_clinical_caseMIR	SENT3	-	-
+15	sólo	sólo	RG	-	-	380-384	130_QUEST_clinical_caseMIR	SENT3	-	-
+16	destaca	destacar	VMIP3S0	-	-	385-392	130_QUEST_clinical_caseMIR	SENT3	-	-
+17	un	un		C0205447_1	calificador_1	393-395	130_QUEST_clinical_caseMIR	SENT3	-	-
+18	alargamiento	alargamiento	NCMS000	C0441592	calificador	396-408	130_QUEST_clinical_caseMIR	SENT3	-	-
+19	del	del	SP+DA	-	-	409-412	130_QUEST_clinical_caseMIR	SENT3	-	-
+20	APTT	activated_partial_thromboplastin_time_(tiempo_de_tromboplastina_parcial_activada)	NC00YL0	-	-	413-417	130_QUEST_clinical_caseMIR	SENT3	-	-
+21	de	de	SPS00	C0332285	atributo	418-420	130_QUEST_clinical_caseMIR	SENT3	-	-
+22	52	52		-	-	421-423	130_QUEST_clinical_caseMIR	SENT3	-	-
+23	"	"	Fe	-	-	423-424	130_QUEST_clinical_caseMIR	SENT3	-	-
+24	(	(	Fpa	-	-	425-426	130_QUEST_clinical_caseMIR	SENT3	-	-
+25	normal	normal	AQ0CS0	C0205307	calificador	426-432	130_QUEST_clinical_caseMIR	SENT3	-	-
+26	25-35	25-35		-	-	433-438	130_QUEST_clinical_caseMIR	SENT3	-	-
+27	"	"	Fe	-	-	438-439	130_QUEST_clinical_caseMIR	SENT3	-	-
+28	)	)	Fpt	-	-	439-440	130_QUEST_clinical_caseMIR	SENT3	-	-
+29	.	.	Fp	-	-	440-441	130_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	¿	¿	Fia	-	-	442-443	130_QUEST_clinical_caseMIR	SENT4	-	-
+2	Cuál	cuál	PT0CS000	-	-	443-447	130_QUEST_clinical_caseMIR	SENT4	-	-
+3	es	ser	VSIP3S0	-	-	448-450	130_QUEST_clinical_caseMIR	SENT4	-	-
+4	la	el	DA0FS0	-	-	451-453	130_QUEST_clinical_caseMIR	SENT4	-	-
+5	hipótesis	hipótesis	NCFN000	-	-	454-463	130_QUEST_clinical_caseMIR	SENT4	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	464-475	130_QUEST_clinical_caseMIR	SENT4	-	-
+7	más	más	RG	C0205172	calificador	476-479	130_QUEST_clinical_caseMIR	SENT4	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	480-488	130_QUEST_clinical_caseMIR	SENT4	-	-
+9	?	?	Fit	-	-	488-489	130_QUEST_clinical_caseMIR	SENT4	-	-
+10	:	:	Fd	-	-	489-490	130_QUEST_clinical_caseMIR	SENT4	-	-
+11	.	.	Fp	-	-	490-491	130_QUEST_clinical_caseMIR	SENT4	-	-
+

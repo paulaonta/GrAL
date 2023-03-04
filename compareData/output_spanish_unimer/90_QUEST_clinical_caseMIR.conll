@@ -1,0 +1,150 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	90_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	90_QUEST_clinical_caseMIR	SENT1	-	-
+3	34	34		-	-	10-12	90_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	90_QUEST_clinical_caseMIR	SENT1	-	-
+5	remitido	remitir	VMP00SM	C1691010_1	calificador_1	18-26	90_QUEST_clinical_caseMIR	SENT1	-	-
+6	a	a	SPS00	C1691010_2	calificador_2	27-28	90_QUEST_clinical_caseMIR	SENT1	-	-
+7	la	el	DA0FS0	-	-	29-31	90_QUEST_clinical_caseMIR	SENT1	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	32-40	90_QUEST_clinical_caseMIR	SENT1	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	41-44	90_QUEST_clinical_caseMIR	SENT1	-	-
+10	presentar	presentar	VMN0000	-	-	45-54	90_QUEST_clinical_caseMIR	SENT1	-	-
+11	cifas	cifas	NCFP000	-	-	55-60	90_QUEST_clinical_caseMIR	SENT1	-	-
+12	de	de	SPS00	C0332285	atributo	61-63	90_QUEST_clinical_caseMIR	SENT1	-	-
+13	colesterol	colesterol	NCMS000	C0023824_1	sustancia_1	64-74	90_QUEST_clinical_caseMIR	SENT1	-	-
+14	LDL	low-density_lipoprotein_(lipoproteína_de_baja_densidad)	NC00YL0	C0023824_2	sustancia_2	75-78	90_QUEST_clinical_caseMIR	SENT1	-	-
+15	superiores	superior	AQ0CP0	C1282910	calificador	79-89	90_QUEST_clinical_caseMIR	SENT1	-	-
+16	a	a	SPS00	-	-	90-91	90_QUEST_clinical_caseMIR	SENT1	-	-
+17	250	250	Z	-	-	92-95	90_QUEST_clinical_caseMIR	SENT1	-	-
+18	mg	mg	NCMN000	-	-	96-98	90_QUEST_clinical_caseMIR	SENT1	-	-
+19	/	/	Fh	-	-	98-99	90_QUEST_clinical_caseMIR	SENT1	-	-
+20	dl	decilitro	NCMN000	C0439241	calificador	99-101	90_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	101-102	90_QUEST_clinical_caseMIR	SENT1	-	-
+22	de	de	SPS00	C0332285	atributo	103-105	90_QUEST_clinical_caseMIR	SENT1	-	-
+23	forma	forma	NCFS000	C0348078	atributo	106-111	90_QUEST_clinical_caseMIR	SENT1	-	-
+24	persistente	persistente	AQ0CS0	C0205322#C0549178	calificador	112-123	90_QUEST_clinical_caseMIR	SENT1	-	-
+25	.	.	Fp	-	-	123-124	90_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	El	el	DA0MS0	-	-	125-127	90_QUEST_clinical_caseMIR	SENT2	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	128-136	90_QUEST_clinical_caseMIR	SENT2	-	-
+3	se	se	P00CN000	-	-	137-139	90_QUEST_clinical_caseMIR	SENT2	-	-
+4	encuentra	encontrar	VMIP3S0	-	-	140-149	90_QUEST_clinical_caseMIR	SENT2	-	-
+5	asintomático	asintomático	AQ0MS0	-	-	150-162	90_QUEST_clinical_caseMIR	SENT2	-	-
+6	pero	pero	CC	-	-	163-167	90_QUEST_clinical_caseMIR	SENT2	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	168-170	90_QUEST_clinical_caseMIR	SENT2	-	-
+8	la	el	DA0FS0	-	-	171-173	90_QUEST_clinical_caseMIR	SENT2	-	-
+9	exploración	exploración	NCFS000	C1280903	procedimiento	174-185	90_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	186-188	90_QUEST_clinical_caseMIR	SENT2	-	-
+11	aprecia	apreciar	VMIP3S0	-	-	189-196	90_QUEST_clinical_caseMIR	SENT2	-	-
+12	la	el	DA0FS0	-	-	197-199	90_QUEST_clinical_caseMIR	SENT2	-	-
+13	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	200-209	90_QUEST_clinical_caseMIR	SENT2	-	-
+14	de	de	SPS00	C0150312_2	calificador_2	210-212	90_QUEST_clinical_caseMIR	SENT2	-	-
+15	manchas	mancha	NCFP000	-	-	213-220	90_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-
+16	induradas	indurar	VMP00PF	-	-	221-230	90_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-
+17	blanquecinas	blanquecino	AQ0FP0	-	-	231-243	90_QUEST_clinical_caseMIR	SENT2	B-Calificador	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	244-246	90_QUEST_clinical_caseMIR	SENT2	-	-
+19	codos	codo	NCMP000	C1305417#C0013769#C1275495	estructura_corporal	247-252	90_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+20	,	,	Fc	-	-	252-253	90_QUEST_clinical_caseMIR	SENT2	-	-
+21	rodillas	rodilla	NCFP000	C1963703#C1456798	estructura_corporal	254-262	90_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+22	y	y	CC	C1706368	calificador	263-264	90_QUEST_clinical_caseMIR	SENT2	-	-
+23	párpados	párpado	NCMP000	C0015426#C1280734	estructura_corporal	265-273	90_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-
+24	.	.	Fp	-	-	273-274	90_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	Su	su	DP3CS0	-	-	275-277	90_QUEST_clinical_caseMIR	SENT3	-	-
+2	TA	ta	NC00YL0	-	-	278-280	90_QUEST_clinical_caseMIR	SENT3	-	-
+3	es	ser	VSIP3S0	-	-	281-283	90_QUEST_clinical_caseMIR	SENT3	-	-
+4	de	de	SPS00	C0332285	atributo	284-286	90_QUEST_clinical_caseMIR	SENT3	-	-
+5	135/85	135/85	Z	-	-	287-293	90_QUEST_clinical_caseMIR	SENT3	-	-
+6	mmHg	mmHg	NCMP000	-	-	294-298	90_QUEST_clinical_caseMIR	SENT3	-	-
+7	.	.	Fp	-	-	298-299	90_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	Su	su	DP3CS0	-	-	300-302	90_QUEST_clinical_caseMIR	SENT4	-	-
+2	padre	padre	NCMS000	C0015671	persona	303-308	90_QUEST_clinical_caseMIR	SENT4	-	-
+3	murió	murió	NC00SC0	C1546956	hallazgo	309-314	90_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0332285	atributo	315-317	90_QUEST_clinical_caseMIR	SENT4	-	-
+5	infarto	infarto	NCMS000	C0027051_1	trastorno_1	318-325	90_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+6	de	de	SPS00	C0027051_2	trastorno_2	326-328	90_QUEST_clinical_caseMIR	SENT4	-	-
+7	miocardio	miocardio	NCMS000	C0027051_3	trastorno_3	329-338	90_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-
+8	a	a	SPS00	-	-	339-340	90_QUEST_clinical_caseMIR	SENT4	-	-
+9	la	el	DA0FS0	-	-	341-343	90_QUEST_clinical_caseMIR	SENT4	-	-
+10	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	344-348	90_QUEST_clinical_caseMIR	SENT4	-	-
+11	de	de	SPS00	C0332285	atributo	349-351	90_QUEST_clinical_caseMIR	SENT4	-	-
+12	48	48		-	-	352-354	90_QUEST_clinical_caseMIR	SENT4	-	-
+13	años	año	NCMP000	C0439234	calificador	355-359	90_QUEST_clinical_caseMIR	SENT4	-	-
+14	.	.	Fp	-	-	359-360	90_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	361-363	90_QUEST_clinical_caseMIR	SENT5	-	-
+2	la	el	DA0FS0	-	-	364-366	90_QUEST_clinical_caseMIR	SENT5	-	-
+3	analítica	analítica	NCFS000	-	-	367-376	90_QUEST_clinical_caseMIR	SENT5	-	-
+4	,	,	Fc	-	-	376-377	90_QUEST_clinical_caseMIR	SENT5	-	-
+5	realizada	realizar	VMP00SF	-	-	378-387	90_QUEST_clinical_caseMIR	SENT5	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	388-390	90_QUEST_clinical_caseMIR	SENT5	-	-
+7	ayunas	ayuno	AQ0FP0	-	-	391-397	90_QUEST_clinical_caseMIR	SENT5	-	-
+8	,	,	Fc	-	-	397-398	90_QUEST_clinical_caseMIR	SENT5	-	-
+9	destaca	destacar	VMIP3S0	-	-	399-406	90_QUEST_clinical_caseMIR	SENT5	-	-
+10	un	un		C0205447_1	calificador_1	407-409	90_QUEST_clinical_caseMIR	SENT5	-	-
+11	colesterol	colesterol	NCMS000	C0543421_1	sustancia_1	410-420	90_QUEST_clinical_caseMIR	SENT5	-	-
+12	total	total	NCMS000	C0543421_2	sustancia_2	421-426	90_QUEST_clinical_caseMIR	SENT5	-	-
+13	de	de	SPS00	C0332285	atributo	427-429	90_QUEST_clinical_caseMIR	SENT5	-	-
+14	346	346	Z	-	-	430-433	90_QUEST_clinical_caseMIR	SENT5	-	-
+15	mg	mg	NCMN000	-	-	434-436	90_QUEST_clinical_caseMIR	SENT5	-	-
+16	/	/	Fh	-	-	436-437	90_QUEST_clinical_caseMIR	SENT5	-	-
+17	dl	decilitro	NCMN000	C0439241	calificador	437-439	90_QUEST_clinical_caseMIR	SENT5	-	-
+18	,	,	Fc	-	-	439-440	90_QUEST_clinical_caseMIR	SENT5	-	-
+19	un	un		C0205447_1	calificador_1	441-443	90_QUEST_clinical_caseMIR	SENT5	-	-
+20	LDL	low-density_lipoprotein_(lipoproteína_de_baja_densidad)	NC00YL0	-	-	444-447	90_QUEST_clinical_caseMIR	SENT5	-	-
+21	colesterol	colesterol	NCMS000	C0008377	sustancia	448-458	90_QUEST_clinical_caseMIR	SENT5	-	-
+22	de	de	SPS00	C0332285	atributo	459-461	90_QUEST_clinical_caseMIR	SENT5	-	-
+23	278	278	Z	-	-	462-465	90_QUEST_clinical_caseMIR	SENT5	-	-
+24	mg	mg	NCMN000	-	-	466-468	90_QUEST_clinical_caseMIR	SENT5	-	-
+25	/	/	Fh	-	-	468-469	90_QUEST_clinical_caseMIR	SENT5	-	-
+26	dl	decilitro	NCMN000	C0439241	calificador	469-471	90_QUEST_clinical_caseMIR	SENT5	-	-
+27	,	,	Fc	-	-	471-472	90_QUEST_clinical_caseMIR	SENT5	-	-
+28	un	un		C0205447_1	calificador_1	473-475	90_QUEST_clinical_caseMIR	SENT5	-	-
+29	HDL	high-density_lipoproteins_(lipoproteínas_de_alta_densidad)	NC00YL0	-	-	476-479	90_QUEST_clinical_caseMIR	SENT5	-	-
+30	colesterol	colesterol	NCMS000	C0008377	sustancia	480-490	90_QUEST_clinical_caseMIR	SENT5	-	-
+31	de	de	SPS00	C0332285	atributo	491-493	90_QUEST_clinical_caseMIR	SENT5	-	-
+32	42	42	Z	-	-	494-496	90_QUEST_clinical_caseMIR	SENT5	-	-
+33	mg	mg	NCMN000	-	-	497-499	90_QUEST_clinical_caseMIR	SENT5	-	-
+34	/	/	Fh	-	-	499-500	90_QUEST_clinical_caseMIR	SENT5	-	-
+35	dl	decilitro	NCMN000	C0439241	calificador	500-502	90_QUEST_clinical_caseMIR	SENT5	-	-
+36	,	,	Fc	-	-	502-503	90_QUEST_clinical_caseMIR	SENT5	-	-
+37	unos	uno	DI0MP0	C0205447	calificador	504-508	90_QUEST_clinical_caseMIR	SENT5	-	-
+38	triglicéridos	triglicérido	NCMP000	C0041004#C0392693	sustancia	509-522	90_QUEST_clinical_caseMIR	SENT5	-	-
+39	de	de	SPS00	C0332285	atributo	523-525	90_QUEST_clinical_caseMIR	SENT5	-	-
+40	130	130	Z	-	-	526-529	90_QUEST_clinical_caseMIR	SENT5	-	-
+41	mg	mg	NCMN000	-	-	530-532	90_QUEST_clinical_caseMIR	SENT5	-	-
+42	/	/	Fh	-	-	532-533	90_QUEST_clinical_caseMIR	SENT5	-	-
+43	dl	decilitro	NCMN000	C0439241	calificador	533-535	90_QUEST_clinical_caseMIR	SENT5	-	-
+44	y	y	CC	C1706368	calificador	536-537	90_QUEST_clinical_caseMIR	SENT5	-	-
+45	una	una		C0205447_1	calificador_1	538-541	90_QUEST_clinical_caseMIR	SENT5	-	-
+46	glucosa	glucosa	NCFS000	C0017725	sustancia#producto	542-549	90_QUEST_clinical_caseMIR	SENT5	-	-
+47	de	de	SPS00	C0332285	atributo	550-552	90_QUEST_clinical_caseMIR	SENT5	-	-
+48	93	93	Z	-	-	553-555	90_QUEST_clinical_caseMIR	SENT5	-	-
+49	mg	mg	NCMN000	-	-	556-558	90_QUEST_clinical_caseMIR	SENT5	-	-
+50	/	/	Fh	-	-	558-559	90_QUEST_clinical_caseMIR	SENT5	-	-
+51	dl	decilitro	NCMN000	C0439241	calificador	559-561	90_QUEST_clinical_caseMIR	SENT5	-	-
+52	.	.	Fp	-	-	561-562	90_QUEST_clinical_caseMIR	SENT5	-	-
+
+1	Respecto	respecto	NCMS000	-	-	563-571	90_QUEST_clinical_caseMIR	SENT6	-	-
+2	a	a	SPS00	-	-	572-573	90_QUEST_clinical_caseMIR	SENT6	-	-
+3	la	el	DA0FS0	-	-	574-576	90_QUEST_clinical_caseMIR	SENT6	-	-
+4	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	577-587	90_QUEST_clinical_caseMIR	SENT6	-	-
+5	que	que	PR0CN000	-	-	588-591	90_QUEST_clinical_caseMIR	SENT6	-	-
+6	padece	padecer	VMIP3S0	-	-	592-598	90_QUEST_clinical_caseMIR	SENT6	-	-
+7	este	este	DD0MS0	-	-	599-603	90_QUEST_clinical_caseMIR	SENT6	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	604-612	90_QUEST_clinical_caseMIR	SENT6	-	-
+9	,	,	Fc	-	-	612-613	90_QUEST_clinical_caseMIR	SENT6	-	-
+10	una	una		C0205447_1	calificador_1	614-617	90_QUEST_clinical_caseMIR	SENT6	-	-
+11	de	de	SPS00	C0332285	atributo	618-620	90_QUEST_clinical_caseMIR	SENT6	-	-
+12	las	el	DA0FP0	-	-	621-624	90_QUEST_clinical_caseMIR	SENT6	-	-
+13	siguientes	siguiente	AQ0CP0	C0332282	atributo	625-635	90_QUEST_clinical_caseMIR	SENT6	-	-
+14	afirmaciones	afirmación	NCFP000	-	-	636-648	90_QUEST_clinical_caseMIR	SENT6	-	-
+15	es	ser	VSIP3S0	-	-	649-651	90_QUEST_clinical_caseMIR	SENT6	-	-
+16	FALSA	falso	AQ0FS0	C0205237	calificador	652-657	90_QUEST_clinical_caseMIR	SENT6	-	-
+17	.	.	Fp	-	-	657-658	90_QUEST_clinical_caseMIR	SENT6	-	-
+
+1	Señale	señalar	VMM03S0	-	-	659-665	90_QUEST_clinical_caseMIR	SENT7	-	-
+2	cuál	cuál	PT0CS000	-	-	666-670	90_QUEST_clinical_caseMIR	SENT7	-	-
+3	:	:	Fd	-	-	670-671	90_QUEST_clinical_caseMIR	SENT7	-	-
+4	.	.	Fp	-	-	671-672	90_QUEST_clinical_caseMIR	SENT7	-	-
+

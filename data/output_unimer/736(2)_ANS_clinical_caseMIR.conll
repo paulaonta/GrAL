@@ -1,0 +1,21 @@
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	0-2	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+2	pauta	pautar	VMIP3S0	-	-	3-8	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+3	AINES	antiinflamatorios_no_esteroideos	NC00YL0	-	-	9-14	736(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+4	y	y	CC	C1706368	calificador	15-16	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	17-19	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+6	explica	explicar	VMIP3S0	-	-	20-27	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+7	que	que	CS	-	-	28-31	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+8	los	el	DA0MP0	-	-	32-35	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+9	anticonceptivos	anticonceptivo	NCMP000	-	-	36-51	736(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+10	hormonales	hormonal	AQ0CP0	C0458083	calificador	52-62	736(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	63-65	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+12	su	su	DP3CS0	-	-	66-68	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+13	caso	caso	NCMS000	C0868928	calificador	69-73	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+14	no	no	RN	C1298908	calificador	74-76	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+15	están	estar	VAIP3P0	-	-	77-82	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+16	indicados	indicar	VMP00PM	-	-	83-92	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+17	por	por	SPS00	C0678226	atributo	93-96	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+18	su	su	DP3CS0	-	-	97-99	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+19	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	100-104	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+20	.	.	Fp	-	-	105-106	736(2)_ANS_clinical_caseMIR	SENT1	-	-
+

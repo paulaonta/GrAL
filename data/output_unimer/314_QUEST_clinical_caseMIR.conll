@@ -1,0 +1,104 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	314_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	314_QUEST_clinical_caseMIR	SENT1	-	-
+3	68	68		-	-	9-11	314_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	314_QUEST_clinical_caseMIR	SENT1	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	314_QUEST_clinical_caseMIR	SENT1	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	314_QUEST_clinical_caseMIR	SENT1	-	-
+7	que	que	PR0CN000	-	-	25-28	314_QUEST_clinical_caseMIR	SENT1	-	-
+8	es	ser	VSIP3S0	-	-	29-31	314_QUEST_clinical_caseMIR	SENT1	-	-
+9	diagnosticada	diagnosticar	VMP00SF	-	-	32-45	314_QUEST_clinical_caseMIR	SENT1	-	-
+10	de	de	SPS00	C0332285	atributo	46-48	314_QUEST_clinical_caseMIR	SENT1	-	-
+11	una	una		C0205447_1	calificador_1	49-52	314_QUEST_clinical_caseMIR	SENT1	-	-
+12	tuberculosis	tuberculosis	NCFN000	C0041327_1	trastorno_1	53-65	314_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+13	pulmonar	pulmonar	NC00SC0	C0041327_2	trastorno_2	66-74	314_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+14	.	.	Fp	-	-	74-75	314_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Se	se	P00CN000	-	-	76-78	314_QUEST_clinical_caseMIR	SENT2	-	-
+2	instauró	instaurar	VMIS3S0	-	-	79-87	314_QUEST_clinical_caseMIR	SENT2	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	88-99	314_QUEST_clinical_caseMIR	SENT2	-	-
+4	con	con	SPS00	C0332287	atributo	100-103	314_QUEST_clinical_caseMIR	SENT2	-	-
+5	Isoniacida	isoniacida	NC00SC0	C0022209	producto	104-114	314_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+6	,	,	Fc	-	-	114-115	314_QUEST_clinical_caseMIR	SENT2	-	-
+7	Rifampicina	rifampicina	NCFS000	C0035608	sustancia	116-127	314_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+8	y	y	CC	C1706368	calificador	128-129	314_QUEST_clinical_caseMIR	SENT2	-	-
+9	Etambutol	etambutol	NC00SC0	C0014964	sustancia	130-139	314_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-
+10	.	.	Fp	-	-	139-140	314_QUEST_clinical_caseMIR	SENT2	-	-
+
+1	A	a	SPS00	-	-	141-142	314_QUEST_clinical_caseMIR	SENT3	-	-
+2	los	el	DA0MP0	-	-	143-146	314_QUEST_clinical_caseMIR	SENT3	-	-
+3	12	12	Z	-	-	147-149	314_QUEST_clinical_caseMIR	SENT3	-	-
+4	días	d	NCMP000	-	-	150-154	314_QUEST_clinical_caseMIR	SENT3	-	-
+5	de	de	SPS00	C0332285	atributo	155-157	314_QUEST_clinical_caseMIR	SENT3	-	-
+6	iniciado	iniciar	VMP00SM	-	-	158-166	314_QUEST_clinical_caseMIR	SENT3	-	-
+7	el	el	DA0MS0	-	-	167-169	314_QUEST_clinical_caseMIR	SENT3	-	-
+8	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	170-181	314_QUEST_clinical_caseMIR	SENT3	-	-
+9	consulta	consultar	VMM02S0	C1704447_1	calificador_1	182-190	314_QUEST_clinical_caseMIR	SENT3	-	-
+10	por	por	SPS00	C1704447_2	calificador_2	191-194	314_QUEST_clinical_caseMIR	SENT3	-	-
+11	fiebre	fiebre	NCFS000	C0015967	hallazgo	195-201	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+12	de	de	SPS00	C0332285	atributo	202-204	314_QUEST_clinical_caseMIR	SENT3	-	-
+13	38ºC	38ºC		-	-	205-209	314_QUEST_clinical_caseMIR	SENT3	-	-
+14	,	,	Fc	-	-	209-210	314_QUEST_clinical_caseMIR	SENT3	-	-
+15	exantema	exantema	NCMS000	C0015230	anomalía_morfológica#trastorno	211-219	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+16	cutáneo	cutáneo	AQ0MS0	-	-	220-227	314_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+17	,	,	Fc	-	-	227-228	314_QUEST_clinical_caseMIR	SENT3	-	-
+18	adenopatías	adenopatía	NCFP000	-	-	229-240	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+19	,	,	Fc	-	-	240-241	314_QUEST_clinical_caseMIR	SENT3	-	-
+20	artralgia	artralgia	NCFS000	C0003862	hallazgo	242-251	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+21	,	,	Fc	-	-	251-252	314_QUEST_clinical_caseMIR	SENT3	-	-
+22	dolor	dolor	NCMS000	C0024031_1	trastorno_1	253-258	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+23	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	259-265	314_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-
+24	,	,	Fc	-	-	265-266	314_QUEST_clinical_caseMIR	SENT3	-	-
+25	oliguria	oliguria	NCFS000	C0028961	hallazgo	267-275	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+26	y	y	CC	C1706368	calificador	276-277	314_QUEST_clinical_caseMIR	SENT3	-	-
+27	eosinofilia	eosinofilia	NCFS000	C0014457#C2240374#C0333929#C0311368	hallazgo#anomalía_morfológica#trastorno	278-289	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+28	con	con	SPS00	C0332287	atributo	290-293	314_QUEST_clinical_caseMIR	SENT3	-	-
+29	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	294-303	314_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-
+30	agudo	agudo	AQ0MS0	C0205178	calificador	304-309	314_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+31	de	de	SPS00	C0332285	atributo	310-312	314_QUEST_clinical_caseMIR	SENT3	B-Calificador	-
+32	la	el	DA0FS0	-	-	313-315	314_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+33	función	función	NCFS000	C0232804_1	entidad_observable_1	316-323	314_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+34	renal	renal	AQ0CS0	C0232804_2	entidad_observable_2	324-329	314_QUEST_clinical_caseMIR	SENT3	I-Calificador	-
+35	.	.	Fp	-	-	329-330	314_QUEST_clinical_caseMIR	SENT3	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	331-333	314_QUEST_clinical_caseMIR	SENT4	-	-
+2	el	el	DA0MS0	-	-	334-336	314_QUEST_clinical_caseMIR	SENT4	-	-
+3	examen	examen	NCMS000	C0042014_1	procedimiento_1	337-343	314_QUEST_clinical_caseMIR	SENT4	-	-
+4	de	de	SPS00	C0042014_2	procedimiento_2	344-346	314_QUEST_clinical_caseMIR	SENT4	-	-
+5	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	347-352	314_QUEST_clinical_caseMIR	SENT4	-	-
+6	se	se	P00CN000	-	-	353-355	314_QUEST_clinical_caseMIR	SENT4	-	-
+7	identificó	identificar	VMIS3S0	-	-	356-366	314_QUEST_clinical_caseMIR	SENT4	-	-
+8	hematuria	hematuria	NCFS000	C0018965	hallazgo#trastorno	367-376	314_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+9	,	,	Fc	-	-	376-377	314_QUEST_clinical_caseMIR	SENT4	-	-
+10	leucocituria	leucocituria	NCFS000	-	-	378-390	314_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+11	con	con	SPS00	C0332287	atributo	391-394	314_QUEST_clinical_caseMIR	SENT4	-	-
+12	eosinofiluria	eosinofiluria	NCFS000	-	-	395-408	314_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	409-411	314_QUEST_clinical_caseMIR	SENT4	-	-
+14	la	el	DA0FS0	-	-	412-414	314_QUEST_clinical_caseMIR	SENT4	-	-
+15	tinción	tinción	NCFS000	C0770761#C1261259_1	procedimiento#sustancia_1	415-422	314_QUEST_clinical_caseMIR	SENT4	-	-
+16	de	de	SPS00	C0770761#C1261259_2	procedimiento#sustancia_2	423-425	314_QUEST_clinical_caseMIR	SENT4	-	-
+17	Wright	Wright		C0770761#C1261259_3	procedimiento#sustancia_3	426-432	314_QUEST_clinical_caseMIR	SENT4	-	-
+18	y	y	CC	C1706368	calificador	433-434	314_QUEST_clinical_caseMIR	SENT4	-	-
+19	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	435-446	314_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	447-449	314_QUEST_clinical_caseMIR	SENT4	-	-
+21	rango	rango	NCMS000	-	-	450-455	314_QUEST_clinical_caseMIR	SENT4	-	-
+22	no	no	RN	C1298908	calificador	456-458	314_QUEST_clinical_caseMIR	SENT4	-	-
+23	nefrótico	nefrótico	AQ0MS00	-	-	459-468	314_QUEST_clinical_caseMIR	SENT4	-	-
+24	(	(	Fpa	-	-	469-470	314_QUEST_clinical_caseMIR	SENT4	-	-
+25	1,2	1.2	Z	-	-	470-473	314_QUEST_clinical_caseMIR	SENT4	-	-
+26	gramos	g	NCMP000	-	-	474-480	314_QUEST_clinical_caseMIR	SENT4	-	-
+27	diarios	diario	NCMP000	C0332173	calificador	481-488	314_QUEST_clinical_caseMIR	SENT4	-	-
+28	)	)	Fpt	-	-	488-489	314_QUEST_clinical_caseMIR	SENT4	-	-
+29	.	.	Fp	-	-	489-490	314_QUEST_clinical_caseMIR	SENT4	-	-
+
+1	Con	con	SPS00	C0332287	atributo	491-494	314_QUEST_clinical_caseMIR	SENT5	-	-
+2	estos	este	DD0MP0	-	-	495-500	314_QUEST_clinical_caseMIR	SENT5	-	-
+3	datos	dato	NCMP000	-	-	501-506	314_QUEST_clinical_caseMIR	SENT5	-	-
+4	clínicos	clínico	AQ0MP0	C0205210	calificador	507-515	314_QUEST_clinical_caseMIR	SENT5	-	-
+5	el	el	DA0MS0	-	-	516-518	314_QUEST_clinical_caseMIR	SENT5	-	-
+6	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	519-530	314_QUEST_clinical_caseMIR	SENT5	-	-
+7	más	más	RG	C0205172	calificador	531-534	314_QUEST_clinical_caseMIR	SENT5	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	535-543	314_QUEST_clinical_caseMIR	SENT5	-	-
+9	es	ser	VSIP3S0	-	-	544-546	314_QUEST_clinical_caseMIR	SENT5	-	-
+10	:	:	Fd	-	-	546-547	314_QUEST_clinical_caseMIR	SENT5	-	-
+11	.	.	Fp	-	-	547-548	314_QUEST_clinical_caseMIR	SENT5	-	-
+

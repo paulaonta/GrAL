@@ -1,0 +1,40 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	324_QUEST_clinical_caseMIR	SENT1	-	-
+2	un	un		C0205447_1	calificador_1	3-5	324_QUEST_clinical_caseMIR	SENT1	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	6-14	324_QUEST_clinical_caseMIR	SENT1	-	-
+4	de	de	SPS00	C0332285	atributo	15-17	324_QUEST_clinical_caseMIR	SENT1	-	-
+5	14	14		-	-	18-20	324_QUEST_clinical_caseMIR	SENT1	-	-
+6	años	año	NCMP000	C0439234	calificador	21-25	324_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	26-29	324_QUEST_clinical_caseMIR	SENT1	-	-
+8	Síndrome	síndrome	NCMS000	C0013080_1	trastorno_1	30-38	324_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+9	de	de	SPS00	C0013080_2	trastorno_2	39-41	324_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+10	Down	Down		C0013080_3	trastorno_3	42-46	324_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-
+11	que	que	PR0CN000	-	-	47-50	324_QUEST_clinical_caseMIR	SENT1	-	-
+12	presenta	presentar	VMIP3S0	-	-	51-59	324_QUEST_clinical_caseMIR	SENT1	-	-
+13	nucalgias	nucalgias	NCFP000	-	-	60-69	324_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+14	(	(	Fpa	-	-	70-71	324_QUEST_clinical_caseMIR	SENT1	-	-
+15	exploración	exploración	NCFS000	C1280903	procedimiento	71-82	324_QUEST_clinical_caseMIR	SENT1	-	-
+16	neurológica	neurológico	AQ0FS0	C0205494	calificador	83-94	324_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+17	normal	normal	AQ0CS0	C0205307	calificador	95-101	324_QUEST_clinical_caseMIR	SENT1	-	-
+18	)	)	Fpt	-	-	101-102	324_QUEST_clinical_caseMIR	SENT1	-	-
+19	y	y	CC	C1706368	calificador	103-104	324_QUEST_clinical_caseMIR	SENT1	-	-
+20	va	ir	VMIP3S0	-	-	105-107	324_QUEST_clinical_caseMIR	SENT1	-	-
+21	a	a	SPS00	-	-	108-109	324_QUEST_clinical_caseMIR	SENT1	-	-
+22	ser	ser	VSN0000	-	-	110-113	324_QUEST_clinical_caseMIR	SENT1	-	-
+23	sometido	someter	VMP00SM	-	-	114-122	324_QUEST_clinical_caseMIR	SENT1	-	-
+24	a	a	SPS00	-	-	123-124	324_QUEST_clinical_caseMIR	SENT1	-	-
+25	anestesia	anestesiar	VMM02S0	C0002915_1	procedimiento_1	125-134	324_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+26	general	general	NCCS000	C0002915_2	procedimiento_2	135-142	324_QUEST_clinical_caseMIR	SENT1	-	-
+27	(	(	Fpa	-	-	143-144	324_QUEST_clinical_caseMIR	SENT1	-	-
+28	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	144-154	324_QUEST_clinical_caseMIR	SENT1	-	-
+29	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	155-166	324_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+30	)	)	Fpt	-	-	166-167	324_QUEST_clinical_caseMIR	SENT1	-	-
+31	para	para	SPS00	C0521125	calificador	168-172	324_QUEST_clinical_caseMIR	SENT1	-	-
+32	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	173-180	324_QUEST_clinical_caseMIR	SENT1	-	-
+33	abdominal	abdominal	AQ0CS0	C0000726	calificador	181-190	324_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-
+34	electiva	electivo	AQ0FS0	C0439608	calificador	191-199	324_QUEST_clinical_caseMIR	SENT1	-	-
+35	debe	deber	VMIP3S0	-	-	200-204	324_QUEST_clinical_caseMIR	SENT1	-	-
+36	descartar	descartar	VMN0000	C0332196	calificador	205-214	324_QUEST_clinical_caseMIR	SENT1	-	-
+37	se	se	PP3CN000	-	-	214-216	324_QUEST_clinical_caseMIR	SENT1	-	-
+38	:	:	Fd	-	-	216-217	324_QUEST_clinical_caseMIR	SENT1	-	-
+39	.	.	Fp	-	-	217-218	324_QUEST_clinical_caseMIR	SENT1	-	-
+

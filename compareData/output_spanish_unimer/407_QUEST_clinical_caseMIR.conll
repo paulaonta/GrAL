@@ -1,0 +1,70 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	407_QUEST_clinical_caseMIR	SENT1	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	407_QUEST_clinical_caseMIR	SENT1	-	-
+3	60	60		-	-	10-12	407_QUEST_clinical_caseMIR	SENT1	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	407_QUEST_clinical_caseMIR	SENT1	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	18-20	407_QUEST_clinical_caseMIR	SENT1	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	21-32	407_QUEST_clinical_caseMIR	SENT1	-	-
+7	con	con	SPS00	C0332287	atributo	33-36	407_QUEST_clinical_caseMIR	SENT1	-	-
+8	carbamazepina	carbamazepina	NC00SC0	C0006949	sustancia	37-50	407_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-
+9	por	por	SPS00	C0678226	atributo	51-54	407_QUEST_clinical_caseMIR	SENT1	-	-
+10	epilepsia	epilepsia	NCFS000	C0014544	trastorno	55-64	407_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+11	y	y	CC	C1706368	calificador	65-66	407_QUEST_clinical_caseMIR	SENT1	-	-
+12	que	que	PR0CN000	-	-	67-70	407_QUEST_clinical_caseMIR	SENT1	-	-
+13	presenta	presentar	VMIP3S0	-	-	71-79	407_QUEST_clinical_caseMIR	SENT1	-	-
+14	fiebre	fiebre	NCFS000	C0015967	hallazgo	80-86	407_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-
+15	(	(	Fpa	-	-	87-88	407_QUEST_clinical_caseMIR	SENT1	-	-
+16	38.8º	38.8º		-	-	88-93	407_QUEST_clinical_caseMIR	SENT1	B-Calificador	-
+17	C	c	NC00YL0	C1673307	organismo	94-95	407_QUEST_clinical_caseMIR	SENT1	-	-
+18	)	)	Fpt	-	-	95-96	407_QUEST_clinical_caseMIR	SENT1	-	-
+19	,	,	Fc	-	-	96-97	407_QUEST_clinical_caseMIR	SENT1	-	-
+20	odinofagia	odinofagia	NCFS000	C0221150	hallazgo	98-108	407_QUEST_clinical_caseMIR	SENT1	-	-
+21	,	,	Fc	-	-	108-109	407_QUEST_clinical_caseMIR	SENT1	-	-
+22	conjuntivitis	conjuntivitis	NCFN000	C0009763	trastorno	110-123	407_QUEST_clinical_caseMIR	SENT1	-	-
+23	,	,	Fc	-	-	123-124	407_QUEST_clinical_caseMIR	SENT1	-	-
+24	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	125-133	407_QUEST_clinical_caseMIR	SENT1	-	-
+25	cutáneas	cutáneo	AQ0FP0	-	-	134-142	407_QUEST_clinical_caseMIR	SENT1	-	-
+26	parduzcas	pardo	AQVFP00	-	-	143-152	407_QUEST_clinical_caseMIR	SENT1	-	-
+27	extendidas	extender	VMP00PF	-	-	153-163	407_QUEST_clinical_caseMIR	SENT1	-	-
+28	en	en	SPS00	C1720294#C0332285	calificador#atributo	164-166	407_QUEST_clinical_caseMIR	SENT1	-	-
+29	una	una		C0205447_1	calificador_1	167-170	407_QUEST_clinical_caseMIR	SENT1	-	-
+30	gran	gran	AQ0CS0	C0549177	calificador	171-175	407_QUEST_clinical_caseMIR	SENT1	-	-
+31	superficie	superficie	NCFS000	C0005902_1	estructura_corporal#entidad_observable_1	176-186	407_QUEST_clinical_caseMIR	SENT1	-	-
+32	corporal	corporal	AQ0CS0	C0005902_2	estructura_corporal#entidad_observable_2	187-195	407_QUEST_clinical_caseMIR	SENT1	-	-
+33	,	,	Fc	-	-	195-196	407_QUEST_clinical_caseMIR	SENT1	-	-
+34	de	de	SPS00	C0332285	atributo	197-199	407_QUEST_clinical_caseMIR	SENT1	-	-
+35	aspecto	aspecto	NCMS000	C0700364#C0233426#C0332441	calificador#función	200-207	407_QUEST_clinical_caseMIR	SENT1	-	-
+36	similar	similar	AQ0CS0	-	-	208-215	407_QUEST_clinical_caseMIR	SENT1	-	-
+37	a	a	SPS00	-	-	216-217	407_QUEST_clinical_caseMIR	SENT1	-	-
+38	una	una		C0205447_1	calificador_1	218-221	407_QUEST_clinical_caseMIR	SENT1	-	-
+39	diana	diana	NCFS000	-	-	222-227	407_QUEST_clinical_caseMIR	SENT1	-	-
+40	y	y	CC	C1706368	calificador	228-229	407_QUEST_clinical_caseMIR	SENT1	-	-
+41	que	que	PR0CN000	-	-	230-233	407_QUEST_clinical_caseMIR	SENT1	-	-
+42	se	se	P00CN000	-	-	234-236	407_QUEST_clinical_caseMIR	SENT1	-	-
+43	acompañan	acompañar	VMIP3P0	-	-	237-246	407_QUEST_clinical_caseMIR	SENT1	-	-
+44	de	de	SPS00	C0332285	atributo	247-249	407_QUEST_clinical_caseMIR	SENT1	-	-
+45	desprendimiento	desprendimiento	NCMS000	-	-	250-265	407_QUEST_clinical_caseMIR	SENT1	-	-
+46	epidérmico	epidérmico	AQ0MS0	-	-	266-276	407_QUEST_clinical_caseMIR	SENT1	-	-
+47	(	(	Fpa	-	-	277-278	407_QUEST_clinical_caseMIR	SENT1	-	-
+48	superior	superior	AQ0CS0	C1282910	calificador	278-286	407_QUEST_clinical_caseMIR	SENT1	-	-
+49	al	al	SP+DA	-	-	287-289	407_QUEST_clinical_caseMIR	SENT1	-	-
+50	30	30	Z	-	-	290-292	407_QUEST_clinical_caseMIR	SENT1	-	-
+51	%	%	Ft	-	-	292-293	407_QUEST_clinical_caseMIR	SENT1	-	-
+52	)	)	Fpt	-	-	293-294	407_QUEST_clinical_caseMIR	SENT1	-	-
+53	al	al	SP+DA	-	-	295-297	407_QUEST_clinical_caseMIR	SENT1	-	-
+54	menor	menor	AQ0CS0	C0700321#C1282918#C0205165#C0026193	calificador#persona	298-303	407_QUEST_clinical_caseMIR	SENT1	-	-
+55	roce	roce	NCMS000	-	-	304-308	407_QUEST_clinical_caseMIR	SENT1	-	-
+56	.	.	Fp	-	-	308-309	407_QUEST_clinical_caseMIR	SENT1	-	-
+
+1	Es	ser	VSIP3S0	-	-	310-312	407_QUEST_clinical_caseMIR	SENT2	-	-
+2	muy	muy	RG	C0442824	calificador	313-316	407_QUEST_clinical_caseMIR	SENT2	-	-
+3	probable	probable	AQ0CS0	C0332148	calificador	317-325	407_QUEST_clinical_caseMIR	SENT2	-	-
+4	que	que	CS	-	-	326-329	407_QUEST_clinical_caseMIR	SENT2	-	-
+5	esté	estar	VASP1S0	-	-	330-334	407_QUEST_clinical_caseMIR	SENT2	-	-
+6	presentando	presentar	VMG0000	-	-	335-346	407_QUEST_clinical_caseMIR	SENT2	-	-
+7	un	un		C0205447_1	calificador_1	347-349	407_QUEST_clinical_caseMIR	SENT2	-	-
+8	cuadro	cuadro	NCMS000	-	-	350-356	407_QUEST_clinical_caseMIR	SENT2	-	-
+9	clínico	clínico	AQ0MS0	C0205210	calificador	357-364	407_QUEST_clinical_caseMIR	SENT2	-	-
+10	de	de	SPS00	C0332285	atributo	365-367	407_QUEST_clinical_caseMIR	SENT2	-	-
+11	:	:	Fd	-	-	367-368	407_QUEST_clinical_caseMIR	SENT2	-	-
+12	.	.	Fp	-	-	368-369	407_QUEST_clinical_caseMIR	SENT2	-	-
+
