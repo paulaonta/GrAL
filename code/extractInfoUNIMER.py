@@ -47,7 +47,7 @@ def concatenate(elements, lista, list_codes):
 
 def get_diseases_and_signs(conll_lines, extractQuest = True):
     gaixotasunak, gaixotasunak_NOcode, gaixotasunakUMLS, sintomak, sintomak_NOcode, sintomakUMLS, gaixSin, gaixSin_NOcode,gaixSinUMLS =  [], [], [], [], [], [], [], [], []
-    isPartS, isPartG = False, False
+    isPartS, isPartG, isPartGS = False, False, False
 
     for line in conll_lines:
         elements = line.split("\t")
@@ -84,8 +84,17 @@ def get_diseases_and_signs(conll_lines, extractQuest = True):
             if not findSno and elements[Deepent_pos].find("Grp_Enfermedad") != -1 or elements[Deepent_pos].find("Alergia") != -1:
                 # hemen sartzen baldin bada, bada SnoMot ez daukalako edo ez dagoelako def. artean, beraz ezin da jakin
                 # sintoma edo gaixotasuna den
-                if elements[name_pos] not in gaixSin and elements[name_pos] != "le":
-                    gaixSin, gaixSin_NOcode, gaixSinUMLS = get_name_and_code(elements, gaixSin, gaixSinUMLS, gaixSin_NOcode, extractQuest)
+                if elements[Deepent_pos][0] == "B" or ( elements[Deepent_pos][0] == "I" and not isPartGS):
+                    if elements[name_pos] not in gaixSin and elements[name_pos] != "le":
+                        gaixSin, gaixSin_NOcode, gaixSinUMLS = get_name_and_code(elements, gaixSin, gaixSinUMLS, gaixSin_NOcode, extractQuest)
+                        isPartGS = True
+
+                elif elements[Deepent_pos][0] == "I" : #it's inside
+                    gaixSin, gaixSinUMLS = concatenate(elements, gaixSin, gaixSinUMLS)
+                    isPartGS = True
+                else:
+                    isPartGS = False
+
 
     return gaixotasunak, gaixotasunak_NOcode, gaixotasunakUMLS, sintomak, sintomak_NOcode, sintomakUMLS, gaixSin, gaixSin_NOcode, gaixSinUMLS
 
