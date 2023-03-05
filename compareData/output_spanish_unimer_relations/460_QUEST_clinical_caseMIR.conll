@@ -1,0 +1,86 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	4	4		-	-	8-9	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	15-18	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	19-27	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	fiebre	fiebre	NCFS000	C0015967	hallazgo	28-34	460_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	alta	alto	AQ0FS0	C0205250	calificador	35-39	460_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	1023	Modif
+9	de	de	SPS00	C0332285	atributo	40-42	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	6	6	Z	-	-	43-44	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	días	d	NCMP000	-	-	45-49	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	50-52	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	evolución	evolución	NCFS000	-	-	53-62	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	.	.	Fp	-	-	62-63	460_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	64-66	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	67-69	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	70-81	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	82-89	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	presenta	presentar	VMIP3S0	-	-	90-98	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	99-101	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	exantema	exantema	NCMS000	C0015230	anomalía_morfológica#trastorno	102-110	460_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	eritematoso	eritematoso	AQ0MS00	-	-	111-122	460_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	1024	Modif
+9	maculopapular	maculopapular	AQ0CS00	-	-	123-136	460_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	1024	LOC
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	137-139	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	tronco	tronco	NCMS000	C1280632#C0460005	estructura_corporal	140-146	460_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	1024	LOC
+12	y	y	CC	C1706368	calificador	147-148	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	zona	zona	NCFS000	C0019360	trastorno	149-153	460_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	1024	LOC
+14	genital	genital	AQ0CS0	C0559522	calificador	154-161	460_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	13	73	MultiE
+15	,	,	Fc	-	-	161-162	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	con	con	SPS00	C1521798_1	atributo_1	163-166	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	tendencia	tendencia	NCFS000	C1521798_2	atributo_2	167-176	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	a	a	SPS00	-	-	177-178	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	la	el	DA0FS0	-	-	179-181	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	confluencia	confluencia	NCFS000	-	-	182-193	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	,	,	Fc	-	-	193-194	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	sin	sin	SPS00	C0332288	atributo	195-198	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	llegar	llegar	VMN0000	-	-	199-205	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	a	a	SPS00	-	-	206-207	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	ser	ser	VSN0000	-	-	208-211	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	escarlatiniforme	escarlatiniforme	NC00SC0	C0443297	calificador	212-228	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	;	;	Fx	-	-	228-229	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	inyección	inyección	NCFS000	C1761613_1	hallazgo_1	230-239	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	conjuntival	conjuntival	AQ0CS0	C1761613_2	hallazgo_2	240-251	460_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+30	sin	sin	SPS00	C0332288	atributo	252-255	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	secreciones	secreción	NCFP000	C0012621	anomalía_morfológica	256-267	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	y	y	CC	C1706368	calificador	268-269	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	labios	labio	NCMP000	C1278911#C0023759	estructura_corporal	270-276	460_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+34	rojos	rojo	AQ0MP0	C1260956	calificador	277-282	460_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	33	306	MultiE
+35	con	con	SPS00	C0332287	atributo	283-286	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	lengua	lengua	NCFS000	C0426499#C0267043_1	hallazgo#trastorno_1	287-293	460_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+37	aframbuesada	aframbuesada		C0426499#C0267043_2	hallazgo#trastorno_2	294-306	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	.	.	Fp	-	-	306-307	460_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	308-316	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	también	también	RG	-	-	317-324	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	eritema	eritema	NCMS000	C0041834	anomalía_morfológica#hallazgo	325-332	460_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	333-336	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	edema	edema	NCMS000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	337-342	460_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	343-345	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	346-351	460_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	5	1025	LOC
+8	y	y	CC	C1706368	calificador	352-353	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	pies	pie	NCMP000	C1281587#C0347981#C0016504	estructura_corporal#calificador	354-358	460_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	5	1025	LOC
+10	y	y	CC	C1706368	calificador	359-360	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	361-364	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	adenopatía	adenopatía	NCFS000	-	-	365-375	460_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+13	cervical	cervical	NC00SC0	C0205064#C0237504	calificador#estructura_corporal	376-384	460_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	12	1025	LOC
+14	unilateral	unilateral	AQ0CS0	C0205092	calificador	385-395	460_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	12	1025	Modif
+15	de	de	SPS00	C0332285	atributo	396-398	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	2	2	Z	-	-	399-400	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	cm	cm	NCMN000	-	-	401-403	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	404-406	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	diámetro	diámetro	NCMS000	C1301886	calificador	407-415	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	.	.	Fp	-	-	415-416	460_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	417-419	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0332140_1	calificador_1	420-431	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	clínico	clínico	NCMS000	C0332140_2	calificador_2	432-439	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	440-442	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	sospecha	sospecha	NCFS000	C0750491	calificador	443-451	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	452-455	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	456-464	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	es	ser	VSIP3S0	-	-	465-467	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	:	:	Fd	-	-	467-468	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	468-469	460_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

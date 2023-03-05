@@ -1,0 +1,90 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	43	43		-	-	9-11	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	portadora	portador	AQ0FS0	C0560175	hallazgo	17-26	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	27-29	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	dispositivo	dispositivo	NCMS000	C0021900_1	objeto_físico#calificador_1	30-41	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	intrauterino	intrauterino	NC00SC0	C0021900_2	objeto_físico#calificador_2	42-54	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	55-57	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	levonorgestrel	levonorgestrel	NC00SC0	C0023566	producto#sustancia	58-72	488_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+11	que	que	PR0CN000	-	-	73-76	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	consulta	consultar	VMM02S0	C1704447_1	calificador_1	77-85	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	por	por	SPS00	C1704447_2	calificador_2	86-89	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	falta	faltar	VMIP3S0	-	-	90-95	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	96-98	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	descanso	descanso	NCMS000	C0035253	entidad_observable	99-107	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	nocturno	nocturno	AQ0MS0	C0240526	calificador	108-116	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	con	con	SPS00	C0332287	atributo	117-120	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	aparición	aparición	NCFS000	-	-	121-130	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	131-133	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	calor	calor	NCMS000	C0018837#C0232417	fuerza_física#hallazgo	134-139	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	y	y	CC	C1706368	calificador	140-141	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	palpitaciones	palpitación	NCFP000	-	-	142-155	488_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	.	.	Fp	-	-	155-156	488_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	157-159	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	160-162	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	163-172	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	173-180	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	T4	T4		-	-	181-183	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	libre	libre	AQ0CS0	-	-	184-189	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	10,5	10,5		-	-	190-194	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	pmol	pmol	NCMS000	-	-	195-199	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	/	/	Fh	-	-	199-200	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	L	l	NCFS000	-	-	200-201	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	(	(	Fpa	-	-	202-203	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	9-19	9-19		-	-	203-207	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	)	)	Fpt	-	-	207-208	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	,	,	Fc	-	-	208-209	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	tirotropina	tirotropina	NC00SC0	C0040160	sustancia	210-221	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	2,1	2,1		-	-	222-225	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	mUI	mui	NC00SC0	C0439455	calificador	226-229	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	/	/	Fh	-	-	229-230	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	L	l	NCFS000	-	-	230-231	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	(	(	Fpa	-	-	232-233	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	0,30-5,00	0,30-5,00		-	-	233-242	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	)	)	Fpt	-	-	242-243	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	,	,	Fc	-	-	243-244	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	FSH	follicle-stimulating_hormone_(hormona_folículoestimulante)	NC00YL0	-	-	245-248	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	95,6	95,6		-	-	249-253	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	UI	ui	NC00SC0	C0439453	calificador	254-256	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	/	/	Fh	-	-	256-257	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	L	l	NCFS000	-	-	257-258	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	(	(	Fpa	-	-	259-260	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	1,38-16,7	1,38-16,7		-	-	260-269	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	)	)	Fpt	-	-	269-270	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	,	,	Fc	-	-	270-271	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	LH	luteinizing_hormone_(hormona_luteinizante)	NC00YL0	-	-	272-274	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	21	21		-	-	275-277	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	UI	ui	NC00SC0	C0439453	calificador	278-280	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	/	/	Fh	-	-	280-281	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	L	l	NCFS000	-	-	281-282	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	(	(	Fpa	-	-	283-284	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	2,4-9,3	2,4-9,3		-	-	284-291	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	)	)	Fpt	-	-	291-292	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	,	,	Fc	-	-	292-293	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	estradiol	estradiol	NCMS000	C0014912	sustancia	294-303	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	<	<	Fz	-	-	304-305	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	0,07	0,07		-	-	306-310	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+45	nmol	nmol	NCMS000	-	-	311-315	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+46	/	/	Fh	-	-	315-316	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+47	L	l	NCFS000	-	-	316-317	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+48	(	(	Fpa	-	-	318-319	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+49	0,07	0,07		-	-	319-323	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+50	–	–	Fz	-	-	324-325	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+51	1,14	1,14		-	-	326-330	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+52	)	)	Fpt	-	-	330-331	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+53	.	.	Fp	-	-	331-332	488_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	333-334	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	334-338	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	339-341	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	el	el	DA0MS0	-	-	342-344	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	345-356	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	357-360	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	adecuado	adecuar	VMP00SM	-	-	361-369	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	369-370	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	:	:	Fd	-	-	370-371	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	371-372	488_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

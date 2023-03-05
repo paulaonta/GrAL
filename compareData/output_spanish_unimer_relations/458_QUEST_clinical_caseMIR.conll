@@ -1,0 +1,76 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	65	65		-	-	9-11	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	aparición	aparición	NCFS000	-	-	43-52	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	53-55	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	56-64	458_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	moteadas	motear	VMP00PF	-	-	65-73	458_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	12	1276	Modif
+14	cianóticas	cianótico	AQ0FP0	-	-	74-84	458_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	12	1276	Modif
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	85-87	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	los	el	DA0MP0	-	-	88-91	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	92-97	458_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	12	1276	LOC
+18	de	de	SPS00	C0332285	atributo	98-100	458_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	164	MultiE
+19	ambos	ambos	PI0MP000	C0230473_1	estructura_corporal_1	101-106	458_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	164	MultiE
+20	pies	pie	NCMP000	C0230473_2	estructura_corporal_2	107-111	458_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	164	MultiE
+21	.	.	Fp	-	-	111-112	458_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Antecedentes	antecedente	NCMP000	-	-	113-125	458_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	personales	personal	AQ0CP0	-	-	126-136	458_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	:	:	Fd	-	-	136-137	458_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	tabaquismo	tabaquismo	NCMS000	C0040332#C0040336#C1306274#C0425291_1	trastorno#entidad_observable_1	138-148	458_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	,	,	Fc	-	-	148-149	458_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	150-162	458_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	163-171	458_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	6	1277	LOC
+8	y	y	CC	C1706368	calificador	172-173	458_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	dislipemia	dislipemia	NCFS000	-	-	174-184	458_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	.	.	Fp	-	-	184-185	458_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Rx	radiografía	NC00YL0	C1306645	procedimiento	186-188	458_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tórax	tórax	NCMN000	C1269614#C0449208#C0817096	estructura_corporal	189-194	458_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	:	:	Fd	-	-	194-195	458_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	ensanchamiento	ensanchamiento	NCMS000	C0332464	anomalía_morfológica	196-210	458_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+5	mediastínico	mediastínico	AQ0MS0	C0025066	calificador	211-223	458_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	4	1278	LOC
+6	.	.	Fp	-	-	223-224	458_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Angio-TC	angio-tc	NC00000	-	-	225-233	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	tóraco-abdómino-pélvica	tóraco-abdómino-pélvica	AQ0FS00	-	-	234-257	458_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+3	:	:	Fd	-	-	257-258	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	aneurisma	aneurisma	NCMS000	C1388233_1	trastorno_1	259-268	458_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	de	de	SPS00	C1388233_2	trastorno_2	269-271	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	aorta	aorta	NCFS000	C1388233_3	trastorno_3	272-277	458_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	4	1279	LOC
+7	torácica	torácico	AQ0FS0	C1388233_4	trastorno_4	278-286	458_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	6	150	MultiE
+8	descendente	descendente	NC00SC0	C1388233_5	trastorno_5	287-298	458_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	6	150	MultiE
+9	de	de	SPS00	C0332285	atributo	299-301	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	7	7	Z	-	-	302-303	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	cm	cm	NCMN000	-	-	304-306	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	307-309	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	diámetro	diámetro	NCMS000	C1301886	calificador	310-318	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	,	,	Fc	-	-	318-319	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	distal	distal	NC00SC0	C0205108	calificador	320-326	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	a	a	SPS00	-	-	327-328	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	arteria	arteria	NCFS000	C0226262#C1269886_1	estructura_corporal_1	329-336	458_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+18	subclavia	subclavio	AQ0FS0	C0226262#C1269886_2	estructura_corporal_2	337-346	458_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	17	164	MultiE
+19	izquierda	izquierdo	AQ0FS0	C0226262#C1269886_3	estructura_corporal_3	347-356	458_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	17	164	MultiE
+20	y	y	CC	C1706368	calificador	357-358	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	con	con	SPS00	C0332287	atributo	359-362	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	trombo	trombo	NCMS000	C0087086#C0003148#C0040053	anomalía_morfológica	363-369	458_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+23	mural	mural	AQ0CS0	C0441995	calificador	370-375	458_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	22	1279	LOC
+24	.	.	Fp	-	-	375-376	458_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	De	de	SPS00	C0332285	atributo	377-379	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	las	el	DA0FP0	-	-	380-383	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	384-394	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	,	,	Fc	-	-	394-395	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	señale	señalar	VMSP3S0	-	-	396-402	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	la	el	DA0FS0	-	-	403-405	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	opción	opción	NCFS000	-	-	406-412	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	413-421	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	:	:	Fd	-	-	421-422	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	.	.	Fp	-	-	422-423	458_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

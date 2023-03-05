@@ -1,0 +1,67 @@
+1	Paciente	paciente	AQ0CS0	C0030705	persona	0-8	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	9-14	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	18	18		-	-	18-20	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	21-25	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	25-26	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	27-30	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hisotria	hisotria	NCFS000	-	-	31-39	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	ausencias	ausencia	NCFP000	C1689985#C0014553	anomalía_morfológica	43-52	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	entre	entre	SPS00	C0205103	calificador	53-58	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	los	el	DA0MP0	-	-	59-62	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	6	6		-	-	63-64	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	65-66	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	9	9		-	-	67-68	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	años	año	NCMP000	C0439234	calificador	69-73	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	,	,	Fc	-	-	73-74	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	crisis	crisis	NCFN000	C0231224	hallazgo	75-81	115_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	tónico-clónicas	tónico-clónicas	AQ0FP00	-	-	82-97	115_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	3873	Modif
+20	generalizadas	generalizar	VMP00PF	-	-	98-111	115_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	3873	Modif
+21	de	de	SPS00	C0332285	atributo	112-114	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	reciente	reciente	AQ0CS0	C0332185	calificador	115-123	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	comienzo	comienzo	NCMS000	-	-	124-132	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	y	y	CC	C1706368	calificador	133-134	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	saltos	salto	NCMP000	-	-	135-141	115_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	violentos	violento	AQ0MP0	-	-	142-151	115_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	25	60	MultiE
+27	de	de	SPS00	C0332285	atributo	152-154	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	miembros	miembro	NCMP000	C0015385	estructura_corporal	155-163	115_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	25	3873	LOC
+29	superiores	superior	AQ0CP0	C1282910	calificador	164-174	115_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	28	541	MultiE
+30	al	al	SP+DA	-	-	175-177	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	desayunar	desayunar	VMN0000	-	-	178-187	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	.	.	Fp	-	-	187-188	115_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	189-191	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	clínica	clínica	NCFS000	C0442592	medio_ambiente	192-199	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	empeora	empeorar	VMIP3S0	-	-	200-207	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	208-211	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	salidas	salida	NCFP000	C0337094	calificador	212-219	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	nocturnas	nocturno	AQ0FP0	C0240526	calificador	220-229	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	230-232	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	fines	fin	NCMP000	-	-	233-238	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	239-241	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	semana	semana	NCFS000	C0439230	calificador	242-248	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	248-249	115_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	250-252	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	EEG	electroencefalograma	NC00YL0	C0013819	procedimiento	253-256	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	257-264	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	descargar	descargar	VMN0000	-	-	265-274	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	275-277	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	polipuntas	polipunta	NCCP000	-	-	278-288	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	agudas	agudo	AQ0FP0	C0205178	calificador	289-295	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	a	a	SPS00	-	-	296-297	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	6	6		-	-	298-299	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	ciclos	ciclo	NCMP000	-	-	300-306	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	/	/	Fh	-	-	306-307	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	segundo	segundo	NCMS000	C0205436	calificador	307-314	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	.	.	Fp	-	-	314-315	115_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	316-318	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	319-330	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	más	más	RG	C0205172	calificador	331-334	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	335-343	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	344-346	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	:	:	Fd	-	-	346-347	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	.	.	Fp	-	-	347-348	115_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,14 @@
+1	Indometacina	indometacina	NCFS000	C0021246	sustancia	0-12	481(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	a	a	SPS00	-	-	13-14	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	dosis	dosis	NCFN000	-	-	15-20	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	21-23	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	50	50	Z	-	-	24-26	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	mg	mg	NCMN000	-	-	27-29	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	cada	cada	DI0CS0	C1457900	calificador	30-34	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	8	8	Z	C1292429_1	calificador_1	35-36	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	horas	hora	NCFP000	C1292429_2	calificador_2	37-42	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	durante	durante	SPS00	C1444752#C0347984	atributo	43-50	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	51-53	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	mes	mes	NCMS000	C0439231	calificador	54-57	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	.	.	Fp	-	-	58-59	481(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

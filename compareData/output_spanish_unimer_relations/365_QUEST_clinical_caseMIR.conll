@@ -1,0 +1,96 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	10-12	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	31-34	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	tos	tos	NCFS000	C0239134_1	hallazgo_1	35-38	365_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	productiva	productivo	AQ0FS0	C0239134_2	hallazgo_2	39-49	365_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	2024	Modif
+10	,	,	Fc	-	-	49-50	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	dolor	dolor	NCMS000	C0008033_1	hallazgo_1	51-56	365_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	pleurítico	pleurítico	NCMS000	C0008033_2	hallazgo_2	57-67	365_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	2024	LOC
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	68-70	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	costado	costar	VMP00SM	-	-	71-78	365_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	2024	LOC
+15	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	79-86	365_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	14	5	MultiE
+16	y	y	CC	C1706368	calificador	87-88	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	fiebre	fiebre	NCFS000	C0015967	hallazgo	89-95	365_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	96-98	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	48	48	Z	-	-	99-101	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	h	h	NCMN000	C0439227	calificador	102-103	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	104-106	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	evolución	evolución	NCFS000	-	-	107-116	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	.	.	Fp	-	-	116-117	365_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	118-120	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	aprecia	apreciar	VMIP3S0	-	-	121-128	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	129-132	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	saturación	saturación	NCFS000	-	-	133-143	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	basal	basal	AQ0CS0	C0205112	calificador	144-149	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	150-152	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	O2	O2		-	-	153-155	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	del	del	SP+DA	-	-	156-159	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	88	88	Z	-	-	160-162	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	%	%	Ft	-	-	162-163	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	164-165	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	estertores	estertor	NCMP000	-	-	166-176	365_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	base	base	NCCS000	C1626935#C0178499	calificador#sustancia	180-184	365_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	12	2025	LOC
+15	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	185-192	365_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	14	5	MultiE
+16	.	.	Fp	-	-	192-193	365_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	194-196	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	RX	rx	NC00SC0	C0039985_1	procedimiento_1	197-199	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	200-202	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	203-208	365_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	muestra	mostrar	VMIP3S0	-	-	209-216	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	217-220	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	consolidación	consolidación	NCFS000	C0702116	anomalía_morfológica	221-234	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	basal	basal	AQ0CS0	C0205112	calificador	235-240	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	derecha	derecha	NCFS000	-	-	241-248	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	248-249	365_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	250-255	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	256-268	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332119_2	situación_2	269-271	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	infección	infección	NCFS000	C0019693_1	trastorno_1	272-281	365_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	por	por	SPS00	C0019693_2	trastorno_2	282-285	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0019693_3	trastorno_3	286-289	365_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	4	2027	Causada_por
+7	bien	bien	RG	C0205170	calificador	290-294	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	controlada	controlar	VMP00SF	-	-	295-305	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	306-309	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	antirretrovirales	antirretrovirales	AQ0CP00	-	-	310-327	365_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+11	linfocitos	linfocito	NCMP000	C0024264	célula	328-338	365_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+12	CD4	CD4		-	-	339-342	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	550	550		-	-	343-346	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	ce	ce	NCFS000	-	-	347-349	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	/	/	Fh	-	-	349-350	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	uL	ul	NC00SC0	C0439243	calificador	350-352	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	353-354	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	carga	carga	NCFS000	-	-	355-360	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	viral	viral	AQ0CS0	-	-	361-366	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	367-369	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	VlH	vlh	NCMS000	-	-	370-373	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	indetectable	indetectable	AQ0CS0	-	-	374-386	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	)	)	Fpt	-	-	386-387	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	.	.	Fp	-	-	387-388	365_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	389-390	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cual	cual	PI0CS000	-	-	390-394	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	395-397	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	los	el	DA0MP0	-	-	398-401	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	403-415	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	antimicrobianos	antimicrobiano	AQ0MP0	-	-	416-431	365_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+7	empíricos	empírico	NCMP000	-	-	432-441	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	que	que	PR0CN000	-	-	442-445	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	se	se	P00CN000	-	-	446-448	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	señalan	señalar	VMIP3P0	-	-	449-456	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	a	a	SPS00	-	-	457-458	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	continuación	continuación	NCFS000	-	-	459-471	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	472-474	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	parece	parecer	VMIP3S0	-	-	475-481	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	mas	mas	CC	-	-	482-485	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	adecuado	adecuado	NC00SC0	C0205411	calificador	486-494	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	?	?	Fit	-	-	494-495	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	.	.	Fp	-	-	495-496	365_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

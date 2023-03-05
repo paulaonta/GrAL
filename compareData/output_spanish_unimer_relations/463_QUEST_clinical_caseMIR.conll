@@ -1,0 +1,56 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	55	55		-	-	9-11	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diabetes	diabetes	NCFN000	-	-	21-29	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	tipo	tipo	NCMS000	C0332307	calificador#atributo	30-34	463_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	4142	Modif
+8	1	1	Z	-	-	35-36	463_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	7	50	MultiE
+9	diagnosticada	diagnosticar	VMP00SF	-	-	37-50	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	a	a	SPS00	-	-	51-52	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	los	el	DA0MP0	-	-	53-56	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	15	15		-	-	57-59	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	60-64	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	que	que	PR0CN000	-	-	65-68	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	refiere	referir	VMIP3S0	-	-	69-76	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	náuseas	náusea	NCFP000	-	-	77-84	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	y	y	CC	C1706368	calificador	85-86	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	87-97	463_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	98-107	463_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	4142	LOC
+20	,	,	Fc	-	-	107-108	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	especialmente	especialmente	RG	-	-	109-122	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	después	después	RG	C0231290	atributo	123-130	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	131-133	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	las	el	DA0FP0	-	-	134-137	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	comidas	comida	NCFP000	C0016452	sustancia	138-145	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	145-146	463_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	147-149	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	evaluación	evaluación	NCFS000	C1261322	procedimiento	150-160	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	161-163	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	164-174	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	175-178	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	179-182	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	gastroparesia	gastroparesia	NC00SC0	C0267176_1	trastorno_1	183-196	463_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+8	diabética	diabético	NCFS000	C0267176_2	trastorno_2	197-206	463_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	4143	Modif
+9	.	.	Fp	-	-	206-207	463_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	208-209	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	209-213	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	214-216	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	los	el	DA0MP0	-	-	217-220	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	221-231	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	medicamentos	medicamento	NCMP000	C0456386#C0013227	atributo#sustancia	232-244	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	sería	ser	VSIC1S0	-	-	245-250	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	el	el	DA0MS0	-	-	251-253	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	254-265	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	más	más	RG	C0205172	calificador	266-269	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	adecuado	adecuar	VMP00SM	-	-	270-278	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	para	para	SPS00	C0521125	calificador	279-283	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	mejorar	mejorar	VMN0000	-	-	284-291	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	sus	su	DP3CP0	-	-	292-295	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	síntomas	síntoma	NCMP000	C1457887	hallazgo	296-304	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	?	?	Fit	-	-	304-305	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	:	:	Fd	-	-	305-306	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	.	.	Fp	-	-	306-307	463_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

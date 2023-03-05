@@ -1,0 +1,25 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	aumentar	aumentar	VMN0000	-	-	11-19	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	la	el	DA0FS0	-	-	20-22	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	disnea	disnea	NCFS000	C0231807_1	hallazgo_1	23-29	203(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0231807_2	hallazgo_2	30-32	203(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	6	4337	Modif
+8	esfuerzo	esfuerzo	NCMS000	C0231807_3	hallazgo_3	33-41	203(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	7	50	MultiE
+9	,	,	Fc	-	-	41-42	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	debe	deber	VMIP3S0	-	-	43-47	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	practicar	practicar	VMN0000	-	-	48-57	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	se	se	PP3CN000	-	-	57-59	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	60-63	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	dilatación	dilatación	NCFS000	C0012359	anomalía_morfológica	64-74	203(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	percutánea	percutánea	AQ0FS00	-	-	75-85	203(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	4337	LOC
+16	de	de	SPS00	C0332285	atributo	86-88	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	la	el	DA0FS0	-	-	89-91	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	válvula	válvula	NCFS000	C1269005#C0003501_1	estructura_corporal_1	92-99	203(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	4337	LOC
+19	aórtica	aórtico	AQ0FS0	C1269005#C0003501_2	estructura_corporal_2	100-107	203(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	18	101	MultiE
+20	con	con	SPS00	C0332287	atributo	108-111	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	catéter	catéter	NCMS000	C0085590	objeto_físico	112-119	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	120-122	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	balón	balón	NCMS000	-	-	123-128	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	129-130	203(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

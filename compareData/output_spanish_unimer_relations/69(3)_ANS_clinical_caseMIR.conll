@@ -1,0 +1,11 @@
+1	Sospechar	sospechar	VMN0000	-	-	0-9	69(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	isquemia	isquemia	NCFS000	C0022116	trastorno	10-18	69(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+3	bilateral	bilateral	AQ0CS0	C0238767	calificador	19-28	69(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	2	912	Modif
+4	de	de	SPS00	C0332285	atributo	29-31	69(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	32-44	69(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	2	912	LOC
+6	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	45-55	69(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	5	27	MultiE
+7	de	de	SPS00	C0332285	atributo	56-58	69(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	origen	origen	NCMS000	C0439659	atributo	59-65	69(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	2	912	Causada_por
+9	medicamentoso	medicamentoso	AQ0MS0	C0458082	calificador	66-79	69(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	97	MultiE
+10	.	.	Fp	-	-	80-81	69(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

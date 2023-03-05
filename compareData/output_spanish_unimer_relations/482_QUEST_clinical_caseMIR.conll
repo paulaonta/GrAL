@@ -1,0 +1,89 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	9-11	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	traído	traer	VMP00SM	-	-	17-23	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	a	a	SPS00	-	-	24-25	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	la	el	DA0FS0	-	-	26-28	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	29-37	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	38-41	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	sus	su	DP3CP0	-	-	42-45	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	familiares	familiar	NCMP000	C0080103#C0241888	persona#calificador	46-56	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	por	por	SPS00	C0678226	atributo	57-60	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	un	un		C0205447_1	calificador_1	61-63	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	cuadro	cuadro	NCMS000	-	-	64-70	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	71-73	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	un	un		C0205447_1	calificador_1	74-76	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	año	año	NCMS000	C0439234	calificador	77-80	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	81-83	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	evolución	evolución	NCFS000	-	-	84-93	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	94-96	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	pérdida	pérdida	NCFS000	-	-	97-104	482_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	105-107	482_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	21	2291	Modif
+23	memoria	memoria	NCFS000	C0025260	función	108-115	482_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	22	80	MultiE
+24	,	,	Fc	-	-	115-116	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	que	que	PR0CN000	-	-	117-120	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	ha	haber	VAIP3S0	-	-	121-123	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	ido	ir	VMP00SM	-	-	124-127	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	progresando	progresar	VMG0000	-	-	128-139	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	hasta	hasta	SPS00	-	-	140-145	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	necesitar	necesitar	VMN0000	-	-	146-155	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	ayuda	ayuda	NCFS000	C0449435	atributo	156-161	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	para	para	SPS00	C0521125	calificador	162-166	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	algunas	alguno	DI0FP0	C0205392	calificador	167-174	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	actividades	actividad	NCFP000	C0441655	entidad_observable	175-186	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	187-189	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	su	su	DP3CS0	-	-	190-192	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	vida	vida	NCFS000	-	-	193-197	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	cotidiana	cotidiano	AQ0FS0	-	-	198-207	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	.	.	Fp	-	-	207-208	482_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	209-214	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	215-227	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332119_2	situación_2	228-230	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	migrañas	migraña	NCFP000	C0149931	trastorno	231-239	482_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	y	y	CC	C1706368	calificador	240-241	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	algún	alguno	DI0MS0	C0205392	calificador	242-247	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	248-256	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332189#C1455761_2	atributo_2	257-259	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	focalidad	focalidad	NCFS000	-	-	260-269	482_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	neurológica	neurológico	AQ0FS0	C0205494	calificador	270-281	482_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	2292	LOC
+11	autolimitada	autolimitar	VMP00SF	-	-	282-294	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	por	por	SPS00	C0678226	atributo	295-298	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	los	el	DA0MP0	-	-	299-302	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	que	que	PR0CN000	-	-	303-306	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	no	no	RN	C1298908	calificador	307-309	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	ha	haber	VAIP3S0	-	-	310-312	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	consultado	consultar	VMP00SM	-	-	313-323	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	nunca	nunca	RG	-	-	324-329	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	.	.	Fp	-	-	329-330	482_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	331-333	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	334-345	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	neuropsicológica	neuropsicólogo	NCFS00V	-	-	346-362	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	es	ser	VSIP3S0	-	-	363-365	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	366-376	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	377-380	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	381-384	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	demencia	demencia	NCFS000	C0497327	trastorno	385-393	482_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	inicial	inicial	AQ0CS0	C0205265	calificador	394-401	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	402-403	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	la	el	DA0FS0	-	-	404-406	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	RM	rm	NC00YL0	-	-	407-409	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	cerebral	cerebral	AQ0CS0	-	-	410-418	482_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+14	muestra	mostrar	VMIP3S0	-	-	419-426	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	427-430	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	leucoencefalopatía	leucoencefalopatía	NC00SC0	C0270612	trastorno	431-449	482_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+17	grave	grave	AQ0CS0	C0439808#C0205082	calificador	450-455	482_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	16	2293	Modif
+18	.	.	Fp	-	-	455-456	482_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	457-458	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	458-461	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	prueba	prueba	NCFS000	-	-	462-468	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	habría	haber	VMIC1S0	-	-	469-475	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	que	que	CS	-	-	476-479	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	solicitar	solicitar	VMN0000	-	-	480-489	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	?	?	Fit	-	-	489-490	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	:	:	Fd	-	-	490-491	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	.	.	Fp	-	-	491-492	482_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

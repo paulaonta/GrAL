@@ -1,0 +1,122 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	58	58		-	-	13-15	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	27-31	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	32-35	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	visita	visita	NCFS000	-	-	36-42	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	43-45	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	seguimiento	seguimiento	NCMS000	-	-	46-57	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	por	por	SPS00	C0678226	atributo	58-61	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	62-70	109_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	71-79	109_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	13	73	MultiE
+15	e	y	CC	C1706368	calificador	80-81	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	hipertensión	hipertensión	NCFS000	-	-	82-94	109_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	.	.	Fp	-	-	94-95	109_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	sin_especificar	NC00YL0	C0424578_1	hallazgo_1	96-98	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	siente	sentir	VMM02S0	C0424578_2	hallazgo_2	99-105	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	bien	bien	RG	C0424578_3	hallazgo_3	106-110	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	pero	pero	CC	-	-	111-115	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	afirma	afirmar	VMIP3S0	-	-	116-122	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	que	que	CS	-	-	123-126	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	ha	haber	VAIP3S0	-	-	127-129	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	dejado	dejar	VMP00SM	-	-	130-136	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	137-139	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tomar	tomar	VMN0000	C1515187	calificador	140-145	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	el	el	DA0MS0	-	-	146-148	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	verapamilo	verapamilo	NC00SC0	C0042523	sustancia	149-159	109_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+13	por	por	SPS00	C0678226	atributo	160-163	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	estreñimiento	estreñimiento	NCMS000	C0009806	hallazgo#trastorno	164-177	109_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	177-178	109_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	179-187	109_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	intolerancia	intolerancia	NCFS000	C0231199	función	188-200	109_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+3	a	a	SPS00	-	-	201-202	109_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	los	el	DA0MP0	-	-	203-206	109_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	IECAs	inhibidores_del_enzima_conversor_de_la_angiotensina	NC00YL0	-	-	207-212	109_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	213-216	109_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	217-220	109_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	2	1917	Causada_por
+8	.	.	Fp	-	-	220-221	109_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	222-224	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	225-227	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	228-239	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	,	,	Fc	-	-	239-240	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	la	el	DA0FS0	-	-	241-243	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	244-251	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	252-260	109_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+8	es	ser	VSIP3S0	-	-	261-263	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	264-266	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	156/92	156/92	Z	-	-	267-273	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	mm	mm	NCMN000	-	-	274-276	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	Hg	hectogramo	NCMN000	-	-	277-279	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	279-280	109_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	281-283	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	la	el	DA0FS0	-	-	284-286	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	287-296	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	incluyen	incluir	VMIP3P0	-	-	297-305	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	306-309	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	creatinina	creatinina	NC00SC0	C0010294	sustancia	310-320	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	321-323	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	1.6	1.6	Z	-	-	324-327	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	mg	mg	NCMN000	-	-	328-330	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	/	/	Fh	-	-	330-331	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	dL	decilitro	NCMN000	C0439241	calificador	331-333	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	,	,	Fc	-	-	333-334	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	excreción	excreción	NCFS000	C0221102	función	335-344	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	345-347	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	proteínas	proteína	NCFP000	C0033684	sustancia	348-357	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	358-360	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	orina	orinar	VMM02S0	C0455060_1	procedimiento_1	361-366	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	de	de	SPS00	C0455060_2	procedimiento_2	367-369	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	24	24	Z	C0455060_3	procedimiento_3	370-372	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	horas	hora	NCFP000	C0455060_4	procedimiento_4	373-378	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	379-381	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	1.5	1.5	Z	-	-	382-385	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	g	g	NCMN000	-	-	386-387	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+24	/	/	Fh	-	-	387-388	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	día	día	NCMS000	C0439228#C0332169	calificador	388-391	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	y	y	CC	C1706368	calificador	392-393	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	un	un		C0205447_1	calificador_1	394-396	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+28	aclaramiento	aclaramiento	NCMS000	C0449297	atributo	397-409	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	410-412	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	la	el	DA0FS0	-	-	413-415	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+31	creatinina	creatinina	NC00SC0	C0010294	sustancia	416-426	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	427-429	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+33	45	45	Z	-	-	430-432	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+34	ml	ml	NCMN000	C0439242	calificador	433-435	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+35	/	/	Fh	-	-	435-436	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+36	min	minuto	NCMN000	C0439232	calificador	436-439	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+37	.	.	Fp	-	-	439-440	109_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Sobre	sobre	SPS00	C1720294#C0205136	calificador	441-446	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	esta	este	DD0FS0	-	-	447-451	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	base	base	NCCS000	C1626935#C0178499	calificador#sustancia	452-456	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	,	,	Fc	-	-	456-457	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	¿	¿	Fia	-	-	458-459	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	cuál	cuál	PT0CS000	-	-	459-463	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	464-466	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	el	el	DA0MS0	-	-	467-469	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	470-481	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	más	más	RG	C0205172	calificador	482-485	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	eficaz	eficaz	AQ0CS0	C1704419	calificador	486-492	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	para	para	SPS00	C0521125	calificador	493-497	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	enlentecer	enlentecer	VMN0000	-	-	498-508	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	la	el	DA0FS0	-	-	509-511	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+15	progresión	progresión	NCFS000	C0449258	atributo	512-522	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	523-525	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	la	el	DA0FS0	-	-	526-528	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+18	nefropatía	nefropatía	NCFS000	C0011881_1	trastorno_1	529-539	109_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+19	diabética	diabético	NCFS000	C0011881_2	trastorno_2	540-549	109_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	18	1920	Modif
+20	tipo	tipo	NCMS000	C0441730_1	calificador_1	550-554	109_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	18	1920	Modif
+21	2	2	Z	C0441730_2	calificador_2	555-556	109_QUEST_clinical_caseMIR	SENT6	I-Calificador	-	20	63	MultiE
+22	de	de	SPS00	C0332285	atributo	557-559	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+23	la	el	DA0FS0	-	-	560-562	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+24	paciente	paciente	NCCS000	C0030705	persona	563-571	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+25	?	?	Fit	-	-	571-572	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+26	.	.	Fp	-	-	572-573	109_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

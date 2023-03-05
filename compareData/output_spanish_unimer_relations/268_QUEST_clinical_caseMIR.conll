@@ -1,0 +1,73 @@
+1	Gustavo	gustavo	NCMS000	-	-	0-7	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	acude	acudir	VMIP3S0	-	-	8-13	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	a	a	SPS00	-	-	14-15	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	Urgencias	urgencia	NCFP000	C0439609	calificador	16-25	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	26-29	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	30-38	268_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	cutáneas	cutáneo	AQ0FP0	-	-	39-47	268_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	3978	LOC
+8	y	y	CC	C1706368	calificador	48-49	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	50-58	268_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	59-66	268_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	3978	Modif
+11	de	de	SPS00	C0332285	atributo	67-69	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	70-76	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	días	día	NCMP000	C0439228#C0332169	calificador	77-81	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	82-84	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	evolución	evolución	NCFS000	-	-	85-94	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	.	.	Fp	-	-	94-95	268_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	96-101	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	102-110	268_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	psoriasiformes	psoriasiformes		-	-	111-125	268_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	2	3979	Modif
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	126-128	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	tronco	tronco	NCMS000	C1280632#C0460005	estructura_corporal	129-135	268_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	2	3979	LOC
+6	con	con	SPS00	C0332287	atributo	136-139	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	afectación	afectación	NCFS000	-	-	140-150	268_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	151-153	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	palmas	palma	NCFP000	-	-	154-160	268_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	3979	LOC
+10	y	y	CC	C1706368	calificador	161-162	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	plantas	planta	NCFP000	C0032098	organismo	163-170	268_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	3979	Modif
+12	.	.	Fp	-	-	170-171	268_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	También	también	RG	-	-	172-179	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	presenta	presentar	VMIP3S0	-	-	180-188	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	189-192	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	inflamación	inflamación	NCFS000	C0021368#C0302158	calificador#anomalía_morfológica	193-204	268_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+5	articular	articular	AQ0CS0	-	-	205-214	268_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	4	3980	LOC
+6	asimétrica	asimétrico	AQ0FS0	-	-	215-225	268_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	4	3980	Modif
+7	no	no	RN	C1298908	calificador	226-228	268_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	4	3980	Modif
+8	supurativa	supurativo	AQ0FS0	-	-	229-239	268_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	7	50	MultiE
+9	y	y	CC	C1706368	calificador	240-241	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	enrojecimiento	enrojecimiento	NCMS000	C0005874	función	242-256	268_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+11	ocular	ocular	AQ0CS0	-	-	257-263	268_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	10	3980	LOC
+12	bilateral	bilateral	NC00SC0	C0238767	calificador	264-273	268_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	11	62	MultiE
+13	así	así	RG	-	-	274-277	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	como	como	SPS00	C0332257	calificador	278-282	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	erosiones	erosión	NCFP000	C0333307	anomalía_morfológica	283-292	268_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	293-295	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	glande	glande	NCMS000	C1269539#C0227948	estructura_corporal	296-302	268_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	15	3980	LOC
+18	.	.	Fp	-	-	302-303	268_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	304-306	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	307-309	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	anamnesis	anamnesis	NCFN000	C0199182#C0021055	procedimiento#función	310-319	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	320-329	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	Gustavo	gustavo	NCMS000	-	-	330-337	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	reconoce	reconocer	VMIP3S0	-	-	338-346	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	347-349	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	contacto	contacto	NCMS000	C0337611	persona	350-358	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	sexual	sexual	AQ0CS0	-	-	359-365	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	366-368	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	riesgo	riesgo	NCMS000	-	-	369-375	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	20	20	Z	-	-	376-378	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	días	d	NCMP000	-	-	379-383	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	antes	antes	RG	C0332152	atributo	384-389	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	389-390	268_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	391-392	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	392-396	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	397-399	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	su	su	DP3CS0	-	-	400-402	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	403-414	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	?	?	Fit	-	-	414-415	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	.	.	Fp	-	-	415-416	268_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

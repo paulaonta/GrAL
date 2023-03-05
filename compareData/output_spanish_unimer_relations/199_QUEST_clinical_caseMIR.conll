@@ -1,0 +1,47 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	42	42		-	-	13-15	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acudió	acudir	VMIS3S0	-	-	21-27	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	28-29	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	30-38	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	39-42	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	43-49	199_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	.	.	Fp	-	-	49-50	199_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	De	de	SPS00	C0332285	atributo	51-53	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	las	el	DA0FP0	-	-	54-57	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	pruebas	prueba	NCFP000	-	-	58-65	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	iniciales	inicial	AQ0CP0	C0205265	calificador	66-75	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	destacaba	destacar	VMII3S0	-	-	76-85	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	la	el	DA0FS0	-	-	86-88	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	89-98	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0150312_2	calificador_2	99-101	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	102-113	199_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	superior	superior	AQ0CS0	C1282910	calificador	114-122	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	a	a	SPS00	-	-	123-124	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	10	10		-	-	125-127	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	gramos/24	gramos/24	Z	-	-	128-137	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	horas	h	NCFP000	C0439227	calificador	138-143	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	143-144	199_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	145-146	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	146-150	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	151-153	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	154-157	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	158-168	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	medidas	medida	NCFP000	C0079809	atributo	169-176	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	NO	no	RN	C1298908	calificador	177-179	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	está	estar	VAIP3S0	-	-	180-184	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	indicada	indicar	VMP00SF	-	-	185-193	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	194-196	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	el	el	DA0MS0	-	-	197-199	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	200-211	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	212-214	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	este	este	DD0MS0	-	-	215-219	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	220-228	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	?	?	Fit	-	-	228-229	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	:	:	Fd	-	-	229-230	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	.	.	Fp	-	-	230-231	199_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

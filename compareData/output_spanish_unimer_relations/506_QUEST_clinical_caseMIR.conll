@@ -1,0 +1,71 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	13	13		-	-	9-11	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sin	sin	SPS00	C0332288	atributo	18-21	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	-	-	22-34	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	relevantes	relevante	AQ0CP0	-	-	35-45	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	,	,	Fc	-	-	45-46	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	47-50	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	menarquia	menarquia	NCFS000	-	-	51-60	506_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	hace	hacer	VMIP3S0	-	-	61-65	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	3	3		-	-	66-67	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	meses	mes	NCMP000	C0439231	calificador	68-73	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	,	,	Fc	-	-	73-74	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	seguida	seguir	VMP00SF	-	-	75-82	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	desde	desde	SPS00	-	-	83-88	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	los	el	DA0MP0	-	-	89-92	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	10	10		-	-	93-95	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	años	año	NCMP000	C0439234	calificador	96-100	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	por	por	SPS00	C0678226	atributo	101-104	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	escoliosis	escoliosis	NCFN000	C0595995_1	trastorno_1	105-115	506_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	idiopática	idiopático	AQ0FS0	C0595995_2	trastorno_2	116-126	506_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	955	Modif
+24	que	que	PR0CN000	-	-	127-130	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	ha	haber	VAIP3S0	-	-	131-133	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	empeorado	empeorar	VMP00SM	-	-	134-143	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	.	.	Fp	-	-	143-144	506_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	145-147	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	148-150	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	151-162	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	163-169	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	presenta	presentar	VMIP3S0	-	-	170-178	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	179-182	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	giba	giba	NCFS000	C0022821	trastorno	183-187	506_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	188-190	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	7	7		-	-	191-192	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	grados	grado	NCMP000	C0441800	atributo	193-199	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	200-202	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	el	el	DA0MS0	-	-	203-205	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	test	test	NCMS000	-	-	206-210	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	211-213	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	Adams	adams	NCMP000	-	-	214-219	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	220-221	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	222-224	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	el	el	DA0MS0	-	-	225-227	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	escoliograma	escoliograma	NCMS000	-	-	228-240	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	una	una		C0205447_1	calificador_1	241-244	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	curva	curva	NCFS000	-	-	245-250	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	toracolumbar	toracolumbar	VMN0000	-	-	251-263	506_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	956	LOC
+23	T4-L1	T4-L1		-	-	264-269	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	270-272	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	35	35		-	-	273-275	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	grados	grado	NCMP000	C0441800	atributo	276-282	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	283-285	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	Cobb	cobb	NC00YL0	-	-	286-290	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	y	y	CC	C1706368	calificador	291-292	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	un	un		C0205447_1	calificador_1	293-295	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	Risser	risser	NCMS000	-	-	296-302	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	0	0		-	-	303-304	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	.	.	Fp	-	-	304-305	506_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	306-308	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	actitud	actitud	NCFS000	C0004271	entidad_observable	309-316	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	correcta	correcto	AQ0FS0	C0205170	calificador	317-325	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	a	a	SPS00	-	-	326-327	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	tomar	tomar	VMN0000	C1515187	calificador	328-333	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	será	ser	VSIF3S0	-	-	334-338	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	:	:	Fd	-	-	338-339	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	339-340	506_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

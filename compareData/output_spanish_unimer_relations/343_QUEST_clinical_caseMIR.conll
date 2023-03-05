@@ -1,0 +1,170 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	75	75		-	-	13-15	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	a	a	SPS00	-	-	16-17	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	18-25	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	26-28	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	el	el	DA0MS0	-	-	29-31	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	hospital	hospital	NCMS000	C1510665	medio_ambiente	32-40	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	porque	porque	CS	-	-	41-47	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	se	se	P00CN000	-	-	48-50	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	niega	negar	VMIP3S0	-	-	51-56	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	a	a	SPS00	-	-	57-58	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	comer	comer	VMN0000	C0013470	función	59-64	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	65-66	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ha	haber	VAIP3S0	-	-	67-69	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	perdido	perder	VMP00SM	-	-	70-77	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	un	un		C0205447_1	calificador_1	78-80	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	30	30	Z	-	-	81-83	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	%	%	Ft	-	-	83-84	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	85-87	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	su	su	DP3CS0	-	-	88-90	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	peso	peso	NCMS000	C0043100	calificador	91-95	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	95-96	343_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	97-102	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	historia	historia	NCFS000	-	-	103-111	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	112-114	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	esclerosis	esclerosis	NCFN000	C0026769_1	trastorno_1	115-125	343_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	múltiple	múltiple	NC00SC0	C0026769_2	trastorno_2	126-134	343_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	4	2034	Modif
+6	que	que	PR0CN000	-	-	135-138	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	ha	haber	VAIP3S0	-	-	139-141	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	empeorado	empeorar	VMP00SM	-	-	142-151	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	152-154	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	los	el	DA0MP0	-	-	155-158	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	últimos	último	AO0MP0	-	-	159-166	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	meses	mes	NCMP000	C0439231	calificador	167-172	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	.	.	Fp	-	-	172-173	343_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	174-176	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	único	único	NC00SC0	C0205171	calificador	177-182	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	familiar	familiar	AQ0CS0	C0080103#C0241888	persona#calificador	183-191	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	que	que	PR0CN000	-	-	192-195	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	era	ser	VSII3S0	-	-	196-199	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	su	su	DP3CS0	-	-	200-202	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	hermana	hermano	NCFS000	C0337527	persona	203-210	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	murió	morir	VMIS3S0	-	-	211-216	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	hace	hacer	VMIP3S0	-	-	217-221	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	3	3		-	-	222-223	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	meses	mes	NCMP000	C0439231	calificador	224-229	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	230-231	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	desde	desde	SPS00	-	-	232-237	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	entonces	entonces	RG	-	-	238-246	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	es	ser	VSIP3S0	-	-	247-249	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	cuando	cuando	CS	-	-	250-256	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	él	él	PP3MS000	-	-	257-259	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	se	se	P00CN000	-	-	260-262	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	ha	haber	VAIP3S0	-	-	263-265	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	deteriorado	deteriorar	VMP00SM	-	-	266-277	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	.	.	Fp	-	-	277-278	343_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	279-281	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	ha	haber	VAIP3S0	-	-	282-284	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	vuelto	volver	VMP00SM	-	-	285-291	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	incontinente	incontinente	NC00SC0	C0231238	calificador	292-304	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	,	,	Fc	-	-	304-305	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	ha	haber	VAIP3S0	-	-	306-308	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	dejado	dejar	VMP00SM	-	-	309-315	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	316-318	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	comer	comer	VMN0000	C0013470	función	319-324	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	325-326	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	327-329	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	participar	participar	VMN0000	-	-	330-340	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	341-343	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	eventos	evento	NCMP000	C0441471	evento	344-351	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	sociales	social	AQ0CP0	-	-	352-360	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	360-361	343_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Impresiona	impresionar	VMIP3S0	-	-	362-372	343_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	373-375	343_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	depresión	depresión	NCFS000	C0270458_1	trastorno_1	376-385	343_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+4	psicótica	psicótico	AQ0FS0	C0270458_2	trastorno_2	386-395	343_QUEST_clinical_caseMIR	SENT5	B-Calificador	-	3	2037	Modif
+5	.	.	Fp	-	-	395-396	343_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Físicamente	físicamente	RG	-	-	397-408	343_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	es	ser	VSIP3S0	-	-	409-411	343_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	capaz	capaz	NC00SC0	C0566305_1	hallazgo_1	412-417	343_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	de	de	SPS00	C0566305_2	hallazgo_2	418-420	343_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	comer	comer	VMN0000	C0566305_3	hallazgo_3	421-426	343_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	.	.	Fp	-	-	426-427	343_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	428-430	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	inicia	iniciar	VMIP3S0	-	-	431-437	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	medicación	medicación	NCFS000	C0013227	sustancia	438-448	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	psicótropa	psicótropa	NCFS000	-	-	449-459	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	que	que	PR0CN000	-	-	460-463	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	se	se	P00CN000	-	-	464-466	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	suspende	suspender	VMIP3S0	-	-	467-475	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	por	por	SPS00	C0678226	atributo	476-479	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	eventos	evento	NCMP000	C0441471	evento	480-487	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+10	adversos	adverso	AQ0MP0	-	-	488-496	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+11	.	.	Fp	-	-	496-497	343_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Si	si	CS	-	-	498-500	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	su	su	DP3CS0	-	-	501-503	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	estado	estar	VAP00SM	C0392209_1	entidad_observable_1	504-510	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	nutricional	nutricional	AQ0CS0	C0392209_2	entidad_observable_2	511-522	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+5	mejora	mejora	NCFS000	-	-	523-529	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	530-532	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	posible	posible	AQ0CS0	C0332149#C2362652	calificador	533-540	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+8	retomar	retomar	VMN0000	-	-	541-548	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+9	sus	su	DP3CP0	-	-	549-552	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+10	medicaciones	medicación	NCFP000	C0013227	sustancia	553-565	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+11	.	.	Fp	-	-	565-566	343_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+
+1	Rechaza	rechazar	VMIP3S0	-	-	567-574	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+2	líquidos	líquido	NCMP000	C0444611#C1304698#C1697794#C0302908#C1704353	calificador#hallazgo#sustancia	575-583	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+3	intravenosos	intravenoso	AQ0MP0	C0348016	calificador	584-596	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	597-598	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+5	luego	luego	RG	-	-	599-604	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+6	los	lo	PP3MPA00	-	-	605-608	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+7	acepta	aceptar	VMIP3S0	-	-	609-615	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+8	pero	pero	CC	-	-	616-620	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+9	se	se	P00CN000	-	-	621-623	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+10	arranca	arrancar	VMIP3S0	-	-	624-631	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+11	la	el	DA0FS0	-	-	632-634	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+12	vía	vía	NCFS000	C1522726_1	calificador_1	635-638	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+13	IV	iv.	NC00YL0	C1522726_2	calificador_2	639-641	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+14	unas	uno	DI0FP0	C0205447	calificador	642-646	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+15	horas	hora	NCFP000	C0040223#C0439227	calificador	647-652	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+16	más	más	RG	C0205172	calificador	653-656	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+17	tarde	tarde	RG	C0205087#C0439550	calificador	657-662	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+18	.	.	Fp	-	-	662-663	343_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	664-667	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+2	alternativa	alternativa	NCFS000	-	-	668-679	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	680-682	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+4	realizar	realizar	VMN0000	-	-	683-691	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	692-695	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+6	gastrostomía	gastrostomía	NC00SC0	C0176751_1	procedimiento_1	696-708	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+7	endoscópica	endoscópico	AQ0FS0	C0176751_2	procedimiento_2	709-720	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+8	percutánea	percutánea		C0176751_3	procedimiento_3	721-731	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+9	(	(	Fpa	-	-	732-733	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+10	PEG	peso_elevado_para_la_edad_gestacional	NC00YL0	-	-	733-736	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+11	)	)	Fpt	-	-	736-737	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	738-739	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+13	dar	dar	VMN0000	C1947971	calificador	740-743	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+14	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	743-745	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+15	alta	alto	AQ0FS0	C0205250	calificador	746-750	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+16	a	a	SPS00	-	-	751-752	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+17	su	su	DP3CS0	-	-	753-755	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+18	residencia	residencia	NCFS000	-	-	756-766	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+19	.	.	Fp	-	-	766-767	343_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	768-769	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	769-773	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	774-776	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+4	las	el	DA0FP0	-	-	777-780	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	781-791	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	792-803	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	804-806	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+8	la	lo	PP3FSA00	C0205393_1	calificador_1	807-809	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+9	más	más	RG	C0205393_2	calificador_2	810-813	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+10	apropiada	apropiar	VMP00SF	-	-	814-823	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+11	para	para	SPS00	C0521125	calificador	824-828	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+12	este	este	DD0MS0	-	-	829-833	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	834-842	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+14	?	?	Fit	-	-	842-843	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+15	.	.	Fp	-	-	843-844	343_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+

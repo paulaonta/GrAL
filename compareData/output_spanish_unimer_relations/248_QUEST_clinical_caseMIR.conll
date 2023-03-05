@@ -1,0 +1,101 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	asmático	asmático	AQ0MS0	-	-	12-20	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	21-23	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	55	55		-	-	24-26	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	años	año	NCMP000	C0439234	calificador	27-31	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	acude	acudir	VMIP3S0	-	-	32-37	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	38-39	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Urgencias	urgencia	NCFP000	C0439609	calificador	40-49	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	50-53	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	54-57	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	agudización	agudización	NCFS000	-	-	58-69	248_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	.	.	Fp	-	-	69-70	248_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	71-74	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hora	hora	NCFS000	C0040223#C0439227	calificador	75-79	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	después	después	RG	C0231290	atributo	80-87	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	88-90	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	la	el	DA0FS0	-	-	91-93	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	administración	administración	NCFS000	C1622419#C1533734#C0001554	procedimiento#concepto_para_navegación	94-108	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	109-111	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	oxígeno	oxígeno	NCMS000	C0030054	sustancia	112-119	248_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+9	suplementario	suplementario	AQ0MS0	-	-	120-133	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	134-135	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	dos	dos		-	-	136-139	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	nebulizaciones	nebulización	NCFP000	-	-	140-154	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	155-157	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	salbutamol	salbutamol	NC00SC0	C0001927	producto	158-168	248_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+15	el	el	DA0MS0	-	-	169-171	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	paciente	paciente	NCCS000	C0030705	persona	172-180	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	no	no	RN	C1298908	calificador	181-183	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	mejora	mejora	NCFS000	-	-	184-190	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	.	.	Fp	-	-	190-191	248_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	A	a	SPS00	-	-	192-193	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	194-196	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	197-208	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	respira	respirar	VMIP3S0	-	-	209-216	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	a	a	SPS00	-	-	217-218	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	42	42		-	-	219-221	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	rpm	r.p.m.	NCFN000	-	-	222-225	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	226-229	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	tiraje	tiraje	NCMS000	-	-	230-236	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	supraclavicular	supraclavicular	AQ0CS0	-	-	237-252	248_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+11	v	v	NCFS000	-	-	253-254	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	presenta	presentar	VMIP3S0	-	-	255-263	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	sibilancias	sibilancias	NC00SC0	C0231874_1	hallazgo_1	264-275	248_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+14	inspiratorias	inspiratorias		C0231874_2	hallazgo_2	276-289	248_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	13	41	Modif
+15	y	y	CC	C1706368	calificador	290-291	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	espiratorias	espiratorias	AQ0FP00	-	-	292-304	248_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+17	diseminadas	diseminar	VMP00PF	-	-	305-316	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	.	.	Fp	-	-	316-317	248_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	318-320	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	flujo	flujo	NCMS000	-	-	321-326	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	pico	pico	NCMS000	C0444505#C0004895	calificador#estructura_corporal	327-331	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	ha	haber	VAIP3S0	-	-	332-334	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	bajado	bajar	VMP00SM	-	-	335-341	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	342-344	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	310	310		-	-	345-348	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	a	a	SPS00	-	-	349-350	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	220	220	Z	-	-	351-354	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	L_/_min	l/min	NCFS000	C0439393	calificador	355-360	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	360-361	248_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	362-365	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	gasometría	gasometría	NCFS000	-	-	366-376	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	extraída	extraer	VMP00SF	-	-	377-385	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	386-389	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	oxígeno	oxígeno	NCMS000	C0030054	sustancia	390-397	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	al	al	SP+DA	-	-	398-400	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	28	28	Z	-	-	401-403	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	%	%	Ft	-	-	403-404	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	muestra	mostrar	VMIP3S0	-	-	405-412	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	413-416	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	p02	p02		-	-	417-420	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	421-423	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	54	54	Z	-	-	424-426	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	mmHg	mmHg	NCMP000	-	-	427-431	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	432-433	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	434-437	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	pC02	pC02		-	-	438-442	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	443-445	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	35	35	Z	-	-	446-448	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	mm	mm	NCMN000	-	-	449-451	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	Hg	hectogramo	NCMN000	-	-	452-454	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	.	.	Fp	-	-	454-455	248_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	456-457	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	457-461	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	462-464	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	las	el	DA0FP0	-	-	465-468	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	469-479	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	actitudes	actitud	NCFP000	C0004271	entidad_observable	480-489	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	490-492	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	parece	parecer	VMIP3S0	-	-	493-499	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	MENOS	menos	RG	C0332288	atributo	500-505	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	indicada	indicar	VMP00SF	-	-	506-514	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	?	?	Fit	-	-	514-515	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	.	.	Fp	-	-	515-516	248_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

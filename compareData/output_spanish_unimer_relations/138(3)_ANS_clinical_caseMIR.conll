@@ -1,0 +1,26 @@
+1	Iniciar	iniciar	VMN0000	-	-	0-7	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	lo	el	DA0NS0	-	-	8-10	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	antes	antes	RG	C0332152	atributo	11-16	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	posible	posible	AQ0CS0	C0332149#C2362652	calificador	17-24	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	25-27	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	segundo	2	AO0MS0	-	-	28-35	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	fármaco	fármaco	NCMS000	C0013227	sustancia	36-43	138(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+8	modificador	modificador	AQ0MS0	C3542952	metadato_del_núcleo	44-55	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	56-58	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	el	DA0FS0	-	-	59-61	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	62-72	138(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	dado	dar	VMP00SM	C1947971	calificador	73-77	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	que	que	PR0CN000	-	-	78-81	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	no	no	RN	C1298908	calificador	82-84	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	se	se	P00CN000	-	-	85-87	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	podría	poder	VMIC3S0	-	-	88-94	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	iniciar	iniciar	VMN0000	-	-	95-102	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	103-114	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	con	con	SPS00	C0332287	atributo	115-118	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	119-126	138(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+21	biológica	biológico	AQ0FS0	C0205460	calificador	127-136	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	sólo	sólo	RG	-	-	137-141	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	tras	tras	SPS00	-	-	142-146	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	metotrexato	metotrexato	NCMS000	C0025677#C0949359	producto#sustancia	147-158	138(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+25	.	.	Fp	-	-	159-160	138(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

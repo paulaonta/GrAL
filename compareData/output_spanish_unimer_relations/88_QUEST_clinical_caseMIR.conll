@@ -1,0 +1,117 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	55	55		-	-	13-15	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	fatiga	fatiga	NCFS000	C0015672	hallazgo	34-40	88_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	41-42	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	poliuria	poliuria	NCFS000	C0032617	hallazgo#trastorno	43-51	88_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	52-54	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	dos	dos		-	-	55-58	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	59-63	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	64-66	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	evolución	evolución	NCFS000	-	-	67-76	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	.	.	Fp	-	-	76-77	88_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	78-81	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	análisis	análisis	NCMN000	C0002778	calificador	82-90	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	revelan	revelar	VMIP3P0	-	-	91-98	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	hipercalcemia	hipercalcemia	NCFS000	C0020437	trastorno	99-112	88_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	,	,	Fc	-	-	112-113	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	aumento	aumento	NCMS000	C0442805	calificador	114-121	88_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	122-124	88_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	3647	Modif
+8	la	el	DA0FS0	-	-	125-127	88_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	7	50	MultiE
+9	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	128-131	88_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	7	50	MultiE
+10	e	y	CC	C1706368	calificador	132-133	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	incremento	incremento	NCMS000	-	-	134-144	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	145-147	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	los	el	DA0MP0	-	-	148-151	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	marcadores	marcador	NCMP000	-	-	152-162	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	163-165	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	recambio	recambio	NCMS000	-	-	166-174	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	óseo	óseo	AQ0MS0	C0443157	calificador	175-179	88_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+18	.	.	Fp	-	-	179-180	88_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	181-183	88_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	184-191	88_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	radiográfico	radiográfico	AQ0MS0	C0444708	calificador	192-204	88_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	muestra	mostrar	VMIP3S0	-	-	205-212	88_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	resorción	resorción	NCFS000	C0231570_1	entidad_observable_1	213-222	88_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	subperióstica	subperióstico	AQ0FS0	C0231570_2	entidad_observable_2	223-236	88_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	5	3648	LOC
+7	y	y	CC	C1706368	calificador	237-238	88_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	osteoporosis	osteoporosis	NCFN000	C0029456	trastorno	239-251	88_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	.	.	Fp	-	-	251-252	88_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	253-255	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	gammagrafía	gammagrafía	NCFS000	C2368359	calificador	256-267	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	268-271	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	sestamibi	sestamibi	NCMS000	-	-	272-281	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	pone	poner	VMIP3S0	-	-	282-286	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	287-289	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	290-300	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	301-303	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	adenoma	adenoma	NCMS000	C0262587_1	trastorno_1	304-311	88_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+10	paratiroideo	paratiroideo	AQ0MS0	C0262587_2	trastorno_2	312-324	88_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	9	3649	LOC
+11	.	.	Fp	-	-	324-325	88_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	326-328	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	efectúa	efectuar	VMIP3S0	-	-	329-336	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	paratiroidectomía	paratiroidectomía	NC00SC0	C0079989	procedimiento	337-354	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	355-358	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	359-366	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	mínimamente	mínimamente	RG	-	-	367-378	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	invasiva	invasiva	AQ0FS00	-	-	379-387	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	.	.	Fp	-	-	387-388	88_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	389-391	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	el	el	DA0MS0	-	-	392-394	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	postoperatorio	postoperatorio	NCMS000	-	-	395-409	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	la	el	DA0FS0	-	-	410-412	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	enferma	enfermo	NCFS000	-	-	413-420	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	desarrolla	desarrollar	VMIP3S0	-	-	421-431	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	hipocalcemia	hipocalcemia	NC00SC0	C0020598	trastorno	432-444	88_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+8	intensa	intenso	AQ0FS0	C0205178	calificador	445-452	88_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	7	3651	Modif
+9	y	y	CC	C1706368	calificador	453-454	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	tetania	tetania	NCFS000	C0039621	trastorno	455-462	88_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+11	,	,	Fc	-	-	462-463	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	siendo	ser	VSG0000	-	-	464-470	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	la	el	DA0FS0	-	-	471-473	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	PTH	parathyroid_hormone_(hormona_paratiroidea_o_parathormona)	NC00YL0	-	-	474-477	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+15	inferior	inferior	AQ0CS0	C0542339#C0205104	calificador	478-486	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	a	a	SPS00	-	-	487-488	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	5	5		-	-	489-490	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+18	ng	nasogástrico	NC00YL0	-	-	491-493	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+19	/	/	Fh	-	-	493-494	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+20	l	l	NCFS000	-	-	494-495	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+21	.	.	Fp	-	-	495-496	88_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	497-499	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	enferma	enfermo	NCFS000	-	-	500-507	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	responde	responder	VMIP3S0	-	-	508-516	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	bien	bien	RG	C0205170	calificador	517-521	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	al	al	SP+DA	-	-	522-524	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	525-536	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	inicial	inicial	AQ0CS0	C0205265	calificador	537-544	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	545-548	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	calcio	calcio	NCMS000	C0006675	sustancia	549-555	88_QUEST_clinical_caseMIR	SENT7	B-Grp_Medicamento	-	-	-	-
+10	intravenoso	intravenoso	AQ0MS0	C0348016	calificador	556-567	88_QUEST_clinical_caseMIR	SENT7	I-Grp_Medicamento	-	9	74	MultiE
+11	y	y	CC	C1706368	calificador	568-569	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+12	posteriormente	posteriormente	RG	-	-	570-584	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	585-588	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+14	calcio	calcio	NCMS000	C0006675	sustancia	589-595	88_QUEST_clinical_caseMIR	SENT7	B-Grp_Medicamento	-	-	-	-
+15	y	y	CC	C1706368	calificador	596-597	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+16	vitamina	vitamina	NCFS000	C0042866_1	sustancia_1	598-606	88_QUEST_clinical_caseMIR	SENT7	B-Grp_Medicamento	-	-	-	-
+17	D	d	NCFS000	C0042866_2	sustancia_2	607-608	88_QUEST_clinical_caseMIR	SENT7	I-Grp_Medicamento	-	16	73	MultiE
+18	orales	oral	AQ0CP0	C0442027	calificador	609-615	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+19	¿	¿	Fia	-	-	616-617	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+20	Cuál	cuál	PT0CS000	-	-	617-621	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+21	es	ser	VSIP3S0	-	-	622-624	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+22	el	el	DA0MS0	-	-	625-627	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+23	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	628-639	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+24	más	más	RG	C0205172	calificador	640-643	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+25	probable	probable	AQ0CS0	C0332148	calificador	644-652	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+26	?	?	Fit	-	-	652-653	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+27	.	.	Fp	-	-	653-654	88_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+

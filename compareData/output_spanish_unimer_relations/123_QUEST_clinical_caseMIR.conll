@@ -1,0 +1,76 @@
+1	Niño	niño	NCMS000	C0008059#C0870221	persona	0-4	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	que	que	PR0CN000	-	-	5-8	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	acude	acudir	VMIP3S0	-	-	9-14	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	a	a	SPS00	-	-	15-16	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	17-25	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	26-28	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ambulatorio	ambulatorio	NCMS000	C0439841	calificador	29-40	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	porque	porque	CS	-	-	41-47	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	se	se	P00CN000	-	-	48-50	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	lleva	llevar	VMIP3S0	-	-	51-56	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	la	el	DA0FS0	-	-	57-59	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	mano	mano	NCFS000	C3714557#C1281583	estructura_corporal	60-64	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	al	al	SP+DA	-	-	65-67	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	oído	oído	NCMS000	C1285744#C0521421	entidad_observable#estructura_corporal	68-72	123_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+15	,	,	Fc	-	-	72-73	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	sin	sin	SPS00	C0332288	atributo	74-77	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	fiebre	fiebre	NCFS000	C0015967	hallazgo	78-84	123_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+18	ni	ni	CC	-	-	85-87	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	signos	signo	NCMP000	C0311392	hallazgo	88-94	123_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	inflamatorios	inflamatorio	AQ0MP0	C0333348	calificador	95-108	123_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	19	91	MultiE
+21	agudos	agudo	AQ0MP0	C0205178	calificador	109-115	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	y	y	CC	C1706368	calificador	116-117	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	que	que	CS	-	-	118-121	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	122-124	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	la	el	DA0FS0	-	-	125-127	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	exploración	exploración	NCFS000	C1280903	procedimiento	128-139	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	se	se	P00CN000	-	-	140-142	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	observa	observar	VMIP3S0	-	-	143-150	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	un	un		C0205447_1	calificador_1	151-153	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	tímpano	tímpano	NCMS000	C0041445	estructura_corporal	154-161	123_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	sonrosado	sonrosar	VMP00SM	-	-	162-171	123_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	30	716	MultiE
+32	/	/	Fh	-	-	171-172	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	ambarino	ambarino	AQ0MS0	-	-	172-180	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	.	.	Fp	-	-	180-181	123_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Como	como	CS	C0332257	calificador	182-186	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	-	-	187-199	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	refiere	referir	VMIP3S0	-	-	200-207	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	que	que	CS	-	-	208-211	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	hace	hacer	VMIP3S0	-	-	212-216	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	217-219	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	mes	mes	NCMS000	C0439231	calificador	220-223	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	presentó	presentar	VMIS3S0	-	-	224-232	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	233-235	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	episodio	episodio	NCMS000	C0332189#C1455761_1	atributo_1	236-244	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332189#C1455761_2	atributo_2	245-247	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	otalgia	otalgia	NCFS000	C0013456	trastorno	248-255	123_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	,	,	Fc	-	-	255-256	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	fiebre	fiebre	NCFS000	C0015967	hallazgo	257-263	123_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	acompañada	acompañar	VMP00SF	-	-	264-274	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	275-277	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	irritabilidad	irritabilidad	NCFS000	C0022107	hallazgo	278-291	123_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	14	1295	Modif
+18	y	y	CC	C1706368	calificador	292-293	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	que	que	PR0CN000	-	-	294-297	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	fue	ser	VSIS3S0	-	-	298-301	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	tratado	tratar	VMP00SM	C0332293_1	atributo_1	302-309	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	con	con	SPS00	C0332293_2	atributo_2	310-313	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	amoxicilina	amoxicilina	NC00SC0	C0002645#C0521900	sustancia	314-325	123_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+24	40	40	Z	-	-	326-328	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	mg	mg	NCMN000	-	-	329-331	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	/	/	Fh	-	-	331-332	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	kg	kilogramo	NCMN000	C0439209	calificador	332-334	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	/	/	Fh	-	-	334-335	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	día	día	NCMS000	C0439228#C0332169	calificador	335-338	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	.	.	Fp	-	-	338-339	123_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	340-341	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	341-345	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	346-348	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	el	el	DA0MS0	-	-	349-351	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	352-363	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	364-367	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	368-376	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	376-377	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	377-378	123_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

@@ -1,0 +1,100 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	25	25		-	-	16-18	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	24-27	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	28-40	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332119_2	situación_2	41-43	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	rash	rash	NC00SC0	C0015230_1	trastorno_1	44-48	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	cutáneo	cutáneo	AQ0MS0	C0015230_2	trastorno_2	49-56	135_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	1625	LOC
+11	tras	tras	SPS00	-	-	57-61	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	exposición	exposición	NCFS000	C0274281	trastorno	62-72	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	solar	solar	AQ0CS0	-	-	73-78	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	79-80	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	poliartritis	poliartritis	NC00SC0	C0162323	-	81-93	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	9	1625	Causada_por
+16	ocasionales	ocasional	AQ0CP0	C0521114	calificador	94-105	135_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	1625	Modif
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	articulaciones	articulación	NCFP000	C1269611#C0022417#C0234830	estructura_corporal#función	109-123	135_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	15	1625	LOC
+19	de	de	SPS00	C0332285	atributo	124-126	135_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	18	101	MultiE
+20	las	el	DA0FP0	-	-	127-130	135_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	18	101	MultiE
+21	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	131-136	135_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	18	101	MultiE
+22	que	que	PR0CN000	-	-	137-140	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	controla	controlar	VMIP3S0	-	-	141-149	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	con	con	SPS00	C0332287	atributo	150-153	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	antiiflamatorios	antiiflamatorios	NCMP000	-	-	154-170	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+26	no	no	RN	C1298908	calificador	171-173	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	esteroideos	esteroideos	NCMP000	-	-	174-185	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+28	presenta	presentar	VMIP3S0	-	-	186-194	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	desde	desde	SPS00	-	-	195-200	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	hace	hacer	VMIP3S0	-	-	201-205	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	15	15	Z	-	-	206-208	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	días	d	NCMP000	-	-	209-213	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	214-222	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+34	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	223-230	135_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	33	1625	Modif
+35	,	,	Fc	-	-	230-231	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	sensación	sensación	NCFS000	C0036658#C1455667	calificador	232-241	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	progresiva	progresivo	AQ0FS0	C0205329	calificador	242-252	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	de	de	SPS00	C0332285	atributo	253-255	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	debilidad	debilidad	NCFS000	C0424594#C0004093#C3714552	hallazgo	256-265	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+40	generalizada	generalizar	VMP00SF	-	-	266-278	135_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	39	1625	Modif
+41	y	y	CC	C1706368	calificador	279-280	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	palidez	palidez	NCFS000	C0030232#C1275397	hallazgo	281-288	135_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+43	.	.	Fp	-	-	288-289	135_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	290-292	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	293-295	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	296-305	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	306-313	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	314-317	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	Hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	318-329	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	330-332	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	7	7	Z	-	-	333-334	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	g	g	NCMN000	-	-	335-336	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	/	/	Fh	-	-	336-337	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	dL	decilitro	NCMN000	C0439241	calificador	337-339	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	,	,	Fc	-	-	339-340	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	VCM	vcm	NC00SC0	C0524587	entidad_observable	341-344	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	345-347	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	108	108	Z	-	-	348-351	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	mm	mm	NCMN000	-	-	352-354	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	/	/	Fh	-	-	354-355	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	h	hora	NCMN000	C0040223#C0439227	calificador	355-356	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	,	,	Fc	-	-	356-357	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	150000	150000		-	-	358-364	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	plaquetas/mm3	plaquetas/mm3		-	-	365-378	135_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+22	,	,	Fc	-	-	378-379	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	3000	3000		-	-	380-384	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	leucocitos/mm3	leucocitos/mm3		-	-	385-399	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	,	,	Fc	-	-	399-400	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	LDH	ldh	NC00SC0	C0022917	sustancia	401-404	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	elevada	elevar	VMP00SF	-	-	405-412	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	,	,	Fc	-	-	412-413	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	haptoglobina	haptoglobina	NCFS000	C0018595	sustancia	414-426	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	indectectable	indectectable	AQ0CS00	-	-	427-440	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	.	.	Fp	-	-	440-441	135_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	442-444	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	445-447	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	caso	caso	NCMS000	C0868928	calificador	448-452	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	453-455	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	elegir	elegir	VMN0000	-	-	456-462	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	463-466	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	sola	solo	AQ0FS0	C0205171	calificador	467-471	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	prueba	prueba	NCFS000	-	-	472-478	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	479-490	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	indique	indicar	VMSP3S0	-	-	491-498	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	cuál	cuál	PT0CS000	-	-	499-503	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	504-506	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	las	el	DA0FP0	-	-	507-510	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	siguientes	siguiente	AQ0CP0	C0332282	atributo	511-521	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	determinaciones	determinación	NCFP000	C0242485	procedimiento	522-537	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	debe	deber	VMIP3S0	-	-	538-542	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	realizar	realizar	VMN0000	-	-	543-551	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	se	se	PP3CN000	-	-	551-553	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	en	en	SPS00	C1279901_1	calificador_1	554-556	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	primer	1	AO0MS0	C1279901_2	calificador_2	557-563	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	lugar	lugar	NCMS000	C1279901_3	calificador_3	564-569	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	:	:	Fd	-	-	569-570	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	.	.	Fp	-	-	570-571	135_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

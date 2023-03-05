@@ -1,0 +1,36 @@
+1	A	a	SPS00	-	-	0-1	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	2-4	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	joven	joven	NCCS000	C0332239	calificador	5-10	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	asintotomático	asintotomático	AQ0MS00	-	-	11-25	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	26-28	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	14	14		-	-	29-31	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	años	año	NCMP000	C0439234	calificador	32-36	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	cuyo	cuyo	PR0MS000	-	-	37-41	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	padre	padre	NCMS000	C0015671	persona	42-47	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	acaba	acabar	VMIP3S0	-	-	48-53	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	54-56	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ser	ser	VSN0000	-	-	57-60	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	diagnostica	diagnosticar	VMIP3S0	-	-	61-72	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	73-75	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	TBC	tuberculosis	NC00YL0	C0041296	trastorno	76-79	104_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	pulmonar	pulmonar	NC00SC0	C2709248	calificador	80-88	104_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	15	1522	LOC
+17	se	se	P00CN000	-	-	89-91	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	92-94	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	realiza	realizar	VMIP3S0	-	-	95-102	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	103-105	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	Mantoux	mantoux	AQ0CN00	-	-	106-113	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	,	,	Fc	-	-	113-114	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	con	con	SPS00	C0332287	atributo	115-118	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	resultado	resultado	NCMS000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	119-128	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	negativo	negativo	AQ0MS0	C0205160#C0549184	calificador	129-137	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	137-138	104_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	139-140	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	140-143	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	144-151	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	es	ser	VSIP3S0	-	-	152-154	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	la	el	DA0FS0	-	-	155-157	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	adecuada	adecuar	VMP00SF	-	-	158-166	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	?	?	Fit	-	-	166-167	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	.	.	Fp	-	-	167-168	104_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

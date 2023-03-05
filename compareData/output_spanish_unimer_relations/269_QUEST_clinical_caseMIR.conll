@@ -1,0 +1,54 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	acude	acudir	VMIP3S0	-	-	12-17	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	a	a	SPS00	-	-	18-19	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	20-29	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	30-33	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	presentar	presentar	VMN0000	-	-	34-43	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	44-47	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	eritrodermia	eritrodermia	NC00SC0	C0011606	trastorno	48-60	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	61-64	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	fiebre	fiebre	NCFS000	C0015967	hallazgo	65-71	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	y	y	CC	C1706368	calificador	72-73	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	74-82	269_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	83-90	269_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	745	Modif
+15	.	.	Fp	-	-	90-91	269_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	92-94	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	95-97	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	98-109	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	110-112	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	aprecia	apreciar	VMIP3S0	-	-	113-120	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	121-123	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	las	el	DA0FP0	-	-	124-127	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	uñas	uña	NCFP000	C0027342	estructura_corporal	128-132	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	la	el	DA0FS0	-	-	133-135	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	136-145	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0150312_2	calificador_2	146-148	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	piqueteado	piqueteado	VMP00SM	-	-	149-159	269_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	ungueal	ungueal	AQ0CS0	-	-	160-167	269_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	16	746,12	LOC,746
+14	y	y	CC	C1706368	calificador	168-169	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	unas	uno	DI0FP0	C0205447	calificador	170-174	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	zonas	zona	NCFP000	C0019360	trastorno	175-180	269_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+17	amarillentas	amarillento	AQ0FP0	-	-	181-193	269_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	16	73	MultiE
+18	distales	distal	AQ0CP0	C0205108	calificador	194-202	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	203-205	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	mancha	mancha	NCFS000	-	-	206-212	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	213-215	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	aceite	aceite	NCMS000	C1947940#C0028908	calificador#sustancia	216-222	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	.	.	Fp	-	-	222-223	269_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	224-225	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	225-229	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	230-232	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	la	el	DA0FS0	-	-	233-235	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	enfermedad	enfermedad	NCFS000	C0277554_1	hallazgo_1	236-246	269_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+6	primaria	primario	AQ0FS0	C0277554_2	hallazgo_2	247-255	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	que	que	PR0CN000	-	-	256-259	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	ha	haber	VAIP3S0	-	-	260-262	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	originado	originar	VMP00SM	-	-	263-272	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	el	el	DA0MS0	-	-	273-275	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	cuadro	cuadro	NCMS000	-	-	276-282	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	?	?	Fit	-	-	282-283	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	.	.	Fp	-	-	283-284	269_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

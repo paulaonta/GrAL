@@ -1,0 +1,26 @@
+1	Se	se	P00CN000	-	-	0-2	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	realizara	realizar	VMSI3S0	-	-	3-12	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	13-16	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	punción	punción	NCFS000	C0033119	anomalía_morfológica	17-24	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	percutánea	percutánea	AQ0FS00	-	-	25-35	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	para	para	SPS00	C0521125	calificador	36-40	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	lavado	lavar	VMP00SM	C0031148#C1270918_1	procedimiento_1	41-47	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	peritoneal	peritoneal	NC00SC0	C0031148#C1270918_2	procedimiento_2	48-58	10(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+9	para	para	SPS00	C0521125	calificador	59-63	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	comprobar	comprobar	VMN0000	-	-	64-73	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	que	que	CS	-	-	74-77	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	el	el	DA0MS0	-	-	78-80	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	quiste	quiste	NCMS000	C0686883#C0010709_1	organismo#anomalía_morfológica#trastorno_1	81-87	10(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	contiene	contener	VMIP3S0	-	-	88-96	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	bilis	bilis	NCFN000	C0005388#C0520687	sustancia#trastorno	97-102	10(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+16	para	para	SPS00	C0521125	calificador	103-107	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	dejar	dejar	VMN0000	-	-	108-113	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	un	un		C0205447_1	calificador_1	114-116	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	117-124	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	que	que	PR0CN000	-	-	125-128	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	mejore	mejorar	VMSP3S0	-	-	129-135	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	el	el	DA0MS0	-	-	136-138	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	139-144	10(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	145-154	10(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	23	123	LOC
+25	.	.	Fp	-	-	155-156	10(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

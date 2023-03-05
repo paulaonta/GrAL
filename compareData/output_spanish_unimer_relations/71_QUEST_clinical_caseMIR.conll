@@ -1,0 +1,39 @@
+1	Cuál	cuál	PT0CS000	-	-	0-4	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	los	el	DA0MP0	-	-	8-11	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	12-22	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	datos	dato	NCMP000	-	-	23-28	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	clínicos	clínico	AQ0MP0	C0205210	calificador	29-37	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	37-38	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	registrados	registrar	VMP00PM	-	-	39-50	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	durante	durante	SPS00	C1444752#C0347984	atributo	51-58	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	el	DA0FS0	-	-	59-61	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	realización	realización	NCFS000	-	-	62-73	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	74-76	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	77-79	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	historia	historia	NCFS000	-	-	80-88	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	clínica	clínico	AQ0FS0	C0205210	calificador	89-96	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	97-99	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	un	un		C0205447_1	calificador_1	100-102	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	paciente	paciente	NCCS000	C0030705	persona	103-111	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	con	con	SPS00	C0332287	atributo	112-115	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	diarrea	diarrea	NCFS000	C0011991	hallazgo	116-123	71_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	124-126	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	más	más	RG	C0205172	calificador	127-130	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	131-133	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	4	4		-	-	134-135	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	semanas	semana	NCFP000	C0439230	calificador	136-143	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	144-146	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	evolución	evolución	NCFS000	-	-	147-156	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	,	,	Fc	-	-	156-157	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	puede	poder	VMIP3S0	-	-	158-163	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	ser	ser	VSN0000	-	-	164-167	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	encontrado	encontrar	VMP00SM	C0332285_1	atributo_1	168-178	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	en	en	SPS00	C0332285_2	atributo_2	179-181	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	personas	persona	NCFP000	C0027361	persona	182-190	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	sin	sin	SPS00	C0332288	atributo	191-194	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	patología	patología	NCFS000	C0030664	calificador	195-204	71_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+36	orgánica	orgánico	AQ0FS0	-	-	205-213	71_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	35	1809	LOC
+37	:	:	Fd	-	-	213-214	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	.	.	Fp	-	-	214-215	71_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

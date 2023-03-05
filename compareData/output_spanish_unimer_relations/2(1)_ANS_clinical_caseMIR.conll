@@ -1,0 +1,21 @@
+1	Drenaje	drenaje	NCMS000	C0400745_1	procedimiento_1	0-7	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	biliar	biliar	AQ0CS0	C0400745_2	procedimiento_2	8-14	2(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	externo	externo	AQ0MS0	C0205101	calificador	15-22	2(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	2	16	MultiE
+4	percutáneo	percutáneo	NC00SC0	C0522523	calificador	23-33	2(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	2	16	MultiE
+5	con	con	SPS00	C0332287	atributo	34-37	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	carácter	carácter	NCMS000	-	-	38-46	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	paliativo	paliativo	AQ0MS0	-	-	47-56	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	57-60	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	eventual	eventual	AQ0CS0	-	-	61-69	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	reconversión	reconversión	NCFS000	-	-	70-82	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	a	a	SPS00	-	-	83-84	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	85-92	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	interno	interno	AQ0MS0	C0205102	calificador	93-100	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	caso	caso	NCMS000	C0868928	calificador	104-108	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	109-111	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	intolerancia	intolerancia	NCFS000	C0231199	función	112-124	2(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	o	o	CC	-	-	125-126	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	complicaciones	complicación	NCFP000	C0009566#C2362589	trastorno#atributo	127-141	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	142-143	2(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

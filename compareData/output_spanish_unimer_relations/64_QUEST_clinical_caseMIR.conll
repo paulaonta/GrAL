@@ -1,0 +1,95 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	72	72		-	-	10-12	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	17-18	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	exfumador	exfumador	NC00KE0	-	-	19-28	64_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	,	,	Fc	-	-	28-29	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hipertenso	hipertenso	AQ0MS0	-	-	30-40	64_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	41-42	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	diabético	diabético	AQ0MS0	-	-	43-52	64_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	.	.	Fp	-	-	52-53	64_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Antecedentes	antecedente	NCMP000	C0332119_1	situación_1	54-66	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332119_2	situación_2	67-69	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ictus	ictus	NCMN000	-	-	70-75	64_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	5	2275	Causada_por
+4	con	con	SPS00	C0332287	atributo	76-79	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	paresia	paresia	NCFS000	C0151786	hallazgo	80-87	64_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	residual	residual	AQ0CS0	C1609982	calificador	88-96	64_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	5	2275	Modif
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	97-99	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	brazo	brazo	NCMS000	C1268256#C0230347_1	estructura_corporal_1	100-105	64_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	5	2275	LOC
+9	izquierdo	izquierdo	NC00SC0	C1268256#C0230347_2	estructura_corporal_2	106-115	64_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	8	97	MultiE
+10	hace	hacer	VMIP3S0	-	-	116-120	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	4	4		-	-	121-122	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	messes	messes	NCMP000	-	-	123-129	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	.	.	Fp	-	-	129-130	64_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	131-136	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	al	al	SP+DA	-	-	137-139	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	servicio	servicio	NCMS000	-	-	140-148	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	149-151	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	Urgencias	urgencia	NCFP000	C0439609	calificador	152-161	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	162-164	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	165-167	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	hospital	hospital	NCMS000	C1510665	medio_ambiente	168-176	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	comarcal	comarcal	AQ0CS0	-	-	177-185	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	186-189	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	dolor	dolor	NCMS000	C0232286_1	hallazgo_1	190-195	64_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	precordial	precordial	AQ0CS0	C0232286_2	hallazgo_2	196-206	64_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	11	2276	LOC
+13	intenso	intenso	AQ0MS0	C0205178	calificador	207-214	64_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	11	2276	Modif
+14	de	de	SPS00	C0332285	atributo	215-217	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	2	2	Z	C1292425_1	calificador_1	218-219	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	horas	hora	NCFP000	C1292425_2	calificador_2	220-225	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	226-228	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	evolución	evolución	NCFS000	-	-	229-238	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	;	;	Fx	-	-	238-239	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	240-242	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	la	el	DA0FS0	-	-	243-245	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	246-257	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	física	físico	NCFS000	C0031809_2	procedimiento_2	258-264	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	presenta	presentar	VMIP3S0	-	-	265-273	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	piel	piel	NCFS000	C1997526_1	hallazgo_1	274-278	64_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+26	fría	frío	AQ0FS0	C1997526_2	hallazgo_2	279-283	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	y	y	CC	C1706368	calificador	284-285	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	sudorosa	sudoroso	AQ0FS0	-	-	286-294	64_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+29	,	,	Fc	-	-	294-295	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	tensión	tensión	NCFS000	C0005823#C1272641_1	entidad_observable_1	296-303	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	304-312	64_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	313-315	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	80	80	Z	-	-	316-318	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	mm	mm	NCMN000	-	-	319-321	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	Hg	hectogramo	NCMN000	-	-	322-324	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+36	;	;	Fx	-	-	324-325	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+37	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	326-344	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+38	con	con	SPS00	C0332287	atributo	345-348	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+39	elevación	elevación	NCFS000	C0439775	procedimiento	349-358	64_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+40	marcada	marcar	VMP00SF	-	-	359-366	64_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	39	2276	Modif
+41	del	del	SP+DA	-	-	367-370	64_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	39	2276	Modif
+42	segmento	segmento	NCMS000	C0429029_1	entidad_observable_1	371-379	64_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	41	519	MultiE
+43	ST	st	NC00YL0	C0429029_2	entidad_observable_2	380-382	64_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	41	519	MultiE
+44	en	en	SPS00	C1720294#C0332285	calificador#atributo	383-385	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+45	las	el	DA0FP0	-	-	386-389	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+46	derivaciones	derivación	NCFP000	C1442858#C0542331	anomalía_morfológica#objeto_físico	390-402	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+47	V1-V6	V1-V6		-	-	403-408	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+48	,	,	Fc	-	-	408-409	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+49	I	i	NCFS000	-	-	410-411	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+50	y	y	CC	C1706368	calificador	412-413	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+51	aVL	augmented_voltage_left_(voltaje_incrementado_?en_brazo?_izquierdo,_derivación_del_electrocardiograma)	NC00YL0	-	-	414-417	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+52	.	.	Fp	-	-	417-418	64_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	419-420	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	420-424	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	425-427	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	los	el	DA0MP0	-	-	428-431	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	432-442	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	443-455	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	456-458	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	repercusión	repercusión	NCFS000	-	-	459-470	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	coronaria	coronario	AQ0FS0	-	-	471-480	64_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+10	es	ser	VSIP3S0	-	-	481-483	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	el	el	DA0MS0	-	-	484-486	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	mas	mas	NCMS000	-	-	487-490	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	adecuado	adecuar	VMP00SM	-	-	491-499	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	?	?	Fit	-	-	499-500	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	500-501	64_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

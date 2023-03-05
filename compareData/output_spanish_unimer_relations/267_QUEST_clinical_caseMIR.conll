@@ -1,0 +1,33 @@
+1	Ante	ante	SPS00	-	-	0-4	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	5-7	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	17-19	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	8	8		-	-	20-21	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	años	año	NCMP000	C0439234	calificador	22-26	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0001779_1	entidad_observable_1	27-29	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	edad	edad	NCFS000	C0001779_2	entidad_observable_2	30-34	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	que	que	PR0CN000	-	-	35-38	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	acude	acudir	VMIP3S0	-	-	39-44	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	45-48	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	presentar	presentar	VMN0000	-	-	49-58	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	desde	desde	SPS00	-	-	59-64	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hace	hacer	VMIP3S0	-	-	65-69	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	3	3	Z	-	-	70-71	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	días	d	NCMP000	-	-	72-76	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	77-85	267_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	pustulosas	pustuloso	AQ0FP0	C0333369	calificador	86-96	267_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	17	2170	Modif
+19	superficiales	superficial	AQ0CP0	C0205124	calificador	97-110	267_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	17	2170	Modif
+20	,	,	Fc	-	-	110-111	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	erosiones	erosión	NCFP000	C0333307	anomalía_morfológica	112-121	267_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	y	y	CC	C1706368	calificador	122-123	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	costras	costra	NCFP000	C0205204	anomalía_morfológica	124-131	267_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	amarillentas	amarillento	AQ0FP0	-	-	132-144	267_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	23	2170	Modif
+25	alrededor	alrededor	RG	C0457008_1	calificador_1	145-154	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0457008_2	calificador_2	155-157	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	la	lo	PP3FSA00	C0457008_3	calificador_3	158-160	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	boca	boca	NCFS000	C0457008_4	calificador_4	161-165	267_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	23	2170	LOC
+29	pensaremos	pensar	VMIF1P0	-	-	166-176	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	en	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	:	:	Fd	-	-	179-180	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	.	.	Fp	-	-	180-181	267_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

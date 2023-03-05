@@ -1,0 +1,9 @@
+1	Insuficiencia	insuficiencia	NCFS000	C0035229_1	hallazgo#trastorno_1	0-13	66(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	5	1357	Causada_por
+2	respiratoria	respiratorio	AQ0FS0	C0035229_2	hallazgo#trastorno_2	14-26	66(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	hipoxémica	hipoxémica	AQ0FS00	-	-	27-37	66(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	1357	Modif
+4	con	con	SPS00	C0332287	atributo	38-41	66(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	alcalosis	alcalosis	NCFN000	C0268052_1	trastorno_1	42-51	66(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	respiratoria	respiratorio	AQ0FS0	C0268052_2	trastorno_2	52-64	66(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	5	1357,1	LOC,1357
+7	compensada	compensar	VMP00SF	C0268052_3	trastorno_3	65-75	66(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	1357	Modif
+8	.	.	Fp	-	-	76-77	66(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

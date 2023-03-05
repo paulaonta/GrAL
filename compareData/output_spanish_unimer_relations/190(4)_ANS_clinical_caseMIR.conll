@@ -1,0 +1,27 @@
+1	Si	si	CS	-	-	0-2	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	se	se	P00CN000	-	-	3-5	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	produjera	producir	VMSI3S0	-	-	6-15	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	16-19	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	peritonitis	peritonitis	NCFN000	C0031154	trastorno	20-31	190(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	generalizada	generalizar	VMP00SF	-	-	32-44	190(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	4091	Modif
+7	,	,	Fc	-	-	44-45	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	la	el	DA0FS0	-	-	46-48	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	técnica	técnico	NCFS000	C0260280	ocupación	49-56	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	quirúrgica	quirúrgico	AQ0FS0	C0543467	calificador	57-67	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	más	más	RG	C0205172	calificador	68-71	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	adecuada	adecuar	VMP00SF	-	-	72-80	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	es	ser	VSIP3S0	-	-	81-83	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	la	el	DA0FS0	-	-	84-86	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	práctica	práctica	NCFS000	-	-	87-95	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	96-98	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	una	una		C0205447_1	calificador_1	99-102	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	colostomía	colostomía	NC00SC0	C0009410	procedimiento	103-113	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	derivativa	derivativo	AQ0FS0	-	-	114-124	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	sin	sin	SPS00	C0332288	atributo	125-128	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	resección	resección	NCFS000	C0728940#C0547070	procedimiento	129-138	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	del	del	SP+DA	-	-	139-142	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	segmento	segmento	NCMS000	C0441635	calificador	143-151	190(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+24	sigmoideo	sigmoideo	AQ0MS0	-	-	152-161	190(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	23	91	MultiE
+25	afectado	afectar	VMP00SM	-	-	162-170	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	171-172	190(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

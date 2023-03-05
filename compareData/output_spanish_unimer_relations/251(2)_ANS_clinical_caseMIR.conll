@@ -1,0 +1,38 @@
+1	n	n	NCFS000	-	-	0-1	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	2-4	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	5-15	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	16-23	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	está	estar	VAIP3S0	-	-	24-28	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	indicado	indicar	VMP00SM	-	-	29-37	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	aplicar	aplicar	VMN0000	C1632850	calificador	38-45	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	46-49	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	terapéutica	terapéutica	NCFS000	-	-	50-61	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	62-73	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	.	.	Fp	-	-	73-74	251(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	75-77	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	se	se	P00CN000	-	-	78-80	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ha	haber	VAIP3S0	-	-	81-83	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	podido	poder	VMP00SM	-	-	84-90	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	demostrar	demostrar	VMN0000	-	-	91-100	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	que	que	CS	-	-	101-104	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	instaurar	instaurar	VMN0000	-	-	105-114	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	posteriormente	posteriormente	RG	-	-	115-129	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	130-141	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	142-145	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	dosis	dosis	NCFN000	-	-	146-151	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	altas	alto	AQ0FP0	C0205250	calificador	152-157	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	158-160	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	un	un		C0205447_1	calificador_1	161-163	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	inhibidor	inhibidor	NCMS000	C0358591_1	producto#sustancia_1	164-173	251(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+16	de	de	SPS00	C0358591_2	producto#sustancia_2	174-176	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	la	lo	PP3FSA00	C0358591_3	producto#sustancia_3	177-179	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	bomba	bombo	AQ0FS0	C0358591_4	producto#sustancia_4	180-185	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+19	de	de	SPS00	C0358591_5	producto#sustancia_5	186-188	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+20	protones	protón	NCMP000	C0358591_6	producto#sustancia_6	189-197	251(2)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+21	aporte	aportar	VMSP3S0	-	-	198-204	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+22	beneficio	beneficio	NCMS000	-	-	205-214	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+23	adicional	adicional	AQ0CS0	-	-	215-224	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+24	alguno	alguno	PI0MS000	C0205392	calificador	225-231	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+25	.	.	Fp	-	-	232-233	251(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

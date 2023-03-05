@@ -1,0 +1,113 @@
+1	Niña	niño	NCFS000	C0008059#C0870221	persona	0-4	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	5-7	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	3	3		-	-	8-9	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	10-14	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	14-15	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	procedente	procedente	AQ0CS0	-	-	16-26	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	27-29	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	Bangladesh	bangladesh	NCMS000	-	-	30-40	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	,	,	Fc	-	-	40-41	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	que	que	PR0CN000	-	-	42-45	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	consulta	consultar	VMM02S0	C1704447_1	calificador_1	46-54	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	por	por	SPS00	C1704447_2	calificador_2	55-58	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	episodios	episodio	NCMP000	C0332189	atributo	59-68	175_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	febriles	febril	AQ0CP0	C0015967	hallazgo	69-77	175_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	13	73	MultiE
+15	intermitentes	intermitente	NCMP000	C0205267	calificador	78-91	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	92-94	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	3	3		-	-	95-96	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	semanas	semana	NCFP000	C0439230	calificador	97-104	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	105-107	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	evolución	evolución	NCFS000	-	-	108-117	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	,	,	Fc	-	-	117-118	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	asociados	asociar	VMP00PM	-	-	119-128	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	a	a	SPS00	-	-	129-130	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	debilidad	debilidad	NCFS000	C0424594#C0004093#C3714552	hallazgo	131-140	175_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	y	y	CC	C1706368	calificador	141-142	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	pérdida	pérdida	NCFS000	-	-	143-150	175_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	151-153	175_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	26	3091	Modif
+28	apetito	apetito	NCMS000	C0003618	función	154-161	175_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	27	147	MultiE
+29	.	.	Fp	-	-	161-162	175_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	163-164	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	165-167	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	168-179	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	180-186	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	llama	llamar	VMIP3S0	-	-	187-192	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	la	el	DA0FS0	-	-	193-195	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	atención	atención	NCFS000	C0004268	función	196-204	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	esplenomegalia	esplenomegalia	NCFS000	C0038002	trastorno	205-219	175_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	marcada	marcar	VMP00SF	-	-	220-227	175_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	8	3092	Modif
+10	y	y	CC	C1706368	calificador	228-229	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	palidez	palidez	NCFS000	C0030232#C1275397	hallazgo	230-237	175_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	mucocutánea	mucocutánea	AQ0FS00	-	-	238-249	175_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	11	3092	LOC
+13	.	.	Fp	-	-	249-250	175_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	251-253	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	las	el	DA0FP0	-	-	254-257	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	pruebas	prueba	NCFP000	-	-	258-265	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	complementarias	complementario	AQ0FP0	-	-	266-281	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	destaca	destacar	VMIP3S0	-	-	282-289	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	:	:	Fd	-	-	289-290	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	291-302	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	8,5	8.5	Z	-	-	303-306	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	mg	mg	NCMN000	-	-	307-309	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	/	/	Fh	-	-	309-310	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	dl	decilitro	NCMN000	C0439241	calificador	310-312	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	,	,	Fc	-	-	312-313	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	hematocrito	hematocrito	VMP00SM	-	-	314-325	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	26	26	Z	-	-	326-328	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	%	%	Ft	-	-	328-329	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	,	,	Fc	-	-	329-330	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	VCM	vcm	NC00SC0	C0524587	entidad_observable	331-334	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	86	86		-	-	335-337	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	fL	fl	NC00SC0	C0475213	calificador	338-340	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	,	,	Fc	-	-	340-341	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	HCM	hcm	NC00SC0	C1261502	entidad_observable	342-345	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	29	29		-	-	346-348	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	pg	picogramo	NC00YL0	C0439213	calificador	349-351	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	,	,	Fc	-	-	351-352	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	leucocitos	leucocito	NCMP000	C0023516	célula	353-363	175_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+26	2800/mL	2800/mL		-	-	364-371	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	con	con	SPS00	C0332287	atributo	372-375	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	300	300		-	-	376-379	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	neutrófilos	neutrófilo	NCMP000	C0027950	célula	380-391	175_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+30	/	/	Fh	-	-	392-393	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	ml	mililitro	NCMN000	C0439242	calificador	393-395	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	,	,	Fc	-	-	395-396	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	397-406	175_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+34	54000/ml	54000/ml		-	-	407-415	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	,	,	Fc	-	-	415-416	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+36	GOT	glutámic_oxaloacetic_transaminase_(transaminasa_glutámico_oxalacética)	NC00YL0	-	-	417-420	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+37	85	85		-	-	421-423	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+38	U	o	CC	-	-	424-425	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+39	/	/	Fh	-	-	425-426	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+40	l	l	NCFS000	-	-	426-427	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+41	,	,	Fc	-	-	427-428	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+42	GPT92	GPT92		-	-	429-434	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+43	U	o	CC	-	-	435-436	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+44	/	/	Fh	-	-	436-437	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+45	l	l	NCFS000	-	-	437-438	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+46	e	y	CC	C1706368	calificador	439-440	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+47	hipergammaglobulinemia	hipergammaglobulinemia	NCFS000	C0154254_1	trastorno_1	441-463	175_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+48	policlonal	policlonal	AQ0CS0	C0154254_2	trastorno_2	464-474	175_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	47	3093	Modif
+49	en	en	SPS00	C1720294#C0332285	calificador#atributo	475-477	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+50	proteinograma	proteinograma	NCFS000	-	-	478-491	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+51	de	de	SPS00	C0332285	atributo	492-494	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+52	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	495-500	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+53	.	.	Fp	-	-	500-501	175_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Señale	señalar	VMM03S0	-	-	502-508	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	el	el	DA0MS0	-	-	509-511	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	512-523	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	más	más	RG	C0205172	calificador	524-527	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	probable	probable	AQ0CS0	C0332148	calificador	528-536	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	537-540	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	los	el	DA0MP0	-	-	541-544	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	datos	dato	NCMP000	-	-	545-550	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	disponibles	disponible	AQ0CP0	C0470187	calificador	551-562	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	hasta	hasta	SPS00	-	-	563-568	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	este	este	DD0MS0	-	-	569-573	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	momento	momento	NCMS000	C0040223#C0563597	calificador#fuerza_física	574-581	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	:	:	Fd	-	-	581-582	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	582-583	175_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

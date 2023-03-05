@@ -1,0 +1,19 @@
+1	El	el	DA0MS0	-	-	0-2	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	edema	edema	NCMS000	C0472387_1	trastorno_1	3-8	484(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+3	cerebral	cerebral	NCCS000	C0472387_2	trastorno_2	9-17	484(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	3684	LOC
+4	vasogénico	vasogénico		C0472387_3	trastorno_3	18-28	484(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	8	3684	LOC
+5	se	se	P00CN000	-	-	29-31	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	produce	producir	VMIP3S0	-	-	32-39	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	40-43	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	edema	edema	NCMS000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	44-49	484(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	celular	celular	AQ0CS0	-	-	50-57	484(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	8	3684	LOC
+10	,	,	Fc	-	-	57-58	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	rotura	rotura	NCFS000	-	-	59-65	484(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	8	3684	LOC
+12	de	de	SPS00	C0332285	atributo	66-68	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	69-71	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	membrana	membrana	NCFS000	C0332875	anomalía_morfológica	72-80	484(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	3684	LOC
+15	y	y	CC	C1706368	calificador	81-82	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	muerte	muerte	NCFS000	C1306577#C0011065	hallazgo#evento	83-89	484(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	celular	celular	AQ0CS0	-	-	90-97	484(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	16	73	MultiE
+18	.	.	Fp	-	-	98-99	484(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

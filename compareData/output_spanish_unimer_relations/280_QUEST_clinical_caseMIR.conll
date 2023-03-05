@@ -1,0 +1,96 @@
+1	Unos	uno	DI0MP0	C0205447	calificador	0-4	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	padres	padre	NCMP000	C0015671	persona	5-11	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	acuden	acudir	VMIP3P0	-	-	12-18	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	a	a	SPS00	-	-	19-20	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	21-30	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	31-34	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	su	su	DP3CS0	-	-	35-37	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hijo	hijo	NCMS000	C0680063_1	hallazgo_1	38-42	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0680063_2	hallazgo_2	43-45	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	dos	dos		-	-	46-49	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	años	año	NCMP000	C0439234	calificador	50-54	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	porque	porque	CS	-	-	55-61	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	refieren	referir	VMIP3P0	-	-	62-70	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	que	que	CS	-	-	71-74	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	se	se	P00CN000	-	-	75-77	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ha	haber	VAIP3S0	-	-	78-80	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	dado	dar	VMP00SM	C1947971	calificador	81-85	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	un	un		C0205447_1	calificador_1	86-88	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	golpe	golpe	NCMS000	-	-	89-94	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	cerca	cerca	RG	-	-	95-100	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	del	del	SP+DA	-	-	101-104	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	ojo	ojo	NCMS000	C1305216#C0229089_1	estructura_corporal_1	105-108	280_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+23	derecho	derecho	NCMS000	C1305216#C0229089_2	estructura_corporal_2	109-116	280_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	22	80	MultiE
+24	jugando	jugar	VMG0000	-	-	117-124	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	.	.	Fp	-	-	124-125	280_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Efectivamente	efectivamente	RG	-	-	126-139	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	se	se	P00CN000	-	-	140-142	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	observa	observar	VMIP3S0	-	-	143-150	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	151-153	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	hematoma	hematoma	NCMS000	C0018944	trastorno#anomalía_morfológica	154-162	280_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	163-165	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	el	el	DA0MS0	-	-	166-168	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	párpado	párpado	NCMS000	C0015426#C1280734	estructura_corporal	169-176	280_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	5	3217	LOC
+9	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	177-184	280_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	8	97	MultiE
+10	aparentemente	aparentemente	RG	-	-	185-198	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	sin	sin	SPS00	C0332288	atributo	199-202	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	importancia	importancia	NCFS000	-	-	203-214	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	.	.	Fp	-	-	214-215	280_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	216-218	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	219-221	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	fondo	fondo	NCMS000	C0016823#C1284756#C0029090_1	estructura_corporal#procedimiento_1	222-227	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0016823#C1284756#C0029090_2	estructura_corporal#procedimiento_2	228-230	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	ojo	ojo	NCMS000	C0016823#C1284756#C0029090_3	estructura_corporal#procedimiento_3	231-234	280_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+6	se	se	P00CN000	-	-	235-237	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	observan	observar	VMIP3P0	-	-	238-246	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	hemorragias	hemorragia	NCFP000	C0019080	hallazgo#anomalía_morfológica	247-258	280_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	intrarretinianas	intrarretinianas	AQ0FP00	-	-	259-275	280_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	3218	LOC
+10	no	no	RN	C1298908	calificador	276-278	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	sólo	sólo	RG	-	-	279-283	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	284-286	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	el	el	DA0MS0	-	-	287-289	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	ojo	ojo	NCMS000	C0015392#C1280202	estructura_corporal	290-293	280_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+15	que	que	PR0CN000	-	-	294-297	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	refieren	referir	VMIP3P0	-	-	298-306	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	los	el	DA0MP0	-	-	307-310	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	padres	padre	NCMP000	C0015671	persona	311-317	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	sino	sino	CC	-	-	318-322	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	también	también	RG	-	-	323-330	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	331-333	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	el	el	DA0MS0	-	-	334-336	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	otro	otro	DI0MS0	C0205394#C0449210	calificador#estructura_corporal	337-341	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	ojo	ojo	NCMS000	C0015392#C1280202	estructura_corporal	342-345	280_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	3218,8	LOC,3218
+25	.	.	Fp	-	-	345-346	280_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Llama	llamar	VMIP3S0	-	-	347-352	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	353-355	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	atención	atención	NCFS000	C0004268	función	356-364	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	que	que	PR0CN000	-	-	365-368	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	el	el	DA0MS0	-	-	369-371	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	niño	niño	NCMS000	C0008059#C0870221	persona	372-376	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	parece	parecer	VMIP3S0	-	-	377-383	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	adormilado	adormilar	VMP00SM	-	-	384-394	280_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	395-396	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	397-400	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	poco	poco	DI0MS0	C0700321#C1282918	-	401-405	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	tono	tono	NCMS000	-	-	406-410	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	410-411	280_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	412-413	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	413-417	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	418-420	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	las	el	DA0FP0	-	-	421-424	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	425-435	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	436-448	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	debería	deber	VMIC3S0	-	-	449-456	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	considerar	considerar	VMN0000	-	-	457-467	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	respecto	respecto	NCMS000	-	-	468-476	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	a	a	SPS00	-	-	477-478	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	este	este	DD0MS0	-	-	479-483	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	cuadro	cuadro	NCMS000	-	-	484-490	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	clínico	clínico	AQ0MS0	C0205210	calificador	491-498	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	?	?	Fit	-	-	498-499	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	.	.	Fp	-	-	499-500	280_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

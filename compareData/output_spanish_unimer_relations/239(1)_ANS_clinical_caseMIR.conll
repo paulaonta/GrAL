@@ -1,0 +1,13 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	239(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	neoplasia	neoplasia	NCFS000	C0027662#C0311355_1	trastorno_1	4-13	239(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+3	endocrina	endocrino	AQ0FS0	C0027662#C0311355_2	trastorno_2	14-23	239(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	2	156	LOC
+4	múltiple	múltiple	NC00SC0	C0027662#C0311355_3	trastorno_3	24-32	239(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	2	156	Modif
+5	tipo	tipo	NCMS000	C0441730_1	calificador_1	33-37	239(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	2	156	Modif
+6	2	2	Z	C0441730_2	calificador_2	38-39	239(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	5	27	MultiE
+7	A	a	SPS00	-	-	40-41	239(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	5	27	MultiE
+8	o	o	CC	-	-	42-43	239(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Síndrome	síndrome	NCMS000	C0025268_1	trastorno_1	44-52	239(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0025268_2	trastorno_2	53-55	239(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	9	74	MultiE
+11	Sipple	Sipple		C0025268_3	trastorno_3	56-62	239(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	9	74	MultiE
+12	.	.	Fp	-	-	63-64	239(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

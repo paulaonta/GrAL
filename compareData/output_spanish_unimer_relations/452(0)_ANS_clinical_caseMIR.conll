@@ -1,0 +1,16 @@
+1	Inmunoterapia	inmunoterapia	NCFS000	C0021083	procedimiento	0-13	452(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	específica	específico	AQ0FS0	C0205369	calificador	14-24	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	vía	vía	NCFS000	C0001565_1	calificador_1	25-28	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	sublingual	sublingual	NC00SC0	C0001565_2	calificador_2	29-39	452(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	o	o	CC	-	-	40-41	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	vía	vía	NCFS000	C1522438_1	calificador_1	42-45	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	subcutánea	subcutáneo	AQ0FS0	C1522438_2	calificador_2	46-56	452(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+8	durante	durante	SPS00	C1444752#C0347984	atributo	57-64	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	65-67	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	periodo	periodo	NCMS000	-	-	68-75	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	mínimo	mínimo	AQ0MS0	C0547040#C1282907	calificador	76-82	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	83-85	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	3	3		-	-	86-87	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	años	año	NCMP000	C0439234	calificador	88-92	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	93-94	452(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

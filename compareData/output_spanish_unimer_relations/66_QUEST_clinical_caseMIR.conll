@@ -1,0 +1,73 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	67	67		-	-	13-15	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	25-37	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332119_2	situación_2	38-40	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	41-54	66_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	cardiaca	cardiaco	AQ0FS0	-	-	55-63	66_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	594	LOC
+11	congestiva	congestivo	AQ0FS0	-	-	64-74	66_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	594	Modif
+12	(	(	Fpa	-	-	75-76	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	que	que	PR0CN000	-	-	76-79	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	lleva	llevar	VMIP3S0	-	-	80-85	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	86-97	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	98-101	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	ramipril	ramipril	NC00SC0	C0072973	producto#sustancia	102-110	66_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+18	y	y	CC	C1706368	calificador	111-112	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	furosemida	furosemida	NC00SC0	C0016860	producto#sustancia	113-123	66_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+20	)	)	Fpt	-	-	123-124	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	125-126	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	diabetes	diabetes	NCFN000	-	-	127-135	66_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	tipo	tipo	NCMS000	C0332307	calificador#atributo	136-140	66_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	594	Modif
+24	2	2	Z	-	-	141-142	66_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	23	91	MultiE
+25	(	(	Fpa	-	-	143-144	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	144-146	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	147-158	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	con	con	SPS00	C0332287	atributo	159-162	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	insulina	insulina	NCFS000	C0021641	sustancia	163-171	66_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+30	)	)	Fpt	-	-	171-172	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	acue	acue	VMSP3S0	-	-	173-177	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	a	a	SPS00	-	-	178-179	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	urgencias	urgencia	NCFP000	C0439609	calificador	180-189	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	por	por	SPS00	C0678226	atributo	190-193	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	194-200	66_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+36	.	.	Fp	-	-	200-201	66_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	202-204	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	gasometría	gasometría	NCFS000	-	-	205-215	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	realizada	realizar	VMP00SF	-	-	216-225	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	respirando	respirar	VMG0000	-	-	226-236	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	aire	aire	NCMS000	C0001861	sustancia	237-241	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	ambiente	ambiente	NCMS000	-	-	242-250	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	se	se	P00CN000	-	-	251-253	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	observa	observar	VMIP3S0	-	-	254-261	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	262-264	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	265-267	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	7.45	7.45		-	-	268-272	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	,	,	Fc	-	-	272-273	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	paO2	paO2		-	-	274-278	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	56	56		-	-	279-281	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	,	,	Fc	-	-	281-282	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	PaCO2	PaCO2		-	-	283-288	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	30	30	Z	-	-	289-291	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	mm	mm	NCMN000	-	-	292-294	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	Hg	hectogramo	NCMN000	-	-	295-297	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	,	,	Fc	-	-	297-298	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	HCO3	HCO3		-	-	299-303	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	26	26	Z	-	-	304-306	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	mm	mm	NCMN000	-	-	307-309	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	Hg	hectogramo	NCMN000	-	-	310-312	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	.	.	Fp	-	-	312-313	66_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	314-315	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	315-318	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	alteración	alteración	NCFS000	-	-	319-329	66_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+4	gasométrica	gasométrico	AQ0FS0	-	-	330-341	66_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	3	596	Modif
+5	presenta	presentar	VMIP3S0	-	-	342-350	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	351-353	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	354-362	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	362-363	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	363-364	66_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

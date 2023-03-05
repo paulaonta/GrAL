@@ -1,0 +1,58 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	68	68		-	-	9-11	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	utiliza	utilizar	VMIP3S0	-	-	21-28	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	29-33	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	visión	visión	NCFS000	C0042789	calificador	34-40	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	lejana	lejano	AQ0FS0	C0443203#C0205157	calificador	41-47	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	gafas	gafas	NCFP000	C0015421	objeto_físico	48-53	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	54-56	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	+4,00	+4,00		-	-	57-62	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	dioptrías	dioptría	NCFP000	-	-	63-72	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	73-75	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	ambos	ambos	PI0MP000	C1456809#C0229118_1	estructura_corporal_1	76-81	494_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+16	ojos	ojo	NCMP000	C1456809#C0229118_2	estructura_corporal_2	82-86	494_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	15	170	MultiE
+17	.	.	Fp	-	-	86-87	494_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	-	-	88-96	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	porque	porque	CS	-	-	97-103	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	desde	desde	SPS00	-	-	104-109	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	hace	hacer	VMIP3S0	-	-	110-114	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	unas	uno	DI0FP0	C0205447	calificador	115-119	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	semanas	semana	NCFP000	C0439230	calificador	120-127	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	tiene	tener	VMIP3S0	-	-	128-133	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	dolor	dolor	NCMS000	C0151827_1	hallazgo_1	134-139	494_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	ocular	ocular	NCMS000	C0151827_2	hallazgo_2	140-146	494_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	590	LOC
+10	con	con	SPS00	C0332287	atributo	147-150	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	cefalea	cefalea	NCFS000	C0018681	hallazgo	151-158	494_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	y	y	CC	C1706368	calificador	159-160	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	visión	visión	NCFS000	C0344232_1	hallazgo#trastorno_1	161-167	494_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	borrosa	borroso	AQ0FS0	C0344232_2	hallazgo#trastorno_2	168-175	494_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	13	73	MultiE
+15	por	por	SPS00	C0439583_1	calificador_1	176-179	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	la	lo	PP3FSA00	C0439583_2	calificador_2	180-182	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	noche	noche	NCFS000	C0439583_3	calificador_3	183-188	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	cuando	cuando	PR000000	-	-	189-195	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	está	estar	VAIP3S0	-	-	196-200	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	viendo	ver	VMG0000	-	-	201-207	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	la	el	DA0FS0	-	-	208-210	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	televisión	televisión	NCFS000	C0039461	objeto_físico	211-221	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	222-224	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	penumbra	penumbra	NCFS000	-	-	225-233	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	.	.	Fp	-	-	233-234	494_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	235-236	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	236-240	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	241-243	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	244-247	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	248-258	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	patologías	patología	NCFP000	C0030664	calificador	259-269	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	270-272	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	más	más	RG	C0205172	calificador	273-276	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	277-285	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	que	que	CS	-	-	286-289	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	presente	presentar	VMSP3S0	-	-	290-298	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	?	?	Fit	-	-	298-299	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	.	.	Fp	-	-	299-300	494_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

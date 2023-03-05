@@ -1,0 +1,90 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	88	88		-	-	13-15	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	viene	venir	VMIP3S0	-	-	21-26	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	29-37	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	porque	porque	CS	-	-	38-44	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	se	se	P00CN000	-	-	45-47	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	ha	haber	VAIP3S0	-	-	48-50	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	caído	caer	VMP00SM	-	-	51-56	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	3	3		-	-	57-58	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	veces	vez	NCFP000	-	-	59-64	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	los	el	DA0MP0	-	-	68-71	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	últimos	último	AO0MP0	-	-	72-79	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	6	6		-	-	80-81	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	meses	mes	NCMP000	C0439231	calificador	82-87	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	87-88	301_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ninguna	ninguno	PI0FS000	C0205160#C0549184	calificador	89-96	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	97-99	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	las	el	DA0FP0	-	-	100-103	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	caídas	caída	NCFP000	C0085639	hallazgo	104-110	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	se	se	P00CN000	-	-	111-113	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	acompañaba	acompañar	VMII3S0	-	-	114-124	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	125-127	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	mareo	mareo	NCMS000	C0012833#C0220870	hallazgo	128-133	301_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	o	o	CC	-	-	134-135	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	síncope	síncope	NCMS000	C0039070#C0332521_1	trastorno#anomalía_morfológica#hallazgo_1	136-143	301_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	.	.	Fp	-	-	143-144	301_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	145-148	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	caída	caída	NCFS000	C0085639	hallazgo	149-154	301_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+3	ocurrió	ocurrir	VMIS3S0	-	-	155-162	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	mientras	mientras	CS	-	-	163-171	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	caminaba	caminar	VMII3S0	C0080331	entidad_observable	172-180	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	181-184	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	el	el	DA0MS0	-	-	185-187	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	jardín	jardín	NCMS000	-	-	188-194	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	194-195	301_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Sus	su	DP3CP0	-	-	196-199	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	-	-	200-212	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	médicos	médico	AQ0MP0	C0205476#C0031831	calificador#ocupación	213-220	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	incluyen	incluir	VMIP3P0	-	-	221-229	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	hipertensión	hipertensión	NCFS000	C0020538_1	trastorno_1	230-242	301_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+6	arterial	arterial	NC00SC0	C0020538_2	trastorno_2	243-251	301_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	5	1249	LOC
+7	sin	sin	SPS00	C0332288	atributo	252-255	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	cambios	cambio	NCMP000	C0443172	calificador	256-263	301_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion	-	-	-
+9	posturales	postural	AQ0CP0	C0205278	calificador	264-274	301_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	8	97	MultiE
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	275-277	301_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	8	1249	Modif
+11	la	el	DA0FS0	-	-	278-280	301_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	10	97	MultiE
+12	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	281-288	301_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	10	97	MultiE
+13	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	289-297	301_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	10	97	MultiE
+14	,	,	Fc	-	-	297-298	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	gota	gota	NCFS000	C0018099#C1321095	trastorno#calificador	299-303	301_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+16	,	,	Fc	-	-	303-304	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	artrosis	artrosis	NCFN000	C0029408	trastorno	305-313	301_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+18	y	y	CC	C1706368	calificador	314-315	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	depresión	depresión	NCFS000	C0011581#C1269683#C0025193#C0344315	trastorno#hallazgo	316-325	301_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+20	.	.	Fp	-	-	325-326	301_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Toma	tomar	VMIP3S0	C1515187	calificador	327-331	301_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	5	5		-	-	332-333	301_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	medicinas	medicina	NCFP000	-	-	334-343	301_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	regularmente	regularmente	RG	-	-	344-356	301_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	.	.	Fp	-	-	356-357	301_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	358-359	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	359-363	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	364-366	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	las	el	DA0FP0	-	-	367-370	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	371-381	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	382-384	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	la	el	DA0FS0	-	-	385-387	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	que	que	PR0CN000	-	-	388-391	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	más	más	RG	C0205172	calificador	392-395	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	probablemente	probablemente	RG	C0332148	calificador	396-409	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	contribuya	contribuir	VMSP3S0	-	-	410-420	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	a	a	SPS00	-	-	421-422	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	las	el	DA0FP0	-	-	423-426	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	caídas	caída	NCFP000	C0085639	hallazgo	427-433	301_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	434-436	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	este	este	DD0MS0	-	-	437-441	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	paciente	paciente	NCCS000	C0030705	persona	442-450	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+18	?	?	Fit	-	-	450-451	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+19	.	.	Fp	-	-	451-452	301_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

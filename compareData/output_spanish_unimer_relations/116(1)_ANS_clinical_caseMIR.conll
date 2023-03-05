@@ -1,0 +1,12 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	116(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	3-5	116(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	cápsula	cápsula	NCFS000	C1744709_1	estructura_corporal_1	6-13	116(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+4	interna	interno	NCFS000	C1744709_2	estructura_corporal_2	14-21	116(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	3	68	MultiE
+5	,	,	Fc	-	-	21-22	116(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	brazo	brazo	NCMS000	C1269612#C1140618#C0446516	estructura_corporal	23-28	116(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+7	posterior	posterior	AQ0CS0	C0205095#C0439781	calificador	29-38	116(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	6	150	MultiE
+8	del	del	SP+DA	-	-	39-42	116(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	6	150	MultiE
+9	lado	lado	NCMS000	C0444532#C0205090#C0450415_1	calificador_1	43-47	116(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	6	150	MultiE
+10	derecho	derecho	NCMS000	C0444532#C0205090#C0450415_2	calificador_2	48-55	116(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	6	150	MultiE
+11	.	.	Fp	-	-	56-57	116(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

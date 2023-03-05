@@ -1,0 +1,15 @@
+1	Enfermedad	enfermedad	NCFS000	C0019202_1	trastorno_1	0-10	126(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0019202_2	trastorno_2	11-13	126(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	70	MultiE
+3	Wilson	Wilson		C0019202_3	trastorno_3	14-20	126(4)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	1	70	MultiE
+4	.	.	Fp	-	-	20-21	126(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Determinar	determinar	VMN0000	-	-	22-32	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	ceruloplasmina	ceruloplasmina	NC00SC0	C0007841	sustancia	33-47	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	48-49	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cobre	cobre	NCMS000	C0009968	sustancia#producto	50-55	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	56-58	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	sangre	sangre	NCFS000	C0005767	sustancia	59-65	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	66-67	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	orina	orina	NCFS000	C0042036	sustancia	68-73	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	74-75	126(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

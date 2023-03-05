@@ -1,0 +1,98 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	60	60		-	-	12-14	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	diagnosticada	diagnosticar	VMP00SF	-	-	20-33	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	34-36	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	neoplasia	neoplasia	NCFS000	C1458155_1	trastorno_1	37-46	83_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C1458155_2	trastorno_2	47-49	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mama	mamar	VMM02S0	C1458155_3	trastorno_3	50-54	83_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	7	4281	LOC
+10	hace	hacer	VMIP3S0	-	-	55-59	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	10	10		-	-	60-62	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	años	año	NCMP000	C0439234	calificador	63-67	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	.	.	Fp	-	-	67-68	83_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Realizó	realizar	VMIS3S0	-	-	69-76	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	77-88	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	89-92	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	radioquimioterapia	radioquimioterapia	NCFS000	-	-	93-111	83_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+5	y	y	CC	C1706368	calificador	112-113	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	posteriormente	posteriormente	RG	-	-	114-128	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	hormonal	hormonal	AQ0CS0	C0458083	calificador	129-137	83_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+8	durante	durante	SPS00	C1444752#C0347984	atributo	138-145	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	5	5		-	-	146-147	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	años	año	NCMP000	C0439234	calificador	148-152	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	152-153	83_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	154-156	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	157-164	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	165-168	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	gammagrafía	gammagrafía	NCFS000	C2368359	calificador	169-180	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	ósea	óseo	AQ0FS0	C0443157	calificador	181-185	83_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+6	realizado	realizar	VMP00SM	-	-	186-195	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	196-199	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	dolores	dolor	NCMP000	C0030193	hallazgo	200-207	83_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	óseos	óseo	AQ0MP0	C0443157	calificador	208-213	83_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	4283	LOC
+10	politópicos	politópico	AQ0MP0	-	-	214-225	83_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	-	-	-
+11	demostró	demostrar	VMIS3S0	-	-	226-234	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	la	el	DA0FS0	-	-	235-237	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	238-247	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	de	de	SPS00	C0150312_2	calificador_2	248-250	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	251-261	83_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+16	óseas	óseo	AQ0FP0	C0443157	calificador	262-267	83_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	15	4283	LOC
+17	.	.	Fp	-	-	267-268	83_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Actualmente	actualmente	RG	C0521116	calificador	269-280	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	está	estar	VAIP3S0	-	-	281-285	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	286-288	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	289-290	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	291-302	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	303-306	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	opioides	opioides	NC00AO0	-	-	307-315	83_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	menores	menor	AQ0CP0	C0700321#C1282918#C0205165#C0026193	calificador#persona	316-323	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	324-325	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	AINEs	antiinflamatorios_no_esteroideos	NC00YL0	-	-	326-331	83_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	332-335	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	buen	bueno	AQ0MS0	C0205170	calificador	336-340	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	control	control	NCMS000	C1304888#C0002766_1	procedimiento_1	341-348	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	del	del	SP+DA	C1304888#C0002766_2	procedimiento_2	349-352	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	dolor	dolor	NCMS000	C1304888#C0002766_3	procedimiento_3	353-358	83_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+16	.	.	Fp	-	-	358-359	83_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	360-365	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	a	a	SPS00	-	-	366-367	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	consulta	consultar	VMM02S0	C1704447_1	calificador_1	368-376	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	por	por	SPS00	C1704447_2	calificador_2	377-380	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	cefalea	cefalea	NCFS000	C0018681	hallazgo	381-388	83_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+6	que	que	PR0CN000	-	-	389-392	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	no	no	RN	C1298908	calificador	393-395	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	cede	ceder	VMIP3S0	-	-	396-400	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	401-404	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	la	el	DA0FS0	-	-	405-407	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	actual	actual	AQ0CS0	C0521116	calificador	408-414	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	analgesia	analgesia	NCFS000	C0344307	hallazgo	415-424	83_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+13	realizando	realizar	VMG0000	-	-	425-435	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	436-439	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	440-442	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	cerebral	cerebral	AQ0CS0	-	-	443-451	83_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+17	que	que	PR0CN000	-	-	452-455	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	muestra	mostrar	VMIP3S0	-	-	456-463	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	imágenes	imagen	NCFP000	C0441469#C3542466	objeto_físico#metadato_fundacional	464-472	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	compatibles	compatible	AQ0CP0	-	-	473-484	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	con	con	SPS00	C0332287	atributo	485-488	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	489-499	83_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	Especulacion	-	-	-
+23	cerebrales	cerebral	NCCP000	-	-	500-510	83_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	22	4285	LOC
+24	.	.	Fp	-	-	510-511	83_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	512-514	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	515-523	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	al	al	SP+DA	-	-	524-526	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	527-538	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	del	del	SP+DA	-	-	539-542	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	dolor	dolor	NCMS000	C0030193	hallazgo	543-548	83_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+7	indique	indicar	VMSP3S0	-	-	549-556	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	la	el	DA0FS0	-	-	557-559	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	CORRECTA	correcto	AQ0FS0	C0205170	calificador	560-568	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	:	:	Fd	-	-	568-569	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	.	.	Fp	-	-	569-570	83_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

@@ -1,0 +1,66 @@
+1	Tras	tras	SPS00	-	-	0-4	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	5-7	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	accidente	accidente	NCMS000	C0415499_1	evento_1	8-17	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0415499_2	evento_2	18-20	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tráfico	tráfico	NCMS000	-	-	21-28	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	usted	usted	PP2CS00P	-	-	29-34	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	atiende	atender	VMIP3S0	-	-	35-42	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	43-44	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	45-47	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	herido	herir	VMP00SM	-	-	48-54	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	.	.	Fp	-	-	54-55	429_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	56-58	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	59-67	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	abre	abrir	VMIP3S0	-	-	68-72	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	los	el	DA0MP0	-	-	73-76	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	ojos	ojo	NCMP000	C0015392#C1280202	estructura_corporal	77-81	429_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	a	a	SPS00	-	-	82-83	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	la	el	DA0FS0	-	-	84-86	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	llamada	llamada	NCFS000	-	-	87-94	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	,	,	Fc	-	-	94-95	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	pero	pero	CC	-	-	96-100	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	únicamente	únicamente	RG	-	-	101-111	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	emite	emitir	VMIP3S0	-	-	112-117	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	palabras	palabra	NCFP000	-	-	118-126	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	que	que	PR0CN000	-	-	127-130	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	son	ser	VSIP3P0	-	-	131-134	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	inapropiadas	inapropiar	VMP00PF	-	-	135-147	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	147-148	429_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	149-151	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	152-154	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	155-166	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	motora	motor	AQ0FS0	-	-	167-173	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	localiza	localizar	VMIP3S0	-	-	174-182	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	el	el	DA0MS0	-	-	183-185	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	dolor	dolor	NCMS000	C0030193	hallazgo	186-191	429_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	192-194	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	195-207	429_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	1695	LOC
+10	derechas	derecha	NCFP000	-	-	208-216	429_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	9	74	MultiE
+11	,	,	Fc	-	-	216-217	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	pero	pero	CC	-	-	218-222	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	extiende	extender	VMIP3S0	-	-	223-231	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	al	al	SP+DA	-	-	232-234	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	estimular	estimular	VMN0000	C0562576	hallazgo	235-244	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	las	el	DA0FP0	-	-	245-248	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	249-261	429_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+18	izquierdas	izquierda	NCFP000	-	-	262-272	429_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	17	164	MultiE
+19	.	.	Fp	-	-	272-273	429_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	274-275	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cómo	cómo	PT000000	-	-	275-279	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	describiría	describir	VMIC3S0	-	-	280-291	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	su	su	DP3CS0	-	-	292-294	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	situación	situación	NCFS000	-	-	295-304	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	según	según	SPS00	-	-	305-310	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	la	el	DA0FS0	-	-	311-313	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	escala	escalar	VMM02S0	C1271007_1	entidad_observable_1	314-320	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C1271007_2	entidad_observable_2	321-323	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	coma	comer	VMSP3S0	C1271007_3	entidad_observable_3	324-328	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	de	de	SPS00	C1271007_4	entidad_observable_4	329-331	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	Glasgow	Glasgow		C1271007_5	entidad_observable_5	332-339	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	?	?	Fit	-	-	339-340	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	:	:	Fd	-	-	340-341	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	341-342	429_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

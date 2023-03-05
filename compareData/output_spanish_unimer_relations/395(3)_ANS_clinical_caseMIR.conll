@@ -1,0 +1,11 @@
+1	Fractura	fracturar	VMIP3S0	-	-	0-8	395(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	6	2163	Causada_por
+2	diafisaria	diafisaria	NCFS000	-	-	9-19	395(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	2163	LOC
+3	de	de	SPS00	C0332285	atributo	20-22	395(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	húmero	húmero	NCMS000	C0020164#C1279075	estructura_corporal	23-29	395(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	2163	LOC
+5	con	con	SPS00	C0332287	atributo	30-33	395(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	lesión	lesión	NCFS000	C0748226#C0154744_1	trastorno_1	34-40	395(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	del	del	SP+DA	C0748226#C0154744_2	trastorno_2	41-44	395(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	nervio	nervio	NCMS000	C0748226#C0154744_3	trastorno_3	45-51	395(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	2163	LOC
+9	radial	radial	NC00SC0	C0748226#C0154744_4	trastorno_4	52-58	395(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	8	97	MultiE
+10	.	.	Fp	-	-	59-60	395(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

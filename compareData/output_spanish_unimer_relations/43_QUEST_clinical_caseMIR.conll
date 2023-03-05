@@ -1,0 +1,65 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	niño	niño	NCMS000	C0680063_1	hallazgo_1	3-7	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0680063_2	hallazgo_2	8-10	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	10	10		-	-	11-13	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	14-18	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	19-21	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	traído	traer	VMP00SM	-	-	22-28	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	29-30	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Urgencias	urgencia	NCFP000	C0439609	calificador	31-40	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	porque	porque	CS	-	-	41-47	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	desde	desde	SPS00	-	-	48-53	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	hace	hacer	VMIP3S0	-	-	54-58	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	2	2	Z	C1292425_1	calificador_1	59-60	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	horas	hora	NCFP000	C1292425_2	calificador_2	61-66	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	se	se	P00CN000	-	-	67-69	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	70-72	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	gira	girar	VMIP3S0	C0233591	hallazgo	73-77	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	involuntariamente	involuntariamente	RG	-	-	78-95	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	el	el	DA0MS0	-	-	96-98	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	99-105	43_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+21	a	a	SPS00	-	-	106-107	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	la	el	DA0FS0	-	-	108-110	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	derecha	derecha	NCFS000	-	-	111-118	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	asociado	asociar	VMP00SM	-	-	119-127	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	a	a	SPS00	-	-	128-129	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	marcado	marcar	VMP00SM	-	-	130-137	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	dolor	dolor	NCMS000	C0030193	hallazgo	138-143	43_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	cervical	cervical	NC00SC0	C0205064#C0237504	calificador#estructura_corporal	144-152	43_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	27	695	LOC
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	153-155	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	cada	cada	DI0CS0	C1457900	calificador	156-160	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	giro	giro	NCMS000	-	-	161-165	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	.	.	Fp	-	-	165-166	43_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	167-169	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	abuela	abuelo	NCFS000	C0337475	persona	170-176	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	,	,	Fc	-	-	176-177	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	posteriormente	posteriormente	RG	-	-	178-192	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	,	,	Fc	-	-	192-193	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	nos	nos	PP1CP000	-	-	194-197	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	dice	decir	VMIP3S0	-	-	198-202	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	que	que	CS	-	-	203-206	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	está	estar	VAIP3S0	-	-	207-211	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	vomitando	vomitar	VMG0000	-	-	212-221	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	desde	desde	SPS00	-	-	222-227	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	ayer	ayer	RG	-	-	228-232	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	,	,	Fc	-	-	232-233	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	por	por	SPS00	C0678226	atributo	234-237	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	lo	el	DA0NS0	-	-	238-240	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	que	que	PR0CN000	-	-	241-244	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	245-247	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	dio	dar	VMIS3S0	C1947971	calificador	248-251	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	252-254	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	jarabe	jarabe	NCMS000	C0458173#C0991550	sustancia#calificador	255-261	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	;	;	Fx	-	-	261-262	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	¿	¿	Fia	-	-	263-264	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	cuál	cuál	PT0CS000	-	-	264-268	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	sería	ser	VSIC1S0	-	-	269-274	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	la	el	DA0FS0	-	-	275-277	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	actitud	actitud	NCFS000	C0004271	entidad_observable	278-285	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	terapéutica	terapéutico	AQ0FS0	-	-	286-297	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	más	más	RG	C0205172	calificador	298-301	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	acertada	acertar	VMP00SF	-	-	302-310	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	?	?	Fit	-	-	310-311	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	.	.	Fp	-	-	311-312	43_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

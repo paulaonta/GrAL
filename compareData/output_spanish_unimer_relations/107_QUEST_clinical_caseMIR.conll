@@ -1,0 +1,73 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	47	47		-	-	9-11	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	.	.	Fp	-	-	24-25	107_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Natural	natural	AQ0CS0	C0205296	calificador	26-33	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	34-36	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	Cochabamba	cochabamba	NCFS000	-	-	37-47	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	(	(	Fpa	-	-	48-49	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	Bolivia	bolivia	NCFS000	-	-	49-56	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	)	)	Fpt	-	-	56-57	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	,	,	Fc	-	-	57-58	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	reside	residir	VMIP3S0	-	-	59-65	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	66-68	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	España	españa	NC00SC0	C0037747	localización_geográfica	69-75	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	desde	desde	SPS00	-	-	76-81	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	hace	hacer	VMIP3S0	-	-	82-86	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	8	8		-	-	87-88	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	años	año	NCMP000	C0439234	calificador	89-93	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	93-94	107_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	A	a	SPS00	-	-	95-96	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	mediados	mediar	VMP00PM	-	-	97-105	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	106-108	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	2009	2009		-	-	109-113	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	comienza	comenzar	VMIP3S0	-	-	114-122	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	123-126	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	palpitaciones	palpitación	NCFP000	-	-	127-140	107_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	140-141	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	disnea	disnea	NCFS000	C0013404#C0553668	hallazgo	142-148	107_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+10	y	y	CC	C1706368	calificador	149-150	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	151-157	107_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	progresivos	progresivo	AQ0MP0	C0205329	calificador	158-169	107_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	11	3856	Modif
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	170-172	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	173-185	107_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	11	3856	LOC
+15	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	186-196	107_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	14	5	MultiE
+16	.	.	Fp	-	-	196-197	107_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	198-200	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	diagnosticada	diagnosticar	VMP00SF	-	-	201-214	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	215-217	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	218-231	107_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+5	cardiaca	cardiaco	AQ0FS0	-	-	232-240	107_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	4	3857	LOC
+6	secundaria	secundario	AQ0FS0	C0175668	calificador	241-251	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	a	a	SPS00	-	-	252-253	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	miocardiopatía	miocardiopatía	NCFS000	C0878544	trastorno	254-268	107_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	4	3857	Causada_por
+9	por	por	SPS00	C0678226	atributo	269-272	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	enfermedad	enfermedad	NCFS000	C0041234_1	trastorno_1	273-283	107_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	8	3857	Causada_por
+11	de	de	SPS00	C0041234_2	trastorno_2	284-286	107_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	10	97	MultiE
+12	Chagas	Chagas		C0041234_3	trastorno_3	287-293	107_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	10	97	MultiE
+13	.	.	Fp	-	-	293-294	107_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	295-296	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cual	cual	PR0CS000	-	-	296-300	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	301-303	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	el	el	DA0MS0	-	-	304-306	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	agente	agente	NCCS000	C0450442	atributo	307-313	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	etiológico	etiológico	AQ0MS0	-	-	314-324	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	325-327	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	esta	este	DD0FS0	-	-	328-332	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	enfermedad	enfermedad	NCFS000	C0277550_1	hallazgo_1	333-343	107_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+10	endémica	endémico	AQ0FS0	C0277550_2	hallazgo_2	344-352	107_QUEST_clinical_caseMIR	SENT5	B-Calificador	-	9	3858	Modif
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	353-355	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	356-362	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	paises	paises	NCMP000	-	-	363-369	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	370-372	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	Latinoamérica	latinoamérica	AQ0FS00	-	-	373-386	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	?	?	Fit	-	-	386-387	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	.	.	Fp	-	-	387-388	107_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,91 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	62	62		-	-	12-14	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	20-23	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	24-32	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	33-36	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	haber	haber	NCMS000	-	-	37-42	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	43-49	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	50-52	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	contacto	contacto	NCMS000	C0337611	persona	53-61	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cercano	cercano	AQ0MS0	-	-	62-69	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	70-72	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	las	el	DA0FP0	-	-	73-76	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	últimas	último	AO0FP0	-	-	77-84	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	semanas	semana	NCFP000	C0439230	calificador	85-92	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	93-96	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	una	una		C0205447_1	calificador_1	97-100	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	persona	persona	NCFS000	C0027361	persona	101-108	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	con	con	SPS00	C0332287	atributo	109-112	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	una	una		C0205447_1	calificador_1	113-116	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	tuberculosis	tuberculosis	NCFN000	C0151332_1	trastorno_1	117-129	469_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	activa	activo	AQ0FS0	C0151332_2	trastorno_2	130-136	469_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	2573	Modif
+24	.	.	Fp	-	-	136-137	469_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	138-140	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Mantoux	mantoux	AQ0CN00	-	-	141-148	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	149-151	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	positivo	positivo	AQ0MS0	C1446409	calificador	152-160	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	(	(	Fpa	-	-	161-162	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	12	12	Z	-	-	162-164	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	mm	mm	NCMN000	-	-	165-167	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	)	)	Fpt	-	-	167-168	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	.	.	Fp	-	-	168-169	469_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Entre	entre	SPS00	C0205103	calificador	170-175	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	sus	su	DP3CP0	-	-	176-179	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	antecedentes	antecedente	NCMP000	-	-	180-192	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	193-200	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	estar	estar	VAN0000	-	-	201-206	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	207-209	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	210-221	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	222-225	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	anticoagulantes	anticoagulante	NCMP000	C0354604_1	producto_1	226-241	469_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+10	orales	orar	VMM02S0	C0354604_2	producto_2	242-248	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	(	(	Fpa	-	-	249-250	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	250-262	469_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+13	)	)	Fpt	-	-	262-263	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	por	por	SPS00	C0678226	atributo	264-267	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	268-271	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	trombosis	trombosis	NCFN000	C0149871_1	trastorno_1	272-281	469_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+17	venosa	venoso	AQ0FS0	C0149871_2	trastorno_2	282-288	469_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	16	2575	LOC
+18	profunda	profundo	AQ0FS0	C0149871_3	trastorno_3	289-297	469_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	16	2575	Modif
+19	hace	hacer	VMIP3S0	-	-	298-302	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	unos	uno	DI0MP0	C0205447	calificador	303-307	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	meses	mes	NCMP000	C0439231	calificador	308-313	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	.	.	Fp	-	-	313-314	469_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	315-317	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	refiere	referir	VMIP3S0	-	-	318-325	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	fiebre	fiebre	NCFS000	C0015967	hallazgo	326-332	469_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion	-	-	-
+4	ni	ni	CC	-	-	333-335	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	336-339	469_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion	-	-	-
+6	y	y	CC	C1706368	calificador	340-341	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	se	se	P00CN000	-	-	342-344	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	encuentra	encontrar	VMIP3S0	-	-	345-354	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	asintomático	asintomático	AQ0MS0	-	-	355-367	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	367-368	469_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	369-371	469_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	372-374	469_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	375-377	469_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	378-383	469_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+5	es	ser	VSIP3S0	-	-	384-386	469_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	normal	normal	AQ0CS0	C0205307	calificador	387-393	469_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	.	.	Fp	-	-	393-394	469_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	395-396	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	396-400	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	401-403	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	los	el	DA0MP0	-	-	404-407	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	408-418	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	419-431	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	432-434	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	el	el	DA0MS0	C0205393_1	calificador_1	435-437	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	más	más	RG	C0205393_2	calificador_2	438-441	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	recomendable	recomendable	AQ0CS0	-	-	442-454	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	?	?	Fit	-	-	454-455	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	:	:	Fd	-	-	455-456	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	.	.	Fp	-	-	456-457	469_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

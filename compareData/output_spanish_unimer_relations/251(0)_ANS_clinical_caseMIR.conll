@@ -1,0 +1,43 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	3-5	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	6-16	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	inicial	inicial	AQ0CS0	C0205265	calificador	17-24	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	está	estar	VAIP3S0	-	-	25-29	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	indicado	indicar	VMP00SM	-	-	30-38	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	aplicar	aplicar	VMN0000	C1632850	calificador	39-46	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	47-50	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	terapéutica	terapéutica	NCFS000	-	-	51-62	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	endoscópica	endoscópico	AQ0FS0	C0442418	calificador	63-74	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	75-76	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	posteriormente	posteriormente	RG	-	-	77-91	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	instaurar	instaurar	VMN0000	-	-	92-101	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	102-113	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	endovenoso	endovenoso	AQ0MS0	-	-	114-124	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	125-128	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	dosis	dosis	NCFN000	-	-	129-134	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	altas	alto	AQ0FP0	C0205250	calificador	135-140	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	141-143	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	144-146	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	inhibidor	inhibidor	NCMS000	C0358591_1	producto#sustancia_1	147-156	251(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+22	de	de	SPS00	C0358591_2	producto#sustancia_2	157-159	251(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	21	60	MultiE
+23	la	lo	PP3FSA00	C0358591_3	producto#sustancia_3	160-162	251(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	21	60	MultiE
+24	bomba	bombo	AQ0FS0	C0358591_4	producto#sustancia_4	163-168	251(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	21	60	MultiE
+25	de	de	SPS00	C0358591_5	producto#sustancia_5	169-171	251(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	21	60	MultiE
+26	protones	protón	NCMP000	C0358591_6	producto#sustancia_6	172-180	251(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	21	60	MultiE
+27	.	.	Fp	-	-	180-181	251(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Esta	este	DD0FS0	-	-	182-186	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	estrategia	estrategia	NCFS000	-	-	187-197	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ha	haber	VAIP3S0	-	-	198-200	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	demostrado	demostrar	VMP00SM	-	-	201-211	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	reducir	reducir	VMN0000	-	-	212-219	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	el	el	DA0MS0	-	-	220-222	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	riesgo	riesgo	NCMS000	C1320679_1	hallazgo_1	223-229	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C1320679_2	hallazgo_2	230-232	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	recidiva	recidivar	VMM02S0	C1320679_3	hallazgo_3	233-241	251(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	hemorrágica	hemorrágico	AQ0FS0	C0333275	calificador	242-253	251(0)_ANS_clinical_caseMIR	SENT2	B-Calificador	-	9	935	LOC
+11	y	y	CC	C1706368	calificador	254-255	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	la	el	DA0FS0	-	-	256-258	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	mortalidad	mortalidad	NCFS000	-	-	259-269	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	.	.	Fp	-	-	270-271	251(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

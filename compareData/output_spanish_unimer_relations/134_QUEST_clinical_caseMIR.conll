@@ -1,0 +1,43 @@
+1	Nos	nos	PP1CP000	-	-	0-3	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	consulta	consultar	VMIP3S0	-	-	4-12	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	13-16	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	17-22	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	23-25	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	84	84		-	-	26-28	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	años	año	NCMP000	C0439234	calificador	29-33	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	33-34	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	35-38	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	insomnio	insomnio	NCMS000	C0393760_1	trastorno_1	39-47	134_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	de	de	SPS00	C0393760_2	trastorno_2	48-50	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	conciliación	conciliación	NCFS000	C0393760_3	trastorno_3	51-63	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	.	.	Fp	-	-	63-64	134_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	65-69	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	fracasar	fracasar	VMN0000	-	-	70-78	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	a	a	SPS00	-	-	79-80	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	medidas	medida	NCFP000	C0079809	atributo	81-88	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	89-91	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	higuiene	higuiene	VMIP3S0	-	-	92-100	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	del	del	SP+DA	-	-	101-104	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	sueño	sueño	NCMS000	C0037313	entidad_observable	105-110	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	,	,	Fc	-	-	110-111	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	se	se	P00CN000	-	-	112-114	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	decide	decidir	VMIP3S0	-	-	115-121	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	iniciar	iniciar	VMN0000	-	-	122-129	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	tratamiento	tratamiento	NCMS000	C0013216_1	procedimiento_1	130-141	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	farmacológico	farmacológico	NC00SC0	C0013216_2	procedimiento_2	142-155	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	155-156	134_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	157-158	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	158-162	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	163-165	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	los	el	DA0MP0	-	-	166-169	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	170-180	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	fármacos	fármaco	NCMP000	C0013227	sustancia	181-189	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	selecionaría	selecionaría	VMIC3S0	-	-	190-202	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	203-207	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	la	el	DA0FS0	-	-	208-210	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	paciente	paciente	NCCS000	C0030705	persona	211-219	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	?	?	Fit	-	-	219-220	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	.	.	Fp	-	-	220-221	134_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

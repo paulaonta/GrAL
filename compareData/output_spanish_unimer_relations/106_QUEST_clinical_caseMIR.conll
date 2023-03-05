@@ -1,0 +1,43 @@
+1	Médico	médico	AQ0MS0	C0205476#C0031831	calificador#ocupación	0-6	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	traumatólogo	traumatólogo	NCMS000	-	-	7-19	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	20-22	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	40	40		-	-	23-25	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	26-30	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	que	que	PR0CN000	-	-	31-34	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	35-37	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	38-41	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	serología	serología	NCFS000	-	-	42-51	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	rutinaria	rutinario	AQ0FS0	-	-	52-61	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	se	se	P00CN000	-	-	62-64	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	65-67	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	detecta	detectar	VMIP3S0	-	-	68-75	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	niveles	nivel	NCMP000	C0456079	atributo	76-83	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	84-86	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	antiHBs	antihemoglobina_s,_de_la_anemia_drepanocítica_o_falciforme	NC00YL0	-	-	87-94	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	95-97	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	30	30		-	-	98-100	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	UI	ui	NC00SC0	C0439453	calificador	101-103	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	/	/	Fh	-	-	103-104	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	l	l	NCFS000	-	-	104-105	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	.	.	Fp	-	-	105-106	106_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	107-114	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	vacunación	vacunación	NCFS000	C0205991#C0042196	procedimiento	115-125	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	126-134	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	según	según	SPS00	-	-	135-140	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	pauta	pauta	NCFS000	-	-	141-146	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	estándar	estándar	AQ0CS0	-	-	147-155	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	156-162	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	a	a	SPS00	-	-	163-164	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	hepatitis	hepatitis	NCFN000	C0019163_1	trastorno_1	165-174	106_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	B	b	NCFS000	C0019163_2	trastorno_2	175-176	106_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	9	1035	Modif
+11	hace	hacer	VMIP3S0	-	-	177-181	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	4	4		-	-	182-183	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	184-188	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	.	.	Fp	-	-	188-189	106_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Sería	ser	VSIC1S0	-	-	190-195	106_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	recomendable	recomendable	AQ0CS0	-	-	196-208	106_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	:	:	Fd	-	-	208-209	106_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	.	.	Fp	-	-	209-210	106_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

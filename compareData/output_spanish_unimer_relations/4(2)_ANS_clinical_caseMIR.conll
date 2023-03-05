@@ -1,0 +1,29 @@
+1	Endoscopias	endoscopia	NCFP000	C0014245	procedimiento	0-11	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	12-14	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	15-25	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	periódicas	periódico	AQ0FP0	C0332182	calificador	26-36	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	37-38	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	39-50	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	51-54	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	IBP	ibuprofeno	NC00YL0	C0020740	sustancia	55-58	4(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+9	durante	durante	SPS00	C1444752#C0347984	atributo	59-66	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	menos	menos	RG	C0332288	atributo	67-72	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	73-75	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	12	12		-	-	76-78	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	semanas	semana	NCFP000	C0439230	calificador	79-86	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	ya	ya	RG	-	-	87-89	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	que	que	PR0CN000	-	-	90-93	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	tratamientos	tratamiento	NCMP000	C1273870#C0087111	procedimiento#régimen/tratamiento	94-106	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	prolongados	prolongar	VMP00PM	-	-	107-118	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	se	se	P00CN000	-	-	119-121	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	asocian	asociar	VMIP3P0	-	-	122-129	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	a	a	SPS00	-	-	130-131	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	un	un		C0205447_1	calificador_1	132-134	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	alto	alto	NCMS000	C0205250	calificador	135-139	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	riesgo	riesgo	NCMS000	-	-	140-146	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	147-149	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	desarrollo	desarrollo	NCMS000	-	-	150-160	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	161-163	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+27	gastrinoma	gastrinoma	NC00SC0	C0017150	trastorno#anomalía_morfológica	164-174	4(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	.	.	Fp	-	-	175-176	4(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

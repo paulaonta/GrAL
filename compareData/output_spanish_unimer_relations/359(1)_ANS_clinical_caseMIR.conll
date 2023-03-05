@@ -1,0 +1,23 @@
+1	Se	se	P00CN000	-	-	0-2	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	realizará	realizar	VMIF3S0	-	-	3-12	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	13-24	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	25-33	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	34-37	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	38-49	359(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+7	intramuscular	intramuscular	AQ0CS0	C0442117	calificador	50-63	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	64-65	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	azitromicina	azitromicina	NC00SC0	C0052796	producto#sustancia	66-78	359(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+10	vía	vía	NCFS000	C1527415_1	calificador_1	79-82	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	oral	oral	NC00SC0	C1527415_2	calificador_2	83-87	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	88-90	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	dosis	dosis	NCFN000	-	-	91-96	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	únicas	único	AQ0FP0	C0205171	calificador	97-103	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	,	,	Fc	-	-	103-104	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	105-107	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	espera	esperar	VMM02S0	-	-	108-114	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	115-117	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	los	el	DA0MP0	-	-	118-121	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	122-132	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	microbiológicos	microbiológico	AQ0MP0	-	-	133-148	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	.	.	Fp	-	-	149-150	359(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

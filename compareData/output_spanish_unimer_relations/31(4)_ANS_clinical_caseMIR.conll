@@ -1,0 +1,25 @@
+1	Punción	punción	NCFS000	C0037943#C0553794_1	procedimiento_1	0-7	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	lumbar	lumbar	NC00SC0	C0037943#C0553794_2	procedimiento_2	8-14	31(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	para	para	SPS00	C0521125	calificador	15-19	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	descartar	descartar	VMN0000	C0332196	calificador	20-29	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	meningitis	meningitis	NCFN000	C0085437_1	trastorno_1	30-40	31(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+6	bacteriana	bacteriano	AQ0FS0	C0085437_2	trastorno_2	41-51	31(4)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	2113	Modif
+7	previo	previo	AQ0MS0	C0205156	calificador	52-58	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	inicio	inicio	NCMS000	C0332162_1	calificador_1	59-65	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332162_2	calificador_2	66-68	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	antibioterapia	antibioterapia	NCFS000	-	-	69-83	31(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+11	empírica	empírico	AQ0FS0	-	-	84-92	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	.	.	Fp	-	-	92-93	31(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	94-97	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	vez	vez	NCFS000	-	-	98-101	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	estabilizada	estabilizar	VMP00SF	-	-	102-114	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	115-117	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	paciente	paciente	AQ0CS0	C0030705	persona	118-126	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	estudio	estudio	NCMS000	C0557651	medio_ambiente	127-134	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	135-137	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	la	el	DA0FS0	-	-	138-140	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	141-145	31(4)_ANS_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	selar	selar	AQ0CS00	-	-	146-151	31(4)_ANS_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	2114	LOC
+11	.	.	Fp	-	-	152-153	31(4)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

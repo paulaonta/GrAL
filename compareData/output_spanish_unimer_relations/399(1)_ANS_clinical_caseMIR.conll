@@ -1,0 +1,18 @@
+1	Los	el	DA0MP0	-	-	0-3	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	datos	dato	NCMP000	-	-	4-9	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	aportados	aportar	VMP00PM	-	-	10-19	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	indican	indicar	VMIP3P0	-	-	20-27	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	miocardiopatía	miocardiopatía	NCFS000	C0007194_1	trastorno_1	28-42	399(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	hipertrófica	hipertrófico	AQ0FS0	C0007194_2	trastorno_2	43-55	399(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	1436	Modif
+7	con	con	SPS00	C0332287	atributo	56-59	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	obstrucción	obstrucción	NCFS000	C0028778	anomalía_morfológica	60-71	399(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	grave	grave	AQ0CS0	C0439808#C0205082	calificador	72-77	399(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	8	1436	Modif
+10	del	del	SP+DA	-	-	78-81	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	tracto	tracto	NCMS000	-	-	82-88	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	89-91	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	salida	salida	NCFS000	C0337094	calificador	92-98	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	99-101	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	ventrículo	ventrículo	NCMS000	C0225897#C1269892_1	estructura_corporal_1	102-112	399(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	1436	LOC
+16	izquierdo	izquierdo	NC00SC0	C0225897#C1269892_2	estructura_corporal_2	113-122	399(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	15	170	MultiE
+17	.	.	Fp	-	-	123-124	399(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,102 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	52	52		-	-	10-12	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	al	al	SP+DA	-	-	28-30	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	servicio	servicio	NCMS000	-	-	31-39	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Urgencias	urgencia	NCFP000	C0439609	calificador	43-52	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	53-56	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cefalea	cefalea	NCFS000	C0018681	hallazgo	57-64	321_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	y	y	CC	C1706368	calificador	65-66	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	fiebre	fiebre	NCFS000	C0015967	hallazgo	67-73	321_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	(	(	Fpa	-	-	74-75	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	37,8°C	37,8°C		-	-	75-81	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	)	)	Fpt	-	-	81-82	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	83-85	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	2	2		-	-	86-87	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	dias	dias	NCFP000	-	-	88-92	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	93-95	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	evolución	evolución	NCFS000	-	-	96-105	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	.	.	Fp	-	-	105-106	321_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	107-109	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	las	el	DA0FP0	-	-	110-113	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	últimas	último	AO0FP0	-	-	114-121	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	horas	hora	NCFP000	C0040223#C0439227	calificador	122-127	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	asocia	asociar	VMIP3S0	-	-	128-134	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	además	además	RG	-	-	135-141	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	diticultad	diticultad	NCFS000	-	-	142-152	321_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	153-157	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	la	el	DA0FS0	-	-	158-160	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	nominación	nominación	NCFS000	-	-	161-171	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	172-173	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	comprensión	comprensión	NCFS000	C0162340	entidad_observable	174-185	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	.	.	Fp	-	-	185-186	321_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	187-189	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	190-192	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	193-204	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	realizada	realizar	VMP00SF	-	-	205-214	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	no	no	RN	C1298908	calificador	215-217	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	se	se	P00CN000	-	-	218-220	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	observa	observar	VMIP3S0	-	-	221-228	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	rigidez	rigidez	NCFS000	C1320474#C0151315_1	hallazgo_1	229-236	321_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+9	de	de	SPS00	C1320474#C0151315_2	hallazgo_2	237-239	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	nuca	nuca	NCFS000	C1320474#C0151315_3	hallazgo_3	240-244	321_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	224	LOC
+11	siendo	ser	VSG0000	-	-	245-251	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	lo	el	DA0NS0	-	-	252-254	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	más	más	RG	C0205172	calificador	255-258	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	llamativo	llamativo	AQ0MS0	-	-	259-268	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	la	el	DA0FS0	-	-	269-271	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	272-281	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0150312_2	calificador_2	282-284	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	una	una		C0205447_1	calificador_1	285-288	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	afasia	afasia	NCFS000	C0003537	hallazgo	289-295	321_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+20	mixta	mixto	AQ0FS0	C0205430	calificador	296-301	321_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	19	224	Modif
+21	,	,	Fc	-	-	301-302	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	El	el	DA0MS0	-	-	303-305	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	fondo	fondo	NCMS000	C0016823#C1284756#C0029090_1	estructura_corporal#procedimiento_1	306-311	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	de	de	SPS00	C0016823#C1284756#C0029090_2	estructura_corporal#procedimiento_2	312-314	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	ojo	ojo	NCMS000	C0016823#C1284756#C0029090_3	estructura_corporal#procedimiento_3	315-318	321_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	19	224	LOC
+26	es	ser	VSIP3S0	-	-	319-321	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	normal	normal	AQ0CS0	C0205307	calificador	322-328	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	.	.	Fp	-	-	328-329	321_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	330-332	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	333-335	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	336-343	321_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+4	muestra	mostrar	VMIP3S0	-	-	344-351	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	352-355	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	tenue	tenue	AQ0CS0	-	-	356-361	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	hipodensidad	hipodensidad	NCFS000	-	-	362-374	321_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	375-377	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	lóbulo	lóbulo	NCMS000	C0228233_1	estructura_corporal_1	378-384	321_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	15	225,7	LOC,225
+10	temporal	temporal	NCMS000	C0228233_2	estructura_corporal_2	385-393	321_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	9	74	MultiE
+11	izquierdo	izquierdo	NC00SC0	C0228233_3	estructura_corporal_3	394-403	321_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	9	74	MultiE
+12	sin	sin	SPS00	C1301751_1	calificador_1	404-407	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	efecto	efecto	NCMS000	C1301751_2	calificador_2	408-414	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	415-417	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	418-422	321_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+16	y	y	CC	C1706368	calificador	423-424	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	sin	sin	SPS00	C0332288	atributo	425-428	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	captación	captación	NCFS000	-	-	429-438	321_QUEST_clinical_caseMIR	SENT4	-	Negacion	-	-	-
+19	de	de	SPS00	C0332285	atributo	439-441	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	contraste	contraste	NCMS000	-	-	442-451	321_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+21	.	.	Fp	-	-	451-452	321_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	453-454	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	454-458	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	459-461	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	las	el	DA0FP0	-	-	462-465	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	466-476	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	477-489	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	490-492	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	la	el	DA0FS0	-	-	493-495	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	correcta	correcto	AQ0FS0	C0205170	calificador	496-504	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	?	?	Fit	-	-	504-505	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	:	:	Fd	-	-	505-506	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	.	.	Fp	-	-	506-507	321_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

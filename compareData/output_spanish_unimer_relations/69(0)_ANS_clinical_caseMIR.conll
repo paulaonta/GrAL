@@ -1,0 +1,15 @@
+1	Recomendar	recomendar	VMN0000	-	-	0-10	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	reposo	reposo	NCMS000	-	-	11-17	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	relativo	relativo	AQ0MS0	C0205345	calificador	18-26	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	27-28	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	paños	paño	NCMP000	-	-	29-34	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	calientes	caliente	AQ0CP0	C0444519	calificador	35-44	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	45-47	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	ambas	ambos	PI0FP000	C0230446_1	estructura_corporal_1	48-53	69(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+9	piernas	pierna	NCFP000	C0230446_2	estructura_corporal_2	54-61	69(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	8	97	MultiE
+10	y	y	CC	C1706368	calificador	62-63	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	añadir	añadir	VMN0000	-	-	64-70	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	71-82	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	antidepresivo	antidepresivo	NCMS000	C0003289	sustancia	83-96	69(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+14	.	.	Fp	-	-	97-98	69(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

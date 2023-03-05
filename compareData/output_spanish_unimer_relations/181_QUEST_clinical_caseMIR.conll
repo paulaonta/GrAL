@@ -1,0 +1,45 @@
+1	Ante	ante	SPS00	-	-	0-4	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	5-7	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	8-16	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	que	que	PR0CN000	-	-	17-20	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	presenta	presentar	VMIP3S0	-	-	21-29	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	problemas	problema	NCMP000	C0033213	hallazgo	30-39	181_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	40-44	181_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	54	Modif
+8	la	el	DA0FS0	-	-	45-47	181_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	7	50	MultiE
+9	comprensión	comprensión	NCFS000	C0233733_1	función_1	48-59	181_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	7	50	MultiE
+10	del	del	SP+DA	C0233733_2	función_2	60-63	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	lenguaje	lenguaje	NCMS000	C0233733_3	función_3	64-72	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	tanto	tanto	RG	-	-	73-78	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hablado	hablar	VMP00SM	C0234856	entidad_observable	79-86	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	como	como	CS	C0332257	calificador	87-91	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	escrito	escrito	NCMS000	-	-	92-99	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	,	,	Fc	-	-	99-100	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	incapacidad	incapacidad	NCFS000	C0231172	hallazgo	101-112	181_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	para	para	SPS00	C0521125	calificador	113-117	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	denominar	denominar	VMN0000	-	-	118-127	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	objetos	objeto	NCMP000	C0347997	atributo	128-135	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	136-137	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	repetir	repetir	VMN0000	C0205341	calificador	138-145	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	palabras	palabra	NCFP000	-	-	146-154	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	que	que	PR0CN000	-	-	155-158	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	se	se	P00CN000	-	-	159-161	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	162-164	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	dicen	decir	VMIP3P0	-	-	165-170	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	,	,	Fc	-	-	170-171	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	habla	hablar	VMIP3S0	C0234856	entidad_observable	172-177	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	fluída	fluída	NCFS000	-	-	178-184	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	incomprensible	incomprensible	AQ0CS0	-	-	185-199	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	con	con	SPS00	C0332287	atributo	200-203	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	parafasias	parafasia	NCFP000	C0234488	hallazgo	204-214	181_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+34	semánticas	semántico	AQ0FP0	-	-	215-225	181_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	33	54	Modif
+35	y	y	CC	C1706368	calificador	226-227	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	fonémicas	fonémico	AQ0FP0	-	-	228-237	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	.	.	Fp	-	-	237-238	181_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	239-241	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	242-247	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	248-250	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	251-254	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	:	:	Fd	-	-	254-255	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	.	.	Fp	-	-	255-256	181_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

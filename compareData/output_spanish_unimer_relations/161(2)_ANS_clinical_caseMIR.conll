@@ -1,0 +1,35 @@
+1	El	el	DA0MS0	-	-	0-2	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hemograma	hemograma	NCMS000	C0009555_1	procedimiento_1	3-12	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	completo	completo	NC00SC0	C0009555_2	procedimiento_2	13-21	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	muestra	mostrar	VMIP3S0	-	-	22-29	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	trombocitopenia	trombocitopenia	NC00SC0	C0040034_1	trastorno#hallazgo_1	30-45	161(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	aislada	aislar	VMP00SF	-	-	46-53	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	54-57	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	58-67	161(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+9	a	a	SPS00	-	-	68-69	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	menudo	menudo	NCMS000	-	-	70-76	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	gran	gran	NC00SC0	C0549177	calificador	77-81	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	­	­	Fz	-	-	81-82	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	des	d	NCFP000	-	-	82-85	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	,	,	Fc	-	-	85-86	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	sin	sin	SPS00	C0332288	atributo	87-90	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	91-97	161(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+17	salvo	salvo	SPS00	-	-	98-103	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	que	que	CS	-	-	104-107	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	exista	existir	VMSP3S0	-	-	108-114	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	una	una		C0205447_1	calificador_1	115-118	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	hemo	hemo	NCMS000	C0018966	sustancia	119-123	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	­	­	Fz	-	-	123-124	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	rragia	rragia	NCFS000	-	-	124-130	161(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	importante	importante	AQ0CS0	-	-	131-141	161(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	23	3510	Modif
+25	o	o	CC	-	-	142-143	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	hemólisis	hemólisis	NCFN000	C2945560#C2937287	hallazgo#atributo#entidad_observable	144-153	161(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	autoinmune	autoinmune	AQ0CS0	-	-	154-164	161(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	26	3510	Modif
+28	asociada	asociar	VMP00SF	-	-	165-173	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+29	(	(	Fpa	-	-	174-175	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+30	síndrome	síndrome	NCMS000	C0272126_1	trastorno_1	175-183	161(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	de	de	SPS00	C0272126_2	trastorno_2	184-186	161(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	30	716	MultiE
+32	Evans	Evans		C0272126_3	trastorno_3	187-192	161(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	30	716	MultiE
+33	)	)	Fpt	-	-	192-193	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+34	.	.	Fp	-	-	194-195	161(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

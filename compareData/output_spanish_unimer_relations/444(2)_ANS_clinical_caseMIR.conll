@@ -1,0 +1,9 @@
+1	Infección	infección	NCFS000	C0009450	trastorno	0-9	444(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	10-13	444(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	virus	virus	NCMN000	C0042776	organismo	14-19	444(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	2299	Causada_por
+4	herpes	herpes	NCMN000	-	-	20-26	444(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	3	68	MultiE
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	27-29	444(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	paciente	paciente	NCCS000	C0085393_1	hallazgo_1	30-38	444(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	inmunodeprimido	inmunodeprimido		C0085393_2	hallazgo_2	39-54	444(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	.	.	Fp	-	-	55-56	444(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

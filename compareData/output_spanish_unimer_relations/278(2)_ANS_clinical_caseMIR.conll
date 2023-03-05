@@ -1,0 +1,16 @@
+1	Fractura	fractura	NCFS000	C0016658	anomalía_morfológica	0-8	278(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	278(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	la	el	DA0FS0	-	-	12-14	278(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	pared	pared	NCFS000	C1284872#C0230059_1	estructura_corporal_1	15-20	278(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	2916	LOC
+5	superior	superior	NCMS000	C1284872#C0230059_2	estructura_corporal_2	21-29	278(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	93	MultiE
+6	de	de	SPS00	C1284872#C0230059_3	estructura_corporal_3	30-32	278(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	93	MultiE
+7	la	lo	PP3FSA00	C1284872#C0230059_4	estructura_corporal_4	33-35	278(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	93	MultiE
+8	órbita	órbita	NCFS000	C1284872#C0230059_5	estructura_corporal_5	36-42	278(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	93	MultiE
+9	con	con	SPS00	C0332287	atributo	43-46	278(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	atrapamiento	atrapamiento	NC00SC0	C1285497#C0231617	anomalía_morfológica#hallazgo	47-59	278(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	del	del	SP+DA	-	-	60-63	278(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	músculo	músculo	NCMS000	C0582818_1	estructura_corporal_1	64-71	278(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	2916	LOC
+13	recto	recto	NCMS000	C0582818_2	estructura_corporal_2	72-77	278(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	12	89	MultiE
+14	superior	superior	NCMS000	C0582818_3	estructura_corporal_3	78-86	278(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	12	89	MultiE
+15	.	.	Fp	-	-	87-88	278(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,7 @@
+1	Tumor	tumor	NCMS000	C1306459#C0936282#C0006826_1	anomalía_morfológica#trastorno_1	0-5	340(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	maligno	maligno	NCMS000	C1306459#C0936282#C0006826_2	anomalía_morfológica#trastorno_2	6-13	340(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	2953	Modif
+3	del	del	SP+DA	-	-	14-17	340(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	cuerpo	cuerpo	NCMS000	C1284165#C0223084_1	estructura_corporal_1	18-24	340(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	2953	LOC
+5	vertebral	vertebral	AQ0CS0	C1284165#C0223084_2	estructura_corporal_2	25-34	340(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	93	MultiE
+6	.	.	Fp	-	-	35-36	340(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

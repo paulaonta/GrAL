@@ -1,0 +1,49 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	10	10		-	-	8-10	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	11-15	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	16-19	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	episodios	episodio	NCMP000	C0332189	atributo	20-29	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	breves	breve	AQ0CP0	C1879313#C1806781#C1282927	calificador	30-36	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	37-39	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	distracciones	distracción	NCFP000	C0424537#C1369038	hallazgo#procedimiento	40-53	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	(	(	Fpa	-	-	54-55	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	<	<	Fz	-	-	55-56	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	1	1	Z	-	-	57-58	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	minuto	min	NCMS000	-	-	59-65	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	)	)	Fpt	-	-	65-66	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	los	el	DA0MP0	-	-	70-73	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	que	que	PR0CN000	-	-	74-77	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	no	no	RN	C1298908	calificador	78-80	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	responde	responder	VMIP3S0	-	-	81-89	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	a	a	SPS00	-	-	90-91	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	llamadas	llamada	NCFP000	-	-	92-100	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	y	y	CC	C1706368	calificador	101-102	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	parpadea	parpadear	VMIP3S0	-	-	103-111	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	111-112	171_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	113-115	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	EEG	electroencefalograma	NC00YL0	C0013819	procedimiento	116-119	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	120-127	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	descargas	descarga	NCFP000	-	-	128-137	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	punta-onda	punta-onda	NCFS000	-	-	138-148	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	a	a	SPS00	-	-	149-150	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	3	3		-	-	151-152	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	ciclos	ciclo	NCMP000	-	-	153-159	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	por	por	SPS00	C0565930_1	calificador_1	160-163	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	segundo	segundo	NCMS000	C0565930_2	calificador_2	164-171	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	171-172	171_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	173-175	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	176-187	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	electivo	electivo	AQ0MS0	C0439608	calificador	188-196	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	197-199	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	primera	primero	NCFS000	C1279901#C0205435	calificador	200-207	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	línea	líneo	AQ0FS0	-	-	208-213	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	lo	lo	PP3CNA00	-	-	214-216	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	haría	hacer	VMIC3S0	-	-	217-222	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	223-226	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	:	:	Fd	-	-	226-227	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	227-228	171_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

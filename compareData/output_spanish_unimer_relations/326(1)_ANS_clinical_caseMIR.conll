@@ -1,0 +1,15 @@
+1	Los	el	DA0MP0	-	-	0-3	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	corticoides	corticoide	AQ0CP0	-	-	4-15	326(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+3	vía	vía	NCFS000	C1527415_1	calificador_1	16-19	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	oral	oral	NC00SC0	C1527415_2	calificador_2	20-24	326(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	son	ser	VSIP3P0	-	-	25-28	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	29-31	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	elección	elección	NCFS000	-	-	32-40	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	41-43	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	el	el	DA0MS0	-	-	44-46	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	47-58	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	59-61	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	la	el	DA0FS0	-	-	62-64	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	65-73	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	.	.	Fp	-	-	74-75	326(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

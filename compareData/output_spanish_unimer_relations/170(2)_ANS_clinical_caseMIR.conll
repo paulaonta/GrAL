@@ -1,0 +1,18 @@
+1	No	no	RN	C1298908	calificador	0-2	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	precisa	precisar	VMIP3S0	-	-	3-10	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	descartar	descartar	VMN0000	C0332196	calificador	11-20	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	dislipemia	dislipemia	NCFS000	-	-	21-31	170(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+5	secundaria	secundario	AQ0FS0	C0175668	calificador	32-42	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	por	por	SPS00	C0678226	atributo	43-46	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ser	ser	VSN0000	-	-	47-50	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	infrecuente	infrecuente	AQ0CS0	C0522498#C0521114	calificador	51-62	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	.	.	Fp	-	-	62-63	170(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	64-66	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	debe	deber	VMIP3S0	-	-	67-71	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	realizar	realizar	VMN0000	-	-	72-80	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	perfil	perfil	NCMS000	-	-	81-87	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	lipídico	lipídico	AQ0MS0	-	-	88-96	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	familiar	familiar	AQ0CS0	C0080103#C0241888	persona#calificador	97-105	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	.	.	Fp	-	-	106-107	170(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

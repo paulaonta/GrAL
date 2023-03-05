@@ -1,0 +1,106 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	35	35		-	-	9-11	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	sana	sanar	VMIP3S0	-	-	17-21	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	que	que	CS	-	-	22-25	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	consulta	consultar	VMM02S0	C1704447_1	calificador_1	26-34	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	por	por	SPS00	C1704447_2	calificador_2	35-38	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	39-46	99_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	.	.	Fp	-	-	46-47	99_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	48-50	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	el	el	DA0MS0	-	-	51-53	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hemograma	hemograma	NCMS000	C0200631	procedimiento	54-63	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	64-72	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	anemia	anemia	NCFS000	C0085576_1	trastorno_1	73-79	99_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	microcítica	microcítico	AQ0FS0	C0085576_2	trastorno_2	80-91	99_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	5	3837	Modif
+7	e	y	CC	C1706368	calificador	92-93	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	hipocroma	hipocroma	NCFS000	-	-	94-103	99_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	(	(	Fpa	-	-	104-105	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	105-116	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	117-119	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	7	7	Z	-	-	120-121	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	gr	g	NC00SC0	-	-	122-124	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	/	/	Fh	-	-	124-125	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	dl	decilitro	NCMN000	C0439241	calificador	125-127	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	,	,	Fc	-	-	127-128	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	volumen	volumen	NCMS000	C0449468#C0178733	calificador#hallazgo	129-136	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	corpuscular	corpuscular	AQ0CS0	-	-	137-148	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	149-154	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	155-157	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	68	68		-	-	158-160	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	fl	fl	NC00SC0	C0475213	calificador	161-163	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	,	,	Fc	-	-	163-164	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	hemoglobina	hemoglobina	NCFS000	C1261502_1	entidad_observable_1	165-176	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	corpuscular	corpuscular	AQ0CS0	C1261502_2	entidad_observable_2	177-188	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	media	medio	PI0FS000	C1261502_3	entidad_observable_3	189-194	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	195-197	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	24	24		-	-	198-200	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	pg	picogramo	NC00YL0	C0439213	calificador	201-203	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	)	)	Fpt	-	-	203-204	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	con	con	SPS00	C0332287	atributo	205-208	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	una	una		C0205447_1	calificador_1	209-212	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	amplitud	amplitud	NCFS000	-	-	213-221	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	de	de	SPS00	C0332285	atributo	222-224	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	distribucion	distribucion	NCFS000	-	-	225-237	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	eritrocitaria	eritrocitaria	AQ0FS00	-	-	238-251	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	elevada	elevar	VMP00SF	-	-	252-259	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	(	(	Fpa	-	-	260-261	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	ADE	adir	VMIP3S0	-	-	261-264	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	20	20	Z	-	-	265-267	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	%	%	Ft	-	-	267-268	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	)	)	Fpt	-	-	268-269	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	,	,	Fc	-	-	269-270	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	reticulocitos	reticulocito	NCMP000	C0035286	célula	271-284	99_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+45	disminuidos	disminuir	VMP00PM	-	-	285-296	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+46	(	(	Fpa	-	-	297-298	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+47	0.3	0.3	Z	-	-	298-301	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+48	%	%	Ft	-	-	301-302	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+49	,	,	Fc	-	-	302-303	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+50	30000/l	30000/l		-	-	304-311	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+51	absolutos	absoluto	NCMP000	C0205344	calificador	312-321	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+52	)	)	Fpt	-	-	321-322	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+53	,	,	Fc	-	-	322-323	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+54	contenido	contenido	NCMS000	C0456205	atributo	324-333	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+55	de	de	SPS00	C0332285	atributo	334-336	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+56	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	337-348	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+57	disminuido	disminuir	VMP00SM	-	-	349-359	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+58	en	en	SPS00	C1720294#C0332285	calificador#atributo	360-362	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+59	los	el	DA0MP0	-	-	363-366	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+60	reticulocitos	reticulocito	NCMP000	C0035286	célula	367-380	99_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+61	(	(	Fpa	-	-	381-382	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+62	17	17		-	-	382-384	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+63	pg	picogramo	NC00YL0	C0439213	calificador	385-387	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+64	)	)	Fpt	-	-	387-388	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+65	y	y	CC	C1706368	calificador	389-390	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+66	discreta	discreto	AQ0FS0	-	-	391-399	99_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	67	3837	Modif
+67	trombocitosis	trombocitosis	NCFN000	C0836924_1	hallazgo#trastorno_1	400-413	99_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+68	(	(	Fpa	-	-	414-415	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+69	500000	500000		-	-	415-421	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+70	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	422-431	99_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+71	)	)	Fpt	-	-	431-432	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+72	.	.	Fp	-	-	432-433	99_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Con	con	SPS00	C0332287	atributo	434-437	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	los	el	DA0MP0	-	-	438-441	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	datos	dato	NCMP000	-	-	442-447	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	del	del	SP+DA	-	-	448-451	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	hemograma	hemograma	NCMS000	C0200631	procedimiento	452-461	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	,	,	Fc	-	-	461-462	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	¿	¿	Fia	-	-	463-464	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	cuál	cuál	PT0CS000	-	-	464-468	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	sería	ser	VSIC1S0	-	-	469-474	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	su	su	DP3CS0	-	-	475-477	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	478-486	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	487-498	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	aún	aun	RG	-	-	499-502	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	sin	sin	SPS00	C0332288	atributo	503-506	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	tener	tener	VMN0000	-	-	507-512	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	la	el	DA0FS0	-	-	513-515	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	516-526	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	del	del	SP+DA	-	-	527-530	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	paciente	paciente	NCCS000	C0030705	persona	531-539	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	?	?	Fit	-	-	539-540	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	.	.	Fp	-	-	540-541	99_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

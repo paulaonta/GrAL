@@ -1,0 +1,25 @@
+1	Heparina	heparina	NCFS000	C0019134_1	sustancia_1	0-8	65(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	no	no	RN	C0019134_2	sustancia_2	9-11	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	fraccionada	fraccionar	VMP00SF	C0019134_3	sustancia_3	12-23	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	,	,	Fc	-	-	23-24	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	10.000U	10.000U		-	-	25-32	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	iv	iv	NC00SC0	C1522726	calificador	33-35	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ante	ante	SPS00	-	-	36-40	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	la	el	DA0FS0	-	-	41-43	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	sospecha	sospecha	NCFS000	C0750491	calificador	44-52	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	clínica	clínico	AQ0FS0	C0205210	calificador	53-60	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	.	.	Fp	-	-	60-61	65(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Fibrinolisis	fibrinolisis	NCFN000	-	-	62-74	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	75-78	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	tPA	tissue_plasminogen_activator_(activador_del_plasminógeno_tisular)	NC00YL0	-	-	79-82	65(0)_ANS_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+4	100	100	Z	-	-	83-86	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	mg	mg	NCMN000	-	-	87-89	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	iv	iv	NC00SC0	C1522726	calificador	90-92	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	93-96	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	vez	vez	NCFS000	-	-	97-100	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	confirmado	confirmar	VMP00SM	-	-	101-111	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	el	el	DA0MS0	-	-	112-114	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	115-126	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	.	.	Fp	-	-	127-128	65(0)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

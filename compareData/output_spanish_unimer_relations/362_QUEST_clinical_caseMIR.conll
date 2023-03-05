@@ -1,0 +1,62 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	85	85		-	-	10-12	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	portador	portador	AQ0MS0	C0560175	hallazgo	18-26	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	27-29	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	catéter	catéter	NCMS000	C0085590	objeto_físico	30-37	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	venosa	venoso	AQ0FS0	C0348013	calificador	38-44	362_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+9	periférico	periférico	NCMS000	C0205100	calificador	45-55	362_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	8	97	MultiE
+10	que	que	PR0CN000	-	-	56-59	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	,	,	Fc	-	-	59-60	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	61-64	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	semana	semana	NCFS000	C0439230	calificador	65-71	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	después	después	RG	C0231290	atributo	72-79	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	80-82	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	estar	estar	VAN0000	-	-	83-88	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	hospitalizado	hospitalizar	VMP00SM	-	-	89-102	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	por	por	SPS00	C0678226	atributo	103-106	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	107-109	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ictus	ictus	NCMN000	-	-	110-115	362_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	,	,	Fc	-	-	115-116	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	comienza	comenzar	VMIP3S0	-	-	117-125	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	con	con	SPS00	C0332287	atributo	126-129	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	tiritona	tiritona	NCFS000	-	-	130-138	362_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+25	y	y	CC	C1706368	calificador	139-140	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	fiebre	fiebre	NCFS000	C0015967	hallazgo	141-147	362_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	.	.	Fp	-	-	147-148	362_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	149-151	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	realizan	realizar	VMIP3P0	-	-	152-160	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hemocultivos	hemocultivos	NCMP000	-	-	161-173	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	174-175	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	desde	desde	SPS00	-	-	176-181	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	microbiología	microbiología	NCFS000	-	-	182-195	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	se	se	P00CN000	-	-	196-198	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	informa	informar	VMIP3S0	C0700287	procedimiento	199-206	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	que	que	CS	-	-	207-210	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	están	estar	VAIP3P0	-	-	211-216	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	creciendo	crecer	VMG0000	-	-	217-226	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	cocos	coco	NCMP000	C0009210	organismo	227-232	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	gram	método_de_tinción_para_microorganismos_que_descubrió_el_médico_danés_de_igual_nombre	NC00YL0	-	-	233-237	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	positivos	positivo	AQ0MP0	C1446409	calificador	238-247	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	248-250	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	racimos	racimo	NCMP000	-	-	251-258	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	258-259	362_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	260-262	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	espera	espera	NCFS000	-	-	263-269	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	del	del	SP+DA	-	-	270-273	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	274-286	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	,	,	Fc	-	-	286-287	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	¿	¿	Fia	-	-	288-289	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	cual	cual	PR0CS000	-	-	289-293	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	es	ser	VSIP3S0	-	-	294-296	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	el	el	DA0MS0	-	-	297-299	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	300-311	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	312-323	362_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+12	más	más	RG	C0205172	calificador	324-327	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	adecuado	adecuar	VMP00SM	-	-	328-336	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	?	?	Fit	-	-	336-337	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	.	.	Fp	-	-	337-338	362_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

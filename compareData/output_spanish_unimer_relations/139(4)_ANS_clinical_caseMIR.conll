@@ -1,0 +1,19 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	los	el	DA0MP0	-	-	3-6	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	primeros	1	AO0MP0	-	-	7-15	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	meses	mes	NCMP000	C0439231	calificador	16-21	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	22-24	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	25-36	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	se	se	P00CN000	-	-	37-39	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	aconsejar	aconsejar	VMN0000	C0150600	procedimiento	40-49	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	asociar	asociar	VMN0000	-	-	50-57	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	dosis	dosis	NCFN000	-	-	58-63	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	bajas	bajo	AQ0FP0	C0205251	calificador	64-69	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	70-72	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	colchicina	colchicina	NC00SC0	C0009262	producto#sustancia	73-83	139(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+14	para	para	SPS00	C0521125	calificador	84-88	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	prevenir	prevenir	VMN0000	-	-	89-97	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	nuevos	nuevo	AQ0MP0	C0205314	calificador	98-104	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	ataques	ataque	NCMP000	C0036572#C0014544#C1304680	hallazgo	105-112	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	.	.	Fp	-	-	113-114	139(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,60 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	38	38		-	-	9-11	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	no	no	RN	C1298908	calificador	18-20	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	fumadora	fumador	AQ0FS0	C0337664	hallazgo	21-29	314_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+8	,	,	Fc	-	-	29-30	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	diagnosticada	diagnosticar	VMP00SF	-	-	31-44	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	previamente	previamente	RG	-	-	45-56	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	57-59	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	rinitis	rinitis	NCFN000	C0002103#C0035457_1	trastorno_1	60-67	314_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	atópica	atópico	AQ0FS0	C0002103#C0035457_2	trastorno_2	68-75	314_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	12	3297	Modif
+14	que	que	PR0CN000	-	-	76-79	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	acude	acudir	VMIP3S0	-	-	80-85	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	por	por	SPS00	C0678226	atributo	86-89	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	cuadro	cuadro	NCMS000	-	-	90-96	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	97-99	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	dos	dos		-	-	100-103	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	meses	mes	NCMP000	C0439231	calificador	104-109	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	consistente	consistente	AQ0CS0	-	-	110-121	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	122-124	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	125-128	314_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	y	y	CC	C1706368	calificador	129-130	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	sibilantes	sibilante	AQ0CP0	-	-	131-141	314_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	intermitentes	intermitente	NCMP000	C0205267	calificador	142-155	314_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	25	3297	Modif
+27	de	de	SPS00	C0332285	atributo	156-158	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	predominio	predominio	NCMS000	-	-	159-169	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	nocturno	nocturno	AQ0MS0	C0240526	calificador	170-178	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	178-179	314_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	180-182	314_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	de	de	SPS00	C0039985_2	procedimiento_2	183-185	314_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	186-191	314_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+4	normal	normal	AQ0CS0	C0205307	calificador	192-198	314_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	.	.	Fp	-	-	198-199	314_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Espirometría	espirometría	NCFS000	C0037981	procedimiento	200-212	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	dentro	dentro	RG	C0332285_1	atributo_1	213-219	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285_2	atributo_2	220-222	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	la	el	DA0FS0	-	-	223-225	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	normalidad	normalidad	NCFS000	-	-	226-236	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	237-240	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	prueba	prueba	NCFS000	-	-	241-247	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	broncodilatadora	broncodilatadora	AQ0FS00	-	-	248-264	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	265-273	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	273-274	314_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	275-276	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	276-280	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	281-283	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	las	el	DA0FP0	-	-	284-287	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	288-298	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	pruebas	prueba	NCFP000	-	-	299-306	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	solicitaría	solicitar	VMIC3S0	-	-	307-318	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	a	a	SPS00	-	-	319-320	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	continuación	continuación	NCFS000	-	-	321-333	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	?	?	Fit	-	-	333-334	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	334-335	314_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

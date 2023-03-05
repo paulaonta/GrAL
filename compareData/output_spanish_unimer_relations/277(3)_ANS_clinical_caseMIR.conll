@@ -1,0 +1,18 @@
+1	Añadiría	añadir	VMIC3S0	-	-	0-8	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	9-11	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	bloqueante	bloqueante	AQ0CS0	C0332206	calificador	12-22	277(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	alfa	alfa	NCFS000	C0439095	calificador	23-27	277(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	3	68	MultiE
+5	por	por	SPS00	C0678226	atributo	28-31	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	la	el	DA0FS0	-	-	32-34	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	elevada	elevar	VMP00SF	-	-	35-42	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	prevalencia	prevalencia	NCFS000	-	-	43-54	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	55-57	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	58-66	277(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	prostático	prostático	NC00SC0	C0033572	calificador	67-77	277(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	10	97	MultiE
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	varones	varón	NCMP000	C0086582	hallazgo#estructura_corporal	81-88	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	89-91	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	esta	este	DD0FS0	-	-	92-96	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	97-101	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	.	.	Fp	-	-	102-103	277(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

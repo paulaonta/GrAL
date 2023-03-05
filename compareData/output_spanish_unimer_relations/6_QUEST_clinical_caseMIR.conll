@@ -1,0 +1,69 @@
+1	Durante	durante	SPS00	C1444752#C0347984	atributo	0-7	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	8-11	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	12-24	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	se	se	P00CN000	-	-	25-27	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	detecta	detectar	VMIP3S0	-	-	28-35	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	36-38	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	39-44	6_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	45-47	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	5	5	Z	-	-	48-49	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	cm	cm	NCMN000	-	-	50-52	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	localizado	localizar	VMP00SM	C0332285_1	atributo_1	53-63	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	en	en	SPS00	C0332285_2	atributo_2	64-66	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	colon	colon	NCMS000	C1284436#C1305188_1	estructura_corporal_1	67-72	6_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	7	1830	LOC
+14	derecho	derecho	NCMS000	C1284436#C1305188_2	estructura_corporal_2	73-80	6_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	13	73	MultiE
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	81-83	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	un	un		C0205447_1	calificador_1	84-86	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	87-93	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	94-96	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	48	48		-	-	97-99	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	años	año	NCMP000	C0439234	calificador	100-104	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	104-105	6_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	106-108	6_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	se	se	P00CN000	-	-	109-111	6_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	han	haber	VAIP3P0	-	-	112-115	6_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	encontrado	encontrar	VMP00SM	-	-	116-126	6_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	127-132	6_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	133-141	6_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+7	.	.	Fp	-	-	141-142	6_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	143-145	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	abuela	abuelo	NCFS000	C1273525_1	persona_1	146-152	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	materna	materno	AQ0FS0	C1273525_2	persona_2	153-160	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	también	también	RG	-	-	161-168	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	padeció	padecer	VMIS3S0	-	-	169-176	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	177-179	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	180-186	6_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	187-189	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	190-195	6_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	1832	LOC
+10	.	.	Fp	-	-	195-196	6_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	197-200	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	biopsias	biopsia	NCFP000	C0005558	procedimiento#calificador	201-209	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	son	ser	VSIP3P0	-	-	210-213	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	superficiales	superficial	AQ0CP0	C0205124	calificador	214-227	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	228-229	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	muestran	mostrar	VMIP3P0	-	-	230-238	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	239-241	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	242-247	6_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+9	pobremente	pobremente	RG	C0205169	calificador	248-258	6_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	8	1833	Modif
+10	diferenciado	diferenciar	VMP00SM	-	-	259-271	6_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	9	74	MultiE
+11	con	con	SPS00	C0332287	atributo	272-275	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	abundantes	abundante	AQ0CP0	-	-	276-286	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	287-294	6_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+14	inflamatorias	inflamatorio	AQ0FP0	C0333348	calificador	295-308	6_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	13	73	MultiE
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	309-311	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	el	el	DA0MS0	-	-	312-314	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	estroma	estroma	NCFS000	-	-	315-322	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	que	que	PR0CN000	-	-	323-326	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	se	se	P00CN000	-	-	327-329	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	diagnostica	diagnosticar	VMIP3S0	-	-	330-341	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	como	como	CS	C0332257	calificador	342-346	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	un	un		C0205447_1	calificador_1	347-349	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	carcinoma	carcinoma	NCMS000	C0007097	anomalía_morfológica	350-359	6_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	13	1833,8	Causada_por,1833
+24	de	de	SPS00	C0332307_1	atributo_1	360-362	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	tipo	tipo	NCMS000	C0332307_2	atributo_2	363-367	6_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	23	1833	Modif
+26	medular	medular	AQ0CS0	-	-	368-375	6_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	25	60	MultiE
+27	.	.	Fp	-	-	375-376	6_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

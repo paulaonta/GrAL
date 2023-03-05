@@ -1,0 +1,21 @@
+1	Explicación	explicación	NCFS000	-	-	0-11	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	del	del	SP+DA	-	-	12-15	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	16-27	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	,	,	Fc	-	-	27-28	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	reposo	reposo	NCMS000	-	-	29-35	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	relativo	relativo	AQ0MS0	C0205345	calificador	36-44	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	44-45	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	paracetamol	paracetamol	NCMS000	C0000970	producto#sustancia	46-57	393(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+9	1g/8h	1g/8h		-	-	58-63	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	más	más	RG	C0205172	calificador	64-67	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	metamizol	metamizol	NC00BO0	-	-	68-77	393(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+12	500	500	Z	-	-	78-81	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	mg	mg	NCMN000	-	-	82-84	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	/	/	Fh	-	-	84-85	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	8	8	Z	-	-	86-87	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	h	h	NCMN000	C0439227	calificador	88-89	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	naproxeno	naproxeno	NC00SC0	C0027396	sustancia	90-99	393(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	100-102	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	rescate	rescate	NCMS000	-	-	103-110	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	111-112	393(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

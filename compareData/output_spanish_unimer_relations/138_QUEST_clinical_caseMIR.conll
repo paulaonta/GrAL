@@ -1,0 +1,168 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	42	42		-	-	16-18	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	24-26	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	27-31	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	refiere	referir	VMIP3S0	-	-	32-39	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	dolor	dolor	NCMS000	C0030193	hallazgo	40-45	138_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	46-48	138_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	2330	Modif
+11	características	característica	NCFP000	-	-	49-64	138_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	10	97	MultiE
+12	inflamatorias	inflamatorio	AQ0FP0	C0333348	calificador	65-78	138_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	10	97	MultiE
+13	y	y	CC	C1706368	calificador	79-80	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tumefacción	tumefacción	NCFS000	C0038999	hallazgo#anomalía_morfológica	81-92	138_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	93-95	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ambas	ambos	DI0FP0	C0238767	calificador	96-101	138_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	2330	LOC
+17	muñecas	muñeca	NCFP000	C1283836#C0043262	estructura_corporal	102-109	138_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+18	,	,	Fc	-	-	109-110	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	2ª	2ª		-	-	111-113	138_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	2330	LOC
+20	y	y	CC	C1706368	calificador	114-115	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	3ª	3ª		-	-	116-118	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	metacarpofalángicas	metacarpofalángico	AQ0FP0	-	-	119-138	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	e	y	CC	C1706368	calificador	139-140	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	interfalángicas	interfalángico	AQ0FP0	-	-	141-156	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	proximales	proximal	AQ0CP0	C0205107	calificador	157-167	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	168-170	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	forma	forma	NCFS000	C0348078	atributo	171-176	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	bilateral	bilateral	AQ0CS0	C0238767	calificador	177-186	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	y	y	CC	C1706368	calificador	187-188	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	tobillo	tobillo	NCMS000	C1280015#C0230448_1	estructura_corporal_1	189-196	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	izquierdo	izquierdo	NC00SC0	C1280015#C0230448_2	estructura_corporal_2	197-206	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	207-209	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	4	4		-	-	210-211	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	meses	mes	NCMP000	C0439231	calificador	212-217	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	218-220	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	evolución	evolución	NCFS000	-	-	221-230	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	acompañada	acompañar	VMP00SF	-	-	231-241	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	de	de	SPS00	C0332285	atributo	242-244	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	rigidez	rigidez	NCFS000	C0457086_1	hallazgo_1	245-252	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	matutina	matutino	AQ0FS0	C0457086_2	hallazgo_2	253-261	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	de	de	SPS00	C0332285	atributo	262-264	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	más	más	RG	C0205172	calificador	265-268	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	de	de	SPS00	C0332285	atributo	269-271	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	una	una		C0205447_1	calificador_1	272-275	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	hora	hora	NCFS000	C0040223#C0439227	calificador	276-280	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	de	de	SPS00	C0332285	atributo	281-283	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	duración	duración	NCFS000	C0449238	atributo	284-292	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	.	.	Fp	-	-	292-293	138_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Esn	esn	VMIP3P0	-	-	294-297	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	298-300	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	radiografía	radiografía	NCFS000	C1306645	procedimiento	301-312	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	313-315	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	316-321	138_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	se	se	P00CN000	-	-	322-324	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	objetiva	objetivar	VMIP3S0	-	-	325-333	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	334-337	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	erosión	erosión	NCFS000	C0333307	anomalía_morfológica	338-345	138_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	346-348	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	la	el	DA0FS0	-	-	349-351	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	apófisis	apófisis	NCFN000	C0223717#C1279089_1	estructura_corporal_1	352-360	138_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	2331	LOC
+13	estiloides	estiloides		C0223717#C1279089_2	estructura_corporal_2	361-371	138_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	89	MultiE
+14	del	del	SP+DA	C0223717#C1279089_3	estructura_corporal_3	372-375	138_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	89	MultiE
+15	cúbito	cúbito	NCMS000	C0223717#C1279089_4	estructura_corporal_4	376-382	138_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	12	89	MultiE
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	383-385	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	el	el	DA0MS0	-	-	386-388	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	carpo	carpo	NCMS000	C1283836#C0043262	estructura_corporal	389-394	138_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	2331	LOC
+19	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	395-402	138_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	18	101	MultiE
+20	.	.	Fp	-	-	402-403	138_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	404-406	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	407-409	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	410-419	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	420-427	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	428-431	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	Hb	hb	NC00YL0	-	-	432-434	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	:	:	Fd	-	-	434-435	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	10	10	Z	-	-	436-438	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	g	g	NCMN000	-	-	439-440	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	/	/	Fh	-	-	440-441	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	dL	decilitro	NCMN000	C0439241	calificador	441-443	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	con	con	SPS00	C0332287	atributo	444-447	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	VSG	velocidad_de_sedimentación_globular	NC00YL0	-	-	448-451	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	452-454	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	45	45	Z	-	-	455-457	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	mm	mm	NCMN000	-	-	458-460	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	en	en	SPS00	C1720294#C0332285	calificador#atributo	461-463	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	1ª	1ª	Z	-	-	464-466	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	hora	h	NCFS000	C0439227	calificador	467-471	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	,	,	Fc	-	-	471-472	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	PCR	pcr	NC00YL0	-	-	473-476	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	16	16	Z	-	-	477-479	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	mg	mg	NCMN000	-	-	480-482	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	/	/	Fh	-	-	482-483	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	L	l	NCFS000	-	-	483-484	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	,	,	Fc	-	-	484-485	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	factor	factor	NCMS000	C0035448_1	sustancia_1	486-492	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	reumatoide	reumatoide	AQ0CS0	C0035448_2	sustancia_2	493-503	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	160	160		-	-	504-507	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	UI	ui	NC00SC0	C0439453	calificador	508-510	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	/	/	Fh	-	-	510-511	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	ML	mililitro	NCMN000	C0439242	calificador	511-513	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	.	.	Fp	-	-	513-514	138_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	515-519	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	6	6		-	-	520-521	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	meses	mes	NCMP000	C0439231	calificador	522-527	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	528-530	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	531-542	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	543-546	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	indometacina	indometacina	NCFS000	C0021246	sustancia	547-559	138_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	y	y	CC	C1706368	calificador	560-561	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	metotrexato	metotrexato	NCMS000	C0025677#C0949359	producto#sustancia	562-573	138_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+10	la	el	DA0FS0	-	-	574-576	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	577-585	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	persiste	persistir	VMIP3S0	-	-	586-594	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	595-598	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	dolor	dolor	NCMS000	C0030193	hallazgo	599-604	138_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+15	y	y	CC	C1706368	calificador	605-606	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	tumefacción	tumefacción	NCFS000	C0038999	hallazgo#anomalía_morfológica	607-618	138_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	619-621	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	ambos	ambos	DI0MP0	C0238767	calificador	622-627	138_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	16	2333	LOC
+19	carpos	carpo	NCMP000	C1283836#C0043262	estructura_corporal	628-634	138_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	18	101	MultiE
+20	,	,	Fc	-	-	634-635	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	rigidez	rigidez	NCFS000	C0457086_1	hallazgo_1	636-643	138_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+22	matutina	matutino	AQ0FS0	C0457086_2	hallazgo_2	644-652	138_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	21	2333	Modif
+23	de	de	SPS00	C0332285	atributo	653-655	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	30	30	Z	-	-	656-658	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	minutos	min	NCMP000	-	-	659-666	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	667-669	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+27	duración	duración	NCFS000	C0449238	atributo	670-678	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+28	y	y	CC	C1706368	calificador	679-680	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+29	una	una		C0205447_1	calificador_1	681-684	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+30	analítica	analítica	NCFS000	-	-	685-694	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+31	donde	donde	PR000000	-	-	695-700	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+32	destaca	destacar	VMIP3S0	-	-	701-708	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+33	una	una		C0205447_1	calificador_1	709-712	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+34	VSG	velocidad_de_sedimentación_globular	NC00YL0	-	-	713-716	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+35	30	30	Z	-	-	717-719	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+36	mm	mm	NCMN000	-	-	720-722	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+37	en	en	SPS00	C1720294#C0332285	calificador#atributo	723-725	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+38	1ª	1ª	Z	-	-	726-728	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+39	hora	h	NCFS000	C0439227	calificador	729-733	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+40	y	y	CC	C1706368	calificador	734-735	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+41	una	una		C0205447_1	calificador_1	736-739	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+42	PCR	pcr	NC00YL0	-	-	740-743	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+43	9	9	Z	-	-	744-745	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+44	mg	mg	NCMN000	-	-	746-748	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+45	/	/	Fh	-	-	748-749	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+46	dL	decilitro	NCMN000	C0439241	calificador	749-751	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+47	.	.	Fp	-	-	751-752	138_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Respecto	respecto	NCMS000	-	-	753-761	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	a	a	SPS00	-	-	762-763	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	la	el	DA0FS0	-	-	764-766	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	actitud	actitud	NCFS000	C0004271	entidad_observable	767-774	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	a	a	SPS00	-	-	775-776	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	tomar	tomar	VMN0000	C1515187	calificador	777-782	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	,	,	Fc	-	-	782-783	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	cuál	cuál	PT0CS000	-	-	784-788	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	789-791	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	las	el	DA0FP0	-	-	792-795	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	siguientes	siguiente	AQ0CP0	C0332282	atributo	796-806	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	es	ser	VSIP3S0	-	-	807-809	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	verdadera	verdadero	AQ0FS0	C0205238	calificador	810-819	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	:	:	Fd	-	-	819-820	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	.	.	Fp	-	-	820-821	138_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

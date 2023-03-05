@@ -1,0 +1,79 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	35	35		-	-	9-11	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	remitida	remitir	VMP00SF	C0439600	calificador	18-26	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	29-38	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	39-42	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	traumatismo	traumatismo	NCMS000	C0018674_1	trastorno_1	43-54	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	craneoencefálico	craneoencefálico	AQ0MS0	C0018674_2	trastorno_2	55-71	485_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	701	LOC
+12	por	por	SPS00	C0678226	atributo	72-75	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	caída	caída	NCFS000	C0085639	hallazgo	76-81	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	10	701	Causada_por
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	82-84	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	patinete	patinete	NCMS000	-	-	85-93	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	,	,	Fc	-	-	93-94	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	sin	sin	SPS00	C0332288	atributo	95-98	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	pérdida	pérdida	NCFS000	-	-	99-106	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+19	de	de	SPS00	C0332285	atributo	107-109	485_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	701	Modif
+20	conciencia	conciencia	NCFS000	C0234421#C1443086	-	110-120	485_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	19	91	MultiE
+21	ni	ni	CC	-	-	121-123	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	amnesia	amnesia	NCFS000	C0002622	hallazgo	124-131	485_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+23	.	.	Fp	-	-	131-132	485_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	133-135	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	136-138	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	139-150	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	151-153	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	trata	tratar	VMIP3S0	-	-	154-159	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	160-162	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	163-165	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	traumatismo	traumatismo	NCMS000	C0018674_1	trastorno_1	166-177	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	14	702,12	Causada_por,702
+9	craneoencefálico	craneoencefálico	AQ0MS0	C0018674_2	trastorno_2	178-194	485_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	702	LOC
+10	cerrado	cerrar	VMP00SM	-	-	195-202	485_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	8	702	Modif
+11	con	con	SPS00	C0332287	atributo	203-206	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	conmoción	conmoción	NCFS000	C0006107	trastorno	207-216	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	y	y	CC	C1706368	calificador	217-218	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	cefalea	cefalea	NCFS000	C0018681	hallazgo	219-226	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	227-231	485_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	14	702	Modif
+16	sin	sin	SPS00	C0332288	atributo	232-235	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	236-245	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0150312_2	calificador_2	246-248	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	náuseas	náusea	NCFP000	C0027498_1	trastorno_1	249-256	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+20	y	y	NCFS000	C0027498_2	trastorno_2	257-258	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	vómitos	vómito	NCMP000	C0027498_3	trastorno_3	259-266	485_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+22	.	.	Fp	-	-	266-267	485_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	268-270	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	271-282	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	neurológica	neurológico	AQ0FS0	C0205494	calificador	283-294	485_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	es	ser	VSIP3S0	-	-	295-297	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	normal	normal	AQ0CS0	C0205307	calificador	298-304	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	y	y	CC	C1706368	calificador	305-306	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	presenta	presentar	VMIP3S0	-	-	307-315	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	316-318	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	índice	índice	NCMS000	-	-	319-325	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	326-328	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	Glasgow	glasgow	NCMS000	-	-	329-336	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	337-339	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	15	15		-	-	340-342	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	.	.	Fp	-	-	342-343	485_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ante	ante	SPS00	-	-	344-348	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	esta	este	DD0FS0	-	-	349-353	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	situación	situación	NCFS000	-	-	354-363	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	¿	¿	Fia	-	-	364-365	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	qué	qué	DT0CN0	-	-	365-368	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	prueba	prueba	NCFS000	-	-	369-375	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	376-378	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	imagen	imagen	NCFS000	C0441469#C3542466	objeto_físico#metadato_fundacional	379-385	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	está	estar	VAIP3S0	-	-	386-390	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	indicada	indicar	VMP00SF	-	-	391-399	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	en	en	SPS00	C1279901_1	calificador_1	400-402	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	primer	1	AO0MS0	C1279901_2	calificador_2	403-409	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	lugar	lugar	NCMS000	C1279901_3	calificador_3	410-415	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	?	?	Fit	-	-	415-416	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	:	:	Fd	-	-	416-417	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	417-418	485_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

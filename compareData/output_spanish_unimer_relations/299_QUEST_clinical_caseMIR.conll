@@ -1,0 +1,121 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	35	35		-	-	13-15	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	34-36	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	37-43	299_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	tiroideo	tiroideo	AQ0MS0	-	-	44-52	299_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	2849	LOC
+11	derecho	derecho	NCMS000	C0445291#C0445292#C0205090#C0450415	calificador	53-60	299_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	10	97	MultiE
+12	detectado	detectar	VMP00SM	-	-	61-70	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	incidentalmente	incidentalmente	RG	-	-	71-86	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	87-90	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	mañana	mañana	NCMS000	C0332170	calificador	91-97	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	al	al	SP+DA	-	-	98-100	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	observar	observar	VMN0000	-	-	101-109	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	se	se	PP3CN000	-	-	109-111	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	112-114	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	el	el	DA0MS0	-	-	115-117	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	espejo	espejo	NCMS000	C0181868	objeto_físico	118-124	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	un	un		C0205447_1	calificador_1	125-127	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	bulto	bulto	NCMS000	C0577559	hallazgo#anomalía_morfológica	128-133	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	la	el	DA0FS0	-	-	137-139	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	140-144	299_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+27	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	145-153	299_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	26	432	MultiE
+28	del	del	SP+DA	-	-	154-157	299_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	26	432	MultiE
+29	cuello	cuello	NCMS000	C1281592#C0027530	estructura_corporal	158-164	299_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	26	432	MultiE
+30	.	.	Fp	-	-	164-165	299_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	166-170	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	los	el	DA0MP0	-	-	171-174	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	estudios	estudio	NCMP000	C0557651	medio_ambiente	175-183	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	pertinentes	pertinente	AQ0CP0	-	-	184-195	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	se	se	P00CN000	-	-	196-198	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	decide	decidir	VMIP3S0	-	-	199-205	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	intervenir	intervenir	VMN0000	-	-	206-216	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	quirúrgicamente	quirúrgicamente	RG	-	-	217-232	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	a	a	SPS00	-	-	233-234	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	la	el	DA0FS0	-	-	235-237	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	238-246	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	realizando	realizar	VMG0000	-	-	247-257	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	se	se	PP3CN000	-	-	257-259	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	260-263	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	tiroidectomia	tiroidectomia	NCFS000	-	-	264-277	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	total	total	AQ0CS0	C0205197#C0439810#C0444868	calificador	278-283	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	284-287	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	vaciamiento	vaciamiento	NCMS000	-	-	288-299	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	del	del	SP+DA	-	-	300-303	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	componente	componente	NCCS000	C0449432	atributo	304-314	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	315-325	299_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+22	central	central	AQ0CS0	C0205099	calificador	326-333	299_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	21	60	MultiE
+23	,	,	Fc	-	-	333-334	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	siendo	ser	VSG0000	-	-	335-341	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	el	el	DA0MS0	-	-	342-344	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	informe	informe	NCMS000	C0807321_1	procedimiento_1	345-352	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	del	del	SP+DA	C0807321_2	procedimiento_2	353-356	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	patólogo	patólogo	NCMS000	C0807321_3	procedimiento_3	357-365	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	366-368	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	nódulo	nódulo	NCMS000	C0040137#C0342115_1	trastorno_1	369-375	299_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+31	tiroideo	tiroideo	AQ0MS0	C0040137#C0342115_2	trastorno_2	376-384	299_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	30	2850	LOC
+32	de	de	SPS00	C0332285	atributo	385-387	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	2,3	2.3	Z	-	-	388-391	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	cm	cm	NCMN000	-	-	392-394	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	ocupado	ocupar	VMP00SM	-	-	395-402	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	en	en	SPS00	C1720294#C0332285	calificador#atributo	403-405	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	su	su	DP3CS0	-	-	406-408	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	totalidad	totalidad	NCFS000	C0205197#C0439810#C0444868	-	409-418	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	por	por	SPS00	C0678226	atributo	419-422	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	un	un		C0205447_1	calificador_1	423-425	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	carcinoma	carcinoma	NCMS000	C0007097	anomalía_morfológica	426-435	299_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	30	2850	Causada_por
+42	papilar	papilar	NC00SC0	C0205312	calificador	436-443	299_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	41	2850	Modif
+43	de	de	SPS00	C0332285	atributo	444-446	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	tiroides	tiroides	NCFN000	-	-	447-455	299_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	41	2850	LOC
+45	,	,	Fc	-	-	455-456	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+46	variante	variante	NCFS000	C0205419	calificador	457-465	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+47	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	466-473	299_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+48	altas	alto	AQ0FP0	C0205250	calificador	474-479	299_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	47	390	MultiE
+49	,	,	Fc	-	-	479-480	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+50	sin	sin	SPS00	C0332288	atributo	481-484	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+51	infiltración	infiltración	NCFS000	C0702249#C0332448	procedimiento#anomalía_morfológica	485-497	299_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+52	vascular	vascular	AQ0CS0	-	-	498-506	299_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	51	2850	LOC
+53	pero	pero	CC	-	-	507-511	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+54	sí	sí	RG	C1298907	calificador	512-514	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+55	capsular	capsular	AQ0CS0	C0205151	calificador	515-523	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+56	.	.	Fp	-	-	523-524	299_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	525-528	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	concentraciones	concentración	NCFP000	C0086045	entidad_observable	529-544	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	545-547	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tiroglobulina	tiroglobulina	NC00SC0	C0040123	sustancia	548-561	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	24	24	Z	-	-	562-564	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	h	h	NCMN000	C0439227	calificador	565-566	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	después	después	RG	C0231290	atributo	567-574	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	575-577	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	la	el	DA0FS0	-	-	578-580	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	tiroidectomia	tiroidectomia	NCFS000	-	-	581-594	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	son	ser	VSIP3P0	-	-	595-598	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	599-601	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	14	14		-	-	602-604	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	ng	nasogástrico	NC00YL0	-	-	605-607	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	/	/	Fh	-	-	607-608	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	mL	mililitro	NCMN000	C0439242	calificador	608-610	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	.	.	Fp	-	-	610-611	299_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	612-613	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	613-617	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	618-623	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	el	el	DA0MS0	-	-	624-626	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	siguiente	siguiente	AQ0CS0	C0332282	atributo	627-636	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	paso	paso	NCMS000	C1261552	calificador	637-641	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	que	que	PR0CN000	-	-	642-645	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	usted	usted	PP2CS00P	-	-	646-651	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	daría	dar	VMIC3S0	C1947971	calificador	652-657	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	658-660	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	esta	este	DD0FS0	-	-	661-665	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	paciente	paciente	NCCS000	C0030705	persona	666-674	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	?	?	Fit	-	-	674-675	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	675-676	299_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

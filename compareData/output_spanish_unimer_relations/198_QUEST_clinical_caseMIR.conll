@@ -1,0 +1,33 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	72	72		-	-	9-11	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	diabetes	diabetes	NCFN000	-	-	21-29	198_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	tipo	tipo	NCMS000	C0332307	calificador#atributo	30-34	198_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	393	Modif
+8	2	2	Z	-	-	35-36	198_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	7	50	MultiE
+9	e	y	CC	C1706368	calificador	37-38	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	insuficiencia	insuficiencia	NCFS000	C0403447_1	trastorno_1	39-52	198_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	renal	renal	AQ0CS0	C0403447_2	trastorno_2	53-58	198_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	393	LOC
+12	crónica	crónico	AQ0FS0	C0403447_3	trastorno_3	59-66	198_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	393	Modif
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	67-69	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	estadio	estadio	NCMS000	C0441777_1	calificador_1	70-77	198_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	393	Modif
+15	5	5	Z	C0441777_2	calificador_2	78-79	198_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	14	5	MultiE
+16	.	.	Fp	-	-	79-80	198_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ante	ante	SPS00	-	-	81-85	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	86-88	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	89-97	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332147_2	calificador_2	98-100	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	un	un		C0205447_1	calificador_1	101-103	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	tromboembolismo	tromboembolismo	NC00SC0	C0040038	trastorno	104-119	198_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Especulacion	-	-	-
+7	pulmonar	pulmonar	NC00SC0	C2709248	calificador	120-128	198_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	6	394	LOC
+8	indique	indicar	VMM03S0	-	-	129-136	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	qué	qué	DT0CN0	-	-	137-140	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	prueba	prueba	NCFS000	-	-	141-147	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	148-159	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	está	estar	VAIP3S0	-	-	160-164	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	contraindicada	contraindicar	VMP00SF	-	-	165-179	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	:	:	Fd	-	-	179-180	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	180-181	198_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

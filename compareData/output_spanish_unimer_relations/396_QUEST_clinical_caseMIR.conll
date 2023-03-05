@@ -1,0 +1,37 @@
+1	El	el	DA0MS0	-	-	0-2	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	3-14	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	más	más	RG	C0205172	calificador	15-18	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	19-27	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	28-30	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	31-33	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	34-42	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	43-45	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	74	74		-	-	46-48	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	años	año	NCMP000	C0439234	calificador	49-53	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	que	que	PR0CN000	-	-	54-57	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	desde	desde	SPS00	-	-	58-63	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hace	hacer	VMIP3S0	-	-	64-68	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	dos	dos		-	-	69-72	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	meses	mes	NCMP000	C0439231	calificador	73-78	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	comienza	comenzar	VMIP3S0	-	-	79-87	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	88-91	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	dolor	dolor	NCMS000	C0024031_1	trastorno_1	92-97	396_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	98-104	396_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	4117	LOC
+20	irradiado	irradiar	VMP00SM	-	-	105-114	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	a	a	SPS00	-	-	115-116	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	miembros	miembro	NCMP000	C0015385	estructura_corporal	117-125	396_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+23	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	126-136	396_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	22	80	MultiE
+24	,	,	Fc	-	-	136-137	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	claudicación	claudicación	NCFS000	C1456822#C0311395	hallazgo	138-150	396_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	neurógena	neurógeno	AQ0FS0	-	-	151-160	396_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	25	4117	LOC
+27	y	y	CC	C1706368	calificador	161-162	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	limitación	limitación	NCFS000	C0449295	atributo	163-173	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	a	a	SPS00	-	-	174-175	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	la	el	DA0FS0	-	-	176-178	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	extensión	extensión	NCFS000	C0439792#C0231448	calificador#atributo	179-188	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	el	el	DA0MS0	-	-	189-191	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	tronco	tronco	NCMS000	C1280632#C0460005	estructura_corporal	192-198	396_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+34	es	ser	VSIP3S0	-	-	199-201	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	:	:	Fd	-	-	201-202	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	.	.	Fp	-	-	202-203	396_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

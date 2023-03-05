@@ -1,0 +1,71 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	80	80		-	-	13-15	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	21-23	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ingresado	ingresar	VMP00SM	-	-	24-33	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	por	por	SPS00	C0678226	atributo	34-37	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	38-40	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	cuadro	cuadro	NCMS000	-	-	41-47	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	brusco	brusco	AQ0MS0	C0443162	calificador	48-54	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	55-57	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	afasia	afasia	NCFS000	C0003537	hallazgo	58-64	218_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	y	y	CC	C1706368	calificador	65-66	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	hemiparesia	hemiparesia	NC00SC0	C0457435_1	trastorno_1	67-78	218_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	derecha	derecho	AQ0FS0	C0457435_2	trastorno_2	79-86	218_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	462	Modif
+17	.	.	Fp	-	-	86-87	218_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Como	como	CS	C0332257	calificador	88-92	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	-	-	93-105	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	destaca	destacar	VMIP3S0	-	-	106-113	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	,	,	Fc	-	-	113-114	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	hipertensión	hipertensión	NCFS000	-	-	115-127	218_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	,	,	Fc	-	-	127-128	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	bien	bien	RG	C0205170	calificador	129-133	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	controlada	controlar	VMP00SF	-	-	134-144	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	145-148	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	dieta	dieta	NCFS000	C0012155	hallazgo	149-154	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	155-156	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	157-166	218_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	cognitivo	cognitivo	AQ0MS0	-	-	167-176	218_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	12	463	Modif
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	el	el	DA0MS0	-	-	180-182	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	último	último	AO0MS0	-	-	183-189	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	año	año	NCMS000	C0439234	calificador	190-193	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	194-196	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	estudio	estudio	NCMS000	C0557651	medio_ambiente	197-204	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	por	por	SPS00	C0678226	atributo	205-208	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	su	su	DP3CS0	-	-	209-211	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	neurólogo	neurólogo	NCMS000	C0237426	ocupación	212-221	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	.	.	Fp	-	-	221-222	218_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	223-225	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	226-228	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	229-236	218_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	237-239	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	urgencias	urgencia	NCFP000	C0439609	calificador	240-249	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	demuestra	demostrar	VMIP3S0	-	-	250-259	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	260-262	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	hematoma	hematoma	NCMS000	C0018944	trastorno#anomalía_morfológica	263-271	218_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	lobar	lobar	VMN0000	-	-	272-277	218_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	464	LOC
+10	frontal	frontal	NCMS000	C0205123	calificador	278-285	218_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	9	74	MultiE
+11	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	286-295	218_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	9	74	MultiE
+12	sin	sin	SPS00	C0332288	atributo	296-299	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	captación	captación	NCFS000	-	-	300-309	218_QUEST_clinical_caseMIR	SENT3	-	Negacion	-	-	-
+14	de	de	SPS00	C0332285	atributo	310-312	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	contraste	contraste	NCMS000	-	-	313-322	218_QUEST_clinical_caseMIR	SENT3	B-Grp_Medicamento	-	-	-	-
+16	.	.	Fp	-	-	322-323	218_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	324-325	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	325-329	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	330-332	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	la	el	DA0FS0	-	-	333-335	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	causa	causa	NCFS000	-	-	336-341	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	342-345	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	346-354	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	del	del	SP+DA	-	-	355-358	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	hematoma	hematoma	NCMS000	C0018944	trastorno#anomalía_morfológica	359-367	218_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion	-	-	-
+10	?	?	Fit	-	-	367-368	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	368-369	218_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

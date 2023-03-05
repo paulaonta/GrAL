@@ -1,0 +1,131 @@
+1	Primigesta	primigesta	NC00SC0	C0860096	hallazgo	0-10	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	34	34		-	-	14-16	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	semanas	semana	NCFP000	C0439230	calificador	17-24	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	25-28	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	29-37	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	cifras	cifra	NCFP000	-	-	38-44	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	tensionales	tensional	AQ0CP0	-	-	45-56	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	57-59	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	165/95	165/95		-	-	60-66	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	67-68	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cefalea	cefalea	NCFS000	C0018681	hallazgo	69-76	490_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	77-79	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	dos	dos		-	-	80-83	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	días	día	NCMP000	C0439228#C0332169	calificador	84-88	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	89-91	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	evolución	evolución	NCFS000	-	-	92-101	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	.	.	Fp	-	-	101-102	490_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Analítica	analítica	NCFS000	-	-	103-112	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	:	:	Fd	-	-	112-113	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	114-125	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	10,5	10.5	Z	-	-	126-130	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	g	g	NCMN000	-	-	131-132	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	/	/	Fh	-	-	132-133	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	dL	decilitro	NCMN000	C0439241	calificador	133-135	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	,	,	Fc	-	-	135-136	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	137-146	490_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+10	98.000/mm3	98.000/mm3		-	-	147-157	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	,	,	Fc	-	-	157-158	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	AST	aspartato_transaminasa	NC00YL0	-	-	159-162	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	356	356		-	-	163-166	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	UI	ui	NC00SC0	C0439453	calificador	167-169	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	/	/	Fh	-	-	169-170	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	L	l	NCFS000	-	-	170-171	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	(	(	Fpa	-	-	172-173	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	0-31	0-31		-	-	173-177	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	)	)	Fpt	-	-	177-178	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	,	,	Fc	-	-	178-179	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	ALT	alanina_aminotransferasa_(o_tgp)	NC00YL0	-	-	180-183	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	234	234		-	-	184-187	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	UI	ui	NC00SC0	C0439453	calificador	188-190	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	/	/	Fh	-	-	190-191	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	L	l	NCFS000	-	-	191-192	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	(	(	Fpa	-	-	193-194	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	0-31	0-31		-	-	194-198	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	)	)	Fpt	-	-	198-199	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	,	,	Fc	-	-	199-200	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	LDH	ldh	NC00SC0	C0022917	sustancia	201-204	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	878	878		-	-	205-208	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	UI	ui	NC00SC0	C0439453	calificador	209-211	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	/	/	Fh	-	-	211-212	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	L	l	NCFS000	-	-	212-213	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	(	(	Fpa	-	-	214-215	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	125-243	125-243		-	-	215-222	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	)	)	Fpt	-	-	222-223	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	.	.	Fp	-	-	223-224	490_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Llaman	llamar	VMIP3P0	-	-	225-231	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	del	del	SP+DA	-	-	232-235	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	laboratorio	laboratorio	NCMS000	C0022877	medio_ambiente	236-247	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	248-251	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	252-261	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0150312_2	calificador_2	262-264	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	esquistocitos	esquistocito	NCMP000	C0221282	célula	265-278	490_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	279-281	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	el	el	DA0MS0	-	-	282-284	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	frotis	frotis	NCMN000	-	-	285-291	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	292-294	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	sangre	sangre	NCFS000	C0229664_1	sustancia_1	295-301	490_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	2444	Modif
+13	periférica	periférico	AQ0FS0	C0229664_2	sustancia_2	302-312	490_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	12	89	MultiE
+14	.	.	Fp	-	-	312-313	490_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ha	haber	VAIP3S0	-	-	314-316	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	recibido	recibir	VMP00SM	-	-	317-325	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	la	el	DA0FS0	-	-	326-328	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	segunda	2	AO0FS0	-	-	329-336	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	dosis	dosis	NCFN000	-	-	337-342	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	343-345	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	corticoides	corticoide	NCMP000	-	-	346-357	490_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	358-362	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	maduración	maduración	NCFS000	-	-	363-373	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	fetal	fetal	AQ0CS0	-	-	374-379	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	hace	hacer	VMIP3S0	-	-	380-384	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	24	24		-	-	385-387	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	h.	h.	NCFS000	-	-	388-390	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	En	en	SPS00	C1720294#C0332285	calificador#atributo	391-393	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	la	el	DA0FS0	-	-	394-396	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	ecografía	ecografía	NCFS000	C0412555_1	procedimiento_1	397-406	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	obstétrica	obstétrico	AQ0FS0	C0412555_2	procedimiento_2	407-417	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	el	el	DA0MS0	-	-	418-420	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	peso	peso	NCMS000	C0043100	calificador	421-425	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	fetal	fetal	AQ0CS0	-	-	426-431	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	estimado	estimado	NC00SC0	C0750572	calificador	432-440	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	está	estar	VAIP3S0	-	-	441-445	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	446-448	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	el	el	DA0MS0	-	-	449-451	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	percentil	percentil	NCMS000	-	-	452-461	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	1	1		-	-	462-463	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+27	para	para	SPS00	C0521125	calificador	464-468	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+28	la	el	DA0FS0	-	-	469-471	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+29	edad	edad	NCFS000	C0460089#C0017504_1	hallazgo#entidad_observable_1	472-476	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+30	gestacional	gestacional	NC00SC0	C0460089#C0017504_2	hallazgo#entidad_observable_2	477-488	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+31	y	y	CC	C1706368	calificador	489-490	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+32	el	el	DA0MS0	-	-	491-493	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+33	Doppler	doppler	NCCS000	-	-	494-501	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+34	de	de	SPS00	C0332285	atributo	502-504	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+35	arteria	arteria	NCFS000	C1280618#C0041632_1	estructura_corporal_1	505-512	490_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+36	umbilical	umbilical	AQ0CS0	C1280618#C0041632_2	estructura_corporal_2	513-522	490_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	35	380	MultiE
+37	presenta	presentar	VMIP3S0	-	-	523-531	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+38	ausencia	ausencia	NCFS000	C1689985#C0014553	anomalía_morfológica	532-540	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+39	del	del	SP+DA	-	-	541-544	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+40	flujo	flujo	NCMS000	-	-	545-550	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+41	telediastólico	telediastólico	AQ0MS00	-	-	551-565	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+42	.	.	Fp	-	-	565-566	490_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	567-568	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	568-572	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	573-575	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	las	el	DA0FP0	-	-	576-579	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	580-590	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	591-593	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	la	el	DA0FS0	-	-	594-596	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	597-604	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	clínica	clínico	AQ0FS0	C0205210	calificador	605-612	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	más	más	RG	C0205172	calificador	613-616	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	indicada	indicar	VMP00SF	-	-	617-625	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	?	?	Fit	-	-	625-626	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	:	:	Fd	-	-	626-627	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	.	.	Fp	-	-	627-628	490_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

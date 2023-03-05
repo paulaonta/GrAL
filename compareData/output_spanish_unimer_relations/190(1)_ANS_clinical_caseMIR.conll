@@ -1,0 +1,22 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	caso	caso	NCMS000	C0868928	calificador	3-7	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	absceso	absceso	NCMS000	C0030785_1	trastorno_1	11-18	190(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	pélvico	pélvico	NC00SC0	C0030785_2	trastorno_2	19-26	190(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	4	1156	LOC
+6	contenido	contenido	NCMS000	C0456205	atributo	27-36	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	36-37	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	está	estar	VAIP3S0	-	-	38-42	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	indicada	indicar	VMP00SF	-	-	43-51	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	la	el	DA0FS0	-	-	52-54	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	colocación	colocación	NCFS000	C1533810	calificador	55-65	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	66-68	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	un	un		C0205447_1	calificador_1	69-71	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	drenaje	drenaje	NCMS000	C0012621#C0013103#C0180499	anomalía_morfológica#procedimiento#objeto_físico	72-79	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	percutáneo	percutáneo	NC00SC0	C0522523	calificador	80-90	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	guiado	guiar	VMP00SM	-	-	91-97	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	98-101	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	TAC	tac	NC00YL0	C0040405	procedimiento	102-105	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	o	o	CC	-	-	106-107	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	108-117	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	.	.	Fp	-	-	118-119	190(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,71 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	182_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	9-12	182_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	pancreatitis	pancreatitis	NCFN000	C0001339#C0341461_1	trastorno_1	13-25	182_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	aguda	agudo	AQ0FS0	C0001339#C0341461_2	trastorno_2	26-31	182_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	3	3958	Modif
+5	.	.	Fp	-	-	31-32	182_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	33-35	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Tomografía	tomografía	NCFS000	-	-	36-46	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	Axial	axial	AQ0CS0	C0205131	calificador	47-52	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	Computerizada	computerizada	VMP00SF	-	-	53-66	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	(	(	Fpa	-	-	67-68	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	TAC	tac	NC00YL0	C0040405	procedimiento	68-71	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	)	)	Fpt	-	-	71-72	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	realizada	realizar	VMP00SF	-	-	73-82	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	a	a	SPS00	-	-	83-84	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	las	el	DA0FP0	-	-	85-88	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	72	72	Z	C1292423_1	calificador_1	89-91	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	horas	hora	NCFP000	C1292423_2	calificador_2	92-97	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	98-100	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	ingreso	ingreso	NCMS000	-	-	101-108	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	se	se	P00CN000	-	-	109-111	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	aprecia	apreciar	VMIP3S0	-	-	112-119	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	una	una		C0205447_1	calificador_1	120-123	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	necrosis	necrosis	NCFN000	C0027540	anomalía_morfológica	124-132	182_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+19	del	del	SP+DA	-	-	133-136	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	50	50	Z	-	-	137-139	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	%	%	Ft	-	-	139-140	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	del	del	SP+DA	-	-	141-144	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	páncreas	páncreas	NCMN000	C1278931#C0030274	estructura_corporal	145-153	182_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	18	3959	LOC
+24	.	.	Fp	-	-	153-154	182_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	A	a	SPS00	-	-	155-156	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	157-159	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	3ª	3ª		-	-	160-162	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	semana	semana	NCFS000	C0439230	calificador	163-169	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	170-172	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	ingreso	ingreso	NCMS000	-	-	173-180	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	el	el	DA0MS0	-	-	181-183	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	paciente	paciente	NCCS000	C0030705	persona	184-192	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	comienza	comenzar	VMIP3S0	-	-	193-201	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	202-205	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	fiebre	fiebre	NCFS000	C0015967	hallazgo	206-212	182_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	elevada	elevar	VMP00SF	-	-	213-220	182_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	11	3960	Modif
+13	y	y	CC	C1706368	calificador	221-222	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	leucocitosis	leucocitosis	NCFN000	C0023518#C0750426	trastorno#hallazgo	223-235	182_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	235-236	182_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	237-239	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	solicita	solicitar	VMIP3S0	-	-	240-248	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	249-260	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	261-263	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	264-269	182_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	urgente	urgente	AQ0CS0	C0439609	calificador	270-277	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	278-279	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	sedimento	sedimento	NCMS000	C2945609#C1261248_1	hallazgo#sustancia_1	280-289	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	urinario	urinario	NCMS000	C2945609#C1261248_2	hallazgo#sustancia_2	290-298	182_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+10	,	,	Fc	-	-	298-299	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	siendo	ser	VSG0000	-	-	300-306	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	ambos	ambos	DI0MP0	C0238767	calificador	307-312	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	normales	normal	AQ0CP0	C0205307	calificador	313-321	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	321-322	182_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Señale	señalar	VMM03S0	-	-	323-329	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	el	el	DA0MS0	-	-	330-332	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	siguiente	siguiente	AQ0CS0	C0332282	atributo	333-342	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	paso	paso	NCMS000	C1261552	calificador	343-347	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	a	a	SPS00	-	-	348-349	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	seguir	seguir	VMN0000	-	-	350-356	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	:	:	Fd	-	-	356-357	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	.	.	Fp	-	-	357-358	182_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

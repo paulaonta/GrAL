@@ -1,0 +1,16 @@
+1	Cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	0-7	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	cardiaca	cardiaco	AQ0FS0	-	-	8-16	259(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	17-19	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	reemplazo	reemplazo	NCMS000	-	-	20-29	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	valvular	valvular	AQ0CS0	-	-	30-38	259(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+6	aórtico	aórtico	NC00SC0	C0003483	calificador	39-46	259(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	5	27	MultiE
+7	por	por	SPS00	C0678226	atributo	47-50	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	51-59	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mecánica	mecánico	AQ0FS0	C0443254	calificador	60-68	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	69-72	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	terapia	terapia	NCFS000	C0087111	régimen/tratamiento	73-80	259(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+12	antibiótica	antibiótico	AQ0FS0	C0003232	producto#sustancia	81-92	259(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	11	62	MultiE
+13	según	según	SPS00	-	-	93-98	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	99-111	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	112-113	259(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

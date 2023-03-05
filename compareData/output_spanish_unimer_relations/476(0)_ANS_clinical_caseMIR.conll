@@ -1,0 +1,16 @@
+1	Se	se	P00CN000	-	-	0-2	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	enfermedad	enfermedad	NCFS000	C0001403#C1279223_1	trastorno_1	16-26	476(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+6	de	de	SPS00	C0001403#C1279223_2	trastorno_2	27-29	476(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	5	27	MultiE
+7	Addison	addison	NC00KE0	C0001403#C1279223_3	trastorno_3	30-37	476(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	5	27	MultiE
+8	y	y	CC	C1706368	calificador	38-39	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	deben	deber	VMIP3P0	-	-	40-45	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	administrar	administrar	VMN0000	C1621583	calificador	46-57	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	se	se	PP3CN000	-	-	57-59	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	corticoides	corticoide	AQ0CP0	-	-	60-71	476(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+13	de	de	SPS00	C0205548_1	calificador_1	72-74	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	inmediato	inmediato	NC00SC0	C0205548_2	calificador_2	75-84	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	85-86	476(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

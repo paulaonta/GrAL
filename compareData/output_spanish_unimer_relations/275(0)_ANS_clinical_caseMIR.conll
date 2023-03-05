@@ -1,0 +1,21 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	serología	serología	NCFS000	-	-	4-13	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	lúes	lúes	NCFN000	C0039128	trastorno	17-21	275(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	puesto	poner	VMP00SM	-	-	22-28	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	que	que	CS	-	-	29-32	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	lo	el	DA0NS0	-	-	33-35	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	más	más	RG	C0205172	calificador	36-39	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	40-48	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	es	ser	VSIP3S0	-	-	49-51	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	que	que	CS	-	-	52-55	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	se	se	P00CN000	-	-	56-58	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	trate	tratar	VMSP3S0	-	-	59-64	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	65-67	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	68-71	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	infección	infección	NCFS000	C0039128_1	trastorno_1	72-81	275(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	18	140,4	Causada_por,140
+17	por	por	SPS00	C0039128_2	trastorno_2	82-85	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Treponema	treponema	NCMS000	C0039128_3	trastorno_3	86-95	275(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	16	140	Causada_por
+19	pallidum	pallidum	NCMN000	C0039128_4	trastorno_4	96-104	275(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	18	101	MultiE
+20	.	.	Fp	-	-	105-106	275(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

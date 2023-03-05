@@ -1,0 +1,16 @@
+1	El	el	DA0MS0	-	-	0-2	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	análisis	análisis	NCMN000	C0002778	calificador	3-11	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	15-21	161(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	22-26	161(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	4	93	MultiE
+6	muestra	mostrar	VMIP3S0	-	-	27-34	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	35-37	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	número	número	NCMS000	C0237753#C1265611	calificador#atributo	38-44	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	disminuido	disminuir	VMP00SM	-	-	45-55	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	56-58	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	megacariocitos	megacariocito	NCMP000	C0025166	sustancia#célula	59-73	161(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+12	sin	sin	SPS00	C0332288	atributo	74-77	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	78-83	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	alteraciones	alteración	NCFP000	-	-	84-96	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	97-98	161(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

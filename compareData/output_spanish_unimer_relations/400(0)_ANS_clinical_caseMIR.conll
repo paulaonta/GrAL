@@ -1,0 +1,12 @@
+1	La	el	DA0FS0	-	-	0-2	400(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	inestabilidad	inestabilidad	NCFS000	C1444783#C0231444	anomalía_morfológica#hallazgo	3-16	400(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	17-19	400(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	la	el	DA0FS0	-	-	20-22	400(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	pared	pared	NCFS000	C0205076_1	estructura_corporal_1	23-28	400(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	2	1643	LOC
+6	torácica	torácico	AQ0FS0	C0205076_2	estructura_corporal_2	29-37	400(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	5	27	MultiE
+7	por	por	SPS00	C0678226	atributo	38-41	400(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	las	el	DA0FP0	-	-	42-45	400(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	fracturas	fracturar	VMIP2S0	C0016655_1	trastorno#anomalía_morfológica_1	46-55	400(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	2	1643	Causada_por
+10	múltiples	múltiple	AQ0CP0	C0016655_2	trastorno#anomalía_morfológica_2	56-65	400(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	9	1643	Modif
+11	.	.	Fp	-	-	66-67	400(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

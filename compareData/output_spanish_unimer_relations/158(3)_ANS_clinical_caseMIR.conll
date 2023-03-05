@@ -1,0 +1,16 @@
+1	Asociar	asociar	VMN0000	-	-	0-7	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	corticoides	corticoide	NCMP000	-	-	8-19	158(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+3	a	a	SPS00	-	-	20-21	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	dosis	dosis	NCFN000	-	-	22-27	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	28-30	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	0.5	0.5	Z	-	-	31-34	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	mg	mg	NCMN000	-	-	35-37	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	/	/	Fh	-	-	37-38	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Kg	kilogramo	NCMN000	C0439209	calificador	38-40	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	/	/	Fh	-	-	40-41	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	día	día	NCMS000	C0439228#C0332169	calificador	41-44	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	al	al	SP+DA	-	-	45-47	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	48-59	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	antibiótico	antibiótico	AQ0MS0	C0003232	producto#sustancia	60-71	158(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+15	.	.	Fp	-	-	72-73	158(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

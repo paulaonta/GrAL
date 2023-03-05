@@ -1,0 +1,28 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	3-5	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	6-14	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	15-18	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	clínica	clínica	NCFS000	C0442592	medio_ambiente	19-26	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	27-29	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	30-43	207_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	cardiaca	cardiaco	AQ0FS0	-	-	44-52	207_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	7	804	LOC
+9	que	que	PR0CN000	-	-	53-56	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	presenta	presentar	VMIP3S0	-	-	57-65	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	66-69	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ascitis	ascitis	NCFN000	C0003962	trastorno	70-77	207_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	desproporcionadamente	desproporcionadamente	RG	-	-	78-99	207_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	12	804	Modif
+14	elevada	elevar	VMP00SF	-	-	100-107	207_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	13	73	MultiE
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	108-110	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	111-119	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	al	al	SP+DA	-	-	120-122	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	edema	edema	NCMS000	C0085649_1	anomalía_morfológica#trastorno_1	123-128	207_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	12	804	Causada_por
+19	periférico	periférico	NCMS000	C0085649_2	anomalía_morfológica#trastorno_2	129-139	207_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	18	804	Modif
+20	,	,	Fc	-	-	139-140	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	141-143	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	etiología	etiología	NCFS000	C1314792	atributo	144-153	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	más	más	RG	C0205172	calificador	154-157	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	probable	probable	AQ0CS0	C0332148	calificador	158-166	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	sería	ser	VSIC1S0	-	-	167-172	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	:	:	Fd	-	-	172-173	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	.	.	Fp	-	-	173-174	207_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

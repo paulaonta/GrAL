@@ -1,0 +1,41 @@
+1	Se	se	P00CN000	-	-	0-2	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	12-14	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	hallazgo	hallazgo	NCMS000	C0243095	hallazgo	15-23	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	probablemente	probablemente	RG	C0332148	calificador	24-37	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	benigno	benigno	AQ0MS0	C0205183	calificador	38-45	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	45-46	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	dado	dar	VMP00SM	C1947971	calificador	47-51	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	que	que	PR0CN000	-	-	52-55	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	hay	haber	VMIP3S0	-	-	56-59	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	menos	menos	RG	C0332288	atributo	60-65	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	66-68	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	un	un		C0205447_1	calificador_1	69-71	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	2	2	Z	-	-	72-73	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	%	%	Ft	-	-	74-75	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	76-78	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	probabilidad	probabilidad	NCFS000	-	-	79-91	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	92-94	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	95-101	492(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	.	.	Fp	-	-	101-102	492(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	103-105	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+2	explica	explicar	VMIP3S0	-	-	106-113	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+3	que	que	CS	-	-	114-117	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+4	requiere	requerir	VMIP3S0	-	-	118-126	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	127-129	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	130-132	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+7	seguimiento	seguimiento	NCMS000	-	-	133-144	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+8	cada	cada	DI0CS0	C1457900	calificador	145-149	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+9	6-12	6-12		-	-	150-154	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+10	meses	mes	NCMP000	C0439231	calificador	155-160	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+11	hasta	hasta	SPS00	-	-	161-166	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+12	los	el	DA0MP0	-	-	167-170	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+13	24	24		-	-	171-173	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+14	meses	mes	NCMP000	C0439231	calificador	174-179	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+15	o	o	CC	-	-	180-181	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	182-185	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+17	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	186-193	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	194-195	492(2)_ANS_clinical_caseMIR	SENT2	-	-	-	-	-
+

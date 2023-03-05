@@ -1,0 +1,74 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	84	84		-	-	9-11	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	27-30	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	pérdida	pérdida	NCFS000	-	-	31-38	281_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	39-41	281_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	2226	Modif
+10	visión	visión	NCFS000	C0042789	calificador	42-48	281_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	9	74	MultiE
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	49-51	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	el	el	DA0MS0	-	-	52-54	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	ojo	ojo	NCMS000	C1305218#C0229090_1	estructura_corporal_1	55-58	281_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	2226	LOC
+14	izquierdo	izquierdo	NC00SC0	C1305218#C0229090_2	estructura_corporal_2	59-68	281_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	13	73	MultiE
+15	de	de	SPS00	C0332285	atributo	69-71	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	4	4	Z	-	-	72-73	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	días	d	NCMP000	-	-	74-78	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	79-81	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	evolución	evolución	NCFS000	-	-	82-91	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	acompañada	acompañar	VMP00SF	-	-	92-102	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	103-105	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	metamorfopsias	metamorfopsia	NCFP000	C0271185	trastorno	106-120	281_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	.	.	Fp	-	-	120-121	281_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	122-124	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	125-127	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	mácula	mácula	NCFS000	C0332573	anomalía_morfológica	128-134	281_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	12	2227,7	LOC,2227
+4	se	se	P00CN000	-	-	135-137	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	aprecian	apreciar	VMIP3P0	-	-	138-146	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	abundantes	abundante	AQ0CP0	-	-	147-157	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	exudados	exudado	NCMP000	C0015388#C0311437	sustancia#anomalía_morfológica#función	158-166	281_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	duros	duro	AQ0MP0	C0018599	calificador	167-172	281_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	2227	Modif
+9	,	,	Fc	-	-	172-173	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	dos	dos		-	-	174-177	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	pequeñas	pequeño	AQ0FP0	C0700321#C1282918	calificador	178-186	281_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	12	2227,7	Modif,2227
+12	hemorragias	hemorragia	NCFP000	C0019080	hallazgo#anomalía_morfológica	187-198	281_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	profundas	profundo	AQ0FP0	C0205125#C0439808	calificador	199-208	281_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	12	2227	Modif
+14	y	y	CC	C1706368	calificador	209-210	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	211-213	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	desprendimiento	desprendimiento	NCMS000	-	-	214-229	281_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	230-232	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	la	el	DA0FS0	-	-	233-235	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	retina	retina	NCFS000	C1278894#C0035298	estructura_corporal	236-242	281_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	16	2227	LOC
+20	neurosensorial	neurosensorial	AQ0CS0	-	-	243-257	281_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	19	91	MultiE
+21	localizado	localizar	VMP00SM	-	-	258-268	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	268-269	281_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	270-272	281_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	273-275	281_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	ojo	ojo	NCMS000	C0015392#C1280202	estructura_corporal	276-279	281_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	2228	LOC
+4	contralateral	contralateral	AQ0CS0	C0441988	calificador	280-293	281_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	3	68	MultiE
+5	presenta	presentar	VMIP3S0	-	-	294-302	281_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	abundantes	abundante	AQ0CP0	-	-	303-313	281_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	drusas	drusa	NCFP000	C1260959#C0333440	anomalía_morfológica	314-320	281_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	blandas	blando	AQ0FP0	C0205358	calificador	321-328	281_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	7	2228	Modif
+9	.	.	Fp	-	-	328-329	281_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Ante	ante	SPS00	-	-	330-334	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	este	este	DD0MS0	-	-	335-339	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	cuadro	cuadro	NCMS000	-	-	340-346	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	,	,	Fc	-	-	346-347	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	¿	¿	Fia	-	-	348-349	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	Cuál	cuál	PT0CS000	-	-	349-353	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	354-356	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	los	el	DA0MP0	-	-	357-360	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	siguientes	siguiente	AQ0CP0	C0332282	atributo	361-371	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	372-384	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	385-387	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	parece	parecer	VMIP3S0	-	-	388-394	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	más	más	RG	C0205172	calificador	395-398	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	probable	probable	AQ0CS0	C0332148	calificador	399-407	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	?	?	Fit	-	-	407-408	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	408-409	281_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,43 @@
+1	Embarazada	embarazar	VMP00SF	-	-	0-10	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	11-13	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	37	37		-	-	14-16	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	semanas	semana	NCFP000	C0439230	calificador	17-24	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	25-28	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	antígeno	antígeno	NCMS000	C0003320	sustancia	29-37	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	38-40	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	superficie	superficie	NCFS000	C0205148	calificador#atributo	41-51	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	del	del	SP+DA	-	-	52-55	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	virus	virus	NCMN000	C0019169_1	organismo_1	56-61	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0019169_2	organismo_2	62-64	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	la	lo	PP3FSA00	C0019169_3	organismo_3	65-67	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hepatitis	hepatitis	NCFN000	C0019169_4	organismo_4	68-77	46_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	B	b	NCFS000	C0019169_5	organismo_5	78-79	46_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	13	73	MultiE
+15	positivo	positivo	AQ0MS0	C1446409	calificador	80-88	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	.	.	Fp	-	-	88-89	46_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	90-98	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	sobre	sobre	SPS00	C1720294#C0205136	calificador	99-104	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	105-107	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	pauta	pauta	NCFS000	-	-	108-113	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	a	a	SPS00	-	-	114-115	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	seguir	seguir	VMN0000	-	-	116-122	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	123-126	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	el	el	DA0MS0	-	-	127-129	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	recién	recién	RG	C0021289#C2239178_1	persona#hallazgo_1	130-136	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	nacido	nacido	NCMS000	C0021289#C2239178_2	persona#hallazgo_2	137-143	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	144-145	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	si	si	CS	-	-	146-148	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	puede	poder	VMIP3S0	-	-	149-154	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	lactar	lactar	VMN0000	-	-	155-161	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	161-162	46_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	163-164	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	164-167	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	consejo	consejo	NCMS000	-	-	168-175	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	176-178	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	parece	parecer	VMIP3S0	-	-	179-185	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	186-189	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	adecuado	adecuar	VMP00SM	-	-	190-198	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	198-199	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	199-200	46_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

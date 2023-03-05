@@ -1,0 +1,92 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	recién	recién	RG	C0021289#C2239178_1	persona#hallazgo_1	3-9	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	nacido	nacido	NCMS000	C0021289#C2239178_2	persona#hallazgo_2	10-16	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	17-19	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	37	37		-	-	20-22	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	semanas	semana	NCFP000	C0439230	calificador	23-30	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0001779_1	entidad_observable_1	31-33	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	edad	edad	NCFS000	C0001779_2	entidad_observable_2	34-38	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	gestacional	gestacional	AQ0CS0	C0439671	calificador	39-50	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	,	,	Fc	-	-	50-51	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	sin	sin	SPS00	C0332442_1	hallazgo_1	52-55	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	hallazgos	hallazgo	NCMP000	C0332442_2	hallazgo_2	56-65	125_QUEST_clinical_caseMIR	SENT1	-	Negacion	-	-	-
+13	patológicos	patológico	AQ0MP0	C0332442_3	hallazgo_3	66-77	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	la	el	DA0FS0	-	-	81-83	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	84-93	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	prenatal	prenatal	AQ0CS0	C2828394	calificador	94-102	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	,	,	Fc	-	-	102-103	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	presenta	presentar	VMIP3S0	-	-	104-112	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	113-115	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	116-118	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	exploración	exploración	NCFS000	C1280903	procedimiento	119-130	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	realizada	realizar	VMP00SF	-	-	131-140	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	141-143	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	el	el	DA0MS0	-	-	144-146	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	paritorio	paritorio	NCMS000	-	-	147-156	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	un	un		C0205447_1	calificador_1	157-159	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	“	“	Fra	-	-	160-161	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	stop	stop	NCMS000	-	-	161-165	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	”	”	Frc	-	-	165-166	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	al	al	SP+DA	-	-	167-169	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	paso	paso	NCMS000	C1261552	calificador	170-174	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	de	de	SPS00	C0332285	atributo	175-177	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	la	el	DA0FS0	-	-	178-180	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	sonda	sondar	VMM02S0	C0085678_1	objeto_físico_1	181-186	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	nasogástrica	nasogástrica		C0085678_2	objeto_físico_2	187-199	125_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+37	.	.	Fp	-	-	199-200	125_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	201-203	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	radiografía	radiografía	NCFS000	C1629851_1	procedimiento_1	204-215	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C1629851_2	procedimiento_2	216-218	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	tórax	tórax	NCMN000	C1629851_3	procedimiento_3	219-224	125_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	y	y	NCFS000	C1629851_4	procedimiento_4	225-226	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	abdomen	abdomen	NCMS000	C1629851_5	procedimiento_5	227-234	125_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+7	muestra	mostrar	VMIP3S0	-	-	235-242	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	243-245	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	bolsón	bolsón	NCMS000	-	-	246-252	125_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	esofágico	esofágico	AQ0MS0	-	-	253-262	125_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	3168	LOC
+11	atrésico	atrésico	AQ0MS00	-	-	263-271	125_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	9	3168	Modif
+12	,	,	Fc	-	-	271-272	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	273-276	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	277-280	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	neumatización	neumatización	NCFS000	-	-	281-294	125_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	gastrointestinal	gastrointestinal	AQ0CS0	-	-	295-311	125_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	15	3168	LOC
+17	normal	normal	AQ0CS0	C0205307	calificador	312-318	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	318-319	125_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	320-324	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	evaluación	evaluación	NCFS000	C0431080_1	procedimiento_1	325-335	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	diagnóstica	diagnóstico	AQ0FS0	C0431080_2	procedimiento_2	336-347	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	que	que	PR0CN000	-	-	348-351	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	descarta	descartar	VMIP3S0	C0332196	calificador	352-360	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	361-366	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	anomalías	anomalía	NCFP000	-	-	367-376	125_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+8	y	y	CC	C1706368	calificador	377-378	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	encontrando	encontrar	VMG0000	-	-	379-390	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	se	se	PP3CN000	-	-	390-392	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	393-395	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	situación	situación	NCFS000	-	-	396-405	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	respiratoria	respiratorio	AQ0FS0	-	-	406-418	125_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+14	estable	estable	AQ0CS0	C0205360	calificador	419-426	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	,	,	Fc	-	-	426-427	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	se	se	P00CN000	-	-	428-430	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	decide	decidir	VMIP3S0	-	-	431-437	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	intervención	intervención	NCFS000	C0543467_1	procedimiento_1	438-450	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	quirúrgica	quirúrgico	AQ0FS0	C0543467_2	procedimiento_2	451-461	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	.	.	Fp	-	-	461-462	125_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	463-464	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	En	en	SPS00	C1720294#C0332285	calificador#atributo	464-466	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	qué	qué	PT0CN000	-	-	467-470	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	se	se	P00CN000	-	-	471-473	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	basa	basar	VMIP3S0	-	-	474-478	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	la	el	DA0FS0	-	-	479-481	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	prioridad	prioridad	NCFS000	C0549179#C0439607	atributo#calificador	482-491	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	492-494	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	intervenir	intervenir	VMN0000	-	-	495-505	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	este	este	DD0MS0	-	-	506-510	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	511-519	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	?	?	Fit	-	-	519-520	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	520-521	125_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

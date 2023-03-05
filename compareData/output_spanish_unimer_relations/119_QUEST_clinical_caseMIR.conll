@@ -1,0 +1,54 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	35	35		-	-	10-12	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	22-27	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	al	al	SP+DA	-	-	28-30	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	servicio	servicio	NCMS000	-	-	31-39	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	40-42	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	43-52	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	53-56	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	dolor	dolor	NCMS000	C0030193	hallazgo	57-62	119_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	63-65	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	su	su	DP3CS0	-	-	66-68	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	ojo	ojo	NCMS000	C1305216#C0229089_1	estructura_corporal_1	69-72	119_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	12	4171	LOC
+16	derecho	derecho	NCMS000	C1305216#C0229089_2	estructura_corporal_2	73-80	119_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	15	170	MultiE
+17	de	de	SPS00	C0332285	atributo	81-83	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	3	3	Z	-	-	84-85	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	días	d	NCMP000	-	-	86-90	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	91-93	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	evolución	evolución	NCFS000	-	-	94-103	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	.	.	Fp	-	-	103-104	119_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	105-107	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	exploración	exploración	NCFS000	C1280903	procedimiento	108-119	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	biomicroscópica	biomicroscópica	AQ0FS00	-	-	120-135	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	del	del	SP+DA	-	-	136-139	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	segmento	segmento	NCMS000	C0348014_1	calificador_1	140-148	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	anterior	anterior	NC00SC0	C0348014_2	calificador_2	149-157	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	muestra	mostrar	VMIP3S0	-	-	158-165	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	,	,	Fc	-	-	165-166	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	tras	tras	SPS00	-	-	167-171	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tinción	tinción	NCFS000	C0038128#C0013343	sustancia	172-179	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	180-183	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	fluoresceína	fluoresceína	NCFS000	C0060520	sustancia#producto	184-196	119_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+13	,	,	Fc	-	-	196-197	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	198-201	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	úlcera	úlcera	NCFS000	C0155069_1	trastorno_1	202-208	119_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	corneal	corneal	AQ0CS0	C0155069_2	trastorno_2	209-216	119_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	15	4172	LOC
+17	central	central	NCFS000	C0155069_3	trastorno_3	217-224	119_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	16	73	MultiE
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	225-227	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	forma	forma	NCFS000	C0348078	atributo	228-233	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	234-236	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	dendrita	dendrita	NCFS000	C0011305	estructura_celular	237-245	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	245-246	119_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	247-248	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	248-252	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	253-255	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	su	su	DP3CS0	-	-	256-258	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	259-270	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	?	?	Fit	-	-	270-271	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	.	.	Fp	-	-	271-272	119_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

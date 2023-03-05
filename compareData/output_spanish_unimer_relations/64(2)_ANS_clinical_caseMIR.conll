@@ -1,0 +1,14 @@
+1	Traslado	traslado	NCMS000	C1540850	entidad_observable	0-8	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	inmediato	inmediato	AQ0MS0	C0205253	calificador	9-18	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	a	a	SPS00	-	-	19-20	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	21-23	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	centro	centro	NCMS000	C0205099	calificador	24-30	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	terciario	terciario	AQ0MS0	C0205372	calificador	31-40	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	41-45	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	procedimiento	procedimiento	NCMS000	C0184661	procedimiento	46-59	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	60-62	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	revascularización	revascularización	NCFS000	-	-	63-80	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	coronaria	coronario	AQ0FS0	-	-	81-90	64(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+12	percutánea	percutánea	AQ0FS00	-	-	91-101	64(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	11	62	MultiE
+13	.	.	Fp	-	-	102-103	64(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

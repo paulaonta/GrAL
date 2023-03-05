@@ -1,0 +1,61 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	22	22		-	-	13-15	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	30-33	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	parada	parado	NCFS000	-	-	34-40	405_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	cardiaca	cardiaco	AQ0FS0	-	-	41-49	405_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	3179	LOC
+10	súbita	súbito	AQ0FS0	-	-	50-56	405_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	3179	Modif
+11	con	con	SPS00	C0332287	atributo	57-60	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	61-63	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	ritmo	ritmo	NCMS000	C0449243	atributo	64-69	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	que	que	PR0CN000	-	-	70-73	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	se	se	P00CN000	-	-	74-76	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	considera	considerar	VMIP3S0	-	-	77-86	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	susceptible	susceptible	NC00SC0	C0231204	calificador	87-98	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	99-101	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	desfibrilación	desfibrilación	NCFS000	-	-	102-116	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	116-117	405_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	118-120	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	están	estar	VAIP3P0	-	-	121-126	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	realizando	realizar	VMG0000	-	-	127-137	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	compresiones	compresión	NCFP000	C0332459#C1285497	anomalía_morfológica	138-150	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	torácicas	torácico	AQ0FP0	C0817096	calificador	151-160	405_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	y	y	CC	C1706368	calificador	161-162	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	ventilaciones	ventilación	NCFP000	C2945579	función	163-176	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	,	,	Fc	-	-	176-177	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	se	se	P00CN000	-	-	178-180	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	ha	haber	VAIP3S0	-	-	181-183	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	dado	dar	VMP00SM	C1947971	calificador	184-188	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	189-192	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	descarga	descarga	NCFS000	-	-	193-201	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	202-205	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	el	el	DA0MS0	-	-	206-208	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	desfibrilador	desfibrilador	NC00SC0	C0180307	objeto_físico	209-222	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	223-224	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	se	se	P00CN000	-	-	225-227	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	ha	haber	VAIP3S0	-	-	228-230	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	canalizado	canalizar	VMP00SM	-	-	231-241	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	una	una		C0205447_1	calificador_1	242-245	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	vía	vía	NCFS000	C0449444	atributo	246-249	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	venosa	venoso	AQ0FS0	C0348013	calificador	250-256	405_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+24	periférica	periférico	AQ0FS0	C0205100	calificador	257-267	405_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	23	91	MultiE
+25	.	.	Fp	-	-	267-268	405_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	269-270	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	270-274	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	275-277	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	278-281	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	282-292	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	293-304	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	sería	ser	VSIC1S0	-	-	305-310	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	311-319	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	a	a	SPS00	-	-	320-321	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	continuación	continuación	NCFS000	-	-	322-334	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	?	?	Fit	-	-	334-335	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	:	:	Fd	-	-	335-336	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	.	.	Fp	-	-	336-337	405_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

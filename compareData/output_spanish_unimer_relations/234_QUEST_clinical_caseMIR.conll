@@ -1,0 +1,161 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	65	65		-	-	9-11	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	25-28	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	29-41	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332119_2	situación_2	42-44	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	dolores	dolor	NCMP000	C0030193	hallazgo	45-52	234_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	articulares	articular	AQ0CP0	-	-	53-64	234_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	10	2677	LOC
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	65-67	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	68-79	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	80-83	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	antiinflamatorios	antiinflamatorios	NC00AO0	-	-	84-101	234_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+16	que	que	PR0CN000	-	-	102-105	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	es	ser	VSIP3S0	-	-	106-108	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	remitida	remitir	VMP00SF	C0439600	calificador	109-117	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	a	a	SPS00	-	-	118-119	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	estudio	estudio	NCMS000	C0557651	medio_ambiente	120-127	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	por	por	SPS00	C0678226	atributo	128-131	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	presentar	presentar	VMN0000	-	-	132-141	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	142-148	234_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	.	.	Fp	-	-	148-149	234_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	150-152	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	los	el	DA0MP0	-	-	153-156	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	estudios	estudio	NCMP000	C0557651	medio_ambiente	157-165	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	complementarios	complementario	AQ0MP0	-	-	166-181	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	presenta	presentar	VMIP3S0	-	-	182-190	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	hematíes	hematíe	NCMP000	-	-	191-199	234_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+7	3.164.000	3.164.000		-	-	200-209	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	,	,	Fc	-	-	209-210	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	Hto.	hto.	NCFS000	-	-	211-215	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	32	32	Z	-	-	216-218	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	%	%	Ft	-	-	218-219	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	,	,	Fc	-	-	219-220	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	Hb	hb	NC00YL0	-	-	221-223	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	11g/dl	11g/dl		-	-	224-230	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	,	,	Fc	-	-	230-231	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	VCM	vcm	NC00SC0	C0524587	entidad_observable	232-235	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	69	69		-	-	236-238	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	fl	fl	NC00SC0	C0475213	calificador	239-241	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	,	,	Fc	-	-	241-242	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	Leucocitos	leucocito	NCMP000	C0023516	célula	243-253	234_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+21	7800	7800		-	-	254-258	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	,	,	Fc	-	-	258-259	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	Plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	260-269	234_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+24	370.000	370.000		-	-	270-277	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	,	,	Fc	-	-	277-278	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	PCR	pcr	NC00YL0	-	-	279-282	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	0,29	0.29	Z	-	-	283-287	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	mg	mg	NCMN000	-	-	288-290	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	/	/	Fh	-	-	290-291	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	dl	decilitro	NCMN000	C0439241	calificador	291-293	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	,	,	Fc	-	-	293-294	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	Fe	fe	NCFS000	-	-	295-297	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	20ng/ml	20ng/ml		-	-	298-305	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	,	,	Fc	-	-	305-306	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	Ferritina	ferritina	NCFS000	C0015879	sustancia	307-316	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	18	18		-	-	317-319	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	ng	nasogástrico	NC00YL0	-	-	320-322	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	/	/	Fh	-	-	322-323	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	ml	mililitro	NCMN000	C0439242	calificador	323-325	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	,	,	Fc	-	-	325-326	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	Glucosa	glucosa	NCFS000	C0017725	sustancia#producto	327-334	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	105	105	Z	-	-	335-338	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	mg	mg	NCMN000	-	-	339-341	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	/	/	Fh	-	-	341-342	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+45	dl	decilitro	NCMN000	C0439241	calificador	342-344	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+46	,	,	Fc	-	-	344-345	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+47	GOT	glutámic_oxaloacetic_transaminase_(transaminasa_glutámico_oxalacética)	NC00YL0	-	-	346-349	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+48	,	,	Fc	-	-	349-350	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+49	GPT	glutamic_pyruvic_transaminase_(transaminasa_glutámico_pirúvica)	NC00YL0	-	-	351-354	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+50	,	,	Fc	-	-	354-355	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+51	GGT	gammaglutamiltranspeptidasa	NC00YL0	-	-	356-359	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+52	,	,	Fc	-	-	359-360	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+53	F.	f.	NCFS000	-	-	361-363	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+54	Alcalina	alcalino	AQ0FS0	-	-	363-371	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+55	,	,	Fc	-	-	371-372	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+56	Bilirrubina	bilirrubina	NCFS000	C0201913_1	procedimiento_1	373-384	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+57	total	total	NCMS000	C0201913_2	procedimiento_2	385-390	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+58	,	,	Fc	-	-	390-391	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+59	Colesterol	colesterol	NCMS000	C0008377	sustancia	392-402	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+60	,	,	Fc	-	-	402-403	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+61	Creatinina	creatinina	NC00SC0	C0010294	sustancia	404-414	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+62	,	,	Fc	-	-	414-415	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+63	Calcio	calcio	NCMS000	C0006675	sustancia	416-422	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+64	y	y	CC	C1706368	calificador	423-424	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+65	Fósforo	fósforo	NCMS000	C0031705	sustancia	425-432	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+66	normales	normal	AQ0CP0	C0205307	calificador	433-441	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+67	.	.	Fp	-	-	441-442	234_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Ac	ac	NC00YL0	-	-	443-445	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	.	.	Fp	-	-	445-446	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	antitransglutaminasa	antitransglutaminasa	AQ0CN00	-	-	446-466	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	y	y	CC	C1706368	calificador	467-468	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	Ac	ac	NC00YL0	-	-	469-471	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	antigliadina	antigliadina	AQ0CN00	-	-	472-484	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	negativos	negativo	AQ0MP0	C0205160#C0549184	calificador	485-494	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	494-495	234_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Gastroscopia	gastroscopia	NCFS000	C0017195	procedimiento	496-508	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	:	:	Fd	-	-	508-509	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	hernia	herniar	VMM02S0	C3489393_1	trastorno_1	510-516	234_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+4	de	de	SPS00	C3489393_2	trastorno_2	517-519	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	hiato	hiato	NCMS000	C3489393_3	trastorno_3	520-525	234_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	3	2680	LOC
+6	de	de	SPS00	C0332285	atributo	526-528	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	3	3	Z	-	-	529-530	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	cm	cm	NCMN000	-	-	531-533	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	,	,	Fc	-	-	533-534	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	resto	resto	NCMS000	-	-	535-540	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	sin	sin	SPS00	C0332288	atributo	541-544	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	alteraciones	alteración	NCFP000	-	-	545-557	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	557-558	234_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Colonoscopia	colonoscopia	NC00SC0	C0009378	procedimiento	559-571	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	:	:	Fd	-	-	571-572	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	hasta	hasta	RG	-	-	573-578	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	ciego	ciego	AQ0MS0	C0332224#C0525065#C1278925#C0456909#C0007531	calificador#hallazgo#estructura_corporal	579-584	234_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+5	,	,	Fc	-	-	584-585	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	aislados	aislar	VMP00PM	-	-	586-594	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	divertículos	divertículo	NCMP000	C0012817#C1510475	anomalía_morfológica	595-607	234_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	608-610	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	sigma	sigma	NCMS000	-	-	611-616	234_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	7	2681	LOC
+10	.	.	Fp	-	-	616-617	234_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Tránsito	tránsito	NCMS000	-	-	618-626	234_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	intestinal	intestinal	AQ0CS0	C0021853	calificador	627-637	234_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+3	sin	sin	SPS00	C0332288	atributo	638-641	234_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	alteraciones	alteración	NCFP000	-	-	642-654	234_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	.	.	Fp	-	-	654-655	234_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Ecografía	ecografía	NCFS000	C0203464_1	procedimiento_1	656-665	234_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	de	de	SPS00	C0203464_2	procedimiento_2	666-668	234_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	abdomen	abdomen	NCMS000	C0203464_3	procedimiento_3	669-676	234_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	-	-	-
+4	sin	sin	SPS00	C0332288	atributo	677-680	234_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	alteraciones	alteración	NCFP000	-	-	681-693	234_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	.	.	Fp	-	-	693-694	234_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	695-696	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	696-700	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	701-703	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	las	el	DA0FP0	-	-	704-707	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+5	exploraciones	exploración	NCFP000	C1280903	procedimiento	708-721	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+6	que	que	PR0CN000	-	-	722-725	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	se	se	P00CN000	-	-	726-728	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+8	enumeran	enumerar	VMIP3P0	-	-	729-737	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+9	a	a	SPS00	-	-	738-739	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+10	continuación	continuación	NCFS000	-	-	740-752	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+11	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	753-755	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+12	parece	parecer	VMIP3S0	-	-	756-762	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+13	más	más	RG	C0205172	calificador	763-766	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+14	adecuada	adecuar	VMP00SF	-	-	767-775	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+15	para	para	SPS00	C0521125	calificador	776-780	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+16	completar	completar	VMN0000	-	-	781-790	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+17	el	el	DA0MS0	-	-	791-793	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+18	estudio	estudio	NCMS000	C0557651	medio_ambiente	794-801	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+19	?	?	Fit	-	-	801-802	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+20	.	.	Fp	-	-	802-803	234_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+

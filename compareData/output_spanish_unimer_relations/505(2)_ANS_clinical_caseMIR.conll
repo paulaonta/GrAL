@@ -1,0 +1,9 @@
+1	Lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	0-6	505(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	7-10	505(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	rotura	rotura	NCFS000	-	-	11-17	505(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	1	2169	Causada_por
+4	del	del	SP+DA	-	-	18-21	505(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	ligamento	ligamento	NCMS000	C1269080#C0023685	estructura_corporal	22-31	505(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	3	2169	LOC
+6	cruzado	cruzar	VMP00SM	-	-	32-39	505(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	5	27	MultiE
+7	posterior	posterior	NC00SC0	C0205095#C0439781	calificador	40-49	505(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	5	27	MultiE
+8	.	.	Fp	-	-	50-51	505(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,79 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	26	26		-	-	13-15	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sin	sin	SPS00	C0332122_1	calificador_1	21-24	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	25-37	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332122_3	calificador_3	38-40	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	interés	interés	NCMS000	-	-	41-48	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	,	,	Fc	-	-	48-49	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	asintomático	asintomático	AQ0MS0	-	-	50-62	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	,	,	Fc	-	-	62-63	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	presenta	presentar	VMIP3S0	-	-	64-72	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	73-75	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	76-79	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	80-88	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	un	un		C0205447_1	calificador_1	89-91	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	soplo	soplo	NCMS000	C0232259_1	hallazgo_1	92-97	77_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	mesosistólico	mesosistólico		C0232259_2	hallazgo_2	98-111	77_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	767	Modif
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	112-114	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	foco	foco	NCMS000	-	-	115-119	77_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	767	LOC
+22	aórtico	aórtico	AQ0MS0	C0003483	calificador	120-127	77_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	21	60	MultiE
+23	y	y	CC	C1706368	calificador	128-129	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	borde	borde	AQ0CS0	C0205154	calificador	130-135	77_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	767	LOC
+25	paraesternal	paraesternal	NC00SC0	C0442146	calificador	136-148	77_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	24	123	MultiE
+26	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	149-158	77_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	24	123	MultiE
+27	que	que	PR0CN000	-	-	159-162	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	aumenta	aumentar	VMIP3S0	-	-	163-170	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	con	con	SPS00	C0332287	atributo	171-174	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	la	el	DA0FS0	-	-	175-177	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	maniobra	maniobrar	VMM02S0	C1276858#C0042293_1	función_biológica#calificador_1	178-186	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	de	de	SPS00	C1276858#C0042293_2	función_biológica#calificador_2	187-189	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	Valsalva	Valsalva		C1276858#C0042293_3	función_biológica#calificador_3	190-198	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	.	.	Fp	-	-	198-199	77_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	200-202	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	TA	ta	NC00YL0	-	-	203-205	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	206-207	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	los	el	DA0MP0	-	-	208-211	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	pulsos	pulso	NCMP000	C0391850	función	212-218	77_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	periféricos	periférico	AQ0MP0	C0205100	calificador	219-230	77_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	5	27	MultiE
+7	son	ser	VSIP3P0	-	-	231-234	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	normales	normal	AQ0CP0	C0205307	calificador	235-243	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	244-245	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	el	el	DA0MS0	-	-	246-248	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	ECG	ecg	NC00YL0	C1623258	procedimiento	249-252	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	muestra	mostrar	VMIP3S0	-	-	253-260	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	signos	signo	NCMP000	C0311392	hallazgo	261-267	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	268-270	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	marcado	marcar	VMP00SM	-	-	271-278	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	crecimiento	crecimiento	NCMS000	-	-	279-290	77_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+17	ventricular	ventricular	AQ0CS0	-	-	291-302	77_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	16	768	LOC
+18	izquierdo	izquierdo	NC00SC0	C0205091	calificador	303-312	77_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	17	164	MultiE
+19	y	y	CC	C1706368	calificador	313-314	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	ondas	onda	NCFP000	-	-	315-320	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	T	t	NCFS000	-	-	321-322	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	negativas	negativo	AQ0FP0	C0205160#C0549184	calificador	323-332	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	muy	muy	RG	C0442824	calificador	333-336	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	profundas	profundo	AQ0FP0	C0205125#C0439808	calificador	337-346	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	en	en	SPS00	C1720294#C0332285	calificador#atributo	347-349	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	V3	V3		-	-	350-352	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	,	,	Fc	-	-	352-353	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	V4	V4		-	-	354-356	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	,	,	Fc	-	-	356-357	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	V5	V5		-	-	358-360	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	y	y	CC	C1706368	calificador	361-362	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	V6	V6		-	-	363-365	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	.	.	Fp	-	-	365-366	77_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	367-368	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	368-372	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	373-375	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	el	el	DA0MS0	-	-	376-378	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	379-390	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	391-394	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	395-403	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	403-404	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	404-405	77_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

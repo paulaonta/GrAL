@@ -1,0 +1,15 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	análogos	análogo	AQ0MP0	-	-	16-24	95(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	25-27	95(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	3	68	MultiE
+5	Gn-Rh	gn-rh	NCMS000	-	-	28-33	95(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	3	68	MultiE
+6	durante	durante	SPS00	C1444752#C0347984	atributo	34-41	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tres	tres		-	-	42-46	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	meses	mes	NCMP000	C0439231	calificador	47-52	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	antes	antes	RG	C0332152	atributo	53-58	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	59-61	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	intentar	intentar	VMN0000	-	-	62-70	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	el	el	DA0MS0	-	-	71-73	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	74-82	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	.	.	Fp	-	-	83-84	95(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

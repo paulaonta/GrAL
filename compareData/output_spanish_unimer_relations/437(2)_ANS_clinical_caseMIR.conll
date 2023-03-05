@@ -1,0 +1,18 @@
+1	Se	se	P00CN000	-	-	0-2	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	trata	tratar	VMIP3S0	-	-	3-8	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	12-15	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	infección	infección	NCFS000	C0029118_1	trastorno_1	16-25	437(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	15	1793	Causada_por
+6	oportunista	oportunista	NCCS000	C0029118_2	trastorno_2	26-37	437(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	5	1793	Modif
+7	desenmascarada	desenmascarar	VMP00SF	-	-	38-52	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	53-55	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	el	el	DA0MS0	-	-	56-58	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	seno	seno	NCMS000	C0006141#C0929301	estructura_corporal	59-63	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	64-66	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	67-69	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	cuadro	cuadro	NCMS000	-	-	70-76	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	77-79	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	reconstitución	reconstitución	NCFS000	-	-	80-94	437(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	inmune	inmune	AQ0CS0	C0205470	calificador	95-101	437(2)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	15	1793	Modif
+17	.	.	Fp	-	-	102-103	437(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

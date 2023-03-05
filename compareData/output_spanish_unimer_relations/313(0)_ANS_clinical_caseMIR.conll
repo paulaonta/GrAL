@@ -1,0 +1,7 @@
+1	Neoplasia	neoplasia	NCFS000	C0027651#C1882062	anomalía_morfológica#trastorno	0-9	313(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	4	3479	Causada_por
+2	pulmonar	pulmonar	NC00SC0	C2709248	calificador	10-18	313(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	1	3479	LOC
+3	con	con	SPS00	C0332287	atributo	19-22	313(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	23-33	313(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+5	cerebrales	cerebral	NCCP000	-	-	34-44	313(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	4	3479	LOC
+6	.	.	Fp	-	-	45-46	313(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

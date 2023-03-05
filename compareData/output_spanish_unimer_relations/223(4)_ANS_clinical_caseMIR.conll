@@ -1,0 +1,21 @@
+1	Realizaría	realizar	VMIC3S0	-	-	0-10	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	11-14	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	15-22	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	/	/	Fh	-	-	22-23	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	aspirado	aspirado	NC00SC0	C0370199	espécimen	23-31	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	32-34	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	35-41	223(4)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+8	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	42-46	223(4)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	7	50	MultiE
+9	y	y	CC	C1706368	calificador	47-48	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	,	,	Fc	-	-	48-49	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	si	si	CS	-	-	50-52	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	se	se	P00CN000	-	-	53-55	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	confirma	confirmar	VMIP3S0	-	-	56-64	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	hemofagocitosis	hemofagocitosis	NC00SC0	C0302486#C0876991	hallazgo	65-80	223(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	,	,	Fc	-	-	80-81	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	iniciaría	iniciar	VMIC3S0	-	-	82-91	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	92-103	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	con	con	SPS00	C0332287	atributo	104-107	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	inmunosupresores	inmunosupresor	AQ0MP0	C0021081	producto#sustancia	108-124	223(4)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+20	.	.	Fp	-	-	125-126	223(4)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,90 @@
+1	A	a	SPS00	-	-	0-1	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	2-4	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	5-11	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	12-14	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	45	45		-	-	15-17	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	años	año	NCMP000	C0439234	calificador	18-22	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0001779_1	entidad_observable_1	23-25	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	edad	edad	NCFS000	C0001779_2	entidad_observable_2	26-30	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	se	se	P00CN000	-	-	31-33	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	34-36	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	realiza	realizar	VMIP3S0	-	-	37-44	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	45-48	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	vagotomía	vagotomía	NCFS000	C0394374	procedimiento	49-58	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	troncular	troncular	AQ0CS0	-	-	59-68	191_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+15	y	y	CC	C1706368	calificador	69-70	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	antrectomía	antrectomía	NCFS000	-	-	71-82	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	con	con	SPS00	C0332287	atributo	83-86	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	reconstrucción	reconstrucción	NCFS000	C0524865#C0456976	procedimiento#calificador	87-101	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	tipo	tipo	NCMS000	C0332307	calificador#atributo	102-106	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	Billroth	Billroth		-	-	107-115	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	II	II		-	-	116-118	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	,	,	Fc	-	-	118-119	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	por	por	SPS00	C0678226	atributo	120-123	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	padecer	padecer	VMN0000	-	-	124-131	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	una	una		C0205447_1	calificador_1	132-135	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	136-146	191_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	31	1634	Causada_por
+27	ulcerosa	ulceroso	AQ0FS0	C0041582	calificador	147-155	191_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	26	432	MultiE
+28	péptica	péptico	AQ0FS0	C0443277	calificador	156-163	191_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	26	1634	Modif
+29	crónica	crónica	NCFS000	-	-	164-171	191_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	26	1634	Modif
+30	con	con	SPS00	C0332287	atributo	172-175	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	estenosis	estenosis	NCFN000	C0009814#C1261287	anomalía_morfológica	176-185	191_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+32	píloro-duodenal	píloro-duodenal	NCMS000	-	-	186-201	191_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	31	1634	LOC
+33	.	.	Fp	-	-	201-202	191_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Seis	Seis		-	-	203-207	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	semanas	semana	NCFP000	C0439230	calificador	208-215	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	después	después	RG	C0231290	atributo	216-223	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	224-226	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	la	el	DA0FS0	-	-	227-229	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	230-237	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	refiere	referir	VMIP3S0	-	-	238-245	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	que	que	CS	-	-	246-249	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	poco	poco	DI0MS0	C0700321#C1282918	-	250-254	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tiempo	tiempo	NCMS000	C0040223#C3541383	calificador#atributo#metadato_fundacional	255-261	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	después	después	RG	C0231290	atributo	262-269	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	(	(	Fpa	-	-	270-271	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	menos	menos	RG	C0332288	atributo	271-276	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	277-279	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	media	medio	AQ0FS0	C2939193#C0205098#C0444598#C0549183	calificador	280-285	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	hora	hora	NCFS000	C0040223#C0439227	calificador	286-290	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	)	)	Fpt	-	-	290-291	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	292-294	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	las	el	DA0FP0	-	-	295-298	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	ingestas	ingesta	NCFP000	-	-	299-307	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	presenta	presentar	VMIP3S0	-	-	308-316	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	317-323	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+23	nauseoso	nauseoso	NC00SC0	C0027497	hallazgo	324-332	191_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	22	80	MultiE
+24	,	,	Fc	-	-	332-333	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	334-341	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+26	y	y	CC	C1706368	calificador	342-343	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	sudoración	sudoración	NCFS000	C0038990_1	entidad_observable#hallazgo_1	344-354	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+28	,	,	Fc	-	-	354-355	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	mareos	mareo	NCMP000	C0012833#C0220870	hallazgo	356-362	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+30	y	y	CC	C1706368	calificador	363-364	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	retortijones	retortijón	NCMP000	-	-	365-377	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+32	abdominales	abdominal	AQ0CP0	C0000726	calificador	378-389	191_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	31	1635	LOC
+33	generalmente	generalmente	RG	-	-	390-402	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	acompañados	acompañar	VMP00PM	-	-	403-414	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	415-417	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	despeños	despeño	NCMP000	-	-	418-426	191_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+37	diarreicos	diarreico	AQ0MP0	-	-	427-437	191_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	36	614	MultiE
+38	.	.	Fp	-	-	437-438	191_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	439-440	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	440-444	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	445-447	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	448-451	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	452-462	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	463-465	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	la	el	DA0FS0	-	-	466-468	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	469-476	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	más	más	RG	C0205172	calificador	477-480	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	adecuada	adecuar	VMP00SF	-	-	481-489	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	para	para	SPS00	C0521125	calificador	490-494	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	su	su	DP3CS0	-	-	495-497	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	manejo	manejo	NCMS000	C1273870	procedimiento	498-504	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	inicial	inicial	AQ0CS0	C0205265	calificador	505-512	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	?	?	Fit	-	-	512-513	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	.	.	Fp	-	-	513-514	191_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

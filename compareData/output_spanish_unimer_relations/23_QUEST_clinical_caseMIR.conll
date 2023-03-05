@@ -1,0 +1,29 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	inmunodeficiente	inmunodeficiente	AQ0CS00	-	-	12-28	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	que	que	PR0CN000	-	-	29-32	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	presenta	presentar	VMIP3S0	-	-	33-41	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	42-44	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	la	el	DA0FS0	-	-	45-47	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	48-59	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0039985_2	procedimiento_2	60-62	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	63-68	23_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	907	LOC
+11	/	/	Fh	-	-	68-69	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	69-71	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	72-75	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	neumonía	neumonía	NCFS000	C0032285#C3714636	trastorno	76-84	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	85-88	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	el	el	DA0MS0	-	-	89-91	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	signo	signo	NCMS000	C0233205_1	hallazgo_1	92-97	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	del	del	SP+DA	C0233205_2	hallazgo_2	98-101	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	halo	halo	NCMS000	C0233205_3	hallazgo_3	102-106	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	menisco	menisco	NCMS000	-	-	107-114	23_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+21	o	o	CC	-	-	115-116	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	contorno	contorno	NCMS000	-	-	117-125	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	semilunar	semilunar	AQ0CS0	-	-	126-135	23_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+24	sugiere	sugerir	VMIP3S0	-	-	136-143	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	infección	infección	NCFS000	C0009450	trastorno	144-153	23_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+26	por	por	SPS00	C0678226	atributo	154-157	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	:	:	Fd	-	-	157-158	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	.	.	Fp	-	-	158-159	23_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

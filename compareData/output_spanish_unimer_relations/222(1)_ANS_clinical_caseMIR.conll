@@ -1,0 +1,19 @@
+1	El	el	DA0MS0	-	-	0-2	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	proceso	proceso	NCMS000	C1522240	entidad_observable	3-10	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	clínico	clínico	AQ0MS0	C0205210	calificador	11-18	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	que	que	PR0CN000	-	-	19-22	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	padece	padecer	VMIP3S0	-	-	23-29	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	la	el	DA0FS0	-	-	30-32	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	33-41	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	no	no	RN	C1298908	calificador	42-44	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	concuerda	concordar	VMIP3S0	-	-	45-54	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	55-58	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	el	el	DA0MS0	-	-	59-61	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	62-64	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	65-67	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	infección	infección	NCFS000	C0343752_1	trastorno_1	68-77	222(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	aguda	agudo	AQ0FS0	C0343752_2	trastorno_2	78-83	222(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	14	2231	Modif
+16	por	por	SPS00	C0343752_3	trastorno_3	84-87	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	VIH	virus_de_la_inmunodeficiencia_humana	NC00YL0	C0343752_4	trastorno_4	88-91	222(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	14	2231	Causada_por
+18	.	.	Fp	-	-	92-93	222(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

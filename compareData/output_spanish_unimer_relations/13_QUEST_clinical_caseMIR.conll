@@ -1,0 +1,76 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	62	62		-	-	10-12	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	22-34	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332119_2	situación_2	35-37	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hábito	hábito	NCMS000	C0018464	hallazgo	38-44	13_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	enólico	enólico	AQ0MS00	-	-	45-52	13_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	97	MultiE
+10	importante	importante	AQ0CS0	-	-	53-63	13_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	3192	Modif
+11	,	,	Fc	-	-	63-64	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	portador	portador	NCMS000	C0560175	hallazgo	65-73	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	74-76	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	virus	virus	NCMN000	C0042776	organismo	77-82	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	83-85	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	hepatitis	hepatitis	NCFN000	C0019196_1	trastorno_1	86-95	13_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	C	c	NC00YL0	C0019196_2	trastorno_2	96-97	13_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	16	73	MultiE
+18	,	,	Fc	-	-	97-98	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	sigue	seguir	VMIP3S0	-	-	99-104	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	105-116	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	con	con	SPS00	C0332287	atributo	117-120	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	Ibuprofeno	ibuprofeno	NCMS000	C0020740	sustancia	121-131	13_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+23	por	por	SPS00	C0678226	atributo	132-135	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	una	una		C0205447_1	calificador_1	136-139	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	tendinitis	tendinitis	NCFN000	C0039503_1	trastorno_1	140-150	13_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	151-153	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	hombro	hombro	NCMS000	C0524468_1	estructura_corporal_1	154-160	13_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	25	3192	LOC
+28	derecho	derecho	NCMS000	C0524468_2	estructura_corporal_2	161-168	13_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	27	147	MultiE
+29	,	,	Fc	-	-	168-169	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	acude	acudir	VMIP3S0	-	-	170-175	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	a	a	SPS00	-	-	176-177	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	su	su	DP3CS0	-	-	178-180	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	dermatólogo	dermatólogo	NCMS000	C0259831	ocupación	181-192	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	porque	porque	CS	-	-	193-199	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	despues	despues	RG	-	-	200-207	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	de	de	SPS00	C0332285	atributo	208-210	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	pasar	pasar	VMN0000	-	-	211-216	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	dos	dos		-	-	217-220	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	semanas	semana	NCFP000	C0439230	calificador	221-228	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	de	de	SPS00	C0332285	atributo	229-231	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	vacaciones	vacación	NCFP000	-	-	232-242	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	en	en	SPS00	C1720294#C0332285	calificador#atributo	243-245	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	la	el	DA0FS0	-	-	246-248	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	playa	playa	NCFS000	C0331781	medio_ambiente	249-254	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	observa	observar	VMIP3S0	-	-	255-262	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	la	el	DA0FS0	-	-	263-265	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	aparición	aparición	NCFS000	-	-	266-275	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	de	de	SPS00	C0332285	atributo	276-278	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	ampollas	ampolla	NCFP000	C0005758#C0344311#C1706498	trastorno#calificador#anomalía_morfológica	279-287	13_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+50	tensas	tenso	AQ0FP0	-	-	288-294	13_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	49	3192	Modif
+51	en	en	SPS00	C1720294#C0332285	calificador#atributo	295-297	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	dorso	dorso	NCMS000	C1995000	estructura_corporal	298-303	13_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	49	3192	LOC
+53	de	de	SPS00	C0332285	atributo	304-306	13_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	52	1802	MultiE
+54	manos	mano	NCFP000	C3714557#C1281583	estructura_corporal	307-312	13_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	52	1802	MultiE
+55	.	.	Fp	-	-	312-313	13_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	314-315	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	316-318	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	319-330	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	ademas	adema	NCFP000	-	-	331-337	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	338-340	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	localización	localización	NCFS000	C0450429#C0205145	atributo#calificador	341-353	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	y	y	CC	C1706368	calificador	354-355	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	ligera	ligero	AQ0FS0	-	-	356-362	13_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	9	3193	Modif
+9	hipertricosis	hipertricosis	NC00SC0	C0020555	trastorno	363-376	13_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	malar	malar	AQ0CS0	C0448294#C1744563	estructura_corporal	377-382	13_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	9	3193	Modif
+11	.	.	Fp	-	-	382-383	13_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	385-387	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	388-399	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	más	más	RG	C0205172	calificador	400-403	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	probable	probable	AQ0CS0	C0332148	calificador	404-412	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	413-415	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	:	:	Fd	-	-	415-416	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	.	.	Fp	-	-	416-417	13_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

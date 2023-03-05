@@ -1,0 +1,175 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	32	32		-	-	9-11	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	21-29	446_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	30-32	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	neoplasia	neoplasia	NCFS000	C0027662#C0311355_1	trastorno_1	33-42	446_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	6	1308	Causada_por
+9	endocrina	endocrino	AQ0FS0	C0027662#C0311355_2	trastorno_2	43-52	446_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	1308	LOC
+10	múltiple	múltiple	NC00SC0	C0027662#C0311355_3	trastorno_3	53-61	446_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	1308	Modif
+11	de	de	SPS00	C0332307_1	atributo_1	62-64	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	tipo	tipo	NCMS000	C0332307_2	atributo_2	65-69	446_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	8	1308	Modif
+13	2A	2A		-	-	70-72	446_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	12	89	MultiE
+14	(	(	Fpa	-	-	73-74	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	MEN-2A	MEN-2A		-	-	74-80	446_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	-	-	-
+16	)	)	Fpt	-	-	80-81	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	82-83	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	portadora	portador	NCFS000	C0560175	hallazgo	84-93	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	94-96	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	una	una		C0205447_1	calificador_1	97-100	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	mutación	mutación	NCFS000	-	-	101-109	446_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	110-112	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	RET	ret	NCFS000	-	-	113-116	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	116-117	446_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	118-120	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	121-124	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	ecografía	ecografía	NCFS000	C0412517_1	procedimiento_1	125-134	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0412517_2	procedimiento_2	135-137	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	cuello	cuello	NCMS000	C0412517_3	procedimiento_3	138-144	446_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	se	se	P00CN000	-	-	145-147	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	identifica	identificar	VMIP3S0	-	-	148-158	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	159-161	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	nódulo	nódulo	NCMS000	C0028259	anomalía_morfológica	162-168	446_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	15	1309	Causada_por
+10	hipoecogénico	hipoecogénico	AQ0MS00	-	-	169-182	446_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	9	1309	LOC
+11	de	de	SPS00	C0332285	atributo	183-185	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	6	6	Z	-	-	186-187	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	mm	mm	NCMN000	-	-	188-190	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	con	con	SPS00	C0332287	atributo	191-194	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	calcificaciones	calcificación	NCFP000	C1533591	-	195-210	446_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	211-213	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	su	su	DP3CS0	-	-	214-216	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	interior	interior	NCMS000	C0205102	calificador	217-225	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	.	.	Fp	-	-	225-226	446_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	227-229	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	decide	decidir	VMIP3S0	-	-	230-236	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	tiroidectomía	tiroidectomía	NC00SC0	C0193788_1	procedimiento_1	237-250	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	total	total	NCMS000	C0193788_2	procedimiento_2	251-256	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	257-258	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	vaciamiento	vaciamiento	NCMS000	-	-	259-270	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	271-281	446_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+8	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	282-290	446_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	7	50	MultiE
+9	.	.	Fp	-	-	290-291	446_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	292-294	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	el	el	DA0MS0	-	-	295-297	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	298-305	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	macroscópico	macroscópico	AQ0MS0	C0439806	calificador	306-318	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	se	se	P00CN000	-	-	319-321	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	identifican	identificar	VMIP3P0	-	-	322-333	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	334-336	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	total	total	NCMS000	C0205197#C0439810#C0444868	calificador	337-342	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	343-345	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	tres	tres		-	-	346-350	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	nódulos	nódulo	NCMP000	C0028259	anomalía_morfológica	351-358	446_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+12	,	,	Fc	-	-	358-359	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	dos	dos		-	-	360-363	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	364-366	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	el	el	DA0MS0	-	-	367-369	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	lóbulo	lóbulo	NCMS000	-	-	370-376	446_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+17	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	377-384	446_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	16	73	MultiE
+18	de	de	SPS00	C0332285	atributo	385-387	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	5	5		-	-	388-389	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	390-391	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	6	6	Z	-	-	392-393	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	mm	mm	NCMN000	-	-	394-396	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+23	,	,	Fc	-	-	396-397	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+24	y	y	CC	C1706368	calificador	398-399	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+25	uno	uno		C0205447_1	calificador_1	400-403	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+26	en	en	SPS00	C1720294#C0332285	calificador#atributo	404-406	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+27	el	el	DA0MS0	-	-	407-409	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+28	lóbulo	lóbulo	NCMS000	-	-	410-416	446_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	11	1311	LOC
+29	izquierdo	izquierdo	AQ0MS0	C0205091	calificador	417-426	446_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	28	541	MultiE
+30	de	de	SPS00	C0332285	atributo	427-429	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+31	4	4	Z	-	-	430-431	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+32	mm	mm	NCMN000	-	-	432-434	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+33	.	.	Fp	-	-	434-435	446_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	436-438	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	el	el	DA0MS0	-	-	439-441	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	442-449	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	microscópico	microscópico	AQ0MS0	C0205288	calificador	450-462	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	las	el	DA0FP0	-	-	463-466	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	tres	tres		-	-	467-471	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	472-480	446_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+8	están	estar	VAIP3P0	-	-	481-486	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	constituidas	constituir	VMP00PF	-	-	487-499	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	500-503	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	504-507	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	proliferación	proliferación	NCFS000	C0334094	anomalía_morfológica	508-521	446_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	7	1312	Causada_por
+13	uniforme	uniforme	AQ0CS0	C0205375	calificador	522-530	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	531-533	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	células	célula	NCFP000	C1269647#C0007634	célula#estructura_corporal	534-541	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	redondeadas	redondear	VMP00PF	-	-	542-553	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	que	que	PR0CN000	-	-	554-557	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	se	se	P00CN000	-	-	558-560	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	disponen	disponer	VMIP3P0	-	-	561-569	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	con	con	SPS00	C0332287	atributo	570-573	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	un	un		C0205447_1	calificador_1	574-576	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	patrón	patrón	NCMS000	C0449774	atributo	577-583	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	sólido	sólido	AQ0MS0	C0302909#C0205208	sustancia#calificador	584-590	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+24	y	y	CC	C1706368	calificador	591-592	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	se	se	P00CN000	-	-	593-595	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	acompañan	acompañar	VMIP3P0	-	-	596-605	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	606-608	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+28	calcificaciones	calcificación	NCFP000	C1533591	-	609-624	446_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+29	y	y	CC	C1706368	calificador	625-626	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	de	de	SPS00	C0332285	atributo	627-629	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+31	depósitos	depósito	NCMP000	C0442627#C0333562	medio_ambiente#anomalía_morfológica	630-639	446_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	640-642	446_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	31	1258	MultiE
+33	amiloide	amiloide	NC00SC0	C0011560	anomalía_morfológica	643-651	446_QUEST_clinical_caseMIR	SENT5	I-Grp_Enfermedad	-	31	1258	MultiE
+34	.	.	Fp	-	-	651-652	446_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	653-656	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	núcleos	núcleo	NCMP000	C0007610#C0444669	estructura_celular#calificador	657-664	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	no	no	RN	C1298908	calificador	665-667	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	son	ser	VSIP3P0	-	-	668-671	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	claros	claro	AQ0MP0	C2963144#C1306462#C0522503	calificador	672-678	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	,	,	Fc	-	-	678-679	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	ni	ni	CC	-	-	680-682	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	muestran	mostrar	VMIP3P0	-	-	683-691	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	hendiduras	hendidura	NCFP000	C0332469	anomalía_morfológica	692-702	446_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Negacion	-	-	-
+10	,	,	Fc	-	-	702-703	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	ni	ni	CC	-	-	704-706	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	pseudoinclusiones	pseudoinclusión	NCFP000	-	-	707-724	446_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	Negacion	-	-	-
+13	.	.	Fp	-	-	724-725	446_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	726-728	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	tinción	tinción	NCFS000	C0038128#C0013343	sustancia	729-736	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	inmunohistoquímica	inmunohistoquímica	AQ0FS00	-	-	737-755	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	para	para	SPS00	C0521125	calificador	756-760	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	sinaptofisina	sinaptofisina	NCFS000	-	-	761-774	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	775-777	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	positiva	positivo	AQ0FS0	C1446409	calificador	778-786	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	.	.	Fp	-	-	786-787	446_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	788-790	446_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	el	el	DA0MS0	-	-	791-793	446_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	vaciamiento	vaciamiento	NCMS000	-	-	794-805	446_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	ganglionar	ganglionar	AQ0CS0	C0443268	calificador	806-816	446_QUEST_clinical_caseMIR	SENT8	B-Estructura_Corporal	-	-	-	-
+5	cervical	cervical	AQ0CS0	C0205064#C0237504	calificador#estructura_corporal	817-825	446_QUEST_clinical_caseMIR	SENT8	I-Estructura_Corporal	-	4	93	MultiE
+6	se	se	P00CN000	-	-	826-828	446_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	identifican	identificar	VMIP3P0	-	-	829-840	446_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+8	metástasis	metástasis	NCFN000	C2939419#C0013930	anomalía_morfológica	841-851	446_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-	-	-	-
+9	.	.	Fp	-	-	851-852	446_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	853-854	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	854-858	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	859-861	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+4	el	el	DA0MS0	-	-	862-864	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0332142_1	calificador_1	865-876	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+6	anatomopatológico	anatomopatológico	NC00SC0	C0332142_2	calificador_2	877-894	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	895-897	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+8	las	el	DA0FP0	-	-	898-901	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+9	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	902-910	446_QUEST_clinical_caseMIR	SENT9	B-Grp_Enfermedad	-	-	-	-
+10	identificadas	identificar	VMP00PF	-	-	911-924	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	925-927	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+12	la	el	DA0FS0	-	-	928-930	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+13	tiroidectomía	tiroidectomía	NC00SC0	C0193788_1	procedimiento_1	931-944	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+14	total	total	NCMS000	C0193788_2	procedimiento_2	945-950	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+15	?	?	Fit	-	-	950-951	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+16	:	:	Fd	-	-	951-952	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+17	.	.	Fp	-	-	952-953	446_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+

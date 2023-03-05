@@ -1,0 +1,91 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	niña	niño	NCFS000	C0008059#C0870221	persona	4-8	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	13	13		-	-	12-14	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	27-28	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	nos	nos	PP1CP000	-	-	29-32	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	consulta	consultar	VMM02S0	C1704447_1	calificador_1	33-41	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C1704447_2	calificador_2	42-45	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	presentar	presentar	VMN0000	-	-	46-55	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	56-63	128_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	64-66	128_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	1994	Modif
+15	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	67-71	128_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	14	5	MultiE
+16	,	,	Fc	-	-	71-72	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	73-80	128_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	,	,	Fc	-	-	80-81	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	amenorrea	amenorrea	NCFS000	C0232940_1	hallazgo_1	82-91	128_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	secundaria	secundario	AQ0FS0	C0232940_2	hallazgo_2	92-102	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	103-104	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	estreñimiento	estreñimiento	NCMS000	C0009806	hallazgo#trastorno	105-118	128_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	.	.	Fp	-	-	118-119	128_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	120-122	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	123-125	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	126-137	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	138-145	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	146-149	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	temperatura	temperatura	NCFS000	C0039476	atributo	150-161	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	162-164	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	35ºC	35ºC		-	-	165-169	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	,	,	Fc	-	-	169-170	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	171-173	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	peso	peso	NCMS000	C0043100	calificador	174-178	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	inferior	inferior	AQ0CS0	C0542339#C0205104	calificador	179-187	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	al	al	SP+DA	-	-	188-190	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	percentil	percentil	NCMS000	-	-	191-200	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	3	3		-	-	201-202	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	,	,	Fc	-	-	202-203	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	bradicardia	bradicardia	NCFS000	C0428977	trastorno	204-215	128_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+18	e	y	CC	C1706368	calificador	216-217	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	hipotensión	hipotensión	NCFS000	C0428894_1	hallazgo_1	218-229	128_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+20	ortostática	ortostática		C0428894_2	hallazgo_2	230-241	128_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	19	1995	Modif
+21	.	.	Fp	-	-	241-242	128_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	243-245	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	la	el	DA0FS0	-	-	246-248	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	249-258	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	se	se	P00CN000	-	-	259-261	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	comprueba	comprobar	VMIP3S0	-	-	262-271	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	272-278	128_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	279-282	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	leucopenia	leucopenia	NCFS000	C0023530#C0750394	trastorno#hallazgo	283-293	128_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	294-298	128_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	8	1996	Modif
+10	,	,	Fc	-	-	298-299	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	colesterol	colesterol	NCMS000	C0008377	sustancia	300-310	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	311-313	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	230	230	Z	-	-	314-317	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	mg	mg	NCMN000	-	-	318-320	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	/	/	Fh	-	-	320-321	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	dl	decilitro	NCMN000	C0439241	calificador	321-323	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	324-325	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	326-328	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	el	el	DA0MS0	-	-	329-331	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	electrocardiograma	electrocardiograma	NCMS000	C1623258	procedimiento	332-350	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	una	una		C0205447_1	calificador_1	351-354	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	onda	onda	NCFS000	C0429059_1	hallazgo_1	355-359	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	T	t	NCFS000	C0429059_2	hallazgo_2	360-361	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	aplanada	aplanar	VMP00SF	C0429059_3	hallazgo_3	362-370	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	con	con	SPS00	C0332287	atributo	371-374	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	descenso	descenso	NCMS000	-	-	375-383	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	del	del	SP+DA	-	-	384-387	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	ST	st	NC00YL0	-	-	388-390	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	y	y	CC	C1706368	calificador	391-392	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	QTc	intervalo_qt_corregido	NC00YL0	-	-	393-396	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	prolongado	prolongar	VMP00SM	-	-	397-407	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	.	.	Fp	-	-	407-408	128_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	409-410	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	410-413	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	proceso	proceso	NCMS000	C1522240	entidad_observable	414-421	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	sospecharía	sospechar	VMIC3S0	-	-	422-433	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	434-435	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	qué	qué	PT0CN000	-	-	436-439	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	haría	hacer	VMIC3S0	-	-	440-445	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	a	a	SPS00	-	-	446-447	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	continuación	continuación	NCFS000	-	-	448-460	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	?	?	Fit	-	-	460-461	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	461-462	128_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

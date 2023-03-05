@@ -1,0 +1,16 @@
+1	Solicitaría	solicitar	VMIC3S0	-	-	0-11	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	RNM	resonancia_nuclear_magnética	NC00YL0	-	-	12-15	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	lumbar	lumbar	AQ0CS0	C0024090	calificador	16-22	288(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+4	para	para	SPS00	C0521125	calificador	23-27	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	descartar	descartar	VMN0000	C0332196	calificador	28-37	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	hernia	herniar	VMM02S0	C0678212_1	trastorno_1	38-44	288(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+7	discal	discal	AQ0CS0	C0678212_2	trastorno_2	45-51	288(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	3228	LOC
+8	y	y	CC	C1706368	calificador	52-53	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	si	si	CS	-	-	54-56	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	persiste	persistir	VMIP3S0	-	-	57-65	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	diarrea	diarrea	NCFS000	C0011991	hallazgo	66-73	288(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	,	,	Fc	-	-	73-74	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	estudio	estudio	NCMS000	C0557651	medio_ambiente	75-82	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	digestivo	digestivo	AQ0MS0	C0012237	sustancia	83-92	288(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+15	.	.	Fp	-	-	93-94	288(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,32 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	79	79		-	-	9-11	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	ingresa	ingresar	VMIP3S0	-	-	21-28	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	29-32	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	33-36	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	fractura	fracturar	VMM02S0	C0521170_1	anomalía_morfológica_1	37-45	498_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	osteoporótica	osteoporótica		C0521170_2	anomalía_morfológica_2	46-59	498_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	1517	Modif
+11	de	de	SPS00	C0332285	atributo	60-62	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cadera	cadera	NCFS000	C0019552	estructura_corporal	63-69	498_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	1517	LOC
+13	.	.	Fp	-	-	69-70	498_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Respecto	respecto	NCMS000	-	-	71-79	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	80-81	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	la	el	DA0FS0	-	-	82-84	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	prevención	prevención	NCFS000	C0679699_1	procedimiento_1	85-95	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	secundaria	secundario	AQ0FS0	C0679699_2	procedimiento_2	96-106	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	107-109	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	las	el	DA0FP0	-	-	110-113	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	fracturas	fractura	NCFP000	C0016658	anomalía_morfológica	114-123	498_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	124-127	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	fragilidad	fragilidad	NCFS000	C0302113	función	128-138	498_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	8	1518	Causada_por
+11	,	,	Fc	-	-	138-139	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	señale	señalar	VMSP3S0	-	-	140-146	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	147-149	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	respuesta	respuesta	NCFS000	-	-	150-159	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	INCORRECTA	incorrecto	AQ0FS0	-	-	160-170	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	:	:	Fd	-	-	170-171	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	171-172	498_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

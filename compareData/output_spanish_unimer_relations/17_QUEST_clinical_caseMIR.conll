@@ -1,0 +1,89 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	40	40		-	-	12-14	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	27-28	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	fumador	fumador	NCMS000	C0337664	hallazgo	29-36	17_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	desde	desde	SPS00	-	-	37-42	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	los	el	DA0MP0	-	-	43-46	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	18	18		-	-	47-49	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	años	año	NCMP000	C0439234	calificador	50-54	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	y	y	CC	C1706368	calificador	55-56	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	sin	sin	SPS00	C0332122_1	calificador_1	57-60	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	antecedentes	antecedente	NCMP000	C0332122_2	calificador_2	61-73	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332122_3	calificador_3	74-76	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	interés	interés	NCMS000	-	-	77-84	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	.	.	Fp	-	-	84-85	17_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Consulta	consultar	VMM02S0	C1704447_1	calificador_1	86-94	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	por	por	SPS00	C1704447_2	calificador_2	95-98	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	cuadro	cuadro	NCMS000	-	-	99-105	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	106-108	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	24	24	Z	C0439584_1	calificador_1	109-111	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	horas	hora	NCFP000	C0439584_2	calificador_2	112-117	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	118-120	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	evolución	evolución	NCFS000	-	-	121-130	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	131-133	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	escalofríos	escalofrío	NCMP000	C0234192#C0085593#C0424790	entidad_observable#hallazgo	134-145	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	,	,	Fc	-	-	145-146	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	fiebre	fiebre	NCFS000	C0015967	hallazgo	147-153	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	termometrada	termometrada	VMP00SF	-	-	154-166	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	167-169	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	39ºC	39ºC		-	-	170-174	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	175-176	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	tos	tos	NCFS000	C0010200_1	entidad_observable#hallazgo_1	177-180	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+18	con	con	SPS00	C0332287	atributo	181-184	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	expectoración	expectoración	NCFS000	C0232515#C0038056	función#sustancia	185-198	17_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+20	.	.	Fp	-	-	198-199	17_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	200-202	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Rx	rx	NC00SC0	C0039985_1	procedimiento_1	203-205	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0039985_2	procedimiento_2	206-208	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	209-214	17_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	pone	poner	VMIP3S0	-	-	215-219	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	220-222	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	223-233	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	234-236	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	aumento	aumento	NCMS000	C0442805	calificador	237-244	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	245-247	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	densidad	densidad	NCFS000	C0178587	calificador	248-256	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	con	con	SPS00	C0439712_1	atributo_1	257-260	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	patrón	patrón	NCMS000	C0439712_2	atributo_2	261-267	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	alveolar	alveolar	AQ0CS0	-	-	268-276	17_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	277-279	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	el	el	DA0MS0	-	-	280-282	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	LSD	lsd	NC00SC0	C0369632	sustancia	283-286	17_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+18	y	y	CC	C1706368	calificador	287-288	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	el	el	DA0MS0	-	-	289-291	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	paciente	paciente	NCCS000	C0030705	persona	292-300	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	es	ser	VSIP3S0	-	-	301-303	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	diagnosticado	diagnosticar	VMP00SM	-	-	304-317	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	318-320	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	NAC	neumonía_adquirida_en_la_comunidad	NC00YL0	-	-	321-324	17_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+25	.	.	Fp	-	-	324-325	17_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	326-327	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	327-331	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	332-334	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	el	el	DA0MS0	-	-	335-337	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	agente	agente	NCCS000	C0450442	atributo	338-344	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	etiológico	etiológico	AQ0MS0	-	-	345-355	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	356-359	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	frecuente	frecuente	AQ0CS0	C0332183	calificador	360-369	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	370-371	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	372-375	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	tanto	tanto	RG	-	-	376-381	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	382-384	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	obligada	obligar	VMP00SF	-	-	385-393	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	cobertura	cobertura	NCFS000	-	-	394-403	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	al	al	SP+DA	-	-	404-406	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	elegir	elegir	VMN0000	-	-	407-413	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	el	el	DA0MS0	-	-	414-416	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	417-428	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	atb	antibiótico	NC00YL0	C0003232	producto#sustancia	429-432	17_QUEST_clinical_caseMIR	SENT4	B-Grp_Medicamento	-	-	-	-
+20	empírico	empírico	AQ0MS0	-	-	433-441	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	?	?	Fit	-	-	441-442	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+22	.	.	Fp	-	-	442-443	17_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

@@ -1,0 +1,316 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	80	80		-	-	13-15	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	21-23	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	llevado	llevar	VMP00SM	-	-	24-31	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	32-33	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Urgencias	urgencia	NCFP000	C0439609	calificador	34-43	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	44-47	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	la	el	DA0FS0	-	-	48-50	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	policía	policía	NCCS000	C0086825	ocupación	51-58	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	a	a	SPS00	-	-	59-60	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	encontrar	encontrar	VMN0000	-	-	61-70	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	70-72	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	por	por	SPS00	C0439583_1	calificador_1	73-76	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	la	lo	PP3FSA00	C0439583_2	calificador_2	77-79	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	noche	noche	NCFS000	C0439583_3	calificador_3	80-85	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	,	,	Fc	-	-	85-86	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	87-89	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	90-92	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	calle	calle	NCFS000	C0442658	medio_ambiente	93-98	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	,	,	Fc	-	-	98-99	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	a	a	SPS00	-	-	100-101	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	varios	varios	DI0MP0	C0443302#C0440102	calificador#sustancia	102-108	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	bloques	bloque	NCMP000	-	-	109-116	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	117-119	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	su	su	DP3CS0	-	-	120-122	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	domicilio	domicilio	NCMS000	C1442065	entidad_observable	123-132	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	,	,	Fc	-	-	132-133	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	algo	algo	PI0CS000	-	-	134-138	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	perdido	perder	VMP00SM	-	-	139-146	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	.	.	Fp	-	-	146-147	335_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Dice	decir	VMIP3S0	-	-	148-152	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	al	al	SP+DA	-	-	153-155	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	médico	médico	NCCS000	C0205476#C0031831	calificador#ocupación	156-162	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	163-165	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	Urgencias	urgencia	NCFP000	C0439609	calificador	166-175	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	«	«	Fra	-	-	176-177	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	me	me	PP1CS000	-	-	177-179	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	encuentro	encontrar	VMIP1S0	-	-	180-189	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	bien	bien	RG	C0205170	calificador	190-194	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	194-195	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	estaba	estar	VAII3S0	-	-	196-202	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	paseando	pasear	VMG0000	-	-	203-211	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	y	y	CC	C1706368	calificador	212-213	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	me	me	PP1CS000	-	-	214-216	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	he	haber	VAIP1S0	-	-	217-219	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	perdido	perder	VMP00SM	-	-	220-227	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	»	»	Frc	-	-	227-228	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	228-229	335_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	230-232	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	233-241	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	,	,	Fc	-	-	241-242	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	243-246	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	sistemas	sistema	NCMP000	C0449913	atributo	247-255	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	,	,	Fc	-	-	255-256	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	257-259	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	anodina	anodino	AQ0FS0	-	-	260-267	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	267-268	335_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	269-271	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	preguntar	preguntar	VMN0000	-	-	272-281	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	281-283	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	284-287	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	su	su	DP3CS0	-	-	288-290	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	medicación	medicación	NCFS000	C0013227	sustancia	291-301	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	,	,	Fc	-	-	301-302	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	no	no	RN	C1298908	calificador	303-305	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	recuerda	recordar	VMIP3S0	C0557033	procedimiento	306-314	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	314-315	335_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	316-318	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	su	su	DP3CS0	-	-	319-321	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	historial	historial	NCMS000	-	-	322-331	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	constan	constar	VMIP3P0	-	-	332-339	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	glipizida	glipizida	NC00SC0	C0017642	sustancia	340-349	335_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+6	,	,	Fc	-	-	349-350	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	atenolol	atenolol	NCMS000	C0004147	producto#sustancia	351-359	335_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+8	y	y	CC	C1706368	calificador	360-361	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	362-374	335_QUEST_clinical_caseMIR	SENT5	B-Grp_Medicamento	-	-	-	-
+10	.	.	Fp	-	-	374-375	335_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Ha	haber	VAIP3S0	-	-	376-378	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	estado	estar	VAP00SM	-	-	379-385	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	386-388	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	Urgencias	urgencia	NCFP000	C0439609	calificador	389-398	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	3	3		-	-	399-400	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	veces	vez	NCFP000	-	-	401-406	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	407-409	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	los	el	DA0MP0	-	-	410-413	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	últimos	último	AO0MP0	-	-	414-421	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	tres	tres		-	-	422-426	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	meses	mes	NCMP000	C0439231	calificador	427-432	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	por	por	SPS00	C0678226	atributo	433-436	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	«	«	Fra	-	-	437-438	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	mareo	mareo	NCMS000	C0012833#C0220870	hallazgo	438-443	335_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+15	»	»	Frc	-	-	443-444	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	,	,	Fc	-	-	444-445	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	dolor	dolor	NCMS000	C0024031_1	trastorno_1	446-451	335_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+18	lumbar	lumbar	NC00SC0	C0024031_2	trastorno_2	452-458	335_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	17	3146	LOC
+19	y	y	CC	C1706368	calificador	459-460	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	461-463	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+21	INR	international_normalized_ratio	NC00YL0	-	-	464-467	335_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	468-470	335_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-	21	60	MultiE
+23	5	5		-	-	471-472	335_QUEST_clinical_caseMIR	SENT6	I-Grp_Enfermedad	-	21	60	MultiE
+24	.	.	Fp	-	-	472-473	335_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	474-481	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	independencia	independencia	NCFS000	-	-	482-495	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	496-498	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	actividades	actividad	NCFP000	C0441655	entidad_observable	499-510	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	básicas	básico	AQ0FP0	-	-	511-518	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	e	y	CC	C1706368	calificador	519-520	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	instrumentales	instrumental	AQ0CP0	C1704339	atributo	521-535	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	536-538	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	la	el	DA0FS0	-	-	539-541	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+10	vida	vida	NCFS000	-	-	542-546	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+11	diaria	diario	AQ0FS0	C0332173	calificador	547-553	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+12	.	.	Fp	-	-	553-554	335_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	555-557	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+2	hay	haber	VMIP3S0	-	-	558-561	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+3	evidencia	evidenciar	VMM02S0	C0332120_1	calificador_1	562-571	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	de	de	SPS00	C0332120_2	calificador_2	572-574	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+5	familiares	familiar	AQ0CP0	C0080103#C0241888	persona#calificador	575-585	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+6	o	o	CC	-	-	586-587	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	amigos	amigo	NCMP000	C0079382	persona	588-594	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+8	cercanos	cercano	AQ0MP0	-	-	595-603	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+9	.	.	Fp	-	-	603-604	335_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+
+1	Varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	605-611	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+2	referencias	referencia	NCFP000	-	-	612-623	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+3	del	del	SP+DA	-	-	624-627	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+4	trabajo	trabajo	NCMS000	C0028811	ocupación	628-635	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+5	social	social	AQ0CS0	-	-	636-642	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+6	del	del	SP+DA	-	-	643-646	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+7	área	área	NCFS000	C0205146	calificador	647-651	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+8	indican	indicar	VMIP3P0	-	-	652-659	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+9	que	que	CS	-	-	660-663	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+10	rechaza	rechazar	VMIP3S0	-	-	664-671	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+11	ayudas	ayuda	NCFP000	C0449435	atributo	672-678	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+12	o	o	CC	-	-	679-680	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+13	visitas	visita	NCFP000	-	-	681-688	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+14	médicas	médico	AQ0FP0	C0205476#C0031831	calificador#ocupación	689-696	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+15	o	o	CC	-	-	697-698	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	699-701	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+17	enfermería	enfermería	NCFS000	C0028677	ocupación	702-712	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+18	.	.	Fp	-	-	712-713	335_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	714-716	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+2	la	el	DA0FS0	-	-	717-719	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+3	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	720-731	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+4	física	físico	NCFS000	C0031809_2	procedimiento_2	732-738	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+5	,	,	Fc	-	-	738-739	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+6	únicamente	únicamente	RG	-	-	740-750	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+7	destaca	destacar	VMIP3S0	-	-	751-758	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+8	temperatura	temperatura	NCFS000	C0039476	atributo	759-770	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	771-773	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+10	37.7	37.7		-	-	774-778	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+11	,	,	Fc	-	-	778-779	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+12	IMC	imc	NC00SC0	C1305855	entidad_observable	780-783	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	784-786	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+14	16	16		-	-	787-789	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+15	,	,	Fc	-	-	789-790	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+16	PA	pa	NC00YL0	-	-	791-793	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	794-796	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+18	160/90	160/90		-	-	797-803	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+19	,	,	Fc	-	-	803-804	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+20	FC	fc	NC00YL0	-	-	805-807	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	808-810	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+22	90	90		-	-	811-813	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+23	y	y	CC	C1706368	calificador	814-815	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+24	SO2	SO2		-	-	816-819	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	820-822	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+26	99	99	Z	-	-	823-825	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+27	%	%	Ft	-	-	825-826	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+28	.	.	Fp	-	-	826-827	335_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+
+1	Tiene	tener	VMIP3S0	-	-	828-833	335_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+2	pérdida	pérdida	NCFS000	-	-	834-841	335_QUEST_clinical_caseMIR	SENT11	B-Grp_Enfermedad	-	-	-	-
+3	global	global	AQ0CS0	C0205246	calificador	842-848	335_QUEST_clinical_caseMIR	SENT11	B-Calificador	-	2	3151	Modif
+4	de	de	SPS00	C0332285	atributo	849-851	335_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+5	masa	masa	NCFS000	C1306372#C0577559	calificador#hallazgo#anomalía_morfológica	852-856	335_QUEST_clinical_caseMIR	SENT11	B-Grp_Enfermedad	-	2	3151	Causada_por
+6	muscular	muscular	AQ0CS0	C0442025	calificador	857-865	335_QUEST_clinical_caseMIR	SENT11	B-Estructura_Corporal	-	5	3151	LOC
+7	.	.	Fp	-	-	865-866	335_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+
+1	Está	estar	VAIP3S0	-	-	867-871	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+2	vestido	vestir	VMP00SM	-	-	872-879	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+3	con	con	SPS00	C0332287	atributo	880-883	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+4	la	el	DA0FS0	-	-	884-886	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+5	bata	bata	NCFS000	C0181064	objeto_físico	887-891	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	892-894	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+7	casa	casa	NCFS000	C2003847	medio_ambiente	895-899	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	900-901	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+9	huele	oler	VMM02S0	C0424802_1	hallazgo_1	902-907	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+10	a	a	SPS00	C0424802_2	hallazgo_2	908-909	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+11	orina	orinar	VMM02S0	C0424802_3	hallazgo_3	910-915	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+12	.	.	Fp	-	-	915-916	335_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+
+1	Rechaza	rechazar	VMIP3S0	-	-	917-924	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+2	contestar	contestar	VMN0000	-	-	925-934	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+3	a	a	SPS00	-	-	935-936	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+4	las	el	DA0FP0	-	-	937-940	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+5	preguntas	pregunta	NCFP000	-	-	941-950	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+6	del	del	SP+DA	-	-	951-954	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+7	Minimental	minimental	AQ0CS00	-	-	955-965	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+8	.	.	Fp	-	-	965-966	335_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	967-969	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+2	las	el	DA0FP0	-	-	970-973	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+3	pruebas	prueba	NCFP000	-	-	974-981	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	982-984	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+5	laboratorio	laboratorio	NCMS000	C0022877	medio_ambiente	985-996	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+6	destacan	destacar	VMIP3P0	-	-	997-1005	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+7	13.000	13.000		-	-	1006-1012	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+8	leucos	leucos	NCMP000	-	-	1013-1019	335_QUEST_clinical_caseMIR	SENT14	B-Estructura_Corporal	-	-	-	-
+9	,	,	Fc	-	-	1019-1020	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+10	Glucemia	glucemia	NCFS000	C2585282	entidad_observable	1021-1029	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+11	300	300		-	-	1030-1033	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+12	,	,	Fc	-	-	1033-1034	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+13	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	1035-1046	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+14	glicosilada	glicosilada	VMP00SF	-	-	1047-1058	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+15	11	11	Z	-	-	1059-1061	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+16	%	%	Ft	-	-	1061-1062	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+17	,	,	Fc	-	-	1062-1063	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+18	INR	international_normalized_ratio	NC00YL0	-	-	1064-1067	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+19	0.9	0.9		-	-	1068-1071	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+20	,	,	Fc	-	-	1071-1072	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+21	en	en	SPS00	C1720294#C0332285	calificador#atributo	1073-1075	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+22	orina	orina	NCFS000	C0042036	sustancia	1076-1081	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+23	más	más	RG	C0205172	calificador	1082-1085	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	1086-1088	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+25	50	50		-	-	1089-1091	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+26	leucocitos	leucocito	NCMP000	C0023516	célula	1092-1102	335_QUEST_clinical_caseMIR	SENT14	B-Estructura_Corporal	-	-	-	-
+27	/	/	Fh	-	-	1102-1103	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+28	campo	campo	NCMS000	-	-	1103-1108	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+29	,	,	Fc	-	-	1108-1109	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+30	nitritos+	nitritos+	NCMS000	-	-	1110-1119	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+31	y	y	CC	C1706368	calificador	1120-1121	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+32	urocultivo	urocultivo	NC00SC0	C0430404	procedimiento	1122-1132	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+33	>	>	Fz	-	-	1133-1134	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+34	100.000	100.000		-	-	1135-1142	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+35	bacilos	bacilo	NCMP000	C0004587	organismo	1143-1150	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+36	Gram	método_de_tinción_para_microorganismos_que_descubrió_el_médico_danés_de_igual_nombre	NC00YL0	-	-	1151-1155	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+37	negativos	negativo	AQ0MP0	C0205160#C0549184	calificador	1156-1165	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+38	.	.	Fp	-	-	1165-1166	335_QUEST_clinical_caseMIR	SENT14	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	1167-1169	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+2	ingresado	ingresar	VMP00SM	-	-	1170-1179	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+3	en	en	SPS00	C1720294#C0332285	calificador#atributo	1180-1182	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+4	el	el	DA0MS0	-	-	1183-1185	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+5	hospital	hospital	NCMS000	C1510665	medio_ambiente	1186-1194	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+6	,	,	Fc	-	-	1194-1195	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+7	recibe	recibir	VMIP3S0	-	-	1196-1202	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+8	antibióticos	antibiótico	NCMP000	C0003232	producto#sustancia	1203-1215	335_QUEST_clinical_caseMIR	SENT15	B-Grp_Medicamento	-	-	-	-
+9	,	,	Fc	-	-	1215-1216	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+10	insulina	insulina	NCFS000	C0021641	sustancia	1217-1225	335_QUEST_clinical_caseMIR	SENT15	B-Grp_Medicamento	-	-	-	-
+11	y	y	CC	C1706368	calificador	1226-1227	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+12	se	se	P00CN000	-	-	1228-1230	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+13	reinicia	reiniciar	VMIP3S0	-	-	1231-1239	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+14	acenocumarol	acenocumarol	NC00SC0	C0000956	producto#sustancia	1240-1252	335_QUEST_clinical_caseMIR	SENT15	B-Grp_Medicamento	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	1253-1256	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+16	buena	bueno	AQ0FS0	C0205170	calificador	1257-1262	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+17	evolución	evolución	NCFS000	-	-	1263-1272	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+18	.	.	Fp	-	-	1272-1273	335_QUEST_clinical_caseMIR	SENT15	-	-	-	-	-
+
+1	Está	estar	VAM02S0	-	-	1274-1278	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+2	estable	estable	AQ0CS0	C0205360	calificador	1279-1286	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+3	y	y	CC	C1706368	calificador	1287-1288	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+4	quiere	querer	VMIP3S0	-	-	1289-1295	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+5	ir	ir	VMN0000	-	-	1296-1298	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+6	se	se	PP3CN000	-	-	1298-1300	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+7	a	a	SPS00	-	-	1301-1302	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+8	su	su	DP3CS0	-	-	1303-1305	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+9	domicilio	domicilio	NCMS000	C1442065	entidad_observable	1306-1315	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+10	.	.	Fp	-	-	1315-1316	335_QUEST_clinical_caseMIR	SENT16	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	1317-1319	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+2	enfermera	enfermero	NCFS000	C0728982_1	ocupación_1	1320-1329	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+3	de	de	SPS00	C0728982_2	ocupación_2	1330-1332	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+4	planta	plantar	VMM02S0	C0728982_3	ocupación_3	1333-1339	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+5	dice	decir	VMIP3S0	-	-	1340-1344	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+6	que	que	CS	-	-	1345-1348	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	1349-1351	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+8	incapaz	incapaz	AQ0CS0	C1299582	calificador	1352-1359	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	1360-1362	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+10	autoadministrar	autoadministrar	VMN0000	-	-	1363-1378	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+11	se	se	PP3CN000	-	-	1378-1380	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+12	la	el	DA0FS0	-	-	1381-1383	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+13	insulina	insulina	NCFS000	C0021641	sustancia	1384-1392	335_QUEST_clinical_caseMIR	SENT17	B-Grp_Medicamento	-	-	-	-
+14	.	.	Fp	-	-	1392-1393	335_QUEST_clinical_caseMIR	SENT17	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	1394-1395	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	1395-1399	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	1400-1402	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+4	los	el	DA0MP0	-	-	1403-1406	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	1407-1417	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	1418-1420	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+7	el	el	DA0MS0	-	-	1421-1423	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+8	próximo	próximo	AQ0MS0	-	-	1424-1431	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+9	paso	paso	NCMS000	C1261552	calificador	1432-1436	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+10	para	para	SPS00	C0521125	calificador	1437-1441	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+11	determinar	determinar	VMN0000	-	-	1442-1452	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+12	la	el	DA0FS0	-	-	1453-1455	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+13	seguridad	seguridad	NCFS000	C0205423	calificador	1456-1465	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+14	del	del	SP+DA	-	-	1466-1469	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+15	paciente	paciente	NCCS000	C0030705	persona	1470-1478	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	1479-1481	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+17	su	su	DP3CS0	-	-	1482-1484	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+18	domicilio	domicilio	NCMS000	C1442065	entidad_observable	1485-1494	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+19	?	?	Fit	-	-	1494-1495	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+20	.	.	Fp	-	-	1495-1496	335_QUEST_clinical_caseMIR	SENT18	-	-	-	-	-
+

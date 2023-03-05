@@ -1,0 +1,23 @@
+1	El	el	DA0MS0	-	-	0-2	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	aumento	aumento	NCMS000	C0442805	calificador	3-10	498(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	11-13	498(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	2	1364	Modif
+4	calcio	calcio	NCMS000	C0006675	sustancia	14-20	498(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	3	68	MultiE
+5	dietético	dietético	AQ0MS0	-	-	21-30	498(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	3	68	MultiE
+6	o	o	CC	-	-	31-32	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tomar	tomar	VMN0000	C1515187	calificador	33-38	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	suplementos	suplemento	NCMP000	-	-	39-50	498(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	51-53	498(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	8	97	MultiE
+10	calcio	calcio	NCMS000	C0006675	sustancia	54-60	498(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	8	97	MultiE
+11	de	de	SPS00	C0332285	atributo	61-63	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	forma	forma	NCFS000	C0348078	atributo	64-69	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	aislada	aislar	VMP00SF	-	-	70-77	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	no	no	RN	C1298908	calificador	78-80	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	protegen	proteger	VMIP3P0	-	-	81-89	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	90-96	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	a	a	SPS00	-	-	97-98	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	la	el	DA0FS0	-	-	99-101	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	aparición	aparición	NCFS000	-	-	102-111	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	112-114	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	fracturas	fractura	NCFP000	C0016658	anomalía_morfológica	115-124	498(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	.	.	Fp	-	-	125-126	498(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

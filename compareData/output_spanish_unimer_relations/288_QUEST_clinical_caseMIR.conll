@@ -1,0 +1,60 @@
+1	Chico	chico	NCMS000	C0008059#C0700321	persona#calificador	0-5	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	20	20		-	-	9-11	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	que	que	CS	-	-	18-21	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	consulta	consultar	VMM02S0	C1719974_1	procedimiento_1	22-30	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	por	por	SPS00	C1719974_2	procedimiento_2	31-34	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	dolor	dolor	NCMS000	C1719974_3	procedimiento_3	35-40	288_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	lumbosacro	lumbosacro	AQ0MS0	C0450206	calificador	41-51	288_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	211	LOC
+11	de	de	SPS00	C0332285	atributo	52-54	288_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	211	Modif
+12	ritmo	ritmo	NCMS000	C0449243	atributo	55-60	288_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	11	62	MultiE
+13	inflamatorio	inflamatorio	AQ0MS0	C0333348	calificador	61-73	288_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	11	62	MultiE
+14	de	de	SPS00	C0332285	atributo	74-76	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	4	4		-	-	77-78	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	meses	mes	NCMP000	C0439231	calificador	79-84	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	85-87	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	evolución	evolución	NCFS000	-	-	88-97	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	97-98	288_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	También	también	RG	-	-	99-106	288_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	talalgia	talalgia	NC00SC0	C0231780_1	hallazgo_1	107-115	288_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	bilateral	bilateral	AQ0CS0	C0238767	calificador	116-125	288_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	2	212	Modif
+4	y	y	CC	C1706368	calificador	126-127	288_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	rigidez	rigidez	NCFS000	C0457086_1	hallazgo_1	128-135	288_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	matutina	matutino	AQ0FS0	C0457086_2	hallazgo_2	136-144	288_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	5	212	Modif
+7	de	de	SPS00	C0332285	atributo	145-147	288_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	1	1	Z	-	-	148-149	288_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	hora	h	NCFS000	C0439227	calificador	150-154	288_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	154-155	288_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	156-158	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	los	el	DA0MP0	-	-	159-162	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	últimos	último	AO0MP0	-	-	163-170	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	2	2		-	-	171-172	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	meses	mes	NCMP000	C0439231	calificador	173-178	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	aparición	aparición	NCFS000	-	-	179-188	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	189-191	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	cuadros	cuadro	NCMP000	-	-	192-199	288_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	diarreicos	diarreico	AQ0MP0	-	-	200-210	288_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	8	97	MultiE
+10	con	con	SPS00	C0332287	atributo	211-214	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	pérdida	pérdida	NCFS000	-	-	215-222	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	223-225	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	4	4	Z	-	-	226-227	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	kg	kg	NCMN000	-	-	228-230	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	231-233	288_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	-	-	-
+16	peso	peso	NCMS000	C0043100	calificador	234-238	288_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	15	170	MultiE
+17	.	.	Fp	-	-	238-239	288_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	240-241	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	241-245	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	246-248	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	la	el	DA0FS0	-	-	249-251	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	aproximación	aproximación	NCFS000	-	-	252-264	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	265-276	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	277-280	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	correcta	correcto	AQ0FS0	C0205170	calificador	281-289	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	?	?	Fit	-	-	289-290	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	290-291	288_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

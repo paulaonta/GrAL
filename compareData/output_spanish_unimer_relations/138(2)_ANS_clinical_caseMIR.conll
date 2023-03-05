@@ -1,0 +1,15 @@
+1	Si	si	CS	-	-	0-2	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	no	no	RN	C1298908	calificador	3-5	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	existe	existir	VMIP3S0	-	-	6-12	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	contraindicación	contraindicación	NCFS000	C1301624_1	hallazgo_1	13-29	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	médica	médico	NCFS000	C1301624_2	hallazgo_2	30-36	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	36-37	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	valorar	valorar	VMN0000	-	-	38-45	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	asociar	asociar	VMN0000	-	-	46-53	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	al	al	SP+DA	-	-	54-56	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	57-68	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	69-71	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	anti-TNF	anti-tnf	NC00000	-	-	72-80	138(2)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+13	alfa	alfa	AQ0CS0	C0439095	calificador	81-85	138(2)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	12	89	MultiE
+14	.	.	Fp	-	-	86-87	138(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

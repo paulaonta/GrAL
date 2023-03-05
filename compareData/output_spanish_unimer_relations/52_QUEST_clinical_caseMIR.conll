@@ -1,0 +1,107 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	(	(	Fpa	-	-	10-11	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	Consultante	consultante	AQ0CS00	-	-	11-22	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	)	)	Fpt	-	-	22-23	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	24-26	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	31	31		-	-	27-29	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	años	año	NCMP000	C0439234	calificador	30-34	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0001779_1	entidad_observable_1	35-37	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	edad	edad	NCFS000	C0001779_2	entidad_observable_2	38-42	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	43-44	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	asintomática	asintomático	AQ0FS0	-	-	45-57	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	,	,	Fc	-	-	57-58	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	presenta	presentar	VMIP3S0	-	-	59-67	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	68-77	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	78-80	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	10	10		-	-	81-83	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	semanas	semana	NCFP000	C0439230	calificador	84-91	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	según	según	SPS00	-	-	92-97	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	estudio	estudio	NCMS000	C0557651	medio_ambiente	98-105	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	ecográfico	ecográfico	AQ0MS00	-	-	106-116	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	(	(	Fpa	-	-	117-118	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	primípara	primípara	NCFS000	C0033150	hallazgo	118-127	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	)	)	Fpt	-	-	127-128	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	.	.	Fp	-	-	128-129	52_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	130-132	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hermano	hermano	NCMS000	C0337538_1	persona_1	133-140	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	menor	menor	NCCS000	C0337538_2	persona_2	141-146	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	(	(	Fpa	-	-	147-148	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	caso	caso	NCMS000	C0868928	calificador	148-152	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	índice	índice	NCMS000	-	-	153-159	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	)	)	Fpt	-	-	159-160	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	161-163	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	26	26		-	-	164-166	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	años	año	NCMP000	C0439234	calificador	167-171	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	está	estar	VAIP3S0	-	-	172-176	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	afecto	afecto	NCMS000	C0001721	función	177-183	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	184-186	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	ataxia	ataxia	NCFS000	C0004134	hallazgo	187-193	52_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	y	y	CC	C1706368	calificador	194-195	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	diagnosticado	diagnosticar	VMP00SM	-	-	196-209	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	genéticamente	genéticamente	RG	-	-	210-223	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	como	como	CS	C0332257	calificador	224-228	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	portador	portador	AQ0MS0	C0560175	hallazgo	229-237	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	heterocigoto	heterocigoto	NCMS000	C0019425	calificador	238-250	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	251-253	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	una	una		C0205447_1	calificador_1	254-257	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	mutación	mutación	NCFS000	-	-	258-266	52_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+24	expansiva	expansivo	AQ0FS0	-	-	267-276	52_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	23	3465	Modif
+25	de	de	SPS00	C0332285	atributo	277-279	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	70	70		-	-	280-282	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	repeticiones	repetición	NCFP000	-	-	283-295	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	CAG	cag	NCMS000	-	-	296-299	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	300-302	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	el	el	DA0MS0	-	-	303-305	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	gen	gen	NCMS000	C0017337	sustancia	306-309	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	SCA3	SCA3		-	-	310-314	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	(	(	Fpa	-	-	315-316	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	cromosoma	cromosoma	NCMS000	C0008633	estructura_celular	316-325	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	14	14		-	-	326-328	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	)	)	Fpt	-	-	328-329	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	.	.	Fp	-	-	329-330	52_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	331-333	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Consultante	consultante	AQ0CS00	-	-	334-345	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	se	se	P00CN000	-	-	346-348	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	deriva	derivar	VMIP3S0	-	-	349-355	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	a	a	SPS00	-	-	356-357	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	358-360	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	361-369	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	370-372	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	consejo	consejo	NCMS000	-	-	373-380	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	genético	genético	AQ0MS0	-	-	381-389	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	donde	donde	PR000000	-	-	390-395	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	se	se	P00CN000	-	-	396-398	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	valora	valorar	VMIP3S0	-	-	399-405	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	406-409	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	posible	posible	AQ0CS0	C0332149#C2362652	calificador	410-417	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	418-425	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	426-428	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	corion	corion	NCMS000	C0008503	estructura_corporal	429-435	52_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+19	para	para	SPS00	C0521125	calificador	436-440	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	estudiar	estudiar	VMN0000	-	-	441-449	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	el	el	DA0MS0	-	-	450-452	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	genotipo	genotipo	NCMS000	C0017431	sustancia	453-461	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	fetal	fetal	AQ0CS0	-	-	462-467	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	.	.	Fp	-	-	467-468	52_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	469-470	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	está	estar	VAIP3S0	-	-	470-474	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	indicado	indicar	VMP00SM	-	-	475-483	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	este	este	DD0MS0	-	-	484-488	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	procedimiento	procedimiento	NCMS000	C0348025_1	calificador#procedimiento_1	489-502	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	invasivo	invasivo	NC00SC0	C0348025_2	calificador#procedimiento_2	503-511	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	como	como	CS	C0332257	calificador	512-516	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	517-528	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	pre-natal	pre-natal	AQ0CS00	-	-	529-538	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	(	(	Fpa	-	-	539-540	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	DPN	dpn	NC00YL0	-	-	540-543	52_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+12	)	)	Fpt	-	-	543-544	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	545-547	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	este	este	DD0MS0	-	-	548-552	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	caso	caso	NCMS000	C0868928	calificador	553-557	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	?	?	Fit	-	-	557-558	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	.	.	Fp	-	-	558-559	52_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

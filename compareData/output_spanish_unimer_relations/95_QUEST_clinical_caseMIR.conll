@@ -1,0 +1,61 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	32	32		-	-	13-15	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	asintomática	asintomático	AQ0FS0	-	-	21-33	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	34-42	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	para	para	SPS00	C0521125	calificador	43-47	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	una	una		C0205447_1	calificador_1	48-51	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	52-60	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	61-63	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	salud	salud	NCFS000	C0018684	calificador	64-69	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	ginecológica	ginecológico	AQ0FS0	C0205480	calificador	70-82	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	porque	porque	CS	-	-	83-89	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	desea	desear	VMIP3S0	-	-	90-95	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	quedar	quedar	VMN0000	-	-	96-102	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	se	se	PP3CN000	-	-	102-104	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	embarazada	embarazar	VMP00SF	-	-	105-115	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	115-116	95_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	117-119	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	dicha	decir	VMP00SF	-	-	120-125	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	revisión	revisión	NCFS000	C0558347_1	procedimiento_1	126-134	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	135-137	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	138-140	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	detecta	detectar	VMIP3S0	-	-	141-148	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	149-151	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	mioma	mioma	NCMS000	C0027086	anomalía_morfológica	152-157	95_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	uterino	uterino	AQ0MS0	-	-	158-165	95_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	80	LOC
+10	de	de	SPS00	C0332285	atributo	166-168	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	4cm	4cm		-	-	169-172	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	173-175	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	parte	parte	NCMS000	C0449719	atributo	176-181	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	intramural	intramural	AQ0CS00	-	-	182-192	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	193-194	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	195-197	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	parte	parte	NCMS000	C0449719	atributo	198-203	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	subseroso	subseroso	AQ0MS0	-	-	204-213	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	situado	situar	VMP00SM	-	-	214-221	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	222-224	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	la	el	DA0FS0	-	-	225-227	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	cara	cara	NCFS000	C0015450#C1281591	estructura_corporal	228-232	95_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	80	LOC
+23	anterior	anterior	AQ0CS0	C0205094#C1704448	calificador	233-241	95_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	22	80	MultiE
+24	del	del	SP+DA	-	-	242-245	95_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	22	80	MultiE
+25	útero	útero	NCMS000	C1269032#C0042149	estructura_corporal	246-251	95_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	22	80	MultiE
+26	y	y	CC	C1706368	calificador	252-253	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	que	que	PR0CN000	-	-	254-257	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	no	no	RN	C1298908	calificador	258-260	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	deforma	deformar	VMIP3S0	-	-	261-268	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	la	el	DA0FS0	-	-	269-271	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	cavidad	cavidad	NCFS000	C1284520#C0227844_1	estructura_corporal_1	272-279	95_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+32	endometrial	endometrial		C1284520#C0227844_2	estructura_corporal_2	280-291	95_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	31	1258	MultiE
+33	.	.	Fp	-	-	291-292	95_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	293-294	95_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	294-297	95_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	298-305	95_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	recomendaría	recomendar	VMIC3S0	-	-	306-318	95_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	?	?	Fit	-	-	318-319	95_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	319-320	95_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

@@ -1,0 +1,76 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	embarazada	embarazar	VMP00SF	-	-	4-14	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	15-17	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	10	10		-	-	18-20	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	semanas	semana	NCFP000	C0439230	calificador	21-28	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	29-31	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	32-41	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	41-42	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	acude	acudir	VMIP3S0	-	-	43-48	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	49-58	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	hospitalarias	hospitalario	AQ0FP0	C0456393	calificador	59-72	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	por	por	SPS00	C0678226	atributo	73-76	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	presentar	presentar	VMN0000	-	-	77-86	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	una	una		C0205447_1	calificador_1	87-90	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	91-98	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	99-107	306_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	108-110	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	160/105	160/105	Z	-	-	111-118	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	mmHg	mmHg	NCMP000	-	-	119-123	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	123-124	306_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Buen	bueno	AQ0MS0	C0205170	calificador	125-129	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	130-136	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	general	general	AQ0CS0	C0205246	calificador	137-144	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	,	,	Fc	-	-	144-145	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	sólo	sólo	RG	-	-	146-150	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	leve	leve	AQ0CS0	C2945599#C0547040#C1282907	calificador	151-155	306_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	7	3760	Modif
+7	cefalea	cefalea	NCFS000	C0018681	hallazgo	156-163	306_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	163-164	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	motivo	motivo	NCMS000	-	-	165-171	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	172-175	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	el	el	DA0MS0	-	-	176-178	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	que	que	PR0CN000	-	-	179-182	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	se	se	P00CN000	-	-	183-185	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	tomó	tomar	VMIS3S0	C1515187	calificador	186-190	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	la	el	DA0FS0	-	-	191-193	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	presión	presión	NCFS000	C0005823#C1272641_1	entidad_observable_1	194-201	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	arterial	arterial	NC00SC0	C0005823#C1272641_2	entidad_observable_2	202-210	306_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+18	.	.	Fp	-	-	210-211	306_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	212-216	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	4	4	Z	C1292426_1	calificador_1	217-218	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	horas	hora	NCFP000	C1292426_2	calificador_2	219-224	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	225-227	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	reposo	reposo	NCMS000	-	-	228-234	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	235-243	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	cifras	cifra	NCFP000	-	-	244-250	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	251-253	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	150/95mmHg	150/95mmHg		-	-	254-264	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	.	.	Fp	-	-	264-265	306_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	266-268	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	269-271	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	realiza	realizar	VMIP3S0	-	-	272-279	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	280-282	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	hemograma	hemograma	NCMS000	C0200631	procedimiento	283-292	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	que	que	PR0CN000	-	-	293-296	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	297-299	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	normal	normal	AQ0CS0	C0205307	calificador	300-306	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	307-308	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	309-312	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	proteinuria	proteinuria	NCFS000	C0033687_1	hallazgo_1	313-324	306_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+12	que	que	PR0CN000	-	-	325-328	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	es	ser	VSIP3S0	-	-	329-331	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	332-340	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	340-341	306_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	342-343	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	343-346	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	tipo	tipo	NCMS000	C0332307	calificador#atributo	347-351	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	352-354	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	hipertensión	hipertensión	NCFS000	-	-	355-367	306_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	368-376	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	?	?	Fit	-	-	376-377	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	.	.	Fp	-	-	377-378	306_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,54 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	34	34		-	-	12-14	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	CS	-	-	20-23	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	jugando	jugar	VMG0000	-	-	24-31	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	32-33	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	tenis	tenis	NCMS000	-	-	34-39	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	recibe	recibir	VMIP3S0	-	-	40-46	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	el	el	DA0MS0	-	-	47-49	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	impacto	impacto	NCMS000	-	-	50-57	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	58-60	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	61-63	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	bola	bola	NCFS000	-	-	64-68	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	a	a	SPS00	-	-	69-70	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	nivel	nivel	NCMS000	C0456079	atributo	71-76	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	77-79	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	la	el	DA0FS0	-	-	80-82	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	órbita	órbita	NCFS000	C0700042#C0029180#C0449209	estructura_corporal	83-89	278_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+20	izquierda	izquierdo	AQ0FS0	C0205091	calificador	90-99	278_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	19	91	MultiE
+21	.	.	Fp	-	-	99-100	278_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	101-102	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	103-105	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	106-117	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	118-126	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	importante	importante	AQ0CS0	-	-	127-137	278_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	388	Modif
+6	hematoma	hematoma	NCMS000	C0018944	trastorno#anomalía_morfológica	138-146	278_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	palpebral	palpebral	AQ0CS0	-	-	147-156	278_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	6	388	Modif
+8	,	,	Fc	-	-	156-157	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	hiposfagma	hiposfagma	NC00SC0	C0271297	trastorno	158-168	278_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	,	,	Fc	-	-	168-169	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	diplopia	diplopia	NC00KE0	-	-	170-178	278_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	a	a	SPS00	-	-	179-180	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	181-183	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	visión	visión	NCFS000	C0042789	calificador	184-190	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	superior	superior	AQ0CS0	C1282910	calificador	191-199	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	con	con	SPS00	C0332287	atributo	200-203	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	limitación	limitación	NCFS000	C0449295	atributo	204-214	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	215-217	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	la	el	DA0FS0	-	-	218-220	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	versión	versión	NCFS000	C2607870	anomalía_morfológica	221-228	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	superior	superior	AQ0CS0	C1282910	calificador	229-237	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	del	del	SP+DA	-	-	238-241	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	globo	globo	NCMS000	C0015392_1	estructura_corporal_1	242-247	278_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+24	ocular	ocular	NCMS000	C0015392_2	estructura_corporal_2	248-254	278_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	23	91	MultiE
+25	.	.	Fp	-	-	254-255	278_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	256-257	278_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	PT0CN000	-	-	257-260	278_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	sospecharía	sospechar	VMIC3S0	-	-	261-272	278_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	?	?	Fit	-	-	272-273	278_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	.	.	Fp	-	-	273-274	278_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

@@ -1,0 +1,58 @@
+1	Señale	señalar	VMSP3S0	-	-	0-6	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	entre	entre	SPS00	C0205103	calificador	10-15	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	las	el	DA0FP0	-	-	16-19	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	20-30	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	la	el	DA0FS0	-	-	31-33	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	complicación	complicación	NCFS000	C0009566#C2362589	trastorno#atributo	34-46	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	más	más	RG	C0205172	calificador	47-50	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	probable	probable	AQ0CS0	C0332148	calificador	51-59	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	que	que	PR0CN000	-	-	60-63	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	presenta	presentar	VMIP3S0	-	-	64-72	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	73-75	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	paciente	paciente	NCCS000	C0030705	persona	76-84	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	intervenido	intervenir	VMP00SM	-	-	85-96	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	,	,	Fc	-	-	96-97	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	hace	hacer	VMIP3S0	-	-	98-102	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	20	20		-	-	103-105	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	años	año	NCMP000	C0439234	calificador	106-110	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	,	,	Fc	-	-	110-111	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	112-114	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	úlcera	úlcera	NCFS000	C0038358#C1275742_1	trastorno_1	115-121	265_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	gástrica	gástrico	AQ0FS0	C0038358#C1275742_2	trastorno_2	122-130	265_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	21	2598	LOC
+23	mediante	mediante	SPS00	-	-	131-139	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	antrectoínía	antrectoínía	NCFS000	-	-	140-152	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	y	y	CC	C1706368	calificador	153-154	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	gastroyeyunostomía	gastroyeyunostomía	NC00SC0	C0399839	procedimiento	155-173	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	(	(	Fpa	-	-	174-175	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	Billroth	Billroth		-	-	175-183	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	II	II		-	-	184-186	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	)	)	Fpt	-	-	186-187	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	que	que	PR0CN000	-	-	188-191	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	acude	acudir	VMIP3S0	-	-	192-197	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	a	a	SPS00	-	-	198-199	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	su	su	DP3CS0	-	-	200-202	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	203-211	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	refiriendo	referir	VMG0000	-	-	212-222	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	223-228	265_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+38	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	229-238	265_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+39	postpradial	postpradial	NCMS000	-	-	239-250	265_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	37	2598	Modif
+40	,	,	Fc	-	-	250-251	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	distensión	distensión	NCFS000	C0000731_1	hallazgo_1	252-262	265_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+42	abdominal	abdominal	NC00SC0	C0000731_2	hallazgo_2	263-272	265_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	41	2598,37	LOC,2598
+43	,	,	Fc	-	-	272-273	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	diarrea	diarrea	NCFS000	C0011991	hallazgo	274-281	265_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+45	y	y	CC	C1706368	calificador	282-283	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	datos	dato	NCMP000	-	-	284-289	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	analíticos	analítico	AQ0MP0	-	-	290-300	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	de	de	SPS00	C0332285	atributo	301-303	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	malabsorción	malabsorción	NC00SC0	C0024523	trastorno	304-316	265_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+50	de	de	SPS00	C0332285	atributo	317-319	265_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	49	2598	Modif
+51	grasas	grasa	NCFP000	C0225324#C0015677	estructura_corporal#sustancia	320-326	265_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	50	855	MultiE
+52	y	y	CC	C1706368	calificador	327-328	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	de	de	SPS00	C0332285	atributo	329-331	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	vitamina	vitamina	NCFS000	C0042845_1	sustancia_1	332-340	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	B12	vitamina_b12	NC00YL0	C0042845_2	sustancia_2	341-344	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+56	:	:	Fd	-	-	344-345	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+57	.	.	Fp	-	-	345-346	265_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

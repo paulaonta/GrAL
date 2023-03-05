@@ -1,0 +1,55 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	73	73		-	-	15-17	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	…	…	Fz	-	-	22-23	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	deglución	deglución	NCFS000	C0011167	función	24-33	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	34-37	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	disfagia	disfagia	NCFS000	C0232520#C0011168	hallazgo#trastorno	38-46	356_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	neurológica	neurológico	AQ0FS0	C0205494	calificador	47-58	356_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	764	LOC
+11	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	59-67	356_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	764	Modif
+12	,	,	Fc	-	-	67-68	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	secundaria	secundario	AQ0FS0	C0175668	calificador	69-79	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	a	a	SPS00	-	-	80-81	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	82-84	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ictus	ictus	NCMN000	-	-	85-90	356_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	9	764	Causada_por
+17	cardioembolico	cardioémbolo	NCMS00V	-	-	91-105	356_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	764	Modif
+18	en	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	el	el	DA0MS0	-	-	109-111	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	territorio	territorio	NCMS000	-	-	112-122	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	123-125	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	la	el	DA0FS0	-	-	126-128	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	arteria	arteria	NCFS000	C0226214#C1267299_1	estructura_corporal_1	129-136	356_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	764	LOC
+24	cerebral	cerebral	NCCS000	C0226214#C1267299_2	estructura_corporal_2	137-145	356_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	23	91	MultiE
+25	media	medio	PI0FS000	C0226214#C1267299_3	estructura_corporal_3	146-151	356_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	23	91	MultiE
+26	izquierda	izquierdo	AQ0FS0	C0226214#C1267299_4	estructura_corporal_4	152-161	356_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	23	91	MultiE
+27	.	.	Fp	-	-	161-162	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	va	va	NC00YL0	-	-	163-165	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	a	a	SPS00	-	-	166-167	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	precisar	precisar	VMN0000	-	-	168-176	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	apoyo	apoyo	NCMS000	C0242739_1	régimen/tratamiento_1	177-182	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	nutricional	nutricional	AQ0CS0	C0242739_2	régimen/tratamiento_2	183-194	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	a	a	SPS00	C0443252_1	calificador_1	195-196	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	largo	largo	RG	C0443252_2	calificador_2	197-202	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	plazo	plazo	NCMS000	C0443252_3	calificador_3	203-208	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	.	.	Fp	-	-	208-209	356_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	De	de	SPS00	C0332285	atributo	210-212	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	las	el	DA0FP0	-	-	213-216	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	siguientes	siguiente	AQ0CP0	C0332282	atributo	217-227	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	modalidades	modalidad	NCFP000	-	-	228-239	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	240-242	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	243-254	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	,	,	Fc	-	-	254-255	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	¿	¿	Fia	-	-	256-257	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	cual	cual	PR0CS000	-	-	257-261	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	considera	considerar	VMIP3S0	-	-	262-271	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	mas	mas	NCMS000	-	-	272-275	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	indicada	indicar	VMP00SF	-	-	276-284	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	para	para	SPS00	C0521125	calificador	285-289	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	este	este	DD0MS0	-	-	290-294	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	caso	caso	NCMS000	C0868928	calificador	295-299	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	?	?	Fit	-	-	299-300	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	300-301	356_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

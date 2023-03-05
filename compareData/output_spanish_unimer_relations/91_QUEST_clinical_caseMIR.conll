@@ -1,0 +1,31 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	3-6	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	7-15	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	16-18	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	35	35		-	-	19-21	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	años	año	NCMP000	C0439234	calificador	22-26	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	27-30	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	un	un		C0205447_1	calificador_1	31-33	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	síndrome	síndrome	NCMS000	C0012634#C0039082	trastorno	34-42	91_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	depresivo	depresivo	NCMS000	-	-	43-52	91_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	9	74	MultiE
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	53-55	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	56-67	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	68-71	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	inhibidores	inhibidor	NCMP000	-	-	72-83	91_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	84-86	91_QUEST_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	14	5	MultiE
+16	la	el	DA0FS0	-	-	87-89	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	recaptación	recaptación	NCFS000	-	-	90-101	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	102-104	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	la	el	DA0FS0	-	-	105-107	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	serotonina	serotonina	NCFS000	C0036751	sustancia	108-118	91_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+21	está	estar	VAIP3S0	-	-	119-123	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	contraindicado	contraindicar	VMP00SM	-	-	124-138	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	el	el	DA0MS0	-	-	139-141	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	empleo	empleo	NCMS000	C1524063_1	atributo_1	142-148	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	de	de	SPS00	C1524063_2	atributo_2	149-151	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	los	el	DA0MP0	-	-	152-155	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	siguientes	siguiente	AQ0CP0	C0332282	atributo	156-166	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	antimicrobianos	antimicrobiano	AQ0MP0	-	-	167-182	91_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+29	:	:	Fd	-	-	182-183	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	.	.	Fp	-	-	183-184	91_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+

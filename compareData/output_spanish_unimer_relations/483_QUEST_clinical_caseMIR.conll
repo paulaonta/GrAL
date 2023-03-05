@@ -1,0 +1,72 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	55	55		-	-	9-11	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sufre	sufrir	VMIP3S0	-	-	21-26	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	27-30	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hemorragia	hemorragia	NCFS000	C0038525_1	trastorno_1	31-41	483_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	subaracnoidea	subaracnoideo	AQ0FS0	C0038525_2	trastorno_2	42-55	483_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	1048	LOC
+10	por	por	SPS00	C0678226	atributo	56-59	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	rotura	rotura	NCFS000	-	-	60-66	483_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	8	1048	Causada_por
+12	de	de	SPS00	C0332285	atributo	67-69	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	un	un		C0205447_1	calificador_1	70-72	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	aneurisma	aneurisma	NCMS000	C0002940	anomalía_morfológica#trastorno	73-82	483_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	11	1048	Causada_por
+15	de	de	SPS00	C0332285	atributo	83-85	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	arteria	arteria	NCFS000	C1269012#C0149566_1	estructura_corporal_1	86-93	483_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	14	1048	LOC
+17	cerebral	cerebral	NCCS000	C1269012#C0149566_2	estructura_corporal_2	94-102	483_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+18	media	medio	PI0FS000	C1269012#C0149566_3	estructura_corporal_3	103-108	483_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+19	.	.	Fp	-	-	108-109	483_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Es	ser	VSIP3S0	-	-	110-112	483_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tratado	tratar	VMP00SM	-	-	113-120	483_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	121-123	483_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	forma	forma	NCFS000	C0348078	atributo	124-129	483_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	quirúrgica	quirúrgico	AQ0FS0	C0543467	calificador	130-140	483_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	.	.	Fp	-	-	140-141	483_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Tras	tras	SPS00	-	-	142-146	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	147-150	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	buena	bueno	AQ0FS0	C0205170	calificador	151-156	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	evolución	evolución	NCFS000	-	-	157-166	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	167-169	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	170-172	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	que	que	PR0CN000	-	-	173-176	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	recupera	recuperar	VMIP3S0	-	-	177-185	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	la	el	DA0FS0	-	-	186-188	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	capacidad	capacidad	NCFS000	C0086035	hallazgo	189-198	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	199-201	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	caminar	caminar	VMN0000	C0080331	entidad_observable	202-209	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	,	,	Fc	-	-	209-210	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	un	un		C0205447_1	calificador_1	211-213	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	mes	mes	NCMS000	C0439231	calificador	214-217	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	después	después	RG	C0231290	atributo	218-225	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	226-228	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	sufrir	sufrir	VMN0000	-	-	229-235	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	la	el	DA0FS0	-	-	236-238	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	hemorragia	hemorragia	NCFS000	C0019080	hallazgo#anomalía_morfológica	239-249	483_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+21	presenta	presentar	VMIP3S0	-	-	250-258	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	un	un		C0205447_1	calificador_1	259-261	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	deterioro	deterioro	NCMS000	C1265875#C0684336#C0231171	anomalía_morfológica#hallazgo	262-271	483_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+24	progresivo	progresivo	AQ0MS0	C0205329	calificador	272-282	483_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	23	1050	Modif
+25	,	,	Fc	-	-	282-283	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	llegando	llegar	VMG0000	-	-	284-292	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	a	a	SPS00	-	-	293-294	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	encontrar	encontrar	VMN0000	-	-	295-304	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	se	se	PP3CN000	-	-	304-306	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	obnubilado	obnubilar	VMP00SM	-	-	307-317	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	y	y	CC	C1706368	calificador	318-319	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	con	con	SPS00	C0332287	atributo	320-323	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	dificultad	dificultad	NCFS000	C1299586#C0332218	calificador	324-334	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	para	para	SPS00	C0521125	calificador	335-339	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	obedecer	obedecer	VMN0000	-	-	340-348	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+36	órdenes	orden	NCMP000	C0699794	atributo	349-356	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+37	.	.	Fp	-	-	356-357	483_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Señale	señalar	VMM03S0	-	-	358-364	483_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	365-367	483_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	afirmación	afirmación	NCFS000	-	-	368-378	483_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	379-387	483_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	:	:	Fd	-	-	387-388	483_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	.	.	Fp	-	-	388-389	483_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

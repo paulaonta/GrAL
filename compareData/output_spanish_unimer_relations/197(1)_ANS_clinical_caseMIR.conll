@@ -1,0 +1,13 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	3-5	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	biopsia	biopsia	NCFS000	C0194073_1	procedimiento_1	6-13	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	renal	renal	AQ0CS0	C0194073_2	procedimiento_2	14-19	197(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	son	ser	VSIP3P0	-	-	20-23	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	característicos	característico	AQ0MP0	-	-	24-39	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	los	el	DA0MP0	-	-	40-43	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	depósitos	depósito	NCMP000	C0442627#C0333562	medio_ambiente#anomalía_morfológica	44-53	197(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	mesangiales	mesangiales	AQ0CP00	-	-	54-65	197(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	8	97	MultiE
+10	de	de	SPS00	C0332285	atributo	66-68	197(1)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	8	4090	Modif
+11	IgA	iga	NCFS000	-	-	69-72	197(1)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	10	97	MultiE
+12	.	.	Fp	-	-	73-74	197(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

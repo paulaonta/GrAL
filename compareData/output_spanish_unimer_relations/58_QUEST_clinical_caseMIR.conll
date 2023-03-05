@@ -1,0 +1,83 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	56	56		-	-	13-15	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	,	,	Fc	-	-	20-21	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	diabético	diabético	NCMS000	-	-	22-31	58_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	y	y	CC	C1706368	calificador	32-33	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	con	con	SPS00	C0332287	atributo	34-37	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	sobrepeso	sobrepeso	NCMS000	C0497406_1	hallazgo_1	38-47	58_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	moderado	moderar	VMP00SM	-	-	48-56	58_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	843	Modif
+12	presenta	presentar	VMIP3S0	-	-	57-65	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	una	una		C0205447_1	calificador_1	66-69	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	discreta	discreto	AQ0FS0	-	-	70-78	58_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	15	843	Modif
+15	hepatomegalia	hepatomegalia	NCFS000	C0019209	trastorno	79-92	58_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	.	.	Fp	-	-	92-93	58_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	94-96	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	enfermo	enfermo	NCMS000	-	-	97-104	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	indica	indicar	VMIP3S0	-	-	105-111	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	que	que	CS	-	-	112-115	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	no	no	RN	C1298908	calificador	116-118	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	119-121	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	bebedor	bebedor	NCMS000	C0556340_1	hallazgo_1	122-129	58_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	Negacion	-	-	-
+8	habitual	habitual	NC00SC0	C0556340_2	hallazgo_2	130-138	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	,	,	Fc	-	-	138-139	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	sólo	sólo	RG	-	-	140-144	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	excepcionalmente	excepcionalmente	RG	-	-	145-161	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	toma	tomar	VMIP3S0	C1515187	calificador	162-166	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	algo	algo	RG	C0205392_1	calificador_1	167-171	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0205392_2	calificador_2	172-174	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	vino	vino	NCMS000	C0043188	sustancia	175-179	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	.	.	Fp	-	-	179-180	58_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	181-184	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	biopsia	biopsia	NCFS000	C0193388_1	procedimiento_1	185-192	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0193388_2	procedimiento_2	193-195	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	hígado	hígado	NCMS000	C0193388_3	procedimiento_3	196-202	58_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+5	muestra	mostrar	VMIP3S0	-	-	203-210	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	acúmulos	acúmulo	NCMP000	-	-	211-219	58_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	220-222	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	vacuolas	vacuola	NCFP000	-	-	223-231	58_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	6	845	LOC
+9	claras	claro	AQ0FP0	C2963144#C1306462#C0522503	calificador	232-238	58_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	8	97	MultiE
+10	citoplásmicas	citoplásmico	AQ0FP0	-	-	239-252	58_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	8	97	MultiE
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	253-255	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	un	un		C0205447_1	calificador_1	256-258	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	50	50	Z	-	-	259-261	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	%	%	Ft	-	-	261-262	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	263-265	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	los	el	DA0MP0	-	-	266-269	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	hepatocitos	hepatocito	NCMP000	C0227525	estructura_corporal	270-281	58_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	8	845	LOC
+18	.	.	Fp	-	-	281-282	58_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Focos	foco	NCMP000	-	-	283-288	58_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+2	inflamatorios	inflamatorio	AQ0MP0	C0333348	calificador	289-302	58_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	1	70	MultiE
+3	múltiples	múltiple	AQ0CP0	C0439064	calificador	303-312	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	313-316	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	neutrófilos	neutrófilo	NCMP000	C0027950	célula	317-328	58_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	,	,	Fc	-	-	328-329	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	degeneración	degeneración	NCFS000	C0333438_1	anomalía_morfológica_1	330-342	58_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	hialina	hialino	AQ0FS0	C0333438_2	anomalía_morfológica_2	343-350	58_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	7	846	Modif
+9	de	de	SPS00	C0332285	atributo	351-353	58_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	7	846	Modif
+10	Mallory	mallory	NCMS000	-	-	354-361	58_QUEST_clinical_caseMIR	SENT4	I-Calificador	-	9	74	MultiE
+11	y	y	CC	C1706368	calificador	362-363	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	fibrosis	fibrosis	NCFN000	C0016059	anomalía_morfológica#calificador	364-372	58_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+13	alrededor	alrededor	RG	-	-	373-382	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	383-385	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	las	el	DA0FP0	-	-	386-389	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	vénulas	vénula	NCFP000	C1282854#C0042520	estructura_corporal	390-397	58_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	12	846	LOC
+17	hepáticas	hepático	AQ0FP0	-	-	398-407	58_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	16	73	MultiE
+18	terminales	terminal	NCCP000	-	-	408-418	58_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	16	73	MultiE
+19	.	.	Fp	-	-	418-419	58_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Señale	señalar	VMM03S0	-	-	420-426	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	la	el	DA0FS0	-	-	427-429	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	respuesta	respuesta	NCFS000	-	-	430-439	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	440-448	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	449-451	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	este	este	DD0MS0	-	-	452-456	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	caso	caso	NCMS000	C0868928	calificador	457-461	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	:	:	Fd	-	-	461-462	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	.	.	Fp	-	-	462-463	58_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

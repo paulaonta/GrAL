@@ -1,0 +1,109 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	59	59		-	-	9-11	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	diarrea	diarrea	NCFS000	C0401151_1	trastorno_1	30-37	256_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	crónica	crónico	AQ0FS0	C0401151_2	trastorno_2	38-45	256_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	1203	Modif
+9	acuosa	acuoso	AQ0FS0	C0443350	hallazgo	46-52	256_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	7	1203	Modif
+10	de	de	SPS00	C0332285	atributo	53-55	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	4	4		-	-	56-57	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	meses	mes	NCMP000	C0439231	calificador	58-63	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	64-66	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	evolución	evolución	NCFS000	-	-	67-76	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	.	.	Fp	-	-	76-77	256_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	78-80	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	81-83	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	endoscopia	endoscopia	NCFS000	C0014245	procedimiento	84-94	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	,	,	Fc	-	-	94-95	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	la	el	DA0FS0	-	-	96-98	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	mucosa	mucosa	NCFS000	C0026724	estructura_corporal	99-105	256_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+7	no	no	RN	C1298908	calificador	106-108	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	mostraba	mostrar	VMII3S0	-	-	109-117	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	aspectos	aspecto	NCMP000	C0700364#C0233426#C0332441	calificador#función	118-126	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	relevantes	relevante	AQ0CP0	-	-	127-137	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	.	.	Fp	-	-	137-138	256_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	139-141	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	concreto	concreto	NCMS000	C0557857	sustancia	142-150	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	,	,	Fc	-	-	150-151	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	no	no	RN	C1298908	calificador	152-154	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	se	se	P00CN000	-	-	155-157	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	observaron	observar	VMIS3P0	-	-	158-168	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	úlceras	úlcera	NCFP000	C0041582	anomalía_morfológica#trastorno	169-176	256_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+8	o	o	CC	-	-	177-178	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	áreas	área	NCFP000	C0205146	calificador	179-184	256_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+10	friables	friable	AQ0CP0	-	-	185-193	256_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	9	74	MultiE
+11	.	.	Fp	-	-	193-194	256_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	195-197	256_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	realizó	realizar	VMIS3S0	-	-	198-205	256_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	206-213	256_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	del	del	SP+DA	-	-	214-217	256_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	colon	colon	NCMS000	C1284438#C0227386_1	estructura_corporal_1	218-223	256_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	transverso	transverso	NC00SC0	C1284438#C0227386_2	estructura_corporal_2	224-234	256_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	5	27	MultiE
+7	.	.	Fp	-	-	234-235	256_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	236-238	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	el	el	DA0MS0	-	-	239-241	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	estudio	estudio	NCMS000	C0557651	medio_ambiente	242-249	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	histopatológico	histopatológico	NC00SC0	C1521733	calificador	250-265	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	se	se	P00CN000	-	-	266-268	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	reconoció	reconocer	VMIS3S0	-	-	269-278	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	279-281	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	área	área	NCFS000	C0205146	calificador	282-286	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	engrosada	engrosar	VMP00SF	-	-	287-296	256_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	297-300	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	debajo	debajo	RG	C0542339#C0205104	calificador	301-307	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	del	del	SP+DA	-	-	308-311	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	epitelio	epitelio	NCMS000	C0014609	estructura_corporal	312-320	256_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	321-323	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	revestimiento	revestimiento	NCMS000	-	-	324-337	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	superficial	superficial	AQ0CS0	C0205124	calificador	338-349	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	,	,	Fc	-	-	349-350	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	que	que	PR0CN000	-	-	351-354	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	era	ser	VSII3S0	-	-	355-358	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	más	más	RG	C0205172	calificador	359-362	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	evidente	evidente	AQ0CS0	-	-	363-371	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	mediante	mediante	SPS00	-	-	372-380	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	técnica	técnico	NCFS000	C0260280	ocupación	381-388	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	389-391	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	tricrómico	tricrómico	AQ0MS0	-	-	392-402	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	403-405	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	Masson	masson	NCMS000	-	-	406-412	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+28	y	y	CC	C1706368	calificador	413-414	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+29	que	que	PR0CN000	-	-	415-418	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	conllevaba	conllevar	VMII3S0	-	-	419-429	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+31	atrofia	atrofia	NCFS000	C0333641#C0037154	anomalía_morfológica	430-437	256_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+32	y	y	CC	C1706368	calificador	438-439	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+33	denudación	denudación	NCFS000	-	-	440-450	256_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+34	epitelial	epitelial	AQ0CS0	-	-	451-460	256_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	33	1207	LOC
+35	.	.	Fp	-	-	460-461	256_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	También	también	RG	-	-	462-469	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	se	se	P00CN000	-	-	470-472	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	apreció	apreciar	VMIS3S0	-	-	473-480	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	481-483	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	claro	claro	AQ0MS0	C2963144#C1306462#C0522503	calificador	484-489	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	incremento	incremento	NCMS000	-	-	490-500	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	501-503	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	la	el	DA0FS0	-	-	504-506	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	densidad	densidad	NCFS000	C0178587	calificador	507-515	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	516-518	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	linfocitos	linfocito	NCMP000	C0024264	célula	519-529	256_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	-	-	-
+12	intraepiteliales	intraepitelial	AQ0CP0	-	-	530-546	256_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-	11	62	MultiE
+13	.	.	Fp	-	-	546-547	256_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	548-549	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	El	el	DA0MS0	-	-	549-551	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	552-563	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	564-566	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	la	el	DA0FS0	-	-	567-569	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	570-576	256_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	-	-	-	-
+7	intestinal	intestinal	AQ0CS0	C0021853	calificador	577-587	256_QUEST_clinical_caseMIR	SENT7	B-Estructura_Corporal	-	6	1209	LOC
+8	es	ser	VSIP3S0	-	-	588-590	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	?	?	Fit	-	-	590-591	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+10	.	.	Fp	-	-	591-592	256_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+

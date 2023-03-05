@@ -1,0 +1,70 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	58	58		-	-	9-11	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	obeso	obeso	AQ0MS0	C0028754	hallazgo	18-23	465_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	,	,	Fc	-	-	23-24	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	asintomático	asintomático	AQ0MS0	-	-	25-37	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	,	,	Fc	-	-	37-38	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	bebedor	bebedor	NCMS000	C0337677_1	estilo_de_vida_1	39-46	465_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	moderado	moderar	VMP00SM	C0337677_2	estilo_de_vida_2	47-55	465_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	3877	Modif
+12	,	,	Fc	-	-	55-56	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	que	que	PR0CN000	-	-	57-60	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	presenta	presentar	VMIP3S0	-	-	61-69	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	70-73	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	primera	1	AO0FS0	-	-	74-81	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	glucemia	glucemia	NCFS000	C2585282	entidad_observable	82-90	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	basal	basal	AQ0CS0	C0205112	calificador	91-96	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	97-99	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	153	153	Z	-	-	100-103	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	mg	mg	NCMN000	-	-	104-106	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	/	/	Fh	-	-	106-107	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	d	d	NCFS000	-	-	107-108	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	con	con	SPS00	C0332287	atributo	109-112	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	glucosuria	glucosuria	NCFS000	C0017980#C0017979	trastorno#hallazgo	113-123	465_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+26	negativa	negativo	AQ0FS0	C0205160#C0549184	calificador	124-132	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	.	.	Fp	-	-	132-133	465_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	las	el	DA0FP0	-	-	137-140	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	semanas	semana	NCFP000	C0439230	calificador	141-148	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	siguientes	siguiente	AQ0CP0	C0332282	atributo	149-159	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	ha	haber	VAIP3S0	-	-	160-162	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	tenido	tener	VMP00SM	-	-	163-169	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	170-175	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	dos	dos		-	-	176-179	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	cifras	cifra	NCFP000	-	-	180-186	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	187-189	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	glucemias	glucemia	NCFP000	C2585282	entidad_observable	190-199	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	basales	basal	AQ0CP0	C0205112	calificador	200-207	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	208-210	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	118	118		-	-	211-214	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	215-216	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	136	136	Z	-	-	217-220	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	mg	mg	NCMN000	-	-	221-223	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	/	/	Fh	-	-	223-224	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	dl	decilitro	NCMN000	C0439241	calificador	224-226	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	.	.	Fp	-	-	226-227	465_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	228-229	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	229-233	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	234-236	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	237-240	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	241-251	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	252-254	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	la	el	DA0FS0	-	-	255-257	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	actitud	actitud	NCFS000	C0004271	entidad_observable	258-265	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	más	más	RG	C0205172	calificador	266-269	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	apropiada	apropiar	VMP00SF	-	-	270-279	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	para	para	SPS00	C0521125	calificador	280-284	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	confirmar	confirmar	VMN0000	-	-	285-294	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	el	el	DA0MS0	-	-	295-297	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	298-309	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	310-312	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	313-321	465_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+17	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	322-330	465_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	16	73	MultiE
+18	?	?	Fit	-	-	330-331	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	:	:	Fd	-	-	331-332	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	.	.	Fp	-	-	332-333	465_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

@@ -1,0 +1,11 @@
+1	El	el	DA0MS0	-	-	0-2	242(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	nervio	nervio	NCMS000	C0028864_1	estructura_corporal_1	3-9	242(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+3	motor	motor	NCMS000	C0028864_2	estructura_corporal_2	10-15	242(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	2	16	MultiE
+4	ocular	ocular	NCMS000	C0028864_3	estructura_corporal_3	16-22	242(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	2	16	MultiE
+5	común	común	AQ0CS0	C0205214	calificador	23-28	242(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	2	16	MultiE
+6	izquierdo	izquierdo	NC00SC0	C0205091	calificador	29-38	242(1)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	2	16	MultiE
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	39-41	242(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	el	el	DA0MS0	-	-	42-44	242(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	mesencéfalo	mesencéfalo	NCMS000	C1280997#C0025462	estructura_corporal	45-56	242(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+10	.	.	Fp	-	-	57-58	242(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,26 @@
+1	Terapia	terapia	NCFS000	C0087111	régimen/tratamiento	0-7	259(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+2	antibiótica	antibiótico	AQ0FS0	C0003232	producto#sustancia	8-19	259(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	1	70	MultiE
+3	según	según	SPS00	-	-	20-25	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	antibiograma	antibiograma	NC00SC0	C0201179	procedimiento	26-38	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	e	y	CC	C1706368	calificador	39-40	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	implantación	implantación	NCFS000	-	-	41-53	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	54-56	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	balón	balón	NCMS000	-	-	57-62	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	63-65	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	contrapulsación	contrapulsación	NCFS000	-	-	66-81	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	intra-aórtico	intra-aórtico	AQ0MS00	-	-	82-95	259(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+12	y	y	CC	C1706368	calificador	96-97	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	marcapasos	marcapasos	NCMN000	-	-	98-108	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	transitorio	transitorio	AQ0MS0	C0205374	calificador	109-120	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	hasta	hasta	SPS00	-	-	121-126	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	3semanas	3semanas		-	-	127-135	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	,	,	Fc	-	-	135-136	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	tras	tras	SPS00	-	-	137-141	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	las	el	DA0FP0	-	-	142-145	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	cuales	cual	PR0CP000	-	-	146-152	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	se	se	P00CN000	-	-	153-155	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	implantará	implantar	VMIF3S0	-	-	156-166	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	marcapasos	marcapasos	NCMN000	-	-	167-177	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	definitivo	definitivo	AQ0MS0	C0443196	calificador	178-188	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	.	.	Fp	-	-	189-190	259(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

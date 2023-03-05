@@ -1,0 +1,49 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	35	35		-	-	13-15	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	21-23	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	diagnosticada	diagnosticar	VMP00SF	-	-	24-37	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	38-40	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	41-47	81_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	48-50	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	51-56	81_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	4205	LOC
+12	localizado	localizar	VMP00SM	C0332285_1	atributo_1	57-67	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	en	en	SPS00	C0332285_2	atributo_2	68-70	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	ángulo	ángulo	NCMS000	C0205143	calificador	71-77	81_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	4205	LOC
+15	hepático	hepático	AQ0MS0	-	-	78-86	81_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	14	5	MultiE
+16	.	.	Fp	-	-	86-87	81_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Presenta	presentar	VMIP3S0	-	-	88-96	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	97-109	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	110-120	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	121-123	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	cáncer	cáncer	NCMS000	C1306459#C0936282#C0006826	anomalía_morfológica#trastorno	124-130	81_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	131-133	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	colon	colon	NCMS000	C0009368#C1281569	estructura_corporal	134-139	81_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	5	4206	LOC
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	140-142	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	madre	madre	NCFS000	C0026591	persona	143-148	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	148-149	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	una	una		C0205447_1	calificador_1	150-153	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	tía	tío	NCFS000	C0337577	persona	154-157	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	a	a	SPS00	-	-	158-159	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	la	el	DA0FS0	-	-	160-162	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	163-167	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	168-170	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	45	45		-	-	171-173	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	años	año	NCMP000	C0439234	calificador	174-178	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	y	y	CC	C1706368	calificador	179-180	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	un	un		C0205447_1	calificador_1	181-183	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	abuelo	abuelo	NCMS000	C0337475	persona	184-190	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	190-191	81_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	192-194	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	intervención	intervención	NCFS000	C0543467_1	procedimiento_1	195-207	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	quirúrgica	quirúrgico	AQ0FS0	C0543467_2	procedimiento_2	208-218	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	más	más	RG	C0205172	calificador	219-222	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	aceptada	aceptar	VMP00SF	-	-	223-231	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	232-234	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	:	:	Fd	-	-	234-235	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	.	.	Fp	-	-	235-236	81_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

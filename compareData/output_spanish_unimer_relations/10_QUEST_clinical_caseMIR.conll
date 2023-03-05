@@ -1,0 +1,49 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	8-10	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	año	año	NCMS000	C0439234	calificador	11-14	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	15-16	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	medio	medio	AQ0MS0	C2939193#C0205098#C0444598#C0549183	calificador	17-22	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	que	que	PR0CN000	-	-	23-26	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	acude	acudir	VMIP3S0	-	-	27-32	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	a	a	SPS00	-	-	33-34	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	urgencias	urgencia	NCFP000	C0439609	calificador	35-44	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	por	por	SPS00	C0678226	atributo	45-48	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	presentar	presentar	VMN0000	-	-	49-58	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	dolor	dolor	NCMS000	C0000737_1	hallazgo_1	59-64	10_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	abdominal	abdominal	NC00SC0	C0000737_2	hallazgo_2	65-74	10_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	13	3127	LOC
+15	e	y	CC	C1706368	calificador	75-76	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ictericia	ictericia	NCFS000	C0022346	hallazgo	77-86	10_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	.	.	Fp	-	-	86-87	10_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	88-90	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	91-93	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	94-105	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	106-108	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	palpa	palpar	VMIP3S0	-	-	109-114	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	115-118	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	masa	masa	NCFS000	C0000734#C0000731_1	trastorno#hallazgo_1	119-123	10_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	abdominal	abdominal	NC00SC0	C0000734#C0000731_2	trastorno#hallazgo_2	124-133	10_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	3128	LOC
+9	.	.	Fp	-	-	133-134	10_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	135-137	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	realizar	realizar	VMN0000	-	-	138-146	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	147-150	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	151-160	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	se	se	P00CN000	-	-	161-163	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	observa	observar	VMIP3S0	-	-	164-171	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	la	el	DA0FS0	-	-	172-174	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	175-184	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0150312_2	calificador_2	185-187	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	un	un		C0205447_1	calificador_1	188-190	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	quiste	quiste	NCMS000	C0686883#C0010709_1	organismo#anomalía_morfológica#trastorno_1	191-197	10_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	198-200	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	colédoco	colédoco	NCMS000	C0009437#C1305392	estructura_corporal	201-209	10_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	11	3129	LOC
+14	¿	¿	Fia	-	-	210-211	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	Qué	qué	DT0CN0	-	-	211-214	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	actitud	actitud	NCFS000	C0004271	entidad_observable	215-222	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	terapéutica	terapéutico	AQ0FS0	-	-	223-234	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	adoptaremos	adoptar	VMIF1P0	-	-	235-246	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	?	?	Fit	-	-	246-247	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	.	.	Fp	-	-	247-248	10_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

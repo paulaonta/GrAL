@@ -1,0 +1,91 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	se	se	P00CN000	-	-	10-12	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	13-21	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	22-24	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	la	el	DA0FS0	-	-	25-27	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	28-36	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	37-40	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	su	su	DP3CS0	-	-	41-43	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	hija	hijo	NCFS000	-	-	44-48	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	49-51	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	3	3		-	-	52-53	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	años	año	NCMP000	C0439234	calificador	54-58	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	porque	porque	CS	-	-	59-65	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	66-68	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	ha	haber	VAIP3S0	-	-	69-71	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	detectado	detectar	VMP00SM	-	-	72-81	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	ligero	ligero	AQ0MS0	-	-	82-88	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	desarrollo	desarrollo	NCMS000	C0518181_1	entidad_observable_1	89-99	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	mamario	mamario	AQ0MS0	C0518181_2	entidad_observable_2	100-107	329_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+21	desde	desde	SPS00	-	-	108-113	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	hace	hacer	VMIP3S0	-	-	114-118	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	3	3		-	-	119-120	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	meses	mes	NCMP000	C0439231	calificador	121-126	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	sin	sin	SPS00	C0332288	atributo	127-130	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	tomar	tomar	VMN0000	C1515187	calificador	131-136	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	medicación	medicación	NCFS000	C0013227	sustancia	137-147	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	alguna	alguno	DI0FS0	C0205392	calificador	148-154	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	ni	ni	CC	-	-	155-157	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	objetivar	objetivar	VMN0000	-	-	158-167	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	se	se	PP3CN000	-	-	167-169	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	antecedentes	antecedente	NCMP000	-	-	170-182	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	relevantes	relevante	AQ0CP0	-	-	183-193	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	en	en	SPS00	C1720294#C0332285	calificador#atributo	194-196	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	la	el	DA0FS0	-	-	197-199	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	historia	historia	NCFS000	-	-	200-208	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	.	.	Fp	-	-	208-209	329_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Efectivamente	efectivamente	RG	-	-	210-223	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	,	,	Fc	-	-	223-224	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	el	el	DA0MS0	-	-	225-227	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	examen	examen	NCMS000	C0031809_1	procedimiento_1	228-234	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	físico	físico	NCMS000	C0031809_2	procedimiento_2	235-241	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	muestra	mostrar	VMIP3S0	-	-	242-249	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	250-252	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	253-260	329_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	-	-	-
+9	Tanner	tanner	VMN0000	-	-	261-267	329_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	97	MultiE
+10	IV	iv	NC00SC0	C1522726	calificador	268-270	329_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	97	MultiE
+11	,	,	Fc	-	-	270-271	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	sin	sin	SPS00	C0445119_1	calificador_1	272-275	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	crecimiento	crecimiento	NCMS000	C0445119_2	calificador_2	276-287	329_QUEST_clinical_caseMIR	SENT2	-	Negacion	-	-	-
+14	del	del	SP+DA	-	-	288-291	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	vello	vello	NCMS000	C0221988_1	estructura_corporal_1	292-297	329_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+16	púbico	púbico	AQ0MS0	C0221988_2	estructura_corporal_2	298-304	329_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	15	170	MultiE
+17	o	o	CC	-	-	305-306	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	axilar	axilar	NC00SC0	C0004454	calificador	307-313	329_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+19	.	.	Fp	-	-	313-314	329_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	315-318	329_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	genitales	genitales	NCMP000	C1284477_1	estructura_corporal_1	319-328	329_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	externos	externo	NCMP000	C1284477_2	estructura_corporal_2	329-337	329_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	2	16	MultiE
+4	son	ser	VSIP3P0	-	-	338-341	329_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	normales	normal	AQ0CP0	C0205307	calificador	342-350	329_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	350-351	329_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	352-354	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	ecografía	ecografía	NCFS000	C0041618	calificador#procedimiento	355-364	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	revela	revelar	VMIP3S0	-	-	365-371	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	un	un		C0205447_1	calificador_1	372-374	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	pequeño	pequeño	AQ0MS0	C0700321#C1282918	calificador	375-382	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	útero	útero	NCMS000	C1269032#C0042149	estructura_corporal	383-388	329_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+7	y	y	CC	C1706368	calificador	389-390	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	la	el	DA0FS0	-	-	391-393	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	radiología	radiología	NCFS000	-	-	394-404	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	405-408	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	edad	edad	NCFS000	C0429620_1	entidad_observable_1	409-413	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	ósea	óseo	AQ0FS0	C0429620_2	entidad_observable_2	414-418	329_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	419-421	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	3	3		-	-	422-423	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	años	año	NCMP000	C0439234	calificador	424-428	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	428-429	329_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	430-431	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	431-434	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	actitud	actitud	NCFS000	C0004271	entidad_observable	435-442	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	se	se	P00CN000	-	-	443-445	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	debería	deber	VMIC3S0	-	-	446-453	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	adoptar	adoptar	VMN0000	-	-	454-461	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	?	?	Fit	-	-	461-462	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	.	.	Fp	-	-	462-463	329_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

@@ -1,0 +1,104 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	38	38		-	-	9-11	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	25-27	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	profesión	profesión	NCFS000	C0028811	ocupación	28-37	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	veterinaria	veterinario	AQ0FS0	C0242856	ocupación	38-49	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	,	,	Fc	-	-	49-50	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	encargada	encargar	VMP00SF	-	-	51-60	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	61-63	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	la	el	DA0FS0	-	-	64-66	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	vigilancia	vigilancia	NCFS000	C0733511#C0234421#C1443086	régimen/tratamiento	67-77	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	78-80	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	animales	animal	NCMP000	C0003062	organismo	81-89	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	salvajes	salvaje	AQ0CP0	-	-	90-98	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	y	y	CC	C1706368	calificador	99-100	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0332285	atributo	101-103	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ayudar	ayudar	VMN0000	-	-	104-110	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	a	a	SPS00	-	-	111-112	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	partos	parto	NCMP000	C1148523	entidad_observable	113-119	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	120-122	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	ganado	ganado	NCMS000	C0007452	organismo	123-129	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	doméstico	doméstico	AQ0MS0	C0442519	medio_ambiente	130-139	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	.	.	Fp	-	-	139-140	364_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Comienza	comenzar	VMIP3S0	-	-	141-149	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	150-153	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	154-156	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	cuadro	cuadro	NCMS000	-	-	157-163	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	164-166	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	fiebre	fiebre	NCFS000	C0015967	hallazgo	167-173	364_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	alta	alto	AQ0FS0	C0205250	calificador	174-178	364_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	4067	Modif
+8	con	con	SPS00	C0332287	atributo	179-182	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	escalofríos	escalofrío	NCMP000	C0234192#C0085593#C0424790	entidad_observable#hallazgo	183-194	364_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+10	,	,	Fc	-	-	194-195	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	cefalea	cefalea	NCFS000	C0018681	hallazgo	196-203	364_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	,	,	Fc	-	-	203-204	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	mialgias	mialgia	NCFP000	C0231528	hallazgo	205-213	364_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	y	y	CC	C1706368	calificador	214-215	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	tos	tos	NCFS000	C0850149_1	hallazgo_1	216-219	364_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	no	no	RN	C0850149_2	hallazgo_2	220-222	364_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	15	4067	Modif
+17	productiva	productivo	AQ0FS0	C0850149_3	hallazgo_3	223-233	364_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	16	73	MultiE
+18	que	que	PR0CN000	-	-	234-237	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	interpreta	interpretar	VMIP3S0	-	-	238-248	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	como	como	CS	C0332257	calificador	249-253	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	un	un		C0205447_1	calificador_1	254-256	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	proceso	proceso	NCMS000	C1522240	entidad_observable	257-264	364_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+23	gripal	gripal	AQ0CS0	-	-	265-271	364_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	22	80	MultiE
+24	.	.	Fp	-	-	271-272	364_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	273-278	364_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	por	por	SPS00	C0678226	atributo	279-282	364_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	presentar	presentar	VMN0000	-	-	283-292	364_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	dolor	dolor	NCMS000	C0030193	hallazgo	293-298	364_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+5	torácico	torácico	NC00SC0	C0817096	calificador	299-307	364_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	4	4068	LOC
+6	.	.	Fp	-	-	307-308	364_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	309-311	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	312-314	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	radiografía	radiografía	NCFS000	C0039985_1	procedimiento_1	315-326	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0039985_2	procedimiento_2	327-329	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	tórax	tórax	NCMN000	C0039985_3	procedimiento_3	330-335	364_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	se	se	P00CN000	-	-	336-338	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	objetivan	objetivar	VMIP3P0	-	-	339-348	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	infiltrados	infiltrar	VMP00PM	-	-	349-360	364_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+9	pulmonares	pulmonar	AQ0CP0	C2709248	calificador	361-371	364_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	8	4069	LOC
+10	bilaterales	bilateral	AQ0CP0	C0238767	calificador	372-383	364_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	8	4069	Modif
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	384-386	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	campos	campo	NCMP000	-	-	387-393	364_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	8	4069	LOC
+13	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	394-404	364_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	12	89	MultiE
+14	.	.	Fp	-	-	404-405	364_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	406-408	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	409-416	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	417-420	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	prueba	prueba	NCFS000	C0036743_1	procedimiento_1	421-427	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	serológica	serológico	AQ0FS0	C0036743_2	procedimiento_2	428-438	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	439-442	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	elevación	elevación	NCFS000	C0439775	procedimiento	443-452	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	453-455	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	títulos	título	NCMP000	C0475208	calificador	456-463	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	464-466	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	anticuerpos	anticuerpo	NCMP000	C0003241	sustancia	467-478	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	frente	frente	RG	C1284847#C0016540#C0549224	estructura_corporal	479-485	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	a	a	SPS00	-	-	486-487	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	antígenos	antígeno	NCMP000	C0003320	sustancia	488-497	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	en	en	SPS00	C1720294#C0332285	calificador#atributo	498-500	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	fase	fase	NCFS000	C0205390	calificador	501-505	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	Il	il	NC00YL0	-	-	506-508	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	.	.	Fp	-	-	508-509	364_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	510-511	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	CuáI	cuái	NCMS000	-	-	511-515	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	516-518	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	las	el	DA0FP0	-	-	519-522	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	523-533	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	afirmaciones	afirmación	NCFP000	-	-	534-546	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	547-549	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	CIERTA	cierto	AQ0FS0	C0205423	calificador	550-556	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	?	?	Fit	-	-	556-557	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	.	.	Fp	-	-	557-558	364_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

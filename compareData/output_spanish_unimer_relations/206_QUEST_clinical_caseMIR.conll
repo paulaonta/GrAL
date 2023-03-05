@@ -1,0 +1,138 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	45	45		-	-	9-11	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	17-20	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	21-33	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332119_2	situación_2	34-36	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	soplo	soplo	NCMS000	C0006318#C0018808_1	hallazgo_1	37-42	206_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	cardiaco	cardiaco	AQ0MS0	-	-	43-51	206_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	254	LOC
+10	detectado	detectar	VMP00SM	-	-	52-61	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	en	en	SPS00	C1720294#C0332285	calificador#atributo	62-64	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	edad	edad	NCFS000	C0001779#C0439632	entidad_observable#calificador	65-69	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	pediátrica	pediátrico	AQ0FS0	-	-	70-80	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	.	.	Fp	-	-	80-81	206_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Ingresa	ingresar	VMIP3S0	-	-	82-89	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	90-92	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	el	el	DA0MS0	-	-	93-95	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	servicio	servicio	NCMS000	-	-	96-104	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	105-107	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	Urgencias	urgencia	NCFP000	C0439609	calificador	108-117	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	por	por	SPS00	C0678226	atributo	118-121	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	cuadro	cuadro	NCMS000	-	-	122-128	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	129-131	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	palpitaciones	palpitación	NCFP000	-	-	132-145	206_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+11	,	,	Fc	-	-	145-146	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	cansancio	cansancio	NCMS000	C0015672#C0475255	hallazgo#calificador	147-156	206_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+13	fácil	fácil	AQ0CS0	C0332219	calificador	157-162	206_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	12	255	Modif
+14	y	y	CC	C1706368	calificador	163-164	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	165-171	206_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+16	maleolares	maleolar	AQ0CP0	-	-	172-182	206_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	15	255	LOC
+17	.	.	Fp	-	-	182-183	206_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	184-186	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	187-198	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	física	físico	NCFS000	C0031809_2	procedimiento_2	199-205	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	pone	poner	VMIP3S0	-	-	206-210	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	211-213	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	214-224	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	225-233	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0332197_2	calificador_2	234-236	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	cianosis	cianosis	NCFN000	C0010520	hallazgo	237-245	206_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+10	.	.	Fp	-	-	245-246	206_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Saturación	saturación	NCFS000	-	-	247-257	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	258-260	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	oxígeno	oxígeno	NCMS000	C0030054	sustancia	261-268	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	269-272	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	pulsioxímetro	pulsioxímetro	NCMS000	-	-	273-286	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	97	97	Z	-	-	287-289	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	%	%	Ft	-	-	289-290	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	TA	ta	NC00YL0	-	-	291-293	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	120/80	120/80	Z	-	-	294-300	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	mmHg	mmHg	NCMP000	-	-	301-305	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	305-306	206_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	Ritmo	ritmo	NCMS000	C0449243	atributo	307-312	206_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	cardiaco	cardiaco	AQ0MS0	-	-	313-321	206_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+3	irregular	irregular	NC00SC0	C0205271	calificador	322-331	206_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	a	a	SPS00	-	-	332-333	206_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	100	100		-	-	334-337	206_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	lpm	lpm	NC00YL0	-	-	338-341	206_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	.	.	Fp	-	-	341-342	206_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Soplo	soplo	NCMS000	C0232257_1	hallazgo_1	343-348	206_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+2	sistólico	sistólico	AQ0MS0	C0232257_2	hallazgo_2	349-358	206_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	1	259	Modif
+3	eyectivo	eyectivo	AQ0MS0	-	-	359-367	206_QUEST_clinical_caseMIR	SENT6	B-Calificador	-	1	259	Modif
+4	(	(	Fpa	-	-	368-369	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	2/6	2/6		-	-	369-372	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	)	)	Fpt	-	-	372-373	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	374-376	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	foco	foco	NCMS000	-	-	377-381	206_QUEST_clinical_caseMIR	SENT6	B-Estructura_Corporal	-	1	259	LOC
+9	pulmonar	pulmonar	AQ0CS0	C2709248	calificador	382-390	206_QUEST_clinical_caseMIR	SENT6	I-Estructura_Corporal	-	8	97	MultiE
+10	.	.	Fp	-	-	390-391	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	2º	2º		-	-	392-394	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+12	ruido	ruido	NCMS000	C0006318	hallazgo	395-400	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+13	desdoblado	desdoblar	VMP00SM	-	-	401-411	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+14	,	,	Fc	-	-	411-412	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+15	amplio	amplio	AQ0MS0	-	-	413-419	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+16	y	y	CC	C1706368	calificador	420-421	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+17	fijo	fijo	AQ0MS0	C0443218	calificador	422-426	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+18	.	.	Fp	-	-	426-427	206_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	428-430	206_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	estertores	estertor	NCMP000	-	-	431-441	206_QUEST_clinical_caseMIR	SENT7	B-Grp_Enfermedad	Negacion	-	-	-
+3	.	.	Fp	-	-	441-442	206_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+
+1	Ligera	ligero	AQ0FS0	-	-	443-449	206_QUEST_clinical_caseMIR	SENT8	B-Calificador	-	2	261	Modif
+2	hepatomeglaia	hepatomeglaia	NCFS000	-	-	450-463	206_QUEST_clinical_caseMIR	SENT8	B-Grp_Enfermedad	-	-	-	-
+3	(	(	Fpa	-	-	464-465	206_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+4	2-3	2-3	Z	-	-	465-468	206_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+5	cm	cm	NCMN000	-	-	469-471	206_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+6	)	)	Fpt	-	-	471-472	206_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+7	.	.	Fp	-	-	472-473	206_QUEST_clinical_caseMIR	SENT8	-	-	-	-	-
+
+1	Ligeros	ligero	AQ0MP0	-	-	474-481	206_QUEST_clinical_caseMIR	SENT9	B-Calificador	-	2	262	Modif
+2	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	482-488	206_QUEST_clinical_caseMIR	SENT9	B-Grp_Enfermedad	-	-	-	-
+3	maleolares	maleolar	AQ0CP0	-	-	489-499	206_QUEST_clinical_caseMIR	SENT9	B-Estructura_Corporal	-	2	262	LOC
+4	.	.	Fp	-	-	499-500	206_QUEST_clinical_caseMIR	SENT9	-	-	-	-	-
+
+1	ECG	ecg	NC00YL0	C1623258	procedimiento	501-504	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+2	:	:	Fd	-	-	504-505	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+3	arritmia	arritmia	NCFS000	C0003811	trastorno	506-514	206_QUEST_clinical_caseMIR	SENT10	B-Grp_Enfermedad	-	-	-	-
+4	completa	completo	AQ0FS0	C0205197#C0439810#C0444868	calificador	515-523	206_QUEST_clinical_caseMIR	SENT10	B-Calificador	-	3	263	Modif
+5	por	por	SPS00	C0678226	atributo	524-527	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+6	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	528-539	206_QUEST_clinical_caseMIR	SENT10	B-Grp_Enfermedad	-	3	263	Causada_por
+7	auricular	auricular	NCMS000	C0004238_2	trastorno_2	540-549	206_QUEST_clinical_caseMIR	SENT10	B-Estructura_Corporal	-	6	263	LOC
+8	a	a	SPS00	-	-	550-551	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+9	100	100		-	-	552-555	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+10	lpm	lpm	NC00YL0	-	-	556-559	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+11	.	.	Fp	-	-	559-560	206_QUEST_clinical_caseMIR	SENT10	-	-	-	-	-
+
+1	QRS	qrs	NC00YL0	-	-	561-564	206_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+2	+120º	+120º		-	-	565-570	206_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+3	.	.	Fp	-	-	570-571	206_QUEST_clinical_caseMIR	SENT11	-	-	-	-	-
+
+1	Trastorno	trastorno	NCMS000	C0012634#C0039082	trastorno	572-581	206_QUEST_clinical_caseMIR	SENT12	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	582-584	206_QUEST_clinical_caseMIR	SENT12	I-Grp_Enfermedad	-	1	70	MultiE
+3	conducción	conducción	NCFS000	C0457405	calificador	585-595	206_QUEST_clinical_caseMIR	SENT12	I-Grp_Enfermedad	-	1	70	MultiE
+4	de	de	SPS00	C0332285	atributo	596-598	206_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+5	la	el	DA0FS0	-	-	599-601	206_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+6	rama	rama	NCFS000	-	-	602-606	206_QUEST_clinical_caseMIR	SENT12	B-Estructura_Corporal	-	1	265	LOC
+7	derecha	derecho	AQ0FS0	C0445291#C0445292#C0205090#C0450415	calificador	607-614	206_QUEST_clinical_caseMIR	SENT12	I-Estructura_Corporal	-	6	150	MultiE
+8	del	del	SP+DA	-	-	615-618	206_QUEST_clinical_caseMIR	SENT12	I-Estructura_Corporal	-	6	150	MultiE
+9	haz	haz	NCMS000	C0006382_1	estructura_corporal_1	619-622	206_QUEST_clinical_caseMIR	SENT12	I-Estructura_Corporal	-	6	150	MultiE
+10	de	de	SPS00	C0006382_2	estructura_corporal_2	623-625	206_QUEST_clinical_caseMIR	SENT12	I-Estructura_Corporal	-	6	150	MultiE
+11	His	His		C0006382_3	estructura_corporal_3	626-629	206_QUEST_clinical_caseMIR	SENT12	I-Estructura_Corporal	-	6	150	MultiE
+12	.	.	Fp	-	-	629-630	206_QUEST_clinical_caseMIR	SENT12	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	631-632	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	632-636	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	637-639	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+4	su	su	DP3CS0	-	-	640-642	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+5	orientación	orientación	NCFS000	C0029266	función	643-654	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0011900	entidad_observable	655-666	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+7	?	?	Fit	-	-	666-667	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+8	.	.	Fp	-	-	667-668	206_QUEST_clinical_caseMIR	SENT13	-	-	-	-	-
+

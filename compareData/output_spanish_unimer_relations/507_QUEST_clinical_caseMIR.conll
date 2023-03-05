@@ -1,0 +1,54 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	20	20		-	-	12-14	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	20-23	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	24-29	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	30-31	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	urgencias	urgencia	NCFP000	C0439609	calificador	32-41	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	tras	tras	SPS00	-	-	42-46	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	sufrir	sufrir	VMN0000	-	-	47-53	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	54-56	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	accidente	accidente	NCMS000	C0701802_1	evento_1	57-66	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0701802_2	evento_2	67-69	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	bicicleta	bicicleta	NCFS000	C0701802_3	evento_3	70-79	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	80-83	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	traumatismo	traumatismo	NCMS000	C3263723	trastorno	84-95	507_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	facial	facial	AQ0CS0	-	-	96-102	507_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	16	1818	LOC
+18	.	.	Fp	-	-	102-103	507_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	104-106	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	107-114	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	115-117	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	118-125	507_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+5	que	que	PR0CN000	-	-	126-129	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	muestra	mostrar	VMIP3S0	-	-	130-137	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	138-141	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	fractura	fractura	NCFS000	C0016658	anomalía_morfológica	142-150	507_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	del	del	SP+DA	-	-	151-154	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	tercio	tercio	NCMS000	C0442050_1	calificador_1	155-161	507_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	1819	LOC
+11	medio	medio	RG	C0442050_2	calificador_2	162-167	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+12	facial	facial	AQ0CS0	-	-	168-174	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+13	que	que	PR0CN000	-	-	175-178	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	afecta	afecto	AQ0FS0	C0001721	función	179-185	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	a	a	SPS00	-	-	186-187	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	la	el	DA0FS0	-	-	188-190	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	región	región	NCFS000	C0205147	atributo#calificador	191-197	507_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+18	órbito-malar	órbito-malar	VMN0000	-	-	198-210	507_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	17	164	MultiE
+19	.	.	Fp	-	-	210-211	507_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Una	Una		C0205447_1	calificador_1	212-215	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	216-218	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	las	el	DA0FP0	-	-	219-222	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	complicaciones	complicación	NCFP000	C0009566#C2362589	trastorno#atributo	223-237	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	más	más	RG	C0205172	calificador	238-241	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	frecuentes	frecuente	AQ0CP0	C0332183	calificador	242-252	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	253-255	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	este	este	DD0MS0	-	-	256-260	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	tipo	tipo	NCMS000	C0332307	calificador#atributo	261-265	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	266-268	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	fracturas	fractura	NCFP000	C0016658	anomalía_morfológica	269-278	507_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+12	es	ser	VSIP3S0	-	-	279-281	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	:	:	Fd	-	-	281-282	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	.	.	Fp	-	-	282-283	507_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

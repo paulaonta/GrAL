@@ -1,0 +1,19 @@
+1	Es	ser	VSIP3S0	-	-	0-2	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	necesario	necesario	AQ0MS0	-	-	3-12	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	descartar	descartar	VMN0000	C0332196	calificador	13-22	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	enfermedad	enfermedad	NCFS000	C0221406_1	trastorno_1	23-33	168(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Especulacion	-	-	-
+5	de	de	SPS00	C0221406_2	trastorno_2	34-36	168(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	4	93	MultiE
+6	Cushing	Cushing		C0221406_3	trastorno_3	37-44	168(1)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	4	93	MultiE
+7	mediante	mediante	SPS00	-	-	45-53	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	test	test	NCMS000	-	-	54-58	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	59-61	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	supresión	supresión	NCFS000	-	-	62-71	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	con	con	SPS00	C0332287	atributo	72-75	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	dexametasona	dexametasona	NC00SC0	C0011777	producto#sustancia	76-88	168(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+13	y	y	CC	C1706368	calificador	89-90	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	realizar	realizar	VMN0000	-	-	91-99	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	una	una		C0205447_1	calificador_1	100-103	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	104-106	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	107-114	168(1)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+18	.	.	Fp	-	-	115-116	168(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,67 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	76	76		-	-	12-14	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	19-20	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	hipertensión	hipertensión	NCFS000	-	-	25-37	264_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	y	y	CC	C1706368	calificador	38-39	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	diabetes	diabetes	NCFN000	C0011849_1	trastorno_1	40-48	264_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	mellitus	mellitus	AQ0CN0	C0011849_2	trastorno_2	49-57	264_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	9	74	MultiE
+11	,	,	Fc	-	-	57-58	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	que	que	PR0CN000	-	-	59-62	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	acude	acudir	VMIP3S0	-	-	63-68	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	a	a	SPS00	-	-	69-70	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Urgencias	urgencia	NCFP000	C0439609	calificador	71-80	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	porque	porque	CS	-	-	81-87	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	desde	desde	SPS00	-	-	88-93	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	hace	hacer	VMIP3S0	-	-	94-98	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	72	72	Z	C1292423_1	calificador_1	99-101	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	horas	hora	NCFP000	C1292423_2	calificador_2	102-107	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	ha	haber	VAIP3S0	-	-	108-110	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	comenzado	comenzar	VMP00SM	-	-	111-120	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	con	con	SPS00	C0332287	atributo	121-124	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	un	un		C0205447_1	calificador_1	125-127	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	cuadro	cuadro	NCMS000	-	-	128-134	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	135-137	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	palpitaciones	palpitación	NCFP000	-	-	138-151	264_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	y	y	CC	C1706368	calificador	152-153	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	disminución	disminución	NCFS000	C0333668#C0547047	anomalía_morfológica#calificador	154-165	264_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+30	de	de	SPS00	C0332285	atributo	166-168	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	su	su	DP3CS0	-	-	169-171	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	capacidad	capacidad	NCFS000	C0086035	hallazgo	172-181	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	para	para	SPS00	C0521125	calificador	182-186	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	hacer	hacer	VMN0000	-	-	187-192	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	esfuerzos	esfuerzo	NCMP000	-	-	193-202	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	.	.	Fp	-	-	202-203	264_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	A	a	SPS00	-	-	204-205	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	su	su	DP3CS0	-	-	206-208	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	llegada	llegada	NCFS000	-	-	209-216	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	se	se	P00CN000	-	-	217-219	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	documenta	documentar	VMIP3S0	-	-	220-229	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	una	una		C0205447_1	calificador_1	230-233	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	fibrilación	fibrilación	NCFS000	C0004238_1	trastorno_1	234-245	264_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	auricular	auricular	NCMS000	C0004238_2	trastorno_2	246-255	264_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	7	585	LOC
+9	con	con	SPS00	C0332287	atributo	256-259	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	respuesta	respuesta	NCFS000	-	-	260-269	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	ventricular	ventricular	AQ0CS0	-	-	270-281	264_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	282-284	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	torno	torno	NCMS000	-	-	285-290	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	a	a	SPS00	-	-	291-292	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	120	120		-	-	293-296	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	lpm	lpm	NC00YL0	-	-	297-300	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	300-301	264_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	302-303	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	303-307	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	308-310	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	311-314	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	315-325	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	opciones	opción	NCFP000	-	-	326-334	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	335-337	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	FALSA	falso	AQ0FS0	C0205237	calificador	338-343	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	?	?	Fit	-	-	343-344	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	:	:	Fd	-	-	344-345	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	345-346	264_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

@@ -1,0 +1,20 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	la	el	DA0FS0	-	-	3-5	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	6-13	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	se	se	P00CN000	-	-	14-16	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	sustituye	sustituir	VMIP3S0	-	-	17-26	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	el	el	DA0MS0	-	-	27-29	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	segmento	segmento	NCMS000	C0441635	calificador	30-38	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	aneurismático	aneurismático	AQ0MS0	C0439651	calificador	39-52	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C0678226	atributo	53-56	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	57-60	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	prótesis	prótesis	NCFN000	C0185104#C0175649	procedimiento#objeto_físico	61-69	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	tubular	tubular	AQ0CS0	C0332208	calificador	70-77	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	78-81	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	reimplante	reimplante	NC00SC0	C0035139	procedimiento	82-92	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	93-95	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	los	el	DA0MP0	-	-	96-99	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	troncos	tronco	NCMP000	C1280632#C0460005	estructura_corporal	100-107	458(2)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+18	supraaórticos	supraaórtico	AQ0MP0	-	-	108-121	458(2)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	17	164	MultiE
+19	.	.	Fp	-	-	122-123	458(2)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

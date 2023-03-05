@@ -1,0 +1,105 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	4-12	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	13-15	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	67	67		-	-	16-18	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	19-23	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	24-26	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	27-38	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	39-42	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	ticlopidina	ticlopidina	NC00SC0	C0040207	producto#sustancia	43-54	215_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+10	acude	acudir	VMIP3S0	-	-	55-60	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	a	a	SPS00	-	-	61-62	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	urgencias	urgencia	NCFP000	C0439609	calificador	63-72	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	73-76	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	cefalea	cefalea	NCFS000	C0018681	hallazgo	77-84	215_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	,	,	Fc	-	-	84-85	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	86-93	215_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	y	y	CC	C1706368	calificador	94-95	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	petequias	petequia	NCFP000	C0031256	anomalía_morfológica	96-105	215_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	106-108	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	109-121	215_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	18	2079	LOC
+21	inferiores	inferior	AQ0CP0	C0542339#C0205104	calificador	122-132	215_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	20	63	MultiE
+22	.	.	Fp	-	-	132-133	215_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	134-136	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	137-139	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	140-149	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	150-158	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	159-170	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	8,2	8.2	Z	-	-	171-174	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	g	g	NCMN000	-	-	175-176	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	/	/	Fh	-	-	176-177	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	dl	decilitro	NCMN000	C0439241	calificador	177-179	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	179-180	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	VCM	vcm	NC00SC0	C0524587	entidad_observable	181-184	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	100	100		-	-	185-188	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	fl	fl	NC00SC0	C0475213	calificador	189-191	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	,	,	Fc	-	-	191-192	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	193-202	215_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+16	25000/ul	25000/ul		-	-	203-211	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	212-213	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	leucocitos	leucocito	NCMP000	C0023516	célula	214-224	215_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+19	7500/ul	7500/ul		-	-	225-232	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	con	con	SPS00	C0332287	atributo	233-236	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	formula	formular	VMIP3S0	-	-	237-244	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	normal	normal	AQ0CS0	C0205307	calificador	245-251	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	.	.	Fp	-	-	251-252	215_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	253-255	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	cifra	cifra	NCFS000	-	-	256-261	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	reticulocitos	reticulocito	NCMP000	C0035286	célula	262-275	215_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+4	está	estar	VAIP3S0	-	-	276-280	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	elevada	elevar	VMP00SF	-	-	281-288	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	y	y	CC	C1706368	calificador	289-290	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	el	el	DA0MS0	-	-	291-293	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	frotis	frotis	NCMN000	-	-	294-300	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	301-303	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	sangre	sangre	NCFS000	C0005767	sustancia	304-310	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	se	se	P00CN000	-	-	311-313	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	observa	observar	VMIP3S0	-	-	314-321	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	numerosos	numeroso	AQ0MP0	C0439064	calificador	322-331	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	esquistocitos	esquistocito	NCMP000	C0221282	célula	332-345	215_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	345-346	215_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	347-350	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	estudios	estudio	NCMP000	C0557651	medio_ambiente	351-359	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	360-362	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	coagulación	coagulación	NCFS000	C0441509	procedimiento	363-374	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	(	(	Fpa	-	-	375-376	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	TTPA	tiempo_de_tromboplastina_parcial_activado	NC00YL0	-	-	376-380	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	,	,	Fc	-	-	380-381	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	TP	tp	NC00YL0	-	-	382-384	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	y	y	CC	C1706368	calificador	385-386	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	fibrinógeno	fibrinógeno	NCMS000	C0016006	sustancia	387-398	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	)	)	Fpt	-	-	398-399	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	son	ser	VSIP3P0	-	-	400-403	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	normales	normal	AQ0CP0	C0205307	calificador	404-412	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	.	.	Fp	-	-	412-413	215_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	414-416	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	la	el	DA0FS0	-	-	417-419	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	bioquímica	bioquímico	NCFS000	C0205474#C0175854	calificador#ocupación	420-430	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	destaca	destacar	VMIP3S0	-	-	431-438	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	LDH	ldh	NC00SC0	C0022917	sustancia	439-442	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	2700	2700		-	-	443-447	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	UI	ui	NC00SC0	C0439453	calificador	448-450	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	/	/	Fh	-	-	450-451	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	l	l	NCFS000	-	-	451-452	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	y	y	CC	C1706368	calificador	453-454	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	bilirrubina	bilirrubina	NCFS000	C0005437	sustancia	455-466	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	2,6	2.6	Z	-	-	467-470	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	mg	mg	NCMN000	-	-	471-473	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	/	/	Fh	-	-	473-474	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	dl	decilitro	NCMN000	C0439241	calificador	474-476	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	.	.	Fp	-	-	476-477	215_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	478-479	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	479-483	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	484-486	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	el	el	DA0MS0	-	-	487-489	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	490-501	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	502-505	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	506-514	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	?	?	Fit	-	-	514-515	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	.	.	Fp	-	-	515-516	215_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

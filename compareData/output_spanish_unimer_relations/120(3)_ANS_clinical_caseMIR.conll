@@ -1,0 +1,27 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sorafenib	sorafenib	NC00SC0	C1516119	producto#sustancia	16-25	120(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	oral	oral	AQ0CS0	C0442027	calificador	26-30	120(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+5	,	,	Fc	-	-	30-31	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	ya	ya	RG	-	-	32-34	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	que	que	PR0CN000	-	-	35-38	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	se	se	P00CN000	-	-	39-41	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	trata	tratar	VMIP3S0	-	-	42-47	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	48-50	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	un	un		C0205447_1	calificador_1	51-53	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	enfermo	enfermo	NCMS000	-	-	54-61	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	62-65	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	buen	bueno	AQ0MS0	C0205170	calificador	66-70	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	estado	estado	NCMS000	C0449438#C1301808	atributo#medio_ambiente	71-77	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	general	general	AQ0CS0	C0205246	calificador	78-85	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	,	,	Fc	-	-	85-86	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Child	child	NCFS000	-	-	87-92	120(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	A	a	SPS00	-	-	93-94	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	95-96	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	hepatocarcinoma	hepatocarcinoma	NC00SC0	C2239176	anomalía_morfológica	97-112	120(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	en	en	SPS00	C1720294#C0332285	calificador#atributo	113-115	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	estadio	estadio	NCMS000	C1306673#C0442588	atributo#medio_ambiente	116-123	120(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	21	3682	LOC
+24	avanzado	avanzar	VMP00SM	-	-	124-132	120(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	23	91	MultiE
+25	BCLC-C	bclc-c	NC00000	-	-	133-139	120(3)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	23	91	MultiE
+26	.	.	Fp	-	-	140-141	120(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,24 @@
+1	Rehidratación	rehidratación	NCFS000	-	-	0-13	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	14-17	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	solución	solución	NCFS000	C0037633	sustancia	18-26	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	27-29	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	rehidratación	rehidratación	NCFS000	C0086904_1	procedimiento_1	30-43	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	oral	oral	NC00SC0	C0086904_2	procedimiento_2	44-48	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	49-51	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	baja	bajo	AQ0FS0	C0205251	calificador	52-56	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	osmolalidad	osmolalidad	NC00SC0	C0086741	función	57-68	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	(	(	Fpa	-	-	69-70	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	sodio	sodio	NCMS000	C3536896#C0037473	producto#sustancia	70-75	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	60-75	60-75		-	-	76-81	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	mEq	miliequivalente_(10-3_mol_dividido_por_la_valencia)	NC00YL0	-	-	82-85	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	/	/	Fh	-	-	85-86	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	L	l	NCFS000	-	-	86-87	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	)	)	Fpt	-	-	87-88	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	y	y	CC	C1706368	calificador	89-90	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	continuar	continuar	VMN0000	-	-	91-100	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	con	con	SPS00	C0332287	atributo	101-104	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	su	su	DP3CS0	-	-	105-107	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	alimentación	alimentación	NCFS000	C2987508#C1286346	entidad_observable	108-120	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	habitual	habitual	AQ0CS0	C0205353	calificador	121-129	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	.	.	Fp	-	-	130-131	208(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,36 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	40	40		-	-	12-14	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	19-20	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	que	que	PR0CN000	-	-	21-24	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	acude	acudir	VMIP3S0	-	-	25-30	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	a	a	SPS00	-	-	31-32	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	urgencias	urgencia	NCFP000	C0439609	calificador	33-42	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	43-46	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	estomatitits	estomatitits	NCMP000	-	-	47-59	140_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	aftosa	aftoso	AQ0FS0	-	-	60-66	140_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	4270	Modif
+13	,	,	Fc	-	-	66-67	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	conjuntivitis	conjuntivitis	NCFN000	C0009763	trastorno	68-81	140_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+15	,	,	Fc	-	-	81-82	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	uretritis	uretritis	NCFN000	C0041976_1	trastorno_1	83-92	140_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	,	,	Fc	-	-	92-93	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	balanitis	balanitis	NCFN000	C0004690	trastorno	94-103	140_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	y	y	CC	C1706368	calificador	104-105	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	dolor	dolor	NCMS000	C0003862_1	hallazgo_1	106-111	140_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	articular	articular	VMN0000	C0003862_2	hallazgo_2	112-121	140_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	20	4270	LOC
+22	.	.	Fp	-	-	121-122	140_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	123-124	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Cúal	cúal	AQ0CS00	-	-	124-128	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	129-131	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	los	el	DA0MP0	-	-	132-135	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	136-146	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	diagnósticos	diagnóstico	NCMP000	C0011900	entidad_observable	147-159	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	160-162	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	el	el	DA0MS0	C0205393_1	calificador_1	163-165	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	más	más	RG	C0205393_2	calificador_2	166-169	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	probable	probable	AQ0CS0	C0332148	calificador	170-178	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	?	?	Fit	-	-	178-179	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	.	.	Fp	-	-	179-180	140_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

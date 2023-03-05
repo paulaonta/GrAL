@@ -1,0 +1,68 @@
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	0-2	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	un	un		C0205447_1	calificador_1	3-5	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	paciente	paciente	NCCS000	C0030705	persona	6-14	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	diagnosticado	diagnosticar	VMP00SM	-	-	15-28	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	29-31	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	epilepsia	epilepsia	NCFS000	C0014544	trastorno	32-41	29_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	que	que	PR0CN000	-	-	42-45	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	presenta	presentar	VMIP3S0	-	-	46-54	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	episodios	episodio	NCMP000	C0332189	atributo	55-64	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	65-67	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	falta	falta	NCFS000	-	-	68-73	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	74-76	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	respuesta	respuesta	NCFS000	C0424540_1	entidad_observable_1	77-86	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	a	a	SPS00	C0424540_2	entidad_observable_2	87-88	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	estímulos	estímulo	NCMP000	C0424540_3	entidad_observable_3	89-98	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	externos	externo	AQ0MP0	C0205101	calificador	99-107	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	,	,	Fc	-	-	107-108	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	109-120	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	irregulares	irregular	AQ0CP0	C0205271	calificador	121-132	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	133-135	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	las	el	DA0FP0	-	-	136-139	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	cuatro	cuatro		-	-	140-146	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	extremidades	extremidad	NCFP000	C0015385#C1280090	estructura_corporal	147-159	29_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+24	,	,	Fc	-	-	159-160	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	ojos	ojo	NCMP000	C0015392#C1280202	estructura_corporal	161-165	29_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+26	cerrados	cerrar	VMP00PM	-	-	166-174	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	,	,	Fc	-	-	174-175	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	emisión	emisión	NCFS000	-	-	176-183	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	184-186	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	llanto	llanto	NCMS000	C0010399	hallazgo#función	187-193	29_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+31	y	y	CC	C1706368	calificador	194-195	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	movimientos	movimiento	NCMP000	C0026649#C0026597	entidad_observable#fuerza_física	196-207	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	pélvicos	pélvico	AQ0MP0	C0030797	calificador	208-216	29_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+34	,	,	Fc	-	-	216-217	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	de	de	SPS00	C0332285	atributo	218-220	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	cinco	cinco		-	-	221-226	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	a	a	SPS00	-	-	227-228	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	veinte	veinte		-	-	229-235	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	segundos	segundo	NCMP000	C0205436	calificador	236-244	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	de	de	SPS00	C0332285	atributo	245-247	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	duración	duración	NCFS000	C0449238	atributo	248-256	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	y	y	CC	C1706368	calificador	257-258	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	que	que	PR0CN000	-	-	259-262	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	no	no	RN	C1298908	calificador	263-265	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+45	responden	responder	VMIP3P0	-	-	266-275	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	al	al	SP+DA	-	-	276-278	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	279-290	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	con	con	SPS00	C0332287	atributo	291-294	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	fármacos	fármaco	NCMP000	C0355653_1	producto_1	295-303	29_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+50	antiepilépticos	antiepilépticos	NC00AO0	C0355653_2	producto_2	304-319	29_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+51	.	.	Fp	-	-	319-320	29_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	321-322	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	322-326	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	327-329	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	el	el	DA0MS0	-	-	330-332	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	estudio	estudio	NCMS000	C0557651	medio_ambiente	333-340	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	complementario	complementario	AQ0MS0	-	-	341-355	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	356-359	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	mayor	mayor	AQ0CS0	C0205164#C1704243#C0549177	calificador	360-365	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	probabilidad	probabilidad	NCFS000	-	-	366-378	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	379-381	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	aclarar	aclarar	VMN0000	-	-	382-389	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	el	el	DA0MS0	-	-	390-392	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	393-404	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	?	?	Fit	-	-	404-405	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	.	.	Fp	-	-	405-406	29_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

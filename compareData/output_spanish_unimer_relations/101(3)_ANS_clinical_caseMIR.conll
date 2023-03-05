@@ -1,0 +1,10 @@
+1	Anemia	anemia	NCFS000	C0002892_1	trastorno_1	0-6	101(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	perniciosa	pernicioso	AQ0FS0	C0002892_2	trastorno_2	7-17	101(3)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	2929	LOC
+3	e	y	CC	C1706368	calificador	18-19	101(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	inyecciones	inyección	NCFP000	C1272883#C1533685	calificador#procedimiento	20-31	101(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	periódicas	periódico	AQ0FP0	C0332182	calificador	32-42	101(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	43-45	101(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	vitamina	vitamina	NCFS000	C0042845_1	sustancia_1	46-54	101(3)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+8	B12	vitamina_b12	NC00YL0	C0042845_2	sustancia_2	55-58	101(3)_ANS_clinical_caseMIR	SENT1	I-Grp_Medicamento	-	7	50	MultiE
+9	.	.	Fp	-	-	59-60	101(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

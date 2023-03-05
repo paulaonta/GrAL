@@ -1,0 +1,77 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	chico	chico	NCMS000	C0008059#C0700321	persona#calificador	3-8	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	22	22		-	-	12-14	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	15-19	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	20-22	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	23-27	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	28-31	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	hiposmia	hiposmia	NCFS000	-	-	32-40	291_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	presenta	presentar	VMIP3S0	-	-	41-49	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	falta	falta	NCFS000	-	-	50-55	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	56-58	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	desarrollo	desarrollo	NCMS000	-	-	59-69	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	70-72	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	caracteres	carácter	NCMP000	-	-	73-83	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	sexuales	sexual	AQ0CP0	-	-	84-92	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	secundarios	secundario	NCMP000	C0175668	calificador	93-104	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	e	y	CC	C1706368	calificador	105-106	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	infertilidad	infertilidad	NCFS000	-	-	107-119	291_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	.	.	Fp	-	-	119-120	291_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Volumen	volumen	NCMS000	C0429619_1	entidad_observable_1	121-128	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	testicular	testicular	AQ0CS0	C0429619_2	entidad_observable_2	129-139	291_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	140-142	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	4	4	Z	-	-	143-144	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	mL	ml	NCMN000	C0439242	calificador	145-147	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	bilateral	bilateral	AQ0CS0	C0238767	calificador	148-157	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	.	.	Fp	-	-	157-158	291_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Analíticamente	analíticamente	RG	-	-	159-173	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	,	,	Fc	-	-	173-174	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	EST-I	est-i	RG	-	-	175-180	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	1,2	1,2		-	-	181-184	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	U	o	CC	-	-	185-186	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	/	/	Fh	-	-	186-187	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	L	l	NCFS000	-	-	187-188	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	(	(	Fpa	-	-	189-190	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	vn	valor_normal	NC00YL0	-	-	190-192	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	5-15	5-15		-	-	193-197	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	)	)	Fpt	-	-	197-198	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	;	;	Fx	-	-	198-199	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	LH	luteinizing_hormone_(hormona_luteinizante)	NC00YL0	-	-	200-202	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	0,6	0,6		-	-	203-206	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	U	o	CC	-	-	207-208	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	/	/	Fh	-	-	208-209	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	L	l	NCFS000	-	-	209-210	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	(	(	Fpa	-	-	211-212	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	vn	valor_normal	NC00YL0	-	-	212-214	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	3-15	3-15		-	-	215-219	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	)	)	Fpt	-	-	219-220	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	;	;	Fx	-	-	220-221	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	testosterona	testosterona	NCFS000	C0039601	producto#sustancia	222-234	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	100	100		-	-	235-238	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	ng	nasogástrico	NC00YL0	-	-	239-241	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	/	/	Fh	-	-	241-242	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	dL	decilitro	NCMN000	C0439241	calificador	242-244	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	(	(	Fpa	-	-	245-246	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	vn	valor_normal	NC00YL0	-	-	246-248	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	300-1200	300-1200		-	-	249-257	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	)	)	Fpt	-	-	257-258	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	,	,	Fc	-	-	258-259	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	prolactina	prolactina	NCFS000	C0033371	sustancia#producto	260-270	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	normal	normal	AQ0CS0	C0205307	calificador	271-277	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	.	.	Fp	-	-	277-278	291_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Señale	señalar	VMM03S0	-	-	279-285	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	el	el	DA0MS0	-	-	286-288	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	289-300	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	que	que	PR0CN000	-	-	301-304	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	305-307	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	propondrá	proponer	VMIF3S0	-	-	308-317	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	para	para	SPS00	C0521125	calificador	318-322	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	conseguir	conseguir	VMN0000	-	-	323-332	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	fertilidad	fertilidad	NCFS000	C0015895	función	333-343	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	:	:	Fd	-	-	343-344	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	.	.	Fp	-	-	344-345	291_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

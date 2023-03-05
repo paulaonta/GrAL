@@ -1,0 +1,9 @@
+1	Artritis	artritis	NCFN000	C0003873_1	trastorno_1	0-8	500(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	reumatoide	reumatoide	AQ0CS0	C0003873_2	trastorno_2	9-19	500(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	3627	Modif
+3	,	,	Fc	-	-	19-20	500(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	iniciaría	iniciar	VMIC3S0	-	-	21-30	500(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	31-42	500(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	43-46	500(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	metotrexato	metotrexato	NCMS000	C0025677#C0949359	producto#sustancia	47-58	500(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+8	.	.	Fp	-	-	59-60	500(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

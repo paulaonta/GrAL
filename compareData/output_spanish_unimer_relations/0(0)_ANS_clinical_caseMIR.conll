@@ -1,0 +1,36 @@
+1	Dado	dar	VMP00SM	C1947971	calificador	0-4	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	que	que	PR0CN000	-	-	5-8	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	el	el	DA0MS0	-	-	9-11	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	12-20	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	21-23	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	joven	joven	AQ0CS0	C0332239	calificador	24-29	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	,	,	Fc	-	-	29-30	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	sin	sin	SPS00	C0332288	atributo	31-34	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	enfermedades	enfermedad	NCFP000	C0012634#C0039082	trastorno	35-47	0(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+10	asociadas	asociar	VMP00PF	-	-	48-57	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	58-59	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	la	el	DA0FS0	-	-	60-62	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	úlcera	úlcera	NCFS000	C0041582_1	anomalía_morfológica#trastorno_1	63-69	0(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	ha	haber	VAIP3S0	-	-	70-72	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	dejado	dejar	VMP00SM	-	-	73-79	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	80-82	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	sangrar	sangrar	VMN0000	-	-	83-90	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	,	,	Fc	-	-	90-91	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	puede	poder	VMIP3S0	-	-	92-97	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	ser	ser	VSN0000	-	-	98-101	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	dado	dar	VMP00SM	C1947971	calificador	102-106	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	de	de	SPS00	C0332285	atributo	107-109	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	alta	alto	AQ0FS0	C0205250	calificador	110-114	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+24	precozmente	precozmente	RG	-	-	115-126	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+25	con	con	SPS00	C0332287	atributo	127-130	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+26	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	131-142	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+27	con	con	SPS00	C0332287	atributo	143-146	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+28	un	un		C0205447_1	calificador_1	147-149	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+29	IBP	ibuprofeno	NC00YL0	C0020740	sustancia	150-153	0(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+30	y	y	CC	C1706368	calificador	154-155	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+31	erradicación	erradicación	NCFS000	-	-	156-168	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+32	de	de	SPS00	C0332285	atributo	169-171	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+33	H.	h.	NCFS000	-	-	172-174	0(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+34	Pylori	pylori	RG	-	-	175-181	0(0)_ANS_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	33	306	MultiE
+35	.	.	Fp	-	-	182-183	0(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

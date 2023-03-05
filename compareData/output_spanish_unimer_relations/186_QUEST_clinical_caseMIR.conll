@@ -1,0 +1,71 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	43	43		-	-	9-11	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	remitida	remitir	VMP00SF	C0439600	calificador	18-26	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	la	el	DA0FS0	-	-	29-31	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	41-43	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	Patología	patología	NCFS000	C0030664	calificador	44-53	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	del	del	SP+DA	-	-	54-57	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	Tracto	tracto	NCMS000	-	-	58-64	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	Genital	genital	AQ0CS0	C0559522	calificador	65-72	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	Inferior	inferior	AQ0CS0	C0542339#C0205104	calificador	73-81	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	del	del	SP+DA	-	-	82-85	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	Hospital	hospital	NCMS000	C1510665	medio_ambiente	86-94	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	por	por	SPS00	C0678226	atributo	95-98	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	presentar	presentar	VMN0000	-	-	99-108	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	una	una		C0205447_1	calificador_1	109-112	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	citología	citología	NCFS000	-	-	113-122	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	cérvico-vaginal	cérvico-vaginal	AQ0CS00	-	-	123-138	186_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+23	informada	informar	VMP00SF	C0700287	procedimiento	139-148	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	como	como	CS	C0332257	calificador	149-153	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	«	«	Fra	-	-	154-155	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	L-SIL	l-sil	NCMS000	-	-	155-160	186_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	»	»	Frc	-	-	160-161	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	(	(	Fpa	-	-	162-163	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	Lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	163-169	186_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+30	Intraepitelial	intraepitelial	AQ0CS0	-	-	170-184	186_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	29	3175	LOC
+31	de	de	SPS00	C0332285	atributo	185-187	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	Bajo	bajo	SPS00	C1282907#C0547040_1	calificador_1	188-192	186_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	29	3175	Modif
+33	Grado	grado	NCMS000	C1282907#C0547040_2	calificador_2	193-198	186_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	32	99	MultiE
+34	)	)	Fpt	-	-	198-199	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	.	.	Fp	-	-	199-200	186_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	201-208	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	infecciones	infección	NCFP000	C0009450	trastorno	209-220	186_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	vaginales	vaginal	AQ0CP0	-	-	221-230	186_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	2	3176	LOC
+4	de	de	SPS00	C0332285	atributo	231-233	186_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	2	3176	Modif
+5	repetición	repetición	NCFS000	-	-	234-244	186_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	4	93	MultiE
+6	(	(	Fpa	-	-	245-246	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	Trichomoniasis	trichomoniasis	NCMN000	-	-	246-260	186_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	260-261	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	…	…	Fz	-	-	261-262	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	)	)	Fpt	-	-	262-263	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	y	y	CC	C1706368	calificador	264-265	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	haber	haber	VAN0000	-	-	266-271	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	tenido	tener	VMP00SM	-	-	272-278	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	más	más	RG	C0205172	calificador	279-282	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	283-285	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	5	5		-	-	286-287	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	parejas	parejo	AQ0FP0	C0036911_1	entidad_observable_1	288-295	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	sexuales	sexual	AQ0CP0	C0036911_2	entidad_observable_2	296-304	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	305-307	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	su	su	DP3CS0	-	-	308-310	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	vida	vida	NCFS000	-	-	311-315	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	.	.	Fp	-	-	315-316	186_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	317-319	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	mejor	mejor	AQ0CS0	C0332272	calificador	320-325	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	estrategia	estrategia	NCFS000	-	-	326-336	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	337-339	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	atención	atención	NCFS000	C0004268	función	340-348	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	a	a	SPS00	-	-	349-350	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	esta	este	DD0FS0	-	-	351-355	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	356-361	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	es	ser	VSIP3S0	-	-	362-364	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	:	:	Fd	-	-	364-365	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	365-366	186_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

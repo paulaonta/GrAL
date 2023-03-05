@@ -1,0 +1,43 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	30	30		-	-	9-11	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	solicita	solicitar	VMIP3S0	-	-	21-29	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	30-32	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	método	método	NCMS000	C0025663	atributo	33-39	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	anticonceptivo	anticonceptivo	AQ0MS0	-	-	40-54	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	.	.	Fp	-	-	54-55	491_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Como	como	CS	C0332257	calificador	56-60	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	antecedentes	antecedente	NCMP000	-	-	61-73	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	tiene	tener	VMIP3S0	-	-	74-79	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	80-83	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	cesárea	cesárea	NCFS000	-	-	84-91	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	urgente	urgente	AQ0CS0	C0439609	calificador	92-99	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	hace	hacer	VMIP3S0	-	-	100-104	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	7	7		-	-	105-106	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	meses	mes	NCMP000	C0439231	calificador	107-112	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	112-113	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	naciendo	nacer	VMG0000	-	-	114-122	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	una	una		C0205447_1	calificador_1	123-126	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	niña	niño	NCFS000	C0008059#C0870221	persona	127-131	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	132-134	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	3.550	3550	Z	-	-	135-140	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	g	g	NCMN000	-	-	141-142	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	.	.	Fp	-	-	142-143	491_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Está	estar	VAM02S0	-	-	144-148	491_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	dando	dar	VMG0000	C1947971	calificador	149-154	491_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	lactancia	lactancia	NCFS000	C0006147_1	función_1	155-164	491_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	materna	materno	AQ0FS0	C0006147_2	función_2	165-172	491_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	exclusiva	exclusivo	AQ0FS0	-	-	173-182	491_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	182-183	491_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Señale	señalar	VMM03S0	-	-	184-190	491_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	la	el	DA0FS0	-	-	191-193	491_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	afirmación	afirmación	NCFS000	-	-	194-204	491_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	correcta	correcto	AQ0FS0	C0205170	calificador	205-213	491_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	:	:	Fd	-	-	213-214	491_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	.	.	Fp	-	-	214-215	491_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

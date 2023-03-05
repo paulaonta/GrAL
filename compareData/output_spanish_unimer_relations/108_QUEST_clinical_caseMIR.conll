@@ -1,0 +1,103 @@
+1	Gestante	gestante	NCFS000	-	-	0-8	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	27	27		-	-	12-14	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	19-20	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	30	30		-	-	21-23	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	semanas	semana	NCFP000	C0439230	calificador	24-31	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	32-34	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	gestación	gestación	NCFS000	C0549206#C0032961#C0549169	hallazgo	35-44	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	.	.	Fp	-	-	44-45	108_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	46-51	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	a	a	SPS00	-	-	52-53	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	Urgencias	urgencia	NCFP000	C0439609	calificador	54-63	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	por	por	SPS00	C0678226	atributo	64-67	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	notar	notar	VMN0000	-	-	68-73	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	desde	desde	SPS00	-	-	74-79	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	ayer	ayer	RG	-	-	80-84	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	dolor	dolor	NCMS000	C0030193	hallazgo	85-90	108_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	91-93	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	región	región	NCFS000	C1297910_1	estructura_corporal_1	94-100	108_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	8	1969	LOC
+11	lumbar	lumbar	NC00SC0	C1297910_2	estructura_corporal_2	101-107	108_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+12	izquierda	izquierdo	AQ0FS0	C1297910_3	estructura_corporal_3	108-117	108_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	10	97	MultiE
+13	y	y	CC	C1706368	calificador	118-119	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	disuria	disuria	NCFS000	C0013428	hallazgo	120-127	108_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+15	.	.	Fp	-	-	127-128	108_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	129-131	108_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	tiene	tener	VMIP3S0	-	-	132-137	108_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	sensación	sensación	NCFS000	C0036658#C1455667	calificador	138-147	108_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	Negacion	-	-	-
+4	febril	febril	AQ0CS0	C0015967	hallazgo	148-154	108_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	3	68	MultiE
+5	.	.	Fp	-	-	154-155	108_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Refiere	referir	VMIP3S0	-	-	156-163	108_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	infecciones	infección	NCFP000	C0009450	trastorno	164-175	108_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+3	del	del	SP+DA	-	-	176-179	108_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	tracto	tracto	NCMS000	-	-	180-186	108_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	2	1971	LOC
+5	urinario	urinario	AQ0MS0	-	-	187-195	108_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	93	MultiE
+6	(	(	Fpa	-	-	196-197	108_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	ITU	infección_del_tracto_urinario	NC00YL0	-	-	197-200	108_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+8	)	)	Fpt	-	-	200-201	108_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	reiteradas	reiterar	VMP00PF	-	-	202-212	108_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	212-213	108_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	214-216	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	el	el	DA0MS0	-	-	217-219	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	análisis	análisis	NCMN000	C0042014_1	procedimiento_1	220-228	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	de	de	SPS00	C0042014_2	procedimiento_2	229-231	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	232-237	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	se	se	P00CN000	-	-	238-240	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	observan	observar	VMIP3P0	-	-	241-249	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	Hb	hb	NC00YL0	-	-	250-252	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	3	3		-	-	253-254	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	+	+	Fz	-	-	254-255	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	,	,	Fc	-	-	255-256	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	leucocitos	leucocito	NCMP000	C0023516	célula	257-267	108_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+13	3	3		-	-	268-269	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	+	+	Fz	-	-	269-270	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	,	,	Fc	-	-	270-271	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	nitritos	nitrito	NCMP000	-	-	272-280	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	2	2		-	-	281-282	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	+	+	Fz	-	-	282-283	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	,	,	Fc	-	-	283-284	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	Sedimento	sedimento	NCMS000	C0333562	anomalía_morfológica	285-294	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	:	:	Fd	-	-	294-295	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	15-20	15-20		-	-	296-301	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	leucocitos	leucocito	NCMP000	C0023516	célula	302-312	108_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+24	por	por	SPS00	C0678226	atributo	313-316	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+25	campo	campo	NCMS000	-	-	317-322	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+26	y	y	CC	C1706368	calificador	323-324	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+27	5-10	5-10		-	-	325-329	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+28	hematíes	hematíe	NCMP000	-	-	330-338	108_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+29	por	por	SPS00	C0678226	atributo	339-342	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+30	campo	campo	NCMS000	-	-	343-348	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+31	.	.	Fp	-	-	348-349	108_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	Ante	ante	SPS00	-	-	350-354	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	la	el	DA0FS0	-	-	355-357	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	conveniencia	conveniencia	NCFS000	-	-	358-370	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	371-373	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	instaurar	instaurar	VMN0000	-	-	374-383	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	un	un		C0205447_1	calificador_1	384-386	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	tratamiento	tratamiento	NCMS000	C1299597_1	régimen/tratamiento_1	387-398	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	empírico	empírico	NCMS000	C1299597_2	régimen/tratamiento_2	399-407	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+9	.	.	Fp	-	-	407-408	108_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	409-410	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	410-414	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	415-417	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+4	los	el	DA0MP0	-	-	418-421	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	422-432	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+6	microorganismos	microorganismo	NCMP000	C0445623	organismo	433-448	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+7	es	ser	VSIP3S0	-	-	449-451	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+8	el	el	DA0MS0	-	-	452-454	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+9	responsable	responsable	NCCS000	-	-	455-466	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+10	más	más	RG	C0205172	calificador	467-470	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+11	frecuente	frecuente	AQ0CS0	C0332183	calificador	471-480	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	481-483	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+13	las	el	DA0FP0	-	-	484-487	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+14	gestantes	gestante	NCFP000	-	-	488-497	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+15	?	?	Fit	-	-	497-498	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+16	.	.	Fp	-	-	498-499	108_QUEST_clinical_caseMIR	SENT7	-	-	-	-	-
+

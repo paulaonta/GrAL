@@ -1,0 +1,69 @@
+1	Paciente	paciente	NCCS000	C0030705	persona	0-8	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	9-11	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	68	68		-	-	12-14	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	15-19	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	20-23	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	24-32	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	33-36	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	edemas	edema	NCMP000	C0013604	anomalía_morfológica#hallazgo#entidad_observable	37-43	194_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	44-45	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	astenia	astenia	NCFS000	C0004093#C3714552	hallazgo	46-53	194_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	.	.	Fp	-	-	53-54	194_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	55-57	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	58-60	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	analítica	analítica	NCFS000	-	-	61-70	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	realizada	realizar	VMP00SF	-	-	71-80	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	se	se	P00CN000	-	-	81-83	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	constata	constatar	VMIP3S0	-	-	84-92	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	creatinina	creatinina	NC00SC0	C0010294	sustancia	93-103	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	104-106	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	5	5	Z	-	-	107-108	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	mg	mg	NCMN000	-	-	109-111	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	/	/	Fh	-	-	111-112	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	dl	decilitro	NCMN000	C0439241	calificador	112-114	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	,	,	Fc	-	-	114-115	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	hemoglobina	hemoglobina	NCFS000	C0019046	sustancia	116-127	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	128-130	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	10	10	Z	-	-	131-133	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	gr	g	NC00SC0	-	-	134-136	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	/	/	Fh	-	-	136-137	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	dl	decilitro	NCMN000	C0439241	calificador	137-139	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	140-141	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	una	una		C0205447_1	calificador_1	142-145	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	marcada	marcar	VMP00SF	-	-	147-154	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	hipogammaglobulinemia	hipogammaglobulinemia	NCFS000	C0001768#C0086438	hallazgo	155-176	194_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+24	en	en	SPS00	C1720294#C0332285	calificador#atributo	177-179	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	suero	suero	NCMS000	C0229671#C0588987	sustancia#producto	180-185	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	a	a	SPS00	-	-	186-187	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	expensas	expensas	NCFP000	-	-	188-196	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	de	de	SPS00	C0332285	atributo	197-199	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	IgG	igg	NCMS000	-	-	200-203	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	,	,	Fc	-	-	203-204	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	IgA	iga	NCFS000	-	-	205-208	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	e	y	CC	C1706368	calificador	209-210	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	IgM	igm	NCMS000	-	-	211-214	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	.	.	Fp	-	-	214-215	194_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Un	Un		C0205447_1	calificador_1	216-218	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	análisis	análisis	NCMN000	C0042014_1	procedimiento_1	219-227	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0042014_2	procedimiento_2	228-230	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	orina	orinar	VMM02S0	C0042014_3	procedimiento_3	231-236	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	revela	revelar	VMIP3S0	-	-	237-243	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	la	el	DA0FS0	-	-	244-246	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	presencia	presenciar	VMM02S0	C0150312_1	calificador_1	247-256	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	de	de	SPS00	C0150312_2	calificador_2	257-259	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	cadenas	cadena	NCFP000	C3540771#C0337112	metadato_fundacional#objeto_físico	260-267	194_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+10	ligeras	ligero	AQ0FP0	-	-	268-275	194_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	9	1098	Modif
+11	kappa	kappa	NCFS000	C0439099	calificador	276-281	194_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	10	97	MultiE
+12	.	.	Fp	-	-	281-282	194_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	283-284	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	284-288	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	289-291	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	su	su	DP3CS0	-	-	292-294	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	295-303	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	304-315	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	?	?	Fit	-	-	315-316	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	.	.	Fp	-	-	316-317	194_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

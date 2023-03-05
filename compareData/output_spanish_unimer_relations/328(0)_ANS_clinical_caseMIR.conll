@@ -1,0 +1,24 @@
+1	Realizar	realizar	VMN0000	-	-	0-8	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	TC	símbolo_químico_del_tecnecio	NC00YL0	-	-	9-11	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	craneal	craneal	AQ0CS0	C0205096#C3163631	calificador	12-19	328(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+4	y	y	CC	C1706368	calificador	20-21	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	si	si	CS	-	-	22-24	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	no	no	RN	C1298908	calificador	25-27	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	hay	haber	VMIP3S0	-	-	28-31	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	lesiones	lesión	NCFP000	C0332447#C1313971#C0221198	anomalía_morfológica	32-40	328(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+9	hemorrágicas	hemorrágico	AQ0FP0	C0333275	calificador	41-53	328(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	8	2877	Modif
+10	ni	ni	CC	-	-	54-56	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	otras	otro	DI0FP0	C0205394#C0449210	calificador#estructura_corporal	57-62	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	contraindicaciones	contraindicación	NCFP000	-	-	63-81	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	82-84	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	la	el	DA0FS0	-	-	85-87	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	analítica	analítica	NCFS000	-	-	88-97	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	,	,	Fc	-	-	97-98	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	iniciaría	iniciar	VMIC3S0	-	-	99-108	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	trombolisis	trombolisis	NCMN000	-	-	109-120	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	endovenosa	endovenoso	AQ0FS0	-	-	121-131	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	132-134	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	forma	forma	NCFS000	C0348078	atributo	135-140	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+22	inmediata	inmediato	AQ0FS0	C0205253	calificador	141-150	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+23	.	.	Fp	-	-	151-152	328(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

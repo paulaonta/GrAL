@@ -1,0 +1,23 @@
+1	Tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	0-11	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	con	con	SPS00	C0332287	atributo	12-15	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	ifosfamida	ifosfamida	NC00SC0	C0020823	producto#sustancia	16-26	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+4	y	y	CC	C1706368	calificador	27-28	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	tamoxifeno	tamoxifeno	NC00SC0	C0039286	producto#sustancia	29-39	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+6	durante	durante	SPS00	C1444752#C0347984	atributo	40-47	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	6	6		-	-	48-49	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	ciclos	ciclo	NCMP000	-	-	50-56	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	previos	previo	AQ0MP0	C0205156	calificador	57-64	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	a	a	SPS00	-	-	65-66	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	la	el	DA0FS0	-	-	67-69	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	70-77	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	78-80	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	resección	resección	NCFS000	C0728940#C0547070	procedimiento	81-90	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	para	para	SPS00	C0521125	calificador	91-95	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	reducir	reducir	VMN0000	-	-	96-103	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	el	el	DA0MS0	-	-	104-106	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	tamaño	tamaño	NCMS000	C0449453_1	entidad_observable_1	107-113	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	de	de	SPS00	C0449453_2	entidad_observable_2	114-116	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+20	la	lo	PP3FSA00	C0449453_3	entidad_observable_3	117-119	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+21	lesión	lesión	NCFS000	C0449453_4	entidad_observable_4	120-126	450(1)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	.	.	Fp	-	-	127-128	450(1)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

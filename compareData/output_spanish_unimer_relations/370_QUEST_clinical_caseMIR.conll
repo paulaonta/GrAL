@@ -1,0 +1,73 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	34	34		-	-	9-11	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	17-19	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	20-24	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	que	que	CS	-	-	25-28	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	consulta	consultar	VMM02S0	C1704447_1	calificador_1	29-37	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	por	por	SPS00	C1704447_2	calificador_2	38-41	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	coitorragias	coitorragias	NCFP000	-	-	42-54	370_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	55-57	370_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	348	Modif
+12	repetición	repetición	NCFS000	-	-	58-68	370_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	11	62	MultiE
+13	.	.	Fp	-	-	68-69	370_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Aporta	aportar	VMIP3S0	-	-	70-76	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	77-80	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	citologia	citologia	NCFS000	-	-	81-90	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	con	con	SPS00	C0332287	atributo	91-94	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	95-98	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	lesión	lesión	NCFS000	C0332447#C1313971#C0221198	anomalía_morfológica	99-105	370_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+7	Intraepitelial	intraepitelial	AQ0CS0	-	-	106-120	370_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	349	Modif
+8	de	de	SPS00	C0332285	atributo	121-123	370_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	6	349	Modif
+9	alto	alto	NCMS000	C0205082_1	calificador_1	124-128	370_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	97	MultiE
+10	grado	grado	NCMS000	C0205082_2	calificador_2	129-134	370_QUEST_clinical_caseMIR	SENT2	I-Calificador	-	8	97	MultiE
+11	(	(	Fpa	-	-	135-136	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	U-SIL	u-sil	NCMS000	-	-	136-141	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	)	)	Fpt	-	-	141-142	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	.	.	Fp	-	-	142-143	370_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Posteriormente	posteriormente	RG	-	-	144-158	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	se	se	P00CN000	-	-	159-161	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	realiza	realizar	VMIP3S0	-	-	162-169	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	colposcopia	colposcopia	NC00SC0	C1271437#C0009417	procedimiento	170-181	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	y	y	CC	C1706368	calificador	182-183	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	biopsia	biopsia	NCFS000	C0005558	procedimiento#calificador	184-191	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	sobre	sobre	SPS00	C1720294#C0205136	calificador	192-197	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	198-201	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	zona	zona	NCFS000	C0019360	trastorno	202-206	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	207-209	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	mosaico	mosaico	NCMS000	C0439750	calificador	210-217	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	218-219	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	la	el	DA0FS0	-	-	220-222	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	histología	histología	NCFS000	-	-	223-233	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	nos	nos	PP1CP000	-	-	234-237	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	habla	hablar	VMIP3S0	C0234856	entidad_observable	238-243	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	244-246	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	un	un		C0205447_1	calificador_1	247-249	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	foco	foco	NCMS000	-	-	250-254	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	255-257	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	carcinoma	carcinoma	NCMS000	C0007137_1	anomalía_morfológica_1	258-267	370_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+22	escamoso	escamoso	NCMS000	C0007137_2	anomalía_morfológica_2	268-276	370_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	21	350	Modif
+23	invasor	invasor	AQ0MS0	C0205281	calificador	277-284	370_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	21	350	Modif
+24	de	de	SPS00	C0332285	atributo	285-287	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	2	2	Z	-	-	288-289	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	mm	mm	NCMN000	-	-	290-292	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	293-295	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	longitud	longitud	NCFS000	C1444754	calificador#atributo	296-304	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	.	.	Fp	-	-	304-305	370_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	306-307	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	307-310	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	opción	opción	NCFS000	-	-	311-317	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	terapéutica	terapéutico	AQ0FS0	-	-	318-329	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	330-332	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	la	lo	PP3FSA00	C0205393_1	calificador_1	333-335	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	más	más	RG	C0205393_2	calificador_2	336-339	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	adecuada	adecuar	VMP00SF	-	-	340-348	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	para	para	SPS00	C0521125	calificador	349-353	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	esta	este	DD0FS0	-	-	354-358	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	paciente	paciente	NCCS000	C0030705	persona	359-367	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	?	?	Fit	-	-	367-368	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	.	.	Fp	-	-	368-369	370_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

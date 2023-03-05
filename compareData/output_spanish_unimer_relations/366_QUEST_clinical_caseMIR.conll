@@ -1,0 +1,90 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	boliviana	boliviano	AQ0FS0	-	-	6-15	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	16-18	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	35	35		-	-	19-21	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	22-26	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	27-29	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	30-34	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	,	,	Fc	-	-	34-35	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	embarazada	embarazar	VMP00SF	-	-	36-46	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	47-49	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	3	3		-	-	50-51	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	meses	mes	NCMP000	C0439231	calificador	52-57	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	,	,	Fc	-	-	57-58	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	que	que	PR0CN000	-	-	59-62	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	lleva	llevar	VMIP3S0	-	-	63-68	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	viviendo	vivir	VMG0000	-	-	70-78	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	10	10		-	-	79-81	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	años	año	NCMP000	C0439234	calificador	82-86	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	87-89	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	España	españa	NC00SC0	C0037747	localización_geográfica	90-96	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	con	con	SPS00	C0332287	atributo	97-100	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	su	su	DP3CS0	-	-	101-103	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	pareja	pareja	NCFS000	-	-	104-110	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	,	,	Fc	-	-	110-111	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	que	que	PR0CN000	-	-	112-115	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	es	ser	VSIP3S0	-	-	116-118	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	español	español	AQ0MS0	C0337817	grupo_étnico	119-126	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	y	y	CC	C1706368	calificador	127-128	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	no	no	RN	C1298908	calificador	129-131	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	ha	haber	VAIP3S0	-	-	132-134	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	viajado	viajar	VMP00SM	C0040802	entidad_observable	135-142	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	nunca	nunca	RG	-	-	143-148	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	a	a	SPS00	-	-	149-150	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	Latinoamérica	latinoamérica	AQ0FS00	-	-	151-164	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	.	.	Fp	-	-	164-165	366_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	166-168	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	169-174	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	tiene	tener	VMIP3S0	-	-	175-180	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	otros	otro	DI0MP0	C0205394#C0449210	calificador#estructura_corporal	181-186	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	dos	dos		-	-	187-190	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	hijos	hijo	NCMP000	-	-	191-196	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	197-200	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	su	su	DP3CS0	-	-	201-203	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	pareja	pareja	NCFS000	-	-	204-210	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	,	,	Fc	-	-	210-211	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	nacidos	nacer	VMP00PM	-	-	212-219	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	220-222	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	España	españa	NC00SC0	C0037747	localización_geográfica	223-229	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	y	y	CC	C1706368	calificador	230-231	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	un	un		C0205447_1	calificador_1	232-234	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	hermano	hermano	NCMS000	C0337527	persona	235-242	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	que	que	PR0CN000	-	-	243-246	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	vive	vivir	VMIP3S0	-	-	247-251	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	en	en	SPS00	C1720294#C0332285	calificador#atributo	252-254	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	Bolivia	bolivia	NCFS000	-	-	255-262	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	263-264	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	otro	otro	PI0MS000	C0205394#C0449210	calificador#estructura_corporal	265-269	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	en	en	SPS00	C1720294#C0332285	calificador#atributo	270-272	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	España	españa	NC00SC0	C0037747	localización_geográfica	273-279	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	.	.	Fp	-	-	279-280	366_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Durante	durante	SPS00	C1444752#C0347984	atributo	281-288	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	el	el	DA0MS0	-	-	289-291	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	embarazo	embarazo	NCMS000	C0549206#C0032961#C0549169	hallazgo#entidad_observable	292-300	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	301-303	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	han	haber	VAIP3P0	-	-	304-307	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	diagnosticado	diagnosticar	VMP00SM	-	-	308-321	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	infección	infección	NCFS000	C0041234_1	trastorno_1	322-331	366_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	por	por	SPS00	C0041234_2	trastorno_2	332-335	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	Trypanosoma	Trypanosoma		C0041234_3	trastorno_3	336-347	366_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	7	2339	Causada_por
+10	cruzi	cruzi		C0041234_4	trastorno_4	348-353	366_QUEST_clinical_caseMIR	SENT3	I-Grp_Enfermedad	-	9	74	MultiE
+11	.	.	Fp	-	-	353-354	366_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	355-356	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Cual	cual	PI0CS000	-	-	356-360	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	361-363	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	las	el	DA0FP0	-	-	364-367	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	368-378	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	actuaciones	actuación	NCFP000	C0699820	hallazgo	379-390	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	a	a	SPS00	-	-	391-392	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	realizar	realizar	VMN0000	-	-	393-401	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	sobre	sobre	SPS00	C1720294#C0205136	calificador	402-407	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	la	el	DA0FS0	-	-	408-410	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	412-422	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	es	ser	VSIP3S0	-	-	423-425	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	INCORRECTA	incorrecto	AQ0FS0	-	-	426-436	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	?	?	Fit	-	-	436-437	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	437-438	366_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

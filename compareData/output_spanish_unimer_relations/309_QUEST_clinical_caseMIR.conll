@@ -1,0 +1,80 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	51	51		-	-	10-12	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	es	ser	VSIP3S0	-	-	22-24	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	ingresado	ingresar	VMP00SM	-	-	25-34	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	desde	desde	SPS00	-	-	35-40	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	Urgencias	urgencia	NCFP000	C0439609	calificador	41-50	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	51-54	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	anemia	anemia	NCFS000	C0002886_1	trastorno_1	55-61	309_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	macrocítica	macrocítico	AQ0FS0	C0002886_2	trastorno_2	62-73	309_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	1076	Modif
+13	(	(	Fpa	-	-	74-75	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	Hb	hb	NC00YL0	-	-	75-77	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	6,3	6.3	Z	-	-	78-81	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	g	g	NCMN000	-	-	82-83	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	/	/	Fh	-	-	83-84	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	dL	decilitro	NCMN000	C0439241	calificador	84-86	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	,	,	Fc	-	-	86-87	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	VCm	vcm	NC00SC0	C0524587	entidad_observable	88-91	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	120	120		-	-	92-95	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	fL	fl	NC00SC0	C0475213	calificador	96-98	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	)	)	Fpt	-	-	98-99	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	.	.	Fp	-	-	99-100	309_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	101-103	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	los	el	DA0MP0	-	-	104-107	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	estudios	estudio	NCMP000	C0557651	medio_ambiente	108-116	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	realizados	realizar	VMP00PM	-	-	117-127	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	se	se	P00CN000	-	-	128-130	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	descarta	descartar	VMIP3S0	C0332196	calificador	131-139	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	140-142	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	origen	origen	NCMS000	C0439659	atributo	143-149	309_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+9	carencial	carencial	AQ0CS0	-	-	150-159	309_QUEST_clinical_caseMIR	SENT2	I-Grp_Enfermedad	-	8	97	MultiE
+10	.	.	Fp	-	-	159-160	309_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	161-164	309_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	reticulocitos	reticulocito	NCMP000	C0035286	célula	165-178	309_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	-	-	-
+3	son	ser	VSIP3P0	-	-	179-182	309_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	183-185	309_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	24000/microL	24000/microL		-	-	186-198	309_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	.	.	Fp	-	-	198-199	309_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	200-202	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	estudio	estudio	NCMS000	C0557651	medio_ambiente	203-210	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	211-213	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	médula	médula	NCFS000	C0005953#C0229619_1	estructura_corporal_1	214-220	309_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+5	ósea	óseo	AQ0FS0	C0005953#C0229619_2	estructura_corporal_2	221-225	309_QUEST_clinical_caseMIR	SENT4	I-Estructura_Corporal	-	4	93	MultiE
+6	es	ser	VSIP3S0	-	-	226-228	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	compatible	compatible	AQ0CS0	C0332290#C1524057_1	calificador#atributo_1	229-239	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	con	con	SPS00	C0332290#C1524057_2	calificador#atributo_2	240-243	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	un	un		C0205447_1	calificador_1	244-246	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	síndrome	síndrome	NCMS000	C0026986_1	anomalía_morfológica_1	247-255	309_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Especulacion	-	-	-
+11	mielodisplásico	mielodisplásico		C0026986_2	anomalía_morfológica_2	256-271	309_QUEST_clinical_caseMIR	SENT4	I-Grp_Enfermedad	-	10	97	MultiE
+12	(	(	Fpa	-	-	272-273	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	SMD	smd	NC00YL0	-	-	273-276	309_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+14	)	)	Fpt	-	-	276-277	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	.	.	Fp	-	-	277-278	309_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	279-281	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	citogenética	citogenética	NCFS000	-	-	282-294	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	295-302	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	303-306	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	delección	delección	NCFS000	-	-	307-316	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	317-319	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	5q	5q		-	-	320-322	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	¿	¿	Fia	-	-	323-324	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	Cuál	cuál	PT0CS000	-	-	325-329	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	es	ser	VSIP3S0	-	-	330-332	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	la	el	DA0FS0	-	-	333-335	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	afirmación	afirmación	NCFS000	-	-	336-346	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	correcta	correcto	AQ0FS0	C0205170	calificador	347-355	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	356-358	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	relación	relación	NCFS000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	359-367	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	a	a	SPS00	-	-	368-369	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	este	este	DD0MS0	-	-	370-374	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	paciente	paciente	NCCS000	C0030705	persona	375-383	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	?	?	Fit	-	-	383-384	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	.	.	Fp	-	-	384-385	309_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

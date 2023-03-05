@@ -1,0 +1,113 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	paciente	paciente	NCCS000	C0030705	persona	3-11	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	12-14	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	74	74		-	-	15-17	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	18-22	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	23-26	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	resección	resección	NCFS000	C0728940#C0547070	procedimiento	27-36	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	intestinal	intestinal	NC00SC0	C0021853	calificador	37-47	167_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+9	tras	tras	SPS00	-	-	48-52	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	53-56	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	trombosis	trombosis	NCFN000	C0087086#C0003148#C0040053	anomalía_morfológica#calificador#trastorno	57-66	167_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	mesentérica	mesentérico	AQ0FS0	C0025474	calificador	67-78	167_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	11	1735	LOC
+13	,	,	Fc	-	-	78-79	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	acude	acudir	VMIP3S0	-	-	80-85	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	a	a	SPS00	-	-	86-87	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	consulta	consultar	VMM02S0	C1704447_1	calificador_1	88-96	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	por	por	SPS00	C1704447_2	calificador_2	97-100	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	cansancio	cansancio	NCMS000	C0015672#C0475255	hallazgo#calificador	101-110	167_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	y	y	CC	C1706368	calificador	111-112	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	dolor	dolor	NCMS000	C0151825_1	hallazgo_1	113-118	167_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	óseo	óseo	NC00SC0	C0151825_2	hallazgo_2	119-123	167_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	20	1735	LOC
+22	.	.	Fp	-	-	123-124	167_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Había	haber	VAII3S0	-	-	125-130	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	sufrido	sufrir	VMP00SM	-	-	131-138	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	una	una		C0205447_1	calificador_1	139-142	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	fractura	fracturar	VMM02S0	C0009353_1	trastorno_1	143-151	167_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	de	de	SPS00	C0009353_2	trastorno_2	152-154	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	Colles	Colles		C0009353_3	trastorno_3	155-161	167_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	4	1736	LOC
+7	tres	tres		-	-	162-166	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	meses	mes	NCMP000	C0439231	calificador	167-172	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	antes	antes	RG	C0332152	atributo	173-178	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	.	.	Fp	-	-	178-179	167_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Los	el	DA0MP0	-	-	180-183	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	estudios	estudio	NCMP000	C0557651	medio_ambiente	184-192	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	analíticos	analítico	AQ0MP0	-	-	193-203	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	ponen	poner	VMIP3P0	-	-	204-209	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	210-212	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	manifiesto	manifiesto	NCMS000	C1280464#C0205319	calificador	213-223	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	una	una		C0205447_1	calificador_1	224-227	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	anemia	anemia	NCFS000	C0002871#C0221395#C1510654	trastorno	228-234	167_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	235-237	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	9.5	9.5	Z	-	-	238-241	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	g	g	NCMN000	-	-	242-243	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	/	/	Fh	-	-	243-244	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	dl	decilitro	NCMN000	C0439241	calificador	244-246	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	,	,	Fc	-	-	246-247	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	microcítica	microcítico	AQ0FS0	-	-	248-259	167_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	8	1737	Modif
+16	,	,	Fc	-	-	259-260	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	albúmina	albúmina	NCFS000	C0001924	sustancia	261-269	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	3.5	3.5	Z	-	-	270-273	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	g	g	NCMN000	-	-	274-275	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	/	/	Fh	-	-	275-276	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	di	di	NC00YL0	-	-	276-278	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	,	,	Fc	-	-	278-279	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	calcio	calcio	NCMS000	C0006675	sustancia	280-286	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	7.5	7.5	Z	-	-	287-290	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	mg	mg	NCMN000	-	-	291-293	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	/	/	Fh	-	-	293-294	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	dl	decilitro	NCMN000	C0439241	calificador	294-296	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	,	,	Fc	-	-	296-297	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	fosfato	fosfato	NCMS000	C0031603	sustancia	298-305	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	2.0	2.0	Z	-	-	306-309	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	mg	mg	NCMN000	-	-	310-312	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	/	/	Fh	-	-	312-313	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	dl	decilitro	NCMN000	C0439241	calificador	313-315	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	y	y	CC	C1706368	calificador	316-317	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	fosfatasa	fosfatasa	NCFS000	C0002059_1	sustancia_1	318-327	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+36	alcalina	alcalino	AQ0FS0	C0002059_2	sustancia_2	328-336	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+37	224	224		-	-	337-340	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+38	UI	ui	NC00SC0	C0439453	calificador	341-343	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+39	(	(	Fpa	-	-	344-345	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+40	normal	normal	AQ0CS0	C0205307	calificador	345-351	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+41	hasta	hasta	SPS00	-	-	352-357	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+42	120	120		-	-	358-361	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+43	UI	ui	NC00SC0	C0439453	calificador	362-364	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+44	)	)	Fpt	-	-	364-365	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+45	.	.	Fp	-	-	365-366	167_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Las	el	DA0FP0	-	-	367-370	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	radiografías	radiografía	NCFP000	C1306645	procedimiento	371-383	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	del	del	SP+DA	-	-	384-387	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	fémur	fémur	NCMS000	C0015811#C1279112	estructura_corporal	388-393	167_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+5	muestran	mostrar	VMIP3P0	-	-	394-402	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	unas	uno	DI0FP0	C0205447	calificador	403-407	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	bandas	banda	NCFP000	C0175723#C0439645	objeto_físico#calificador	408-414	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	radiolúcidas	radiolúcido	AQ0FP0	-	-	415-427	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	perpendiculares	perpendicular	NCFP000	-	-	428-443	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	a	a	SPS00	-	-	444-445	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	la	el	DA0FS0	-	-	446-448	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	cortical	cortical	AQ0CS0	-	-	449-457	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	458-460	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	el	el	DA0MS0	-	-	461-463	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	lado	lado	NCMS000	C0441987#C0457012	calificador	464-468	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	interno	interno	AQ0MS0	C0205102	calificador	469-476	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	477-479	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	su	su	DP3CS0	-	-	480-482	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+19	parte	partir	VMM02S0	C1704458_1	calificador_1	483-488	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+20	superior	superior	NCMS000	C1704458_2	calificador_2	489-497	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+21	.	.	Fp	-	-	497-498	167_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	499-500	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	500-504	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	505-507	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	el	el	DA0MS0	-	-	508-510	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	511-522	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	más	más	RG	C0205172	calificador	523-526	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	probable	probable	AQ0CS0	C0332148	calificador	527-535	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	?	?	Fit	-	-	535-536	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	:	:	Fd	-	-	536-537	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	.	.	Fp	-	-	537-538	167_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+

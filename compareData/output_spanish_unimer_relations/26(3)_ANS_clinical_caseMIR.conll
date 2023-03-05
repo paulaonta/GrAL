@@ -1,0 +1,20 @@
+1	Debe	deber	VMIP3S0	-	-	0-4	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	indicar	indicar	VMN0000	-	-	5-12	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	se	se	PP3CN000	-	-	12-14	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	la	el	DA0FS0	-	-	15-17	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	resección	resección	NCFS000	C0728940_1	calificador_1	18-27	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	quirúrgica	quirúrgico	AQ0FS0	C0728940_2	calificador_2	28-38	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	(	(	Fpa	-	-	39-40	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	lobectomía	lobectomía	NC00SC0	C0023928	procedimiento	40-50	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	del	del	SP+DA	-	-	51-54	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	lóbulo	lóbulo	NCMS000	C0225758#C1281645_1	estructura_corporal_1	55-61	26(3)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+11	inferior	inferior	NCCS000	C0225758#C1281645_2	estructura_corporal_2	62-70	26(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	10	97	MultiE
+12	del	del	SP+DA	C0225758#C1281645_3	estructura_corporal_3	71-74	26(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	10	97	MultiE
+13	pulmón	pulmón	NCMS000	C0225758#C1281645_4	estructura_corporal_4	75-81	26(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	10	97	MultiE
+14	derecho	derecho	AQ0MS0	C0445291#C0445292#C0205090#C0450415	calificador	82-89	26(3)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	10	97	MultiE
+15	)	)	Fpt	-	-	89-90	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	91-93	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	forma	forma	NCFS000	C0348078	atributo	94-99	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+18	directa	directo	AQ0FS0	C0439851	calificador	100-107	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+19	.	.	Fp	-	-	108-109	26(3)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

@@ -1,0 +1,88 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	34	34		-	-	10-12	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	18-21	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	22-30	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	31-34	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	fiebre	fiebre	NCFS000	C0015967	hallazgo	35-41	227_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	y	y	CC	C1706368	calificador	42-43	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	malestar	malestar	NCMS000	C0234215#C0231218_1	hallazgo_1	44-52	227_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+11	general	general	NCCS000	C0234215#C0231218_2	hallazgo_2	53-60	227_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	10	2055	Modif
+12	.	.	Fp	-	-	60-61	227_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	62-64	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	65-67	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	historia	historia	NCFS000	-	-	68-76	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	clínica	clínico	AQ0FS0	C0205210	calificador	77-84	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	se	se	P00CN000	-	-	85-87	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	recogen	recoger	VMIP3P0	-	-	88-95	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	como	como	CS	C0332257	calificador	96-100	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	antecedentes	antecedente	NCMP000	-	-	101-113	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	relaciones	relación	NCFP000	C0456603#C0439849#C3645603	calificador#atributo#metadato_fundacional	114-124	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	homosexuales	homosexual	AQ0CP0	C0019900	hallazgo	125-137	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	desde	desde	SPS00	-	-	138-143	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	hace	hacer	VMIP3S0	-	-	144-148	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	4	4		-	-	149-150	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	meses	mes	NCMP000	C0439231	calificador	151-156	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	con	con	SPS00	C0332287	atributo	157-160	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	una	una		C0205447_1	calificador_1	161-164	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	nueva	nuevo	AQ0FS0	C0205314	calificador	165-170	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	pareja	pareja	NCFS000	-	-	171-177	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	.	.	Fp	-	-	177-178	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	2	2		-	-	179-180	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	meses	mes	NCMP000	C0439231	calificador	181-186	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	antes	antes	RG	C0332152	atributo	187-192	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	193-195	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	la	el	DA0FS0	-	-	196-198	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	199-207	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	actual	actual	AQ0CS0	C0521116	calificador	208-214	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	tuvo	tener	VMIS3S0	-	-	215-219	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	una	una		C0205447_1	calificador_1	220-223	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	lesión	lesión	NCFS000	C0041582_1	anomalía_morfológica_1	224-230	227_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+30	ulcerosa	ulceroso	AQ0FS0	C0041582_2	anomalía_morfológica_2	231-239	227_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	29	2056	Modif
+31	en	en	SPS00	C1720294#C0332285	calificador#atributo	240-242	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	el	el	DA0MS0	-	-	243-245	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	glande	glande	NCMS000	C1269539#C0227948	estructura_corporal	246-252	227_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	29	2056	LOC
+34	,	,	Fc	-	-	252-253	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	indolora	indoloro	AQ0FS0	C0234226	calificador	254-262	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	,	,	Fc	-	-	262-263	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	con	con	SPS00	C0332287	atributo	264-267	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	adenopatías	adenopatía	NCFP000	-	-	268-279	227_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+39	inguinales	inguinal	AQ0CP0	C0018246	calificador	280-290	227_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	38	2056	LOC
+40	bilaterales	bilateral	AQ0CP0	C0238767	calificador	291-302	227_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	38	2056	Modif
+41	,	,	Fc	-	-	302-303	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	todo	todo	DI0MS0	C0205197#C0439810#C0444868#C0444667	calificador	304-308	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	ello	ello	PD0NS000	-	-	309-313	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	autolimitado	autolimitar	VMP00SM	-	-	314-326	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+45	.	.	Fp	-	-	326-327	227_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	328-330	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	solicitan	solicitar	VMIP3P0	-	-	331-340	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	estudios	estudio	NCMP000	C0557651	medio_ambiente	341-349	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	serológicos	serológico	AQ0MP0	C0205473	calificador	350-361	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	362-365	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	los	el	DA0MP0	-	-	366-369	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	siguientes	siguiente	AQ0CP0	C0332282	atributo	370-380	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	resultados	resultado	NCMP000	C1704419#C1280500#C1280519#C1274040	concepto_para_navegación	381-391	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	:	:	Fd	-	-	391-392	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	HIV	human_immunodeficiency_virus_(virus_de_la_inmunodeficiencia_humana)	NC00YL0	C0481430_1	hallazgo_1	393-396	227_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+11	negativo	negativo	NCMS000	C0481430_2	hallazgo_2	397-405	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	,	,	Fc	-	-	405-406	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	RPR	rapid_plasma_reagin_test	NC00YL0	-	-	407-410	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	1/320	1/320		-	-	411-416	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	,	,	Fc	-	-	416-417	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	TPHA	treponema_pallidum_hemagglutination_assay_(análisis_de_heamglutinación_de_treponema_pallidum)	NC00YL0	-	-	418-422	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	1/128	1/128		-	-	423-428	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	.	.	Fp	-	-	428-429	227_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	430-431	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	431-434	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	435-446	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	indicaría	indicar	VMIC3S0	-	-	447-456	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	457-459	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	este	este	DD0MS0	-	-	460-464	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	paciente	paciente	NCCS000	C0030705	persona	465-473	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	?	?	Fit	-	-	473-474	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	.	.	Fp	-	-	474-475	227_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

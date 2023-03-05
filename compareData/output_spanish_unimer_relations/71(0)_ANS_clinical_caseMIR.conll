@@ -1,0 +1,9 @@
+1	Pérdida	pérdida	NCFS000	C0043096#C1285591_1	hallazgo#entidad_observable_1	0-7	71(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+2	de	de	SPS00	C0043096#C1285591_2	hallazgo#entidad_observable_2	8-10	71(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	1	3989	Modif
+3	peso	peso	NCMS000	C0043096#C1285591_3	hallazgo#entidad_observable_3	11-15	71(0)_ANS_clinical_caseMIR	SENT1	I-Calificador	-	2	16	MultiE
+4	con	con	SPS00	C0332287	atributo	16-19	71(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	o	o	CC	-	-	20-21	71(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	sin	sin	SPS00	C0332288	atributo	22-25	71(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	rectorragia	rectorragia	NCFS000	C0267596#C0018932_1	trastorno#hallazgo_1	26-37	71(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	Negacion	-	-	-
+8	.	.	Fp	-	-	38-39	71(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

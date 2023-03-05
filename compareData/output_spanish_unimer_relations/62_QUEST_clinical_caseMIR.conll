@@ -1,0 +1,52 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	30	30		-	-	13-15	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	21-24	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	AP	ap	NC00YL0	-	-	25-27	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	28-30	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	drogadicción	drogadicción	NCFS000	C1510472	trastorno	31-43	62_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	en	en	SPS00	C1720294#C0332285	calificador#atributo	44-46	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	periodo	periodo	NCMS000	-	-	47-54	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	actual	actual	AQ0CS0	C0521116	calificador	55-61	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	de	de	SPS00	C0332285	atributo	62-64	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	desintoxicación	desintoxicación	NCFS000	-	-	65-80	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	s	s	NCFS000	-	-	81-82	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	traída	traer	VMP00SF	-	-	83-89	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	a	a	SPS00	-	-	90-91	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	Urgencias	urgencia	NCFP000	C0439609	calificador	92-101	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	con	con	SPS00	C0332287	atributo	102-105	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	cuadro	cuadro	NCMS000	-	-	106-112	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	113-115	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	somnolencia	somnolencia	NCFS000	C2830004	entidad_observable#hallazgo	116-127	62_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+23	profunda	profundo	AQ0FS0	C0205125#C0439808	calificador	128-136	62_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	22	1476	Modif
+24	,	,	Fc	-	-	136-137	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	sin	sin	SPS00	C0332288	atributo	138-141	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	otra	otro	DI0FS0	C0205394#C0449210	calificador#estructura_corporal	142-146	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	sintomatología	sintomatología	NCFS000	-	-	147-161	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	.	.	Fp	-	-	161-162	62_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Logramos	lograr	VMIP1P0	-	-	163-171	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	averiguar	averiguar	VMN0000	-	-	172-181	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	que	que	CS	-	-	182-185	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	186-188	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	su	su	DP3CS0	-	-	189-191	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	192-203	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	se	se	P00CN000	-	-	204-206	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	incluye	incluir	VMIP3S0	-	-	207-214	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	olanzapina	olanzapina	NC00SC0	C0171023	producto#sustancia	215-225	62_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+10	y	y	CC	C1706368	calificador	226-227	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	benzodiacepinas	benzodiacepina	NCFP000	C0005064	sustancia	228-243	62_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+12	.	.	Fp	-	-	243-244	62_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	245-246	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	PT0CN000	-	-	246-249	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	debemos	deber	VMIP1P0	-	-	250-257	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	hacer	hacer	VMN0000	-	-	258-263	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	en	en	SPS00	C1279901_1	calificador_1	264-266	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	primer	1	AO0MS0	C1279901_2	calificador_2	267-273	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	lugar	lugar	NCMS000	C1279901_3	calificador_3	274-279	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	?	?	Fit	-	-	279-280	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	.	.	Fp	-	-	280-281	62_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

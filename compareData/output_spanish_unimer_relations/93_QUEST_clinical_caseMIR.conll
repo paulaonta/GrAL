@@ -1,0 +1,106 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	niña	niño	NCFS000	C0008059#C0870221	persona	4-8	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	9-11	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	8	8		-	-	12-13	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	14-18	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	(	(	Fpa	-	-	19-20	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	caso	caso	NCMS000	C0868928	calificador	20-24	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	índice	índice	NCMS000	-	-	25-31	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	)	)	Fpt	-	-	31-32	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	está	estar	VAIP3S0	-	-	33-37	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	diagnosticada	diagnosticar	VMP00SF	-	-	38-51	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	clínicamente	clínicamente	RG	-	-	52-64	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	como	como	CS	C0332257	calificador	65-69	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	afecta	afectar	VMIP3S0	-	-	70-76	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	77-79	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	neurofibromatosis	neurofibromatosis	NCFN000	C0162678#C1314735	anomalía_morfológica	80-97	93_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+17	tipo	tipo	NCMS000	C0441729_1	calificador_1	98-102	93_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	16	370	Modif
+18	1	1	Z	C0441729_2	calificador_2	103-104	93_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	17	164	MultiE
+19	(	(	Fpa	-	-	105-106	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	NF1	NF1		-	-	106-109	93_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	16	370	Modif
+21	)	)	Fpt	-	-	109-110	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	o	o	CC	-	-	111-112	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	enfermedad	enfermedad	NCFS000	C0012634#C0039082	trastorno	113-123	93_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+24	de	de	SPS00	C0332285	atributo	124-126	93_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	23	91	MultiE
+25	Von	von	VMIS3P0	-	-	127-130	93_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	23	91	MultiE
+26	Recklinghausen	recklinghausen	VMSI3P0	-	-	131-145	93_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	23	91	MultiE
+27	con	con	SPS00	C0332287	atributo	146-149	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	múltiples	múltiple	AQ0CP0	C0439064	calificador	150-159	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	neurofibromas	neurofibroma	NCMP000	C0027830	anomalía_morfológica#trastorno	160-173	93_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+30	,	,	Fc	-	-	173-174	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	manchas	manchar	VMIP2S0	C0221263_1	trastorno_1	175-182	93_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+32	café	café	NCMS000	C0221263_2	trastorno_2	183-187	93_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	31	370	LOC
+33	con	con	SPS00	C0221263_3	trastorno_3	188-191	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	leche	leche	NCFS000	C0221263_4	trastorno_4	192-197	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	y	y	CC	C1706368	calificador	198-199	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	nódulos	nódulo	NCMP000	C0028259	anomalía_morfológica	200-207	93_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+37	de	de	SPS00	C0332285	atributo	208-210	93_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	36	614	MultiE
+38	Lisch	lisch	NCMS000	-	-	211-216	93_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	36	614	MultiE
+39	.	.	Fp	-	-	216-217	93_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	218-220	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	padre	padre	NCMS000	C0015671	persona	221-226	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	(	(	Fpa	-	-	227-228	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	no	no	RN	C0560182_1	entidad_observable_1	228-230	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	diagnosticado	diagnosticar	VMP00SM	C0560182_2	entidad_observable_2	231-244	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	245-247	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	NF1	NF1		-	-	248-251	93_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+8	)	)	Fpt	-	-	251-252	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	falleció	fallecer	VMIS3S0	-	-	253-261	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	por	por	SPS00	C0678226	atributo	262-265	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	accidente	accidente	NCMS000	C0415499_1	evento_1	266-275	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	de	de	SPS00	C0415499_2	evento_2	276-278	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	circulación	circulación	NCFS000	-	-	279-290	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	a	a	SPS00	-	-	291-292	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	los	el	DA0MP0	-	-	293-296	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	38	38		-	-	297-299	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	años	año	NCMP000	C0439234	calificador	300-304	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	.	.	Fp	-	-	304-305	93_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	La	el	DA0FS0	-	-	306-308	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	madre	madre	NCFS000	C0026591	persona	309-314	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	presenta	presentar	VMIP3S0	-	-	315-323	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	a	a	SPS00	-	-	324-325	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	la	el	DA0FS0	-	-	326-328	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	exploración	exploración	NCFS000	C1280903	procedimiento	329-340	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	dos	dos		-	-	341-344	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	manchas	manchar	VMIP2S0	C0221263_1	trastorno_1	345-352	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	café	café	NCMS000	C0221263_2	trastorno_2	353-357	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	con	con	SPS00	C0221263_3	trastorno_3	358-361	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	leche	leche	NCFS000	C0221263_4	trastorno_4	362-367	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	y	y	CC	C1706368	calificador	368-369	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	acude	acudir	VMIP3S0	-	-	370-375	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	a	a	SPS00	-	-	376-377	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	la	el	DA0FS0	-	-	378-380	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	381-389	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	de	de	SPS00	C0332285	atributo	390-392	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	consejo	consejo	NCMS000	-	-	393-400	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	genético	genético	AQ0MS0	-	-	401-409	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	con	con	SPS00	C0332287	atributo	410-413	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	su	su	DP3CS0	-	-	414-416	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+22	nueva	nuevo	AQ0FS0	C0205314	calificador	417-422	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+23	pareja	pareja	NCFS000	-	-	423-429	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+24	donde	donde	PR000000	-	-	430-435	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	se	se	P00CN000	-	-	436-438	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	plantea	plantear	VMIP3S0	-	-	439-446	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	un	un		C0205447_1	calificador_1	447-449	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	450-461	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	genético	genético	AQ0MS0	-	-	462-470	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	pre	pre	NCMS000	C0337380#C1533606	procedimiento	471-474	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	implantación	implantación	NCFS000	-	-	475-487	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	(	(	Fpa	-	-	488-489	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	DGP	dgp	NCMS000	-	-	489-492	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	)	)	Fpt	-	-	492-493	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	.	.	Fp	-	-	493-494	93_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	495-496	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	Está	estar	VAIP3S0	-	-	496-500	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	indicado	indicar	VMP00SM	-	-	501-509	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	en	en	SPS00	C1720294#C0332285	calificador#atributo	510-512	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	este	este	DD0MS0	-	-	513-517	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	caso	caso	NCMS000	C0868928	calificador	518-522	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	un	un		C0205447_1	calificador_1	523-525	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	DGP	dgp	NCMS000	-	-	526-529	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	?	?	Fit	-	-	529-530	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	.	.	Fp	-	-	530-531	93_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+

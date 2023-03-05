@@ -1,0 +1,75 @@
+1	Un	Un		C0205447_1	calificador_1	0-2	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	3-9	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	64	64		-	-	13-15	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	de	de	SPS00	C0001779_1	entidad_observable_1	21-23	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	edad	edad	NCFS000	C0001779_2	entidad_observable_2	24-28	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	con	con	SPS00	C0332287	atributo	29-32	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	antecedentes	antecedente	NCMP000	C0332119_1	situación_1	33-45	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0332119_2	situación_2	46-48	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	HTA	hta	NC00YL0	-	-	49-52	60_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	y	y	CC	C1706368	calificador	53-54	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	cardiopatía	cardiopatía	NCFS000	C0002962#C0151744_1	trastorno_1	55-66	60_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+14	isquémica	isquémico	AQ0FS0	C0002962#C0151744_2	trastorno_2	67-76	60_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	13	1870	Modif
+15	acude	acudir	VMIP3S0	-	-	77-82	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	a	a	SPS00	-	-	83-84	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	Urgencias	urgencia	NCFP000	C0439609	calificador	85-94	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	por	por	SPS00	C0678226	atributo	95-98	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	aparición	aparición	NCFS000	-	-	99-108	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	de	de	SPS00	C0332285	atributo	109-111	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	dolor	dolor	NCMS000	C1299600_1	hallazgo_1	112-117	60_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+22	torácico	torácico	NC00SC0	C1299600_2	hallazgo_2	118-126	60_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	21	1870	LOC
+23	opresivo	opresivo	AQ0MS0	C1299600_3	hallazgo_3	127-135	60_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	21	1870	Modif
+24	mientras	mientras	CS	-	-	136-144	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	veía	ver	VMII3S0	-	-	145-149	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	la	el	DA0FS0	-	-	150-152	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	televisión	televisión	NCFS000	C0039461	objeto_físico	153-163	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	.	.	Fp	-	-	163-164	60_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	165-167	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	168-170	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	171-179	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	180-182	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	clasificación	clasificación	NCFS000	C0008902	atributo	183-196	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	(	(	Fpa	-	-	197-198	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	triage	triage	NC00SC0	C0040861	procedimiento	198-204	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	)	)	Fpt	-	-	204-205	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	206-208	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	Urgencias	urgencia	NCFP000	C0439609	calificador	209-218	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	,	,	Fc	-	-	218-219	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	se	se	P00CN000	-	-	220-222	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	detectan	detectar	VMIP3P0	-	-	223-231	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	cifras	cifra	NCFP000	-	-	232-238	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	239-241	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	T.	t.	NCFS000	-	-	242-244	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	art	artículo	NCMS000	-	-	245-248	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	249-251	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	155/95	155/95	Z	-	-	252-258	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	mmHg	mmHg	NCMP000	-	-	259-263	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	y	y	CC	C1706368	calificador	264-265	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	una	una		C0205447_1	calificador_1	266-269	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	saturación	saturación	NCFS000	-	-	270-280	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	capilar	capilar	AQ0CS0	C1280521#C0006901	estructura_corporal	281-288	60_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	289-291	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	O2	O2		-	-	292-294	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	295-297	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	95	95	Z	-	-	298-300	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	%	%	Ft	-	-	300-301	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	¿	¿	Fia	-	-	302-303	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	Cuál	cuál	PT0CS000	-	-	303-307	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	es	ser	VSIP3S0	-	-	308-310	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	la	el	DA0FS0	-	-	311-313	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	conducta	conducta	NCFS000	C0004927	hallazgo	314-322	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	más	más	RG	C0205172	calificador	323-326	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	correcta	correcto	AQ0FS0	C0205170	calificador	327-335	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+37	de	de	SPS00	C0332285	atributo	336-338	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+38	las	el	DA0FP0	-	-	339-342	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+39	que	que	PR0CN000	-	-	343-346	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+40	a	a	SPS00	-	-	347-348	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+41	continuación	continuación	NCFS000	-	-	349-361	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+42	se	se	P00CN000	-	-	362-364	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+43	citan	citar	VMIP3P0	-	-	365-370	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+44	?	?	Fit	-	-	370-371	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+45	.	.	Fp	-	-	371-372	60_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

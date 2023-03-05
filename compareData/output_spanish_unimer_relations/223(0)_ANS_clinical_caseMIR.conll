@@ -1,0 +1,18 @@
+1	Tiene	tener	VMIP3S0	-	-	0-5	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	6-9	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	sepsis	sepsis	NCFN000	C0684256_1	trastorno_1	10-16	223(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+4	bacteriana	bacteriano	AQ0FS0	C0684256_2	trastorno_2	17-27	223(0)_ANS_clinical_caseMIR	SENT1	B-Calificador	-	3	4384	Modif
+5	de	de	SPS00	C0332285	atributo	28-30	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	origen	origen	NCMS000	C0439659	atributo	31-37	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+7	indeterminado	indeterminado	NC00SC0	C0205258	calificador	38-51	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	y	y	CC	C1706368	calificador	52-53	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+9	se	se	P00CN000	-	-	54-56	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	debe	deber	VMIP3S0	-	-	57-61	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	administrar	administrar	VMN0000	C1621583	calificador	62-73	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	ceftriaxona	ceftriaxona	NC00SC0	C0007561	sustancia	74-85	223(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+13	y	y	CC	C1706368	calificador	86-87	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	88-99	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	de	de	SPS00	C0332285	atributo	100-102	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+16	soporte	soporte	NCMS000	-	-	103-110	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+17	.	.	Fp	-	-	111-112	223(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

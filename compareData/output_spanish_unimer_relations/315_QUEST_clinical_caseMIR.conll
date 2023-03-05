@@ -1,0 +1,116 @@
+1	Encontrando	encontrar	VMG0000	-	-	0-11	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	se	se	PP3CN000	-	-	11-13	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	14-16	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	guardia	guardia	NCCS000	C0402589	ocupación	17-24	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	médica	médico	AQ0FS0	C0205476#C0031831	calificador#ocupación	25-31	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	en	en	SPS00	C1720294#C0332285	calificador#atributo	32-34	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	el	el	DA0MS0	-	-	35-37	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	Servicio	servicio	NCMS000	-	-	38-46	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	de	de	SPS00	C0332285	atributo	47-49	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	Urgencias	urgencia	NCFP000	C0439609	calificador	50-59	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	60-62	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	su	su	DP3CS0	-	-	63-65	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	hospital	hospital	NCMS000	C1510665	medio_ambiente	66-74	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	,	,	Fc	-	-	74-75	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	tiene	tener	VMIP3S0	-	-	76-81	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	que	que	CS	-	-	82-85	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	atender	atender	VMN0000	-	-	86-93	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	a	a	SPS00	-	-	94-95	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	96-98	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	paciente	paciente	NCCS000	C0030705	persona	99-107	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	108-110	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	64	64		-	-	111-113	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	años	año	NCMP000	C0439234	calificador	114-118	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	de	de	SPS00	C0001779_1	entidad_observable_1	119-121	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	edad	edad	NCFS000	C0001779_2	entidad_observable_2	122-126	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	con	con	SPS00	C0332287	atributo	127-130	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	insuficiencia	insuficiencia	NCFS000	C0865850_1	trastorno_1	131-144	315_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	respiratoria	respiratorio	AQ0FS0	C0865850_2	trastorno_2	145-157	315_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	27	2979	LOC
+29	aguda	agudo	AQ0FS0	C0865850_3	trastorno_3	158-163	315_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	27	2979	Modif
+30	.	.	Fp	-	-	163-164	315_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Su	su	DP3CS0	-	-	165-167	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	estado	estar	VAP00SM	C0449440_1	atributo_1	168-174	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	clínico	clínico	NCMS000	C0449440_2	atributo_2	175-182	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	es	ser	VSIP3S0	-	-	183-185	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	crítico	crítico	AQ0MS0	C0335034	ocupación	186-193	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	,	,	Fc	-	-	193-194	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	con	con	SPS00	C0332287	atributo	195-198	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	baja	bajo	AQ0FS0	C0746961_1	hallazgo_1	199-203	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	saturación	saturación	NCFS000	C0746961_2	hallazgo_2	204-214	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0746961_3	hallazgo_3	215-217	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	oxígeno	oxígeno	NCMS000	C0746961_4	hallazgo_4	218-225	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	e	y	CC	C1706368	calificador	226-227	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	inestabilidad	inestabilidad	NCFS000	C0948268_1	hallazgo_1	228-241	315_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+14	hemodinámica	hemodinámica		C0948268_2	hallazgo_2	242-254	315_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	13	2980	Modif
+15	.	.	Fp	-	-	254-255	315_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	256-258	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	realiza	realizar	VMIP3S0	-	-	259-266	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	Rx	radiografía	NC00YL0	C1306645	procedimiento	267-269	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	urgente	urgente	AQ0CS0	C0439609	calificador	270-277	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	de	de	SPS00	C0332285	atributo	278-280	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	tórax	tórax	NCMN000	C1269614#C0449208#C0817096	estructura_corporal	281-286	315_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	9	2981	LOC
+7	que	que	PR0CN000	-	-	287-290	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	muestra	mostrar	VMIP3S0	-	-	291-298	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	atelectasia	atelectasia	NC00SC0	C0004144	trastorno	299-310	315_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0332285	atributo	311-313	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	2/3	2/3		-	-	314-317	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	del	del	SP+DA	-	-	318-321	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	pulmón	pulmón	NCMS000	C1305131#C0225706_1	estructura_corporal_1	322-328	315_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	9	2981	LOC
+14	derecho	derecho	NCMS000	C1305131#C0225706_2	estructura_corporal_2	329-336	315_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	13	73	MultiE
+15	.	.	Fp	-	-	336-337	315_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Se	se	P00CN000	-	-	338-340	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	procede	proceder	VMIP3S0	-	-	341-348	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	a	a	SPS00	-	-	349-350	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	intubación	intubación	NCFS000	C0396621_1	procedimiento_1	351-361	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	orotraqueal	orotraqueal		C0396621_2	procedimiento_2	362-373	315_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+6	y	y	CC	C1706368	calificador	374-375	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+7	ventilación	ventilación	NCFS000	C2945579	función	376-387	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	en	en	SPS00	C1720294#C0332285	calificador#atributo	388-390	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	modo	modo	NCMS000	-	-	391-395	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+10	asistido	asistir	VMP00SM	-	-	396-404	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	,	,	Fc	-	-	404-405	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	con	con	SPS00	C0332287	atributo	406-409	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	Fi02	Fi02		-	-	410-414	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	de	de	SPS00	C0332285	atributo	415-417	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+15	1,0	1,0		-	-	418-421	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	.	.	Fp	-	-	421-422	315_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	423-425	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	una	una		C0205447_1	calificador_1	426-429	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	gasometría	gasometría	NCFS000	-	-	430-440	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	arterial	arterial	AQ0CS0	C0221464	calificador	441-449	315_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+5	practicada	practicar	VMP00SF	-	-	450-460	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	posterior	posterior	NC00SC0	C0205095#C0439781	calificador	461-470	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	­	­	Fz	-	-	470-471	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	mente	mente	NCFS000	C0229992	estructura_corporal	472-477	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+9	obtenemos	obtener	VMIP1P0	-	-	478-487	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+10	estos	este	DD0MP0	-	-	488-493	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+11	valores	valor	NCMP000	C0475208	calificador	494-501	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+12	:	:	Fd	-	-	501-502	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+13	pH	logaritmo_negativo_del_ion_hidrógeno_activo_(símbolo_utilizado_para_expresar_la_acidez_o_alcalinidad_de_una_solución)	NC00YL0	-	-	503-505	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+14	7,23	7,23		-	-	506-510	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+15	;	;	Fx	-	-	510-511	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+16	Pa02	Pa02		-	-	512-516	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+17	60	60	Z	-	-	517-519	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+18	mmHg	mmHg	NCMP000	-	-	520-524	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+19	y	y	CC	C1706368	calificador	525-526	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+20	PaC02	PaC02		-	-	527-532	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+21	30	30	Z	-	-	533-535	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+22	mmHg	mmHg	NCMP000	-	-	536-540	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+23	.	.	Fp	-	-	540-541	315_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	542-543	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	543-547	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	548-550	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	la	el	DA0FS0	-	-	551-553	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	causa	causa	NCFS000	-	-	554-559	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	560-562	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	la	el	DA0FS0	-	-	563-565	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+8	hipoxemia	hipoxemia	NC00SC0	C0700292#C0242184	trastorno	566-575	315_QUEST_clinical_caseMIR	SENT6	B-Grp_Enfermedad	-	-	-	-
+9	?	?	Fit	-	-	575-576	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+10	:	:	Fd	-	-	576-577	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+11	.	.	Fp	-	-	577-578	315_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

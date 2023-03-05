@@ -1,0 +1,42 @@
+1	Varón	varón	NCMS000	C0086582	hallazgo#estructura_corporal	0-5	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	36	36		-	-	9-11	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	consulta	consultar	VMM02S0	C1704447_1	calificador_1	21-29	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	por	por	SPS00	C1704447_2	calificador_2	30-33	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	hiperemia	hiperemia	NCFS000	C1761613_1	hallazgo_1	34-43	493_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+9	conjuntival	conjuntival	AQ0CS0	C1761613_2	hallazgo_2	44-55	493_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	8	3222	LOC
+10	y	y	CC	C1706368	calificador	56-57	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	sensación	sensación	NCFS000	C0423602_1	hallazgo_1	58-67	493_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	de	de	SPS00	C0423602_2	hallazgo_2	68-70	493_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	11	62	MultiE
+13	cuerpo	cuerpo	NCMS000	C0423602_3	hallazgo_3	71-77	493_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	11	62	MultiE
+14	extraño	extraño	NCMS000	C0423602_4	hallazgo_4	78-85	493_QUEST_clinical_caseMIR	SENT1	I-Grp_Enfermedad	-	11	62	MultiE
+15	.	.	Fp	-	-	85-86	493_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	En	en	SPS00	C1720294#C0332285	calificador#atributo	87-89	493_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	la	el	DA0FS0	-	-	90-92	493_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	exploración	exploración	NCFS000	C1280903	procedimiento	93-104	493_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	presenta	presentar	VMIP3S0	-	-	105-113	493_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	afectación	afectación	NCFS000	-	-	114-124	493_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	del	del	SP+DA	-	-	125-128	493_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	ganglio	ganglio	NCMS000	-	-	129-136	493_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	5	3223	LOC
+8	preauricular	preauricular	AQ0CS0	-	-	137-149	493_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	7	50	MultiE
+9	.	.	Fp	-	-	149-150	493_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	151-152	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	152-156	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	157-159	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	las	el	DA0FP0	-	-	160-163	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	siguientes	siguiente	AQ0CP0	C0332282	atributo	164-174	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	patologías	patología	NCFP000	C0030664	calificador	175-185	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	NO	no	RN	C1298908	calificador	186-188	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	se	se	P00CN000	-	-	189-191	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	corresponde	corresponder	VMIP3S0	-	-	192-203	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	con	con	SPS00	C0332287	atributo	204-207	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	dicha	decir	VMP00SF	-	-	208-213	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	exploración	exploración	NCFS000	C1280903	procedimiento	214-225	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	?	?	Fit	-	-	225-226	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	:	:	Fd	-	-	226-227	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	.	.	Fp	-	-	227-228	493_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

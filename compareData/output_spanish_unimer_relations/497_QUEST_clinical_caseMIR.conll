@@ -1,0 +1,67 @@
+1	Niño	niño	NCMS000	C0680063_1	hallazgo_1	0-4	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0680063_2	hallazgo_2	5-7	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	23	23		-	-	8-10	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	meses	mes	NCMP000	C0439231	calificador	11-16	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	que	que	PR0CN000	-	-	17-20	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	presenta	presentar	VMIP3S0	-	-	21-29	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	fiebre	fiebre	NCFS000	C0015967	hallazgo	30-36	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+8	,	,	Fc	-	-	36-37	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	hipotensión	hipotensión	NCFS000	C0020649	trastorno	38-49	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	,	,	Fc	-	-	49-50	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	vómitos	vómito	NCMP000	C0042963_1	trastorno_1	51-58	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+12	repetidos	repetir	VMP00PM	C0205341	calificador	59-68	497_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	11	692	Modif
+13	,	,	Fc	-	-	68-69	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	signos	signo	NCMP000	C0311392	hallazgo	70-76	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	meníngeos	meníngeo	AQ0MP0	-	-	77-86	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+16	,	,	Fc	-	-	86-87	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	petequias	petequia	NCFP000	C0031256	anomalía_morfológica	88-97	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+18	y	y	CC	C1706368	calificador	98-99	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	equimosis	equimosis	NCFN000	C0013491	anomalía_morfológica#hallazgo	100-109	497_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+20	.	.	Fp	-	-	109-110	497_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	111-113	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	hemograma	hemograma	NCMS000	C0200631	procedimiento	114-123	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	muestra	mostrar	VMIP3S0	-	-	124-131	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	25.000	25.000		-	-	132-138	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	leucocitos	leucocito	NCMP000	C0023516	célula	139-149	497_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+6	(	(	Fpa	-	-	150-151	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	75	75	Z	-	-	151-153	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	%	%	Ft	-	-	154-155	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	neutrófilos	neutrófilo	AQ0MP0	C0027950	célula	156-167	497_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+10	,	,	Fc	-	-	167-168	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	10	10	Z	-	-	169-171	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	%	%	Ft	-	-	172-173	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	cayados	cayado	NCMP000	-	-	174-181	497_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+14	)	)	Fpt	-	-	181-182	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	183-184	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	12.000	12.000		-	-	185-191	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	plaquetas	plaqueta	NCFP000	C0005821	estructura_corporal	192-201	497_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+18	/	/	Fh	-	-	201-202	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	microL	microl	NCFS000	-	-	202-208	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	y	y	CC	C1706368	calificador	209-210	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	el	el	DA0MS0	-	-	211-213	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	estudio	estudio	NCMS000	C0557651	medio_ambiente	214-221	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	de	de	SPS00	C0332285	atributo	222-224	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	coagulación	coagulación	NCFS000	C0441509	procedimiento	225-236	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	una	una		C0205447_1	calificador_1	237-240	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	actividad	actividad	NCFS000	C0441655	entidad_observable	241-250	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	251-253	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	protrombina	protrombina	NCFS000	C0033706	sustancia	254-265	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	266-268	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	35	35	Z	-	-	269-271	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	%	%	Ft	-	-	272-273	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	.	.	Fp	-	-	273-274	497_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	275-276	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Qué	qué	DT0CN0	-	-	276-279	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	opción	opción	NCFS000	-	-	280-286	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	NO	no	RN	C1298908	calificador	287-289	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	es	ser	VSIP3S0	-	-	290-292	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	adecuada	adecuar	VMP00SF	-	-	293-301	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	en	en	SPS00	C1720294#C0332285	calificador#atributo	302-304	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	su	su	DP3CS0	-	-	305-307	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	manejo	manejo	NCMS000	C1273870	procedimiento	308-314	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	?	?	Fit	-	-	314-315	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	:	:	Fd	-	-	315-316	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	.	.	Fp	-	-	316-317	497_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

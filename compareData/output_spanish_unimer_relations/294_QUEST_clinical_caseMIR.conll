@@ -1,0 +1,102 @@
+1	Acude	acudir	VMIP3S0	-	-	0-5	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	a	a	SPS00	-	-	6-7	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	la	el	DA0FS0	-	-	8-10	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	11-19	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	20-23	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	24-29	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	30-32	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	30	30		-	-	33-35	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	años	año	NCMP000	C0439234	calificador	36-40	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	de	de	SPS00	C0001779_1	entidad_observable_1	41-43	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	edad	edad	NCFS000	C0001779_2	entidad_observable_2	44-48	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	refiriendo	referir	VMG0000	-	-	49-59	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	en	en	SPS00	C1720294#C0332285	calificador#atributo	60-62	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	los	el	DA0MP0	-	-	63-66	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	tres	tres		-	-	67-71	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	últimos	último	AO0MP0	-	-	72-79	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	meses	mes	NCMP000	C0439231	calificador	80-85	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	ansiedad	ansiedad	NCFS000	C0003467	hallazgo	86-94	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	,	,	Fc	-	-	94-95	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	pérdida	pérdida	NCFS000	-	-	96-103	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+21	de	de	SPS00	C0332285	atributo	104-106	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	unos	uno	DI0MP0	C0205447	calificador	107-111	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	6	6	Z	-	-	112-113	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	kg	kg	NCMN000	-	-	114-116	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	de	de	SPS00	C0332285	atributo	117-119	294_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	20	2631	Modif
+26	peso	peso	NCMS000	C0043100	calificador	120-124	294_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	25	60	MultiE
+27	y	y	CC	C1706368	calificador	125-126	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	sensación	sensación	NCFS000	C0036658#C1455667	calificador	127-136	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	de	de	SPS00	C0332285	atributo	137-139	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	“	“	Fra	-	-	140-141	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	nerviosismo	nerviosismo	NCMS000	C0027769	hallazgo	141-152	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+32	”	”	Frc	-	-	152-153	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	En	en	SPS00	C1720294#C0332285	calificador#atributo	154-156	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+34	la	el	DA0FS0	-	-	157-159	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+35	exploración	exploración	NCFS000	C1280903	procedimiento	160-171	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	fisica	fisica	AQ0FS00	-	-	172-178	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	destaca	destacar	VMIP3S0	-	-	179-186	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	taquicardia	taquicardia	NCFS000	C0039231_1	hallazgo_1	187-198	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+39	,	,	Fc	-	-	198-199	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	hiperreflexia	hiperreflexia	NC00SC0	C0151889	hallazgo	200-213	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+41	y	y	CC	C1706368	calificador	214-215	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	216-224	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+43	de	de	SPS00	C0332197_2	calificador_2	225-227	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+44	bocio	bocio	NCMS000	C0018021	trastorno	228-233	294_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+45	En	en	SPS00	C1720294#C0332285	calificador#atributo	234-236	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+46	la	el	DA0FS0	-	-	237-239	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+47	analítica	analítica	NCFS000	-	-	240-249	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+48	realizada	realizar	VMP00SF	-	-	250-259	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+49	los	el	DA0MP0	-	-	260-263	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+50	valores	valor	NCMP000	C0475208	calificador	264-271	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+51	de	de	SPS00	C0332285	atributo	272-274	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+52	la	el	DA0FS0	-	-	275-277	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+53	TSH	thyroid-stimulating_hormone_(hormona__tiroestimulante)	NC00YL0	-	-	278-281	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+54	son	ser	VSIP3P0	-	-	282-285	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+55	<	<	Fz	-	-	286-287	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+56	a	a	SPS00	-	-	288-289	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+57	0.01	0.01		-	-	290-294	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+58	microU	microu	NCFS000	-	-	295-301	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+59	/	/	Fh	-	-	301-302	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+60	mL	mililitro	NCMN000	C0439242	calificador	302-304	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+61	,	,	Fc	-	-	304-305	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+62	la	el	DA0FS0	-	-	306-308	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+63	T4	T4		-	-	309-311	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+64	está	estar	VAIP3S0	-	-	312-316	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+65	elevada	elevar	VMP00SF	-	-	317-324	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+66	y	y	CC	C1706368	calificador	325-326	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+67	los	el	DA0MP0	-	-	327-330	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+68	niveles	nivel	NCMP000	C0456079	atributo	331-338	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+69	de	de	SPS00	C0332285	atributo	339-341	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+70	tiroglobulina	tiroglobulina	NC00SC0	C0040123	sustancia	342-355	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+71	descendidos	descender	VMP00PM	-	-	356-367	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+72	.	.	Fp	-	-	367-368	294_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	369-371	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	realizar	realizar	VMN0000	-	-	372-380	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	380-382	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	una	una		C0205447_1	calificador_1	383-386	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	gammagrafía	gammagrafía	NCFS000	C2368359	calificador	387-398	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	se	se	P00CN000	-	-	399-401	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	detecta	detectar	VMIP3S0	-	-	402-409	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	410-413	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	ausencia	ausencia	NCFS000	C0332197_1	calificador_1	414-422	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	de	de	SPS00	C0332197_2	calificador_2	423-425	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	captación	captación	NCFS000	-	-	426-435	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	436-438	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	la	el	DA0FS0	-	-	439-441	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	región	región	NCFS000	C0205147	atributo#calificador	442-448	294_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+15	tiroidea	tiroideo	AQ0FS0	-	-	449-457	294_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	14	5	MultiE
+16	.	.	Fp	-	-	457-458	294_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	459-460	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	460-464	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	le	le	PP3CSD00	C1292157#C0409974	hallazgo#trastorno	465-467	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	parece	parecer	VMIP3S0	-	-	468-474	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	el	el	DA0MS0	-	-	475-477	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	478-489	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	más	más	RG	C0205172	calificador	490-493	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	probable	probable	AQ0CS0	C0332148	calificador	494-502	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	?	?	Fit	-	-	502-503	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	:	:	Fd	-	-	503-504	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	.	.	Fp	-	-	504-505	294_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+

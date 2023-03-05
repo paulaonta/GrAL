@@ -1,0 +1,111 @@
+1	Mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	0-5	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	6-8	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	60	60		-	-	9-11	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	12-16	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	,	,	Fc	-	-	16-17	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	con	con	SPS00	C0332287	atributo	18-21	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	22-33	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	de	de	SPS00	C0332285	atributo	34-36	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	cáncer	cáncer	NCMS000	C0006142#C0678222_1	trastorno_1	37-43	35_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	de	de	SPS00	C0006142#C0678222_2	trastorno_2	44-46	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	mama	mamar	VMM02S0	C0006142#C0678222_3	trastorno_3	47-51	35_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	2405	LOC
+12	tratado	tratar	VMP00SM	C0332293_1	atributo_1	52-59	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	con	con	SPS00	C0332293_2	atributo_2	60-63	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	cirugía	cirugía	NCFS000	C0543467	calificador#procedimiento	64-71	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	y	y	CC	C1706368	calificador	72-73	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	radioterapia	radioterapia	NCFS000	C1522449	-	74-86	35_QUEST_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+17	hace	hacer	VMIP3S0	-	-	87-91	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	10	10		-	-	92-94	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	años	año	NCMP000	C0439234	calificador	95-99	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	.	.	Fp	-	-	99-100	35_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Actualmente	actualmente	RG	C0521116	calificador	101-112	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	con	con	SPS00	C0036525_1	atributo_1	113-116	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	metástasis	metástasis	NCFN000	C0036525_2	atributo_2	117-127	35_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+4	a	a	SPS00	C0036525_3	atributo_3	128-129	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	nivel	nivel	NCMS000	C0456079	atributo	130-135	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	columna	columna	NCFS000	C0581269#C0228576_1	estructura_corporal_1	136-143	35_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	3	2406	LOC
+7	dorsal	dorsal	NCMS000	C0581269#C0228576_2	estructura_corporal_2	144-150	35_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	6	150	MultiE
+8	y	y	CC	C1706368	calificador	151-152	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	articulación	articulación	NCFS000	C1269070#C0036036_1	estructura_corporal_1	153-165	35_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	3	2406	LOC
+10	sacroilíaca	sacroilíaco	AQ0FS0	C1269070#C0036036_2	estructura_corporal_2	166-177	35_QUEST_clinical_caseMIR	SENT2	I-Estructura_Corporal	-	9	74	MultiE
+11	por	por	SPS00	C0678226	atributo	178-181	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	lo	el	DA0NS0	-	-	182-184	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	que	que	PR0CN000	-	-	185-188	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	durante	durante	SPS00	C1444752#C0347984	atributo	189-196	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	los	el	DA0MP0	-	-	197-200	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	últimos	último	AO0MP0	-	-	201-208	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	dos	dos		-	-	209-212	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	años	año	NCMP000	C0439234	calificador	213-217	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	ha	haber	VAIP3S0	-	-	218-220	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	recibido	recibir	VMP00SM	-	-	221-229	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	230-241	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+22	con	con	SPS00	C0332287	atributo	242-245	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	ácido	ácido	NCMS000	C0257685_1	sustancia#producto_1	246-251	35_QUEST_clinical_caseMIR	SENT2	B-Grp_Medicamento	-	-	-	-
+24	zoledrónico	zoledrónico		C0257685_2	sustancia#producto_2	252-263	35_QUEST_clinical_caseMIR	SENT2	I-Grp_Medicamento	-	23	91	MultiE
+25	i.v.	i.v.	NCFS000	C1522726	calificador	264-268	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	de	de	SPS00	C0332285	atributo	269-271	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	forma	forma	NCFS000	C0348078	atributo	272-277	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	mensual	mensual	AQ0CS0	C0332177	calificador	278-285	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	.	.	Fp	-	-	285-286	35_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Acude	acudir	VMIP3S0	-	-	287-292	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	a	a	SPS00	-	-	293-294	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	la	el	DA0FS0	-	-	295-297	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	consulta	consultar	VMM02S0	C1704447_1	calificador_1	298-306	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	por	por	SPS00	C1704447_2	calificador_2	307-310	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	presentar	presentar	VMN0000	-	-	311-320	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	exposición	exposición	NCFS000	C0274281	trastorno	321-331	35_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+8	ósea	óseo	AQ0FS0	C0443157	calificador	332-336	35_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	2407	LOC
+9	de	de	SPS00	C0332285	atributo	337-339	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	forma	forma	NCFS000	C0348078	atributo	340-345	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	espontánea	espontáneo	AQ0FS0	C0205359	calificador	346-356	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	a	a	SPS00	-	-	357-358	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	nivel	nivel	NCMS000	C0456079	atributo	359-364	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+14	del	del	SP+DA	-	-	365-368	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	hueso	hueso	NCMS000	C1266909#C1284147#C0449206	estructura_corporal	369-374	35_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	7	2407	LOC
+16	mandibular	mandibular	AQ0CS0	-	-	375-385	35_QUEST_clinical_caseMIR	SENT3	I-Estructura_Corporal	-	15	170	MultiE
+17	de	de	SPS00	C0332285	atributo	386-388	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	aproximadamente	aproximadamente	RG	C0332232	calificador	389-404	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	2	2	Z	-	-	405-406	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	cm	cm	NCMN000	-	-	407-409	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+21	.	.	Fp	-	-	409-410	35_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	No	no	RN	C1298908	calificador	411-413	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	existen	existir	VMIP3P0	-	-	414-421	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	signos	signo	NCMP000	C0311392	hallazgo	422-428	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	de	de	SPS00	C0332285	atributo	429-431	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	infección	infección	NCFS000	C0275518_1	trastorno_1	432-441	35_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	Negacion	-	-	-
+6	aguda	agudo	AQ0FS0	C0275518_2	trastorno_2	442-447	35_QUEST_clinical_caseMIR	SENT4	B-Calificador	-	5	2408	Modif
+7	y	y	CC	C1706368	calificador	448-449	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+8	la	el	DA0FS0	-	-	450-452	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+9	encía	encía	NCFS000	C0017562#C1278912	estructura_corporal	453-458	35_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+10	alrededor	alrededor	RG	-	-	459-468	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+11	de	de	SPS00	C0332285	atributo	469-471	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+12	la	el	DA0FS0	-	-	472-474	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+13	exposición	exposición	NCFS000	C0274281	trastorno	475-485	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+14	ósea	óseo	AQ0FS0	C0443157	calificador	486-490	35_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	-	-	-
+15	es	ser	VSIP3S0	-	-	491-493	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+16	estrictamente	estrictamente	RG	-	-	494-507	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+17	normal	normal	AQ0CS0	C0205307	calificador	508-514	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+18	.	.	Fp	-	-	514-515	35_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	516-518	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	TAC	tac	NC00YL0	C0040405	procedimiento	519-522	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	mandibular	mandibular	AQ0CS0	-	-	523-533	35_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	-	-	-
+4	evidencia	evidenciar	VMIP3S0	-	-	534-543	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	una	una		C0205447_1	calificador_1	544-547	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	zona	zona	NCFS000	C0019360	trastorno	548-552	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	553-555	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	esclerosis	esclerosis	NCFN000	C0221434_1	anomalía_morfológica_1	556-566	35_QUEST_clinical_caseMIR	SENT5	B-Grp_Enfermedad	-	-	-	-
+9	ósea	óseo	AQ0FS0	C0221434_2	anomalía_morfológica_2	567-571	35_QUEST_clinical_caseMIR	SENT5	B-Estructura_Corporal	-	8	2409	LOC
+10	.	.	Fp	-	-	571-572	35_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	573-574	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	574-578	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+3	sería	ser	VSIC1S0	-	-	579-584	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+4	su	su	DP3CS0	-	-	585-587	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+5	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	588-599	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+6	?	?	Fit	-	-	599-600	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+7	.	.	Fp	-	-	600-601	35_QUEST_clinical_caseMIR	SENT6	-	-	-	-	-
+

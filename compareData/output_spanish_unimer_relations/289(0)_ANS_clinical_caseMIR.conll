@@ -1,0 +1,18 @@
+1	El	el	DA0MS0	-	-	0-2	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+2	tratamiento	tratamiento	NCMS000	C1273870#C0087111	procedimiento#régimen/tratamiento	3-14	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+3	inicial	inicial	AQ0CS0	C0205265	calificador	15-22	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+4	consistirá	consistir	VMIF3S0	-	-	23-33	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+5	en	en	SPS00	C1720294#C0332285	calificador#atributo	34-36	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+6	antiinflamatorios	antiinflamatorios	NC00AO0	-	-	37-54	289(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+7	no	no	RN	C1298908	calificador	55-57	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+8	esteroideos	esteroideos	NCMP000	-	-	58-69	289(0)_ANS_clinical_caseMIR	SENT1	B-Grp_Medicamento	-	-	-	-
+9	,	,	Fc	-	-	69-70	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+10	así	así	RG	-	-	71-74	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+11	como	como	SPS00	C0332257	calificador	75-79	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+12	la	el	DA0FS0	-	-	80-82	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+13	aspiración	aspiración	NCFS000	C0700198#C0349707	hallazgo#procedimiento	83-93	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+14	del	del	SP+DA	-	-	94-97	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+15	líquido	líquido	NCMS000	C0039097_1	sustancia_1	98-105	289(0)_ANS_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+16	sinovial	sinovial	AQ0CS0	C0039097_2	sustancia_2	106-114	289(0)_ANS_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	15	170	MultiE
+17	.	.	Fp	-	-	115-116	289(0)_ANS_clinical_caseMIR	SENT1	-	-	-	-	-
+

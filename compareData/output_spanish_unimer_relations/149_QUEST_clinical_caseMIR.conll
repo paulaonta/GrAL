@@ -1,0 +1,56 @@
+1	Si	si	CS	-	-	0-2	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	en	en	SPS00	C1720294#C0332285	calificador#atributo	3-5	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	un	un		C0205447_1	calificador_1	6-8	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	9-17	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	con	con	SPS00	C0332287	atributo	18-21	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	insuficiencia	insuficiencia	NCFS000	C0231179	hallazgo	22-35	149_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+7	cardiaca	cardiaco	AQ0FS0	-	-	36-44	149_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+8	crónica	crónico	AQ0FS0	C0205191	calificador	45-52	149_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	6	1424	Modif
+9	detectamos	detectar	VMIP1P0	-	-	53-63	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	unas	uno	DI0FP0	C0205447	calificador	64-68	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	ondas	onda	NCFP000	-	-	69-74	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	v	v	NCFS000	-	-	75-76	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	prominentes	prominente	AQ0CP0	C0205402	calificador	77-88	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	en	en	SPS00	C1720294#C0332285	calificador#atributo	89-91	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	el	el	DA0MS0	-	-	92-94	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	pulso	pulso	NCMS000	C0232133_1	función_1	95-100	149_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	-	-	-
+17	venoso	venoso	NC00SC0	C0232133_2	función_2	101-107	149_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+18	yugular	yugular	VMN0000	C0232133_3	función_3	108-115	149_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	16	73	MultiE
+19	y	y	CC	C1706368	calificador	116-117	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	en	en	SPS00	C1720294#C0332285	calificador#atributo	118-120	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	la	el	DA0FS0	-	-	121-123	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	auscultación	auscultación	NCFS000	C0004339	procedimiento	124-136	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	cardiaca	cardiaco	AQ0FS0	-	-	137-145	149_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	6	1424	LOC
+24	se	se	P00CN000	-	-	146-148	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	ausculta	auscultar	VMIP3S0	-	-	149-157	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	un	un		C0205447_1	calificador_1	158-160	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+27	soplo	soplo	NCMS000	C0232258_1	hallazgo_1	161-166	149_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+28	holosistólico	holosistólico		C0232258_2	hallazgo_2	167-180	149_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	27	1424	Modif
+29	en	en	SPS00	C1720294#C0332285	calificador#atributo	181-183	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	el	el	DA0MS0	-	-	184-186	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	área	área	NCFS000	C0205146	calificador	187-191	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+32	del	del	SP+DA	-	-	192-195	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+33	apéndice	apéndice	NCMS000	C0003617#C1269000	estructura_corporal	196-204	149_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	27	1424	LOC
+34	xifoides	xifoides	AQ0CN0	-	-	205-213	149_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	33	306	MultiE
+35	que	que	PR0CN000	-	-	214-217	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+36	se	se	P00CN000	-	-	218-220	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+37	acentúa	acentuar	VMIP3S0	-	-	221-228	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+38	con	con	SPS00	C0332287	atributo	229-232	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+39	la	el	DA0FS0	-	-	233-235	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+40	inspiración	inspiración	NCFS000	C0004048	función	236-247	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+41	profunda	profundo	AQ0FS0	C0205125#C0439808	calificador	248-256	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+42	.	.	Fp	-	-	256-257	149_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	258-259	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	259-263	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	264-266	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	la	el	DA0FS0	-	-	267-269	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	valvulopatía	valvulopatía	NCFS000	C0018824	trastorno	270-282	149_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+6	responsable	responsable	NCCS000	C1273518_1	atributo_1	283-294	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C1273518_2	atributo_2	295-297	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	esta	este	DD0FS0	-	-	298-302	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	exploración	exploración	NCFS000	C0031809_1	procedimiento_1	303-314	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	física	físico	NCFS000	C0031809_2	procedimiento_2	315-321	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	?	?	Fit	-	-	321-322	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	.	.	Fp	-	-	322-323	149_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

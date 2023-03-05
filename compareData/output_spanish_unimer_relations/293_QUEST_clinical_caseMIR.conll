@@ -1,0 +1,65 @@
+1	Hombre	hombre	NCMS000	C0025266#C0086418#C0043210	persona#organismo_vivo	0-6	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	de	de	SPS00	C0332285	atributo	7-9	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	35	35		-	-	10-12	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	años	año	NCMP000	C0439234	calificador	13-17	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	de	de	SPS00	C0001779_1	entidad_observable_1	18-20	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	edad	edad	NCFS000	C0001779_2	entidad_observable_2	21-25	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	sufre	sufrir	VMIP3S0	-	-	26-31	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	una	una		C0205447_1	calificador_1	32-35	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	quemadura	quemadura	NCFS000	C0006436_1	trastorno_1	36-45	293_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+10	eléctrica	eléctrico	AQ0FS0	C0006436_2	trastorno_2	46-55	293_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	2288	Modif
+11	de	de	SPS00	C0332285	atributo	56-58	293_QUEST_clinical_caseMIR	SENT1	B-Calificador	-	9	2288	Modif
+12	alto	alto	AQ0MS0	C0205250	calificador	59-63	293_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	11	62	MultiE
+13	voltaje	voltaje	NCMS000	-	-	64-71	293_QUEST_clinical_caseMIR	SENT1	I-Calificador	-	11	62	MultiE
+14	(	(	Fpa	-	-	72-73	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	3000	3000		-	-	73-77	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	voltios	voltio	NCMP000	C0439502	calificador	78-85	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	)	)	Fpt	-	-	85-86	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	por	por	SPS00	C0678226	atributo	87-90	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+19	contacto	contacto	NCMS000	C0337611	persona	91-99	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+20	directo	directo	AQ0MS0	C0439851	calificador	100-107	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	con	con	SPS00	C0332287	atributo	108-111	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	cable	cable	NCMS000	-	-	112-117	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	con	con	SPS00	C0332287	atributo	118-121	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	su	su	DP3CS0	-	-	122-124	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	mano	mano	NCFS000	C0230371#C1288949_1	estructura_corporal_1	125-129	293_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	9	2288	LOC
+26	izquierda	izquierdo	AQ0FS0	C0230371#C1288949_2	estructura_corporal_2	130-139	293_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	25	60	MultiE
+27	.	.	Fp	-	-	139-140	293_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	Al	al	SP+DA	-	-	141-143	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	ingreso	ingreso	NCMS000	-	-	144-151	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+3	presenta	presentar	VMIP3S0	-	-	152-160	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	contractura	contractura	NCFS000	C0333068_1	trastorno_1	161-172	293_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+5	en	en	SPS00	C0333068_2	trastorno_2	173-175	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	flexión	flexión	NCFS000	C0333068_3	trastorno_3	176-183	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	de	de	SPS00	C0332285	atributo	184-186	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	la	el	DA0FS0	-	-	187-189	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	mano	mano	NCFS000	C3714557#C1281583	estructura_corporal	190-194	293_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	4	2289	LOC
+10	,	,	Fc	-	-	194-195	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	palidez	palidez	NCFS000	C0030232#C1275397	hallazgo	196-203	293_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+12	de	de	SPS00	C0332285	atributo	204-206	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+13	los	el	DA0MP0	-	-	207-210	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	dedos	dedo	NCMP000	C0582802#C1281584	estructura_corporal	211-216	293_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	11	2289	LOC
+15	y	y	CC	C1706368	calificador	217-218	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	ausencia	ausencia	NCFS000	C0277899_1	hallazgo_1	219-227	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	de	de	SPS00	C0277899_2	hallazgo_2	228-230	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	pulso	pulso	NCMS000	C0277899_3	hallazgo_3	231-236	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	radial	radial	AQ0CS0	C0442038	calificador	237-243	293_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+20	y	y	CC	C1706368	calificador	244-245	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+21	cubital	cubital	AQ0CS0	C0442044	calificador	246-253	293_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+22	a	a	SPS00	-	-	254-255	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+23	la	el	DA0FS0	-	-	256-258	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+24	palpación	palpación	NCFS000	C0030247	procedimiento	259-268	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+25	¿	¿	Fia	-	-	269-270	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+26	Cuál	cuál	PT0CS000	-	-	270-274	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+27	es	ser	VSIP3S0	-	-	275-277	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+28	la	el	DA0FS0	-	-	278-280	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+29	medida	medida	NCFS000	C0079809	atributo	281-287	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+30	invasiva	invasiva	AQ0FS00	-	-	288-296	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+31	de	de	SPS00	C0332285	atributo	297-299	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+32	urgencia	urgencia	NCFS000	C0439609	calificador	300-308	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+33	a	a	SPS00	-	-	309-310	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+34	realizar	realizar	VMN0000	-	-	311-319	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+35	?	?	Fit	-	-	319-320	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+36	.	.	Fp	-	-	320-321	293_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+

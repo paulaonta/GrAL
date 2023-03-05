@@ -1,0 +1,117 @@
+1	Una	Una		C0205447_1	calificador_1	0-3	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+2	mujer	mujer	NCFS000	C0043210#C0015780#C0086418	persona#hallazgo#estructura_corporal#organismo_vivo	4-9	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+3	de	de	SPS00	C0332285	atributo	10-12	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+4	45	45		-	-	13-15	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+5	años	año	NCMP000	C0439234	calificador	16-20	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+6	acude	acudir	VMIP3S0	-	-	21-26	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+7	a	a	SPS00	-	-	27-28	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+8	la	el	DA0FS0	-	-	29-31	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+9	consulta	consulta	NCFS000	C3543841#C0009818	metadato_fundacional#procedimiento	32-40	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+10	remitida	remitir	VMP00SF	C0439600	calificador	41-49	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+11	desde	desde	SPS00	-	-	50-55	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+12	Cirutía	cirutía	VMII3S0	-	-	56-63	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+13	con	con	SPS00	C0332287	atributo	64-67	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+14	el	el	DA0MS0	-	-	68-70	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+15	diagnóstico	diagnóstico	NCMS000	C0011900	entidad_observable	71-82	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+16	de	de	SPS00	C0332285	atributo	83-85	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+17	un	un		C0205447_1	calificador_1	86-88	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+18	tumor	tumor	NCMS000	C0206754_1	trastorno_1	89-94	239_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+19	neuroendocrino	neuroendocrino		C0206754_2	trastorno_2	95-109	239_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	26	3269	LOC
+20	diagnosticado	diagnosticar	VMP00SM	-	-	110-123	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+21	tras	tras	SPS00	-	-	124-128	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+22	pancreatectomía	pancreatectomía	NCFS000	C0161912_1	procedimiento_1	129-144	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+23	parcial	parcial	NC00SC0	C0161912_2	procedimiento_2	145-152	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+24	por	por	SPS00	C0678226	atributo	153-156	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+25	un	un		C0205447_1	calificador_1	157-159	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+26	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	160-165	239_QUEST_clinical_caseMIR	SENT1	B-Grp_Enfermedad	-	-	-	-
+27	de	de	SPS00	C0332285	atributo	166-168	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+28	2	2		-	-	169-170	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+29	cms	cms	NCMP000	-	-	171-174	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+30	en	en	SPS00	C1720294#C0332285	calificador#atributo	175-177	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+31	cola	cola	NCFS000	C0227590#C1280318_1	estructura_corporal_1	178-182	239_QUEST_clinical_caseMIR	SENT1	B-Estructura_Corporal	-	26	3269	LOC
+32	del	del	SP+DA	C0227590#C1280318_2	estructura_corporal_2	183-186	239_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	31	1258	MultiE
+33	páncreas	páncreas	NCMN000	C0227590#C1280318_3	estructura_corporal_3	187-195	239_QUEST_clinical_caseMIR	SENT1	I-Estructura_Corporal	-	31	1258	MultiE
+34	.	.	Fp	-	-	195-196	239_QUEST_clinical_caseMIR	SENT1	-	-	-	-	-
+
+1	El	el	DA0MS0	-	-	197-199	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+2	tumor	tumor	NCMS000	C0027651	anomalía_morfológica	200-205	239_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+3	había	haber	VAII3S0	-	-	206-211	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+4	sido	ser	VSP00SM	-	-	212-216	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+5	detectado	detectar	VMP00SM	-	-	217-226	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+6	de	de	SPS00	C0332285	atributo	227-229	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+7	forma	forma	NCFS000	C0348078	atributo	230-235	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+8	casual	casual	AQ0CS0	C0521129	calificador	236-242	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+9	en	en	SPS00	C1720294#C0332285	calificador#atributo	243-245	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+10	una	una		C0205447_1	calificador_1	246-249	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+11	TAC	tac	NC00YL0	C0040405	procedimiento	250-253	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+12	abdominal	abdominal	AQ0CS0	C0000726	calificador	254-263	239_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	-	-	-
+13	solicitada	solicitar	VMP00SF	-	-	264-274	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+14	para	para	SPS00	C0521125	calificador	275-279	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+15	completar	completar	VMN0000	-	-	280-289	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+16	en	en	SPS00	C1720294#C0332285	calificador#atributo	290-292	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+17	estudio	estudio	NCMS000	C0557651	medio_ambiente	293-300	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+18	de	de	SPS00	C0332285	atributo	301-303	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+19	un	un		C0205447_1	calificador_1	304-306	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+20	quiste	quiste	NCMS000	C0037157_1	anomalía_morfológica_1	307-313	239_QUEST_clinical_caseMIR	SENT2	B-Grp_Enfermedad	-	-	-	-
+21	simple	simple	NCCS000	C0037157_2	anomalía_morfológica_2	314-320	239_QUEST_clinical_caseMIR	SENT2	B-Calificador	-	20	3270	Modif
+22	hepático	hepático	AQ0MS0	-	-	321-329	239_QUEST_clinical_caseMIR	SENT2	B-Estructura_Corporal	-	20	3270	LOC
+23	.	.	Fp	-	-	329-330	239_QUEST_clinical_caseMIR	SENT2	-	-	-	-	-
+
+1	Interrogando	interrogar	VMG0000	-	-	331-343	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+2	a	a	SPS00	-	-	344-345	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+3	la	el	DA0FS0	-	-	346-348	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+4	paciente	paciente	NCCS000	C0030705	persona	349-357	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+5	destacan	destacar	VMIP3P0	-	-	358-366	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+6	como	como	CS	C0332257	calificador	367-371	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+7	antecedentes	antecedente	NCMP000	-	-	372-384	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+8	reglas	regla	NCFP000	C0522637	objeto_físico	385-391	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+9	irregulares	irregular	AQ0CP0	C0205271	calificador	392-403	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+10	,	,	Fc	-	-	403-404	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+11	estando	estar	VAG0000	-	-	405-412	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+12	en	en	SPS00	C1720294#C0332285	calificador#atributo	413-415	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+13	amenorrea	amenorrea	NCFS000	C0002453	hallazgo	416-425	239_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+14	desde	desde	SPS00	-	-	426-431	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+15	hace	hacer	VMIP3S0	-	-	432-436	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+16	6	6		-	-	437-438	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+17	meses	mes	NCMP000	C0439231	calificador	439-444	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+18	,	,	Fc	-	-	444-445	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+19	y	y	CC	C1706368	calificador	446-447	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+20	cólicos	cólico	NCMP000	C0423605#C0232488#C3665357	hallazgo	448-455	239_QUEST_clinical_caseMIR	SENT3	B-Grp_Enfermedad	-	-	-	-
+21	renoureterales	renoureterales	AQ0CP00	-	-	456-470	239_QUEST_clinical_caseMIR	SENT3	B-Estructura_Corporal	-	20	3271	Modif
+22	de	de	SPS00	C0332285	atributo	471-473	239_QUEST_clinical_caseMIR	SENT3	B-Calificador	-	20	3271	Modif
+23	repetición	repetición	NCFS000	-	-	474-484	239_QUEST_clinical_caseMIR	SENT3	I-Calificador	-	22	80	MultiE
+24	desde	desde	SPS00	-	-	485-490	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+25	los	el	DA0MP0	-	-	491-494	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+26	20	20		-	-	495-497	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+27	años	año	NCMP000	C0439234	calificador	498-502	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+28	de	de	SPS00	C0001779_1	entidad_observable_1	503-505	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+29	edad	edad	NCFS000	C0001779_2	entidad_observable_2	506-510	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+30	por	por	SPS00	C0678226	atributo	511-514	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+31	los	el	DA0MP0	-	-	515-518	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+32	que	que	PR0CN000	-	-	519-522	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+33	ha	haber	VAIP3S0	-	-	523-525	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+34	precisado	precisar	VMP00SM	-	-	526-535	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+35	litotricia	litotricia	NCFS000	C0023878	procedimiento	536-546	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+36	en	en	SPS00	C1720294#C0332285	calificador#atributo	547-549	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+37	varias	varios	DI0FP0	C0443302#C0440102	calificador#sustancia	550-556	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+38	ocasiones	ocasión	NCFP000	-	-	557-566	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+39	.	.	Fp	-	-	566-567	239_QUEST_clinical_caseMIR	SENT3	-	-	-	-	-
+
+1	Además	además	RG	-	-	568-574	239_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+2	presenta	presentar	VMIP3S0	-	-	575-583	239_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+3	antecedentes	antecedente	NCMP000	C0241889_1	categoría_dependiente_del_contexto_1	584-596	239_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+4	familiares	familiar	NCMP000	C0241889_2	categoría_dependiente_del_contexto_2	597-607	239_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+5	de	de	SPS00	C0241889_3	categoría_dependiente_del_contexto_3	608-610	239_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+6	cólicos	cólico	AQ0MP0	C0423605#C0232488#C3665357	hallazgo	611-618	239_QUEST_clinical_caseMIR	SENT4	B-Grp_Enfermedad	-	-	-	-
+7	renoureterales	renoureterales	AQ0CP00	-	-	619-633	239_QUEST_clinical_caseMIR	SENT4	B-Estructura_Corporal	-	6	3272	LOC
+8	.	.	Fp	-	-	633-634	239_QUEST_clinical_caseMIR	SENT4	-	-	-	-	-
+
+1	¿	¿	Fia	-	-	635-636	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+2	Cuál	cuál	PT0CS000	-	-	636-640	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+3	es	ser	VSIP3S0	-	-	641-643	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+4	su	su	DP3CS0	-	-	644-646	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+5	sospecha	sospechar	VMM02S0	C0332147_1	calificador_1	647-655	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+6	diagnóstica	diagnóstico	AQ0FS0	C0332147_2	calificador_2	656-667	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+7	?	?	Fit	-	-	667-668	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+8	.	.	Fp	-	-	668-669	239_QUEST_clinical_caseMIR	SENT5	-	-	-	-	-
+
