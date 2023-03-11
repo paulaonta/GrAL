@@ -1,6 +1,6 @@
 erantzunZbkia,gaixotasunak,gaixotasunUMLS,sintomak,sintomenUMLS,gaixSin,gaixSinUMLS
-0,acidosis respiratoria,C0001127 C0001127,hipoventilación,C3203358,,
-1,acidosis metabólica,C0220981 C0220981,volumen,C0449468#C0178733,,
-2,acidosis metabólica compensada alcalosis respiratoria,C0268032 C0268032 C0268032 C0002064 C0002064,,,,
-3,"acidosis metabólica acidosis láctica,hipotensión","C0220981 C0220981 C0001125 C0001125,C0020649",mala perfusión tisular,C1328773 C1328773 C1328773,,
+0,acidosis respiratoria,C0001127,hipoventilación,C3203358,,
+1,acidosis metabólica,C0220981,volumen,C0449468#C0178733,,
+2,"acidosis metabólica compensada,alcalosis respiratoria","C0268032,C0002064",,,,
+3,"acidosis metabólica,acidosis láctica,hipotensión","C0220981,C0001125,C0020649",mala perfusión tisular,C1328773,,
 4,,,,,,

@@ -49,10 +49,10 @@ def convert_2_correct_format(lista):
             return_lista.append(remove_(l))
     return  unique(return_lista)
 
-def compareUMLSlist(lista1, lista2, listaBAI, listaEZ): #lista1:es, lista2:en
+def compareUMLSlist(lista1, lista2, listaBAI, listaEZ): #lista1:en, lista2:es
 
     for elem in lista1:
-        if elem in lista2 and len(elem) > 1 and elem not in listaBAI: #UMLS odeak 1ko luzera baino gehiago izango dute
+        if elem in lista2 and len(elem) > 1 and elem not in listaBAI: #UMLS kodeak 1ko luzera baino gehiago izango dute
             listaBAI.append(elem)
         elif len(elem) > 1 and elem not in listaEZ:
             listaEZ.append(elem)
