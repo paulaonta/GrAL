@@ -10,6 +10,26 @@ import csv
 import pandas as pd
 import sys
 
+
+#define paths
+    #questions
+csv_path_quest = "/QUEST_clinical_caseMIR_english.csv"
+
+    #answers
+csv_path_folder_ans = "/ANS_en/"
+csv_path_file_ans = "_ANS_clinical_caseMIR.csv"
+
+#define variables
+first = True
+SnoMot_pos = 5
+SnoKod_pos = 4
+Deepent_pos = 9
+name_pos = 1
+
+question_pos = 5
+answer_pos = 12
+num_answer = 5
+
 def createFile(path):
     mydirname = './' + path
     if not os.path.exists(mydirname):
@@ -25,13 +45,22 @@ def get_diseases_and_signs(cons):
     keys_of_interest = ['preferred_name', 'cui', 'semtypes']
     cols = [get_keys_from_mm(cc, keys_of_interest) for cc in cons]
     for c in cols:
-        if c[2] != None:
+        if c[2] is not None:
             if 'dsyn' in c[2]:  # it's a disease
-                gaixotasunak.append(c[0])
+                name_part = c[0].split(",")
+                if len(name_part) == 1:
+                    gaixotasunak.append(c[0])
+                else:
+                    gaixotasunak.append(name_part[1] + " " + name_part[0])
                 gaixotasunakUMLS.append(c[1])
             elif 'sosy' in c[2]:  # it's a sign
-                sintomak.append(c[0])
+                name_part = c[0].split(",")
+                if len(name_part) == 1:
+                    sintomak.append(c[0])
+                else:
+                    sintomak.append(name_part[1] + " " + name_part[0])
                 sintomakUMLS.append(c[1])
+
     return gaixotasunak, gaixotasunakUMLS, sintomak, sintomakUMLS
 
 def create_and_write_csv(line, path):
@@ -41,25 +70,6 @@ def create_and_write_csv(line, path):
     writer = csv.writer(myFile)
     writer.writerow(line)
     return writer
-
-#define paths
-    #questions
-csv_path_quest = "/QUEST_clinical_caseMIR_english.csv"
-
-    #answers
-csv_path_folder_ans = "/ANS_en/"
-csv_path_file_ans = "ANS_clinical_caseMIR_english.csv"
-
-#define variables
-first = True
-SnoMot_pos = 5
-SnoKod_pos = 4
-Deepent_pos = 9
-name_pos = 1
-
-question_pos = 5
-answer_pos = 12
-num_answer = 5
 
 def extract_questions(input_path, output_path, metam):
     # open the data csv file
@@ -99,8 +109,8 @@ def extract_answers(input_path, output_path, metam):
             first = False
         else:
             # create a .csv to save the diseases and findings
-            first_line = ["kasuZbkia", "gaixotasunak", "gaixotasunUMLS", "sintomak", "sintomenUMLS"]
-            writer = create_and_write_csv(first_line, output_path + csv_path_folder_ans + str(i)+ "_"+ csv_path_file_ans)
+            first_line = ["erantzunZbkia", "gaixotasunak", "gaixotasunUMLS", "sintomak", "sintomenUMLS"]
+            writer = create_and_write_csv(first_line, output_path + csv_path_folder_ans + str(i)+ csv_path_file_ans)
 
             # get all the posible answers
             for j in range(num_answer):
@@ -111,10 +121,12 @@ def extract_answers(input_path, output_path, metam):
                                                     composite_phrase=1,  # for memory issues
                                                     prune=30)
                 gaixotasunak, gaixotasunakUMLS, sintomak, sintomakUMLS = get_diseases_and_signs(cons_ans)
+
                 # write in the csv
                 row = [str(j), ",".join(gaixotasunak), ",".join(gaixotasunakUMLS), ",".join(sintomak),
                        ",".join(sintomakUMLS)]
                 writer.writerow(row)
+
             i += 1
 
 def main(input_path: str, output_path: str, mode: str):

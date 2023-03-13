@@ -7,7 +7,7 @@ import numpy as np
 
 # define paths
     #questions
-csv_path_quest = "/QUEST_clinical_caseMIR.csv" #"/QUEST_clinical_caseMIR_relations.csv"
+csv_path_quest = "/QUEST_clinical_caseMIR_relations.csv"
 question_file_partial_name = "_QUEST_clinical_caseMIR.conll"
 
     #answers
@@ -227,12 +227,12 @@ def get_name_recursive(pos, cont, all_relations, cases):
             returned_name = get_name_recursive(positions[i], cont, all_relations, cases)
             if len(returned_name) > 1:
                 if names[i].find("+") != -1: #Causado_por
-                    name += "Causado por: " + names[i][:-2] + "(" + returned_name +")"
+                    name += "(Causado por: " + names[i][:-2] + "(" + returned_name + "))"
                 else:
                     name += names[i] + "(" + returned_name + ")"
             else:
                 if names[i].find("+") != -1:  # Causado_por
-                    name += "Causado por: " + names[i][:-2] + "(" + returned_name +")"
+                    name += "(Causado por: " + names[i][:-2]  + returned_name +")"
                 else:
                     name += names[i]  + returned_name
     return  name

@@ -20,8 +20,7 @@ sinEZ_pos = 4
 gaixSinBAI_pos = 5
 gaixSinEZ_pos = 6
 
-file_name_es = "_ANS_clinical_caseMIR.csv"
-file_name_en = "_ANS_clinical_caseMIR_english.csv"
+file_name = "_ANS_clinical_caseMIR.csv"
 
 def createFile(path):
     mydirname = './' + path
@@ -50,19 +49,19 @@ def convert_2_correct_format(lista):
     return  unique(return_lista)
 
 def compareUMLSlist(lista1, lista2, listaBAI, listaEZ): #lista1:en, lista2:es
-
+    
     for elem in lista1:
         if elem in lista2 and len(elem) > 1 and elem not in listaBAI: #UMLS kodeak 1ko luzera baino gehiago izango dute
             listaBAI.append(elem)
         elif len(elem) > 1 and elem not in listaEZ:
             listaEZ.append(elem)
-
+    '''
     for elem in lista2:
         if elem in lista1 and elem not in listaBAI and len(elem) > 1:
             listaBAI.append(elem)
         elif not elem in lista1  and elem not in listaEZ and len(elem) > 1:
             listaEZ.append(elem)
-
+    '''
     return listaBAI, listaEZ
 
 def write(cont, gaixotasuna, sintoma, gaixSin, writer, path):
@@ -204,7 +203,7 @@ def compareQuest(csv_path_en, csv_path_es, equals_arg = None):
 def compareAndWriteAns(path1, path2, output_path, output_file_name, max_cases):
     for i in range(max_cases):  # iterate cases
         # open the data csv file
-        mycsv_es_umls = csv.reader(open(path2 + str(i) + file_name_es))  # open
+        mycsv_es_umls = csv.reader(open(path2 + str(i) + file_name))  # open
 
         myFile = open(output_path + str(i) + output_file_name, 'w')
         writer = csv.writer(myFile)
@@ -225,7 +224,7 @@ def compareAndWriteAns(path1, path2, output_path, output_file_name, max_cases):
 
                 gaixSin_aux = line[gaiSin_pos + 1]  # get the code
                 gaixSin = convert_2_correct_format(gaixSin_aux)
-                write(cont, gaixotasuna, sintoma, gaixSin, writer, path1 + str(i) + file_name_en)
+                write(cont, gaixotasuna, sintoma, gaixSin, writer, path1 + str(i) + file_name)
             cont += 1
 
 def compareAns( csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_no_umls, max_cases, equals_arg = None):
@@ -245,10 +244,10 @@ def compareAns( csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_
         aldatu = False
         first = True
         # open the data csv file
-        mycsv_es_umls = csv.reader(open(csv_path_es_folder_umls + str(i) + file_name_es)) #open
-        mycsv_es_no_umls = csv.reader(open(csv_path_es_folder_no_umls + str(i) + file_name_es))  # open
+        mycsv_es_umls = csv.reader(open(csv_path_es_folder_umls + str(i) + file_name)) #open
+        mycsv_es_no_umls = csv.reader(open(csv_path_es_folder_no_umls + str(i) + file_name))  # open
         try:
-            mycsv_en = csv.reader(open(csv_path_en_folder + str(i) + file_name_en)) #open
+            mycsv_en = csv.reader(open(csv_path_en_folder + str(i) + file_name)) #open
 
             for line_en in mycsv_en:
                 if first:
