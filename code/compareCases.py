@@ -8,7 +8,7 @@ import numpy as np
 ans_kop = 5
 gaix_pos = 1
 sin_pos = 3
-gaiSin_pos = 5
+gaiSin_pos = 1
 gaix_pos_noUMLS = 1
 sin_pos_noUMLS = 2
 gaiSin_pos_noUMLS = 3
@@ -49,19 +49,19 @@ def convert_2_correct_format(lista):
     return  unique(return_lista)
 
 def compareUMLSlist(lista1, lista2, listaBAI, listaEZ): #lista1:en, lista2:es
-    
+
     for elem in lista1:
         if elem in lista2 and len(elem) > 1 and elem not in listaBAI: #UMLS kodeak 1ko luzera baino gehiago izango dute
             listaBAI.append(elem)
         elif len(elem) > 1 and elem not in listaEZ:
             listaEZ.append(elem)
-    '''
+
     for elem in lista2:
         if elem in lista1 and elem not in listaBAI and len(elem) > 1:
             listaBAI.append(elem)
         elif not elem in lista1  and elem not in listaEZ and len(elem) > 1:
             listaEZ.append(elem)
-    '''
+
     return listaBAI, listaEZ
 
 def write(cont, gaixotasuna, sintoma, gaixSin, writer, path):
@@ -255,10 +255,10 @@ def compareAns( csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_
                 else:
                     if len(line_en[gaix_pos]) > 0:
                         gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
-                        UMLSgaix_en += len(convert_2_correct_format(line_en[gaix_pos + 1]))
+                        UMLSgaix_en += len(line_en[gaix_pos+1].split(","))#len(convert_2_correct_format(line_en[gaix_pos + 1]))
                     if len(line_en[sin_pos]) > 0:
                         sintoma_kop_en += len(line_en[sin_pos].split(","))
-                        UMLSsin_en += len(convert_2_correct_format(line_en[sin_pos + 1]))
+                        UMLSsin_en += len(line_en[sin_pos+1].split(","))#len(convert_2_correct_format(line_en[sin_pos + 1]))
 
                     if len(line_en[gaix_pos]) != 0 or len(line_en[sin_pos]) != 0:
                         aldatu = True
