@@ -8,7 +8,7 @@ import numpy as np
 ans_kop = 5
 gaix_pos = 1
 sin_pos = 3
-gaiSin_pos = 1
+gaiSin_pos = 5
 gaix_pos_noUMLS = 1
 sin_pos_noUMLS = 2
 gaiSin_pos_noUMLS = 3
@@ -255,10 +255,10 @@ def compareAns( csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_
                 else:
                     if len(line_en[gaix_pos]) > 0:
                         gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
-                        UMLSgaix_en += len(line_en[gaix_pos+1].split(","))#len(convert_2_correct_format(line_en[gaix_pos + 1]))
+                        UMLSgaix_en += len(convert_2_correct_format(line_en[gaix_pos + 1]))
                     if len(line_en[sin_pos]) > 0:
                         sintoma_kop_en += len(line_en[sin_pos].split(","))
-                        UMLSsin_en += len(line_en[sin_pos+1].split(","))#len(convert_2_correct_format(line_en[sin_pos + 1]))
+                        UMLSsin_en += len(convert_2_correct_format(line_en[sin_pos + 1]))
 
                     if len(line_en[gaix_pos]) != 0 or len(line_en[sin_pos]) != 0:
                         aldatu = True

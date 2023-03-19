@@ -68,7 +68,7 @@ def get_name_and_code(elements, lista, listUMLS):
 
 def concatenate(elements, lista, list_codes):
     lista[-1] += " " + elements[name_pos]
-    if not elements[SnoKod_pos].split("_")[0] in list_codes:
+    if not elements[SnoKod_pos].split("_")[0] in list_codes and elements[SnoKod_pos].split("_")[0].find("C") != -1:
         list_codes[-1] = list_codes[-1].split("_")[0] + " " + elements[SnoKod_pos].split("_")[0]
     return lista, list_codes
 
