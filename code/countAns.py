@@ -7,18 +7,23 @@ file_name = "_ANS_clinical_caseMIR.csv"
 max_ans = 5
 
 def read_and_count(path):
-    mycsv = csv.reader(open(path))  # open
-    first = True
-    count = 0
+    try:
+        mycsv = csv.reader(open(path))  # open
+        first = True
+        count = 0
 
-    for line in mycsv:
-        if first:
-            first = False
-        else:
-            for j in range(1, len(line)):
-                if len(line[j]) > 0:
-                    count += 1
-                    break
+        for line in mycsv:
+            if first:
+                first = False
+            else:
+                for j in range(1, len(line)):
+                    if len(line[j]) > 0:
+                        count += 1
+                        break
+    except:
+        count = -1
+        pass
+
     return count
 
 def count_all(input_path, max_cases, input_path2 = None):

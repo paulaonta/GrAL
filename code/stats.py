@@ -24,3 +24,39 @@ for line in mycsv:
 print(cases)
 print(len(cases_comp))
 print(cases_comp)
+
+path = "./results_Wikidata/results_Wikidata_es/"
+max_cases = 508
+gaixBAI = 0
+gaixEZ = 0
+gaixEZ_izen = 0
+
+for i in range(max_cases):
+    try:
+        mycsv = csv.reader(open(path + str(i)+ "_ANS_clinical_caseMIR.csv"))  # open
+        first = True
+        for line in mycsv:
+            if first:
+                first = False
+            else:
+                sartu = False
+                aux = line[2].split("#")
+                if aux != ['']:
+                    for a in aux:
+                        if a != '-' and a != ' -':
+                            sartu = True
+                        if sartu :
+                            gaixBAI += 1
+                        else:
+                            print(a)
+                            gaixEZ_izen += 1
+                aux = line[1].split("#")
+                if aux != ['']:
+                    gaixEZ += len(aux)
+    except:
+        pass
+
+print(gaixBAI)
+print(gaixEZ)
+print(gaixEZ_izen)
+

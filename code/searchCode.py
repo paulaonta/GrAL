@@ -177,20 +177,67 @@ def write_csv(ans_number, names, names_codes, no_names, no_names_codes, output_p
     writer.writerow(row)
 
 def write_csv_lev(ans_number, names, names_lev, signs, output_path):
-    str_names = ""
     str_signs = ""
     str_lev_names = ""
-    str_names += "# ".join(names)
+    str_names = "#".join(names)
 
     for i in range(len(names_lev)):
         str_lev_names += ", ".join(names_lev[i]) + "# "
         str_signs += ", ".join(signs[i]) + "# "
-
+    print(str_names)
     row = [ans_number, str_names, str_lev_names[:-2], str_signs[:-2]]
     myFile = open(output_path, 'a')
     writer = csv.writer(myFile)
     writer.writerow(row)
 
+
+def search_codes(input_path, wikidata_path, output_path, max_files):
+    for i in range(max_files):
+        if i not in not_cases_es:
+            # create a .csv to save the diseases and findings
+            first_line = ["erantzunZbkia", "gaixotasunCodes", "sintomak", "gaixotasunNOCodes", "gaixotasunNOIzenak"]
+            create_and_write_csv(first_line, output_path + str(i) + csv_path_file)
+            mycsv = csv.reader(open(input_path + str(i) + csv_path_file))  # open input
+            first = True
+
+            for line in mycsv:
+                if first:
+                    first = False
+                else:
+                    signs, signs_codes, not_signs_codes, not_signs_names, codes = [], [], [], [], []
+                    codes.extend(convert_2_correct_format(line[gaix_code_pos]))
+                    codes.extend(convert_2_correct_format(line[sign_code_pos]))
+                    try: #because in english there aren't gaiSin
+                        codes.extend(convert_2_correct_format(line[gaiSin_code_pos]))
+                    except:
+                        pass
+
+                    for code in codes:
+                        sign, sign_codes, not_sign = get_all_signs(code, wikidata_path)
+                        if sign:
+                            signs.append(sign)
+                        if sign_codes:
+                            signs_codes.append(sign_codes)
+                        if not_sign:
+                            not_signs_codes.append(not_sign)
+                            names = []
+                            for ns in not_sign:
+                                name = get_name(ns, input_path + str(i) + csv_path_file)
+                                if name is not None:
+                                    names.append(name)
+                                else:
+                                    print("An error occurs, {} has no name.".format(not_sign))
+                            not_signs_names.append(names)
+
+                    #test that it's doing well
+                    luz_sign, luz_no_sign = 0, 0
+                    for elem in not_signs_codes:
+                        luz_no_sign += len(elem)
+                    for elem in signs_codes:
+                        luz_sign += len(elem)
+                    assert ((luz_no_sign + luz_sign) >= (len(codes)))
+
+                    write_csv(str(i), signs, signs_codes, unique(not_signs_names), not_signs_codes, output_path + str(i) + csv_path_file)
 def search_codes(input_path, wikidata_path, output_path, max_files):
     for i in range(max_files):
         if i not in not_cases_es:
@@ -251,9 +298,9 @@ def get_diseases(line, different):
     else:
         if line[gaix_name_pos_no_dif] != '':
             if line[gaix_name_pos_no_dif][0] == " ":
-                disease.extend(line[gaix_name_pos_no_dif][1:].split(","))
+                disease.extend(line[gaix_name_pos_no_dif][1:].split("#"))
             else:
-                disease.extend(line[gaix_name_pos_no_dif].split(","))
+                disease.extend(line[gaix_name_pos_no_dif].split("#"))
     return  disease
 
 def get_signs_by_levenshtein(wikidata_path, threshold, gaixotasun):
@@ -281,8 +328,9 @@ def get_signs_by_levenshtein(wikidata_path, threshold, gaixotasun):
     return symptons, dis_names
 
 def search_by_levenshtein(input_path, wikidata_path, output_path, max_files, threshold, different = None):
+    cont = 0
     for i in range(max_files):
-        if i not in not_cases_es:
+        if i not in not_cases_en:
             # create a .csv to save the diseases and findings
             first_line = ["erantzunZbkia", "gaixotasunIzenOrig", "gaixotasunIzenLev", "sintomak"]
             create_and_write_csv(first_line, output_path + str(i) + csv_path_file)
@@ -295,8 +343,10 @@ def search_by_levenshtein(input_path, wikidata_path, output_path, max_files, thr
                     first = False
                 else:
                     diseases = get_diseases(line, different)
-                    print(diseases)
+                    if len(diseases) >0:
+                        print(diseases)
                     all_symptons, all_dis_names = [], []
+
                     for d in diseases:
                         symptons, dis_names = get_signs_by_levenshtein(wikidata_path, threshold, d)
                         if len(symptons) > 1:
@@ -308,16 +358,21 @@ def search_by_levenshtein(input_path, wikidata_path, output_path, max_files, thr
                             all_dis_names.append(dis_names)
                         else:
                             all_dis_names.append(["-"])
-
                     write_csv_lev(str(i), diseases, all_dis_names, all_symptons, output_path + str(i) + csv_path_file )
-
-def count_files(dir_path):
-    count = 0
-    # Iterate directory
-    for path in os.listdir(dir_path):
-        # check if current path is a file
-        if os.path.isfile(os.path.join(dir_path, path)):
-            count += 1
+def count_files(dir_path, lev = False):
+    if lev:
+        count = float("-Inf")
+        for path in os.listdir(dir_path):
+            number = int(path.split("_ANS_clinical_caseMIR.csv")[0])
+            if number > count:
+                count = number
+    else:
+        count = 0
+        # Iterate directory
+        for path in os.listdir(dir_path):
+            # check if current path is a file
+            if os.path.isfile(os.path.join(dir_path, path)):
+                count += 1
     return count
 
 def main(input_path: str, wikidata_path:str, output_path: str, levenshtein_dist:int, d):
@@ -327,10 +382,11 @@ def main(input_path: str, wikidata_path:str, output_path: str, levenshtein_dist:
                 input_path += "/"
             if output_path[-1] != "/":
                 output_path += "/"
-            max_files = count_files(input_path)
             if levenshtein_dist is not None:
+                max_files = count_files(input_path, lev = True) +1
                 search_by_levenshtein(input_path, wikidata_path, output_path, max_files, levenshtein_dist, d)
             else:
+                max_files = count_files(input_path)
                 search_codes(input_path, wikidata_path, output_path, max_files)
         else:
             print("The first and last paths must be from existing directories.")
