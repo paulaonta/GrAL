@@ -330,7 +330,7 @@ def get_signs_by_levenshtein(wikidata_path, threshold, gaixotasun):
 def search_by_levenshtein(input_path, wikidata_path, output_path, max_files, threshold, different = None):
     cont = 0
     for i in range(max_files):
-        if i not in not_cases_en:
+        if i not in not_cases_es:
             # create a .csv to save the diseases and findings
             first_line = ["erantzunZbkia", "gaixotasunIzenOrig", "gaixotasunIzenLev", "sintomak"]
             create_and_write_csv(first_line, output_path + str(i) + csv_path_file)

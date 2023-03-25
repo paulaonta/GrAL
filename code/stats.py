@@ -25,7 +25,7 @@ print(cases)
 print(len(cases_comp))
 print(cases_comp)
 
-path = "./results_Wikidata/results_Wikidata_es/"
+path = "./results_Wikidata_en_lev_NO_UMLS/"
 max_cases = 508
 gaixBAI = 0
 gaixEZ = 0
@@ -43,20 +43,18 @@ for i in range(max_cases):
                 aux = line[2].split("#")
                 if aux != ['']:
                     for a in aux:
+                        gaixEZ += len(a.split(","))
                         if a != '-' and a != ' -':
                             sartu = True
                         if sartu :
                             gaixBAI += 1
                         else:
-                            print(a)
                             gaixEZ_izen += 1
-                aux = line[1].split("#")
-                if aux != ['']:
-                    gaixEZ += len(aux)
+
     except:
         pass
 
 print(gaixBAI)
-print(gaixEZ)
 print(gaixEZ_izen)
+print(gaixEZ)
 
