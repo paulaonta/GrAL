@@ -6,9 +6,10 @@ import os
 
 #positions in wikidata
 disease_pos = 0
-also_known_pos = 21
+also_known_pos = 22
 sympton_pos = 2
-umls_pos = 16
+sympton_pos_nci = 4
+umls_pos = 17
 
 #positions in input
 gaix_code_pos = 2
@@ -26,11 +27,9 @@ gaix_name_pos_no_dif = 4
 csv_path_file= "_ANS_clinical_caseMIR.csv"
 
 not_cases_es = [1,9,18,21,28,33,34,36,39,42,51,56,57,62,72,73,74,75,76,79,80,81,82,83,87,91,103,104,106,109,110,111,134,135,137,141,144,148,150,151,155,156,163,164,166,171,172,185,186,198,211,217,220,224,225,227,232,234,241,242,244,248,257,259,260,261,274,285,286,290,291,296,300,301,303,304,305,312,314,316,323,325,327,329,334,343,345,347,353,354,356,361,362,365,370,371,373,381,382,384,389,398,402,403,404,405,408,410,413,414,416,417,420,424,427,428,429,431,433,434,436,438,443,447,452,454,455,457,461,462,463,464,467,469,481,485,496,497,506]
-not_cases_en = [0,1,6,7,8,9,11,17,18,19,20,21,22,26,28,33,34,36,38,39,43,46,47,48,51,53,55,56,57,59,60,62,64,65,72,73,74,75,76,79,80,81,82,83,86,89,91,95,98,100,103,104,106,107,108,109,110,111,116,121,122,131,132,134,135,136,137,138,139,141,148,150,151,155,156,157,162,163,164,166,169,171,172,173,181,182,185,186,187,188,191,199,208,211,212,213,214,217,220,224,225,227,229,232,234,236,238,239,241,242,244,245,248,251,252,254,255,257,258,259,260,261,274,278,282,285,286,290,291,292,293,295,296,298,299,300,301,302,303,304,305,309,310,311,312,314,316,318,323,325,327,328,333,335,336,339,343,344,345,347,352,353,354,356,357,361,362,365,367,370,371,372,373,377,382,384,385,388,389,392,395,396,398,402,403,404,405,406,408,410,413,414,415,416,417,418,419,422,424,427,428,429,430,431,432,433,434,436,438,439,443,446,447,450,452,455,457,458,459,461,462,463,464,467,469,477,479,481,484,485,487,488,490,491,495,496,497,498,502,504,506
-]
+not_cases_en = [0,1,6,7,8,9,11,17,18,19,20,21,22,26,28,33,34,36,38,39,43,46,47,48,51,53,55,56,57,59,60,62,64,65,72,73,74,75,76,79,80,81,82,83,86,89,91,95,98,100,103,104,106,107,108,109,110,111,116,121,122,131,132,134,135,136,137,138,139,141,148,150,151,155,156,157,162,163,164,166,169,171,172,173,181,182,185,186,187,188,191,199,208,211,212,213,214,217,220,224,225,227,229,232,234,236,238,239,241,242,244,245,248,251,252,254,255,257,258,259,260,261,274,278,282,285,286,290,291,292,293,295,296,298,299,300,301,302,303,304,305,309,310,311,312,314,316,318,323,325,327,328,333,335,336,339,343,344,345,347,352,353,354,356,357,361,362,365,367,370,371,372,373,377,382,384,385,388,389,392,395,396,398,402,403,404,405,406,408,410,413,414,415,416,417,418,419,422,424,427,428,429,430,431,432,433,434,436,438,439,443,446,447,450,452,455,457,458,459,461,462,463,464,467,469,477,479,481,484,485,487,488,490,491,495,496,497,498,502,504,506]
 
 num_codes = 0
-num_names = 0
 def createFile(path):
     mydirname = './' + path
     if not os.path.exists(mydirname):
@@ -54,9 +53,8 @@ def remove_(str):
 def remove_empty_elements(lista):
     return_list = []
     for elem in lista:
-        for i in elem.split(" "):
-            if len(i) > 2:
-                return_list.append(elem)
+        if len(elem) > 2:
+            return_list.append(elem)
     return return_list
 
 def convert_2_correct_format(lista):
@@ -99,51 +97,6 @@ def levenshtein(seq1, seq2):
                 )
     return (matrix[size_x - 1, size_y - 1])
 
-def find_nested_brackets(string):
-    stack = []
-    result = []
-
-    for i, c in enumerate(string):
-        if c == '(':
-            stack.append(i)
-        elif c == ')':
-            if len(stack) > 0:
-                start = stack.pop()
-                result.append(string[start:i+1])
-
-    return result
-
-def get_list_with_brackets(line, position):
-    returned_list = []
-    for s in line[position].split(","):
-        returned_list.append(s.split("(")[0].strip())
-        results = find_nested_brackets(s)
-        results = sorted(list(results), key=len, reverse=True)
-        for i in range(len(results)):
-            r = results[i][1:]
-            if r.split("(")[0].find("Causado por") != -1:
-                break
-            r = r[:-1]
-            aurk = False
-            part_s = "".join(r.split("(")[0])
-            for p in "".join(r.split("(")[1:]).split(" "):
-                if aurk and p.find("(") == -1 and p.find(" ") == -1:
-                    part_s += p
-                if len(p.split(")")) > 0 and p.find(")") != -1:
-                    part_s += str(p.split(")")[1]) + " "
-                elif len(p.split(")")) == 0:
-                    aurk = True
-
-            prev = returned_list[-1]
-            elem = str(s.split("(" + part_s)[0].split(" ")[-2].split(")")[-1].replace("(", "").replace(")", ""))
-            if len(elem) > 0 and i > 0:
-                part_s = prev.split(" " + elem)[0].strip() + " " + elem + " " + part_s.strip() + "".join(
-                    prev.split(" " + elem)[1:])
-            elif i == 0:
-                part_s = prev + " " + part_s
-            returned_list.append(part_s.strip())
-    return returned_list
-
 def search_code_in_Wikidata(code, wikidata_path):
     mycsv = csv.reader(open(wikidata_path))  # open input
     first = True
@@ -154,12 +107,26 @@ def search_code_in_Wikidata(code, wikidata_path):
         else:
             code_umls = line[umls_pos].split(",")
             if code in code_umls:
-                return line[sympton_pos].split(",")
-    return None
+                return line[sympton_pos].split(","), line[sympton_pos_nci].split(",")
+    return None, None
 
 def get_all_signs(code, wikidata_path):
     signs, signs_codes, not_signs_codes = [], [], []
-    sign = search_code_in_Wikidata(code, wikidata_path)
+    sign_no, sign_nci = search_code_in_Wikidata(code, wikidata_path)
+
+    if sign_no and sign_nci:
+        if set(sign_no) == set(sign_nci):
+            sign = sign_no
+        else:
+            sign_no.extend(unique(sign_nci))
+            sign = unique(sign_no)
+    elif sign_no:
+        sign = sign_no
+    elif sign_nci:
+        sign = sign_nci
+    else:
+        sign = None
+
     has_sign = False
     if sign is None:
         not_signs_codes.append(code)
@@ -175,10 +142,6 @@ def get_all_signs(code, wikidata_path):
                 has_sign = True
         if has_sign:
             signs_codes.append(code)
-            try:
-                not_signs_codes.remove(code)
-            except:
-                pass
 
     return signs, signs_codes, not_signs_codes
 
@@ -250,11 +213,11 @@ def write_csv_lev(ans_number, names, names_lev, signs, output_path):
     for i in range(len(names_lev)):
         str_lev_names += "# ".join(names_lev[i]) + ", "
         str_signs += "# ".join(signs[i]) + ", "
+    print(str_names)
     row = [ans_number, str_names, str_lev_names[:-2], str_signs[:-2]]
     myFile = open(output_path, 'a')
     writer = csv.writer(myFile)
     writer.writerow(row)
-
 
 def search_codes(input_path, wikidata_path, output_path, max_files):
     for i in range(max_files):
@@ -306,26 +269,15 @@ def search_codes(input_path, wikidata_path, output_path, max_files):
                 write_csv(str(i), signs, signs_codes, not_signs_names, not_signs_codes, output_path + str(i) + csv_path_file)
     print(num_codes)
 
-def get_diseases(line, different, relations):
+def get_diseases(line, different):
     disease = []
-    if different: #there are three columns to store the names
-        if relations:
-            if line[gaix_name_pos_dif] != '':
-                disease.extend(get_list_with_brackets(line, gaix_name_pos_dif))
-            if line[sign_name_pos_dif] != '':
-                disease.extend(get_list_with_brackets(line, sign_name_pos_dif))
-            if line[gaiSin_name_pos_dif] != '':
-                disease.extend(get_list_with_brackets(line, gaiSin_name_pos_dif))
-        else:
-            if line[gaix_name_pos_dif] != '':
-                disease.extend(line[gaix_name_pos_dif].split(","))
-            if line[sign_name_pos_dif] != '':
-                disease.extend(line[sign_name_pos_dif].split(","))
-            if line[gaiSin_name_pos_dif] != '':
-                disease.extend(line[gaiSin_name_pos_dif].split(","))
-    elif relations:
-        if line[gaix_name_pos_no_dif] != '':
-            disease.extend(get_list_with_brackets(line, gaix_name_pos_no_dif))
+    if different:  # there are three columns to store the names
+        if line[gaix_name_pos_dif] != '':
+            disease.extend(line[gaix_name_pos_dif].split(","))
+        if line[sign_name_pos_dif] != '':
+            disease.extend(line[sign_name_pos_dif].split(","))
+        if line[gaiSin_name_pos_dif] != '':
+            disease.extend(line[gaiSin_name_pos_dif].split(","))
     else:
         if line[gaix_name_pos_no_dif] != '':
             if line[gaix_name_pos_no_dif][0] == " ":
@@ -337,7 +289,8 @@ def get_diseases(line, different, relations):
     for d in disease:
         if len(d) > 1:
             returned_disease.append(d.strip())
-    return  returned_disease
+    return returned_disease
+
 
 def get_signs_by_levenshtein(wikidata_path, threshold, gaixotasun):
     mycsv = csv.reader(open(wikidata_path))  # open input
@@ -357,46 +310,47 @@ def get_signs_by_levenshtein(wikidata_path, threshold, gaixotasun):
                 if dist <= float(threshold):
                     if len(line[sympton_pos]) > 1:  # hutsunea ez bada
                         symptons.append(line[sympton_pos])  #lortu sintoma
+                        if len(line[sympton_pos_nci]) > 1:
+                            symptons.append(line[sympton_pos_nci])
                         dis_names.append(line[disease_pos])
                     else:
-                        symptons.append("-")  # lortu sintoma
+                        if len(line[sympton_pos_nci]) > 1:
+                            symptons.append(line[sympton_pos_nci])
+                        else:
+                            symptons.append("-")  # lortu sintoma
                         dis_names.append(line[disease_pos])
     return symptons, dis_names
 
-def search_by_levenshtein(input_path, wikidata_path, output_path, max_files, threshold, different = None, relations = None):
+def search_by_levenshtein(input_path, wikidata_path, output_path, max_files, threshold, different = None):
+    cont = 0
     for i in range(max_files):
-        # create a .csv to save the diseases and findings
-        first_line = ["erantzunZbkia", "gaixotasunIzenOrig", "gaixotasunIzenLev", "sintomak"]
-        create_and_write_csv(first_line, output_path + str(i) + csv_path_file)
+        if i in not_cases_es:
+            # create a .csv to save the diseases and findings
+            first_line = ["erantzunZbkia", "gaixotasunIzenOrig", "gaixotasunIzenLev", "sintomak"]
+            create_and_write_csv(first_line, output_path + str(i) + csv_path_file)
 
-        mycsv = csv.reader(open(input_path + str(i) + csv_path_file))  # open input
-        first = True
+            mycsv = csv.reader(open(input_path + str(i) + csv_path_file))  # open input
+            first = True
 
-        for line in mycsv:
-            if first:
-                first = False
-            else:
-                diseases = get_diseases(line, different, relations)
-                if len(diseases) >0:
-                    print(diseases)
-                all_symptons, all_dis_names = [], []
+            for line in mycsv:
+                if first:
+                    first = False
+                else:
+                    diseases = get_diseases(line, different)
+                    all_symptons, all_dis_names = [], []
 
-                for d in diseases:
-                    global num_names
-                    num_names += 1
-                    symptons, dis_names = get_signs_by_levenshtein(wikidata_path, threshold, d)
-                    if len(symptons) > 1:
-                        all_symptons.append(symptons)
-                    else:
-                        all_symptons.append(["-"])
+                    for d in diseases:
+                        symptons, dis_names = get_signs_by_levenshtein(wikidata_path, threshold, d)
+                        if len(symptons) > 1:
+                            all_symptons.append(symptons)
+                        else:
+                            all_symptons.append(["-"])
 
-                    if len(dis_names) > 1:
-                        all_dis_names.append(dis_names)
-                    else:
-                        all_dis_names.append(["-"])
-                write_csv_lev(str(i), diseases, all_dis_names, all_symptons, output_path + str(i) + csv_path_file )
-    print(num_names)
-
+                        if len(dis_names) > 1:
+                            all_dis_names.append(dis_names)
+                        else:
+                            all_dis_names.append(["-"])
+                    write_csv_lev(str(i), diseases, all_dis_names, all_symptons, output_path + str(i) + csv_path_file )
 def count_files(dir_path, lev = False):
     if lev:
         count = float("-Inf")
@@ -413,7 +367,7 @@ def count_files(dir_path, lev = False):
                 count += 1
     return count
 
-def main(input_path: str, wikidata_path:str, output_path: str, levenshtein_dist:int, d, r):
+def main(input_path: str, wikidata_path:str, output_path: str, levenshtein_dist:int, d):
     if os.path.isfile(wikidata_path) and wikidata_path.find(".csv") != -1:# they are .csv files
         if os.path.isdir(input_path) and os.path.isdir(output_path):
             if input_path[-1] != "/":
@@ -422,7 +376,7 @@ def main(input_path: str, wikidata_path:str, output_path: str, levenshtein_dist:
                 output_path += "/"
             if levenshtein_dist is not None:
                 max_files = count_files(input_path, lev = True) +1
-                search_by_levenshtein(input_path, wikidata_path, output_path, max_files, levenshtein_dist, d, r)
+                search_by_levenshtein(input_path, wikidata_path, output_path, max_files, levenshtein_dist, d)
             else:
                 max_files = count_files(input_path)
                 search_codes(input_path, wikidata_path, output_path, max_files)
@@ -434,8 +388,8 @@ def main(input_path: str, wikidata_path:str, output_path: str, levenshtein_dist:
 
 if __name__ == '__main__':
     # Example usage of the main function
-    if len(sys.argv) != 4 and len(sys.argv) != 6 and len(sys.argv) != 7 and len(sys.argv) != 8:
-        print("Usage: {} (--l THRESHOLD) input_source wikidata_path output_source --d -r".format(sys.argv[0]))
+    if len(sys.argv) != 4 and len(sys.argv) != 6 and len(sys.argv) != 7:
+        print("Usage: {} (--l THRESHOLD) input_source wikidata_path output_source --d ".format(sys.argv[0]))
     else:
         parser = argparse.ArgumentParser()
         parser.add_argument("arg1", type=str, help="input source")
@@ -444,7 +398,6 @@ if __name__ == '__main__':
         parser.add_argument("--l", type=int, help="Calculate de levenshtein distance between the input and output with a threshold" )
         parser.add_argument("--d",  help="The input source is  different, there is a .csv only with the names",
                             action="store_true")
-        parser.add_argument("--r", help="The input source has relations",
-                            action="store_true")
         args = parser.parse_args()
-        main(args.arg1, args.arg2, args.arg3, args.l, args.d, args.r)
+        main(args.arg1, args.arg2, args.arg3, args.l, args.d)
+

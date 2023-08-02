@@ -21,10 +21,6 @@ csv_path_file_ans = "_ANS_clinical_caseMIR.csv"
 
 #define variables
 first = True
-SnoMot_pos = 5
-SnoKod_pos = 4
-Deepent_pos = 9
-name_pos = 1
 
 question_pos = 5
 answer_pos = 12

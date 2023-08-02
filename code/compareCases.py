@@ -35,18 +35,28 @@ def remove_(str):
     elem = str.split("_")
     return elem[0]
 
+def remove_empty_elements(lista):
+    return_list = []
+    for elem in lista:
+        for i in elem.split(" "):
+            if len(i) > 2:
+                return_list.append(elem)
+    return return_list
+
 def convert_2_correct_format(lista):
     return_lista = []
     for l in lista.split(","):
-        if l.find("#") != -1:  # has #
-            for elem in unique(l.split("#")):
-                return_lista.append(remove_(elem))
-        elif l.find(" ") != -1:  # has space
-            for elem in unique(list(l.split(" "))):
-                return_lista.append(remove_(elem))
+        if l.find("#") != -1:
+            for elem in l.split("#"):
+                elem = elem.replace("-", "")
+                for e in elem.split(" "):
+                    return_lista.append(remove_(e).replace(" ", ""))
         else:
-            return_lista.append(remove_(l))
-    return  unique(return_lista)
+            for elem in l.split(" "):
+                elem = elem.replace("-", "")
+                return_lista.append(remove_(elem).replace(" ", ""))
+    return_lista = remove_empty_elements(return_lista)
+    return list(unique(return_lista))
 
 def compareUMLSlist(lista1, lista2, listaBAI, listaEZ): #lista1:en, lista2:es
 
@@ -76,11 +86,11 @@ def write(cont, gaixotasuna, sintoma, gaixSin, writer, path):
             sintoma1 = line[sin_pos+1] #get the code
             sintomaBAI, sintomaEZ = compareUMLSlist(sintoma, sintoma1.split(","), sintomaBAI, sintomaEZ)
 
-            if sintoma1 != None and gaixotasuna1 != None:
+            if sintoma1 is not None and gaixotasuna1 is not None:
                 gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, list(gaixotasuna1.split(",")) + list(sintoma1.split(",")), gaixSinBAI, gaixSinEZ)
-            elif gaixotasuna1 != None:
+            elif gaixotasuna1 is not None:
                 gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, gaixotasuna1.split(","), gaixSinBAI, gaixSinEZ)
-            elif sintoma1 != None:
+            elif sintoma1 is not None:
                 gaixSinBAI, gaixSinEZ = compareUMLSlist(gaixSin, sintoma1.split(","), gaixSinBAI, gaixSinEZ)
 
             row = [str(cont), ",".join(gaixotasunakBAI), ",".join(gaixotasunakEZ), ",".join(sintomaBAI), ",".join(sintomaEZ),
@@ -155,6 +165,7 @@ def compareQuest(csv_path_en, csv_path_es, equals_arg = None):
             first = False
         else:
             if len(line_es[gaix_pos]) > 0:
+                print(line_es)
                 gaixotasun_kop_es += len(line_es[gaix_pos].split(","))
                 UMLSgaix_es += len(convert_2_correct_format(line_es[gaix_pos+1]))
             if len(line_es[sin_pos]) > 0:
@@ -171,10 +182,10 @@ def compareQuest(csv_path_en, csv_path_es, equals_arg = None):
         else:
             if len(line_en[gaix_pos]) > 0:
                 gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
-                UMLSgaix_en += len(convert_2_correct_format(line_en[gaix_pos + 1]))
+                UMLSgaix_en += len(line_en[gaix_pos+1].split(","))
             if len(line_en[sin_pos]) > 0:
                 sintoma_kop_en += len(line_en[sin_pos].split(","))
-                UMLSsin_en += len(convert_2_correct_format(line_en[sin_pos + 1]))
+                UMLSsin_en += len(line_en[sin_pos+1].split(","))
 
     print("Number of diseases in spanish: " + str(gaixotasun_kop_es))
     print("Number of UMLS code of diseases in spanish: " + str(UMLSgaix_es))
@@ -255,10 +266,10 @@ def compareAns( csv_path_en_folder, csv_path_es_folder_umls, csv_path_es_folder_
                 else:
                     if len(line_en[gaix_pos]) > 0:
                         gaixotasun_kop_en += len(line_en[gaix_pos].split(","))
-                        UMLSgaix_en += len(convert_2_correct_format(line_en[gaix_pos + 1]))
+                        UMLSgaix_en += len(convert_2_correct_format(line_en[gaix_pos+1]))
                     if len(line_en[sin_pos]) > 0:
                         sintoma_kop_en += len(line_en[sin_pos].split(","))
-                        UMLSsin_en += len(convert_2_correct_format(line_en[sin_pos + 1]))
+                        UMLSsin_en += len(convert_2_correct_format(line_en[sin_pos+1]))
 
                     if len(line_en[gaix_pos]) != 0 or len(line_en[sin_pos]) != 0:
                         aldatu = True
@@ -382,7 +393,7 @@ def main(input_path1: str, input_path2: str, input_path3:str, mode:str, equals_a
 if __name__ == '__main__':
     # Example usage of the main function
     if len(sys.argv) != 5 and len(sys.argv) != 6:
-        print("Usage: {} input_sourceEN input_sourceES input_sourceES (-1 when it is question mode) mode (--equals_arg)".format(sys.argv[0]))
+        print("Usage: {} input_sourceEN input_sourceES(umls) input_sourceES(no_umls) (-1 when it is question mode) mode (--equals_arg)".format(sys.argv[0]))
     else:
         parser = argparse.ArgumentParser()
         parser.add_argument("arg1", type=str, help="input source 1")

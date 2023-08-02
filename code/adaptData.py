@@ -124,6 +124,9 @@ def adapt(input_path, output_path):
     train_data.to_csv('train_rm.csv', index=False)
     dev_data.to_csv('dev_rm.csv', index=False)
     test_data.to_csv('test_rm.csv', index=False)
+    #train_data.to_csv('train_rm_ID.csv', index=False, columns = ["number_case"])
+    #dev_data.to_csv('dev_rm_ID.csv', index=False, columns = ["number_case"])
+    #test_data.to_csv('test_rm_ID.csv', index=False, columns = ["number_case"])
 
     #get ONLY the 4 answers cases
     files = ['train_rm.csv', 'dev_rm.csv', 'test_rm.csv']
